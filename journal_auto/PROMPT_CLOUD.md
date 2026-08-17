@@ -18,8 +18,8 @@ Anthropicクラウドのスケジュール実行で、610_sixten リポジトリ
 
 PR TIMESチェックとは独立に、毎回必ずこれも行う。
 （この実行は毎時スケジュールのほか、リポジトリへの push があるたびに webhook でも発火する。
-`.github/workflows/shams-poll.yml` が定期的（ピーク帯=UTC16-6時は20分間隔）に新着を検知し
-`journal_auto/shams_signal.txt` を push するのが即時発火の本命ルート。どちらで起動されても手順は同じ。
+`.github/workflows/shams-poll.yml` が5分おきに新着を検知し `journal_auto/shams_signal.txt` を
+push するのが即時発火の本命ルート。どちらで起動されても手順は同じ。
 **候補ゼロなら絶対に commit しない**こと——これが push→再発火の無限ループを止める安全弁）
 
 1. `curl -s --max-time 60 -A 'Mozilla/5.0' https://nitter.net/ShamsCharania/rss` を取得（ファイルに落としてから部分抽出）。失敗したら60秒待って1回だけ再試行。それでも失敗したらShamsチェックだけスキップして続行（理由をコミットメッセージかログに残す。他インスタンスを探し回らない）
