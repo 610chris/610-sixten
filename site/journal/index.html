@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>610 JOURNAL — バスケとカルチャーの読みもの</title>
+<meta name="description" content="610 JOURNAL は、バスケットボールとカルチャーの交差点を読みものにする 610(シックステン) のバスケットボールメディアです。">
+<link rel="icon" type="image/png" href="../assets/favicon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="journal.css?v=20260817b">
+</head>
+<body>
+
+<header class="jnav">
+  <div class="wrap jnav-inner">
+    <a href="index.html" class="jnav-logo"><img src="../assets/journal-logo-black.png" alt="610 JOURNAL"></a>
+    <button class="jnav-toggle" aria-label="メニュー">☰</button>
+    <nav class="jnav-links">
+      <a href="index.html">ALL</a>
+      <a href="index.html?cat=KICKS">KICKS</a>
+      <a href="index.html?cat=CULTURE">CULTURE</a>
+      <a href="index.html?cat=GAME">GAME</a>
+      <a href="index.html?cat=STREET">STREET</a>
+      <a href="index.html?cat=JAPAN">JAPAN</a>
+      <a href="index.html?cat=REPORT">REPORT</a>
+      <a href="../index.html" class="jnav-home">610 — SIXTEN</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="hero wrap" id="hero">
+    <a class="hero-featured" id="hero-featured" href="#"></a>
+    <aside class="hero-latest">
+      <h3>Latest</h3>
+      <ol id="latest-list"></ol>
+    </aside>
+  </section>
+
+  <section class="feed wrap">
+    <div class="sec-label">ALL STORIES</div>
+    <div class="journal-count" id="journal-count"></div>
+    <div class="feed-list" id="feed-list"></div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap footer-inner">
+    <img src="../assets/logo-white-800.png" alt="610">
+    <small>© 2026 610 — sixten. ALL RIGHTS RESERVED.</small>
+  </div>
+</footer>
+
+<script src="journal.js?v=202608171300"></script>
+<script>
+const toggle = document.querySelector('.jnav-toggle');
+const links = document.querySelector('.jnav-links');
+toggle.addEventListener('click', () => links.classList.toggle('open'));
+</script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+name: Deploy to Surge
+# mainにpushされるたび、site/ を両ドメインへデプロイする。
+# ローカルからでもクラウドエージェントからでも、公開経路はこのActions一本。
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install -g surge
+      - name: Deploy 610-sixten.surge.sh
+        run: surge ./site 610-sixten.surge.sh
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+      - name: Deploy sixten.jp
+        run: surge ./site sixten.jp
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}

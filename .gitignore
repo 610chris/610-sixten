@@ -1,0 +1,9 @@
+.DS_Store
+research/
+journal_auto/logs/
+journal_auto/.feed
+journal_auto/.pool
+journal_auto/.lock
+journal_auto/candidates.txt
+journal_auto/last_result.txt
+journal_auto/.surge_token
