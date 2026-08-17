@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "024-highsmith-suns.html",
+    cat: "NBA",
+    title: "古巣へ、1年契約で復帰 —— ヘイウッド・ハイスミス、サンズと合意",
+    excerpt: "Shams Charania（ESPN）が一報。FAのヘイウッド・ハイスミスが、フェニックス・サンズとの1年契約に合意した。",
+    date: "2026.08.17",
+    tile: "HIGHSMITH"
+  },
+  {
     href: "023-watford-pelicans.html",
     cat: "NBA",
     title: "遅めのオフシーズンに、掘り出し物 —— トレンドン・ワトフォード、ペリカンズと1年290万ドルで契約合意",
