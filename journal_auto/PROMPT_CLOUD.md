@@ -16,7 +16,9 @@ Anthropicクラウドのスケジュール実行で、610_sixten リポジトリ
 
 ### 1b. Shams速報チェック（NBAインサイダー・毎回実行）
 
-PR TIMESチェックとは独立に、毎回必ずこれも行う:
+PR TIMESチェックとは独立に、毎回必ずこれも行う。
+（この実行は毎時スケジュールのほか、`.github/workflows/shams-poll.yml` が新着を検知した時の
+repository_dispatch でも即時に発火する。どちらで起動されても手順は同じ）
 
 1. `curl -s --max-time 60 -A 'Mozilla/5.0' https://nitter.net/ShamsCharania/rss` を取得（ファイルに落としてから部分抽出）。失敗したら60秒待って1回だけ再試行。それでも失敗したらShamsチェックだけスキップして続行（理由をコミットメッセージかログに残す。他インスタンスを探し回らない）
 2. `<item>` から link / title / pubDate を抽出し、linkのstatus IDから正規URL `https://x.com/ShamsCharania/status/<ID>` を作る
@@ -29,7 +31,7 @@ Shams記事の作り方（§3の共通ルールに加えて）:
 - **ヒーロー画像なし**で作る（写真なし記事001-006と同型のミニ表紙タイル。journal.jsのthumb指定は既存の写真なし記事に倣う）。ツイート添付画像は権利不明のため使わない
 - 本文=ツイート内容の日本語での事実整理＋最小限の背景。**ツイートにない事実を足さない**。補足するなら「〜とみられる」と推測明示
 - 発信者の表記は「Shams Charania（ESPN）」。出典ブロックは Shams Charania のXポスト + 正規URL
-- チェックした候補は採用/スキップ問わず全部 `journal_auto/seen_shams.txt` に追記。公開したら published.log にも追記（§4と同様）
+- **取得した新着のうちリプライ/RT以外は、採用/スキップ（宣伝・24時間超・見送り含む）を問わず必ず全部 `journal_auto/seen_shams.txt` に追記**（即時ポーリング shams-poll.yml が同じ判定で見るため、記録漏れがあると5分おきに再発火し続ける）。公開したら published.log にも追記（§4と同様）
 
 ### 2. 判定
 各候補URLのリリースページをcurlで取得し（og:title / og:image / 発表日 / 本文抽出のみ）、次に該当したらスキップ:

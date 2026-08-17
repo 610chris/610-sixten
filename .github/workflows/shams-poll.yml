@@ -1,0 +1,73 @@
+name: Shams poll
+# 5分おきに Shams Charania (@ShamsCharania) の nitter RSS を軽量ポーリングし、
+# 新着（リプライ/RT除く）が seen_shams.txt に無ければ repository_dispatch を発火する。
+# その repository_dispatch を claude.ai の webhook トリガーが受けて、
+# クラウドルーチン「610 JOURNAL 自動記事化」を即時起動する（記事化はルーチン側の仕事）。
+# ルーチンはチェックした新着を必ず seen_shams.txt に追記して push するので、
+# ここの判定は次回ポーリングで自然に収束する（毎時ルーチンはフォールバックとして併走）。
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'true で新着判定を無視して dispatch 発火（疎通テスト用）'
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shams-poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+      - name: Check for new Shams posts
+        id: check
+        run: |
+          echo "new=false" >> "$GITHUB_OUTPUT"
+          if ! curl -sf --max-time 45 -A 'Mozilla/5.0' https://nitter.net/ShamsCharania/rss -o /tmp/shams.rss; then
+            echo "RSS fetch failed — skip this run"
+            exit 0
+          fi
+          python3 - <<'EOF'
+          import html, os, re
+          rss = open('/tmp/shams.rss', encoding='utf-8').read()
+          try:
+              seen = {l.strip() for l in open('journal_auto/seen_shams.txt') if l.strip()}
+          except FileNotFoundError:
+              seen = set()
+          new = []
+          for item in re.findall(r'<item>.*?</item>', rss, re.S):
+              t = re.search(r'<title>(.*?)</title>', item, re.S)
+              l = re.search(r'<link>(.*?)</link>', item, re.S)
+              if not t or not l:
+                  continue
+              title = html.unescape(t.group(1)).strip()
+              # ルーチン側 §1b の除外と同じ決定的フィルタ（リプライ/RT）
+              if title.startswith('R to ') or title.startswith('RT by'):
+                  continue
+              m = re.search(r'/status/(\d+)', l.group(1))
+              if not m:
+                  continue
+              url = f'https://x.com/ShamsCharania/status/{m.group(1)}'
+              if url not in seen:
+                  new.append(url)
+          print(f'new posts: {len(new)}')
+          for u in new:
+              print(' ', u)
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"new={'true' if new else 'false'}\n")
+          EOF
+      - name: Fire repository_dispatch
+        if: steps.check.outputs.new == 'true' || github.event.inputs.force == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh api "repos/${{ github.repository }}/dispatches" -f event_type=shams-new-post
