@@ -30,7 +30,7 @@ push するのが即時発火の本命ルート。どちらで起動されても
 6. pubDateが実行時刻より24時間以上前のものは見送り（速報性がないため）
 
 Shams記事の作り方（§3の共通ルールに加えて）:
-- **ヒーロー画像なし**で作る（写真なし記事001-006と同型のミニ表紙タイル。journal.jsのthumb指定は既存の写真なし記事に倣う）。ツイート添付画像は権利不明のため使わない
+- **写真は原則入れる**（2026-08-17クリス指示「基本記事は写真が欲しい」）。ただしツイート添付画像は権利不明のため使わない。手順: Wikimedia Commons APIで対象選手を検索（`https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=<選手名>&srnamespace=6&format=json`）→ imageinfoでライセンス確認（CC BY / CC BY-SA / パブリックドメインのみ可）→ 顔が判別できるカットを選び1600x900・jpeg品質80で `site/assets/journal-NNN-hero.jpg` に保存 → lead直後にfigure挿入。**キャプションにクレジット必須**: 「画像: 〇〇時代の<選手名>。撮影: <撮影者> / <ライセンス名>, via Wikimedia Commons」（写真の所属チームが記事時点と違う場合は「〇〇時代」と正直に書く）。journal.jsにはthumbも追加。適切なCC写真が見つからない場合のみ従来のミニ表紙タイル（001-006と同型・thumbなし）にフォールバック
 - 本文=ツイート内容の日本語での事実整理＋最小限の背景。**ツイートにない事実を足さない**。補足するなら「〜とみられる」と推測明示
 - 発信者の表記は「Shams Charania（ESPN）」。出典ブロックは Shams Charania のXポスト + 正規URL
 - カテゴリ（journal.jsのcat・記事のjr-cat）は **NBA**（2026-08-17のタブ整理でGAME→NBA改称・STREET→CULTURE統合。現行タブ: NBA/JAPAN/KICKS/CULTURE/REPORT）

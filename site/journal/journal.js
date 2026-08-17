@@ -34,6 +34,7 @@ const ARTICLES = [
     title: "トリプルダブルの王が、コートを去る —— ラッセル・ウェストブルック、18シーズンで現役引退",
     excerpt: "Shams Charania（ESPN）が一報。2017年MVP、通算トリプルダブル209回の男が、自らの流儀で18年のキャリアに幕を下ろした。",
     date: "2026.08.13",
+    thumb: "../assets/journal-021-hero.jpg",
     tile: "RUSS"
   },
   {
@@ -182,6 +183,7 @@ const ARTICLES = [
     title: "同じ街で、新しいユニフォームを —— 八村塁、クリッパーズと2年2800万ドルで契約合意",
     excerpt: "Shams Charania（ESPN）が一報。レイカーズとのサイン&トレードは成立せず、FA契約で望んだロサンゼルスに残る道を選んだ。",
     date: "2026.07.07",
+    thumb: "../assets/journal-022-hero.jpg",
     tile: "RUI"
   },
   {
