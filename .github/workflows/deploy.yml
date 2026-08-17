@@ -4,6 +4,9 @@ name: Deploy to Surge
 on:
   push:
     branches: [main]
+    # site/ に触れないpush(seen更新・shams_signal・workflow変更など)ではデプロイ不要。
+    # privateリポジトリのActions分数節約(1回1-2分課金)のためpathsで絞る。
+    paths: ['site/**']
   workflow_dispatch:
 
 jobs:

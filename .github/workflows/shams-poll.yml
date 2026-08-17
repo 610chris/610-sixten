@@ -1,5 +1,5 @@
 name: Shams poll
-# 5分おきに Shams Charania (@ShamsCharania) の nitter RSS を軽量ポーリングし、
+# Shams Charania (@ShamsCharania) の nitter RSS を軽量ポーリングし、
 # 新着（リプライ/RT除く）が seen_shams.txt に無ければ journal_auto/shams_signal.txt を
 # 更新して push する。この push イベントを claude.ai の webhook トリガーが受けて、
 # クラウドルーチン「610 JOURNAL 自動記事化」を即時起動する（記事化はルーチン側の仕事）。
@@ -8,9 +8,15 @@ name: Shams poll
 # ループ安全性: ルーチンは候補ゼロなら commit しない＝push しない＝再発火しないため自己終息する。
 # 注: GITHUB_TOKEN の push は他の Actions (deploy.yml) を起動しない仕様（GitHubの再帰防止）。
 #     shams_signal.txt はサイト外ファイルなのでデプロイ不要＝この仕様で問題ない。
+# ⚠️ 間隔の設計（privateリポジトリのActions無料枠2,000分/月・1ジョブ=最低1分課金）:
+#   ピーク帯(NBA速報が集中する米国日中〜深夜 = UTC 16:00-06:59)は20分間隔 = 45回/日
+#   オフピーク(UTC 07:00-15:59 = 日本の夕方〜夜)は毎時15分 = 9回/日
+#   計54回/日 ≈ 月1,674分 + deploy分 → 無料枠内。
+#   リポジトリをpublicにすればActionsは無制限無料になるので '*/5 * * * *' 1本に戻してよい。
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/20 0-6,16-23 * * *'
+    - cron: '15 7-15 * * *'
   workflow_dispatch:
     inputs:
       force:
