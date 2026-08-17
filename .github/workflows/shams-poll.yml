@@ -1,17 +1,20 @@
 name: Shams poll
 # 5分おきに Shams Charania (@ShamsCharania) の nitter RSS を軽量ポーリングし、
-# 新着（リプライ/RT除く）が seen_shams.txt に無ければ repository_dispatch を発火する。
-# その repository_dispatch を claude.ai の webhook トリガーが受けて、
+# 新着（リプライ/RT除く）が seen_shams.txt に無ければ journal_auto/shams_signal.txt を
+# 更新して push する。この push イベントを claude.ai の webhook トリガーが受けて、
 # クラウドルーチン「610 JOURNAL 自動記事化」を即時起動する（記事化はルーチン側の仕事）。
 # ルーチンはチェックした新着を必ず seen_shams.txt に追記して push するので、
 # ここの判定は次回ポーリングで自然に収束する（毎時ルーチンはフォールバックとして併走）。
+# ループ安全性: ルーチンは候補ゼロなら commit しない＝push しない＝再発火しないため自己終息する。
+# 注: GITHUB_TOKEN の push は他の Actions (deploy.yml) を起動しない仕様（GitHubの再帰防止）。
+#     shams_signal.txt はサイト外ファイルなのでデプロイ不要＝この仕様で問題ない。
 on:
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
     inputs:
       force:
-        description: 'true で新着判定を無視して dispatch 発火（疎通テスト用）'
+        description: 'true で新着判定を無視して空commitをpush（疎通テスト用）'
         default: 'false'
 
 permissions:
@@ -63,11 +66,25 @@ jobs:
           print(f'new posts: {len(new)}')
           for u in new:
               print(' ', u)
+          with open('/tmp/new_shams.txt', 'w') as f:
+              f.writelines(u + '\n' for u in new)
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write(f"new={'true' if new else 'false'}\n")
           EOF
-      - name: Fire repository_dispatch
+      - name: Signal via push
         if: steps.check.outputs.new == 'true' || github.event.inputs.force == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh api "repos/${{ github.repository }}/dispatches" -f event_type=shams-new-post
+        run: |
+          git config user.name "shams-poll"
+          git config user.email "actions@github.com"
+          if [ "${{ github.event.inputs.force }}" = "true" ] && [ "${{ steps.check.outputs.new }}" != "true" ]; then
+            git commit --allow-empty -m "shams-poll: 疎通テスト(force)"
+          else
+            cp /tmp/new_shams.txt journal_auto/shams_signal.txt
+            git add journal_auto/shams_signal.txt
+            if git diff --cached --quiet; then
+              echo "signal unchanged — 前回シグナルが未処理のまま。毎時ルーチンに任せてスキップ"
+              exit 0
+            fi
+            git commit -m "shams-poll: Shams新着シグナル"
+          fi
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
