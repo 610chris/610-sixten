@@ -55,6 +55,12 @@ Shams記事の作り方（§3の共通ルールに加えて）:
 - `site/journal/journal.js` の ARTICLES に追加（日付=リリース発表日・日付降順位置・thumb・catは既存分類から選ぶ）。featuredは変更しない
 - キャッシュバスター: `site/journal/` 全HTMLの `journal.js?v=` を実行日時(YYYYMMDDHHMM)に更新
 - 禁止: `site/css/style.css` と `site/journal/journal.css` の書体まわりは触らない
+- **SEO/AEO必須チェックリスト（2026-08-17クリス指示「SEO,AEO対策徹底」・全記事で省略禁止）**:
+  1. head内(titleの直後)にSEOメタ一式を入れる。**雛形=記事021 `021-westbrook-retires.html` のhead**をコピーして値を差し替える: meta description(=journal.jsのexcerptと同文) / canonical(`https://sixten.jp/journal/NNN-slug.html`・本番ドメインはsixten.jp) / OGP一式(og:type article・og:imageは絶対URL・写真なし記事は `https://sixten.jp/assets/og-default.jpg`) / og:locale ja_JP / article:published_time / twitter:card summary_large_image / robots max-image-preview:large
+  2. `</head>`直前にJSON-LD **NewsArticle**(headline/description/image/datePublished/dateModified/inLanguage:ja/mainEntityOfPage/author/publisher/articleSection)。これも記事021を雛形に
+  3. `site/sitemap.xml` に `<url><loc>記事URL</loc><lastmod>YYYY-MM-DD</lastmod></url>` を1行追加（journal/index.htmlの行のlastmodも実行日に更新）
+  4. AEO(AI検索対策): lead第1文だけで「誰が・何を・いつ」が完結する文にする(見出しを読まなくても要旨が取れる)。固有名詞は初出でフル表記(例:「Shams Charania（ESPN）」)。重要な数字(契約年数・金額・記録)は本文の地の文に明記。excerptは記事の結論を含む事実文にする(煽り文にしない)
+  5. titleタグは「記事タイトル | 610 JOURNAL」形式・記事タイトルに検索されうる固有名詞(選手名・チーム名・大会名)を必ず含める
 
 ### 4. 記録とpush
 - チェックした候補URLを**採用/スキップ問わず全部** `journal_auto/seen.txt` に追記
