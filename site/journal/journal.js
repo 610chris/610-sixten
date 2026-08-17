@@ -30,7 +30,7 @@ const ARTICLES = [
   },
   {
     href: "021-westbrook-retires.html",
-    cat: "GAME",
+    cat: "NBA",
     title: "トリプルダブルの王が、コートを去る —— ラッセル・ウェストブルック、18シーズンで現役引退",
     excerpt: "Shams Charania（ESPN）が一報。2017年MVP、通算トリプルダブル209回の男が、自らの流儀で18年のキャリアに幕を下ろした。",
     date: "2026.08.13",
@@ -80,7 +80,7 @@ const ARTICLES = [
   },
   {
     href: "005-small-guards.html",
-    cat: "GAME",
+    cat: "NBA",
     title: "160cmの証明 —— 小さな選手たちがコートに残したもの",
     excerpt: "サイズの神話を壊し続けてきたガードたちの系譜。",
     date: "2026.08.04",
@@ -97,7 +97,7 @@ const ARTICLES = [
   },
   {
     href: "006-streetball.html",
-    cat: "STREET",
+    cat: "CULTURE",
     title: "アスファルトの聖地 —— ラッカーパークとストリートの系譜",
     excerpt: "NBAではない場所で、バスケが文化になった理由。",
     date: "2026.08.01",
@@ -175,6 +175,14 @@ const ARTICLES = [
     date: "2026.07.22",
     thumb: "../assets/journal-018-hero.jpg",
     tile: "ROSTER"
+  },
+  {
+    href: "022-hachimura-clippers.html",
+    cat: "NBA",
+    title: "同じ街で、新しいユニフォームを —— 八村塁、クリッパーズと2年2800万ドルで契約合意",
+    excerpt: "Shams Charania（ESPN）が一報。レイカーズとのサイン&トレードは成立せず、FA契約で望んだロサンゼルスに残る道を選んだ。",
+    date: "2026.07.07",
+    tile: "RUI"
   },
   {
     href: "007-osakabe-donation.html",
