@@ -29,6 +29,14 @@ const ARTICLES = [
     tile: "WINDOW4"
   },
   {
+    href: "021-westbrook-retires.html",
+    cat: "GAME",
+    title: "トリプルダブルの王が、コートを去る —— ラッセル・ウェストブルック、18シーズンで現役引退",
+    excerpt: "Shams Charania（ESPN）が一報。2017年MVP、通算トリプルダブル209回の男が、自らの流儀で18年のキャリアに幕を下ろした。",
+    date: "2026.08.13",
+    tile: "RUSS"
+  },
+  {
     href: "009-abema-korea.html",
     cat: "JAPAN",
     title: "有明に、日の丸のエースが帰ってきた —— 八村塁と河村勇輝、約2年ぶりの代表戦をABEMAが無料生中継",
