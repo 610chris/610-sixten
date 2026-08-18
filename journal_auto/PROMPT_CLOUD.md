@@ -36,6 +36,18 @@ Shams記事の作り方（§3の共通ルールに加えて）:
 - カテゴリ（journal.jsのcat・記事のjr-cat）は **NBA**（2026-08-17のタブ整理でGAME→NBA改称・STREET→CULTURE統合。現行タブ: NBA/JAPAN/KICKS/CULTURE/REPORT）
 - **取得した新着のうちリプライ/RT以外は、採用/スキップ（宣伝・24時間超・見送り含む）を問わず必ず全部 `journal_auto/seen_shams.txt` に追記**（即時ポーリング shams-poll.yml が同じ判定で見るため、記録漏れがあると5分おきに再発火し続ける）。公開したら published.log にも追記（§4と同様）
 
+### 1c. ESPNニュースチェック（NBA・毎回実行）
+
+PR TIMES / Shams とは独立に、毎回必ずこれも行う（2026-08-18クリス指示「ESPNのバスケに関する記事で、まだ記事化されていない新規のニュースは記事になるようにしたい」）。
+
+1. `curl -s --max-time 60 -A 'Mozilla/5.0' https://www.espn.com/espn/rss/nba/news` を取得（ファイルに落としてから部分抽出。全文をコンテキストに載せない）。失敗したら60秒待って1回だけ再試行。それでも失敗したらESPN分だけスキップして続行（理由をコミットメッセージかログに残す）
+2. `<item>` から guid（`US-EN-数字` 形式）/ title / description / link / pubDate を抽出
+3. `journal_auto/seen_espn.txt` に無いguidだけが候補。**候補ゼロならESPN分は何もしない**
+4. 採用基準: **事実の新規ニュースのみ**——契約合意・トレード・重大な怪我・引退・監督/フロント人事・記録達成・訃報級のオフコートニュース。次は見送り: 企画物・ランキング・シーズンプレビュー/総括・採点(grades)・予想(projections/predictions)・まとめ(buzz/recap/primer)・番組/ポッドキャスト宣伝・日程紹介。pubDateが実行時刻より48時間以上前も見送り。採用は1回の実行で最大2本
+5. **既報チェック必須**: `site/journal/journal.js` の ARTICLES と `journal_auto/published.log` を確認し、同じニュースを既に記事化していたら見送り（ShamsはESPN所属なので同じニュースが両ルートから来ることが多い。先に出た方が勝ち）
+6. 記事の作り方は §1b のShams記事と同じ（Wikimedia CommonsのCC写真＋クレジット・カテゴリNBA・§3のSEO/AEOチェックリスト全部）。ただし: **本文はESPN記事の翻訳・要約転載ではなく、ニュースの骨子（誰が・何を・いつ・契約条件などの数字）だけを自分の日本語で書く**。ESPN記者の論評・分析・記事表現の転載はしない。ESPNが「Sources:」としている情報は本文でも「ESPNによると〜と報じられている」と伝聞で書く。出典ブロックは「ESPN + 記事タイトル + 記事URL」
+7. 取得した新着guidは採用/スキップ（企画物・48時間超・既報含む）を問わず**全部** `journal_auto/seen_espn.txt` に追記
+
 ### 2. 判定
 各候補URLのリリースページをcurlで取得し（og:title / og:image / 発表日 / 本文抽出のみ）、次に該当したらスキップ:
 - バスケットボールが主題ではない（関係が薄いものは載せない編集方針）
