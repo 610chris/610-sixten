@@ -486,3 +486,83 @@ footer {
 
   .related-grid { grid-template-columns: 1fr; }
 }
+
+/* ---------- VIDEO(IGリール)バンド: バスケットボールキング参考の黒帯セクション ---------- */
+.video-band {
+  background: var(--black);
+  padding: 44px 0 48px;
+  margin-bottom: 40px;
+}
+.video-head {
+  display: flex;
+  align-items: baseline;
+  gap: 18px;
+  margin-bottom: 24px;
+}
+.video-head h2 {
+  font-family: var(--font-display);
+  font-size: clamp(30px, 4vw, 44px);
+  line-height: 1;
+  letter-spacing: 0.05em;
+  color: #fff;
+}
+.video-head h2 em {
+  font-style: normal;
+  color: var(--accent);
+}
+.video-head p {
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 12.5px;
+  letter-spacing: 0.16em;
+}
+.reel-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+.reel {
+  position: relative;
+  aspect-ratio: 9 / 17.6;
+  background: #000;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+}
+.reel iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+.video-more { margin-top: 24px; text-align: center; }
+.video-more a {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 14px;
+  letter-spacing: 0.14em;
+  color: #fff;
+  border: 2px solid #fff;
+  padding: 11px 42px;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+.video-more a span {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 10.5px;
+  letter-spacing: 0.1em;
+  color: rgba(255, 255, 255, 0.66);
+  margin-top: 3px;
+}
+.video-more a:hover { background: var(--accent); border-color: var(--accent); }
+
+@media (max-width: 760px) {
+  .video-band { padding: 30px 0 34px; margin-bottom: 30px; }
+  .reel-row {
+    display: flex;
+    overflow-x: auto;
+    gap: 12px;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 6px;
+  }
+  .reel { flex: 0 0 70%; scroll-snap-align: start; }
+}
