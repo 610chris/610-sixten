@@ -113,13 +113,13 @@ const toggle = document.querySelector('.jnav-toggle');
 const links = document.querySelector('.jnav-links');
 toggle.addEventListener('click', () => links.classList.toggle('open'));
 
-// リールカード: カーソルを合わせたらミュートで再生、外したら先頭に戻す
+// リールカード: カーソルを合わせたらミュートで再生、外したらサムネ(poster)表示に戻す
 // 610 VIDEOセクションが画面に近づいた時点で動画を裏で先読みし、ホバー時の再生開始を即時にする
 document.querySelectorAll('.reel-card').forEach(card => {
   const v = card.querySelector('video');
   if (!v) return;
   card.addEventListener('mouseenter', () => { v.play().catch(() => {}); });
-  card.addEventListener('mouseleave', () => { v.pause(); v.currentTime = 0; });
+  card.addEventListener('mouseleave', () => { v.pause(); v.load(); });
 });
 const videoBand = document.getElementById('video');
 if (videoBand && 'IntersectionObserver' in window) {
