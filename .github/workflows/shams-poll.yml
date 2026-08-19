@@ -1,7 +1,9 @@
 name: Shams poll
-# Shams Charania (@ShamsCharania) の nitter RSS を軽量ポーリングし、
-# 新着（リプライ/RT除く）が seen_shams.txt に無ければ journal_auto/shams_signal.txt を
-# 更新して push する。この push イベントを claude.ai の webhook トリガーが受けて、
+# NBAインサイダー3人 (Shams Charania / Chris Haynes / Michael Scotto) の nitter RSS を
+# 軽量ポーリングし、新着（リプライ/RT除く）が各既読ファイル
+# (seen_shams.txt / seen_haynes.txt / seen_scotto.txt) に無ければ
+# journal_auto/shams_signal.txt を更新して push する。
+# (2026-08-19 Haynes/Scotto追加。ファイル名・シグナル名は既存webhook連携を崩さないため据え置き)この push イベントを claude.ai の webhook トリガーが受けて、
 # クラウドルーチン「610 JOURNAL 自動記事化」を即時起動する（記事化はルーチン側の仕事）。
 # ルーチンはチェックした新着を必ず seen_shams.txt に追記して push するので、
 # ここの判定は次回ポーリングで自然に収束する（毎時ルーチンはフォールバックとして併走）。
@@ -35,37 +37,58 @@ jobs:
       - uses: actions/checkout@v4
         with:
           sparse-checkout: journal_auto
-      - name: Check for new Shams posts
+      - name: Check for new insider posts
         id: check
         run: |
           echo "new=false" >> "$GITHUB_OUTPUT"
-          if ! curl -sf --max-time 45 -A 'Mozilla/5.0' https://nitter.net/ShamsCharania/rss -o /tmp/shams.rss; then
-            echo "RSS fetch failed — skip this run"
+          # 3人分を順に取得（nitterのレート制限を避けるため間隔を空ける）。
+          # 取れなかった人はそのポーリング回だけスキップ（次回に自然に回収される）
+          ok=0
+          for h in ShamsCharania ChrisBHaynes MikeAScotto; do
+            if curl -sf --max-time 45 -A 'Mozilla/5.0' "https://nitter.net/$h/rss" -o "/tmp/$h.rss"; then
+              ok=$((ok+1))
+            else
+              echo "RSS fetch failed for $h — skip this handle"
+              rm -f "/tmp/$h.rss"
+            fi
+            sleep 5
+          done
+          if [ "$ok" = "0" ]; then
+            echo "all RSS fetches failed — skip this run"
             exit 0
           fi
           python3 - <<'EOF'
           import html, os, re
-          rss = open('/tmp/shams.rss', encoding='utf-8').read()
-          try:
-              seen = {l.strip() for l in open('journal_auto/seen_shams.txt') if l.strip()}
-          except FileNotFoundError:
-              seen = set()
+          FEEDS = [
+              ('ShamsCharania', 'journal_auto/seen_shams.txt'),
+              ('ChrisBHaynes', 'journal_auto/seen_haynes.txt'),
+              ('MikeAScotto', 'journal_auto/seen_scotto.txt'),
+          ]
           new = []
-          for item in re.findall(r'<item>.*?</item>', rss, re.S):
-              t = re.search(r'<title>(.*?)</title>', item, re.S)
-              l = re.search(r'<link>(.*?)</link>', item, re.S)
-              if not t or not l:
+          for handle, seen_file in FEEDS:
+              try:
+                  rss = open(f'/tmp/{handle}.rss', encoding='utf-8').read()
+              except FileNotFoundError:
                   continue
-              title = html.unescape(t.group(1)).strip()
-              # ルーチン側 §1b の除外と同じ決定的フィルタ（リプライ/RT）
-              if title.startswith('R to ') or title.startswith('RT by'):
-                  continue
-              m = re.search(r'/status/(\d+)', l.group(1))
-              if not m:
-                  continue
-              url = f'https://x.com/ShamsCharania/status/{m.group(1)}'
-              if url not in seen:
-                  new.append(url)
+              try:
+                  seen = {l.strip() for l in open(seen_file) if l.strip()}
+              except FileNotFoundError:
+                  seen = set()
+              for item in re.findall(r'<item>.*?</item>', rss, re.S):
+                  t = re.search(r'<title>(.*?)</title>', item, re.S)
+                  l = re.search(r'<link>(.*?)</link>', item, re.S)
+                  if not t or not l:
+                      continue
+                  title = html.unescape(t.group(1)).strip()
+                  # ルーチン側 §1b の除外と同じ決定的フィルタ（リプライ/RT）
+                  if title.startswith('R to ') or title.startswith('RT by'):
+                      continue
+                  m = re.search(r'/status/(\d+)', l.group(1))
+                  if not m:
+                      continue
+                  url = f'https://x.com/{handle}/status/{m.group(1)}'
+                  if url not in seen:
+                      new.append(url)
           print(f'new posts: {len(new)}')
           for u in new:
               print(' ', u)
@@ -88,6 +111,6 @@ jobs:
               echo "signal unchanged — 前回シグナルが未処理のまま。毎時ルーチンに任せてスキップ"
               exit 0
             fi
-            git commit -m "shams-poll: Shams新着シグナル"
+            git commit -m "shams-poll: インサイダー新着シグナル"
           fi
           git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }

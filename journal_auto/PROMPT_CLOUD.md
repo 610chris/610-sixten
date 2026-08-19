@@ -14,27 +14,38 @@ Anthropicクラウドのスケジュール実行で、610_sixten リポジトリ
 2. `<item>` の title/description が正規表現 `バスケットボール|バスケ|Bリーグ|B\.LEAGUE|NBA|3x3|Wリーグ` に一致するURLを抽出
 3. `journal_auto/seen.txt` に無いURLだけが候補。**候補ゼロなら何もコミットせず終了**
 
-### 1b. Shams速報チェック（NBAインサイダー・毎回実行）
+### 1b. インサイダー速報チェック（Shams / Haynes / Scotto・毎回実行）
 
-PR TIMESチェックとは独立に、毎回必ずこれも行う。
+PR TIMESチェックとは独立に、毎回必ずこれも行う。対象は次の3人
+（Haynes/Scottoは2026-08-19クリス指示「Chris HaynesとMichael Scottoのツイートも同じ条件で記事化できるようにできるかな」で追加）:
+
+| レポーター | RSS | 既読ファイル | 正規URL | 発信者表記 |
+|---|---|---|---|---|
+| Shams Charania | `https://nitter.net/ShamsCharania/rss` | `journal_auto/seen_shams.txt` | `https://x.com/ShamsCharania/status/<ID>` | Shams Charania（ESPN） |
+| Chris Haynes | `https://nitter.net/ChrisBHaynes/rss` | `journal_auto/seen_haynes.txt` | `https://x.com/ChrisBHaynes/status/<ID>` | Chris Haynes（NBA on Prime） |
+| Michael Scotto | `https://nitter.net/MikeAScotto/rss` | `journal_auto/seen_scotto.txt` | `https://x.com/MikeAScotto/status/<ID>` | Michael Scotto（HoopsHype） |
+
 （この実行は毎時スケジュールのほか、リポジトリへの push があるたびに webhook でも発火する。
-`.github/workflows/shams-poll.yml` が5分おきに新着を検知し `journal_auto/shams_signal.txt` を
+`.github/workflows/shams-poll.yml` が5分おきに3人分の新着を検知し `journal_auto/shams_signal.txt` を
 push するのが即時発火の本命ルート。どちらで起動されても手順は同じ。
 **候補ゼロなら絶対に commit しない**こと——これが push→再発火の無限ループを止める安全弁）
 
-1. `curl -s --max-time 60 -A 'Mozilla/5.0' https://nitter.net/ShamsCharania/rss` を取得（ファイルに落としてから部分抽出）。失敗したら60秒待って1回だけ再試行。それでも失敗したらShamsチェックだけスキップして続行（理由をコミットメッセージかログに残す。他インスタンスを探し回らない）
-2. `<item>` から link / title / pubDate を抽出し、linkのstatus IDから正規URL `https://x.com/ShamsCharania/status/<ID>` を作る
-3. 除外: titleが `R to ` で始まる（リプライ）/ `RT by`（リツイート）/ ポッドキャスト・番組・書籍などの宣伝
-4. `journal_auto/seen_shams.txt` に無い正規URLだけが候補。**候補ゼロならShams分は何もしない**
-5. 採用基準: NBAの速報級の一報（トレード成立・契約合意・引退・重大な怪我・監督/フロント人事・ドラフト指名など）。論評・雑感・既報の細部の続報は見送り。採用は1回の実行で最大2本
-6. pubDateが実行時刻より24時間以上前のものは見送り（速報性がないため）
+3人それぞれについて同じ手順で行う:
 
-Shams記事の作り方（§3の共通ルールに加えて）:
+1. `curl -s --max-time 60 -A 'Mozilla/5.0' <そのレポーターのRSS>` を取得（ファイルに落としてから部分抽出）。失敗したら60秒待って1回だけ再試行。それでも失敗したらそのレポーター分だけスキップして続行（理由をコミットメッセージかログに残す。他インスタンスを探し回らない。nitter.netは一時的に404を返すことがある＝404も同じ扱いで再試行→スキップ）
+2. `<item>` から link / title / pubDate を抽出し、linkのstatus IDから正規URL（上の表）を作る
+3. 除外: titleが `R to ` で始まる（リプライ）/ `RT by`（リツイート）/ ポッドキャスト・番組・書籍などの宣伝
+4. そのレポーターの既読ファイル（上の表）に無い正規URLだけが候補。**候補ゼロならそのレポーター分は何もしない**
+5. 採用基準: NBAの速報級の一報（トレード成立・契約合意・引退・重大な怪我・監督/フロント人事・ドラフト指名など）。論評・雑感・既報の細部の続報・ランキング/リスト企画は見送り。採用は**3人合計で1回の実行あたり最大2本**
+6. pubDateが実行時刻より24時間以上前のものは見送り（速報性がないため）
+7. **レポーター間の重複チェック必須**: 同じニュースを複数のレポーターが報じていたら、最も早く報じた1人の分だけ記事化する（先出し優先）。既に §1c（ESPN）や過去記事（`site/journal/journal.js` の ARTICLES・`journal_auto/published.log`）で出しているニュースも見送り
+
+インサイダー記事の作り方（§3の共通ルールに加えて）:
 - **写真は原則入れる**（2026-08-17クリス指示「基本記事は写真が欲しい」）。ただしツイート添付画像は権利不明のため使わない。手順: Wikimedia Commons APIで対象選手を検索（`https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=<選手名>&srnamespace=6&format=json`）→ imageinfoでライセンス確認（CC BY / CC BY-SA / パブリックドメインのみ可）→ 顔が判別できるカットを選び1600x900・jpeg品質80で `site/assets/journal-NNN-hero.jpg` に保存 → lead直後にfigure挿入。**キャプションにクレジット必須**: 「画像: 〇〇時代の<選手名>。撮影: <撮影者> / <ライセンス名>, via Wikimedia Commons」（写真の所属チームが記事時点と違う場合は「〇〇時代」と正直に書く）。journal.jsにはthumbも追加。適切なCC写真が見つからない場合のみ従来のミニ表紙タイル（001-006と同型・thumbなし）にフォールバック
 - 本文=ツイート内容の日本語での事実整理＋最小限の背景。**ツイートにない事実を足さない**。補足するなら「〜とみられる」と推測明示
-- 発信者の表記は「Shams Charania（ESPN）」。出典ブロックは Shams Charania のXポスト + 正規URL
+- 発信者の表記は上の表の「発信者表記」欄の通り。出典ブロックは そのレポーター名のXポスト + 正規URL
 - カテゴリ（journal.jsのcat・記事のjr-cat）は **NBA**（2026-08-17のタブ整理でGAME→NBA改称・STREET→CULTURE統合。現行タブ: NBA/JAPAN/KICKS/CULTURE/REPORT）
-- **取得した新着のうちリプライ/RT以外は、採用/スキップ（宣伝・24時間超・見送り含む）を問わず必ず全部 `journal_auto/seen_shams.txt` に追記**（即時ポーリング shams-poll.yml が同じ判定で見るため、記録漏れがあると5分おきに再発火し続ける）。公開したら published.log にも追記（§4と同様）
+- **取得した新着のうちリプライ/RT以外は、採用/スキップ（宣伝・24時間超・見送り含む）を問わず必ず全部そのレポーターの既読ファイル（上の表）に追記**（即時ポーリング shams-poll.yml が同じ判定で見るため、記録漏れがあると5分おきに再発火し続ける）。公開したら published.log にも追記（§4と同様）
 
 ### 1c. ESPNニュースチェック（NBA・毎回実行）
 
