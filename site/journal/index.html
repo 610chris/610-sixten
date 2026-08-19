@@ -114,12 +114,23 @@ const links = document.querySelector('.jnav-links');
 toggle.addEventListener('click', () => links.classList.toggle('open'));
 
 // リールカード: カーソルを合わせたらミュートで再生、外したら先頭に戻す
+// 610 VIDEOセクションが画面に近づいた時点で動画を裏で先読みし、ホバー時の再生開始を即時にする
 document.querySelectorAll('.reel-card').forEach(card => {
   const v = card.querySelector('video');
   if (!v) return;
   card.addEventListener('mouseenter', () => { v.play().catch(() => {}); });
   card.addEventListener('mouseleave', () => { v.pause(); v.currentTime = 0; });
 });
+const videoBand = document.getElementById('video');
+if (videoBand && 'IntersectionObserver' in window) {
+  const io = new IntersectionObserver((entries) => {
+    if (entries.some(e => e.isIntersecting)) {
+      videoBand.querySelectorAll('.reel-card video').forEach(v => { v.preload = 'auto'; v.load(); });
+      io.disconnect();
+    }
+  }, { rootMargin: '400px' });
+  io.observe(videoBand);
+}
 </script>
 </body>
 </html>
