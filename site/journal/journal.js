@@ -8,6 +8,7 @@ const ARTICLES = [
     title: "レイカーズ、バス家が最後の株式を手放す —— カシュナー氏とアイガー氏に17.8%売却、ジーニー・バスはガバナー退任へ",
     excerpt: "Shams Charania（ESPN）が一報。ロサンゼルス・レイカーズを保有するバス・ファミリー・トラストが、信託に残る17.8%の株式をジョシュ・カシュナー氏とボブ・アイガー氏に売却することを決定。完了後、ジーニー・バスはガバナーの資格を失う見通しとなった。",
     date: "2026.08.18",
+    thumb: "../assets/journal-025-hero.jpg",
     tile: "LAKERS"
   },
   {
@@ -16,6 +17,7 @@ const ARTICLES = [
     title: "古巣へ、1年契約で復帰 —— ヘイウッド・ハイスミス、サンズと合意",
     excerpt: "Shams Charania（ESPN）が一報。FAのヘイウッド・ハイスミスが、フェニックス・サンズとの1年契約に合意した。",
     date: "2026.08.17",
+    thumb: "../assets/journal-024-hero.jpg",
     tile: "HIGHSMITH"
   },
   {
@@ -24,6 +26,7 @@ const ARTICLES = [
     title: "遅めのオフシーズンに、掘り出し物 —— トレンドン・ワトフォード、ペリカンズと1年290万ドルで契約合意",
     excerpt: "Shams Charania（ESPN）が一報。FAのトレンドン・ワトフォードが、ニューオーリンズ・ペリカンズと1年290万ドルの契約に合意した。",
     date: "2026.08.17",
+    thumb: "../assets/journal-023-hero.jpg",
     tile: "WATFORD"
   },
   {
@@ -41,6 +44,7 @@ const ARTICLES = [
     title: "「禁止」が生んだ伝説 —— エア・ジョーダン1とルールの向こう側",
     excerpt: "1足のシューズが、なぜ40年経っても語り継がれるのか。伝説の始まりにあったのは、リーグの規定と1枚の広告だった。",
     date: "2026.08.15",
+    thumb: "../assets/journal-001-hero.jpg",
     tile: "BANNED"
   },
   {
@@ -76,6 +80,7 @@ const ARTICLES = [
     title: "コーンロウとアームスリーブ —— アレン・アイバーソンがコートに持ち込んだ「街」",
     excerpt: "NBAとヒップホップの距離を一気に縮めた男の話。",
     date: "2026.08.12",
+    thumb: "../assets/journal-002-hero.jpg",
     tile: "IVERSON"
   },
   {
@@ -84,6 +89,7 @@ const ARTICLES = [
     title: "シグネチャーシューズは「物語」でできている",
     excerpt: "スペックではなく、ストーリーがスニーカーを売る理由。",
     date: "2026.08.10",
+    thumb: "../assets/journal-003-hero.jpg",
     tile: "SIGNATURE"
   },
   {
@@ -92,6 +98,7 @@ const ARTICLES = [
     title: "日本のバスケが「カルチャー」になる日",
     excerpt: "Bリーグ、部活、ストリート。この国のバスケの現在地。",
     date: "2026.08.07",
+    thumb: "../assets/journal-fallback-04.jpg",
     tile: "JAPAN"
   },
   {
@@ -109,6 +116,7 @@ const ARTICLES = [
     title: "160cmの証明 —— 小さな選手たちがコートに残したもの",
     excerpt: "サイズの神話を壊し続けてきたガードたちの系譜。",
     date: "2026.08.04",
+    thumb: "../assets/journal-005-hero.jpg",
     tile: "160cm"
   },
   {
@@ -126,6 +134,7 @@ const ARTICLES = [
     title: "アスファルトの聖地 —— ラッカーパークとストリートの系譜",
     excerpt: "NBAではない場所で、バスケが文化になった理由。",
     date: "2026.08.01",
+    thumb: "../assets/journal-006-hero.jpg",
     tile: "RUCKER"
   },
   {
