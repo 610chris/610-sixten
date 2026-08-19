@@ -520,18 +520,43 @@ footer {
   grid-template-columns: repeat(4, 1fr);
   gap: 14px;
 }
-.reel {
-  position: relative;
-  aspect-ratio: 9 / 17.6;
-  background: #000;
+/* リールカード: sixten本体のwork-card準拠(黒地・細ボーダー・コード表記) */
+.reel-card {
+  display: block;
+  background: #0d0d0d;
   border: 1px solid rgba(255, 255, 255, 0.16);
+  transition: border-color 0.25s ease;
 }
-.reel iframe {
-  position: absolute;
-  inset: 0;
+.reel-card:hover { border-color: var(--accent); }
+.reel-img {
+  aspect-ratio: 9 / 16;
+  overflow: hidden;
+}
+.reel-img img {
   width: 100%;
   height: 100%;
-  border: 0;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+.reel-card:hover .reel-img img { transform: scale(1.04); }
+.reel-meta { padding: 14px 16px 16px; }
+.reel-meta .code {
+  font-family: var(--font-display);
+  font-size: 11px;
+  letter-spacing: 0.24em;
+  color: var(--accent);
+}
+.reel-meta h3 {
+  margin-top: 8px;
+  font-size: 13.5px;
+  font-weight: 700;
+  line-height: 1.55;
+  color: #fff;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.6em;
 }
 .video-more { margin-top: 24px; text-align: center; }
 .video-more a {
@@ -564,5 +589,5 @@ footer {
     -webkit-overflow-scrolling: touch;
     padding-bottom: 6px;
   }
-  .reel { flex: 0 0 70%; scroll-snap-align: start; }
+  .reel-card { flex: 0 0 62%; scroll-snap-align: start; }
 }
