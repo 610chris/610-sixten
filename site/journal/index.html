@@ -3,30 +3,30 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>610 JOURNAL — バスケとカルチャーの読みもの</title>
+<title>610バスケットボールジャーナル — バスケとカルチャーの読みもの</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="canonical" href="https://sixten.jp/journal/">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="610 JOURNAL">
-<meta property="og:title" content="610 JOURNAL — バスケとカルチャーの読みもの">
-<meta property="og:description" content="610 JOURNAL は、バスケットボールとカルチャーの交差点を読みものにする 610(シックステン) のバスケットボールメディアです。NBA・国内バスケ・キックス・カルチャーの最新記事。">
+<meta property="og:site_name" content="610バスケットボールジャーナル">
+<meta property="og:title" content="610バスケットボールジャーナル — バスケとカルチャーの読みもの">
+<meta property="og:description" content="610バスケットボールジャーナルは、バスケットボールとカルチャーの交差点を読みものにする 610(シックステン) のバスケットボールメディアです。NBA・国内バスケ・キックス・カルチャーの最新記事。">
 <meta property="og:url" content="https://sixten.jp/journal/">
 <meta property="og:image" content="https://sixten.jp/assets/og-default.jpg">
 <meta property="og:locale" content="ja_JP">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="description" content="610 JOURNAL は、バスケットボールとカルチャーの交差点を読みものにする 610(シックステン) のバスケットボールメディアです。">
+<meta name="description" content="610バスケットボールジャーナルは、バスケットボールとカルチャーの交差点を読みものにする 610(シックステン) のバスケットボールメディアです。">
 <link rel="icon" type="image/png" href="../assets/favicon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="journal.css?v=202608191643">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "610 JOURNAL", "url": "https://sixten.jp/journal/", "inLanguage": "ja", "description": "610 JOURNAL は、バスケットボールとカルチャーの交差点を読みものにする 610(シックステン) のバスケットボールメディアです。NBA・国内バスケ・キックス・カルチャーの最新記事。", "isPartOf": {"@type": "WebSite", "name": "610 — sixten", "url": "https://sixten.jp"}, "publisher": {"@type": "Organization", "name": "610 — sixten", "url": "https://sixten.jp"}}</script>
+<link rel="stylesheet" href="journal.css?v=202608192148">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "CollectionPage", "name": "610バスケットボールジャーナル", "url": "https://sixten.jp/journal/", "inLanguage": "ja", "description": "610バスケットボールジャーナルは、バスケットボールとカルチャーの交差点を読みものにする 610(シックステン) のバスケットボールメディアです。NBA・国内バスケ・キックス・カルチャーの最新記事。", "isPartOf": {"@type": "WebSite", "name": "610 — sixten", "url": "https://sixten.jp"}, "publisher": {"@type": "Organization", "name": "610 — sixten", "url": "https://sixten.jp"}}</script>
 </head>
 <body>
 
 <header class="jnav">
   <div class="wrap jnav-inner">
-    <a href="index.html" class="jnav-logo"><img src="../assets/journal-logo-black.png" alt="610 JOURNAL"></a>
+    <a href="index.html" class="jnav-logo"><img src="../assets/journal-logo-black.png?v=202608192148" alt="610 Basketball Journal"></a>
     <button class="jnav-toggle" aria-label="メニュー">☰</button>
     <nav class="jnav-links">
       <a href="index.html">ALL</a>
@@ -112,6 +112,13 @@
 const toggle = document.querySelector('.jnav-toggle');
 const links = document.querySelector('.jnav-links');
 toggle.addEventListener('click', () => links.classList.toggle('open'));
+
+// 610 VIDEO帯をALL STORIESの5記事目の後に移動（記事が主役・動画は合間の特集扱い）
+const band = document.getElementById('video');
+const feedList = document.getElementById('feed-list');
+if (band && feedList && feedList.children.length) {
+  feedList.insertBefore(band, feedList.children[5] || null); // 記事が5本未満なら末尾
+}
 
 // リールカード: カーソルを合わせたらミュートで再生、外したらサムネ(poster)表示に戻す
 // 610 VIDEOセクションが画面に近づいた時点で動画を裏で先読みし、ホバー時の再生開始を即時にする

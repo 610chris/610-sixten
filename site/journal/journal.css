@@ -493,6 +493,10 @@ footer {
   padding: 44px 0 48px;
   margin-bottom: 40px;
 }
+/* ALL STORIES内に挟まった時は帯を画面幅いっぱいに */
+.feed-list .video-band {
+  margin: 40px calc(50% - 50vw);
+}
 .video-head {
   display: flex;
   align-items: baseline;
