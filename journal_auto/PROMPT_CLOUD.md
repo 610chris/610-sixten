@@ -41,7 +41,9 @@ push するのが即時発火の本命ルート。どちらで起動されても
 7. **レポーター間の重複チェック必須**: 同じニュースを複数のレポーターが報じていたら、最も早く報じた1人の分だけ記事化する（先出し優先）。既に §1c（ESPN）や過去記事（`site/journal/journal.js` の ARTICLES・`journal_auto/published.log`）で出しているニュースも見送り
 
 インサイダー記事の作り方（§3の共通ルールに加えて）:
-- **写真は原則入れる**（2026-08-17クリス指示「基本記事は写真が欲しい」）。ただしツイート添付画像は権利不明のため使わない。手順: Wikimedia Commons APIで対象選手を検索（`https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=<選手名>&srnamespace=6&format=json`）→ imageinfoでライセンス確認（CC BY / CC BY-SA / パブリックドメインのみ可）→ 顔が判別できるカットを選び1600x900・jpeg品質80で `site/assets/journal-NNN-hero.jpg` に保存 → lead直後にfigure挿入。**キャプションにクレジット必須**: 「画像: 〇〇時代の<選手名>。撮影: <撮影者> / <ライセンス名>, via Wikimedia Commons」（写真の所属チームが記事時点と違う場合は「〇〇時代」と正直に書く）。journal.jsにはthumbも追加。適切なCC写真が見つからない場合のみ従来のミニ表紙タイル（001-006と同型・thumbなし）にフォールバック
+- **写真は必須。写真なしの記事は作らない**（2026-08-17クリス指示「基本記事は写真が欲しい」→2026-08-19クリス指示「記事に写真がないのは基本なし。だから常に持って来れるようにして欲しい」で必須化）。ただしツイート添付画像は権利不明のため使わない。手順: Wikimedia Commons APIで対象選手を検索（`https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=<選手名>&srnamespace=6&format=json`）→ imageinfoでライセンス確認（CC BY / CC BY-SA / パブリックドメインのみ可）→ 顔が判別できるカットを選び1600x900・jpeg品質80で `site/assets/journal-NNN-hero.jpg` に保存 → lead直後にfigure挿入。**キャプションにクレジット必須**: 「画像: 〇〇時代の<選手名>。撮影: <撮影者> / <ライセンス名>, via Wikimedia Commons」（写真の所属チームが記事時点と違う場合は「〇〇時代」と正直に書く）。journal.jsにはthumbも追加
+- 1回の検索で見つからなくても諦めない。**検索語を変えて最低3回試す**: ①選手名英語表記 → ②選手名+チーム名 → ③チーム名や関係人物（監督・GM等）。ニュースの主題が人物でない場合はチーム・大会・アリーナ名で探す
+- それでも適切なCC写真が無い場合は、**リポジトリ常備のフォールバック写真** `site/assets/journal-fallback-01〜04.jpg` から記事内容に合う1枚を選んでheroに使う（選び方・キャプション書式は `journal_auto/fallback-images.md` の通り。再変換不要・journal.jsのthumbにも同じパス・直近記事と同じ番号は避ける）。旧運用のミニ表紙タイル（写真なし・thumbなし）へのフォールバックは**廃止**
 - 本文=ツイート内容の日本語での事実整理＋最小限の背景。**ツイートにない事実を足さない**。補足するなら「〜とみられる」と推測明示
 - 発信者の表記は上の表の「発信者表記」欄の通り。出典ブロックは そのレポーター名のXポスト + 正規URL
 - カテゴリ（journal.jsのcat・記事のjr-cat）は **NBA**（2026-08-17のタブ整理でGAME→NBA改称・STREET→CULTURE統合。現行タブ: NBA/JAPAN/KICKS/CULTURE/REPORT）
@@ -74,7 +76,8 @@ PR TIMES / Shams とは独立に、毎回必ずこれも行う（2026-08-18ク�
 - 末尾に出典ブロック必須: 発表企業名 + リリースタイトル + PR TIMES URL
 - 画像: og:image を取得し幅1600px・jpeg品質80程度に変換して `site/assets/journal-NNN-hero.jpg`
   （Linux環境: ImageMagickが無ければ `pip install pillow` してPythonで変換）。
-  lead直後に figure + キャプション「画像: プレスリリースより（PR TIMES）」。変換失敗時はその記事ごとスキップ
+  lead直後に figure + キャプション「画像: プレスリリースより（PR TIMES）」
+- **og:imageの取得/変換に失敗しても記事をスキップしない**（2026-08-19クリス指示「記事に写真がないのは基本なし。だから常に持って来れるようにして欲しい」）。代替の順で必ずheroを付ける: ①リリース本文中の他の画像URLを試す → ②Wikimedia Commonsで主題（選手・チーム・大会・企業）のCC写真を探す（§1bと同じ手順・クレジット必須） → ③リポジトリ常備のフォールバック写真 `site/assets/journal-fallback-01〜04.jpg`（選び方・キャプション書式は `journal_auto/fallback-images.md`）。キャプションは実際に使った画像の出典に合わせる（フォールバック時に「プレスリリースより」と書かない）
 - `site/journal/journal.js` の ARTICLES に追加（日付=リリース発表日・日付降順位置・thumb・catは既存分類から選ぶ）。featuredは変更しない
 - キャッシュバスター: `site/journal/` 全HTMLの `journal.js?v=` を実行日時(YYYYMMDDHHMM)に更新
 - 禁止: `site/css/style.css` と `site/journal/journal.css` の書体まわりは触らない
