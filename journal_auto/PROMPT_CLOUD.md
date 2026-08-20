@@ -86,7 +86,8 @@ PR TIMES / Shams とは独立に、毎回必ずこれも行う（2026-08-18ク�
   2. `</head>`直前にJSON-LD **NewsArticle**(headline/description/image/datePublished/dateModified/inLanguage:ja/mainEntityOfPage/author/publisher/articleSection)。これも記事021を雛形に
   3. `site/sitemap.xml` に `<url><loc>記事URL</loc><lastmod>YYYY-MM-DD</lastmod></url>` を1行追加（journal/index.htmlの行のlastmodも実行日に更新）
   4. AEO(AI検索対策): lead第1文だけで「誰が・何を・いつ」が完結する文にする(見出しを読まなくても要旨が取れる)。固有名詞は初出でフル表記(例:「Shams Charania（ESPN）」)。重要な数字(契約年数・金額・記録)は本文の地の文に明記。excerptは記事の結論を含む事実文にする(煽り文にしない)
-  5. titleタグは「記事タイトル | 610 JOURNAL」形式・記事タイトルに検索されうる固有名詞(選手名・チーム名・大会名)を必ず含める
+  5. titleタグは「記事タイトル | 610バスケットボールジャーナル」形式・記事タイトルに検索されうる固有名詞(選手名・チーム名・大会名)を必ず含める
+  6. **広告枠必須**: body末尾のscript群は雛形(記事021)と同じ構成にし、`journal.js` 読み込みの後に `<script src="ads.js?v=実行日時"></script>` を必ず入れる（広告常設スロット・2026-08-20クリス指示。これが無いと新記事だけ広告枠が出ない）
 
 ### 4. 記録とpush
 - チェックした候補URLを**採用/スキップ問わず全部** `journal_auto/seen.txt` に追記

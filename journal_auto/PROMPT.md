@@ -28,6 +28,7 @@
 - 記事内の事実（数字・日付・人名・場所）はリリースに書いてあることだけ。**リリースにない情報を足さない**
 - 末尾に出典ブロック必須: 発表企業名 + リリースタイトル + PR TIMES URL
 - `<link rel="stylesheet" href="journal.css?v=...">` などhead部の参照は雛形の現行記述に合わせる
+- **広告枠必須**: body末尾のscript群も雛形と同じ構成にし、`journal.js` 読み込みの後に `<script src="ads.js?v=実行日時"></script>` を必ず入れる（広告常設スロット・2026-08-20クリス指示）
 
 ### 3. 画像
 - リリースの og:image を `curl` で取得 → `sips` で幅1600px・jpeg品質80に変換 → `site/assets/journal-NNN-hero.jpg`（既存の命名に合わせる）
