@@ -598,3 +598,69 @@ footer {
   }
   .reel-card { flex: 0 0 62%; scroll-snap-align: start; }
 }
+
+/* ---------- 広告枠(常設スロット): ads.js が中身を差し込む ---------- */
+.ad-slot {
+  width: min(760px, calc(100% - 40px));
+  margin: 40px auto;
+}
+.ad-label {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 12px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 12px;
+}
+.ad-sponsor img { width: 100%; display: block; }
+/* 空の間はプレースホルダー(掲載案内) */
+.ad-slot.ad-empty {
+  border: 1.5px dashed #c9c5be;
+  padding: 30px 20px;
+  text-align: center;
+}
+.ad-slot.ad-empty p {
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+.ad-cta {
+  display: inline-block;
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  color: var(--black);
+  border: 2px solid var(--black);
+  padding: 8px 18px;
+  transition: background 0.15s, color 0.15s;
+}
+.ad-cta:hover { background: var(--black); color: #fff; }
+/* トップのフィード内では記事カードと同じ幅で馴染ませる */
+.feed-list .ad-slot { width: 100%; margin: 10px 0 34px; }
+/* アフィリエイト商品カード */
+.aff-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 16px;
+}
+.aff-card { display: block; }
+.aff-card img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 8px;
+  background: #eee;
+}
+.aff-card strong {
+  display: block;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--text);
+}
+.aff-card span {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+}
