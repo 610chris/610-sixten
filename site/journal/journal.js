@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "028-harden-cavaliers.html",
+    cat: "NBA",
+    title: "ハーデン、キャバリアーズ残留 —— 3年9700万ドルの新契約で合意",
+    excerpt: "ジェームズ・ハーデンが、3年総額9700万ドルの新契約でクリーブランド・キャバリアーズに残留することで合意した。2028-29シーズンのプレーヤーオプションとトレードキッカー付き。代理人らがESPNに明らかにした。",
+    date: "2026.08.20",
+    thumb: "../assets/journal-028-hero.jpg",
+    tile: "HARDEN"
+  },
+  {
     href: "027-converse-accelerator.html",
     cat: "KICKS",
     title: "名作「ACCELERATOR」が最新技術で復活 —— コンバース「CONS ACCELERATOR SE LOW」8月25日発売",
