@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "029-agest-tubc-partner.html",
+    cat: "JAPAN",
+    title: "「機敏性」で重なる2社 —— AGEST、東京ユナイテッドバスケットボールクラブとオフィシャルパートナー契約",
+    excerpt: "ソフトウェア品質支援のAGESTが2026-27シーズンより、有明アリーナ拠点のB.LEAGUEクラブ・東京ユナイテッドバスケットボールクラブ(TUBC)とオフィシャルパートナー契約を締結した。",
+    date: "2026.08.21",
+    thumb: "../assets/journal-029-hero.jpg",
+    tile: "TUBC"
+  },
+  {
     href: "028-harden-cavaliers.html",
     cat: "NBA",
     title: "ハーデン、キャバリアーズ残留 —— 3年9700万ドルの新契約で合意",
