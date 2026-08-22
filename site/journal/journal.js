@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "035-fukuyama-denix-homegame.html",
+    cat: "JAPAN",
+    title: "びんご福山デニックス、9月12日・13日にホームゲーム —— 観戦無料、九州電力・富士通と対戦",
+    excerpt: "広島県福山市を拠点にSB1リーグで戦うびんご福山デニックスが、2026年9月12日・13日にエフピコアリーナふくやまで観戦無料のホームゲームを開催する。対戦相手は九州電力(福岡)と富士通(神奈川)。",
+    date: "2026.08.22",
+    thumb: "../assets/journal-035-hero.jpg",
+    tile: "DENIX"
+  },
+  {
     href: "034-derozan-nuggets.html",
     cat: "NBA",
     title: "デマー・デローザン、ナゲッツ入り合意 —— ヒート等蹴り1年390万ドル、ヨキッチ&マレーの下でプレーオフ勝負へ",
