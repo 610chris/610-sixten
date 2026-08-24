@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "036-anker-nagasaki-velca.html",
+    cat: "JAPAN",
+    title: "Anker Japan、Bリーグ王者・長崎ヴェルカとトップパートナー契約 —— ユニフォーム胸ロゴとアリーナ命名権を取得、直営店も出店",
+    excerpt: "アンカー・ジャパンがB.LEAGUE王者の長崎ヴェルカとトップパートナー契約を締結。2026-27シーズンユニフォーム胸部へのロゴ掲出やホームアリーナ「HAPPINESS ARENA」の命名権を取得し、長崎県内に直営店「Anker Store」を2店舗出店する。",
+    date: "2026.08.23",
+    thumb: "../assets/journal-036-hero.jpg",
+    tile: "ANKER"
+  },
+  {
     href: "035-fukuyama-denix-homegame.html",
     cat: "JAPAN",
     title: "びんご福山デニックス、9月12日・13日にホームゲーム —— 観戦無料、九州電力・富士通と対戦",
