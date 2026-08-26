@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "044-kings-academy-cup-2026.html",
+    cat: "JAPAN",
+    title: "北部地域と交流、約90人が参加 —— 琉球ゴールデンキングス「KINGS ACADEMY CUP 2026」を名護市で開催",
+    excerpt: "沖縄バスケットボール株式会社（琉球ゴールデンキングス）が運営するキングスアカデミーは8月23日、沖縄県名護市で「KINGS ACADEMY CUP 2026」を開催。北部地域の部活動チームとスクール生ら約90人が参加した。",
+    date: "2026.08.26",
+    thumb: "../assets/journal-044-hero.jpg",
+    tile: "KINGS ACADEMY"
+  },
+  {
     href: "043-payrollcup-4th-wheelchair.html",
     cat: "JAPAN",
     title: "車いすバスケ「ペイロールカップ」第4回、9月26日・27日に札幌開催 —— 札幌ノースウィンドなど6チームが参加",
