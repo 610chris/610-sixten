@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "042-broncos-akita-preseason.html",
+    cat: "JAPAN",
+    title: "さいたまブロンコス vs 秋田ノーザンハピネッツ、プレシーズンマッチを8月29日開催 —— Red EyeやENBASEが試合前を彩る",
+    excerpt: "さいたまブロンコスが8月29日、蓮田市総合市民体育館パルシーでB.PREMIERの秋田ノーザンハピネッツを迎えるプレシーズンマッチを開催。試合前にはRed EyeやENBASEによるオープニングイベントも行われる。",
+    date: "2026.08.26",
+    thumb: "../assets/journal-042-hero.jpg",
+    tile: "BRONCOS"
+  },
+  {
     href: "041-niang-warriors.html",
     cat: "NBA",
     title: "ウォリアーズがジョージ・ニアングと1年390万ドルで契約合意 —— ブランドン・ウィリアムズに続く今夏2人目の補強、15人ロースターが確定",
