@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "043-payrollcup-4th-wheelchair.html",
+    cat: "JAPAN",
+    title: "車いすバスケ「ペイロールカップ」第4回、9月26日・27日に札幌開催 —— 札幌ノースウィンドなど6チームが参加",
+    excerpt: "株式会社ペイロールが車いすバスケットボール大会「ペイロールカップ」第4回を2026年9月26日・27日に札幌市西区体育館で開催。今回は6チームが参加し、入場は無料。",
+    date: "2026.08.26",
+    thumb: "../assets/journal-043-hero.jpg",
+    tile: "PAYROLLCUP"
+  },
+  {
     href: "042-broncos-akita-preseason.html",
     cat: "JAPAN",
     title: "さいたまブロンコス vs 秋田ノーザンハピネッツ、プレシーズンマッチを8月29日開催 —— Red EyeやENBASEが試合前を彩る",
