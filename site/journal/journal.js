@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "045-crane-thunders-clinic.html",
+    cat: "JAPAN",
+    title: "中学・高校生34人が参加 —— 群馬クレインサンダーズ、鶴巻啓太・細川一輝が指導するバスケットボールスキルアップクリニックを開催",
+    excerpt: "群馬クレインサンダーズは8月2日・9日の2日間、群馬パース大学で「バスケットボールスキルアップクリニック」を開催。鶴巻啓太選手・細川一輝選手が指導にあたり、県内外の中学生・高校生34人が参加した。",
+    date: "2026.08.26",
+    thumb: "../assets/journal-045-hero.jpg",
+    tile: "CRANE THUNDERS"
+  },
+  {
     href: "044-kings-academy-cup-2026.html",
     cat: "JAPAN",
     title: "北部地域と交流、約90人が参加 —— 琉球ゴールデンキングス「KINGS ACADEMY CUP 2026」を名護市で開催",
