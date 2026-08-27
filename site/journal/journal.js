@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "050-hokurikugakuin-komatsuwall.html",
+    cat: "JAPAN",
+    title: "地元企業が支える全国区の挑戦 —— 小松ウオール、北陸学院高校 男子バスケットボール部のメインパートナーに就任",
+    excerpt: "石川県小松市の小松ウオール工業株式会社は、同県を拠点とする北陸学院高等学校 男子バスケットボール部のメインパートナーに就任したと8月27日発表した。8月22日に開幕した「U18日清食品トップリーグ2026 Div.1」に出場する同部を環境面から支援する。",
+    date: "2026.08.27",
+    thumb: "../assets/journal-050-hero.jpg",
+    tile: "HOKURIKUGAKUIN"
+  },
+  {
     href: "049-yoshii-japan-roster.html",
     cat: "JAPAN",
     title: "茨城ロボッツ・吉井裕鷹選手、日本代表ロスターに選出 —— FIBAワールドカップ2027アジア予選、サウジアラビア戦",
