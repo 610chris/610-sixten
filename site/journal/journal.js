@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "053-yoneda-u18-tryout.html",
+    cat: "JAPAN",
+    title: "奈良から次世代の舞台へ —— バンビシャス奈良U18・米田時生、B.LEAGUE U18 TRYOUT CAMP 2026に初選出",
+    excerpt: "バンビシャス奈良U18に所属する米田時生選手（SG、175cm）が、B.LEAGUEユース育成プロジェクトの一環「B.LEAGUE U18 TRYOUT CAMP 2026」に初選出されたと、同クラブが8月27日発表した。キャンプは9月5・6日に駒沢オリンピック公園総合運動場 屋内球技場で行われる。",
+    date: "2026.08.27",
+    thumb: "../assets/journal-053-hero.jpg",
+    tile: "YONEDA"
+  },
+  {
     href: "052-lowry-raptors-retired-number.html",
     cat: "NBA",
     title: "フランチャイズ史上2人目の栄誉 —— ラプターズ、カイル・ラウリーの背番号7永久欠番を発表",
