@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "059-streetball-courtmap.html",
+    cat: "JAPAN",
+    title: "首都圏189件、コートマップで一望 ——「バスケしようよ！」が新機能公開",
+    excerpt: "草バスケコミュニティサービス「バスケしようよ！」を運営する株式会社Walkersは8月31日、首都圏のストリートバスケットボールコート189件を地図から探せる新機能「コートマップ」を公開したと発表した。東京110件・千葉29件・埼玉28件・神奈川22件を掲載し、会員登録不要・無料で利用できる。",
+    date: "2026.08.31",
+    thumb: "../assets/journal-059-hero.jpg",
+    tile: "COURT MAP"
+  },
+  {
     href: "058-bambitious-basketball-festival.html",
     cat: "JAPAN",
     title: "王寺町とバンビシャス奈良、バスケットボールフェスティバル開催 —— シュート大会や3x3で子どもたちと交流",
