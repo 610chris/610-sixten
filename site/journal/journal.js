@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "057-converse-2faced.html",
+    cat: "KICKS",
+    title: "隠れた名作「COURT STAR」が令和に蘇る —— コンバース「2FACED」9月11日先行発売",
+    excerpt: "コンバースジャパンは8月31日、80年代のアーカイブモデル「COURT STAR」を現代技術でアップデートしたバスケットボールシューズ「2FACED」を発表。MID・LOW・LE LOWの3モデルを9月11日にGALLERY・2 渋谷店とKinetics HARAJUKUで先行発売する。",
+    date: "2026.08.31",
+    thumb: "../assets/journal-057-hero.jpg",
+    tile: "2FACED"
+  },
+  {
     href: "056-josh-green-jazz-trade.html",
     cat: "NBA",
     title: "ジョシュ・グリーン、ジャズへトレード成立 —— ティンバーウルブズ、クミンガ契約完了へサラリー捻出",
