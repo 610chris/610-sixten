@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "058-bambitious-basketball-festival.html",
+    cat: "JAPAN",
+    title: "王寺町とバンビシャス奈良、バスケットボールフェスティバル開催 —— シュート大会や3x3で子どもたちと交流",
+    excerpt: "B.LEAGUE・バンビシャス奈良は8月23日、奈良県王寺町のいずみアリーナで「バスケットボールフェスティバル」を実施したと発表した。シュート大会やバスケットボール教室、3x3の試合、抽選会など多彩な企画で、選手と多くの子どもたちが交流した。",
+    date: "2026.08.31",
+    thumb: "../assets/journal-058-hero.jpg",
+    tile: "BAMBITIOUS"
+  },
+  {
     href: "057-converse-2faced.html",
     cat: "KICKS",
     title: "隠れた名作「COURT STAR」が令和に蘇る —— コンバース「2FACED」9月11日先行発売",
