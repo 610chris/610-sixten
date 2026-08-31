@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "060-his-bleague-partnership.html",
+    cat: "NBA",
+    title: "HIS、B.LEAGUEと「グローカル・パートナー」契約 —— 公式ツアー「B.旅」独占展開へ",
+    excerpt: "HISは8月31日、B.LEAGUEとグローカル・パートナー契約を締結したと発表した。全クラブ対象の公式観戦ツアー「B.旅」の企画・販売独占権を取得し、アジア中心の海外プロモーションやインバウンド送客も進める。",
+    date: "2026.08.31",
+    thumb: "../assets/journal-060-hero.jpg",
+    tile: "HIS x B.LEAGUE"
+  },
+  {
     href: "059-streetball-courtmap.html",
     cat: "JAPAN",
     title: "首都圏189件、コートマップで一望 ——「バスケしようよ！」が新機能公開",
