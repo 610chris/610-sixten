@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "066-joshu-rydeen-upset-supplier.html",
+    cat: "JAPAN",
+    title: "JOSHU RYDEEN、株式会社アップセットとオフィシャルサプライヤー契約締結 —— 群馬発・女子3x3が新シーズンへ体制強化",
+    excerpt: "群馬県太田市を拠点とする女子3x3プロバスケットボールチーム「JOSHU RYDEEN」は9月1日、スポーツメーカーの株式会社アップセットとオフィシャルサプライヤー契約を締結したと発表した。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-066-hero.jpg",
+    tile: "JOSHU RYDEEN × UPSET"
+  },
+  {
     href: "065-uenohara-sunrise-jumpshot3x3.html",
     cat: "JAPAN",
     title: "世界一に続き、国際舞台で準優勝 —— 上野原サンライズ女子、シンガポール「Jumpshot 3x3」で1st Runner Up",
