@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "062-zamst-kawamura-sponsorship.html",
+    cat: "JAPAN",
+    title: "ザムスト、河村勇輝選手とスポンサーシップ契約を更新 —— 2021年から続く4年目のパートナーシップ",
+    excerpt: "日本シグマックスは9月1日、サポート・ケア製品ブランド「ZAMST」と河村勇輝選手のスポンサーシップ契約を更新したと発表した。大学生だった2021年からの関係が、米国挑戦を続ける現在も継続する。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-062-hero.jpg",
+    tile: "ZAMST × KAWAMURA"
+  },
+  {
     href: "061-hamada-sakai-ambassador.html",
     cat: "JAPAN",
     title: "全中制覇の濵田誉（四日市メリノール学院）、堺整骨院とアンバサダー契約 —— 熊本地震復興応援大会も9月開催",
