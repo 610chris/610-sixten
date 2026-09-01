@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "065-uenohara-sunrise-jumpshot3x3.html",
+    cat: "JAPAN",
+    title: "世界一に続き、国際舞台で準優勝 —— 上野原サンライズ女子、シンガポール「Jumpshot 3x3」で1st Runner Up",
+    excerpt: "ジェリービーンズグループが提携する3x3チーム「上野原サンライズ」の女子チームは、シンガポールで開催された国際大会「Jumpshot 3x3 Season 3: Play Bigger」女子の部で準優勝したと9月1日発表した。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-065-hero.jpg",
+    tile: "UENOHARA SUNRISE"
+  },
+  {
     href: "064-unext-bleague-streaming.html",
     cat: "NBA",
     title: "U-NEXT、B.LEAGUE新体制の全試合を見放題配信 —— B.PREMIER・B.ONE、9月22日開幕",
