@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "064-unext-bleague-streaming.html",
+    cat: "NBA",
+    title: "U-NEXT、B.LEAGUE新体制の全試合を見放題配信 —— B.PREMIER・B.ONE、9月22日開幕",
+    excerpt: "U-NEXTは9月1日、9月22日開幕の「りそなグループ B.LEAGUE 2026-27 SEASON」でB.PREMIER最大803試合に加え、新たにB.ONE最大798試合も見放題でライブ配信すると発表した。追加課金なしで全試合が視聴できる。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-064-hero.jpg",
+    tile: "U-NEXT × B.LEAGUE"
+  },
+  {
+    href: "063-bambitious-basketball-day.html",
+    cat: "JAPAN",
+    title: "バンビシャス奈良「バスケの日2026 in 奈良市」開催 —— 奈良市長も参加、約8時間バスケ三昧の一日に",
+    excerpt: "バンビシャス奈良は8月29日、老若男女が一日バスケを楽しむ「バスケの日2026 in 奈良市」をロートアリーナ奈良で開催した。仲川げん奈良市長も参加し、フリースロー大会や中学生以上の8分流し試合など多彩な企画で朝から夕方まで盛り上がった。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-063-hero.jpg",
+    tile: "BASKET DAY 2026"
+  },
+  {
     href: "062-zamst-kawamura-sponsorship.html",
     cat: "JAPAN",
     title: "ザムスト、河村勇輝選手とスポンサーシップ契約を更新 —— 2021年から続く4年目のパートナーシップ",
