@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "070-beril-yokohama-excellence.html",
+    cat: "JAPAN",
+    title: "ライバー事務所Beril、横浜エクセレンスとオフィシャルスポンサー契約 —— 2026-27シーズンから冠試合開催",
+    excerpt: "ライバーマネジメント事務所「Beril」を運営するlapaz株式会社は9月2日、B.LEAGUEのプロバスケットボールクラブ「横浜エクセレンス」と2026-27シーズンのオフィシャルスポンサー契約を締結したと発表した。ホームゲームでのBeril冠試合も予定する。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-070-hero.jpg",
+    tile: "BERIL × YOKOHAMA EXCELLENCE"
+  },
+  {
     href: "069-meitetsu-fe-nagoya-court.html",
     cat: "JAPAN",
     title: "名駅に一夜限りのバスケコート出現 —— 名鉄×FE名古屋、包括連携協定を締結し9月15日にイベント開催",
