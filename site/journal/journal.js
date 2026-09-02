@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "071-westbrook-project-b.html",
+    cat: "NBA",
+    title: "ラッセル・ウェストブルック、新リーグ「Project B」の共同創業者兼最高戦略責任者に就任",
+    excerpt: "引退したばかりのラッセル・ウェストブルックが、2027年1月開幕予定の男女新リーグ「Project B」に共同創業者兼チーフ・ストラテジー・オフィサーとして参加し取締役会にも加わったと、ESPNが9月2日(現地時間)報じた。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-071-hero.jpg",
+    tile: "WESTBROOK × PROJECT B"
+  },
+  {
     href: "070-beril-yokohama-excellence.html",
     cat: "JAPAN",
     title: "ライバー事務所Beril、横浜エクセレンスとオフィシャルスポンサー契約 —— 2026-27シーズンから冠試合開催",
