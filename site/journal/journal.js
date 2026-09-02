@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "069-meitetsu-fe-nagoya-court.html",
+    cat: "JAPAN",
+    title: "名駅に一夜限りのバスケコート出現 —— 名鉄×FE名古屋、包括連携協定を締結し9月15日にイベント開催",
+    excerpt: "名古屋鉄道は9月2日、B.LEAGUEのファイティングイーグルス名古屋と包括連携協定を締結、9月15日に名古屋駅前「Meieki Parklet」で一夜限りのバスケットボールイベントを共同開催すると発表した。期間中は「ナナちゃん」もFE名古屋のユニフォーム姿になる。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-069-hero.jpg",
+    tile: "MEITETSU × FE NAGOYA"
+  },
+  {
     href: "068-albirex-recruit-strategy-lab.html",
     cat: "JAPAN",
     title: "新潟アルビレックスBB、採用戦略研究所とオフィシャルパートナー契約 —— 「新潟社長図鑑」運営元が2026-27シーズンから参入",
