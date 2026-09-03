@@ -12,6 +12,15 @@ const ARTICLES = [
     tile: "NBA docomo × KAWAMURA"
   },
   {
+    href: "073-mills-parker-asvel.html",
+    cat: "NBA",
+    title: "元スパーズの名コンビ再結成 —— パティ・ミルズ、恩師トニー・パーカー率いるASVELへ移籍",
+    excerpt: "元NBA選手のパティ・ミルズが、トニー・パーカーがヘッドコーチを務めるフランス1部ASVELヴィルールバンヌと1年契約を結び加入したと、ESPNが9月2日(現地時間)報じた。スパーズで9年間チームメートだった2人が「勝つ文化」の再現を目指す。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-073-hero.jpg",
+    tile: "MILLS × PARKER × ASVEL"
+  },
+  {
     href: "071-westbrook-project-b.html",
     cat: "NBA",
     title: "ラッセル・ウェストブルック、新リーグ「Project B」の共同創業者兼最高戦略責任者に就任",
