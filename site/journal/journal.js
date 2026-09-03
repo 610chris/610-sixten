@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "072-nba-docomo-kawamura-ambassador.html",
+    cat: "JAPAN",
+    title: "「NBA docomo」新アンバサダーに河村勇輝 —— NBA2026-27シーズンパス、本日発売開始",
+    excerpt: "NTTドコモは9月3日、映像配信サービス「NBA docomo」の新アンバサダーに河村勇輝選手が就任したと発表。同日からNBA2026-27シーズンを通じて視聴できるシーズンパス(16,500円)の販売も始まった。",
+    date: "2026.09.03",
+    thumb: "../assets/journal-072-hero.jpg",
+    tile: "NBA docomo × KAWAMURA"
+  },
+  {
     href: "071-westbrook-project-b.html",
     cat: "NBA",
     title: "ラッセル・ウェストブルック、新リーグ「Project B」の共同創業者兼最高戦略責任者に就任",
