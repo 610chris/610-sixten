@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "074-amen-thompson-rockets-extension.html",
+    cat: "NBA",
+    title: "次代のロケッツを託される —— アメン・トンプソン、5年2億800万ドルの契約延長で合意",
+    excerpt: "ヒューストン・ロケッツが、主力ガードのアメン・トンプソン(23)と5年総額2億800万ドルのルーキー契約延長で合意したと、ESPNが9月3日(現地時間)、複数の関係者の話として報じた。10%のトレードキッカーが付帯し、2024年のアルペレン・シェングンの延長契約とサラリーキャップに占める割合は同水準だという。",
+    date: "2026.09.03",
+    thumb: "../assets/journal-074-hero.jpg",
+    tile: "AMEN THOMPSON × ROCKETS"
+  },
+  {
     href: "072-nba-docomo-kawamura-ambassador.html",
     cat: "JAPAN",
     title: "「NBA docomo」新アンバサダーに河村勇輝 —— NBA2026-27シーズンパス、本日発売開始",
