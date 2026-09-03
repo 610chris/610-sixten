@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "075-eneos-sunflowers-fiba-worldcup.html",
+    cat: "JAPAN",
+    title: "ENEOSサンフラワーズから女子日本代表に4名選出 —— 田中こころ・今野紀花ら、FIBA女子W杯2026へ",
+    excerpt: "ENEOS株式会社は9月3日、実業団の女子バスケットボールクラブ「ENEOSサンフラワーズ」から、9月4日開幕の「FIBA女子バスケットボールワールドカップ2026」女子日本代表に、田中こころ・今野紀花の両選手とスタッフ2名の計4名が選出されたと発表した。",
+    date: "2026.09.03",
+    thumb: "../assets/journal-075-hero.jpg",
+    tile: "ENEOS SUNFLOWERS × TEAM JAPAN"
+  },
+  {
     href: "074-amen-thompson-rockets-extension.html",
     cat: "NBA",
     title: "次代のロケッツを託される —— アメン・トンプソン、5年2億800万ドルの契約延長で合意",
