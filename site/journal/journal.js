@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "076-kings-u15-okinawa-qualifier.html",
+    cat: "JAPAN",
+    title: "琉球ゴールデンキングスの「キングスU15」、沖縄県予選が9月5日開幕 —— 全国大会出場権懸け熱戦",
+    excerpt: "沖縄バスケットボール株式会社は9月4日、運営するB.LEAGUEクラブ「琉球ゴールデンキングス」の育成組織「キングスU15」が、9月5日開幕の「2026年度 第15回U15クラブバスケットボールゲームス沖縄県予選会」に出場すると発表した。",
+    date: "2026.09.04",
+    thumb: "../assets/journal-076-hero.jpg",
+    tile: "KINGS U15 × OKINAWA QUALIFIER"
+  },
+  {
     href: "075-eneos-sunflowers-fiba-worldcup.html",
     cat: "JAPAN",
     title: "ENEOSサンフラワーズから女子日本代表に4名選出 —— 田中こころ・今野紀花ら、FIBA女子W杯2026へ",
