@@ -14,21 +14,34 @@ Anthropicクラウドのスケジュール実行で、610_sixten リポジトリ
 2. `<item>` の title/description が正規表現 `バスケットボール|バスケ|Bリーグ|B\.LEAGUE|NBA|3x3|Wリーグ` に一致するURLを抽出
 3. `journal_auto/seen.txt` に無いURLだけが候補。**候補ゼロなら何もコミットせず終了**
 
-### 1b. インサイダー速報チェック（Shams / Haynes / Scotto・毎回実行）
+### 1b. インサイダー/記者のXポストチェック（14人・毎回実行）
 
-PR TIMESチェックとは独立に、毎回必ずこれも行う。対象は次の3人
-（Haynes/Scottoは2026-08-19クリス指示「Chris HaynesとMichael Scottoのツイートも同じ条件で記事化できるようにできるかな」で追加）:
+PR TIMESチェックとは独立に、毎回必ずこれも行う。対象は次の14人
+（Haynes/Scottoは2026-08-19クリス指示「Chris HaynesとMichael Scottoのツイートも同じ条件で記事化できるようにできるかな」で追加。
+Stein以下11人は2026-09-05クリス指示「信頼性が高い人を探して追加したい・信ぴょう性が低い噂ばかりの人はだめ」で追加。
+**まとめアカウント（NBACentral / Legion Hoops / Hoop Central / ClutchPoints等）は一次取材がなく信頼性基準を満たさないので絶対に対象にしない**）:
 
-| レポーター | `insider_feed.json` の handle | 既読ファイル | 正規URL | 発信者表記 |
-|---|---|---|---|---|
-| Shams Charania | `ShamsCharania` | `journal_auto/seen_shams.txt` | `https://x.com/ShamsCharania/status/<ID>` | Shams Charania（ESPN） |
-| Chris Haynes | `ChrisBHaynes` | `journal_auto/seen_haynes.txt` | `https://x.com/ChrisBHaynes/status/<ID>` | Chris Haynes（NBA on Prime） |
-| Michael Scotto | `MikeAScotto` | `journal_auto/seen_scotto.txt` | `https://x.com/MikeAScotto/status/<ID>` | Michael Scotto（HoopsHype） |
+| レポーター | `insider_feed.json` の handle | 既読ファイル | 正規URL | 発信者表記 | 得意分野 |
+|---|---|---|---|---|---|
+| Shams Charania | `ShamsCharania` | `journal_auto/seen_shams.txt` | `https://x.com/ShamsCharania/status/<ID>` | Shams Charania（ESPN） | 速報 |
+| Chris Haynes | `ChrisBHaynes` | `journal_auto/seen_haynes.txt` | `https://x.com/ChrisBHaynes/status/<ID>` | Chris Haynes（NBA on Prime） | 速報 |
+| Michael Scotto | `MikeAScotto` | `journal_auto/seen_scotto.txt` | `https://x.com/MikeAScotto/status/<ID>` | Michael Scotto（HoopsHype） | 速報・トレード |
+| Marc Stein | `TheSteinLine` | `journal_auto/seen_stein.txt` | `https://x.com/TheSteinLine/status/<ID>` | Marc Stein（The Stein Line） | 速報・リーグ事情 |
+| Jake Fischer | `JakeLFischer` | `journal_auto/seen_fischer.txt` | `https://x.com/JakeLFischer/status/<ID>` | Jake Fischer（The Stein Line） | 速報・トレード/FA |
+| Brian Windhorst | `WindhorstESPN` | `journal_auto/seen_windhorst.txt` | `https://x.com/WindhorstESPN/status/<ID>` | Brian Windhorst（ESPN） | 分析・リーグ内事情 |
+| Tim Bontemps | `TimBontemps` | `journal_auto/seen_bontemps.txt` | `https://x.com/TimBontemps/status/<ID>` | Tim Bontemps（ESPN） | リーグ全体・分析 |
+| Ramona Shelburne | `ramonashelburne` | `journal_auto/seen_shelburne.txt` | `https://x.com/ramonashelburne/status/<ID>` | Ramona Shelburne（ESPN） | 特集・舞台裏 |
+| Anthony Slater | `anthonyVslater` | `journal_auto/seen_slater.txt` | `https://x.com/anthonyVslater/status/<ID>` | Anthony Slater（ESPN） | Warriors・怪我/ロスター |
+| Tim MacMahon | `espn_macmahon` | `journal_auto/seen_macmahon.txt` | `https://x.com/espn_macmahon/status/<ID>` | Tim MacMahon（ESPN） | Mavs/Thunder・西地区 |
+| Dave McMenamin | `mcten` | `journal_auto/seen_mcmenamin.txt` | `https://x.com/mcten/status/<ID>` | Dave McMenamin（ESPN） | Lakers（八村塁関連） |
+| Bobby Marks | `BobbyMarks42` | `journal_auto/seen_marks.txt` | `https://x.com/BobbyMarks42/status/<ID>` | Bobby Marks（ESPN） | 契約・サラリーキャップ解説 |
+| Sam Amick | `sam_amick` | `journal_auto/seen_amick.txt` | `https://x.com/sam_amick/status/<ID>` | Sam Amick（The Athletic） | 速報・特集 |
+| Marc J. Spears | `MarcJSpears` | `journal_auto/seen_spears.txt` | `https://x.com/MarcJSpears/status/<ID>` | Marc J. Spears（Andscape） | 特集・インタビュー |
 
 **取得元は `journal_auto/insider_feed.json`（リポジトリ内のファイル）。自分では外部取得しない。**
 （2026-09-05変更: 旧取得元 nitter.net は 2026-08-25 から HTTP 410 で完全停止し、8/20以降の速報が2週間ゼロになっていた。
-現在は `.github/workflows/shams-poll.yml` が5分おきに r/nba の新着フィードから3人のポストを拾い（r/nba は3人のポストを数分以内に
-「[Charania] 本文…」の形で転載する）、本文つきで `insider_feed.json` に書いて push する。この環境のネットワーク許可リストでは
+現在は `.github/workflows/shams-poll.yml` が5分おきに r/nba の新着フィードから上の表の記者のポストを拾い（r/nba は記者のポストを数分以内に
+「[Charania] 本文…」「[Marc Stein] 本文…」の形で転載する）、本文つきで `insider_feed.json` に書いて push する。この環境のネットワーク許可リストでは
 reddit/x.com に届かないので、curlで nitter や x.com を叩かない・他インスタンスを探し回らない）
 
 （この実行は毎時スケジュールのほか、リポジトリへの push があるたびに webhook でも発火する。
@@ -41,14 +54,14 @@ push するのが即時発火の本命ルート。どちらで起動されても
 `tweet_id` / `posted_utc`（投稿時刻ISO）/ `text`（ポスト本文全文）/ `reddit_url` / `links`（本文中の外部リンク。ESPN記事URL等）。
 直近ウィンドウの既読分も含めて新しい順に最大60件入っている。
 
-3人それぞれについて同じ手順で行う:
+14人それぞれについて同じ手順で行う（`posts` に出てくる handle だけ処理すればよい。出てこない記者は「新着なし」）:
 
 1. `journal_auto/insider_feed.json` を読む（ファイルが無い／`posts` が空なら「新着なし」として続行。`journal_auto/insider_status.txt` が `status=DOWN` なら取得元が止まっている＝その旨をコミットメッセージかログに残す）
 2. `posts` からそのレポーター（`handle`）の要素を取り、`x_url` があればそれが正規URL
 3. 除外: リプライ/リツイートは上流で除外済み。ポッドキャスト・番組・書籍などの宣伝、試合中の実況・雑感は除外
 4. そのレポーターの既読ファイル（上の表）に無い `key` だけが候補。**候補ゼロならそのレポーター分は何もしない**
-5. 採用基準: NBAの速報級の一報（トレード成立・契約合意・引退・重大な怪我・監督/フロント人事・ドラフト指名など）。論評・雑感・既報の細部の続報・ランキング/リスト企画は見送り。採用は**3人合計で1回の実行あたり最大2本**
-6. `posted_utc` が実行時刻より24時間以上前のものは見送り（速報性がないため）
+5. 採用基準: ①NBAの速報級の一報（トレード成立・契約合意・引退・重大な怪我・監督/フロント人事・ドラフト指名など）。②それに加えて、ポストの `links` に espn.com / theathletic.com / andscape.com / marcstein.substack.com など**本人所属媒体の記事URL**があり、その記事が §1c の採用基準（特集・分析も可）を満たすもの（2026-09-05クリス指示「ESPNのNBAの記事とかは参考にどんどん記事を作ってもいい」）。この場合は記事URLを読んで（読めない媒体ならポスト本文だけで判断し、本文に十分な事実がなければ見送り）§1c の書き方で作る。③Bobby Marks の契約・キャップ解説ポストは「数字と仕組みの解説」として記事化してよい（推測の噂は不可）。見送り: 一言の雑感・試合実況・番組/ポッドキャスト/書籍宣伝・既報の細部の続報・根拠の示されない噂。採用は**全記者合計で1回の実行あたり最大3本**（速報を優先し、余った枠で特集・分析）
+6. `posted_utc` が実行時刻より24時間以上前のものは見送り（速報性がないため。ただし上記②の特集・分析系は72時間まで可）
 7. **レポーター間の重複チェック必須**: 同じニュースを複数のレポーターが報じていたら、最も早く報じた1人の分だけ記事化する（先出し優先）。既に §1c（ESPN）や過去記事（`site/journal/journal.js` の ARTICLES・`journal_auto/published.log`）で出しているニュースも見送り
 
 インサイダー記事の作り方（§3の共通ルールに加えて）:
@@ -67,10 +80,10 @@ PR TIMES / Shams とは独立に、毎回必ずこれも行う（2026-08-18ク�
 1. `curl -s --max-time 60 -A 'Mozilla/5.0' https://www.espn.com/espn/rss/nba/news` を取得（ファイルに落としてから部分抽出。全文をコンテキストに載せない）。失敗したら60秒待って1回だけ再試行。それでも失敗したらESPN分だけスキップして続行（理由をコミットメッセージかログに残す）
 2. `<item>` から guid（`US-EN-数字` 形式）/ title / description / link / pubDate を抽出
 3. `journal_auto/seen_espn.txt` に無いguidだけが候補。**候補ゼロならESPN分は何もしない**
-4. 採用基準: **事実の新規ニュースのみ**——契約合意・トレード・重大な怪我・引退・監督/フロント人事・記録達成・訃報級のオフコートニュース。次は見送り: 企画物・ランキング・シーズンプレビュー/総括・採点(grades)・予想(projections/predictions)・まとめ(buzz/recap/primer)・番組/ポッドキャスト宣伝・日程紹介。pubDateが実行時刻より48時間以上前も見送り。採用は1回の実行で最大2本
+4. 採用基準（2026-09-05クリス指示「ESPNのNBAの記事とかは参考にどんどん記事を作ってもいい」で拡大）: **A. 事実の新規ニュース**（契約合意・トレード・重大な怪我・引退・監督/フロント人事・記録達成・訃報級のオフコートニュース）を最優先。**B. 特集・分析も可**——選手/チームの深掘り特集・リーグ動向の分析・シーズンプレビュー/総括・ランキング/採点・トレード/FA市場の展望など、記者の取材と根拠に基づく記事。Bは「ESPNの〇〇記者は〜と分析している」と帰属を明示し、要点を自分の日本語で再構成する（後述6の転載禁止はそのまま）。次は引き続き見送り: 番組/ポッドキャスト/配信宣伝・日程/放送予定の紹介・ベッティング(odds/picks)・ファンタジー・Q&A/チャット書き起こし・写真ギャラリー・NBA以外(WNBA/大学は対象外。ただし日本人選手関連なら可)。pubDateが実行時刻より48時間以上前は見送り（Bの特集・分析は72時間まで可）。採用は1回の実行で最大3本（Aを優先し、余った枠でB）
 5. **既報チェック必須**: `site/journal/journal.js` の ARTICLES と `journal_auto/published.log` を確認し、同じニュースを既に記事化していたら見送り（ShamsはESPN所属なので同じニュースが両ルートから来ることが多い。先に出た方が勝ち）
 6. 記事の作り方は §1b のShams記事と同じ（Wikimedia CommonsのCC写真＋クレジット・カテゴリNBA・§3のSEO/AEOチェックリスト全部）。ただし: **本文はESPN記事の翻訳・要約転載ではなく、ニュースの骨子（誰が・何を・いつ・契約条件などの数字）だけを自分の日本語で書く**。ESPN記者の論評・分析・記事表現の転載はしない。ESPNが「Sources:」としている情報は本文でも「ESPNによると〜と報じられている」と伝聞で書く。出典ブロックは「ESPN + 記事タイトル + 記事URL」
-7. 取得した新着guidは採用/スキップ（企画物・48時間超・既報含む）を問わず**全部** `journal_auto/seen_espn.txt` に追記
+7. 取得した新着guidは採用/スキップ（宣伝・48時間超・既報含む）を問わず**全部** `journal_auto/seen_espn.txt` に追記
 
 ### 2. 判定
 各候補URLのリリースページをcurlで取得し（og:title / og:image / 発表日 / 本文抽出のみ）、次に該当したらスキップ:

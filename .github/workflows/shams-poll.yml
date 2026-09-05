@@ -1,6 +1,7 @@
 name: Shams poll
-# NBAインサイダー3人 (Shams Charania / Chris Haynes / Michael Scotto) の新着ポストを
-# 5分おきに検知し、各既読ファイル (seen_shams.txt / seen_haynes.txt / seen_scotto.txt) に
+# NBAインサイダー/記者 (REPORTERS 参照。2026-09-05 に Shams/Haynes/Scotto の3人から
+# Stein/Fischer/ESPN記者陣/Bobby Marks/Amick/Spears を加えた14人に拡張・クリス選定) の新着ポストを
+# 5分おきに検知し、各既読ファイル (journal_auto/seen_<tag>.txt) に
 # 無いものがあれば journal_auto/insider_feed.json（本文つき）と journal_auto/shams_signal.txt を
 # 更新して push する。この push イベントを claude.ai の webhook トリガーが受けて、
 # クラウドルーチン「610 JOURNAL 自動記事化」を即時起動する（記事化はルーチン側の仕事）。
@@ -60,11 +61,28 @@ jobs:
           import html, json, math, os, re, sys, time, urllib.request, urllib.error
           from datetime import datetime, timezone
 
+          # r/nba タイトルの [姓] タグ → (Xハンドル, 発信者表記, 既読ファイル)
+          # 信頼性基準: 一次取材で速報/分析を出す記者のみ。まとめアカウント(NBACentral/Legion Hoops等)は入れない
           REPORTERS = {
-              'Charania': ('ShamsCharania', 'Shams Charania（ESPN）', 'journal_auto/seen_shams.txt'),
-              'Haynes':   ('ChrisBHaynes',  'Chris Haynes（NBA on Prime）', 'journal_auto/seen_haynes.txt'),
-              'Scotto':   ('MikeAScotto',   'Michael Scotto（HoopsHype）', 'journal_auto/seen_scotto.txt'),
+              'Charania':  ('ShamsCharania',   'Shams Charania（ESPN）',        'journal_auto/seen_shams.txt'),
+              'Haynes':    ('ChrisBHaynes',    'Chris Haynes（NBA on Prime）',  'journal_auto/seen_haynes.txt'),
+              'Scotto':    ('MikeAScotto',     'Michael Scotto（HoopsHype）',   'journal_auto/seen_scotto.txt'),
+              # 2026-09-05 追加（クリス選定）
+              'Stein':     ('TheSteinLine',    'Marc Stein（The Stein Line）',  'journal_auto/seen_stein.txt'),
+              'Fischer':   ('JakeLFischer',    'Jake Fischer（The Stein Line）','journal_auto/seen_fischer.txt'),
+              'Windhorst': ('WindhorstESPN',   'Brian Windhorst（ESPN）',       'journal_auto/seen_windhorst.txt'),
+              'Bontemps':  ('TimBontemps',     'Tim Bontemps（ESPN）',          'journal_auto/seen_bontemps.txt'),
+              'Shelburne': ('ramonashelburne', 'Ramona Shelburne（ESPN）',      'journal_auto/seen_shelburne.txt'),
+              'Slater':    ('anthonyVslater',  'Anthony Slater（ESPN）',        'journal_auto/seen_slater.txt'),
+              'MacMahon':  ('espn_macmahon',   'Tim MacMahon（ESPN）',          'journal_auto/seen_macmahon.txt'),
+              'McMenamin': ('mcten',           'Dave McMenamin（ESPN）',        'journal_auto/seen_mcmenamin.txt'),
+              'Marks':     ('BobbyMarks42',    'Bobby Marks（ESPN）',           'journal_auto/seen_marks.txt'),
+              'Amick':     ('sam_amick',       'Sam Amick（The Athletic）',     'journal_auto/seen_amick.txt'),
+              'Spears':    ('MarcJSpears',     'Marc J. Spears（Andscape）',    'journal_auto/seen_spears.txt'),
           }
+          TAG_BY_LOWER = {k.lower(): k for k in REPORTERS}
+          # r/nba は「[Charania] …」のほか「[Marc Stein] …」「[Brian Windhorst] …」と名前つきで書くこともある
+          TAG_RE = re.compile(r'\s*\[\s*(?:[\w.\-\']+\s+){0,2}(' + '|'.join(REPORTERS) + r')\s*\]\s*(.*)', re.I | re.S)
           UA = '610-journal-bot/1.0 (+https://sixten.jp/journal/; NBA news monitor)'
           SOURCES = [
               'https://www.reddit.com/r/nba/new/.rss?limit=100',
@@ -119,7 +137,7 @@ jobs:
               with open(STATUS_FILE, 'w') as f:
                   f.write(f'status=OK\nsince={now}\nsource={used}\n')
 
-          # ---- 3. r/nba Atom を解析してインサイダー3人のポストだけ抜く
+          # ---- 3. r/nba Atom を解析して REPORTERS のポストだけ抜く
           def strip_html(s):
               s = re.sub(r'<br\s*/?>', '\n', s)
               s = re.sub(r'</p>\s*<p>', '\n\n', s)
@@ -164,23 +182,24 @@ jobs:
               if not tm:
                   continue
               title = html.unescape(tm.group(1)).strip()
-              m = re.match(r'\s*\[\s*(Charania|Haynes|Scotto)\s*\]\s*(.*)', title, re.I | re.S)
+              m = TAG_RE.match(title)
               if not m:
                   continue
-              tag = m.group(1).title()
+              tag = TAG_BY_LOWER[m.group(1).lower()]
               handle, label, seen_file = REPORTERS[tag]
               cm = re.search(r'<content[^>]*>(.*?)</content>', e, re.S)
               content = html.unescape(cm.group(1)) if cm else ''
               content = re.split(r'submitted by', content)[0]
               text = strip_html(content)
-              text = re.sub(r'^\s*\[\s*' + tag + r'\s*\]\s*', '', text, flags=re.I) or m.group(2)
+              text = re.sub(r'^\s*\[[^\]]{1,40}\]\s*', '', text) or m.group(2)
               lm = re.search(r'<link href="([^"]+)"', e)
               reddit_url = html.unescape(lm.group(1)) if lm else ''
               um = re.search(r'<updated>(.*?)</updated>', e)
               posted = um.group(1) if um else ''
               xm = re.search(r'https?://(?:www\.|mobile\.)?(?:x|twitter)\.com/(\w+)/status/(\d+)', content + ' ' + title)
               x_url, tid = '', ''
-              if xm:
+              # 本人のポストURLのときだけ正規URLを作る（他人のツイートを引用した投稿を本人発として扱わない）
+              if xm and xm.group(1).lower() in (handle.lower(), 'i'):
                   tid = xm.group(2)
                   x_url = f'https://x.com/{handle}/status/{tid}'
               links = sorted(set(u.rstrip(').,') for u in re.findall(r'https?://[^\s<"\']+', content)
@@ -203,7 +222,7 @@ jobs:
               print(f"  [{p['tag']}] {p['posted_utc']} {p['key']}\n     {p['text'][:120]!r}")
 
           if new:
-              # insider_feed.json: 直近ウィンドウの3人のポスト全部（既読含む・新しい順）。ルーチンはこれを読む
+              # insider_feed.json: 直近ウィンドウの REPORTERS のポスト全部（既読含む・新しい順）。ルーチンはこれを読む
               posts.sort(key=lambda p: p['posted_utc'], reverse=True)
               feed = [{k: v for k, v in p.items() if k not in ('is_new', 'tag')} for p in posts[:60]]
               # 未読が前回と同じ顔ぶれなら書き換えない（updated_utcだけ変わる無駄commit→5分ごとの再発火を防ぐ）
@@ -234,7 +253,7 @@ jobs:
             git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
             if [ -z "$(gh issue list --state open --search 'インサイダー取得停止 in:title' --json number -q '.[0].number')" ]; then
               gh issue create --title "⚠️ インサイダー取得停止（shams-poll）" \
-                --body "$(printf 'r/nba フィードの取得が全滅しました（%s）。復旧するまで Shams/Haynes/Scotto の速報記事は止まります。\n\n確認: Actions → Shams poll のログ。復旧すると自動で status=OK に戻り、このIssueも自動で閉じます。\n\n対象: journal_auto/insider_status.txt' "$(date -u '+%Y-%m-%d %H:%M UTC')")"
+                --body "$(printf 'r/nba フィードの取得が全滅しました（%s）。復旧するまでインサイダー/記者（Shams/Haynes/Scotto/Stein/Fischer/ESPN記者陣ほか）由来の速報記事は止まります。\n\n確認: Actions → Shams poll のログ。復旧すると自動で status=OK に戻り、このIssueも自動で閉じます。\n\n対象: journal_auto/insider_status.txt' "$(date -u '+%Y-%m-%d %H:%M UTC')")"
             fi
             echo "::error::insider sources are DOWN"
             exit 1
