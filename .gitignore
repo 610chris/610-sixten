@@ -7,3 +7,7 @@ journal_auto/.lock
 journal_auto/candidates.txt
 journal_auto/last_result.txt
 journal_auto/.surge_token
+
+# 本社フォルダ(経営・経理・契約など)はローカル専用・push しない
+61*/
+ブランド/
