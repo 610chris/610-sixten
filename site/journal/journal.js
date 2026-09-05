@@ -53,7 +53,7 @@ const ARTICLES = [
     title: "新HCスウィーニーで巻き返しなるか —— ESPN、オーランド・マジックの2026-27シーズンを展望",
     excerpt: "ESPNは9月4日(現地時間)、オーランド・マジックの2026-27シーズンを展望する特集記事を公開。前シーズン限りでジェイマール・モズレー氏を解任しショーン・スウィーニー新ヘッドコーチを招へいしたほか、ニコラ・ヴチェビッチを1年390万ドルで再獲得したと伝え、パオロ・バンケロ、フランツ・ワグナーらの健康状態とディフェンス改善が浮上の鍵になるとしている。",
     date: "2026.09.04",
-    thumb: "../assets/journal-081-hero.jpg",
+    thumb: "../assets/journal-081-hero.jpg?v=20260905",
     tile: "ORLANDO MAGIC × 2026-27"
   },
   {
@@ -80,7 +80,7 @@ const ARTICLES = [
     title: "ENEOSサンフラワーズから女子日本代表に4名選出 —— 田中こころ・今野紀花ら、FIBA女子W杯2026へ",
     excerpt: "ENEOS株式会社は9月3日、実業団の女子バスケットボールクラブ「ENEOSサンフラワーズ」から、9月4日開幕の「FIBA女子バスケットボールワールドカップ2026」女子日本代表に、田中こころ・今野紀花の両選手とスタッフ2名の計4名が選出されたと発表した。",
     date: "2026.09.03",
-    thumb: "../assets/journal-075-hero.jpg",
+    thumb: "../assets/journal-075-hero.jpg?v=20260905",
     tile: "ENEOS SUNFLOWERS × TEAM JAPAN"
   },
   {
@@ -161,7 +161,7 @@ const ARTICLES = [
     title: "ターコ・フォール、76ersとキャンプ契約 —— ネルソン・ジュニア、セイント・トーマスも同時合意",
     excerpt: "76ersは9月1日、身長231cm(7フィート6インチ)のセンター、ターコ・フォールとエキシビット10契約(キャンプ契約)で合意したと発表。ジェイミア・ネルソン・ジュニア、セイント・トーマスとも同時契約し、3人は今月開催のキャンプでロースター入りを争う。",
     date: "2026.09.01",
-    thumb: "../assets/journal-067-hero.jpg",
+    thumb: "../assets/journal-067-hero.jpg?v=20260905",
     tile: "TACKO FALL × 76ers"
   },
   {
@@ -260,7 +260,7 @@ const ARTICLES = [
     title: "ジョシュ・グリーン、ジャズへトレード成立 —— ティンバーウルブズ、クミンガ契約完了へサラリー捻出",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。ミネソタ・ティンバーウルブズはウィングのジョシュ・グリーンと現金をユタ・ジャズへトレードし、見返りにコーディ・ウィリアムズとジョン・コンチャーを獲得。グリーンの1470万ドルの給与を放出し、ジョナサン・クミンガとの2年1240万ドル契約を完了させるための資金繰りだった。",
     date: "2026.08.29",
-    thumb: "../assets/journal-056-hero.jpg",
+    thumb: "../assets/journal-056-hero.jpg?v=20260905",
     tile: "JOSH GREEN"
   },
   {
@@ -296,7 +296,7 @@ const ARTICLES = [
     title: "フランチャイズ史上2人目の栄誉 —— ラプターズ、カイル・ラウリーの背番号7永久欠番を発表",
     excerpt: "トロント・ラプターズは、カイル・ラウリーの背番号7を永久欠番にすると8月27日発表した。2026年1月10日のフィラデルフィア・セブンティシクサーズ戦後にセレモニーを行い、バンス・カーターに次ぐ球団史上2人目の永久欠番選手となる。ラウリーは9シーズン在籍しオールスター6回選出、2018-19シーズンの優勝メンバーだった。",
     date: "2026.08.27",
-    thumb: "../assets/journal-052-hero.jpg",
+    thumb: "../assets/journal-052-hero.jpg?v=20260905",
     tile: "LOWRY"
   },
   {
@@ -332,7 +332,7 @@ const ARTICLES = [
     title: "大阪エヴェッサ・藤田弘輝HC、日本代表コーチに選出 —— FIBAワールドカップ2027アジア予選、サウジアラビア戦で指揮",
     excerpt: "大阪エヴェッサの藤田弘輝ヘッドコーチが、8月28日にサウジアラビアで行われる「FIBAバスケットボールワールドカップ2027アジア地区予選Window4」のサウジアラビア戦で日本代表コーチに選出されたと大阪エヴェッサが8月27日発表した。",
     date: "2026.08.27",
-    thumb: "../assets/journal-048-hero.jpg",
+    thumb: "../assets/journal-048-hero.jpg?v=20260905",
     tile: "FUJITA"
   },
   {
@@ -395,7 +395,7 @@ const ARTICLES = [
     title: "ウォリアーズがジョージ・ニアングと1年390万ドルで契約合意 —— ブランドン・ウィリアムズに続く今夏2人目の補強、15人ロースターが確定",
     excerpt: "ゴールデンステート・ウォリアーズがフリーエージェントのベテランPF、ジョージ・ニアングと1年390万ドルで契約合意。ESPNのシャムズ・チャラニア氏が一報。同日発表のブランドン・ウィリアムズに続く今夏2人目の外部補強で、15人ロースターが確定した。",
     date: "2026.08.25",
-    thumb: "../assets/journal-041-hero.jpg",
+    thumb: "../assets/journal-041-hero.jpg?v=20260905",
     tile: "NIANG"
   },
   {
@@ -404,7 +404,7 @@ const ARTICLES = [
     title: "ウォリアーズがブランドン・ウィリアムズと1年260万ドルで契約合意 —— マーベリックスから加入、バトラー&ムーディ離脱のベンチ層を補強",
     excerpt: "ゴールデンステート・ウォリアーズがフリーエージェントのガード、ブランドン・ウィリアムズと1年260万ドル(最低保証額)で契約合意。代理人がESPNのシャムズ・チャラニア氏に明らかにした。マーベリックスから加入し、開幕から離脱するバトラーとムーディの穴を埋める狙い。",
     date: "2026.08.25",
-    thumb: "../assets/journal-040-hero.jpg",
+    thumb: "../assets/journal-040-hero.jpg?v=20260905",
     tile: "WILLIAMS"
   },
   {
@@ -413,7 +413,7 @@ const ARTICLES = [
     title: "シェイドン・シャープが右膝半月板損傷 —— ブレイザーズの23歳、全治6ヶ月で2026-27シーズン大半を欠場へ",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。ポートランド・トレイルブレイザーズのシェイドン・シャープ(23)が右膝の半月板を損傷し、全治6ヶ月の見通し。前季に続き2年連続の長期離脱となる。",
     date: "2026.08.24",
-    thumb: "../assets/journal-039-hero.jpg",
+    thumb: "../assets/journal-039-hero.jpg?v=20260905",
     tile: "SHARPE"
   },
   {
@@ -557,7 +557,7 @@ const ARTICLES = [
     title: "遅めのオフシーズンに、掘り出し物 —— トレンドン・ワトフォード、ペリカンズと1年290万ドルで契約合意",
     excerpt: "Shams Charania（ESPN）が一報。FAのトレンドン・ワトフォードが、ニューオーリンズ・ペリカンズと1年290万ドルの契約に合意した。",
     date: "2026.08.17",
-    thumb: "../assets/journal-023-hero.jpg",
+    thumb: "../assets/journal-023-hero.jpg?v=20260905",
     tile: "WATFORD"
   },
   {
@@ -611,7 +611,7 @@ const ARTICLES = [
     title: "コーンロウとアームスリーブ —— アレン・アイバーソンがコートに持ち込んだ「街」",
     excerpt: "NBAとヒップホップの距離を一気に縮めた男の話。",
     date: "2026.08.12",
-    thumb: "../assets/journal-002-hero.jpg",
+    thumb: "../assets/journal-002-hero.jpg?v=20260905",
     tile: "IVERSON"
   },
   {
@@ -674,7 +674,7 @@ const ARTICLES = [
     title: "八村塁が選んだ、次の3人 —— 佐藤凪、トンプソン・ヨセフ・ハサン、磯田陸斗がSUMMITへ",
     excerpt: "渡米、大学、Bユース。3人3様のルートがIG ARENAに集まる。招待16名の残る1枠はKOBE CAMP MVP。",
     date: "2026.07.29",
-    thumb: "../assets/journal-013-hero.jpg",
+    thumb: "../assets/journal-013-hero.jpg?v=20260905",
     tile: "NEXTGEN"
   },
   {
@@ -738,7 +738,7 @@ const ARTICLES = [
     title: "大濠から3人、開志国際から2人 —— BLACK SAMURAI SUMMIT 2026、招待選手第二弾と指導陣が発表",
     excerpt: "名古屋・IG ARENAに集うU18招待選手第二弾と指導陣が発表。MVPにはNBA観戦ツアーが贈られる。",
     date: "2026.07.22",
-    thumb: "../assets/journal-018-hero.jpg",
+    thumb: "../assets/journal-018-hero.jpg?v=20260905",
     tile: "ROSTER"
   },
   {
