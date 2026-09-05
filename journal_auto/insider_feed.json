@@ -1,43 +1,81 @@
 {
- "updated_utc": "2026-09-05 06:22 UTC",
+ "updated_utc": "2026-09-05 09:48 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1w76m74/charania_wnba_commissioner_cathy_engelbert_has/",
+   "reporter": "Sam Amick（The Athletic）",
+   "handle": "sam_amick",
+   "key": "https://www.reddit.com/r/nba/comments/1w6ceig/amick_that_was_a_familiar_refrain_from_rival/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-09-04T14:53:01+00:00",
-   "text": "WNBA commissioner Cathy Engelbert has decided to retire at the end of the season, sources tell ESPN.\n\nWNBA commissioner Cathy Engelbert has decided to retire at the end of the season, sources tell ESPN.\n\nhttps://imgur.com/a/RMqnT1V",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1w76m74/charania_wnba_commissioner_cathy_engelbert_has/",
+   "posted_utc": "2026-09-03T16:31:52+00:00",
+   "text": "Source: https://www.nytimes.com/athletic/7560941/2026/09/02/kawhi-leonard-uncle-dennis-robertson-clippers-punishment-2019/\n\nStill, this warning that was issued the Clippers’ way back then in my 2019 report is quite prescient now:\n\n“(Silver) sees salary cap circumvention as a cardinal sin in the NBA, and will always keep a watchful eye on that front. If any relevant evidence of improper benefits surfaces in the future, the league will re-open the investigation and pursue the charges yet again.”\n\nNo matter what the NBA ultimately found here, the widespread perception that the Clippers had cheated created immense pressure on Silver to come down with some sort of discipline as a way to keep the other 29 teams in check. That was a familiar refrain from rival executives and owners in the (many) months leading to the ruling, with many of them warning that a lack of punishment for the Clippers would send a strong sign across the Association that these player recruitment rules were made to be broken.\n\n“It’ll be open season,” as one general manager — who spoke on the condition of anonymity to discuss the ongoing investigation — put it.\n\nAs scare tactics go, it doesn’t get more terrifying than $30 million and five first-rounders going poof for the people who own and run these teams.\n\n“(The NBA) had to (do this) for the integrity of the game,” that same general manager said after the ruling.\n\nYet the league not only came down hard here, but did so with the backing of the Wachtell report that makes it so hard to understand how the Clippers can continue to claim innocence.\n\nSilver finished what the infamous Uncle Dennis had so recklessly started, really. And in the end, that was the call that mattered most.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1w6ceig/amick_that_was_a_familiar_refrain_from_rival/",
    "links": [
-    "https://imgur.com/a/RMqnT1V"
+    "https://www.nytimes.com/athletic/7560941/2026/09/02/kawhi-leonard-uncle-dennis-robertson-clippers-punishment-2019/"
    ]
   },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1w74kl4/charania_just_in_threetime_allstar_ben_simmons/",
+   "key": "https://www.reddit.com/r/nba/comments/1w68xis/charania_just_in_houston_rockets_amen_thompson/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-09-04T13:34:06+00:00",
-   "text": "Just in: Three-time All-Star Ben Simmons has agreed on a one-year, $3.5 million deal with the Sacramento Kings, his agents Max Wiepking, Sean Tribe and Ryan Arney tell me and @MarcJSpears. The one-time All-NBA star is back in the NBA for a 10th season after sitting out 2025-26.\n\nSimmons traveled to visit the Kings in Sacramento on Monday, undergoing in-depth medical exams, an on-court workout and meetings with coach Doug Christie and other staffers, sources said. In late August, Simmons also worked out for general manager Scott Perry and met with Perry for an hour.\n\nBy all accounts within the Kings as well as Team Australia officials where Simmons participated in a players-only minicamp last month, the 30-year-old has looked and felt strong health-wise.\n\nhttps://www.espn.com/contributor/shams-charania/97702ca988462",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1w74kl4/charania_just_in_threetime_allstar_ben_simmons/",
+   "posted_utc": "2026-09-03T14:25:40+00:00",
+   "text": "Shams Charania:\n\nJust in: Houston Rockets' Amen Thompson has agreed to a five-year, $208 million rookie-scale contract extension with the franchise, sources tell ESPN. The new deal includes a 10% trade kicker.\n\nhttps://www.espn.com/contributor/shams-charania/848148952e0e0",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1w68xis/charania_just_in_houston_rockets_amen_thompson/",
    "links": [
-    "https://www.espn.com/contributor/shams-charania/97702ca988462"
+    "https://www.espn.com/contributor/shams-charania/848148952e0e0"
    ]
   },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1w6e35n/charania_kawhi_leonard_reportedly_did_not_have/",
+   "key": "https://www.reddit.com/r/nba/comments/1w68ocx/charania_i_had_one_executive_tell_me_last_night/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-09-03T17:31:41+00:00",
-   "text": "Kawhi Leonard reportedly did not have any knowledge of the salary cap circumvention that was going on",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1w6e35n/charania_kawhi_leonard_reportedly_did_not_have/",
+   "posted_utc": "2026-09-03T14:16:21+00:00",
+   "text": "“I had one executive tell me last night, that the Clippers were essentially acting like a power agent brokering deals for Kawhi Leonard. That's millions and millions of cash flow coming into Kawhi. By mid-2021, Kawhi had pocketed tens of millions of dollars in no-show endorsement deals.”",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1w68ocx/charania_i_had_one_executive_tell_me_last_night/",
    "links": []
+  },
+  {
+   "reporter": "Brian Windhorst（ESPN）",
+   "handle": "WindhorstESPN",
+   "key": "https://www.reddit.com/r/nba/comments/1w5x3l9/windhorst_i_would_accept_the_punishment_if_they/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-03T04:23:05+00:00",
+   "text": "I would accept the punishment. If they are able to trade Kawhi, they can instantaneously recoup 2 firsts. And, the Wolves were hit with a 5 pick penalty. But the Wolves cooperated, and they were given back 2 picks. Their eventual penalty was only 3 firsts.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1w5x3l9/windhorst_i_would_accept_the_punishment_if_they/",
+   "links": []
+  },
+  {
+   "reporter": "Brian Windhorst（ESPN）",
+   "handle": "WindhorstESPN",
+   "key": "https://www.reddit.com/r/nba/comments/1w5t7vt/windhorst_in_the_case_of_scoreboard_maker/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-03T01:15:25+00:00",
+   "text": "Source: https://www.espn.com/nba/story/\\_/id/49806356/nba-announces-punishments-clippers-kawhi-probe\n\nA significant crux of this case appears to come down to the words \"affirmative\" and \"responsive\" as it pertained to how Leonard and the four companies arrived at endorsement deals.\n\nIn the investigator's report and in the Clippers' subsequent publicly-released response, each side accuses the other of a flawed theory in how interactions between Leonard and the four companies were handled.\n\nThe report repeatedly rejects the Clippers' argument that the connections were affirmative and, in some cases, cites admissions by the companies' themselves.\n\nThe details make for compelling reading. In the case of scoreboard maker Daktronics, for example, the investigators accuse the Clippers of directing a kickback from massive scoreboard contract for Intuit Dome to Leonard in the form of an endorsement deal and even setting the terms.\n\nIn other cases, the report cites the Clippers paying millions in \"consulting\" fees shortly after Leonard's endorsement deals were executed.\n\nAccording to investigators, contemporaneous notes from Frank indicate that Robertson complained to Ballmer that Zucker, the president of business operations, was making \"introductions\" for \"bulls- deals,\" and that \"I have to get paid.\"\n\nInvestigators cited the same notes as saying Ballmer told Robertson that Clippers staff were \"collective workers to try and help [Leonard] achieve his financial goals.\"\n\nIn addition to the notes written by Frank, who appears to have been given leniency for his cooperation, the report cites information that appears to have come from interviews with executives from the involved companies that created a compelling case.\n\nThe punishment was compounded by the Clippers being previous offenders during Ballmer's tenure as owner. They were fined $250,000 for a similar accusation involving DeAndre Jordan in 2015. There was also a 2019 investigation into Leonard's signing in which they were cleared of wrongdoing but subsequently warned and put through a seminar to remind them of the rules.\n\nAlso from Ramona:\n\nZucker has been the head of business operations for the Clippers since Ballmer bought the team, and was the point person on all four deals between the team sponsors who also had endorsement contracts with Leonard.\n\nThe report from Wachtell comes down harshly on her, concluding \"when interviewed, she made misleading and false statements to investigators.\"\n\nIn one particularly detailed section of the report investigators wrote that when Aspiration co-founder Joseph Sanberg told her he wanted to explore an endorsement agreement with Leonard, she \"told Mr. Sanberg that she would enlist a particular business agent to assist Mr. Sanberg in structuring the agreement -- a business agent who was then under a retention agreement with the Clippers.\"\n\nOne day later, the report concludes that Zucker reached out to the business agent to help Mr. Sanberg.\n\nThat agent then emailed internal colleagues about the deal -- that Sanberg would offer Leonard $5 million, plus $7 million in stock, per year for four years as long as Leonard was with the Clippers.\n\nThe investigators concluded that Zucker improperly conveyed to the agent the proposed financial terms contained in this email.\n\nThe agent told investigators that neither the agent nor the agent's internal team came up with those terms. All relevant witnesses [including Zucker] agreed that Sanberg could not have come up with those terms because he didn't have experience structuring player endorsement deals.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1w5t7vt/windhorst_in_the_case_of_scoreboard_maker/",
+   "links": [
+    "https://www.espn.com/nba/story/%5C_/id/49806356/nba-announces-punishments-clippers-kawhi-probe",
+    "https://www.espn.com/nba/story/\\_/id/49806356/nba-announces-punishments-clippers-kawhi-probe"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1w5o98p/charania_the_nbas_rulings_regarding_the_clippers/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-02T21:45:45+00:00",
+   "text": "Source 1 – Shams Charania, ESPN:\n\nThe NBA's rulings are final -- there is no formal appeal or arbitration process available to the Clippers with the league. LA's only outlet to fight the punishment is in court.\n\nThe NBA's rulings are final -- there is no formal appeal or arbitration process available to the Clippers with the league. LA's only outlet to fight the punishment is in court.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1w5o98p/charania_the_nbas_rulings_regarding_the_clippers/",
+   "links": [
+    "https://bsky.app/profile/shamsbot.bsky.social/post/3mukvojc3572v"
+   ]
   }
  ]
 }
