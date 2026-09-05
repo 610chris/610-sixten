@@ -1,17 +1,28 @@
 name: Shams poll
-# NBAインサイダー3人 (Shams Charania / Chris Haynes / Michael Scotto) の nitter RSS を
-# 軽量ポーリングし、新着（リプライ/RT除く）が各既読ファイル
-# (seen_shams.txt / seen_haynes.txt / seen_scotto.txt) に無ければ
-# journal_auto/shams_signal.txt を更新して push する。
-# (2026-08-19 Haynes/Scotto追加。ファイル名・シグナル名は既存webhook連携を崩さないため据え置き)この push イベントを claude.ai の webhook トリガーが受けて、
+# NBAインサイダー3人 (Shams Charania / Chris Haynes / Michael Scotto) の新着ポストを
+# 5分おきに検知し、各既読ファイル (seen_shams.txt / seen_haynes.txt / seen_scotto.txt) に
+# 無いものがあれば journal_auto/insider_feed.json（本文つき）と journal_auto/shams_signal.txt を
+# 更新して push する。この push イベントを claude.ai の webhook トリガーが受けて、
 # クラウドルーチン「610 JOURNAL 自動記事化」を即時起動する（記事化はルーチン側の仕事）。
-# ルーチンはチェックした新着を必ず seen_shams.txt に追記して push するので、
+#
+# 取得元（2026-09-05 変更）: nitter.net が 2026-08-25 から HTTP 410 (Gone) で完全停止したため、
+# r/nba の新着フィード（https://www.reddit.com/r/nba/new/.rss）を読む。r/nba は3人のポストを
+# 数分以内に「[Charania] 本文…」「[Haynes] …」「[Scotto] …」のタイトルで転載しており、本文全文が入る。
+# ポスト内に x.com/twitter.com のstatus URLがあれば正規URLを復元し、
+# cdn.syndication.twimg.com/tweet-result で元ツイート全文を取り直す（失敗時は r/nba 本文を使う）。
+# ルーチン側の実行環境はネットワーク許可リスト制（reddit不可・github可）なので、
+# ルーチンは自分で取得せず、ここが commit した insider_feed.json を読む。
+#
+# 停止検知: 取得元が全滅したら journal_auto/insider_status.txt を DOWN にして commit し、
+# GitHub Issue を1件立て、そのrunだけ失敗(赤)にする。以降は復旧するまで静かにスキップ
+# （5分ごとに赤にすると通知が洪水になるため状態遷移時だけ）。復旧したら OK に戻して Issue を閉じる。
+#
+# ルーチンはチェックした新着を必ず seen_*.txt に追記して push するので、
 # ここの判定は次回ポーリングで自然に収束する（毎時ルーチンはフォールバックとして併走）。
 # ループ安全性: ルーチンは候補ゼロなら commit しない＝push しない＝再発火しないため自己終息する。
 # 注: GITHUB_TOKEN の push は他の Actions (deploy.yml) を起動しない仕様（GitHubの再帰防止）。
-#     shams_signal.txt はサイト外ファイルなのでデプロイ不要＝この仕様で問題ない。
+#     journal_auto/ 配下はサイト外ファイルなのでデプロイ不要＝この仕様で問題ない。
 # 間隔: リポジトリはpublic(2026-08-17クリス決定)なのでActionsは無料無制限。5分間隔で常時ポーリング。
-# (実際のGitHub schedulerは負荷次第で5〜15分程度に遅延することがある)
 # ⚠️ privateに戻す場合は無料枠2,000分/月に収まらないため間隔の再設計が必要。
 on:
   schedule:
@@ -24,6 +35,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: shams-poll
@@ -32,81 +44,205 @@ concurrency:
 jobs:
   poll:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
         with:
           sparse-checkout: journal_auto
       - name: Check for new insider posts
         id: check
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           echo "new=false" >> "$GITHUB_OUTPUT"
-          # 3人分を順に取得（nitterのレート制限を避けるため間隔を空ける）。
-          # 取れなかった人はそのポーリング回だけスキップ（次回に自然に回収される）
-          ok=0
-          for h in ShamsCharania ChrisBHaynes MikeAScotto; do
-            if curl -sf --max-time 45 -A 'Mozilla/5.0' "https://nitter.net/$h/rss" -o "/tmp/$h.rss"; then
-              ok=$((ok+1))
-            else
-              echo "RSS fetch failed for $h — skip this handle"
-              rm -f "/tmp/$h.rss"
-            fi
-            sleep 5
-          done
-          if [ "$ok" = "0" ]; then
-            echo "all RSS fetches failed — skip this run"
-            exit 0
-          fi
+          echo "transition=none" >> "$GITHUB_OUTPUT"
           python3 - <<'EOF'
-          import html, os, re
-          FEEDS = [
-              ('ShamsCharania', 'journal_auto/seen_shams.txt'),
-              ('ChrisBHaynes', 'journal_auto/seen_haynes.txt'),
-              ('MikeAScotto', 'journal_auto/seen_scotto.txt'),
+          import html, json, math, os, re, sys, time, urllib.request, urllib.error
+          from datetime import datetime, timezone
+
+          REPORTERS = {
+              'Charania': ('ShamsCharania', 'Shams Charania（ESPN）', 'journal_auto/seen_shams.txt'),
+              'Haynes':   ('ChrisBHaynes',  'Chris Haynes（NBA on Prime）', 'journal_auto/seen_haynes.txt'),
+              'Scotto':   ('MikeAScotto',   'Michael Scotto（HoopsHype）', 'journal_auto/seen_scotto.txt'),
+          }
+          UA = '610-journal-bot/1.0 (+https://sixten.jp/journal/; NBA news monitor)'
+          SOURCES = [
+              'https://www.reddit.com/r/nba/new/.rss?limit=100',
+              'https://old.reddit.com/r/nba/new/.rss?limit=100',
           ]
-          new = []
-          for handle, seen_file in FEEDS:
+          FEED_FILE = 'journal_auto/insider_feed.json'
+          SIGNAL_FILE = 'journal_auto/shams_signal.txt'
+          STATUS_FILE = 'journal_auto/insider_status.txt'
+          out = open(os.environ['GITHUB_OUTPUT'], 'a')
+
+          def get(url, timeout=40, ua=UA):
+              req = urllib.request.Request(url, headers={'User-Agent': ua, 'Accept': '*/*'})
+              with urllib.request.urlopen(req, timeout=timeout) as r:
+                  return r.read().decode('utf-8', 'replace')
+
+          # ---- 1. 取得（複数ソース・各2回まで）
+          body, used = None, None
+          for src in SOURCES:
+              for attempt in (1, 2):
+                  try:
+                      body = get(src)
+                      if '<entry>' in body:
+                          used = src
+                          break
+                      print(f'{src}: no <entry> in response ({len(body)} bytes)')
+                  except Exception as e:
+                      print(f'{src} attempt {attempt}: {e}')
+                  time.sleep(20)
+              if used:
+                  break
+
+          # ---- 2. 停止検知の状態遷移
+          def read_status():
               try:
-                  rss = open(f'/tmp/{handle}.rss', encoding='utf-8').read()
+                  return dict(l.strip().split('=', 1) for l in open(STATUS_FILE) if '=' in l)
               except FileNotFoundError:
+                  return {}
+          prev = read_status().get('status', 'OK')
+          now = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')
+          if not used:
+              print('all sources failed')
+              if prev != 'DOWN':
+                  with open(STATUS_FILE, 'w') as f:
+                      f.write(f'status=DOWN\nsince={now}\nsources={" | ".join(SOURCES)}\n')
+                  out.write('transition=down\n')
+              sys.exit(0)
+          if prev == 'DOWN':
+              with open(STATUS_FILE, 'w') as f:
+                  f.write(f'status=OK\nsince={now}\nsource={used}\n')
+              out.write('transition=up\n')
+          elif not os.path.exists(STATUS_FILE):
+              with open(STATUS_FILE, 'w') as f:
+                  f.write(f'status=OK\nsince={now}\nsource={used}\n')
+
+          # ---- 3. r/nba Atom を解析してインサイダー3人のポストだけ抜く
+          def strip_html(s):
+              s = re.sub(r'<br\s*/?>', '\n', s)
+              s = re.sub(r'</p>\s*<p>', '\n\n', s)
+              s = re.sub(r'<[^>]+>', '', s)
+              return html.unescape(s).strip()
+
+          def tweet_token(tid):
+              return re.sub(r'(0+|\.)', '', _to_base36((int(tid) / 1e15) * math.pi))
+          def _to_base36(x):
+              # JS Number.toString(36) 相当（整数部+小数部）
+              ip = int(x); fp = x - ip; digs = '0123456789abcdefghijklmnopqrstuvwxyz'
+              s = '' if ip else '0'
+              while ip:
+                  s = digs[ip % 36] + s; ip //= 36
+              if fp:
+                  s += '.'
+                  for _ in range(12):
+                      fp *= 36; d = int(fp); s += digs[d]; fp -= d
+              return s
+
+          def fetch_tweet_text(tid):
+              try:
+                  j = json.loads(get(f'https://cdn.syndication.twimg.com/tweet-result?id={tid}&token={tweet_token(tid)}',
+                                     timeout=20, ua='Mozilla/5.0'))
+                  t = j.get('text') or ''
+                  return t.strip(), (j.get('user') or {}).get('screen_name', '')
+              except Exception as e:
+                  print(f'  tweet-result {tid}: {e}')
+                  return '', ''
+
+          seen = {}
+          for tag, (handle, label, seen_file) in REPORTERS.items():
+              try:
+                  seen[tag] = {l.strip() for l in open(seen_file) if l.strip()}
+              except FileNotFoundError:
+                  seen[tag] = set()
+
+          entries = re.findall(r'<entry>(.*?)</entry>', body, re.S)
+          posts = []
+          for e in entries:
+              tm = re.search(r'<title>(.*?)</title>', e, re.S)
+              if not tm:
                   continue
-              try:
-                  seen = {l.strip() for l in open(seen_file) if l.strip()}
-              except FileNotFoundError:
-                  seen = set()
-              for item in re.findall(r'<item>.*?</item>', rss, re.S):
-                  t = re.search(r'<title>(.*?)</title>', item, re.S)
-                  l = re.search(r'<link>(.*?)</link>', item, re.S)
-                  if not t or not l:
-                      continue
-                  title = html.unescape(t.group(1)).strip()
-                  # ルーチン側 §1b の除外と同じ決定的フィルタ（リプライ/RT）
-                  if title.startswith('R to ') or title.startswith('RT by'):
-                      continue
-                  m = re.search(r'/status/(\d+)', l.group(1))
-                  if not m:
-                      continue
-                  url = f'https://x.com/{handle}/status/{m.group(1)}'
-                  if url not in seen:
-                      new.append(url)
-          print(f'new posts: {len(new)}')
-          for u in new:
-              print(' ', u)
-          with open('/tmp/new_shams.txt', 'w') as f:
-              f.writelines(u + '\n' for u in new)
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-              f.write(f"new={'true' if new else 'false'}\n")
+              title = html.unescape(tm.group(1)).strip()
+              m = re.match(r'\s*\[\s*(Charania|Haynes|Scotto)\s*\]\s*(.*)', title, re.I | re.S)
+              if not m:
+                  continue
+              tag = m.group(1).title()
+              handle, label, seen_file = REPORTERS[tag]
+              cm = re.search(r'<content[^>]*>(.*?)</content>', e, re.S)
+              content = html.unescape(cm.group(1)) if cm else ''
+              content = re.split(r'submitted by', content)[0]
+              text = strip_html(content)
+              text = re.sub(r'^\s*\[\s*' + tag + r'\s*\]\s*', '', text, flags=re.I) or m.group(2)
+              lm = re.search(r'<link href="([^"]+)"', e)
+              reddit_url = html.unescape(lm.group(1)) if lm else ''
+              um = re.search(r'<updated>(.*?)</updated>', e)
+              posted = um.group(1) if um else ''
+              xm = re.search(r'https?://(?:www\.|mobile\.)?(?:x|twitter)\.com/(\w+)/status/(\d+)', content + ' ' + title)
+              x_url, tid = '', ''
+              if xm:
+                  tid = xm.group(2)
+                  x_url = f'https://x.com/{handle}/status/{tid}'
+              links = sorted(set(u.rstrip(').,') for u in re.findall(r'https?://[^\s<"\']+', content)
+                                 if 'reddit.com' not in u and 'redd.it' not in u))
+              key = x_url or reddit_url
+              posts.append({
+                  'reporter': label, 'handle': handle, 'key': key, 'x_url': x_url,
+                  'tweet_id': tid, 'posted_utc': posted, 'text': text,
+                  'reddit_url': reddit_url, 'links': links, 'is_new': key not in seen[tag], 'tag': tag,
+              })
+
+          new = [p for p in posts if p['is_new']]
+          print(f'insider posts in window: {len(posts)}  new: {len(new)}  (source: {used})')
+          for p in new:
+              if p['tweet_id']:
+                  full, sn = fetch_tweet_text(p['tweet_id'])
+                  if full and (not sn or sn.lower() == p['handle'].lower()):
+                      p['text'] = full
+                  time.sleep(2)
+              print(f"  [{p['tag']}] {p['posted_utc']} {p['key']}\n     {p['text'][:120]!r}")
+
+          if new:
+              # insider_feed.json: 直近ウィンドウの3人のポスト全部（既読含む・新しい順）。ルーチンはこれを読む
+              posts.sort(key=lambda p: p['posted_utc'], reverse=True)
+              feed = [{k: v for k, v in p.items() if k not in ('is_new', 'tag')} for p in posts[:60]]
+              with open(FEED_FILE, 'w', encoding='utf-8') as f:
+                  json.dump({'updated_utc': now, 'source': used, 'posts': feed}, f, ensure_ascii=False, indent=1)
+              with open('/tmp/new_shams.txt', 'w') as f:
+                  f.writelines(p['key'] + '\n' for p in new)
+              out.write('new=true\n')
           EOF
       - name: Signal via push
-        if: steps.check.outputs.new == 'true' || github.event.inputs.force == 'true'
+        if: steps.check.outputs.new == 'true' || steps.check.outputs.transition != 'none' || github.event.inputs.force == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "shams-poll"
           git config user.email "actions@github.com"
+          TR="${{ steps.check.outputs.transition }}"
+          if [ "$TR" = "down" ]; then
+            git add journal_auto/insider_status.txt
+            git commit -m "shams-poll: ⚠️ インサイダー取得元が全滅(DOWN)。復旧まで速報記事は止まる"
+            git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
+            if [ -z "$(gh issue list --state open --search 'インサイダー取得停止 in:title' --json number -q '.[0].number')" ]; then
+              gh issue create --title "⚠️ インサイダー取得停止（shams-poll）" \
+                --body "$(printf 'r/nba フィードの取得が全滅しました（%s）。復旧するまで Shams/Haynes/Scotto の速報記事は止まります。\n\n確認: Actions → Shams poll のログ。復旧すると自動で status=OK に戻り、このIssueも自動で閉じます。\n\n対象: journal_auto/insider_status.txt' "$(date -u '+%Y-%m-%d %H:%M UTC')")"
+            fi
+            echo "::error::insider sources are DOWN"
+            exit 1
+          fi
+          if [ "$TR" = "up" ]; then
+            git add journal_auto/insider_status.txt
+            git commit -m "shams-poll: インサイダー取得元が復旧(OK)"
+            for n in $(gh issue list --state open --search 'インサイダー取得停止 in:title' --json number -q '.[].number'); do
+              gh issue close "$n" --comment "取得元が復旧しました（$(date -u '+%Y-%m-%d %H:%M UTC')）。自動クローズ。"
+            done
+          fi
           if [ "${{ github.event.inputs.force }}" = "true" ] && [ "${{ steps.check.outputs.new }}" != "true" ]; then
             git commit --allow-empty -m "shams-poll: 疎通テスト(force)"
-          else
+          elif [ "${{ steps.check.outputs.new }}" = "true" ]; then
             cp /tmp/new_shams.txt journal_auto/shams_signal.txt
-            git add journal_auto/shams_signal.txt
+            git add journal_auto/shams_signal.txt journal_auto/insider_feed.json journal_auto/insider_status.txt
             if git diff --cached --quiet; then
               echo "signal unchanged — 前回シグナルが未処理のまま。毎時ルーチンに任せてスキップ"
               exit 0

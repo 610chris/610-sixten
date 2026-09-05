@@ -19,35 +19,46 @@ Anthropicクラウドのスケジュール実行で、610_sixten リポジトリ
 PR TIMESチェックとは独立に、毎回必ずこれも行う。対象は次の3人
 （Haynes/Scottoは2026-08-19クリス指示「Chris HaynesとMichael Scottoのツイートも同じ条件で記事化できるようにできるかな」で追加）:
 
-| レポーター | RSS | 既読ファイル | 正規URL | 発信者表記 |
+| レポーター | `insider_feed.json` の handle | 既読ファイル | 正規URL | 発信者表記 |
 |---|---|---|---|---|
-| Shams Charania | `https://nitter.net/ShamsCharania/rss` | `journal_auto/seen_shams.txt` | `https://x.com/ShamsCharania/status/<ID>` | Shams Charania（ESPN） |
-| Chris Haynes | `https://nitter.net/ChrisBHaynes/rss` | `journal_auto/seen_haynes.txt` | `https://x.com/ChrisBHaynes/status/<ID>` | Chris Haynes（NBA on Prime） |
-| Michael Scotto | `https://nitter.net/MikeAScotto/rss` | `journal_auto/seen_scotto.txt` | `https://x.com/MikeAScotto/status/<ID>` | Michael Scotto（HoopsHype） |
+| Shams Charania | `ShamsCharania` | `journal_auto/seen_shams.txt` | `https://x.com/ShamsCharania/status/<ID>` | Shams Charania（ESPN） |
+| Chris Haynes | `ChrisBHaynes` | `journal_auto/seen_haynes.txt` | `https://x.com/ChrisBHaynes/status/<ID>` | Chris Haynes（NBA on Prime） |
+| Michael Scotto | `MikeAScotto` | `journal_auto/seen_scotto.txt` | `https://x.com/MikeAScotto/status/<ID>` | Michael Scotto（HoopsHype） |
+
+**取得元は `journal_auto/insider_feed.json`（リポジトリ内のファイル）。自分では外部取得しない。**
+（2026-09-05変更: 旧取得元 nitter.net は 2026-08-25 から HTTP 410 で完全停止し、8/20以降の速報が2週間ゼロになっていた。
+現在は `.github/workflows/shams-poll.yml` が5分おきに r/nba の新着フィードから3人のポストを拾い（r/nba は3人のポストを数分以内に
+「[Charania] 本文…」の形で転載する）、本文つきで `insider_feed.json` に書いて push する。この環境のネットワーク許可リストでは
+reddit/x.com に届かないので、curlで nitter や x.com を叩かない・他インスタンスを探し回らない）
 
 （この実行は毎時スケジュールのほか、リポジトリへの push があるたびに webhook でも発火する。
-`.github/workflows/shams-poll.yml` が5分おきに3人分の新着を検知し `journal_auto/shams_signal.txt` を
+shams-poll.yml が新着を検知して `insider_feed.json` と `journal_auto/shams_signal.txt` を
 push するのが即時発火の本命ルート。どちらで起動されても手順は同じ。
 **候補ゼロなら絶対に commit しない**こと——これが push→再発火の無限ループを止める安全弁）
 
+`insider_feed.json` の構造: `{"updated_utc", "source", "posts": [...]}`。`posts` の各要素は
+`reporter`（発信者表記）/ `handle` / `key`（既読照合キー＝正規URL。無い時はr/nbaのURL）/ `x_url`（正規URL・無ければ空）/
+`tweet_id` / `posted_utc`（投稿時刻ISO）/ `text`（ポスト本文全文）/ `reddit_url` / `links`（本文中の外部リンク。ESPN記事URL等）。
+直近ウィンドウの既読分も含めて新しい順に最大60件入っている。
+
 3人それぞれについて同じ手順で行う:
 
-1. `curl -s --max-time 60 -A 'Mozilla/5.0' <そのレポーターのRSS>` を取得（ファイルに落としてから部分抽出）。失敗したら60秒待って1回だけ再試行。それでも失敗したらそのレポーター分だけスキップして続行（理由をコミットメッセージかログに残す。他インスタンスを探し回らない。nitter.netは一時的に404を返すことがある＝404も同じ扱いで再試行→スキップ）
-2. `<item>` から link / title / pubDate を抽出し、linkのstatus IDから正規URL（上の表）を作る
-3. 除外: titleが `R to ` で始まる（リプライ）/ `RT by`（リツイート）/ ポッドキャスト・番組・書籍などの宣伝
-4. そのレポーターの既読ファイル（上の表）に無い正規URLだけが候補。**候補ゼロならそのレポーター分は何もしない**
+1. `journal_auto/insider_feed.json` を読む（ファイルが無い／`posts` が空なら「新着なし」として続行。`journal_auto/insider_status.txt` が `status=DOWN` なら取得元が止まっている＝その旨をコミットメッセージかログに残す）
+2. `posts` からそのレポーター（`handle`）の要素を取り、`x_url` があればそれが正規URL
+3. 除外: リプライ/リツイートは上流で除外済み。ポッドキャスト・番組・書籍などの宣伝、試合中の実況・雑感は除外
+4. そのレポーターの既読ファイル（上の表）に無い `key` だけが候補。**候補ゼロならそのレポーター分は何もしない**
 5. 採用基準: NBAの速報級の一報（トレード成立・契約合意・引退・重大な怪我・監督/フロント人事・ドラフト指名など）。論評・雑感・既報の細部の続報・ランキング/リスト企画は見送り。採用は**3人合計で1回の実行あたり最大2本**
-6. pubDateが実行時刻より24時間以上前のものは見送り（速報性がないため）
+6. `posted_utc` が実行時刻より24時間以上前のものは見送り（速報性がないため）
 7. **レポーター間の重複チェック必須**: 同じニュースを複数のレポーターが報じていたら、最も早く報じた1人の分だけ記事化する（先出し優先）。既に §1c（ESPN）や過去記事（`site/journal/journal.js` の ARTICLES・`journal_auto/published.log`）で出しているニュースも見送り
 
 インサイダー記事の作り方（§3の共通ルールに加えて）:
 - **写真は必須。写真なしの記事は作らない**（2026-08-17クリス指示「基本記事は写真が欲しい」→2026-08-19クリス指示「記事に写真がないのは基本なし。だから常に持って来れるようにして欲しい」で必須化）。ただしツイート添付画像は権利不明のため使わない。手順: Wikimedia Commons APIで対象選手を検索（`https://commons.wikimedia.org/w/api.php?action=query&list=search&srsearch=<選手名>&srnamespace=6&format=json`）→ imageinfoでライセンス確認（CC BY / CC BY-SA / パブリックドメインのみ可）→ 顔が判別できるカットを選び1600x900・jpeg品質80で `site/assets/journal-NNN-hero.jpg` に保存 → lead直後にfigure挿入。**キャプションにクレジット必須**: 「画像: 〇〇時代の<選手名>。撮影: <撮影者> / <ライセンス名>, via Wikimedia Commons」（写真の所属チームが記事時点と違う場合は「〇〇時代」と正直に書く）。journal.jsにはthumbも追加
 - 1回の検索で見つからなくても諦めない。**検索語を変えて最低3回試す**: ①選手名英語表記 → ②選手名+チーム名 → ③チーム名や関係人物（監督・GM等）。ニュースの主題が人物でない場合はチーム・大会・アリーナ名で探す
 - それでも適切なCC写真が無い場合は、**リポジトリ常備のフォールバック写真** `site/assets/journal-fallback-01〜04.jpg` から記事内容に合う1枚を選んでheroに使う（選び方・キャプション書式は `journal_auto/fallback-images.md` の通り。再変換不要・journal.jsのthumbにも同じパス・直近記事と同じ番号は避ける）。旧運用のミニ表紙タイル（写真なし・thumbなし）へのフォールバックは**廃止**
-- 本文=ツイート内容の日本語での事実整理＋最小限の背景。**ツイートにない事実を足さない**。補足するなら「〜とみられる」と推測明示
-- 発信者の表記は上の表の「発信者表記」欄の通り。出典ブロックは そのレポーター名のXポスト + 正規URL
+- 本文=ポスト本文（`text`）の日本語での事実整理＋最小限の背景。**ポストにない事実を足さない**。補足するなら「〜とみられる」と推測明示。`links` にESPN等の一次記事URLがあり、それを読めるなら（この環境で espn.com は許可済み）契約条件などの数字の裏取りに使ってよい
+- 発信者の表記は上の表の「発信者表記」欄の通り。出典ブロックは そのレポーター名のXポスト + 正規URL（`x_url`）。`x_url` が空のときは「<発信者表記>のXポスト」＋ `https://x.com/<handle>`（プロフィールURL）とし、`links` にESPN等の一次記事があればそれも併記する。r/nba のURLは出典に書かない（転載元であって一次情報ではない）
 - カテゴリ（journal.jsのcat・記事のjr-cat）は **NBA**（2026-08-17のタブ整理でGAME→NBA改称・STREET→CULTURE統合。現行タブ: NBA/JAPAN/KICKS/CULTURE/REPORT）
-- **取得した新着のうちリプライ/RT以外は、採用/スキップ（宣伝・24時間超・見送り含む）を問わず必ず全部そのレポーターの既読ファイル（上の表）に追記**（即時ポーリング shams-poll.yml が同じ判定で見るため、記録漏れがあると5分おきに再発火し続ける）。公開したら published.log にも追記（§4と同様）
+- **`insider_feed.json` にある未読の `key` は、採用/スキップ（宣伝・24時間超・見送り含む）を問わず必ず全部そのレポーターの既読ファイル（上の表）に追記**（即時ポーリング shams-poll.yml が同じ判定で見るため、記録漏れがあると5分おきに再発火し続ける）。公開したら published.log にも追記（§4と同様）
 
 ### 1c. ESPNニュースチェック（NBA・毎回実行）
 
