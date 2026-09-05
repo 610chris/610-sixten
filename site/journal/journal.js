@@ -8,7 +8,7 @@ const ARTICLES = [
     title: "20年ぶりの復刻 —— Air Jordan 4「Tour Yellow」9月5日発売",
     excerpt: "Air Jordan 4「Tour Yellow」が2026年9月5日に復刻発売。2006年の初リリースから20年、ジョーダン ブランドの\"LS\"時代を象徴するカラーが戻る。WearTestersはパフォーマンスレビューも公開した。",
     date: "2026.09.05",
-    thumb: "../assets/journal-084-hero.jpg",
+    thumb: "../assets/journal-084-hero.jpg?v=2a4c5937c3",
     tile: "AIR JORDAN 4 TOUR YELLOW"
   },
   {
@@ -17,7 +17,7 @@ const ARTICLES = [
     title: "川久保玲がAir Jordan 11を\"ドレスシューズ\"に —— COMME des GARÇONS HOMME PLUSコラボ、9月5日発売",
     excerpt: "COMME des GARÇONS HOMME PLUSとJordan Brandによるコラボレーション「Air Jordan 11」が2026年9月5日発売。ブラックとホワイトの2色展開、価格358ドル。1995年にティンカー・ハットフィールドが手がけた名作を、川久保玲がミニマルなドレスシューズへと再構築した。",
     date: "2026.09.05",
-    thumb: "../assets/journal-083-hero.jpg",
+    thumb: "../assets/journal-083-hero.jpg?v=ae4d996772",
     tile: "CDG × AIR JORDAN 11"
   },
   {
@@ -26,7 +26,7 @@ const ARTICLES = [
     title: "2026-27シーズンスローガンは「BREAK THE ORDER」 —— 群馬クレインサンダーズ、B.PREMIER初年度へ",
     excerpt: "B.LEAGUEのB.PREMIER所属クラブ「群馬クレインサンダーズ」は9月5日、2026-27シーズンのスローガンを「BREAK THE ORDER」に決定したと発表した。ヘッドコーチはカイル・ミリング氏、キャプテンは辻直人選手が3年目でそれぞれ続投し、新加入のスタンリー・ジョンソン選手、鶴巻啓太選手を加えた12名体制でB.PREMIER初代チャンピオンを目指す。",
     date: "2026.09.05",
-    thumb: "../assets/journal-078-hero.jpg",
+    thumb: "../assets/journal-078-hero.jpg?v=bf9e87c8cb",
     tile: "GUNMA CRANE THUNDERS × 2026-27"
   },
   {
@@ -35,7 +35,7 @@ const ARTICLES = [
     title: "WNBAコミッショナー、キャシー・エンゲルバート氏が年内退任へ",
     excerpt: "WNBAのキャシー・エンゲルバート コミッショナー(61)が、12月31日付で退任することが決まったと、ESPNのシャムズ・チャラニア記者らが9月4日(現地時間)、複数の関係者の話として報じた。後任探しは早ければ今月中にも始まるという。",
     date: "2026.09.04",
-    thumb: "../assets/journal-079-hero.jpg",
+    thumb: "../assets/journal-079-hero.jpg?v=15c4383426",
     tile: "WNBA COMMISSIONER"
   },
   {
@@ -44,7 +44,7 @@ const ARTICLES = [
     title: "セルティックスvs76ers、\"史上最多\"のライバル対決が再燃 —— ESPNが2026-27シーズン注目の10大リバルリーを選出",
     excerpt: "ESPNのザック・クラム記者は9月4日(現地時間)、2026-27シーズンを前にNBAの注目リバルリー・トップ10を選出する特集記事を公開。史上最多の通算23度のプレーオフ対決があるセルティックスvs76ersを1位とし、サンダーvsスパーズ、ドンチッチ移籍後のマーベリックスvsレイカーズなども上位に選出している。",
     date: "2026.09.04",
-    thumb: "../assets/journal-082-hero.jpg",
+    thumb: "../assets/journal-082-hero.jpg?v=47df9d06e8",
     tile: "NBA RIVALRIES 2026-27"
   },
   {
@@ -53,7 +53,7 @@ const ARTICLES = [
     title: "新HCスウィーニーで巻き返しなるか —— ESPN、オーランド・マジックの2026-27シーズンを展望",
     excerpt: "ESPNは9月4日(現地時間)、オーランド・マジックの2026-27シーズンを展望する特集記事を公開。前シーズン限りでジェイマール・モズレー氏を解任しショーン・スウィーニー新ヘッドコーチを招へいしたほか、ニコラ・ヴチェビッチを1年390万ドルで再獲得したと伝え、パオロ・バンケロ、フランツ・ワグナーらの健康状態とディフェンス改善が浮上の鍵になるとしている。",
     date: "2026.09.04",
-    thumb: "../assets/journal-081-hero.jpg?v=20260905",
+    thumb: "../assets/journal-081-hero.jpg?v=7a43b8ce1a",
     tile: "ORLANDO MAGIC × 2026-27"
   },
   {
@@ -62,7 +62,7 @@ const ARTICLES = [
     title: "1年半ぶりの現役復帰 —— ベン・シモンズ、キングスと1年350万ドルで契約合意",
     excerpt: "元NBA新人王のベン・シモンズ(30)が、サクラメント・キングスと1年350万ドルの契約で合意したと、ESPNのシャムズ・チャラニア記者らが9月4日(現地時間)、複数の関係者の話として報じた。昨シーズンは背中と脚の故障で全休しており、約1年半ぶりの現役復帰となる。",
     date: "2026.09.04",
-    thumb: "../assets/journal-fallback-01.jpg",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
     tile: "BEN SIMMONS × KINGS"
   },
   {
@@ -71,7 +71,7 @@ const ARTICLES = [
     title: "琉球ゴールデンキングスの「キングスU15」、沖縄県予選が9月5日開幕 —— 全国大会出場権懸け熱戦",
     excerpt: "沖縄バスケットボール株式会社は9月4日、運営するB.LEAGUEクラブ「琉球ゴールデンキングス」の育成組織「キングスU15」が、9月5日開幕の「2026年度 第15回U15クラブバスケットボールゲームス沖縄県予選会」に出場すると発表した。",
     date: "2026.09.04",
-    thumb: "../assets/journal-076-hero.jpg",
+    thumb: "../assets/journal-076-hero.jpg?v=9403ebb720",
     tile: "KINGS U15 × OKINAWA QUALIFIER"
   },
   {
@@ -80,7 +80,7 @@ const ARTICLES = [
     title: "ENEOSサンフラワーズから女子日本代表に4名選出 —— 田中こころ・今野紀花ら、FIBA女子W杯2026へ",
     excerpt: "ENEOS株式会社は9月3日、実業団の女子バスケットボールクラブ「ENEOSサンフラワーズ」から、9月4日開幕の「FIBA女子バスケットボールワールドカップ2026」女子日本代表に、田中こころ・今野紀花の両選手とスタッフ2名の計4名が選出されたと発表した。",
     date: "2026.09.03",
-    thumb: "../assets/journal-075-hero.jpg?v=20260905",
+    thumb: "../assets/journal-075-hero.jpg?v=20b850a783",
     tile: "ENEOS SUNFLOWERS × TEAM JAPAN"
   },
   {
@@ -89,7 +89,7 @@ const ARTICLES = [
     title: "次代のロケッツを託される —— アメン・トンプソン、5年2億800万ドルの契約延長で合意",
     excerpt: "ヒューストン・ロケッツが、主力ガードのアメン・トンプソン(23)と5年総額2億800万ドルのルーキー契約延長で合意したと、ESPNが9月3日(現地時間)、複数の関係者の話として報じた。10%のトレードキッカーが付帯し、2024年のアルペレン・シェングンの延長契約とサラリーキャップに占める割合は同水準だという。",
     date: "2026.09.03",
-    thumb: "../assets/journal-fallback-04.jpg",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
     tile: "AMEN THOMPSON × ROCKETS"
   },
   {
@@ -98,7 +98,7 @@ const ARTICLES = [
     title: "契約延長のトンプソンに\"Win-Win\"評価、デローザンはナゲッツへ —— ESPNが2026年NBA自由契約を採点",
     excerpt: "ESPNのザック・クラム記者は9月3日(現地時間)、2026年NBAオフシーズンの主要なFA契約・契約延長を採点する分析記事を公開。ヒューストン・ロケッツとアメン・トンプソンの5年2億800万ドル契約延長を「双方にとって理にかなった合意」と評価したほか、デマー・デローザンのナゲッツ入り、ジョナサン・クミンガのティンバーウルブズ移籍にも言及している。",
     date: "2026.09.03",
-    thumb: "../assets/journal-080-hero.jpg",
+    thumb: "../assets/journal-080-hero.jpg?v=043ee52746",
     tile: "NBA FREE AGENCY GRADES"
   },
   {
@@ -107,7 +107,7 @@ const ARTICLES = [
     title: "「NBA docomo」新アンバサダーに河村勇輝 —— NBA2026-27シーズンパス、本日発売開始",
     excerpt: "NTTドコモは9月3日、映像配信サービス「NBA docomo」の新アンバサダーに河村勇輝選手が就任したと発表。同日からNBA2026-27シーズンを通じて視聴できるシーズンパス(16,500円)の販売も始まった。",
     date: "2026.09.03",
-    thumb: "../assets/journal-072-hero.jpg",
+    thumb: "../assets/journal-072-hero.jpg?v=1e21d034f4",
     tile: "NBA docomo × KAWAMURA"
   },
   {
@@ -116,7 +116,7 @@ const ARTICLES = [
     title: "元スパーズの名コンビ再結成 —— パティ・ミルズ、恩師トニー・パーカー率いるASVELへ移籍",
     excerpt: "元NBA選手のパティ・ミルズが、トニー・パーカーがヘッドコーチを務めるフランス1部ASVELヴィルールバンヌと1年契約を結び加入したと、ESPNが9月2日(現地時間)報じた。スパーズで9年間チームメートだった2人が「勝つ文化」の再現を目指す。",
     date: "2026.09.02",
-    thumb: "../assets/journal-073-hero.jpg",
+    thumb: "../assets/journal-073-hero.jpg?v=6c1052d90a",
     tile: "MILLS × PARKER × ASVEL"
   },
   {
@@ -125,7 +125,7 @@ const ARTICLES = [
     title: "ラッセル・ウェストブルック、新リーグ「Project B」の共同創業者兼最高戦略責任者に就任",
     excerpt: "引退したばかりのラッセル・ウェストブルックが、2027年1月開幕予定の男女新リーグ「Project B」に共同創業者兼チーフ・ストラテジー・オフィサーとして参加し取締役会にも加わったと、ESPNが9月2日(現地時間)報じた。",
     date: "2026.09.02",
-    thumb: "../assets/journal-071-hero.jpg",
+    thumb: "../assets/journal-071-hero.jpg?v=b148889f2a",
     tile: "WESTBROOK × PROJECT B"
   },
   {
@@ -134,7 +134,7 @@ const ARTICLES = [
     title: "ライバー事務所Beril、横浜エクセレンスとオフィシャルスポンサー契約 —— 2026-27シーズンから冠試合開催",
     excerpt: "ライバーマネジメント事務所「Beril」を運営するlapaz株式会社は9月2日、B.LEAGUEのプロバスケットボールクラブ「横浜エクセレンス」と2026-27シーズンのオフィシャルスポンサー契約を締結したと発表した。ホームゲームでのBeril冠試合も予定する。",
     date: "2026.09.02",
-    thumb: "../assets/journal-070-hero.jpg",
+    thumb: "../assets/journal-070-hero.jpg?v=57a58148c1",
     tile: "BERIL × YOKOHAMA EXCELLENCE"
   },
   {
@@ -143,7 +143,7 @@ const ARTICLES = [
     title: "名駅に一夜限りのバスケコート出現 —— 名鉄×FE名古屋、包括連携協定を締結し9月15日にイベント開催",
     excerpt: "名古屋鉄道は9月2日、B.LEAGUEのファイティングイーグルス名古屋と包括連携協定を締結、9月15日に名古屋駅前「Meieki Parklet」で一夜限りのバスケットボールイベントを共同開催すると発表した。期間中は「ナナちゃん」もFE名古屋のユニフォーム姿になる。",
     date: "2026.09.02",
-    thumb: "../assets/journal-069-hero.jpg",
+    thumb: "../assets/journal-069-hero.jpg?v=ec1e054fcc",
     tile: "MEITETSU × FE NAGOYA"
   },
   {
@@ -152,7 +152,7 @@ const ARTICLES = [
     title: "新潟アルビレックスBB、採用戦略研究所とオフィシャルパートナー契約 —— 「新潟社長図鑑」運営元が2026-27シーズンから参入",
     excerpt: "株式会社採用戦略研究所は9月2日、B.LEAGUE ONE・新潟アルビレックスBBと2026-27シーズンよりオフィシャルパートナー契約を締結したと発表した。新潟県内の経営者を取材するメディア「新潟社長図鑑」の運営元が、地域の採用課題解決へ連携する。",
     date: "2026.09.02",
-    thumb: "../assets/journal-068-hero.jpg",
+    thumb: "../assets/journal-068-hero.jpg?v=481c5b6b36",
     tile: "ALBIREX BB × RS-LAB"
   },
   {
@@ -161,7 +161,7 @@ const ARTICLES = [
     title: "ターコ・フォール、76ersとキャンプ契約 —— ネルソン・ジュニア、セイント・トーマスも同時合意",
     excerpt: "76ersは9月1日、身長231cm(7フィート6インチ)のセンター、ターコ・フォールとエキシビット10契約(キャンプ契約)で合意したと発表。ジェイミア・ネルソン・ジュニア、セイント・トーマスとも同時契約し、3人は今月開催のキャンプでロースター入りを争う。",
     date: "2026.09.01",
-    thumb: "../assets/journal-067-hero.jpg?v=20260905",
+    thumb: "../assets/journal-067-hero.jpg?v=57fbb1965d",
     tile: "TACKO FALL × 76ers"
   },
   {
@@ -170,7 +170,7 @@ const ARTICLES = [
     title: "JOSHU RYDEEN、株式会社アップセットとオフィシャルサプライヤー契約締結 —— 群馬発・女子3x3が新シーズンへ体制強化",
     excerpt: "群馬県太田市を拠点とする女子3x3プロバスケットボールチーム「JOSHU RYDEEN」は9月1日、スポーツメーカーの株式会社アップセットとオフィシャルサプライヤー契約を締結したと発表した。",
     date: "2026.09.01",
-    thumb: "../assets/journal-066-hero.jpg",
+    thumb: "../assets/journal-066-hero.jpg?v=766419560a",
     tile: "JOSHU RYDEEN × UPSET"
   },
   {
@@ -179,7 +179,7 @@ const ARTICLES = [
     title: "世界一に続き、国際舞台で準優勝 —— 上野原サンライズ女子、シンガポール「Jumpshot 3x3」で1st Runner Up",
     excerpt: "ジェリービーンズグループが提携する3x3チーム「上野原サンライズ」の女子チームは、シンガポールで開催された国際大会「Jumpshot 3x3 Season 3: Play Bigger」女子の部で準優勝したと9月1日発表した。",
     date: "2026.09.01",
-    thumb: "../assets/journal-065-hero.jpg",
+    thumb: "../assets/journal-065-hero.jpg?v=4b0d98b4ce",
     tile: "UENOHARA SUNRISE"
   },
   {
@@ -188,7 +188,7 @@ const ARTICLES = [
     title: "U-NEXT、B.LEAGUE新体制の全試合を見放題配信 —— B.PREMIER・B.ONE、9月22日開幕",
     excerpt: "U-NEXTは9月1日、9月22日開幕の「りそなグループ B.LEAGUE 2026-27 SEASON」でB.PREMIER最大803試合に加え、新たにB.ONE最大798試合も見放題でライブ配信すると発表した。追加課金なしで全試合が視聴できる。",
     date: "2026.09.01",
-    thumb: "../assets/journal-064-hero.jpg",
+    thumb: "../assets/journal-064-hero.jpg?v=bf4c646ff3",
     tile: "U-NEXT × B.LEAGUE"
   },
   {
@@ -197,7 +197,7 @@ const ARTICLES = [
     title: "バンビシャス奈良「バスケの日2026 in 奈良市」開催 —— 奈良市長も参加、約8時間バスケ三昧の一日に",
     excerpt: "バンビシャス奈良は8月29日、老若男女が一日バスケを楽しむ「バスケの日2026 in 奈良市」をロートアリーナ奈良で開催した。仲川げん奈良市長も参加し、フリースロー大会や中学生以上の8分流し試合など多彩な企画で朝から夕方まで盛り上がった。",
     date: "2026.09.01",
-    thumb: "../assets/journal-063-hero.jpg",
+    thumb: "../assets/journal-063-hero.jpg?v=08ac607af4",
     tile: "BASKET DAY 2026"
   },
   {
@@ -206,7 +206,7 @@ const ARTICLES = [
     title: "ザムスト、河村勇輝選手とスポンサーシップ契約を更新 —— 2021年から続く4年目のパートナーシップ",
     excerpt: "日本シグマックスは9月1日、サポート・ケア製品ブランド「ZAMST」と河村勇輝選手のスポンサーシップ契約を更新したと発表した。大学生だった2021年からの関係が、米国挑戦を続ける現在も継続する。",
     date: "2026.09.01",
-    thumb: "../assets/journal-062-hero.jpg",
+    thumb: "../assets/journal-062-hero.jpg?v=f948084902",
     tile: "ZAMST × KAWAMURA"
   },
   {
@@ -215,7 +215,7 @@ const ARTICLES = [
     title: "全中制覇の濵田誉（四日市メリノール学院）、堺整骨院とアンバサダー契約 —— 熊本地震復興応援大会も9月開催",
     excerpt: "堺整骨院グループは9月1日、全国中学校バスケットボール大会を制した濵田誉選手（四日市メリノール学院中学校3年）とアンバサダー契約を締結したと発表した。あわせて熊本地震復興応援「堺整骨院杯」を9月5・6日に熊本県で開催する。",
     date: "2026.09.01",
-    thumb: "../assets/journal-fallback-03.jpg",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
     tile: "HAMADA HOMARE"
   },
   {
@@ -224,7 +224,7 @@ const ARTICLES = [
     title: "HIS、B.LEAGUEと「グローカル・パートナー」契約 —— 公式ツアー「B.旅」独占展開へ",
     excerpt: "HISは8月31日、B.LEAGUEとグローカル・パートナー契約を締結したと発表した。全クラブ対象の公式観戦ツアー「B.旅」の企画・販売独占権を取得し、アジア中心の海外プロモーションやインバウンド送客も進める。",
     date: "2026.08.31",
-    thumb: "../assets/journal-060-hero.jpg",
+    thumb: "../assets/journal-060-hero.jpg?v=697183c7dc",
     tile: "HIS x B.LEAGUE"
   },
   {
@@ -233,7 +233,7 @@ const ARTICLES = [
     title: "首都圏189件、コートマップで一望 ——「バスケしようよ！」が新機能公開",
     excerpt: "草バスケコミュニティサービス「バスケしようよ！」を運営する株式会社Walkersは8月31日、首都圏のストリートバスケットボールコート189件を地図から探せる新機能「コートマップ」を公開したと発表した。東京110件・千葉29件・埼玉28件・神奈川22件を掲載し、会員登録不要・無料で利用できる。",
     date: "2026.08.31",
-    thumb: "../assets/journal-059-hero.jpg",
+    thumb: "../assets/journal-059-hero.jpg?v=289e8c3d10",
     tile: "COURT MAP"
   },
   {
@@ -242,7 +242,7 @@ const ARTICLES = [
     title: "王寺町とバンビシャス奈良、バスケットボールフェスティバル開催 —— シュート大会や3x3で子どもたちと交流",
     excerpt: "B.LEAGUE・バンビシャス奈良は8月23日、奈良県王寺町のいずみアリーナで「バスケットボールフェスティバル」を実施したと発表した。シュート大会やバスケットボール教室、3x3の試合、抽選会など多彩な企画で、選手と多くの子どもたちが交流した。",
     date: "2026.08.31",
-    thumb: "../assets/journal-058-hero.jpg",
+    thumb: "../assets/journal-058-hero.jpg?v=5c3758b80a",
     tile: "BAMBITIOUS"
   },
   {
@@ -251,7 +251,7 @@ const ARTICLES = [
     title: "隠れた名作「COURT STAR」が令和に蘇る —— コンバース「2FACED」9月11日先行発売",
     excerpt: "コンバースジャパンは8月31日、80年代のアーカイブモデル「COURT STAR」を現代技術でアップデートしたバスケットボールシューズ「2FACED」を発表。MID・LOW・LE LOWの3モデルを9月11日にGALLERY・2 渋谷店とKinetics HARAJUKUで先行発売する。",
     date: "2026.08.31",
-    thumb: "../assets/journal-057-hero.jpg",
+    thumb: "../assets/journal-057-hero.jpg?v=688ff5771e",
     tile: "2FACED"
   },
   {
@@ -260,7 +260,7 @@ const ARTICLES = [
     title: "ジョシュ・グリーン、ジャズへトレード成立 —— ティンバーウルブズ、クミンガ契約完了へサラリー捻出",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。ミネソタ・ティンバーウルブズはウィングのジョシュ・グリーンと現金をユタ・ジャズへトレードし、見返りにコーディ・ウィリアムズとジョン・コンチャーを獲得。グリーンの1470万ドルの給与を放出し、ジョナサン・クミンガとの2年1240万ドル契約を完了させるための資金繰りだった。",
     date: "2026.08.29",
-    thumb: "../assets/journal-056-hero.jpg?v=20260905",
+    thumb: "../assets/journal-056-hero.jpg?v=76f165239a",
     tile: "JOSH GREEN"
   },
   {
@@ -269,7 +269,7 @@ const ARTICLES = [
     title: "在籍200名突破 —— バスケットボールスクール「Rimtown」、元Bリーガー・齊藤洋介が指導",
     excerpt: "東京・神奈川・埼玉でバスケットボールスクール「Rimtown」を運営する株式会社neveleは、2026年8月にスクール在籍者数が200名を突破したと発表した。元Bリーガー・元3x3日本代表の齊藤洋介がメインコーチを務め、スキルだけでなく試合での判断力を養う指導を行っている。",
     date: "2026.08.28",
-    thumb: "../assets/journal-055-hero.jpg",
+    thumb: "../assets/journal-055-hero.jpg?v=5e65e1d54c",
     tile: "RIMTOWN"
   },
   {
@@ -278,7 +278,7 @@ const ARTICLES = [
     title: "夏休み、体育館に響いた歓声 —— 群馬クレインサンダーズ、県内7市町の放課後児童クラブを訪問",
     excerpt: "群馬クレインサンダーズは、群馬県が実施する「プロスポーツチーム等と連携したこどもの居場所づくり・体験創出モデル事業」の一環として、県内7市町の放課後児童クラブを訪問し、子どもたちを対象としたバスケットボール体験を実施したと8月28日発表した。基礎練習に加えゲーム性を取り入れたメニューを通じ、体を動かす楽しさや仲間と協力する大切さを伝えた。",
     date: "2026.08.28",
-    thumb: "../assets/journal-054-hero.jpg",
+    thumb: "../assets/journal-054-hero.jpg?v=589cb87efa",
     tile: "CRANE THUNDERS"
   },
   {
@@ -287,7 +287,7 @@ const ARTICLES = [
     title: "奈良から次世代の舞台へ —— バンビシャス奈良U18・米田時生、B.LEAGUE U18 TRYOUT CAMP 2026に初選出",
     excerpt: "バンビシャス奈良U18に所属する米田時生選手（SG、175cm）が、B.LEAGUEユース育成プロジェクトの一環「B.LEAGUE U18 TRYOUT CAMP 2026」に初選出されたと、同クラブが8月27日発表した。キャンプは9月5・6日に駒沢オリンピック公園総合運動場 屋内球技場で行われる。",
     date: "2026.08.27",
-    thumb: "../assets/journal-053-hero.jpg",
+    thumb: "../assets/journal-053-hero.jpg?v=67c3f29323",
     tile: "YONEDA"
   },
   {
@@ -296,7 +296,7 @@ const ARTICLES = [
     title: "フランチャイズ史上2人目の栄誉 —— ラプターズ、カイル・ラウリーの背番号7永久欠番を発表",
     excerpt: "トロント・ラプターズは、カイル・ラウリーの背番号7を永久欠番にすると8月27日発表した。2026年1月10日のフィラデルフィア・セブンティシクサーズ戦後にセレモニーを行い、バンス・カーターに次ぐ球団史上2人目の永久欠番選手となる。ラウリーは9シーズン在籍しオールスター6回選出、2018-19シーズンの優勝メンバーだった。",
     date: "2026.08.27",
-    thumb: "../assets/journal-052-hero.jpg?v=20260905",
+    thumb: "../assets/journal-052-hero.jpg?v=fd4d6c8e30",
     tile: "LOWRY"
   },
   {
@@ -305,7 +305,7 @@ const ARTICLES = [
     title: "台湾で掴んだ国際経験 —— 群馬クレインサンダーズ・中村拓人、淺野ケニー、日本代表として第45回ウィリアム・ジョーンズカップ出場",
     excerpt: "群馬クレインサンダーズ所属の中村拓人選手、淺野ケニー選手が、2026年度バスケットボール男子日本代表として台湾で開催された「第45回ウィリアム・ジョーンズカップ」に出場したと同クラブが8月27日発表した。中村選手は4試合で26得点・13リバウンド・18アシスト、淺野選手は6試合で25得点・17リバウンド・2アシストを記録した。",
     date: "2026.08.27",
-    thumb: "../assets/journal-051-hero.jpg",
+    thumb: "../assets/journal-051-hero.jpg?v=51338e5184",
     tile: "JONES CUP"
   },
   {
@@ -314,7 +314,7 @@ const ARTICLES = [
     title: "地元企業が支える全国区の挑戦 —— 小松ウオール、北陸学院高校 男子バスケットボール部のメインパートナーに就任",
     excerpt: "石川県小松市の小松ウオール工業株式会社は、同県を拠点とする北陸学院高等学校 男子バスケットボール部のメインパートナーに就任したと8月27日発表した。8月22日に開幕した「U18日清食品トップリーグ2026 Div.1」に出場する同部を環境面から支援する。",
     date: "2026.08.27",
-    thumb: "../assets/journal-050-hero.jpg",
+    thumb: "../assets/journal-050-hero.jpg?v=f0100c62dd",
     tile: "HOKURIKUGAKUIN"
   },
   {
@@ -323,7 +323,7 @@ const ARTICLES = [
     title: "茨城ロボッツ・吉井裕鷹選手、日本代表ロスターに選出 —— FIBAワールドカップ2027アジア予選、サウジアラビア戦",
     excerpt: "茨城ロボッツの吉井裕鷹選手が、8月28日未明(日本時間)にサウジアラビアで行われる「FIBAバスケットボールワールドカップ2027アジア地区予選Window4」のサウジアラビア代表戦で日本代表のロスターに選出されたと茨城ロボッツが8月27日発表した。",
     date: "2026.08.27",
-    thumb: "../assets/journal-049-hero.jpg",
+    thumb: "../assets/journal-049-hero.jpg?v=945c15159e",
     tile: "YOSHII"
   },
   {
@@ -332,7 +332,7 @@ const ARTICLES = [
     title: "大阪エヴェッサ・藤田弘輝HC、日本代表コーチに選出 —— FIBAワールドカップ2027アジア予選、サウジアラビア戦で指揮",
     excerpt: "大阪エヴェッサの藤田弘輝ヘッドコーチが、8月28日にサウジアラビアで行われる「FIBAバスケットボールワールドカップ2027アジア地区予選Window4」のサウジアラビア戦で日本代表コーチに選出されたと大阪エヴェッサが8月27日発表した。",
     date: "2026.08.27",
-    thumb: "../assets/journal-048-hero.jpg?v=20260905",
+    thumb: "../assets/journal-048-hero.jpg?v=f70daf06ac",
     tile: "FUJITA"
   },
   {
@@ -341,7 +341,7 @@ const ARTICLES = [
     title: "ジョナサン・クミンガ、ティンバーウルブズ入り合意 —— 2年1240万ドル、レイカーズのサインアンドトレード案を退ける",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。フリーエージェントのジョナサン・クミンガ(23)がミネソタ・ティンバーウルブズと2年1240万ドル(2年目にプレーヤーオプション付き)の契約に合意。レイカーズなど複数球団の争奪戦を制し、来夏の完全なフリーエージェント権取得を見据えた短期契約を選んだ。",
     date: "2026.08.26",
-    thumb: "../assets/journal-047-hero.jpg",
+    thumb: "../assets/journal-047-hero.jpg?v=74df93e231",
     tile: "KUMINGA"
   },
   {
@@ -350,7 +350,7 @@ const ARTICLES = [
     title: "ベネディクト・マチュリン、ペリカンズ入り合意 —— 2年1600万ドル、クリッパーズへのQO撤回で移籍実現",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。ベネディクト・マチュリン(24)がニューオーリンズ・ペリカンズと2年1600万ドル(プレーヤーオプション付き)の契約に合意。クリッパーズへのクオリファイング・オファーを撤回しての移籍となった。",
     date: "2026.08.26",
-    thumb: "../assets/journal-046-hero.jpg",
+    thumb: "../assets/journal-046-hero.jpg?v=2851a77d70",
     tile: "MATHURIN"
   },
   {
@@ -359,7 +359,7 @@ const ARTICLES = [
     title: "中学・高校生34人が参加 —— 群馬クレインサンダーズ、鶴巻啓太・細川一輝が指導するバスケットボールスキルアップクリニックを開催",
     excerpt: "群馬クレインサンダーズは8月2日・9日の2日間、群馬パース大学で「バスケットボールスキルアップクリニック」を開催。鶴巻啓太選手・細川一輝選手が指導にあたり、県内外の中学生・高校生34人が参加した。",
     date: "2026.08.26",
-    thumb: "../assets/journal-045-hero.jpg",
+    thumb: "../assets/journal-045-hero.jpg?v=d1e21f822d",
     tile: "CRANE THUNDERS"
   },
   {
@@ -368,7 +368,7 @@ const ARTICLES = [
     title: "北部地域と交流、約90人が参加 —— 琉球ゴールデンキングス「KINGS ACADEMY CUP 2026」を名護市で開催",
     excerpt: "沖縄バスケットボール株式会社（琉球ゴールデンキングス）が運営するキングスアカデミーは8月23日、沖縄県名護市で「KINGS ACADEMY CUP 2026」を開催。北部地域の部活動チームとスクール生ら約90人が参加した。",
     date: "2026.08.26",
-    thumb: "../assets/journal-044-hero.jpg",
+    thumb: "../assets/journal-044-hero.jpg?v=4ac2a51e2e",
     tile: "KINGS ACADEMY"
   },
   {
@@ -377,7 +377,7 @@ const ARTICLES = [
     title: "車いすバスケ「ペイロールカップ」第4回、9月26日・27日に札幌開催 —— 札幌ノースウィンドなど6チームが参加",
     excerpt: "株式会社ペイロールが車いすバスケットボール大会「ペイロールカップ」第4回を2026年9月26日・27日に札幌市西区体育館で開催。今回は6チームが参加し、入場は無料。",
     date: "2026.08.26",
-    thumb: "../assets/journal-043-hero.jpg",
+    thumb: "../assets/journal-043-hero.jpg?v=b2ada27d7a",
     tile: "PAYROLLCUP"
   },
   {
@@ -386,7 +386,7 @@ const ARTICLES = [
     title: "さいたまブロンコス vs 秋田ノーザンハピネッツ、プレシーズンマッチを8月29日開催 —— Red EyeやENBASEが試合前を彩る",
     excerpt: "さいたまブロンコスが8月29日、蓮田市総合市民体育館パルシーでB.PREMIERの秋田ノーザンハピネッツを迎えるプレシーズンマッチを開催。試合前にはRed EyeやENBASEによるオープニングイベントも行われる。",
     date: "2026.08.26",
-    thumb: "../assets/journal-042-hero.jpg",
+    thumb: "../assets/journal-042-hero.jpg?v=53e5e59727",
     tile: "BRONCOS"
   },
   {
@@ -395,7 +395,7 @@ const ARTICLES = [
     title: "ウォリアーズがジョージ・ニアングと1年390万ドルで契約合意 —— ブランドン・ウィリアムズに続く今夏2人目の補強、15人ロースターが確定",
     excerpt: "ゴールデンステート・ウォリアーズがフリーエージェントのベテランPF、ジョージ・ニアングと1年390万ドルで契約合意。ESPNのシャムズ・チャラニア氏が一報。同日発表のブランドン・ウィリアムズに続く今夏2人目の外部補強で、15人ロースターが確定した。",
     date: "2026.08.25",
-    thumb: "../assets/journal-041-hero.jpg?v=20260905",
+    thumb: "../assets/journal-041-hero.jpg?v=3279f8be92",
     tile: "NIANG"
   },
   {
@@ -404,7 +404,7 @@ const ARTICLES = [
     title: "ウォリアーズがブランドン・ウィリアムズと1年260万ドルで契約合意 —— マーベリックスから加入、バトラー&ムーディ離脱のベンチ層を補強",
     excerpt: "ゴールデンステート・ウォリアーズがフリーエージェントのガード、ブランドン・ウィリアムズと1年260万ドル(最低保証額)で契約合意。代理人がESPNのシャムズ・チャラニア氏に明らかにした。マーベリックスから加入し、開幕から離脱するバトラーとムーディの穴を埋める狙い。",
     date: "2026.08.25",
-    thumb: "../assets/journal-040-hero.jpg?v=20260905",
+    thumb: "../assets/journal-040-hero.jpg?v=49e8416b0e",
     tile: "WILLIAMS"
   },
   {
@@ -413,7 +413,7 @@ const ARTICLES = [
     title: "シェイドン・シャープが右膝半月板損傷 —— ブレイザーズの23歳、全治6ヶ月で2026-27シーズン大半を欠場へ",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。ポートランド・トレイルブレイザーズのシェイドン・シャープ(23)が右膝の半月板を損傷し、全治6ヶ月の見通し。前季に続き2年連続の長期離脱となる。",
     date: "2026.08.24",
-    thumb: "../assets/journal-039-hero.jpg?v=20260905",
+    thumb: "../assets/journal-039-hero.jpg?v=456203148a",
     tile: "SHARPE"
   },
   {
@@ -422,7 +422,7 @@ const ARTICLES = [
     title: "日本経済大学、バスケ部の監督と学生が国際舞台へ —— 片桐監督が日本代表コーチとしてジョーンズカップ、中老選手はWKBLフューチャーズリーグの日本学生選抜に",
     excerpt: "日本経済大学男子バスケットボール部の片桐章光監督が台湾開催「第45回ウィリアム・ジョーンズカップ」に日本代表コーチとして参加。女子バスケットボール部の中老小雪選手は日本学生選抜に選出され、案浦知仁監督もアシスタントコーチとして韓国開催の「2026 WKBLフューチャーズリーグ」に参加した。",
     date: "2026.08.24",
-    thumb: "../assets/journal-038-hero.jpg",
+    thumb: "../assets/journal-038-hero.jpg?v=cfc3f436be",
     tile: "JUE HOOPS"
   },
   {
@@ -431,7 +431,7 @@ const ARTICLES = [
     title: "陽吉グループ、大分・柳ヶ浦高校男子バスケ部のスポンサーに就任 —— U18日清食品トップリーグ2026初出場、開幕戦で鳥取城北を67-57で撃破",
     excerpt: "リユース企業の陽吉グループが大分県・柳ヶ浦高校男子バスケットボール部のスポンサーに就任し、ユニフォームを贈呈した。柳ヶ浦は「U18日清食品トップリーグ2026 ディビジョン1」に初出場し、8月22日の開幕戦で鳥取城北を67-57で破って白星スタートを切った。",
     date: "2026.08.24",
-    thumb: "../assets/journal-037-hero.jpg",
+    thumb: "../assets/journal-037-hero.jpg?v=12d819d98a",
     tile: "YANAGIGAURA"
   },
   {
@@ -440,7 +440,7 @@ const ARTICLES = [
     title: "Anker Japan、Bリーグ王者・長崎ヴェルカとトップパートナー契約 —— ユニフォーム胸ロゴとアリーナ命名権を取得、直営店も出店",
     excerpt: "アンカー・ジャパンがB.LEAGUE王者の長崎ヴェルカとトップパートナー契約を締結。2026-27シーズンユニフォーム胸部へのロゴ掲出やホームアリーナ「HAPPINESS ARENA」の命名権を取得し、長崎県内に直営店「Anker Store」を2店舗出店する。",
     date: "2026.08.23",
-    thumb: "../assets/journal-036-hero.jpg",
+    thumb: "../assets/journal-036-hero.jpg?v=9d27fda4be",
     tile: "ANKER"
   },
   {
@@ -449,7 +449,7 @@ const ARTICLES = [
     title: "びんご福山デニックス、9月12日・13日にホームゲーム —— 観戦無料、九州電力・富士通と対戦",
     excerpt: "広島県福山市を拠点にSB1リーグで戦うびんご福山デニックスが、2026年9月12日・13日にエフピコアリーナふくやまで観戦無料のホームゲームを開催する。対戦相手は九州電力(福岡)と富士通(神奈川)。",
     date: "2026.08.22",
-    thumb: "../assets/journal-035-hero.jpg",
+    thumb: "../assets/journal-035-hero.jpg?v=b6cbb760ad",
     tile: "DENIX"
   },
   {
@@ -458,7 +458,7 @@ const ARTICLES = [
     title: "デマー・デローザン、ナゲッツ入り合意 —— ヒート等蹴り1年390万ドル、ヨキッチ&マレーの下でプレーオフ勝負へ",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。6度のオールスターに選出されたデマー・デローザン(36)が、ヒート・ウィザーズ・ペリカンズとの交渉を経てデンバー・ナゲッツと1年390万ドルの契約に合意したと報じられた。",
     date: "2026.08.21",
-    thumb: "../assets/journal-034-hero.jpg",
+    thumb: "../assets/journal-034-hero.jpg?v=da7eb078f1",
     tile: "DEROZAN"
   },
   {
@@ -467,7 +467,7 @@ const ARTICLES = [
     title: "クレイ・トンプソン、マーベリックス退団へ —— ヒート入り濃厚、ジアニス擁する優勝候補に加入",
     excerpt: "ESPNのシャムズ・チャラニア氏が一報。ダラス・マーベリックスがクレイ・トンプソン(36)との契約を買い取ることで合意し、ウェイバー通過後はマイアミ・ヒートと契約する見通しだと報じられた。",
     date: "2026.08.21",
-    thumb: "../assets/journal-033-hero.jpg",
+    thumb: "../assets/journal-033-hero.jpg?v=ec10e30fd0",
     tile: "KLAY"
   },
   {
@@ -476,7 +476,7 @@ const ARTICLES = [
     title: "ティンバーウルブズ&リンクス、支配株主が交代 —— マーク・スタッド氏がロア氏保有株の大半を取得、評価額45億ドル",
     excerpt: "ESPNが情報筋の話として報道。NBAミネソタ・ティンバーウルブズとWNBAミネソタ・リンクスの共同オーナー、マーク・ロア氏が保有株式の大半をマーク・スタッド氏に売却し、スタッド氏が両球団の支配株主・筆頭株主になることで合意した。",
     date: "2026.08.21",
-    thumb: "../assets/journal-032-hero.jpg",
+    thumb: "../assets/journal-032-hero.jpg?v=53d1b005c1",
     tile: "OWNERSHIP"
   },
   {
@@ -485,7 +485,7 @@ const ARTICLES = [
     title: "高校バスケの頂点争い、全56試合を無料生中継 —— スポーツナビ「U18日清食品トップリーグ2026」ライブ配信・速報",
     excerpt: "スポーツナビ株式会社は、高校バスケットボール最高峰リーグ「U18日清食品トップリーグ2026 ディビジョン1」全56試合を8月22日から11月15日にかけてライブ配信・試合速報で無料展開すると発表した。",
     date: "2026.08.21",
-    thumb: "../assets/journal-031-hero.jpg",
+    thumb: "../assets/journal-031-hero.jpg?v=15c4383426",
     tile: "U18 LEAGUE"
   },
   {
@@ -494,7 +494,7 @@ const ARTICLES = [
     title: "コートを3分割、実戦スキルを叩き込む —— 琉球ゴールデンキングス「キングスバスケットボールスクールサマーキャンプ2026」",
     excerpt: "沖縄バスケットボール株式会社(琉球ゴールデンキングス)が運営するキングスバスケットボールスクールは、7月29日・8月5日・8月19日の3日間、小学4〜6年生を対象に『サマーキャンプ2026』を実施したと発表した。",
     date: "2026.08.21",
-    thumb: "../assets/journal-030-hero.jpg",
+    thumb: "../assets/journal-030-hero.jpg?v=9764ca222b",
     tile: "KINGS"
   },
   {
@@ -503,7 +503,7 @@ const ARTICLES = [
     title: "「機敏性」で重なる2社 —— AGEST、東京ユナイテッドバスケットボールクラブとオフィシャルパートナー契約",
     excerpt: "ソフトウェア品質支援のAGESTが2026-27シーズンより、有明アリーナ拠点のB.LEAGUEクラブ・東京ユナイテッドバスケットボールクラブ(TUBC)とオフィシャルパートナー契約を締結した。",
     date: "2026.08.21",
-    thumb: "../assets/journal-029-hero.jpg",
+    thumb: "../assets/journal-029-hero.jpg?v=d67747cee7",
     tile: "TUBC"
   },
   {
@@ -512,7 +512,7 @@ const ARTICLES = [
     title: "ハーデン、キャバリアーズ残留 —— 3年9700万ドルの新契約で合意",
     excerpt: "ジェームズ・ハーデンが、3年総額9700万ドルの新契約でクリーブランド・キャバリアーズに残留することで合意した。2028-29シーズンのプレーヤーオプションとトレードキッカー付き。代理人らがESPNに明らかにした。",
     date: "2026.08.20",
-    thumb: "../assets/journal-028-hero.jpg",
+    thumb: "../assets/journal-028-hero.jpg?v=b80304aa0d",
     tile: "HARDEN"
   },
   {
@@ -521,7 +521,7 @@ const ARTICLES = [
     title: "名作「ACCELERATOR」が最新技術で復活 —— コンバース「CONS ACCELERATOR SE LOW」8月25日発売",
     excerpt: "コンバースジャパンは8月20日、バスケットボールシューズ「CONS ACCELERATOR SE LOW」を8月25日に発売すると発表。アーカイブモデル「ACCELERATOR」を、新構造シャンクや中空ミッドソールなど最新技術でアップデートした。価格14,300円(税込)。",
     date: "2026.08.20",
-    thumb: "../assets/journal-027-hero.jpg",
+    thumb: "../assets/journal-027-hero.jpg?v=fbb3e82aaf",
     tile: "ACCELERATOR"
   },
   {
@@ -530,7 +530,7 @@ const ARTICLES = [
     title: "ワトソン、キャバリアーズへ —— ナゲッツとの5チーム間サイン&トレードで合意へ",
     excerpt: "Chris Haynes（NBA on Prime）が一報。デンバー・ナゲッツが、制限付きFAのペイトン・ワトソンをクリーブランド・キャバリアーズへ送るサイン&トレードに近づいている。5チーム間の取引で、ワトソンは4年8800万ドル(プレーヤーオプション付き)の契約条件に合意する見通し。",
     date: "2026.08.20",
-    thumb: "../assets/journal-fallback-01.jpg",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
     tile: "WATSON"
   },
   {
@@ -539,7 +539,7 @@ const ARTICLES = [
     title: "レイカーズ、バス家が最後の株式を手放す —— カシュナー氏とアイガー氏に17.8%売却、ジーニー・バスはガバナー退任へ",
     excerpt: "Shams Charania（ESPN）が一報。ロサンゼルス・レイカーズを保有するバス・ファミリー・トラストが、信託に残る17.8%の株式をジョシュ・カシュナー氏とボブ・アイガー氏に売却することを決定。完了後、ジーニー・バスはガバナーの資格を失う見通しとなった。",
     date: "2026.08.18",
-    thumb: "../assets/journal-025-hero.jpg",
+    thumb: "../assets/journal-025-hero.jpg?v=0e24230166",
     tile: "LAKERS"
   },
   {
@@ -548,7 +548,7 @@ const ARTICLES = [
     title: "古巣へ、1年契約で復帰 —— ヘイウッド・ハイスミス、サンズと合意",
     excerpt: "Shams Charania（ESPN）が一報。FAのヘイウッド・ハイスミスが、フェニックス・サンズとの1年契約に合意した。",
     date: "2026.08.17",
-    thumb: "../assets/journal-024-hero.jpg",
+    thumb: "../assets/journal-024-hero.jpg?v=afc443204c",
     tile: "HIGHSMITH"
   },
   {
@@ -557,7 +557,7 @@ const ARTICLES = [
     title: "遅めのオフシーズンに、掘り出し物 —— トレンドン・ワトフォード、ペリカンズと1年290万ドルで契約合意",
     excerpt: "Shams Charania（ESPN）が一報。FAのトレンドン・ワトフォードが、ニューオーリンズ・ペリカンズと1年290万ドルの契約に合意した。",
     date: "2026.08.17",
-    thumb: "../assets/journal-023-hero.jpg?v=20260905",
+    thumb: "../assets/journal-023-hero.jpg?v=bc2b7ff355",
     tile: "WATFORD"
   },
   {
@@ -566,7 +566,7 @@ const ARTICLES = [
     title: "ホームアリーナに、クラブと同じ名前を —— 松江市総合体育館は9月から「バンダイナムコアリーナ松江」に",
     excerpt: "B.LEAGUE PREMIER参入の島根スサノオマジック。運営会社が松江市とネーミングライツ契約を締結、2026年9月1日から新愛称に。",
     date: "2026.08.17",
-    thumb: "../assets/journal-020-hero.jpg",
+    thumb: "../assets/journal-020-hero.jpg?v=aeaa4f363d",
     tile: "MATSUE"
   },
   {
@@ -575,7 +575,7 @@ const ARTICLES = [
     title: "「禁止」が生んだ伝説 —— エア・ジョーダン1とルールの向こう側",
     excerpt: "1足のシューズが、なぜ40年経っても語り継がれるのか。伝説の始まりにあったのは、リーグの規定と1枚の広告だった。",
     date: "2026.08.15",
-    thumb: "../assets/journal-001-hero.jpg",
+    thumb: "../assets/journal-001-hero.jpg?v=275678f497",
     tile: "BANNED"
   },
   {
@@ -584,7 +584,7 @@ const ARTICLES = [
     title: "深夜2時、W杯への初戦 —— 最終予選サウジアラビア戦、ABEMAが無料生中継",
     excerpt: "W杯2027アジア最終予選が8月27日に開幕。八村塁と河村勇輝が合流予定の初戦を、ABEMAが無料生中継する。",
     date: "2026.08.14",
-    thumb: "../assets/journal-010-hero.jpg",
+    thumb: "../assets/journal-010-hero.jpg?v=b425540e41",
     tile: "WINDOW4"
   },
   {
@@ -593,7 +593,7 @@ const ARTICLES = [
     title: "トリプルダブルの王が、コートを去る —— ラッセル・ウェストブルック、18シーズンで現役引退",
     excerpt: "Shams Charania（ESPN）が一報。2017年MVP、通算トリプルダブル209回の男が、自らの流儀で18年のキャリアに幕を下ろした。",
     date: "2026.08.13",
-    thumb: "../assets/journal-021-hero.jpg",
+    thumb: "../assets/journal-021-hero.jpg?v=901b31a8a6",
     tile: "RUSS"
   },
   {
@@ -602,7 +602,7 @@ const ARTICLES = [
     title: "有明に、日の丸のエースが帰ってきた —— 八村塁と河村勇輝、約2年ぶりの代表戦をABEMAが無料生中継",
     excerpt: "8月16日・有明アリーナの韓国戦。パリ五輪以来およそ2年ぶりに、2人が代表のコートへ戻る。",
     date: "2026.08.12",
-    thumb: "../assets/journal-009-hero.jpg",
+    thumb: "../assets/journal-009-hero.jpg?v=cf9db437dd",
     tile: "ARIAKE"
   },
   {
@@ -611,7 +611,7 @@ const ARTICLES = [
     title: "コーンロウとアームスリーブ —— アレン・アイバーソンがコートに持ち込んだ「街」",
     excerpt: "NBAとヒップホップの距離を一気に縮めた男の話。",
     date: "2026.08.12",
-    thumb: "../assets/journal-002-hero.jpg?v=20260905",
+    thumb: "../assets/journal-002-hero.jpg?v=59f1ed5d83",
     tile: "IVERSON"
   },
   {
@@ -620,7 +620,7 @@ const ARTICLES = [
     title: "シグネチャーシューズは「物語」でできている",
     excerpt: "スペックではなく、ストーリーがスニーカーを売る理由。",
     date: "2026.08.10",
-    thumb: "../assets/journal-003-hero.jpg",
+    thumb: "../assets/journal-003-hero.jpg?v=c3ab04e0d7",
     tile: "SIGNATURE"
   },
   {
@@ -629,7 +629,7 @@ const ARTICLES = [
     title: "日本のバスケが「カルチャー」になる日",
     excerpt: "Bリーグ、部活、ストリート。この国のバスケの現在地。",
     date: "2026.08.07",
-    thumb: "../assets/journal-fallback-04.jpg",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
     tile: "JAPAN"
   },
   {
@@ -638,7 +638,7 @@ const ARTICLES = [
     title: "整えることから、始まる —— マンダムが「BLACK SAMURAI SUMMIT 2026」ローカルパートナーに就任",
     excerpt: "ギャツビーが「部活ヘアサロン」でスタイリングとマインドセットを次世代へ。GAME DAYにはサンプリングも。",
     date: "2026.08.06",
-    thumb: "../assets/journal-011-hero.jpg",
+    thumb: "../assets/journal-011-hero.jpg?v=ce402f097d",
     tile: "GATSBY"
   },
   {
@@ -647,7 +647,7 @@ const ARTICLES = [
     title: "160cmの証明 —— 小さな選手たちがコートに残したもの",
     excerpt: "サイズの神話を壊し続けてきたガードたちの系譜。",
     date: "2026.08.04",
-    thumb: "../assets/journal-005-hero.jpg",
+    thumb: "../assets/journal-005-hero.jpg?v=91bdc4a0ee",
     tile: "160cm"
   },
   {
@@ -656,7 +656,7 @@ const ARTICLES = [
     title: "神戸の2日間を、神戸が運ぶ —— G LION GROUPが「BLACK SAMURAI KOBE CAMP」モビリティパートナーに",
     excerpt: "GLION ARENA KOBE開催のキャンプへBMW X7を提供。会場も移動も神戸の企業が支える2日間。",
     date: "2026.08.03",
-    thumb: "../assets/journal-012-hero.jpg",
+    thumb: "../assets/journal-012-hero.jpg?v=465eeda7f2",
     tile: "GLION"
   },
   {
@@ -665,7 +665,7 @@ const ARTICLES = [
     title: "アスファルトの聖地 —— ラッカーパークとストリートの系譜",
     excerpt: "NBAではない場所で、バスケが文化になった理由。",
     date: "2026.08.01",
-    thumb: "../assets/journal-006-hero.jpg",
+    thumb: "../assets/journal-006-hero.jpg?v=e6bde98804",
     tile: "RUCKER"
   },
   {
@@ -674,7 +674,7 @@ const ARTICLES = [
     title: "八村塁が選んだ、次の3人 —— 佐藤凪、トンプソン・ヨセフ・ハサン、磯田陸斗がSUMMITへ",
     excerpt: "渡米、大学、Bユース。3人3様のルートがIG ARENAに集まる。招待16名の残る1枠はKOBE CAMP MVP。",
     date: "2026.07.29",
-    thumb: "../assets/journal-013-hero.jpg?v=20260905",
+    thumb: "../assets/journal-013-hero.jpg?v=e6e00f88b8",
     tile: "NEXTGEN"
   },
   {
@@ -683,7 +683,7 @@ const ARTICLES = [
     title: "アンバサダーから、パートナーへ —— ダノン オイコスが「BLACK SAMURAI 2026」のゴールドパートナーに",
     excerpt: "八村塁主宰の次世代育成プロジェクトにダノン オイコスが協賛。神戸・名古屋の2会場でサンプリング等を実施。",
     date: "2026.07.28",
-    thumb: "../assets/journal-014-hero.jpg",
+    thumb: "../assets/journal-014-hero.jpg?v=dec74be9fa",
     tile: "OIKOS"
   },
   {
@@ -692,7 +692,7 @@ const ARTICLES = [
     title: "日本バスケの過去・現在・未来を、この3人で —— 田臥勇太×八村塁×佐々木クリス、SUMMITでスペシャル対談",
     excerpt: "8月8日、名古屋IG ARENAのGAME DAYで実現。テーマは日本バスケットボール業界の過去・現在・未来。",
     date: "2026.07.27",
-    thumb: "../assets/journal-015-hero.jpg",
+    thumb: "../assets/journal-015-hero.jpg?v=3258a0a882",
     tile: "LEGENDS"
   },
   {
@@ -701,8 +701,8 @@ const ARTICLES = [
     title: "恩師のもとへ、ふたたび —— 小酒部泰暉と、クリスのバスケ日記、2回目の40球を寄贈",
     excerpt: "2年ぶり2回目のボール寄贈。大磯高校と山北高校へ、計40球。",
     date: "2026.07.24",
-    thumb: "../assets/journal-008-hero.jpg",
-    heroThumb: "../assets/journal-008-group.jpg",
+    thumb: "../assets/journal-008-hero.jpg?v=721929fb6c",
+    heroThumb: "../assets/journal-008-group.jpg?v=c267afe6f2",
     featured: true
   },
   {
@@ -711,7 +711,7 @@ const ARTICLES = [
     title: "地元のプロが、八村の舞台に上がる —— BLACK SAMURAI KOBE CAMP「THE SHOWCASE」に神戸ストークスが参加",
     excerpt: "8月4日・5日、GLION ARENA KOBEで全演目発表。8HOOPSで八村率いるチームと地元プロが対戦。",
     date: "2026.07.24",
-    thumb: "../assets/journal-016-hero.jpg",
+    thumb: "../assets/journal-016-hero.jpg?v=c4b819c318",
     tile: "STORKS"
   },
   {
@@ -720,7 +720,7 @@ const ARTICLES = [
     title: "富山に、八村塁が帰ってくる —— NBA入り後初の公式凱旋イベント、8月22日にYKK AP ARENAで",
     excerpt: "8月22日、富山Homecomingで八村塁がNBA入り後初の公式凱旋。昼はクリニック、夜は祭り。",
     date: "2026.07.24",
-    thumb: "../assets/journal-019-hero.jpg",
+    thumb: "../assets/journal-019-hero.jpg?v=8ec482c46b",
     tile: "TOYAMA"
   },
   {
@@ -729,7 +729,7 @@ const ARTICLES = [
     title: "コートの熱を、写真に残す人を育てる —— キヤノンMJが八村塁主宰「BLACK SAMURAI 2026」に協賛",
     excerpt: "キヤノンMJがBLACK SAMURAI 2026の神戸・名古屋に協賛。若手スポーツフォトグラファー育成プログラムを実施する。",
     date: "2026.07.22",
-    thumb: "../assets/journal-017-hero.jpg",
+    thumb: "../assets/journal-017-hero.jpg?v=7d73428beb",
     tile: "CANON"
   },
   {
@@ -738,7 +738,7 @@ const ARTICLES = [
     title: "大濠から3人、開志国際から2人 —— BLACK SAMURAI SUMMIT 2026、招待選手第二弾と指導陣が発表",
     excerpt: "名古屋・IG ARENAに集うU18招待選手第二弾と指導陣が発表。MVPにはNBA観戦ツアーが贈られる。",
     date: "2026.07.22",
-    thumb: "../assets/journal-018-hero.jpg?v=20260905",
+    thumb: "../assets/journal-018-hero.jpg?v=d631be8788",
     tile: "ROSTER"
   },
   {
@@ -747,7 +747,7 @@ const ARTICLES = [
     title: "同じ街で、新しいユニフォームを —— 八村塁、クリッパーズと2年2800万ドルで契約合意",
     excerpt: "Shams Charania（ESPN）が一報。レイカーズとのサイン&トレードは成立せず、FA契約で望んだロサンゼルスに残る道を選んだ。",
     date: "2026.07.07",
-    thumb: "../assets/journal-022-hero.jpg",
+    thumb: "../assets/journal-022-hero.jpg?v=9a479b0e3d",
     tile: "RUI"
   },
   {
@@ -756,7 +756,7 @@ const ARTICLES = [
     title: "「足りない分は、顧問の自腹」を変えたい —— 小酒部泰暉と、母校へ届けたボール",
     excerpt: "県大会2回戦止まりだった2人の、恩師と母校へのはじめての恩返し。",
     date: "2024.08",
-    thumb: "../assets/journal-007-hero.jpg"
+    thumb: "../assets/journal-007-hero.jpg?v=364bb0fe14"
   }
 ];
 

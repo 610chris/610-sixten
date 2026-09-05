@@ -37,7 +37,7 @@
 
 ### 4. journal.js 更新とデプロイ
 - `site/journal/journal.js` の ARTICLES に新記事のエントリを追加（日付=リリース発表日・日付降順の位置に挿入・thumb=hero画像パス・cat は既存エントリで使われている分類から最も近いものを選ぶ）。featured（ヒーロー記事）は変更しない
-- **キャッシュバスター**: `site/journal/` 全HTMLの `journal.js?v=` の値を新しい値（実行日時 YYYYMMDDHHMM）に更新する
+- **キャッシュバスター**: `site/journal/` 全HTMLの `journal.js?v=` の値を新しい値（実行日時 YYYYMMDDHHMM）に更新する（2026-09-05以降は `build_seo.py` が画像/CSS/JS の `?v=` を内容ハッシュで自動付与するので、この手作業は省略してよい。書いても build_seo.py が上書きする）
 - **禁止**: `site/css/style.css` と `site/journal/journal.css` の書体まわり（font-family/font-size等）は触らない
 - **SEOビルド必須**: journal.js 更新後に `python3 journal_auto/build_seo.py` を実行（sitemap.xml / feed.xml / llms.txt / 一覧の静的記事リスト / 関連記事・パンくずの静的化を自動生成。sitemapは手編集しない・2026-09-05設置）
 - デプロイ（610_sixten/ から両方必須）:

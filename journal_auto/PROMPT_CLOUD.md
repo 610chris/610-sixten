@@ -131,7 +131,7 @@ PR TIMES / インサイダー / ESPN とは独立に、毎回必ずこれも行�
   lead直後に figure + キャプション「画像: プレスリリースより（PR TIMES）」
 - **og:imageの取得/変換に失敗しても記事をスキップしない**（2026-08-19クリス指示「記事に写真がないのは基本なし。だから常に持って来れるようにして欲しい」）。代替の順で必ずheroを付ける: ①リリース本文中の他の画像URLを試す → ②Wikimedia Commonsで主題（選手・チーム・大会・企業）のCC写真を探す（§1bと同じ手順・クレジット必須） → ③リポジトリ常備のフォールバック写真 `site/assets/journal-fallback-01〜04.jpg`（選び方・キャプション書式は `journal_auto/fallback-images.md`）。キャプションは実際に使った画像の出典に合わせる（フォールバック時に「プレスリリースより」と書かない）
 - `site/journal/journal.js` の ARTICLES に追加（日付=リリース発表日・日付降順位置・thumb・catは既存分類から選ぶ）。featuredは変更しない
-- キャッシュバスター: `site/journal/` 全HTMLの `journal.js?v=` を実行日時(YYYYMMDDHHMM)に更新
+- キャッシュバスター: `site/journal/` 全HTMLの `journal.js?v=` を実行日時(YYYYMMDDHHMM)に更新（2026-09-05以降は `build_seo.py` が画像/CSS/JS の `?v=` を内容ハッシュで自動付与するので省略可。写真を同名で差し替えた時も `?v=` を手で書かなくてよい）
 - 禁止: `site/css/style.css` と `site/journal/journal.css` の書体まわりは触らない
 - **SEO/AEO必須チェックリスト（2026-08-17クリス指示「SEO,AEO対策徹底」・全記事で省略禁止）**:
   1. head内(titleの直後)にSEOメタ一式を入れる。**雛形=記事021 `021-westbrook-retires.html` のhead**をコピーして値を差し替える: meta description(=journal.jsのexcerptと同文) / canonical(`https://sixten.jp/journal/NNN-slug.html`・本番ドメインはsixten.jp) / OGP一式(og:type article・og:imageは絶対URL・写真なし記事は `https://sixten.jp/assets/og-default.jpg`) / og:locale ja_JP / article:published_time / twitter:card summary_large_image / robots max-image-preview:large

@@ -12,7 +12,12 @@ JSを実行しなくても全記事に辿り着ける静的HTMLと配信ファ�
   4. site/sitemap.xml         … 全ページ(lastmod=記事日付)
   5. site/feed.xml            … RSS 2.0(最新30本)
   6. site/llms.txt            … AI検索向けサイト説明+最新記事一覧
-  7. 検証: 各記事のcanonical/JSON-LD/title形式を確認し、欠けていれば警告(exit 1にはしない)
+  7. キャッシュバスター(2026-09-05) … journal.js の thumb と全HTML(site/*.html, journal/*.html, media/*.html)内の
+                                 ローカル画像/CSS/JS参照(相対・/絶対・https://sixten.jp/絶対)に、ファイル内容の
+                                 md5先頭10桁を `?v=` として付与する。同名上書きで写真を差し替えても、URLが変わるので
+                                 ブラウザ/Cloudflare/surge のキャッシュに古い画像が残らない。手で `?v=` を書く必要なし。
+                                 (css/*.css 内の url() は触らない。書体・CSSは手で触らないルールのため)
+  8. 検証: 各記事のcanonical/JSON-LD/title形式を確認し、欠けていれば警告(exit 1にはしない)
 
 使い方: リポジトリルートで `python3 journal_auto/build_seo.py`
   - 自動記事化ルーチン(PROMPT_CLOUD.md §3)は記事追加後・commit前に必ず実行する
@@ -21,6 +26,7 @@ JSを実行しなくても全記事に辿り着ける静的HTMLと配信ファ�
 from __future__ import annotations
 
 import datetime as dt
+import hashlib
 import html
 import json
 import re
@@ -445,8 +451,69 @@ def build_llms(arts: list[dict]) -> None:
     write_if_changed(SITE / "llms.txt", "\n".join(lines))
 
 
+# ---------------------------------------------------------------- 7. キャッシュバスター
+VERSIONED_EXT = ("jpg", "jpeg", "png", "webp", "gif", "svg", "css", "js")
+_hash_cache: dict[Path, str] = {}
+
+# 引用符で囲まれた「ローカル資産のURLだけ」の文字列。末尾に既存の ?v=… があれば捨てて付け直す。
+# 例: "../assets/journal-081-hero.jpg?v=20260905" / "journal.js?v=202609050809" / "https://sixten.jp/assets/og-default.jpg"
+_URL_RE = re.compile(
+    r'(?P<q>["\'])'
+    r"(?P<url>(?:" + re.escape(BASE) + r"/|\.\./|\./|/)?[A-Za-z0-9_][A-Za-z0-9_./-]*\.(?:" + "|".join(VERSIONED_EXT) + r"))"
+    r"(?:\?v=[^\"']*)?"
+    r"(?P=q)"
+)
+
+
+def asset_hash(p: Path) -> str:
+    """ファイル内容の md5 先頭10桁。同じ内容なら同じ値(冪等)、差し替えれば必ず変わる"""
+    if p not in _hash_cache:
+        _hash_cache[p] = hashlib.md5(p.read_bytes()).hexdigest()[:10]
+    return _hash_cache[p]
+
+
+def resolve_local(url: str, base_dir: Path) -> Path | None:
+    """URL文字列を site/ 配下の実ファイルに解決する。外部URLや存在しないファイルは None"""
+    if url.startswith(BASE + "/"):
+        p = SITE / url[len(BASE) + 1 :]
+    elif url.startswith("/"):
+        p = SITE / url[1:]
+    else:
+        p = base_dir / url
+    p = p.resolve()
+    try:
+        p.relative_to(SITE.resolve())
+    except ValueError:
+        return None
+    return p if p.is_file() else None
+
+
+def version_urls(text: str, base_dir: Path) -> str:
+    def sub(m: re.Match) -> str:
+        url = m.group("url")
+        p = resolve_local(url, base_dir)
+        if p is None:
+            return m.group(0)
+        q = m.group("q")
+        return f"{q}{url}?v={asset_hash(p)}{q}"
+
+    return _URL_RE.sub(sub, text)
+
+
+def version_journal_js() -> None:
+    """記事台帳(journal.js)の thumb 等を先に版付けする。以降の一覧/関連カード/feed は台帳から生成されるので自動で伝播する"""
+    p = JOURNAL / "journal.js"
+    write_if_changed(p, version_urls(read(p), JOURNAL))
+
+
+def version_html_files() -> None:
+    for p in sorted(list(SITE.glob("*.html")) + list(JOURNAL.glob("*.html")) + list((SITE / "media").glob("*.html"))):
+        write_if_changed(p, version_urls(read(p), p.parent))
+
+
 # ---------------------------------------------------------------- main
 def main() -> int:
+    version_journal_js()
     arts = load_articles()
     print(f"ARTICLES: {len(arts)}本 (最新 {arts[0]['href']})")
     build_journal_index(arts)
@@ -456,8 +523,10 @@ def main() -> int:
     build_sitemap(arts)
     build_feed(arts)
     build_llms(arts)
-    print(f"更新: {len(changed)}ファイル")
-    for c in changed[:80]:
+    version_html_files()
+    uniq = list(dict.fromkeys(changed))
+    print(f"更新: {len(uniq)}ファイル")
+    for c in uniq[:80]:
         print("  - " + c)
     if warnings:
         print(f"警告: {len(warnings)}件（上記 ! 行）")
