@@ -206,8 +206,16 @@ jobs:
               # insider_feed.json: 直近ウィンドウの3人のポスト全部（既読含む・新しい順）。ルーチンはこれを読む
               posts.sort(key=lambda p: p['posted_utc'], reverse=True)
               feed = [{k: v for k, v in p.items() if k not in ('is_new', 'tag')} for p in posts[:60]]
-              with open(FEED_FILE, 'w', encoding='utf-8') as f:
-                  json.dump({'updated_utc': now, 'source': used, 'posts': feed}, f, ensure_ascii=False, indent=1)
+              # 未読が前回と同じ顔ぶれなら書き換えない（updated_utcだけ変わる無駄commit→5分ごとの再発火を防ぐ）
+              try:
+                  old = json.load(open(FEED_FILE, encoding='utf-8'))
+              except Exception:
+                  old = {}
+              if [p['key'] for p in old.get('posts', [])] == [p['key'] for p in feed]:
+                  print('feed unchanged (same keys) — no rewrite; 前回シグナルはルーチン処理待ち')
+              else:
+                  with open(FEED_FILE, 'w', encoding='utf-8') as f:
+                      json.dump({'updated_utc': now, 'source': used, 'posts': feed}, f, ensure_ascii=False, indent=1)
               with open('/tmp/new_shams.txt', 'w') as f:
                   f.writelines(p['key'] + '\n' for p in new)
               out.write('new=true\n')
