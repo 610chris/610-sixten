@@ -21,6 +21,24 @@ const ARTICLES = [
     tile: "WNBA COMMISSIONER"
   },
   {
+    href: "082-nba-rivalries-2026-27.html",
+    cat: "NBA",
+    title: "セルティックスvs76ers、\"史上最多\"のライバル対決が再燃 —— ESPNが2026-27シーズン注目の10大リバルリーを選出",
+    excerpt: "ESPNのザック・クラム記者は9月4日(現地時間)、2026-27シーズンを前にNBAの注目リバルリー・トップ10を選出する特集記事を公開。史上最多の通算23度のプレーオフ対決があるセルティックスvs76ersを1位とし、サンダーvsスパーズ、ドンチッチ移籍後のマーベリックスvsレイカーズなども上位に選出している。",
+    date: "2026.09.04",
+    thumb: "../assets/journal-082-hero.jpg",
+    tile: "NBA RIVALRIES 2026-27"
+  },
+  {
+    href: "081-magic-2026-27-season-preview.html",
+    cat: "NBA",
+    title: "新HCスウィーニーで巻き返しなるか —— ESPN、オーランド・マジックの2026-27シーズンを展望",
+    excerpt: "ESPNは9月4日(現地時間)、オーランド・マジックの2026-27シーズンを展望する特集記事を公開。前シーズン限りでジェイマール・モズレー氏を解任しショーン・スウィーニー新ヘッドコーチを招へいしたほか、ニコラ・ヴチェビッチを1年390万ドルで再獲得したと伝え、パオロ・バンケロ、フランツ・ワグナーらの健康状態とディフェンス改善が浮上の鍵になるとしている。",
+    date: "2026.09.04",
+    thumb: "../assets/journal-081-hero.jpg",
+    tile: "ORLANDO MAGIC × 2026-27"
+  },
+  {
     href: "077-ben-simmons-kings.html",
     cat: "NBA",
     title: "1年半ぶりの現役復帰 —— ベン・シモンズ、キングスと1年350万ドルで契約合意",
@@ -55,6 +73,15 @@ const ARTICLES = [
     date: "2026.09.03",
     thumb: "../assets/journal-074-hero.jpg",
     tile: "AMEN THOMPSON × ROCKETS"
+  },
+  {
+    href: "080-nba-free-agency-grades-2026.html",
+    cat: "NBA",
+    title: "契約延長のトンプソンに\"Win-Win\"評価、デローザンはナゲッツへ —— ESPNが2026年NBA自由契約を採点",
+    excerpt: "ESPNのザック・クラム記者は9月3日(現地時間)、2026年NBAオフシーズンの主要なFA契約・契約延長を採点する分析記事を公開。ヒューストン・ロケッツとアメン・トンプソンの5年2億800万ドル契約延長を「双方にとって理にかなった合意」と評価したほか、デマー・デローザンのナゲッツ入り、ジョナサン・クミンガのティンバーウルブズ移籍にも言及している。",
+    date: "2026.09.03",
+    thumb: "../assets/journal-080-hero.jpg",
+    tile: "NBA FREE AGENCY GRADES"
   },
   {
     href: "072-nba-docomo-kawamura-ambassador.html",
