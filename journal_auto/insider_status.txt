@@ -1,3 +1,3 @@
-status=DOWN
-since=2026-09-05 20:59 UTC
-sources=https://www.reddit.com/r/nba/new/.rss?limit=100 | https://old.reddit.com/r/nba/new/.rss?limit=100
+status=OK
+since=2026-09-05 21:22 UTC
+source=https://www.reddit.com/r/nba/new/.rss?limit=100
