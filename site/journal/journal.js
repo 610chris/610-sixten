@@ -62,7 +62,7 @@ const ARTICLES = [
     title: "1年半ぶりの現役復帰 —— ベン・シモンズ、キングスと1年350万ドルで契約合意",
     excerpt: "元NBA新人王のベン・シモンズ(30)が、サクラメント・キングスと1年350万ドルの契約で合意したと、ESPNのシャムズ・チャラニア記者らが9月4日(現地時間)、複数の関係者の話として報じた。昨シーズンは背中と脚の故障で全休しており、約1年半ぶりの現役復帰となる。",
     date: "2026.09.04",
-    thumb: "../assets/journal-077-hero.jpg",
+    thumb: "../assets/journal-fallback-01.jpg",
     tile: "BEN SIMMONS × KINGS"
   },
   {
@@ -89,7 +89,7 @@ const ARTICLES = [
     title: "次代のロケッツを託される —— アメン・トンプソン、5年2億800万ドルの契約延長で合意",
     excerpt: "ヒューストン・ロケッツが、主力ガードのアメン・トンプソン(23)と5年総額2億800万ドルのルーキー契約延長で合意したと、ESPNが9月3日(現地時間)、複数の関係者の話として報じた。10%のトレードキッカーが付帯し、2024年のアルペレン・シェングンの延長契約とサラリーキャップに占める割合は同水準だという。",
     date: "2026.09.03",
-    thumb: "../assets/journal-074-hero.jpg",
+    thumb: "../assets/journal-fallback-04.jpg",
     tile: "AMEN THOMPSON × ROCKETS"
   },
   {
@@ -215,7 +215,7 @@ const ARTICLES = [
     title: "全中制覇の濵田誉（四日市メリノール学院）、堺整骨院とアンバサダー契約 —— 熊本地震復興応援大会も9月開催",
     excerpt: "堺整骨院グループは9月1日、全国中学校バスケットボール大会を制した濵田誉選手（四日市メリノール学院中学校3年）とアンバサダー契約を締結したと発表した。あわせて熊本地震復興応援「堺整骨院杯」を9月5・6日に熊本県で開催する。",
     date: "2026.09.01",
-    thumb: "../assets/journal-061-hero.jpg",
+    thumb: "../assets/journal-fallback-03.jpg",
     tile: "HAMADA HOMARE"
   },
   {
@@ -530,7 +530,7 @@ const ARTICLES = [
     title: "ワトソン、キャバリアーズへ —— ナゲッツとの5チーム間サイン&トレードで合意へ",
     excerpt: "Chris Haynes（NBA on Prime）が一報。デンバー・ナゲッツが、制限付きFAのペイトン・ワトソンをクリーブランド・キャバリアーズへ送るサイン&トレードに近づいている。5チーム間の取引で、ワトソンは4年8800万ドル(プレーヤーオプション付き)の契約条件に合意する見通し。",
     date: "2026.08.20",
-    thumb: "../assets/journal-026-hero.jpg",
+    thumb: "../assets/journal-fallback-01.jpg",
     tile: "WATSON"
   },
   {
