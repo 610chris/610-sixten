@@ -11,3 +11,6 @@ journal_auto/.surge_token
 # 本社フォルダ(経営・経理・契約など)はローカル専用・push しない
 61*/
 ブランド/
+
+# 双子フォルダ(Desktop/バスケ日記_素材)への symlink
+素材
