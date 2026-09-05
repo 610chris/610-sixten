@@ -13,6 +13,9 @@
 判定（上から順に厳しい条件で探し、見つかった段階で止まる）:
   画質: 元画像が幅 >=1600 かつ 高さ >=900（拡大しない）。幅 >=2000 を優先。
         保存前に 1600px 版のボケ判定（ラプラシアン分散 < BLUR_MIN は不採用・次の候補へ）
+        さらに 400px に縮小してから同じ判定（< BLUR_MIN_SMALL は不採用）。ノイズだらけの拡大写真は
+        等倍だとノイズを「ディテール」と誤認して通ってしまうが、縮小するとノイズが均されて正体が出る
+        （2026-09-05 記事081/039 の事故: 等倍201/110で通過→目視で完全にボケ。縮小後は206/136）
   新しさ: 撮影日(DateTimeOriginal・無ければアップロード日)が 直近3年 → 5年 → 制限なし の順で緩める
   ライセンス: CC BY / CC BY-SA / CC0 / Public domain だけ（extmetadata の LicenseShortName で判定）
   除外: svg/gif/pdf、ロゴ・地図・スクリーンショット・トレーディングカード・記念切手らしいタイトル
@@ -32,7 +35,9 @@ UA = '610-journal-bot/1.0 (https://sixten.jp/journal/; photo picker)'
 OK_LICENSE = re.compile(r'^(cc[- ]?by(-sa)?(-[0-9.]+)?|cc0|public domain|pd[- ]?\w*|no restrictions)', re.I)
 BAD_TITLE = re.compile(r'logo|emblem|map|screenshot|trading card|stamp|coat of arms|\.svg$|\.gif$|\.pdf$|\.tif', re.I)
 MIN_W, MIN_H, PREF_W = 1600, 900, 2000
-BLUR_MIN = 100.0   # ラプラシアン分散。既存記事の実測: 5〜12=完全にボケ, 30〜90=粗い, 200以上=十分, 1000以上=鮮明
+BLUR_MIN = 100.0   # ラプラシアン分散(等倍)。既存記事の実測: 5〜12=完全にボケ, 30〜90=粗い, 200以上=十分, 1000以上=鮮明
+BLUR_MIN_SMALL = 300.0  # 400px縮小後の分散。実測: ボケ拡大写真=136〜206, 許容下限の実写=349〜439, 普通の写真=800〜10000
+SMALL_W = 400
 OUT_W, OUT_H, JPEG_Q = 1600, 900, 85
 
 
@@ -109,9 +114,26 @@ def blur_score(data):
     except Exception:
         return None
     im = Image.open(io.BytesIO(data)).convert('L')
-    a = np.asarray(im, dtype=float)
-    lap = a[1:-1, 1:-1] * 4 - a[:-2, 1:-1] - a[2:, 1:-1] - a[1:-1, :-2] - a[1:-1, 2:]
-    return float(lap.var())
+
+    def lapvar(img):
+        a = np.asarray(img, dtype=float)
+        lap = a[1:-1, 1:-1] * 4 - a[:-2, 1:-1] - a[2:, 1:-1] - a[1:-1, :-2] - a[1:-1, 2:]
+        return float(lap.var())
+
+    small = im.resize((SMALL_W, max(1, round(im.height * SMALL_W / im.width))), Image.LANCZOS)
+    return lapvar(im), lapvar(small)
+
+
+def blur_ng(b):
+    """(等倍, 縮小) の分散タプルを受け取り、不採用なら理由文字列、採用なら None"""
+    if b is None:
+        return None
+    full, small = b
+    if full < BLUR_MIN:
+        return f'分散{full:.0f}<{BLUR_MIN:.0f}'
+    if small < BLUR_MIN_SMALL:
+        return f'縮小後分散{small:.0f}<{BLUR_MIN_SMALL:.0f}(ノイズ拡大写真)'
+    return None
 
 
 def save_hero(data, out):
@@ -171,12 +193,14 @@ def main():
         except Exception as e:
             print(f"  取得失敗 {c['title'][:50]}: {e}"); continue
         b = blur_score(data)
-        if b is not None and b < BLUR_MIN:
-            print(f"  ボケ判定NG(分散{b:.0f}<{BLUR_MIN:.0f}) → 次の候補: {c['title'][:60]}"); continue
+        ng = blur_ng(b)
+        if ng:
+            print(f"  ボケ判定NG({ng}) → 次の候補: {c['title'][:60]}"); continue
         if args.out:
             os.makedirs(os.path.dirname(args.out) or '.', exist_ok=True)
             save_hero(data, args.out)
-            print(f"保存: {args.out} ({OUT_W}x{OUT_H}) 元={c['width']}x{c['height']} 撮影={c['taken']} ボケ判定={'%.0f' % b if b is not None else 'skip'}")
+            bs = f'{b[0]:.0f}/縮小{b[1]:.0f}' if b is not None else 'skip'
+            print(f"保存: {args.out} ({OUT_W}x{OUT_H}) 元={c['width']}x{c['height']} 撮影={c['taken']} ボケ判定={bs}")
         print(f"FILE: {c['title']}\nPAGE: {c['page']}\nTAKEN: {c['taken']}")
         print(f"CREDIT: 撮影: {c['artist'] or '不明'} / {c['license']}, via Wikimedia Commons")
         return
