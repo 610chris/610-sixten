@@ -3,6 +3,186 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "077-ben-simmons-kings.html",
+    cat: "NBA",
+    title: "1年半ぶりの現役復帰 —— ベン・シモンズ、キングスと1年350万ドルで契約合意",
+    excerpt: "元NBA新人王のベン・シモンズ(30)が、サクラメント・キングスと1年350万ドルの契約で合意したと、ESPNのシャムズ・チャラニア記者らが9月4日(現地時間)、複数の関係者の話として報じた。昨シーズンは背中と脚の故障で全休しており、約1年半ぶりの現役復帰となる。",
+    date: "2026.09.04",
+    thumb: "../assets/journal-077-hero.jpg",
+    tile: "BEN SIMMONS × KINGS"
+  },
+  {
+    href: "076-kings-u15-okinawa-qualifier.html",
+    cat: "JAPAN",
+    title: "琉球ゴールデンキングスの「キングスU15」、沖縄県予選が9月5日開幕 —— 全国大会出場権懸け熱戦",
+    excerpt: "沖縄バスケットボール株式会社は9月4日、運営するB.LEAGUEクラブ「琉球ゴールデンキングス」の育成組織「キングスU15」が、9月5日開幕の「2026年度 第15回U15クラブバスケットボールゲームス沖縄県予選会」に出場すると発表した。",
+    date: "2026.09.04",
+    thumb: "../assets/journal-076-hero.jpg",
+    tile: "KINGS U15 × OKINAWA QUALIFIER"
+  },
+  {
+    href: "075-eneos-sunflowers-fiba-worldcup.html",
+    cat: "JAPAN",
+    title: "ENEOSサンフラワーズから女子日本代表に4名選出 —— 田中こころ・今野紀花ら、FIBA女子W杯2026へ",
+    excerpt: "ENEOS株式会社は9月3日、実業団の女子バスケットボールクラブ「ENEOSサンフラワーズ」から、9月4日開幕の「FIBA女子バスケットボールワールドカップ2026」女子日本代表に、田中こころ・今野紀花の両選手とスタッフ2名の計4名が選出されたと発表した。",
+    date: "2026.09.03",
+    thumb: "../assets/journal-075-hero.jpg",
+    tile: "ENEOS SUNFLOWERS × TEAM JAPAN"
+  },
+  {
+    href: "074-amen-thompson-rockets-extension.html",
+    cat: "NBA",
+    title: "次代のロケッツを託される —— アメン・トンプソン、5年2億800万ドルの契約延長で合意",
+    excerpt: "ヒューストン・ロケッツが、主力ガードのアメン・トンプソン(23)と5年総額2億800万ドルのルーキー契約延長で合意したと、ESPNが9月3日(現地時間)、複数の関係者の話として報じた。10%のトレードキッカーが付帯し、2024年のアルペレン・シェングンの延長契約とサラリーキャップに占める割合は同水準だという。",
+    date: "2026.09.03",
+    thumb: "../assets/journal-074-hero.jpg",
+    tile: "AMEN THOMPSON × ROCKETS"
+  },
+  {
+    href: "072-nba-docomo-kawamura-ambassador.html",
+    cat: "JAPAN",
+    title: "「NBA docomo」新アンバサダーに河村勇輝 —— NBA2026-27シーズンパス、本日発売開始",
+    excerpt: "NTTドコモは9月3日、映像配信サービス「NBA docomo」の新アンバサダーに河村勇輝選手が就任したと発表。同日からNBA2026-27シーズンを通じて視聴できるシーズンパス(16,500円)の販売も始まった。",
+    date: "2026.09.03",
+    thumb: "../assets/journal-072-hero.jpg",
+    tile: "NBA docomo × KAWAMURA"
+  },
+  {
+    href: "073-mills-parker-asvel.html",
+    cat: "NBA",
+    title: "元スパーズの名コンビ再結成 —— パティ・ミルズ、恩師トニー・パーカー率いるASVELへ移籍",
+    excerpt: "元NBA選手のパティ・ミルズが、トニー・パーカーがヘッドコーチを務めるフランス1部ASVELヴィルールバンヌと1年契約を結び加入したと、ESPNが9月2日(現地時間)報じた。スパーズで9年間チームメートだった2人が「勝つ文化」の再現を目指す。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-073-hero.jpg",
+    tile: "MILLS × PARKER × ASVEL"
+  },
+  {
+    href: "071-westbrook-project-b.html",
+    cat: "NBA",
+    title: "ラッセル・ウェストブルック、新リーグ「Project B」の共同創業者兼最高戦略責任者に就任",
+    excerpt: "引退したばかりのラッセル・ウェストブルックが、2027年1月開幕予定の男女新リーグ「Project B」に共同創業者兼チーフ・ストラテジー・オフィサーとして参加し取締役会にも加わったと、ESPNが9月2日(現地時間)報じた。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-071-hero.jpg",
+    tile: "WESTBROOK × PROJECT B"
+  },
+  {
+    href: "070-beril-yokohama-excellence.html",
+    cat: "JAPAN",
+    title: "ライバー事務所Beril、横浜エクセレンスとオフィシャルスポンサー契約 —— 2026-27シーズンから冠試合開催",
+    excerpt: "ライバーマネジメント事務所「Beril」を運営するlapaz株式会社は9月2日、B.LEAGUEのプロバスケットボールクラブ「横浜エクセレンス」と2026-27シーズンのオフィシャルスポンサー契約を締結したと発表した。ホームゲームでのBeril冠試合も予定する。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-070-hero.jpg",
+    tile: "BERIL × YOKOHAMA EXCELLENCE"
+  },
+  {
+    href: "069-meitetsu-fe-nagoya-court.html",
+    cat: "JAPAN",
+    title: "名駅に一夜限りのバスケコート出現 —— 名鉄×FE名古屋、包括連携協定を締結し9月15日にイベント開催",
+    excerpt: "名古屋鉄道は9月2日、B.LEAGUEのファイティングイーグルス名古屋と包括連携協定を締結、9月15日に名古屋駅前「Meieki Parklet」で一夜限りのバスケットボールイベントを共同開催すると発表した。期間中は「ナナちゃん」もFE名古屋のユニフォーム姿になる。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-069-hero.jpg",
+    tile: "MEITETSU × FE NAGOYA"
+  },
+  {
+    href: "068-albirex-recruit-strategy-lab.html",
+    cat: "JAPAN",
+    title: "新潟アルビレックスBB、採用戦略研究所とオフィシャルパートナー契約 —— 「新潟社長図鑑」運営元が2026-27シーズンから参入",
+    excerpt: "株式会社採用戦略研究所は9月2日、B.LEAGUE ONE・新潟アルビレックスBBと2026-27シーズンよりオフィシャルパートナー契約を締結したと発表した。新潟県内の経営者を取材するメディア「新潟社長図鑑」の運営元が、地域の採用課題解決へ連携する。",
+    date: "2026.09.02",
+    thumb: "../assets/journal-068-hero.jpg",
+    tile: "ALBIREX BB × RS-LAB"
+  },
+  {
+    href: "067-tacko-fall-76ers-camp.html",
+    cat: "NBA",
+    title: "ターコ・フォール、76ersとキャンプ契約 —— ネルソン・ジュニア、セイント・トーマスも同時合意",
+    excerpt: "76ersは9月1日、身長231cm(7フィート6インチ)のセンター、ターコ・フォールとエキシビット10契約(キャンプ契約)で合意したと発表。ジェイミア・ネルソン・ジュニア、セイント・トーマスとも同時契約し、3人は今月開催のキャンプでロースター入りを争う。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-067-hero.jpg",
+    tile: "TACKO FALL × 76ers"
+  },
+  {
+    href: "066-joshu-rydeen-upset-supplier.html",
+    cat: "JAPAN",
+    title: "JOSHU RYDEEN、株式会社アップセットとオフィシャルサプライヤー契約締結 —— 群馬発・女子3x3が新シーズンへ体制強化",
+    excerpt: "群馬県太田市を拠点とする女子3x3プロバスケットボールチーム「JOSHU RYDEEN」は9月1日、スポーツメーカーの株式会社アップセットとオフィシャルサプライヤー契約を締結したと発表した。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-066-hero.jpg",
+    tile: "JOSHU RYDEEN × UPSET"
+  },
+  {
+    href: "065-uenohara-sunrise-jumpshot3x3.html",
+    cat: "JAPAN",
+    title: "世界一に続き、国際舞台で準優勝 —— 上野原サンライズ女子、シンガポール「Jumpshot 3x3」で1st Runner Up",
+    excerpt: "ジェリービーンズグループが提携する3x3チーム「上野原サンライズ」の女子チームは、シンガポールで開催された国際大会「Jumpshot 3x3 Season 3: Play Bigger」女子の部で準優勝したと9月1日発表した。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-065-hero.jpg",
+    tile: "UENOHARA SUNRISE"
+  },
+  {
+    href: "064-unext-bleague-streaming.html",
+    cat: "NBA",
+    title: "U-NEXT、B.LEAGUE新体制の全試合を見放題配信 —— B.PREMIER・B.ONE、9月22日開幕",
+    excerpt: "U-NEXTは9月1日、9月22日開幕の「りそなグループ B.LEAGUE 2026-27 SEASON」でB.PREMIER最大803試合に加え、新たにB.ONE最大798試合も見放題でライブ配信すると発表した。追加課金なしで全試合が視聴できる。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-064-hero.jpg",
+    tile: "U-NEXT × B.LEAGUE"
+  },
+  {
+    href: "063-bambitious-basketball-day.html",
+    cat: "JAPAN",
+    title: "バンビシャス奈良「バスケの日2026 in 奈良市」開催 —— 奈良市長も参加、約8時間バスケ三昧の一日に",
+    excerpt: "バンビシャス奈良は8月29日、老若男女が一日バスケを楽しむ「バスケの日2026 in 奈良市」をロートアリーナ奈良で開催した。仲川げん奈良市長も参加し、フリースロー大会や中学生以上の8分流し試合など多彩な企画で朝から夕方まで盛り上がった。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-063-hero.jpg",
+    tile: "BASKET DAY 2026"
+  },
+  {
+    href: "062-zamst-kawamura-sponsorship.html",
+    cat: "JAPAN",
+    title: "ザムスト、河村勇輝選手とスポンサーシップ契約を更新 —— 2021年から続く4年目のパートナーシップ",
+    excerpt: "日本シグマックスは9月1日、サポート・ケア製品ブランド「ZAMST」と河村勇輝選手のスポンサーシップ契約を更新したと発表した。大学生だった2021年からの関係が、米国挑戦を続ける現在も継続する。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-062-hero.jpg",
+    tile: "ZAMST × KAWAMURA"
+  },
+  {
+    href: "061-hamada-sakai-ambassador.html",
+    cat: "JAPAN",
+    title: "全中制覇の濵田誉（四日市メリノール学院）、堺整骨院とアンバサダー契約 —— 熊本地震復興応援大会も9月開催",
+    excerpt: "堺整骨院グループは9月1日、全国中学校バスケットボール大会を制した濵田誉選手（四日市メリノール学院中学校3年）とアンバサダー契約を締結したと発表した。あわせて熊本地震復興応援「堺整骨院杯」を9月5・6日に熊本県で開催する。",
+    date: "2026.09.01",
+    thumb: "../assets/journal-061-hero.jpg",
+    tile: "HAMADA HOMARE"
+  },
+  {
+    href: "060-his-bleague-partnership.html",
+    cat: "NBA",
+    title: "HIS、B.LEAGUEと「グローカル・パートナー」契約 —— 公式ツアー「B.旅」独占展開へ",
+    excerpt: "HISは8月31日、B.LEAGUEとグローカル・パートナー契約を締結したと発表した。全クラブ対象の公式観戦ツアー「B.旅」の企画・販売独占権を取得し、アジア中心の海外プロモーションやインバウンド送客も進める。",
+    date: "2026.08.31",
+    thumb: "../assets/journal-060-hero.jpg",
+    tile: "HIS x B.LEAGUE"
+  },
+  {
+    href: "059-streetball-courtmap.html",
+    cat: "JAPAN",
+    title: "首都圏189件、コートマップで一望 ——「バスケしようよ！」が新機能公開",
+    excerpt: "草バスケコミュニティサービス「バスケしようよ！」を運営する株式会社Walkersは8月31日、首都圏のストリートバスケットボールコート189件を地図から探せる新機能「コートマップ」を公開したと発表した。東京110件・千葉29件・埼玉28件・神奈川22件を掲載し、会員登録不要・無料で利用できる。",
+    date: "2026.08.31",
+    thumb: "../assets/journal-059-hero.jpg",
+    tile: "COURT MAP"
+  },
+  {
+    href: "058-bambitious-basketball-festival.html",
+    cat: "JAPAN",
+    title: "王寺町とバンビシャス奈良、バスケットボールフェスティバル開催 —— シュート大会や3x3で子どもたちと交流",
+    excerpt: "B.LEAGUE・バンビシャス奈良は8月23日、奈良県王寺町のいずみアリーナで「バスケットボールフェスティバル」を実施したと発表した。シュート大会やバスケットボール教室、3x3の試合、抽選会など多彩な企画で、選手と多くの子どもたちが交流した。",
+    date: "2026.08.31",
+    thumb: "../assets/journal-058-hero.jpg",
+    tile: "BAMBITIOUS"
+  },
+  {
     href: "057-converse-2faced.html",
     cat: "KICKS",
     title: "隠れた名作「COURT STAR」が令和に蘇る —— コンバース「2FACED」9月11日先行発売",
