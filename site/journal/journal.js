@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "084-air-jordan-4-tour-yellow.html",
+    cat: "KICKS",
+    title: "20年ぶりの復刻 —— Air Jordan 4「Tour Yellow」9月5日発売",
+    excerpt: "Air Jordan 4「Tour Yellow」が2026年9月5日に復刻発売。2006年の初リリースから20年、ジョーダン ブランドの\"LS\"時代を象徴するカラーが戻る。WearTestersはパフォーマンスレビューも公開した。",
+    date: "2026.09.05",
+    thumb: "../assets/journal-084-hero.jpg",
+    tile: "AIR JORDAN 4 TOUR YELLOW"
+  },
+  {
+    href: "083-cdg-air-jordan-11.html",
+    cat: "KICKS",
+    title: "川久保玲がAir Jordan 11を\"ドレスシューズ\"に —— COMME des GARÇONS HOMME PLUSコラボ、9月5日発売",
+    excerpt: "COMME des GARÇONS HOMME PLUSとJordan Brandによるコラボレーション「Air Jordan 11」が2026年9月5日発売。ブラックとホワイトの2色展開、価格358ドル。1995年にティンカー・ハットフィールドが手がけた名作を、川久保玲がミニマルなドレスシューズへと再構築した。",
+    date: "2026.09.05",
+    thumb: "../assets/journal-083-hero.jpg",
+    tile: "CDG × AIR JORDAN 11"
+  },
+  {
     href: "078-gunma-crane-thunders-slogan.html",
     cat: "JAPAN",
     title: "2026-27シーズンスローガンは「BREAK THE ORDER」 —— 群馬クレインサンダーズ、B.PREMIER初年度へ",
