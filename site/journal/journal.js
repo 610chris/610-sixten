@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "085-nike-sabrina-4-the-switch.html",
+    cat: "KICKS",
+    title: "サブリナ・イオネスクの4代目シグネチャー —— Nike Sabrina 4「The Switch」本日発売",
+    excerpt: "ナイキは2026年9月5日、WNBAニューヨーク・リバティのサブリナ・イオネスクによるシグネチャーシューズ最新作「Nike Sabrina 4」の新色「The Switch」を発売した。Nike.comおよび一部取扱店で取り扱い、価格は$135(米国価格)。",
+    date: "2026.09.05",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "NIKE SABRINA 4 THE SWITCH"
+  },
+  {
     href: "084-air-jordan-4-tour-yellow.html",
     cat: "KICKS",
     title: "20年ぶりの復刻 —— Air Jordan 4「Tour Yellow」9月5日発売",
