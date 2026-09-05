@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
     # site/ に触れないpush(seen更新・shams_signal・workflow変更など)ではデプロイ不要なのでpathsで絞る。
-    paths: ['site/**']
+    paths: ['site/**', 'journal_auto/build_seo.py', 'journal_auto/indexnow_ping.sh']
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+      # SEO/AEO静的ビルド(2026-09-05): journal.js の記事台帳から一覧の静的HTML・関連記事・パンくず・
+      # sitemap.xml・feed.xml・llms.txt を再生成。ルーチンが実行し忘れても公開物は常に最新になる保険。
+      - name: Build SEO artifacts
+        run: python3 journal_auto/build_seo.py
       - run: npm install -g surge
       - name: Deploy 610-sixten.surge.sh
         run: surge ./site 610-sixten.surge.sh
@@ -27,3 +31,6 @@ jobs:
         env:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+      # IndexNow(Bing/Yandex/Naver等)へ全URLを通知。Googleは非参加なのでSearch Consoleのsitemapで別途カバー。
+      - name: Notify IndexNow
+        run: bash journal_auto/indexnow_ping.sh

@@ -84,10 +84,11 @@ PR TIMES / Shams とは独立に、毎回必ずこれも行う（2026-08-18ク�
 - **SEO/AEO必須チェックリスト（2026-08-17クリス指示「SEO,AEO対策徹底」・全記事で省略禁止）**:
   1. head内(titleの直後)にSEOメタ一式を入れる。**雛形=記事021 `021-westbrook-retires.html` のhead**をコピーして値を差し替える: meta description(=journal.jsのexcerptと同文) / canonical(`https://sixten.jp/journal/NNN-slug.html`・本番ドメインはsixten.jp) / OGP一式(og:type article・og:imageは絶対URL・写真なし記事は `https://sixten.jp/assets/og-default.jpg`) / og:locale ja_JP / article:published_time / twitter:card summary_large_image / robots max-image-preview:large
   2. `</head>`直前にJSON-LD **NewsArticle**(headline/description/image/datePublished/dateModified/inLanguage:ja/mainEntityOfPage/author/publisher/articleSection)。これも記事021を雛形に
-  3. `site/sitemap.xml` に `<url><loc>記事URL</loc><lastmod>YYYY-MM-DD</lastmod></url>` を1行追加（journal/index.htmlの行のlastmodも実行日に更新）
+  3. **journal.js の ARTICLES 追加後・commit前に `python3 journal_auto/build_seo.py` を実行する**（2026-09-05設置）。これが sitemap.xml / feed.xml(RSS) / llms.txt / 一覧ページの静的記事リスト / 各記事の関連記事3本の静的化・パンくず(表示+BreadcrumbList)・article:section・フッター説明文 を全部自動生成する。**sitemap.xml の手編集は不要（触らない）**。出力に `!` の警告行が出たら、その記事のhead(canonical/NewsArticle/title形式)を直してから再実行。生成で変わったファイルもそのまま `git add -A` に含める
   4. AEO(AI検索対策): lead第1文だけで「誰が・何を・いつ」が完結する文にする(見出しを読まなくても要旨が取れる)。固有名詞は初出でフル表記(例:「Shams Charania（ESPN）」)。重要な数字(契約年数・金額・記録)は本文の地の文に明記。excerptは記事の結論を含む事実文にする(煽り文にしない)
   5. titleタグは「記事タイトル | 610バスケットボールジャーナル」形式・記事タイトルに検索されうる固有名詞(選手名・チーム名・大会名)を必ず含める
   6. **広告枠必須**: body末尾のscript群は雛形(記事021)と同じ構成にし、`journal.js` 読み込みの後に `<script src="ads.js?v=実行日時"></script>` を必ず入れる（広告常設スロット・2026-08-20クリス指示。これが無いと新記事だけ広告枠が出ない）
+  7. 雛形021にある `<nav class="crumbs">`・`<!-- STATIC-RELATED -->` マーカー・`footer-about` 段落・BreadcrumbList JSON-LD は build_seo.py が自動で入れるので、コピーした雛形に残っていてもそのままでよい（内容はスクリプトが記事に合わせて書き換える）。hero画像の `alt` は空にせず被写体を書く
 
 ### 4. 記録とpush
 - チェックした候補URLを**採用/スキップ問わず全部** `journal_auto/seen.txt` に追記

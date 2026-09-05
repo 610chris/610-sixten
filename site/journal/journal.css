@@ -664,3 +664,18 @@ footer {
   font-weight: 700;
   color: var(--accent);
 }
+
+/* ---------- SEO/AEO 追加(2026-09-05): パンくず・サイト定義・FAQ・フッター説明。書体スタックは触らない ---------- */
+.crumbs { font-size: 11px; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 18px; }
+.crumbs a { color: var(--muted); transition: color 0.15s; }
+.crumbs a:hover { color: var(--accent); }
+.crumbs span { margin: 0 8px; }
+.site-intro { padding: 24px 0 8px; border-bottom: 1px solid var(--line); }
+.site-intro h1 { font-size: 15px; font-weight: 700; letter-spacing: 0.06em; margin: 0 0 6px; }
+.site-intro h1 small { font-weight: 400; color: var(--muted); margin-left: 8px; font-size: 12px; letter-spacing: 0.1em; }
+.site-intro p { font-size: 13px; color: var(--muted); line-height: 1.8; max-width: 780px; margin: 0; }
+.about-faq { border-top: 1px solid var(--line); background: var(--bg-row); padding: 56px 0 70px; }
+.about-faq .faq-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 26px 40px; margin-top: 22px; }
+.about-faq h2 { font-size: 15px; font-weight: 700; margin: 0 0 8px; letter-spacing: 0.04em; }
+.about-faq p { font-size: 13px; line-height: 1.9; color: var(--text); margin: 0; }
+.footer-about { flex-basis: 100%; font-size: 12px; line-height: 1.8; color: #bdb9b2; margin: 14px 0 0; }
