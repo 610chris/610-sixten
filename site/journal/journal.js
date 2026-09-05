@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "078-gunma-crane-thunders-slogan.html",
+    cat: "JAPAN",
+    title: "2026-27シーズンスローガンは「BREAK THE ORDER」 —— 群馬クレインサンダーズ、B.PREMIER初年度へ",
+    excerpt: "B.LEAGUEのB.PREMIER所属クラブ「群馬クレインサンダーズ」は9月5日、2026-27シーズンのスローガンを「BREAK THE ORDER」に決定したと発表した。ヘッドコーチはカイル・ミリング氏、キャプテンは辻直人選手が3年目でそれぞれ続投し、新加入のスタンリー・ジョンソン選手、鶴巻啓太選手を加えた12名体制でB.PREMIER初代チャンピオンを目指す。",
+    date: "2026.09.05",
+    thumb: "../assets/journal-078-hero.jpg",
+    tile: "GUNMA CRANE THUNDERS × 2026-27"
+  },
+  {
+    href: "079-engelbert-wnba-retire.html",
+    cat: "NBA",
+    title: "WNBAコミッショナー、キャシー・エンゲルバート氏が年内退任へ",
+    excerpt: "WNBAのキャシー・エンゲルバート コミッショナー(61)が、12月31日付で退任することが決まったと、ESPNのシャムズ・チャラニア記者らが9月4日(現地時間)、複数の関係者の話として報じた。後任探しは早ければ今月中にも始まるという。",
+    date: "2026.09.04",
+    thumb: "../assets/journal-079-hero.jpg",
+    tile: "WNBA COMMISSIONER"
+  },
+  {
     href: "077-ben-simmons-kings.html",
     cat: "NBA",
     title: "1年半ぶりの現役復帰 —— ベン・シモンズ、キングスと1年350万ドルで契約合意",

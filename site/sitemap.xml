@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sixten.jp/</loc><lastmod>2026-09-04</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-09-04</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/</loc><lastmod>2026-09-05</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-09-05</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/journal/078-gunma-crane-thunders-slogan.html</loc><lastmod>2026-09-05</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sixten.jp/journal/079-engelbert-wnba-retire.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/077-ben-simmons-kings.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/076-kings-u15-okinawa-qualifier.html</loc><lastmod>2026-09-04</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/075-eneos-sunflowers-fiba-worldcup.html</loc><lastmod>2026-09-03</lastmod><priority>0.8</priority></url>
