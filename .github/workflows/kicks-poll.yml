@@ -1,0 +1,186 @@
+name: Kicks poll
+# バスケットボールシューズ（KICKS）の新着を、信頼できるスニーカー媒体のRSSから毎時集めて
+# journal_auto/kicks_feed.json（要約つき）+ journal_auto/kicks_signal.txt を commit&push する。
+# push を claude.ai の webhook が受けてクラウドルーチン「610 JOURNAL 自動記事化」が即時起動し、
+# PROMPT_CLOUD.md §1d の手順で記事化する（ルーチン環境の許可リストに各媒体は無いので、ここが取得役）。
+#
+# 2026-09-05 設置（クリス指示「スニーカーバスケットボールシューズ系で同じように、信頼できるアカウントや媒体を
+# 見つけて欲しい！そこから記事を作成していってほしい！」）。媒体は信頼度で3層:
+#   A = 一次情報/公式に近い（FLY: 日本のバスケ専門誌・ブランド公式リリース由来 / ESPN Nick DePaula は shams-poll 側で監視）
+#   B = 定評ある専門媒体（Sneaker News / Nice Kicks / Hypebeast EN・JP / WearTesters=性能レビュー）
+#   C = 発売日・リーク速報寄り（Sneaker Bar Detroit / KicksOnFire / Sneaker Files）→ 単独のリークは記事にしない（§1d）
+# RSSが無い媒体（Sole Collector・Sneaker Freaker・SNKRDUNK・Nike News）は未対応。
+# ループ安全性: ルーチンはチェックした key を必ず seen_kicks.txt に追記するので、未読ゼロ→commitなし→再発火なしで収束。
+on:
+  schedule:
+    - cron: '20 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'true で新着判定を無視して空commitをpush（疎通テスト用）'
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kicks-poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+      - name: Collect basketball sneaker news
+        id: check
+        run: |
+          echo "new=false" >> "$GITHUB_OUTPUT"
+          python3 - <<'EOF'
+          import html, json, os, re, time, urllib.request
+          from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
+
+          # (媒体名, URL, 信頼度, 言語, バスケ絞り込みが必要か)
+          FEEDS = [
+              ('FLY BASKETBALL CULTURE MAGAZINE', 'https://flymag.jp/feed/',                  'A', 'ja', 'shoe'),
+              ('Sneaker News',                    'https://sneakernews.com/feed/',            'B', 'en', 'bball'),
+              ('Nice Kicks',                      'https://www.nicekicks.com/feed/',          'B', 'en', 'bball'),
+              ('Hypebeast',                       'https://hypebeast.com/footwear/feed',      'B', 'en', 'bball'),
+              ('HYPEBEAST JP',                    'https://hypebeast.com/jp/footwear/feed',   'B', 'ja', 'bball'),
+              ('WearTesters',                     'https://weartesters.com/blog/feed/',       'B', 'en', 'bball'),
+              ('Sneaker Bar Detroit',             'https://sneakerbardetroit.com/feed/',      'C', 'en', 'bball'),
+              ('KicksOnFire',                     'https://www.kicksonfire.com/feed/',        'C', 'en', 'bball'),
+              ('Sneaker Files',                   'https://www.sneakerfiles.com/feed/',       'C', 'en', 'bball'),
+          ]
+          # バスケ関連判定（タイトル+要約）。ジョーダン等バスケ由来のライフスタイルモデルも含める
+          BBALL = re.compile(
+              r'basketball|hoops|air ?jordan|jordan \d|\baj ?\d|lebron|kobe|kyrie|\bkd ?\d|giannis|zoom freak|luka|'
+              r'curry \d|curry flow|wemby|wembanyama|\bja ?\d|ja morant|sabrina|g\.?t\.? ?(cut|jump|hustle)|book ?1|'
+              r'tatum|anthony edwards|\bae ?\d|puma mb|mb\.0\d|lamelo|way of wade|\banta\b|li-?ning|harden vol|'
+              r'dame \d|d\.o\.n|trae young|zion|kawhi|two wxy|hesi low|fuelcell|reebok (question|answer|engine|shaq)|'
+              r'shaqnosis|penny|foamposite|air force|dunk|blazer|protro|jumpman|'
+              r'バスケ|ジョーダン|レブロン|コービー|カイリー|カリー|ヤニス|ウェンビー|ザイオン|ハーデン|デイム|エアフォース|ダンク',
+              re.I)
+          # FLY はバスケ専門誌なので「シューズの話題か」だけ絞る
+          SHOE = re.compile(
+              r'シューズ|スニーカー|バッシュ|air ?jordan|jordan|air force|dunk|air max|kobe|lebron|\bkd|\bja ?\d|protro|'
+              r'\blow\b|\bhigh\b|\bmid\b|new balance|converse|puma|asics|adidas|nike|reebok|under armour|anta|li-?ning',
+              re.I)
+          FEED_FILE = 'journal_auto/kicks_feed.json'
+          SEEN_FILE = 'journal_auto/seen_kicks.txt'
+          UA = '610-journal-bot/1.0 (+https://sixten.jp/journal/; basketball sneaker news monitor)'
+          out = open(os.environ['GITHUB_OUTPUT'], 'a')
+          now = datetime.now(timezone.utc)
+
+          def get(url):
+              req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept': '*/*'})
+              with urllib.request.urlopen(req, timeout=40) as r:
+                  return r.read().decode('utf-8', 'replace')
+
+          def strip_html(s):
+              s = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', s, flags=re.S)
+              s = re.sub(r'<br\s*/?>', ' ', s)
+              s = re.sub(r'<[^>]+>', ' ', s)
+              return re.sub(r'\s+', ' ', html.unescape(s)).strip()
+
+          def tag(item, name):
+              m = re.search(r'<' + name + r'[^>]*>(.*?)</' + name + '>', item, re.S)
+              return strip_html(m.group(1)) if m else ''
+
+          def parse_date(s):
+              for f in (lambda x: parsedate_to_datetime(x), lambda x: datetime.fromisoformat(x.replace('Z', '+00:00'))):
+                  try:
+                      d = f(s)
+                      return (d if d.tzinfo else d.replace(tzinfo=timezone.utc)).astimezone(timezone.utc)
+                  except Exception:
+                      pass
+              return None
+
+          try:
+              seen = {l.strip() for l in open(SEEN_FILE) if l.strip()}
+          except FileNotFoundError:
+              seen = set()
+
+          items, ok = [], []
+          for name, url, tier, lang, mode in FEEDS:
+              body = None
+              for attempt in (1, 2):
+                  try:
+                      body = get(url); break
+                  except Exception as e:
+                      print(f'{name} attempt {attempt}: {e}'); time.sleep(10)
+              if not body:
+                  continue
+              ok.append(name)
+              n = 0
+              for it in re.findall(r'<(?:item|entry)>(.*?)</(?:item|entry)>', body, re.S):
+                  title = tag(it, 'title')
+                  lm = re.search(r'<link[^>]*href="([^"]+)"', it) or re.search(r'<link>(.*?)</link>', it, re.S)
+                  link = html.unescape(lm.group(1)).strip() if lm else ''
+                  if not title or not link:
+                      continue
+                  link = re.sub(r'[?&]utm_[^&]*', '', link).rstrip('?&')
+                  summary = tag(it, 'description') or tag(it, 'summary') or tag(it, 'content:encoded') or tag(it, 'content')
+                  pub = parse_date(tag(it, 'pubDate') or tag(it, 'published') or tag(it, 'updated') or tag(it, 'dc:date'))
+                  if pub and (now - pub).days > 7:
+                      continue
+                  hay = title + ' ' + summary[:400]
+                  if not (SHOE if mode == 'shoe' else BBALL).search(hay):
+                      continue
+                  cats = re.findall(r'<category[^>]*>(.*?)</category>', it, re.S)
+                  items.append({
+                      'source': name, 'tier': tier, 'lang': lang, 'key': link, 'url': link, 'title': title,
+                      'published_utc': pub.strftime('%Y-%m-%dT%H:%M:%SZ') if pub else '',
+                      'summary': summary[:600], 'categories': [strip_html(c) for c in cats][:6],
+                  })
+                  n += 1
+              print(f'{name}: {n} basketball items')
+
+          if not ok:
+              print('all feeds failed'); raise SystemExit(0)
+          # 同一URLの重複除去→新しい順→上限
+          uniq = {}
+          for p in items:
+              uniq.setdefault(p['key'], p)
+          feed = sorted(uniq.values(), key=lambda p: p['published_utc'], reverse=True)[:80]
+          new = [p for p in feed if p['key'] not in seen]
+          print(f'items: {len(feed)}  new: {len(new)}  (sources ok: {len(ok)}/{len(FEEDS)})')
+          for p in new[:30]:
+              print(f"  [{p['tier']}] {p['source']} {p['published_utc']} {p['title'][:80]}")
+          if not new:
+              raise SystemExit(0)
+          try:
+              old = json.load(open(FEED_FILE, encoding='utf-8'))
+          except Exception:
+              old = {}
+          if [p['key'] for p in old.get('posts', [])] == [p['key'] for p in feed]:
+              print('feed unchanged (same keys) — no rewrite; 前回シグナルはルーチン処理待ち')
+          else:
+              with open(FEED_FILE, 'w', encoding='utf-8') as f:
+                  json.dump({'updated_utc': now.strftime('%Y-%m-%d %H:%M UTC'), 'sources_ok': ok, 'posts': feed},
+                            f, ensure_ascii=False, indent=1)
+          with open('/tmp/new_kicks.txt', 'w') as f:
+              f.writelines(p['key'] + '\n' for p in new)
+          out.write('new=true\n')
+          EOF
+      - name: Signal via push
+        if: steps.check.outputs.new == 'true' || github.event.inputs.force == 'true'
+        run: |
+          git config user.name "kicks-poll"
+          git config user.email "actions@github.com"
+          if [ "${{ github.event.inputs.force }}" = "true" ] && [ "${{ steps.check.outputs.new }}" != "true" ]; then
+            git commit --allow-empty -m "kicks-poll: 疎通テスト(force)"
+          else
+            cp /tmp/new_kicks.txt journal_auto/kicks_signal.txt
+            git add journal_auto/kicks_signal.txt journal_auto/kicks_feed.json
+            if git diff --cached --quiet; then
+              echo "signal unchanged — 前回シグナルが未処理のまま。毎時ルーチンに任せてスキップ"
+              exit 0
+            fi
+            git commit -m "kicks-poll: バスケシューズ新着シグナル"
+          fi
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }

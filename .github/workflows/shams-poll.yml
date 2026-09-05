@@ -79,6 +79,8 @@ jobs:
               'Marks':     ('BobbyMarks42',    'Bobby Marks（ESPN）',           'journal_auto/seen_marks.txt'),
               'Amick':     ('sam_amick',       'Sam Amick（The Athletic）',     'journal_auto/seen_amick.txt'),
               'Spears':    ('MarcJSpears',     'Marc J. Spears（Andscape）',    'journal_auto/seen_spears.txt'),
+              # スニーカー/シューズ契約の一次情報（KICKSカテゴリ・2026-09-05追加）
+              'DePaula':   ('NickDePaula',     'Nick DePaula（ESPN）',          'journal_auto/seen_depaula.txt'),
           }
           TAG_BY_LOWER = {k.lower(): k for k in REPORTERS}
           # r/nba は「[Charania] …」のほか「[Marc Stein] …」「[Brian Windhorst] …」と名前つきで書くこともある

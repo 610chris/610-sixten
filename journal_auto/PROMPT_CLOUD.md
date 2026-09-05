@@ -11,7 +11,7 @@ Anthropicクラウドのスケジュール実行で、610_sixten リポジトリ
 
 ### 1. 新着チェック
 1. `curl -s --max-time 60 -A 'Mozilla/5.0' https://prtimes.jp/index.rdf` で PR TIMES 新着RSS(200件)を取得（ファイルに落としてから部分抽出。全文をコンテキストに載せない）
-2. `<item>` の title/description が正規表現 `バスケットボール|バスケ|Bリーグ|B\.LEAGUE|NBA|3x3|Wリーグ` に一致するURLを抽出
+2. `<item>` の title/description が正規表現 `バスケットボール|バスケ|Bリーグ|B\.LEAGUE|NBA|3x3|Wリーグ|ジョーダン|バッシュ` に一致するURLを抽出（ジョーダン/バッシュは2026-09-05追加。バスケシューズのリリースを拾うため。該当したらカテゴリは KICKS・作り方は §1d）
 3. `journal_auto/seen.txt` に無いURLだけが候補。**候補ゼロなら何もコミットせず終了**
 
 ### 1b. インサイダー/記者のXポストチェック（14人・毎回実行）
@@ -37,6 +37,7 @@ Stein以下11人は2026-09-05クリス指示「信頼性が高い人を探して
 | Bobby Marks | `BobbyMarks42` | `journal_auto/seen_marks.txt` | `https://x.com/BobbyMarks42/status/<ID>` | Bobby Marks（ESPN） | 契約・サラリーキャップ解説 |
 | Sam Amick | `sam_amick` | `journal_auto/seen_amick.txt` | `https://x.com/sam_amick/status/<ID>` | Sam Amick（The Athletic） | 速報・特集 |
 | Marc J. Spears | `MarcJSpears` | `journal_auto/seen_spears.txt` | `https://x.com/MarcJSpears/status/<ID>` | Marc J. Spears（Andscape） | 特集・インタビュー |
+| Nick DePaula | `NickDePaula` | `journal_auto/seen_depaula.txt` | `https://x.com/NickDePaula/status/<ID>` | Nick DePaula（ESPN） | **シューズ契約・シグネチャーモデルの一次情報。記事は §1d のKICKSルールで作る（カテゴリ KICKS）** |
 
 **取得元は `journal_auto/insider_feed.json`（リポジトリ内のファイル）。自分では外部取得しない。**
 （2026-09-05変更: 旧取得元 nitter.net は 2026-08-25 から HTTP 410 で完全停止し、8/20以降の速報が2週間ゼロになっていた。
@@ -84,6 +85,29 @@ PR TIMES / Shams とは独立に、毎回必ずこれも行う（2026-08-18ク�
 5. **既報チェック必須**: `site/journal/journal.js` の ARTICLES と `journal_auto/published.log` を確認し、同じニュースを既に記事化していたら見送り（ShamsはESPN所属なので同じニュースが両ルートから来ることが多い。先に出た方が勝ち）
 6. 記事の作り方は §1b のShams記事と同じ（Wikimedia CommonsのCC写真＋クレジット・カテゴリNBA・§3のSEO/AEOチェックリスト全部）。ただし: **本文はESPN記事の翻訳・要約転載ではなく、ニュースの骨子（誰が・何を・いつ・契約条件などの数字）だけを自分の日本語で書く**。ESPN記者の論評・分析・記事表現の転載はしない。ESPNが「Sources:」としている情報は本文でも「ESPNによると〜と報じられている」と伝聞で書く。出典ブロックは「ESPN + 記事タイトル + 記事URL」
 7. 取得した新着guidは採用/スキップ（宣伝・48時間超・既報含む）を問わず**全部** `journal_auto/seen_espn.txt` に追記
+
+### 1d. バスケットボールシューズ（KICKS）チェック・毎回実行
+
+PR TIMES / インサイダー / ESPN とは独立に、毎回必ずこれも行う（2026-09-05クリス指示「スニーカーバスケットボールシューズ系で同じように、信頼できるアカウントや媒体を見つけて欲しい！そこから記事を作成していってほしい！」。信頼性重視＝噂ばかりの発信源は使わない）。
+
+**取得元は `journal_auto/kicks_feed.json`（リポジトリ内のファイル）。自分では各媒体を外部取得しない。** `.github/workflows/kicks-poll.yml` が毎時20分に次の媒体のRSSからバスケ関連だけを抜いて書く（`posts[]`: `source` / `tier` / `lang` / `key`(=記事URL) / `url` / `title` / `published_utc` / `summary`(要約・最大600字) / `categories`）。
+
+| tier | 媒体 | 性格 | 扱い |
+|---|---|---|---|
+| A | FLY BASKETBALL CULTURE MAGAZINE（flymag.jp・日本） | バスケ専門誌。ブランド公式リリース由来の国内発売情報 | そのまま採用可 |
+| A | Nick DePaula（ESPN）のXポスト | シューズ契約・シグネチャーモデルの一次情報（§1bの表・`insider_feed.json` 側に入る） | そのまま採用可 |
+| B | Sneaker News / Nice Kicks / Hypebeast / HYPEBEAST JP | 定評ある専門媒体。公式画像・品番・発売日の確定情報が中心 | 採用可 |
+| B | WearTesters | バッシュのパフォーマンスレビュー（2009年からの老舗） | 「レビュー紹介」として特集扱いで採用可（帰属明示） |
+| C | Sneaker Bar Detroit / KicksOnFire / Sneaker Files | 発売日・リーク速報寄り | **単独のリーク（公式画像なし・「reportedly」「rumored」・発売が半年以上先）は見送り**。公式画像＋品番＋発売日が揃った確定情報、または他のtier A/B媒体と一致する情報なら採用可 |
+
+手順:
+1. `journal_auto/kicks_feed.json` を読む（無い／`posts` 空なら「新着なし」）。`journal_auto/seen_kicks.txt` に無い `key` だけが候補。**候補ゼロなら何もしない**
+2. 採用基準（バスケットボールシューズ＝バッシュ、およびジョーダン等バスケ由来のライフスタイルモデル）: ①新モデル・新シグネチャーの発表、選手のシューズ契約 ②発売情報（発売日・価格・品番が確定したもの。日本発売なら特に優先） ③復刻・コラボ ④テクノロジー/デザインの解説やパフォーマンスレビュー（特集扱い） ⑤日本人選手・Bリーグ・日本限定の話題は最優先。見送り: バスケ由来でないモデル（ランニング・ライフスタイル一般）／セール・割引・在庫・「Where to buy」型の購入誘導／単独リーク（上表C）／`published_utc` が48時間超（レビュー・特集は7日まで可）。採用は**1回の実行で最大2本**
+3. **同じシューズを複数媒体が扱っていたら1本にまとめる**（tier A→B→Cの順で主出典を選び、他媒体は出典ブロックに併記可）。`site/journal/journal.js` の ARTICLES・`journal_auto/published.log`・§1(PR TIMES)で既報なら見送り
+4. 本文: モデル名（英語表記＋必要なら日本語）・カラー名・品番・発売日・価格（米ドルなら「$xxx（米国価格）」、日本円は税込明記があればそのまま）・搭載テクノロジー・背景（選手との関係・オリジナルの年代・ストーリー）を**自分の日本語で**書く。媒体の文章の翻訳転載はしない。媒体が未確認情報としているものは「〇〇（媒体名）によると〜と報じられている」と伝聞で書き、確定情報と混ぜない。media側の推測・感想は転載しない
+5. **写真: 媒体の記事画像・商品画像は著作権上使わない**（og:imageも不可）。順に: ①Wikimedia Commons でモデル名（例 `Air Jordan 4` / `Nike Kobe` / `Converse Weapon`）を検索し、同じモデルのCC写真があれば使う（§1bの手順・クレジット必須。カラーが違う場合はキャプションに「〇〇カラー（本記事のモデルとは別カラー）」と正直に書く） → ②同シリーズ/同ブランドのCC写真を「イメージ」として使う → ③`site/assets/journal-fallback-02.jpg` または `-04.jpg`（`journal_auto/fallback-images.md` の書式）。PR TIMES由来（§1）のリリース画像だけは従来通り使ってよい
+6. 出典ブロック: 「媒体名 + 記事タイトル + 記事URL」（複数媒体なら列挙。DePaula由来は §1b の出典ルール）。カテゴリ（journal.jsのcat・記事のjr-cat）は **KICKS**。§3のSEO/AEOチェックリストは全部適用。titleにはモデル名（英語表記）を必ず含める（検索されるのは「Air Jordan 4 Tour Yellow 発売日」のような語）
+7. 取得した候補 `key` は採用/スキップ（見送り・期限超過・既報含む）を問わず**全部** `journal_auto/seen_kicks.txt` に追記。公開したら published.log にも追記
 
 ### 2. 判定
 各候補URLのリリースページをcurlで取得し（og:title / og:image / 発表日 / 本文抽出のみ）、次に該当したらスキップ:
