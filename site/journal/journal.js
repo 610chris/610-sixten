@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "086-air-jordan-9-space-jam.html",
+    cat: "KICKS",
+    title: "『スペース・ジャム』30周年復刻 —— Air Jordan 9 OG「Space Jam」9月19日発売",
+    excerpt: "ジョーダン ブランドは、映画『スペース・ジャム』公開30周年を記念し「Air Jordan 9 OG \"Space Jam\"」(品番: IX6179-100)を2026年9月19日に発売する。マイケル・ジョーダン時代を象徴するオリジナルカラーの復刻。",
+    date: "2026.09.05",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "AIR JORDAN 9 SPACE JAM"
+  },
+  {
     href: "085-nike-sabrina-4-the-switch.html",
     cat: "KICKS",
     title: "サブリナ・イオネスクの4代目シグネチャー —— Nike Sabrina 4「The Switch」本日発売",
