@@ -14,3 +14,4 @@ journal_auto/.surge_token
 
 # 双子フォルダ(Desktop/バスケ日記_素材)への symlink
 素材
+__pycache__/

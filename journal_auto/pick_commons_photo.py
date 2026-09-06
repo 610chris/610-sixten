@@ -9,6 +9,7 @@
   python3 journal_auto/pick_commons_photo.py "Luka Doncic" "Luka Dončić" --out site/assets/journal-085-hero.jpg
   python3 journal_auto/pick_commons_photo.py "Air Jordan 4" --list           # 候補一覧だけ見る（保存しない）
   python3 journal_auto/pick_commons_photo.py "Rui Hachimura" --pick 2 --out ... # 一覧の2番目を採用
+  python3 journal_auto/pick_commons_photo.py --from-url <画像URL> --out ... --crop-y 0.05  # 切り直しだけ
 
 判定（上から順に厳しい条件で探し、見つかった段階で止まる）:
   画質: 元画像が幅 >=1600 かつ 高さ >=900（拡大しない）。幅 >=2000 を優先。
@@ -20,12 +21,22 @@
   ライセンス: CC BY / CC BY-SA / CC0 / Public domain だけ（extmetadata の LicenseShortName で判定）
   除外: svg/gif/pdf、ロゴ・地図・スクリーンショット・トレーディングカード・記念切手らしいタイトル
 
-出力: 候補を順位付きで表示し、--out があれば 1600x900（16:9 中央クロップ・jpeg品質85）で保存。
+出力: 候補を順位付きで表示し、--out があれば 1600x900（16:9・jpeg品質85）で保存。
       最後の行に `CREDIT: 撮影: <撮影者> / <ライセンス>, via Wikimedia Commons` を出す（キャプションにそのまま使う）。
       候補ゼロなら exit 2（→ フォールバック写真へ）。ネットワーク失敗は exit 3。
 
-依存: 標準ライブラリのみで検索・ランク付けできる。保存とボケ判定は Pillow(+numpy) があれば行い、無ければ
-      Commons が生成した 1600px 版をそのまま保存する（拡大は起きないので画質は保たれる）。
+クロップ位置（2026-09-06 クリス指摘「画像がある時に、顔が切れてるのはNG」で設置）:
+  旧実装は centering=(0.5, 0.4) の固定で、縦長の全身写真を 16:9 に切ると顔が枠の外に出ていた
+  （記事067 ターコ・フォール=身長231cm で胴体だけの写真になった）。今は次の順で縦位置を決める:
+    ①--crop-y を指定していればそれ（0=一番上, 1=一番下）
+    ②顔検出（OpenCV YuNet・models/face_detection_yunet_2023mar.onnx）が成功したら、
+      一番大きい顔の中心が仕上がりの上から FACE_TOP(既定0.32) に来る位置。横位置も顔に合わせる
+    ③顔が取れない/OpenCVが無い時は縦横比フォールバック。縦長の写真ほど上寄せ（正方形以上に縦長=0.12 →
+      16:9 と同じ横長=0.40 の間を線形）。全身写真の顔切れはこれだけでもほぼ防げる
+  保存時に `クロップ:` 行で採用した方法と centering 値を出すので、ログを見れば手動で直せる。
+
+依存: 標準ライブラリのみで検索・ランク付けできる。保存とボケ判定は Pillow(+numpy)、顔検出は
+      opencv-python-headless があれば行う。無い場合もエラーにはせず、上の②→③に自動で落ちる。
 """
 import argparse, json, os, re, sys, urllib.parse, urllib.request
 from datetime import datetime, timezone
@@ -39,6 +50,12 @@ BLUR_MIN = 100.0   # ラプラシアン分散(等倍)。既存記事の実測: 5
 BLUR_MIN_SMALL = 300.0  # 400px縮小後の分散。実測: ボケ拡大写真=136〜206, 許容下限の実写=349〜439, 普通の写真=800〜10000
 SMALL_W = 400
 OUT_W, OUT_H, JPEG_Q = 1600, 900, 85
+YUNET = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'models', 'face_detection_yunet_2023mar.onnx')
+FACE_TOP = 0.32      # 顔の中心を仕上がりの上から何割の位置に置くか（人物写真の定番＝上から1/3）
+FACE_SCORE = 0.6     # YuNet の採用スコア。これ未満は顔と見なさない
+FACE_LONG = 1024     # 顔検出に渡す画像の長辺px（小さすぎると小さい顔を拾えない）
+CY_PORTRAIT = 0.12   # 顔が取れない時の上寄せ下限（縦長写真）
+CY_DEFAULT = 0.40    # 顔が取れない時の既定（横長写真・旧実装と同じ）
 
 
 def api(params):
@@ -136,14 +153,69 @@ def blur_ng(b):
     return None
 
 
-def save_hero(data, out):
+def detect_face(im):
+    """PIL Image から一番大きい顔を探し、中心を (x割合, y割合) で返す。取れなければ None。
+
+    OpenCV(opencv-python-headless) と同梱の YuNet モデルが揃っている時だけ動く。
+    どちらか欠けても例外にせず None を返し、呼び出し側が縦横比フォールバックへ落ちる。
+    """
+    try:
+        import cv2, numpy as np
+        from PIL import Image
+    except ImportError:
+        return None
+    if not os.path.exists(YUNET):
+        return None
+    try:
+        w, h = im.size
+        s = FACE_LONG / max(w, h)
+        if s < 1.0:
+            im = im.resize((max(1, round(w * s)), max(1, round(h * s))), Image.LANCZOS)
+        arr = np.asarray(im.convert('RGB'))[:, :, ::-1]  # PILはRGB / OpenCVはBGR
+        arr = np.ascontiguousarray(arr)
+        det = cv2.FaceDetectorYN.create(YUNET, '', (arr.shape[1], arr.shape[0]), score_threshold=FACE_SCORE)
+        _, faces = det.detect(arr)
+        if faces is None or len(faces) == 0:
+            return None
+        x, y, fw, fh = max(faces, key=lambda f: f[2] * f[3])[:4]
+        return ((x + fw / 2) / arr.shape[1], (y + fh / 2) / arr.shape[0])
+    except Exception:
+        return None
+
+
+def crop_centering(src_w, src_h, face, crop_y=None, face_top=FACE_TOP):
+    """ImageOps.fit に渡す centering (cx, cy) と、採用した方法の説明を返す"""
+    clamp = lambda v: min(1.0, max(0.0, v))
+    target = OUT_W / OUT_H
+    if crop_y is not None:
+        return (0.5, clamp(crop_y)), f'手動指定 --crop-y {crop_y}'
+    if face:
+        fx, fy = face
+        # 16:9 に切った時に実際に残る範囲（元画像px）。顔の中心がその中で face_top に来る位置を逆算する
+        ch = min(src_h, src_w / target)
+        cw = min(src_w, src_h * target)
+        cy = 0.5 if src_h - ch < 1 else clamp((fy * src_h - face_top * ch) / (src_h - ch))
+        cx = 0.5 if src_w - cw < 1 else clamp((fx * src_w - 0.5 * cw) / (src_w - cw))
+        return (cx, cy), f'顔検出（顔の中心 上から{fy * 100:.0f}%）'
+    # 顔が取れない時: 縦長の写真ほど上を残す（全身写真の頭が切れるのを防ぐ）
+    a = src_w / src_h
+    if a >= target:
+        return (0.5, CY_DEFAULT), '縦横比フォールバック（横長・縦は切らない）'
+    cy = CY_PORTRAIT + (CY_DEFAULT - CY_PORTRAIT) * clamp((a - 1.0) / (target - 1.0))
+    return (0.5, clamp(cy)), f'縦横比フォールバック（縦横比{a:.2f}）'
+
+
+def save_hero(data, out, crop_y=None, face_top=FACE_TOP, use_face=True):
     try:
         from PIL import Image, ImageOps
         import io
         im = Image.open(io.BytesIO(data))
         im = ImageOps.exif_transpose(im).convert('RGB')
-        im = ImageOps.fit(im, (OUT_W, OUT_H), method=Image.LANCZOS, centering=(0.5, 0.4))
+        face = detect_face(im) if (use_face and crop_y is None) else None
+        centering, how = crop_centering(im.width, im.height, face, crop_y, face_top)
+        im = ImageOps.fit(im, (OUT_W, OUT_H), method=Image.LANCZOS, centering=centering)
         im.save(out, 'JPEG', quality=JPEG_Q, optimize=True, progressive=True)
+        print(f'クロップ: {how} → centering=({centering[0]:.2f}, {centering[1]:.2f})')
     except ImportError:
         with open(out, 'wb') as f:
             f.write(data)
@@ -152,14 +224,37 @@ def save_hero(data, out):
 def main():
     global MIN_W
     ap = argparse.ArgumentParser()
-    ap.add_argument('terms', nargs='+', help='検索語（複数可。英語表記・別名・チーム名+選手名 など）')
+    ap.add_argument('terms', nargs='*', help='検索語（複数可。英語表記・別名・チーム名+選手名 など）')
     ap.add_argument('--out', help='保存先 site/assets/journal-NNN-hero.jpg')
     ap.add_argument('--list', action='store_true', help='候補一覧だけ表示')
     ap.add_argument('--pick', type=int, default=1, help='一覧のN番目を採用（既定1）')
     ap.add_argument('--limit', type=int, default=40)
     ap.add_argument('--min-width', type=int, default=MIN_W)
+    ap.add_argument('--crop-y', type=float, default=None,
+                    help='縦のクロップ位置を手で指定（0=一番上を残す, 0.5=中央, 1=一番下）。指定すると顔検出より優先')
+    ap.add_argument('--face-top', type=float, default=FACE_TOP,
+                    help=f'顔の中心を仕上がりの上から何割の位置に置くか（既定{FACE_TOP}）')
+    ap.add_argument('--no-face', action='store_true', help='顔検出を使わず縦横比フォールバックだけで切る')
+    ap.add_argument('--from-url', help='検索せず、このURLの画像を切り直して --out に保存する')
+    ap.add_argument('--from-file', help='検索せず、このローカル画像を切り直して --out に保存する')
     args = ap.parse_args()
     MIN_W = args.min_width
+    crop_opts = dict(crop_y=args.crop_y, face_top=args.face_top, use_face=not args.no_face)
+
+    # 切り直しモード: 検索を通さず、渡された画像をそのまま 16:9 にして保存する
+    if args.from_url or args.from_file:
+        if not args.out:
+            print('--from-url / --from-file には --out が必要', file=sys.stderr); sys.exit(1)
+        try:
+            data = fetch(args.from_url) if args.from_url else open(args.from_file, 'rb').read()
+        except Exception as e:
+            print(f'取得失敗: {e}', file=sys.stderr); sys.exit(3)
+        os.makedirs(os.path.dirname(args.out) or '.', exist_ok=True)
+        save_hero(data, args.out, **crop_opts)
+        print(f'保存: {args.out} ({OUT_W}x{OUT_H})')
+        return
+    if not args.terms:
+        print('検索語か --from-url / --from-file が必要', file=sys.stderr); sys.exit(1)
 
     try:
         found, seen = [], set()
@@ -198,7 +293,7 @@ def main():
             print(f"  ボケ判定NG({ng}) → 次の候補: {c['title'][:60]}"); continue
         if args.out:
             os.makedirs(os.path.dirname(args.out) or '.', exist_ok=True)
-            save_hero(data, args.out)
+            save_hero(data, args.out, **crop_opts)
             bs = f'{b[0]:.0f}/縮小{b[1]:.0f}' if b is not None else 'skip'
             print(f"保存: {args.out} ({OUT_W}x{OUT_H}) 元={c['width']}x{c['height']} 撮影={c['taken']} ボケ判定={bs}")
         print(f"FILE: {c['title']}\nPAGE: {c['page']}\nTAKEN: {c['taken']}")
