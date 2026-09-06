@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "087-fc-barcelona-nike-kobe-3-protro.html",
+    cat: "KICKS",
+    title: "クラブエンブレムを刻んだコービーモデル —— Nike Kobe 3 Low Protro「Electro Purple」9月4日発売",
+    excerpt: "ナイキとFCバルセロナのコラボレーション「Kobe 3 Low Protro」新色「Electro Purple」が2026年9月4日に発売された。ブラックにエレクトロパープルとメタリックゴールドを配し、クラブエンブレムをあしらったディテールが特徴。品番IO6257-001、価格200ドル(米国価格)。",
+    date: "2026.09.06",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "NIKE KOBE 3 LOW PROTRO"
+  },
+  {
     href: "086-air-jordan-9-space-jam.html",
     cat: "KICKS",
     title: "『スペース・ジャム』30周年復刻 —— Air Jordan 9 OG「Space Jam」9月19日発売",
