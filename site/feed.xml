@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>雨と雪の日にも履ける一足に —— Nike Air Force 1 Low GORE-TEX「Baroque Brown」発表</title>
+      <link>https://sixten.jp/journal/088-nike-air-force-1-gore-tex-baroque-brown.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/088-nike-air-force-1-gore-tex-baroque-brown.html</guid>
+      <pubDate>Mon, 07 Sep 2026 09:00:00 +0900</pubDate>
+      <category>KICKS</category>
+      <description>ナイキは「Air Force 1 Low」を冬仕様にアップデートした新色「GORE-TEX Baroque Brown」を発表した。防水素材GORE-TEXとVibram製アウトソールを組み合わせ、悪天候下でのグリップ力を高めている。品番HV5953-200、価格150ドル(米国価格)、発売時期は2026年内の見込み。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>クラブエンブレムを刻んだコービーモデル —— Nike Kobe 3 Low Protro「Electro Purple」9月4日発売</title>
       <link>https://sixten.jp/journal/087-fc-barcelona-nike-kobe-3-protro.html</link>
@@ -268,15 +277,6 @@
       <category>JAPAN</category>
       <description>草バスケコミュニティサービス「バスケしようよ！」を運営する株式会社Walkersは8月31日、首都圏のストリートバスケットボールコート189件を地図から探せる新機能「コートマップ」を公開したと発表した。東京110件・千葉29件・埼玉28件・神奈川22件を掲載し、会員登録不要・無料で利用できる。</description>
       <enclosure url="https://sixten.jp/assets/journal-059-hero.jpg?v=289e8c3d10" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>王寺町とバンビシャス奈良、バスケットボールフェスティバル開催 —— シュート大会や3x3で子どもたちと交流</title>
-      <link>https://sixten.jp/journal/058-bambitious-basketball-festival.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/058-bambitious-basketball-festival.html</guid>
-      <pubDate>Mon, 31 Aug 2026 09:00:00 +0900</pubDate>
-      <category>JAPAN</category>
-      <description>B.LEAGUE・バンビシャス奈良は8月23日、奈良県王寺町のいずみアリーナで「バスケットボールフェスティバル」を実施したと発表した。シュート大会やバスケットボール教室、3x3の試合、抽選会など多彩な企画で、選手と多くの子どもたちが交流した。</description>
-      <enclosure url="https://sixten.jp/assets/journal-058-hero.jpg?v=5c3758b80a" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

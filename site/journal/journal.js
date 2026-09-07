@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "088-nike-air-force-1-gore-tex-baroque-brown.html",
+    cat: "KICKS",
+    title: "雨と雪の日にも履ける一足に —— Nike Air Force 1 Low GORE-TEX「Baroque Brown」発表",
+    excerpt: "ナイキは「Air Force 1 Low」を冬仕様にアップデートした新色「GORE-TEX Baroque Brown」を発表した。防水素材GORE-TEXとVibram製アウトソールを組み合わせ、悪天候下でのグリップ力を高めている。品番HV5953-200、価格150ドル(米国価格)、発売時期は2026年内の見込み。",
+    date: "2026.09.07",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "NIKE AIR FORCE 1 GORE-TEX"
+  },
+  {
     href: "087-fc-barcelona-nike-kobe-3-protro.html",
     cat: "KICKS",
     title: "クラブエンブレムを刻んだコービーモデル —— Nike Kobe 3 Low Protro「Electro Purple」9月4日発売",
