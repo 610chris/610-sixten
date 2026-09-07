@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "090-air-jordan-12-idols-become-rivals.html",
+    cat: "KICKS",
+    title: "新色「Idols Become Rivals」—— Air Jordan 12が9月12日発売",
+    excerpt: "ジョーダン ブランドは、新色「Air Jordan 12 \"Idols Become Rivals\"」(品番: CT8013-103)を2026年9月12日にSNKRSほかで発売する。米スニーカーメディアNice Kicksが発売情報を伝えた。",
+    date: "2026.09.07",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AIR JORDAN 12 IDOLS BECOME RIVALS"
+  },
+  {
     href: "089-bucks-2026-27-season-preview.html",
     cat: "NBA",
     title: "ジアニス退団、再建の船出へ —— ESPN、ミルウォーキー・バックスの2026-27シーズンを展望",
