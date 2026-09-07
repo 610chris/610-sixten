@@ -1,4 +1,4 @@
-status=DOWN
-since=2026-09-07 18:58 UTC
+status=OK
+since=2026-09-07 20:02 UTC
 notified=2026-09-07 13:59 UTC
-sources=no-secrets | https://www.reddit.com/r/nba/new/.rss?limit=100 | https://old.reddit.com/r/nba/new/.rss?limit=100
+source=https://www.reddit.com/r/nba/new/.rss?limit=100
