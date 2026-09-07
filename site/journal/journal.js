@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "089-bucks-2026-27-season-preview.html",
+    cat: "NBA",
+    title: "ジアニス退団、再建の船出へ —— ESPN、ミルウォーキー・バックスの2026-27シーズンを展望",
+    excerpt: "ESPNは9月7日(現地時間)、6月にヤニス・アデトクンボをマイアミ・ヒートへ放出したミルウォーキー・バックスの2026-27シーズンを展望する特集記事を公開。見返りに獲得したタイラー・ハーローらの起用と、新HCテイラー・ジェンキンス体制での若手育成が今シーズンの焦点になるとしている。",
+    date: "2026.09.07",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "MILWAUKEE BUCKS × 2026-27"
+  },
+  {
     href: "088-nike-air-force-1-gore-tex-baroque-brown.html",
     cat: "KICKS",
     title: "雨と雪の日にも履ける一足に —— Nike Air Force 1 Low GORE-TEX「Baroque Brown」発表",
