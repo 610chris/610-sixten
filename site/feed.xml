@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>新宿givers、初参戦シーズンでPLAYOFFS進出決定 —— 3x3.EXE PREMIER女子、10月3・4日に大阪へ</title>
+      <link>https://sixten.jp/journal/091-shinjuku-givers-3x3-playoffs.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/091-shinjuku-givers-3x3-playoffs.html</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 +0900</pubDate>
+      <category>JAPAN</category>
+      <description>女子3人制バスケットボールチーム「新宿givers(SHINJUKU GIVERS.EXE)」は、3x3.EXE PREMIER初参戦の2026シーズンで最終Round.8を残して国内年間3位以内を確定し、10月3日・4日に大阪で行われるPLAYOFFS出場権を獲得した。</description>
+      <enclosure url="https://sixten.jp/assets/journal-091-hero.jpg?v=1db97456a3" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>新色「Idols Become Rivals」—— Air Jordan 12が9月12日発売</title>
       <link>https://sixten.jp/journal/090-air-jordan-12-idols-become-rivals.html</link>
@@ -268,15 +277,6 @@
       <category>JAPAN</category>
       <description>日本シグマックスは9月1日、サポート・ケア製品ブランド「ZAMST」と河村勇輝選手のスポンサーシップ契約を更新したと発表した。大学生だった2021年からの関係が、米国挑戦を続ける現在も継続する。</description>
       <enclosure url="https://sixten.jp/assets/journal-062-hero.jpg?v=f948084902" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>全中制覇の濵田誉（四日市メリノール学院）、堺整骨院とアンバサダー契約 —— 熊本地震復興応援大会も9月開催</title>
-      <link>https://sixten.jp/journal/061-hamada-sakai-ambassador.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/061-hamada-sakai-ambassador.html</guid>
-      <pubDate>Tue, 01 Sep 2026 09:00:00 +0900</pubDate>
-      <category>JAPAN</category>
-      <description>堺整骨院グループは9月1日、全国中学校バスケットボール大会を制した濵田誉選手（四日市メリノール学院中学校3年）とアンバサダー契約を締結したと発表した。あわせて熊本地震復興応援「堺整骨院杯」を9月5・6日に熊本県で開催する。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

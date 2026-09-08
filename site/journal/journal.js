@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "091-shinjuku-givers-3x3-playoffs.html",
+    cat: "JAPAN",
+    title: "新宿givers、初参戦シーズンでPLAYOFFS進出決定 —— 3x3.EXE PREMIER女子、10月3・4日に大阪へ",
+    excerpt: "女子3人制バスケットボールチーム「新宿givers(SHINJUKU GIVERS.EXE)」は、3x3.EXE PREMIER初参戦の2026シーズンで最終Round.8を残して国内年間3位以内を確定し、10月3日・4日に大阪で行われるPLAYOFFS出場権を獲得した。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-091-hero.jpg?v=1db97456a3",
+    tile: "SHINJUKU GIVERS × PLAYOFFS"
+  },
+  {
     href: "090-air-jordan-12-idols-become-rivals.html",
     cat: "KICKS",
     title: "新色「Idols Become Rivals」—— Air Jordan 12が9月12日発売",
