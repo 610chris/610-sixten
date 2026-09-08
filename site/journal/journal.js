@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "101-nike-book-2-halloween.html",
+    cat: "KICKS",
+    title: "Nike Book 2に新色「Halloween」—— ブッカー恒例のハロウィン企画、今年はオオギー・ブギーがテーマに",
+    excerpt: "Sneaker Newsは、デビン・ブッカーのシグネチャーモデル「Nike Book 2」の新色「Halloween」を公式画像で紹介。品番はIO7942-001で、Sneaker Bar Detroitによると今年10月の発売が見込まれている。テーマは「ナイトメア・ビフォア・クリスマス」の悪役オオギー・ブギー。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "NIKE BOOK 2 HALLOWEEN"
+  },
+  {
     href: "100-helpfeel-kyoto-hannaryz.html",
     cat: "JAPAN",
     title: "Helpfeel、京都ハンナリーズと2年連続のゴールドパートナー契約 —— AIナレッジ検索で公式ヘルプサイトを継続支援",
