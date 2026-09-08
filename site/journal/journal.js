@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "092-revision-utsunomiya-brex.html",
+    cat: "JAPAN",
+    title: "株式会社Revision、宇都宮ブレックスのオフィシャルスポンサーに就任 —— マスコット「ブレッキー」にロゴ掲出",
+    excerpt: "栃木県宇都宮市のWeb制作会社・株式会社Revisionは、B.LEAGUE（Bプレミア）の宇都宮ブレックスと2026-27シーズンのオフィシャルスポンサー契約を締結したと発表した。ユニフォームパンツ広告やマスコット「ブレッキー」にロゴを掲出する。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-092-hero.jpg?v=38e51d2c68",
+    tile: "REVISION × UTSUNOMIYA BREX"
+  },
+  {
     href: "091-shinjuku-givers-3x3-playoffs.html",
     cat: "JAPAN",
     title: "新宿givers、初参戦シーズンでPLAYOFFS進出決定 —— 3x3.EXE PREMIER女子、10月3・4日に大阪へ",
