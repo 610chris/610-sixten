@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "100-helpfeel-kyoto-hannaryz.html",
+    cat: "JAPAN",
+    title: "Helpfeel、京都ハンナリーズと2年連続のゴールドパートナー契約 —— AIナレッジ検索で公式ヘルプサイトを継続支援",
+    excerpt: "京都府京都市の株式会社Helpfeelは9月8日、B.LEAGUE PREMIER西地区の京都ハンナリーズと2026-27シーズンのゴールドパートナー契約を締結したと発表。AIナレッジ検索システム「Helpfeel」を公式ヘルプサイトとして2年連続で提供する。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-100-hero.jpg?v=5dd40a70d1",
+    tile: "HELPFEEL KYOTO HANNARYZ"
+  },
+  {
     href: "099-pelicans-grizzlies-hawkins-trade.html",
     cat: "NBA",
     title: "ジョーダン・ホーキンス、グリズリーズへトレード成立 —— ペリカンズ、AJ・ジョンソンとタジ・ギブソンを獲得",
