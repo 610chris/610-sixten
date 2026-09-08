@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "105-lakers-phil-jackson-statue.html",
+    cat: "NBA",
+    title: "レイカーズ、フィル・ジャクソン氏の銅像建立へ —— スタープラザに9人目、2027年4月に除幕式",
+    excerpt: "ロサンゼルス・レイカーズは、通算5度の優勝に導いた名将フィル・ジャクソン氏を称える銅像を建立すると発表した。除幕式は2027年4月9日、本拠地クリプト・ドットコム・アリーナ外のスタープラザで行われ、ジャクソン氏はカリーム・アブドゥル＝ジャバーやコービー・ブライアントらに続く9人目となる。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "LAKERS PHIL JACKSON STATUE"
+  },
+  {
     href: "104-wizards-nichols-vp-promotion.html",
     cat: "NBA",
     title: "ウィザーズ、ニコルズ氏がバスケットボール運営担当VPに昇格 —— Gリーグ球団GMからフロント入り",
