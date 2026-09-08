@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "098-air-jordan-1-low-element-gtx-cream-ii.html",
+    cat: "KICKS",
+    title: "Air Jordan 1 Low Element GTXに新色「Cream II」—— GORE-TEX仕様で秋冬向けに",
+    excerpt: "Hypebeastは、Air Jordan 1 Low Element GTXの新色「Cream II」を紹介。SKUはFV4227-202、価格は205ドル(米国価格)で2026年内の発売が予定されている。GORE-TEXの防水ライニングを備え、秋冬シーズン向けの一足に仕上がっている。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AIR JORDAN 1 LOW ELEMENT GTX CREAM II"
+  },
+  {
+    href: "097-76ers-flyers-new-arena.html",
+    cat: "NBA",
+    title: "スペクトラム跡地に新アリーナ —— 76ers・フライヤーズ、2030年開業へ始動",
+    excerpt: "フィラデルフィア・76ersとフィラデルフィア・フライヤーズは9月8日(現地時間)、南フィラデルフィアの旧スペクトラム跡地に建設する新アリーナのレンダリングを公開。市史上最大の完全民間資金プロジェクトとされ、フィラデルフィアの新WNBA拡張チームが開幕する2030年シーズン前の開業を目指す。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "76ERS FLYERS NEW ARENA"
+  },
+  {
     href: "096-nba-injury-returns-2026-27.html",
     cat: "NBA",
     title: "ハリバートン、アービングら故障組が続々復帰へ —— ESPN、2026-27シーズン開幕前チェック",
