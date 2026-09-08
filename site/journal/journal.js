@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "099-pelicans-grizzlies-hawkins-trade.html",
+    cat: "NBA",
+    title: "ジョーダン・ホーキンス、グリズリーズへトレード成立 —— ペリカンズ、AJ・ジョンソンとタジ・ギブソンを獲得",
+    excerpt: "ESPNのシャムズ・チャラニア氏が一報。ニューオーリンズ・ペリカンズは、ジョーダン・ホーキンスとマイカ・ピービー、将来の2巡目指名権1つとそのスワップ権をメンフィス・グリズリーズへトレード。見返りにAJ・ジョンソンとタジ・ギブソンを獲得した。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "PELICANS GRIZZLIES HAWKINS TRADE"
+  },
+  {
     href: "098-air-jordan-1-low-element-gtx-cream-ii.html",
     cat: "KICKS",
     title: "Air Jordan 1 Low Element GTXに新色「Cream II」—— GORE-TEX仕様で秋冬向けに",
