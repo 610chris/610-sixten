@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "094-kuas-kyoto-hannaryz.html",
+    cat: "JAPAN",
+    title: "京都先端科学大学、京都ハンナリーズの冠試合を初開催 —— 11月13日、茨城ロボッツ戦",
+    excerpt: "京都先端科学大学は、B.LEAGUE PREMIER・京都ハンナリーズが11月13日に開催するホームゲームで、大学主催として初の冠試合「京都先端科学大学Presents 京都ハンナリーズ VS 茨城ロボッツ」を実施すると発表した。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-094-hero.jpg?v=0f8dc78ef3",
+    tile: "KUAS × KYOTO HANNARYZ"
+  },
+  {
     href: "093-lebron-23-white-team-red.html",
     cat: "KICKS",
     title: "レブロン最新シグネチャー「LEBRON 23」新色「White & Team Red」登場",
