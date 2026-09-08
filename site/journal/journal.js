@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "102-nike-ja-4-jaws.html",
+    cat: "KICKS",
+    title: "Nike Ja 4「Jaws」が9月18日発売 —— サメをテーマにした新色",
+    excerpt: "Sneaker Newsは、ジャ・モラントのシグネチャーモデル「Nike Ja 4」の新色「Jaws」が9月18日に発売されると報じた。品番はJA9742-400。サメをモチーフにした「Deep Water」カラーで、Sneaker Bar Detroitも公式画像を紹介している。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "NIKE JA 4 JAWS"
+  },
+  {
     href: "101-nike-book-2-halloween.html",
     cat: "KICKS",
     title: "Nike Book 2に新色「Halloween」—— ブッカー恒例のハロウィン企画、今年はオオギー・ブギーがテーマに",
