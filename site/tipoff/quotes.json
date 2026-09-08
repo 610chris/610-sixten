@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-08T13:39:18+09:00",
+  "version": "2026-09-08T14:04:06+09:00",
   "quotes": [
     {
       "id": "q0001",
@@ -284,8 +284,8 @@
       ],
       "comment": "本番の観客席と、朝の誰もいない体育館。カッコいい方だけ欲しがっても無理。勉強も同じで、テストの点は自習室の時間で決まる。誰も見てない時間こそ、一番大事な本番なんだよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(本人アカウント投稿の可能性高いが本文開けず未確認)"
+      "source_url": "https://www.facebook.com/DamianLillard/posts/if-you-want-to-look-good-in-front-of-thousands-you-have-to-outwork-thousands-in-/986612224752604/",
+      "source_note": "本人の公式Facebookページの投稿(2016-03-13)。本文を目視確認し収録の原文と完全一致。"
     },
     {
       "id": "q0018",
@@ -302,8 +302,8 @@
       ],
       "comment": "ウェストブルックの人生のモットー。「自分には無理」って思った時に、逆に「なんで無理なの?」って聞き返す。理由が出てこないなら、それはやれるってこと。スタメンも志望校も、まずこれで問い直そう。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://www.nbcwashington.com/news/sports/nbcsports/the-meaning-behind-russell-westbrooks-why-not-slogan/2540348/",
+      "source_note": "NBC Sports Washington(2021-01-11)で本人の発言として確認。ただし『Why not?』の二語だけを独立した一文として言った記録ではなく、『I can do anything I put my mind to, sounds simple but why not?』のように文の一部として繰り返し発せられたもの。本人の代名詞的モットーである点は複数媒体で一致。"
     },
     {
       "id": "q0019",
@@ -319,8 +319,8 @@
       ],
       "comment": "シーズン前に22歳でこう言って、本当に最年少MVPになった。目標は口に出すと、自分の練習の基準が勝手に上がる。「県大会出たい」じゃなくて「県で優勝する」って言ってみるところから始まるよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://bleacherreport.com/articles/476999-derrick-rose-mvp-why-not",
+      "source_note": "Bleacher Report(2010-09-29)の本文で『Why can't I be the MVP of the league?』を目視確認。初出は ESPN Chicago の Nick Friedell 記者の記事だがそちらは現在404。"
     },
     {
       "id": "q0020",
@@ -581,8 +581,8 @@
     },
     {
       "id": "q0035",
-      "text_ja": "身長は関係ないと証明したい",
-      "text_orig": "身長は関係ないと証明したい",
+      "text_ja": "サイズは関係ないと証明したい",
+      "text_orig": "サイズは関係ないと証明したい",
       "person": "河村勇輝",
       "person_note": "バスケ日本代表 / 172cmでNBAに挑戦",
       "tier": "basketball",
@@ -592,8 +592,8 @@
       ],
       "comment": "172cmでNBAのコートに立った本人の言葉。身長も体格も選べないけど、それを言い訳にするかどうかは選べる。大きい相手と当たる試合前、「関係ない」って自分に言い切ってからコートに入ろう。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認（元記事のYahoo!ニュースが削除済み・404で本文を目視確認できず）"
+      "source_url": "https://basketballking.jp/news/world/20250721/556007.html",
+      "source_note": "バスケットボールキング(2025-07-21)。原文は『サイズは関係ないと証明したいし、それが自分と同じように小柄な選手やアジアの選手たちへのメッセージになると思っています』。2026-09-08、収録していた『身長は関係ない』は本人の言い回しと異なると確認できたため『サイズ』に修正した。元のYahoo!ニュース記事は削除済み。"
     },
     {
       "id": "q0036",
@@ -1196,8 +1196,8 @@
       ],
       "comment": "新しい技に挑んで失敗するのと、無難にやって終わるの、どっちが後悔するかって話。3P打たずに終わった試合の帰り道って、めっちゃ後悔するでしょ。それと同じ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(本人X投稿とされるがアクセス不可で本文確認できず)"
+      "source_url": "https://x.com/Simone_Biles/status/730255395554365441",
+      "source_note": "本人のX投稿(2016-05-11・リオ五輪の約3か月前)。ミラー経由で本文を確認し収録の原文と完全一致。"
     },
     {
       "id": "q0072",
@@ -1351,8 +1351,8 @@
       ],
       "comment": "点差が開いても、最後まで足を止めないチームは怖い。相手からしたら一番やりにくいのは、諦めない人。技術で負けてても、そこだけは今日から選べるよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(名言まとめサイトのみで一次ソースなし)"
+      "source_url": "https://archive.org/details/sim_rotarian_1940-07_57_1",
+      "source_note": "一次ソース。『The Rotarian』1940年7月号(Vol.57 No.1) p.12-14 のベーブ・ルース本人の寄稿『Bat It Out!』。Internet Archive のOCR全文で『You just can't beat the person who never gives up.』を確認し完全一致。"
     },
     {
       "id": "q0081",
@@ -1509,8 +1509,8 @@
     },
     {
       "id": "q0090",
-      "text_ja": "成功にとらわれるな。成長にとらわれろ。",
-      "text_orig": "成功にとらわれるな。成長にとらわれろ。",
+      "text_ja": "昨日できなかったことが今日できるようになる、これってすごい成長。その先に成功がある。",
+      "text_orig": "昨日できなかったことが今日できるようになる、これってすごい成長。その先に成功がある。",
       "person": "本田圭佑",
       "person_note": "元サッカー日本代表 / W杯3大会連続ゴール",
       "tier": "athlete",
@@ -1521,8 +1521,8 @@
       ],
       "comment": "試合に勝ったか負けたかより、昨日より上手くなったか。そこを見てると、負けた日も収穫がある。成功は運も絡むけど、成長は自分次第。伸びしろを追いかけよう。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(類似の趣旨発言は確認できるが正確な原文一致せず)"
+      "source_url": "https://www.chunichi.co.jp/article/287430",
+      "source_note": "北陸中日新聞Web(2021-07-09)、母校・星稜高校サッカー部を激励した際の発言。記事の原文は『勉強やスポーツで昨日できなかったことが今日できるようになる、これってすごい成長。その先に成功がある。自分なりの成長を意識し、人生の成功に向かっていけば良い』で、収録文はこの連続した一部分。2026-09-08、それまで収録していた『成功にとらわれるな。成長にとらわれろ。』は本人の発言ではなく後年整形されたキャッチコピーだと確認できたため、実際の発言に差し替えた。"
     },
     {
       "id": "q0091",
@@ -1638,8 +1638,8 @@
       ],
       "comment": "千日って約3年。ちょうど部活の3年間で技を体に入れて、そこから先はずっと磨き続けるってこと。武蔵みたいな達人でも稽古は千日で終わりじゃなく万日。毎日の反復が効く理由はここにある。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(五輪書由来とされるが該当箇所を確認できるページ未発見)"
+      "source_url": "https://www.koten.net/gorin/gen/238/",
+      "source_note": "宮本武蔵『五輪書』水の巻・後書。原文『千日の稽古を鍛とし、万日の稽古を錬とす』を原文掲載サイトで確認。名言欄は現代語への意訳。"
     },
     {
       "id": "q0098",
