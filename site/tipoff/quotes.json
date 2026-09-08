@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-08T14:04:06+09:00",
+  "version": "2026-09-08T20:24:13+09:00",
   "quotes": [
     {
       "id": "q0001",
@@ -186,8 +186,8 @@
       ],
       "comment": "細くて小さくてドラフト7位だったカリーが言うから刺さる。先輩みたいになれなくていいし、隣の席の点数と比べなくていい。比べる相手は昨日の自分だけ。それで十分伸びるから。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://www.forbes.com/sites/jerrybarca/2015/05/08/nba-mvp-stephen-curry-seizes-the-moment-and-delivers-his-message/",
+      "source_note": "Forbes「NBA MVP Stephen Curry Seizes The Moment And Delivers His Message」(Jerry Barca, 2015-05-08) 本文。2015年MVP授賞式スピーチの結びを記者が書き起こしたもの。原文の完全形は \"What I tell people is be the best version of yourself...\" で、収録文は前置きを外した形。本体が403のため Wayback (web.archive.org/web/20251223005811/) で本文を照合し逐語一致を確認"
     },
     {
       "id": "q0012",
@@ -1453,8 +1453,8 @@
       ],
       "comment": "試合後に「あれやっとけばよかった」って言い訳が出るなら、それを前日に潰しとく。シューズの紐、睡眠、アップ。テストの前日も同じ。言い訳ゼロにするのが準備なんだ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://number.bunshun.jp/articles/-/824966",
+      "source_note": "Number Web「スポーツ名言集」イチローの項。初出は Number541号 (2002/01/17)。原文は文末が「〜こなしていく、ということですね。」で、収録文はそこを削った形。文藝春秋のページ本文で号数まで確認"
     },
     {
       "id": "q0087",
@@ -1948,7 +1948,7 @@
     {
       "id": "q0116",
       "text_ja": "前に進む道は、速くもないし、楽でもない。私はそう教わった。",
-      "text_orig": "I was taught that the way of progress was neither swift nor easy.",
+      "text_orig": "I was taught that the way of progress is neither swift nor easy.",
       "person": "マリー・キュリー",
       "person_note": "科学者 / ノーベル賞を2度受賞",
       "tier": "legend",
@@ -1959,8 +1959,8 @@
       ],
       "comment": "ノーベル賞を2回取った人が「進歩の道は速くも楽でもない」って書いてる。伸びない時期って自分だけ遅れてる気がするけど、それが普通の道なんだよ。速くないのが正常。楽じゃないのが正常。だから焦らなくていい。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(引用サイトの出典表記も誤りで信頼できず)"
+      "source_url": "https://www.gutenberg.org/cache/epub/69617/pg69617.txt",
+      "source_note": "マリー・キュリー『Pierre Curie』(1923) 所収「AUTOBIOGRAPHICAL NOTES」第I章。Project Gutenberg eBook #69617 の全文で逐語確認。原文は \"...though I was taught that the way of progress is neither swift nor easy, this first trial confirmed in me the taste for experimental research...\"。世に流布する was 版は誤りで、原典は is"
     },
     {
       "id": "q0117",
