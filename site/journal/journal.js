@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "093-lebron-23-white-team-red.html",
+    cat: "KICKS",
+    title: "レブロン最新シグネチャー「LEBRON 23」新色「White & Team Red」登場",
+    excerpt: "FLY BASKETBALL CULTURE MAGAZINEが、レブロン・ジェームズの最新シグネチャーモデル「LEBRON 23 EP」新色「White & Team Red」を紹介。フルレングスのZoomXフォームとカーボンファイバー製プレートで軽量性と反発力を高めた一足。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "LEBRON 23 WHITE TEAM RED"
+  },
+  {
     href: "092-revision-utsunomiya-brex.html",
     cat: "JAPAN",
     title: "株式会社Revision、宇都宮ブレックスのオフィシャルスポンサーに就任 —— マスコット「ブレッキー」にロゴ掲出",
