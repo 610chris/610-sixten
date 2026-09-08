@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "103-hawks-front-office-reshuffle.html",
+    cat: "NBA",
+    title: "ホークス、フロント刷新 —— ディンウィディーがEVPに昇格、記者ボンテンプス氏も参画",
+    excerpt: "Michael Scotto（HoopsHype）が伝えたところによると、アトランタ・ホークスはピーター・ディンウィディー氏をバスケットボール運営部門のエグゼクティブ・バイスプレジデントに昇格。ESPNのティム・ボンテンプス記者もストラテジック・アドバイザーとして加わり、マクスウェル・カプチャック氏もキャップ戦略・プレーヤーパーソネル部門ディレクターに昇格した。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "HAWKS FRONT OFFICE RESHUFFLE"
+  },
+  {
     href: "102-nike-ja-4-jaws.html",
     cat: "KICKS",
     title: "Nike Ja 4「Jaws」が9月18日発売 —— サメをテーマにした新色",
