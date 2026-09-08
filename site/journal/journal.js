@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "104-wizards-nichols-vp-promotion.html",
+    cat: "NBA",
+    title: "ウィザーズ、ニコルズ氏がバスケットボール運営担当VPに昇格 —— Gリーグ球団GMからフロント入り",
+    excerpt: "Michael Scotto（HoopsHype）が伝えたところによると、ワシントン・ウィザーズはアンバー・ニコルズ氏をバスケットボール運営・パーソネル部門のバイスプレジデントに昇格させた。ニコルズ氏はアマチュア評価部門ディレクターを経て、以前はGリーグ傘下のキャピタル・シティ・ゴーゴーでゼネラルマネージャーを務めていた。",
+    date: "2026.09.08",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "WIZARDS NICHOLS VP PROMOTION"
+  },
+  {
     href: "103-hawks-front-office-reshuffle.html",
     cat: "NBA",
     title: "ホークス、フロント刷新 —— ディンウィディーがEVPに昇格、記者ボンテンプス氏も参画",
