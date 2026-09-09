@@ -1,0 +1,33 @@
+name: Probe sources
+on:
+  workflow_dispatch:
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    steps:
+      - run: |
+          python3 - <<'PY'
+          import urllib.request, re, json
+          BOT='610-journal-bot/1.0 (+https://sixten.jp/journal/; NBA news monitor)'
+          BR='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36'
+          tests=[
+           ('reddit www rss bot', 'https://www.reddit.com/r/nba/new/.rss?limit=100', BOT),
+           ('reddit www rss browser', 'https://www.reddit.com/r/nba/new/.rss?limit=100', BR),
+           ('reddit www json bot', 'https://www.reddit.com/r/nba/new.json?limit=100', BOT),
+           ('reddit oauth-less api', 'https://api.reddit.com/r/nba/new?limit=100', BOT),
+           ('hoopsrumors feed', 'https://www.hoopsrumors.com/feed', BOT),
+           ('realgm wiretap', 'https://basketball.realgm.com/rss/wiretap/0/0.xml', BOT),
+           ('espn nba rss', 'https://www.espn.com/espn/rss/nba/news', BOT),
+           ('gnews shams', 'https://news.google.com/rss/search?q=%22Shams+Charania%22&hl=en-US&gl=US&ceid=US:en', BOT),
+           ('twimg tweet-result', 'https://cdn.syndication.twimg.com/tweet-result?id=1988265906015756576&token=4', BR),
+          ]
+          for name,url,ua in tests:
+              try:
+                  req=urllib.request.Request(url, headers={'User-Agent':ua,'Accept':'*/*'})
+                  with urllib.request.urlopen(req, timeout=30) as r:
+                      b=r.read().decode('utf-8','replace')
+                  print(f'{name:26s} OK {len(b):7d}B entries={len(re.findall(r"<entry>|<item>",b))} head={b[:80]!r}')
+              except Exception as e:
+                  print(f'{name:26s} FAIL {e}')
+          PY
