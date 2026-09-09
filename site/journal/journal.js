@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "110-anta-kai-3-alchemist.html",
+    cat: "KICKS",
+    title: "ANTA KAI 3「Alchemist」が9月12日発売 —— カイリー・アービングの哲学を映した新色",
+    excerpt: "Hypebeastによると、カイリー・アービング（ダラス・マーベリックス）のシグネチャーモデル「ANTA KAI 3」の新色「Alchemist」が、2026年9月12日に135ドル（米国価格）で発売される。深いフォレストグリーンを基調に、逆境を力に変えるというアービングの哲学を表現したデザインだという。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "ANTA KAI 3 ALCHEMIST"
+  },
+  {
     href: "109-tokyo-z-avantgardey.html",
     cat: "JAPAN",
     title: "アースフレンズ東京Z、ホーム開幕戦にダンスチーム「アバンギャルディ」出演 —— 9月26日、対立川ダイス",
