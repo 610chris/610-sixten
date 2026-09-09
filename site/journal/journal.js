@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "112-cavaliers-2026-27-preview.html",
+    cat: "NBA",
+    title: "キャバリアーズ2026-27プレビュー —— ESPNがオフシーズンを「B」評価、鍵はハーデンとタイソン",
+    excerpt: "ESPNは9日（現地時間）、クリーブランド・キャバリアーズの2026-27シーズンを展望する特集記事を公開し、オフシーズンの補強采配に「B」評価。ドノバン・ミッチェルの4年2億7300万ドル契約に潜むリスクや、フルシーズンのジェームズ・ハーデン起用が焦点として挙げられている。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "CAVALIERS 2026-27 PREVIEW"
+  },
+  {
     href: "111-nba-2026-27-tier-preview.html",
     cat: "NBA",
     title: "ニックス・サンダー・スパーズが最上位 —— ESPN、NBA全30チームを2026-27シーズン開幕前に8段階格付け",
