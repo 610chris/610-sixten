@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "113-lakers-amsler-assistant-gm.html",
+    cat: "NBA",
+    title: "レイカーズ、ヒートのアムスラー氏をアシスタントGMに招聘 —— 22年在籍の生え抜き、ラマダス氏と共にペリンカ体制を支える",
+    excerpt: "Shams Charania（ESPN）が伝えたところによると、ロサンゼルス・レイカーズはマイアミ・ヒートでバスケットボール運営担当バイスプレジデントを務めるエリック・アムスラー氏をアシスタント・ゼネラルマネージャーとして招聘する。アムスラー氏はヒート組織に22年以上在籍し、ロハン・ラマダス氏と共にロブ・ペリンカ体制を支えることになる。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "LAKERS HIRE AMSLER AS ASSISTANT GM"
+  },
+  {
     href: "112-cavaliers-2026-27-preview.html",
     cat: "NBA",
     title: "キャバリアーズ2026-27プレビュー —— ESPNがオフシーズンを「B」評価、鍵はハーデンとタイソン",
