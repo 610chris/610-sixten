@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "106-air-jordan-7-tennis-day.html",
+    cat: "KICKS",
+    title: "Air Jordan 7「Tennis Day」が9月9日発売 —— 価格215ドル",
+    excerpt: "Nice Kicksによると、Air Jordan 7の新色「Tennis Day」が9月9日、Nike.comおよび一部取扱店で発売される。価格は215ドル(米国価格)、品番はIV6508-030。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AIR JORDAN 7 TENNIS DAY"
+  },
+  {
     href: "105-lakers-phil-jackson-statue.html",
     cat: "NBA",
     title: "レイカーズ、フィル・ジャクソン氏の銅像建立へ —— スタープラザに9人目、2027年4月に除幕式",
