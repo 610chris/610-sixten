@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "111-nba-2026-27-tier-preview.html",
+    cat: "NBA",
+    title: "ニックス・サンダー・スパーズが最上位 —— ESPN、NBA全30チームを2026-27シーズン開幕前に8段階格付け",
+    excerpt: "ESPNのザック・クラム記者は9日（現地時間）、開幕まで約6週間に迫った2026-27シーズンを前に、NBA全30チームを8段階のティアに格付けする分析記事を公開した。昨季カンファレンスファイナルで勝利を挙げたニックス・サンダー・スパーズの3チームが唯一無二の最上位ティアに位置づけられている。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "NBA 2026-27 TIER PREVIEW"
+  },
+  {
     href: "110-anta-kai-3-alchemist.html",
     cat: "KICKS",
     title: "ANTA KAI 3「Alchemist」が9月12日発売 —— カイリー・アービングの哲学を映した新色",
