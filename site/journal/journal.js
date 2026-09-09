@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "108-kobe-storks-hata-dojo.html",
+    cat: "JAPAN",
+    title: "神戸ストークス、専用トレーニングルーム「葉田道場」完成 —— エレコムがプラチナパートナー契約を2027年6月まで延長",
+    excerpt: "エレコム株式会社は、今シーズンからB.LEAGUE PREMIERに参入する神戸ストークスの専用トレーニングルーム「葉田道場」の完成発表会に参画したと発表。特注ベンチやパワーラックを備えた施設が完成し、プラチナパートナー契約を2027年6月30日まで延長した。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "KOBE STORKS HATA DOJO"
+  },
+  {
+    href: "107-akaishi-iwbf-wheelchair-worlds.html",
+    cat: "JAPAN",
+    title: "コロプラ所属・赤石竜我、車いすバスケ日本代表としてIWBF世界選手権に出場 —— カナダ・オタワで9日開幕",
+    excerpt: "株式会社コロプラ所属の車いすバスケットボール選手・赤石竜我が、2026年9月9日からカナダ・オタワで開催される「2026 IWBF世界選手権大会」に日本代表として出場する。東京2020パラリンピック銀メダリストで、現在はドイツ・ブンデスリーガのKoeln 99ersに所属している。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "AKAISHI IWBF WHEELCHAIR WORLDS"
+  },
+  {
     href: "106-air-jordan-7-tennis-day.html",
     cat: "KICKS",
     title: "Air Jordan 7「Tennis Day」が9月9日発売 —— 価格215ドル",
