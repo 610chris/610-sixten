@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-08T20:24:13+09:00",
+  "version": "2026-09-09T16:36:01+09:00",
   "quotes": [
     {
       "id": "q0001",
@@ -254,7 +254,7 @@
       "comment": "手を抜いた練習の日って、なんか気持ち悪いでしょ。逆に全部出し切った日は、負けても納得できる。それを毎日続けると、いつの間にか結果がついてくる。バードはそれを「持論」って呼んでる。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認"
+      "source_note": "出典未確認。⚠️通説(『When the Game Was Ours』2009 / 『Drive』1989)は成立しない: Edward F. Murphy『2,715 One-Line Quotations for Speakers, Writers & Raconteurs』(Crown, 1981)に既に収録されている(Open Library全文検索で本文確認・archive.org id: 2715onelinequota00murp)。＝1979-81年(バードのNBA入り直後)の発言。ただし1981年の引用集は出典を明示しておらず、初出媒体(1979-81年のスポーツ紙誌)は未特定。流布版は\"100 percent\"と\"100%\"が混在。第9回追記: 初出媒体(1979-81年の紙誌)を机上で特定する道は現状なし——SI Vaultの全文検索はHTTP 410で廃止済み、Archive.orgに当時のスポーツ紙誌の全文索引が無い。次は newspapers.com / ProQuest 等の新聞データベース"
     },
     {
       "id": "q0016",
@@ -325,7 +325,7 @@
     {
       "id": "q0020",
       "text_ja": "本気になるかどうかに、選択肢は2つしかない。やるか、やらないか。中途半端なんてものは存在しない。",
-      "text_orig": "There are only two options regarding commitment. You're either in or you're out. There's no such thing as life in-between.",
+      "text_orig": "There are only two options regarding the commitment to a Core Covenant. You're either IN or you're OUT. There's no such thing as life in-between.",
       "person": "パット・ライリー",
       "person_note": "NBA監督 / NBA優勝5回",
       "tier": "basketball",
@@ -336,8 +336,8 @@
       ],
       "comment": "「一応部活はやってる」「一応勉強もしてる」が一番しんどい。全力でもないし、休んでもない。やるなら本気で、休むならちゃんと休む。どっちかに決めるだけで、毎日のモヤモヤがだいぶ消えるよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://archive.org/details/winnerwithinlif00rile",
+      "source_note": "パット・ライリー『The Winner Within: A Life Plan for Team Players』(1993) 本文。Open Library の全文検索(search inside)で3版すべてに逐語で存在することを確認済み（2026-09-08 第6回・親が独立検証）。原文にある Core Covenant は同書固有の用語（チームの約束事）で、日本語の名言はその核心部分だけを訳している。※ページ番号は貸出制限のため本文表示ができず未確認。"
     },
     {
       "id": "q0021",
@@ -630,8 +630,8 @@
     },
     {
       "id": "q0038",
-      "text_ja": "自信を持っていますが、過信ではない。",
-      "text_orig": "自信を持っていますが、過信ではない",
+      "text_ja": "自信を持っていますが、過信ではないです。",
+      "text_orig": "今、チーム全員の状態は良いです。自信を持っていますが、過信ではないです",
       "person": "トム・ホーバス",
       "person_note": "バスケ日本代表監督 / 東京五輪 女子銀メダル",
       "tier": "basketball",
@@ -641,8 +641,8 @@
       ],
       "comment": "東京五輪、決勝でアメリカと戦う前に言った言葉。自信と過信の違いは、準備の量を自分で知ってるかどうか。やってきたことを信じるのが自信、やってないのに信じるのが過信。試合前、自分がどっちか正直に見よう。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認（複数のホーバス名言サイト・インタビュー記事を確認したが該当発言見当たらず）"
+      "source_url": "https://basket-count.com/article/detail/85684",
+      "source_note": "【第12回で verified】BASKET COUNT 2021-08-07 09:30 JST 公開・文＝鈴木栄一「金メダルまであと1勝に迫ったバスケ女子日本代表、指揮官のトム・ホーバス『私たちにはまだやるべきことがある』」本文に逐語で存在（親が curl+grep で確認）: 「今、チーム全員の状態は良いです。自信を持っていますが、過信ではないです」。記事は決勝（2021-08-08 vs 米国）の前日に出ており本文も「明日の決勝戦」と書く＝解説の「決勝でアメリカと戦う前」と一致。⚠️強さの但し書き: 会見の公式書き起こしではなく記者が引用した本文（q0072/q0095 と同型で一次記録より一段弱い）。収録文は「過信ではない」だったが実発言の「過信ではないです」に揃えた。【閉じた探索範囲】第11回: Number Web 全文検索で「過信ではない」2件（別人）/「過信ではない ホーバス」0件（対照ホーバス129件・過信158件＝索引健全）。第12回: Google Books 巻内検索は著書『チャレンジング・トム』の全巻ID（2TxcEAAAQBAJ / 8lLDzgEACAAJ）が viewapi で preview=noview＝索引そのものが無く対照語（自信・バスケットボール・五輪）も0件のため「本文に無い」証明には使えない。"
     },
     {
       "id": "q0039",
@@ -776,7 +776,7 @@
       "comment": "13歳で家を出ることになり、友達の家族に迎えられて育った本人の言葉。環境が悪い、部が弱い、家が大変。そこで止まらないカギは「誰と一緒にいるか」。一緒に朝練する友達、本気で叱ってくれる先生。人を選ぶことも実力のうちだよ。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認"
+      "source_note": "出典未確認。英語主要媒体を全文grepで潰し済み: ESPN 2011(Chad Ford・Butler-110618)/ESPN 2015(id 11931211)/ESPN 2017(id 18701196)/Bleacher Report 2015(2359572)/Bleacher Report 2019(2818308)/SI 2015-02-24「Running the Gauntlet」/Bulls.com Sam Smith ＝いずれも\"right people\"\"any situation\"0件(ESPNとSIはWayback経由で本文取得)。第9回に書籍も否定: Archive.org全文検索で\"make it out of any situation\"は無関係な1件のみ、\"if they have the right people around them\"も別書1件のみ。流布版は\"around them\"と\"behind them\"が混在し、まとめ記事では\"If you give somebody a chance, and you are on their side, and you tell them loving things, you never know what can happen.\"と対で載ることが多い(この対句も一次ソース未特定) 【第11回】GDELT TV API（Internet Archive TV News Archive の字幕全文検索・2009-07〜2026-09・全国放送局）で \"out of any situation\" + butler = 0件。対照 \"out of any situation\" 単体5件 / butler 単体4件がヒット＝索引は健全。米国全国TVの音声ルートも閉じた。"
     },
     {
       "id": "q0047",
@@ -1060,8 +1060,8 @@
       ],
       "comment": "負けた試合の次の練習でどう動くか。ミスしたあとの次の1本にどう入るか。そこに一番その人が出る。負けは終わりじゃなくて、立ち直りを見せる場面なんだよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://www.thenationalnews.com/sport/the-fall-and-rise-of-maturing-serena-williams-1.632294",
+      "source_note": "The National (UAE) 2012-09-10 Ahmed Rizvi「The fall and rise of maturing Serena Williams」。2012年全米オープン決勝でアザレンカに勝った直後のコメント。記事本文を取得して原文と逐語一致を確認済み（2026-09-08 第5回）。※従来説の自伝『On the Line』(2009) は誤り＝2012年の発言なので刊行年が合わない"
     },
     {
       "id": "q0064",
@@ -1162,7 +1162,7 @@
       "comment": "試合の日にやることってこれだけ。結果はコントロールできないけど、練習量と当日の全力は自分で決められる。心配する暇があったらアップしよう。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認(Guardian 2010年記事が原典とされるがアクセス不可で本文確認できず)"
+      "source_note": "出典未確認。⚠️通説(The Guardian 2010-08-27/28のインタビュー)は第5回で否定済み(実URL theguardian.com/sport/2010/aug/28/usain-bolt-interview の全文を取得し該当なし・第9回に再取得して再確認)。第9回追加: 検索AIが新たに「The Guardian 2012-07-24 Donald McRae『Legends have come before me, but this is my time』が初出」と断定したが、実物(theguardian.com/sport/2012/jul/24/usain-bolt-jamaica-olympic-100m)を取得すると\"Worrying\"0件・\"Train hard\"0件で該当なし(捏造3件目)。さらに本人の自伝2冊(Faster than Lightning 2013 / My Story 9.58 2010)はArchive.orgの全文索引に入っている(対照語\"Coach Mills\"で両方ヒット)のに、\"Worrying gets you nowhere\"/\"turn up, run your best\"/\"train hard, turn up\"/\"turn up and run your best\"はいずれも0件＝自伝にも載っていない。流布版の全文は\"Worrying gets you nowhere. If you turn up worrying about how you are going to perform, you have already lost. Train hard, turn up, run your best and the rest will take care of itself.\" 【第11回】GDELT TV API（Internet Archive TV News Archive の字幕全文検索・2009-07〜2026-09・全国放送局）で \"take care of itself\" + bolt = 0件。対照 \"take care of itself\" 単体3件 / \"usain bolt\" 単体5件がヒット＝索引は健全。米国全国TVの音声ルートも閉じた。"
     },
     {
       "id": "q0070",
@@ -1202,7 +1202,7 @@
     {
       "id": "q0072",
       "text_ja": "自分より才能のあるやつはいるかもしれない。でも、自分より練習してるやつがいるのは言い訳できない。",
-      "text_orig": "There may be people that have more talent than you, but there's no excuse for anyone to work harder than you do.",
+      "text_orig": "There may be people who have more talent than you do, but there's no excuse for anyone to work harder than you do — and I believe that.",
       "person": "デレク・ジーター",
       "person_note": "元MLB選手 / 世界一5回",
       "tier": "athlete",
@@ -1213,8 +1213,8 @@
       ],
       "comment": "才能で負けるのは仕方ない。でも練習量で負けるのは自分の責任。ここだけは誰にも負けないって場所を1個つくると、レギュラー争いの見え方が変わるよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://archive.org/details/derekjeterprideo00gile",
+      "source_note": "初出は Yankees Magazine のインタビュー（1997年前後）。誌面の現物は未確認。パトリック・ジャイルズ『Derek Jeter: Pride of the Yankees』(St. Martin's Paperbacks, 1999) が誌名を明示して引用しており、その本文を Open Library の全文検索(search inside)で逐語確認した（2026-09-08 第7回・親が独立検証）。同書での全文は「My folks taught me at a very young age that there may be people who have more talent than you do,」と続く形で、収録の原文は前置きを外した部分（末尾の — and I believe that. は原文どおりに戻した）。※従来説の著書『The Life You Imagine』(2000) は誤り。同書を Google Books の全文検索にかけると excuse は3箇所しか無く、いずれも別の文脈。そもそも引用が載る伝記の刊行が1999年で、2000年刊の著書より前。"
     },
     {
       "id": "q0073",
@@ -1269,8 +1269,8 @@
     },
     {
       "id": "q0076",
-      "text_ja": "夢は誰でも持ってる。でも夢を現実にするには、ものすごい量の覚悟と、集中と、自分を律する力と、努力がいる。",
-      "text_orig": "We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort.",
+      "text_ja": "夢は誰でも持ってる。でも夢を現実にするには、ものすごい量の覚悟と、自分を律する力と、努力がいる。",
+      "text_orig": "We all have dreams. But in order to make these dreams into reality it takes an awful lot of determination, self-discipline, and effort.",
       "person": "ジェシー・オーエンス",
       "person_note": "元陸上選手 / 1936年ベルリン五輪4冠",
       "tier": "athlete",
@@ -1281,8 +1281,8 @@
       ],
       "comment": "夢を持つだけなら誰でもできる。差がつくのはそのあと。毎日の練習、毎日の机。自分を律するって言葉は固いけど、要は「今日サボらない」を続けるってことだよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://archive.org/details/afterolympicglor00bort",
+      "source_note": "Larry Bortstein『After Olympic Glory: The Lives of Ten Outstanding Medalists』(1978) 本文に、オーエンス本人の発言(\"he says\")として収録。Open Library全文検索で窓を3回ずらして復元＝\"We all have dreams,\" he says. \"But in order to make these dreams into reality it takes an awful lot of determination, self-discipline, and effort. Sport teaches those things…\"。⚠️通説の『Blackthink』(1970)説は裏付けなし。⚠️世に流布する版は\"make dreams come into reality\"かつ\"dedication\"入りだが、最古(1978・存命中)の記録にdedicationは無いため原典側に合わせた(日本語も3要素に修正)。オーエンスへの取材か既存インタビューの再引用かは書中で判別できず＝一次ソース未到達"
     },
     {
       "id": "q0077",
@@ -1300,7 +1300,7 @@
       "comment": "終わった試合をずっと引きずってても仕方ない。次の試合、次のテストに向けて今できる準備をする。それが後悔を一番減らす方法。前を見よう。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認"
+      "source_note": "出典未確認。⚠️通説(自伝『A Kind of Grace』1997 p.41)は否定された: Google Books巻内検索(巻ID 0uH_x14Ei6oC)で \"look ahead\" 0件・\"better to look ahead and prepare\" 0件。同じ巻で look 8件 / regret 3件 / prepare 8件がヒットし索引は健全＝本文に無い。近い記述は\"look back with any regrets\"(少女期の挿話)のみ。なお Shelley Shepard Gray『Found』は同文言を「アーミッシュの諺」として紹介しており(look back with regret 版)、本人発言かどうか自体に疑いがある。JJK帰属の最古は『African-American Wisdom』(1996)/『601 sayings to make you smile!』(1997)級の引用集で、いずれも出典表記なし"
     },
     {
       "id": "q0078",
@@ -1323,7 +1323,7 @@
     {
       "id": "q0079",
       "text_ja": "できたことはちゃんと喜ぶ。でも、うまくいくたびにハードルを少しだけ上げていく。",
-      "text_orig": "Celebrate what you've accomplished, but raise the bar a little higher each time you succeed.",
+      "text_orig": "Celebrate what you've accomplished, but also raise the bar a little higher each time you succeed.",
       "person": "ミア・ハム",
       "person_note": "元サッカー選手 / W杯優勝・五輪金メダル",
       "tier": "athlete",
@@ -1334,8 +1334,8 @@
       ],
       "comment": "シュート10本中5本入ったら、次は6本。単語50個覚えたら次は60個。ちょっとずつ上げてくのがコツ。いきなり倍にすると折れる。少しずつでいいから、止めない。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(Goodreadsのみで書籍等の裏付けなし)"
+      "source_url": "https://archive.org/details/goforgoalchampio00hamm",
+      "source_note": "ミア・ハム『Go for the Goal: A Champion's Guide to Winning in Soccer and Life』(1999) 本文。Open Library の全文検索(search inside)で2版とも逐語で存在することを確認済み（2026-09-08 第6回・親が独立検証）。原典は but の後に also が入る形なので原文を修正した。※ページ番号は貸出制限のため未確認（従来説の p.23 も裏が取れていない）。"
     },
     {
       "id": "q0080",
@@ -1493,7 +1493,7 @@
     {
       "id": "q0089",
       "text_ja": "努力はウソをつく。でも、無駄にはならない。",
-      "text_orig": "努力はウソをつく。でも、無駄にはならない。",
+      "text_orig": "努力はうそをつく。でも無駄にはならない",
       "person": "羽生結弦",
       "person_note": "フィギュアスケーター / 五輪2連覇",
       "tier": "athlete",
@@ -1504,8 +1504,8 @@
       ],
       "comment": "一番練習した人が必ず勝つわけじゃない。それは羽生選手も認めてる。でも積んだものは体に残る。今すぐ結果に出なくても、腐らずに続ける理由はここにあるよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認"
+      "source_url": "https://hochi.news/articles/20220224-OHT1T51198.html",
+      "source_note": "スポーツ報知 2022-02-24 コラム「羽生結弦『報われない努力』の裏側 北京五輪担当・高木記者が見た」（文＝高木恵）の本文に「以前『努力はうそをつく。でも無駄にはならない』という言葉を残している」と逐語で存在（親が curl→タグ剥がし→grep で確認）。⚠️弱さ: 担当記者が過去の発言として引く回想であり、発言の日時・場面の一次記録には到達していない（q0072/q0095/q0038 と同じ「引用元を明示した媒体の本文で逐語確認」型）。⚠️文言: 出典の表記はひらがな「うそ」・読点なし。収録の名言欄はカタカナ「ウソ」＋読点の流布形のまま残し、原文欄を出典の表記に合わせた。【第13回】報知/スポニチ/東スポ/THE ANSWER/Number Web を全文検索。カタカナ「努力はウソをつく」は5媒体とも0件で、ひらがな「努力はうそをつく」に変えた報知だけがヒット（表記ゆれが壁だった）。対照「羽生結弦」10/50/49/13件・「無駄にはならない」10/34/39/5件＝索引は健全。"
     },
     {
       "id": "q0090",
@@ -1539,7 +1539,7 @@
       "comment": "厳しい言葉だけど、868本打った人が言うから重い。「頑張ったのに」って思う時、本当にやり切ったかを一回だけ問い直す。そこからもう一段いけることが多いよ。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認"
+      "source_note": "出典未確認 【第11回】Number Web 全文検索で「努力は必ず報われる 王貞治」1件（別記事のドラフト企画）・逐語の初出には到達せず。NDLサーチOpenSearchでも著書のデジタルコレクション版（R100000039系pid）は見つからず＝NDLデジコレ全文検索の射程外。 【第14回】表記ゆれ総当たり（「努力は必ず報われる」「報われない努力」「まだ努力と呼べない」「努力と呼べない」「報われない努力があるのなら」×報知/スポニチ/東スポ/THE ANSWER/Number）＋新媒体 full-count.jp を実行。**王貞治本人の発言の一次記録には到達せず**。ただし全国紙が王貞治に帰属させている第三者引用を3件確認（帰属の傍証・いずれも本人発言の記録ではない）: スポニチ2019-05-30（芦田愛菜の座右の銘として「努力は必ず報われる。もし報われない努力があるのならば、それはまだ努力と呼べない」＝ソフトバンク王貞治会長の言葉と紹介）/ 報知2020-10-06（同じ芦田愛菜の座右の銘・文言は「報われない努力があるとすればそれはまだ努力とは言えない」）/ スポニチ2025-10-31（「努力は必ず報われる。もし報われない努力があるとすれば、それはまだ努力と呼べない」を「世界の王」王貞治氏の言葉として引用）。⚠️3件とも文末が「呼べない/言えない」「あるのならば/あるとすれば」で揺れており、収録している定型文が本人の原文であるという保証は無い。full-count.jp（野球専門）は「努力は必ず報われる」4件・「報われない努力」1件がすべて別人で王貞治は0件（対照「王貞治」20件＝索引は健全）。"
     },
     {
       "id": "q0092",
@@ -1572,7 +1572,7 @@
       "comment": "なんとなく練習して、なんとなく授業を受けてる時間が一番もったいない。同じ1時間でも本気でやると全然違う。まず今日の1本、今日の1問だけ本気でやってみよう。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認"
+      "source_note": "出典未確認 【第11回】Number Web 全文検索で「本気になれば 松岡修造」0件（対照「本気になれば」5件・いずれも別記事）。第10回のNDLデジコレ全文検索（pid 13759168）と合わせ、机上ルートは尽きた。残るは著書の現物。 【第12回】Google Books 巻内検索を著書2版（ISBN 978-4-16-371210-9 / 978-4-16-780145-8）の全巻ID（TQnNDwAAQBAJ / FTV1PgAACAAJ / ZMwfYAAACAAJ）に実行したが、viewapi で3巻とも preview=noview＝索引が無く対照語（自分・本気・テニス）も0件。＝Google Books の日本語一般書は巻内検索の対象外と確定（0件は不在の証明にならない）。残るは現物のまま。 【第13回】報知/スポニチ/東スポ/THE ANSWER/Number Web の全文検索で「本気になれば自分が変わる」5媒体とも0件（対照「本気になれば」15/10/39/3/1件・「松岡修造」50/10/49/13/1件＝索引は健全）。公式サイト shuzo.co.jp は ?s= が機能せず（対照「テニス」も0件）判定不能。残るは著書の現物のまま。 【第14回】表記ゆれ総当たり（「本気になれば自分」「本気になれば、自分」＝読点あり /「本気になったら自分」/「本気になれば自分が変わる」×報知/スポニチ/東スポ/THE ANSWER/Number）を実行し、いずれも該当なし。報知で「本気になれば自分」が1件ヒットしたが本文grepで逐語不在の偽陽性（20201129-OHT1T50033）。第13回の5媒体0件は表記ゆれを潰しても覆らなかった。残るは著書の現物のまま。"
     },
     {
       "id": "q0094",
@@ -1588,12 +1588,12 @@
       "comment": "強い相手を避けてると伸びない。練習で一番上手い先輩とマッチアップする、模試で難しい問題から逃げない。負けるかもしれない相手とやる時が一番伸びる時だよ。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認"
+      "source_note": "出典未確認 【第11回】Number Web 全文検索（/list/search?fulltext=）で「記録はどうでもいい」「記録はどうでも」ともに0件。対照「井上尚弥」809件 /「どうでもいいんです」16件 /「強い相手とやりたい」5件（いずれも別記事）＝索引は健全。§3-1の推奨#2「Number Web を当てる」は実行済み・効かないと確定。 【第13回】boxingnews.jp / THE ANSWER / 東スポ / 報知 / スポニチ の全文検索で「記録はどうでもいい」に井上尚弥の記事は0件。各社とも対照語で索引の健全性を確認済み（boxingnews:「強い相手とやりたい」4件 / THE ANSWER:同6件・「井上尚弥」18件 / 東スポ:同33件・「井上尚弥」49件 / 報知:「記録はどうでも」7件・全部別競技 / スポニチ:「記録はどうでもいい」14件・全部別競技かつAND検索「井上尚弥 記録はどうでもいい」0件）。日刊スポーツはJS検索でcurl不可、サンスポ・ボクシングモバイルは ?s= が無効で判定不能。ボクシング専門媒体の机上ルートは尽きた。 【第14回】表記ゆれ総当たり（「記録なんてどうでもいい」「記録などどうでもいい」「記録はどうでもいいんです」「そんなことより、強い相手」×報知/スポニチ/東スポ/THE ANSWER/boxingnews/Number）を実行。ヒットした記事は本文grepで全部別人と確定（報知2022-05-06・2023-07-31＝中日大野雄大/巨人山口鉄也 ／ スポニチ2013-05-13 谷繁・2022-05-07 大野雄大・2022-10-17 金村・2020-10-04 張本勲 ／ スポニチ2008-09-11「記録はどうでもいいんです」＝広島永川）。**井上尚弥の記事は1件も無い。**第13回の閉鎖判定は表記ゆれを潰しても維持。"
     },
     {
       "id": "q0095",
-      "text_ja": "自分にコントロールできないことは、いっさい考えない。自分にできることだけに集中するだけです。",
-      "text_orig": "自分にコントロールできないことは、いっさい考えない。自分にできることだけに集中するだけです。",
+      "text_ja": "自分がコントロールできない部分を気にしても仕方ないですから。自分がコントロールできる部分に集中するだけですね",
+      "text_orig": "自分がコントロールできない部分を気にしても仕方ないですから。自分がコントロールできる部分に集中するだけですね",
       "person": "松井秀喜",
       "person_note": "元MLB選手 / ワールドシリーズMVP",
       "tier": "athlete",
@@ -1605,8 +1605,8 @@
       ],
       "comment": "審判の判定、相手の調子、監督の起用。自分で変えられないことで悩む時間を、変えられること(練習量、睡眠、準備)に全部回す。試合前の不安はこれでだいぶ消えるよ。",
       "active": true,
-      "source_url": "",
-      "source_note": "出典未確認(第三者による要約表現の可能性あり)"
+      "source_url": "https://number.bunshun.jp/articles/-/851957",
+      "source_note": "初出は Number Web「“キャンプ直前”なのにロックアウトが終わらない…「何もない」鈴木誠也（27）が受け継ぐ野茂＆松井の“超一流のメンタリティー”とは」（笹田幸嗣, 2022-02-08, https://number.bunshun.jp/articles/-/851957 ）。本文を直接取得してgrepし、記者が「ヤンキースに移籍した松井秀喜からはこんな言葉を聞いた」として直接引用している一文を確認した（第11回・Number Web全文検索 fulltext= ルートで発見）。⚠️従来の帰属（木村裕一『きむら式童話のつくり方』2004 ／『不動心』第2章）は本文未確認のまま流布していたもので、この記事とは無関係。⚠️評価の弱さを明記: 記事は2022年掲載で、発言時期はヤンキース移籍後（2003年前後）を記者が回想して引用した形。発言当日の一次記録そのものではない。収録していた「自分にコントロールできないことは、いっさい考えない。自分にできることだけに集中するだけです。」は逐語ではなかったため、記者が引用した実発言に差し替えた。"
     },
     {
       "id": "q0096",
@@ -1706,7 +1706,7 @@
       "comment": "シュートが入らない、成績が上がらない。それは失敗じゃなくて「途中」なんだよね。やめた瞬間に初めて失敗が確定する。松下幸之助は9歳から丁稚奉公して、そこから世界的な会社を作った人。続けた人の言葉は重い。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認(NDLレファレンスでも原典確認できずと結論)"
+      "source_note": "出典未確認(NDLレファレンスでも原典確認できずと結論) 【第14回】報知を初めて適用（§3-1-v13 推奨2）＋表記ゆれ総当たり（「やめてしまうから失敗」「失敗したところでやめて」「成功するまで続ければ」「成功するまでやり続ければ」「それは成功になる」×報知/スポニチ/東スポ/THE ANSWER/Number）を実行し、**報知・スポニチで全表記0件**（対照「松下幸之助」＝報知12件/スポニチ10件で索引は健全）。THE ANSWER の「成功するまで続ければ」1件は本文grepでバドミントン渡辺勇大の講演（the-ans.jp/news/86262/）＝別人。公式サイト konosuke-matsushita.com（PHP研究所）は検索が Google CSE のJS駆動で curl 不可＝判定不能（0件を不在の根拠にしない）。机上の報道媒体ルートは尽きた。残るは著書の現物（『道をひらく』等）。"
     },
     {
       "id": "q0102",
