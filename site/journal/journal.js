@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "109-tokyo-z-avantgardey.html",
+    cat: "JAPAN",
+    title: "アースフレンズ東京Z、ホーム開幕戦にダンスチーム「アバンギャルディ」出演 —— 9月26日、対立川ダイス",
+    excerpt: "プロバスケットボールクラブ「アースフレンズ東京Z」は、2026年9月26日（土）のホーム開幕戦（vs立川ダイス、EBARA WAVEアリーナおおた）に、バブリーダンスの振付師akane氏がプロデュースするダンスチーム「アバンギャルディ」がスペシャルゲストとして出演すると発表した。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "TOKYO Z AVANTGARDEY"
+  },
+  {
     href: "108-kobe-storks-hata-dojo.html",
     cat: "JAPAN",
     title: "神戸ストークス、専用トレーニングルーム「葉田道場」完成 —— エレコムがプラチナパートナー契約を2027年6月まで延長",
