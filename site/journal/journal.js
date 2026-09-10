@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "121-jordan-tatum-5-sunrise.html",
+    cat: "KICKS",
+    title: "Jordan Tatum 5「Sunrise」が10月15日発売 —— ジェイソン・テイタムの最新シグネチャー、新色登場",
+    excerpt: "Sneaker Newsによると、ジェイソン・テイタム（ボストン・セルティックス）のシグネチャーモデル「Jordan Tatum 5」の新色「Sunrise」が2026年10月15日に発売される。品番はIO1746-401。9月に発表されたばかりの最新シグネチャーモデルの初期カラー展開のひとつとなる。",
+    date: "2026.09.10",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "JORDAN TATUM 5 SUNRISE"
+  },
+  {
     href: "120-air-jordan-1-high-og-royal.html",
     cat: "KICKS",
     title: "Air Jordan 1 High OG「Royal」10月10日に復刻 —— 黒×ロイヤルブルー、約10年ぶりの再登場",
