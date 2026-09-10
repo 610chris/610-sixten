@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "115-chiba-sky-wings-festa.html",
+    cat: "JAPAN",
+    title: "CHIBA SKY WINGS、地元・多古町で3x3エキシビジョン開催 —— 新宿制覇の女子チームが9月21日に凱旋",
+    excerpt: "3x3プロチーム「CHIBA SKY WINGS」が9月21日、拠点の多古町民体育館で無料の3x3エキシビジョンマッチを開催。5月31日には女子チームがRBL新宿大会で優勝している。",
+    date: "2026.09.09",
+    thumb: "../assets/journal-115-hero.jpg?v=182272b984",
+    tile: "CHIBA SKY WINGS"
+  },
+  {
     href: "114-jordan-tatum-5.html",
     cat: "KICKS",
     title: "ジョーダン ブランド「テイタム5」発表 —— 復帰のジェイソン・テイタム、雑音を遮断する哲学を体現",
