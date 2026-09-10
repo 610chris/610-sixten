@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "116-pistons-2026-27-preview.html",
+    cat: "NBA",
+    title: "ピストンズ2026-27プレビュー —— ESPNがオフシーズンを「C−」評価、争点はデュレンとの契約交渉",
+    excerpt: "ESPNは10日（現地時間）、デトロイト・ピストンズの2026-27シーズンを展望する特集記事を公開し、オフシーズンの補強采配に「C−」評価。制限付きFAのジェイレン・デュレンとの契約交渉が膠着したまま、看板選手ケイド・カニンガムの相棒となる補強は実現しなかった。",
+    date: "2026.09.10",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "PISTONS 2026-27 PREVIEW"
+  },
+  {
     href: "115-chiba-sky-wings-festa.html",
     cat: "JAPAN",
     title: "CHIBA SKY WINGS、地元・多古町で3x3エキシビジョン開催 —— 新宿制覇の女子チームが9月21日に凱旋",
