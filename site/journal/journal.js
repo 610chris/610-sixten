@@ -3,6 +3,33 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "119-air-jordan-14-blue-ferrari.html",
+    cat: "KICKS",
+    title: "Air Jordan 14「Blue Ferrari」2027年秋発売へ —— 2014年「Ferrari」の系譜、レッドからブルーへ",
+    excerpt: "Air Jordan 14の新色「Blue Ferrari」が2027年秋に発売予定。2014年発売の初代「Ferrari」のレッドスエードをブルーに置き換えた新解釈。Sneaker News・Sneaker Bar Detroitが報じた。",
+    date: "2026.09.10",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AIR JORDAN 14 BLUE FERRARI"
+  },
+  {
+    href: "118-air-jordan-4-fire-red-2027.html",
+    cat: "KICKS",
+    title: "Air Jordan 4「Fire Red」2027年秋に復刻 —— ティンカー・ハットフィールドが手がけた1989年オリジナルカラー",
+    excerpt: "Air Jordan 4の代表的カラー「Fire Red」が2027年秋に復刻。1989年のオリジナルを起点に、2020年以来の再登場となる。Sneaker News・Sneaker Bar Detroitが揃って報じた。",
+    date: "2026.09.10",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "AIR JORDAN 4 FIRE RED"
+  },
+  {
+    href: "117-yokohama-excellence-basketball-donation.html",
+    cat: "JAPAN",
+    title: "横浜エクセレンス、地元中学校7校にバスケットボールを寄贈 —— 「よこはま夢ファンド」活用、寄贈式でクリニックも",
+    excerpt: "B.LEAGUE ONEの横浜エクセレンスは、横浜市神奈川区内の中学校7校にB.LEAGUE公式試合球と同等のモルテン製バスケットボールを寄贈。8月30日の寄贈式ではAGM西山達哉氏らがバスケットボールクリニックも実施した。",
+    date: "2026.09.10",
+    thumb: "../assets/journal-117-hero.jpg?v=d8c0546777",
+    tile: "YOKOHAMA EXCELLENCE"
+  },
+  {
     href: "116-pistons-2026-27-preview.html",
     cat: "NBA",
     title: "ピストンズ2026-27プレビュー —— ESPNがオフシーズンを「C−」評価、争点はデュレンとの契約交渉",
