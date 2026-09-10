@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "114-jordan-tatum-5.html",
+    cat: "KICKS",
+    title: "ジョーダン ブランド「テイタム5」発表 —— 復帰のジェイソン・テイタム、雑音を遮断する哲学を体現",
+    excerpt: "FLY BASKETBALL CULTURE MAGAZINEによると、ジョーダン ブランドはジェイソン・テイタム（ボストン・セルティックス）のシグネチャー最新作「テイタム5」を発表した。コートを支配するテイタムのプレースタイルを軸に、軽量性と反発性を追求したデザイン。復帰した本人は「周りの雑音がなくなることはない」と自身の哲学を語っている。",
+    date: "2026.09.10",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "JORDAN TATUM 5"
+  },
+  {
     href: "113-lakers-amsler-assistant-gm.html",
     cat: "NBA",
     title: "レイカーズ、ヒートのアムスラー氏をアシスタントGMに招聘 —— 22年在籍の生え抜き、ラマダス氏と共にペリンカ体制を支える",
