@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "120-air-jordan-1-high-og-royal.html",
+    cat: "KICKS",
+    title: "Air Jordan 1 High OG「Royal」10月10日に復刻 —— 黒×ロイヤルブルー、約10年ぶりの再登場",
+    excerpt: "Air Jordan 1 High OGの定番カラー「Royal」（品番IQ5495-005）が2026年10月10日に発売。黒×ロイヤルブルーの配色が約10年ぶりに復刻する。Nice Kicks・Sneaker Bar Detroitが報じた。",
+    date: "2026.09.10",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "AIR JORDAN 1 ROYAL"
+  },
+  {
     href: "119-air-jordan-14-blue-ferrari.html",
     cat: "KICKS",
     title: "Air Jordan 14「Blue Ferrari」2027年秋発売へ —— 2014年「Ferrari」の系譜、レッドからブルーへ",
