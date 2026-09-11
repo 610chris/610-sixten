@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-09-11 00:34 UTC",
+ "updated_utc": "2026-09-11 06:33 UTC",
  "sources_ok": [
   "FLY BASKETBALL CULTURE MAGAZINE",
   "Sneaker News",
@@ -8,9 +8,32 @@
   "HYPEBEAST JP",
   "WearTesters",
   "Sneaker Bar Detroit",
+  "KicksOnFire",
   "Sneaker Files"
  ],
  "posts": [
+  {
+   "source": "FLY BASKETBALL CULTURE MAGAZINE",
+   "tier": "A",
+   "lang": "ja",
+   "key": "https://flymag.jp/news/67175/",
+   "url": "https://flymag.jp/news/67175/",
+   "title": "CONVERSEからバスケットボールシューズ「CONS ACCELERATOR SE LOW」が登場！",
+   "published_utc": "2026-09-11T06:33:09Z",
+   "summary": "この投稿をInstagramで見る コンバーススポーツ(@converse_sports_jp)がシェアした投稿 CONVERSEがバスケットボールカテゴリー「CONVERSE BASKETBALL」より、2026FWシーズンの最新モデル「CONS ACCELERATOR SE LOW」を発売。 この「CONS ACCELERATOR SE LOW」は、ブランドのアーカイブである名作「ACCELERATOR」をベースに、最新のフットウェア技術でアップデートしたパフォーマンスモデル。ソール上部に配置された新構造シャンクがシューズと足の一体感を高め、激しい切り返しや切り込み時の俊敏なフットワークをサポート。ミッドソールには軽量性とクッション性に優れた中空ミッドソールを採用し、自然でスムーズな足運びを実現。 アウトソールには星形の屈曲溝を配置し、多方向へのフットワークを力強くサポート。アッパーは従来の融着パーツを抑え、全面に3Dメッシュを採用することで軽量化と優れた通気性を両立。 さらにスポンジ密度の高い高密度PU+E.V.A.インソールを搭載し、着地時の衝撃を吸収。高いスペックを備えながらも、部活生をはじめとする多くのプレイヤーが手に取りやすいプロダクト設計が実現されている。 CONS ACCELERATOR SE LOW 価格：14,300円（税込） サイズ：23.0～29.0、30",
+   "categories": []
+  },
+  {
+   "source": "FLY BASKETBALL CULTURE MAGAZINE",
+   "tier": "A",
+   "lang": "ja",
+   "key": "https://flymag.jp/news/67177/",
+   "url": "https://flymag.jp/news/67177/",
+   "title": "adidas Originalsの名作アパレル『FIREBIRD』のatmos別注スウェット素材モデルが9月18日(金)登場！",
+   "published_utc": "2026-09-11T06:32:08Z",
+   "summary": "atmosが、「adidas Originals」の名作トラックジャケット『FIREBIRD』をスウェット素材で再構築した別注モデル『SWEAT FIREBIRD TRACK TOP atmos』を発売。 9月11日(金) 12時00分よりatmosオンラインショップにて予約受付が開始されており、9月18日(金)よりatmos各店、atmos pink各店、A.T.A.D、atmosオンラインショップにて販売される。 【予約詳細】 2026年9月11日(金) 12時00分 – 9月18日(金) 9時59分まで 特設ページ 今年4月に発売した別注モデル『DENIM FIREBIRD』が発売後即完売という大きな反響を呼んだことを受け、待望のシリーズ第2弾として登場した本作。クラシックな『FIREBIRD』のシルエットを継承しながら、今作はヘビーウェイトのスウェット素材を採用し、よりストリートエッセンスを際立たせた一着に仕上がっている。程よくゆとりのあるルーズなシルエットを維持しつつ細部のバランスを見直し、ラフなストリートウェアでありながらも上品で洗練された印象を両立している。 ユニセックスアイテムとして展開され、デニムやカーゴパンツはもちろん、スカートやボトムスとも好相性。スウェットプルオーバーのような感覚で気軽に取り入れられる、この秋注目の一着となっている。 adidas Origi",
+   "categories": []
+  },
   {
    "source": "Sneaker Bar Detroit",
    "tier": "C",
@@ -410,20 +433,6 @@
    ]
   },
   {
-   "source": "Sneaker Bar Detroit",
-   "tier": "C",
-   "lang": "en",
-   "key": "https://sneakerbardetroit.com/nike-air-bakin-varsity-royal-2026/",
-   "url": "https://sneakerbardetroit.com/nike-air-bakin-varsity-royal-2026/",
-   "title": "Nike Air Bakin “Varsity Royal” Releases November 12th",
-   "published_utc": "2026-09-09T20:10:00Z",
-   "summary": "Nike is bringing back a nostalgic late-’90s basketball sneaker as the Nike Air Bakin is rebooted in its original “Varsity Royal” colorway. Last seen back in 2008, the blue and black color scheme closely resembles the design first released almost thirty years ago. Black mesh is featured on an upper that’s split by panels of […] The post Nike Air Bakin “Varsity Royal” Releases November 12th appeared first on Sneaker Bar Detroit .",
-   "categories": [
-    "Nike",
-    "Nike Air Bakin"
-   ]
-  },
-  {
    "source": "Nice Kicks",
    "tier": "B",
    "lang": "en",
@@ -544,19 +553,6 @@
    "categories": [
     "フットウエア",
     "特集"
-   ]
-  },
-  {
-   "source": "Hypebeast",
-   "tier": "B",
-   "lang": "en",
-   "key": "https://hypebeast.com/2026/9/air-jordan-1-low-golf-mule-medium-olive-khaki-fj1214-201-official-images",
-   "url": "https://hypebeast.com/2026/9/air-jordan-1-low-golf-mule-medium-olive-khaki-fj1214-201-official-images",
-   "title": "Air Jordan 1 Low Golf Mule Blends Course Traction and Slip-On Ease in a New \"Medium Olive/Khaki\"",
-   "published_utc": "2026-09-08T05:22:52Z",
-   "summary": "Name: Air Jordan 1 Low Golf Mule “Medium Olive/Khaki”Colorway: Medium Olive/KhakiSKU: FJ1214-201MSRP: $115 USDRelease Date: Fall/Winter 2026The Air Jordan 1 Low Golf Mule returns in a new \"Medium Olive/Khaki\" colorway, extending a silhouette that sits at the intersection of performance golf and everyday comfort. It is a shoe designed to do two jobs at once, delivering the traction a round demands while keeping the step-in, step-out convenience of a mule.The model itself is a genuine hybrid rather than a single shoe with a tweak. It draws together the Air Jordan 1 Low Mule and the Air Jordan 1 ",
-   "categories": [
-    "Footwear"
    ]
   },
   {
