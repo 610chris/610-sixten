@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "126-adidas-anthony-edwards-3-snow-camo.html",
+    cat: "KICKS",
+    title: "adidas Anthony Edwards 3「Snow Camo」が10月9日発売 —— ミネソタの冬をイメージしたグレー×ホワイト新色",
+    excerpt: "アンソニー・エドワーズ（ミネソタ・ティンバーウルブズ）の3代目シグネチャーモデル「adidas Anthony Edwards 3」に、新色「Snow Camo」（品番KH8542）が2026年10月9日に発売される。グレーとホワイトを基調に、エドワーズの地元ミネソタの冬をイメージした配色。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-126-hero.jpg?v=38a0196018",
+    tile: "ADIDAS ANTHONY EDWARDS 3"
+  },
+  {
     href: "125-pacers-2026-27-preview.html",
     cat: "NBA",
     title: "ペイサーズ2026-27プレビュー —— ハリバートン復帰、ESPNは「B−」評価でズバッチ加入を評価",
