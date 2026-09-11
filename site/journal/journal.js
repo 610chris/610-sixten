@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "133-anthony-edwards-adidas-superstar-ii-bliss-blue.html",
+    cat: "KICKS",
+    title: "Anthony Edwards x adidas Superstar II「Bliss Blue」が9月18日発売 —— ミネソタのエースとクラシックモデルのコラボ",
+    excerpt: "アンソニー・エドワーズ（ミネソタ・ティンバーウルブズ）とadidasのコラボレーション「Anthony Edwards x adidas Superstar II」の新色「Bliss Blue」（品番LA7828）が2026年9月18日にadidas.comほかで発売される。Nice Kicksが伝えた。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-133-hero.jpg?v=75cca7db0e",
+    tile: "ADIDAS SUPERSTAR II"
+  },
+  {
+    href: "134-adidas-anthony-edwards-3-cold-blooded.html",
+    cat: "KICKS",
+    title: "adidas Anthony Edwards 3「Cold Blooded」が9月18日発売 —— 3代目シグネチャーに新色",
+    excerpt: "アンソニー・エドワーズ（ミネソタ・ティンバーウルブズ）の3代目シグネチャーモデル「adidas Anthony Edwards 3」に、新色「Cold Blooded」（品番KH8537）が2026年9月18日にadidas.comおよび一部取扱店で発売される。Nice Kicksが伝えた。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-134-hero.jpg?v=75cca7db0e",
+    tile: "ADIDAS ANTHONY EDWARDS 3"
+  },
+  {
     href: "132-kawhi-leonard-trade-clippers-raptors.html",
     cat: "NBA",
     title: "カワイ・レナードのラプターズ移籍、NBA承認に「障害なし」—— クリッパーズとの合意トレード、いつでも申請可能とマーク・スタイン記者",
