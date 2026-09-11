@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "127-nba-bog-clippers-europe.html",
+    cat: "NBA",
+    title: "NBA理事会が来週開催 —— クリッパーズ処分の「次章」とNBAヨーロッパ構想、シルバーコミッショナーが火曜に会見",
+    excerpt: "ESPNのブライアン・ウィンドホースト記者は11日、来週月〜火曜にニューヨークで開かれるNBA理事会(Board of Governors)を前に争点を分析する記事を公開した。焦点はクリッパーズへの処分を巡る「次章」と、NBAヨーロッパ構想の行方。アダム・シルバーコミッショナーは火曜に会見を予定している。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "NBA BOARD OF GOVERNORS"
+  },
+  {
     href: "126-adidas-anthony-edwards-3-snow-camo.html",
     cat: "KICKS",
     title: "adidas Anthony Edwards 3「Snow Camo」が10月9日発売 —— ミネソタの冬をイメージしたグレー×ホワイト新色",
