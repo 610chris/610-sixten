@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "130-mark-williams-shoulder-surgery.html",
+    cat: "NBA",
+    title: "サンズのマーク・ウィリアムズが左肩を手術 —— 関節唇断裂で長期離脱へ",
+    excerpt: "フェニックス・サンズのセンター、マーク・ウィリアムズが左肩の関節唇断裂の修復手術を受けた。Shams Charania（ESPN）によると、負傷はオフシーズンのワークアウト中に発生し、長期間の離脱が見込まれるという。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "MARK WILLIAMS SHOULDER"
+  },
+  {
     href: "129-nba-nike-specter-uniforms.html",
     cat: "NBA",
     title: "NBA×Nikeが新ユニフォーム「Specter」発表 —— ニックス・セルティックス・レイカーズなど伝統8球団に導入",
