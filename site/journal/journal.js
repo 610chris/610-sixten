@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "123-sendai-89ers-eposcard.html",
+    cat: "JAPAN",
+    title: "仙台89ERSエポスカード誕生 —— 利用額の0.1%がチーム支援に、入会特典は2,000円引き",
+    excerpt: "株式会社エポスカードは9月11日、プロバスケットボールチーム「仙台89ERS」と共創した「仙台89ERSエポスカード」の申し込み受け付けを同日開始したと発表した。年会費永年無料のVisaカードで、利用額に応じて還元されるポイントのうち0.1%分が仙台89ERSへの支援金として渡される。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "SENDAI 89ERS x EPOS"
+  },
+  {
     href: "122-kobe-storks-symenergy-byell.html",
     cat: "JAPAN",
     title: "神戸ストークス、B.LEAGUE PREMIER初年度もシン・エナジーとトップパートナー契約 —— 新プロジェクト「B.YELL」で全30試合の観戦チケット抽選",
