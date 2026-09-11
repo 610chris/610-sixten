@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "132-kawhi-leonard-trade-clippers-raptors.html",
+    cat: "NBA",
+    title: "カワイ・レナードのラプターズ移籍、NBA承認に「障害なし」—— クリッパーズとの合意トレード、いつでも申請可能とマーク・スタイン記者",
+    excerpt: "Marc Stein（The Stein Line）は11日、事情に詳しい複数の関係者の話として、クリッパーズとラプターズが今年6月に合意したとされるカワイ・レナードの移籍トレードについて、両球団はいつでもNBAへ承認を申請できる状態にあり、リーグ事務局サイドに障害はないと伝えた。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "KAWHI LEONARD TRADE"
+  },
+  {
     href: "131-air-jordan-4-lemonade-j-balvin.html",
     cat: "KICKS",
     title: "J Balvin x Air Jordan 4「Lemonade」が2026年9月発売 —— コロンビアにルーツを持つイエロー、クロコ型押しレザー",
