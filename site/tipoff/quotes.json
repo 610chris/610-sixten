@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-09T16:36:01+09:00",
+  "version": "2026-09-11T13:36:46+09:00",
   "quotes": [
     {
       "id": "q0001",
@@ -1300,7 +1300,7 @@
       "comment": "終わった試合をずっと引きずってても仕方ない。次の試合、次のテストに向けて今できる準備をする。それが後悔を一番減らす方法。前を見よう。",
       "active": true,
       "source_url": "",
-      "source_note": "出典未確認。⚠️通説(自伝『A Kind of Grace』1997 p.41)は否定された: Google Books巻内検索(巻ID 0uH_x14Ei6oC)で \"look ahead\" 0件・\"better to look ahead and prepare\" 0件。同じ巻で look 8件 / regret 3件 / prepare 8件がヒットし索引は健全＝本文に無い。近い記述は\"look back with any regrets\"(少女期の挿話)のみ。なお Shelley Shepard Gray『Found』は同文言を「アーミッシュの諺」として紹介しており(look back with regret 版)、本人発言かどうか自体に疑いがある。JJK帰属の最古は『African-American Wisdom』(1996)/『601 sayings to make you smile!』(1997)級の引用集で、いずれも出典表記なし"
+      "source_note": "出典未確認。⚠️通説(自伝『A Kind of Grace』1997 p.41)は否定された: Google Books巻内検索(巻ID 0uH_x14Ei6oC)で \"look ahead\" 0件・\"better to look ahead and prepare\" 0件。同じ巻で look 8件 / regret 3件 / prepare 8件がヒットし索引は健全＝本文に無い。近い記述は\"look back with any regrets\"(少女期の挿話)のみ。なお Shelley Shepard Gray『Found』は同文言を「アーミッシュの諺」として紹介しており(look back with regret 版)、本人発言かどうか自体に疑いがある。JJK帰属の最古は『African-American Wisdom』(1996)/『601 sayings to make you smile!』(1997)級の引用集で、いずれも出典表記なし 【第15回 2026-09-11 追記】Open Library全文検索API(search/inside.json)でこのフレーズを含む書籍71件を全件ページングし年代順に確認。最古は Sally McClung『Where will I find the time?』(Kingsway,1988) p.134 で、誰の名前も付かない一般格言として掲載。同書内を identifier 限定で検索すると Jackie/Joyner/athlete/Olympic がすべて0件、対照語 the・God・old saying は各1件ヒットで索引は健全＝真に無帰属。1989年の同書別版 p.148、1994年『Kitchen traditions: the Lions Clubs cookbook』p.726 も無帰属(後者の Jackie は投稿者 Jackie Broaddus で別人・Joyner は0件)。JJK帰属の初出は1997年『Many strong and beautiful voices』p.234(逐語確認)。1987年以前の出現は0件。＝JJK帰属は無帰属の活字より9年新しく、後から付いた可能性が高い。ただし『本人が言っていない』証拠ではない(既存の格言を本人が愛用した可能性が残る)ため、状態は据え置き。"
     },
     {
       "id": "q0078",
