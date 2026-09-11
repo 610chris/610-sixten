@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "131-air-jordan-4-lemonade-j-balvin.html",
+    cat: "KICKS",
+    title: "J Balvin x Air Jordan 4「Lemonade」が2026年9月発売 —— コロンビアにルーツを持つイエロー、クロコ型押しレザー",
+    excerpt: "コロンビア出身のシンガー、J Balvinとジョーダン ブランドのコラボレーション「Air Jordan 4『Lemonade』」(品番IW2872-700)が2026年9月に発売される。クロコ型押しレザーを使い、複数のイエローを組み合わせた配色でBalvinのコロンビアにルーツを持つデザイン。Sneaker NewsとSneaker Bar Detroitが伝えた。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "J BALVIN x AIR JORDAN 4"
+  },
+  {
     href: "130-mark-williams-shoulder-surgery.html",
     cat: "NBA",
     title: "サンズのマーク・ウィリアムズが左肩を手術 —— 関節唇断裂で長期離脱へ",
