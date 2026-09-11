@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "122-kobe-storks-symenergy-byell.html",
+    cat: "JAPAN",
+    title: "神戸ストークス、B.LEAGUE PREMIER初年度もシン・エナジーとトップパートナー契約 —— 新プロジェクト「B.YELL」で全30試合の観戦チケット抽選",
+    excerpt: "シン・エナジー株式会社は、B.LEAGUE PREMIER初年度に参入する神戸ストークスと2026-27シーズンのトップパートナー契約を締結したと発表。3シーズン連続の契約継続とあわせ、ホームゲーム全30試合の観戦チケットを抽選でプレゼントする新プロジェクト「BASKETBALL YELL PROJECT『B.YELL』」を始動した。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "KOBE STORKS x SYM ENERGY"
+  },
+  {
     href: "121-jordan-tatum-5-sunrise.html",
     cat: "KICKS",
     title: "Jordan Tatum 5「Sunrise」が10月15日発売 —— ジェイソン・テイタムの最新シグネチャー、新色登場",
