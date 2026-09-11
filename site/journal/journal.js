@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "128-mowalola-air-jordan-14-burnt-red.html",
+    cat: "KICKS",
+    title: "Mowalola x Air Jordan 14「Burnt Red」が9月18日発売 —— パリコレで発表、初コラボ",
+    excerpt: "英国・ナイジェリア系デザイナー、モワロラ・オグンレシのレーベル「Mowalola」とジョーダン ブランドの初コラボレーション「Air Jordan 14 SP『Burnt Red』」(品番IQ5708-001)が2026年9月18日に発売される。パリ・ファッションウィーク期間中に披露された。Nice KicksとSneaker Newsが伝えた。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "MOWALOLA x AIR JORDAN 14"
+  },
+  {
     href: "127-nba-bog-clippers-europe.html",
     cat: "NBA",
     title: "NBA理事会が来週開催 —— クリッパーズ処分の「次章」とNBAヨーロッパ構想、シルバーコミッショナーが火曜に会見",
