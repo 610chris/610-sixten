@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-09-10 17:20 UTC",
+ "updated_utc": "2026-09-11 15:55 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Sam Amick（The Athletic）",
+   "handle": "sam_amick",
+   "key": "https://www.reddit.com/r/nba/comments/1wdjzg2/amick_per_league_sources_detroits_last_offer_was/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-11T15:47:38+00:00",
+   "text": "Per league sources, Detroit’s last offer was a five-year deal in the $190 million range. Duren, who is eligible to receive a five-year, $287 million contract, is seeking at least $200 million. As is the case with any player’s contract negotiation, the use of player or team options in the deal significantly impacts the final number.  source: https://www.nytimes.com/athletic/7583257/2026/09/11/jalen-duren-contract-extension-pistons-stalemate-impasse/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wdjzg2/amick_per_league_sources_detroits_last_offer_was/",
+   "links": [
+    "https://www.nytimes.com/athletic/7583257/2026/09/11/jalen-duren-contract-extension-pistons-stalemate-impasse/"
+   ]
+  },
   {
    "reporter": "Marc Stein（The Stein Line）",
    "handle": "TheSteinLine",
@@ -39,65 +52,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wbqktt/amick_the_clippers_reasons_for_the_continued/",
    "links": [
     "https://www.nytimes.com/athletic/7576739/2026/09/08/kawhi-leonard-clippers-raptors-trade-delay-reasons/?unlocked_article_code=1._1A.GmqN.Z2yR1MOQr5Dt&amp;source=user_shared_article&amp;smid=ta-ios-share"
-   ]
-  },
-  {
-   "reporter": "Jake Fischer（The Stein Line）",
-   "handle": "JakeLFischer",
-   "key": "https://www.reddit.com/r/nba/comments/1wayq64/fischer_prime_among_reasons_why_kawhi_leonards/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-08T19:39:14+00:00",
-   "text": "Prime among reasons why Kawhi Leonard's trade to Toronto has yet to be finalized: Sources tell @TheSteinLine and me the Clippers are still working through their new front office structure after NBA suspensions for Steve Ballmer, Lawrence Frank. \n\nhttps://marcstein.substack.com/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wayq64/fischer_prime_among_reasons_why_kawhi_leonards/",
-   "links": [
-    "https://marcstein.substack.com/"
-   ]
-  },
-  {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1wawep2/scotto_the_washington_wizards_are_promoting_amber/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-08T18:18:28+00:00",
-   "text": "The Washington Wizards are promoting Amber Nichols to Vice President of Basketball Operations and Personnel, league sources told @hoopshypeofficial. Nichols was previously Washington’s Director of Amateur Evaluation. Prior, she was General Manager of the Capital City Go-Go G League team.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wawep2/scotto_the_washington_wizards_are_promoting_amber/",
-   "links": []
-  },
-  {
-   "reporter": "Brian Windhorst（ESPN）",
-   "handle": "WindhorstESPN",
-   "key": "https://www.reddit.com/r/nba/comments/1waus2n/windhorst_the_clippers_were_guilty_of_the_same/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-08T17:22:02+00:00",
-   "text": "“The Clippers were guilty of the same thing that the Nets were. They had little brother syndrome. They were so focused on not being the little brother anymore that they took way too big of gambles… both teams were chasing [The Lakers & Knicks]",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1waus2n/windhorst_the_clippers_were_guilty_of_the_same/",
-   "links": []
-  },
-  {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1waqyfb/scotto_the_atlanta_hawks_have_promoted_peter/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-08T15:05:06+00:00",
-   "text": "The Atlanta Hawks have promoted Peter Dinwiddie to executive vice president of basketball operations. Tim Bontemps joins the Hawks as strategic advisor. Maxwell Kupchak has also been elevated to the role of director of cap strategy and player personnel.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1waqyfb/scotto_the_atlanta_hawks_have_promoted_peter/",
-   "links": []
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wanfvt/charania_the_new_orleans_pelicans_are_trading/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-08T12:46:13+00:00",
-   "text": "The New Orleans Pelicans are trading Jordan Hawkins, Micah Peavy, a future second-round pick and a future second-round pick swap to the Memphis Grizzlies for AJ Johnson and Taj Gibson, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/aa00683718a28",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wanfvt/charania_the_new_orleans_pelicans_are_trading/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/aa00683718a28"
    ]
   }
  ]
