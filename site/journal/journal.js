@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "129-nba-nike-specter-uniforms.html",
+    cat: "NBA",
+    title: "NBA×Nikeが新ユニフォーム「Specter」発表 —— ニックス・セルティックス・レイカーズなど伝統8球団に導入",
+    excerpt: "NBAとナイキは9日（現地時間）夜、ブルックリンで開いたイベントで、ニックス・セルティックス・レイカーズなどリーグ最古参8球団向けの新ユニフォーム「Specter」を発表した。各球団の歴史や本拠地の文化にインスパイアされたデザインで、対象は1946-47シーズン前後に創設された8球団。ESPNが伝えた。",
+    date: "2026.09.11",
+    thumb: "../assets/journal-129-hero.jpg?v=bee79799ec",
+    tile: "NBA × NIKE SPECTER"
+  },
+  {
     href: "128-mowalola-air-jordan-14-burnt-red.html",
     cat: "KICKS",
     title: "Mowalola x Air Jordan 14「Burnt Red」が9月18日発売 —— パリコレで発表、初コラボ",
