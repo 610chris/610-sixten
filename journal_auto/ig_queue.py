@@ -19,6 +19,7 @@
     python3 journal_auto/ig_queue.py list [--state pending]
     python3 journal_auto/ig_queue.py approve 134 135
     python3 journal_auto/ig_queue.py skip 134
+    python3 journal_auto/ig_queue.py reset 134      # 承認/見送りを取り消して未承認に戻す
     python3 journal_auto/ig_queue.py show 134
 """
 
@@ -230,6 +231,14 @@ def cmd_skip(args):
     _set_state(args.ids, "skipped")
 
 
+def cmd_reset(args):
+    """承認・見送り・失敗を取り消して pending（＝未承認）に戻す。
+
+    承認を間違えた時と、動作確認で一時的に approve した時の戻し口。posted は触らない。
+    """
+    _set_state(args.ids, "pending")
+
+
 def main():
     ap = argparse.ArgumentParser(description="610 JOURNAL → IG 投稿キュー")
     sub = ap.add_subparsers(dest="cmd", required=True)
@@ -260,6 +269,10 @@ def main():
     sk = sub.add_parser("skip", help="見送り")
     sk.add_argument("ids", nargs="+")
     sk.set_defaults(func=cmd_skip)
+
+    rs = sub.add_parser("reset", help="承認/見送り/失敗を取り消して未承認(pending)に戻す")
+    rs.add_argument("ids", nargs="+")
+    rs.set_defaults(func=cmd_reset)
 
     args = ap.parse_args()
     args.func(args)

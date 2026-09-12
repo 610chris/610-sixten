@@ -68,11 +68,28 @@ def call(path, params, method="GET", tok=None):
 
 
 def public_ok(url):
-    """デプロイ前の404に投稿を食わせない。IGは自分でこのURLを取りに来る仕様。"""
-    req = urllib.request.Request(url, method="HEAD")
-    try:
+    """デプロイ前の404に投稿を食わせない。IGは自分でこのURLを取りに来る仕様。
+
+    ⚠️UA を偽らずに叩くと surge 前段の Cloudflare が Python-urllib/* に 403 を返すので、
+    実在する画像でも全部「公開されていない」判定になって1本も投稿できない（2026-09-13実測）。
+    IG 自身が名乗る facebookexternalhit/1.1 は 200 で通るので、こちらもそれで確認する。
+    HEAD を拒む CDN もあるため 1バイトだけの Range GET にフォールバックする。
+    """
+    headers = {"User-Agent": "facebookexternalhit/1.1"}
+
+    def probe(method, extra=None):
+        req = urllib.request.Request(url, method=method,
+                                     headers=dict(headers, **(extra or {})))
         with urllib.request.urlopen(req, timeout=30) as r:
-            return r.status == 200 and r.headers.get("Content-Type", "").startswith("image/")
+            ok = r.status in (200, 206) and r.headers.get("Content-Type", "").startswith("image/")
+            return ok
+
+    try:
+        return probe("HEAD")
+    except Exception:
+        pass
+    try:
+        return probe("GET", {"Range": "bytes=0-0"})
     except Exception:
         return False
 
