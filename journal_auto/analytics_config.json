@@ -1,6 +1,6 @@
 {
-  "ga4_measurement_id": "",
-  "ga4_property_id": "",
+  "ga4_measurement_id": "G-D2CX26H018",
+  "ga4_property_id": "553866204",
   "_使い方": "GA4の測定ID(G-で始まる文字列)をここに入れて build_seo.py を実行すると、site配下の全HTMLに計測タグが入る。空のままなら1ページにも入らない(=今の状態)。設定は `python3 journal_auto/set_ga4_id.py G-XXXXXXXXXX` でも可能。",
   "_測定IDの取り方": "https://analytics.google.com/ → 管理 → プロパティを作成(名前=610 sixten / タイムゾーン=日本 / 通貨=円) → データストリーム → ウェブ → URL=https://sixten.jp サイト名=610 sixten → 作成後に表示される「測定ID」がそれ",
   "_プロパティIDの取り方": "ga4_property_id は集計スクリプト(journal_auto/analytics/fetch_ga4.py)がGA4 Data APIを叩くのに使う「数字だけのID」。測定ID(G-...)とは別物。GA4管理画面 → 管理 → プロパティの設定 の右上に出ている9桁前後の数字をそのまま文字列で入れる。例: \"123456789\"",

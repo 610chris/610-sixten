@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-13T00:54:22+09:00",
+  "version": "2026-09-13T01:26:41+09:00",
   "quotes": [
     {
       "id": "q0001",
@@ -18842,6 +18842,1358 @@
       "resonance": [
         "hungry",
         "nocon"
+      ]
+    },
+    {
+      "id": "q0871",
+      "text_ja": "この仕事を嫌になったことは一度もない。惚れて、人生を賭けた。",
+      "text_orig": "I've never once hated this job. I fell in love with my work and gave my life to it.",
+      "person": "小野二郎",
+      "person_note": "すきやばし次郎主人・鮨職人",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "ドキュメンタリー『二郎は鮨の夢を見る』での発言。85歳でも引退する気はない。仕事を好きになれたら、頑張るのはしんどさじゃなくなる。",
+      "active": true,
+      "source_url": "https://filmfisher.com/3384-2/",
+      "source_note": "映画レビュー記事内で、劇中で二郎本人が語ったセリフとして英語原文つきで直接引用されている（\"Even though I'm eighty five years old, I don't feel like retiring\"に続く一節）。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "plateau",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0872",
+      "text_ja": "教えてもらったことは忘れる。自分で盗んだものだけは一生忘れない。",
+      "text_orig": "教えてもらったことというのは忘れるんですよね。自分が盗んだものは忘れない。",
+      "person": "小野二郎",
+      "person_note": "すきやばし次郎主人・鮨職人",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "弟子たちが昼休みに勝手に握りの練習をしている、という話の中での一言。教わるのを待つな、盗んで覚えろということ。",
+      "active": true,
+      "source_url": "https://www.chichi.co.jp/web/20210430_365_sukibayashi_jiro/",
+      "source_note": "致知出版社のインタビュー記事内で、小野二郎本人の発言として直接引用。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B2C1D1E1",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0873",
+      "text_ja": "一年間、テレビも新聞も見るな。ただ刃物を研げ、それだけでいい。",
+      "text_orig": "これから一年間はテレビ、ラジオ、新聞、仕事の本。そういうものに一切目をくれてはいけない。刃物研ぎだけをしなさい。",
+      "person": "西岡常一",
+      "person_note": "宮大工・法隆寺最後の棟梁",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "内弟子の小川三夫に最初に命じた一言。派手な技より先に、地味な基本を体に叩き込めという教え。",
+      "active": true,
+      "source_url": "https://www.chichi.co.jp/web/20200218_nisioka_ogawa/",
+      "source_note": "致知出版社の記事で、内弟子・小川三夫が師匠の言葉として直接回想・引用している。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C1D1E2",
+      "resonance": [
+        "plateau",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0874",
+      "text_ja": "職人の上達は少しずつじゃない。ある日突然、パッと開ける瞬間が来る。",
+      "text_orig": "職人は勉強のように少しずつわかってくるんじゃないんです。一気にわかる時、変わる時がある。その時に背中を一押ししてやる。すると10にも100にも開く。",
+      "person": "小川三夫",
+      "person_note": "宮大工・鵤工舎棟梁",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "弟子の育て方を聞かれての一言。地味な練習が続く日々でも、伸びる瞬間は突然来る。今止まっていてもいい。",
+      "active": true,
+      "source_url": "https://www.rinen-mg.co.jp/web-rinentokeiei/entry-4824.html",
+      "source_note": "経営誌「理念と経営」のインタビュー記事で、小川三夫本人の発言として直接引用。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "plateau",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0875",
+      "text_ja": "なぜ登るのか、と聞かれた。答えは「そこにそれがあるからだ」。",
+      "text_orig": "Because it's there.",
+      "person": "ジョージ・マロリー",
+      "person_note": "登山家・エベレスト初期遠征隊員",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "1923年、記者に「なぜエベレストに登るのか」と聞かれての即答。理由なんて、そこにあるから、それだけでいい。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/George_Mallory",
+      "source_note": "The New York Times「Climbing Mount Everest is Work for Supermen」(1923年3月18日)掲載のインタビュー発言。Wikiquoteの確認済み引用欄に掲載され、Disputed欄への記載はない。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "lazy",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0876",
+      "text_ja": "困難なんて、しょせん乗り越えるためにあるものだ。",
+      "text_orig": "Difficulties are just things to overcome after all.",
+      "person": "アーネスト・シャクルトン",
+      "person_note": "南極探検家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "南極探検の記録に残る一言。壁を前にした時、それを「乗り越える対象」と言い切れるかどうかが分かれ目。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Ernest_Shackleton",
+      "source_note": "Wikiquoteの確認済み引用欄に掲載（原典はRoland Huntford著の伝記『Shackleton』2013年版に引用された南極探検時の言葉）。Disputed欄にはこの引用は含まれない（別項目「求人広告」のみが誤伝として記載）。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C1D2E1",
+      "resonance": [
+        "broken",
+        "nervous"
+      ]
+    },
+    {
+      "id": "q0877",
+      "text_ja": "一番大事な資質は楽観主義だ。劣勢の時こそ、それが本当の勇気になる。",
+      "text_orig": "The quality I look for most is optimism: especially optimism in the face of reverses and apparent defeat. Optimism is true moral courage.",
+      "person": "アーネスト・シャクルトン",
+      "person_note": "南極探検家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "南極探検隊の隊員選びで一番重視した資質について。劣勢の時に平気な顔をできることこそ本物の強さだという考え。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Ernest_Shackleton",
+      "source_note": "Wikiquoteの確認済み引用欄に掲載（原典は『South with Shackleton』1949年、L.D.A.ハッシー著。National Geographic Magazine 1998年版でも同文が確認できる）。Disputed欄には含まれない。",
+      "morning_score": 7,
+      "morning_breakdown": "A1B1C2D2E1",
+      "resonance": [
+        "nervous",
+        "broken"
+      ]
+    },
+    {
+      "id": "q0878",
+      "text_ja": "なぜ山に登るのか。まだ知らない場所があるからだ。",
+      "text_orig": "知らない場所があるからだ。",
+      "person": "田部井淳子",
+      "person_note": "登山家・女性世界初のエベレスト登頂者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "「なぜ山に登るのか」と聞かれての答え。頂上や記録のためじゃない、まだ知らないことがあるから進むだけ。",
+      "active": true,
+      "source_url": "https://www.shiruporuto.jp/public/document/container/kataru/024_junko_tabei.html",
+      "source_note": "金融広報中央委員会「知るぽると」の著名人インタビュー記事で、本人の発言として直接引用。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0879",
+      "text_ja": "焦らず待とうよ。山は逃げない。",
+      "text_orig": "あせらず待とうよ。",
+      "person": "田部井淳子",
+      "person_note": "登山家・女性世界初のエベレスト登頂者",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "悪天候で足止めされた仲間にかけた言葉。自然相手には計画通りいかないことも計画のうち、という考え方。",
+      "active": true,
+      "source_url": "https://www.shiruporuto.jp/public/document/container/kataru/024_junko_tabei.html",
+      "source_note": "同インタビュー記事内で、悪天候時に仲間へかけた言葉として紹介されている。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "nervous",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0880",
+      "text_ja": "灯りが一つあれば、大きな闇にも穴があく。",
+      "text_orig": "灯が一つ大きな闇に穴あけて居る。",
+      "person": "河井寛次郎",
+      "person_note": "陶芸家・民藝運動の中心人物",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "深夜にふと浮かんだという詞。真っ暗に見える中でも、小さな灯り一つで前が見えるようになる。",
+      "active": true,
+      "source_url": "https://magazine.chichi.co.jp/articles/7051971453/",
+      "source_note": "致知出版社の記事で、寛次郎の詞集『いのちの窓』収録の言葉として直接引用されている。",
+      "morning_score": 7,
+      "morning_breakdown": "A1B1C2D2E1",
+      "resonance": [
+        "broken",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0881",
+      "text_ja": "おれはゴッホになる。そう叫んで、絵に人生を賭けた。",
+      "text_orig": "わだばゴッホになる。",
+      "person": "棟方志功",
+      "person_note": "版画家（板画家）・国際版画大賞受賞",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "18歳、ゴッホの絵に衝撃を受けての一言。無名の青年が世界的巨匠になった、その始まりの叫び。",
+      "active": true,
+      "source_url": "https://munakatashiko-museum.jp/biography/",
+      "source_note": "棟方志功記念館の公式略歴ページに、本人が発したエピソードとして記載されている。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C1D2E2",
+      "resonance": [
+        "hungry",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0882",
+      "text_ja": "快適な範囲を少しずつ広げていけば、無理だと思ってたことが普通になる。",
+      "text_orig": "My comfort zone is like a little bubble around me, and I've pushed it in different directions and made it bigger and bigger until these objectives that seemed totally crazy, eventually fall within the realm of the possible.",
+      "person": "アレックス・オノルド",
+      "person_note": "フリーソロクライマー",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "ロープなしの単独登攀で知られるクライマーの言葉。いきなり大きくは無理。範囲を広げ続けた結果が今。",
+      "active": true,
+      "source_url": "https://www.nationalgeographic.com/adventure/article/ropeless-climber-alex-honnolds-closest-call",
+      "source_note": "ナショナルジオグラフィックのインタビュー記事内で、本人の発言として直接引用されているのを本文で確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "nervous",
+        "nocon",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0883",
+      "text_ja": "山でも、どこでも、注いだ分しか得るものはない。",
+      "text_orig": "No man, on a mountain or elsewhere, gets more out of anything than he puts into it.",
+      "person": "テンジン・ノルゲイ",
+      "person_note": "シェルパ登山家・エベレスト初登頂者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "自伝『Tiger of the Snows』にある言葉。山でも部活でも同じ、注いだ分だけしか返ってこない。",
+      "active": true,
+      "source_url": "https://tenzingsherpafoundation.com/quotes/quote-3/",
+      "source_note": "本人設立の財団公式サイトに掲載。自伝『Tiger of the Snows』からの引用として、同一文面が他媒体（Everest Today等）でも確認できる。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B2C1D1E1",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0884",
+      "text_ja": "特別なヒーローじゃなくていい。ただの人間が、本気になればいい。",
+      "text_orig": "You don't have to be a fantastic hero to do certain things — to compete. You can be just an ordinary chap, sufficiently motivated to reach challenging goals.",
+      "person": "エドモンド・ヒラリー",
+      "person_note": "登山家・エベレスト初登頂者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "特別な英雄である必要はない、ただ本気になった普通の人間でいいという、自身の哲学。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Edmund_Hillary",
+      "source_note": "Wikiquoteの確認済み引用欄に掲載（原典は『1000 Brilliant Achievement Quotes』2004年、David Deford著、p.4）。Disputed欄には含まれない。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "nocon",
+        "compare",
+        "nobench"
+      ]
+    },
+    {
+      "id": "q0885",
+      "text_ja": "頂上に立った時、僕はただこう言った。「ついに、やっつけたぞ」。",
+      "text_orig": "Well, we knocked the bastard off!",
+      "person": "エドモンド・ヒラリー",
+      "person_note": "登山家・エベレスト初登頂者",
+      "tier": "legend",
+      "modes": [
+        "pregame",
+        "work"
+      ],
+      "comment": "世界初のエベレスト登頂を果たした直後、友人にかけた第一声。かっこいい言葉じゃなくていい、本音で十分。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Edmund_Hillary",
+      "source_note": "Wikiquoteの確認済み引用欄に掲載（原典は自伝『Nothing Venture, Nothing Win』1975年、第10章）。Disputed欄には含まれない。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "nervous",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0886",
+      "text_ja": "成功する自分の意志を持つことが、何よりも大事だ。",
+      "text_orig": "Always bear in mind that your own resolution to succeed is more important than any other one thing.",
+      "person": "エイブラハム・リンカーン",
+      "person_note": "第16代アメリカ大統領",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "独学で弁護士を目指す青年イシャム・リーヴィスへの手紙の一節。才能や環境より先に、自分の中で「やる」と決めること。全部そこから始まる。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Abraham_Lincoln",
+      "source_note": "Wikiquote「Abraham Lincoln」Sourced節に1855年11月5日付Isham Reavis宛の手紙として掲載。文面を確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "nocon",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0887",
+      "text_ja": "強さは体の大きさから来るんじゃない。折れない意志から来るんだ。",
+      "text_orig": "Strength does not come from physical capacity. It comes from an indomitable will.",
+      "person": "マハトマ・ガンジー",
+      "person_note": "インド独立運動の指導者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "1920年、雑誌「ヤング・インディア」に書いた一節。体格や才能じゃ測れない強さがある。ケガや不調で気持ちが萎えそうな朝に。",
+      "active": true,
+      "source_url": "https://www.mkgandhi.org/nonviolence/D_sword.php",
+      "source_note": "mkgandhi.org掲載「The Doctrine of the Sword」(Young India, 1920年8月11日)の本文中に実在確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "nocon",
+        "injured"
+      ]
+    },
+    {
+      "id": "q0888",
+      "text_ja": "本当にすごい人は、子どもの頃の素直な心を失ってない人のことだ。",
+      "text_orig": "大人者，不失其赤子之心者也。(The great man is he who does not lose his child's-heart.)",
+      "person": "孟子",
+      "person_note": "中国戦国時代の思想家・儒学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "『孟子』離婁下にある言葉。周りに合わせて自分を偽るより、まっすぐな気持ちのままでいい。それが本当の強さだと孟子は言う。",
+      "active": true,
+      "source_url": "https://en.wikisource.org/wiki/The_Chinese_Classics/Volume_2/The_Works_of_Mencius/chapter08",
+      "source_note": "Wikisource掲載Legge訳『孟子』離婁下 第十二章に該当文（原文・英訳とも）を確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "nocon",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0889",
+      "text_ja": "この刀は19年、牛を数千頭さばいてきた。それでも刃は研ぎたてのままだ。",
+      "text_orig": "I've had this knife of mine for nineteen years and I've cut up thousands of oxen with it, and yet the blade is as good as though it had just come from the grindstone.",
+      "person": "荘子",
+      "person_note": "中国戦国時代の思想家・道家の祖",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "名料理人・庖丁が語った話。力でこじ開けず、筋目に沿って動き続けた19年間が、この刃を減らさなかった。正しいやり方は自分をすり減らさない。",
+      "active": true,
+      "source_url": "https://afe.easia.columbia.edu/ps/cup/zhuangzi_caring_for_life.pdf",
+      "source_note": "コロンビア大学東アジア教育プロジェクト公開の英訳PDF「Zhuangzi: The Secret of Caring for Life」（荘子・養生主篇、Burton Watson訳）本文中に確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "plateau",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0890",
+      "text_ja": "ぼんやりするな。目を覚まして、立ち上がれ。ゴールに着くまで止まるな。",
+      "text_orig": "do not sit idle; awake, arise, and stop not till the goal is reached.",
+      "person": "スワミ・ヴィヴェーカーナンダ",
+      "person_note": "インドの宗教家・思想家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "1896年ラホールでの講演から。古いウパニシャッドの言葉を引きながら、動き出すことの大切さを説いた。布団の中で終わらせない朝に。",
+      "active": true,
+      "source_url": "https://en.wikisource.org/wiki/The_Complete_Works_of_Swami_Vivekananda/Volume_3/Lectures_from_Colombo_to_Almora/The_Vedanta",
+      "source_note": "Wikisource掲載『Complete Works of Swami Vivekananda』Vol.3所収「The Vedanta」講演本文中に確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C1D2E2",
+      "resonance": [
+        "lazy",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0891",
+      "text_ja": "太陽を見失って泣いていたら、星が出ていることにも気づけないよ。",
+      "text_orig": "If you shed tears when you miss the sun, you also miss the stars.",
+      "person": "ラビンドラナート・タゴール",
+      "person_note": "インドの詩人・思想家、アジア初のノーベル賞受賞者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "詩集『迷い鳥（Stray Birds）』第6番の一節。ひとつの失敗や不運を嘆いてる間に、まだそこにある光を見失う。下ばかり見てると他のチャンスに気づけない。",
+      "active": true,
+      "source_url": "https://www.gutenberg.org/files/6524/6524-h/6524-h.htm",
+      "source_note": "Project Gutenberg版『Stray Birds』第6断章に本文確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "broken",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0892",
+      "text_ja": "山の中の賊を倒すのは簡単だ。自分の心の中の賊を倒す方がずっと難しい。",
+      "text_orig": "破山中賊易，破心中賊難。",
+      "person": "王陽明",
+      "person_note": "明代中国の思想家・儒学者（陽明学の祖）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "反乱鎮圧のため戦地にいた王陽明が弟子に送った手紙の一節。本当に倒すべき相手は外の敵じゃなく、サボりたい・逃げたい自分の心。",
+      "active": true,
+      "source_url": "https://baike.baidu.com/en/item/It%20is%20easy%20to%20defeat%20the%20bandits%20in%20the%20mountains,%20but%20difficult%20to%20defeat%20the%20bandits%20in%20the%20heart./1519258",
+      "source_note": "『王陽明全集』所収「与楊仕徳、薛尚謙書」(正徳13年/1518年、龍南での賊討伐中)からの引用と出典明記を確認。原文「破山中賊易，破心中賊難」。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "lazy",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0893",
+      "text_ja": "船は12隻しか残ってない。それでも俺が死なない限り、敵は舐めてこられない。",
+      "text_orig": "今臣戰船尙有十二…戰船雖寡，微臣不死，則不敢侮我矣。",
+      "person": "李舜臣",
+      "person_note": "朝鮮王朝時代の水軍提督",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "艦隊のほとんどを失いかけた状況で、水軍全廃を止めるため王に送った上奏文の一節。数で圧倒的に負けていても、まだやれることがある。",
+      "active": true,
+      "source_url": "https://ko.wikipedia.org/wiki/금신전선_상유십이",
+      "source_note": "朝鮮王朝実録および『李忠武公全書』所収の状啓（ソウル大学奎章閣原文DB所蔵）を典拠として、この語句専用のWikipedia項目で原文・出典を確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C1D2E2",
+      "resonance": [
+        "hungry",
+        "nobench"
+      ]
+    },
+    {
+      "id": "q0894",
+      "text_ja": "一人の子ども、一人の先生、一冊の本、一本のペンが世界を変えられる。",
+      "text_orig": "One child, one teacher, one pen and one book can change the world.",
+      "person": "マララ・ユスフザイ",
+      "person_note": "パキスタン出身の教育活動家、最年少ノーベル平和賞受賞者",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "銃撃を受けてから9か月後、16歳の誕生日に行った国連演説の結び。特別な武器じゃなく、机の上にあるものだけで世界は変わるという主張。",
+      "active": true,
+      "source_url": "https://malala.org/news-and-voices/malala-un-speech",
+      "source_note": "Malala Fund公式サイト掲載の2013年7月12日 国連演説全文で該当文を確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "hungry",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0895",
+      "text_ja": "自分の中が落ち着いていれば、周りともうまくやっていける。",
+      "text_orig": "When we have inner peace, we can be at peace with those around us.",
+      "person": "ダライ・ラマ14世",
+      "person_note": "チベットの精神的指導者、ノーベル平和賞受賞者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "1989年のノーベル平和賞受賞講演から。まず自分の内側が整うこと。緊張してる時、イライラしてる時ほど思い出したい。",
+      "active": true,
+      "source_url": "https://www.dalailama.com/messages/acceptance-speeches/nobel-peace-prize/nobel-peace-prize-nobel-lecture",
+      "source_note": "ダライ・ラマ法王公式サイト掲載のノーベル講演本文で該当文を確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "nervous",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0896",
+      "text_ja": "自分を信じろ。正しいことのために動いてるなら、負けるわけがない。",
+      "text_orig": "Have faith in yourself. With justice on our side, I do not see how we can lose our battle.",
+      "person": "ビームラーオ・アンベードカル",
+      "person_note": "インドの法学者・社会運動家、インド憲法起草者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame",
+        "work"
+      ],
+      "comment": "1942年ナグプールでの演説の結び。差別と闘い続けた人物が最後に残したのは、自分を信じろという一言だった。",
+      "active": true,
+      "source_url": "https://www.roundtableindia.co.in/educate-agitate-organize-is-it-a-sequence-or-a-parallel-process/",
+      "source_note": "Dhananjay Keer著の伝記『Dr. Babasaheb Ambedkar』に記録された、1942年7月20日 全インド被抑圧階級会議（ナグプール）演説の結語として複数の一次資料紹介記事で確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D2E1",
+      "resonance": [
+        "nocon",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0897",
+      "text_ja": "青色はあの藍という草から取るのに、藍よりもっと青くなる。",
+      "text_orig": "青，取之于蓝，而青于蓝。(the indigo comes from bluegrass but it's bluer than bluegrass)",
+      "person": "荀子",
+      "person_note": "中国戦国時代の思想家・儒学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "「勧学篇」冒頭の一節。教わったものが、教えた相手を超えていく。今の自分が誰かの下にいても、そこで終わりじゃない。",
+      "active": true,
+      "source_url": "https://xunzi.5000yan.com/quanxue/1.html",
+      "source_note": "中国古典原文サイト掲載の『荀子』勧学篇冒頭で本文確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D1E2",
+      "resonance": [
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0898",
+      "text_ja": "満足なんて一度もない。あるのは、前に進ませる聖なる不満だけ。",
+      "text_orig": "There is only a queer divine dissatisfaction, a blessed unrest that keeps us marching and makes us more alive than the others.",
+      "person": "マーサ・グラハム",
+      "person_note": "モダンダンスの創始者・振付家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "後輩デミルが初演の成功後も浮かない顔をしていた時、グラハムが直接語った言葉。満足できない気持ちこそ前に進み続ける力になる。",
+      "active": true,
+      "source_url": "https://www.themarginalian.org/2015/10/02/martha-graham-creativity-divine-dissatisfaction/",
+      "source_note": "1943年、振付家アグネス・デミルとの会話。デミルの伝記『Martha: The Life and Work of Martha Graham』(1991)に収録された発言として、本ページが本文と文脈を紹介。ページ本文で文言を確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0899",
+      "text_ja": "落ちるなら後ろじゃなく前に落ちろ。その方が何にぶつかるか見える。",
+      "text_orig": "If I'm going to fall, I don't want to fall back on anything, except my faith. I want to fall forward.",
+      "person": "デンゼル・ワシントン",
+      "person_note": "俳優(アカデミー賞主演男優賞)",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "2011年ペンシルベニア大学卒業式スピーチより。失敗を恐れて守りに入るより、前のめりに転んで次を見ながら進む方がいいという話。",
+      "active": true,
+      "source_url": "https://almanac.upenn.edu/archive/volumes/v57/n34/comm-washington.html",
+      "source_note": "ペンシルベニア大学公式アーカイブ(Almanac)掲載、2011年5月16日卒業式スピーチ全文中の一節。ページ本文で該当箇所を確認済み。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "nervous",
+        "broken"
+      ]
+    },
+    {
+      "id": "q0900",
+      "text_ja": "自分が何者かを一番語るのは、口じゃない。作った作品そのものだ。",
+      "text_orig": "There is nothing that says more about its creator than the work itself.",
+      "person": "黒澤明",
+      "person_note": "映画監督(『七人の侍』『羅生門』)",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "自伝『蝦蟇の油』(英題Something Like an Autobiography, 1981)に記された言葉。言い訳より、積み上げた結果が全てを語るという話。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Akira_Kurosawa",
+      "source_note": "Wikiquoteに自伝『Something Like an Autobiography』(1981)からの引用として掲載。Disputed節に該当なし。ページ本文で確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "compare",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0901",
+      "text_ja": "毎朝の儀式は運動そのものじゃない。タクシーに行き先を告げた瞬間、もう終わってる。",
+      "text_orig": "The ritual is not the stretching and weight training I put my body through each morning at the gym; the ritual is the cab. The moment I tell the driver where to go I have completed the ritual.",
+      "person": "トワイラ・サープ",
+      "person_note": "振付師(ブロードウェイ・バレエ)",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "著書『The Creative Habit』(2003)より。一番しんどいのは練習そのものじゃなく「行くと決める」瞬間だけ、という話。",
+      "active": true,
+      "source_url": "https://jamesclear.com/twyla-tharp",
+      "source_note": "著書『The Creative Habit』からの引用として本文中に掲載。「儀式はタクシーに行き先を告げた瞬間に完了する」の一節を直接確認。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0902",
+      "text_ja": "周りの期待に応えるためだけに生きるのは、表現者にとって一番危ない。",
+      "text_orig": "Never play to the gallery... I think it's terribly dangerous for an artist to fulfil other people's expectations.",
+      "person": "デヴィッド・ボウイ",
+      "person_note": "ミュージシャン",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "1997年のドキュメンタリー『Inspirations』でのインタビューより。周りに合わせにいくと、自分の表現じゃなくなるという話。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/David_Bowie",
+      "source_note": "Wikiquoteに『Inspirations』(1997)からの引用として掲載。Disputed節なし。ページ本文で確認。",
+      "morning_score": 6,
+      "morning_breakdown": "A1B1C2D2E0",
+      "resonance": [
+        "compare",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0903",
+      "text_ja": "誰にでも小さな狂気の火種がある。それを失ったら終わりだ。",
+      "text_orig": "You're only given a little spark of madness and if you lose that, you're nothin'.",
+      "person": "ロビン・ウィリアムズ",
+      "person_note": "俳優・コメディアン",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "1978年のスタンダップ公演『A Night at the Roxy』での発言。人と違う変な部分こそ自分の武器だから大事にしろという話。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Robin_Williams",
+      "source_note": "Wikiquoteの『A Night at the Roxy』(1978)の項に掲載。ページ本文で確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "nocon",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0904",
+      "text_ja": "正気でいられたのは、いつか変わると知っていたから。それまで自分を保つだけでよかった。",
+      "text_orig": "What kept me sane was knowing that things would change, and it was a question of keeping myself together until they did.",
+      "person": "ニーナ・シモン",
+      "person_note": "ミュージシャン",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "自伝『I Put a Spell on You』(1991)より。しんどい時期を耐えられたのは、なんとかなると信じて自分を保っていただけという振り返り。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Nina_Simone",
+      "source_note": "Wikiquoteに自伝『I Put a Spell on You』(1991)からの引用として掲載。ページ本文で確認。",
+      "morning_score": 6,
+      "morning_breakdown": "A1B1C2D1E1",
+      "resonance": [
+        "burnt",
+        "broken"
+      ]
+    },
+    {
+      "id": "q0905",
+      "text_ja": "怒りはいい方向に使い道を見つけないと、自分を壊す。",
+      "text_orig": "I've learned that I must find positive outlets for anger or it will destroy me.",
+      "person": "シドニー・ポワチエ",
+      "person_note": "俳優(黒人初のアカデミー主演男優賞)",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "回顧録『The Measure of a Man』(2000)より。怒りやイライラは溜め込まず、練習や努力に変えろという教訓。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Sidney_Poitier",
+      "source_note": "Wikiquoteに回顧録『The Measure of a Man: A Spiritual Autobiography』(2000)からの引用として掲載。ページ本文で確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "burnt",
+        "broken"
+      ]
+    },
+    {
+      "id": "q0906",
+      "text_ja": "ドラマとは、人生から退屈な部分を切り取ったものだ。",
+      "text_orig": "Drama is life with the dull bits cut out.",
+      "person": "アルフレッド・ヒッチコック",
+      "person_note": "映画監督(『サイコ』『鳥』)",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "1960年7月5日、BBC番組『Picture Parade』での発言。大事なことだけ残して、あとは思い切って削る潔さの話。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Alfred_Hitchcock",
+      "source_note": "WikiquoteにBBC『Picture Parade』(1960年7月5日放送)からの引用として掲載。ページ本文で確認。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C1D1E1",
+      "resonance": [
+        "plateau",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0907",
+      "text_ja": "見るしかない。でも見るというのは、ものすごく難しい。",
+      "text_orig": "You have to look, and looking is so difficult.",
+      "person": "アンリ・カルティエ=ブレッソン",
+      "person_note": "写真家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "1979年、雑誌『Photo』のインタビューより。上手く見える人ほど、実は誰よりも観察を続けているだけという話。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Henri_Cartier-Bresson",
+      "source_note": "Wikiquoteに『Photo』誌144号(1979年9月1日, p.86,87,98)のインタビュー(聞き手Alain Desvergnes)からの引用として明記。ページ本文で確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "plateau",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0908",
+      "text_ja": "直せることばかりじゃない。でも向き合わなきゃ何も変わらない。",
+      "text_orig": "Not everything that is faced can be changed; but nothing can be changed until it is faced.",
+      "person": "ジェイムズ・ボールドウィン",
+      "person_note": "作家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "1962年1月14日、ニューヨーク・タイムズ紙のブックレビュー欄に寄せたエッセイより。逃げずに現実を見ることから全部始まるという話。",
+      "active": true,
+      "source_url": "https://quoteinvestigator.com/2021/10/09/faced/",
+      "source_note": "Quote Investigatorが原典(NYT Book Review, 1962/1/14, p.BR38掲載エッセイ「As Much Truth As One Can Bear」)を確認し、本人の言葉と結論づけている。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C2D1E0",
+      "resonance": [
+        "broken",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0909",
+      "text_ja": "自分の人生をどう生きるかは自分で決める。それが俺のやり方だ。",
+      "text_orig": "What I do with my life is of my own doing. I live it the best way I can.",
+      "person": "フランク・シナトラ",
+      "person_note": "ミュージシャン",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "1965年11月16日放送、CBSのウォルター・クロンカイトによるインタビューでの発言。他人にどう言われても自分の生き方は自分で決めるという話。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Frank_Sinatra",
+      "source_note": "WikiquoteにCBS 1965年11月16日放送インタビュー(聞き手ウォルター・クロンカイト)からの引用として掲載。ページ本文で確認。",
+      "morning_score": 5,
+      "morning_breakdown": "A2B1C1D1E0",
+      "resonance": [
+        "compare",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0910",
+      "text_ja": "読みたい本がまだこの世にないなら、自分でそれを書けばいい。",
+      "text_orig": "If you find a book you really want to read but it hasn't been written yet, then you must write it.",
+      "person": "トニ・モリスン",
+      "person_note": "作家(ノーベル文学賞)",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "1981年9月、オハイオ・アーツ・カウンシル年次総会でのスピーチより。無いものを待つより、自分で作ればいいという発想の転換。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Toni_Morrison",
+      "source_note": "Wikiquoteが1981年9月シンシナティでのオハイオ・アーツ・カウンシル講演として掲載。Ellen Brown記者によるCincinnati Enquirer 1981/9/27付記事を出典脚注に明記。ページ本文で確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C1D2E1",
+      "resonance": [
+        "hungry",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0911",
+      "text_ja": "うまさの一番の証は、真剣に練習を続けられるかどうかだ。",
+      "text_orig": "I think that virtuosity is the first sign of morality in a musician. It means that you're serious enough to practice.",
+      "person": "ウィントン・マルサリス",
+      "person_note": "トランペット奏者・作曲家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "音楽ジャーナリストTed Pankenによるインタビューより。技術の高さより、練習を続けられるかどうかが全てを決めるという話。",
+      "active": true,
+      "source_url": "https://tedpanken.wordpress.com/2015/10/18/for-wynton-marsalis-55th-birthday-an-essay-interview-written-on-the-occasion-of-the-premiere-of-blood-on-the-fields/",
+      "source_note": "1993年12月・1994年6月に行われたインタビューを収録した記事本文で該当発言を確認。",
+      "morning_score": 5,
+      "morning_breakdown": "A1B1C2D1E0",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0912",
+      "text_ja": "短い一場面だろうと大作の三部作だろうと、結局は一度に一語ずつ積み上げるだけだ。",
+      "text_orig": "Whether it's a vignette of a single page or an epic trilogy like The Lord of the Rings, the work is always accomplished one word at a time.",
+      "person": "スティーヴン・キング",
+      "person_note": "作家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "著書『On Writing: A Memoir of the Craft』(2000)より。大きな目標に固まるより、目の前の一語・一歩だけ考えればいいという話。",
+      "active": true,
+      "source_url": "https://uwaterloo.ca/writing-and-communication-centre/blog/stephen-kings-writing",
+      "source_note": "ウォータールー大学ライティングセンターのブログが著書『On Writing』p.156からの引用として紹介。ページ本文で文言を確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "plateau",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0913",
+      "text_ja": "今回は、初めて自分で自分をほめたいと思います",
+      "text_orig": "初めて自分で自分をほめたいと思います",
+      "person": "有森裕子",
+      "person_note": "マラソン選手・アトランタ五輪銅メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "1996年アトランタ五輪、銅メダル直後のインタビューでの一言。結果より「悔いなくやれたか」を自分で認めた。",
+      "active": true,
+      "source_url": "https://www.nikkei.com/article/DGXZQODH31AVD0R30C21A5000000/",
+      "source_note": "日本経済新聞の記事本文に「自分で自分を褒めたいと思います」と発言引用あり。1996年アトランタ五輪女子マラソン銅メダル直後の発言として明記。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "nocon",
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0914",
+      "text_ja": "これからの女子サッカーは、あなたたちにかかっている",
+      "text_orig": "The future of women's football is depending on you to survive.",
+      "person": "マルタ（マルタ・ヴィエイラ・ダ・シウバ）",
+      "person_note": "ブラジル代表・女子サッカー史上最多得点記録保持者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "2019年W杯敗退直後、涙ながらに次世代へ託した言葉。自分が引退した後を託されている自覚。",
+      "active": true,
+      "source_url": "https://inside.fifa.com/tournaments/womens/womensworldcup/france2019/news/sheroes-marta-s-speech-inspires-generations",
+      "source_note": "FIFA公式サイトの記事本文に、2019年フランスW杯敗退直後の試合後インタビューでの発言として引用あり。英語訳での掲載（現地では通訳を介した実況が広く報道されている）。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C1D2E1",
+      "resonance": [
+        "hungry",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0915",
+      "text_ja": "何を考えてやってるの？って聞かれても、別に、ただやってるだけ",
+      "text_orig": "무슨 생각을 해, 그냥 하는 거지",
+      "person": "キム・ヨナ（金妍兒）",
+      "person_note": "韓国のフィギュアスケート選手・バンクーバー五輪金メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame"
+      ],
+      "comment": "現役時代、痛みに耐えながらのストレッチ映像で「何を考えてやってる？」と聞かれたときの答え。深く考えず、体を動かす姿勢。",
+      "active": true,
+      "source_url": "https://isplus.com/article/view/isp202404190129",
+      "source_note": "韓国紙・日刊スポーツ（isplus）の記事本文に、現役時代のMBC放送映像として発言内容が引用・解説されている（バレーボール選手ノ・ランに影響を与えたエピソードとして紹介）。放送回・日付までは特定できず。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "lazy",
+        "nervous"
+      ]
+    },
+    {
+      "id": "q0916",
+      "text_ja": "手術を3回受けた。諦めるチャンスは何度もあった。でも諦めなかった",
+      "text_orig": "I have had three surgeries, and various opportunities and moments to give up, but I didn't.",
+      "person": "ヘベカ・アンドラージ",
+      "person_note": "ブラジルの体操選手・パリ五輪個人総合金メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame"
+      ],
+      "comment": "3度のACL（膝）大怪我からの復帰を果たした後の言葉。数字が具体的で、諦めなかった事実だけを淡々と語る。",
+      "active": true,
+      "source_url": "https://www.intlgymnast.com/news/brazils-rebeca-andrade-again-i-gave-110-of-me/",
+      "source_note": "体操専門誌International Gymnast Magazineの記事本文に、大会後インタビューでの発言として直接引用あり。3度の手術歴と合わせて紹介。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "injured",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0917",
+      "text_ja": "親とも、地元とも、自分の中の不安とも戦わなきゃいけなかった",
+      "text_orig": "I had to fight with my parents, my community, and even my own doubts.",
+      "person": "メアリー・コム",
+      "person_note": "インドの女子ボクシング選手・世界選手権6階級制覇＆五輪銅メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "インド北東部の農家出身で、女性がボクシングをすること自体に反対された経験を語った言葉。敵はリング外にもいた。",
+      "active": true,
+      "source_url": "https://www.deccanchronicle.com/sports/the-unyielding-spirit-of-mary-kom-a-boxing-legends-journey-1811439",
+      "source_note": "インドの大手紙Deccan Chronicleの記事本文に、女性がボクシングをすることへの反対を受けた経験を語った発言として直接引用あり。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "nocon",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0918",
+      "text_ja": "母になったことは、私を弱くしない。むしろ強くする",
+      "text_orig": "Motherhood doesn't diminish us, it's, you know, it elevates us.",
+      "person": "シェリー＝アン・フレイザー＝プライス",
+      "person_note": "ジャマイカの陸上選手・100m五輪金メダル3度",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "出産後に世界大会で金メダルを獲得した選手。「守りに入る理由」になりそうな出来事を、伸びる理由に変えた発言。",
+      "active": true,
+      "source_url": "https://www.ifc.org/en/podcasts/creative-development/2025/shelly-ann-fraser-pryce-on-inspiring-the-next-generation",
+      "source_note": "世界銀行グループIFC公式ポッドキャストの書き起こしページに、本人の発言として直接掲載。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "compare",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0919",
+      "text_ja": "本とペンを手に取ろう。それが私たちの一番強い武器だ",
+      "text_orig": "Let us pick up our books and our pens. They are our most powerful weapons.",
+      "person": "マララ・ユスフザイ",
+      "person_note": "教育活動家・史上最年少ノーベル平和賞受賞者",
+      "tier": "legend",
+      "modes": [
+        "study"
+      ],
+      "comment": "銃撃され教育を奪われかけた後、16歳の誕生日に国連で語った言葉。武器ではなく本とペンで戦う宣言。",
+      "active": true,
+      "source_url": "https://news.un.org/en/story/2013/07/444472",
+      "source_note": "国連公式ニュース(UN News)の記事本文に、2013年7月12日の国連ユース総会でのスピーチからの直接引用として掲載。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C1D2E2",
+      "resonance": [
+        "lazy",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0920",
+      "text_ja": "産休は終わりじゃない。むしろ始まりになる",
+      "text_orig": "It's not the end of your life, but it can be the beginning of your life.",
+      "person": "フェイス・キプヤゴン",
+      "person_note": "ケニアの陸上選手・1500m世界記録保持者",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "出産でブランクを経て世界記録を更新した選手の言葉。離れていた時間を「終わり」として扱わなかった。",
+      "active": true,
+      "source_url": "https://krdo.com/news/2024/08/05/faith-kipyegon-on-motherhood-and-the-quest-for-history/",
+      "source_note": "CNN配信記事を掲載する米ローカル局KRDOの記事本文に、本人の発言として直接引用あり（産休からの復帰について）。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "injured",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0921",
+      "text_ja": "私は病気なんじゃない。壊れているだけ。それでも描ける限り、生きていて幸せだ",
+      "text_orig": "I am not sick. I am broken. But I am happy to be alive as long as I can paint.",
+      "person": "フリーダ・カーロ",
+      "person_note": "メキシコの画家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "交通事故の後遺症と生涯付き合った画家の言葉。壊れていることを認めた上で、それでも打ち込めるものがある強さ。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Frida_Kahlo",
+      "source_note": "Wikiquoteに1953年4月27日号Time誌のインタビューが出典として明記され、Disputed/Misattributed節には含まれていない（同節には別の「羽根があるなら足はいらない」等の真偽検討はあるが本引用は対象外）。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D1E2",
+      "resonance": [
+        "broken",
+        "injured"
+      ]
+    },
+    {
+      "id": "q0922",
+      "text_ja": "すごく楽しい42キロでした",
+      "text_orig": "すごく楽しい42キロでした",
+      "person": "高橋尚子",
+      "person_note": "マラソン選手・シドニー五輪金メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame"
+      ],
+      "comment": "2000年シドニー五輪、女子マラソン金メダル直後の第一声。42.195kmの激走を「楽しかった」の一言で語った。",
+      "active": true,
+      "source_url": "https://sportiva.shueisha.co.jp/clm/othersports/rikujo/2025/06/11/42km200m/",
+      "source_note": "集英社のスポーツ専門メディアSportivaの記事タイトル・本文にこの発言が高橋尚子本人のシドニー五輪金メダル直後の発言として扱われている。2024年パリ五輪でレスリング金メダルの日下尚選手が同じ言葉をまねたと報じられるほど広く知られた発言。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "nervous",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0923",
+      "text_ja": "怖いと思わない夢なんて、まだ小さい",
+      "text_orig": "If your dreams do not scare you, they are not big enough.",
+      "person": "エレン・ジョンソン・サーリーフ",
+      "person_note": "リベリア元大統領・アフリカ初の女性大統領・ノーベル平和賞受賞者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "投獄や亡命を経て大統領になった人物の言葉。2011年ハーバード大卒業式スピーチより。今の力を超える夢を持てという励まし。",
+      "active": true,
+      "source_url": "https://speakola.com/grad/ellen-johnson-sirleaf-harvard-2011",
+      "source_note": "スピーチ全文書き起こしサイトSpeakolaに、2011年ハーバード大学卒業式スピーチ終盤の発言として掲載。同発言はHarvard Gazette（ハーバード大学公式ニュース）でも報じられ内容が一致することを確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "hungry",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0924",
+      "text_ja": "「また銀か」って見出しを読まなくていいのが、一番嬉しい",
+      "text_orig": "The good part is I won't have to read 'silver again for Sindhu' headlines everywhere.",
+      "person": "Pヴィ・シンドゥ（PVシンドゥ）",
+      "person_note": "インドのバドミントン選手・世界選手権金メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club"
+      ],
+      "comment": "決勝で銀メダルが続いた末に掴んだ初の世界大会金メダル直後の発言。ずっと言われ続けた言葉を自分の結果で塗り替えた。",
+      "active": true,
+      "source_url": "https://www.espn.com/badminton/story/_/id/25546119/was-getting-tired-reading-silver-headlines-pv-sindhu-winning-bwf-world-tour-finals-gold",
+      "source_note": "ESPN記事本文に、2018年BWFワールドツアーファイナルズ優勝直後のインタビューでの発言として直接引用あり。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "plateau",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0925",
+      "text_ja": "私には、みんなに「また夢を信じていい」って思わせるだけの強さがある",
+      "text_orig": "I am strong enough to make others believe in their dreams again.",
+      "person": "ユスラ・マルディニ",
+      "person_note": "シリア難民・リオ五輪難民選手団の水泳選手",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "内戦を逃れる途中、沈みかけたボートを泳いで岸まで押した経験を持つ選手。2016年リオ五輪、難民選手団として出場した後の発言。",
+      "active": true,
+      "source_url": "https://assembly.malala.org/stories/2018/6/20/unhcr-goodwill-ambassador-yusra-mardini-i-am-strong-enough-to-make-others-believe-in-their-dreams-again",
+      "source_note": "マララ基金の若者向けメディアAssemblyの記事本文に、リオ五輪出場を振り返っての発言として直接引用あり。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "broken",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0926",
+      "text_ja": "みんなに「向いてない」と言われた。今、私はチャンピオンだ",
+      "text_orig": "After my defeat, everyone criticized me. They said judo wasn't for me, that was an embarrassment for my family. Now I'm an Olympic champion in my own home.",
+      "person": "ハファエラ・シウバ",
+      "person_note": "ブラジルの柔道選手・リオ五輪金メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club"
+      ],
+      "comment": "リオのファヴェーラ（貧困地区）出身。2012年ロンドン五輪失格後、SNSで人種差別を含む中傷を受けた末に地元開催のリオ五輪で金メダルを獲得した直後の発言。",
+      "active": true,
+      "source_url": "https://globalvoices.org/2016/08/10/racism-almost-made-brazils-first-2016-olympic-gold-medalist-quit-judo/",
+      "source_note": "国際市民ジャーナリズムメディアGlobal Voicesの記事本文に、2016年リオ五輪金メダル直後のインタビューでの発言として直接引用あり。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "compare",
+        "broken"
+      ]
+    },
+    {
+      "id": "q0927",
+      "text_ja": "54歳でも、跳びたい。いや、跳べる。",
+      "text_orig": "ダブルアクセル。跳びたい！　いや、跳べる！",
+      "person": "伊藤みどり",
+      "person_note": "フィギュアスケート選手・女子世界初のトリプルアクセル成功者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "現役引退後、54歳でハーネスを使ったジャンプ練習に挑戦した直後の発言。願望を確信に言い換えた一言。",
+      "active": true,
+      "source_url": "https://news.yahoo.co.jp/expert/articles/adb63ea61ab461d4941f3598b2f94e442223a6ca",
+      "source_note": "Yahoo!ニュース エキスパート（著者は伊藤みどり氏の著書も執筆した記者・野口美恵氏）の記事本文に、2024年4月のジャンプ練習体験直後の発言として直接引用あり。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "plateau",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0928",
+      "text_ja": "ほんとうに自分でいられるのは、畳の上だけ",
+      "text_orig": "ほんとうの自分でいられるのは、畳の上です。うまく表現できないんですけれど、自分が自分であるような、そういう時間なんです。",
+      "person": "谷亮子",
+      "person_note": "柔道選手・五輪5大会連続メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "五輪5大会連続メダルの柔道家の言葉。競技の場を「一番自分らしくいられる場所」と語った。",
+      "active": true,
+      "source_url": "https://number.bunshun.jp/articles/-/235130",
+      "source_note": "文藝春秋のスポーツ専門誌Number Webの「スポーツ名言集」記事本文に、本人発言として直接引用あり（2008年8月発行の臨時増刊号掲載分）。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "broken",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0929",
+      "text_ja": "カルティニが勇気をくれた。今は女性も男性と同じように、何にでもなれる",
+      "text_orig": "Kartini has inspired me. Right now, we can choose any profession and we can achieve anything we want just like men.",
+      "person": "スシ・スサンティ",
+      "person_note": "インドネシアのバドミントン選手・自国史上初の五輪金メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "1992年バルセロナ五輪、インドネシアに史上初の金メダルをもたらした選手。インドネシアの女性解放運動の先駆者カルティニへの敬意を語った言葉。",
+      "active": true,
+      "source_url": "https://www.badmintonplanet.com/badminton-news/15553-susi-susantis-success-inspired-indonesian-womens-rights-pioneer-raden-adjeng-kartini.html",
+      "source_note": "バドミントン専門メディアBadmintonPlanet.comの記事本文に、インタビューでの発言として直接引用あり。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C1D1E1",
+      "resonance": [
+        "nocon",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0930",
+      "text_ja": "振り返れば、大事だったのは25周じゃない。26周目だった",
+      "text_orig": "Now looking back I realize the race was not 25 laps – it was the 26th lap that really had an impact.",
+      "person": "エラナ・メイヤー",
+      "person_note": "南アフリカの陸上選手・バルセロナ五輪10000m銀メダリスト",
+      "tier": "legend",
+      "modes": [
+        "club"
+      ],
+      "comment": "1992年バルセロナ五輪、金メダルのデラルツ・トゥル（エチオピア）と初対面ながら手をつないで走った「26周目」のウイニングラン。レースの結果より心に残ったもの。",
+      "active": true,
+      "source_url": "https://trackandfieldnews.com/30-years-on-tulu-and-meyer-reunite-in-barcelona/",
+      "source_note": "陸上専門メディアTrack & Field Newsの記事本文に、本人の振り返りとして直接引用あり。当初この発言をトゥル選手の発言と誤記載した別記事があったため、Track & Field Newsで発言者本人（メイヤー）を確認済み。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "compare",
+        "burnt"
       ]
     }
   ]
