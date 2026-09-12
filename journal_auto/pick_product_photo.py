@@ -14,12 +14,19 @@
   python3 journal_auto/pick_product_photo.py "Ja 4" --list
   python3 journal_auto/pick_product_photo.py "Ja 4" --sku IM4135-001 --out site/assets/journal-135-hero.jpg
   python3 journal_auto/pick_product_photo.py "Air Jordan 12" "Jordan 12 Retro" --out site/assets/journal-136-hero.jpg
+  python3 journal_auto/pick_product_photo.py "Anthony Edwards 3" --sku KH8537 --out site/assets/journal-134-hero.jpg
 
 対応ブランド:
-  Nike / Jordan のみ(nike.com/w?q= の商品カードを読む)。
-  adidas・New Balance・Puma は公式サイトが bot を弾く(403 / 202空・2026-09-12実測)ため未対応。
-  品番から画像URLを組み立てる adidas CDN のパターンも 404 で不可だった。
+  Nike / Jordan  nike.com/w?q= の商品カードを読む
+  adidas         adidas.com/us/search?q= → 商品ページの JSON-LD(sku/name/image)を読む
+  New Balance・Puma は未対応(403 / 202空・2026-09-12実測)。
   → 非対応ブランドは exit 2 を返すので、呼び出し側は pick_commons_photo.py --product(CC写真)へ進む。
+
+  ※ adidas は 2026-09-12 に「403で不可」と記録したが、それは User-Agent だけを付けて
+    /api/products/<品番> を叩いていたのが原因だった。**通常の商品ページ(PDP)に
+    ブラウザ相当のヘッダ一式(Sec-Fetch-* / Accept / Accept-Language / Sec-Ch-Ua)を
+    付ければ 200 が返る**(2026-09-13実測)。品番での検索は PDP へ直接リダイレクトする。
+    画像CDN(assets.adidas.com)自体は最初から bot を弾いていない。
 
 選び方:
   1. --sku を渡していて、その品番の商品カードがあれば最優先(＝記事と同じカラー)
@@ -33,11 +40,29 @@
 
 exit: 0=保存した / 2=候補なし(CC写真ルートへ) / 3=ネットワーク失敗
 """
-import argparse, html, io, os, re, sys, urllib.parse, urllib.request
+import argparse, html, io, json, os, re, subprocess, sys, urllib.parse
 
 SEARCH = 'https://www.nike.com/w?q={q}&vst={q}'
+ADIDAS_SEARCH = 'https://www.adidas.com/us/search?q={q}'
+ADIDAS_XF = 'h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto'   # 商品画像の最大サイズ(2000x2000)
+ADIDAS_SKU = re.compile(r'^[A-Z]{2}\d{4}$')                 # 例 KH8537
+ADIDAS_MAX_PDP = 6         # モデル名検索でPDPを開く上限(1件ずつHTMLを取るので欲張らない)
 UA = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
-      '(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
+      '(KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36')
+# adidas は UA だけだと 403。ブラウザ相当のヘッダ一式で 200 になる(2026-09-13実測)
+BROWSER_HEADERS = {
+    'User-Agent': UA,
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Sec-Ch-Ua': '"Chromium";v="139", "Not;A=Brand";v="99"',
+    'Sec-Ch-Ua-Mobile': '?0',
+    'Sec-Ch-Ua-Platform': '"macOS"',
+    'Sec-Fetch-Dest': 'document',
+    'Sec-Fetch-Mode': 'navigate',
+    'Sec-Fetch-Site': 'none',
+    'Sec-Fetch-User': '?1',
+    'Upgrade-Insecure-Requests': '1',
+}
 OUT_W, OUT_H, JPEG_Q = 1600, 900, 85
 PDP = 't_PDP_1728_v1'      # 商品画像の最大サイズ(1728x1728・2026-09-12実測)
 MIN_SRC = 1000             # これ未満しか取れない画像は使わない(拡大はしない)
@@ -46,9 +71,36 @@ NOT_SHOE = re.compile(r'\b(t-?shirt|hoodie|shorts?|sleeve|jersey|socks?|pants|ja
 KIDS = re.compile(r'\b(little kids|big kids|baby|toddler|infant)\b', re.I)
 
 
+def _curl(url, timeout=30):
+    """本文と最終URLを返す。
+
+    adidas は urllib だと同じヘッダ一式を付けても 403 になる(2026-09-13実測)。
+    ヘッダの問題ではなく TLS/HTTP2 の指紋で弾かれているため、curl で取る。
+    curl は macOS にも GitHub Actions の ubuntu にも標準で入っている。
+    """
+    mark = b'\n__FINAL_URL__'
+    args = ['curl', '-sSL', '--compressed', '--max-time', str(timeout),
+            '-w', mark.decode() + '%{url_effective}']
+    for k, v in BROWSER_HEADERS.items():
+        args += ['-H', f'{k}: {v}']
+    r = subprocess.run(args + [url], capture_output=True, timeout=timeout + 15)
+    if r.returncode != 0:
+        raise RuntimeError(f'curl 失敗({r.returncode}): {r.stderr.decode("utf-8", "replace")[:200]}')
+    body, _, final = r.stdout.rpartition(mark)
+    return body, final.decode('utf-8', 'replace').strip()
+
+
 def fetch(url, timeout=30):
-    req = urllib.request.Request(url, headers={'User-Agent': UA, 'Accept-Language': 'en-US,en;q=0.9'})
-    return urllib.request.urlopen(req, timeout=timeout).read()
+    data, _ = _curl(url, timeout)
+    if not data:
+        raise RuntimeError(f'空レスポンス: {url}')
+    return data
+
+
+def fetch_page(url, timeout=30):
+    """HTML本文と、リダイレクト後の最終URLを返す(品番検索はPDPへ飛ぶので最終URLが要る)"""
+    data, final = _curl(url, timeout)
+    return data.decode('utf-8', 'ignore'), final
 
 
 def norm(s):
@@ -73,6 +125,65 @@ def cards(term):
             'img': re.sub(r'/t_[a-zA-Z0-9_]+/', f'/{PDP}/', src.group(1)),
         })
     return out
+
+
+def adidas_card(page, url):
+    """adidas の商品ページ(PDP)の JSON-LD から品番・商品名・画像URLを取る"""
+    for m in re.finditer(r'<script type="application/ld\+json"[^>]*>(.*?)</script>', page, re.S):
+        try:
+            d = json.loads(m.group(1))
+        except json.JSONDecodeError:
+            continue
+        if not isinstance(d, dict) or d.get('@type') != 'Product':
+            continue
+        sku = (d.get('sku') or '').upper()
+        imgs = [i for i in (d.get('image') or []) if isinstance(i, str)]
+        # 01_00 / 01 が横向きのメインカット。無ければ先頭
+        key = lambda u: (f'_{sku}_01_00_standard' not in u, f'_{sku}_01' not in u)
+        imgs.sort(key=key)
+        if not (sku and imgs):
+            continue
+        # /images/<変形>/<hash>/<ファイル名> の <変形> を最大サイズに差し替える
+        tail = re.search(r'/images/(?:[^/]+/)*([0-9a-f]{32}_\d+)/([^/?"]+\.jpg)', imgs[0])
+        if not tail:
+            continue
+        return {
+            'sku': sku,
+            'name': html.unescape(d.get('name') or ''),
+            'page': d.get('url') or url,
+            'img': f'https://assets.adidas.com/images/{ADIDAS_XF}/{tail.group(1)}/{tail.group(2)}',
+        }
+    return None
+
+
+def adidas_cards(term):
+    """adidas の検索から商品を拾う。品番検索は商品ページへ直接リダイレクトする"""
+    page, final = fetch_page(ADIDAS_SEARCH.format(q=urllib.parse.quote(term)))
+    if re.search(r'/[A-Z]{2}\d{4}\.html$', final):
+        c = adidas_card(page, final)
+        return [c] if c else []
+    out, seen = [], set()
+    for m in re.finditer(r'(/us/[A-Za-z0-9._\-]+/([A-Z]{2}\d{4})\.html)', page):
+        if m.group(2) in seen:
+            continue
+        seen.add(m.group(2))
+        try:
+            p, u = fetch_page('https://www.adidas.com' + m.group(1))
+        except Exception:
+            continue
+        c = adidas_card(p, u)
+        if c:
+            out.append(c)
+        if len(out) >= ADIDAS_MAX_PDP:
+            break
+    return out
+
+
+def detect_brand(sku, terms):
+    blob = ' '.join(terms)
+    if re.search(r'\badidas\b', blob, re.I) or ADIDAS_SKU.match(sku):
+        return 'adidas'
+    return 'nike'
 
 
 def model_hit(name, terms):
@@ -114,15 +225,22 @@ def main():
     ap.add_argument('--out', help='保存先 site/assets/journal-NNN-hero.jpg')
     ap.add_argument('--list', action='store_true', help='候補一覧だけ表示')
     ap.add_argument('--pick', type=int, default=1, help='一覧のN番目を採用(既定1)')
+    ap.add_argument('--brand', choices=['auto', 'nike', 'adidas'], default='auto',
+                    help='既定は品番の形と語からの自動判定')
     args = ap.parse_args()
     sku = args.sku.upper().strip()
+    brand = detect_brand(sku, args.terms) if args.brand == 'auto' else args.brand
+    lookup = adidas_cards if brand == 'adidas' else cards
+    label = 'adidas' if brand == 'adidas' else 'Nike'
 
     try:
         found, seen = [], set()
         for t in ([sku] if sku else []) + args.terms:
-            for c in cards(t):
+            for c in lookup(t):
                 if c['sku'] not in seen:
                     seen.add(c['sku']); found.append(c)
+            if sku and any(c['sku'] == sku for c in found):
+                break      # 品番一致が出たらそれ以上探さない(PDPを何枚も開かない)
     except Exception as e:
         print(f'network error: {e}', file=sys.stderr); sys.exit(3)
 
@@ -131,7 +249,7 @@ def main():
     cands.sort(key=lambda c: (c['sku'] == sku, model_hit(c['name'], args.terms),
                               not KIDS.search(c['name'])), reverse=True)
 
-    print(f'Nike公式 検索 {len(found)} 件 → モデル一致のシューズ {len(cands)} 件')
+    print(f'{label}公式 検索 {len(found)} 件 → モデル一致のシューズ {len(cands)} 件')
     for i, c in enumerate(cands[:10], 1):
         mark = '★品番一致' if c['sku'] == sku else '         '
         print(f"{i:2}. {mark} {c['sku']:14} {c['name'][:60]}")
@@ -155,9 +273,12 @@ def main():
             print(f"  解像度不足 {c['sku']}(拡大はしない)"); continue
         print(f"保存: {args.out} ({OUT_W}x{OUT_H}) 背景 rgb{bg}")
         print(f"SOURCE: {c['page']}")
-        print(f"COLORWAY: {colorway(c['name']) or '(カラー名なし)'} / 品番 {c['sku']}"
+        cw = colorway(c['name']) or (
+            '(adidasは商品ページにカラー名を出さない。品番一致なら記事のカラーで正しい)'
+            if brand == 'adidas' else '(カラー名なし)')
+        print(f"COLORWAY: {cw} / 品番 {c['sku']}"
               f"{'' if c['sku'] == sku else '  ※記事の品番とは別カラー。キャプションに明記する'}")
-        print('CREDIT: 画像: Nike(ブランド公式の商品画像)')
+        print(f'CREDIT: 画像: {label}(ブランド公式の商品画像)')
         return
     print('候補は出たが画像を保存できなかった → CC写真ルートへ'); sys.exit(2)
 

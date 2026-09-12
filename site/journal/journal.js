@@ -17,7 +17,7 @@ const ARTICLES = [
     title: "adidas Anthony Edwards 3「Cold Blooded」が9月18日発売 —— 3代目シグネチャーに新色",
     excerpt: "アンソニー・エドワーズ（ミネソタ・ティンバーウルブズ）の3代目シグネチャーモデル「adidas Anthony Edwards 3」に、新色「Cold Blooded」（品番KH8537）が2026年9月18日にadidas.comおよび一部取扱店で発売される。Nice Kicksが伝えた。",
     date: "2026.09.11",
-    thumb: "../assets/journal-134-hero.jpg?v=75cca7db0e",
+    thumb: "../assets/journal-134-hero.jpg?v=7a43c23426",
     tile: "ADIDAS ANTHONY EDWARDS 3"
   },
   {

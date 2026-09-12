@@ -25,6 +25,7 @@ KICKS記事でこの汎用フォールバックに来てよいのは、`PROMPT_C
 キャプション書式（靴の写真が取れた時。④に来た時は上の01〜04の書式のまま）:
 
 - 公式・記事と同じカラー: `画像: Nike（ブランド公式の商品画像）`
+- 公式・記事と同じカラー（カラー名を商品ページに出さない adidas）: `画像: adidas Anthony Edwards 3「Cold Blooded」（品番KH8537）。画像: adidas（ブランド公式の商品画像）`
 - 公式・別カラー: `画像: Air Jordan 4 Retro「Tour Yellow」（本記事の「Lemonade」とは別カラー）。画像: Nike（ブランド公式の商品画像）`
 - CC靴写真・別モデル: `画像: adidas Superstar（本記事の Superstar II とは別モデル・別カラーの同シリーズ）。撮影: <撮影者> / <ライセンス>, via Wikimedia Commons`
 
