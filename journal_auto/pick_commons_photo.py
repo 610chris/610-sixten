@@ -35,6 +35,18 @@
       16:9 と同じ横長=0.40 の間を線形）。全身写真の顔切れはこれだけでもほぼ防げる
   保存時に `クロップ:` 行で採用した方法と centering 値を出すので、ログを見れば手動で直せる。
 
+商品(靴)モード `--product`（2026-09-12 クリス指示「KICKSの記事の時はその靴の写真にして欲しいかな！」）:
+  KICKS記事で「そのモデルのCC写真」を探す時に付ける。人物写真とは要求が逆なので3点変える。
+    ①モデル名の一致度を最優先でランクする。既定は「新しい順→解像度」なので、`"Air Jordan 4"` で
+      検索しても AJ1/AJ2/AJ3/AJ9 の新しい写真が上位に来て、肝心の AJ4 の写真が埋もれていた
+      （実例: 記事131 は `File:Nike Air Jordan IV.jpg` 2952x2592 CC0 が候補にあったのに汎用
+      フォールバックへ落ちた）。検索語のどれかが題名に語として入っているものだけを上位に置く
+    ②顔検出を切る（靴に顔はない。検出失敗の縦横比フォールバックで上下が切れるのも避ける）
+    ③16:9に切らず、レターボックス合成で収める（`pick_product_photo.py` の save_hero と同じ処理。
+      商品写真は正方形〜縦長が多く、切ると靴の上下が落ちる）
+  判定も商品写真向けに緩める: 短辺1000px以上（正方形でも通す）・ボケ判定は白背景で分散が下がるため
+  PROD_BLUR_* を使う。新しさの絞り込みは行わない（名作の復刻は古い写真しか無いことが多い）。
+
 依存: 標準ライブラリのみで検索・ランク付けできる。保存とボケ判定は Pillow(+numpy)、顔検出は
       opencv-python-headless があれば行う。無い場合もエラーにはせず、上の②→③に自動で落ちる。
 """
@@ -56,6 +68,15 @@ FACE_SCORE = 0.6     # YuNet の採用スコア。これ未満は顔と見なさ
 FACE_LONG = 1024     # 顔検出に渡す画像の長辺px（小さすぎると小さい顔を拾えない）
 CY_PORTRAIT = 0.12   # 顔が取れない時の上寄せ下限（縦長写真）
 CY_DEFAULT = 0.40    # 顔が取れない時の既定（横長写真・旧実装と同じ）
+PROD_MIN_SIDE = 1000     # --product の画質下限（短辺）。切らずに収めるので16:9の縛りは要らない
+PROD_BLUR_MIN = 40.0     # --product のボケ判定。商品写真は白背景の面積が広く分散が下がるため緩める
+PROD_BLUR_MIN_SMALL = 120.0
+NOT_SHOE = re.compile(r'\b(store|shop|museum|billboard|poster|advertis|box|packaging|'
+                      r'jersey|shirt|sock)\b', re.I)  # --product で除外（靴そのものが写っていない）
+# --product のランク補助。モデル名だけだと同名の別物が混ざる（実例: "Superstar II" で
+# ギリシャ・ティノス島のフェリー "Superstar II" が候補に入った）ので、靴だと分かる語を優先する
+SHOE_HINT = re.compile(r'\b(shoe|sneaker|trainer|footwear|basketball|kicks|nike|jordan|adidas|'
+                       r'puma|reebok|converse|new balance|under armour|anta|li[- ]ning|asics)\b', re.I)
 
 
 def api(params):
@@ -105,23 +126,56 @@ def search(term, limit):
     return out
 
 
-def eligible(c, since):
+def eligible(c, since, product=False):
     if BAD_TITLE.search(c['title']):
         return False
     if not OK_LICENSE.search(c['license'] or ''):
         return False
-    if c['width'] < MIN_W or c['height'] < MIN_H:
-        return False
     if c['mime'] not in ('image/jpeg', 'image/png', 'image/webp'):
+        return False
+    if product:
+        # 切らずに収めるので短辺だけ見る。モデル名が題名に無いものは別モデルなので落とす
+        if min(c['width'], c['height']) < PROD_MIN_SIDE:
+            return False
+        if NOT_SHOE.search(c['title']):
+            return False
+        # モデル名だけの一致は同名の別物を拾う（実例: "AE 1" で Canon AE-1 のカメラ写真、
+        # "Superstar II" でフェリー）。靴だと分かる語(ブランド名 or shoe/sneaker)を必須にする。
+        # 落としすぎても次の階層(選手写真→フォールバック)に進むだけなので、厳しい側に倒す
+        if not SHOE_HINT.search(c['title']):
+            return False
+        return c['model'] > 0
+    if c['width'] < MIN_W or c['height'] < MIN_H:
         return False
     if since and (not c['taken_dt'] or c['taken_dt'] < since):
         return False
     return True
 
 
+def model_score(title, terms):
+    """題名に検索語が「語として」いくつ含まれるか。--product のランクの第一キー。
+
+    `"Air Jordan 4" "Air Jordan IV"` で検索した時に `Nike Air Jordan I.jpg`(=別モデル)を
+    上位に出さないための判定。部分一致ではなく単語境界で見るので 4 が 14 に化けない。
+    """
+    t = re.sub(r'[^a-z0-9 ]+', ' ', (title or '').lower())
+    n = 0
+    for term in terms:
+        q = re.sub(r'[^a-z0-9 ]+', ' ', (term or '').lower()).strip()
+        if q and re.search(r'(?<![a-z0-9])' + re.escape(q) + r'(?![a-z0-9])', t):
+            n += 1
+    return n
+
+
 def rank_key(c):
     # 新しい順を最優先、次に幅2000以上、次に画素数
     return (c['taken_dt'] or datetime(1900, 1, 1, tzinfo=timezone.utc), c['width'] >= PREF_W, c['width'] * c['height'])
+
+
+def rank_key_product(c):
+    # 商品(靴)はモデル名の一致度が最優先。次に「靴だと分かる題名か」、次に解像度、最後に新しさ
+    return (c['model'], bool(SHOE_HINT.search(c['title'])), c['width'] * c['height'],
+            c['taken_dt'] or datetime(1900, 1, 1, tzinfo=timezone.utc))
 
 
 def blur_score(data):
@@ -141,15 +195,16 @@ def blur_score(data):
     return lapvar(im), lapvar(small)
 
 
-def blur_ng(b):
+def blur_ng(b, product=False):
     """(等倍, 縮小) の分散タプルを受け取り、不採用なら理由文字列、採用なら None"""
     if b is None:
         return None
+    lo, lo_small = (PROD_BLUR_MIN, PROD_BLUR_MIN_SMALL) if product else (BLUR_MIN, BLUR_MIN_SMALL)
     full, small = b
-    if full < BLUR_MIN:
-        return f'分散{full:.0f}<{BLUR_MIN:.0f}'
-    if small < BLUR_MIN_SMALL:
-        return f'縮小後分散{small:.0f}<{BLUR_MIN_SMALL:.0f}(ノイズ拡大写真)'
+    if full < lo:
+        return f'分散{full:.0f}<{lo:.0f}'
+    if small < lo_small:
+        return f'縮小後分散{small:.0f}<{lo_small:.0f}(ノイズ拡大写真)'
     return None
 
 
@@ -205,6 +260,17 @@ def crop_centering(src_w, src_h, face, crop_y=None, face_top=FACE_TOP):
     return (0.5, clamp(cy)), f'縦横比フォールバック（縦横比{a:.2f}）'
 
 
+def save_hero_product(data, out):
+    """--product 用。靴を切らずに 1600x900 へ収める（余白は元画像の背景色）。
+
+    実体は pick_product_photo.save_hero（Nike公式ルートと同じ見え方にするため共有する）。
+    同じフォルダにあるので import できる。戻り値は背景色 / 解像度不足なら None。
+    """
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from pick_product_photo import save_hero as _letterbox
+    return _letterbox(data, out)
+
+
 def save_hero(data, out, crop_y=None, face_top=FACE_TOP, use_face=True):
     try:
         from PIL import Image, ImageOps
@@ -235,6 +301,8 @@ def main():
     ap.add_argument('--face-top', type=float, default=FACE_TOP,
                     help=f'顔の中心を仕上がりの上から何割の位置に置くか（既定{FACE_TOP}）')
     ap.add_argument('--no-face', action='store_true', help='顔検出を使わず縦横比フォールバックだけで切る')
+    ap.add_argument('--product', action='store_true',
+                    help='商品(靴)モード: モデル名一致を最優先・顔検出オフ・切らずにレターボックス合成')
     ap.add_argument('--from-url', help='検索せず、このURLの画像を切り直して --out に保存する')
     ap.add_argument('--from-file', help='検索せず、このローカル画像を切り直して --out に保存する')
     args = ap.parse_args()
@@ -265,16 +333,26 @@ def main():
     except Exception as e:
         print(f'network error: {e}', file=sys.stderr); sys.exit(3)
 
-    now = datetime.now(timezone.utc)
-    tiers = [('直近3年', now.replace(year=now.year - 3)), ('直近5年', now.replace(year=now.year - 5)), ('年代不問', None)]
-    cands, tier_name = [], ''
-    for name, since in tiers:
-        cands = sorted([c for c in found if eligible(c, since)], key=rank_key, reverse=True)
-        if cands:
-            tier_name = name; break
-    print(f'検索 {len(found)} 件 → 条件(幅>={MIN_W}・高さ>={MIN_H}・CCライセンス・{tier_name or "該当なし"}) {len(cands)} 件')
-    for i, c in enumerate(cands[:15], 1):
-        print(f"{i:2}. {c['taken'] or '----------'} {c['width']}x{c['height']} {c['license'][:12]:12} {c['title'][:70]}")
+    for c in found:
+        c['model'] = model_score(c['title'], args.terms)
+
+    if args.product:
+        cands = sorted([c for c in found if eligible(c, None, product=True)], key=rank_key_product, reverse=True)
+        print(f'検索 {len(found)} 件 → 商品モード(短辺>={PROD_MIN_SIDE}・CCライセンス・モデル名一致) {len(cands)} 件')
+        for i, c in enumerate(cands[:15], 1):
+            print(f"{i:2}. 一致{c['model']} {c['taken'] or '----------'} {c['width']}x{c['height']} "
+                  f"{c['license'][:12]:12} {c['title'][:70]}")
+    else:
+        now = datetime.now(timezone.utc)
+        tiers = [('直近3年', now.replace(year=now.year - 3)), ('直近5年', now.replace(year=now.year - 5)), ('年代不問', None)]
+        cands, tier_name = [], ''
+        for name, since in tiers:
+            cands = sorted([c for c in found if eligible(c, since)], key=rank_key, reverse=True)
+            if cands:
+                tier_name = name; break
+        print(f'検索 {len(found)} 件 → 条件(幅>={MIN_W}・高さ>={MIN_H}・CCライセンス・{tier_name or "該当なし"}) {len(cands)} 件')
+        for i, c in enumerate(cands[:15], 1):
+            print(f"{i:2}. {c['taken'] or '----------'} {c['width']}x{c['height']} {c['license'][:12]:12} {c['title'][:70]}")
     if not cands:
         print('候補なし → journal_auto/fallback-images.md のフォールバック写真を使う'); sys.exit(2)
     if args.list and not args.out:
@@ -288,12 +366,18 @@ def main():
         except Exception as e:
             print(f"  取得失敗 {c['title'][:50]}: {e}"); continue
         b = blur_score(data)
-        ng = blur_ng(b)
+        ng = blur_ng(b, product=args.product)
         if ng:
             print(f"  ボケ判定NG({ng}) → 次の候補: {c['title'][:60]}"); continue
         if args.out:
             os.makedirs(os.path.dirname(args.out) or '.', exist_ok=True)
-            save_hero(data, args.out, **crop_opts)
+            if args.product:
+                bg = save_hero_product(data, args.out)
+                if bg is None:
+                    print(f"  解像度不足(拡大はしない) → 次の候補: {c['title'][:60]}"); continue
+                print(f'合成: 切らずに収める（レターボックス・背景 rgb{bg}）')
+            else:
+                save_hero(data, args.out, **crop_opts)
             bs = f'{b[0]:.0f}/縮小{b[1]:.0f}' if b is not None else 'skip'
             print(f"保存: {args.out} ({OUT_W}x{OUT_H}) 元={c['width']}x{c['height']} 撮影={c['taken']} ボケ判定={bs}")
         print(f"FILE: {c['title']}\nPAGE: {c['page']}\nTAKEN: {c['taken']}")

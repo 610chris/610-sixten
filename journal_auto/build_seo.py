@@ -17,7 +17,12 @@ JSを実行しなくても全記事に辿り着ける静的HTMLと配信ファ�
                                  md5先頭10桁を `?v=` として付与する。同名上書きで写真を差し替えても、URLが変わるので
                                  ブラウザ/Cloudflare/surge のキャッシュに古い画像が残らない。手で `?v=` を書く必要なし。
                                  (css/*.css 内の url() は触らない。書体・CSSは手で触らないルールのため)
-  8. 検証: 各記事のcanonical/JSON-LD/title形式を確認し、欠けていれば警告(exit 1にはしない)
+  8. アクセス解析(2026-09-12) … journal_auto/analytics_config.json に GA4測定ID が入っていれば、site配下の
+                                 全HTML(検証用のgoogle*.htmlを除く)の </head> 直前に gtag.js を挿入し、
+                                 フッターの著作権表示の下にプライバシーポリシー導線を置く。IDを空にすれば
+                                 全ページから消える。どちらも何度実行しても同じ結果(冪等)。
+                                 広告営業に出す月間PV/UUを貯めるための土台。集計は 615_JOURNAL/analytics/ 側。
+  9. 検証: 各記事のcanonical/JSON-LD/title形式を確認し、欠けていれば警告(exit 1にはしない)
 
 使い方: リポジトリルートで `python3 journal_auto/build_seo.py`
   - 自動記事化ルーチン(PROMPT_CLOUD.md §3)は記事追加後・commit前に必ず実行する
@@ -376,6 +381,8 @@ def build_sitemap(arts: list[dict]) -> None:
         lines.append(f"  <url><loc>{a['url']}</loc><lastmod>{a['iso']}</lastmod><priority>0.8</priority></url>")
     for m in sorted((SITE / "media").glob("*.html")):
         lines.append(f"  <url><loc>{BASE}/media/{m.name}</loc><priority>0.5</priority></url>")
+    if (SITE / "privacy.html").exists():
+        lines.append(f"  <url><loc>{BASE}/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>")
     lines.append("</urlset>\n")
     write_if_changed(SITE / "sitemap.xml", "\n".join(lines))
 
@@ -511,6 +518,96 @@ def version_html_files() -> None:
         write_if_changed(p, version_urls(read(p), p.parent))
 
 
+# ---------------------------------------------------------------- 8. アクセス解析(GA4)
+# 広告営業に出す「月間PV/UU」を貯めるための計測タグ。測定IDは analytics_config.json の1行だけで、
+# 入れれば site 配下の全HTMLに入り、空にすれば全HTMLから消える(どちらも冪等)。
+ANALYTICS_CONFIG = Path(__file__).resolve().parent / "analytics_config.json"
+GA4_START = "<!-- ga4:start build_seo.py が自動生成。手で編集しない -->"
+GA4_END = "<!-- ga4:end -->"
+# 行頭のインデントごと消す(消し残すと再ビルドのたびに空白が増えて冪等でなくなる)
+GA4_BLOCK_RE = re.compile(r"[ \t]*" + re.escape(GA4_START) + r".*?" + re.escape(GA4_END) + r"\n?", re.S)
+GA4_ID_RE = re.compile(r"^G-[A-Z0-9]{4,20}$")
+
+LEGAL_START = "<!-- legal:start build_seo.py が自動生成 -->"
+LEGAL_END = "<!-- legal:end -->"
+LEGAL_BLOCK_RE = re.compile(r"[ \t]*" + re.escape(LEGAL_START) + r".*?" + re.escape(LEGAL_END) + r"\n?", re.S)
+# ホームの著作権表示は <small>© <span id="year">2026</span> …</small> なので内側のタグごと拾う
+COPYRIGHT_RE = re.compile(r"(<small>©.*?</small>\n)")
+
+# 計測タグを入れないファイル(Search Console の所有権確認用HTMLは中身を変えると確認が外れる)
+SKIP_HTML = re.compile(r"^google[0-9a-f]+\.html$")
+# ポリシー導線を置かないページ(TIP OFFはアプリ側の独立したポリシー。610サイトの導線を混ぜない)
+SKIP_LEGAL = {"tipoff/privacy.html", "privacy.html"}
+
+
+def ga4_id() -> str:
+    """analytics_config.json から測定IDを読む。未設定・書式違いは空扱い(=タグを入れない)"""
+    if not ANALYTICS_CONFIG.exists():
+        return ""
+    try:
+        mid = (json.loads(read(ANALYTICS_CONFIG)).get("ga4_measurement_id") or "").strip()
+    except json.JSONDecodeError:
+        warn("analytics_config.json が壊れている(JSONとして読めない) → 計測タグはスキップ")
+        return ""
+    if mid and not GA4_ID_RE.match(mid):
+        warn(f"測定IDの書式が違う: {mid!r}（G-XXXXXXXXXX の形）→ 計測タグはスキップ")
+        return ""
+    return mid
+
+
+def ga4_block(mid: str) -> str:
+    return (
+        f"{GA4_START}\n"
+        f'<script async src="https://www.googletagmanager.com/gtag/js?id={mid}"></script>\n'
+        "<script>\n"
+        "window.dataLayer = window.dataLayer || [];\n"
+        "function gtag(){dataLayer.push(arguments);}\n"
+        "gtag('js', new Date());\n"
+        f"gtag('config', '{mid}');\n"
+        "</script>\n"
+        f"{GA4_END}\n"
+    )
+
+
+def legal_block() -> str:
+    """フッターのプライバシーポリシー導線。Cookie利用を告知する先が無いと広告審査で止まるので全ページに置く"""
+    return (
+        f"    {LEGAL_START}\n"
+        f'    <small class="footer-legal" style="display:block;margin-top:8px;opacity:.6">'
+        f'<a href="/privacy.html">プライバシーポリシー</a></small>\n'
+        f"    {LEGAL_END}\n"
+    )
+
+
+def apply_analytics(mid: str) -> None:
+    """site配下の全HTMLに 計測タグ + プライバシーポリシー導線 を反映する"""
+    targets = [p for p in sorted(SITE.rglob("*.html")) if not SKIP_HTML.match(p.name)]
+    for p in targets:
+        t = read(p)
+
+        # --- 計測タグ: 既存ブロックを消してから、IDがあるときだけ </head> 直前に入れ直す
+        t = GA4_BLOCK_RE.sub("", t)
+        if mid:
+            if "</head>" not in t:
+                warn(f"{p.relative_to(SITE)}: </head> が無いので計測タグを入れられない")
+            else:
+                t = t.replace("</head>", ga4_block(mid) + "</head>", 1)
+
+        # --- プライバシーポリシー導線: フッターの著作権表示の直後(1回だけ)
+        t = LEGAL_BLOCK_RE.sub("", t)
+        rel = p.relative_to(SITE).as_posix()
+        if rel not in SKIP_LEGAL:
+            m = COPYRIGHT_RE.search(t)
+            if m:
+                t = t[: m.end()] + legal_block() + t[m.end() :]
+            else:
+                warn(f"{rel}: フッターの著作権表示が見つからずポリシー導線を置けない")
+
+        write_if_changed(p, t)
+
+    print(f"ANALYTICS: {'測定ID ' + mid if mid else '測定ID 未設定(タグなし)'} / 対象 {len(targets)}ページ")
+
+
 # ---------------------------------------------------------------- main
 def main() -> int:
     version_journal_js()
@@ -523,6 +620,7 @@ def main() -> int:
     build_sitemap(arts)
     build_feed(arts)
     build_llms(arts)
+    apply_analytics(ga4_id())
     version_html_files()
     uniq = list(dict.fromkeys(changed))
     print(f"更新: {len(uniq)}ファイル")

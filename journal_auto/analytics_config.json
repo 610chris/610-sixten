@@ -1,0 +1,6 @@
+{
+  "ga4_measurement_id": "",
+  "_使い方": "GA4の測定ID(G-で始まる文字列)をここに入れて build_seo.py を実行すると、site配下の全HTMLに計測タグが入る。空のままなら1ページにも入らない(=今の状態)。設定は `python3 journal_auto/set_ga4_id.py G-XXXXXXXXXX` でも可能。",
+  "_測定IDの取り方": "https://analytics.google.com/ → 管理 → プロパティを作成(名前=610 sixten / タイムゾーン=日本 / 通貨=円) → データストリーム → ウェブ → URL=https://sixten.jp サイト名=610 sixten → 作成後に表示される「測定ID」がそれ",
+  "_注意": "測定IDはHTMLに埋め込まれる公開情報なので、gitにcommitして問題ない。秘密にすべきなのはサービスアカウントの鍵(615_JOURNAL/analytics/ 参照)の方。"
+}

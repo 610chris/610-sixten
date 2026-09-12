@@ -8,7 +8,7 @@ const ARTICLES = [
     title: "Anthony Edwards x adidas Superstar II「Bliss Blue」が9月18日発売 —— ミネソタのエースとクラシックモデルのコラボ",
     excerpt: "アンソニー・エドワーズ（ミネソタ・ティンバーウルブズ）とadidasのコラボレーション「Anthony Edwards x adidas Superstar II」の新色「Bliss Blue」（品番LA7828）が2026年9月18日にadidas.comほかで発売される。Nice Kicksが伝えた。",
     date: "2026.09.11",
-    thumb: "../assets/journal-133-hero.jpg?v=75cca7db0e",
+    thumb: "../assets/journal-133-hero.jpg?v=30285b5395",
     tile: "ADIDAS SUPERSTAR II"
   },
   {
@@ -35,7 +35,7 @@ const ARTICLES = [
     title: "J Balvin x Air Jordan 4「Lemonade」が2026年9月発売 —— コロンビアにルーツを持つイエロー、クロコ型押しレザー",
     excerpt: "コロンビア出身のシンガー、J Balvinとジョーダン ブランドのコラボレーション「Air Jordan 4『Lemonade』」(品番IW2872-700)が2026年9月に発売される。クロコ型押しレザーを使い、複数のイエローを組み合わせた配色でBalvinのコロンビアにルーツを持つデザイン。Sneaker NewsとSneaker Bar Detroitが伝えた。",
     date: "2026.09.11",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-131-hero.jpg?v=d532e074cd",
     tile: "J BALVIN x AIR JORDAN 4"
   },
   {

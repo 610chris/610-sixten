@@ -17,6 +17,17 @@
 - 03: `画像: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons`
 - 04: `画像: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons`
 
+## KICKS記事は先に「その靴の写真」を試す（2026-09-12・クリス指示「KICKSの記事の時はその靴の写真にして欲しいかな！」）
+
+KICKS記事でこの汎用フォールバックに来てよいのは、`PROMPT_CLOUD.md` §1d-5 の①〜③を全部試して取れなかった時だけ。
+順に ①`pick_product_photo.py`（Nike/Jordan公式の商品画像・品番があれば `--sku`）→ ②`pick_commons_photo.py --product`（CC靴写真）→ ③選手写真 → ④ここ。
+
+キャプション書式（靴の写真が取れた時。④に来た時は上の01〜04の書式のまま）:
+
+- 公式・記事と同じカラー: `画像: Nike（ブランド公式の商品画像）`
+- 公式・別カラー: `画像: Air Jordan 4 Retro「Tour Yellow」（本記事の「Lemonade」とは別カラー）。画像: Nike（ブランド公式の商品画像）`
+- CC靴写真・別モデル: `画像: adidas Superstar（本記事の Superstar II とは別モデル・別カラーの同シリーズ）。撮影: <撮影者> / <ライセンス>, via Wikimedia Commons`
+
 ## 使い方の注意
 
 - そのままheroに使う（再ダウンロード・再変換不要）。journal.js の thumb にも同じパスを入れる
