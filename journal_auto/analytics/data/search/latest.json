@@ -1,0 +1,21 @@
+{
+  "month": "2026-09",
+  "clicks": 35,
+  "impressions": 573,
+  "ctr": 0.0611,
+  "position": 8.6,
+  "top_queries": [
+    "コンバース 2faced",
+    "ジョーダンホーキンス",
+    "濱田誉",
+    "2faced low",
+    "2faced mid",
+    "2faced コンバース",
+    "2フェイスド コンバース",
+    "bリーグ 配信",
+    "converse 2faced",
+    "his bリーグ"
+  ],
+  "source": "Google Search Console",
+  "note": "検索結果での表示回数とクリック数。GA4のPVとは別物"
+}

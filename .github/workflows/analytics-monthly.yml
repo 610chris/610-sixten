@@ -1,11 +1,13 @@
 name: Analytics monthly
 # 610 JOURNAL のアクセス数(PV/UU/記事別/流入元/端末/読者層)を毎月1日の朝に GA4 から取得して
 # journal_auto/analytics/data/ に積み上げ、commit する。広告・スポンサー営業に出す媒体データの元になる。
+# あわせて Search Console（検索での表示回数・クリック）も取る。GA4 と GSC は別物なので混ぜないこと。
 # セットアップ手順は journal_auto/analytics/README.md を参照。
 #
 # 走る条件（どちらも未設定のうちは「何もせず正常終了」して、失敗メールを出さない）:
-#   1. Secrets の GA4_SA_KEY … サービスアカウントの鍵JSONの中身
+#   1. Secrets の GA4_SA_KEY … サービスアカウントの鍵JSONの中身（GA4 と GSC で使い回す）
 #   2. journal_auto/analytics_config.json の ga4_property_id … 数字のプロパティID
+#   3. journal_auto/analytics_config.json の gsc_site_url … Search Console のプロパティURL（無ければ GSC だけスキップ）
 #
 # cron '0 0 1 * *' = 毎月1日 00:00 UTC = JST 9:00。前月がちょうど締まった直後に取りにいく。
 # 注: GITHUB_TOKEN による push は他の Actions を起動しない(GitHubの再帰防止)。
@@ -57,15 +59,25 @@ jobs:
           fi
           echo "ready=$ready" >> "$GITHUB_OUTPUT"
 
+          # Search Console は GA4 とは独立に判定する（片方だけ設定済みでも動くように）
+          gsc=true
+          [ -z "$GA4_SA_KEY" ] && gsc=false
+          site=$(python3 -c "import json;print(json.load(open('journal_auto/analytics_config.json')).get('gsc_site_url') or '')")
+          if [ -z "$site" ]; then
+            echo "::warning::analytics_config.json の gsc_site_url が未設定です（README.md ステップ4）。検索データはスキップします。"
+            gsc=false
+          fi
+          echo "gsc=$gsc" >> "$GITHUB_OUTPUT"
+
       - uses: actions/setup-python@v5
-        if: steps.setup.outputs.ready == 'true'
+        if: steps.setup.outputs.ready == 'true' || steps.setup.outputs.gsc == 'true'
         with:
           python-version: '3.12'
           cache: pip
           cache-dependency-path: journal_auto/analytics/requirements.txt
 
       - name: Install deps
-        if: steps.setup.outputs.ready == 'true'
+        if: steps.setup.outputs.ready == 'true' || steps.setup.outputs.gsc == 'true'
         run: pip install -r journal_auto/analytics/requirements.txt
 
       - name: Fetch from GA4
@@ -88,8 +100,30 @@ jobs:
           fi
           python3 fetch_ga4.py --summary
 
+      - name: Fetch from Search Console
+        if: steps.setup.outputs.gsc == 'true'
+        env:
+          GA4_SA_KEY: ${{ secrets.GA4_SA_KEY }}
+          MONTH: ${{ github.event.inputs.month }}
+          SINCE: ${{ github.event.inputs.since }}
+        run: |
+          printf '%s' "$GA4_SA_KEY" > "$RUNNER_TEMP/ga4-key.json"
+          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/ga4-key.json"
+          cd journal_auto/analytics
+          if [ -n "$SINCE" ]; then
+            python3 fetch_gsc.py --since "$SINCE"
+          elif [ -n "$MONTH" ]; then
+            python3 fetch_gsc.py --month "$MONTH"
+          else
+            # Search Console は確定に2〜3日かかる。1日に前月を取ると月末ぶんが欠けるので、
+            # 前々月も取り直して過去の数字を後から埋め直す（upsert なので二重にならない）
+            since=$(python3 -c "import datetime as dt; d=dt.date.today().replace(day=1); d=(d-dt.timedelta(days=1)).replace(day=1); d=(d-dt.timedelta(days=1)).replace(day=1); print(f'{d.year:04d}-{d.month:02d}')")
+            python3 fetch_gsc.py --since "$since"
+          fi
+          python3 fetch_gsc.py --summary
+
       - name: Commit data
-        if: steps.setup.outputs.ready == 'true'
+        if: steps.setup.outputs.ready == 'true' || steps.setup.outputs.gsc == 'true'
         run: |
           git config user.name "analytics-monthly"
           git config user.email "actions@github.com"

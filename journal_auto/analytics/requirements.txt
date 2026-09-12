@@ -1,5 +1,12 @@
-# 610 JOURNAL アクセス集計（fetch_ga4.py）の依存
+# 610 JOURNAL アクセス集計の依存
 # インストール:
 #   python3 -m venv .venv && source .venv/bin/activate
 #   pip install -r requirements.txt
+
+# fetch_ga4.py（GA4＝実際に開かれたPV/UU）
 google-analytics-data>=0.18
+
+# fetch_gsc.py（Search Console＝検索での表示回数・クリック）
+# Search Console API は REST を直接叩くので、認証まわりだけあればよい
+# （google-analytics-data の依存にも入っているが、GA4 を外しても動くよう明示しておく）
+google-auth>=2

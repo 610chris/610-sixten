@@ -1,15 +1,16 @@
-# 610 JOURNAL アクセス解析（GA4）
+# 610 JOURNAL アクセス解析（GA4 / Search Console）
 
-広告・スポンサー営業に出す媒体データ（月間PV・UU・記事別ランキング・流入元・読者層）を
+広告・スポンサー営業に出す媒体データ（月間PV・UU・記事別ランキング・流入元・読者層＋検索での表示回数）を
 **毎月1日に自動で取ってきて CSV に積み上げる**仕組み。
 
 - 計測タグの埋め込み … `journal_auto/build_seo.py`（測定IDを設定してビルドすると全ページに入る）
-- 数字の取得と蓄積 … `journal_auto/analytics/fetch_ga4.py`
-- 自動実行 … `.github/workflows/analytics-monthly.yml`（毎月1日 JST 9:00）
-- 蓄積先 … `journal_auto/analytics/data/`
+- 数字の取得と蓄積 … `journal_auto/analytics/fetch_ga4.py`（PV/UU）＋ `fetch_gsc.py`（検索）
+- 自動実行 … `.github/workflows/analytics-monthly.yml`（毎月1日 JST 9:00・両方まとめて）
+- 蓄積先 … `journal_auto/analytics/data/`（検索は `data/search/`）
 
-> ⚠️ **計測は「タグを入れた日」からしか数字が貯まらない。**
+> ⚠️ **GA4 は「タグを入れた日」からしか数字が貯まらない。**
 > 入れていない期間のPVは後から一切取り返せないので、下の「ステップ1」を最優先で終わらせる。
+> （それ以前の期間は、16ヶ月さかのぼれる Search Console＝ステップ4 で部分的に補える）
 
 ---
 
@@ -106,6 +107,59 @@ commit されるようになる。手動で走らせたいときは
 
 ---
 
+## ステップ4: 検索データ（Search Console）— 設定済み
+
+GA4 は計測タグを入れた **2026-09-13 より前の数字を永久に持てない**。
+Search Console は所有権確認さえ済んでいれば **過去16ヶ月分**さかのぼれるので、その穴をこっちで埋める。
+
+設定はすべて完了している（2026-09-13）。中身:
+
+| 項目 | 状態 |
+|---|---|
+| Search Console API（GCP `analytics-508416`） | 有効化済み |
+| プロパティ `https://sixten.jp/` へのSA追加 | `journal-analytics@analytics-508416.iam.gserviceaccount.com` を**制限付き**（読み取りのみ）で追加済み |
+| `analytics_config.json` の `gsc_site_url` | `"https://sixten.jp/"` |
+| 鍵 | GA4 と同じものを使い回す（ローカル=`GOOGLE_APPLICATION_CREDENTIALS` / CI=Secrets `GA4_SA_KEY`） |
+| 過去16ヶ月の一括取得 | 実行済み（サイト公開が2026-08なので、それ以前は実際に0） |
+
+```bash
+cd 610_sixten/journal_auto/analytics
+
+python3 fetch_gsc.py --summary        # 直近12ヶ月の表示回数・クリックを表で見る（ネット不要・鍵不要）
+python3 fetch_gsc.py                  # 前月分を取得
+python3 fetch_gsc.py --month 2026-09  # 指定した月を取得
+python3 fetch_gsc.py --since 2026-08  # その月から先月までまとめて取得
+python3 fetch_gsc.py --backfill       # さかのぼれる分（約16ヶ月）を全部。初回の穴埋め用
+python3 fetch_gsc.py --selftest       # 保存処理の自己診断（API不要）
+```
+
+### ⚠️ GA4 と GSC は別物。媒体資料で混ぜない
+
+| | GA4（`fetch_ga4.py`） | Search Console（`fetch_gsc.py`） |
+|---|---|---|
+| 数えているもの | **実際にページが開かれた回数**（PV/UU） | Google検索の結果に**表示された回数**（impressions）と**クリック**された回数 |
+| 対象 | 全流入（検索・SNS・直接・リンク） | Google検索だけ |
+| さかのぼれる範囲 | タグ設置日（2026-09-13）以降だけ | 16ヶ月 |
+
+「表示回数」は**読まれた数ではない**（検索結果に出ただけ）。広告主に出すときは
+PV は GA4、検索での見つかりやすさは GSC、と分けて並べること。足し算はしない。
+GSC の clicks は GA4 の「Organic Search の PV」に近いが一致はしない。
+
+### 貯まるファイル（検索）
+
+| ファイル | 中身 | 営業でどう使うか |
+|---|---|---|
+| `data/search/monthly.csv` | 月次（表示回数・クリック・CTR・平均掲載順位） | 検索での伸びを時系列で見せる |
+| `data/search/queries/YYYY-MM.csv` | 検索キーワード別 上位50 | 「どんな言葉で見つかっているか」＝読者の関心の証明 |
+| `data/search/pages/YYYY-MM.csv` | ページ別 上位50 | どの記事が検索資産になっているか |
+| `data/search/latest.json` | 最新月の要約＋上位キーワード10 | 媒体資料ページの生成元 |
+
+- 数字は**確定まで2〜3日**かかる。当月ぶんを取ると末尾が欠ける。
+  なので毎月1日の自動実行では前月と**前々月**を取り直して、後から埋め直している（上書きなので二重にならない）。
+- 16ヶ月より前は Google 側にも残っていないので永久に取れない。
+
+---
+
 ## 普段の使い方
 
 ```bash
@@ -139,7 +193,7 @@ python3 fetch_ga4.py --selftest       # 保存処理の自己診断（API不要�
 - **このリポジトリは public** なので、ここに commit される PV/UU は誰でも見られる。
   もともと広告主に出す数字だし、`latest.json` は媒体資料ページの生成元として使う想定なので
   そのままにしてある。伏せたくなったら言ってくれれば private な置き場に切り替える。
-- Search Console（検索の表示回数・クリック）は**別ルート**。すでに `site/google353a8b31d20cdaa9.html`
-  で所有権確認済みなので、https://search.google.com/search-console から**過去16ヶ月分さかのぼって**見られる。
-  GA4が未設置だった期間はこっちで補える。
+- Search Console（検索の表示回数・クリック）は `fetch_gsc.py` で自動取得済み（上のステップ4）。
+  所有権確認は `site/google353a8b31d20cdaa9.html` で済んでいる。
+  画面で見たいときは https://search.google.com/search-console 。
 - プライバシーポリシー（`site/privacy.html`）は GA4/Cookie の利用を明記済み。全ページのフッターから導線が入る。
