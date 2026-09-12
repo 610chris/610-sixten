@@ -15,3 +15,6 @@ journal_auto/.surge_token
 # 双子フォルダ(Desktop/バスケ日記_素材)への symlink
 素材
 __pycache__/
+
+# IGカードの試作（ig_card.py --preview）。site/配下なのでcommitすると公開されてしまう
+site/assets/ig/preview-*.jpg

@@ -144,6 +144,24 @@ PR TIMES / インサイダー / ESPN とは独立に、毎回必ずこれも行�
   6. **広告枠必須**: body末尾のscript群は雛形(記事021)と同じ構成にし、`journal.js` 読み込みの後に `<script src="ads.js?v=実行日時"></script>` を必ず入れる（広告常設スロット・2026-08-20クリス指示。これが無いと新記事だけ広告枠が出ない）
   7. 雛形021にある `<nav class="crumbs">`・`<!-- STATIC-RELATED -->` マーカー・`footer-about` 段落・BreadcrumbList JSON-LD は build_seo.py が自動で入れるので、コピーした雛形に残っていてもそのままでよい（内容はスクリプトが記事に合わせて書き換える）。hero画像の `alt` は空にせず被写体を書く
 
+### 3b. Instagram投稿キューに積む（記事を公開したら毎回・2026-09-12設置）
+
+記事を1本公開したら、そのままIG投稿1本分（3枚カルーセル）をキューに積む。**ここで投稿はされない**（クリスが `ig_queue.py approve` して `ig_post.py` を叩くまで出ない）。承認が実質のフィルタなので、カテゴリで絞らず**全記事を積む**（2026-09-12クリス指示「全てだよ」）。
+
+```bash
+python3 journal_auto/ig_queue.py add NNN \
+  --headline "IG用の短い見出し（1〜2行で読める長さ。記事タイトルが長い時は詰める）" \
+  --points "要点1" "要点2" "要点3" \
+  --source "出典（記事末尾の出典ブロックと同じ表記）"
+python3 journal_auto/ig_card.py NNN
+```
+
+- `--headline` は**カードの表紙に入る文字**。og:title が長い記事はそのままだと4行になって窮屈なので、固有名詞を残して詰める（例: 「adidas Anthony Edwards 3「Cold Blooded」が9月18日発売 —— 3代目シグネチャーに新色」→「adidas AE 3「Cold Blooded」が9月18日発売」）
+- `--points` は**2枚目に載る要点3行**。1行40字程度まで。リリースに無い事実を足さない（記事本文と同じ規律）
+- カテゴリ・日付・記事URL・ヒーロー画像・写真クレジットは記事HTMLから自動で読むので渡さなくてよい
+- 生成物（`journal_auto/ig_queue.json` と `site/assets/ig/NNN-1〜3.jpg`）は §4 の `git add -A` にそのまま含まれる。**IGは公開URLの画像しか食わないので、この push が投稿の前提**になる
+- ヒーロー写真が無い記事でもカードは作れる（黒地＋ロゴになる）のでスキップしない
+
 ### 4. 記録とpush
 - チェックした候補URLを**採用/スキップ問わず全部** `journal_auto/seen.txt` に追記
 - 公開した記事は `journal_auto/published.log` に追記: `YYYY-MM-DD HH:MM<TAB>NNN<TAB>タイトル<TAB>元URL`
