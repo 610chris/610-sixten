@@ -1,0 +1,103 @@
+name: Analytics monthly
+# 610 JOURNAL のアクセス数(PV/UU/記事別/流入元/端末/読者層)を毎月1日の朝に GA4 から取得して
+# journal_auto/analytics/data/ に積み上げ、commit する。広告・スポンサー営業に出す媒体データの元になる。
+# セットアップ手順は journal_auto/analytics/README.md を参照。
+#
+# 走る条件（どちらも未設定のうちは「何もせず正常終了」して、失敗メールを出さない）:
+#   1. Secrets の GA4_SA_KEY … サービスアカウントの鍵JSONの中身
+#   2. journal_auto/analytics_config.json の ga4_property_id … 数字のプロパティID
+#
+# cron '0 0 1 * *' = 毎月1日 00:00 UTC = JST 9:00。前月がちょうど締まった直後に取りにいく。
+# 注: GITHUB_TOKEN による push は他の Actions を起動しない(GitHubの再帰防止)。
+#     また deploy.yml は paths で site/ 配下に絞ってあるので、ここの commit でサイトは再デプロイされない。
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+    inputs:
+      month:
+        description: '取得する月(例: 2026-10)。空なら前月'
+        required: false
+        default: ''
+      since:
+        description: 'この月から前月までまとめて取得(例: 2026-09)。穴埋め用。month より優先'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: analytics-monthly
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+
+      - name: Check setup
+        id: setup
+        env:
+          GA4_SA_KEY: ${{ secrets.GA4_SA_KEY }}
+        run: |
+          ready=true
+          if [ -z "$GA4_SA_KEY" ]; then
+            echo "::warning::Secrets の GA4_SA_KEY が未設定です（README.md ステップ3）。今月はスキップします。"
+            ready=false
+          fi
+          prop=$(python3 -c "import json;print(json.load(open('journal_auto/analytics_config.json')).get('ga4_property_id') or '')")
+          if [ -z "$prop" ]; then
+            echo "::warning::analytics_config.json の ga4_property_id が未設定です（README.md ステップ2-3）。今月はスキップします。"
+            ready=false
+          fi
+          echo "ready=$ready" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-python@v5
+        if: steps.setup.outputs.ready == 'true'
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: journal_auto/analytics/requirements.txt
+
+      - name: Install deps
+        if: steps.setup.outputs.ready == 'true'
+        run: pip install -r journal_auto/analytics/requirements.txt
+
+      - name: Fetch from GA4
+        if: steps.setup.outputs.ready == 'true'
+        env:
+          GA4_SA_KEY: ${{ secrets.GA4_SA_KEY }}
+          MONTH: ${{ github.event.inputs.month }}
+          SINCE: ${{ github.event.inputs.since }}
+        run: |
+          # 鍵はリポジトリの外(ランナーの一時領域)に置く。間違ってcommitされないように
+          printf '%s' "$GA4_SA_KEY" > "$RUNNER_TEMP/ga4-key.json"
+          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/ga4-key.json"
+          cd journal_auto/analytics
+          if [ -n "$SINCE" ]; then
+            python3 fetch_ga4.py --since "$SINCE"
+          elif [ -n "$MONTH" ]; then
+            python3 fetch_ga4.py --month "$MONTH"
+          else
+            python3 fetch_ga4.py
+          fi
+          python3 fetch_ga4.py --summary
+
+      - name: Commit data
+        if: steps.setup.outputs.ready == 'true'
+        run: |
+          git config user.name "analytics-monthly"
+          git config user.email "actions@github.com"
+          git add journal_auto/analytics/data
+          if git diff --cached --quiet; then
+            echo "変化なし（同じ数字を取り直しただけ）— commit しない"
+            exit 0
+          fi
+          MONTH=$(python3 -c "import csv;print(list(csv.DictReader(open('journal_auto/analytics/data/monthly.csv')))[-1]['month'])" 2>/dev/null || echo "")
+          git commit -m "analytics: 610 JOURNAL アクセス集計を更新${MONTH:+（$MONTH 時点）}"
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }

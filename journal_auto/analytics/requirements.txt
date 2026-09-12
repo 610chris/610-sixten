@@ -1,0 +1,5 @@
+# 610 JOURNAL アクセス集計（fetch_ga4.py）の依存
+# インストール:
+#   python3 -m venv .venv && source .venv/bin/activate
+#   pip install -r requirements.txt
+google-analytics-data>=0.18
