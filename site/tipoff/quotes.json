@@ -1,5 +1,5 @@
 {
-  "version": "2026-09-12T18:58:41+09:00",
+  "version": "2026-09-13T00:54:22+09:00",
   "quotes": [
     {
       "id": "q0001",
@@ -106,9 +106,9 @@
         "work"
       ],
       "comment": "元の話は「9000本以上外して、300試合近く負けて、決勝シュートも26回外した」。ジョーダンですらそれ。外した本数を数えて落ち込むより、打った本数を誇っていい。失敗は成功の材料だから。",
-      "active": true,
+      "active": false,
       "source_url": "https://sports.yahoo.com/articles/michael-jordans-inspiring-quote-persistence-102300339.html",
-      "source_note": "1997年ナイキ「Failure」CMのナレーション。Yahoo Sportsの記事で文言と出典を確認。",
+      "source_note": "1997年ナイキ「Failure」CMのナレーション。Yahoo Sportsの記事で文言と出典を確認。 ／ 【v93で停止】重複: q0122 と同一発言(Nike CM)。q0122が完全版9点",
       "morning_score": 5,
       "morning_breakdown": "A2B0C2D1E0",
       "resonance": [
@@ -152,8 +152,8 @@
       ],
       "comment": "上手いやつが1人いるチームは、たまに勝つ。でも県大会を勝ち抜くのは、声を出して、スクリーンかけて、ボックスアウトするチーム。地味な役割を本気でやる人が、実は優勝を運んでくるんだよ。",
       "active": true,
-      "source_url": "https://pdfcoffee.com/i-cant-accept-not-trying-michael-jordan-pdf-free.html",
-      "source_note": "同著書『I Can't Accept Not Trying』(1994、p.129相当)本文で同一文言を確認。",
+      "source_url": "https://en.wikiquote.org/wiki/Michael_Jordan",
+      "source_note": "同著書『I Can't Accept Not Trying』(1994、p.129相当)本文で同一文言を確認。 ／ 【v93】Wikiquote 収録。出典は停止したq0121から引き継ぎ（旧pdfcoffeeより信頼できるため差し替え）",
       "morning_score": 6,
       "morning_breakdown": "A2B1C1D1E1",
       "resonance": [
@@ -223,8 +223,8 @@
       "active": true,
       "source_url": "https://www.espn.com/nba/story/_/page/maginterviewcurry/",
       "source_note": "ESPN The Magazineのインタビュー記事本文で一致確認。発言場面(高校時代からの心境)も記載あり。",
-      "morning_score": 7,
-      "morning_breakdown": "A1B1C2D2E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
       "resonance": [
         "nervous"
       ]
@@ -353,9 +353,9 @@
         "club"
       ],
       "comment": "自分の得点だけ見てると、チームは強くならない。パスの出し方、声のかけ方、味方が気持ちよく打てる状況を作る。11回優勝した人の基準がこれ。今日の練習、誰かを1回うまくさせてみよう。",
-      "active": true,
+      "active": false,
       "source_url": "https://libquotes.com/bill-russell/quote/lbi8v5x",
-      "source_note": "自著『Second Wind』(1980)からの引用と明記されたページで確認。発言場面は本自伝内。",
+      "source_note": "自著『Second Wind』(1980)からの引用と明記されたページで確認。発言場面は本自伝内。 ／ 【v93で停止】重複: q0165 と同一発言。q0165が短く口語(出典は本行のlibquotesをq0165へ移した)",
       "morning_score": 5,
       "morning_breakdown": "A0B1C2D1E1",
       "resonance": [
@@ -377,8 +377,8 @@
       "active": true,
       "source_url": "https://www.facebook.com/DamianLillard/posts/if-you-want-to-look-good-in-front-of-thousands-you-have-to-outwork-thousands-in-/986612224752604/",
       "source_note": "本人の公式Facebookページの投稿(2016-03-13)。本文を目視確認し収録の原文と完全一致。",
-      "morning_score": 7,
-      "morning_breakdown": "A1B2C1D1E2",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D1E2",
       "resonance": [
         "hungry",
         "nobench"
@@ -398,11 +398,11 @@
         "work"
       ],
       "comment": "ウェストブルックの人生のモットー。「自分には無理」って思った時に、逆に「なんで無理なの?」って聞き返す。理由が出てこないなら、それはやれるってこと。スタメンも志望校も、まずこれで問い直そう。",
-      "active": true,
+      "active": false,
       "source_url": "https://www.nbcwashington.com/news/sports/nbcsports/the-meaning-behind-russell-westbrooks-why-not-slogan/2540348/",
-      "source_note": "NBC Sports Washington(2021-01-11)で本人の発言として確認。ただし『Why not?』の二語だけを独立した一文として言った記録ではなく、『I can do anything I put my mind to, sounds simple but why not?』のように文の一部として繰り返し発せられたもの。本人の代名詞的モットーである点は複数媒体で一致。",
-      "morning_score": 7,
-      "morning_breakdown": "A2B1C2D2E0",
+      "source_note": "NBC Sports Washington(2021-01-11)で本人の発言として確認。ただし『Why not?』の二語だけを独立した一文として言った記録ではなく、『I can do anything I put my mind to, sounds simple but why not?』のように文の一部として繰り返し発せられたもの。本人の代名詞的モットーである点は複数媒体で一致。 ／ 【v93で停止】重複: q0480 と同一モットー。単体では『何がダメ』か一行で立たない",
+      "morning_score": 6,
+      "morning_breakdown": "A1B1C2D2E0",
       "resonance": [
         "nocon",
         "hungry"
@@ -444,9 +444,9 @@
         "work"
       ],
       "comment": "「一応部活はやってる」「一応勉強もしてる」が一番しんどい。全力でもないし、休んでもない。やるなら本気で、休むならちゃんと休む。どっちかに決めるだけで、毎日のモヤモヤがだいぶ消えるよ。",
-      "active": true,
+      "active": false,
       "source_url": "https://archive.org/details/winnerwithinlif00rile",
-      "source_note": "パット・ライリー『The Winner Within: A Life Plan for Team Players』(1993) 本文。Open Library の全文検索(search inside)で3版すべてに逐語で存在することを確認済み（2026-09-08 第6回・親が独立検証）。原文にある Core Covenant は同書固有の用語（チームの約束事）で、日本語の名言はその核心部分だけを訳している。※ページ番号は貸出制限のため本文表示ができず未確認。",
+      "source_note": "パット・ライリー『The Winner Within: A Life Plan for Team Players』(1993) 本文。Open Library の全文検索(search inside)で3版すべてに逐語で存在することを確認済み（2026-09-08 第6回・親が独立検証）。原文にある Core Covenant は同書固有の用語（チームの約束事）で、日本語の名言はその核心部分だけを訳している。※ページ番号は貸出制限のため本文表示ができず未確認。 ／ 【v93で停止】重複: q0552 と同一発言。q0552が短く切れ味がある(出典の書籍はq0552へ移した)",
       "morning_score": 3,
       "morning_breakdown": "A1B1C0D1E0",
       "resonance": [
@@ -603,9 +603,9 @@
         "work"
       ],
       "comment": "規律って言うと怒られるイメージだけど、本当は「やるべき時にちゃんとやる」だけ。宿題は出た日に、アップは試合の1時間前に。タイミングを守るだけで、同じ努力の効きが全然違ってくるよ。",
-      "active": true,
+      "active": false,
       "source_url": "https://coachk.com/quotes/",
-      "source_note": "本人著書『Leading with the Heart』の規律論として引用。公式サイトで確認",
+      "source_note": "本人著書『Leading with the Heart』の規律論として引用。公式サイトで確認 ／ 【v93で停止】重複: q0613 と同一発言。同じ公式出典で q0613 の方が短く4点",
       "morning_score": 3,
       "morning_breakdown": "A0B1C1D1E0",
       "resonance": [
@@ -937,9 +937,9 @@
         "study"
       ],
       "comment": "監督に注意された時の反応で、その人の伸びしろが見える。ムッとするか、聞くか、もっと言ってくれと頼むか。先生の赤ペンも同じ。本当のことを言ってもらえるうちが花。耳が痛い言葉ほど、自分を伸ばす燃料だよ。",
-      "active": true,
+      "active": false,
       "source_url": "https://quotes.lifehack.org/quotes/doc_rivers_82016",
-      "source_note": "発言場面は特定できず／名言サイトのみで一次ソース未確認だが表記は一致",
+      "source_note": "発言場面は特定できず／名言サイトのみで一次ソース未確認だが表記は一致 ／ 【v93で停止】重複: q0575 と同一発言。3段構えで長く2点",
       "morning_score": 2,
       "morning_breakdown": "A0B1C0D1E0",
       "resonance": [
@@ -1228,9 +1228,9 @@
         "work"
       ],
       "comment": "優勝した直後のシーズン開幕前に言った言葉。頂点を取っても「まだ良くなる」と本気で言える。県大会で優勝した、定期テストで学年1位になった。その日が一番危ない。満足した瞬間から下がるから、翌日の練習で次を探そう。",
-      "active": true,
+      "active": false,
       "source_url": "https://www.nbcsportsboston.com/nba/boston-celtics/jayson-tatum-celtics-media-day-stats/651062/",
-      "source_note": "2024年9月24日、セルティックス・メディアデーでの発言",
+      "source_note": "2024年9月24日、セルティックス・メディアデーでの発言 ／ 【v93で停止】重複: q0320 と同一インタビューの連続発言。q0320が9点で上位互換",
       "morning_score": 8,
       "morning_breakdown": "A2B1C2D2E1",
       "resonance": [
@@ -1322,8 +1322,8 @@
       "active": true,
       "source_url": "https://bleacherreport.com/articles/25334051-anthony-edwards-details-lessons-learned-stephen-curry-team-usa-2024-olympics",
       "source_note": "2024年パリ五輪でのチームメイト、カリーから学んだことを語った発言",
-      "morning_score": 8,
-      "morning_breakdown": "A1B2C2D2E1",
+      "morning_score": 7,
+      "morning_breakdown": "A0B2C2D2E1",
       "resonance": [
         "lazy",
         "hungry"
@@ -1661,8 +1661,8 @@
       "active": true,
       "source_url": "https://www.goodreads.com/work/quotes/6572928-run-to-daylight",
       "source_note": "ロンバルディ著書『Run to Daylight!』からの引用として掲載を確認",
-      "morning_score": 7,
-      "morning_breakdown": "A2B1C1D1E2",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C1D2E2",
       "resonance": [
         "broken",
         "injured"
@@ -1911,8 +1911,8 @@
       "active": true,
       "source_url": "https://vitup.jp/%E3%80%8C%E5%B0%8F%E3%81%95%E3%81%AA%E3%81%93%E3%81%A8%E3%82%92%E7%A9%8D%E3%81%BF%E9%87%8D%E3%81%AD%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E3%80%81%E3%81%A9%E3%82%93%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84/",
       "source_note": "2004年10月、MLBシーズン最多安打記録更新後の会見での発言とされる",
-      "morning_score": 7,
-      "morning_breakdown": "A2B1C1D2E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D2E1",
       "resonance": [
         "plateau",
         "lazy"
@@ -2180,9 +2180,9 @@
         "study"
       ],
       "comment": "千日って約3年。ちょうど部活の3年間で技を体に入れて、そこから先はずっと磨き続けるってこと。武蔵みたいな達人でも稽古は千日で終わりじゃなく万日。毎日の反復が効く理由はここにある。",
-      "active": true,
+      "active": false,
       "source_url": "https://www.koten.net/gorin/gen/238/",
-      "source_note": "宮本武蔵『五輪書』水の巻・後書。原文『千日の稽古を鍛とし、万日の稽古を錬とす』を原文掲載サイトで確認。名言欄は現代語への意訳。",
+      "source_note": "宮本武蔵『五輪書』水の巻・後書。原文『千日の稽古を鍛とし、万日の稽古を錬とす』を原文掲載サイトで確認。名言欄は現代語への意訳。 ／ 【v93で停止】重複: q0821 と同じ『五輪書』の一文。q0821が7点で千日=3年/万日=30年まで訳出",
       "morning_score": 5,
       "morning_breakdown": "A1B0C1D1E2",
       "resonance": [
@@ -2682,9 +2682,9 @@
         "work"
       ],
       "comment": "ゴッホが弟に書いた手紙の一節。やる気が出た日に一気にやって、次の日に燃え尽きるパターンあるよね。勢いは大事だけど、それだけじゃ届かない。毎日の小さい積み重ねを束ねた時に、でかいことが起きる。画家も同じだったんだ。",
-      "active": true,
+      "active": false,
       "source_url": "https://vangoghletters.org/vg/letters/let274/letter.html",
-      "source_note": "1882年10月22日、弟テオ宛の手紙(ゴッホ美術館公式レターズ・プロジェクト)",
+      "source_note": "1882年10月22日、弟テオ宛の手紙(ゴッホ美術館公式レターズ・プロジェクト) ／ 【v93で停止】重複: q0813 と同一の言葉の別訳。q0813が9点で口語",
       "morning_score": 5,
       "morning_breakdown": "A1B1C1D1E1",
       "resonance": [
@@ -2706,9 +2706,9 @@
         "work"
       ],
       "comment": "「運が良かった」って言われる人は、だいたい準備してた人。ルーズボールが自分の前に来た時に反応できるのは、そこを見てた人だけ。テストで山が当たるのも、広く勉強してた人。運が来た時に掴める体にしとくのが準備。",
-      "active": true,
+      "active": false,
       "source_url": "https://fr.wikipedia.org/wiki/Louis_Pasteur",
-      "source_note": "1854年リール大学理学部長就任時の演説での発言とされる",
+      "source_note": "1854年リール大学理学部長就任時の演説での発言とされる ／ 【v93で停止】重複: q0827 と同一の言葉の別訳。q0827が9点",
       "morning_score": 5,
       "morning_breakdown": "A1B1C1D1E1",
       "resonance": [
@@ -2728,9 +2728,9 @@
         "work"
       ],
       "comment": "一人のエースだけじゃ優勝できないって話。エースがいるチームより、声出しやパス回しが上手いチームの方が最後は勝つ。自分の役割を考えよう。",
-      "active": true,
+      "active": false,
       "source_url": "https://en.wikiquote.org/wiki/Michael_Jordan",
-      "source_note": "著書『I Can't Accept Not Trying』(1994年)より",
+      "source_note": "著書『I Can't Accept Not Trying』(1994年)より ／ 【v93で停止】重複: q0007 と同一発言。q0007の訳が口語で6点(出典Wikiquoteはq0007へ移した)",
       "morning_score": 5,
       "morning_breakdown": "A2B0C1D1E1",
       "resonance": [
@@ -2796,9 +2796,9 @@
         "pregame"
       ],
       "comment": "殿堂入りのスピーチで語った言葉。模試の判定も体力の限界も、思ってるより固定されたものじゃない。「無理」って言う前に、まず一歩踏み出してみよう。",
-      "active": true,
+      "active": false,
       "source_url": "https://en.wikiquote.org/wiki/Michael_Jordan",
-      "source_note": "NBA殿堂入りスピーチ(2009年)より",
+      "source_note": "NBA殿堂入りスピーチ(2009年)より ／ 【v93で停止】重複: q0008 と同一発言。q0008の方が一行の切れ味が良く6点",
       "morning_score": 5,
       "morning_breakdown": "A1B1C1D2E0",
       "resonance": [
@@ -2973,8 +2973,8 @@
       "active": true,
       "source_url": "https://www.goodreads.com/work/quotes/62484356-the-mamba-mentality-how-i-play",
       "source_note": "著書『The Mamba Mentality: How I Play』(2018年)より",
-      "morning_score": 5,
-      "morning_breakdown": "A2B1C0D1E1",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C1D2E1",
       "resonance": [
         "nobench",
         "hungry"
@@ -3017,8 +3017,8 @@
       "active": true,
       "source_url": "https://www.goodreads.com/work/quotes/62484356-the-mamba-mentality-how-i-play",
       "source_note": "著書『The Mamba Mentality: How I Play』(2018年)より",
-      "morning_score": 7,
-      "morning_breakdown": "A2B2C1D1E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D2E1",
       "resonance": [
         "nervous",
         "hungry"
@@ -3585,8 +3585,8 @@
       ],
       "comment": "才能があるだけじゃ足りないという話。持って生まれたものに気づいて、それをちゃんと磨く努力をして、初めて目標に届く。今ある力を磨こう。",
       "active": true,
-      "source_url": "https://www.azquotes.com/author/1414-Larry_Bird",
-      "source_note": "発言場面は特定できず／複数媒体で引用",
+      "source_url": "https://libquotes.com/larry-bird/quote/lbr1o2t",
+      "source_note": "発言場面は特定できず／複数媒体で引用 ／ 【v93】Larry Bird『Bird on Basketball: How-to Strategies from the Great Celtics Champion』(Addison Wesley, 1986, ISBN 9780201106671) が原典。2026-09-13に確認し azquotes から差し替え",
       "morning_score": 2,
       "morning_breakdown": "A0B0C1D1E0",
       "resonance": [
@@ -3630,8 +3630,8 @@
       "active": true,
       "source_url": "https://www.azquotes.com/author/1414-Larry_Bird",
       "source_note": "発言場面は特定できず／複数媒体で引用",
-      "morning_score": 7,
-      "morning_breakdown": "A2B1C0D2E2",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C1D2E2",
       "resonance": [
         "hungry"
       ]
@@ -3651,8 +3651,8 @@
       "active": true,
       "source_url": "https://www.azquotes.com/author/1414-Larry_Bird",
       "source_note": "発言場面は特定できず／複数媒体で引用",
-      "morning_score": 7,
-      "morning_breakdown": "A1B2C2D1E1",
+      "morning_score": 8,
+      "morning_breakdown": "A1B2C2D2E1",
       "resonance": [
         "plateau",
         "nocon"
@@ -3691,8 +3691,8 @@
       ],
       "comment": "自分の得点より仲間への影響を評価基準にした言葉。アシストや声かけみたいに記録に残りにくい貢献こそ、実はチームを一番強くしてる。",
       "active": true,
-      "source_url": "https://www.azquotes.com/author/12792-Bill_Russell",
-      "source_note": "回顧録『Second Wind』(1980年)より",
+      "source_url": "https://libquotes.com/bill-russell/quote/lbi8v5x",
+      "source_note": "回顧録『Second Wind』(1980年)より ／ 【v93】libquotes 収録。訳はq0165、出典は停止したq0016から引き継ぎ",
       "morning_score": 6,
       "morning_breakdown": "A1B1C2D1E1",
       "resonance": [
@@ -4010,8 +4010,8 @@
       "active": true,
       "source_url": "https://graciousquotes.com/kareem-abdul-jabbar/",
       "source_note": "複数媒体で長年引用(発言場面は特定できず)",
-      "morning_score": 7,
-      "morning_breakdown": "A2B2C1D1E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D2E1",
       "resonance": [
         "plateau",
         "lazy"
@@ -4115,8 +4115,8 @@
       "active": true,
       "source_url": "https://en.wikiquote.org/wiki/Kareem_Abdul-Jabbar",
       "source_note": "自伝『Giant Steps』(1983年)より",
-      "morning_score": 8,
-      "morning_breakdown": "A2B1C2D1E2",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D0E2",
       "resonance": [
         "broken",
         "nocon"
@@ -4464,8 +4464,8 @@
       "active": true,
       "source_url": "https://graciousquotes.com/tim-duncan/",
       "source_note": "発言場面は特定できず／複数媒体で引用を確認",
-      "morning_score": 7,
-      "morning_breakdown": "A2B2C1D1E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D2E1",
       "resonance": [
         "nobench",
         "plateau"
@@ -4573,8 +4573,8 @@
       "active": true,
       "source_url": "https://www.brainyquote.com/authors/hakeem-olajuwon-quotes",
       "source_note": "発言場面は特定できず／複数媒体で引用を確認",
-      "morning_score": 8,
-      "morning_breakdown": "A1B2C2D1E2",
+      "morning_score": 7,
+      "morning_breakdown": "A1B2C2D0E2",
       "resonance": [
         "nocon",
         "plateau"
@@ -4977,8 +4977,8 @@
       "active": true,
       "source_url": "https://www.basketballmindsettraining.com/blog/wilt-chamberlain-quotes",
       "source_note": "自身の体調管理について語った発言",
-      "morning_score": 5,
-      "morning_breakdown": "A1B1C1D1E1",
+      "morning_score": 8,
+      "morning_breakdown": "A1B1C2D2E2",
       "resonance": [
         "plateau"
       ]
@@ -5321,8 +5321,8 @@
       "active": true,
       "source_url": "http://www.basketball-plays-and-tips.com/patrick-ewing-quotes.html",
       "source_note": "バスケを始めた頃について語った発言",
-      "morning_score": 8,
-      "morning_breakdown": "A1B1C2D2E2",
+      "morning_score": 6,
+      "morning_breakdown": "A1B1C2D0E2",
       "resonance": [
         "nocon",
         "broken"
@@ -5908,8 +5908,8 @@
       "active": true,
       "source_url": "https://speakola.com/sports/kevin-durant-mvp-acceptance-2014",
       "source_note": "2014年NBA MVP受賞スピーチ",
-      "morning_score": 4,
-      "morning_breakdown": "A1B1C1D1E0",
+      "morning_score": 3,
+      "morning_breakdown": "A0B1C1D1E0",
       "resonance": [
         "plateau"
       ]
@@ -5928,8 +5928,8 @@
       "active": true,
       "source_url": "https://www.cbssports.com/nba/news/the-most-interesting-quotes-from-kevin-durants-first-warriors-press-conference",
       "source_note": "2016年7月7日、ウォリアーズ入団会見",
-      "morning_score": 4,
-      "morning_breakdown": "A1B0C2D0E1",
+      "morning_score": 3,
+      "morning_breakdown": "A0B0C2D0E1",
       "resonance": [
         "broken"
       ]
@@ -6687,8 +6687,8 @@
       "active": true,
       "source_url": "https://www.si.com/nba/luka-doncic-names-one-thing-about-lebron-james-that-blew-him-away",
       "source_note": "2025年6月、ポッドキャスト「Mind the Game」での発言",
-      "morning_score": 8,
-      "morning_breakdown": "A2B2C1D1E2",
+      "morning_score": 5,
+      "morning_breakdown": "A0B1C1D1E2",
       "resonance": [
         "hungry"
       ]
@@ -6708,8 +6708,8 @@
       "active": true,
       "source_url": "https://www.si.com/nba/luka-doncic-names-one-thing-about-lebron-james-that-blew-him-away",
       "source_note": "2025年6月、ポッドキャスト「Mind the Game」での発言",
-      "morning_score": 7,
-      "morning_breakdown": "A2B1C1D1E2",
+      "morning_score": 5,
+      "morning_breakdown": "A0B1C1D1E2",
       "resonance": [
         "hungry"
       ]
@@ -6773,8 +6773,8 @@
       "active": true,
       "source_url": "https://thesmokingcuban.com/quotes-from-luka-doncic-lakers-press-conference-that-broke-dallas-mavs-fans-hearts",
       "source_note": "2025年2月4日、レイカーズ入団会見",
-      "morning_score": 4,
-      "morning_breakdown": "A1B0C2D0E1",
+      "morning_score": 3,
+      "morning_breakdown": "A0B0C2D0E1",
       "resonance": [
         "broken"
       ]
@@ -6794,8 +6794,8 @@
       "active": true,
       "source_url": "https://thesmokingcuban.com/quotes-from-luka-doncic-lakers-press-conference-that-broke-dallas-mavs-fans-hearts",
       "source_note": "2025年2月4日、レイカーズ入団会見",
-      "morning_score": 3,
-      "morning_breakdown": "A1B0C2D0E0",
+      "morning_score": 2,
+      "morning_breakdown": "A0B0C2D0E0",
       "resonance": [
         "broken"
       ]
@@ -7010,8 +7010,8 @@
       "active": true,
       "source_url": "https://www.espn.com/nba/story/_/id/34008436/boston-celtics-jayson-tatum-wins-inaugural-larry-bird-eastern-conference-finals-mvp-award",
       "source_note": "2022年5月、東カンファレンスファイナルMVP受賞後のインタビュー",
-      "morning_score": 5,
-      "morning_breakdown": "A1B0C2D1E1",
+      "morning_score": 4,
+      "morning_breakdown": "A0B0C2D1E1",
       "resonance": [
         "hungry"
       ]
@@ -7727,8 +7727,8 @@
       "active": true,
       "source_url": "https://www.si.com/nba/2018/09/24/kawhi-leonard-raptors-press-conference-fun-guy-video",
       "source_note": "2018年9月、ラプターズ移籍後のメディアデーでの発言",
-      "morning_score": 8,
-      "morning_breakdown": "A2B1C2D2E1",
+      "morning_score": 7,
+      "morning_breakdown": "A2B0C2D2E1",
       "resonance": [
         "burnt",
         "lazy"
@@ -7835,8 +7835,8 @@
       "active": true,
       "source_url": "https://www.espn.com/nba/story/_/id/38514383",
       "source_note": "2020年ドラフト前、ウォリアーズでのワークアウトについての回想",
-      "morning_score": 5,
-      "morning_breakdown": "A1B0C2D0E2",
+      "morning_score": 8,
+      "morning_breakdown": "A1B1C2D2E2",
       "resonance": [
         "burnt"
       ]
@@ -8029,8 +8029,8 @@
       "active": true,
       "source_url": "https://www.nba.com/news/shai-gilgeous-alexander-turns-sights-to-championship-after-kia-nba-mvp",
       "source_note": "2024-25シーズンMVP受賞時のコメント",
-      "morning_score": 3,
-      "morning_breakdown": "A1B0C1D1E0",
+      "morning_score": 2,
+      "morning_breakdown": "A0B0C1D1E0",
       "resonance": [
         "compare"
       ]
@@ -8330,8 +8330,8 @@
       "active": true,
       "source_url": "https://www.espn.com/nba/story/_/id/18997459/devin-booker-phoenix-suns-scores-70-points-loss-boston-celtics",
       "source_note": "2017年3月24日、対セルティックス戦後",
-      "morning_score": 4,
-      "morning_breakdown": "A1B0C1D1E1",
+      "morning_score": 3,
+      "morning_breakdown": "A0B0C1D1E1",
       "resonance": [
         "nervous"
       ]
@@ -8413,8 +8413,8 @@
       "active": true,
       "source_url": "https://nba.com/article/2016/11/21/morning-tip-qa-devin-booker-phoenix-suns",
       "source_note": "2016年、NBA.com「Morning Tip」インタビュー",
-      "morning_score": 7,
-      "morning_breakdown": "A2B2C1D1E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D2E1",
       "resonance": [
         "plateau",
         "lazy"
@@ -8478,8 +8478,8 @@
       "active": true,
       "source_url": "https://www.cbsnews.com/philadelphia/news/18-years-ago-sixers-allen-iverson-unleashed-legendary-practice-rant/",
       "source_note": "2002年5月7日、プレーオフ敗退後の記者会見",
-      "morning_score": 8,
-      "morning_breakdown": "A2B2C1D1E2",
+      "morning_score": 6,
+      "morning_breakdown": "A0B2C1D1E2",
       "resonance": [
         "lazy"
       ]
@@ -8773,8 +8773,8 @@
       "active": true,
       "source_url": "https://www.basketballmindsettraining.com/blog/dwyane-wade-quotes",
       "source_note": "発言場面は特定できず／複数媒体で引用を確認",
-      "morning_score": 7,
-      "morning_breakdown": "A2B0C2D2E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B0C2D2E2",
       "resonance": [
         "lazy",
         "broken"
@@ -8982,9 +8982,9 @@
         "work"
       ],
       "comment": "才能と技術を分けて語った言葉。持って生まれたものだけじゃ足りなくて、それを磨く作業をやり切った人間だけが勝者になれるという考え方だ。才能を磨く作業をサボらない人だけが、最後に勝者になる。",
-      "active": true,
+      "active": false,
       "source_url": "https://www.basketballmindsettraining.com/blog/kevin-garnett-quotes",
-      "source_note": "発言場面は特定できず／複数媒体で引用を確認",
+      "source_note": "発言場面は特定できず／複数媒体で引用を確認 ／ 【v93で停止】⚠️誤帰属: 原典は Larry Bird『Bird on Basketball』(Addison Wesley, 1986)。ガーネットの発言ではない(q0160が正)",
       "morning_score": 2,
       "morning_breakdown": "A0B0C1D1E0",
       "resonance": [
@@ -9725,8 +9725,8 @@
       "active": true,
       "source_url": "https://www.azquotes.com/author/9822-Tracy_McGrady",
       "source_note": "発言場面は特定できず／複数媒体で引用を確認",
-      "morning_score": 8,
-      "morning_breakdown": "A2B1C2D2E1",
+      "morning_score": 5,
+      "morning_breakdown": "A2B0C2D0E1",
       "resonance": [
         "lazy",
         "nocon"
@@ -11348,8 +11348,8 @@
       "active": true,
       "source_url": "https://www.si.com/nba/tyrese-haliburton-fires-back-talking-heads-blunt-quote-game-3",
       "source_note": "2025年NBAファイナル第3戦後、メディア批判へのコメント",
-      "morning_score": 6,
-      "morning_breakdown": "A2B1C1D2E0",
+      "morning_score": 4,
+      "morning_breakdown": "A0B1C1D2E0",
       "resonance": [
         "compare",
         "broken"
@@ -11479,8 +11479,8 @@
       "active": true,
       "source_url": "https://www.quotes.net/authors/Victor+Wembanyama",
       "source_note": "発言場面は特定できず／複数媒体で引用を確認",
-      "morning_score": 7,
-      "morning_breakdown": "A2B1C2D1E1",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
       "resonance": [
         "injured",
         "broken"
@@ -11989,8 +11989,8 @@
       ],
       "comment": "本気でやるかやらないか、その二択しかないって話。部活も中途半端に関わってる人が一番きつい思いをする。やると決めたら振り切った方が案外楽になる。",
       "active": true,
-      "source_url": "https://www.sportsfeelgoodstories.com/pat-riley-quotes/",
-      "source_note": "複数媒体で引用（発言場面は特定できず）",
+      "source_url": "https://archive.org/details/winnerwithinlif00rile",
+      "source_note": "複数媒体で引用（発言場面は特定できず） ／ 【v93】Pat Riley『The Winner Within』本文。出典は停止したq0020から引き継ぎ",
       "morning_score": 4,
       "morning_breakdown": "A2B1C0D1E0",
       "resonance": [
@@ -12996,9 +12996,9 @@
       "comment": "SMUの記者会見で言った言葉。本番より練習に価値を置く考え方で、居残り練習や自主練の時間を楽しめる人ほど、結局長く伸び続けられるんだと思う。",
       "active": true,
       "source_url": "https://www.foxnews.com/sports/larry-brown-cant-wait-to-practice-at-smu",
-      "source_note": "SMUでの記者会見（Fox News掲載）",
-      "morning_score": 8,
-      "morning_breakdown": "A1B2C2D2E1",
+      "source_note": "SMUでの記者会見（Fox News掲載）。【第90回・2026-09-12】記事本文をHTMLごと取得して直接確認: 2012-04-23付 Fox News（配信 Sports Network）「Larry Brown can't wait to 'practice' at SMU」の本文に \"I don't love games, but I love practice. I'm talking about practice...I love practice.\" が Brown said Monday として存在（本文カウント: \"I don't love games\"1件 / \"talking about practice\"1件）。アイバーソンへの言及は記事の地の文のみ（2002年のラントの解説）＝**別人発言の混入ではなく、ブラウン本人が教え子アイバーソンのラントを意図的に引用したもの**。混入疑いは解消。ただし元ネタを知らない中高生には反復が空回りするため、A軸(即読性)を1→0に修正し8→7点へ（朝の通知からは外れ、アプリ内には残る）。q0599 とほぼ同趣旨の重複でもある。",
+      "morning_score": 7,
+      "morning_breakdown": "A0B2C2D2E1",
       "resonance": [
         "lazy",
         "burnt"
@@ -14444,8 +14444,8 @@
       "active": true,
       "source_url": "https://www.brainyquote.com/authors/clyde-drexler-quotes",
       "source_note": "発言場面は特定できず／複数媒体で引用を確認",
-      "morning_score": 7,
-      "morning_breakdown": "A2B0C2D1E2",
+      "morning_score": 8,
+      "morning_breakdown": "A2B0C2D2E2",
       "resonance": [
         "burnt"
       ]
@@ -14871,8 +14871,8 @@
       "active": true,
       "source_url": "https://time.com/7339270/athlete-of-the-year-2025-aja-wilson/",
       "source_note": "2025年TIME「今年のアスリート」インタビュー、GOAT論について",
-      "morning_score": 6,
-      "morning_breakdown": "A1B1C2D2E0",
+      "morning_score": 5,
+      "morning_breakdown": "A0B1C2D2E0",
       "resonance": [
         "hungry"
       ]
@@ -15041,8 +15041,8 @@
       "active": true,
       "source_url": "https://www.espn.com/espn/feature/story/_/id/28878754/the-legend-sabrina-ionescu",
       "source_note": "ESPN特集記事、コービー・ブライアントの死去を受けての発言",
-      "morning_score": 4,
-      "morning_breakdown": "A1B0C2D1E0",
+      "morning_score": 3,
+      "morning_breakdown": "A0B0C2D1E0",
       "resonance": [
         "broken"
       ]
@@ -15061,8 +15061,8 @@
       "active": true,
       "source_url": "https://www.espn.com/espn/feature/story/_/id/28878754/the-legend-sabrina-ionescu",
       "source_note": "ESPN特集記事、大学1年時のNCAAトーナメント大敗について",
-      "morning_score": 7,
-      "morning_breakdown": "A2B1C1D1E2",
+      "morning_score": 5,
+      "morning_breakdown": "A0B1C1D1E2",
       "resonance": [
         "hungry"
       ]
@@ -15423,8 +15423,8 @@
       "active": true,
       "source_url": "https://www.alexauerbach.com/newsletter/diana-taurasi",
       "source_note": "同インタビューまとめ",
-      "morning_score": 8,
-      "morning_breakdown": "A2B1C2D1E2",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D0E2",
       "resonance": [
         "nocon",
         "nervous"
@@ -15507,8 +15507,8 @@
       "active": true,
       "source_url": "https://www.alexauerbach.com/newsletter/diana-taurasi",
       "source_note": "同インタビューまとめ",
-      "morning_score": 5,
-      "morning_breakdown": "A1B2C1D1E0",
+      "morning_score": 7,
+      "morning_breakdown": "A1B2C1D2E1",
       "resonance": [
         "lazy",
         "hungry"
@@ -15548,8 +15548,8 @@
       "active": true,
       "source_url": "https://www.alexauerbach.com/newsletter/diana-taurasi",
       "source_note": "同インタビューまとめ、マイケル・ジョーダンとの比較について",
-      "morning_score": 3,
-      "morning_breakdown": "A1B0C1D1E0",
+      "morning_score": 2,
+      "morning_breakdown": "A0B0C1D1E0",
       "resonance": [
         "hungry"
       ]
@@ -16359,8 +16359,8 @@
       "active": true,
       "source_url": "https://www.theplayerstribune.com/jp/posts/basketball-nba-yuta-watanabe-raptors-kotobanochikara",
       "source_note": "The Players' Tribune JP寄稿記事「言葉のチカラ〜世界で戦い抜くために〜」",
-      "morning_score": 5,
-      "morning_breakdown": "A1B0C2D2E0",
+      "morning_score": 4,
+      "morning_breakdown": "A0B0C2D2E0",
       "resonance": [
         "burnt"
       ]
@@ -16402,8 +16402,8 @@
       "active": true,
       "source_url": "https://www.theplayerstribune.com/jp/posts/basketball-nba-yuta-watanabe-raptors-kotobanochikara",
       "source_note": "The Players' Tribune JP寄稿記事「言葉のチカラ〜世界で戦い抜くために〜」",
-      "morning_score": 8,
-      "morning_breakdown": "A2B1C2D2E1",
+      "morning_score": 7,
+      "morning_breakdown": "A2B0C2D2E1",
       "resonance": [
         "nobench",
         "plateau"
@@ -16923,8 +16923,8 @@
       "active": true,
       "source_url": "https://number.bunshun.jp/articles/-/864110?page=1",
       "source_note": "2021年11月27日、中国戦ハーフタイムでの出来事",
-      "morning_score": 8,
-      "morning_breakdown": "A2B1C2D2E1",
+      "morning_score": 6,
+      "morning_breakdown": "A0B1C2D2E1",
       "resonance": [
         "nocon",
         "nobench"
@@ -17269,8 +17269,8 @@
       "active": true,
       "source_url": "https://number.bunshun.jp/articles/-/864639",
       "source_note": "高校時代の恩師の教えについてのインタビュー",
-      "morning_score": 5,
-      "morning_breakdown": "A1B1C2D1E0",
+      "morning_score": 4,
+      "morning_breakdown": "A0B1C2D1E0",
       "resonance": [
         "nervous"
       ]
@@ -17502,11 +17502,1346 @@
       "active": true,
       "source_url": "https://es.wikipedia.org/wiki/Manu_Gin%C3%B3bili",
       "source_note": "2022年4月2日、バスケットボール殿堂入り決定時のコメント",
-      "morning_score": 8,
-      "morning_breakdown": "A2B1C2D2E1",
+      "morning_score": 6,
+      "morning_breakdown": "A0B1C2D2E1",
       "resonance": [
         "nocon",
         "plateau"
+      ]
+    },
+    {
+      "id": "q0811",
+      "text_ja": "遠くまで見えたのは、先人という巨人の肩に乗っていたからだ。",
+      "text_orig": "If I have seen further, it is by standing on the shoulders of Giants.",
+      "person": "アイザック・ニュートン",
+      "person_note": "物理学者・数学者（万有引力の法則）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "対立していたロバート・フックへ送った手紙の一節。自分の発見も、先に積み上げてくれた人たちがいたからこそ。今の自分の技術も、コーチや先輩が試行錯誤してくれた土台の上にある。",
+      "active": true,
+      "source_url": "https://digitallibrary.hsp.org/index.php/detail/objects/9792 （1675年2月5日付、フック宛書簡の原本スキャン。歴史協会アーカイブ）／解説: https://www.themarginalian.org/2016/02/16/newton-standing-on-the-shoulders-of-giants/",
+      "source_note": "1675年、ロバート・フックとの光学をめぐる対立を和らげる文脈で書かれた実在の手紙。原本がHistorical Society of Pennsylvaniaにデジタル保存されており、文言の実在が確認できる。誤帰属の指摘なし（比喩の起源は12世紀のベルナルドゥスに遡るが、ニュートン自身がこの手紙で使ったこと自体は確定）。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D1E2",
+      "resonance": [
+        "plateau",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0812",
+      "text_ja": "僕はいつも、まだできないことをやってる。それができるようになるために。",
+      "text_orig": "I am always doing what I cannot do yet, in order to learn how to do it.",
+      "person": "フィンセント・ファン・ゴッホ",
+      "person_note": "画家 / 代表作「ひまわり」",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "画家として苦しんでいた時期に、仲間の画家アントン・ファン・ラッパルトへの手紙で書いた言葉。「できないことをやってる」のは変なんじゃなくて、それこそが学ぶということ。今日できない技を練習するのは当たり前のこと。",
+      "active": true,
+      "source_url": "https://quoteinvestigator.com/2017/03/26/learn/",
+      "source_note": "1885年8月18日、アントン・ファン・ラッパルト宛の手紙（vangoghletters.org収録）。Quote Investigatorが手紙の実在と文言を確認済み。ピカソの言葉として誤って広まっているケースがあるが、原典はファン・ゴッホ。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "nocon",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0813",
+      "text_ja": "大きなことは、勢いだけじゃ起きない。小さなことの積み重ねでできてる。",
+      "text_orig": "For the great doesn't happen through impulse alone, and is a succession of little things that are brought together.（ファン・ゴッホ美術館の公式英訳）",
+      "person": "フィンセント・ファン・ゴッホ",
+      "person_note": "画家 / 代表作「ひまわり」",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "弟テオへの手紙の一節。派手な瞬間じゃなくて、地味な積み重ねの方が実は本体。今日の1本のシュート、1ページの復習が、後で「大きなこと」になる。",
+      "active": true,
+      "source_url": "https://vangoghletters.org/vg/letters/let274/letter.html （1882年10月22日 テオ宛 Letter 274・公式英訳を直接確認）／パラフレーズ検証: https://quoteinvestigator.com/2015/12/14/impulse/",
+      "source_note": "1882年10月22日（ハーグ）、テオ・ファン・ゴッホ宛の手紙（Letter 274）。vangoghletters.org（アムステルダム・ファン・ゴッホ美術館の公式書簡プロジェクト）の公式英訳をそのまま採用した。**※注意: 世に広く流通する「Great things are done by a series of small things brought together.」は、この手紙の中の離れた2文（\"For the great doesn't happen through impulse alone, and is a succession of little things that are brought together.\" と \"And the great isn't something accidental; it must be willed.\"）をつなぎ合わせた後年のパラフレーズであり、原文では隣接していない（Quote Investigator 2015-12-14 が指摘）。本項ではパラフレーズを採らず、公式英訳の1文だけを採用している。**",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "plateau",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0814",
+      "text_ja": "世界は苦しみに満ちている。でも、それを乗り越える力にも満ちている。",
+      "text_orig": "Although the world is full of suffering, it is full also of the overcoming of it.",
+      "person": "ヘレン・ケラー",
+      "person_note": "作家・教育者（視覚と聴覚を失いながら大学を卒業）",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "本人のエッセイ「Optimism」（1903年）の一節。苦しいことがあるのは事実。でも同じくらい、それを乗り越えてきた人たちがいるのも事実。今つらいなら、その乗り越える側に自分もいる。",
+      "active": true,
+      "source_url": "https://en.wikisource.org/wiki/Optimism_(Keller) （Wikisource収録の原文全文）",
+      "source_note": "1903年出版のエッセイ「Optimism」本文中の一節。Internet Archive（archive.org/details/optimismessay00kelliala）にも原本スキャンあり。本人自身の著作であり誤帰属の指摘なし。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D2E0",
+      "resonance": [
+        "broken",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0815",
+      "text_ja": "苦しい思いをしなければ、前には進めない。",
+      "text_orig": "If there is no struggle, there is no progress.",
+      "person": "フレデリック・ダグラス",
+      "person_note": "元奴隷・奴隷制廃止運動家・思想家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "奴隷解放記念日の演説「West India Emancipation」の一節。今のしんどい練習や辛い勉強は、進んでいる証拠でもある。苦しさそのものが敵なんじゃなく、前進の材料になる。",
+      "active": true,
+      "source_url": "https://www.gilderlehrman.org/ap-african-american-studies/unit-2/organizing-for-freedom/west-india-emancipation-1857",
+      "source_note": "1857年8月3日、ニューヨーク州カナンデーグアでの演説。Gilder Lehrman Institute（歴史研究機関）とミシガン大学のアーカイブ双方に演説全文が保存されており、文言が確認できる。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B2C1D1E0",
+      "resonance": [
+        "plateau",
+        "burnt"
+      ]
+    },
+    {
+      "id": "q0816",
+      "text_ja": "起きることは選べない。でも、それに押しつぶされるかは自分で決められる。",
+      "text_orig": "You may not control all the events that happen to you, but you can decide not to be reduced by them.",
+      "person": "マヤ・アンジェロウ",
+      "person_note": "詩人・作家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "自伝的エッセイ集「Letter to My Daughter」（2008年）の一節。ケガも負けも選べない。でも「それで自分が小さくなるかどうか」だけは自分の手の中にある。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Maya_Angelou",
+      "source_note": "本人の著書「Letter to My Daughter」（Random House, 2008年刊）冒頭部の一節。Wikiquoteの「Quotes」節（sourced扱い、Disputed/Misattributedではない）に **Letter to My Daughter (2009), p. xi–xii** の出典付きで掲載されていることを直接確認した。本人自身の著作であり誤帰属の指摘なし（似た短縮版「I can be changed by what happens to me. But I refuse to be reduced by it.」という別バージョンも流通しているため、原文の完全版をそのまま採用した）。※旧版で貼っていた oprah.com のURLは検証できなかったため差し替えた。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "broken",
+        "injured"
+      ]
+    },
+    {
+      "id": "q0817",
+      "text_ja": "覚悟が決まると、怖さは減る。何をすべきか分かれば、怖さは消えていく。",
+      "text_orig": "I have learned over the years that when one's mind is made up, this diminishes fear; knowing what must be done does away with fear.",
+      "person": "ローザ・パークス",
+      "person_note": "公民権運動家（バス・ボイコット運動のきっかけを作った本人）",
+      "tier": "legend",
+      "modes": [
+        "pregame",
+        "work"
+      ],
+      "comment": "自著「Quiet Strength」（1994年）の一節。緊張するのは「まだ迷ってる」から。今日やることが1個に決まれば、その分だけ怖さは減っていく。",
+      "active": true,
+      "source_url": "https://www.seattletimes.com/life/remembering-rosa-parks-words-of-wisdom-from-mother-of-civil-rights/",
+      "source_note": "本人の著書「Quiet Strength: The Faith, the Hope, and the Heart of a Woman Who Changed a Nation」（1994年）に収録。本人の著作であり誤帰属の指摘なし。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C2D2E0",
+      "resonance": [
+        "nervous"
+      ]
+    },
+    {
+      "id": "q0818",
+      "text_ja": "人を伸ばす一番の方法は、責任を任せて「信じてる」と伝えることだ。",
+      "text_orig": "Few things can help an individual more than to place responsibility upon him, and to let him know that you trust him.",
+      "person": "ブッカー・T・ワシントン",
+      "person_note": "教育者（元奴隷、タスキーギ大学創設者）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "自伝「Up from Slavery」（1901年）第11章の一節。信頼されると人は変わる。キャプテンや後輩に何かを任されたなら、それは信じられてる証拠。",
+      "active": true,
+      "source_url": "https://etc.usf.edu/lit2go/92/up-from-slavery/1618/chapter-11-making-their-beds-before-they-could-lie-on-them/",
+      "source_note": "自伝「Up from Slavery」第11章「Making Their Beds Before They Could Lie On Them」に収録。本人自身の著作（パブリックドメイン、Lit2Goで全文閲覧可）であり誤帰属の指摘なし。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C2D1E0",
+      "resonance": [
+        "nocon",
+        "nobench"
+      ]
+    },
+    {
+      "id": "q0819",
+      "text_ja": "私の成功の理由はこれだけ。言い訳を、したこともされたこともない。",
+      "text_orig": "I attribute my success to this:—I never gave or took an excuse.",
+      "person": "フローレンス・ナイチンゲール",
+      "person_note": "近代看護の創始者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "姪へ宛てた1861年の手紙の一節。天才だったからじゃない。言い訳をしない、それだけを積み重ねた。",
+      "active": true,
+      "source_url": "https://quoteinvestigator.com/2016/07/30/excuse/",
+      "source_note": "1861年、姪ヘンリエッタ・ボナム・カーター宛の手紙。エドワード・クック著「The Life of Florence Nightingale」（1913年、伝記作家が本人の書簡原本にアクセス）に収録された形でQuote Investigatorが確認済み。「an excuse」が正しく、ネット上でよくある「any excuse」への改変は誤り。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C2D1E1",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0820",
+      "text_ja": "単独飛行だってそう。始めるのは簡単。難しいのは最後までやり切ることだ。",
+      "text_orig": "In soloing — as in other activities — it is far easier to start something than it is to finish it.",
+      "person": "アメリア・イアハート",
+      "person_note": "飛行士（女性初の大西洋単独横断飛行）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "本人の著書「20 Hrs., 40 Min.」（1928年）の一節。始めるだけならみんなできる。今日最後まで走りきる、最後の1問を解き切る、そこに価値がある。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Amelia_Earhart",
+      "source_note": "自著「20 Hrs., 40 Min.」（1928年）16ページに収録。Wikiquoteの「Quotes」節（sourced扱い、Disputed/Misattributedには入っていない）に出典ページ数付きで掲載。※同じくイアハートの言葉として広く流通する「The most difficult thing is the decision to act, the rest is merely tenacity.」は公式サイトのみが出典で書籍・書簡の裏取りができなかったため不採用リストへ。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0821",
+      "text_ja": "毎日の積み重ねが3年で「力」になり、30年でようやく「極み」になる。",
+      "text_orig": "千日の稽古を鍛とし、万日の稽古を錬とす。（『五輪書』**水の巻・後書**）",
+      "person": "宮本武蔵",
+      "person_note": "剣豪・兵法家（二天一流開祖）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "晩年に書いた兵法書『五輪書』の一節。3年の稽古はまだ通過点で、本当に極めるのは30年。今日の1回の練習は、その途方もない道のりの中の1歩でしかないと思えば、少し気が楽になる。",
+      "active": true,
+      "source_url": "https://www.koten.net/gorin/gen/238/",
+      "source_note": "『五輪書』**水の巻の後書（第38節）**の原文。日本古典文学摘集（koten.net）の該当ページを直接開き、本文中に「千日の稽古を鍛とし万日の稽古を錬とす」の一節があることを確認した。宮本武蔵自身が著した一次資料であり、翻訳・誤帰属の問題が生じない日本語原典。※旧版は「地の巻」としていたが誤り。また旧URL（/gorin/gen/201/）は水の巻(一)序のページで当該一節を含まないため差し替えた。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0822",
+      "text_ja": "私のこの頭脳は、ただの人間以上のもの。それは時間が証明する。",
+      "text_orig": "That brain of mine is something more than merely mortal; as time will show.",
+      "person": "エイダ・ラブレス",
+      "person_note": "数学者（世界初のプログラマーと呼ばれる）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "解析機関の共同研究者チャールズ・バベッジへの手紙の一節。周りにどう思われても関係ない。自分の力を信じられるのは、結果が出る前の今しかない。",
+      "active": true,
+      "source_url": "https://blogs.bodleian.ox.ac.uk/adalovelace/student-workshop/ （オックスフォード大学ボドリアン図書館＝ラブレス文書の所蔵機関の公式サイトが本人の言葉として掲載）／書誌情報: https://todayinsci.com/K/King_Augusta/KingAugusta-Quotations.htm",
+      "source_note": "**1843年7月5日、チャールズ・バベッジ宛の書簡**の一節（原本は大英図書館 Additional Manuscripts 37192, folio 349）。Dorothy Stein『Ada: A Life and a Legacy』（MIT Press, 1985年）110ページに引用されている。ラブレス文書を所蔵するボドリアン図書館（オックスフォード大学）の公式ページでも本人の言葉として引用されており、帰属は確実。※旧版の「母レディ・バイロン宛／Betty A. Toole編『Ada, the Enchantress of Numbers』(1992) p.154」という記載は、出典URLが名言まとめサイト（azquotes）由来の孫引きで宛先・書誌とも裏が取れなかったため差し替えた。書簡の完全な原文は「That brain of mine is something more than merely mortal; as time will show;（以下続く）」。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C1D2E0",
+      "resonance": [
+        "nocon",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0823",
+      "text_ja": "失敗なんてあり得ない。",
+      "text_orig": "Failure is impossible.",
+      "person": "スーザン・B・アンソニー",
+      "person_note": "女性参政権運動家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "86歳の誕生日を祝う場での演説の結びの言葉。女性参政権のために50年戦い続けた本人が、亡くなる数週間前に語った。結果を見る前から「失敗」を怖がるな、というメッセージ。",
+      "active": true,
+      "source_url": "https://www.nps.gov/articles/000/-failure-is-impossible-the-battle-for-the-ballot.htm",
+      "source_note": "1906年2月15日、全米女性参政権協会（NAWSA）第38回大会でのアンソニー86歳誕生日祝賀演説の結び。National Park Service（米国立公園局）の記事とLibrary of Congress所蔵資料の双方で文言・日付を確認。同年3月に死去したため、実質的に最後の公の言葉のひとつ。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C2D2E0",
+      "resonance": [
+        "nervous",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0824",
+      "text_ja": "女が世界をひっくり返したって言うなら、元に戻すチャンスもちょうだいよ。",
+      "text_orig": "Well, if woman upset the world, do give her a chance to set it right side up again.",
+      "person": "ソジャーナ・トゥルース",
+      "person_note": "元奴隷・女性の権利運動家",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "1851年オハイオ州アクロンでの演説の一節。馬鹿にされても、皮肉とユーモアで切り返した。低く見られても、やらせてもらえば証明できる。",
+      "active": true,
+      "source_url": "https://history.hanover.edu/courses/excerpts/167sojourner.html",
+      "source_note": "1851年5月29日、女性の権利大会での演説。会場にいたジャーナリスト、マリウス・ロビンソンによる1851年の同時代記録（Robinson版）に基づく。世に広まっている「Ain't I a Woman?」というフレーズは12年後の1863年にフランシス・ゲージが加筆した版に由来し、ロビンソンの原記録には存在しないため、本項では誤帰属の少ないロビンソン版から採用した。",
+      "morning_score": 7,
+      "morning_breakdown": "A1B1C2D2E1",
+      "resonance": [
+        "compare",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0825",
+      "text_ja": "立派な人間とは何か、議論するのはもうやめろ。なれ。",
+      "text_orig": "Waste no more time arguing about what a good man should be. Be one.",
+      "person": "マルクス・アウレリウス",
+      "person_note": "ローマ皇帝・哲学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "誰にも見せるつもりのなかった自分用のノート『自省録』の一節。理屈をこねてる時間があったら、その通りにやればいい。今日は口じゃなく、動きで示す日にする。",
+      "active": true,
+      "source_url": "https://leadershipnow.com/leadershop/4260-9excerpt.html",
+      "source_note": "『自省録（Meditations）』第10巻16節。グレゴリー・ヘイズ訳（2002年、Modern Library版）からの引用で、上記ページに訳文抜粋が掲載されている。皇帝在位中に書いた私的な備忘録であり、本人の実在の言葉として広く学術的に認められている（訳による表現の揺れはあるが原典の存在自体は確定）。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C1D2E1",
+      "resonance": [
+        "lazy",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0826",
+      "text_ja": "今わりと楽にやれてるのは、うまくいかない方法を数えきれないほど知ってるからだ。",
+      "text_orig": "The reason why I get along with comparative ease now is because I know from experience the enormous number of things that won't work.",
+      "person": "トーマス・エジソン",
+      "person_note": "発明家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "31歳の本人が雑誌に寄稿した記事の一節。失敗の数だけ、「うまくいかない道」が分かっていく。それは遠回りじゃなくて、後の武器になる。",
+      "active": true,
+      "source_url": "https://quoteinvestigator.com/2012/07/31/edison-lot-results/",
+      "source_note": "1882年6月15日、雑誌The Christian Unionに掲載されたエジソン本人の寄稿記事「How to Succeed As An Inventor」内の一文（544ページ）。Quote Investigatorが原典を特定・確認済み。※世間で有名な「I have not failed. I've just found 10,000 ways that won't work.」は、この本人の言葉が数十年かけて簡略化・誇張された後年のパラフレーズであり、この正確な文言でエジソンが語った記録は無いため不採用リストへ。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "broken",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0827",
+      "text_ja": "チャンスは、準備してきた人にしか見えない。",
+      "text_orig": "Dans les champs de l'observation, le hasard ne favorise que les esprits préparés.（英: In the fields of observation, chance favors only the prepared mind.）",
+      "person": "ルイ・パスツール",
+      "person_note": "微生物学者・化学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "pregame"
+      ],
+      "comment": "リール理学部長に就任した式典での講演の言葉。運が良かったんじゃない。準備してたから、目の前のチャンスに気づけた。今日の準備が、いつかのチャンスをつかむ目になる。",
+      "active": true,
+      "source_url": "https://fr.wikisource.org/wiki/Discours_prononcé_à_Douai_le_7_décembre_1854_à_l’occasion_de_l’installation_solennelle_de_la_faculté_des_lettres_de_Douai_et_de_la_faculté_des_sciences_de_Lille （講演全文・フランス語原文）",
+      "source_note": "**1854年12月7日、ドゥエーで行われた「ドゥエー文学部およびリール理学部の開設式」での講演**（パスツールはこの時リール理学部長に就任）。フランス語版Wikisourceに収録された講演全文を直接開き、該当箇所が「par hasard, direz-vous peut-être, mais souvenez-vous que dans les champs de l'observation le hasard ne favorise que les esprits préparés.」という一文であることを確認した（エルステッドの電磁気の発見を語る文脈）。底本は Louis Pasteur Vallery-Radot 編『Œuvres de Pasteur réunies』第7巻（Masson et Cie, 1939年）pp.135-138。※旧版の出典URL（lindau-nobel.org）は日付・場所・講演名の裏付け記述がなかったため差し替えた。※講演地は「リール」ではなく**ドゥエー**である点に注意（式典がドゥエーで行われたため）。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "hungry",
+        "nervous"
+      ]
+    },
+    {
+      "id": "q0828",
+      "text_ja": "今は誰のものでもいい。僕が本当に働いてきた未来は、僕のものだ。",
+      "text_orig": "The present is theirs; the future, for which I really worked, is mine.",
+      "person": "ニコラ・テスラ",
+      "person_note": "発明家・電気工学者",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "70歳を過ぎたテスラが、母国セルビアの新聞記者に語った言葉。発明の手柄を誰が持っていくかで争われ続けた人生の中で出てきた一言。今すぐ評価されなくてもいい。積み重ねてきた先の未来は、ちゃんと自分のものになる。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Nikola_Tesla",
+      "source_note": "**1927年4月、セルビアの新聞『Politika』に掲載された Dragislav L. Petković によるインタビュー記事「A Visit to Nikola Tesla」**での発言。Wikiquoteの「Sourced」節に出典付きで掲載されていることを直接確認した（Margaret Cheney, Robert Uth, Jim Glenn『Tesla, Master of Lightning』(1999) p.73／Margaret Cheney『Tesla: Man Out of Time』(2001) p.230 にも再録）。ラジオ等の特許論争について語った文脈で、直前は「Let the future tell the truth and evaluate each one according to his work and accomplishments.」。⚠️ **旧版の記載「自伝『My Inventions』(1919年)／gutenberg.org/ebooks/68223」は全面的に誤りだったため訂正した**（当該Gutenberg IDは無関係のSF小説で、『My Inventions』本文にもこの文言は存在しない）。",
+      "morning_score": 5,
+      "morning_breakdown": "A1B1C2D1E0",
+      "resonance": [
+        "broken",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0829",
+      "text_ja": "安全第一なら、柵の上に座って鳥でも眺めてればいい。本気で学びたいなら、自分でその機械に乗って、癖と付き合うしかない。",
+      "text_orig": "If you are looking for perfect safety, you will do well to sit on a fence and watch the birds; but if you really wish to learn, you must mount a machine and become acquainted with its tricks by actual trial.",
+      "person": "ウィルバー・ライト",
+      "person_note": "発明家（ライト兄弟・兄）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame"
+      ],
+      "comment": "初飛行の2年前、技術者協会で語った言葉。頭で分かった気になるのと、実際にやってみるのは全然違う。今日、柵の外に出て、自分で乗ってみる日にする。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Wilbur_Wright",
+      "source_note": "1901年9月18日、シカゴのWestern Society of Engineers（西部技術者協会）での講演。Wikiquoteの「Sourced」節に講演名・日付付きで掲載されており、複数の航空史資料でも同一の文言が確認できる。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "nervous",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0830",
+      "text_ja": "自分の夢の方向に自信を持って進み、思い描いた生き方をしようとするなら、普段は思いもよらない成功に出会うはずだ。",
+      "text_orig": "I learned this, at least, by my experiment: that if one advances confidently in the direction of his dreams, and endeavors to live the life which he has imagined, he will meet with a success unexpected in common hours.",
+      "person": "ヘンリー・デイヴィッド・ソロー",
+      "person_note": "作家・思想家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "森の中で2年間暮らした実験の記録『ウォールデン 森の生活』の結び。派手な近道じゃなくていい。自分の思う方向にちゃんと足を向けて歩き続けることが、想像以上の結果につながる。",
+      "active": true,
+      "source_url": "https://www.walden.org/what-we-do/library/thoreau/mis-quotations/",
+      "source_note": "『ウォールデン 森の生活』（1854年）結びの章の一節。ネットで広まっている簡略版「Go confidently in the direction of your dreams. Live the life you have imagined.」はソロー本人の文章を近代風に書き換えたパラフレーズであり、原文そのものではないとWalden Woods Project（ソロー研究の公式機関）が明記している。本項では簡略版を採らず、本人の原文に忠実な形で採用した。",
+      "morning_score": 6,
+      "morning_breakdown": "A1B1C2D2E0",
+      "resonance": [
+        "hungry",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0831",
+      "text_ja": "なんでも数えてた。道までの歩数も、教会の階段も、洗ったお皿の数も。数えられるものは全部数えた。",
+      "text_orig": "I counted everything. I counted the steps to the road, the steps up to church, the number of dishes and silverware I washed … anything that could be counted, I did.",
+      "person": "キャサリン・ジョンソン",
+      "person_note": "数学者（NASAで軌道計算を担当、映画『ドリーム』のモデル）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "NASAで軌道計算をした本人の少女時代の回想。特別な才能である前に、ただ「数える」のが好きだった。今好きでやってることの積み重ねが、いつか大きな仕事につながる。",
+      "active": true,
+      "source_url": "https://www.nasa.gov/centers-and-facilities/langley/katherine-johnson-the-girl-who-loved-to-count/",
+      "source_note": "NASA公式サイトの記事「Katherine Johnson: The Girl Who Loved to Count」に本人の発言として掲載。NASAという一次機関が本人の伝記的事実として公開している記録。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D1E2",
+      "resonance": [
+        "nocon",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0832",
+      "text_ja": "鉄は使わないと錆びる。水は淀むと濁り、寒さで凍る。何もしないでいると、心も同じように鈍っていく。",
+      "text_orig": "Sì come il ferro s'arruginisce sanza esercizio e l'acqua si putrefa o nel freddo s'addiaccia, così lo 'ngenio sanza esercizio si guasta.（英: Iron rusts from disuse; stagnant water loses its purity and in cold weather becomes frozen; even so does inaction sap the vigors of the mind.）",
+      "person": "レオナルド・ダ・ヴィンチ",
+      "person_note": "画家・発明家・科学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "自分のノートに書き残した観察。動かなければ、体も頭も鈍る。今日体を動かす・頭を使うことが、そのまま「錆びない自分」を作る。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Leonardo_Da_Vinci",
+      "source_note": "『コデックス・アトランティクス（Codex Atlanticus）』所収のダ・ヴィンチ自身の手稿（イタリア語原文）。Edward McCurdy「The Notebooks of Leonardo Da Vinci」（1939/1958年, Vol.1, p.89）等の学術的英訳で裏取りされ、Wikiquoteの「Sourced」節にイタリア語原文・英訳・出典書籍とも掲載。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0833",
+      "text_ja": "運命の喉首を、この手でつかんでやる。",
+      "text_orig": "I want to seize fate by the throat.",
+      "person": "ベートーヴェン",
+      "person_note": "作曲家（聴力を失いながら創作を続けた）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "難聴が進み始めた27歳の時、親友ヴェーゲラーに宛てた手紙の一節。絶望してもおかしくない状況で、運命に飲まれるんじゃなくて自分からつかみにいくと書いた。しんどい時ほど、こっちから前に出る姿勢がいい。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Ludwig_van_Beethoven （Sourced欄。原典はベートーヴェン書簡集）",
+      "source_note": "1801年11月16日、F・G・ヴェーゲラー宛の手紙。Wikiquote の Quotes（Sourced）セクションに「Letter to F.G. Wegeler, 16 November, 1801」として日付・宛先付きで掲載されているのを**当該ページを開いて確認**（2026-09-12再検証）。Disputed/Misattributed 節には無い。⚠️再検証で判明: 流布している \"I will seize Fate by the throat.\" は出典ページの表記と異なる。出典ページの表記は **\"I want to seize fate by the throat.\"**。本ファイルは出典ページの表記に合わせて修正済み。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "hungry",
+        "broken"
+      ]
+    },
+    {
+      "id": "q0834",
+      "text_ja": "自分の手で作れないものは、本当にはわかっていないってことだ。",
+      "text_orig": "What I cannot create, I do not understand.",
+      "person": "リチャード・ファインマン",
+      "person_note": "理論物理学者（ノーベル物理学賞）",
+      "tier": "legend",
+      "modes": [
+        "study"
+      ],
+      "comment": "1988年に亡くなった時、研究室の黒板に残されていた言葉（カリフォルニア工科大学アーカイブに実物写真が保存されている）。暗記して知った気になるより、実際に手を動かして作れるかどうかが「わかった」の基準。今日の勉強もそこで測ってみる。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Richard_Feynman",
+      "source_note": "1988年2月、死去時にカリフォルニア工科大学の研究室の黒板に書かれていたまま残されていた言葉。写真付きで複数の伝記・アーカイブに記録があり、Wikiquote Sourcedセクションでも確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "plateau",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0835",
+      "text_ja": "一番だましやすいのは、自分自身だ。まずそこに気をつける。",
+      "text_orig": "The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+      "person": "リチャード・ファインマン",
+      "person_note": "理論物理学者",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "1974年、カリフォルニア工科大学の卒業式スピーチ「Cargo Cult Science」の一節。「できてる気がする」が一番あてにならない。模試の手応えや練習の感触より、結果を素直に見る方が結局は近道。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Richard_Feynman",
+      "source_note": "1974年カリフォルニア工科大学卒業式でのスピーチ「Cargo Cult Science」（同名エッセイに収録）の一節。Wikiquote Sourcedセクションで確認。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C1D1E1",
+      "resonance": [
+        "nocon",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0836",
+      "text_ja": "高いところへ続く道は、そもそもデコボコなんだ。",
+      "text_orig": "It is a rough road that leads to the heights of greatness.",
+      "person": "セネカ",
+      "person_note": "ローマの政治家・ストア派哲学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "弟子ルキリウスに送った「倫理書簡集」第84通の一節。道が険しいのは進み方が間違ってるからじゃなくて、高い場所に向かってる証拠。しんどい練習も、そこに向かってるから当然しんどい。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Seneca_the_Younger",
+      "source_note": "「倫理書簡集（Moral Letters to Lucilius）」第84通「On Gathering Ideas」の一節。Wikiquote Sourcedセクションで書簡番号付きで確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0837",
+      "text_ja": "しんどいのは、たいてい想像の中だけだ。実際はそこまでじゃない。",
+      "text_orig": "We suffer more often in imagination than in reality.",
+      "person": "セネカ",
+      "person_note": "ローマの政治家・ストア派哲学者",
+      "tier": "legend",
+      "modes": [
+        "pregame",
+        "work"
+      ],
+      "comment": "「倫理書簡集」第13通「根拠のない恐怖について」の一節。本番前の不安の9割は、まだ起きてもいないことを頭の中で先に体験してるだけ。実際にやってみると、思ってたほどじゃないことが多い。",
+      "active": true,
+      "source_url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_13",
+      "source_note": "「倫理書簡集」第13通4節。Gummere訳（Loeb版）で\"we suffer more often in imagination than in reality\"と確定訳文が存在。Wikisourceで原文確認。短縮版（\"more often\"を削った版）が出回っているが、今回は正式な訳文を採用。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "nervous",
+        "broken"
+      ]
+    },
+    {
+      "id": "q0838",
+      "text_ja": "どうなりたいか、まず自分に言ってやれ。あとはそれをやるだけだ。",
+      "text_orig": "First say to yourself what you would be; and then do what you have to do.",
+      "person": "エピクテトス",
+      "person_note": "ストア派哲学者（元奴隷）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "弟子が書き残した「語録」第3巻23章の一節。なりたい自分を先に決めてしまえば、今日やることは自動的に決まる。迷ってるのは大抵、なりたい自分がまだ曖昧なだけ。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Epictetus",
+      "source_note": "「語録（Discourses）」第3巻23章1節。弟子アリアヌスによる講義録で、エピクテトス本人は著作を残していないが、この講義録が本人の言葉の標準的な出典として学術的に扱われている。Wikiquote Sourcedセクションで確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B2C1D1E1",
+      "resonance": [
+        "hungry",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0839",
+      "text_ja": "その人の本当の姿は、しんどい時に出る。",
+      "text_orig": "It is difficulties that show what men are.",
+      "person": "エピクテトス",
+      "person_note": "ストア派哲学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame"
+      ],
+      "comment": "「語録」第1巻24章の一節。調子がいい時は誰でも同じに見える。差が出るのはうまくいかない時で、そこにこそ今の自分の本当の力が出る。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Epictetus",
+      "source_note": "「語録（Discourses）」第1巻24章1節。弟子アリアヌスによる講義録。Wikiquote Sourcedセクションで確認。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C1D1E1",
+      "resonance": [
+        "nervous",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0840",
+      "text_ja": "勝利は、準備を整えた人のところに来る。それを人は運と呼ぶ。",
+      "text_orig": "Victory awaits him who has everything in order — luck, people call it.",
+      "person": "ロアール・アムンセン",
+      "person_note": "探検家（人類初の南極点到達）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame"
+      ],
+      "comment": "1912年に出版した南極点到達の記録「The South Pole」の一節。運がいいと言われた成功の裏側は、実は地味な準備の積み重ね。本番前にやることをやっておけば、それが結果的に「運」として返ってくる。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Roald_Amundsen",
+      "source_note": "自著「The South Pole」（1912年）の一節。Wikiquote Sourcedセクションで著作名付きで確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "nervous",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0841",
+      "text_ja": "勝っても負けても態度を変えるな。どっちも同じくらい、あてにならないものだから。",
+      "text_orig": "If you can meet with Triumph and Disaster / And treat those two impostors just the same",
+      "person": "ラドヤード・キップリング",
+      "person_note": "詩人・作家（ノーベル文学賞）",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "pregame"
+      ],
+      "comment": "息子に向けて書いた詩「If—」（1896年）の一節。勝った日も負けた日も、次の日の自分は変わらない。結果に振り回されすぎると、次の一歩が遅れる。",
+      "active": true,
+      "source_url": "https://en.wikisource.org/wiki/If%E2%80%94",
+      "source_note": "詩「If—」（1896年執筆、1910年『Rewards and Fairies』収録）本文。Wikisourceに全文収録。著作権切れのパブリックドメイン詩で、誤帰属の指摘なし。",
+      "morning_score": 8,
+      "morning_breakdown": "A1B2C2D2E1",
+      "resonance": [
+        "nervous",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0842",
+      "text_ja": "自分を殺さないものは、全部、自分を強くする。",
+      "text_orig": "Was mich nicht umbringt, macht mich stärker. (What does not kill me, makes me stronger.)",
+      "person": "ニーチェ",
+      "person_note": "哲学者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "「偶像の黄昏」の格言集の一節。ケガも失恋も失敗も、それで終わりじゃなければ全部自分の材料になる。今しんどいことも、後から見たら強くなった理由の一つになる。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Friedrich_Nietzsche",
+      "source_note": "「偶像の黄昏（Twilight of the Idols）」\"格言と矢\"（Maxims and Arrows）第8節。Wikiquote Sourcedセクションで章節番号付きで確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "broken",
+        "injured",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0843",
+      "text_ja": "毎日ちょっとでいい、意味なく頑張ってみる。それで「頑張る力」は錆びない。",
+      "text_orig": "Keep the faculty of effort alive in you by a little gratuitous exercise every day.",
+      "person": "ウィリアム・ジェームズ",
+      "person_note": "心理学者・哲学者（アメリカ心理学の父）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "主著「心理学原理」第4章「習慣」の一節。大きい目標のためじゃなくてもいい。小さく「今日もやった」を積むこと自体が、いざという時に踏ん張れる力の貯金になる。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/William_James",
+      "source_note": "「心理学原理（The Principles of Psychology）」（1890年）第4章「習慣」の一節。本人の主著本文であり誤帰属の指摘なし。Wikiquote Sourcedセクションで章番号付きで確認。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "lazy",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0844",
+      "text_ja": "人生は誰にとっても楽じゃない。だから、粘り強さと自分を信じる気持ちだけは持っておこう。",
+      "text_orig": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves.",
+      "person": "マリー・キュリー",
+      "person_note": "物理学者・化学者（ノーベル賞2部門受賞）",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "娘エーヴが書いた伝記「Madame Curie」に収録された、本人の言葉。研究も生活も楽だったことは一度もなかった人が、それでも前提として置いていたのがこの2つ。しんどさは無くならないから、持ち物の方を用意しておく。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Marie_Curie",
+      "source_note": "娘エーヴ・キュリーによる伝記「Madame Curie: A Biography」（1937年）第2部116ページに引用された本人の言葉。Wikiquote Sourcedセクションでページ番号付きで確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D2E0",
+      "resonance": [
+        "broken",
+        "burnt",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0845",
+      "text_ja": "図書館に鍵をかけたって構わない。でも、私の心の自由に鍵はかけられない。",
+      "text_orig": "Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind.",
+      "person": "ヴァージニア・ウルフ",
+      "person_note": "作家",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "エッセイ「自分ひとりの部屋」（1929年）第4章の一節。環境や周りの目が制限をかけてきても、考えること・目指すことまでは誰にも止められない。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Virginia_Woolf",
+      "source_note": "エッセイ「A Room of One's Own」（1929年）第4章の一節。本人の著作本文であり誤帰属の指摘なし。Wikiquote Sourcedセクションで章番号付きで確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "compare",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0846",
+      "text_ja": "雨にも負けない。風にも負けない。",
+      "text_orig": "雨ニモマケズ　風ニモマケズ",
+      "person": "宮沢賢治",
+      "person_note": "詩人・童話作家",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "亡くなる2年前、病床で手帳に鉛筆書きした詩の冒頭。誰かに発表するために書いたものじゃなく、自分自身に言い聞かせるように書かれている。体調が悪くても、心まで持っていかれなくていい。",
+      "active": true,
+      "source_url": "https://ja.wikipedia.org/wiki/%E9%9B%A8%E3%83%8B%E3%83%A2%E3%83%9E%E3%82%B1%E3%82%BA",
+      "source_note": "1931年（昭和6年）11月3日執筆と推定される、賢治自身の手帳（通称「雨ニモマケズ手帳」）に鉛筆で書かれた詩。⚠️2026-09-12再検証: 当該ページを開いて確認したところ、冒頭が「雨ニモマケズ／風ニモマケズ」であること・手帳冒頭ページ上部の青鉛筆「11.3.」を根拠に1931年11月3日執筆と推定されること・手帳が2007年に国内各所で公開されたことは記載を確認できた。ただし**前版が書いていた「実物は林風舎で保管」という所蔵先の記述は当該ページからは確認できなかった**ため削除した（所蔵先は未確認扱い）。本人自筆の手帳であり誤帰属の指摘なし。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "burnt",
+        "injured",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0847",
+      "text_ja": "牛のように、図々しくじりじり進んでいけばいい。",
+      "text_orig": "たゞ牛のやうに図々しく進んで行くのが大事です。",
+      "person": "夏目漱石",
+      "person_note": "作家（『こころ』『坊っちゃん』など）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "1916年8月、弟子の芥川龍之介・久米正雄に宛てた手紙の一節。二人とも若くして評価されて焦っていた時期。「馬になろうとしなくていい、牛でいい」という励まし。この手紙の後半では「あせってはいけません、根気ずくでお出でなさい」とも続く。",
+      "active": true,
+      "source_url": "https://bungakuron.hatenablog.com/entry/2025/07/11/130343 （漱石↔芥川・久米の往復書簡の翻刻。原本は岩波書店版『漱石全集』書簡集に収録）",
+      "source_note": "1916年（大正5年）8月21日付、芥川龍之介・久米正雄宛の書簡。上記翻刻ページを**開いて本文を確認**し、8月21日の手紙に「たゞ牛のやうに図々しく進んで行くのが大事です。」が実在することを確認（2026-09-12再検証）。3日後の8月24日付の手紙にも「牛になる事はどうしても必要です。吾々はとかく馬にはなりたがるが、牛には中々なり切れないです。」と続く。別サイト（sybrma.sakura.ne.jp「夏目漱石の手紙2通」）の翻刻でも同文を確認済み（2サイトで突合）。文学史上よく知られた「牛になれ」の手紙で誤帰属の指摘なし。⚠️前版が貼っていた note.com の個人ブログURLは一次性が弱いため、翻刻ページに差し替えた。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "plateau",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0848",
+      "text_ja": "73歳になって、やっと生き物の骨組みや草花の育ち方が少しわかってきた。",
+      "text_orig": "七十三才にして稍禽獣虫魚の骨格草木の出生を悟し得たり",
+      "person": "葛飾北斎",
+      "person_note": "浮世絵師（『富嶽三十六景』）",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "75歳で発表した画集「富嶽百景」初編の跋文（あとがき）。6歳から絵を描き続けて、73歳でやっと少しわかってきたと本人が書いている。何十年やっても「まだ分かってきたところ」でいい。",
+      "active": true,
+      "source_url": "https://ja.wikipedia.org/wiki/%E5%AF%8C%E5%B6%BD%E7%99%BE%E6%99%AF_(%E5%8C%97%E6%96%8E)",
+      "source_note": "「富嶽百景」初編（天保5年・1834年刊）巻末の跋文（画狂老人卍＝北斎自身の署名入り）。本人自筆の跋文であり誤帰属の指摘なし。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0849",
+      "text_ja": "僕はまだ、毎日ちょっとずつうまくなってる気がするんだ。",
+      "text_orig": "I feel that I am making daily progress.",
+      "person": "パブロ・カザルス",
+      "person_note": "チェロ奏者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "晩年まで毎日何時間も練習を続けた理由を聞かれて答えたのも、ほぼ同じ内容だった。何十年やっても「まだ伸びてる」と思える方に賭ける。",
+      "active": true,
+      "source_url": "https://quoteinvestigator.com/2014/02/12/casals-progress/",
+      "source_note": "Quote Investigatorの検証記事を**開いて結論を確認**（2026-09-12再検証）。最古の確認済み出典は **1946年12月29日付ニューヨーク・タイムズ**、モーリス・アイゼンバーグ執筆の記事「Casals at 70: Great Spanish Cellist Waits For Country's Liberation」。そこに引用されたカザルス本人からアイゼンバーグ宛の**1944年の手紙**の一節が \"I feel that I am making daily progress\"。QIは1944年（67-68歳）と1957年頃（80歳）の2時点で同趣旨の発言の実証的裏付けがあると結論している。単一の決定的な原文はないが、QIが一次資料まで遡って本人発言と認定済み。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "plateau",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0850",
+      "text_ja": "大理石が削られるほど、彫刻は姿を現していく。",
+      "text_orig": "The more the marble wastes, the more the statue grows.",
+      "person": "ミケランジェロ",
+      "person_note": "彫刻家・画家（『ダビデ像』『天地創造』）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "ヴィットリア・コロンナに宛てたソネット（詩）の一節。削って減っていくように見える作業が、実は完成に近づいている証拠。今しんどい練習も、削れば削るほど本当の形が出てくる。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Michelangelo",
+      "source_note": "ヴィットリア・コロンナに宛てたソネットの一節。Wikiquote の Quotes（Sourced）セクションで**当該ページを開いて確認**（2026-09-12再検証）。掲載形は \"The more the marble wastes, / The more the statue grows.\"、出典表記は Mrs. Henry Roscoe 訳『Vittoria Colonna: Her Life and Poems』(1868) p.169。つまり**19世紀の英訳を経由した一節**であり、ミケランジェロのイタリア語原文の直訳ではない点に注意。Disputed/Misattributed 節には無い（よく混同される「I saw the angel in the marble」の方はDisputed扱い）。",
+      "morning_score": 7,
+      "morning_breakdown": "A1B1C2D1E2",
+      "resonance": [
+        "nocon",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0851",
+      "text_ja": "本当に意味のある革命は一つだけ。自分自身を作り直すことだ。",
+      "text_orig": "There can be only one permanent revolution — a moral one; the regeneration of the inner man.",
+      "person": "レフ・トルストイ",
+      "person_note": "作家（『戦争と平和』『アンナ・カレーニナ』）",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "評論「三つの改革法」（1900年）の一節。世の中を変えたいと思う前に、自分の内側を作り直す方が確実で、実はそっちの方が難しくて価値がある。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Leo_Tolstoy",
+      "source_note": "評論集「Pamphlets: Translated from the Russian」（1900年）収録「Three Methods Of Reform」の一節。Wikiquote Sourcedセクションで出典付きで確認。⚠️ネット上に流布する短縮版「Everyone thinks of changing the world, but no one thinks of changing himself」は、Wikiquote上ではこの一節の \"variant\" として扱われ、**出典が1999年の自己啓発書『The Artist's Way at Work: Riding the Dragon』(Mark A. Bryan ほか) p.160** と表記されている＝トルストイ本人の文ではなく後年の要約。よって短縮版は使わず、出典が確かな原文（Sourced版）をそのまま採用した（2026-09-12に当該ページで確認）。",
+      "morning_score": 5,
+      "morning_breakdown": "A1B1C2D1E0",
+      "resonance": [
+        "compare",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0852",
+      "text_ja": "僕はバカみたいな実験が好きなんだ。いつもやってるよ。",
+      "text_orig": "I love fools' experiments. I am always making them.",
+      "person": "チャールズ・ダーウィン",
+      "person_note": "自然科学者（進化論）",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "同僚の動物学者E・レイ・ランケスターが実際に隣で聞いた言葉として伝えている発言。結果が出るか分からない実験を笑いながらやる姿勢。うまくいくか分からないことを試すのは、恥ずかしいことじゃなくて科学者らしいことだった。",
+      "active": true,
+      "source_url": "https://www.darwinproject.ac.uk/about-darwin/darwin-and-experimental-life/fools-experiments",
+      "source_note": "ケンブリッジ大学「Darwin Correspondence Project」（ダーウィン書簡プロジェクト）の解説ページを**開いて本文を確認**（2026-09-12再検証）。動物学者 E・レイ・ランケスターが本人から直接聞いた言葉として、C・D・ウォーナー編「Library of the World's Best Literature, Ancient and Modern」（1896-98年）に寄稿した文章の中で記録している。本人の発言を直接聞いた同時代人の証言で、大学の公式出典プロジェクトが解説している。⚠️再検証で判明: 流布版の冒頭 \"That's a fool's experiment.\" は**この出典ページには存在しない**（ページにあるのは \"I love fools' experiments. I am always making them.\" のみ）。確認できない一文だったため削除し、確認できた範囲だけに縮めた。",
+      "morning_score": 10,
+      "morning_breakdown": "A2B2C2D2E2",
+      "resonance": [
+        "nocon",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0853",
+      "text_ja": "子どもはみんな生まれつき科学者だ。それを大人が消していくだけなんだ。",
+      "text_orig": "Every kid starts out as a natural-born scientist, and then we beat it out of them.",
+      "person": "カール・セーガン",
+      "person_note": "天文学者（『コスモス』）",
+      "tier": "legend",
+      "modes": [
+        "study"
+      ],
+      "comment": "1996年の雑誌「Psychology Today」インタビューでの発言。「知りたい」という気持ちは元々誰にでもあった。今それが薄れてる気がしても、後から付け足すものじゃなくて、元々持ってたものを思い出すだけでいい。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Carl_Sagan",
+      "source_note": "「Psychology Today」誌1996年1月号のインタビューでの発言。Wikiquote Sourcedセクションで掲載誌・年月付きで確認。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C1D1E1",
+      "resonance": [
+        "nocon",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0854",
+      "text_ja": "本当に強い人は、いつも落ち着いてる。不意を突かれても、心が揺れない。",
+      "text_orig": "A truly brave man is ever serene; he is never taken by surprise; nothing ruffles the equanimity of his spirit.",
+      "person": "新渡戸稲造",
+      "person_note": "教育者・思想家（英文著書『武士道』）",
+      "tier": "legend",
+      "modes": [
+        "pregame"
+      ],
+      "comment": "英文で書き世界に発信した著書「武士道（Bushido: The Soul of Japan）」第4章「勇の項目、敢為堅忍の精神」の一節。本番前にドキドキするのは普通。そこで態度まで乱れないようにするのが「強さ」の中身だと書いている。",
+      "active": true,
+      "source_url": "https://www.gutenberg.org/files/12096/12096-h/12096-h.htm",
+      "source_note": "「Bushido: The Soul of Japan」（1900年初版）第4章「Courage」の一節。Project Gutenbergに全文収録された本人の英文著作そのもの（翻訳や又聞きではなく原文）。誤帰属の指摘なし。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C1D1E1",
+      "resonance": [
+        "nervous"
+      ]
+    },
+    {
+      "id": "q0855",
+      "text_ja": "ハングリーであれ。バカであれ。",
+      "text_orig": "Stay hungry, stay foolish.",
+      "person": "スティーブ・ジョブズ",
+      "person_note": "Apple・Pixar 共同創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "卒業式という「これから」のスピーチの最後の一言。満足した瞬間に成長が止まる。今の実力に納得しかけた時、この一言を思い出してほしい。",
+      "active": true,
+      "source_url": "https://www.rev.com/transcripts/steve-jobs-stanford-commencement-speech-transcript-2005",
+      "source_note": "2005年6月12日、スタンフォード大学卒業式でのジョブズ本人のスピーチ。Rev.com の書き起こしで本文確認。同スピーチはスタンフォード大学ニュースにも公式掲載されており出典の疑いなし。誤帰属の指摘なし。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "hungry",
+        "plateau"
+      ]
+    },
+    {
+      "id": "q0856",
+      "text_ja": "探し続けろ。妥協するな。",
+      "text_orig": "Keep looking. Don't settle.",
+      "person": "スティーブ・ジョブズ",
+      "person_note": "Apple・Pixar 共同創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "「これでいいや」と思った瞬間が一番危ない。今のポジションや今のやり方に納得してないなら、探すのをやめなくていい。妥協は結果じゃなくて選択。",
+      "active": true,
+      "source_url": "https://www.rev.com/transcripts/steve-jobs-stanford-commencement-speech-transcript-2005",
+      "source_note": "同上（スタンフォード大学2005年卒業式スピーチ）。同スピーチ内の別箇所からの一節。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "plateau",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0857",
+      "text_ja": "時間は限られてる。誰かの人生を生きて無駄にするな。",
+      "text_orig": "Your time is limited, so don't waste it living someone else's life.",
+      "person": "スティーブ・ジョブズ",
+      "person_note": "Apple・Pixar 共同創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "親や先輩の期待、周りの「普通」に合わせて選んだ道は、本当に自分の道じゃないかもしれない。自分の時間だから、自分の答えで埋めていい。",
+      "active": true,
+      "source_url": "https://www.rev.com/transcripts/steve-jobs-stanford-commencement-speech-transcript-2005",
+      "source_note": "同上。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C2D1E1",
+      "resonance": [
+        "lazy",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0858",
+      "text_ja": "賢さは才能。優しさは自分で選ぶものだ。",
+      "text_orig": "Cleverness is a gift, kindness is a choice.",
+      "person": "ジェフ・ベゾス",
+      "person_note": "Amazon 創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "頭がいい・運動神経がいいは生まれつきの部分もある。でも人にどう接するかは、毎回自分で選べる。才能で勝負できない日でも、優しさでは誰にも負けない。",
+      "active": true,
+      "source_url": "https://www.princeton.edu/news/2010/05/30/choices-shape-lives-bezos-tells-seniors",
+      "source_note": "2010年5月30日、プリンストン大学のバカロレア講演（卒業式前の伝統行事。卒業式本体は6月1日で別日程）でのベゾス本人のスピーチ。祖母を泣かせてしまった少年時代、祖父から「賢くあるより優しくある方が難しいと、いつか分かる日が来る」と諭されたエピソードの結論部分。プリンストン大学公式ニュースページで本文確認。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "compare",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0859",
+      "text_ja": "最後に残るのは、自分が選んできたことだけだ。",
+      "text_orig": "In the end, we are our choices.",
+      "person": "ジェフ・ベゾス",
+      "person_note": "Amazon 創業者",
+      "tier": "legend",
+      "modes": [
+        "study",
+        "work"
+      ],
+      "comment": "才能やセンスは持ち物みたいなもの。本当に自分を形づくるのは、しんどい時に何を選んだかの積み重ね。今日の小さな選択も、その一部になる。",
+      "active": true,
+      "source_url": "https://www.princeton.edu/news/2010/05/30/choices-shape-lives-bezos-tells-seniors",
+      "source_note": "同上（プリンストン大学2010年バカロレア講演）。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C2D1E0",
+      "resonance": [
+        "plateau",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0860",
+      "text_ja": "失敗なんてない。それは人生が別の道を教えてるだけ。",
+      "text_orig": "There is no such thing as failure. Failure is just life trying to move us in another direction.",
+      "person": "オプラ・ウィンフリー",
+      "person_note": "メディア企業 Harpo・OWN 創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "自身の番組が「大コケ」と言われていた時期に語った言葉。結果が出ない時期こそ、これは終わりじゃなくて方向転換の途中だと思っていい。",
+      "active": true,
+      "source_url": "https://news.harvard.edu/gazette/story/2013/05/winfrey-failure-is-just-movement/",
+      "source_note": "2013年5月30日、ハーバード大学卒業式でのウィンフリー本人のスピーチ。Harvard Gazette（大学公式）記事で本文確認。The Harvard Crimson でも同一発言を確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B1C2D2E1",
+      "resonance": [
+        "broken",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0861",
+      "text_ja": "誰にバカと言われても、止まるな。それだけでいい。",
+      "text_orig": "Let everyone else call your idea crazy… just keep going. Don't stop. Don't even think about stopping until you get there.",
+      "person": "フィル・ナイト",
+      "person_note": "Nike 共同創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "自伝『SHOE DOG』で振り返る、創業期に自分に言い聞かせていた言葉。周りに変な目で見られても、進む足を止めなければそれでいい。",
+      "active": true,
+      "source_url": "https://www.goodreads.com/work/quotes/4077583-shoe-dog-a-memoir-by-the-creator-of-nike",
+      "source_note": "フィル・ナイト自伝『SHOE DOG: A Memoir by the Creator of Nike』(Scribner, 2016)からの引用。同一の文言が複数の独立した書評・抜粋サイトで一致して引用されており、本人の著作からの引用として矛盾なし。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "hungry",
+        "compare"
+      ]
+    },
+    {
+      "id": "q0862",
+      "text_ja": "つべこべ言わず、やってみよう。",
+      "text_orig": "Screw it, let's do it.",
+      "person": "リチャード・ブランソン",
+      "person_note": "Virgin Group 創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "ブランソン本人の口癖であり、自伝のタイトルにもなった言葉。迷ってる時間があるなら、その分だけ一歩目を踏み出す方が早い。",
+      "active": true,
+      "source_url": "https://www.penguin.co.uk/books/399834/screw-it-lets-do-it-by-branson-richard/9780753510995",
+      "source_note": "リチャード・ブランソン自身の著書『Screw It, Let's Do It: Lessons in Life』(Virgin Books, 2006年3月2日)のタイトル。ブランソンが自身の行動原理として掲げてきた言い回しで、初出は前著『Losing My Virginity』(1998)。書誌は版元ペンギン公式ページで確認済み。なお言い回し自体は英語圏の一般的な口語表現であり、ブランソンの造語ではない（語源研究者 Barry Popik の調査）。「本人の口癖」と断定はできないため、著書タイトル・行動原理としての表記にとどめる。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "hungry",
+        "nervous"
+      ]
+    },
+    {
+      "id": "q0863",
+      "text_ja": "誰にも代えられない人になるには、人と違っていることだ。",
+      "text_orig": "In order to be irreplaceable one must always be different.",
+      "person": "ココ・シャネル",
+      "person_note": "CHANEL 創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study"
+      ],
+      "comment": "周りと同じことをして安心したくなる時こそ、あえて自分のやり方を貫く。みんなと同じ土俵にいる限り、比べられ続けるだけだから。",
+      "active": true,
+      "source_url": "https://quoteinvestigator.com/2019/06/11/irreplaceable/",
+      "source_note": "Marcel Haedrich 著 \"Coco Chanel: Her Life, Her Secrets\" (1971) にシャネル本人の証言として記録。Quote Investigator が仏語原文とその英訳の妥当性を検証済み、シャネル本人の発言としてクレジット可と結論。",
+      "morning_score": 6,
+      "morning_breakdown": "A2B1C2D1E0",
+      "resonance": [
+        "compare",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0864",
+      "text_ja": "失敗していい。失敗してないなら、挑戦が足りない。",
+      "text_orig": "Failure is an option here. If things are not failing, you are not innovating enough.",
+      "person": "イーロン・マスク",
+      "person_note": "SpaceX・Tesla 創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "pregame",
+        "work"
+      ],
+      "comment": "NASAの「失敗は許されない」という空気とは逆に、自分の会社では失敗を前提に置いた。一度も外さないくらい安全なプレーばかりしてたら、伸びしろも見えてこない。",
+      "active": true,
+      "source_url": "https://cleantechnica.com/2020/02/01/elon-musk-you-should-be-failing-if-things-are-not-failing-you-are-not-innovating-enough/",
+      "source_note": "Fast Company 誌 \"Hondas in Space\"（著者 Jennifer Reingold、2005年2月1日号）で SpaceX の社内文化を語った際の発言。原文は「There's a silly notion that failure's not an option at NASA. Failure is an option here. If things are not failing, you are not innovating enough.」。一次記事URLは https://www.fastcompany.com/52065/hondas-space （自動取得は403だがブラウザ閲覧可。Slashdot 2005年2月5日付エントリで当時の存在を裏取り）。掲載の出典URL(CleanTechnica)は二次記事で、こちらは出典を「Inc.」とだけ記載しており Fast Company には触れていない点に注意（前回メモの「複数媒体がFast Company 2005で一致」という記述は誤りだったため削除）。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "hungry",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0865",
+      "text_ja": "成功するためには、成功するまで続けることである。",
+      "text_orig": "（日本語話者のため原文なし）",
+      "person": "松下幸之助",
+      "person_note": "パナソニック（旧・松下電器産業）創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "「絶対に失敗しない方法」を聞かれた時の答え。途中でやめるから失敗という結果になるだけで、続けている間はまだ何も終わっていない。",
+      "active": true,
+      "source_url": "https://crd.ndl.go.jp/reference/entry/index.php?id=1000312540&page=ref_view",
+      "source_note": "国立国会図書館レファレンス協同データベースの出典調査による。ネット上で広く流布する「失敗したところでやめてしまうから失敗になる」という一文そのものの一致原文は特定できなかったが、松下幸之助自身の著書『人を活かす経営』(PHP研究所, 1979) p.215 に「成功するためには、成功するまで続けることである」という本人の記述が確認されている。本候補ではこの確認済みの原文表現を採用（巷の言い換え版は使わない）。",
+      "morning_score": 5,
+      "morning_breakdown": "A2B1C1D1E0",
+      "resonance": [
+        "plateau",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0866",
+      "text_ja": "10回新しいことを始めれば9回は失敗する。",
+      "text_orig": "（日本語話者のため原文なし）",
+      "person": "柳井正",
+      "person_note": "ファーストリテイリング（ユニクロ）会長兼社長",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "自著のタイトルにもなった「一勝九敗」の考え方そのもの。9回外しても、1回当たれば十分に勝ち。9回の失敗を怖がって1回も打たない方が痛い。",
+      "active": true,
+      "source_url": "https://www.shinchosha.co.jp/book/464201/",
+      "source_note": "柳井正『一勝九敗』（新潮社、2003年11月16日）のタイトルに込めた本人の考え方。版元・新潮社の公式書誌ページに、本人インタビュー（「波」2003年12月号）からの発言「『一勝九敗』という本のタイトルは、経営というものはそもそもそれぐらいの確率でしか成功しないものだという僕の実感を表したものなんです」が掲載されている。アプリ掲出の「10回新しいことを始めれば9回は失敗する。」は、同書で語られる「十回新しいことを始めれば九回は失敗するのが当たり前」を短く整えたパラフレーズ表現（本人の一語一句そのままではない点に注意）。",
+      "morning_score": 7,
+      "morning_breakdown": "A2B1C2D1E1",
+      "resonance": [
+        "hungry",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0867",
+      "text_ja": "失敗を恐れるな。ただし、同じ失敗を二度はするな。",
+      "text_orig": "Don't be afraid to make a mistake. But make sure you don't make the same mistake twice.",
+      "person": "盛田昭夫",
+      "person_note": "ソニー共同創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "失敗した人を責めるより原因を探す、という盛田さんの経営哲学の一言版。失敗そのものは怖がらなくていい。同じ場所で二度こけないように直すだけでいい。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Akio_Morita",
+      "source_note": "Wikiquote「Sourced」節に掲載（引用元記載: Nick Lyons, 1976）。加えて自伝『Made in Japan』(1986)内にも「失敗の責任追及より原因究明を」という同趣旨の本人の記述（p.149）があり、思想として一貫していることを確認。Disputed/Misattributed節への記載なし。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C2D1E1",
+      "resonance": [
+        "nervous",
+        "nocon"
+      ]
+    },
+    {
+      "id": "q0868",
+      "text_ja": "流れに逆らって泳げ。みんなと逆を行け。",
+      "text_orig": "Swim upstream. Go the other way. Ignore the conventional wisdom.",
+      "person": "サム・ウォルトン",
+      "person_note": "Walmart 創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "work"
+      ],
+      "comment": "自伝で語った「成功する会社のルール」10箇条の1つ。みんなが同じやり方をしてる時こそ、あえて反対方向に活路がある。",
+      "active": true,
+      "source_url": "https://corporate.walmart.com/about/sam-walton/10-rules-for-building-a-better-business",
+      "source_note": "サム・ウォルトン自伝『Sam Walton: Made in America』(Doubleday, 1992／John Huey共著)所収「ビジネスを築く10のルール」の第10条。Walmartコーポレート公式サイトが同10箇条を全文公開しており、第10条の原文「Swim upstream. Go the other way. Ignore the conventional wisdom. If everybody else is doing it one way, there's a good chance you can find your niche by going in exactly the opposite direction.」を確認済み。同ページは自伝が出典であることも明記している。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B1C2D2E2",
+      "resonance": [
+        "compare",
+        "hungry"
+      ]
+    },
+    {
+      "id": "q0869",
+      "text_ja": "失敗できるのは、動いてる人間の特権だ。",
+      "text_orig": "Only while sleeping one makes no mistakes. Making mistakes is the privilege of the active.",
+      "person": "イングヴァル・カンプラード",
+      "person_note": "IKEA 創業者",
+      "tier": "legend",
+      "modes": [
+        "club",
+        "study",
+        "work"
+      ],
+      "comment": "IKEAの企業理念文書「家具商人の遺言」の一節。何もしなければ失敗もしない。でも失敗があるということは、それだけ動いている証拠でもある。",
+      "active": true,
+      "source_url": "https://en.wikiquote.org/wiki/Ingvar_Kamprad",
+      "source_note": "カンプラード自身が書いた社内文書「The Testament of a Furniture Dealer」(1976年、IKEA社内配布・後に公式に公開)からの引用。Wikiquote Sourced節に掲載、Disputed/Misattributed節への記載なし。IKEA公式サイト（inter.ikea.com）でも同文書が公開されていることを確認。",
+      "morning_score": 9,
+      "morning_breakdown": "A2B2C2D2E1",
+      "resonance": [
+        "nocon",
+        "lazy"
+      ]
+    },
+    {
+      "id": "q0870",
+      "text_ja": "信じたことは、とことん売り込む。それが私。",
+      "text_orig": "I have never worked a day in my life without selling. If I believe in something, I sell it, and I sell it hard.",
+      "person": "エスティ・ローダー",
+      "person_note": "Estée Lauder 創業者",
+      "tier": "legend",
+      "modes": [
+        "work"
+      ],
+      "comment": "自分の成功の理由を聞かれた時に答えた言葉。才能や運というより、自分が信じたものをどこまでも本気で伝え続けたことが全部の始まり。",
+      "active": true,
+      "source_url": "https://www.cbsnews.com/news/cosmetics-mogul-estee-lauder-dies/",
+      "source_note": "2004年4月、エスティ・ローダー死去時にCBS News・NBC Newsが報じた訃報記事の中で、本人の生前の発言として一致して引用。複数の主要報道機関（通信社経由）が同一の文言を本人談として報じており、名言まとめサイト単独の孤立引用ではないことを確認。",
+      "morning_score": 8,
+      "morning_breakdown": "A2B2C2D1E1",
+      "resonance": [
+        "hungry",
+        "nocon"
       ]
     }
   ]

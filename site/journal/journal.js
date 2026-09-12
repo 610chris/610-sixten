@@ -62,7 +62,7 @@ const ARTICLES = [
     title: "Mowalola x Air Jordan 14「Burnt Red」が9月18日発売 —— パリコレで発表、初コラボ",
     excerpt: "英国・ナイジェリア系デザイナー、モワロラ・オグンレシのレーベル「Mowalola」とジョーダン ブランドの初コラボレーション「Air Jordan 14 SP『Burnt Red』」(品番IQ5708-001)が2026年9月18日に発売される。パリ・ファッションウィーク期間中に披露された。Nice KicksとSneaker Newsが伝えた。",
     date: "2026.09.11",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-128-hero.jpg?v=902a507ff9",
     tile: "MOWALOLA x AIR JORDAN 14"
   },
   {
@@ -125,7 +125,7 @@ const ARTICLES = [
     title: "Jordan Tatum 5「Sunrise」が10月15日発売 —— ジェイソン・テイタムの最新シグネチャー、新色登場",
     excerpt: "Sneaker Newsによると、ジェイソン・テイタム（ボストン・セルティックス）のシグネチャーモデル「Jordan Tatum 5」の新色「Sunrise」が2026年10月15日に発売される。品番はIO1746-401。9月に発表されたばかりの最新シグネチャーモデルの初期カラー展開のひとつとなる。",
     date: "2026.09.10",
-    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    thumb: "../assets/journal-121-hero.jpg?v=c687506167",
     tile: "JORDAN TATUM 5 SUNRISE"
   },
   {
@@ -134,7 +134,7 @@ const ARTICLES = [
     title: "Air Jordan 1 High OG「Royal」10月10日に復刻 —— 黒×ロイヤルブルー、約10年ぶりの再登場",
     excerpt: "Air Jordan 1 High OGの定番カラー「Royal」（品番IQ5495-005）が2026年10月10日に発売。黒×ロイヤルブルーの配色が約10年ぶりに復刻する。Nice Kicks・Sneaker Bar Detroitが報じた。",
     date: "2026.09.10",
-    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    thumb: "../assets/journal-120-hero.jpg?v=ce3d1933e6",
     tile: "AIR JORDAN 1 ROYAL"
   },
   {
@@ -143,7 +143,7 @@ const ARTICLES = [
     title: "Air Jordan 14「Blue Ferrari」2027年秋発売へ —— 2014年「Ferrari」の系譜、レッドからブルーへ",
     excerpt: "Air Jordan 14の新色「Blue Ferrari」が2027年秋に発売予定。2014年発売の初代「Ferrari」のレッドスエードをブルーに置き換えた新解釈。Sneaker News・Sneaker Bar Detroitが報じた。",
     date: "2026.09.10",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-119-hero.jpg?v=e9525e943b",
     tile: "AIR JORDAN 14 BLUE FERRARI"
   },
   {
@@ -152,7 +152,7 @@ const ARTICLES = [
     title: "Air Jordan 4「Fire Red」2027年秋に復刻 —— ティンカー・ハットフィールドが手がけた1989年オリジナルカラー",
     excerpt: "Air Jordan 4の代表的カラー「Fire Red」が2027年秋に復刻。1989年のオリジナルを起点に、2020年以来の再登場となる。Sneaker News・Sneaker Bar Detroitが揃って報じた。",
     date: "2026.09.10",
-    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    thumb: "../assets/journal-118-hero.jpg?v=1bf7ba9811",
     tile: "AIR JORDAN 4 FIRE RED"
   },
   {
@@ -188,7 +188,7 @@ const ARTICLES = [
     title: "ジョーダン ブランド「テイタム5」発表 —— 復帰のジェイソン・テイタム、雑音を遮断する哲学を体現",
     excerpt: "FLY BASKETBALL CULTURE MAGAZINEによると、ジョーダン ブランドはジェイソン・テイタム（ボストン・セルティックス）のシグネチャー最新作「テイタム5」を発表した。コートを支配するテイタムのプレースタイルを軸に、軽量性と反発性を追求したデザイン。復帰した本人は「周りの雑音がなくなることはない」と自身の哲学を語っている。",
     date: "2026.09.10",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-114-hero.jpg?v=c687506167",
     tile: "JORDAN TATUM 5"
   },
   {
@@ -224,7 +224,7 @@ const ARTICLES = [
     title: "ANTA KAI 3「Alchemist」が9月12日発売 —— カイリー・アービングの哲学を映した新色",
     excerpt: "Hypebeastによると、カイリー・アービング（ダラス・マーベリックス）のシグネチャーモデル「ANTA KAI 3」の新色「Alchemist」が、2026年9月12日に135ドル（米国価格）で発売される。深いフォレストグリーンを基調に、逆境を力に変えるというアービングの哲学を表現したデザインだという。",
     date: "2026.09.09",
-    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    thumb: "../assets/journal-110-hero.jpg?v=c0927cc92a",
     tile: "ANTA KAI 3 ALCHEMIST"
   },
   {
@@ -260,7 +260,7 @@ const ARTICLES = [
     title: "Air Jordan 7「Tennis Day」が9月9日発売 —— 価格215ドル",
     excerpt: "Nice Kicksによると、Air Jordan 7の新色「Tennis Day」が9月9日、Nike.comおよび一部取扱店で発売される。価格は215ドル(米国価格)、品番はIV6508-030。",
     date: "2026.09.09",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-106-hero.jpg?v=8e43c59108",
     tile: "AIR JORDAN 7 TENNIS DAY"
   },
   {
@@ -296,7 +296,7 @@ const ARTICLES = [
     title: "Nike Ja 4「Jaws」が9月18日発売 —— サメをテーマにした新色",
     excerpt: "Sneaker Newsは、ジャ・モラントのシグネチャーモデル「Nike Ja 4」の新色「Jaws」が9月18日に発売されると報じた。品番はJA9742-400。サメをモチーフにした「Deep Water」カラーで、Sneaker Bar Detroitも公式画像を紹介している。",
     date: "2026.09.08",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-102-hero.jpg?v=46019737b6",
     tile: "NIKE JA 4 JAWS"
   },
   {
@@ -305,7 +305,7 @@ const ARTICLES = [
     title: "Nike Book 2に新色「Halloween」—— ブッカー恒例のハロウィン企画、今年はオオギー・ブギーがテーマに",
     excerpt: "Sneaker Newsは、デビン・ブッカーのシグネチャーモデル「Nike Book 2」の新色「Halloween」を公式画像で紹介。品番はIO7942-001で、Sneaker Bar Detroitによると今年10月の発売が見込まれている。テーマは「ナイトメア・ビフォア・クリスマス」の悪役オオギー・ブギー。",
     date: "2026.09.08",
-    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    thumb: "../assets/journal-101-hero.jpg?v=4bf2e1aec6",
     tile: "NIKE BOOK 2 HALLOWEEN"
   },
   {
@@ -332,7 +332,7 @@ const ARTICLES = [
     title: "Air Jordan 1 Low Element GTXに新色「Cream II」—— GORE-TEX仕様で秋冬向けに",
     excerpt: "Hypebeastは、Air Jordan 1 Low Element GTXの新色「Cream II」を紹介。SKUはFV4227-202、価格は205ドル(米国価格)で2026年内の発売が予定されている。GORE-TEXの防水ライニングを備え、秋冬シーズン向けの一足に仕上がっている。",
     date: "2026.09.08",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-098-hero.jpg?v=dac7ef199e",
     tile: "AIR JORDAN 1 LOW ELEMENT GTX CREAM II"
   },
   {
@@ -377,7 +377,7 @@ const ARTICLES = [
     title: "レブロン最新シグネチャー「LEBRON 23」新色「White & Team Red」登場",
     excerpt: "FLY BASKETBALL CULTURE MAGAZINEが、レブロン・ジェームズの最新シグネチャーモデル「LEBRON 23 EP」新色「White & Team Red」を紹介。フルレングスのZoomXフォームとカーボンファイバー製プレートで軽量性と反発力を高めた一足。",
     date: "2026.09.08",
-    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    thumb: "../assets/journal-093-hero.jpg?v=db05fb7f5a",
     tile: "LEBRON 23 WHITE TEAM RED"
   },
   {
@@ -404,7 +404,7 @@ const ARTICLES = [
     title: "新色「Idols Become Rivals」—— Air Jordan 12が9月12日発売",
     excerpt: "ジョーダン ブランドは、新色「Air Jordan 12 \"Idols Become Rivals\"」(品番: CT8013-103)を2026年9月12日にSNKRSほかで発売する。米スニーカーメディアNice Kicksが発売情報を伝えた。",
     date: "2026.09.07",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-090-hero.jpg?v=25ec1dcda0",
     tile: "AIR JORDAN 12 IDOLS BECOME RIVALS"
   },
   {
@@ -422,7 +422,7 @@ const ARTICLES = [
     title: "雨と雪の日にも履ける一足に —— Nike Air Force 1 Low GORE-TEX「Baroque Brown」発表",
     excerpt: "ナイキは「Air Force 1 Low」を冬仕様にアップデートした新色「GORE-TEX Baroque Brown」を発表した。防水素材GORE-TEXとVibram製アウトソールを組み合わせ、悪天候下でのグリップ力を高めている。品番HV5953-200、価格150ドル(米国価格)、発売時期は2026年内の見込み。",
     date: "2026.09.07",
-    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    thumb: "../assets/journal-088-hero.jpg?v=08b3ea74f2",
     tile: "NIKE AIR FORCE 1 GORE-TEX"
   },
   {
@@ -431,7 +431,7 @@ const ARTICLES = [
     title: "クラブエンブレムを刻んだコービーモデル —— Nike Kobe 3 Low Protro「Electro Purple」9月4日発売",
     excerpt: "ナイキとFCバルセロナのコラボレーション「Kobe 3 Low Protro」新色「Electro Purple」が2026年9月4日に発売された。ブラックにエレクトロパープルとメタリックゴールドを配し、クラブエンブレムをあしらったディテールが特徴。品番IO6257-001、価格200ドル(米国価格)。",
     date: "2026.09.06",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-087-hero.jpg?v=c11add1952",
     tile: "NIKE KOBE 3 LOW PROTRO"
   },
   {
@@ -440,7 +440,7 @@ const ARTICLES = [
     title: "『スペース・ジャム』30周年復刻 —— Air Jordan 9 OG「Space Jam」9月19日発売",
     excerpt: "ジョーダン ブランドは、映画『スペース・ジャム』公開30周年を記念し「Air Jordan 9 OG \"Space Jam\"」(品番: IX6179-100)を2026年9月19日に発売する。マイケル・ジョーダン時代を象徴するオリジナルカラーの復刻。",
     date: "2026.09.05",
-    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    thumb: "../assets/journal-086-hero.jpg?v=9ac8ea871e",
     tile: "AIR JORDAN 9 SPACE JAM"
   },
   {
@@ -449,7 +449,7 @@ const ARTICLES = [
     title: "サブリナ・イオネスクの4代目シグネチャー —— Nike Sabrina 4「The Switch」本日発売",
     excerpt: "ナイキは2026年9月5日、WNBAニューヨーク・リバティのサブリナ・イオネスクによるシグネチャーシューズ最新作「Nike Sabrina 4」の新色「The Switch」を発売した。Nike.comおよび一部取扱店で取り扱い、価格は$135(米国価格)。",
     date: "2026.09.05",
-    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    thumb: "../assets/journal-085-hero.jpg?v=fb2765be55",
     tile: "NIKE SABRINA 4 THE SWITCH"
   },
   {
