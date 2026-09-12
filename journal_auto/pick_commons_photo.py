@@ -364,7 +364,13 @@ def main():
         try:
             data = fetch(c['thumb'])
         except Exception as e:
-            print(f"  取得失敗 {c['title'][:50]}: {e}"); continue
+            if c['url'] and c['url'] != c['thumb']:
+                try:
+                    data = fetch(c['url'])
+                except Exception as e2:
+                    print(f"  取得失敗 {c['title'][:50]}: {e2}"); continue
+            else:
+                print(f"  取得失敗 {c['title'][:50]}: {e}"); continue
         b = blur_score(data)
         ng = blur_ng(b, product=args.product)
         if ng:

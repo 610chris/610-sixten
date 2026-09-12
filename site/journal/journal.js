@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "135-air-jordan-1-low-last-dance-at-the-garden.html",
+    cat: "KICKS",
+    title: "Air Jordan 1 Low OG「Last Dance At The Garden」が9月26日発売 —— MSGでの引退試合を再現",
+    excerpt: "ジョーダン ブランドは「Air Jordan 1 Low OG『Last Dance At The Garden』」(品番IR0088-001)を2026年9月26日にSNKRSほかで発売する。価格は155ドル(米国価格)。マイケル・ジョーダンがブルズ最後の試合でマディソン・スクエア・ガーデンに履いていった「Air Jordan 1『Chicago』」にインスパイアされた1足。Nice KicksとSneaker Bar Detroitが伝えた。",
+    date: "2026.09.12",
+    thumb: "../assets/journal-135-hero.jpg?v=6d15bae6e8",
+    tile: "AIR JORDAN 1 LOW LAST DANCE"
+  },
+  {
     href: "133-anthony-edwards-adidas-superstar-ii-bliss-blue.html",
     cat: "KICKS",
     title: "Anthony Edwards x adidas Superstar II「Bliss Blue」が9月18日発売 —— ミネソタのエースとクラシックモデルのコラボ",
