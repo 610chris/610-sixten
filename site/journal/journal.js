@@ -233,7 +233,7 @@ const ARTICLES = [
     title: "ANTA KAI 3「Alchemist」が9月12日発売 —— カイリー・アービングの哲学を映した新色",
     excerpt: "Hypebeastによると、カイリー・アービング（ダラス・マーベリックス）のシグネチャーモデル「ANTA KAI 3」の新色「Alchemist」が、2026年9月12日に135ドル（米国価格）で発売される。深いフォレストグリーンを基調に、逆境を力に変えるというアービングの哲学を表現したデザインだという。",
     date: "2026.09.09",
-    thumb: "../assets/journal-110-hero.jpg?v=c0927cc92a",
+    thumb: "../assets/journal-110-hero.jpg?v=b741469cc1",
     tile: "ANTA KAI 3 ALCHEMIST"
   },
   {

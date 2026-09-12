@@ -440,13 +440,23 @@ def main():
             print(f"  解像度不足 {c['sku']}(拡大はしない)"); continue
         print(f"保存: {args.out} ({OUT_W}x{OUT_H}) 背景 rgb{bg}")
         print(f"SOURCE: {c['page']}")
-        cw = colorway(c['name']) or {
+        cw_name = colorway(c['name'])
+        cw = cw_name or {
             'adidas': '(adidasは商品ページにカラー名を出さない。品番一致なら記事のカラーで正しい)',
             'newbalance': '(New Balanceはカラー名を出さない。品番=styleIDが一致していれば記事のカラー)',
             'puma': '(PUMAはカラー名を商品名に含める。上の商品名で記事のカラーと照合する)',
         }.get(brand, '(カラー名なし)')
-        print(f"COLORWAY: {cw} / 品番 {c['sku']}"
-              f"{'' if c['sku'] == sku else '  ※記事の品番とは別カラー。キャプションに明記する'}")
+        # 「別カラー」と言えるのは品番を渡してそれが外れた時だけ。品番を渡していない時に
+        # 別カラー扱いすると、カラー名で当てた ANTA(品番を持たない)が毎回誤警告になる
+        if sku and c['sku'] != sku:
+            note = '  ※記事の品番とは別カラー。キャプションに明記する'
+        elif not sku and cw_name and term_score(cw_name, args.terms):
+            note = '  ※カラー名が渡した語と一致＝記事と同じカラー'
+        elif not sku:
+            note = '  ※品番未指定。上の商品名が記事のカラーと一致しているか確認する'
+        else:
+            note = ''
+        print(f"COLORWAY: {cw} / 品番 {c['sku']}{note}")
         print(f'CREDIT: 画像: {label}(ブランド公式の商品画像)')
         return
     print('候補は出たが画像を保存できなかった → CC写真ルートへ'); sys.exit(2)
