@@ -166,12 +166,18 @@ GSC の clicks は GA4 の「Organic Search の PV」に近いが一致はしな
 
 | タブ | 元CSV（`data/sheets/`） |
 |---|---|
+| ダッシュボード | 目標タブを参照する進捗バー（SPARKLINE）＋グラフ5枚（表示回数・クリック・PV の日別と7日平均／目標達成率／平均掲載順位）。数式とグラフだけでデータは持たない |
+| 目標 | `goals.csv`（現在=直近30日・ペース=直近7日×30・次の目標と最終目標の達成率%）。段階は `analytics_config.json` の `goals` で変える |
+| 日別 | `daily.csv`（1行=1日。GA4 PV/ユーザー/セッション・GSC 表示回数/クリック/CTR/順位・7日平均。直近3日の検索は暫定） |
+| 直近28日_記事 / 直近28日_流入元 | `ga4_articles_28d.csv` / `ga4_channels_28d.csv` |
+| 直近28日_検索KW / 直近28日_検索ページ | `gsc_queries_28d.csv` / `gsc_pages_28d.csv` |
 | サマリ | `summary.csv`（GA4とGSCを月ごとに横並び＋備考） |
 | 検索キーワード / 検索ページ | `search_queries_all.csv` / `search_pages_all.csv` |
 | 記事別PV / 流入元 / 端末 / 読者層 | `articles_all.csv` / `channels_all.csv` / `devices_all.csv` / `audience_all.csv` |
 | 説明 | 仕組みとタブの説明 |
 
-- 仕組み: `build_sheets_csv.py` が月別CSVを縦に積んで `data/sheets/` に出す（Actions の「Build spreadsheet CSV」ステップ）。
+- 仕組み: `build_sheets_csv.py` が月別CSVを縦に積み、日別・目標・直近28日も合わせて `data/sheets/` に出す。
+  日別系は `analytics-daily.yml`（毎日 JST 10:00・`fetch_daily.py` で全期間取り直し＝冪等・今日分は取らない）、月次は `analytics-monthly.yml`。
   各タブの **A1 に `=IMPORTDATA("https://raw.githubusercontent.com/610chris/610-sixten/main/journal_auto/analytics/data/sheets/<ファイル>.csv")`** が入っていて、
   GitHub の raw CSV を直接読む。Actions が commit すればシートは勝手に最新になる（IMPORTDATA の再取得は約1時間ごと）。
 - ⚠️ **A1 の数式を消さない・上書きしない。** 消すとそのタブは二度と更新されない。
