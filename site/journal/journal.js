@@ -1322,5 +1322,28 @@ function initRelated() {
   return true;
 }
 
+// 記事ページ: Instagram埋め込みの高さ合わせ(2026-09-13設置)
+// IGのiframeが {type:"MEASURE", details:{height:N}} を postMessage してくるので、
+// それだけを見て高さを合わせる。Metaのembed.jsは読み込まない(第三者JSを入れないため)。
+function initIgEmbeds() {
+  const frames = document.querySelectorAll("iframe.ig-embed-frame");
+  if (!frames.length) return false;
+  window.addEventListener("message", function (e) {
+    if (!/^https:\/\/(www\.)?instagram\.com$/.test(e.origin)) return;
+    let data = e.data;
+    if (typeof data === "string") {
+      try { data = JSON.parse(data); } catch (err) { return; }
+    }
+    if (!data || data.type !== "MEASURE" || !data.details) return;
+    const h = parseInt(data.details.height, 10);
+    if (!h || h < 100 || h > 3000) return;
+    frames.forEach(function (f) {
+      if (f.contentWindow === e.source) f.style.height = h + "px";
+    });
+  });
+  return true;
+}
+
 initIndex();
 initRelated();
+initIgEmbeds();

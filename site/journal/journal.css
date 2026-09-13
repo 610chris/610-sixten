@@ -374,6 +374,19 @@ ul { list-style: none; }
   margin-top: 10px;
   letter-spacing: 0.04em;
 }
+/* Instagram埋め込み（引用・2026-09-13設置）
+   写真は落とさずIGのiframeに出させる。高さは journal.js の initIgEmbeds() が
+   IG側から届く MEASURE メッセージを見て実寸に直す（Metaのembed.jsは読み込まない）。 */
+.article-body .prose figure.ig-embed iframe {
+  display: block;
+  width: 100%;
+  max-width: 540px;
+  margin: 0 auto;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+.article-body .prose figure.ig-embed figcaption { text-align: center; }
+
 .article-nav {
   display: flex;
   justify-content: space-between;
