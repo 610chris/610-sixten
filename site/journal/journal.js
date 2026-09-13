@@ -3,6 +3,33 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "138-clippers-punishment-explained.html",
+    cat: "NBA",
+    title: "クリッパーズ処分の全貌 —— 1巡目指名権5つ剥奪、罰金3000万ドル、バルマー氏ら幹部も停職",
+    excerpt: "NBAは、カワイ・レナードとの契約を巡るサラリーキャップ規定違反でロサンゼルス・クリッパーズを処分した。1巡目指名権5つの剥奪、3000万ドルの罰金、オーナーのスティーブ・バルマー氏ら幹部の停職処分の中身と、リーグがここまで厳しい処分に踏み切った理由をESPNのNBA担当記者陣の分析をもとに整理する。",
+    date: "2026.09.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "CLIPPERS PUNISHMENT"
+  },
+  {
+    href: "137-beal-clippers-no3-jersey.html",
+    cat: "NBA",
+    title: "ビール、クリッパーズで背番号3に —— 「レジェンドの歴史は消えない」とクリス・ポールに敬意",
+    excerpt: "ロサンゼルス・クリッパーズのブラッドリー・ビールは、2026-27シーズンにクリス・ポールと長く結び付いてきた背番号3を着用する見通しだとESPNが11日（現地時間）伝えた。ビールは自身のSNSで「彼はレジェンドだ。あの歴史とブランドには誰も触れられないし、消すこともできない」とポールへの敬意を示した。",
+    date: "2026.09.13",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "BEAL NO. 3"
+  },
+  {
+    href: "136-clippers-kawhi-federal-investigation.html",
+    cat: "NBA",
+    title: "クリッパーズとレナードの契約疑惑、連邦検察も捜査に着手 —— NY州東部地区検事局、NBAの処分に続き刑事捜査へ",
+    excerpt: "米ニューヨーク・タイムズは11日（現地時間）、関係者の話として、ロサンゼルス・クリッパーズがカワイ・レナードへの報酬を巡りサラリーキャップ規定を回避したとされる問題について、NY州東部地区の連邦検事局が刑事捜査に着手したと報じた。ESPNが伝えた。NBAは今月、同じ疑惑でクリッパーズに1巡目指名権5つの剥奪と3000万ドルの罰金などを科したばかり。",
+    date: "2026.09.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "CLIPPERS FEDERAL PROBE"
+  },
+  {
     href: "135-air-jordan-1-low-last-dance-at-the-garden.html",
     cat: "KICKS",
     title: "Air Jordan 1 Low OG「Last Dance At The Garden」が9月26日発売 —— MSGでの引退試合を再現",
