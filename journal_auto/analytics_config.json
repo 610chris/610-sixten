@@ -2,6 +2,38 @@
   "ga4_measurement_id": "G-D2CX26H018",
   "ga4_property_id": "553866204",
   "gsc_site_url": "https://sixten.jp/",
+  "goals": [
+    {
+      "label": "月間PV（GA4）",
+      "source": "ga4",
+      "metric": "pageviews",
+      "steps": [3000, 10000, 30000, 100000],
+      "why": "最終10万PV=純広告・タイアップを媒体資料で売り込む目安として610が独自に置いた数字。AdSense公式の参加資格にPV条件は無い（support.google.com/adsense/answer/9724）"
+    },
+    {
+      "label": "月間 検索クリック（GSC）",
+      "source": "gsc",
+      "metric": "clicks",
+      "steps": [100, 500, 1000, 5000],
+      "why": "検索から実際に来た人数。SNS頼みでなく検索で読まれ続ける＝媒体としての資産性の証明（610独自の段階目標）"
+    },
+    {
+      "label": "月間 検索表示回数（GSC）",
+      "source": "gsc",
+      "metric": "impressions",
+      "steps": [3000, 10000, 50000, 200000],
+      "why": "Google検索に出た回数。クリックの手前の指標で、記事を増やすと先にここが伸びる（610独自の段階目標）"
+    },
+    {
+      "label": "平均掲載順位（GSC・小さいほど良い）",
+      "source": "gsc",
+      "metric": "position",
+      "steps": [10, 7, 5],
+      "lower_is_better": true,
+      "why": "10位以内=検索1ページ目。これより下だとほぼクリックされない（610独自の段階目標）"
+    }
+  ],
+  "_goalsとは": "スプレッドシートの「目標」「ダッシュボード」タブの目標値。steps は小さい段階から順に並べる（順位だけは大きい方から）。現在値=直近30日（昨日まで）。変えたら build_sheets_csv.py を走らせる（毎朝の自動実行でも反映される）",
   "_使い方": "GA4の測定ID(G-で始まる文字列)をここに入れて build_seo.py を実行すると、site配下の全HTMLに計測タグが入る。空のままなら1ページにも入らない(=今の状態)。設定は `python3 journal_auto/set_ga4_id.py G-XXXXXXXXXX` でも可能。",
   "_測定IDの取り方": "https://analytics.google.com/ → 管理 → プロパティを作成(名前=610 sixten / タイムゾーン=日本 / 通貨=円) → データストリーム → ウェブ → URL=https://sixten.jp サイト名=610 sixten → 作成後に表示される「測定ID」がそれ",
   "_プロパティIDの取り方": "ga4_property_id は集計スクリプト(journal_auto/analytics/fetch_ga4.py)がGA4 Data APIを叩くのに使う「数字だけのID」。測定ID(G-...)とは別物。GA4管理画面 → 管理 → プロパティの設定 の右上に出ている9桁前後の数字をそのまま文字列で入れる。例: \"123456789\"",

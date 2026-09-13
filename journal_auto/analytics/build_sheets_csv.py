@@ -116,8 +116,89 @@ SUMMARY_HEADER = [
 ]
 
 
+def build_daily() -> list[list]:
+    """日別。GA4 は計測前の日を空欄にする（0 だと「計測して0だった」に見えるため）。"""
+    import datetime as dt
+    ga4 = {r["date"]: r for r in read_rows(DATA / "daily" / "ga4.csv")}
+    gsc = {r["date"]: r for r in read_rows(DATA / "daily" / "gsc.csv")}
+    dates = sorted(set(ga4) | set(gsc))
+    if not dates:
+        return []
+    d, last, out, hist = dt.date.fromisoformat(dates[0]), dt.date.fromisoformat(dates[-1]), [], []
+    while d <= last:
+        k = d.isoformat()
+        g, s = ga4.get(k), gsc.get(k, {})
+        pv = num(g["pageviews"], int) if g else ""
+        imp, clk = num(s.get("impressions"), int), num(s.get("clicks"), int)
+        hist.append((pv, imp, clk))
+        w = hist[-7:]
+        pvs = [x[0] for x in w if x[0] != ""]
+        note = "検索は暫定（2〜3日で確定）" if (last - d).days < 3 else ""
+        out.append([k, pv, num(g["users"], int) if g else "", num(g["sessions"], int) if g else "",
+                    imp, clk, round(num(s.get("ctr")) * 100, 1), num(s.get("position")) if s else "",
+                    round(sum(pvs) / len(pvs), 1) if pvs else "",
+                    round(sum(x[1] for x in w) / len(w), 1), round(sum(x[2] for x in w) / len(w), 1), note])
+        d += dt.timedelta(days=1)
+    return out
+
+
+DAILY_HEADER = ["日付", "PV（GA4）", "ユーザー（GA4）", "セッション（GA4）", "検索表示回数（GSC）",
+                "検索クリック（GSC）", "検索CTR%", "平均掲載順位", "PV 7日平均", "表示回数 7日平均",
+                "クリック 7日平均", "備考"]
+
+
+def build_goals() -> list[list]:
+    """直近30日（データの最終日まで）を目標の段階と比べる。"""
+    import json
+    cfg = json.loads((HERE.parent / "analytics_config.json").read_text(encoding="utf-8"))
+    out = []
+    for gl in cfg.get("goals", []):
+        rows = read_rows(DATA / "daily" / f"{gl['source']}.csv")[-30:]
+        days = len(rows)
+        if gl["metric"] == "position":
+            def wavg(rs):
+                imps = sum(num(r["impressions"]) for r in rs)
+                return round(sum(num(r["position"]) * num(r["impressions"]) for r in rs) / imps, 1) if imps else ""
+            cur, pace = wavg(rows), wavg(rows[-7:])
+        else:
+            cur = sum(num(r[gl["metric"]], int) for r in rows) if rows else ""
+            last7 = rows[-7:]
+            pace = round(sum(num(r[gl["metric"]]) for r in last7) / len(last7) * 30) if last7 else ""
+        low = gl.get("lower_is_better")
+        steps = gl["steps"]
+        nxt = next((s for s in steps if cur == "" or (cur > s if low else cur < s)), None)
+        final = steps[-1]
+
+        def rate(t):
+            if cur == "" or not t:
+                return ""
+            r = (t / cur if low else cur / t) * 100 if cur else 0
+            return round(min(r, 100), 1)
+        out.append([gl["label"], cur, f"{days}日分" + ("（30日に満たない）" if days < 30 else ""),
+                    pace, nxt if nxt is not None else "全段階クリア", rate(nxt) if nxt else 100,
+                    final, rate(final), " → ".join(f"{s:,}" for s in steps), gl.get("why", "")])
+    return out
+
+
+GOALS_HEADER = ["指標", "現在（直近30日）", "集計日数", "月換算ペース（直近7日×30）", "次の目標",
+                "次の目標 達成率%", "最終目標", "最終目標 達成率%", "段階", "目標の根拠"]
+
+
 def build_all() -> dict[str, int]:
     counts = {}
+
+    for name, header, rows in (("daily.csv", DAILY_HEADER, build_daily()),
+                               ("goals.csv", GOALS_HEADER, build_goals())):
+        write(OUT / name, header, rows)
+        counts[name] = len(rows)
+    for name, header in (("ga4_articles_28d.csv", ["パス", "タイトル", "PV", "ユーザー数"]),
+                         ("ga4_channels_28d.csv", ["流入元", "セッション", "ユーザー数"]),
+                         ("gsc_queries_28d.csv", ["検索キーワード", "クリック", "表示回数", "CTR", "掲載順位"]),
+                         ("gsc_pages_28d.csv", ["ページ", "クリック", "表示回数", "CTR", "掲載順位"])):
+        src = read_rows(DATA / "daily" / name)
+        rows = [list(r.values()) for r in src]
+        write(OUT / name, header, rows)
+        counts[name] = len(rows)
 
     rows = build_summary()
     write(OUT / "summary.csv", SUMMARY_HEADER, rows)

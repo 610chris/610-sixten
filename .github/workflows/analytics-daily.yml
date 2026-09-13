@@ -1,0 +1,77 @@
+name: Analytics daily
+# 610 JOURNAL の日別データ（GA4 の PV / Search Console の表示回数・クリック）と直近28日ランキングを
+# 毎朝取り直して journal_auto/analytics/data/daily/ に保存し、スプレッドシート用CSV（data/sheets/）を作り直して commit する。
+# スプシの「日別」「目標」「ダッシュボード」タブはこのCSVを IMPORTDATA で読んでいる。
+# 月次の集計（媒体資料用）は analytics-monthly.yml が別にやる。
+#
+# cron '0 1 * * *' = 毎日 01:00 UTC = JST 10:00。昨日ぶんまでを取る（今日は途中経過なので取らない）。
+# Secrets の GA4_SA_KEY が無ければ何もせず正常終了する。
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: analytics-daily
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+
+      - name: Check setup
+        id: setup
+        env:
+          GA4_SA_KEY: ${{ secrets.GA4_SA_KEY }}
+        run: |
+          if [ -z "$GA4_SA_KEY" ]; then
+            echo "::warning::Secrets の GA4_SA_KEY が未設定です。スキップします。"
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.setup.outputs.ready == 'true'
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: journal_auto/analytics/requirements.txt
+
+      - name: Install deps
+        if: steps.setup.outputs.ready == 'true'
+        run: pip install -r journal_auto/analytics/requirements.txt
+
+      - name: Fetch daily
+        if: steps.setup.outputs.ready == 'true'
+        env:
+          GA4_SA_KEY: ${{ secrets.GA4_SA_KEY }}
+        run: |
+          printf '%s' "$GA4_SA_KEY" > "$RUNNER_TEMP/ga4-key.json"
+          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/ga4-key.json"
+          python3 journal_auto/analytics/fetch_daily.py
+
+      - name: Build spreadsheet CSV
+        if: steps.setup.outputs.ready == 'true'
+        run: python3 journal_auto/analytics/build_sheets_csv.py
+
+      - name: Commit data
+        if: steps.setup.outputs.ready == 'true'
+        run: |
+          git config user.name "analytics-daily"
+          git config user.email "actions@github.com"
+          git add journal_auto/analytics/data
+          if git diff --cached --quiet; then
+            echo "変化なし — commit しない"
+            exit 0
+          fi
+          git commit -m "analytics: 日別データを更新（$(TZ=Asia/Tokyo date +%F)）"
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
