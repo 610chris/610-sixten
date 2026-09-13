@@ -366,6 +366,8 @@ ul { list-style: none; }
   padding-left: 14px;
   border-left: 4px solid var(--accent);
 }
+/* 出典の長いURLがスマホで横にはみ出さないよう、リンクは途中でも折り返す(2026-09-13) */
+.article-body .prose a { overflow-wrap: anywhere; }
 .article-body .prose figure { margin: 2.4em 0 0; }
 .article-body .prose figure img { width: 100%; display: block; }
 .article-body .prose figcaption {
