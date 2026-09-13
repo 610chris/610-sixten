@@ -122,6 +122,11 @@ jobs:
           fi
           python3 fetch_gsc.py --summary
 
+      - name: Build spreadsheet CSV
+        # スプレッドシート（IMPORTDATA）が読む全月まとめCSVを作り直す。API不要・既存CSVを並べるだけ
+        if: steps.setup.outputs.ready == 'true' || steps.setup.outputs.gsc == 'true'
+        run: python3 journal_auto/analytics/build_sheets_csv.py
+
       - name: Commit data
         if: steps.setup.outputs.ready == 'true' || steps.setup.outputs.gsc == 'true'
         run: |
