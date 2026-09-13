@@ -160,6 +160,28 @@ GSC の clicks は GA4 の「Organic Search の PV」に近いが一致はしな
 
 ---
 
+## スプレッドシート（見る用）
+
+**[610 JOURNAL アクセス解析](https://docs.google.com/spreadsheets/d/1vT1qEZ8cpSz7htiW56LSguIN5w_Al75FDvwfJZNJmTY/edit)**
+
+| タブ | 元CSV（`data/sheets/`） |
+|---|---|
+| サマリ | `summary.csv`（GA4とGSCを月ごとに横並び＋備考） |
+| 検索キーワード / 検索ページ | `search_queries_all.csv` / `search_pages_all.csv` |
+| 記事別PV / 流入元 / 端末 / 読者層 | `articles_all.csv` / `channels_all.csv` / `devices_all.csv` / `audience_all.csv` |
+| 説明 | 仕組みとタブの説明 |
+
+- 仕組み: `build_sheets_csv.py` が月別CSVを縦に積んで `data/sheets/` に出す（Actions の「Build spreadsheet CSV」ステップ）。
+  各タブの **A1 に `=IMPORTDATA("https://raw.githubusercontent.com/610chris/610-sixten/main/journal_auto/analytics/data/sheets/<ファイル>.csv")`** が入っていて、
+  GitHub の raw CSV を直接読む。Actions が commit すればシートは勝手に最新になる（IMPORTDATA の再取得は約1時間ごと）。
+- ⚠️ **A1 の数式を消さない・上書きしない。** 消すとそのタブは二度と更新されない。
+- 加工（グラフ・並べ替え・メモ）は**別タブを作ってそっちで**やる。データタブに書き込むと `#REF!` になる。
+- 「月」列はシートが日付に自動変換するので、表示形式を `yyyy-mm` にしてある。
+- 外部URL読込の「アクセスを許可」はこのスプシでは許可済み（2026-09-13）。スプシをコピーしたら再度必要。
+- GA4 は 2026-09-13 にタグを入れたばかりなので、PV系タブ（記事別PV・流入元・端末・読者層）は 2026-10-01 の自動実行までは空で正常。
+
+---
+
 ## 普段の使い方
 
 ```bash
