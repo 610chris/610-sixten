@@ -21,7 +21,7 @@
 | 5 | 関連記事・本文内リンクを「話題の近さ」でつなぐ | 実施中（関連記事枠のみ・本文内リンクは未着手） | 2026-09-15 | 2026-09-15-related-by-topic | GA4 セッションあたりPV |
 | 6 | 日付を時刻＋タイムゾーン付きにし、更新時だけ dateModified を上げる | 実施中（構造化データ・OG・sitemap。画面表示の時刻は未着手） | 2026-09-15 | 2026-09-15-datetime-tz | GSC ニュース |
 | 7 | http→https の301（Cloudflare設定） | 未着手（Cloudflareダッシュボード操作） | | | GSC 重複件数 |
-| 8 | 国内・育成・シューズのハブページ（静的URL）を作る | 未着手 | | | GSC 分野別表示 |
+| 8 | 国内・育成・シューズのハブページ（静的URL）を作る | 実施中（/journal/japan/・/journal/kicks/ の2ハブ。チーム・選手ハブは未着手） | 2026-09-15 | 2026-09-15-category-hubs | GSC 分野別表示 |
 | 9 | 画像に width/height・WebP・軽量化 | 実施中（width/height・冒頭写真の優先読み込み・og:image実寸・300KB超の写真8枚を再圧縮。WebPは未着手） | 2026-09-15 | 2026-09-15-image-dims | GA4 セッションあたりPV・CWV |
 | 10 | Instagram → 記事の導線（ストーリーズのリンク・UTM） | 未着手 | | | GA4 参照元 |
 | 11 | X 自動投稿＋twitter:site | 未着手 | | | GA4 参照元 |

@@ -66,6 +66,25 @@ CAT_LABEL = {
     "CULTURE": "バスケとカルチャー",
     "REPORT": "取材・レポート",
 }
+# 分野ハブ(静的URL・2026-09-15 施策8)。?cat= のJS絞り込みは URL の実体が一覧1枚なので、強い分野だけ実体ページを持たせる
+HUBS = {
+    "JAPAN": {
+        "slug": "japan",
+        "title": "国内バスケ（Bリーグ・日本代表）のニュース・記事一覧",
+        "h1": "国内バスケのニュース",
+        "en": "JAPAN — B.LEAGUE / 日本代表 / ユース",
+        "desc": "B.LEAGUE（Bリーグ）、バスケ日本代表、ユース・高校・スクールなど国内バスケのニュースと読みもの。"
+        "プレスリリースなどの一次情報を出典付きで記事にしています。",
+    },
+    "KICKS": {
+        "slug": "kicks",
+        "title": "バッシュ・スニーカーのニュース・記事一覧",
+        "h1": "バッシュ・スニーカーのニュース",
+        "en": "KICKS — SIGNATURE SHOES / SNEAKERS",
+        "desc": "バッシュ（バスケットボールシューズ）とスニーカーのニュース。シグネチャーモデルの新作・発売情報・シリーズまとめを、"
+        "ブランドの発表や専門メディアの出典付きで紹介しています。",
+    },
+}
 
 warnings: list[str] = []
 changed: list[str] = []
@@ -261,6 +280,139 @@ def build_home(arts: list[dict]) -> None:
     t = between(t, "<!-- HOME-LATEST:START -->", "<!-- HOME-LATEST:END -->", cards)
     t = ensure_common_head(t)
     write_if_changed(p, t)
+
+
+# ---------------------------------------------------------------- 2b. 分野ハブ journal/<slug>/index.html(施策8)
+def hub_url(cat: str) -> str:
+    return f"{BASE}/journal/{HUBS[cat]['slug']}/"
+
+
+_HUB_REL_RE = re.compile(r'(["\'])([^"\'\s]*?)index\.html\?cat=(' + "|".join(HUBS) + r')(["\'])')
+_HUB_ABS_RE = re.compile(r"/journal/\?cat=(" + "|".join(HUBS) + r")\b")
+
+
+def apply_hub_links(t: str) -> str:
+    """ナビ・パンくず等の ?cat=JAPAN/KICKS をハブの静的URLに置き換える(冪等)"""
+    t = _HUB_REL_RE.sub(lambda m: f"{m.group(1)}{m.group(2)}{HUBS[m.group(3)]['slug']}/{m.group(4)}", t)
+    return _HUB_ABS_RE.sub(lambda m: f"/journal/{HUBS[m.group(1)]['slug']}/", t)
+
+
+def build_hubs(arts: list[dict]) -> None:
+    nav_items = [("ALL", "../index.html")] + [
+        (c, f"../{HUBS[c]['slug']}/" if c in HUBS else f"../index.html?cat={c}") for c in CATS
+    ]
+    for cat, h in HUBS.items():
+        items = [a for a in arts if a["cat"] == cat]
+        url = hub_url(cat)
+        title = f"{h['title']} | {SITE_NAME}"
+        desc = f"{h['desc']}（全{len(items)}本・新しい順）"
+        og = next((a["abs_thumb"] for a in items if a.get("abs_thumb")), f"{BASE}/assets/og-default.jpg")
+        page_ld = {
+            "@context": "https://schema.org",
+            "@type": "CollectionPage",
+            "name": h["title"],
+            "url": url,
+            "inLanguage": "ja",
+            "description": desc,
+            "isPartOf": {"@type": "WebSite", "name": ORG_NAME, "url": BASE},
+            "mainEntity": {
+                "@type": "ItemList",
+                "numberOfItems": len(items),
+                "itemListElement": [
+                    {"@type": "ListItem", "position": i + 1, "url": a["url"], "name": a["title"]}
+                    for i, a in enumerate(items[:30])
+                ],
+            },
+        }
+        bc_ld = {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": ORG_NAME, "item": BASE + "/"},
+                {"@type": "ListItem", "position": 2, "name": SITE_NAME, "item": BASE + "/journal/"},
+                {"@type": "ListItem", "position": 3, "name": cat, "item": url},
+            ],
+        }
+        nav = "\n".join(
+            f'      <a href="{href}"{" class=\"active\"" if label == cat else ""}>{label}</a>' for label, href in nav_items
+        )
+        rows = "\n".join(
+            feed_row(dict(a, href="../" + a["href"], thumb=("../" + a["thumb"]) if a.get("thumb") else None))
+            for a in items
+        )
+        t = f"""<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{esc(title)}</title>
+<meta name="description" content="{esc(desc)}">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="canonical" href="{url}">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{SITE_NAME}">
+<meta property="og:title" content="{esc(title)}">
+<meta property="og:description" content="{esc(desc)}">
+<meta property="og:url" content="{url}">
+<meta property="og:image" content="{esc(og)}">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="alternate" type="application/rss+xml" title="{SITE_NAME}" href="{FEED_URL}">
+<link rel="icon" type="image/png" href="../../assets/favicon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../journal.css">
+<script type="application/ld+json">{json.dumps(page_ld, ensure_ascii=False)}</script>
+<script type="application/ld+json">{json.dumps(bc_ld, ensure_ascii=False)}</script>
+</head>
+<body>
+
+<header class="jnav">
+  <div class="wrap jnav-inner">
+    <a href="../index.html" class="jnav-logo"><img src="../../assets/journal-logo-black.png" alt="610 Basketball Journal"></a>
+    <button class="jnav-toggle" aria-label="メニュー">☰</button>
+    <nav class="jnav-links">
+{nav}
+      <a href="../../index.html" class="jnav-home">610 — SIXTEN</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="site-intro wrap">
+    <h1>{esc(h['h1'])}<small>{esc(h['en'])}</small></h1>
+    <p>{esc(h['desc'])}</p>
+  </section>
+
+  <section class="feed wrap">
+    <div class="sec-label">{cat} STORIES</div>
+    <div class="journal-count">{cat} — {len(items)} STORIES</div>
+    <div class="feed-list">
+{rows}
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap footer-inner">
+    <img src="../../assets/logo-white-800.png" alt="610">
+    <p class="footer-about">{esc(FOOTER_ABOUT)}</p>
+    <small>© 2026 610 — sixten. ALL RIGHTS RESERVED.</small>
+  </div>
+</footer>
+
+<script>
+document.querySelector('.jnav-toggle').addEventListener('click', () => document.querySelector('.jnav-links').classList.toggle('open'));
+</script>
+</body>
+</html>
+"""
+        (JOURNAL / h["slug"]).mkdir(exist_ok=True)
+        p = JOURNAL / h["slug"] / "index.html"
+        # 計測タグ・ポリシー導線・?v= を先に付けて書く(後段と同じ結果になり、毎回の見かけの「更新」を防ぐ)
+        t = analytics_html(t, p.relative_to(SITE).as_posix(), ga4_id())
+        write_if_changed(p, version_urls(t, p.parent))
 
 
 # ---------------------------------------------------------------- 共通head
@@ -508,6 +660,9 @@ def build_sitemap(arts: list[dict]) -> None:
         f"  <url><loc>{BASE}/</loc><lastmod>{newest}</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>",
         f"  <url><loc>{BASE}/journal/</loc><lastmod>{newest}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>",
     ]
+    for c in HUBS:
+        cat_newest = max((a["iso"] for a in arts if a["cat"] == c), default=newest)
+        lines.append(f"  <url><loc>{hub_url(c)}</loc><lastmod>{cat_newest}</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>")
     for a in arts:
         lines.append(f"  <url><loc>{a['url']}</loc><lastmod>{a.get('lastmod', a['iso'])}</lastmod><priority>0.8</priority></url>")
     for m in sorted((SITE / "media").glob("*.html")):
@@ -603,7 +758,8 @@ def build_llms(arts: list[dict]) -> None:
     ]
     for c in CATS:
         n = sum(1 for a in arts if a["cat"] == c)
-        lines.append(f"- [{c}]({BASE}/journal/?cat={c}): {CAT_LABEL[c]}（{n}本）")
+        link = hub_url(c) if c in HUBS else f"{BASE}/journal/?cat={c}"
+        lines.append(f"- [{c}]({link}): {CAT_LABEL[c]}（{n}本）")
     lines += [
         "",
         "## 記事の特徴（情報の信頼性）",
@@ -675,7 +831,7 @@ def version_journal_js() -> None:
 
 
 def version_html_files() -> None:
-    for p in sorted(list(SITE.glob("*.html")) + list(JOURNAL.glob("*.html")) + list((SITE / "media").glob("*.html"))):
+    for p in sorted(list(SITE.glob("*.html")) + list(JOURNAL.glob("*.html")) + list(JOURNAL.glob("*/index.html")) + list((SITE / "media").glob("*.html"))):
         write_if_changed(p, version_urls(read(p), p.parent))
 
 
@@ -791,31 +947,32 @@ def legal_block() -> str:
     )
 
 
+def analytics_html(t: str, rel: str, mid: str) -> str:
+    # --- 計測タグ: 既存ブロックを消してから、IDがあるときだけ </head> 直前に入れ直す
+    t = GA4_BLOCK_RE.sub("", t)
+    if mid:
+        if "</head>" not in t:
+            warn(f"{rel}: </head> が無いので計測タグを入れられない")
+        else:
+            t = t.replace("</head>", ga4_block(mid) + "</head>", 1)
+
+    # --- プライバシーポリシー導線: フッターの著作権表示の直後(1回だけ)
+    t = LEGAL_BLOCK_RE.sub("", t)
+    if rel not in SKIP_LEGAL:
+        m = COPYRIGHT_RE.search(t)
+        if m:
+            t = t[: m.end()] + legal_block() + t[m.end() :]
+        else:
+            warn(f"{rel}: フッターの著作権表示が見つからずポリシー導線を置けない")
+    return t
+
+
 def apply_analytics(mid: str) -> None:
     """site配下の全HTMLに 計測タグ + プライバシーポリシー導線 を反映する"""
     targets = [p for p in sorted(SITE.rglob("*.html")) if not SKIP_HTML.match(p.name)]
     for p in targets:
-        t = read(p)
-
-        # --- 計測タグ: 既存ブロックを消してから、IDがあるときだけ </head> 直前に入れ直す
-        t = GA4_BLOCK_RE.sub("", t)
-        if mid:
-            if "</head>" not in t:
-                warn(f"{p.relative_to(SITE)}: </head> が無いので計測タグを入れられない")
-            else:
-                t = t.replace("</head>", ga4_block(mid) + "</head>", 1)
-
-        # --- プライバシーポリシー導線: フッターの著作権表示の直後(1回だけ)
-        t = LEGAL_BLOCK_RE.sub("", t)
-        rel = p.relative_to(SITE).as_posix()
-        if rel not in SKIP_LEGAL:
-            m = COPYRIGHT_RE.search(t)
-            if m:
-                t = t[: m.end()] + legal_block() + t[m.end() :]
-            else:
-                warn(f"{rel}: フッターの著作権表示が見つからずポリシー導線を置けない")
-
-        write_if_changed(p, t)
+        t = apply_hub_links(read(p))
+        write_if_changed(p, analytics_html(t, p.relative_to(SITE).as_posix(), mid))
 
     print(f"ANALYTICS: {'測定ID ' + mid if mid else '測定ID 未設定(タグなし)'} / 対象 {len(targets)}ページ")
 
@@ -827,6 +984,7 @@ def main() -> int:
     print(f"ARTICLES: {len(arts)}本 (最新 {arts[0]['href']})")
     build_journal_index(arts)
     build_home(arts)
+    build_hubs(arts)
     for a in arts:
         build_article(a, arts)
     build_sitemap(arts)

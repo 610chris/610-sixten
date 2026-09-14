@@ -1405,7 +1405,8 @@ function relCardHtml(a) {
 function markActiveTab(cat) {
   document.querySelectorAll(".jnav-links a").forEach(function (link) {
     const url = new URL(link.href, location.href);
-    const linkCat = url.searchParams.get("cat");
+    const hubMatch = url.pathname.match(/\/journal\/(japan|kicks)\/$/); // 分野ハブ(静的URL・施策8)
+    const linkCat = url.searchParams.get("cat") || (hubMatch ? hubMatch[1].toUpperCase() : null);
     const isIndex = url.pathname.endsWith("/index.html") || url.pathname.endsWith("/journal/");
     if (isIndex && !url.search && !cat && link.textContent.trim() === "ALL") link.classList.add("active");
     else if (linkCat && linkCat === cat) link.classList.add("active");
