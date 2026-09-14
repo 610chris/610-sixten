@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sixten.jp/</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-09-14</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/</loc><lastmod>2026-09-15</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-09-15</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/journal/152-nba-cup-guide.html</loc><lastmod>2026-09-15T00:52:04+09:00</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sixten.jp/journal/151-bleague-premier-guide.html</loc><lastmod>2026-09-15T00:52:05+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/150-bleague-asobisystem-kawaiilab.html</loc><lastmod>2026-09-14</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/149-devin-carter-celtics-camp-deal.html</loc><lastmod>2026-09-14T23:55:22+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/148-rucker-park-new-york-guide.html</loc><lastmod>2026-09-14T23:26:43+09:00</lastmod><priority>0.8</priority></url>
