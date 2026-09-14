@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "140-sendai-89ers-updraft.html",
+    cat: "JAPAN",
+    title: "仙台89ERS、アップドラフトとユニフォーム＆タオルスポンサー契約 —— Bプレミア初挑戦シーズンの肩に新ロゴ",
+    excerpt: "宮城県仙台市の株式会社アップドラフトは、B.LEAGUE「仙台89ERS」の2026-27シーズンにおいて、ユニフォームへの広告掲出と応援グッズ「MyPLAYERタオル」への協賛を行うと発表した。ユニフォームシャツの肩に同社ロゴを掲出する。仙台89ERSは今シーズン、最高峰の舞台「Bプレミア」に初挑戦する。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-140-hero.jpg?v=ff835500e3",
+    tile: "SENDAI 89ERS × UPDRAFT"
+  },
+  {
     href: "139-ua-fox-3.html",
     cat: "KICKS",
     title: "アンダーアーマー「フォックス3」が9月18日発売 —— ディアロン・フォックスの第3弾シグネチャー",
