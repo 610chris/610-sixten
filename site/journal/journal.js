@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "149-devin-carter-celtics-camp-deal.html",
+    cat: "NBA",
+    title: "デビン・カーター、セルティックスとキャンプ契約で合意 —— ロースター入りへ、キングス時代は平均8.9得点",
+    excerpt: "Michael Scotto（HoopsHype）が一報。ボストン・セルティックスがガードのデビン・カーターとトレーニングキャンプ契約で合意し、ロースターまたは2ウェイ契約の枠を懸けて争う。前季はキングスで平均8.9得点、3.3リバウンド、2.7アシスト。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "DEVIN CARTER"
+  },
+  {
     href: "148-rucker-park-new-york-guide.html",
     cat: "CULTURE",
     title: "ラッカーパーク（ニューヨーク）ガイド —— 場所・行き方・歴史・プレーした有名選手まとめ",
