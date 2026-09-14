@@ -3,6 +3,33 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "145-jordan-tatum-signature-series.html",
+    cat: "KICKS",
+    title: "ジョーダン「テイタム」シリーズ全モデルまとめ —— テイタム1〜テイタム5の発売日・価格・特徴",
+    excerpt: "ジェイソン・テイタムのシグネチャーシューズ「テイタム」シリーズは2023年のテイタム1に始まり、最新作テイタム5は日本で2026年10月15日発売・税込1万7160円。全5モデルの発売時期・価格・搭載テクノロジーをまとめた。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-145-hero.jpg?v=2163c215e7",
+    tile: "JORDAN TATUM SERIES"
+  },
+  {
+    href: "144-bleague-2026-27-how-to-watch.html",
+    cat: "JAPAN",
+    title: "Bリーグ 2026-27はどこで見られる？ —— Bプレミア・Bワン・Bネクストの配信・放送サービスまとめ【料金・開幕日】",
+    excerpt: "りそなグループ B.LEAGUE 2026-27 SEASONは9月22日開幕。Bプレミア・Bワン・Bネクストの全試合を配信するのはバスケットLIVE（月額770円）。U-NEXTとDAZNはBプレミア・Bワン全試合、Prime Video内のバスケットLIVEはBプレミア全試合を配信し、NHK・J SPORTSは一部試合を放送する。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-144-hero.jpg?v=4666d07e85",
+    tile: "Bリーグ 配信まとめ 2026-27"
+  },
+  {
+    href: "143-nba-2026-27-how-to-watch-japan.html",
+    cat: "NBA",
+    title: "NBA 2026-27シーズンを日本で見る方法 —— 開幕日、Prime Video・NBA docomo・WOWOWの配信範囲と料金、八村塁・河村勇輝の注目点",
+    excerpt: "NBA 2026-27シーズンは現地10月20日（日本時間21日）に開幕する。日本ではPrime Video『NBA on Prime』（プライム会員特典）、NBA docomo（レギュラーシーズン400試合を日本語実況）、WOWOW（毎週2試合＋プレーオフ）で視聴でき、NBA docomoのシーズンパスは16,500円（9月30日までは14,300円）。八村塁と河村勇輝はともにクリッパーズで新シーズンを迎える。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-143-hero.jpg?v=a20caf99ba",
+    tile: "HOW TO WATCH NBA 2026-27"
+  },
+  {
     href: "142-76ers-lebron-super-users.html",
     cat: "NBA",
     title: "76ersの「4人のスーパーユーザー」問題 —— レブロン加入で優勝オッズ改善も、勝ち星予想は小幅増にとどまる",
@@ -194,8 +221,8 @@ const ARTICLES = [
   {
     href: "121-jordan-tatum-5-sunrise.html",
     cat: "KICKS",
-    title: "Jordan Tatum 5「Sunrise」が10月15日発売 —— ジェイソン・テイタムの最新シグネチャー、新色登場",
-    excerpt: "Sneaker Newsによると、ジェイソン・テイタム（ボストン・セルティックス）のシグネチャーモデル「Jordan Tatum 5」の新色「Sunrise」が2026年10月15日に発売される。品番はIO1746-401。9月に発表されたばかりの最新シグネチャーモデルの初期カラー展開のひとつとなる。",
+    title: "テイタム5「Sunrise（サンライズ）」が10月15日発売 —— ジェイソン・テイタム最新シグネチャーの最初のカラー",
+    excerpt: "ジェイソン・テイタム（ボストン・セルティックス）のシグネチャーモデル「Jordan Tatum 5（テイタム5）」の「Sunrise（サンライズ）」が2026年10月15日に発売される。品番はIO1746-401、日本での価格は17,160円（税込）。ボストンの日の出に着想を得たテイタム5最初のカラーで、中国では9月24日に先に発売される。",
     date: "2026.09.10",
     thumb: "../assets/journal-121-hero.jpg?v=c687506167",
     tile: "JORDAN TATUM 5 SUNRISE"
@@ -257,8 +284,8 @@ const ARTICLES = [
   {
     href: "114-jordan-tatum-5.html",
     cat: "KICKS",
-    title: "ジョーダン ブランド「テイタム5」発表 —— 復帰のジェイソン・テイタム、雑音を遮断する哲学を体現",
-    excerpt: "FLY BASKETBALL CULTURE MAGAZINEによると、ジョーダン ブランドはジェイソン・テイタム（ボストン・セルティックス）のシグネチャー最新作「テイタム5」を発表した。コートを支配するテイタムのプレースタイルを軸に、軽量性と反発性を追求したデザイン。復帰した本人は「周りの雑音がなくなることはない」と自身の哲学を語っている。",
+    title: "テイタム5の発売日は10月15日、価格は17,160円 —— ジョーダン ブランドがジェイソン・テイタムの最新シグネチャーを発表",
+    excerpt: "ジョーダン ブランドがジェイソン・テイタム（ボストン・セルティックス）のシグネチャー最新作「テイタム5」を発表した。日本では2026年10月15日にNike.comなどで発売予定、価格は17,160円（税込）。ダイナミック ユーティリティ ストラップと厚さ10mmのエア ズーム ユニットを搭載し、最初のカラーは「サンライズ」となる。",
     date: "2026.09.10",
     thumb: "../assets/journal-114-hero.jpg?v=c687506167",
     tile: "JORDAN TATUM 5"
@@ -770,8 +797,8 @@ const ARTICLES = [
   {
     href: "057-converse-2faced.html",
     cat: "KICKS",
-    title: "隠れた名作「COURT STAR」が令和に蘇る —— コンバース「2FACED」9月11日先行発売",
-    excerpt: "コンバースジャパンは8月31日、80年代のアーカイブモデル「COURT STAR」を現代技術でアップデートしたバスケットボールシューズ「2FACED」を発表。MID・LOW・LE LOWの3モデルを9月11日にGALLERY・2 渋谷店とKinetics HARAJUKUで先行発売する。",
+    title: "コンバース「2FACED（2フェイスド）」MID・LOW・LE LOWの価格と発売日 —— 名作「COURT STAR」が令和に蘇る",
+    excerpt: "コンバースのバスケットボールシューズ「2FACED（2フェイスド）」は、80年代のアーカイブモデル「COURT STAR」を現代技術でアップデートした新作。MID（16,500円）・LOW（15,950円）・LE LOW（16,500円）の3モデルで、2026年9月11日にGALLERY・2 渋谷店とKinetics HARAJUKUで先行発売、9月から全国発売される。",
     date: "2026.08.31",
     thumb: "../assets/journal-057-hero.jpg?v=688ff5771e",
     tile: "2FACED"
@@ -1184,8 +1211,8 @@ const ARTICLES = [
   {
     href: "006-streetball.html",
     cat: "CULTURE",
-    title: "アスファルトの聖地 —— ラッカーパークとストリートの系譜",
-    excerpt: "NBAではない場所で、バスケが文化になった理由。",
+    title: "ラッカーパーク（ニューヨーク・ハーレム）の場所・行き方・歴史 —— アスファルトの聖地とストリートの系譜",
+    excerpt: "ラッカーパーク（Holcombe Rucker Park）は、ニューヨーク・マンハッタンのハーレム北端、155丁目とフレデリック・ダグラス・ブールバードの角にある屋外コート。最寄りは地下鉄155丁目駅（B・D線）。1950年にホルコム・ラッカーが始めた夏の大会と、1982年創設のEBCがストリートバスケの聖地を築いた。",
     date: "2026.08.01",
     thumb: "../assets/journal-006-hero.jpg?v=e6bde98804",
     tile: "RUCKER"

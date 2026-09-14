@@ -85,14 +85,30 @@ def upsert_by_date(path: Path, header: list[str], fresh: dict[str, list]) -> Non
 
 # ---------------------------------------------------------------- Search Console
 
-def gsc_query(sess, site: str, start: str, end: str, dims: list[str], limit: int) -> list[dict]:
+def gsc_query(sess, site: str, start: str, end: str, dims: list[str], limit: int,
+              paginate: bool = False) -> list[dict]:
     url = GSC_API.format(site=urllib.parse.quote(site, safe=""))
-    body = {"startDate": start, "endDate": end, "dimensions": dims, "rowLimit": limit,
-            "dataState": "all"}  # final だと直近2〜3日が丸ごと欠けるので all（暫定値込み）
-    r = sess.post(url, json=body)
-    if r.status_code != 200:
-        sys.exit(f"Search Console API エラー {r.status_code}: {r.text[:400]}")
-    return r.json().get("rows", [])
+    out: list[dict] = []
+    while True:
+        body = {"startDate": start, "endDate": end, "dimensions": dims, "rowLimit": limit,
+                "startRow": len(out),
+                "dataState": "all"}  # final だと直近2〜3日が丸ごと欠けるので all（暫定値込み）
+        r = sess.post(url, json=body)
+        if r.status_code != 200:
+            sys.exit(f"Search Console API エラー {r.status_code}: {r.text[:400]}")
+        rows = r.json().get("rows", [])
+        out.extend(rows)
+        if not paginate or len(rows) < limit:
+            return out
+
+
+def upsert_by_date_key(path: Path, header: list[str], fresh: list[list], start: str) -> None:
+    """(date, key) 単位の日別CSV。今回取り直した期間(start以降)は丸ごと差し替え、それより前は残す。"""
+    keep: list[list] = []
+    if path.exists():
+        with path.open(encoding="utf-8") as f:
+            keep = [[r.get(c, "") for c in header] for r in csv.DictReader(f) if r["date"] < start]
+    write_csv(path, header, sorted(keep + fresh, key=lambda r: (r[0], r[1])))
 
 
 def fetch_gsc(sess, site: str, yesterday: dt.date) -> None:
@@ -111,6 +127,13 @@ def fetch_gsc(sess, site: str, yesterday: dt.date) -> None:
         write_csv(OUT / name, [dim, "clicks", "impressions", "ctr", "position"],
                   [[r["keys"][0], int(r["clicks"]), int(r["impressions"]), round(r["ctr"], 4),
                     round(r["position"], 1)] for r in rs])
+
+    # 施策の前後比較（growth/weekly_report.py）用: 記事×日 / 検索語×日
+    for dims, name in ((["date", "page"], "gsc_pages_daily.csv"), (["date", "query"], "gsc_queries_daily.csv")):
+        rs = gsc_query(sess, site, start, end, dims, 25000, paginate=True)
+        upsert_by_date_key(OUT / name, [*dims, "clicks", "impressions", "position"],
+                           [[*r["keys"], int(r["clicks"]), int(r["impressions"]), round(r["position"], 1)]
+                            for r in rs], start)
 
 
 # ---------------------------------------------------------------- GA4
@@ -156,6 +179,15 @@ def fetch_ga4(sess, prop: str, yesterday: dt.date) -> None:
     arts.sort(key=lambda r: -float(r[2]))
     write_csv(OUT / "ga4_articles_28d.csv", ["path", "title", "pageviews", "users"],
               [[r[0], r[1], int(float(r[2])), int(float(r[3]))] for r in arts])
+    # 記事×日のPV（施策の前後比較用）
+    pages = ga4_report(sess, prop, GA4_START, end, ["date", "pagePath"], ["screenPageViews"], 100000)
+    write_csv(OUT / "ga4_pages_daily.csv", ["date", "path", "pageviews"],
+              sorted([[f"{d[:4]}-{d[4:6]}-{d[6:]}", p, int(float(pv))] for d, p, pv in pages]))
+    # 流入元×日（SNS施策の効果測定用）
+    chd = ga4_report(sess, prop, GA4_START, end, ["date", "sessionDefaultChannelGroup"], ["sessions"], 100000)
+    write_csv(OUT / "ga4_channels_daily.csv", ["date", "channel", "sessions"],
+              sorted([[f"{d[:4]}-{d[4:6]}-{d[6:]}", c, int(float(s))] for d, c, s in chd]))
+
     ch = ga4_report(sess, prop, s28, end, ["sessionDefaultChannelGroup"], ["sessions", "totalUsers"])
     ch.sort(key=lambda r: -float(r[1]))
     write_csv(OUT / "ga4_channels_28d.csv", ["channel", "sessions", "users"],
