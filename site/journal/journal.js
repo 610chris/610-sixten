@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "153-air-jordan-5-sunset-retro.html",
+    cat: "KICKS",
+    title: "Air Jordan 5「Sunset」が2006年以来初の復刻へ —— 公式画像公開、9月下旬に発売",
+    excerpt: "ナイキは「Air Jordan 5『Sunset』」(品番IV5678-102)を、2026年9月下旬に初の公式リトロとして発売する。2006年発売のカラーウェイの初復刻となる。Sneaker Newsが公式画像とともに伝えた。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-153-hero.jpg?v=6d15bae6e8",
+    tile: "AIR JORDAN 5 SUNSET"
+  },
+  {
     href: "152-nba-cup-guide.html",
     cat: "NBA",
     title: "NBAカップとは？ —— 仕組み・賞金・歴代優勝・2026年大会の日程まとめ",
