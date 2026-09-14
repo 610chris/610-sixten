@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "139-ua-fox-3.html",
+    cat: "KICKS",
+    title: "アンダーアーマー「フォックス3」が9月18日発売 —— ディアロン・フォックスの第3弾シグネチャー",
+    excerpt: "株式会社ドームは、NBAサンアントニオ・スパーズのディアロン・フォックスの第3弾シグネチャーバスケットボールシューズ「UAフォックス3」（カラー名:ARCTIC FOX）を2026年9月18日に発売すると発表した。価格は17,930円（税込）、重量は約337g。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-139-hero.jpg?v=90debef506",
+    tile: "UA FOX 3"
+  },
+  {
     href: "138-clippers-punishment-explained.html",
     cat: "NBA",
     title: "クリッパーズ処分の全貌 —— 1巡目指名権5つ剥奪、罰金3000万ドル、バルマー氏ら幹部も停職",
