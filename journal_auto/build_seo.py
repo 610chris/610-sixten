@@ -274,6 +274,68 @@ def ensure_common_head(t: str) -> str:
 
 
 # ---------------------------------------------------------------- 3. 記事ページ
+REL_TOKEN = re.compile(r"[ァ-ヴー・]{3,}|[A-Za-z][A-Za-z0-9]{2,}|[一-龥々]{2,}")
+REL_STOP = {
+    "バスケ", "バスケットボール", "NBA", "Bリーグ", "日本", "シーズン", "発表", "開催", "選手", "チーム",
+    "契約", "ESPN", "発売", "公式", "報道", "決定", "情報", "まとめ", "記事", "モデル", "リーグ",
+    # 数字・汎用語(話題の近さを表さない)
+    "得点", "平均", "リバウンド", "アシスト", "試合", "出場", "参加", "大会", "現在", "所属", "東京",
+    "代表", "優勝", "加入", "移籍", "合意", "昇格", "就任", "記者", "報じ", "明らか", "予定", "今季", "昨季",
+    # 情報源・記者名
+    "hoopshype", "michael", "scotto", "shams", "charania", "stein", "marc", "jake", "fischer", "brian",
+    "windhorst", "haynes", "chris", "bobby", "marks", "amick", "spears", "the", "athletic", "nick", "depaula",
+}
+REL_MIN_SCORE = 3.0
+_rel_index: dict[int, tuple[dict[str, set[str]], dict[str, float]]] = {}
+
+
+def rel_terms(a: dict) -> set[str]:
+    text = f"{a.get('title', '')} {a.get('excerpt', '')}"
+    out = set()
+    for w in REL_TOKEN.findall(text):
+        w = w.strip("ー・")
+        if len(w) >= 2 and w not in REL_STOP and w.upper() not in REL_STOP:
+            out.add(w.lower() if w.isascii() else w)
+    return out
+
+
+def related_picks(a: dict, arts: list[dict], k: int = 3) -> list[dict]:
+    """共通語の IDF 合計(ありふれた語は除外)+同カテゴリ0.5 で近い記事。スコアが低い枠は従来ロジックで埋める"""
+    key = id(arts)
+    if key not in _rel_index:
+        import math
+        terms = {x["href"]: rel_terms(x) for x in arts}
+        df: dict[str, int] = {}
+        for ts in terms.values():
+            for w in ts:
+                df[w] = df.get(w, 0) + 1
+        n = len(arts)
+        idf = {w: math.log(n / c) for w, c in df.items() if c < n * 0.2}
+        _rel_index.clear()
+        _rel_index[key] = (terms, idf)
+    terms, idf = _rel_index[key]
+    mine = terms[a["href"]]
+    others = [x for x in arts if x["href"] != a["href"]]
+    scored = []
+    for i, x in enumerate(others):
+        s = sum(idf.get(w, 0) for w in mine & terms[x["href"]])
+        if s <= 0:
+            continue
+        if x["cat"] == a["cat"]:
+            s += 0.5
+        scored.append((s, -i, x))
+    scored.sort(key=lambda t: (t[0], t[1]), reverse=True)
+    picks = [x for s, _, x in scored if s >= REL_MIN_SCORE][:k]
+    same = [x for x in others if x["cat"] == a["cat"]]
+    rest = [x for x in others if x["cat"] != a["cat"]]
+    for x in same + rest:
+        if len(picks) >= k:
+            break
+        if x not in picks:
+            picks.append(x)
+    return picks
+
+
 def build_article(a: dict, arts: list[dict]) -> None:
     p = JOURNAL / a["href"]
     if not p.exists():
@@ -321,11 +383,8 @@ def build_article(a: dict, arts: list[dict]) -> None:
         if not n:
             warn(f"{a['href']}: <main class=\"article-body\"> が見つからずパンくずを入れられない")
 
-    # 関連記事の静的化(同カテゴリ優先→新しい順・journal.jsのinitRelatedと同じ)
-    others = [x for x in arts if x["href"] != a["href"]]
-    same = [x for x in others if x["cat"] == a["cat"]]
-    rest = [x for x in others if x not in same]
-    rel = "\n".join(rel_card(x) for x in (same + rest)[:3])
+    # 関連記事の静的化(話題の近さ→足りない枠は同カテゴリ優先→新しい順・2026-09-15 施策5)
+    rel = "\n".join(rel_card(x) for x in related_picks(a, arts))
     if "<!-- STATIC-RELATED:START -->" not in t:
         t, n = re.subn(
             r'<div class="related-grid" id="related-grid">\s*</div>',

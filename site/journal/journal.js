@@ -1434,11 +1434,16 @@ function initIndex() {
 }
 
 // 記事ページ: 関連記事3本(同カテゴリ優先→新しい順)
+// build_seo.py が「話題の近さ」で静的に埋めた .rel-card があればそれを残す(2026-09-15 施策5)
 function initRelated() {
   const grid = document.getElementById("related-grid");
   if (!grid) return false;
   const current = location.pathname.split("/").pop();
   const me = ARTICLES.find(function (a) { return a.href === current; });
+  if (grid.querySelector(".rel-card")) {
+    if (me) markActiveTab(me.cat);
+    return true;
+  }
   const others = ARTICLES.filter(function (a) { return a.href !== current; });
   const sameCat = me ? others.filter(function (a) { return a.cat === me.cat; }) : [];
   const rest = others.filter(function (a) { return sameCat.indexOf(a) === -1; });

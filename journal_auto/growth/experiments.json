@@ -49,6 +49,17 @@
       "hypothesis": "8〜20位で埋もれている検索語に正面から答える定番記事を出せば、同時期の新記事より表示が伸びる",
       "metric": "new_article",
       "control_pages": []
+    },
+    {
+      "id": "2026-09-15-related-by-topic",
+      "started": "2026-09-15",
+      "type": "internal_links",
+      "playbook": "施策5",
+      "pages": [],
+      "change": "全記事の「MORE FROM」関連記事3本を、同カテゴリ新しい順から「話題の近さ」(title+excerptの共通語のIDF合計+同カテゴリ0.5・スコア3未満の枠は従来ロジック)に変更。build_seo.py で静的化し、journal.js は静的カードがあれば上書きしない。",
+      "hypothesis": "読み終えた記事と同じ選手・シリーズ・大会の記事が並べば、次の記事を開く人が増えてセッションあたりPVが上がる",
+      "metric": "pv_per_session",
+      "control_pages": []
     }
   ]
 }

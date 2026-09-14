@@ -114,7 +114,7 @@ def fmt_pos(x):
 
 # ---------- 施策の判定 ----------
 
-def evaluate(exp, gsc_pages, ga4_pages, gsc_end, articles):
+def evaluate(exp, gsc_pages, ga4_pages, gsc_end, articles, ga4=()):
     s = d(exp["started"])
     elapsed = (gsc_end - s).days + 1
     res = {"exp": exp, "elapsed": max(elapsed, 0), "lines": []}
@@ -126,6 +126,41 @@ def evaluate(exp, gsc_pages, ga4_pages, gsc_end, articles):
     a0, a1 = s, s + timedelta(days=win - 1)
     nums = set(exp["pages"])
     tentative = "（暫定: 開始から14日未満）" if win < WINDOW else ""
+
+    if exp["metric"] == "pv_per_session":
+        # GA4 はGSCより遅延が小さいので GA4 の最終日で切る
+        ga_last = max((d(r["date"]) for r in ga4), default=s - timedelta(days=1))
+        ga_elapsed = (ga_last - s).days + 1
+        if ga_elapsed < 7:
+            res["verdict"] = f"判定保留（反映から{max(ga_elapsed, 0)}日分しかGA4データが無い・7日分たまったら判定）"
+            return res
+        gwin = min(WINDOW, ga_elapsed)
+        gb0, ga1 = s - timedelta(days=gwin), s + timedelta(days=gwin - 1)
+
+        def pvs(s0, e0):
+            rows = [r for r in ga4 if s0 <= d(r["date"]) <= e0]
+            pv = sum(int(r["pageviews"]) for r in rows)
+            ss = sum(int(r["sessions"]) for r in rows)
+            return len(rows), pv, ss, (pv / ss if ss else None)
+
+        nb, pb, sb, rb = pvs(gb0, s - timedelta(days=1))
+        na, pa, sa, ra = pvs(s, ga1)
+        gt = "（暫定: 開始から14日未満）" if gwin < WINDOW else ""
+        res["lines"] += [
+            f"比較期間: 前 {gb0:%m/%d}〜{s - timedelta(days=1):%m/%d}（GA4 {nb}日分） / 後 {s:%m/%d}〜{ga1:%m/%d}（GA4 {na}日分）",
+            f"セッションあたりPV: {'—' if rb is None else f'{rb:.2f}'}（PV {pb}/セッション {sb}）→ {'—' if ra is None else f'{ra:.2f}'}（PV {pa}/セッション {sa}）",
+        ]
+        if nb < 7:
+            res["verdict"] = f"判定保留（GA4設置9/13のため比較前データ不足: 開始前{nb}日分）"
+        elif sa < MIN_IMP or rb is None or ra is None:
+            res["verdict"] = f"判定保留（後期間のセッションが{sa}回で{MIN_IMP}回未満）{gt}"
+        elif ra >= rb * 1.1:
+            res["verdict"] = f"うまくいった可能性（セッションあたりPV {rb:.2f}→{ra:.2f}）{gt}"
+        elif ra <= rb * 0.9:
+            res["verdict"] = f"ダメだった可能性（セッションあたりPV {rb:.2f}→{ra:.2f}）{gt}"
+        else:
+            res["verdict"] = f"判定保留（セッションあたりPVの変化が±10%未満: {rb:.2f}→{ra:.2f}）{gt}"
+        return res
 
     if exp["metric"] == "new_article":
         per = []
@@ -258,7 +293,7 @@ def build(today):
     movers = sorted(set(per_cur) | set(per_prev), key=lambda n: per_cur[n] - per_prev[n], reverse=True)
     top_up = [n for n in movers if per_cur[n] - per_prev[n] > 0][:5]
 
-    results = [evaluate(e, gsc_pages, ga4_pages, gsc_end, articles) for e in exps]
+    results = [evaluate(e, gsc_pages, ga4_pages, gsc_end, articles, ga4) for e in exps]
 
     # 次に書く記事候補: 直近28日で表示3回以上・平均順位8〜20位の検索語
     q = defaultdict(lambda: [0, 0, 0.0])
