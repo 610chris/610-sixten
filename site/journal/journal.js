@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "150-bleague-asobisystem-kawaiilab.html",
+    cat: "JAPAN",
+    title: "B.LEAGUEとアソビシステムが連携 —— KAWAII LAB.所属5組が「B祭応援団」に就任、応援ソング「Over Drive」9月15日配信",
+    excerpt: "B.LEAGUEはアソビシステムと連携し、同社のアイドルプロジェクト「KAWAII LAB.」所属5組（FRUITS ZIPPER、CANDY TUNE、SWEET STEADY、CUTIE STREET、MORE STAR）が「B祭応援団」に就任すると発表。応援ソング「Over Drive」を9月15日に配信リリースし、9月25日のB.LEAGUE PREMIER開幕戦にはSWEET STEADYが出演する。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-150-hero.jpg?v=31371e3f9d",
+    tile: "B.LEAGUE x KAWAII LAB."
+  },
+  {
     href: "149-devin-carter-celtics-camp-deal.html",
     cat: "NBA",
     title: "デビン・カーター、セルティックスとキャンプ契約で合意 —— ロースター入りへ、キングス時代は平均8.9得点",
