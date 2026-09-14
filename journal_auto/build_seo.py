@@ -334,7 +334,11 @@ def build_hubs(arts: list[dict]) -> None:
             ],
         }
         nav = "\n".join(
-            f'      <a href="{href}"{" class=\"active\"" if label == cat else ""}>{label}</a>' for label, href in nav_items
+            f'      <a href="{href}"{active_cls}>{label}</a>'
+            for label, href, active_cls in (
+                (label, href, ' class="active"' if label == cat else "")
+                for label, href in nav_items
+            )
         )
         rows = "\n".join(
             feed_row(dict(a, href="../" + a["href"], thumb=("../" + a["thumb"]) if a.get("thumb") else None))

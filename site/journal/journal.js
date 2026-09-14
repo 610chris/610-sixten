@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "158-taj-gibson-retires-bulls-coach.html",
+    cat: "NBA",
+    title: "タジ・ギブソン、17年の現役に幕 —— ブルズでティアゴ・スプリッター新体制のアシスタントコーチへ",
+    excerpt: "Shams Charania（ESPN）が9月14日（現地時間）一報。タジ・ギブソンは17シーズンのNBA現役生活を終えて引退し、シカゴ・ブルズでティアゴ・スプリッター新ヘッドコーチのアシスタントコーチとして指導者のキャリアを歩み始める。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "TAJ GIBSON RETIRES"
+  },
+  {
     href: "157-kawhi-leonard-trade-done-deal.html",
     cat: "NBA",
     title: "カワイ・レナードのラプターズ移籍が完全合意 —— クリッパーズはインガム、ディック、指名権5つを獲得とシャムズ・シャラニア記者",
