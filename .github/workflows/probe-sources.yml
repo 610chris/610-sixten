@@ -1,7 +1,10 @@
 name: Probe sources
 # 取得元がGitHub ActionsのIPから読めるかを確かめる手動プローブ。
 # 2026-09-14: JBA公式RSS(japanbasketball.jp/japan/feed)が Actions から 403 になる件の切り分け用。
+# main に push するとクラウドルーチンが起動するので、プローブは probe-sources ブランチへの push で走らせる。
 on:
+  push:
+    branches: [probe-sources]
   workflow_dispatch:
 jobs:
   probe:
@@ -39,4 +42,5 @@ jobs:
               except Exception as e:
                   print(f'{name:24s} FAIL {e}')
           PY
-      - run: curl -sS -o /dev/null -w 'curl jba feed: %{http_code}\n' -A 'Mozilla/5.0' https://www.japanbasketball.jp/japan/feed || true
+      - run: |
+          curl -sS -o /dev/null -w 'curl jba feed: %{http_code}\n' -A 'Mozilla/5.0' https://www.japanbasketball.jp/japan/feed || true
