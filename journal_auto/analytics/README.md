@@ -216,6 +216,32 @@ python3 fetch_ga4.py --selftest       # 保存処理の自己診断（API不要�
 > 読者層（audience）は Google シグナルが有効で、かつ人数がある程度いないと
 > Google 側のしきい値で伏せられて空になる。数字が増えてから使う。
 
+## 成長施策と週次成長率レポート（2026-09-14〜）
+
+数字を上げるための施策を「やった → 前後比較 → うまくいった／ダメ／保留」で回す仕組み。
+
+| 何 | どこ |
+|---|---|
+| 施策の一覧と状態 | `journal_auto/growth/PLAYBOOK.md`（調査原本は `research_2026-09-14.md`） |
+| 施策ログ（開始日・対象記事・対照群・指標） | `journal_auto/growth/experiments.json` |
+| レポート生成 | `journal_auto/growth/weekly_report.py`（外部ライブラリ不要・`data/daily/` を読む） |
+| 自動生成 | `.github/workflows/analytics-weekly.yml`（毎週月曜 JST 11:00 → `data/reports/YYYY-MM-DD.md` と `.mail.txt` を commit） |
+| メール送信 | ローカルMac の launchd `com.610sixten.weekly-report`（毎週月曜 12:00）→ `~/.claude/scripts/journal_weekly_mail.sh` が Mail.app で自分宛に送る（週1回だけ・ログは `~/.claude/state/journal_weekly_mail.log`） |
+
+```bash
+python3 journal_auto/growth/weekly_report.py                       # 今日の日付で data/reports/ に作る
+python3 journal_auto/growth/weekly_report.py --date 2026-09-21 --out /tmp/x
+```
+
+施策を始めたら `experiments.json` に1件足す（`metric` は `ctr` / `impressions` / `new_article`、
+CTR施策は触っていない似た記事を `control_pages` に入れる）。判定基準:
+
+- 後期間の表示が30回未満 → 判定保留（偶然と区別できない）
+- `ctr` … 対照群とのCTR差が +1pt 以上（かつクリック2回以上）でうまくいった可能性 / -1pt 以下でダメ
+- `impressions` … 比較先との表示伸び率差 ±20%
+- `new_article` … 公開後14日の表示が、開始前28日に出た他の新記事（14日ぶんデータが揃ったものだけ）の中央値の1.5倍以上／0.67倍以下
+- 比較は開始前14日 vs 開始後14日。7日未満は保留、7〜13日は「暫定」
+
 ## 知っておくこと
 
 - **このリポジトリは public** なので、ここに commit される PV/UU は誰でも見られる。

@@ -1,0 +1,42 @@
+{
+  "_readme": "施策ログ。1施策=1件。pages/control_pages は記事番号(3桁)。started はサイトに反映(push)した日。metric: ctr=CTR差 / impressions=表示回数の伸び率差 / new_article=公開後の表示を同時期の他の新記事と比較。weekly_report.py が毎週この一覧を読んで前後比較・判定する。",
+  "experiments": [
+    {
+      "id": "2026-09-14-ctr-zero-click",
+      "started": "2026-09-14",
+      "type": "ctr",
+      "playbook": "施策1",
+      "pages": ["079", "089", "042", "036", "037", "041", "074", "071", "040"],
+      "queries": ["wnba コミッショナー", "キャシー・エンゲルバート"],
+      "change": "直近28日で表示12〜52回・クリック0の9記事の title / description / og / JSON-LD / journal.js を、検索語(選手名・チーム名)を先頭に置いた形に書き換え。「ESPN、〜を展望」型の伝聞タイトルもやめた。h1 と本文は変えていない。",
+      "hypothesis": "順位は同じでも、検索語が先頭にあるタイトルのほうが押されやすくなり CTR が上がる。",
+      "metric": "ctr",
+      "control_pages": ["024", "046", "070", "020", "109"],
+      "control_note": "同じく直近28日で表示8〜10回・クリック0の記事をわざと触らずに残した対照群。"
+    },
+    {
+      "id": "2026-09-14-refresh-4-articles",
+      "started": "2026-09-14",
+      "type": "content",
+      "playbook": "施策1+リライト",
+      "pages": ["006", "057", "114", "121"],
+      "queries": ["ラッカーパーク", "コンバース 2faced", "tatum5", "テイタム5 発売日"],
+      "change": "検索での表示が多い4記事の title / description / h1 / og / JSON-LD を検索意図(場所・行き方、価格と発売日)に合わせて書き換え、h2 セクションと出典を追記。",
+      "hypothesis": "検索意図に答える見出しと本文を足すと、順位と表示回数が伸びる。",
+      "metric": "impressions",
+      "control_pages": []
+    },
+    {
+      "id": "2026-09-14-evergreen-articles",
+      "started": "2026-09-14",
+      "type": "new_article",
+      "playbook": "施策16",
+      "pages": ["143", "144", "145"],
+      "queries": ["nba 見る方法", "bリーグ 配信", "テイタム シリーズ"],
+      "change": "ニュースではなく「探して読まれる」定番型の記事を3本公開: 143 NBA 2026-27を日本で見る方法 / 144 Bリーグ 2026-27の配信・放送まとめ / 145 ジョーダン テイタムシリーズ全モデルまとめ。FAQPage 構造化データ付き(143・145)。",
+      "hypothesis": "検索需要が継続する定番記事は、同時期に出したニュース記事より公開後の表示回数が多い。",
+      "metric": "new_article",
+      "control_pages": []
+    }
+  ]
+}

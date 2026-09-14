@@ -1,0 +1,48 @@
+name: Analytics weekly report
+# 610 JOURNAL 週次成長率レポート。analytics-daily.yml が毎朝更新する日別CSVと growth/experiments.json から
+# 今週 vs 先週の数字・施策ごとの前後比較と判定・次に書く記事候補を作り、
+# journal_auto/analytics/data/reports/YYYY-MM-DD.md と .mail.txt に保存して commit する。
+# メール送信は Mac の launchd（~/.claude/scripts/journal_weekly_mail.sh・月曜12:00）が pull して送る。
+#
+# cron '0 2 * * 1' = 毎週月曜 02:00 UTC = JST 11:00（daily の JST 10:00 の後）。外部ライブラリ・Secrets 不要。
+on:
+  schedule:
+    - cron: '0 2 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: analytics-weekly
+  cancel-in-progress: false
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            journal_auto
+            site/journal
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build weekly report
+        run: python3 journal_auto/growth/weekly_report.py
+
+      - name: Commit report
+        run: |
+          git config user.name "analytics-weekly"
+          git config user.email "actions@github.com"
+          git add journal_auto/analytics/data/reports
+          if git diff --cached --quiet; then
+            echo "変化なし — commit しない"
+            exit 0
+          fi
+          git commit -m "analytics: 週次成長率レポート（$(TZ=Asia/Tokyo date +%F)）"
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
