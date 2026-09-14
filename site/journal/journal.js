@@ -12,6 +12,15 @@ const ARTICLES = [
     tile: "SENDAI 89ERS × UPDRAFT"
   },
   {
+    href: "141-japan-korea-asian-games.html",
+    cat: "JAPAN",
+    title: "男子日本代表、アジア大会で韓国に83-100で敗戦 —— 黒川虎徹が21得点、グループ2位で決勝Tへ",
+    excerpt: "9月13日、愛知国際アリーナで「第20回アジア競技大会（愛知・名古屋2026）」男子バスケットボールのグループフェーズが行われ、男子日本代表が韓国代表と対戦し83-100で敗れた。黒川虎徹が4本の3ポイントを含む21得点を挙げたが及ばず、日本はグループAを2位で通過し決勝トーナメントに進む。",
+    date: "2026.09.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "JAPAN vs KOREA"
+  },
+  {
     href: "139-ua-fox-3.html",
     cat: "KICKS",
     title: "アンダーアーマー「フォックス3」が9月18日発売 —— ディアロン・フォックスの第3弾シグネチャー",
