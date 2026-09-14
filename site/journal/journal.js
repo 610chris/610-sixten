@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "155-kobe-3-protro-orca.html",
+    cat: "KICKS",
+    title: "Nike Kobe 3 Protro「Orca」が9月26日発売 —— 2007年オリジナルのハイトップ形状で復刻",
+    excerpt: "ナイキは「コービー3 プロトロ」の新色「Orca」(品番IQ5340-001)を2026年9月26日に発売する。近年主流だったロートップではなく2007年オリジナルと同じハイトップ形状を採用し、最新プロトロの性能面のアップデートを組み込んだ。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "KOBE 3 PROTRO ORCA"
+  },
+  {
+    href: "154-air-bakin-varsity-red.html",
+    cat: "KICKS",
+    title: "Nike Air Bakin OG「Varsity Red」が9月29日発売 —— 90年代バスケの一足、170ドルでSNKRSへ",
+    excerpt: "ナイキは1990年代後半のバスケットボールシューズ「Air Bakin OG」の新色「Varsity Red」を、2026年9月29日にSNKRSと一部店舗で発売する。価格は170ドル(米国価格)。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "AIR BAKIN VARSITY RED"
+  },
+  {
     href: "153-air-jordan-5-sunset-retro.html",
     cat: "KICKS",
     title: "Air Jordan 5「Sunset」が2006年以来初の復刻へ —— 公式画像公開、9月下旬に発売",
