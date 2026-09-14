@@ -1,0 +1,5 @@
+node_modules/
+out/
+# video_input.py が記事ごとに自動生成する入力と背景（動画は GitHub Release に置く）
+input/auto/
+public/assets/journal/auto/

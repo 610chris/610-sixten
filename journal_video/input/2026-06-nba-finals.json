@@ -1,0 +1,13 @@
+{
+  "label": "NEWS",
+  "headline": "NBA Finals",
+  "body": [
+    "2026年、NBAチャンピオンは",
+    "ニューヨーク・ニックス！",
+    "エース ブランソンが45得点の活躍。",
+    "94-90で53年ぶりの優勝。",
+    "おめでとう！"
+  ],
+  "background": { "type": "image", "src": "assets/placeholder.jpg" },
+  "brandTag": { "type": "logo", "src": "assets/610journal-logo.png" }
+}

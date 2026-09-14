@@ -431,6 +431,9 @@ def main():
                 print(f'合成: 切らずに収める（レターボックス・背景 rgb{bg}）')
             else:
                 save_hero(data, args.out, **crop_opts)
+                from pick_commons_photo import record_hero_source
+                record_hero_source(args.out, src, c['page'],
+                                   f"撮影: {c['author'] or '不明'} / {lic}, via Flickr", 'flickr')
             bs = f'{b[0]:.0f}/縮小{b[1]:.0f}' if b is not None else 'skip'
             print(f'保存: {args.out} ({OUT_W}x{OUT_H}) 元={w}x{h} ボケ判定={bs}')
         print(f"FILE: {c['title']}\nPAGE: {c['page']}\nLICENSE: {lic} ({c.get('lic_url')})")

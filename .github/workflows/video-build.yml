@@ -1,0 +1,48 @@
+name: Video build
+# 記事が IG キュー（journal_auto/ig_queue.json）に積まれたら、その記事の縦型ニュース動画（1080x1920）を
+# journal_video/（Remotion）で書き出し、Release「videos」に置く。背景は該当選手の写真（journal_auto/video_input.py）。
+# 2026-09-14 設置（クリス指示「俺は1つも動きたくない。完全自動で記事が作られる形がいいんだ」）。
+# 記録（video_status.json）も Release 側に置くので、この workflow は commit/push しない＝他の起動を誘発しない。
+on:
+  push:
+    branches: [main]
+    paths:
+      - journal_auto/ig_queue.json
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: '記事番号（空白区切り・空なら未作成の記事すべて）'
+        default: ''
+      force:
+        description: 'true で作成済みでも作り直す'
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: video-build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: journal_video/package-lock.json
+      - name: Install
+        run: |
+          pip install --quiet pillow numpy opencv-python-headless
+          cd journal_video && npm ci
+      - name: Build videos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          FORCE=""
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE="--force"; fi
+          python3 journal_auto/video_build.py ${{ github.event.inputs.ids }} $FORCE

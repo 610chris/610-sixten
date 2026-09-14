@@ -167,6 +167,8 @@ def cmd_add(args):
         "photo_credit": args.photo_credit or meta["photo_credit"],
         "url": meta["url"],
         "hero_path": meta["hero_path"],
+        # 動画(video_input.py)の背景写真を探す検索語。記事の主役の選手名（英語）
+        "subject": [s.strip() for s in (args.subject or []) if s.strip()],
         "images": [],
         "state": "pending",
         "created": datetime.now(JST).isoformat(timespec="seconds"),
@@ -183,6 +185,8 @@ def cmd_add(args):
             return
         item["state"] = old["state"]
         item["images"] = old["images"]
+        if not item["subject"]:
+            item["subject"] = old.get("subject", [])
         data["items"] = [item if x["id"] == aid else x for x in data["items"]]
         print(f"[update] {aid} {item['headline']}")
     else:
@@ -250,6 +254,8 @@ def main():
     a.add_argument("--caption", help="キャプション全文（省略時は自動生成）")
     a.add_argument("--source", help="出典（例: Nice Kicks / Shams Charania（ESPN））")
     a.add_argument("--photo-credit", dest="photo_credit", help="省略時は記事のfigcaptionから")
+    a.add_argument("--subject", nargs="*",
+                   help="記事の主役の選手名（英語・複数可）。縦型動画の背景写真の検索に使う")
     a.add_argument("--category")
     a.add_argument("--date")
     a.set_defaults(func=cmd_add)

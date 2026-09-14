@@ -1,0 +1,11 @@
+{
+  "label": "NEWS",
+  "headline": "速報",
+  "body": [
+    "契約合意。"
+  ],
+  "background": {
+    "type": "image",
+    "src": "assets/test/hero-1600x900.jpg"
+  }
+}

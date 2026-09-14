@@ -207,9 +207,13 @@ PR TIMES / インサイダー / ESPN とは独立に、毎回必ずこれも行�
 python3 journal_auto/ig_queue.py add NNN \
   --headline "IG用の短い見出し（1〜2行で読める長さ。記事タイトルが長い時は詰める）" \
   --points "要点1" "要点2" "要点3" \
-  --source "出典（記事末尾の出典ブロックと同じ表記）"
+  --source "出典（記事末尾の出典ブロックと同じ表記）" \
+  --subject "Bradley Beal"
 python3 journal_auto/ig_card.py NNN
 ```
+
+- `--subject` は**記事の主役の選手名（英語表記・複数可）**。KICKS 記事はそのシグネチャー選手（例: adidas AE 3 → `"Anthony Edwards"`）。特定の選手がいない記事（リーグ全体の話・シグネチャーでない靴など）は省略する。縦型ニュース動画の背景写真をこの名前で探す
+- **縦型ニュース動画（1080×1920）は push 後に GitHub Actions（video-build.yml）が自動で作る**。ルーチン側で動画の作業はしない
 
 - `--headline` は**カードの表紙に入る文字**。og:title が長い記事はそのままだと4行になって窮屈なので、固有名詞を残して詰める（例: 「adidas Anthony Edwards 3「Cold Blooded」が9月18日発売 —— 3代目シグネチャーに新色」→「adidas AE 3「Cold Blooded」が9月18日発売」）
 - `--points` は**2枚目に載る要点3行**。1行40字程度まで。リリースに無い事実を足さない（記事本文と同じ規律）

@@ -287,6 +287,27 @@ def save_hero(data, out, crop_y=None, face_top=FACE_TOP, use_face=True):
             f.write(data)
 
 
+def record_hero_source(out, url, page, credit, via):
+    """記事ヒーロー（人物写真）の元画像URLを journal_auto/hero_sources.json に残す。
+
+    ヒーローは 1600x900 に切った後なので、縦型動画（1080x1920）の背景には解像度が足りない。
+    video_input.py がここから原寸を取り直して縦に切り直す。--out が journal-NNN-hero.jpg の時だけ記録する。
+    """
+    m = re.search(r'journal-(\d{3})-hero\.jpg$', out or '')
+    if not m or not url:
+        return
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'hero_sources.json')
+    try:
+        with open(path, encoding='utf-8') as f:
+            data = json.load(f)
+    except (FileNotFoundError, ValueError):
+        data = {}
+    data[m.group(1)] = {'url': url, 'page': page or '', 'credit': credit, 'via': via}
+    with open(path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=True)
+        f.write('\n')
+
+
 def main():
     global MIN_W
     ap = argparse.ArgumentParser()
@@ -384,6 +405,8 @@ def main():
                 print(f'合成: 切らずに収める（レターボックス・背景 rgb{bg}）')
             else:
                 save_hero(data, args.out, **crop_opts)
+                record_hero_source(args.out, c['url'], c['page'],
+                                   f"撮影: {c['artist'] or '不明'} / {c['license']}, via Wikimedia Commons", 'commons')
             bs = f'{b[0]:.0f}/縮小{b[1]:.0f}' if b is not None else 'skip'
             print(f"保存: {args.out} ({OUT_W}x{OUT_H}) 元={c['width']}x{c['height']} 撮影={c['taken']} ボケ判定={bs}")
         print(f"FILE: {c['title']}\nPAGE: {c['page']}\nTAKEN: {c['taken']}")
