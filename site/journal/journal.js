@@ -1169,7 +1169,7 @@ const ARTICLES = [
     title: "深夜2時、W杯への初戦 —— 最終予選サウジアラビア戦、ABEMAが無料生中継",
     excerpt: "W杯2027アジア最終予選が8月27日に開幕。八村塁と河村勇輝が合流予定の初戦を、ABEMAが無料生中継する。",
     date: "2026.08.14",
-    thumb: "../assets/journal-010-hero.jpg?v=b425540e41",
+    thumb: "../assets/journal-010-hero.jpg?v=bd2e568b66",
     tile: "WINDOW4"
   },
   {
@@ -1187,7 +1187,7 @@ const ARTICLES = [
     title: "有明に、日の丸のエースが帰ってきた —— 八村塁と河村勇輝、約2年ぶりの代表戦をABEMAが無料生中継",
     excerpt: "8月16日・有明アリーナの韓国戦。パリ五輪以来およそ2年ぶりに、2人が代表のコートへ戻る。",
     date: "2026.08.12",
-    thumb: "../assets/journal-009-hero.jpg?v=cf9db437dd",
+    thumb: "../assets/journal-009-hero.jpg?v=dc4637e456",
     tile: "ARIAKE"
   },
   {
@@ -1223,7 +1223,7 @@ const ARTICLES = [
     title: "整えることから、始まる —— マンダムが「BLACK SAMURAI SUMMIT 2026」ローカルパートナーに就任",
     excerpt: "ギャツビーが「部活ヘアサロン」でスタイリングとマインドセットを次世代へ。GAME DAYにはサンプリングも。",
     date: "2026.08.06",
-    thumb: "../assets/journal-011-hero.jpg?v=ce402f097d",
+    thumb: "../assets/journal-011-hero.jpg?v=f52fceea94",
     tile: "GATSBY"
   },
   {
@@ -1241,7 +1241,7 @@ const ARTICLES = [
     title: "神戸の2日間を、神戸が運ぶ —— G LION GROUPが「BLACK SAMURAI KOBE CAMP」モビリティパートナーに",
     excerpt: "GLION ARENA KOBE開催のキャンプへBMW X7を提供。会場も移動も神戸の企業が支える2日間。",
     date: "2026.08.03",
-    thumb: "../assets/journal-012-hero.jpg?v=465eeda7f2",
+    thumb: "../assets/journal-012-hero.jpg?v=dd12ace6c8",
     tile: "GLION"
   },
   {
@@ -1277,7 +1277,7 @@ const ARTICLES = [
     title: "日本バスケの過去・現在・未来を、この3人で —— 田臥勇太×八村塁×佐々木クリス、SUMMITでスペシャル対談",
     excerpt: "8月8日、名古屋IG ARENAのGAME DAYで実現。テーマは日本バスケットボール業界の過去・現在・未来。",
     date: "2026.07.27",
-    thumb: "../assets/journal-015-hero.jpg?v=3258a0a882",
+    thumb: "../assets/journal-015-hero.jpg?v=3d58e13c16",
     tile: "LEGENDS"
   },
   {
@@ -1287,7 +1287,7 @@ const ARTICLES = [
     excerpt: "2年ぶり2回目のボール寄贈。大磯高校と山北高校へ、計40球。",
     date: "2026.07.24",
     thumb: "../assets/journal-008-hero.jpg?v=721929fb6c",
-    heroThumb: "../assets/journal-008-group.jpg?v=c267afe6f2",
+    heroThumb: "../assets/journal-008-group.jpg?v=9de3b89a29",
     featured: true
   },
   {
@@ -1305,7 +1305,7 @@ const ARTICLES = [
     title: "富山に、八村塁が帰ってくる —— NBA入り後初の公式凱旋イベント、8月22日にYKK AP ARENAで",
     excerpt: "8月22日、富山Homecomingで八村塁がNBA入り後初の公式凱旋。昼はクリニック、夜は祭り。",
     date: "2026.07.24",
-    thumb: "../assets/journal-019-hero.jpg?v=8ec482c46b",
+    thumb: "../assets/journal-019-hero.jpg?v=1609756c1b",
     tile: "TOYAMA"
   },
   {
@@ -1314,7 +1314,7 @@ const ARTICLES = [
     title: "コートの熱を、写真に残す人を育てる —— キヤノンMJが八村塁主宰「BLACK SAMURAI 2026」に協賛",
     excerpt: "キヤノンMJがBLACK SAMURAI 2026の神戸・名古屋に協賛。若手スポーツフォトグラファー育成プログラムを実施する。",
     date: "2026.07.22",
-    thumb: "../assets/journal-017-hero.jpg?v=7d73428beb",
+    thumb: "../assets/journal-017-hero.jpg?v=923ec8a0ff",
     tile: "CANON"
   },
   {

@@ -84,6 +84,8 @@ def read(p: Path) -> str:
 
 
 def write_if_changed(p: Path, new: str) -> None:
+    if p.suffix == ".html":
+        new = add_img_dims(new, p.parent)  # 途中の工程で width なしのカードを書いて戻す往復(見かけの「更新」)を防ぐ
     old = p.read_text(encoding="utf-8") if p.exists() else None
     if old != new:
         p.write_text(new, encoding="utf-8")
@@ -470,6 +472,18 @@ def build_article(a: dict, arts: list[dict]) -> None:
 
     t = re.sub(r'(<img src="[^"]*") alt=""(>\s*)<figcaption>(.*?)</figcaption>', fix_alt, t, flags=re.S)
 
+    # 画像(2026-09-15 施策9): 最初の見出しより前にある冒頭写真は最優先で読み込む(LCP)・og:image に実寸
+    t = re.sub(r'(<div class="prose">(?:(?!<h2)(?!fetchpriority).)*?<figure>\s*<img)(?=\s)(?![^>]*(?:fetchpriority|loading=))',
+               r'\1 fetchpriority="high"', t, count=1, flags=re.S)
+    og = re.search(r'<meta property="og:image" content="([^"]+)">\n', t)
+    t = re.sub(r'<meta property="og:image:(?:width|height)" content="\d+">\n', "", t)
+    if og:
+        op = resolve_local(og.group(1).split("?")[0], p.parent)
+        dims = img_dims(op) if op else None
+        if dims:
+            t = t.replace(og.group(0), og.group(0) + f'<meta property="og:image:width" content="{dims[0]}">\n'
+                          f'<meta property="og:image:height" content="{dims[1]}">\n', 1)
+
     # 検証
     if f'<link rel="canonical" href="{a["url"]}">' not in t:
         warn(f"{a['href']}: canonical が {a['url']} と一致しない")
@@ -631,6 +645,57 @@ def version_journal_js() -> None:
 def version_html_files() -> None:
     for p in sorted(list(SITE.glob("*.html")) + list(JOURNAL.glob("*.html")) + list((SITE / "media").glob("*.html"))):
         write_if_changed(p, version_urls(read(p), p.parent))
+
+
+# ---------------------------------------------------------------- 画像の実寸(2026-09-15 施策9)
+# 記事写真の <img> に width/height を付けると、読み込み前に高さの枠が確保されてレイアウトがずれない(CLS)。
+# 表示幅は CSS(width:100%; height:auto / サムネは object-fit)が決めるので見た目は変わらない。
+# ロゴは CSS が高さだけ指定しているため付けない(付けると横幅が実寸になり崩れる)。Pillow 不要の自前読み取り。
+_dim_cache: dict[Path, tuple[int, int] | None] = {}
+_IMG_TAG_RE = re.compile(r"<img\b[^>]*>")
+_CONTENT_IMG_RE = re.compile(r"assets/journal-(?!logo)[^\"?]+\.(?:jpe?g|png)(?:\?|$)", re.I)
+
+
+def img_dims(p: Path) -> tuple[int, int] | None:
+    if p in _dim_cache:
+        return _dim_cache[p]
+    dims = None
+    b = p.read_bytes()
+    if b[:8] == b"\x89PNG\r\n\x1a\n":
+        dims = (int.from_bytes(b[16:20], "big"), int.from_bytes(b[20:24], "big"))
+    elif b[:2] == b"\xff\xd8":
+        i = 2
+        while i + 9 < len(b):
+            if b[i] != 0xFF:
+                i += 1
+                continue
+            mk = b[i + 1]
+            if mk in (0xD8, 0x01) or 0xD0 <= mk <= 0xD7 or mk == 0xFF:
+                i += 1 if mk == 0xFF else 2
+                continue
+            seg = int.from_bytes(b[i + 2 : i + 4], "big")
+            if mk in (0xC0, 0xC1, 0xC2, 0xC3, 0xC5, 0xC6, 0xC7, 0xC9, 0xCA, 0xCB, 0xCD, 0xCE, 0xCF):
+                dims = (int.from_bytes(b[i + 7 : i + 9], "big"), int.from_bytes(b[i + 5 : i + 7], "big"))
+                break
+            i += 2 + seg
+    _dim_cache[p] = dims if dims and all(dims) else None
+    return _dim_cache[p]
+
+
+def add_img_dims(text: str, base_dir: Path) -> str:
+    def sub(m: re.Match) -> str:
+        tag = m.group(0)
+        src = re.search(r'src="([^"]+)"', tag)
+        if not src or not _CONTENT_IMG_RE.search(src.group(1)):
+            return tag
+        p = resolve_local(src.group(1).split("?")[0], base_dir)
+        dims = img_dims(p) if p else None
+        if not dims:
+            return tag
+        tag = re.sub(r'\s(?:width|height)="\d+"', "", tag)
+        return tag.replace(src.group(0), f'{src.group(0)} width="{dims[0]}" height="{dims[1]}"', 1)
+
+    return _IMG_TAG_RE.sub(sub, text)
 
 
 # ---------------------------------------------------------------- 8. アクセス解析(GA4)

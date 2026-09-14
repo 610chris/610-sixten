@@ -978,7 +978,7 @@ footer {
   border-left: 3px solid var(--accent);
 }
 .article-body .prose figure { margin: 2.4em 0 0; }
-.article-body .prose figure img { width: 100%; display: block; border-radius: 4px; }
+.article-body .prose figure img { width: 100%; height: auto; display: block; border-radius: 4px; }
 .article-body .prose figcaption {
   margin-top: 10px;
   font-size: 12px;

@@ -71,6 +71,17 @@
       "hypothesis": "日時とタイムゾーンが明確になり、更新記事の dateModified が正しく上がれば、ニュース系の表示（GSC全体の表示）が伸びる",
       "metric": "impressions",
       "control_pages": []
+    },
+    {
+      "id": "2026-09-15-image-dims",
+      "started": "2026-09-15",
+      "type": "performance",
+      "playbook": "施策9",
+      "pages": [],
+      "change": "全ページの記事写真(assets/journal-*)の <img> に実寸 width/height を付与(build_seo.py が毎回自動)、各記事の最初の見出しより前の冒頭写真に fetchpriority=\"high\"、og:image:width/height を全149記事に追加、300KB超の写真のうち再圧縮で15%以上軽くなる8枚を JPEG品質82で再保存(計3,482KB→2,090KB・-39%)。記事本文の figure img に height:auto。WebP化はしていない。PageSpeed Insights API は無認証の1日上限で開始前の数値を取れなかった。",
+      "hypothesis": "写真の読み込みでレイアウトがずれなくなり、冒頭写真が早く出れば、途中離脱が減ってセッションあたりPVが上がる。※同日開始の施策5(関連記事)と同じ数字を見るため、効果はどちらのものか切り分けられない",
+      "metric": "pv_per_session",
+      "control_pages": []
     }
   ]
 }
