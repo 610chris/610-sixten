@@ -1,0 +1,56 @@
+name: National team poll
+# バスケットボール男子・女子日本代表（フル代表）の試合記事を、JBA公式サイト（一次情報）と
+# バスケットボールキング（補助）のRSSから毎時集めて journal_auto/national_feed.json + journal_auto/national_signal.txt を
+# commit&push する。push を claude.ai の webhook が受けてクラウドルーチン「610 JOURNAL 自動記事化」が即時起動し、
+# PROMPT_CLOUD.md §1e の手順で記事化する（ルーチン環境の許可リストに両媒体は無いので、ここが取得役）。
+#
+# 2026-09-14 設置（クリス指示「日本代表の記事を作成とかできる？？試合のやつ！」→「完全自動で実行して！」）。
+# 取得・抽出の中身は journal_auto/national_poll.py。public リポジトリなので記事本文は保存せず、
+# 数字を含む文・クォーター別スコア・短いコメントだけを抜いて渡す。
+# ループ安全性: ルーチンはチェックした key を必ず seen_national.txt に追記するので、未読ゼロ→commitなし→再発火なしで収束。
+on:
+  schedule:
+    - cron: '40 * * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'true で新着判定を無視して空commitをpush（疎通テスト用）'
+        default: 'false'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: national-poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+      - name: Collect national team game reports
+        id: check
+        run: |
+          echo "new=false" >> "$GITHUB_OUTPUT"
+          python3 journal_auto/national_poll.py
+      - name: Signal via push
+        if: steps.check.outputs.new == 'true' || github.event.inputs.force == 'true'
+        run: |
+          git config user.name "national-poll"
+          git config user.email "actions@github.com"
+          if [ "${{ github.event.inputs.force }}" = "true" ] && [ "${{ steps.check.outputs.new }}" != "true" ]; then
+            git commit --allow-empty -m "national-poll: 疎通テスト(force)"
+          else
+            cp /tmp/new_national.txt journal_auto/national_signal.txt
+            git add journal_auto/national_signal.txt journal_auto/national_feed.json
+            if git diff --cached --quiet; then
+              echo "signal unchanged — 前回シグナルが未処理のまま。毎時ルーチンに任せてスキップ"
+              exit 0
+            fi
+            git commit -m "national-poll: 日本代表の試合記事 新着シグナル"
+          fi
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
