@@ -274,6 +274,40 @@ def ensure_common_head(t: str) -> str:
 
 
 # ---------------------------------------------------------------- 3. 記事ページ
+JST = dt.timezone(dt.timedelta(hours=9))
+_shallow: bool | None = None
+
+
+def publish_time(p: Path, day: str) -> str | None:
+    """記事の公開時刻(JST・秒まで)。日付だけの datePublished を一度だけ時刻付きにするために使う(2026-09-15 施策6)。
+    未コミット=今まさに公開する記事は現在時刻、コミット済みは最初に git に入った時刻。
+    記事の日付と JST の日が一致しない時(一括移行した古い記事など)は時刻を作らず None。
+    shallow clone(GitHub Actions)では履歴が無いので何もしない"""
+    import subprocess
+    global _shallow
+    root = p.parent
+    try:
+        if _shallow is None:
+            _shallow = subprocess.run(["git", "rev-parse", "--is-shallow-repository"], cwd=root,
+                                      capture_output=True, text=True).stdout.strip() != "false"
+        tracked = subprocess.run(["git", "ls-files", "--error-unmatch", p.name], cwd=root,
+                                 capture_output=True, text=True).returncode == 0
+        if not tracked:
+            ts = dt.datetime.now(JST)
+        elif _shallow:
+            return None
+        else:
+            out = subprocess.run(["git", "log", "--diff-filter=A", "--format=%aI", "--", p.name], cwd=root,
+                                 capture_output=True, text=True).stdout.split()
+            if not out:
+                return None
+            ts = dt.datetime.fromisoformat(out[-1]).astimezone(JST)
+    except OSError:
+        return None
+    ts = ts.replace(microsecond=0)
+    return ts.isoformat() if ts.date().isoformat() == day else None
+
+
 REL_TOKEN = re.compile(r"[ァ-ヴー・]{3,}|[A-Za-z][A-Za-z0-9]{2,}|[一-龥々]{2,}")
 REL_STOP = {
     "バスケ", "バスケットボール", "NBA", "Bリーグ", "日本", "シーズン", "発表", "開催", "選手", "チーム",
@@ -343,6 +377,28 @@ def build_article(a: dict, arts: list[dict]) -> None:
         return
     t = read(p)
     t = ensure_common_head(t)
+
+    # 日時: datePublished を時刻+タイムゾーン付きに(一度だけ)。dateModified は本文を書き足した時だけ上げる運用
+    m = re.search(r'"datePublished": ?"([^"]*)"', t)
+    if m and len(m.group(1)) == 10 and m.group(1) == a["iso"]:
+        ts = publish_time(p, a["iso"])
+        if ts:
+            t = t.replace(m.group(0), f'"datePublished": "{ts}"', 1)
+            t = re.sub(r'"dateModified": ?"' + re.escape(a["iso"]) + '"', f'"dateModified": "{ts}"', t, count=1)
+    pub = re.search(r'"datePublished": ?"([^"]*)"', t)
+    mod = re.search(r'"dateModified": ?"([^"]*)"', t)
+    if pub:
+        t = re.sub(r'(<meta property="article:published_time" content=")[^"]*(">)',
+                   lambda x: x.group(1) + pub.group(1) + x.group(2), t, count=1)
+    if mod:
+        a["lastmod"] = mod.group(1)
+        if 'property="article:modified_time"' in t:
+            t = re.sub(r'(<meta property="article:modified_time" content=")[^"]*(">)',
+                       lambda x: x.group(1) + mod.group(1) + x.group(2), t, count=1)
+        else:
+            t = re.sub(r'(<meta property="article:published_time" content="[^"]*">\n)',
+                       lambda x: x.group(1) + f'<meta property="article:modified_time" content="{mod.group(1)}">\n',
+                       t, count=1)
 
     # article:section
     if 'property="article:section"' not in t:
@@ -437,7 +493,7 @@ def build_sitemap(arts: list[dict]) -> None:
         f"  <url><loc>{BASE}/journal/</loc><lastmod>{newest}</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>",
     ]
     for a in arts:
-        lines.append(f"  <url><loc>{a['url']}</loc><lastmod>{a['iso']}</lastmod><priority>0.8</priority></url>")
+        lines.append(f"  <url><loc>{a['url']}</loc><lastmod>{a.get('lastmod', a['iso'])}</lastmod><priority>0.8</priority></url>")
     for m in sorted((SITE / "media").glob("*.html")):
         lines.append(f"  <url><loc>{BASE}/media/{m.name}</loc><priority>0.5</priority></url>")
     if (SITE / "privacy.html").exists():

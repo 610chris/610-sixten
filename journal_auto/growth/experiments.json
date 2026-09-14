@@ -60,6 +60,17 @@
       "hypothesis": "読み終えた記事と同じ選手・シリーズ・大会の記事が並べば、次の記事を開く人が増えてセッションあたりPVが上がる",
       "metric": "pv_per_session",
       "control_pages": []
+    },
+    {
+      "id": "2026-09-15-datetime-tz",
+      "started": "2026-09-15",
+      "type": "structured_data",
+      "playbook": "施策6",
+      "pages": [],
+      "change": "datePublished/dateModified/article:published_time を時刻+タイムゾーン(+09:00)付きに(git に最初に入った時刻が記事の日付と同じ日の83本だけ。日が合わない66本は時刻を作らず日付のまま)。article:modified_time を追加、sitemap の lastmod を dateModified に。リライト済み006/057/114/121は dateModified をリライト時刻(2026-09-14 22:41)に。",
+      "hypothesis": "日時とタイムゾーンが明確になり、更新記事の dateModified が正しく上がれば、ニュース系の表示（GSC全体の表示）が伸びる",
+      "metric": "impressions",
+      "control_pages": []
     }
   ]
 }
