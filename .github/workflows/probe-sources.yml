@@ -39,4 +39,5 @@ jobs:
               except Exception as e:
                   print(f'{name:24s} FAIL {e}')
           PY
-      - run: curl -sS -o /dev/null -w 'curl jba feed: %{http_code}\n' -A 'Mozilla/5.0' https://www.japanbasketball.jp/japan/feed || true
+      - run: |
+          curl -sS -o /dev/null -w 'curl jba feed: %{http_code}\n' -A 'Mozilla/5.0' https://www.japanbasketball.jp/japan/feed || true
