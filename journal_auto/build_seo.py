@@ -10,6 +10,7 @@ JSを実行しなくても全記事に辿り着ける静的HTMLと配信ファ�
   3. site/journal/NNN-*.html  … 関連記事3本の静的化・パンくず(表示+BreadcrumbList JSON-LD)・
                                  RSS alternate・article:section・robots拡張・フッター説明文・空altの補完
   4. site/sitemap.xml         … 全ページ(lastmod=記事日付)
+     site/news-sitemap.xml    … Google News 用(公開48時間以内の記事だけ)
   5. site/feed.xml            … RSS 2.0(最新30本)
   6. site/llms.txt            … AI検索向けサイト説明+最新記事一覧
   7. キャッシュバスター(2026-09-05) … journal.js の thumb と全HTML(site/*.html, journal/*.html, media/*.html)内の
@@ -390,6 +391,7 @@ def build_article(a: dict, arts: list[dict]) -> None:
     pub = re.search(r'"datePublished": ?"([^"]*)"', t)
     mod = re.search(r'"dateModified": ?"([^"]*)"', t)
     if pub:
+        a["published"] = pub.group(1)
         t = re.sub(r'(<meta property="article:published_time" content=")[^"]*(">)',
                    lambda x: x.group(1) + pub.group(1) + x.group(2), t, count=1)
     if mod:
@@ -514,6 +516,36 @@ def build_sitemap(arts: list[dict]) -> None:
         lines.append(f"  <url><loc>{BASE}/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>")
     lines.append("</urlset>\n")
     write_if_changed(SITE / "sitemap.xml", "\n".join(lines))
+
+
+NEWS_WINDOW = dt.timedelta(hours=48)
+
+
+def build_news_sitemap(arts: list[dict]) -> None:
+    """Google News 用サイトマップ(2026-09-15 施策12)。Googleの決まりで公開48時間以内の記事だけ載せる。
+    deploy.yml が公開のたびに build_seo.py を回すので、古い記事はその時に自然に外れる。
+    日付だけの記事は JST 0時公開として扱う(遅く見積もらない=窓から早めに外れる側)"""
+    now = dt.datetime.now(JST)
+    lines = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">',
+    ]
+    for a in arts:
+        pub = a.get("published") or a["iso"]
+        try:
+            ts = dt.datetime.fromisoformat(pub if "T" in pub else pub + "T00:00:00+09:00")
+        except ValueError:
+            continue
+        if not (dt.timedelta(0) <= now - ts <= NEWS_WINDOW):
+            continue
+        lines.append(
+            f"  <url><loc>{a['url']}</loc><news:news>"
+            f"<news:publication><news:name>{esc(SITE_NAME)}</news:name><news:language>ja</news:language></news:publication>"
+            f"<news:publication_date>{pub}</news:publication_date><news:title>{esc(a['title'])}</news:title>"
+            "</news:news></url>"
+        )
+    lines.append("</urlset>\n")
+    write_if_changed(SITE / "news-sitemap.xml", "\n".join(lines))
 
 
 # ---------------------------------------------------------------- 5. RSS
@@ -798,6 +830,7 @@ def main() -> int:
     for a in arts:
         build_article(a, arts)
     build_sitemap(arts)
+    build_news_sitemap(arts)
     build_feed(arts)
     build_llms(arts)
     apply_analytics(ga4_id())

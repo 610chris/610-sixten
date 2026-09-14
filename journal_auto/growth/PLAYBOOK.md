@@ -25,7 +25,7 @@
 | 9 | 画像に width/height・WebP・軽量化 | 実施中（width/height・冒頭写真の優先読み込み・og:image実寸・300KB超の写真8枚を再圧縮。WebPは未着手） | 2026-09-15 | 2026-09-15-image-dims | GA4 セッションあたりPV・CWV |
 | 10 | Instagram → 記事の導線（ストーリーズのリンク・UTM） | 未着手 | | | GA4 参照元 |
 | 11 | X 自動投稿＋twitter:site | 未着手 | | | GA4 参照元 |
-| 12 | Google News 整備（ニュースサイトマップ等） | 未着手 | | | GSC ニュース |
+| 12 | Google News 整備（ニュースサイトマップ等） | 実施中（news-sitemap.xml を build_seo.py が毎回生成・robots.txt に登録。Publisher Center 登録は未着手） | 2026-09-15 | 2026-09-15-news-sitemap | GSC ニュース・新記事の表示 |
 | 13 | サイト名の表記を揃える | 未着手 | | | 検索結果の表示名 |
 | 14 | GSC/GA4 の週次計測と成長率レポート（メール） | 実施中 | 2026-09-14 | — | —（計測そのもの） |
 | 15 | 記事一覧の FAQPage 点検 | 未着手 | | | — |

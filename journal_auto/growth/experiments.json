@@ -82,6 +82,18 @@
       "hypothesis": "写真の読み込みでレイアウトがずれなくなり、冒頭写真が早く出れば、途中離脱が減ってセッションあたりPVが上がる。※同日開始の施策5(関連記事)と同じ数字を見るため、効果はどちらのものか切り分けられない",
       "metric": "pv_per_session",
       "control_pages": []
+    },
+    {
+      "id": "2026-09-15-news-sitemap",
+      "started": "2026-09-15",
+      "type": "indexing",
+      "playbook": "施策12",
+      "pages": [],
+      "pages_from_start": true,
+      "change": "Google News 用サイトマップ site/news-sitemap.xml を追加(公開48時間以内の記事だけ・公開日時とタイトル付き)。build_seo.py が公開のたびに作り直し、robots.txt に登録。Google News Publisher Center への登録と Search Console へのサイトマップ送信はしていない(鍵が読み取り専用のため)。",
+      "hypothesis": "新記事がGoogleに早く見つかり、公開後14日の検索表示が開始前28日の新記事の中央値より増える。※同じ週に施策6(日時の時刻化)・施策9(画像)も入っており、効果の切り分けはできない",
+      "metric": "new_article",
+      "control_pages": []
     }
   ]
 }

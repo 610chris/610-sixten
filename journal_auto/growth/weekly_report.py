@@ -163,8 +163,10 @@ def evaluate(exp, gsc_pages, ga4_pages, gsc_end, articles, ga4=()):
         return res
 
     if exp["metric"] == "new_article":
+        if exp.get("pages_from_start"):  # サイト全体の施策: 開始日以降に公開された記事すべてを対象にする
+            nums = {n for n, a in articles.items() if a["date"] >= s and a["date"] + timedelta(days=win - 1) <= gsc_end}
         per = []
-        for n in exp["pages"]:
+        for n in sorted(nums):
             pub = articles.get(n, {}).get("date", s)
             per.append((n, gsc_sum(gsc_pages, pub, min(pub + timedelta(days=win - 1), gsc_end), {n})["imp"]))
         base = []
@@ -180,7 +182,9 @@ def evaluate(exp, gsc_pages, ga4_pages, gsc_end, articles, ga4=()):
         for n, i in per:
             res["lines"].append(f"{n} {articles.get(n, {}).get('title', '')[:40]}: 公開後{win}日の表示 {i}回")
         res["lines"].append(f"比較: 開始前28日に出た他の新記事{len(base)}本の公開後{win}日の表示（中央値）= {med if med is not None else '—'}回")
-        if med is None or (mine < MIN_IMP and (med or 0) < MIN_IMP):
+        if not per:
+            res["verdict"] = f"判定保留（公開後{win}日ぶんのデータが揃った対象記事がまだ無い）{tentative}"
+        elif med is None or (mine < MIN_IMP and (med or 0) < MIN_IMP):
             res["verdict"] = f"判定保留（表示が{MIN_IMP}回未満で差が偶然と区別できない）{tentative}"
         elif mine >= max(med, 1) * 1.5:
             res["verdict"] = f"うまくいった可能性（中央値 {mine:.0f}回 vs 他の新記事 {med:.0f}回）{tentative}"
