@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "157-kawhi-leonard-trade-done-deal.html",
+    cat: "NBA",
+    title: "カワイ・レナードのラプターズ移籍が完全合意 —— クリッパーズはインガム、ディック、指名権5つを獲得とシャムズ・シャラニア記者",
+    excerpt: "Shams Charania（ESPN）が9月14日(現地時間)一報。クリッパーズとラプターズがカワイ・レナードのトレードを完全合意し実行へ。クリッパーズはブランドン・インガム、グレイディ・ディック、1巡目指名権2つ(無保護)、1巡目指名権交換権1つ、2巡目指名権2つを獲得する。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "KAWHI LEONARD TRADE"
+  },
+  {
     href: "156-adidas-superstar-cold-blooded.html",
     cat: "KICKS",
     title: "adidas Superstar「Cold Blooded」が9月18日発売 —— アンソニー・エドワーズのシグネチャー展開拡大",
