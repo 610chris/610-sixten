@@ -1,4 +1,6 @@
 name: Probe sources
+# 取得元がGitHub ActionsのIPから読めるかを確かめる手動プローブ。
+# 2026-09-14: JBA公式RSS(japanbasketball.jp/japan/feed)が Actions から 403 になる件の切り分け用。
 on:
   workflow_dispatch:
 jobs:
@@ -8,26 +10,33 @@ jobs:
     steps:
       - run: |
           python3 - <<'PY'
-          import urllib.request, re, json
-          BOT='610-journal-bot/1.0 (+https://sixten.jp/journal/; NBA news monitor)'
+          import urllib.request, re
+          BOT='610-journal-bot/1.0 (+https://sixten.jp/journal/; basketball news monitor)'
           BR='Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36'
+          FULL={'User-Agent':BR,'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                'Accept-Language':'ja,en-US;q=0.9,en;q=0.8','Referer':'https://www.japanbasketball.jp/'}
+          JBA='https://www.japanbasketball.jp/japan/feed'
           tests=[
-           ('reddit www rss bot', 'https://www.reddit.com/r/nba/new/.rss?limit=100', BOT),
-           ('reddit www rss browser', 'https://www.reddit.com/r/nba/new/.rss?limit=100', BR),
-           ('reddit www json bot', 'https://www.reddit.com/r/nba/new.json?limit=100', BOT),
-           ('reddit oauth-less api', 'https://api.reddit.com/r/nba/new?limit=100', BOT),
-           ('hoopsrumors feed', 'https://www.hoopsrumors.com/feed', BOT),
-           ('realgm wiretap', 'https://basketball.realgm.com/rss/wiretap/0/0.xml', BOT),
-           ('espn nba rss', 'https://www.espn.com/espn/rss/nba/news', BOT),
-           ('gnews shams', 'https://news.google.com/rss/search?q=%22Shams+Charania%22&hl=en-US&gl=US&ceid=US:en', BOT),
-           ('twimg tweet-result', 'https://cdn.syndication.twimg.com/tweet-result?id=1988265906015756576&token=4', BR),
+           ('jba feed browser', JBA, {'User-Agent':BR,'Accept':'*/*'}),
+           ('jba feed full headers', JBA, FULL),
+           ('jba feed bot ua', JBA, {'User-Agent':BOT}),
+           ('jba feed curl ua', JBA, {'User-Agent':'curl/8.5.0','Accept':'*/*'}),
+           ('jba feed ?feed=rss2', 'https://www.japanbasketball.jp/?feed=rss2', FULL),
+           ('jba top page', 'https://www.japanbasketball.jp/', FULL),
+           ('jba wp-json posts', 'https://www.japanbasketball.jp/wp-json/wp/v2/posts?per_page=5', FULL),
+           ('gnews site:jba', 'https://news.google.com/rss/search?q=site:japanbasketball.jp+%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%A1%A8&hl=ja&gl=JP&ceid=JP:ja', {'User-Agent':BOT}),
+           ('bbking japan feed', 'https://basketballking.jp/news/japan/feed', {'User-Agent':BR}),
           ]
-          for name,url,ua in tests:
+          for name,url,h in tests:
               try:
-                  req=urllib.request.Request(url, headers={'User-Agent':ua,'Accept':'*/*'})
+                  req=urllib.request.Request(url, headers=h)
                   with urllib.request.urlopen(req, timeout=30) as r:
-                      b=r.read().decode('utf-8','replace')
-                  print(f'{name:26s} OK {len(b):7d}B entries={len(re.findall(r"<entry>|<item>",b))} head={b[:80]!r}')
+                      b=r.read().decode('utf-8','replace'); hd=dict(r.headers)
+                  print(f'{name:24s} OK {len(b):7d}B items={len(re.findall(r"<entry>|<item>",b))} server={hd.get("Server")} head={b[:60]!r}')
+              except urllib.error.HTTPError as e:
+                  body=e.read()[:200].decode('utf-8','replace')
+                  print(f'{name:24s} HTTP {e.code} server={e.headers.get("Server")} cf-ray={e.headers.get("CF-RAY")} body={body!r}')
               except Exception as e:
-                  print(f'{name:26s} FAIL {e}')
+                  print(f'{name:24s} FAIL {e}')
           PY
+      - run: curl -sS -o /dev/null -w 'curl jba feed: %{http_code}\n' -A 'Mozilla/5.0' https://www.japanbasketball.jp/japan/feed || true
