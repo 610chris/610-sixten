@@ -3,6 +3,33 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "148-rucker-park-new-york-guide.html",
+    cat: "CULTURE",
+    title: "ラッカーパーク（ニューヨーク）ガイド —— 場所・行き方・歴史・プレーした有名選手まとめ",
+    excerpt: "ラッカーパーク（Holcombe Rucker Park）はニューヨーク・マンハッタンの155丁目とフレデリック・ダグラス・ブールバードの角にある屋外コート。最寄りは地下鉄155丁目駅（B・D線）。1950年に始まった夏の大会以来、チェンバレン、ドクターJ、コービー、デュラントらがプレーし、2025年1月に国の記念地に指定された。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-148-hero.jpg?v=caa39bdaf2",
+    tile: "RUCKER PARK"
+  },
+  {
+    href: "147-patty-mills-profile.html",
+    cat: "NBA",
+    title: "パティ・ミルズの経歴・プレースタイル・現在の所属 —— オーストラリア代表、スパーズ優勝からASVELまで",
+    excerpt: "パティ・ミルズは1988年キャンベラ生まれのオーストラリア代表ガード。2014年にスパーズでNBA優勝、東京2020五輪では銅メダル決定戦で42得点を挙げた。NBAでは7球団で16シーズン、2026-27シーズンはフランスのASVELと1年契約を結んでいる。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-147-hero.jpg?v=2648858869",
+    tile: "PATTY MILLS"
+  },
+  {
+    href: "146-payroll-cup-wheelchair-basketball.html",
+    cat: "JAPAN",
+    title: "ペイロールカップとは —— 北海道の車いすバスケットボール大会、第1回から第4回までの開催地・参加チームまとめ",
+    excerpt: "ペイロールカップは、給与計算BPOの株式会社ペイロールが2023年に始めた北海道の車いすバスケットボール大会。初回3チームから第3回（2025年）は6チームに拡大し、第4回は2026年9月26日・27日に札幌市西区体育館で入場無料で開かれる。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-146-hero.jpg?v=31bd2b9632",
+    tile: "PAYROLL CUP"
+  },
+  {
     href: "145-jordan-tatum-signature-series.html",
     cat: "KICKS",
     title: "ジョーダン「テイタム」シリーズ全モデルまとめ —— テイタム1〜テイタム5の発売日・価格・特徴",
