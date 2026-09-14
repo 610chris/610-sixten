@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "156-adidas-superstar-cold-blooded.html",
+    cat: "KICKS",
+    title: "adidas Superstar「Cold Blooded」が9月18日発売 —— アンソニー・エドワーズのシグネチャー展開拡大",
+    excerpt: "adidasは、アンソニー・エドワーズ選手とのコラボモデル「Superstar『Cold Blooded』」(品番LA7828)を2026年9月18日に発売する。同日にはAE3の同名カラー「Cold Blooded」も発売予定で、パフォーマンスシューズの枠を超えたエドワーズの展開が広がる。Sneaker NewsとSneaker Bar Detroitが伝えた。",
+    date: "2026.09.14",
+    thumb: "../assets/journal-156-hero.jpg?v=7315121d58",
+    tile: "ADIDAS SUPERSTAR COLD BLOODED"
+  },
+  {
     href: "155-kobe-3-protro-orca.html",
     cat: "KICKS",
     title: "Nike Kobe 3 Protro「Orca」が9月26日発売 —— 2007年オリジナルのハイトップ形状で復刻",
