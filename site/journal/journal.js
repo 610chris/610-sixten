@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "163-abema-bleague-premier-opener.html",
+    cat: "JAPAN",
+    title: "ABEMA、B.LEAGUE PREMIER開幕戦「アルバルク東京vs琉球」を無料生中継 —— 9月22日13時45分、10年前と同じ顔合わせ",
+    excerpt: "ABEMAは、9月22日に開幕する新トップリーグ「B.LEAGUE PREMIER」の開幕戦「アルバルク東京vs琉球ゴールデンキングス」を無料生中継すると発表。ABEMAがB.LEAGUEの試合を生中継するのは今回が初。2016年のB.LEAGUE開幕戦と同じカードで、リーグ誕生から10年の節目を迎える。",
+    date: "2026.09.15",
+    thumb: "../assets/journal-163-hero.jpg?v=d5f81c1ec7",
+    tile: "ABEMA × B.PREMIER"
+  },
+  {
     href: "162-air-jordan-1-low-halloween.html",
     cat: "KICKS",
     title: "漆黒にScream Greenの縁取り —— Air Jordan 1 Low「Halloween」、蓄光アウトソールでFall 2026発売",
