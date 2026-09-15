@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "159-sakura-funabashi-yunnan-3x3.html",
+    cat: "JAPAN",
+    title: "SAKURA FUNABASHI、中国遠征でベスト4 —— 初期メンバー再結集の3x3チーム、9月27日は甲子園へ",
+    excerpt: "3x3プロチーム「SAKURA FUNABASHI」(千葉県船橋市)が9月27日、兵庫県のららぽーと甲子園で開催の「3x3 UNITED」大会に出場すると発表。2025年8月には中国・雲南省の国際大会でベスト4に進んだ実績を振り返った。",
+    date: "2026.09.15",
+    thumb: "../assets/journal-159-hero.jpg?v=5316f3754b",
+    tile: "SAKURA FUNABASHI"
+  },
+  {
     href: "158-taj-gibson-retires-bulls-coach.html",
     cat: "NBA",
     title: "タジ・ギブソン、17年の現役に幕 —— ブルズでティアゴ・スプリッター新体制のアシスタントコーチへ",
