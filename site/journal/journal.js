@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "160-palsystem-saitama-broncos.html",
+    cat: "JAPAN",
+    title: "パルシステム埼玉、さいたまブロンコスとスポンサー契約 —— コラボグッズや冠試合で地域連携",
+    excerpt: "生活協同組合パルシステム埼玉（本部:埼玉県蕨市）は、所沢市とさいたま市をダブルホームタウンとするB.LEAGUE ONE「さいたまブロンコス」とスポンサー契約を締結したと発表。新規加入者向けのコラボグッズ企画やバスケイベントへのボール寄贈、「パルシステム埼玉杯」を冠した試合開催などを検討し、地域密着型のネットワークを生かした連携を進める。",
+    date: "2026.09.15",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "PALSYSTEM × BRONCOS"
+  },
+  {
     href: "159-sakura-funabashi-yunnan-3x3.html",
     cat: "JAPAN",
     title: "SAKURA FUNABASHI、中国遠征でベスト4 —— 初期メンバー再結集の3x3チーム、9月27日は甲子園へ",
