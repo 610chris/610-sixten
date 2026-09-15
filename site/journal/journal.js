@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "164-nike-caitlin-1-signature.html",
+    cat: "KICKS",
+    title: "Nike「Caitlin 1」発表 —— ケイトリン・クラーク初のシグネチャーシューズ、中国9月24日・世界10月1日発売",
+    excerpt: "ナイキは、インディアナ・フィーバーのケイトリン・クラーク選手にとって初のシグネチャーシューズとなる「Caitlin 1」とアパレルコレクションを正式発表した。新開発の「Nike Opticast」アッパーに前足部の「Air Zoom Turbo」ユニット、「Cushlon」ミッドソールを搭載。発売は中国が2026年9月24日、グローバルは10月1日。Hypebeastなどが伝えた。",
+    date: "2026.09.15",
+    thumb: "../assets/journal-164-hero.jpg?v=39fcd516fa",
+    tile: "NIKE CAITLIN 1"
+  },
+  {
     href: "163-abema-bleague-premier-opener.html",
     cat: "JAPAN",
     title: "ABEMA、B.LEAGUE PREMIER開幕戦「アルバルク東京vs琉球」を無料生中継 —— 9月22日13時45分、10年前と同じ顔合わせ",
