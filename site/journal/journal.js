@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "162-air-jordan-1-low-halloween.html",
+    cat: "KICKS",
+    title: "漆黒にScream Greenの縁取り —— Air Jordan 1 Low「Halloween」、蓄光アウトソールでFall 2026発売",
+    excerpt: "ジョーダン ブランドは、毎年恒例のハロウィン企画として「Air Jordan 1 Low」の新色「Halloween」を発表した。品番IQ5494-001、価格125ドル(米国価格)で、2026年秋(Fall 2026)の発売が予定されている。アウトソールはグロー・イン・ザ・ダーク仕様。Hypebeastが伝えた。",
+    date: "2026.09.15",
+    thumb: "../assets/journal-162-hero.jpg?v=151c4f1c3b",
+    tile: "AJ1 HALLOWEEN"
+  },
+  {
+    href: "161-nike-air-force-1-leopard.html",
+    cat: "KICKS",
+    title: "定番に全面レオパード柄 —— Nike Air Force 1 Low「Leopard」がFall 2026発売",
+    excerpt: "ナイキは、定番モデル「Air Force 1 Low」のキャンバスアッパー全面に豹柄プリントをあしらった新色「Leopard」を発表した。品番JA5714-900、価格125ドル(米国価格)で、2026年秋(Fall 2026)の発売が予定されている。Hypebeastが伝えた。",
+    date: "2026.09.15",
+    thumb: "../assets/journal-161-hero.jpg?v=a9beda1666",
+    tile: "AF1 LEOPARD"
+  },
+  {
     href: "160-palsystem-saitama-broncos.html",
     cat: "JAPAN",
     title: "パルシステム埼玉、さいたまブロンコスとスポンサー契約 —— コラボグッズや冠試合で地域連携",
