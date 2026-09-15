@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "165-celtics-offseason-tatum-return.html",
+    cat: "NBA",
+    title: "セルティックス、ブラウン放出でジョージ獲得 —— 復活のテイタムに懸かる2026-27シーズン",
+    excerpt: "ボストン・セルティックスは2026年7月、2024年ファイナルMVPのジェイレン・ブラウンをフィラデルフィア・76ersへ放出しポール・ジョージらを獲得。ジアニス・アデトクンボ獲得も逃す中、2025年プレーオフでアキレス腱を断裂したジェイソン・テイタムの本格復帰に懸ける2026-27シーズンを迎える。ESPNがオフシーズンを総括し開幕前の展望を分析している。",
+    date: "2026.09.15",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "CELTICS 2026-27"
+  },
+  {
     href: "164-nike-caitlin-1-signature.html",
     cat: "KICKS",
     title: "Nike「Caitlin 1」発表 —— ケイトリン・クラーク初のシグネチャーシューズ、中国9月24日・世界10月1日発売",
