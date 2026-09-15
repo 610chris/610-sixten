@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-09-15 06:35 UTC",
+ "updated_utc": "2026-09-15 07:30 UTC",
  "sources_ok": [
   "FLY BASKETBALL CULTURE MAGAZINE",
   "Sneaker News",
@@ -8,9 +8,28 @@
   "HYPEBEAST JP",
   "WearTesters",
   "Sneaker Bar Detroit",
+  "KicksOnFire",
   "Sneaker Files"
  ],
  "posts": [
+  {
+   "source": "Sneaker Files",
+   "tier": "C",
+   "lang": "en",
+   "key": "https://www.sneakerfiles.com/nike-kobe-3-protro-orca-2026/",
+   "url": "https://www.sneakerfiles.com/nike-kobe-3-protro-orca-2026/",
+   "title": "Nike Kobe 3 Protro “Orca” Returns September 2026",
+   "published_utc": "2026-09-15T06:37:42Z",
+   "summary": "The Nike Kobe 3 Protro “Orca” will return on September 26, 2026. Initially released in 2008, the shoes feature a... The post Nike Kobe 3 Protro “Orca” Returns September 2026 appeared first on .",
+   "categories": [
+    "Nike",
+    "Nike Basketball",
+    "Nike Kobe",
+    "Nike Retro",
+    "Nike Kobe 3",
+    "Nike Kobe 3 Protro"
+   ]
+  },
   {
    "source": "HYPEBEAST JP",
    "tier": "B",
@@ -365,21 +384,6 @@
     "Air Jordan",
     "Air Jordan 6",
     "Nigel Sylvester"
-   ]
-  },
-  {
-   "source": "Sneaker Files",
-   "tier": "C",
-   "lang": "en",
-   "key": "https://www.sneakerfiles.com/nike-air-flight-falcon-2026-colorways/",
-   "url": "https://www.sneakerfiles.com/nike-air-flight-falcon-2026-colorways/",
-   "title": "Nike Air Flight Falcon Returns Holiday 2026",
-   "published_utc": "2026-09-13T11:20:18Z",
-   "summary": "The Nike Air Flight Falcon will return during the Holiday 2026 season, bringing back a basketball model that originally debuted... The post Nike Air Flight Falcon Returns Holiday 2026 appeared first on .",
-   "categories": [
-    "Nike",
-    "Nike Retro",
-    "Nike Air Flight Falcon"
    ]
   },
   {
