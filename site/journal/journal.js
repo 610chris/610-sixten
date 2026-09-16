@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "167-number-plus-bleague-guidebook.html",
+    cat: "JAPAN",
+    title: "Number PLUS「B.LEAGUE 2026-27 公式ガイドブック」9月16日発売 —— 表紙は富永啓生・齋藤拓実・馬場雄大の3選手",
+    excerpt: "文藝春秋は9月16日、『Sports Graphic Number PLUS』B.LEAGUE 2026-27 OFFICIAL GUIDEBOOKを発売した。判型を刷新し全55クラブの選手名鑑を収録。表紙にはレバンガ北海道・富永啓生、名古屋ダイヤモンドドルフィンズ・齋藤拓実、長崎ヴェルカ・馬場雄大の3選手が登場する。定価1980円(税込)。",
+    date: "2026.09.16",
+    thumb: "../assets/journal-167-hero.jpg?v=5e17c47ae0",
+    tile: "B.LEAGUE GUIDEBOOK"
+  },
+  {
     href: "166-konchar-knicks-one-year-deal.html",
     cat: "NBA",
     title: "ジョン・コンチャー、ニックスと1年契約に合意 —— フリーエージェントからNBA8年目のシーズンへ",
