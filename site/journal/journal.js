@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "173-wiseman-knicks-exhibit9.html",
+    cat: "NBA",
+    title: "元全体2位指名、ジェームズ・ワイズマン —— ニックスとエキシビット9契約に合意",
+    excerpt: "Michael Scotto氏（HoopsHype）が伝えた。ニューヨーク・ニックスは、2020年NBAドラフト全体2位指名のセンター、ジェームズ・ワイズマン（25）とエキシビット9契約を結んだ。ワイズマンはウォリアーズ・ピストンズ・ペイサーズでのNBA5シーズンで平均9.0得点5.5リバウンドを記録している。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "WISEMAN TO KNICKS"
+  },
+  {
     href: "172-japan-taipei-asian-games-qf.html",
     cat: "JAPAN",
     title: "男子日本代表、アジア大会準々決勝でチャイニーズ・タイペイに85-78で辛勝 —— 黒川虎徹23得点、準決勝は中国と対戦",
