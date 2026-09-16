@@ -21,6 +21,15 @@ const ARTICLES = [
     tile: "WISEMAN TO KNICKS"
   },
   {
+    href: "175-saga-ballooners-premier-opener.html",
+    cat: "JAPAN",
+    title: "佐賀バルーナーズ、B.LEAGUE PREMIER開幕戦へ —— 元NBAナシール・リトルが新加入、9月25日SAGAアリーナで開幕",
+    excerpt: "佐賀市は、地元クラブ「佐賀バルーナーズ」が新設のトップリーグ「B.LEAGUE PREMIER」の開幕戦を9月25日、SAGAアリーナで迎えると発表。元NBAのナシール・リトルが新加入し、9月25日の開幕戦（vs広島ドラゴンフライズ）はBリーグの「オープニングセレクション」にも選ばれている。",
+    date: "2026.09.16",
+    thumb: "../assets/journal-175-hero.jpg?v=1666127aee",
+    tile: "SAGA BALLOONERS"
+  },
+  {
     href: "172-japan-taipei-asian-games-qf.html",
     cat: "JAPAN",
     title: "男子日本代表、アジア大会準々決勝でチャイニーズ・タイペイに85-78で辛勝 —— 黒川虎徹23得点、準決勝は中国と対戦",
