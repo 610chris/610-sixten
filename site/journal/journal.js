@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "166-konchar-knicks-one-year-deal.html",
+    cat: "NBA",
+    title: "ジョン・コンチャー、ニックスと1年契約に合意 —— フリーエージェントからNBA8年目のシーズンへ",
+    excerpt: "Shams Charania（ESPN）が一報。フリーエージェントのフォワード、ジョン・コンチャーがニューヨーク・ニックスと1年契約に合意した。代理人ジョージ・S・ラングバーグ氏がESPNに明らかにしたもので、コンチャーは今シーズンでNBA8年目を迎える。",
+    date: "2026.09.16",
+    thumb: "../assets/journal-166-hero.jpg?v=6683bf555b",
+    tile: "KONCHAR TO KNICKS"
+  },
+  {
     href: "165-celtics-offseason-tatum-return.html",
     cat: "NBA",
     title: "セルティックス、ブラウン放出でジョージ獲得 —— 復活のテイタムに懸かる2026-27シーズン",
