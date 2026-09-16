@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "169-oneconsist-tubc-partnership.html",
+    cat: "JAPAN",
+    title: "ワンコンシスト、東京ユナイテッドBBCとオフィシャルパートナー契約 —— イベント運営のノウハウで試合運営を支援",
+    excerpt: "イベント企画・運営を手がける株式会社ワンコンシスト（東京都渋谷区、CEO兼COO：戸来拓也）は、有明アリーナを拠点とするB.LEAGUE ONE「東京ユナイテッドバスケットボールクラブ（TUBC）」と、2026-27シーズンのオフィシャルパートナー（ブロンズ）契約を8月26日付で締結したと発表。イベント運営のノウハウを生かし、試合運営やファン・地域が交流できる「場づくり」を支援する。",
+    date: "2026.09.16",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "ONECONSIST × TUBC"
+  },
+  {
     href: "168-kobe-8-protro-mambacurial.html",
     cat: "KICKS",
     title: "コービー8 プロトロに新色「Mambacurial」—— サッカースパイク由来のグラデーションで復活",
