@@ -21,6 +21,15 @@ const ARTICLES = [
     tile: "WISEMAN TO KNICKS"
   },
   {
+    href: "176-kobe-3-low-mismatch.html",
+    cat: "KICKS",
+    title: "Nike Kobe 3 Low Protro「Mismatch」が9月19日発売 —— キッズ向け限定モデル、122ドル",
+    excerpt: "ナイキは、キッズ向け限定モデル「Nike Kobe 3 Low Protro “Mismatch”」を2026年9月19日にNike.comで発売する。品番IZ7934-900、価格122ドル(米国価格)。8月24日の「コービー・デー」以降、コービー・プロトロ・ラインの新色が続々と登場している。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.16",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "KOBE 3 LOW MISMATCH"
+  },
+  {
     href: "175-saga-ballooners-premier-opener.html",
     cat: "JAPAN",
     title: "佐賀バルーナーズ、B.LEAGUE PREMIER開幕戦へ —— 元NBAナシール・リトルが新加入、9月25日SAGAアリーナで開幕",
