@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "168-kobe-8-protro-mambacurial.html",
+    cat: "KICKS",
+    title: "コービー8 プロトロに新色「Mambacurial」—— サッカースパイク由来のグラデーションで復活",
+    excerpt: "ナイキは、2013年発売の「コービー8 “Mambacurial”」をプロトロ仕様で復刻した新色「Red Plum & Pink Flash」を発表した。サッカースパイク「マーキュリアル ヴェイパー IX」に着想したグラデーションを踏襲し、Nike Reactフォームなど最新のプロトロ性能を搭載する。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.09.16",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "KOBE 8 PROTRO"
+  },
+  {
     href: "167-number-plus-bleague-guidebook.html",
     cat: "JAPAN",
     title: "Number PLUS「B.LEAGUE 2026-27 公式ガイドブック」9月16日発売 —— 表紙は富永啓生・齋藤拓実・馬場雄大の3選手",
