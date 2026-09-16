@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "174-kobe-5-protro-what-the-rick.html",
+    cat: "KICKS",
+    title: "Nike Kobe 5 Protro「What The Rick」2027年夏発売 —— ブランソンの新PE、一般発売コービーPEは4足目",
+    excerpt: "ニックスのジェイレン・ブランソンのプレーヤーエクスクルーシブ「Kobe 5 Protro “What The Rick”」が2027年夏に発売される見通し。ブランソン自身2足目のコービー5 プロトロで、一般発売されるコービーPEとしては通算4足目となる。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "WHAT THE RICK"
+  },
+  {
     href: "173-wiseman-knicks-exhibit9.html",
     cat: "NBA",
     title: "元全体2位指名、ジェームズ・ワイズマン —— ニックスとエキシビット9契約に合意",
