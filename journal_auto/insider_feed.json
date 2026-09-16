@@ -1,7 +1,44 @@
 {
- "updated_utc": "2026-09-16 02:46 UTC",
+ "updated_utc": "2026-09-16 17:16 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1wi379m/scotto_the_new_york_knicks_have_signed_former_no/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-16T17:06:51+00:00",
+   "text": "The New York Knicks have signed former No. 2 overall pick James Wiseman to an Exhibit 9 deal, team says. The 25-year-old center has averaged 9.0 points and 5.5 rebounds in 18.8 minutes per game in five seasons with the Golden State Warriors, Detroit Pistons, and Indiana Pacers.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wi379m/scotto_the_new_york_knicks_have_signed_former_no/",
+   "links": []
+  },
+  {
+   "reporter": "Marc Stein（The Stein Line）",
+   "handle": "TheSteinLine",
+   "key": "https://www.reddit.com/r/nba/comments/1wi2zny/marc_stein_the_knicks_have_also_just_signed_ochai/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-16T16:59:39+00:00",
+   "text": "The reigning champions, just like the Knicks did last season, have brought in a slew of veterans to compete for their last two roster vacancies: Ochai Agbaji, Bruce Brown and John Konchar on the wing and big man Drew Eubanks.\n\nThe Knicks have also just signed James Wiseman.  Source:https://marcstein.substack.com/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wi2zny/marc_stein_the_knicks_have_also_just_signed_ochai/",
+   "links": [
+    "https://marcstein.substack.com/"
+   ]
+  },
+  {
+   "reporter": "Jake Fischer（The Stein Line）",
+   "handle": "JakeLFischer",
+   "key": "https://www.reddit.com/r/nba/comments/1whx4wn/fischer_despite_losing_kawhi_leonard_and/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-16T13:23:21+00:00",
+   "text": "The Los Angeles Clippers remain focused on building a playoff-caliber team despite losing Kawhi Leonard and receiving major sanctions from the NBA, according to Bleacher Report’s Jake Fischer.\n\n“All summer long and through today, the Clippers have been focused on building out a playoff-caliber team for this season,” Fischer said. Following the Toronto trade, Brandon Ingram becomes the primary offensive option alongside Darius Garland.\n\nThe roster also features Bradley Beal, Brook Lopez, Max Strus, Derrick Jones Jr. and Kris Dunn. Although ESPN ranked Los Angeles 29th in its future power rankings, the franchise does not appear interested in entering a long-term rebuild.\n\nSource: https://sportando.basketball/en/clippers-remain-focused-on-making-playoffs-in-2026-27/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1whx4wn/fischer_despite_losing_kawhi_leonard_and/",
+   "links": [
+    "https://sportando.basketball/en/clippers-remain-focused-on-making-playoffs-in-2026-27/"
+   ]
+  },
   {
    "reporter": "Marc Stein（The Stein Line）",
    "handle": "TheSteinLine",
@@ -103,32 +140,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wgc7hj/charania_done_deal_the_la_clippers_and_raptors/",
    "links": [
     "https://www.espn.com/contributor/shams-charania"
-   ]
-  },
-  {
-   "reporter": "Jake Fischer（The Stein Line）",
-   "handle": "JakeLFischer",
-   "key": "https://www.reddit.com/r/nba/comments/1wg8fjz/jake_fischer_the_los_angeles_lakers_are_shopping/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-14T16:34:55+00:00",
-   "text": "The team currently has 16 players under contract, one above the regular-season roster limit.\n\nKnecht, who was included in the failed Mark Williams trade in February 2025, remains on his rookie contract but has seen his role diminish. Moving Vanderbilt could be more difficult, as the forward has two seasons remaining on his four-year, $48 million deal.\n\nThe Lakers are also searching for additional versatility on the wing after missing out on Jonathan Kuminga, who joined Minnesota. Los Angeles could therefore use its need to clear a roster spot to make another move before the season opener.\n\nSource: https://sportando.basketball/en/lakers-shopping-jarred-vanderbilt-and-dalton-knecht/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wg8fjz/jake_fischer_the_los_angeles_lakers_are_shopping/",
-   "links": [
-    "https://sportando.basketball/en/lakers-shopping-jarred-vanderbilt-and-dalton-knecht/"
-   ]
-  },
-  {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1wg5f1q/scotto_the_boston_celtics_and_devin_carter_have/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-14T14:44:52+00:00",
-   "text": "The Boston Celtics and Devin Carter have agreed to a deal, league sources told @hoopshype. Carter will compete for an NBA roster or two-way spot in camp. Carter averaged 8.9 points, 3.3 rebounds and 2.7 assists in 18.4 minutes during 38 games for the Sacramento Kings last season.\n\nhttps://www.hoopshype.com/staff/84455328007/michael-scotto/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wg5f1q/scotto_the_boston_celtics_and_devin_carter_have/",
-   "links": [
-    "https://www.hoopshype.com/staff/84455328007/michael-scotto/"
    ]
   }
  ]
