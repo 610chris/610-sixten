@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-09-16 00:41 UTC",
+ "updated_utc": "2026-09-16 02:46 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Marc Stein（The Stein Line）",
+   "handle": "TheSteinLine",
+   "key": "https://www.reddit.com/r/nba/comments/1whkndz/stein_adam_silver_says_the_clippers_did_not_have/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-16T02:34:05+00:00",
+   "text": "Source: https://imgur.com/a/aemQhdy\n\nI imagine no one from the Clippers would have wanted to go to this particular gathering anyway. Interesting that the Clippers can still execute a trade despite not having an acting governor (or publicly naming an interim GM).",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1whkndz/stein_adam_silver_says_the_clippers_did_not_have/",
+   "links": [
+    "https://imgur.com/a/aemQhdy"
+   ]
+  },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
@@ -116,32 +129,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wg5f1q/scotto_the_boston_celtics_and_devin_carter_have/",
    "links": [
     "https://www.hoopshype.com/staff/84455328007/michael-scotto/"
-   ]
-  },
-  {
-   "reporter": "Jake Fischer（The Stein Line）",
-   "handle": "JakeLFischer",
-   "key": "https://www.reddit.com/r/nba/comments/1wfuevy/fischer_the_los_angeles_clippers_still_havent/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-14T05:21:00+00:00",
-   "text": "Source – Jake Fischer, The Stein Line (Imgur Mirror):  The Clippers still haven’t determined who will serve as the franchise’s interim governor, I’m told, as the league convenes its Board of Governors meetings in New York City tomorrow. Steve Ballmer will not attend while he accepts the NBA’s suspension and other penalties.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wfuevy/fischer_the_los_angeles_clippers_still_havent/",
-   "links": [
-    "https://imgur.com/a/SYVhHU9"
-   ]
-  },
-  {
-   "reporter": "Sam Amick（The Athletic）",
-   "handle": "sam_amick",
-   "key": "https://www.reddit.com/r/nba/comments/1wfttwp/amick_this_choice_to_comply_however_could/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-14T04:50:22+00:00",
-   "text": "https://www.nytimes.com/athletic/7592689/2026/09/13/steve-ballmer-clippers-nba-punishment-lawsuit-apology/?unlocked_article_code=1.BFE.wC76.YAA5DC2MBxk0&source=twitterhq  The Clippers indeed face a challenging road ahead, as they were stripped of five first-round picks and issued the hefty fine in addition to receiving significant suspensions to top leadership (one year for Ballmer, one year without pay for president of business operations Gillian Zucker and six months without pay for president of basketball operations Lawrence Frank). Last week, The New York Times reported the Justice Department started a criminal investigation into the Clippers’ dealings with Leonard.\n\nThis choice to comply, however, could potentially open discussions between the Clippers and the NBA about lessening the discipline. There is precedent on that front, as the Minnesota Timberwolves were given a first-round draft pick back for compliance in the Joe Smith case in 2000.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wfttwp/amick_this_choice_to_comply_however_could/",
-   "links": [
-    "https://www.nytimes.com/athletic/7592689/2026/09/13/steve-ballmer-clippers-nba-punishment-lawsuit-apology/?unlocked_article_code=1.BFE.wC76.YAA5DC2MBxk0&amp;source=twitterhq"
    ]
   }
  ]
