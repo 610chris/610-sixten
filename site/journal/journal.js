@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "178-kuksiks-latvia-3x3-europe-cup.html",
+    cat: "JAPAN",
+    title: "SS所属リハーズ・ククシクス、ラトビア代表として「FIBA 3x3 Europe Cup 2026」優勝",
+    excerpt: "東京を拠点とする3x3プロクラブ「SS」の海外組として国際大会を戦うリハーズ・ククシクス選手が、母国ラトビアの代表として「FIBA 3x3 Europe Cup 2026」に出場し優勝。決勝でオランダ代表を破り欧州王者に輝いた。SS株式会社が発表した。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-178-hero.jpg?v=0488a817e1",
+    tile: "LATVIA 3x3 CHAMPIONS"
+  },
+  {
+    href: "177-reath-suns-signing.html",
+    cat: "NBA",
+    title: "デュオップ・リース、サンズと契約合意 —— ウィリアムズ離脱のセンター陣を補強",
+    excerpt: "Shams Charania氏（ESPN）が伝えた。フェニックス・サンズはフリーエージェントのセンター、デュオップ・リース（30）と契約合意。肩の負傷で長期離脱するマーク・ウィリアムズの穴を埋める補強で、リースは元ポートランド・トレイル・ブレイザーズの選手。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-177-hero.jpg?v=ef4c25d17e",
+    tile: "REATH TO SUNS"
+  },
+  {
     href: "174-kobe-5-protro-what-the-rick.html",
     cat: "KICKS",
     title: "Nike Kobe 5 Protro「What The Rick」2027年夏発売 —— ブランソンの新PE、一般発売コービーPEは4足目",
