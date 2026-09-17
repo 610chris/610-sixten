@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "187-saddiq-bey-pelicans-extension.html",
+    cat: "NBA",
+    title: "ペリカンズ、サディーク・ベイと3年5550万ドルの契約延長に合意 —— ACL断裂からの復活シーズンを評価",
+    excerpt: "ニューオーリンズ・ペリカンズがフォワードのサディーク・ベイと3年、総額5550万ドルの契約延長に合意した。トレードキッカー条項付きで2029-30シーズンまでフル保証。代理人がESPNに伝えた。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-187-hero.jpg?v=3bcfbc4240",
+    tile: "SADDIQ BEY EXTENSION"
+  },
+  {
     href: "186-michael-sweetney-dies.html",
     cat: "NBA",
     title: "元NBA選手マイケル・スウィートニー氏が43歳で死去 —— ジョージタウン大出身、2003年ドラフト全体9位でニックス入り",
