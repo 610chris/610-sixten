@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "185-kawhi-leonard-raptors-extension.html",
+    cat: "NBA",
+    title: "カワイ・レナード、ラプターズとの契約延長交渉が大詰め —— 最大2年1億2600万ドルでの署名資格",
+    excerpt: "Jake Fischer氏（The Stein Line）が9月17日、関係者の話としてトロント・ラプターズとカワイ・レナードが契約延長に向けた協議を進め、合意に近づいていると報道。レナードは最大2年、総額1億2600万ドルの契約に署名する資格があるという。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "KAWHI LEONARD EXTENSION TALKS"
+  },
+  {
     href: "184-japan-women-hkg-asian-games.html",
     cat: "JAPAN",
     title: "女子日本代表、アジア大会初戦でホンコン・チャイナに114-37の大勝 —— 舘山萌菜が26得点、グループ2戦目はカザフスタンと対戦",

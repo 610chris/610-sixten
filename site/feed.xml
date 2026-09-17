@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>カワイ・レナード、ラプターズとの契約延長交渉が大詰め —— 最大2年1億2600万ドルでの署名資格</title>
+      <link>https://sixten.jp/journal/185-kawhi-leonard-raptors-extension.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/185-kawhi-leonard-raptors-extension.html</guid>
+      <pubDate>Fri, 18 Sep 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>Jake Fischer氏（The Stein Line）が9月17日、関係者の話としてトロント・ラプターズとカワイ・レナードが契約延長に向けた協議を進め、合意に近づいていると報道。レナードは最大2年、総額1億2600万ドルの契約に署名する資格があるという。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>女子日本代表、アジア大会初戦でホンコン・チャイナに114-37の大勝 —— 舘山萌菜が26得点、グループ2戦目はカザフスタンと対戦</title>
       <link>https://sixten.jp/journal/184-japan-women-hkg-asian-games.html</link>
@@ -268,15 +277,6 @@
       <category>KICKS</category>
       <description>adidasは、アンソニー・エドワーズ選手とのコラボモデル「Superstar『Cold Blooded』」(品番LA7828)を2026年9月18日に発売する。同日にはAE3の同名カラー「Cold Blooded」も発売予定で、パフォーマンスシューズの枠を超えたエドワーズの展開が広がる。Sneaker NewsとSneaker Bar Detroitが伝えた。</description>
       <enclosure url="https://sixten.jp/assets/journal-156-hero.jpg?v=7315121d58" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Nike Kobe 3 Protro「Orca」が9月26日発売 —— 2007年オリジナルのハイトップ形状で復刻</title>
-      <link>https://sixten.jp/journal/155-kobe-3-protro-orca.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/155-kobe-3-protro-orca.html</guid>
-      <pubDate>Mon, 14 Sep 2026 09:00:00 +0900</pubDate>
-      <category>KICKS</category>
-      <description>ナイキは「コービー3 プロトロ」の新色「Orca」(品番IQ5340-001)を2026年9月26日に発売する。近年主流だったロートップではなく2007年オリジナルと同じハイトップ形状を採用し、最新プロトロの性能面のアップデートを組み込んだ。Sneaker Bar Detroitが伝えた。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
