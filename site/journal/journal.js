@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "180-garmin-yokohama-bcorsairs-partnership.html",
+    cat: "JAPAN",
+    title: "Garmin、横浜ビー・コルセアーズとオフィシャルパートナー契約 —— ウェアラブル端末でコンディション管理を支援",
+    excerpt: "ガーミンジャパン株式会社は、B.LEAGUE PREMIER所属の横浜ビー・コルセアーズとオフィシャルパートナー（ゴールド）契約を締結したと発表。トップチームでヘルス＆フィットネストラッカー「CIRQA Smart Band」とGPSウォッチ「Instinct 3」を導入し、選手のコンディション管理とチームパフォーマンス向上をデータ面から支援する。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-180-hero.jpg?v=772051a6ef",
+    tile: "GARMIN x B.CORSAIRS"
+  },
+  {
     href: "179-kobe-3-protro-black-white.html",
     cat: "KICKS",
     title: "Nike Kobe 3 Protro「Black & White」が復刻 —— シャチ着想の2008年モデルをステルスカラーで再現",
