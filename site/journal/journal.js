@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "186-michael-sweetney-dies.html",
+    cat: "NBA",
+    title: "元NBA選手マイケル・スウィートニー氏が43歳で死去 —— ジョージタウン大出身、2003年ドラフト全体9位でニックス入り",
+    excerpt: "元NBA選手のマイケル・スウィートニー氏が9月16日（現地時間水曜）、米ニュージャージー州ニューアークの病院で死去した。43歳だった。ジョージタウン大出身で2003年ドラフト全体9位指名を受け、ニックスとブルズでプレーした。ESPNが伝えた。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "MICHAEL SWEETNEY, R.I.P."
+  },
+  {
     href: "185-kawhi-leonard-raptors-extension.html",
     cat: "NBA",
     title: "カワイ・レナード、ラプターズとの契約延長交渉が大詰め —— 最大2年1億2600万ドルでの署名資格",
