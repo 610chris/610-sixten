@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "179-kobe-3-protro-black-white.html",
+    cat: "KICKS",
+    title: "Nike Kobe 3 Protro「Black & White」が復刻 —— シャチ着想の2008年モデルをステルスカラーで再現",
+    excerpt: "ナイキは、2008年初頭に発売された「コービー3」のプロトロモデルとして、新色「Black & White」を発表した。シャチ(オルカ)からインスピレーションを得たオリジナルを、漆黒のアッパーにホワイトのスウッシュを効かせたステルスカラーで復刻する。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "KOBE 3 BLACK & WHITE"
+  },
+  {
     href: "178-kuksiks-latvia-3x3-europe-cup.html",
     cat: "JAPAN",
     title: "SS所属リハーズ・ククシクス、ラトビア代表として「FIBA 3x3 Europe Cup 2026」優勝",
