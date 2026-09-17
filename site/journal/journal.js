@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "183-raptors-2026-27-season-preview.html",
+    cat: "NBA",
+    title: "ラプターズ、カワイ・レナード加入でイースト屈指の優勝候補に —— ESPNが2026-27シーズンプレビュー",
+    excerpt: "ESPNは17日、トロント・ラプターズの2026-27シーズンプレビューを公開。クリッパーズからのカワイ・レナード完全移籍でオフェンス力が大幅に向上したと評価し、スコッティ・バーンズの成長やコリン・マレー=ボイルズの起用を含め、イースト屈指のプレーオフ突破候補になり得ると分析した。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-183-hero.jpg?v=15c4383426",
+    tile: "RAPTORS 2026-27 PREVIEW"
+  },
+  {
+    href: "182-resona-bleague-2026-27-keyvisual.html",
+    cat: "JAPAN",
+    title: "りそなグループ、B.LEAGUE 2026-27シーズンのキービジュアルを公開 —— タイトルパートナー3年目、55選手の挑戦を伝える特設サイトも",
+    excerpt: "株式会社りそなホールディングスは9月17日、B.LEAGUEのタイトルパートナーとして「りそなグループ B.LEAGUE 2026-27シーズン」のキービジュアルを公開したと発表。タイトルパートナー3年目となる今シーズンは開幕応援動画「挑戦をアシスト」をTVCM等で展開し、55人の選手の挑戦を紹介する特設サイト「みんなの挑戦」も開設する。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-182-hero.jpg?v=e3dff30df6",
+    tile: "RESONA x B.LEAGUE"
+  },
+  {
     href: "181-steady-veltex-shizuoka-partnership.html",
     cat: "JAPAN",
     title: "ステディジャパン、ベルテックス静岡とサポートパートナー契約 —— 「STEADYスピンバイク Pro」でコンディショニング支援",
