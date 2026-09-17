@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "181-steady-veltex-shizuoka-partnership.html",
+    cat: "JAPAN",
+    title: "ステディジャパン、ベルテックス静岡とサポートパートナー契約 —— 「STEADYスピンバイク Pro」でコンディショニング支援",
+    excerpt: "ホームフィットネスブランド「STEADY」を展開するステディジャパン株式会社は、B.LEAGUE所属のプロバスケットボールクラブ「ベルテックス静岡」とサポートパートナー契約を締結したと発表。フラッグシップモデル「STEADYスピンバイク Pro」を試合会場・練習施設に提供し、選手のコンディショニングとパフォーマンス向上を支援する。",
+    date: "2026.09.17",
+    thumb: "../assets/journal-181-hero.jpg?v=eeb5e57aac",
+    tile: "STEADY x VELTEX SHIZUOKA"
+  },
+  {
     href: "180-garmin-yokohama-bcorsairs-partnership.html",
     cat: "JAPAN",
     title: "Garmin、横浜ビー・コルセアーズとオフィシャルパートナー契約 —— ウェアラブル端末でコンディション管理を支援",
