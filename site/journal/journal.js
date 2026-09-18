@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "193-eigo-de-basuke-ota.html",
+    cat: "JAPAN",
+    title: "佐々木クリス氏「えいごdeバスケ」第2回、オープンハウスアリーナ太田で9月25日開催 —— B.LEAGUE開幕戦翌日、群馬の小学生24名を無料招待",
+    excerpt: "株式会社オープンハウスグループは、B.LEAGUE公認アナリスト佐々木クリス氏がプロデュースするバスケ×英会話のキッズスクール「えいごdeバスケ」の第2回イベントを、2026年9月25日（金）にオープンハウスアリーナ太田（群馬県太田市）で開催すると発表した。対象は小学生24名、参加費無料。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "EIGO DE BASUKE"
+  },
+  {
     href: "192-jrwest-hokuriku-derby-campaign.html",
     cat: "JAPAN",
     title: "JR西日本、B.LEAGUE「北陸ダービー」を交通系サービスWESTERで応援 —— 福井ブローウィンズ×金沢サムライズ、10月3-4日開催",
