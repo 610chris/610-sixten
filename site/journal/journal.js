@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "201-cam-whitmore-nuggets-two-way.html",
+    cat: "NBA",
+    title: "ナゲッツ、カム・ウィットモアとツーウェイ契約に合意 —— 2023年ドラフト1巡目指名、NBA4年目でロースター争いへ",
+    excerpt: "ESPNのシャムズ・シャラニア記者が一報。デンバー・ナゲッツは、2023年ドラフト1巡目指名のフォワード、カム・ウィットモア選手とツーウェイ契約で合意した。ウィットモア選手は通算119試合で平均10.5得点・3.3リバウンドを記録しており、既にデンバー入りしてチーム練習に合流しているという。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "NUGGETS x CAM WHITMORE"
+  },
+  {
     href: "200-japan-china-asian-games-sf.html",
     cat: "JAPAN",
     title: "男子日本代表、64年ぶりのアジア大会決勝進出 —— 中国に97-78で完勝、金近が4本の3ポイントで19得点、決勝は韓国と再戦へ",
