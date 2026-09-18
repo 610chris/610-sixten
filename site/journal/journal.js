@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "197-nike-foamposite-one-green-camo.html",
+    cat: "KICKS",
+    title: "Nike Air Foamposite One「Green Camo」が9月18日発売 —— 迷彩柄でカムバック、品番IM5204-001",
+    excerpt: "ナイキは、一体成型アッパーが特徴の伝説的バスケットボールシューズ「Nike Air Foamposite One」の新色「Green Camo」を9月18日、SNKRSおよび一部取扱店で発売した。品番はIM5204-001。Nice Kicksが伝えた。",
+    date: "2026.09.19",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "FOAMPOSITE GREEN CAMO"
+  },
+  {
     href: "196-cavaliers-brandon-weems-gm.html",
     cat: "NBA",
     title: "クリーブランド・キャバリアーズ、ブランドン・ウィームズを新GMに昇格 —— 前任ガンジーは76ers入り、ルブロンの幼なじみが編成トップへ",
