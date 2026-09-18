@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "189-tokyomx-alvark-broadcast.html",
+    cat: "JAPAN",
+    title: "TOKYO MX、アルバルク東京とオフィシャルパートナーシップ契約を更新 —— 2026-27シーズンも試合を3試合放送",
+    excerpt: "東京メトロポリタンテレビジョン株式会社（TOKYO MX）は9月18日、B.LEAGUE PREMIER所属のアルバルク東京とオフィシャルパートナーシップ契約（ゴールドパートナー）を締結したと発表した。2024-25シーズンから3シーズン連続の契約で、2026-27レギュラーシーズンのアルバルク東京戦を3試合、録画放送する。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "TOKYO MX x ALVARK TOKYO"
+  },
+  {
+    href: "188-onecareer-alvark-partnership.html",
+    cat: "JAPAN",
+    title: "ワンキャリア、アルバルク東京と2026-27シーズンのプラチナパートナー契約を締結 —— 体育会学生の就活支援イベントが縁に",
+    excerpt: "株式会社ワンキャリアは9月18日、B.LEAGUE PREMIER所属のアルバルク東京と2026-27シーズンのプラチナパートナー契約を締結したと発表した。同チームとのパートナー契約は今回が初。「炎の就活体育祭」をアルバルク東京の本拠地TOYOTA ARENA TOKYOで開催した縁が、契約のきっかけになったという。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "ONE CAREER x ALVARK TOKYO"
+  },
+  {
     href: "187-saddiq-bey-pelicans-extension.html",
     cat: "NBA",
     title: "ペリカンズ、サディーク・ベイと3年5550万ドルの契約延長に合意 —— ACL断裂からの復活シーズンを評価",
