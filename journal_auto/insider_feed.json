@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-09-17 15:37 UTC",
+ "updated_utc": "2026-09-18 00:20 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wj82wr/charania_new_orleans_pelicans_forward_saddiq_bey/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-17T22:14:43+00:00",
+   "text": "Shams Charania:\n\nNew Orleans Pelicans forward Saddiq Bey has agreed on a three-year, $55.5 million contract extension with the franchise, plus a trade kicker, agents James Dunleavy and Jordan Gertler of Excel Sports Management tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/fc4f98cf3b575",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wj82wr/charania_new_orleans_pelicans_forward_saddiq_bey/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/fc4f98cf3b575"
+   ]
+  },
   {
    "reporter": "Jake Fischer（The Stein Line）",
    "handle": "JakeLFischer",
@@ -103,17 +116,6 @@
    "links": [
     "https://www.espn.com/contributor/shams-charania"
    ]
-  },
-  {
-   "reporter": "Tim MacMahon（ESPN）",
-   "handle": "espn_macmahon",
-   "key": "https://www.reddit.com/r/nba/comments/1wh9mia/tim_macmahon_on_the_clippers_lying_about_kawhi/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-15T19:05:34+00:00",
-   "text": "Context: Kawhi showed up to Team USA practice in July 2024, intending to play in the Olympics. Team USA sent him home after a couple practices. In response, Lawrence Frank put out a statement that said:   It was USAB's call and I was quite frankly very disappointed with the decision. Kawhi wanted to play. We wanted him to play. I was there the first two practices. He looked very good.  Kawhi, as Windhorst points out, would then miss the next 6 months, not playing in any NBA games until January 2025",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wh9mia/tim_macmahon_on_the_clippers_lying_about_kawhi/",
-   "links": []
   }
  ]
 }
