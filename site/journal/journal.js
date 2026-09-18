@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "192-jrwest-hokuriku-derby-campaign.html",
+    cat: "JAPAN",
+    title: "JR西日本、B.LEAGUE「北陸ダービー」を交通系サービスWESTERで応援 —— 福井ブローウィンズ×金沢サムライズ、10月3-4日開催",
+    excerpt: "西日本旅客鉄道株式会社（JR西日本）と金沢ターミナル開発株式会社は9月18日、10月3日・4日にセーレン・ドリームアリーナ（福井県営体育館）で行われるB.LEAGUE「北陸ダービー」（福井ブローウィンズ vs 金沢サムライズ）に合わせ、交通系サービス「WESTER」を通じた両チーム応援キャンペーンを実施すると発表した。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "JR WEST x HOKURIKU DERBY"
+  },
+  {
     href: "191-lebron-24-chosen-1s.html",
     cat: "KICKS",
     title: "レブロン最新シグネチャー「LEBRON 24」新色「Chosen 1s」が登場 —— 本人がワークアウトで着用、品番IO8201-700",
