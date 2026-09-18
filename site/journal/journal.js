@@ -12,6 +12,24 @@ const ARTICLES = [
     tile: "FOAMPOSITE GREEN CAMO"
   },
   {
+    href: "199-jazz-keyonte-george-extension.html",
+    cat: "NBA",
+    title: "ジャズ、キーオンテ・ジョージと5年1億5750万ドルの契約延長に合意 —— 昨季キャリアハイの23.6得点、次代の司令塔へ",
+    excerpt: "ESPNのシャムズ・シャラニア記者とティム・マクマホン記者が一報。ユタ・ジャズはガードのキーオンテ・ジョージと5年、総額1億5750万ドルの契約延長に合意した。22歳のジョージは2023年ドラフト全体16位指名で、昨季は平均23.6得点・6.1アシストとキャリアハイを記録している。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "JAZZ x KEYONTE GEORGE"
+  },
+  {
+    href: "198-golden-kings-alvark-10years.html",
+    cat: "JAPAN",
+    title: "琉球ゴールデンキングスとアルバルク東京、10年間の全対戦を振り返る —— 天皇杯・EASLも制し、9月22日は再び開幕戦で激突",
+    excerpt: "沖縄バスケットボール株式会社が9月18日発表。2016年9月22日のB.LEAGUE歴史的開幕戦から10年となる2026年9月22日、琉球ゴールデンキングスは新設「B.LEAGUE PREMIER」の開幕戦で再びアルバルク東京と対戦する。この10年でチャンピオンシップ・天皇杯・EASLと重ねてきた両者の対戦成績を振り返る。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "GOLDEN KINGS x ALVARK"
+  },
+  {
     href: "196-cavaliers-brandon-weems-gm.html",
     cat: "NBA",
     title: "クリーブランド・キャバリアーズ、ブランドン・ウィームズを新GMに昇格 —— 前任ガンジーは76ers入り、ルブロンの幼なじみが編成トップへ",
