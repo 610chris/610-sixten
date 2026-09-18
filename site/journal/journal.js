@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "190-suncall-hannaryz-partnership.html",
+    cat: "JAPAN",
+    title: "サンコール、京都ハンナリーズと2026-27シーズンのオフィシャルパートナー契約を継続 —— B.LEAGUE PREMIER参入シーズンもゴールドパートナーとして支援",
+    excerpt: "京都市右京区に本社を置くサンコール株式会社は9月18日、B.LEAGUE「京都ハンナリーズ」と2026-27シーズンのオフィシャルパートナー契約（ゴールドパートナー）を継続すると発表した。2023年からのパートナーシップ継続で、京都ハンナリーズは今シーズンから新設の最上位カテゴリー「B.LEAGUE PREMIER」に参入する。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "SUNCALL x KYOTO HANNARYZ"
+  },
+  {
     href: "189-tokyomx-alvark-broadcast.html",
     cat: "JAPAN",
     title: "TOKYO MX、アルバルク東京とオフィシャルパートナーシップ契約を更新 —— 2026-27シーズンも試合を3試合放送",
