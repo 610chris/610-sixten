@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "200-japan-china-asian-games-sf.html",
+    cat: "JAPAN",
+    title: "男子日本代表、64年ぶりのアジア大会決勝進出 —— 中国に97-78で完勝、金近が4本の3ポイントで19得点、決勝は韓国と再戦へ",
+    excerpt: "9月18日、愛知国際アリーナで行われた「第20回アジア競技大会（2026／愛知・名古屋）」男子バスケットボール準決勝で、男子日本代表が中国代表に97-78で勝利し、1962年ジャカルタ大会以来64年ぶりの決勝進出を果たした。金近が4本の3ポイントを含む19得点、カークが15得点12リバウンドとダブルダブル。決勝では初の金メダルをかけて韓国代表と再戦する。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "JAPAN vs CHINA — ASIAN GAMES SF"
+  },
+  {
     href: "197-nike-foamposite-one-green-camo.html",
     cat: "KICKS",
     title: "Nike Air Foamposite One「Green Camo」が9月18日発売 —— 迷彩柄でカムバック、品番IM5204-001",
