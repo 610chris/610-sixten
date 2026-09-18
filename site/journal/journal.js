@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "203-ausar-thompson-pistons-extension.html",
+    cat: "NBA",
+    title: "ピストンズ、アウサー・トンプソンと5年1億5500万ドルの契約延長に合意 —— 双子アメンに続きNBA史上初の「兄弟そろって1億ドル超え」",
+    excerpt: "デトロイト・ピストンズは、オールディフェンシブ選出のフォワード、アウサー・トンプソン選手と5年総額1億5500万ドルの完全保証契約延長で合意した。ESPNが伝えた。昨季はスティール王に輝き、双子の弟アメン・トンプソン選手(ロケッツ)もロケッツと契約延長で合意しており、兄弟そろって1億ドル超えの契約を手にしたのはNBA史上初めて。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "PISTONS x AUSAR THOMPSON"
+  },
+  {
     href: "202-pelle-larson-heat-extension.html",
     cat: "NBA",
     title: "マイアミ・ヒート、ペレ・ラーソンと4年6000万ドルの契約延長に合意 —— 2030-31シーズンに相互オプション付き",
