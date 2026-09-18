@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-09-18 21:49 UTC",
+ "updated_utc": "2026-09-18 23:38 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wk4jv4/charania_just_in_detroit_pistons_alldefensive/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-18T22:30:39+00:00",
+   "text": "Just in: Detroit Pistons All-Defensive forward Ausar Thompson has reached agreement on a five-year, $155 million rookie-scale contract extension, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wk4jv4/charania_just_in_detroit_pistons_alldefensive/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
@@ -78,19 +91,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wih9zk/charania_the_phoenix_suns_are_signing_center_duop/",
    "links": [
     "https://www.espn.com/contributor/shams-charania"
-   ]
-  },
-  {
-   "reporter": "Jake Fischer（The Stein Line）",
-   "handle": "JakeLFischer",
-   "key": "https://www.reddit.com/r/nba/comments/1wicy9l/fischer_the_utah_jazz_have_shown_interest_in/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-16T23:11:26+00:00",
-   "text": "Kevin Love remains without a team with around a month to go before the start of the new NBA season.\n\nAccording to Jake Fischer, the Utah Jazz have shown interest in bringing the veteran back after his 2025-26 season with the franchise.\n\nLove, however, reportedly has different priorities. The 38-year-old forward wants to join a team with genuine championship ambitions.\n\nLove played 37 games for the Jazz during the 2025-26 season, averaging 6.7 points, 5.8 rebounds and 1.8 assists per game.\n\nThe veteran is now waiting for the right opportunity as he looks to continue his long NBA career.\n\nSource: https://sportando.basketball/halley-campania-avellino-basket-contro-psa-napoli-est-match-sospeso-a-meta-terzo-quarto/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wicy9l/fischer_the_utah_jazz_have_shown_interest_in/",
-   "links": [
-    "https://sportando.basketball/halley-campania-avellino-basket-contro-psa-napoli-est-match-sospeso-a-meta-terzo-quarto/"
    ]
   }
  ]
