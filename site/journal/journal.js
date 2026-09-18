@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "195-yachiyo-flags-parachallenge-3x3.html",
+    cat: "JAPAN",
+    title: "「もっとやりたい！」障害のある参加者とプロ選手が3×3で交流 —— NPO法人おりがみ×石井食品、八千代フラッグスと「ぷちパラ旅」開催",
+    excerpt: "NPO法人おりがみは8月29日、石井食品との連携企画「石井食品×ぷちパラ旅〜八千代フラッグス交流編〜」を八千代市生涯学習プラザで開催したと発表した。障害のある方や学生、企業関係者ら計66名が、3x3プロチーム「八千代フラッグス」の選手と3x3バスケットボールで交流した。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-195-hero.jpg?v=777aaf84a2",
+    tile: "YACHIYO FLAGS × PARATABI"
+  },
+  {
+    href: "194-knicks-2026-27-season-preview.html",
+    cat: "NBA",
+    title: "ニックス連覇なるか —— ESPNが2026-27シーズンプレビュー、タウンズの契約と故障リスクが焦点",
+    excerpt: "ESPNは17日、53年ぶりの優勝を果たしたニューヨーク・ニックスの2026-27シーズンプレビューを公開。優勝メンバーの主力5人を残留させた一方、ミッチェル・ロビンソンはFAでセルティックスへ移籍。カール=アンソニー・タウンズの契約と故障リスクが連覇の鍵になると分析している。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "KNICKS 2026-27 PREVIEW"
+  },
+  {
     href: "193-eigo-de-basuke-ota.html",
     cat: "JAPAN",
     title: "佐々木クリス氏「えいごdeバスケ」第2回、オープンハウスアリーナ太田で9月25日開催 —— B.LEAGUE開幕戦翌日、群馬の小学生24名を無料招待",
