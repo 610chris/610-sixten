@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "191-lebron-24-chosen-1s.html",
+    cat: "KICKS",
+    title: "レブロン最新シグネチャー「LEBRON 24」新色「Chosen 1s」が登場 —— 本人がワークアウトで着用、品番IO8201-700",
+    excerpt: "レブロン・ジェームズが最新シグネチャー「Nike LeBron 24」の新色「Chosen 1s」を、トレーナーとのワークアウト中に着用してお披露目。Tour Yellow基調にMetallic GoldとMidnight Navyを配色し、品番はIO8201-700。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-191-hero.jpg?v=f13beaf18e",
+    tile: "LEBRON 24 CHOSEN 1S"
+  },
+  {
     href: "190-suncall-hannaryz-partnership.html",
     cat: "JAPAN",
     title: "サンコール、京都ハンナリーズと2026-27シーズンのオフィシャルパートナー契約を継続 —— B.LEAGUE PREMIER参入シーズンもゴールドパートナーとして支援",
