@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "202-pelle-larson-heat-extension.html",
+    cat: "NBA",
+    title: "マイアミ・ヒート、ペレ・ラーソンと4年6000万ドルの契約延長に合意 —— 2030-31シーズンに相互オプション付き",
+    excerpt: "ESPNのシャムズ・シャラニア記者が一報。マイアミ・ヒートは、ガードのペレ・ラーソン選手と4年、総額6000万ドルの契約延長に合意した。2030-31シーズンには相互オプションが付く。代理人のオースティン・ブラウン氏とスティーブン・ヒューマン氏（CAAスポーツ）がESPNに伝えた。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "HEAT x PELLE LARSON"
+  },
+  {
     href: "201-cam-whitmore-nuggets-two-way.html",
     cat: "NBA",
     title: "ナゲッツ、カム・ウィットモアとツーウェイ契約に合意 —— 2023年ドラフト1巡目指名、NBA4年目でロースター争いへ",
