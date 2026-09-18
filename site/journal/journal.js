@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "196-cavaliers-brandon-weems-gm.html",
+    cat: "NBA",
+    title: "クリーブランド・キャバリアーズ、ブランドン・ウィームズを新GMに昇格 —— 前任ガンジーは76ers入り、ルブロンの幼なじみが編成トップへ",
+    excerpt: "ESPNのシャムズ・シャラニア記者が一報。クリーブランド・キャバリアーズは、球団社長コビー・アルトマンの下でブランドン・ウィームズをゼネラルマネージャーに昇格させる。前任のマイク・ガンジーは5月にフィラデルフィア・76ersのバスケットボール部門President就任のため退団。ウィームズはルブロン・ジェームズの幼なじみでもある。",
+    date: "2026.09.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "CAVALIERS NEW GM"
+  },
+  {
     href: "195-yachiyo-flags-parachallenge-3x3.html",
     cat: "JAPAN",
     title: "「もっとやりたい！」障害のある参加者とプロ選手が3×3で交流 —— NPO法人おりがみ×石井食品、八千代フラッグスと「ぷちパラ旅」開催",
