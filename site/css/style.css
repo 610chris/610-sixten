@@ -57,7 +57,7 @@ ul { list-style: none; }
   height: 64px;
 }
 .nav-logo { display: flex; align-items: center; gap: 10px; }
-.nav-logo img { height: 34px; width: auto; }
+.nav-logo img { height: 20px; width: auto; }
 .nav-logo span {
   font-family: var(--font-display);
   font-size: 14px;
@@ -933,7 +933,7 @@ footer {
   gap: 20px;
   flex-wrap: wrap;
 }
-.footer-inner img { height: 28px; }
+.footer-inner img { height: 16px; }
 .footer-inner small {
   color: var(--muted);
   font-size: 12px;

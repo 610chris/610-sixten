@@ -452,7 +452,7 @@ footer {
   gap: 16px;
   flex-wrap: wrap;
 }
-.footer-inner img { height: 26px; width: auto; }
+.footer-inner img { height: 15px; width: auto; }
 .footer-inner small { font-size: 11.5px; color: #9a9a94; letter-spacing: 0.08em; }
 
 .jhidden { display: none !important; }
@@ -464,6 +464,7 @@ footer {
 
 @media (max-width: 760px) {
   .jnav-toggle { display: block; }
+  .jnav-logo img { height: 52px; margin: -7px 0; }
   .jnav-links {
     display: none;
     position: absolute;
