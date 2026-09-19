@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "205-air-jordan-3-wmns-fireside.html",
+    cat: "KICKS",
+    title: "Air Jordan 3 WMNS「Fireside」が2026年10月発売 —— ブラウン基調にピンクのレースを差した女性向けカラー、品番CK9246-200",
+    excerpt: "ジョーダン ブランドは、「Air Jordan 3」の女性向け(WMNS)新色「Fireside」(品番CK9246-200)を2026年10月に発売する。ディープブラウンのアッパーにクリーム色のディテール、差し色にピンクのレースを合わせた配色。Nice KicksとSneaker Bar Detroitが伝えた。",
+    date: "2026.09.19",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "AIR JORDAN 3 WMNS"
+  },
+  {
     href: "204-psg-nike-kd6-metallic-silver.html",
     cat: "KICKS",
     title: "PSG×Nike KD6「Metallic Silver」が発売 —— デュラントとパリ・サンジェルマンのコラボ最新作、価格135ドル",
