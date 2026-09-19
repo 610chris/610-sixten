@@ -87,6 +87,31 @@ push するのが即時発火の本命ルート。どちらで起動されても
 - カテゴリ（journal.jsのcat・記事のjr-cat）は **NBA**（2026-08-17のタブ整理でGAME→NBA改称・STREET→CULTURE統合。現行タブ: NBA/JAPAN/KICKS/CULTURE/REPORT）
 - **`insider_feed.json` にある未読の `key` は、採用/スキップ（宣伝・24時間超・見送り含む）を問わず必ず全部そのレポーターの既読ファイル（上の表）に追記**（即時ポーリング shams-poll.yml が同じ判定で見るため、記録漏れがあると5分おきに再発火し続ける）。公開したら published.log にも追記（§4と同様）
 
+### 1b-0. Threads速報の文面を積む（§1b の候補を決めたら、記事を書く前に毎回・2026-09-19設置）
+
+§1b と同じ `insider_feed.json` の新着から、クリス個人の Threads（@muwe.c）に出す日本語速報の文面を作って `journal_auto/threads_queue.json` に積む（2026-09-19クリス指示「Shamsの投稿等を俺のXで拡散するものを…スレッズでもやれるようにしたい！」）。**投稿するのは GitHub Actions（threads-post.yml）で、ここでは投稿しない**。設計書: `610_sixten/615_JOURNAL/Threads速報/DESIGN.md`。
+
+1. 対象は `journal_auto/threads_handles.json` に載っている handle（Tier1の9人）のポストだけ。`threads_queue.json` に同じ `key` が既にあるものは作らない
+2. 噂レベルを判定する: Lv1 確定（契約した/トレードされた）/ Lv2 合意（サイン前）/ Lv3 交渉中 / Lv4 関心・検討 / Lv5 それ以外。**Lv5・ケガの questionable/doubtful・番組や書籍の宣伝・雑感・試合実況は積まない**。`posted_utc` が3時間より前のものも積まない
+3. 本文に出てくる人名（選手・監督・GM）を全員 `python3 journal_auto/players_kana.py lookup --add "英語名" "英語名" …` で引く。`OK` のカタカナだけを使う。**`MISSING` が1人でもいたら、推測のカタカナで書かずに `status: "held"`・`held_reason: "辞書に無い: <英語名>"` で積む**（クリス指示「名前は1つ1つ調べていって欲しい」）。exit 3（Wikipediaに届かない）の時も held
+4. 文面（`text`）の形。本文は140字前後（契約の中身が入りきらない時だけ200字まで）:
+   ```
+   🚨🚨 速報 🚨🚨          ← Lv1・Lv2。Lv3 は「👀 交渉中 👀」、Lv4 は「💭 噂 💭」
+
+   <本文。Lv1「〜と契約！」「〜へトレード！」/ Lv2「〜で合意！」（サイン前なので「契約」と書かない）/
+    Lv3・Lv4 は1文目を「<媒体>の<英語の記者名>記者によると、」で始める（記者名はカタカナにしない）>
+
+   <threads_handles.json の via をそのまま>
+   ```
+   ポストに無い事実を足さない。チーム名はカタカナの通称（レイカーズ等）でよい。ハッシュタグ・URLは本文に入れない（記事URLは Actions が返信で付ける）
+5. 同じニュースを複数の記者が報じていたら、最も早い1人の分だけ積む（§1b の7と同じ）。噂レベルが上がった続報（Lv3→Lv1 等）だけは新しい項目にしてよい
+6. 項目の形: `{"key": <insider_feed の key>, "reporter": <handle>, "posted_utc": <そのまま>, "level": 1〜4, "text": <文面>, "status": "ready" か "held", "held_reason": "", "article_url": "", "created_utc": <今のUTC ISO>}` を `items` の末尾に足す
+7. **積んだらすぐ、記事を書く前に** `git add journal_auto/threads_queue.json && git commit -m "threads: 速報を積む" && git push`（失敗したら `git pull --rebase` して再push）。ここでは既読ファイル（seen_*.txt）は更新しない（§1b の記事化はこのあと続ける）
+8. §1b・§1c でその `key` の記事を公開したら、§4 の commit の前に同じ項目の `article_url` に記事の公開URL（`https://sixten.jp/journal/NNN-slug.html`）を書く。Actions がそれを見て「詳しくはこちら👇」の返信を付ける
+9. **二重記事の防止**: 7の push でこのルーチンがもう一度起動されることがある。起動した時点で、`threads_queue.json` に `article_url` が空で `created_utc` が30分以内の項目があれば、その `key` は**別の実行が記事を書いている最中**なので、§1b の記事化の候補から外す（既読ファイルにも書かない）
+- 書いてよいのは `threads_queue.json` だけ。`threads_state.json`（Actions の投稿記録）と `threads_enabled.txt`（止めるスイッチ）には触らない
+- 積む候補がゼロなら、このセクションでは何も commit しない
+
 ### 1c. ESPNニュースチェック（NBA・毎回実行）
 
 PR TIMES / Shams とは独立に、毎回必ずこれも行う（2026-08-18クリス指示「ESPNのバスケに関する記事で、まだ記事化されていない新規のニュースは記事になるようにしたい」）。

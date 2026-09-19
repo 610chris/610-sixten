@@ -1,0 +1,2321 @@
+{
+ "_note": "Threads速報の選手名カタカナ辞書。カタカナ=日本語版Wikipediaの題名（英語版からの言語間リンク）だけ。推測で足さない。追加は players_kana.py lookup --add。DESIGN.md §4-③",
+ "players": {
+  "A. J. Green": {
+   "kana": "A・J・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/A%E3%83%BBJ%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "A. J. Green (basketball)": {
+   "kana": "A・J・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/A%E3%83%BBJ%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "Aaron Gordon": {
+   "kana": "アーロン・ゴードン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B4%E3%83%BC%E3%83%89%E3%83%B3"
+  },
+  "Aaron Holiday": {
+   "kana": "アーロン・ホリデー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC"
+  },
+  "Aaron Nesmith": {
+   "kana": "アーロン・ネスミス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%8D%E3%82%B9%E3%83%9F%E3%82%B9"
+  },
+  "Aaron Wiggins": {
+   "kana": "アーロン・ウィギンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BC%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%82%AE%E3%83%B3%E3%82%BA"
+  },
+  "Ace Bailey": {
+   "kana": "エース・ベイリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC"
+  },
+  "Ace Bailey (basketball)": {
+   "kana": "エース・ベイリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC"
+  },
+  "Adou Thiero": {
+   "kana": "アドゥ・シーロー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%82%A5%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AD%E3%83%BC"
+  },
+  "AJ Dybantsa": {
+   "kana": "AJ・ディバンツァ",
+   "src": "https://ja.wikipedia.org/wiki/AJ%E3%83%BB%E3%83%87%E3%82%A3%E3%83%90%E3%83%B3%E3%83%84%E3%82%A1"
+  },
+  "AJ Green": {
+   "kana": "A・J・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/A%E3%83%BBJ%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "AJ Johnson": {
+   "kana": "A・J・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/A%E3%83%BBJ%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "AJ Johnson (basketball)": {
+   "kana": "A・J・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/A%E3%83%BBJ%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Ajay Mitchell": {
+   "kana": "エイジェイ・ミッチェル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB"
+  },
+  "Al Horford": {
+   "kana": "アル・ホーフォード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  "Alex Caruso": {
+   "kana": "アレックス・カルーソ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BD"
+  },
+  "Alex Sarr": {
+   "kana": "アレックス・サー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%BC"
+  },
+  "Alexis Ajinca": {
+   "kana": "アレクシス・アジンサ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%B8%E3%83%B3%E3%82%B5"
+  },
+  "Alexis Ajinça": {
+   "kana": "アレクシス・アジンサ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%B8%E3%83%B3%E3%82%B5"
+  },
+  "Alperen Sengun": {
+   "kana": "アルペラン・シェングン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%9A%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B0%E3%83%B3"
+  },
+  "Alperen Şengün": {
+   "kana": "アルペラン・シェングン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%9A%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B0%E3%83%B3"
+  },
+  "Amen Thompson": {
+   "kana": "アメン・トンプソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%B3%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3"
+  },
+  "Amir Coffey": {
+   "kana": "アミール・コフィー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%95%E3%82%A3%E3%83%BC"
+  },
+  "Andre Drummond": {
+   "kana": "アンドレ・ドラモンド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%83%89%E3%83%A9%E3%83%A2%E3%83%B3%E3%83%89"
+  },
+  "Andre Jackson Jr": {
+   "kana": "アンドレ・ジャクソン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Andre Jackson Jr.": {
+   "kana": "アンドレ・ジャクソン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Andrew Nembhard": {
+   "kana": "アンドリュー・ネムハード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%8D%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%89"
+  },
+  "Andrew Wiggins": {
+   "kana": "アンドリュー・ウィギンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A3%E3%82%AE%E3%83%B3%E3%82%BA"
+  },
+  "Anfernee Simons": {
+   "kana": "アンファニー・サイモンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%95%E3%82%A1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B5%E3%82%A4%E3%83%A2%E3%83%B3%E3%82%BA"
+  },
+  "Anthony Black": {
+   "kana": "アンソニー・ブラック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF"
+  },
+  "Anthony Black (basketball)": {
+   "kana": "アンソニー・ブラック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF"
+  },
+  "Anthony Davis": {
+   "kana": "アンソニー・デイビス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%87%E3%82%A4%E3%83%93%E3%82%B9"
+  },
+  "Anthony Edwards": {
+   "kana": "アンソニー・エドワーズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA"
+  },
+  "Anthony Edwards (basketball)": {
+   "kana": "アンソニー・エドワーズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA"
+  },
+  "Antonio Lang": {
+   "kana": "アントニオ・ラング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%A9%E3%83%B3%E3%82%B0"
+  },
+  "Asa Newell": {
+   "kana": "エイサ・ニューエル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%82%B5%E3%83%BB%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%A8%E3%83%AB"
+  },
+  "Ausar Thompson": {
+   "kana": "アサー・トンプソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B5%E3%83%BC%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3"
+  },
+  "Austin Reaves": {
+   "kana": "オースティン・リーブス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%96%E3%82%B9"
+  },
+  "Ayo Dosunmu": {
+   "kana": "アヨ・ドスンム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A8%E3%83%BB%E3%83%89%E3%82%B9%E3%83%B3%E3%83%A0"
+  },
+  "Bam Adebayo": {
+   "kana": "バム・アデバヨ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%87%E3%83%90%E3%83%A8"
+  },
+  "Baylor Scheierman": {
+   "kana": "ベイラー・シャイアマン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%9E%E3%83%B3"
+  },
+  "Ben Simmons": {
+   "kana": "ベン・シモンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A2%E3%83%B3%E3%82%BA"
+  },
+  "Bennedict Mathurin": {
+   "kana": "ベネディクト・マサリン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%E3%83%BB%E3%83%9E%E3%82%B5%E3%83%AA%E3%83%B3"
+  },
+  "Bilal Coulibaly": {
+   "kana": "ビラル・クリバリ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A9%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%90%E3%83%AA"
+  },
+  "Billy Donovan": {
+   "kana": "ビリー・ドノバン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%83%8E%E3%83%90%E3%83%B3"
+  },
+  "Blake Ahearn": {
+   "kana": "ブレイク・アハーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%8F%E3%83%BC%E3%83%B3"
+  },
+  "Bobby Jackson": {
+   "kana": "ボビー・ジャクソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%93%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3"
+  },
+  "Bobby Portis": {
+   "kana": "ボビー・ポーティス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%93%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9"
+  },
+  "Bogdan Bogdanovic": {
+   "kana": "ボグダン・ボグダノヴィッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B0%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9C%E3%82%B0%E3%83%80%E3%83%8E%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
+  },
+  "Bogdan Bogdanovic (basketball)": {
+   "kana": "ボグダン・ボグダノヴィッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B0%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9C%E3%82%B0%E3%83%80%E3%83%8E%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
+  },
+  "Bogdan Bogdanović": {
+   "kana": "ボグダン・ボグダノヴィッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B0%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9C%E3%82%B0%E3%83%80%E3%83%8E%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
+  },
+  "Bogdan Bogdanović (basketball)": {
+   "kana": "ボグダン・ボグダノヴィッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B0%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9C%E3%82%B0%E3%83%80%E3%83%8E%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
+  },
+  "Bones Hyland": {
+   "kana": "ボーンズ・ハイランド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  "Bosnia and Herzegovina": {
+   "kana": "ボスニア・ヘルツェゴビナ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B4%E3%83%93%E3%83%8A"
+  },
+  "Bradley Beal": {
+   "kana": "ブラッドリー・ビール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%93%E3%83%BC%E3%83%AB"
+  },
+  "Brandin Podziemski": {
+   "kana": "ブランディン・ポジェムスキー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%9D%E3%82%B8%E3%82%A7%E3%83%A0%E3%82%B9%E3%82%AD%E3%83%BC"
+  },
+  "Brandon Clarke": {
+   "kana": "ブランドン・クラーク",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF"
+  },
+  "Brandon Ingram": {
+   "kana": "ブランドン・イングラム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%A0"
+  },
+  "Brandon Miller": {
+   "kana": "ブランドン・ミラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC"
+  },
+  "Brandon Miller (basketball, born 2002)": {
+   "kana": "ブランドン・ミラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC"
+  },
+  "Brett Brown": {
+   "kana": "ブレット・ブラウン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+  },
+  "Brian Keefe": {
+   "kana": "ブライアン・キーフ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%BC%E3%83%95"
+  },
+  "Brian Shaw": {
+   "kana": "ブライアン・ショウ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A7%E3%82%A6"
+  },
+  "Brian Shaw (basketball)": {
+   "kana": "ブライアン・ショウ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A7%E3%82%A6"
+  },
+  "Brice Sensabaugh": {
+   "kana": "ブライス・センサボー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%9C%E3%83%BC"
+  },
+  "Bronny James": {
+   "kana": "ブロニー・ジェームズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA"
+  },
+  "Brook Lopez": {
+   "kana": "ブルック・ロペス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AD%E3%83%9A%E3%82%B9"
+  },
+  "Bruce Fraser": {
+   "kana": "ブルース・フレイザー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC"
+  },
+  "Bruce Fraser (basketball)": {
+   "kana": "ブルース・フレイザー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC"
+  },
+  "Bryce McGowens": {
+   "kana": "ブライス・マクゴーウェンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B4%E3%83%BC%E3%82%A6%E3%82%A7%E3%83%B3%E3%82%BA"
+  },
+  "Bub Carrington": {
+   "kana": "カールトン・カリントン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%88%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%AA%E3%83%B3%E3%83%88%E3%83%B3"
+  },
+  "Buddy Hield": {
+   "kana": "バディ・ヒールド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%87%E3%82%A3%E3%83%BB%E3%83%92%E3%83%BC%E3%83%AB%E3%83%89"
+  },
+  "Cade Cunningham": {
+   "kana": "ケイド・カニングハム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%89%E3%83%BB%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%8F%E3%83%A0"
+  },
+  "Caleb Houstan": {
+   "kana": "ケイレブ・ヒュースタン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%83%92%E3%83%A5%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3"
+  },
+  "Caleb Love": {
+   "kana": "ケイレブ・ラブ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%83%A9%E3%83%96"
+  },
+  "Caleb Martin": {
+   "kana": "ケイレブ・マーティン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3"
+  },
+  "Caleb Martin (basketball)": {
+   "kana": "ケイレブ・マーティン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3"
+  },
+  "Caleb Wilson": {
+   "kana": "ケイレブ・ウィルソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3"
+  },
+  "Caleb Wilson (basketball)": {
+   "kana": "ケイレブ・ウィルソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3"
+  },
+  "Cam Thomas": {
+   "kana": "キャム・トーマス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A0%E3%83%BB%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9"
+  },
+  "Cameron Boozer": {
+   "kana": "キャメロン・ブーザー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%96%E3%83%BC%E3%82%B6%E3%83%BC"
+  },
+  "Cameron Carr": {
+   "kana": "キャメロン・カー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC"
+  },
+  "Cameron Carr (basketball)": {
+   "kana": "キャメロン・カー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC"
+  },
+  "Cameron Johnson": {
+   "kana": "キャメロン・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Caris LeVert": {
+   "kana": "カリス・レヴァート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AC%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%88"
+  },
+  "Caron Butler": {
+   "kana": "カロン・バトラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC"
+  },
+  "Carter Bryant": {
+   "kana": "カーター・ブライアント",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88"
+  },
+  "Carter Bryant (basketball)": {
+   "kana": "カーター・ブライアント",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88"
+  },
+  "Cason Wallace": {
+   "kana": "ケイソン・ウォーレス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AC%E3%82%B9"
+  },
+  "Cedric Coward": {
+   "kana": "セドリック・カワード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%89%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AB%E3%83%AF%E3%83%BC%E3%83%89"
+  },
+  "Chad Forcier": {
+   "kana": "チャド・フォーシァー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B7%E3%82%A1%E3%83%BC"
+  },
+  "Charles Bassey": {
+   "kana": "チャールズ・バッシー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%90%E3%83%83%E3%82%B7%E3%83%BC"
+  },
+  "Charles Bediako": {
+   "kana": "チャールズ・ベディアコ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%99%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B3"
+  },
+  "Charles Lee": {
+   "kana": "チャールズ・リー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%AA%E3%83%BC"
+  },
+  "Charles Lee (basketball)": {
+   "kana": "チャールズ・リー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%AA%E3%83%BC"
+  },
+  "Chet Holmgren": {
+   "kana": "チェット・ホルムグレン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%B0%E3%83%AC%E3%83%B3"
+  },
+  "Chip Engelland": {
+   "kana": "チップ・イングランド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%83%E3%83%97%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  "Chris Finch": {
+   "kana": "クリス・フィンチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%95%E3%82%A3%E3%83%B3%E3%83%81"
+  },
+  "Chris Livingston": {
+   "kana": "クリス・リビングストン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3"
+  },
+  "Chris Quinn": {
+   "kana": "クリス・クイン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%B3"
+  },
+  "Chris Youngblood": {
+   "kana": "クリス・ヤングブラッド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+  },
+  "Christian Braun": {
+   "kana": "クリスチャン・ブラウン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+  },
+  "Christian Koloko": {
+   "kana": "クリスチャン・コロコ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%AD%E3%82%B3"
+  },
+  "Chuma Okeke": {
+   "kana": "チュマ・オキキ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%9E%E3%83%BB%E3%82%AA%E3%82%AD%E3%82%AD"
+  },
+  "CJ McCollum": {
+   "kana": "CJ・マッカラム",
+   "src": "https://ja.wikipedia.org/wiki/CJ%E3%83%BB%E3%83%9E%E3%83%83%E3%82%AB%E3%83%A9%E3%83%A0"
+  },
+  "Clint Capela": {
+   "kana": "クリント・カペラ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%83%B3%E3%83%88%E3%83%BB%E3%82%AB%E3%83%9A%E3%83%A9"
+  },
+  "Coby White": {
+   "kana": "コービー・ホワイト",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%93%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88"
+  },
+  "Cody Williams": {
+   "kana": "コディ・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Cole Anthony": {
+   "kana": "コール・アンソニー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC"
+  },
+  "Colin Castleton": {
+   "kana": "コリン・キャッスルトン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B9%E3%83%AB%E3%83%88%E3%83%B3"
+  },
+  "Collin Gillespie": {
+   "kana": "コリン・ギレスピー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%AE%E3%83%AC%E3%82%B9%E3%83%94%E3%83%BC"
+  },
+  "Collin Murray-Boyles": {
+   "kana": "コリン・マレー＝ボイルズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC%EF%BC%9D%E3%83%9C%E3%82%A4%E3%83%AB%E3%82%BA"
+  },
+  "Collin Sexton": {
+   "kana": "コリン・セクストン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%88%E3%83%B3"
+  },
+  "Cooper Flagg": {
+   "kana": "クーパー・フラッグ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%BC%E3%83%91%E3%83%BC%E3%83%BB%E3%83%95%E3%83%A9%E3%83%83%E3%82%B0"
+  },
+  "Corey Kispert": {
+   "kana": "コーリー・キスパート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88"
+  },
+  "Corliss Williamson": {
+   "kana": "コーリス・ウィリアムソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BD%E3%83%B3"
+  },
+  "D'Angelo Russell": {
+   "kana": "ディアンジェロ・ラッセル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB"
+  },
+  "Dahntay Jones": {
+   "kana": "ダンテイ・ジョーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%86%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Dalen Terry": {
+   "kana": "デイレン・テリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%86%E3%83%AA%E3%83%BC"
+  },
+  "Dalton Knecht": {
+   "kana": "ダルトン・コネクト",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AB%E3%83%88%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88"
+  },
+  "Damian Lillard": {
+   "kana": "デイミアン・リラード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%9F%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%A9%E3%83%BC%E3%83%89"
+  },
+  "Daniel Gafford": {
+   "kana": "ダニエル・ギャフォード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  "Dariq Whitehead": {
+   "kana": "ダリク・ホワイトヘッド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AA%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%83%E3%83%89"
+  },
+  "Darius Acuff Jr": {
+   "kana": "ダリアス・エイカフ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%A8%E3%82%A4%E3%82%AB%E3%83%95%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Darius Acuff Jr.": {
+   "kana": "ダリアス・エイカフ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%A8%E3%82%A4%E3%82%AB%E3%83%95%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Darius Garland": {
+   "kana": "ダリアス・ガーランド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%AC%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  "Darko Rajakovic": {
+   "kana": "ダーコ・ラヤコビッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%B3%E3%83%BB%E3%83%A9%E3%83%A4%E3%82%B3%E3%83%93%E3%83%83%E3%83%81"
+  },
+  "Darko Rajaković": {
+   "kana": "ダーコ・ラヤコビッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%82%B3%E3%83%BB%E3%83%A9%E3%83%A4%E3%82%B3%E3%83%93%E3%83%83%E3%83%81"
+  },
+  "DaRon Holmes II": {
+   "kana": "ダロン・ホームズ2世",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA2%E4%B8%96"
+  },
+  "Darryn Peterson": {
+   "kana": "ダリン・ピーターソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%94%E3%83%BC%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3"
+  },
+  "Darvin Ham": {
+   "kana": "ダービン・ハム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%BC%E3%83%93%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%A0"
+  },
+  "Dave Joerger": {
+   "kana": "デビッド・イェイガー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%83%E3%83%89%E3%83%BB%E3%82%A4%E3%82%A7%E3%82%A4%E3%82%AC%E3%83%BC"
+  },
+  "David Jones Garcia": {
+   "kana": "デヴィッド・ジョーンズ＝ガルシア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%EF%BC%9D%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2"
+  },
+  "David Jones García": {
+   "kana": "デヴィッド・ジョーンズ＝ガルシア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%EF%BC%9D%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2"
+  },
+  "Davion Mitchell": {
+   "kana": "デイビオン・ミッチェル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%93%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB"
+  },
+  "Day'Ron Sharpe": {
+   "kana": "デイロン・シャープ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97"
+  },
+  "De'Aaron Fox": {
+   "kana": "ディアロン・フォックス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  "De'Andre Hunter": {
+   "kana": "デアンドレ・ハンター",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC"
+  },
+  "De'Anthony Melton": {
+   "kana": "ディアンソニー・メルトン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%A1%E3%83%AB%E3%83%88%E3%83%B3"
+  },
+  "Dean Wade": {
+   "kana": "ディーン・ウェイド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%89"
+  },
+  "Deandre Ayton": {
+   "kana": "ディアンドレ・エイトン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%82%A8%E3%82%A4%E3%83%88%E3%83%B3"
+  },
+  "DeAndre Jordan": {
+   "kana": "デアンドレ・ジョーダン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3"
+  },
+  "Dejounte Murray": {
+   "kana": "デジャンテ・マレー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%86%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC"
+  },
+  "DeMarre Carroll": {
+   "kana": "デマール・キャロル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%AB"
+  },
+  "Deni Avdija": {
+   "kana": "デニ・アヴディア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%83%BB%E3%82%A2%E3%83%B4%E3%83%87%E3%82%A3%E3%82%A2"
+  },
+  "Dennis Schroder": {
+   "kana": "デニス・シュルーダー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%80%E3%83%BC"
+  },
+  "Dennis Schröder": {
+   "kana": "デニス・シュルーダー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%80%E3%83%BC"
+  },
+  "Dereck Lively II": {
+   "kana": "デレック・ライブリー2世",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AC%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC2%E4%B8%96"
+  },
+  "Derik Queen": {
+   "kana": "デリク・クイーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AA%E3%82%AF%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%B3"
+  },
+  "Derrick Jones Jr": {
+   "kana": "デリック・ジョーンズ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Derrick Jones Jr.": {
+   "kana": "デリック・ジョーンズ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Derrick White": {
+   "kana": "デリック・ホワイト",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88"
+  },
+  "Desmond Bane": {
+   "kana": "デズモンド・ベイン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%BA%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%83%99%E3%82%A4%E3%83%B3"
+  },
+  "Devin Booker": {
+   "kana": "デビン・ブッカー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%B3%E3%83%BB%E3%83%96%E3%83%83%E3%82%AB%E3%83%BC"
+  },
+  "Devin Carter": {
+   "kana": "デビン・カーター",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC"
+  },
+  "Devin Vassell": {
+   "kana": "デビン・バッセル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%93%E3%83%B3%E3%83%BB%E3%83%90%E3%83%83%E3%82%BB%E3%83%AB"
+  },
+  "Dillon Brooks": {
+   "kana": "ディロン・ブルックス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  "Domantas Sabonis": {
+   "kana": "ドマンタス・サボニス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9E%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%9C%E3%83%8B%E3%82%B9"
+  },
+  "Dominick Barlow": {
+   "kana": "ドミニック・バーロー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%90%E3%83%BC%E3%83%AD%E3%83%BC"
+  },
+  "Donovan Clingan": {
+   "kana": "ドノバン・クリンガン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8E%E3%83%90%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%B3"
+  },
+  "Donovan Mitchell": {
+   "kana": "ドノバン・ミッチェル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8E%E3%83%90%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB"
+  },
+  "Donte DiVincenzo": {
+   "kana": "ドンテ・ディビンチェンゾ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%B3%E3%83%86%E3%83%BB%E3%83%87%E3%82%A3%E3%83%93%E3%83%B3%E3%83%81%E3%82%A7%E3%83%B3%E3%82%BE"
+  },
+  "Dorian Finney-Smith": {
+   "kana": "ドリアン・フィニー＝スミス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A3%E3%83%8B%E3%83%BC%EF%BC%9D%E3%82%B9%E3%83%9F%E3%82%B9"
+  },
+  "Doug Christie": {
+   "kana": "ダグ・クリスティ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%B0%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3"
+  },
+  "Drake Powell": {
+   "kana": "ドレイク・パウエル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%91%E3%82%A6%E3%82%A8%E3%83%AB"
+  },
+  "Draymond Green": {
+   "kana": "ドレイモンド・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AC%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "Drew Timme": {
+   "kana": "ドリュー・ティミー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A3%E3%83%9F%E3%83%BC"
+  },
+  "Duncan Robinson": {
+   "kana": "ダンカン・ロビンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%82%AB%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%93%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Duop Reath": {
+   "kana": "ドゥオップ・リース",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%82%AA%E3%83%83%E3%83%97%E3%83%BB%E3%83%AA%E3%83%BC%E3%82%B9"
+  },
+  "Dwight Powell": {
+   "kana": "ドワイト・パウエル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AF%E3%82%A4%E3%83%88%E3%83%BB%E3%83%91%E3%82%A6%E3%82%A8%E3%83%AB"
+  },
+  "Dylan Harper": {
+   "kana": "ディラン・ハーパー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%91%E3%83%BC"
+  },
+  "Dyson Daniels": {
+   "kana": "ダイソン・ダニエルズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%82%BA"
+  },
+  "E. J. Liddell": {
+   "kana": "E・J・リデル",
+   "src": "https://ja.wikipedia.org/wiki/E%E3%83%BBJ%E3%83%BB%E3%83%AA%E3%83%87%E3%83%AB"
+  },
+  "Egor Demin": {
+   "kana": "イゴール・デミン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%87%E3%83%9F%E3%83%B3"
+  },
+  "Egor Dëmin": {
+   "kana": "イゴール・デミン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%87%E3%83%9F%E3%83%B3"
+  },
+  "EJ Liddell": {
+   "kana": "E・J・リデル",
+   "src": "https://ja.wikipedia.org/wiki/E%E3%83%BBJ%E3%83%BB%E3%83%AA%E3%83%87%E3%83%AB"
+  },
+  "Ekpe Udoh": {
+   "kana": "エペイ・ウドゥ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9A%E3%82%A4%E3%83%BB%E3%82%A6%E3%83%89%E3%82%A5"
+  },
+  "Erik Spoelstra": {
+   "kana": "エリック・スポールストラ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%A9"
+  },
+  "Evan Mobley": {
+   "kana": "エバン・モーブリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%96%E3%83%AA%E3%83%BC"
+  },
+  "Frank Vogel": {
+   "kana": "フランク・ヴォーゲル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%BC%E3%82%B2%E3%83%AB"
+  },
+  "Franz Wagner": {
+   "kana": "フランツ・バグナー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%84%E3%83%BB%E3%83%90%E3%82%B0%E3%83%8A%E3%83%BC"
+  },
+  "Fred VanVleet": {
+   "kana": "フレッド・ヴァンブリート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%96%E3%83%AA%E3%83%BC%E3%83%88"
+  },
+  "Gabe Vincent": {
+   "kana": "ゲイブ・ビンセント",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A4%E3%83%96%E3%83%BB%E3%83%93%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88"
+  },
+  "Garrett Temple": {
+   "kana": "ギャレット・テンプル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%A3%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%83%86%E3%83%B3%E3%83%97%E3%83%AB"
+  },
+  "Gary Harris": {
+   "kana": "ゲイリー・ハリス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%B9"
+  },
+  "Gary Payton II": {
+   "kana": "ゲイリー・ペイトン2世",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9A%E3%82%A4%E3%83%88%E3%83%B32%E4%B8%96"
+  },
+  "Gary Trent Jr": {
+   "kana": "ゲイリー・トレント・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Gary Trent Jr.": {
+   "kana": "ゲイリー・トレント・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%88%E3%83%AC%E3%83%B3%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Georges Niang": {
+   "kana": "ジョージ・ニアン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%8B%E3%82%A2%E3%83%B3"
+  },
+  "GG Jackson": {
+   "kana": "GG・ジャクソン",
+   "src": "https://ja.wikipedia.org/wiki/GG%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3"
+  },
+  "Giannis Antetokounmpo": {
+   "kana": "ヤニス・アデトクンボ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%87%E3%83%88%E3%82%AF%E3%83%B3%E3%83%9C"
+  },
+  "God Shammgod": {
+   "kana": "ゴッド・シャムゴッド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%83%E3%83%89%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%A0%E3%82%B4%E3%83%83%E3%83%89"
+  },
+  "Goga Bitadze": {
+   "kana": "ゴガ・ビターゼ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B4%E3%82%AC%E3%83%BB%E3%83%93%E3%82%BF%E3%83%BC%E3%82%BC"
+  },
+  "Gradey Dick": {
+   "kana": "グレイディ・ディック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF"
+  },
+  "Grant Williams": {
+   "kana": "グラント・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Grant Williams (basketball)": {
+   "kana": "グラント・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Grayson Allen": {
+   "kana": "グレイソン・アレン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%B3"
+  },
+  "Guerschon Yabusele": {
+   "kana": "グエルション・ヤブセレ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A8%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%A4%E3%83%96%E3%82%BB%E3%83%AC"
+  },
+  "Gui Santos": {
+   "kana": "ギー・サントス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%88%E3%82%B9"
+  },
+  "Harrison Barnes": {
+   "kana": "ハリソン・バーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Harrison Ingram": {
+   "kana": "ハリソン・イングラム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%A0"
+  },
+  "Haywood Highsmith": {
+   "kana": "ヘイウッド・ハイスミス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%A4%E3%82%A6%E3%83%83%E3%83%89%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%9F%E3%82%B9"
+  },
+  "Herbert Jones": {
+   "kana": "ハーバート・ジョーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Herbert Jones (basketball)": {
+   "kana": "ハーバート・ジョーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Hunter Tyson": {
+   "kana": "ハンター・タイソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%BD%E3%83%B3"
+  },
+  "Ime Udoka": {
+   "kana": "イーメイ・ウドカ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%83%A1%E3%82%A4%E3%83%BB%E3%82%A6%E3%83%89%E3%82%AB"
+  },
+  "Immanuel Quickley": {
+   "kana": "イマニュエル・クイックリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC"
+  },
+  "Isaac Okoro": {
+   "kana": "アイザック・オコロ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%82%B3%E3%83%AD"
+  },
+  "Isaiah Collier": {
+   "kana": "アイザイア・コリアー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%BC"
+  },
+  "Isaiah Hartenstein": {
+   "kana": "アイザイア・ハーテンシュタイン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
+  },
+  "Isaiah Jackson": {
+   "kana": "アイザイア・ジャクソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3"
+  },
+  "Isaiah Jackson (basketball)": {
+   "kana": "アイザイア・ジャクソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3"
+  },
+  "Isaiah Joe": {
+   "kana": "アイザイア・ジョー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC"
+  },
+  "Isaiah Stewart": {
+   "kana": "アイザイア・スチュワート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%81%E3%83%A5%E3%83%AF%E3%83%BC%E3%83%88"
+  },
+  "Ivica Zubac": {
+   "kana": "イビツァ・ズバッツ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%93%E3%83%84%E3%82%A1%E3%83%BB%E3%82%BA%E3%83%90%E3%83%83%E3%83%84"
+  },
+  "J. B. Bickerstaff": {
+   "kana": "J・B・ビッカースタッフ",
+   "src": "https://ja.wikipedia.org/wiki/J%E3%83%BBB%E3%83%BB%E3%83%93%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95"
+  },
+  "J. J. Barea": {
+   "kana": "J・J・バレア",
+   "src": "https://ja.wikipedia.org/wiki/J%E3%83%BBJ%E3%83%BB%E3%83%90%E3%83%AC%E3%82%A2"
+  },
+  "Ja Morant": {
+   "kana": "ジャ・モラント",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BB%E3%83%A2%E3%83%A9%E3%83%B3%E3%83%88"
+  },
+  "Ja'Kobe Walter": {
+   "kana": "ジャコービー・ウォルター",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B3%E3%83%BC%E3%83%93%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%BF%E3%83%BC"
+  },
+  "Jabari Smith Jr": {
+   "kana": "ジャバリ・スミス・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%90%E3%83%AA%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Jabari Smith Jr.": {
+   "kana": "ジャバリ・スミス・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%90%E3%83%AA%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Jabari Walker": {
+   "kana": "ジャバリ・ウォーカー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%90%E3%83%AA%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+  },
+  "Jaden Hardy": {
+   "kana": "ジェイデン・ハーディー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%87%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC"
+  },
+  "Jaden Ivey": {
+   "kana": "ジェイデン・アイビー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%87%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%93%E3%83%BC"
+  },
+  "Jaden McDaniels": {
+   "kana": "ジェイデン・マクダニエルズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%87%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%82%BA"
+  },
+  "Jae'Sean Tate": {
+   "kana": "ジェイショーン・テイト",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%86%E3%82%A4%E3%83%88"
+  },
+  "Jaime Jaquez Jr": {
+   "kana": "ハイメ・ハーケス・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%A1%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Jaime Jaquez Jr.": {
+   "kana": "ハイメ・ハーケス・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%A1%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Jake LaRavia": {
+   "kana": "ジェイク・ラレイビア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%AC%E3%82%A4%E3%83%93%E3%82%A2"
+  },
+  "Jakob Poltl": {
+   "kana": "ヤコブ・パートル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B3%E3%83%96%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%AB"
+  },
+  "Jakob Pöltl": {
+   "kana": "ヤコブ・パートル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B3%E3%83%96%E3%83%BB%E3%83%91%E3%83%BC%E3%83%88%E3%83%AB"
+  },
+  "Jalen Brunson": {
+   "kana": "ジェイレン・ブランソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Jalen Duren": {
+   "kana": "ジェイレン・デューレン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%87%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%B3"
+  },
+  "Jalen Green": {
+   "kana": "ジェイレン・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "Jalen Johnson": {
+   "kana": "ジェイレン・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Jalen Smith": {
+   "kana": "ジェイレン・スミス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9"
+  },
+  "Jalen Suggs": {
+   "kana": "ジェイレン・サッグス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%83%E3%82%B0%E3%82%B9"
+  },
+  "Jalen Williams": {
+   "kana": "ジェイレン・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Jamahl Mosley": {
+   "kana": "ジャマール・モズリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A2%E3%82%BA%E3%83%AA%E3%83%BC"
+  },
+  "Jamal Murray": {
+   "kana": "ジャマール・マレー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC"
+  },
+  "James Harden": {
+   "kana": "ジェームズ・ハーデン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%83%B3"
+  },
+  "James Wiseman": {
+   "kana": "ジェームズ・ワイズマン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3"
+  },
+  "Jarace Walker": {
+   "kana": "ジャレス・ウォーカー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+  },
+  "Jared Dudley": {
+   "kana": "ジャレッド・ダドリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%80%E3%83%89%E3%83%AA%E3%83%BC"
+  },
+  "Jared McCain": {
+   "kana": "ジャレッド・マケイン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%9E%E3%82%B1%E3%82%A4%E3%83%B3"
+  },
+  "Jaren Jackson Jr": {
+   "kana": "ジャレン・ジャクソン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Jaren Jackson Jr.": {
+   "kana": "ジャレン・ジャクソン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Jarred Vanderbilt": {
+   "kana": "ジャレッド・バンダービルト",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%90%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%AB%E3%83%88"
+  },
+  "Jarrett Allen": {
+   "kana": "ジャレット・アレン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%B3"
+  },
+  "Jarrett Jack": {
+   "kana": "ジャレット・ジャック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF"
+  },
+  "Jase Richardson": {
+   "kana": "ジェイス・リチャードソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89%E3%82%BD%E3%83%B3"
+  },
+  "Jason Terry": {
+   "kana": "ジェイソン・テリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%86%E3%83%AA%E3%83%BC"
+  },
+  "Javonte Green": {
+   "kana": "ジャボンテ・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9C%E3%83%B3%E3%83%86%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "Jawad Williams": {
+   "kana": "ジェワッド・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AF%E3%83%83%E3%83%89%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Jaxson Hayes": {
+   "kana": "ジャクソン・ヘイズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%98%E3%82%A4%E3%82%BA"
+  },
+  "Jay Huff": {
+   "kana": "ジェイ・ハフ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%83%8F%E3%83%95"
+  },
+  "Jay Triano": {
+   "kana": "ジェイ・トリアーノ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8E"
+  },
+  "Jayden Quaintance": {
+   "kana": "ジェイデン・クインタンス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%87%E3%83%B3%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%B3%E3%82%B9"
+  },
+  "Jaylen Brown": {
+   "kana": "ジェイレン・ブラウン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+  },
+  "Jaylen Wells": {
+   "kana": "ジェイレン・ウェルズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%BA"
+  },
+  "Jaylin Williams": {
+   "kana": "ジェイリン・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Jaylin Williams (basketball, born 2002)": {
+   "kana": "ジェイリン・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AA%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Jaylon Tyson": {
+   "kana": "ジェイロン・タイソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%BD%E3%83%B3"
+  },
+  "Jayson Tatum": {
+   "kana": "ジェイソン・テイタム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%86%E3%82%A4%E3%82%BF%E3%83%A0"
+  },
+  "JB Bickerstaff": {
+   "kana": "J・B・ビッカースタッフ",
+   "src": "https://ja.wikipedia.org/wiki/J%E3%83%BBB%E3%83%BB%E3%83%93%E3%83%83%E3%82%AB%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%83%E3%83%95"
+  },
+  "JD Davison": {
+   "kana": "JD・デイビソン",
+   "src": "https://ja.wikipedia.org/wiki/JD%E3%83%BB%E3%83%87%E3%82%A4%E3%83%93%E3%82%BD%E3%83%B3"
+  },
+  "Jeff Van Gundy": {
+   "kana": "ジェフ・ヴァン・ガンディ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3"
+  },
+  "Jenny Boucek": {
+   "kana": "ジェニー・ブーセック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%96%E3%83%BC%E3%82%BB%E3%83%83%E3%82%AF"
+  },
+  "Jerami Grant": {
+   "kana": "ジェラミ・グラント",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%9F%E3%83%BB%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88"
+  },
+  "Jeremiah Fears": {
+   "kana": "ジェレマイア・フィアーズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AC%E3%83%9E%E3%82%A4%E3%82%A2%E3%83%BB%E3%83%95%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA"
+  },
+  "Jeremy Sochan": {
+   "kana": "ジェレミー・ソーハン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AC%E3%83%9F%E3%83%BC%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%8F%E3%83%B3"
+  },
+  "Jericho Sims": {
+   "kana": "ジェリコ・シムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%B3%E3%83%BB%E3%82%B7%E3%83%A0%E3%82%BA"
+  },
+  "Jett Howard": {
+   "kana": "ジェット・ハワード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89"
+  },
+  "Jevon Carter": {
+   "kana": "ジェヴォン・カーター",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%B4%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC"
+  },
+  "Jim Boylen": {
+   "kana": "ジム・ボイレン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A0%E3%83%BB%E3%83%9C%E3%82%A4%E3%83%AC%E3%83%B3"
+  },
+  "Jimmy Butler": {
+   "kana": "ジミー・バトラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC"
+  },
+  "JJ Barea": {
+   "kana": "J・J・バレア",
+   "src": "https://ja.wikipedia.org/wiki/J%E3%83%BBJ%E3%83%BB%E3%83%90%E3%83%AC%E3%82%A2"
+  },
+  "JJ Redick": {
+   "kana": "J・J・レディック",
+   "src": "https://ja.wikipedia.org/wiki/J%E3%83%BBJ%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF"
+  },
+  "Jock Landale": {
+   "kana": "ジョック・ランデール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%BC%E3%83%AB"
+  },
+  "Jodie Meeks": {
+   "kana": "ジョディ・ミークス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%BC%E3%82%AF%E3%82%B9"
+  },
+  "Joe Ingles": {
+   "kana": "ジョー・イングルス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%AB%E3%82%B9"
+  },
+  "Joe Mazzulla": {
+   "kana": "ジョー・マズーラ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E3%83%9E%E3%82%BA%E3%83%BC%E3%83%A9"
+  },
+  "Joe Prunty": {
+   "kana": "ジョー・プランティ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3"
+  },
+  "Joel Embiid": {
+   "kana": "ジョエル・エンビード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%93%E3%83%BC%E3%83%89"
+  },
+  "John Collins": {
+   "kana": "ジョン・コリンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%BA"
+  },
+  "John Collins (basketball)": {
+   "kana": "ジョン・コリンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%BA"
+  },
+  "Johnny Furphy": {
+   "kana": "ジョニー・ファーフィー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC"
+  },
+  "Johnny Juzang": {
+   "kana": "ジョニー・ジューザン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B6%E3%83%B3"
+  },
+  "Jonas Valanciunas": {
+   "kana": "ヨナス・ヴァランチューナス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8A%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%82%B9"
+  },
+  "Jonas Valančiūnas": {
+   "kana": "ヨナス・ヴァランチューナス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8A%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%A9%E3%83%B3%E3%83%81%E3%83%A5%E3%83%BC%E3%83%8A%E3%82%B9"
+  },
+  "Jonathan Isaac": {
+   "kana": "ジョナサン・アイザック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8A%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%A4%E3%82%B6%E3%83%83%E3%82%AF"
+  },
+  "Jonathan Kuminga": {
+   "kana": "ジョナサン・クミンガ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8A%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%9F%E3%83%B3%E3%82%AC"
+  },
+  "Jordan Clarkson": {
+   "kana": "ジョーダン・クラークソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%83%B3"
+  },
+  "Jordan Goodwin": {
+   "kana": "ジョーダン・グッドウィン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%83%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3"
+  },
+  "Jordan Hawkins": {
+   "kana": "ジョーダン・ホーキンス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B9"
+  },
+  "Jordan McLaughlin": {
+   "kana": "ジョーダン・マクラフリン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%A9%E3%83%95%E3%83%AA%E3%83%B3"
+  },
+  "Jordan Poole": {
+   "kana": "ジョーダン・プール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%83%97%E3%83%BC%E3%83%AB"
+  },
+  "Jordan Walsh": {
+   "kana": "ジョーダン・ウォルシュ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%B7%E3%83%A5"
+  },
+  "Jordi Fernandez": {
+   "kana": "ジョルディ・フェルナンデス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9"
+  },
+  "Jordi Fernández": {
+   "kana": "ジョルディ・フェルナンデス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BB%E3%83%95%E3%82%A7%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9"
+  },
+  "Jose Alvarado": {
+   "kana": "ホセ・アルバラード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89"
+  },
+  "Jose Alvarado (basketball)": {
+   "kana": "ホセ・アルバラード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89"
+  },
+  "Josh Giddey": {
+   "kana": "ジョシュ・ギディー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%AE%E3%83%87%E3%82%A3%E3%83%BC"
+  },
+  "Josh Green": {
+   "kana": "ジョシュ・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "Josh Green (basketball)": {
+   "kana": "ジョシュ・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "Josh Hart": {
+   "kana": "ジョシュ・ハート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88"
+  },
+  "Josh Minott": {
+   "kana": "ジョシュ・マイノット",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%9E%E3%82%A4%E3%83%8E%E3%83%83%E3%83%88"
+  },
+  "Josh Okogie": {
+   "kana": "ジョシュ・オコーギー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%AA%E3%82%B3%E3%83%BC%E3%82%AE%E3%83%BC"
+  },
+  "Jrue Holiday": {
+   "kana": "ドリュー・ホリデー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC"
+  },
+  "Julian Champagnie": {
+   "kana": "ジュリアン・シャンパニー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC"
+  },
+  "Julian Strawther": {
+   "kana": "ジュリアン・ストローザー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%BC"
+  },
+  "Julius Randle": {
+   "kana": "ジュリアス・ランドル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AB"
+  },
+  "Justin Edwards": {
+   "kana": "ジャスティン・エドワーズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA"
+  },
+  "Justin Edwards (basketball, born 2003)": {
+   "kana": "ジャスティン・エドワーズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA"
+  },
+  "Jusuf Nurkic": {
+   "kana": "ユスフ・ヌルキッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%B9%E3%83%95%E3%83%BB%E3%83%8C%E3%83%AB%E3%82%AD%E3%83%83%E3%83%81"
+  },
+  "Jusuf Nurkić": {
+   "kana": "ユスフ・ヌルキッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A6%E3%82%B9%E3%83%95%E3%83%BB%E3%83%8C%E3%83%AB%E3%82%AD%E3%83%83%E3%83%81"
+  },
+  "Juwan Howard": {
+   "kana": "ジュワン・ハワード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AF%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89"
+  },
+  "Karl-Anthony Towns": {
+   "kana": "カール＝アンソニー・タウンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%EF%BC%9D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BA"
+  },
+  "Kasparas Jakucionis": {
+   "kana": "カスパラス・ヤクチオニス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%91%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%A4%E3%82%AF%E3%83%81%E3%82%AA%E3%83%8B%E3%82%B9"
+  },
+  "Kasparas Jakučionis": {
+   "kana": "カスパラス・ヤクチオニス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B9%E3%83%91%E3%83%A9%E3%82%B9%E3%83%BB%E3%83%A4%E3%82%AF%E3%83%81%E3%82%AA%E3%83%8B%E3%82%B9"
+  },
+  "Kawhi Leonard": {
+   "kana": "カワイ・レナード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AF%E3%82%A4%E3%83%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%89"
+  },
+  "Keaton Wagler": {
+   "kana": "キートン・ワグラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3%E3%83%BB%E3%83%AF%E3%82%B0%E3%83%A9%E3%83%BC"
+  },
+  "Keegan Murray": {
+   "kana": "キーガン・マレー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%AC%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC"
+  },
+  "Kel'el Ware": {
+   "kana": "カリル・ウェア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%AB%E3%83%BB%E3%82%A6%E3%82%A7%E3%82%A2"
+  },
+  "Keldon Johnson": {
+   "kana": "ケルドン・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%89%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Kelly Oubre Jr": {
+   "kana": "ケリー・ウーブレ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A6%E3%83%BC%E3%83%96%E3%83%AC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Kelly Oubre Jr.": {
+   "kana": "ケリー・ウーブレ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A6%E3%83%BC%E3%83%96%E3%83%AC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Kenny Atkinson": {
+   "kana": "ケニー・アトキンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%88%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Kenrich Williams": {
+   "kana": "ケンリッチ・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%AA%E3%83%83%E3%83%81%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Kentavious Caldwell-Pope": {
+   "kana": "ケンテイビアス・コールドウェル＝ポープ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%86%E3%82%A4%E3%83%93%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%9D%E3%83%9D%E3%83%BC%E3%83%97"
+  },
+  "Keon Ellis": {
+   "kana": "キーオン・エリス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%B9"
+  },
+  "Kessler Edwards": {
+   "kana": "ケスラー・エドワーズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%B9%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA"
+  },
+  "Kevin Durant": {
+   "kana": "ケビン・デュラント",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%93%E3%83%B3%E3%83%BB%E3%83%87%E3%83%A5%E3%83%A9%E3%83%B3%E3%83%88"
+  },
+  "Kevin Huerter": {
+   "kana": "ケビン・ハーター",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%93%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%BF%E3%83%BC"
+  },
+  "Kevin Porter Jr": {
+   "kana": "ケビン・ポーター・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%93%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Kevin Porter Jr.": {
+   "kana": "ケビン・ポーター・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%93%E3%83%B3%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Kevon Looney": {
+   "kana": "ケヴォン・ルーニー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B4%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%BC"
+  },
+  "Keyonte George": {
+   "kana": "キヨンテ・ジョージ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A8%E3%83%B3%E3%83%86%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8"
+  },
+  "Khaman Maluach": {
+   "kana": "カマン・マルアチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%A2%E3%83%81"
+  },
+  "Khris Middleton": {
+   "kana": "クリス・ミドルトン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%9F%E3%83%89%E3%83%AB%E3%83%88%E3%83%B3"
+  },
+  "Kingston Flemings": {
+   "kana": "キングストン・フレミングス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3%E3%83%BB%E3%83%95%E3%83%AC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9"
+  },
+  "Klay Thompson": {
+   "kana": "クレイ・トンプソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3"
+  },
+  "Kobe Bufkin": {
+   "kana": "コービー・バフキン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%93%E3%83%BC%E3%83%BB%E3%83%90%E3%83%95%E3%82%AD%E3%83%B3"
+  },
+  "Kon Knueppel": {
+   "kana": "コン・カニップル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%8B%E3%83%83%E3%83%97%E3%83%AB"
+  },
+  "Kris Dunn": {
+   "kana": "クリス・ダン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%80%E3%83%B3"
+  },
+  "Kris Murray": {
+   "kana": "クリス・マレー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC"
+  },
+  "Kristaps Porzingis": {
+   "kana": "クリスタプス・ポルジンギス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%97%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%AB%E3%82%B8%E3%83%B3%E3%82%AE%E3%82%B9"
+  },
+  "Kristaps Porziņģis": {
+   "kana": "クリスタプス・ポルジンギス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%97%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%AB%E3%82%B8%E3%83%B3%E3%82%AE%E3%82%B9"
+  },
+  "Kyle Anderson": {
+   "kana": "カイル・アンダーソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3"
+  },
+  "Kyle Anderson (basketball)": {
+   "kana": "カイル・アンダーソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3"
+  },
+  "Kyle Filipowski": {
+   "kana": "カイル・フィリパウスキー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AB%E3%83%BB%E3%83%95%E3%82%A3%E3%83%AA%E3%83%91%E3%82%A6%E3%82%B9%E3%82%AD%E3%83%BC"
+  },
+  "Kyle Kuzma": {
+   "kana": "カイル・クーズマ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%BC%E3%82%BA%E3%83%9E"
+  },
+  "Kyrie Irving": {
+   "kana": "カイリー・アービング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%BC%E3%83%93%E3%83%B3%E3%82%B0"
+  },
+  "Kyshawn George": {
+   "kana": "キーショーン・ジョージ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8"
+  },
+  "LaMelo Ball": {
+   "kana": "ラメロ・ボール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A1%E3%83%AD%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB"
+  },
+  "Landry Shamet": {
+   "kana": "ランドリー・シャメット",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%A1%E3%83%83%E3%83%88"
+  },
+  "Larry Drew": {
+   "kana": "ラリー・ドリュー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC"
+  },
+  "Larry Nance Jr": {
+   "kana": "ラリー・ナンス・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8A%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Larry Nance Jr.": {
+   "kana": "ラリー・ナンス・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8A%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Lauri Markkanen": {
+   "kana": "ラウリ・マルカネン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%83%AA%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%8D%E3%83%B3"
+  },
+  "Leandro Barbosa": {
+   "kana": "リアンドロ・バルボサ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%90%E3%83%AB%E3%83%9C%E3%82%B5"
+  },
+  "LeBron James": {
+   "kana": "レブロン・ジェームズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%96%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA"
+  },
+  "Leonard Miller": {
+   "kana": "レナード・ミラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC"
+  },
+  "Leonard Miller (basketball)": {
+   "kana": "レナード・ミラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC"
+  },
+  "Lonzo Ball": {
+   "kana": "ロンゾ・ボール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%82%BE%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB"
+  },
+  "Luguentz Dort": {
+   "kana": "ルゲンツ・ドート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%B2%E3%83%B3%E3%83%84%E3%83%BB%E3%83%89%E3%83%BC%E3%83%88"
+  },
+  "Luka Doncic": {
+   "kana": "ルカ・ドンチッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AB%E3%83%BB%E3%83%89%E3%83%B3%E3%83%81%E3%83%83%E3%83%81"
+  },
+  "Luka Dončić": {
+   "kana": "ルカ・ドンチッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AB%E3%83%BB%E3%83%89%E3%83%B3%E3%83%81%E3%83%83%E3%83%81"
+  },
+  "Luka Garza": {
+   "kana": "ルカ・ガーザ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AB%E3%83%BB%E3%82%AC%E3%83%BC%E3%82%B6"
+  },
+  "Luke Kennard": {
+   "kana": "ルーク・ケナード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B1%E3%83%8A%E3%83%BC%E3%83%89"
+  },
+  "Luke Kornet": {
+   "kana": "ルーク・コーネット",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88"
+  },
+  "Luke Walton": {
+   "kana": "ルーク・ウォルトン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%B3"
+  },
+  "Malaki Branham": {
+   "kana": "マラカイ・ブランナム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%AB%E3%82%A4%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%A0"
+  },
+  "Malik Allen": {
+   "kana": "マリック・アレン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%B3"
+  },
+  "Malik Monk": {
+   "kana": "マリーク・モンク",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%A2%E3%83%B3%E3%82%AF"
+  },
+  "Marcus Sasser": {
+   "kana": "マーカス・サッサー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%83%E3%82%B5%E3%83%BC"
+  },
+  "Marcus Smart": {
+   "kana": "マーカス・スマート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88"
+  },
+  "Mario Hezonja": {
+   "kana": "マリオ・ヘゾニャ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%98%E3%82%BE%E3%83%8B%E3%83%A3"
+  },
+  "Mark Daigneault": {
+   "kana": "マーク・デイグノルト",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%87%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%AB%E3%83%88"
+  },
+  "Mark Williams": {
+   "kana": "マーク・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Mark Williams (basketball)": {
+   "kana": "マーク・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Marvin Bagley III": {
+   "kana": "マービン・バグリー3世",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%93%E3%83%B3%E3%83%BB%E3%83%90%E3%82%B0%E3%83%AA%E3%83%BC3%E4%B8%96"
+  },
+  "Mason Plumlee": {
+   "kana": "メイソン・プラムリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%97%E3%83%A9%E3%83%A0%E3%83%AA%E3%83%BC"
+  },
+  "Matas Buzelis": {
+   "kana": "マタス・ブゼリス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%BF%E3%82%B9%E3%83%BB%E3%83%96%E3%82%BC%E3%83%AA%E3%82%B9"
+  },
+  "Matisse Thybulle": {
+   "kana": "マティス・サイブル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%82%A3%E3%82%B9%E3%83%BB%E3%82%B5%E3%82%A4%E3%83%96%E3%83%AB"
+  },
+  "Matthew Nielsen": {
+   "kana": "マシュー・ニールセン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%8B%E3%83%BC%E3%83%AB%E3%82%BB%E3%83%B3"
+  },
+  "Maurice Cheeks": {
+   "kana": "モーリス・チークス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%81%E3%83%BC%E3%82%AF%E3%82%B9"
+  },
+  "Max Christie": {
+   "kana": "マックス・クリスティー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC"
+  },
+  "Max Strus": {
+   "kana": "マックス・ストゥルース",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%B9"
+  },
+  "Maxi Kleber": {
+   "kana": "マキシ・クレバー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%BB%E3%82%AF%E3%83%AC%E3%83%90%E3%83%BC"
+  },
+  "Michael Porter Jr": {
+   "kana": "マイケル・ポーター・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Michael Porter Jr.": {
+   "kana": "マイケル・ポーター・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Mikal Bridges": {
+   "kana": "ミカル・ブリッジズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AB%E3%83%AB%E3%83%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%82%BA"
+  },
+  "Mike Brown": {
+   "kana": "マイク・ブラウン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+  },
+  "Mike Brown (basketball, born 1970)": {
+   "kana": "マイク・ブラウン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
+  },
+  "Mike Conley": {
+   "kana": "マイク・コンリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%AA%E3%83%BC"
+  },
+  "Mike Conley (basketball)": {
+   "kana": "マイク・コンリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%AA%E3%83%BC"
+  },
+  "Mike Muscala": {
+   "kana": "マイク・マスカラ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%AB%E3%83%A9"
+  },
+  "Mike Wilks": {
+   "kana": "マイク・ウィルクス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AF%E3%82%B9"
+  },
+  "Mike Wilks (basketball)": {
+   "kana": "マイク・ウィルクス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%AF%E3%82%B9"
+  },
+  "Mike Woodson": {
+   "kana": "マイク・ウッドソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A6%E3%83%83%E3%83%89%E3%82%BD%E3%83%B3"
+  },
+  "Mikel Brown Jr": {
+   "kana": "マイケル・ブラウン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Mikel Brown Jr.": {
+   "kana": "マイケル・ブラウン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Miles Bridges": {
+   "kana": "マイルズ・ブリッジズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%96%E3%83%AA%E3%83%83%E3%82%B8%E3%82%BA"
+  },
+  "Miles McBride": {
+   "kana": "マイルズ・マクブライド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%96%E3%83%A9%E3%82%A4%E3%83%89"
+  },
+  "Mitch Johnson": {
+   "kana": "ミッチ・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%81%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Mitchell Robinson": {
+   "kana": "ミッチェル・ロビンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%93%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Mo Bamba": {
+   "kana": "モー・バンバ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%BB%E3%83%90%E3%83%B3%E3%83%90"
+  },
+  "Mody Maor": {
+   "kana": "モーディ・マオール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9E%E3%82%AA%E3%83%BC%E3%83%AB"
+  },
+  "Moritz Wagner": {
+   "kana": "モリッツ・バグナー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E3%83%83%E3%83%84%E3%83%BB%E3%83%90%E3%82%B0%E3%83%8A%E3%83%BC"
+  },
+  "Moritz Wagner (basketball)": {
+   "kana": "モリッツ・バグナー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E3%83%83%E3%83%84%E3%83%BB%E3%83%90%E3%82%B0%E3%83%8A%E3%83%BC"
+  },
+  "Moses Moody": {
+   "kana": "モーゼス・ムーディー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%82%BC%E3%82%B9%E3%83%BB%E3%83%A0%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC"
+  },
+  "Moussa Diabate": {
+   "kana": "ムサ・ディアバテ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B5%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%83%90%E3%83%86"
+  },
+  "Moussa Diabaté": {
+   "kana": "ムサ・ディアバテ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B5%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%83%90%E3%83%86"
+  },
+  "Myles Turner": {
+   "kana": "マイルズ・ターナー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%BC"
+  },
+  "Naji Marshall": {
+   "kana": "ナジ・マーシャル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B8%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB"
+  },
+  "Nate McMillan": {
+   "kana": "ネイト・マクミラン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A4%E3%83%88%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%9F%E3%83%A9%E3%83%B3"
+  },
+  "Naz Reid": {
+   "kana": "ナズ・リード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%BA%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%89"
+  },
+  "Neemias Queta": {
+   "kana": "ニーミアス・クエタ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%BC%E3%83%9F%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%AF%E3%82%A8%E3%82%BF"
+  },
+  "Nic Claxton": {
+   "kana": "ニコラス・クラクストン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%B9%E3%83%88%E3%83%B3"
+  },
+  "Nick Nurse": {
+   "kana": "ニック・ナース",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8A%E3%83%BC%E3%82%B9"
+  },
+  "Nick Richards": {
+   "kana": "ニック・リチャーズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%82%BA"
+  },
+  "Nickeil Alexander-Walker": {
+   "kana": "ニキール・アレクサンダー＝ウォーカー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AD%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%EF%BC%9D%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+  },
+  "Nikola Jokic": {
+   "kana": "ニコラ・ヨキッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%A8%E3%82%AD%E3%83%83%E3%83%81"
+  },
+  "Nikola Jokić": {
+   "kana": "ニコラ・ヨキッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%A8%E3%82%AD%E3%83%83%E3%83%81"
+  },
+  "Nikola Jovic": {
+   "kana": "ニコラ・ヨビッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%A8%E3%83%93%E3%83%83%E3%83%81"
+  },
+  "Nikola Jović": {
+   "kana": "ニコラ・ヨビッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%A8%E3%83%93%E3%83%83%E3%83%81"
+  },
+  "Nikola Topic": {
+   "kana": "ニコラ・トピッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%88%E3%83%94%E3%83%83%E3%83%81"
+  },
+  "Nikola Topić": {
+   "kana": "ニコラ・トピッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%88%E3%83%94%E3%83%83%E3%83%81"
+  },
+  "Nikola Vucevic": {
+   "kana": "ニコラ・ブーチェビッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%BC%E3%83%81%E3%82%A7%E3%83%93%E3%83%83%E3%83%81"
+  },
+  "Nikola Vučević": {
+   "kana": "ニコラ・ブーチェビッチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%BC%E3%83%81%E3%82%A7%E3%83%93%E3%83%83%E3%83%81"
+  },
+  "Noa Essengue": {
+   "kana": "ノア・エセング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A2%E3%83%BB%E3%82%A8%E3%82%BB%E3%83%B3%E3%82%B0"
+  },
+  "Noah Clowney": {
+   "kana": "ノア・クラウニー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%8B%E3%83%BC"
+  },
+  "Nolan Traore": {
+   "kana": "ノーラン・トラオレ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%88%E3%83%A9%E3%82%AA%E3%83%AC"
+  },
+  "Nolan Traoré": {
+   "kana": "ノーラン・トラオレ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%88%E3%83%A9%E3%82%AA%E3%83%AC"
+  },
+  "Norman Powell": {
+   "kana": "ノーマン・パウエル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%91%E3%82%A6%E3%82%A8%E3%83%AB"
+  },
+  "Obi Toppin": {
+   "kana": "オビ・トッピン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%93%E3%83%BB%E3%83%88%E3%83%83%E3%83%94%E3%83%B3"
+  },
+  "OG Anunoby": {
+   "kana": "OG・アヌノビー",
+   "src": "https://ja.wikipedia.org/wiki/OG%E3%83%BB%E3%82%A2%E3%83%8C%E3%83%8E%E3%83%93%E3%83%BC"
+  },
+  "Olivier-Maxence Prosper": {
+   "kana": "オリビエ＝マクサンス・プロスパー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%AA%E3%83%93%E3%82%A8%EF%BC%9D%E3%83%9E%E3%82%AF%E3%82%B5%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%97%E3%83%AD%E3%82%B9%E3%83%91%E3%83%BC"
+  },
+  "Onyeka Okongwu": {
+   "kana": "オニエカ・オコング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%A8%E3%82%AB%E3%83%BB%E3%82%AA%E3%82%B3%E3%83%B3%E3%82%B0"
+  },
+  "Oscar Tshiebwe": {
+   "kana": "オスカー・シブエ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%96%E3%82%A8"
+  },
+  "Oso Ighodaro": {
+   "kana": "オソ・イゴダロ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BD%E3%83%BB%E3%82%A4%E3%82%B4%E3%83%80%E3%83%AD"
+  },
+  "Ousmane Dieng": {
+   "kana": "ウスマン・ジェン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%B9%E3%83%9E%E3%83%B3%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%B3"
+  },
+  "P. J. Washington": {
+   "kana": "P・J・ワシントン",
+   "src": "https://ja.wikipedia.org/wiki/P%E3%83%BBJ%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3"
+  },
+  "Pablo Prigioni": {
+   "kana": "パブロ・プリジオーニ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%96%E3%83%AD%E3%83%BB%E3%83%97%E3%83%AA%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%8B"
+  },
+  "Paolo Banchero": {
+   "kana": "パオロ・バンケロ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AA%E3%83%AD%E3%83%BB%E3%83%90%E3%83%B3%E3%82%B1%E3%83%AD"
+  },
+  "Pascal Siakam": {
+   "kana": "パスカル・シアカム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%B9%E3%82%AB%E3%83%AB%E3%83%BB%E3%82%B7%E3%82%A2%E3%82%AB%E3%83%A0"
+  },
+  "Pat Connaughton": {
+   "kana": "パット・コノートン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%83%88%E3%83%BB%E3%82%B3%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3"
+  },
+  "Patrick Ewing": {
+   "kana": "パトリック・ユーイング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A6%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0"
+  },
+  "Patrick Williams": {
+   "kana": "パトリック・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Patrick Williams (basketball)": {
+   "kana": "パトリック・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Paul George": {
+   "kana": "ポール・ジョージ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8"
+  },
+  "Paul Reed": {
+   "kana": "ポール・リード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%89"
+  },
+  "Paul Reed (basketball)": {
+   "kana": "ポール・リード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%89"
+  },
+  "Payton Pritchard": {
+   "kana": "ペイトン・プリチャード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A4%E3%83%88%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89"
+  },
+  "Peyton Watson": {
+   "kana": "ペイトン・ワトソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A4%E3%83%88%E3%83%B3%E3%83%BB%E3%83%AF%E3%83%88%E3%82%BD%E3%83%B3"
+  },
+  "Phil Handy": {
+   "kana": "フィル・ハンディ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3"
+  },
+  "PJ Washington": {
+   "kana": "P・J・ワシントン",
+   "src": "https://ja.wikipedia.org/wiki/P%E3%83%BBJ%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3"
+  },
+  "Popeye Jones": {
+   "kana": "ポパイ・ジョーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%91%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Precious Achiuwa": {
+   "kana": "プレシャス・アチュワ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%81%E3%83%A5%E3%83%AF"
+  },
+  "Quentin Grimes": {
+   "kana": "クエンティン・グライムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%BA"
+  },
+  "Quin Snyder": {
+   "kana": "クイン・スナイダー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%8A%E3%82%A4%E3%83%80%E3%83%BC"
+  },
+  "Quinten Post": {
+   "kana": "クインテン・ポスト",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%83%BB%E3%83%9D%E3%82%B9%E3%83%88"
+  },
+  "Rayan Rupert": {
+   "kana": "ライアン・ルパート",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%91%E3%83%BC%E3%83%88"
+  },
+  "Reed Sheppard": {
+   "kana": "リード・シェパード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%91%E3%83%BC%E3%83%89"
+  },
+  "Rick Carlisle": {
+   "kana": "リック・カーライル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%AB"
+  },
+  "Riley Minix": {
+   "kana": "ライリー・ミニックス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9F%E3%83%8B%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  "RJ Barrett": {
+   "kana": "RJ・バレット",
+   "src": "https://ja.wikipedia.org/wiki/RJ%E3%83%BB%E3%83%90%E3%83%AC%E3%83%83%E3%83%88"
+  },
+  "Rob Dillingham": {
+   "kana": "ロブ・ディリングハム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%96%E3%83%BB%E3%83%87%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%8F%E3%83%A0"
+  },
+  "Robert Williams III": {
+   "kana": "ロバート・ウィリアムズ3世",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA3%E4%B8%96"
+  },
+  "Ron Adams": {
+   "kana": "ロン・アダムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA"
+  },
+  "Ron Holland": {
+   "kana": "ロン・ホランド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  "Ron Holland (basketball)": {
+   "kana": "ロン・ホランド",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  "Royce O'Neale": {
+   "kana": "ロイス・オニール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%8B%E3%83%BC%E3%83%AB"
+  },
+  "Rudy Gobert": {
+   "kana": "ルディ・ゴベア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B4%E3%83%99%E3%82%A2"
+  },
+  "Rui Hachimura": {
+   "kana": "八村塁",
+   "src": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9D%91%E5%A1%81"
+  },
+  "Ryan Dunn": {
+   "kana": "ライアン・ダン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%80%E3%83%B3"
+  },
+  "Ryan Dunn (basketball)": {
+   "kana": "ライアン・ダン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%80%E3%83%B3"
+  },
+  "Ryan Kalkbrenner": {
+   "kana": "ライアン・カルクブレンナー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%96%E3%83%AC%E3%83%B3%E3%83%8A%E3%83%BC"
+  },
+  "Ryan Nembhard": {
+   "kana": "ライアン・ネムハード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%8D%E3%83%A0%E3%83%8F%E3%83%BC%E3%83%89"
+  },
+  "Ryan Rollins": {
+   "kana": "ライアン・ロリンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%AA%E3%83%B3%E3%82%BA"
+  },
+  "Ryan Saunders": {
+   "kana": "ライアン・サンダース",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC%E3%82%B9"
+  },
+  "Saddiq Bey": {
+   "kana": "サディック・ベイ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%99%E3%82%A4"
+  },
+  "Sam Cassell": {
+   "kana": "サム・キャセール",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%BB%E3%82%AD%E3%83%A3%E3%82%BB%E3%83%BC%E3%83%AB"
+  },
+  "Sam Hauser": {
+   "kana": "サム・ハウザー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%BB%E3%83%8F%E3%82%A6%E3%82%B6%E3%83%BC"
+  },
+  "Sam Merrill": {
+   "kana": "サム・メリル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A0%E3%83%BB%E3%83%A1%E3%83%AA%E3%83%AB"
+  },
+  "Sandro Mamukelashvili": {
+   "kana": "サンドロ・マムケラシュビリ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%9E%E3%83%A0%E3%82%B1%E3%83%A9%E3%82%B7%E3%83%A5%E3%83%93%E3%83%AA"
+  },
+  "Santi Aldama": {
+   "kana": "サンティ・アルダマ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%80%E3%83%9E"
+  },
+  "Scoot Henderson": {
+   "kana": "スクート・ヘンダーソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%88%E3%83%BB%E3%83%98%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3"
+  },
+  "Scott Brooks": {
+   "kana": "スコット・ブルックス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  "Scott King": {
+   "kana": "スコット・キング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%82%AD%E3%83%B3%E3%82%B0"
+  },
+  "Scott King (basketball)": {
+   "kana": "スコット・キング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%82%AD%E3%83%B3%E3%82%B0"
+  },
+  "Scottie Barnes": {
+   "kana": "スコッティ・バーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%86%E3%82%A3%E3%83%BB%E3%83%90%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Scotty Pippen Jr": {
+   "kana": "スコッティ・ピッペン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%86%E3%82%A3%E3%83%BB%E3%83%94%E3%83%83%E3%83%9A%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Scotty Pippen Jr.": {
+   "kana": "スコッティ・ピッペン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%86%E3%82%A3%E3%83%BB%E3%83%94%E3%83%83%E3%83%9A%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Sean Sweeney": {
+   "kana": "シーン・スウィニー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%8B%E3%83%BC"
+  },
+  "Sean Sweeney (basketball)": {
+   "kana": "シーン・スウィニー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%8B%E3%83%BC"
+  },
+  "Shaedon Sharpe": {
+   "kana": "シェイドン・シャープ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%89%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%97"
+  },
+  "Shai Gilgeous-Alexander": {
+   "kana": "シェイ・ギルジャス＝アレクサンダー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%AE%E3%83%AB%E3%82%B8%E3%83%A3%E3%82%B9%EF%BC%9D%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%80%E3%83%BC"
+  },
+  "Sidy Cissoko": {
+   "kana": "シディ・シソッコ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B7%E3%82%BD%E3%83%83%E3%82%B3"
+  },
+  "Stephen Curry": {
+   "kana": "ステフィン・カリー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%95%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%AA%E3%83%BC"
+  },
+  "Stephon Castle": {
+   "kana": "ステフォン・キャッスル",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%83%E3%82%B9%E3%83%AB"
+  },
+  "Steve Kerr": {
+   "kana": "スティーブ・カー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%BB%E3%82%AB%E3%83%BC"
+  },
+  "Steven Adams": {
+   "kana": "スティーブン・アダムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA"
+  },
+  "Sviatoslav Mykhailiuk": {
+   "kana": "スビ・ミハイリュク",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%93%E3%83%BB%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AA%E3%83%A5%E3%82%AF"
+  },
+  "T. J. Ford": {
+   "kana": "T・J・フォード",
+   "src": "https://ja.wikipedia.org/wiki/T%E3%83%BBJ%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  "T. J. McConnell": {
+   "kana": "T・J・マッコネル",
+   "src": "https://ja.wikipedia.org/wiki/T%E3%83%BBJ%E3%83%BB%E3%83%9E%E3%83%83%E3%82%B3%E3%83%8D%E3%83%AB"
+  },
+  "Taj Gibson": {
+   "kana": "タージ・ギブソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AE%E3%83%96%E3%82%BD%E3%83%B3"
+  },
+  "Tari Eason": {
+   "kana": "タリ・イーソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%BD%E3%83%B3"
+  },
+  "Tarris Reed Jr": {
+   "kana": "タリス・リード・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Tarris Reed Jr.": {
+   "kana": "タリス・リード・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Taurean Prince": {
+   "kana": "トーリアン・プリンス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B9"
+  },
+  "Taylor Hendricks": {
+   "kana": "テイラー・ヘンドリックス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%98%E3%83%B3%E3%83%89%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9"
+  },
+  "Taylor Jenkins": {
+   "kana": "テイラー・ジェンキンス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B9"
+  },
+  "Terance Mann": {
+   "kana": "テレンス・マン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%B3"
+  },
+  "Terrence Shannon Jr": {
+   "kana": "テレンス・シャノン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Terrence Shannon Jr.": {
+   "kana": "テレンス・シャノン・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Terry Rozier": {
+   "kana": "テリー・ロジアー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AD%E3%82%B8%E3%82%A2%E3%83%BC"
+  },
+  "Thanasis Antetokounmpo": {
+   "kana": "タナシス・アデトクンボ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%8A%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%87%E3%83%88%E3%82%AF%E3%83%B3%E3%83%9C"
+  },
+  "Thomas Bryant": {
+   "kana": "トーマス・ブライアント",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88"
+  },
+  "Thomas Sorber": {
+   "kana": "トーマス・ソーバー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9%E3%83%BB%E3%82%BD%E3%83%BC%E3%83%90%E3%83%BC"
+  },
+  "Tiago Splitter": {
+   "kana": "ティアゴ・スプリッター",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%A2%E3%82%B4%E3%83%BB%E3%82%B9%E3%83%97%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC"
+  },
+  "Tidjane Salaun": {
+   "kana": "ティジャン・サラーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%A9%E3%83%BC%E3%83%B3"
+  },
+  "Tidjane Salaün": {
+   "kana": "ティジャン・サラーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B5%E3%83%A9%E3%83%BC%E3%83%B3"
+  },
+  "Tim Hardaway Jr": {
+   "kana": "ティム・ハーダウェイ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%80%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Tim Hardaway Jr.": {
+   "kana": "ティム・ハーダウェイ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%A0%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%80%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "TJ Ford": {
+   "kana": "T・J・フォード",
+   "src": "https://ja.wikipedia.org/wiki/T%E3%83%BBJ%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  "TJ McConnell": {
+   "kana": "T・J・マッコネル",
+   "src": "https://ja.wikipedia.org/wiki/T%E3%83%BBJ%E3%83%BB%E3%83%9E%E3%83%83%E3%82%B3%E3%83%8D%E3%83%AB"
+  },
+  "Tobias Harris": {
+   "kana": "トバイアス・ハリス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%B9"
+  },
+  "Toumani Camara": {
+   "kana": "トゥマニ・カマラ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%A5%E3%83%9E%E3%83%8B%E3%83%BB%E3%82%AB%E3%83%9E%E3%83%A9"
+  },
+  "Trae Young": {
+   "kana": "トレイ・ヤング",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0"
+  },
+  "Trayce Jackson-Davis": {
+   "kana": "トレイス・ジャクソン＝デイビス",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%EF%BC%9D%E3%83%87%E3%82%A4%E3%83%93%E3%82%B9"
+  },
+  "Tre Johnson": {
+   "kana": "トレイ・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Tre Johnson (basketball)": {
+   "kana": "トレイ・ジョンソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
+  },
+  "Tre Jones": {
+   "kana": "トレ・ジョーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Tre Mann": {
+   "kana": "トレ・マン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%BB%E3%83%9E%E3%83%B3"
+  },
+  "Trendon Watford": {
+   "kana": "トレンドン・ワトフォード",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%83%AF%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  "Trey Lyles": {
+   "kana": "トレイ・ライルズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%AB%E3%82%BA"
+  },
+  "Trey Murphy III": {
+   "kana": "トレイ・マーフィー3世",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC3%E4%B8%96"
+  },
+  "Tristan da Silva": {
+   "kana": "トリスタン・ダ・シウバ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%B7%E3%82%A6%E3%83%90"
+  },
+  "Ty Jerome": {
+   "kana": "タイ・ジェローム",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%BC%E3%83%A0"
+  },
+  "Tyler Herro": {
+   "kana": "タイラー・ヒーロー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC"
+  },
+  "Tyler Kolek": {
+   "kana": "タイラー・コレック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%AC%E3%83%83%E3%82%AF"
+  },
+  "Tyler Kolek (basketball)": {
+   "kana": "タイラー・コレック",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%AC%E3%83%83%E3%82%AF"
+  },
+  "Tyrese Haliburton": {
+   "kana": "タイリース・ハリバートン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3"
+  },
+  "Tyrese Maxey": {
+   "kana": "タイリース・マクシー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%9E%E3%82%AF%E3%82%B7%E3%83%BC"
+  },
+  "Tyrese Proctor": {
+   "kana": "タイリース・プロクター",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%97%E3%83%AD%E3%82%AF%E3%82%BF%E3%83%BC"
+  },
+  "Tyronn Lue": {
+   "kana": "ティロン・ルー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC"
+  },
+  "TyTy Washington Jr": {
+   "kana": "タイタイ・ワシントン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3"
+  },
+  "TyTy Washington Jr.": {
+   "kana": "タイタイ・ワシントン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3"
+  },
+  "Tyus Jones": {
+   "kana": "タイアス・ジョーンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "V. J. Edgecombe": {
+   "kana": "VJ・エッジコム",
+   "src": "https://ja.wikipedia.org/wiki/VJ%E3%83%BB%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%A0"
+  },
+  "Victor Wembanyama": {
+   "kana": "ビクター・ウェンバンヤマ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%90%E3%83%B3%E3%83%A4%E3%83%9E"
+  },
+  "Vin Baker": {
+   "kana": "ヴィン・ベイカー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%B3%E3%83%BB%E3%83%99%E3%82%A4%E3%82%AB%E3%83%BC"
+  },
+  "Vince Williams Jr": {
+   "kana": "ビンス・ウィリアムズ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Vince Williams Jr.": {
+   "kana": "ビンス・ウィリアムズ・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Vit Krejci": {
+   "kana": "ヴィト・クレイチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%88%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%81"
+  },
+  "Vitaly Potapenko": {
+   "kana": "ヴィタリー・ポタペンコ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%82%BF%E3%83%9A%E3%83%B3%E3%82%B3"
+  },
+  "VJ Edgecombe": {
+   "kana": "VJ・エッジコム",
+   "src": "https://ja.wikipedia.org/wiki/VJ%E3%83%BB%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%A0"
+  },
+  "Vít Krejčí": {
+   "kana": "ヴィト・クレイチ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%88%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%81"
+  },
+  "Walker Kessler": {
+   "kana": "ウォーカー・ケスラー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B1%E3%82%B9%E3%83%A9%E3%83%BC"
+  },
+  "Wayne Ellington": {
+   "kana": "ウェイン・エリントン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%AA%E3%83%B3%E3%83%88%E3%83%B3"
+  },
+  "Wendell Carter Jr": {
+   "kana": "ウェンデル・カーター・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%87%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Wendell Carter Jr.": {
+   "kana": "ウェンデル・カーター・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%87%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Wes Unseld Jr": {
+   "kana": "ウェス・アンセルド・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Wes Unseld Jr.": {
+   "kana": "ウェス・アンセルド・ジュニア",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
+  },
+  "Will Hardy": {
+   "kana": "ウィル・ハーディー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC"
+  },
+  "Willie Green": {
+   "kana": "ウィリー・グリーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
+  },
+  "Xavier Tillman": {
+   "kana": "ゼイビア・ティルマン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%82%A4%E3%83%93%E3%82%A2%E3%83%BB%E3%83%86%E3%82%A3%E3%83%AB%E3%83%9E%E3%83%B3"
+  },
+  "Yaxel Lendeborg": {
+   "kana": "ヤクセル・レンデボーグ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%AF%E3%82%BB%E3%83%AB%E3%83%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%83%9C%E3%83%BC%E3%82%B0"
+  },
+  "Yuki Kawamura": {
+   "kana": "河村勇輝",
+   "src": "https://ja.wikipedia.org/wiki/%E6%B2%B3%E6%9D%91%E5%8B%87%E8%BC%9D"
+  },
+  "Yves Missi": {
+   "kana": "イブ・ミッシ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%96%E3%83%BB%E3%83%9F%E3%83%83%E3%82%B7"
+  },
+  "Zaccharie Risacher": {
+   "kana": "ザカリー・リザシェイ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%AB%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%AA%E3%82%B6%E3%82%B7%E3%82%A7%E3%82%A4"
+  },
+  "Zach Collins": {
+   "kana": "ザック・コリンズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%BA"
+  },
+  "Zach Edey": {
+   "kana": "ザック・イディー",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BC"
+  },
+  "Zach LaVine": {
+   "kana": "ザック・ラビーン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%83%B3"
+  },
+  "Zeke Nnaji": {
+   "kana": "ジーク・ナジ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%8A%E3%82%B8"
+  },
+  "Ziaire Williams": {
+   "kana": "ザイア・ウィリアムズ",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Zion Williamson": {
+   "kana": "ザイオン・ウィリアムソン",
+   "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BD%E3%83%B3"
+  }
+ }
+}
