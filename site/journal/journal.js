@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "204-psg-nike-kd6-metallic-silver.html",
+    cat: "KICKS",
+    title: "PSG×Nike KD6「Metallic Silver」が発売 —— デュラントとパリ・サンジェルマンのコラボ最新作、価格135ドル",
+    excerpt: "ナイキは、ケビン・デュラント選手のシグネチャーモデル「KD6」とパリ・サンジェルマン(PSG)のコラボレーション最新作「Metallic Silver」をNike.comで発売した。価格は135ドル。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.19",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "PSG x NIKE KD6"
+  },
+  {
     href: "203-ausar-thompson-pistons-extension.html",
     cat: "NBA",
     title: "ピストンズ、アウサー・トンプソンと5年1億5500万ドルの契約延長に合意 —— 双子アメンに続きNBA史上初の「兄弟そろって1億ドル超え」",
