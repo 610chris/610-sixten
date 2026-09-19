@@ -1,0 +1,12 @@
+{
+ "_note": "Threads速報の via 表記（2026-09-19 確認・DESIGN.md §3）。insider_feed.json の handle(X) → Threads。threads が空なら名前を文字で書く。Bontemps は2026-07にESPN退社（ホークスのフロント）のため対象外",
+ "ShamsCharania":   {"threads": "shams",            "via": "via @shams（ESPN）"},
+ "ChrisBHaynes":    {"threads": "chrisbhaynesnba",  "via": "via @chrisbhaynesnba（NBA on Prime）"},
+ "TheSteinLine":    {"threads": "thesteinline",     "via": "via @thesteinline（The Stein Line）"},
+ "JakeLFischer":    {"threads": "jakelfischer",     "via": "via @jakelfischer（The Stein Line）"},
+ "WindhorstESPN":   {"threads": "windhorstespn",    "via": "via @windhorstespn（ESPN）"},
+ "ramonashelburne": {"threads": "ramonashelburne",  "via": "via @ramonashelburne（ESPN）"},
+ "anthonyVslater":  {"threads": "anthony_slater",   "via": "via @anthony_slater（ESPN）"},
+ "espn_macmahon":   {"threads": "espn_macmahon",    "via": "via @espn_macmahon（ESPN）"},
+ "MikeAScotto":     {"threads": "",                 "via": "via Michael Scotto（HoopsHype）"}
+}

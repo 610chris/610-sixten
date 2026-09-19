@@ -1,0 +1,62 @@
+name: Threads post
+# Threads速報（@muwe.c）の投稿係。設計書 615_JOURNAL/Threads速報/DESIGN.md
+# ルーチン（PROMPT_CLOUD.md §1b-0）が journal_auto/threads_queue.json に文面を積んで push → ここが投稿し、
+# 記事URLが書き足されたら「詳しくはこちら👇」を返信する。結果は threads_state.json だけに書く。
+# 止めるスイッチ: journal_auto/threads_enabled.txt を off にする。
+on:
+  push:
+    branches: [main]
+    paths: ['journal_auto/threads_queue.json', 'journal_auto/threads_enabled.txt']
+  schedule:
+    - cron: '2-59/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'true で投稿せず文面だけ表示'
+        default: 'false'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: threads-post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+      - name: Post to Threads
+        id: post
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python3 journal_auto/threads_post.py --dry-run
+          else
+            python3 journal_auto/threads_post.py
+          fi
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add journal_auto/threads_state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "threads: 投稿記録を更新"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && exit 0; sleep 5; done
+          exit 1
+      - name: Open issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          T="Threads速報の投稿に失敗"
+          n=$(gh issue list --state open --search "$T in:title" --json number --jq 'length')
+          [ "$n" != "0" ] && exit 0
+          gh issue create --title "$T" --body "run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}  トークン切れなら THREADS_TOKEN を更新。止めるなら journal_auto/threads_enabled.txt を off。"
