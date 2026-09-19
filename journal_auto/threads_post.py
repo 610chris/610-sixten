@@ -13,17 +13,17 @@ threads_queue.json: {"items": [{"key", "reporter", "posted_utc", "level", "text"
 threads_state.json: {"posted": {key: {"post_id", "permalink", "posted_utc", "reply_id", "reply_utc"}},
                      "skipped": {key: {"reason", "utc"}}}
 """
-import argparse, difflib, json, os, re, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, json, os, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from insider_photo import find_photo, save_photo  # 記者の写真（X速報でも使う共通部品）
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 QUEUE = os.path.join(BASE, 'threads_queue.json')
 STATE = os.path.join(BASE, 'threads_state.json')
 ENABLED = os.path.join(BASE, 'threads_enabled.txt')
 FEED = os.path.join(BASE, 'insider_feed.json')
-MEDIA_DIR = os.path.join(BASE, 'threads_media')   # 記者のポストの写真の保存先（Actions だけが書く）
-RAW = 'https://raw.githubusercontent.com/610chris/610-sixten/main/journal_auto/threads_media/'
-FX = 'https://api.fxtwitter.com/2/profile/{}/statuses'
 API = 'https://graph.threads.net/v1.0'
 
 DAILY_CAP = 20            # 24時間で20件まで（誤作動の連投止め。公式上限250件よりずっと手前）
@@ -62,83 +62,6 @@ def api(method, path, token, **params):
     except urllib.error.HTTPError as e:
         body = e.read().decode('utf-8', 'replace')
         raise RuntimeError(f'{method} {path} -> HTTP {e.code}: {body[:400]}')
-
-
-def find_photo(item, feed_text, cache):
-    """記者の X のポストに写真があれば (tweet_id, 画像URL) を返す。無ければ None（2026-09-19 クリス指示
-    「shamsが画像付きで投稿していたら、それを保存して、それをつけて投稿して欲しい」）。
-    r/nba の転載にはツイートIDが無いので、FxTwitter の新着一覧から「投稿時刻が30分以内・本文がほぼ同じ」ものを探す。"""
-    handle = item.get('reporter', '')
-    if not handle or not feed_text:
-        return None
-    if handle not in cache:
-        try:
-            req = urllib.request.Request(FX.format(handle), headers={'User-Agent': 'Mozilla/5.0'})
-            with urllib.request.urlopen(req, timeout=20) as r:
-                cache[handle] = json.load(r).get('results', [])
-        except Exception as e:
-            print(f'  写真の検索に失敗（文字だけで出す）: {e}')
-            cache[handle] = []
-    want = norm(feed_text)
-    posted = parse(item['posted_utc'])
-    for st in cache[handle]:
-        photos = (st.get('media') or {}).get('photos') or []
-        if not photos or st.get('reposted_by') or (st.get('author') or {}).get('screen_name', '').lower() != handle.lower():
-            continue
-        try:
-            dt = abs(datetime.fromtimestamp(st['created_timestamp'], timezone.utc) - posted)
-        except Exception:
-            continue
-        got = norm(st.get('text', ''))
-        if dt <= timedelta(minutes=30) and got and (got[:60] in want or difflib.SequenceMatcher(None, got[:150], want[:150]).ratio() >= 0.8):
-            return st['id'], photos[0]['url'].split('?')[0] + '?name=orig'
-    return None
-
-
-def norm(s):
-    """本文の突き合わせ用。URL・「Shams Charania:」の前置き・記号を落として小文字にする"""
-    s = re.sub(r'https?://\S+', '', s)
-    s = re.sub(r'^\s*[\w .\-]{3,40}:\s*\n', '', s)
-    return re.sub(r'[^a-z0-9$]', '', s.lower())
-
-
-def save_photo(tid, url, dry_run):
-    """写真を journal_auto/threads_media/<tweet_id>.jpg に保存して push し、Threads に渡す公開URLを返す。"""
-    os.makedirs(MEDIA_DIR, exist_ok=True)
-    path = os.path.join(MEDIA_DIR, f'{tid}.jpg')
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-    with urllib.request.urlopen(req, timeout=30) as r:
-        data = r.read()
-    if len(data) > 8 * 1024 * 1024:
-        raise RuntimeError(f'画像が8MBを超えている({len(data)}バイト)')
-    with open(path, 'wb') as f:
-        f.write(data)
-    if dry_run:
-        return path
-    rel = os.path.relpath(path, os.path.dirname(BASE))
-    git = lambda *a: subprocess.run(['git', '-C', os.path.dirname(BASE), *a], check=True, capture_output=True, text=True)
-    git('add', rel)
-    if git('diff', '--cached', '--name-only').stdout.strip():
-        git('-c', 'user.name=github-actions[bot]', '-c', 'user.email=41898282+github-actions[bot]@users.noreply.github.com',
-            'commit', '-q', '-m', f'threads: 速報の画像を保存 ({tid})')
-        for i in range(3):
-            try:
-                git('pull', '--rebase', '--autostash', '-q')
-                git('push', '-q')
-                break
-            except subprocess.CalledProcessError:
-                if i == 2:
-                    raise
-                time.sleep(5)
-    raw = RAW + os.path.basename(path)
-    for wait in (0, 3, 5, 10, 15):  # push 直後は raw がまだ 404 のことがある
-        time.sleep(wait)
-        try:
-            with urllib.request.urlopen(urllib.request.Request(raw, method='HEAD'), timeout=15):
-                return raw
-        except Exception:
-            pass
-    raise RuntimeError(f'保存した画像が公開URLで見えない: {raw}')
 
 
 def publish_text(uid, token, text, reply_to=None, image_url=None):
@@ -234,10 +157,10 @@ def main():
         if posted_24h >= DAILY_CAP:
             print(f'HOLD {key}: 24時間の上限{DAILY_CAP}件に到達。次回に回す')
             continue
-        photo, image_url, image_src = find_photo(it, feed_text.get(key, ''), fx_cache), None, ''
+        photo, image_url, image_src = find_photo(it['reporter'], it['posted_utc'], feed_text.get(key, ''), fx_cache), None, ''
         if photo:
             try:
-                image_url = save_photo(photo[0], photo[1], args.dry_run)
+                image_url = save_photo(photo[0], photo[1], args.dry_run, max_bytes=8 * 1024 * 1024)
                 image_src = f'https://x.com/{it["reporter"]}/status/{photo[0]}'
                 print(f'  写真あり: {image_src} -> {image_url}')
             except Exception as e:
