@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "206-japan-women-kazakhstan-asian-games.html",
+    cat: "JAPAN",
+    title: "女子日本代表、アジア大会でカザフスタンに88-23で快勝 —— 大脇が16得点でゲームハイ、2連勝でグループB突破",
+    excerpt: "9月20日、愛知国際アリーナで行われた「第20回アジア競技大会（2026／愛知・名古屋）」女子バスケットボールのグループフェーズで、女子日本代表がカザフスタン代表に88-23で快勝した。大脇が16得点でゲームハイ、三田が2本の3ポイントを含む14得点。この勝利でグループBを2連勝で終え、準々決勝進出を決めた。次戦のグループフェーズ3戦目はフィリピン代表と対戦する。",
+    date: "2026.09.20",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "JAPAN vs KAZAKHSTAN — ASIAN GAMES"
+  },
+  {
     href: "205-air-jordan-3-wmns-fireside.html",
     cat: "KICKS",
     title: "Air Jordan 3 WMNS「Fireside」が2026年10月発売 —— ブラウン基調にピンクのレースを差した女性向けカラー、品番CK9246-200",

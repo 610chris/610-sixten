@@ -224,12 +224,13 @@ def article_video(a: dict) -> str:
     }
     if poster:
         ld["thumbnailUrl"] = poster
+    poster_attr = f' poster="{esc(poster)}"' if poster else ""
     return (
         '  <aside class="article-video" style="margin-top:56px;padding-top:28px;'
         'border-top:1px solid var(--line)">\n'
         '    <div style="font-family:var(--font-display);font-size:13px;letter-spacing:0.3em;'
         'color:var(--accent);margin-bottom:14px">VIDEO</div>\n'
-        f'    <video src="{url}"{f" poster=\"{esc(poster)}\"" if poster else ""} controls preload="none" '
+        f'    <video src="{url}"{poster_attr} controls preload="none" '
         'playsinline width="720" height="1280" '
         'style="width:100%;max-width:300px;display:block;border-radius:4px;background:#000">'
         f'<a href="{url}">{esc(a["title"])}の動画</a></video>\n'
