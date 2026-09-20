@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-09-20",
+    "size_mb": 381.1,
+    "size_source": "GitHub API",
+    "videos": 65,
+    "videos_mb": 22.8,
+    "video_avg_kb": 360,
+    "articles_per_day": 7.22,
+    "growth_mb_per_day": 2.92,
+    "level": "OK"
+  }
+]

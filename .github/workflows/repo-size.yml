@@ -1,0 +1,62 @@
+name: Repo size watch
+# リポジトリ肥大の見張り。記事1本ごとに縦型動画（約360KB）が git に積まれるので、
+# GitHub 上のリポジトリサイズ・増加ペース・閾値到達の予測日を毎週測って
+# journal_auto/repo_size_history.json に記録する。結果は job の Summary に出る。
+# 危険閾値（900MB）を超えると job が失敗して気づけるようにしてある。
+#
+# 測って知らせるだけで、ファイルの削除や履歴の書き換えはしない（間引く/LFS/外部配信 の判断は人がやる）。
+# cron '0 3 * * 1' = 毎週月曜 03:00 UTC = JST 12:00（analytics-weekly の JST 11:00 の後）。
+on:
+  schedule:
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-size
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            journal_auto
+            site/assets/journal/video
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Measure
+        id: measure
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # 閾値超過でも履歴の commit まで進めたいので、ここでは落とさず結果だけ覚えておく
+        run: |
+          set +e
+          python3 journal_auto/repo_size_check.py
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Commit history
+        run: |
+          git config user.name "repo-size-watch"
+          git config user.email "actions@github.com"
+          git add journal_auto/repo_size_history.json
+          if git diff --cached --quiet; then
+            echo "変化なし — commit しない"
+            exit 0
+          fi
+          git commit -m "repo-size: サイズ記録（$(TZ=Asia/Tokyo date +%F)）"
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
+
+      - name: Fail if critical
+        if: steps.measure.outputs.code != '0'
+        run: |
+          echo "::error::リポジトリが危険閾値を超えた。Summary の内訳と選択肢を見て判断すること。"
+          exit 1
