@@ -24,6 +24,36 @@ TAG = "videos"
 STATUS = "video_status.json"
 MAX_PER_RUN = 6
 
+# 記事ページに埋め込む軽量版の置き場と変換設定（2026-09-20）
+# Release の mp4 を直リンクしないのは、GitHub が Release アセットを octet-stream + attachment で
+# 返すため iOS Safari が再生しないから。サイト自身から配信すれば video/mp4 になる。
+# Remotion の出力はフルレンジ（yuvj420p / pc / bt470bg）なので tv + bt709 に正規化する。
+SITE_VIDEO = os.path.join(os.path.dirname(HERE), "site", "assets", "journal", "video")
+WEB_VF = ("scale=720:1280:flags=lanczos,"
+          "scale=in_range=pc:out_range=tv:in_color_matrix=bt470bg:out_color_matrix=bt709,"
+          "format=yuv420p")
+
+
+def make_web_copy(mp4, article_id):
+    """記事ページ用の軽量版（720x1280・音声なし・faststart）を site/ に置く
+
+    記事内の表示幅は 300px なので 720p で足りる（1080p の約1/2.4のサイズ）。
+    ここに置いたファイルを .github/workflows/video-build.yml が commit し、
+    deploy.yml の build_seo.py が記事末尾の <video> に差し込む。
+    """
+    os.makedirs(SITE_VIDEO, exist_ok=True)
+    out = os.path.join(SITE_VIDEO, f"{article_id}.mp4")
+    cmd = ["ffmpeg", "-y", "-v", "error", "-i", mp4, "-vf", WEB_VF,
+           "-color_range", "tv", "-colorspace", "bt709",
+           "-color_primaries", "bt709", "-color_trc", "bt709",
+           "-c:v", "libx264", "-crf", "26", "-preset", "slow",
+           "-pix_fmt", "yuv420p", "-profile:v", "high",
+           "-movflags", "+faststart", "-an", out]
+    r = subprocess.run(cmd, capture_output=True, text=True)
+    if r.returncode != 0:
+        raise RuntimeError(f"web 版の変換に失敗: {(r.stderr or '').strip()[:200]}")
+    return out
+
 
 def gh(*args, check=True):
     return subprocess.run(["gh", *args], check=check, capture_output=True, text=True)
@@ -102,6 +132,13 @@ def main():
             if upload:
                 gh("release", "upload", TAG, mp4, "--clobber")
                 url = f"https://github.com/{repo()}/releases/download/{TAG}/{res['slug']}.mp4"
+                # 記事ページ用の軽量版。ここで失敗しても Release 側は成功しているので、
+                # 動画そのものは残したまま [warn] を出して次の記事へ進む。
+                try:
+                    web = make_web_copy(mp4, it["id"])
+                    print(f"[web ] {it['id']} {os.path.relpath(web, os.path.dirname(HERE))}")
+                except Exception as e:
+                    print(f"[warn] {it['id']}: 記事用の軽量版が作れなかった: {e}", file=sys.stderr)
             status[it["id"]] = {"slug": res["slug"], "url": url or mp4, "route": res["route"],
                                 "credit": res["credit"],
                                 "built_at": datetime.now(JST).isoformat(timespec="seconds")}

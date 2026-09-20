@@ -38,6 +38,8 @@ jobs:
       - name: Install
         run: |
           pip install --quiet pillow numpy opencv-python-headless
+          # 記事ページ用の軽量版（720x1280）を作るのに使う。ランナーに無ければ入れる。
+          ffmpeg -version >/dev/null 2>&1 || { sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; }
           cd journal_video && npm ci
       - name: Build videos
         env:
@@ -46,3 +48,21 @@ jobs:
           FORCE=""
           if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE="--force"; fi
           python3 journal_auto/video_build.py ${{ github.event.inputs.ids }} $FORCE
+
+      # 記事ページ用の軽量版だけを commit する（2026-09-20）。
+      # これが push されると deploy.yml が走り、build_seo.py が記事末尾に <video> を差し込んで
+      # sixten.jp へ公開する＝新しい記事の動画も手を触れずに記事へ載る。
+      # 自己ループはしない: この workflow のトリガーは journal_auto/ig_queue.json の push だけで、
+      # ここで触るのは site/assets/journal/video/ のみ。video_status.json は従来どおり Release 側。
+      - name: Commit web copies
+        run: |
+          if [ -z "$(git status --porcelain site/assets/journal/video)" ]; then
+            echo "記事ページに追加する動画はない"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/assets/journal/video
+          git commit -m "journal: 記事ページ用の縦型動画を追加（自動）"
+          git pull --rebase --autostash origin main
+          git push origin HEAD:main
