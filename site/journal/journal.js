@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "207-japan-korea-asian-games-final.html",
+    cat: "JAPAN",
+    title: "男子日本代表、アジア大会決勝で韓国に57-67で敗れる —— 64年ぶりの銀メダル獲得、金近が13得点",
+    excerpt: "9月20日、愛知国際アリーナで行われた「第20回アジア競技大会（2026／愛知・名古屋）」男子バスケットボール決勝で、男子日本代表が韓国代表に57-67で敗れた。1962年ジャカルタ大会以来64年ぶりの決勝進出を果たした日本は、初の金メダルには届かなかったものの64年ぶりの銀メダルを獲得した。金近廉が3本の3ポイントを含む13得点6リバウンド、小川敦也が12得点5リバウンドを記録した。",
+    date: "2026.09.20",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "JAPAN vs KOREA — ASIAN GAMES FINAL"
+  },
+  {
     href: "206-japan-women-kazakhstan-asian-games.html",
     cat: "JAPAN",
     title: "女子日本代表、アジア大会でカザフスタンに88-23で快勝 —— 大脇が16得点でゲームハイ、2連勝でグループB突破",
