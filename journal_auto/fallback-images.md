@@ -29,6 +29,16 @@ KICKS記事でこの汎用フォールバックに来てよいのは、`PROMPT_C
 - 公式・別カラー: `画像: Air Jordan 4 Retro「Tour Yellow」（本記事の「Lemonade」とは別カラー）。画像: Nike（ブランド公式の商品画像）`
 - CC靴写真・別モデル: `画像: adidas Superstar（本記事の Superstar II とは別モデル・別カラーの同シリーズ）。撮影: <撮影者> / <ライセンス>, via Wikimedia Commons`
 
+## 縦型ニュース動画でも同じ4枚を使う（2026-09-20）
+
+この4枚を使った記事は `journal-NNN-hero.jpg` を作らないので、動画生成（`video_input.py`）が
+写真を見失って真っ黒になっていた（64本中16本）。9:16 に切り直した縦版を
+`journal_video/public/assets/journal/fallback/0N.jpg` に常備し、記事の `photo_credit` の
+撮影者名で同じ写真を引くようにした（作り直しは `journal_auto/make_video_fallbacks.py`）。
+
+**この表に写真を足すときは `make_video_fallbacks.py` の `FALLBACKS` にも同じ `credit` 文字列で足す。**
+足さないと動画側は撮影者名で引けず、記事番号で適当な1枚を選ぶ（＝記事と動画で写真が食い違う）。
+
 ## 使い方の注意
 
 - そのままheroに使う（再ダウンロード・再変換不要）。journal.js の thumb にも同じパスを入れる

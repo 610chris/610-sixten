@@ -15,7 +15,9 @@
     ② subject で Commons 検索（直近3年・切り抜く高さが元画像で1600px以上・顔が検出できる）
     ③ NBA.com 公式ヘッドショット（Wikidata P3647 で選手IDを引く）を黒地に合成
     ④ subject で Commons 検索（年代は問わない）
-    ⑤ 記事ヒーローをぼかして敷き、くっきりしたヒーローを上側に重ねる（ヒーローも無ければ黒地）
+    ⑤ 記事ヒーローをぼかして敷き、くっきりしたヒーローを上側に重ねる
+    ⑥ 記事が汎用イメージ写真（fallback-images.md）を使っていて記事専用ヒーローが無い場合、
+       その写真の縦版（1080x1920・make_video_fallbacks.py で常備）をフル画面で敷く
 """
 
 import io, json, os, re, sys, urllib.parse, urllib.request
@@ -26,6 +28,7 @@ sys.path.insert(0, HERE)
 from pick_commons_photo import (  # noqa: E402
     UA, blur_ng, blur_score, detect_face, eligible, fetch, rank_key, search,
 )
+from make_video_fallbacks import FALLBACKS, OUT_DIR as FALLBACK_DIR  # noqa: E402
 from PIL import Image, ImageFilter, ImageOps  # noqa: E402
 
 ROOT = os.path.dirname(HERE)
@@ -165,10 +168,35 @@ def route_nba_headshot(names):
     return None
 
 
+def route_generic_fallback(item):
+    """記事が汎用イメージ写真を使っている（＝記事専用のヒーローが無い）場合。
+
+    記事と同じ写真の縦版をフル画面で敷く。記事側は横長（1600x900）をそのまま使うので
+    `journal-NNN-hero.jpg` が作られず、⑤が空振りして真っ黒になっていた（2026-09-20 に64本中16本）。
+    どの写真かは記事の `photo_credit` の撮影者名で一意に決まる。
+    """
+    want = video_credit(item.get("photo_credit", ""))
+    key = next((k for k, v in FALLBACKS.items() if v["credit"] == want), None)
+    if key is None:
+        key = sorted(FALLBACKS)[int(item["id"]) % len(FALLBACKS)]
+        log(f"  ⑥ 記事の写真を特定できないので {key} を使う: {want or '（クレジットなし）'}")
+    path = os.path.join(FALLBACK_DIR, f"{key}.jpg")
+    if not os.path.exists(path):
+        log(f"  ⑥ 縦版が無い（make_video_fallbacks.py を実行）: {path}")
+        return None
+    # 写真は記事のクレジットで決まる＝選べないので、絵が完全に同じ動画が続かないよう
+    # 記事番号で切り出し窓を左/中/右にずらす（常備画像は画面より 360px 横に広い・拡大なし）
+    im = Image.open(path).convert("RGB")
+    pan = (0.0, 0.5, 1.0)[int(item["id"]) % 3]
+    x = round((im.width - W) * pan)
+    img = im.crop((x, 0, x + W, H)) if im.width > W else im.resize((W, H), Image.LANCZOS)
+    return img, FALLBACKS[key]["credit"], f"fallback {key} pan={pan}"
+
+
 def route_hero_blur(item):
     hero = os.path.join(ROOT, "site", "assets", f"journal-{item['id']}-hero.jpg")
     if not os.path.exists(hero):
-        return Image.new("RGB", (W, H), (0, 0, 0)), "", "black（ヒーロー画像なし）"
+        return None
     im = Image.open(hero).convert("RGB")
     bg = ImageOps.fit(im, (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(40))
     bg = Image.eval(bg, lambda v: int(v * 0.6))
@@ -194,7 +222,9 @@ def build(aid):
     if not got and names:
         got = route_commons(names, 3) or route_nba_headshot(names) or route_commons(names, 0)
     if not got:
-        got = route_hero_blur(item)
+        got = route_hero_blur(item) or route_generic_fallback(item)
+    if not got:
+        got = Image.new("RGB", (W, H), (0, 0, 0)), "", "black（フォールバック写真も無い）"
     img, credit, route = got
     credit = video_credit(credit)
 

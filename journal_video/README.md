@@ -183,7 +183,37 @@ Actions の手動実行（workflow_dispatch）でも `ids` と `force` を指定
 | ② | Commons 直近3年 | 選手名で検索。切り抜く高さが元画像で1600px以上・顔が検出できるもの |
 | ③ | NBA.com 公式ヘッドショット | Wikidata P3647 で選手IDを引き、黒地に合成 |
 | ④ | Commons 年代不問 | ②の年代制限を外したもの |
-| ⑤ | 記事ヒーローのぼかし | `subject` が無い記事（シューズ単体など）。ヒーローも無ければ黒地 |
+| ⑤ | 記事ヒーローのぼかし | `subject` が無い記事（シューズ単体など）を、ぼかした背景の上に重ねる |
+| ⑥ | 汎用フォールバック写真の縦版 | 記事が `journal_auto/fallback-images.md` の汎用写真を使っていて、記事専用ヒーローが無い場合 |
+
+### ⑥ 汎用フォールバック写真の縦版（2026-09-20）
+
+記事が汎用写真を使うとき、記事側は `site/assets/journal-fallback-0N.jpg`（1600x900）をそのまま参照し
+`journal-NNN-hero.jpg` を作らない。⑤がそのファイル名だけを見ていたため空振りし、**64本中16本が真っ黒**だった。
+
+同じ4枚を Commons の原寸から 9:16 に切り直した縦版を `public/assets/journal/fallback/0N.jpg` に常備する。
+
+```bash
+python3 journal_auto/make_video_fallbacks.py     # 4枚を作り直す（通常は不要・git に入っている）
+```
+
+どの写真かは記事の `photo_credit` の撮影者名で一意に決まる（記事と動画で同じ写真になる）。
+写真を選べない＝同じ絵が続くので、常備画像は画面より **360px 横に広い 1440x1920** で持ち、
+記事番号で切り出し窓を左/中/右にずらしている（`pan=0.0/0.5/1.0`・拡大なし）。連番の記事は必ず別の位置になる。
+
+#### 実測（16本すべて・`scripts/check_contrast.py`）
+
+汎用写真は明るいものを含む（夕日のコートは平均輝度162）ため、白文字が溶けないかを全本測った。
+
+| | コントラスト比（背景の明るい方5%） |
+|---|---|
+| 16本の範囲 | **5.55〜11.01:1**（全本 WCAG AA 4.5:1 を超える） |
+| いちばん低い | 193 えいごdeバスケ 5.55:1 |
+| いちばん明るい背景 | 176 Kobe 3 Low（輝度162）で 8.79:1 |
+
+```bash
+python3 scripts/check_contrast.py out/176-kobe-3-low-mismatch.mp4
+```
 
 `hero_sources.json` は `pick_commons_photo.py` / `pick_flickr_photo.py` が記事の写真を保存したときに自動で追記する。
 
