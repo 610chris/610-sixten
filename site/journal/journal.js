@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "208-nike-kobe-8-protro-shanghai-fireworks.html",
+    cat: "KICKS",
+    title: "Nike Kobe 8 Protro「Shanghai Fireworks」が2026年11月11日発売予定 —— 2013年の中国限定カラーが復活、価格200ドル",
+    excerpt: "ナイキは、コービー8 プロトロに2013年の中国限定カラー「Shanghai Fireworks」を復刻した新色を発表した。発売は2026年11月11日を予定し、価格は200ドル(米国価格)、品番はIO6259-800。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.20",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "KOBE 8 PROTRO"
+  },
+  {
     href: "207-japan-korea-asian-games-final.html",
     cat: "JAPAN",
     title: "男子日本代表、アジア大会決勝で韓国に57-67で敗れる —— 64年ぶりの銀メダル獲得、金近が13得点",
