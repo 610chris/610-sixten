@@ -19,6 +19,7 @@ on:
 
 permissions:
   contents: write
+  actions: write   # 最後に deploy.yml を workflow_dispatch で起動するため
 
 concurrency:
   group: video-build
@@ -55,6 +56,8 @@ jobs:
       # 自己ループはしない: この workflow のトリガーは journal_auto/ig_queue.json の push だけで、
       # ここで触るのは site/assets/journal/video/ のみ。video_status.json は従来どおり Release 側。
       - name: Commit web copies
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [ -z "$(git status --porcelain site/assets/journal/video)" ]; then
             echo "記事ページに追加する動画はない"
@@ -66,3 +69,7 @@ jobs:
           git commit -m "journal: 記事ページ用の縦型動画を追加（自動）"
           git pull --rebase --autostash origin main
           git push origin HEAD:main
+          # GITHUB_TOKEN で push したコミットは他の workflow を起動しない（再帰防止の仕様）。
+          # deploy.yml が走らないと記事に <video> が入らないので、ここから明示的に起動する
+          # （workflow_dispatch は GITHUB_TOKEN でも起動できる例外・2026-09-20 実測で確認）。
+          gh workflow run deploy.yml --ref main
