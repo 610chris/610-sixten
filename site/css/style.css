@@ -1164,3 +1164,8 @@ footer {
 
 /* --- ボタン --- */
 .home .contact-btn { font-size: 15px; letter-spacing: 0.12em; padding: 18px 48px; }
+
+/* --- MEDIAカードの和文タイトル: 意味の切れ目(<wbr>)でだけ折る --- */
+.home .media-visual .type-logo { word-break: keep-all; }
+/* 英文サブラベルは字間を詰めて1行に収める（"MEDIA" だけ落ちるのを防ぐ） */
+.home .media-visual .type-logo small { font-size: 12px; letter-spacing: 0.18em; }
