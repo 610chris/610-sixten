@@ -1095,3 +1095,72 @@ footer {
   font-size: clamp(40px, 7.2vw, 88px);
   letter-spacing: 0.06em;
 }
+
+/* ============================================
+   トップページ: 新ロゴ(2026)のトーンに合わせる / 2026-09-20
+   新ロゴ = 太く・横に広く・角がまるい / 字間はつめる / 実線と輪郭線の2種
+   → 縦長で字間の広い Anton をやめ、横幅のある Archivo Black に統一。
+     カードの角をまるめ、マーキーは輪郭線の大型タイポにする。
+     body.home で囲っているのでブランドページ(media/*.html)には影響しない。
+   ============================================ */
+.home {
+  --font-display: "Archivo Black", "Noto Sans JP", sans-serif;
+  --radius: 16px;
+}
+
+/* --- ヒーロー: ロゴを大きく、社名は字間をつめてワードマークに寄せる --- */
+.home .hero-logo { width: min(460px, 76vw); }
+.home .hero-name {
+  font-size: clamp(26px, 4.8vw, 46px);
+  letter-spacing: 0.06em;
+  text-indent: 0.06em;
+  margin-top: 30px;
+}
+.home .hero-tag { margin-top: 18px; letter-spacing: 0.04em; }
+.home .hero-scroll { letter-spacing: 0.24em; font-size: 10px; }
+
+/* --- ナビ・ラベル: 太い書体に合わせて字間を少し戻す --- */
+.home .nav-logo span { font-size: 12px; letter-spacing: 0.2em; }
+.home .nav-cta { font-weight: 700; letter-spacing: 0.1em; }
+.home .sec-label { font-size: 12px; letter-spacing: 0.2em; }
+.home .media-tag,
+.home .work-card .code,
+.home .jr-date { letter-spacing: 0.18em; }
+
+/* --- マーキー: 輪郭線ロゴを引用した大型タイポ --- */
+.home .marquee { padding: 20px 0; }
+.home .marquee-track span {
+  font-size: clamp(22px, 2.8vw, 34px);
+  letter-spacing: 0.02em;
+  color: transparent;
+  -webkit-text-stroke: 1px rgba(242, 240, 235, 0.42);
+  margin-right: 1.4em;
+}
+.home .marquee-track span em {
+  -webkit-text-stroke: 0;
+  color: var(--accent);
+}
+
+/* --- マニフェスト: 日本語も字間をつめてロゴの密度に合わせる --- */
+.home .manifesto p { letter-spacing: -0.01em; }
+.home .manifesto .en {
+  font-size: clamp(16px, 2.2vw, 24px);
+  letter-spacing: 0.04em;
+  line-height: 1.5;
+}
+
+/* --- カード類: ロゴの丸い角を反映 --- */
+.home .media-card,
+.home .work-card,
+.home .jr-card,
+.home .journal-featured { border-radius: var(--radius); }
+.home .services-grid,
+.home .work-card { overflow: hidden; }
+.home .services-grid { border-radius: var(--radius); }
+.home .journal-featured .visual { border-radius: 12px; }
+.home .jr-cat { border-radius: 999px; padding: 5px 12px; letter-spacing: 0.18em; }
+.home .work-card .status { letter-spacing: 0.04em; }
+.home .media-more { letter-spacing: 0.14em; }
+
+/* --- ボタン --- */
+.home .contact-btn { font-size: 15px; letter-spacing: 0.12em; padding: 18px 48px; }
