@@ -66,7 +66,9 @@ def main():
     ap.add_argument("ids", nargs="*")
     ap.add_argument("--force", action="store_true", help="動画があっても作り直す")
     ap.add_argument("--no-upload", action="store_true", help="Release に上げない（ローカル確認用）")
-    ap.add_argument("--max", type=int, default=MAX_PER_RUN)
+    ap.add_argument("--max", type=int, default=0,
+                    help=f"1回の上限。0（既定）なら記事番号を指定した時は無制限、"
+                         f"指定しない時は {MAX_PER_RUN} 本")
     args = ap.parse_args()
     upload = not args.no_upload
 
@@ -75,9 +77,16 @@ def main():
     status = load_status(upload)
     items = json.load(open(video_input.QUEUE, encoding="utf-8"))["items"]
     want = {str(i).zfill(3) for i in args.ids}
-    todo = [it for it in items
+    # 記事番号を名指しした時は「その本数を作りたい」意思表示なので上限をかけない。
+    # 上限は自動実行（番号なし＝新着ぜんぶ）が長時間ジョブになるのを防ぐためのもの。
+    limit = args.max if args.max > 0 else (len(items) if want else MAX_PER_RUN)
+    cand = [it for it in items
             if (not want or it["id"] in want) and it.get("state") != "skipped"
-            and (args.force or it["id"] not in status)][: args.max]
+            and (args.force or it["id"] not in status)]
+    todo = cand[:limit]
+    if len(cand) > len(todo):
+        rest = [it["id"] for it in cand[len(todo):]]
+        print(f"※ 上限 {limit} 本で打ち切り。未処理 {len(rest)} 本: {' '.join(rest)}")
     if not todo:
         print("新しく作る動画はない")
         return
