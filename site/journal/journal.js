@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "209-nike-air-force-1-low-nyc-rat.html",
+    cat: "KICKS",
+    title: "ダークグレーレザーに茶色のフェイクファー —— Nike Air Force 1 Low「NYC Rat」が10月23日発売",
+    excerpt: "ナイキは、ニューヨークの街ネズミをモチーフにした新色「Air Force 1 Low \"NYC Rat\"」を発表した。品番IV4884-200、価格140ドル(米国価格)で、2026年10月23日の発売が予定されている。MTAメトロカードをテーマにしたペアと2足セットの「ニューヨーク・シティ・パック」として展開される。Hypebeastが伝えた。",
+    date: "2026.09.21",
+    thumb: "../assets/journal-209-hero.jpg?v=f3e5aa532f",
+    tile: "AF1 NYC RAT"
+  },
+  {
     href: "208-nike-kobe-8-protro-shanghai-fireworks.html",
     cat: "KICKS",
     title: "Nike Kobe 8 Protro「Shanghai Fireworks」が2026年11月11日発売予定 —— 2013年の中国限定カラーが復活、価格200ドル",
