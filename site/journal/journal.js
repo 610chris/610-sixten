@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "210-espn-key-number-every-team.html",
+    cat: "NBA",
+    title: "ニックスは歴代最高の得失点差、サンダーはスパーズに4勝8敗 —— ESPN、NBA全30チーム「今季を左右する数字」",
+    excerpt: "ESPNのザック・クラム記者は21日（現地時間）、NBA全30チームについて「今季を左右する1つの数字」を選ぶ恒例企画を公開した。連覇を狙うニックスはプレーオフ史上最高の得失点差を記録し、王座奪還を狙うサンダーは昨季スパーズに4勝8敗と負け越していた。",
+    date: "2026.09.21",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "30 TEAMS, 30 NUMBERS"
+  },
+  {
     href: "209-nike-air-force-1-low-nyc-rat.html",
     cat: "KICKS",
     title: "ダークグレーレザーに茶色のフェイクファー —— Nike Air Force 1 Low「NYC Rat」が10月23日発売",
