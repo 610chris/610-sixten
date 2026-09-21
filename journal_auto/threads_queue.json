@@ -21,6 +21,17 @@
    "held_reason": "",
    "article_url": "",
    "created_utc": "2026-09-21T00:22:42Z"
+  },
+  {
+   "key": "https://www.reddit.com/r/nba/comments/1wmhltr/charania_the_clippers_have_named_accomplished_los/",
+   "reporter": "ShamsCharania",
+   "posted_utc": "2026-09-21T16:25:14+00:00",
+   "level": 1,
+   "text": "",
+   "status": "held",
+   "held_reason": "辞書に無い: John Gibson, Steve Ballmer（Wikipediaに届かない・exit 3）",
+   "article_url": "",
+   "created_utc": "2026-09-21T16:40:00Z"
   }
  ]
 }
