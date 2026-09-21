@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "211-clippers-interim-governor-ceo.html",
+    cat: "NBA",
+    title: "クリッパーズ、ジョン・ギブソン氏を暫定オーナー兼CEOに任命 —— バルマー氏が指名、NBAが承認",
+    excerpt: "ESPNのシャムズ・シャラニア記者が一報。ロサンゼルス・クリッパーズは、同地を拠点とする弁護士ジョン・ギブソン氏を球団の暫定オーナー(Governor)兼最高経営責任者(CEO)に任命した。オーナーのスティーブ・バルマー氏が指名し、NBAが承認したという。",
+    date: "2026.09.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "CLIPPERS INTERIM GOVERNOR"
+  },
+  {
     href: "210-espn-key-number-every-team.html",
     cat: "NBA",
     title: "ニックスは歴代最高の得失点差、サンダーはスパーズに4勝8敗 —— ESPN、NBA全30チーム「今季を左右する数字」",
