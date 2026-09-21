@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-09-21 16:34 UTC",
+ "updated_utc": "2026-09-21 20:32 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wmn5gh/charania_the_detroit_pistons_have_recently/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-21T19:42:38+00:00",
+   "text": "Video clip: https://streamable.com/j19cuk\n\nThe Detroit Pistons have recently offered Jalen Duren a 5-year, $200 million contract. Detroit and Duren remain at an impasse. Duren has felt disrespected by Detroit since becoming extension eligible and being offered a $20 million “take it or leave it” deal.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wmn5gh/charania_the_detroit_pistons_have_recently/",
+   "links": [
+    "https://streamable.com/j19cuk"
+   ]
+  },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
@@ -62,36 +75,10 @@
    "x_url": "",
    "tweet_id": "",
    "posted_utc": "2026-09-18T22:30:39+00:00",
-   "text": "Just in: Detroit Pistons All-Defensive forward Ausar Thompson has reached agreement on a five-year, $155 million rookie-scale contract extension, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
+   "text": "Just in: Detroit Pistons All-Defensive forward Ausar Thompson has reached agreement on a five-year, $155 million rookie-scale contract extension, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/3e3e282fa472b",
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wk4jv4/charania_just_in_detroit_pistons_alldefensive/",
    "links": [
-    "https://www.espn.com/contributor/shams-charania"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wk2eqx/charania_miami_heat_guard_pelle_larson_has_agreed/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-18T21:04:43+00:00",
-   "text": "Miami Heat guard Pelle Larson has agreed to a new four-year, $60 million contract extension, with a mutual option for the 2030-31 season, Austin Brown and Steven Heumann of CAA Sports tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/7637e2c09f8c6",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wk2eqx/charania_miami_heat_guard_pelle_larson_has_agreed/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/7637e2c09f8c6"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wjxj1s/charania_the_denver_nuggets_are_signing_2023/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-18T18:01:53+00:00",
-   "text": "The Denver Nuggets are signing 2023 first-round pick Cam Whitmore on a two-way NBA deal, sources tell ESPN. Whitmore enters his fourth NBA season after averaging 10.5 points and 3.3 rebounds over 119 career games -- and has already joined the Nuggets for workouts in Denver.\n\nhttps://www.espn.com/contributor/shams-charania",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wjxj1s/charania_the_denver_nuggets_are_signing_2023/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania"
+    "https://www.espn.com/contributor/shams-charania/3e3e282fa472b"
    ]
   }
  ]
