@@ -3,6 +3,33 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "215-hawks-veesaar-acl-tear.html",
+    cat: "NBA",
+    title: "ホークス、ヴィーサーが右膝ACL断裂で今季絶望 —— 52位指名のルーキーセンター、10月に手術",
+    excerpt: "アトランタ・ホークスは、ルーキーセンターのヘンリ・ヴィーサーが右膝の前十字靭帯(ACL)を断裂し、2026-27シーズンを欠場する見通しだと発表した。9月15日のワークアウト中に負傷し、10月に手術を受ける予定。ドラフトでクリッパーズから全体52位指名を受けた後、ホークスへ移籍していた。ESPNが伝えた。",
+    date: "2026.09.21",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "VEESAAR ACL TEAR"
+  },
+  {
+    href: "214-nike-ja-4-phantom.html",
+    cat: "KICKS",
+    title: "Nike Ja 4「Phantom」が10月発売 —— ジャ・モラント4代目シグネチャー、白ベースの新色",
+    excerpt: "ナイキは、ジャ・モラントの4代目シグネチャーモデル「Nike Ja 4」の新色「Phantom」を発表した。品番IM4135-100で、2026年10月の発売が予定されている。白をベースに黒とグレーを差した落ち着いた配色。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.21",
+    thumb: "../assets/journal-214-hero.jpg?v=c7477e262c",
+    tile: "NIKE JA 4 PHANTOM"
+  },
+  {
+    href: "213-air-jordan-9-low-what-the-kilroy.html",
+    cat: "KICKS",
+    title: "Air Jordan 9 Low「What The Kilroy」が発売開始 —— 2012年『Kilroy Pack』全6色を1足に集約、価格180ドル",
+    excerpt: "Jordan Brandは、2012年の限定企画『Kilroy Pack』全6色のディテールを1足にまとめたミスマッチデザイン「Air Jordan 9 Low \"What The Kilroy\"」を発売した。価格は180ドル(米国価格)。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.21",
+    thumb: "../assets/journal-213-hero.jpg?v=80bd69b26c",
+    tile: "AJ9 WHAT THE KILROY"
+  },
+  {
     href: "212-nicolas-batum-retires.html",
     cat: "NBA",
     title: "ニコラ・バトゥム、18年のNBA生活に幕 —— 10歳の息子との動画で引退発表、フランス代表で五輪銀2度",
