@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "212-nicolas-batum-retires.html",
+    cat: "NBA",
+    title: "ニコラ・バトゥム、18年のNBA生活に幕 —— 10歳の息子との動画で引退発表、フランス代表で五輪銀2度",
+    excerpt: "37歳のニコラ・バトゥムが現地時間9月21日、10歳の息子アイデン君とのSNS動画で現役引退を発表した。2008年のドラフト1巡目からブレイザーズ、ホーネッツ、クリッパーズなどでプレーし、フランス代表として東京・パリ五輪で銀メダル2度を獲得した18年間に幕を下ろした。",
+    date: "2026.09.21",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "NICOLAS BATUM RETIRES"
+  },
+  {
     href: "211-clippers-interim-governor-ceo.html",
     cat: "NBA",
     title: "クリッパーズ、ジョン・ギブソン氏を暫定オーナー兼CEOに任命 —— バルマー氏が指名、NBAが承認",
