@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "219-japan-women-philippines-asian-games.html",
+    cat: "JAPAN",
+    title: "女子日本代表、アジア大会でフィリピンに89-67で快勝 —— 岡本美優が19得点、3戦全勝でグループB首位通過",
+    excerpt: "9月22日、愛知国際アリーナで行われた「第20回アジア競技大会（2026／愛知・名古屋）」女子バスケットボールのグループフェーズで、女子日本代表がフィリピン代表に89-67で快勝した。岡本美優が7本中5本の3ポイントを沈めて19得点、常田亜美が18得点、舘山萌菜が12得点を記録。日本はグループフェーズを3戦全勝で終え、グループB首位で24日の準々決勝に進出する。",
+    date: "2026.09.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "JAPAN WOMEN VS PHILIPPINES"
+  },
+  {
     href: "218-nike-air-force-1-low-gold-charms.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low「Gold Charms」発表 —— スネークスキンのスウッシュに取り外し可能なゴールドチャーム、価格125ドル",
