@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "220-espn-nba-rank-2026.html",
+    cat: "NBA",
+    title: "ルーキー4人が早くもトップ100入り —— ESPN「NBA Rank 2026」が始動、100～51位を発表",
+    excerpt: "ESPNは22日（現地時間）、選手個人の実力ランキング企画「NBA Rank」2026-27版で100～51位を公開した。全体1位指名のAJ・ダイバンツァ（ウィザーズ）ら新人4人が早速ランクインした一方、ドレイモンド・グリーン（ウォリアーズ）は93位、ACLの負傷で離脱中のジミー・バトラー（ウォリアーズ）は92位まで後退した。続く50～11位は23日、トップ10は24日に発表予定。",
+    date: "2026.09.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "ESPN NBA RANK 2026"
+  },
+  {
     href: "219-japan-women-philippines-asian-games.html",
     cat: "JAPAN",
     title: "女子日本代表、アジア大会でフィリピンに89-67で快勝 —— 岡本美優が19得点、3戦全勝でグループB首位通過",
