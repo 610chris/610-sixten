@@ -1,7 +1,59 @@
 {
- "updated_utc": "2026-09-22 01:47 UTC",
+ "updated_utc": "2026-09-22 19:55 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wnk10i/charania_the_atlanta_hawks_are_trading_buddy/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-22T19:53:24+00:00",
+   "text": "The Atlanta Hawks are trading Buddy Hield, Ryan Nembhard and cash to the Charlotte Hornets for Dorian Finney-Smith, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wnk10i/charania_the_atlanta_hawks_are_trading_buddy/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
+  {
+   "reporter": "Tim MacMahon（ESPN）",
+   "handle": "espn_macmahon",
+   "key": "https://www.reddit.com/r/nba/comments/1wnjrmj/macmahon_kawhi_is_a_guy_whos_played_60_games_just/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-22T19:44:06+00:00",
+   "text": "“[Kawhi] is a guy who’s played 60+ games just three times in the last nine years … $115M for a player with those durability issues, in his mid-30s… that is a massive contract. That’s not a discount deal. A discount deal is Kevin Durant— 2YR, $90M extension. This is $25M more than that.”",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wnjrmj/macmahon_kawhi_is_a_guy_whos_played_60_games_just/",
+   "links": []
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wnj2eb/charania_just_in_toronto_raptors_allnba_star/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-22T19:19:07+00:00",
+   "text": "Link: https://www.espn.com/contributor/shams-charania/0223d6ac931db\n\nJust in: Toronto Raptors All-NBA star Kawhi Leonard has agreed on a two-year, $115 million contract extension with the franchise, plus a player option for the 2028-29 season, his agent Harrison Gaines of SLASH Sports tells ESPN.\n\nDoes Leonard go back to playing 30-40 games again now that he’s paid? Where do you have the Raptors finishing in the East? How far do they go in the playoffs?",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wnj2eb/charania_just_in_toronto_raptors_allnba_star/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/0223d6ac931db"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wnivs2/charania_just_in_toronto_raptors_allnba_star/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-22T19:12:40+00:00",
+   "text": "Shams Charania has posted the following:   Just in: Toronto Raptors All-NBA star Kawhi Leonard has agreed on a two-year, $115 million contract extension with the franchise, plus a player option for the 2028-29 season, his agent Harrison Gaines of SLASH Sports tells ESPN.  Source to the story: https://www.espn.com/contributor/shams-charania/0223d6ac931db\n\nFollow up post:   Both sides maintained consistent dialogue on Leonard’s long-term Raptors future since July after the reunion via trade — and the two-time Finals MVP expects to finish his career in Toronto. Leonard, 35, now has a total of three years and $165 million on his Raptors deal.  Source to the follow up post: https://bsky.app/profile/shamsbot.bsky.social/post/3mw4wq47lsx27\n\nAnother follow up post:   Leonard took $11 million less than his maximum extension number — on top of waiving a $7.45 million kicker to accommodate his trade from the Clippers — as the sides discussed flexibility for the Raptors' rising salary books.  Source: https://bsky.app/profile/shamsbot.bsky.social/post/3mw4wzzjznt2l",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wnivs2/charania_just_in_toronto_raptors_allnba_star/",
+   "links": [
+    "https://bsky.app/profile/shamsbot.bsky.social/post/3mw4wq47lsx27",
+    "https://bsky.app/profile/shamsbot.bsky.social/post/3mw4wzzjznt2l",
+    "https://www.espn.com/contributor/shams-charania/0223d6ac931db"
+   ]
+  },
   {
    "reporter": "Sam Amick（The Athletic）",
    "handle": "sam_amick",
@@ -55,32 +107,6 @@
    "links": [
     "https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?r=1m9zg&amp;utm%5C_medium=ios",
     "https://marcstein.substack.com/p/lots-of-the-latest-albeit-not-as?r=1m9zg&amp;utm\\_medium=ios"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wkreim/charania_discussions_between_brandon_millers_camp/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-19T16:59:44+00:00",
-   "text": "According to ESPN’s Shams Charania, discussions between Brandon Miller’s camp and the Charlotte Hornets are expected to intensify significantly over the coming days and weeks as the two sides work toward a rookie-scale contract extension.\n\nCharania reports growing optimism that an agreement can be reached.\n\nThe Hornets consider Miller one of the cornerstones of their future and have no intention of letting him leave.\n\nSource: https://sportando.basketball/en/hornets-brandon-miller-extension-talks-expected-to-intensify/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wkreim/charania_discussions_between_brandon_millers_camp/",
-   "links": [
-    "https://sportando.basketball/en/hornets-brandon-miller-extension-talks-expected-to-intensify/"
-   ]
-  },
-  {
-   "reporter": "Anthony Slater（ESPN）",
-   "handle": "anthonyVslater",
-   "key": "https://www.reddit.com/r/nba/comments/1wkgtx5/slater_jimmy_butler_is_having_a_good_time_he_just/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-19T08:40:52+00:00",
-   "text": "Jimmy Butler is recovering well as he continues to make key progress midway through his ACL recovery with the Golden State Warriors.\n\n\"I know he's having a good time. He just spent his birthday this past week in Brazil hanging out with Neymar. He's had a good summer. As far as the rehab goes, he's very much in the middle months, the middle stages of long ACL rehab,\" veteran Warriors reporter Anthony Slater said on ESPN's NBA Today.\n\n\"I've heard good updates on his progress and the strengthening of his knee, but he's still months away from being on an NBA court. The team is going to open camp in Hawaii in a couple weeks. He's expected to just be able to do individual stuff on the side. Eventually, he'll hit the checkpoints, but even though he won't be on the court to start the season, he is obviously still a big leader for the team.\"\n\nJimmy Butler went down with a torn ACL in his right knee last February.\n\nThe devastating season-ending injury completely changed the course of the Golden State Warriors' 2025-26 campaign. Without the star forward, the Dubs struggled and failed to contend for a title, losing to the Phoenix Suns in the Play-In Tournament.\n\nSeven months after his injury, reports suggest Butler has already increased his on-court work.\n\nIn an optimistic timeline, he might return in January or February at the earliest.\n\nDespite being limited in his movements and unable to start the team's upcoming NBA season, Jimmy Butler continues to make an effort to bring the team together as an established veteran.\n\nAccording to Slater, the Warriors star has set a player-only event for Golden State next week.\n\n\"From what I've heard, he's going to gather the team for an organized player-only event next week in Southern California, just like he did last year, so he's bringing the team together,\" Slater revealed.\n\nThe Los Angeles Lakers, San Antonio Spurs, and Minnesota Timberwolves are among the teams that have held offseason hangouts. For the Warriors, Butler is leading the initiative to help his team build familiarity and momentum ahead of the new NBA season.\n\nSource: https://basketnews.com/news-255669-important-jimmy-butler-acl-recovery-update-emerges-from-warriors-insider.html",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wkgtx5/slater_jimmy_butler_is_having_a_good_time_he_just/",
-   "links": [
-    "https://basketnews.com/news-255669-important-jimmy-butler-acl-recovery-update-emerges-from-warriors-insider.html"
    ]
   }
  ]
