@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "222-nike-lebron-witness-10.html",
+    cat: "KICKS",
+    title: "ナイキ「LeBron Witness 10」がこのホリデーシーズンに発売 —— レブロン・ジェームズのシグネチャーライン第10弾",
+    excerpt: "ナイキは、レブロン・ジェームズのシグネチャーモデル「LeBron Witness」シリーズ最新作「Witness 10」を発表した。発売はこのホリデーシーズン(2026年11〜12月ごろ)を予定している。具体的なカラーウェイや価格、正式な発売日は現時点では明らかにされていない。Sneaker Newsが伝えた。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "LEBRON WITNESS 10"
+  },
+  {
+    href: "221-nike-air-force-1-low-jewel-indiana-fever.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low「Jewel」発表 —— インディアナ・フィーバーのチームカラーを纏った特別仕様、品番IR5099-400",
+    excerpt: "ナイキは、WNBAインディアナ・フィーバーのチームカラーを纏った「Air Force 1 Low」新色「Jewel」を発表した。アッパーの大部分をネイビーのレザーが占め、チームカラーのイエローを随所に差し色として配した仕様。品番IR5099-400。Sneaker Newsとスニーカーバー・デトロイトが伝えた。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AF1 JEWEL INDIANA FEVER"
+  },
+  {
     href: "220-espn-nba-rank-2026.html",
     cat: "NBA",
     title: "ルーキー4人が早くもトップ100入り —— ESPN「NBA Rank 2026」が始動、100～51位を発表",
