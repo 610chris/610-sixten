@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "224-hawks-buddy-hield-hornets-trade.html",
+    cat: "NBA",
+    title: "ホークスがバディ・ヒールドをホーネッツへトレード、フィニー＝スミスと交換で合意 —— ライアン・ネムハードと現金も動く",
+    excerpt: "アトランタ・ホークスは22日(現地時間)、バディ・ヒールドとライアン・ネムハード、現金をシャーロット・ホーネッツへ送り、ドリアン・フィニー＝スミスを獲得するトレードを成立させた。ESPNのシャムズ・シャラニア記者が関係者の話として伝えた。ホークスは今夏、ヒールドを絡めたトレードを模索しており、今月に入りホーネッツとの協議も表面化していた。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "HAWKS TRADE BUDDY HIELD"
+  },
+  {
     href: "223-kawhi-leonard-raptors-extension-signed.html",
     cat: "NBA",
     title: "カワイ・レナード、ラプターズと2年1億1500万ドルの契約延長に合意 —— 総額3年1億6500万ドル、2028-29シーズンはプレーヤーオプション",
