@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "225-rockets-vanvleet-return-preview.html",
+    cat: "NBA",
+    title: "ロケッツ、ヴァンヴリート完全復帰で新シーズン始動 —— ウドカHC「本物の旋風を起こす」",
+    excerpt: "ヒューストン・ロケッツは22日（現地時間）、全30チームに先駆けてメディアデーを開催した。2年連続52勝からの1回戦敗退を経て、アイム・ウドカHCは「本物の旋風を起こしたい」と表明。ACL断裂から復帰するフレッド・ヴァンヴリートや故障明けのスティーブン・アダムスに加え、守備の要マーカス・スマートも新加入した。ケビン・デュラントは出場時間短縮の方針に「まだやれる」と反論している。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "ROCKETS VANVLEET RETURN"
+  },
+  {
     href: "224-hawks-buddy-hield-hornets-trade.html",
     cat: "NBA",
     title: "ホークスがバディ・ヒールドをホーネッツへトレード、フィニー＝スミスと交換で合意 —— ライアン・ネムハードと現金も動く",
