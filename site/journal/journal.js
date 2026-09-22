@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "216-doc-rivers-retires-nbc.html",
+    cat: "NBA",
+    title: "ドック・リバーズ、指導者キャリアに完全終止符 —— 「絶対的に引退した」、通算1194勝は歴代6位、今季からNBC解説者へ",
+    excerpt: "殿堂入りしたドック・リバーズが現地時間9月21日、指導者としてのキャリアは完全に終わったと表明し、今季からNBC/Peacock/NBCSNのバスケットボール解説者に就任すると発表した。セルティックスで2008年に優勝、通算1194勝はNBA歴代6位。1996年にNBCの誘いを一度断った30年越しの合流でもある。",
+    date: "2026.09.22",
+    thumb: "../assets/journal-216-hero.jpg?v=71069a8317",
+    tile: "DOC RIVERS RETIRES"
+  },
+  {
     href: "215-hawks-veesaar-acl-tear.html",
     cat: "NBA",
     title: "ホークス、ヴィーサーが右膝ACL断裂で今季絶望 —— 52位指名のルーキーセンター、10月に手術",
