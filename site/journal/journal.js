@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "218-nike-air-force-1-low-gold-charms.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low「Gold Charms」発表 —— スネークスキンのスウッシュに取り外し可能なゴールドチャーム、価格125ドル",
+    excerpt: "ナイキは、定番モデル「Air Force 1 Low」の新色「Gold Charms」を発表した。スウッシュにスネークスキン調の型押し加工を施し、取り外し可能なゴールドのチャームを添えた仕様。品番IZ8908-100、価格125ドル(米国価格)。発売日は現時点で未定。Hypebeastが伝えた。",
+    date: "2026.09.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "AF1 GOLD CHARMS"
+  },
+  {
     href: "217-air-jordan-16-black-pack.html",
     cat: "KICKS",
     title: "Air Jordan 16「Black Pack」が2026年10月発売 —— 14 Low・15・17 Lowと並ぶオールブラックの4型パック",
