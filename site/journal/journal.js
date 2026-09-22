@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "217-air-jordan-16-black-pack.html",
+    cat: "KICKS",
+    title: "Air Jordan 16「Black Pack」が2026年10月発売 —— 14 Low・15・17 Lowと並ぶオールブラックの4型パック",
+    excerpt: "ジョーダンブランドは、Air Jordan 14 Low・15・16・17 Lowの4モデルを揃ってオールブラックに仕立てた「Black Pack」を発表した。Air Jordan 16の品番はIZ2586-001で、2026年10月の発売が予定されている。Sneaker Newsが伝えた。",
+    date: "2026.09.22",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "BLACK PACK"
+  },
+  {
     href: "216-doc-rivers-retires-nbc.html",
     cat: "NBA",
     title: "ドック・リバーズ、指導者キャリアに完全終止符 —— 「絶対的に引退した」、通算1194勝は歴代6位、今季からNBC解説者へ",
