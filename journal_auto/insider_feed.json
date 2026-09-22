@@ -1,7 +1,22 @@
 {
- "updated_utc": "2026-09-21 20:32 UTC",
+ "updated_utc": "2026-09-22 01:47 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Sam Amick（The Athletic）",
+   "handle": "sam_amick",
+   "key": "https://www.reddit.com/r/nba/comments/1wmtjmy/amick_the_sacramento_kings_have_signaled_a_desire/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-21T23:50:21+00:00",
+   "text": "Source: https://www.nytimes.com/athletic/7618603/2026/09/21/jalen-duren-pistons-contract-extension-nba/?unlocked\\_article\\_code=1.C1E.dp4Y.qVae-ptNhgAr&source=user\\_shared\\_article&smid=ta-ios-share\n\nBarring another change in the talks, per league sources, Duren might be missing in action when the team reconvenes in Detroit. The team holds its media day on Monday and would have two days of training camp before the Oct. 1 qualifying-offer deadline arrives. The Pistons have the ability to push the deadline back, but it remains unclear if they have any plans to do so if needed. They could also engage with teams regarding sign-and-trade scenarios, but they have been staunchly resistant to that possibility throughout the offseason.\n\nWhile taking the qualifying-offer route would allow Duren to become an unrestricted free agent next summer, it comes with substantial risk. There’s the omnipresent health factor, the reality that he would spend the entire season auditioning for his next contract, and the historical fact that players typically don’t leave this amount of guaranteed money on the table.\n\nStill, Duren’s confidence is born out of the fact that his market for next summer looks quite robust. As The Athletic previously reported, the Sacramento Kings have signaled a willingness to pay him a max-salary deal next summer. That alone has aided his leverage, but there are at least two other teams — including the Milwaukee Bucks — that are known to have serious interest in Duren (both now and, potentially, next summer).",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wmtjmy/amick_the_sacramento_kings_have_signaled_a_desire/",
+   "links": [
+    "https://www.nytimes.com/athletic/7583257/2026/09/11/jalen-duren-contract-extension-pistons-stalemate-impasse/",
+    "https://www.nytimes.com/athletic/7618603/2026/09/21/jalen-duren-pistons-contract-extension-nba/?unlocked%5C_article%5C_code=1.C1E.dp4Y.qVae-ptNhgAr&amp;source=user%5C_shared%5C_article&amp;smid=ta-ios-share",
+    "https://www.nytimes.com/athletic/7618603/2026/09/21/jalen-duren-pistons-contract-extension-nba/?unlocked\\_article\\_code=1.C1E.dp4Y.qVae-ptNhgAr&amp;source=user\\_shared\\_article&amp;smid=ta-ios-share"
+   ]
+  },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
@@ -66,19 +81,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wkgtx5/slater_jimmy_butler_is_having_a_good_time_he_just/",
    "links": [
     "https://basketnews.com/news-255669-important-jimmy-butler-acl-recovery-update-emerges-from-warriors-insider.html"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wk4jv4/charania_just_in_detroit_pistons_alldefensive/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-18T22:30:39+00:00",
-   "text": "Just in: Detroit Pistons All-Defensive forward Ausar Thompson has reached agreement on a five-year, $155 million rookie-scale contract extension, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/3e3e282fa472b",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wk4jv4/charania_just_in_detroit_pistons_alldefensive/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/3e3e282fa472b"
    ]
   }
  ]
