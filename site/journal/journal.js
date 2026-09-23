@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "226-clippers-redden-interim-president.html",
+    cat: "NBA",
+    title: "クリッパーズ、トレント・レデンGMを暫定バスケットボール運営責任者に —— フランク氏の停職期間、ヒューズ氏がGM代行",
+    excerpt: "ロサンゼルス・クリッパーズは、ゼネラルマネージャーのトレント・レデン氏を暫定バスケットボール運営責任者に任命した。ローレンス・フランク氏がサラリーキャップ規定違反を巡るNBAの調査で6カ月の無給停職に入っている間の措置で、ESPNが伝えた。暫定オーナー兼CEOのジョン・ギブソン氏が動画で発表し、アシスタントGMのマーク・ヒューズ氏がGM業務を代行する。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-226-hero.jpg?v=ac2b05c4f7",
+    tile: "CLIPPERS INTERIM PRESIDENT"
+  },
+  {
     href: "225-rockets-vanvleet-return-preview.html",
     cat: "NBA",
     title: "ロケッツ、ヴァンヴリート完全復帰で新シーズン始動 —— ウドカHC「本物の旋風を起こす」",
