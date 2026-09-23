@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "234-nike-sabrina-4-halloween-vampire.html",
+    cat: "KICKS",
+    title: "Nike Sabrina 4「Halloween」が2026年10月発売 —— サブリナ・イオネスクの4代目にヴァンパイア新色",
+    excerpt: "ナイキは、サブリナ・イオネスク（WNBAニューヨーク・リバティ）の4代目シグネチャー「Nike Sabrina 4」に、ハロウィン向けの新色「Halloween」を2026年10月に発売する。黒に深い赤を組み合わせたヴァンパイアをテーマにした配色で、品番はIX7058-001。Sneaker NewsとSneaker Bar Detroitが伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "SABRINA 4 HALLOWEEN"
+  },
+  {
+    href: "233-kids-air-jordan-6-low-fearless.html",
+    cat: "KICKS",
+    title: "Kids Air Jordan 6 Low「Fearless」が10月2日発売 —— 価格155ドル",
+    excerpt: "ジョーダンブランドは、キッズ向け「Air Jordan 6 Low」の新色「Fearless」を2026年10月2日にNike.comほかで発売する。価格は155ドル（米国価格）。品番は768878-001。Nice Kicksが伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "AIR JORDAN 6 LOW FEARLESS"
+  },
+  {
     href: "232-knicks-towns-extension-stalled.html",
     cat: "NBA",
     title: "ニックス、タウンズとの契約延長交渉が停滞 —— キャンプ開始目前も合意は当面見込み薄、最大4年2億7300万ドルの資格",
