@@ -73,6 +73,22 @@ PROD_BLUR_MIN = 40.0     # --product のボケ判定。商品写真は白背景�
 PROD_BLUR_MIN_SMALL = 120.0
 NOT_SHOE = re.compile(r'\b(store|shop|museum|billboard|poster|advertis|box|packaging|'
                       r'jersey|shirt|sock)\b', re.I)  # --product で除外（靴そのものが写っていない）
+# --person（Threads速報の②主役写真）用。記事のヒーローと違って「新しさ」より「本人が主役で
+# バスケの写真か」を優先する。2026-09-23 に "Kawhi Leonard" で直近5年の候補が海兵隊の表敬訪問の
+# 集合写真2枚しか無く、それが選ばれてしまったため設置
+# 記事のヒーロー(1600x900)ほどの解像度は要らない。Threads は本文の横に小さく出るので、
+# 本人が写っていることを優先して下限を下げる（実例: Dorian Finney-Smith は Commons に
+# 958x1438 の本人写真しか無く、1200 の下限だと全部落ちて汎用写真になっていた）
+PERSON_MIN_W, PERSON_MIN_H = 900, 600
+NOT_PERSON = re.compile(r'\b(marines?|military|army|navy|air force|soldiers?|troops?|'
+                        r'ceremony|groundbreaking|ribbon|charity|visit|welcome|'
+                        r'statue|mural|graffiti|sign|banner|billboard|court|arena|stadium)\b', re.I)
+BASKET_HINT = re.compile(r'\b(basketball|nba|dunk|dunking|layup|jump shot|free throw|dribbl|'
+                         r'game|vs\.?|playoffs?|finals?|all[- ]star|warm[- ]?up|practice)\b', re.I)
+FACE_CHECK_N = 8     # --person で顔の数を数える上位候補の件数（サムネを取るので件数は絞る）
+PERSON_OUT = 1080    # --person の出力は正方形。縦長の選手写真を16:9に切ると頭が切れる
+                     # （2026-09-06 クリス指摘「画像がある時に、顔が切れてるのはNG」）。
+                     # Threads/X/IG はどれも正方形をそのまま表示できる
 # --product のランク補助。モデル名だけだと同名の別物が混ざる（実例: "Superstar II" で
 # ギリシャ・ティノス島のフェリー "Superstar II" が候補に入った）ので、靴だと分かる語を優先する
 SHOE_HINT = re.compile(r'\b(shoe|sneaker|trainer|footwear|basketball|kicks|nike|jordan|adidas|'
@@ -126,7 +142,7 @@ def search(term, limit):
     return out
 
 
-def eligible(c, since, product=False):
+def eligible(c, since, product=False, person=False):
     if BAD_TITLE.search(c['title']):
         return False
     if not OK_LICENSE.search(c['license'] or ''):
@@ -145,6 +161,13 @@ def eligible(c, since, product=False):
         if not SHOE_HINT.search(c['title']):
             return False
         return c['model'] > 0
+    if person:
+        # 本人が題名に出ていない写真は別人・別物。集合写真やイベントの記録写真も落とす
+        if c['model'] < 1 or NOT_PERSON.search(c['title']):
+            return False
+        if c['width'] < PERSON_MIN_W or c['height'] < PERSON_MIN_H:
+            return False
+        return not (since and (not c['taken_dt'] or c['taken_dt'] < since))
     if c['width'] < MIN_W or c['height'] < MIN_H:
         return False
     if since and (not c['taken_dt'] or c['taken_dt'] < since):
@@ -170,6 +193,44 @@ def model_score(title, terms):
 def rank_key(c):
     # 新しい順を最優先、次に幅2000以上、次に画素数
     return (c['taken_dt'] or datetime(1900, 1, 1, tzinfo=timezone.utc), c['width'] >= PREF_W, c['width'] * c['height'])
+
+
+def rank_key_person(c):
+    # 主役写真は「本人が題名に出ているか」→「バスケの写真か」→「1人で写っているか」→解像度→新しさ
+    return (c['model'], bool(BASKET_HINT.search(c['title'])), face_rank(c.get('faces')),
+            c['width'] * c['height'], c['taken_dt'] or datetime(1900, 1, 1, tzinfo=timezone.utc))
+
+
+def face_rank(n):
+    """顔の数を点にする。1人=最良、2人まで可、3人以上の集合写真は最低。None は未計測（中間）"""
+    if n is None:
+        return 2
+    return {1: 4, 2: 3, 0: 1}.get(n, 0)
+
+
+def face_count(data):
+    """画像バイト列に写っている顔の数。OpenCV / YuNet が無ければ None（＝未計測）を返す。"""
+    try:
+        import io
+        import cv2, numpy as np
+        from PIL import Image
+    except ImportError:
+        return None
+    if not os.path.exists(YUNET):
+        return None
+    try:
+        im = Image.open(io.BytesIO(data))
+        im.load()
+        w, h = im.size
+        s = FACE_LONG / max(w, h)
+        if s < 1.0:
+            im = im.resize((max(1, round(w * s)), max(1, round(h * s))), Image.LANCZOS)
+        arr = np.ascontiguousarray(np.asarray(im.convert('RGB'))[:, :, ::-1])
+        det = cv2.FaceDetectorYN.create(YUNET, '', (arr.shape[1], arr.shape[0]), score_threshold=FACE_SCORE)
+        _, faces = det.detect(arr)
+        return 0 if faces is None else len(faces)
+    except Exception:
+        return None
 
 
 def rank_key_product(c):
@@ -322,6 +383,9 @@ def main():
     ap.add_argument('--face-top', type=float, default=FACE_TOP,
                     help=f'顔の中心を仕上がりの上から何割の位置に置くか（既定{FACE_TOP}）')
     ap.add_argument('--no-face', action='store_true', help='顔検出を使わず縦横比フォールバックだけで切る')
+    ap.add_argument('--person', action='store_true',
+                    help='人物モード。新しさより「本人が主役のバスケ写真か」を優先し、集合写真を避ける'
+                         '（Threads速報の②主役写真で使う）')
     ap.add_argument('--product', action='store_true',
                     help='商品(靴)モード: モデル名一致を最優先・顔検出オフ・切らずにレターボックス合成')
     ap.add_argument('--from-url', help='検索せず、このURLの画像を切り直して --out に保存する')
@@ -329,6 +393,9 @@ def main():
     args = ap.parse_args()
     MIN_W = args.min_width
     crop_opts = dict(crop_y=args.crop_y, face_top=args.face_top, use_face=not args.no_face)
+    if args.person:
+        global OUT_W, OUT_H
+        OUT_W = OUT_H = PERSON_OUT
 
     # 切り直しモード: 検索を通さず、渡された画像をそのまま 16:9 にして保存する
     if args.from_url or args.from_file:
@@ -363,6 +430,28 @@ def main():
         for i, c in enumerate(cands[:15], 1):
             print(f"{i:2}. 一致{c['model']} {c['taken'] or '----------'} {c['width']}x{c['height']} "
                   f"{c['license'][:12]:12} {c['title'][:70]}")
+    elif args.person:
+        # 人物モードは年代を広く取る（現役選手でもバスケ中のCC写真は数年前のものしか無いことが多い）。
+        # 題名で絞ったあと、上位だけ実際に顔の数を数えて集合写真を後ろへ送る
+        now = datetime.now(timezone.utc)
+        tiers = [('直近8年', now.replace(year=now.year - 8)), ('年代不問', None)]
+        cands, tier_name = [], ''
+        for name, since in tiers:
+            cands = sorted([c for c in found if eligible(c, since, person=True)], key=rank_key_person, reverse=True)
+            if cands:
+                tier_name = name; break
+        for c in cands[:FACE_CHECK_N]:
+            try:
+                c['faces'] = face_count(fetch(c['thumb']))
+            except Exception:
+                c['faces'] = None
+        cands.sort(key=rank_key_person, reverse=True)
+        print(f'検索 {len(found)} 件 → 人物モード(幅>={PERSON_MIN_W}・CCライセンス・名前が題名にある・'
+              f'{tier_name or "該当なし"}) {len(cands)} 件')
+        for i, c in enumerate(cands[:15], 1):
+            faces = c.get('faces')
+            print(f"{i:2}. {c['taken'] or '----------'} {c['width']}x{c['height']} "
+                  f"顔{'?' if faces is None else faces} {c['license'][:12]:12} {c['title'][:60]}")
     else:
         now = datetime.now(timezone.utc)
         tiers = [('直近3年', now.replace(year=now.year - 3)), ('直近5年', now.replace(year=now.year - 5)), ('年代不問', None)]

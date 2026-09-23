@@ -13,11 +13,11 @@ threads_queue.json: {"items": [{"key", "reporter", "posted_utc", "level", "text"
 threads_state.json: {"posted": {key: {"post_id", "permalink", "posted_utc", "reply_id", "reply_utc"}},
                      "skipped": {key: {"reason", "utc"}}}
 """
-import argparse, json, os, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, hashlib, json, os, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime, timedelta, timezone
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from insider_photo import find_photo, save_photo  # 記者の写真（X速報でも使う共通部品）
+from insider_photo import find_photo, find_player_photo, fallback_photo, save_photo  # 写真の3段構え（X速報でも使う共通部品）
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 QUEUE = os.path.join(BASE, 'threads_queue.json')
@@ -157,30 +157,49 @@ def main():
         if posted_24h >= DAILY_CAP:
             print(f'HOLD {key}: 24時間の上限{DAILY_CAP}件に到達。次回に回す')
             continue
-        photo, image_url, image_src = find_photo(it['reporter'], it['posted_utc'], feed_text.get(key, ''), fx_cache), None, ''
+        # 写真は3段構えで必ず1枚付ける（2026-09-23 クリス指示「ただ絶対に画像が欲しい！絶対に！！」）
+        image_url, image_src, credit = None, '', ''
+        photo = find_photo(it['reporter'], it['posted_utc'], feed_text.get(key, ''), fx_cache)
         if photo:
             try:
                 image_url = save_photo(photo[0], photo[1], args.dry_run, max_bytes=8 * 1024 * 1024)
                 image_src = f'https://x.com/{it["reporter"]}/status/{photo[0]}'
-                print(f'  写真あり: {image_src} -> {image_url}')
+                print(f'  ①記者の写真: {image_src} -> {image_url}')
             except Exception as e:
-                print(f'  写真の保存に失敗（文字だけで出す）: {e}')
+                print(f'  記者の写真の保存に失敗（次の手を試す）: {e}')
+        if not image_url:  # ②主役のCC写真。ファイル名は key から作る（同じ速報を出し直しても同じ名前になる）
+            got = find_player_photo(it.get('photo_subject', ''),
+                                    hashlib.sha1(key.encode()).hexdigest()[:16], args.dry_run)
+            if got:
+                image_url, credit = got
+                image_src = 'Wikimedia Commons'
+                print(f'  ②主役のCC写真: {it.get("photo_subject", "")} -> {image_url}')
+        if not image_url:  # ③常備の汎用写真。ここは必ず取れる
+            image_url, credit = fallback_photo(key)
+            image_src = 'fallback'
+            print(f'  ③常備の汎用写真: {image_url}')
         if args.dry_run:
-            print(f'---- DRY-RUN {key}（画像: {"あり" if image_url else "なし"}）\n{text}\n')
+            print(f'---- DRY-RUN {key}（画像: {image_src or "なし"} / クレジット: {credit or "不要"}）\n{text}\n')
             continue
         try:
             try:
                 pid = publish_text(uid, token, text, image_url=image_url)
             except Exception as e:
-                if not image_url:
-                    raise
-                print(f'  画像つき投稿に失敗、文字だけで出し直す: {e}')
-                image_url = None
-                pid = publish_text(uid, token, text)
+                # 画像つきが弾かれても文字だけには落とさない。まず常備の汎用写真で1回やり直す
+                print(f'  画像つき投稿に失敗、常備の汎用写真で出し直す: {e}')
+                image_url, credit = fallback_photo(key + '-retry')
+                image_src = 'fallback'
+                try:
+                    pid = publish_text(uid, token, text, image_url=image_url)
+                except Exception as e2:
+                    print(f'  それも失敗、文字だけで出す: {e2}')
+                    image_url, credit, image_src = None, '', ''
+                    pid = publish_text(uid, token, text)
             link = api('GET', pid, token, fields='permalink').get('permalink', '')
             state['posted'][key] = {'post_id': pid, 'permalink': link,
                                     'posted_utc': now().isoformat(timespec='seconds'),
-                                    'image': image_url or '', 'image_src': image_src if image_url else ''}
+                                    'image': image_url or '', 'image_src': image_src if image_url else '',
+                                    'credit': credit}
             posted_24h += 1
             print(f'POSTED {key}{"（画像つき）" if image_url else ""} -> {link or pid}')
             if it.get('article_url'):
@@ -188,6 +207,21 @@ def main():
         except Exception as e:
             errors.append(f'{key}: {e}')
             print(f'::error::投稿失敗 {key}: {e}')
+
+    # 写真のクレジット返信。②③の写真は CC ライセンスなので帰属表示が要るが、本文に入れると速報の読み味が濁る
+    # ので返信に出す（記者本人の写真＝①には credit が入らないので、この返信も出ない）
+    if not args.dry_run:
+        for key, p in state['posted'].items():
+            if not p.get('credit') or p.get('credit_reply_id') or not p.get('post_id'):
+                continue
+            if t - parse(p['posted_utc']) >= REPLY_WINDOW:
+                continue
+            try:
+                p['credit_reply_id'] = publish_text(uid, token, f'📷 {p["credit"]}', reply_to=p['post_id'])
+                print(f'CREDITED {key}')
+            except Exception as e:
+                errors.append(f'credit {key}: {e}')
+                print(f'::error::クレジット返信失敗 {key}: {e}')
 
     for it, p in replies:
         body = f'詳しくはこちら👇\n{with_utm(it["article_url"])}'

@@ -1,14 +1,30 @@
 """記者の X ポストの写真を探して保存する共通部品（Threads速報で使用中・X速報の実装でも使う予定）。
 r/nba の転載にはツイートIDも画像も無いので、FxTwitter（非公式）の新着一覧から
 「投稿時刻が30分以内・本文がほぼ同じ」ポストを元ポストとみなす。設計: 615_JOURNAL/Threads速報/DESIGN.md §4-④-2
+
+写真は3段構えで必ず1枚用意する（2026-09-23 クリス指示「ただ絶対に画像が欲しい！絶対に！！ / 基本はshams
+なら彼の投稿している画像を使って欲しいけど、そうでないなら、どこかから引っ張ってきて欲しいかな！」）:
+  ① find_photo      記者本人のXポストの写真
+  ② find_player_photo 主役（選手・監督）の Wikimedia Commons の CC 写真
+  ③ fallback_photo  リポジトリ常備の汎用バスケ写真（必ず返る）
 """
-import difflib, json, os, re, subprocess, time, urllib.request
+import difflib, hashlib, json, os, re, subprocess, sys, time, urllib.request
 from datetime import datetime, timedelta, timezone
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 MEDIA_DIR = os.path.join(BASE, 'threads_media')   # 保存先（名前は Threads 由来だが X と共用。Actions だけが書く）
 RAW = 'https://raw.githubusercontent.com/610chris/610-sixten/main/journal_auto/threads_media/'
+ASSETS_RAW = 'https://raw.githubusercontent.com/610chris/610-sixten/main/site/assets/'
+COMMONS_PY = os.path.join(BASE, 'pick_commons_photo.py')
 FX = 'https://api.fxtwitter.com/2/profile/{}/statuses'
+
+# ③の常備写真。journal_auto/fallback-images.md の表と同じもの（記事heroと共用・既にリポジトリにあるので push 不要）
+FALLBACKS = [
+    ('journal-fallback-01.jpg', '撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons'),
+    ('journal-fallback-02.jpg', '撮影: Nick Jio / CC0, via Wikimedia Commons'),
+    ('journal-fallback-03.jpg', '撮影: Matteo Paganelli / CC0, via Wikimedia Commons'),
+    ('journal-fallback-04.jpg', '撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons'),
+]
 
 
 def find_photo(handle, posted_utc, feed_text, cache):
@@ -48,8 +64,42 @@ def norm(s):
     return re.sub(r'[^a-z0-9$]', '', s.lower())
 
 
+def find_player_photo(subject, slug, dry_run):
+    """②主役（選手・監督）の Wikimedia Commons の CC 写真を取って (公開URL, クレジット) を返す。無ければ None。
+
+    subject は threads_queue.json の `photo_subject`（英語名。`|` 区切りで別表記やチーム名も渡せる）。
+    記者が画像なしで投稿した速報（実績では Lv3 の交渉中ネタが全部これだった）を文字だけにしないための2段目。
+    """
+    if not subject:
+        return None
+    os.makedirs(MEDIA_DIR, exist_ok=True)
+    out = os.path.join(MEDIA_DIR, f'{slug}.jpg')
+    terms = [t.strip() for t in subject.split('|') if t.strip()]
+    try:
+        r = subprocess.run([sys.executable, COMMONS_PY, *terms, '--person', '--out', out],
+                           capture_output=True, text=True, timeout=240)
+    except Exception as e:
+        print(f'  選手写真の検索に失敗: {e}')
+        return None
+    if r.returncode != 0 or not os.path.exists(out):
+        print(f'  選手写真の候補なし（{subject} / exit {r.returncode}）')
+        return None
+    credit = next((l[len('CREDIT: '):].strip() for l in r.stdout.splitlines() if l.startswith('CREDIT: ')), '')
+    try:
+        return publish_media(out, dry_run), credit
+    except Exception as e:
+        print(f'  選手写真の公開に失敗: {e}')
+        return None
+
+
+def fallback_photo(key):
+    """③常備の汎用バスケ写真から1枚返す（必ず返る）。key のハッシュで散らし、連続で同じ写真にならないようにする。"""
+    name, credit = FALLBACKS[int(hashlib.sha1(key.encode()).hexdigest(), 16) % len(FALLBACKS)]
+    return ASSETS_RAW + name, f'イメージ写真（本文とは直接関係ありません）。{credit}'
+
+
 def save_photo(tid, url, dry_run, max_bytes=5 * 1024 * 1024):
-    """写真を journal_auto/threads_media/<tweet_id>.jpg に保存して push し、公開URLを返す（dry_run はローカル保存だけでパスを返す）。
+    """①記者の写真を journal_auto/threads_media/<tweet_id>.jpg に保存して push し、公開URLを返す（dry_run はローカル保存だけでパスを返す）。
     上限の既定は X の tweet_image の 5MB。Threads は 8MB を渡す。X はファイルを直接アップロードするので、公開URLは使わずパスを使えばよい。"""
     os.makedirs(MEDIA_DIR, exist_ok=True)
     path = os.path.join(MEDIA_DIR, f'{tid}.jpg')
@@ -60,6 +110,11 @@ def save_photo(tid, url, dry_run, max_bytes=5 * 1024 * 1024):
         raise RuntimeError(f'画像が上限{max_bytes}バイトを超えている({len(data)}バイト)')
     with open(path, 'wb') as f:
         f.write(data)
+    return publish_media(path, dry_run)
+
+
+def publish_media(path, dry_run):
+    """threads_media/ に置いたファイルを commit & push して raw の公開URLを返す（dry_run はローカルパスを返す）。"""
     if dry_run:
         return path
     rel = os.path.relpath(path, os.path.dirname(BASE))
@@ -67,7 +122,7 @@ def save_photo(tid, url, dry_run, max_bytes=5 * 1024 * 1024):
     git('add', rel)
     if git('diff', '--cached', '--name-only').stdout.strip():
         git('-c', 'user.name=github-actions[bot]', '-c', 'user.email=41898282+github-actions[bot]@users.noreply.github.com',
-            'commit', '-q', '-m', f'threads: 速報の画像を保存 ({tid})')
+            'commit', '-q', '-m', f'threads: 速報の画像を保存 ({os.path.basename(path)})')
         for i in range(3):
             try:
                 git('pull', '--rebase', '--autostash', '-q')
