@@ -1,7 +1,33 @@
 {
- "updated_utc": "2026-09-23 00:55 UTC",
+ "updated_utc": "2026-09-23 15:01 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Jake Fischer（The Stein Line）",
+   "handle": "JakeLFischer",
+   "key": "https://www.reddit.com/r/nba/comments/1wo7j55/jake_fischer_brandon_millers_hornets_extension/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-23T14:27:29+00:00",
+   "text": "The Charlotte Hornets are discussing a rookie-scale extension with Brandon Miller, according to Bleacher Report’s Jake Fischer. The potential agreement could approach the $208 million deal Amen Thompson received from the Houston Rockets.\n\nMiller averaged 20.2 points, 4.9 rebounds and 3.3 assists last season while shooting a career-best 38.3% from three. Through his first three NBA seasons, the forward has posted 19.0 points, 4.6 rebounds and 3.0 assists per game.\n\nFollowing the trades of LaMelo Ball and Miles Bridges, Miller has become an even more important part of Charlotte’s future alongside Kon Knueppel. The Hornets are now working to secure the 23-year-old beyond his rookie contract.\n\nSource: https://sportando.basketball/en/brandon-millers-hornets-extension-could-top-200-million/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wo7j55/jake_fischer_brandon_millers_hornets_extension/",
+   "links": [
+    "https://sportando.basketball/en/brandon-millers-hornets-extension-could-top-200-million/"
+   ]
+  },
+  {
+   "reporter": "Marc Stein（The Stein Line）",
+   "handle": "TheSteinLine",
+   "key": "https://www.reddit.com/r/nba/comments/1wo369b/marc_stein_ryan_nembhard_is_expected_to_have/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-23T11:19:19+00:00",
+   "text": "source\n Nembhard had a 28-and-10 game in Denver as a rookie and a 23-assist game against Chicago in the season finale.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wo369b/marc_stein_ryan_nembhard_is_expected_to_have/",
+   "links": [
+    "https://sports.yahoo.com/articles/nuggets-among-teams-interested-ryan-235659258.html"
+   ]
+  },
   {
    "reporter": "Brian Windhorst（ESPN）",
    "handle": "WindhorstESPN",
@@ -93,19 +119,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wmn5gh/charania_the_detroit_pistons_have_recently/",
    "links": [
     "https://streamable.com/j19cuk"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wmhltr/charania_the_clippers_have_named_accomplished_los/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-21T16:25:14+00:00",
-   "text": "Shams Charania:\n\nThe Clippers have named accomplished Los Angeles-based lawyer John Gibson as the franchise’s interim Governor and CEO, per source. Steve Ballmer nominated Gibson and the NBA approved him.\n\nhttps://www.espn.com/contributor/shams-charania/5102386396c6e",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wmhltr/charania_the_clippers_have_named_accomplished_los/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/5102386396c6e"
    ]
   }
  ]
