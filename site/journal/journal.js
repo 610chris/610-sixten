@@ -3,6 +3,33 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "229-af1-low-ghostface-black.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low「Ghostface Black」発売 —— スクリーム風のオールブラック新色、品番IZ1207-010",
+    excerpt: "Nikeは、映画「スクリーム」を思わせるデザインの「Air Force 1 Low Ghostface」シリーズに、オールブラック仕立ての新色「Ghostface Black」を追加した。品番はIZ1207-010、価格125ドルで発売中、ホリデーシーズンにかけて展開を拡大する。Hypebeastが伝えた。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AF1 GHOSTFACE BLACK"
+  },
+  {
+    href: "228-nike-twelve-time-halloween.html",
+    cat: "KICKS",
+    title: "Nike Twelve Time「Halloween」が2026年秋冬発売 —— ジャ・モラントのシグネチャーに不気味な新色、品番IM4164-002",
+    excerpt: "ジャ・モラントのシグネチャーシューズ「Nike Twelve Time」に、ハロウィンをテーマにした新色「Halloween」が登場する。アイアングレーを基調にオレンジのアクセントを差した配色で、品番はIM4164-002、価格95ドル、2026年秋冬シーズンの発売が予定されている。Hypebeastが伝えた。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-228-hero.jpg?v=c7477e262c",
+    tile: "NIKE TWELVE TIME HALLOWEEN"
+  },
+  {
+    href: "227-nba-rank-2026-50-11.html",
+    cat: "NBA",
+    title: "レブロン、NBA Rank史上初のトップ10圏外に —— ESPN「2026年版」50~11位発表、18位で76ers移籍後の役割は",
+    excerpt: "ESPNは23日（現地時間）、選手個人のランキング企画「NBA Rank」2026-27版で50~11位を発表。76ers移籍のレブロン・ジェームズは8位から18位へ後退し、15年続く同企画で自身初めてトップ10圏外となった。カリー、デュラントも順位を落とす一方、カワイ・レナードは上昇。トップ10は24日発表予定。",
+    date: "2026.09.23",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "NBA RANK 2026"
+  },
+  {
     href: "226-clippers-redden-interim-president.html",
     cat: "NBA",
     title: "クリッパーズ、トレント・レデンGMを暫定バスケットボール運営責任者に —— フランク氏の停職期間、ヒューズ氏がGM代行",
