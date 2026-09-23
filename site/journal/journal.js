@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "231-adidas-ae-adifoam-mule-bliss-blue.html",
+    cat: "KICKS",
+    title: "adidas Anthony Edwards Adifoam Mule「Bliss Blue」が10月1日発売 —— シグネチャー展開に新たなスライド型",
+    excerpt: "adidasは、アンソニー・エドワーズ（ミネソタ・ティンバーウルブズ）とのコラボモデル「Anthony Edwards Adifoam Mule」の新色「Bliss Blue」を2026年10月1日にadidas.comほかで発売する。Superstar IIやAE3にも展開している同色名の一足で、パフォーマンスシューズ以外へのシグネチャー展開がさらに広がる。Nice Kicksが伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "ADIDAS AE ADIFOAM MULE"
+  },
+  {
+    href: "230-curry-contract-no-drama.html",
+    cat: "NBA",
+    title: "カリー、契約延長交渉に「ドラマは作りたくない」—— 最大2年1億3670万ドル、ウォリアーズと選択肢を協議中",
+    excerpt: "ウォリアーズのステフィン・カリーは23日、契約延長交渉が未決着でもプレーやチームの雰囲気には影響しないと語った。8月29日に最大2年1億3670万ドルの延長資格を得ており、マックス契約か減額か様子見か、複数の選択肢を検討中。ESPNのアンソニー・スレイター記者が伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "CURRY CONTRACT"
+  },
+  {
     href: "229-af1-low-ghostface-black.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low「Ghostface Black」発売 —— スクリーム風のオールブラック新色、品番IZ1207-010",
