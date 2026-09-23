@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "232-knicks-towns-extension-stalled.html",
+    cat: "NBA",
+    title: "ニックス、タウンズとの契約延長交渉が停滞 —— キャンプ開始目前も合意は当面見込み薄、最大4年2億7300万ドルの資格",
+    excerpt: "ニューヨーク・ニックスとカール=アンソニー・タウンズの契約延長交渉が停滞し、来週のキャンプ開始前の合意は当面見込みにくいとESPNが23日(現地時間)報道。タウンズは11月に31歳、最大4年2億7300万ドルの延長資格を持つ。オーナーはセカンドエプロン回避の方針を掲げており、バックアップセンターのミッチェル・ロビンソンは今オフ既に退団している。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "KNICKS TOWNS EXTENSION"
+  },
+  {
     href: "231-adidas-ae-adifoam-mule-bliss-blue.html",
     cat: "KICKS",
     title: "adidas Anthony Edwards Adifoam Mule「Bliss Blue」が10月1日発売 —— シグネチャー展開に新たなスライド型",
