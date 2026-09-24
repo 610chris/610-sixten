@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "237-lawrence-tanter-lakers-pa-dies.html",
+    cat: "NBA",
+    title: "レイカーズの名物PAアナウンサー、ローレンス・タンター氏が死去 —— 43年間コートサイドの「声」を担う、76歳",
+    excerpt: "ロサンゼルス・レイカーズは、球団史上最長となる43年間PA(実況)アナウンサーを務めたローレンス・タンター氏が死去したと現地時間9月23日に発表した。76歳だった。今年6月に脳卒中からの療養を経て現役を退いていた。ESPNが伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "LAWRENCE TANTER"
+  },
+  {
     href: "236-nike-air-force-1-subway-rat.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low「Subway Rat」が2026年10月発売 —— ニューヨークの地下鉄ネズミがテーマ、ピザ柄ディテールも",
