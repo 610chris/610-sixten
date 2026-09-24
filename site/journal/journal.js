@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "243-broncos-urawa-reds-partnership.html",
+    cat: "JAPAN",
+    title: "さいたまブロンコス、浦和レッズと連携協定を締結 —— 競技の枠を超えて地域活性化へ、11月14日に「埼スタ」でコラボブース",
+    excerpt: "さいたま市・所沢市をダブルホームタウンとするB.LEAGUE ONEのさいたまブロンコスを運営する埼玉ブロンコス株式会社は9月24日、浦和レッドダイヤモンズ株式会社（浦和レッズ）と競技の枠を超えたスポーツ推進・地域活性化を目的とする連携協定を締結したと発表した。第一弾として11月14日の埼玉県民の日「埼スタオープンデー25th anniversary」で特別コラボブースを出展する。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "SAITAMA BRONCOS × URAWA REDS"
+  },
+  {
     href: "242-nike-air-foamposite-one-oregon-ducks-black-mummy.html",
     cat: "KICKS",
     title: "Oregon Ducks x Nike Air Foamposite One「Black Mummy」が11月9日発売 —— 品番IZ7806-001",
