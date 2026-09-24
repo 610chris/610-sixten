@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "246-bob-pettit-dies.html",
+    cat: "NBA",
+    title: "NBA草創期のスーパースター、ボブ・ペティ氏が死去 —— 2度のMVP、11年連続オールスターの93歳",
+    excerpt: "ネイスミス・バスケットボール殿堂は現地時間9月24日、NBA最初期を代表するスター選手ボブ・ペティ氏が死去したと発表した。93歳だった。MVP賞創設初年の1955-56シーズンと1958-59シーズンに2度受賞し、11年連続でオールスターに選出。1958年にはホークスを優勝に導いた。ESPNが伝えた。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6",
+    tile: "BOB PETTIT NBA LEGEND DIES AT 93"
+  },
+  {
     href: "245-thunder-presti-preseason-presser.html",
     cat: "NBA",
     title: "主力3人放出で年俸3億ドル超を圧縮 —— サンダーGMプレスティ、プレシーズン会見で「更なる高み」への自信と「セカンドエプロン」観を語る",
