@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "242-nike-air-foamposite-one-oregon-ducks-black-mummy.html",
+    cat: "KICKS",
+    title: "Oregon Ducks x Nike Air Foamposite One「Black Mummy」が11月9日発売 —— 品番IZ7806-001",
+    excerpt: "ナイキは、オレゴン大学ダックスとのコラボレーション「Oregon Ducks x Nike Air Foamposite One」のハロウィン新色「Black Mummy」を、2026年11月9日にSNKRSで発売する予定だ。品番はIZ7806-001。Nice Kicksが伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79",
+    tile: "OREGON DUCKS FOAMPOSITE BLACK MUMMY"
+  },
+  {
     href: "241-aisaac-shinshu-brave-warriors.html",
     cat: "JAPAN",
     title: "アイザック、信州ブレイブウォリアーズとオフィシャルテックパートナー契約を締結 —— B.LEAGUE PREMIER参入へクラブ運営のDXを支援",
