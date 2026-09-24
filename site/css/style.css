@@ -1198,3 +1198,173 @@ footer {
   color: var(--muted);
 }
 .work-card.project-card:hover .cat { color: var(--text); }
+
+/* ---------- STARTING 5IVE ページ改訂 (2026-09-24: メンバー写真・キャンプカード) ---------- */
+.s5-hero { padding-bottom: 80px; }
+.s5-hero .s5-catch {
+  margin-top: 28px;
+  font-size: clamp(22px, 3.4vw, 34px);
+  font-weight: 900;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+}
+br.sp { display: none; }
+.s5-faces {
+  display: flex;
+  justify-content: center;
+  margin-top: 34px;
+}
+.brand-hero .s5-faces img {
+  width: clamp(64px, 11vw, 112px);
+  height: clamp(64px, 11vw, 112px);
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 50%;
+  border: 3px solid var(--bg);
+  box-shadow: 0 0 0 2px #2bb3ad;
+  margin-left: -12px;
+}
+.brand-hero .s5-faces img:first-child { margin-left: 0; }
+.brand-links.s5 a:first-child { background: #2bb3ad; border-color: #2bb3ad; color: #0a0a0a; }
+.brand-links.s5 a:first-child:hover { background: var(--text); border-color: var(--text); }
+
+/* Members */
+.s5-members {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+}
+.s5-member { margin: 0; background: var(--bg-card); border: 1px solid var(--line); overflow: hidden; }
+.s5-member .ph { aspect-ratio: 4 / 5; overflow: hidden; }
+.s5-member .ph img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 30%;
+  transition: transform 0.5s;
+}
+.s5-member:hover .ph img { transform: scale(1.05); }
+.s5-member figcaption { padding: 14px 16px 18px; }
+.s5-member .no {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: #2bb3ad;
+}
+.s5-member strong { display: block; font-size: 20px; font-weight: 900; letter-spacing: 0.06em; line-height: 1.4; margin-top: 2px; }
+.s5-member .en {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+/* What we do */
+.s5-do {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(260px, 100%), 1fr));
+  gap: 16px;
+}
+.s5-do-item { background: var(--bg-card); border: 1px solid var(--line); padding: 30px 28px; }
+.s5-do-item .num {
+  font-family: var(--font-display);
+  font-size: 34px;
+  line-height: 1;
+  color: #2bb3ad;
+}
+.s5-do-item h3 { margin-top: 16px; font-size: 19px; font-weight: 900; letter-spacing: 0.04em; }
+.s5-do-item p { margin-top: 10px; font-size: 14px; color: var(--muted); }
+
+/* Camps */
+.s5-camps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(380px, 100%), 1fr));
+  gap: 20px;
+}
+.s5-camp {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-card);
+  border: 1px solid var(--line);
+  overflow: hidden;
+  transition: border-color 0.25s, transform 0.25s;
+}
+.s5-camp:hover { border-color: #2bb3ad; transform: translateY(-3px); }
+.s5-camp .ph { position: relative; aspect-ratio: 16 / 10; overflow: hidden; }
+.s5-camp .ph img { width: 100%; height: 100%; object-fit: cover; object-position: center 12%; }
+.s5-camp .badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  background: rgba(10, 10, 10, 0.78);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  padding: 4px 12px;
+  border-radius: 999px;
+}
+.s5-camp .body { display: flex; flex-direction: column; flex: 1; padding: 24px 24px 22px; }
+.s5-camp .date { font-family: var(--font-display); font-size: 13px; letter-spacing: 0.2em; color: #2bb3ad; }
+.s5-camp h3 {
+  margin-top: 8px;
+  font-family: var(--font-display);
+  font-size: clamp(22px, 2.6vw, 28px);
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  line-height: 1.25;
+}
+.s5-camp h3 small {
+  display: block;
+  margin-top: 6px;
+  font-family: var(--font-body);
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+.s5-camp p { margin-top: 14px; font-size: 14px; color: var(--muted); }
+.s5-camp dl { margin-top: 18px; border-top: 1px solid var(--line); }
+.s5-camp dl div { display: flex; gap: 16px; padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+.s5-camp dt { flex: 0 0 3em; color: var(--muted); }
+.s5-camp dd { margin: 0; }
+.s5-camp .more {
+  margin-top: auto;
+  padding-top: 20px;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.06em;
+  transition: color 0.2s;
+}
+.s5-camp:hover .more { color: #2bb3ad; }
+
+/* Top: キャンプカードの写真・S5カードの顔ぶれ */
+.work-card.project-card.has-photo { padding: 0; justify-content: flex-start; aspect-ratio: auto; }
+.work-card.project-card.has-photo::before { display: none; }
+.work-card.project-card.has-photo .ph { aspect-ratio: 16 / 9; overflow: hidden; }
+.work-card.project-card.has-photo .ph img { width: 100%; height: 100%; object-fit: cover; object-position: center 12%; transition: transform 0.5s; }
+.work-card.project-card.has-photo:hover .ph img { transform: scale(1.04); }
+.work-card.project-card.has-photo .txt { display: flex; flex-direction: column; gap: 10px; padding: 20px 22px 22px; flex: 1; }
+.work-card.project-card.has-photo .desc { font-size: 13px; color: var(--muted); line-height: 1.7; }
+.media-card.s5 .media-visual { flex-wrap: wrap; }
+.media-card.s5 .s5-faces { justify-content: flex-start; margin-top: 0; }
+.media-card.s5 .s5-faces img {
+  width: 54px;
+  height: 54px;
+  object-fit: cover;
+  object-position: center 20%;
+  border-radius: 50%;
+  border: 3px solid var(--bg);
+  box-shadow: 0 0 0 2px #2bb3ad;
+  margin-left: -10px;
+}
+.media-card.s5 .s5-faces img:first-child { margin-left: 0; }
+.media-visual img.s5-logo { width: 110px; height: 110px; }
+
+@media (max-width: 860px) {
+  .s5-members { grid-template-columns: repeat(2, 1fr); gap: 12px; }
+  .s5-member:last-child { grid-column: 1 / -1; justify-self: center; width: calc(50% - 6px); }
+  .s5-member strong { font-size: 17px; }
+  br.sp { display: inline; }
+}
