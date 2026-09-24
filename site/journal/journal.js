@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "241-aisaac-shinshu-brave-warriors.html",
+    cat: "JAPAN",
+    title: "アイザック、信州ブレイブウォリアーズとオフィシャルテックパートナー契約を締結 —— B.LEAGUE PREMIER参入へクラブ運営のDXを支援",
+    excerpt: "東京・渋谷のアイザック株式会社は9月24日、信州ブレイブウォリアーズ（運営: 株式会社NAGANO SPIRIT）と2026-27シーズンのオフィシャルテックパートナー契約を締結したと発表した。信州は今シーズンからB.LEAGUEの最上位カテゴリー「B.LEAGUE PREMIER」に参入し、アイザックはクラブ運営のDX推進とファン体験向上のアプリ提供、トップチーム強化などを支援する。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-241-hero.jpg?v=e9864c0b1a",
+    tile: "AISAAC × SHINSHU BRAVE WARRIORS"
+  },
+  {
     href: "240-japan-women-thailand-asian-games-qf.html",
     cat: "JAPAN",
     title: "女子日本代表、アジア大会準々決勝でタイに86-29の大勝 —— 57点差で準決勝進出、28年ぶり金メダルへ",
