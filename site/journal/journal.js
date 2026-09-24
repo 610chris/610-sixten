@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "235-mavericks-lively-not-cleared-camp.html",
+    cat: "NBA",
+    title: "マーベリックス、ライブリー2世がキャンプ入り未承認 —— 右足手術から回復途上、開幕出場も不透明",
+    excerpt: "ダラス・マーベリックスのセンター、デレック・ライブリー2世が右足手術からの回復途上でトレーニングキャンプ入りを承認されておらず、開幕時点の出場可否も未定と23日(現地時間)ESPNが報道。過去14カ月で同じ右足を2度手術しており、直近の手術で7試合出場にとどまった2025-26シーズンは終了した。22歳、2023年ドラフト12位。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "MAVERICKS LIVELY CAMP"
+  },
+  {
     href: "234-nike-sabrina-4-halloween-vampire.html",
     cat: "KICKS",
     title: "Nike Sabrina 4「Halloween」が2026年10月発売 —— サブリナ・イオネスクの4代目にヴァンパイア新色",
