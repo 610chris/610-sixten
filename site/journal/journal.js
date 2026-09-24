@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "244-air-jordan-1-mid-black-elephant-print.html",
+    cat: "KICKS",
+    title: "Air Jordan 1 Mid「Black Elephant Print」が発売開始 —— 品番IX3527-010、価格140ドル",
+    excerpt: "Jordan Brandは、代表的な柄「エレファントプリント」をあしらった新色「Air Jordan 1 Mid \"Black Elephant Print\"」を、米国内でNike.com上にて発売した。価格は140ドル(米国価格)、品番はIX3527-010。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AIR JORDAN 1 MID BLACK ELEPHANT PRINT"
+  },
+  {
     href: "243-broncos-urawa-reds-partnership.html",
     cat: "JAPAN",
     title: "さいたまブロンコス、浦和レッズと連携協定を締結 —— 競技の枠を超えて地域活性化へ、11月14日に「埼スタ」でコラボブース",
