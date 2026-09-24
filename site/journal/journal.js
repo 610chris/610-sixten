@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "238-361-oba-takeru-ambassador.html",
+    cat: "JAPAN",
+    title: "361°、越谷アルファーズ・大庭岳輝選手とアンバサダー契約 —— シュート力が武器のSG、シューズ着用でパフォーマンス発信へ",
+    excerpt: "グローバルスポーツブランド「361°」の国内総代理店・361 Sports Japanは、B.LEAGUE越谷アルファーズ所属の大庭岳輝選手とアンバサダー契約を締結したと9月24日発表した。学生時代から高精度なシュートを武器にしてきたシューティングガードが、361°のバスケットボールシューズを着用してパフォーマンスを発信する。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-238-hero.jpg?v=1d9424ea4a",
+    tile: "361° OBA TAKERU"
+  },
+  {
     href: "237-lawrence-tanter-lakers-pa-dies.html",
     cat: "NBA",
     title: "レイカーズの名物PAアナウンサー、ローレンス・タンター氏が死去 —— 43年間コートサイドの「声」を担う、76歳",
