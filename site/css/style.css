@@ -1169,3 +1169,32 @@ footer {
 .home .media-visual .type-logo { word-break: keep-all; }
 /* 英文サブラベルは字間を詰めて1行に収める（"MEDIA" だけ落ちるのを防ぐ） */
 .home .media-visual .type-logo small { font-size: 12px; letter-spacing: 0.18em; }
+
+/* ---------- STARTING 5IVE (2026-09-24) ---------- */
+.s5-accent, .media-card.s5 .media-tag { color: #2bb3ad; }
+.media-card.s5:hover .media-more { color: #2bb3ad; }
+.media-visual img.s5-logo,
+.brand-hero img.s5-logo {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 50%;
+  padding: 10px;
+}
+.brand-hero img.s5-logo { width: 180px; height: 180px; margin-bottom: 28px; }
+.brand-links.s5 a:hover { background: #2bb3ad; border-color: #2bb3ad; color: #0a0a0a; }
+
+/* Project card (リンク付きWORK・2026-09-24) */
+.work-card.project-card { transition: border-color 0.25s, transform 0.25s; }
+.work-card.project-card:hover { border-color: var(--muted); transform: translateY(-3px); }
+.work-card.project-card .status { line-height: 1.2; }
+.work-card.project-card .status small {
+  display: block;
+  margin-top: 8px;
+  font-family: var(--font-body, inherit);
+  font-size: 13px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+}
+.work-card.project-card:hover .cat { color: var(--text); }

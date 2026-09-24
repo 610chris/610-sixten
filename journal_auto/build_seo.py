@@ -818,6 +818,7 @@ def build_llms(arts: list[dict]) -> None:
         f"- [610 — sixten]({BASE}/): エージェンシー本体",
         f"- [クリスのバスケ日記]({BASE}/media/chris-basketball-diary.html): NBAとバスケの「今」を毎日届ける動画メディア",
         f"- [POST UP PODCAST]({BASE}/media/postup.html): バスケにルーツを持つ人たちの物語を深掘りするトーク番組",
+        f"- [STARTING 5IVE]({BASE}/media/starting5ive.html): 5人のNBAクリエイターがバスケを語り合うYouTubeチャンネル（キャンプ「Be 5IVE CAMP」も主催）",
         f"- [RSSフィード]({FEED_URL})",
         f"- [サイトマップ]({BASE}/sitemap.xml)",
         "",
