@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "245-thunder-presti-preseason-presser.html",
+    cat: "NBA",
+    title: "主力3人放出で年俸3億ドル超を圧縮 —— サンダーGMプレスティ、プレシーズン会見で「更なる高み」への自信と「セカンドエプロン」観を語る",
+    excerpt: "オクラホマシティ・サンダーのサム・プレスティGM兼エグゼクティブ・バイスプレジデントは9月24日（現地時間）のプレシーズン会見で、ルゲンツ・ドート、アイザイア・ジョー、アーロン・ウィギンズを放出し年俸3億ドル超を圧縮した今オフを振り返り、健康を保てれば「これまでのどのチームにも劣らない可能性がある」と述べた。ジェイレン・ウィリアムズの回復状況やNBAの「セカンドエプロン」への見解にも言及した。ESPNのバクスター・ホームズ記者が伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "THUNDER GM SAM PRESTI PRESEASON PRESSER"
+  },
+  {
     href: "244-air-jordan-1-mid-black-elephant-print.html",
     cat: "KICKS",
     title: "Air Jordan 1 Mid「Black Elephant Print」が発売開始 —— 品番IX3527-010、価格140ドル",
