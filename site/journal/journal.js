@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "236-nike-air-force-1-subway-rat.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low「Subway Rat」が2026年10月発売 —— ニューヨークの地下鉄ネズミがテーマ、ピザ柄ディテールも",
+    excerpt: "ナイキは、ニューヨークの地下鉄名物「サブウェイ・ラット」をテーマにした「Air Force 1 Low '01 \"Subway Rat\"」を2026年10月に発売する。毛羽立ったスエードアッパーに、ピザや地下鉄をモチーフにしたディテールを効かせた「College Grey/Pink Glaze」配色。品番はIV6999-001。Nice KicksとSneaker Bar Detroitが伝えた。",
+    date: "2026.09.24",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "AIR FORCE 1 SUBWAY RAT"
+  },
+  {
     href: "235-mavericks-lively-not-cleared-camp.html",
     cat: "NBA",
     title: "マーベリックス、ライブリー2世がキャンプ入り未承認 —— 右足手術から回復途上、開幕出場も不透明",
