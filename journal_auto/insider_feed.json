@@ -1,7 +1,31 @@
 {
- "updated_utc": "2026-09-25 18:56 UTC",
+ "updated_utc": "2026-09-25 21:58 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1wq6hn0/scotto_just_in_kon_knueppel_suffered_a_left/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-25T20:07:58+00:00",
+   "text": "Just In: Kon Knueppel suffered a left hamstring injury and Grant Williams suffered a right hamstring injury during offseason on-court activity. The Charlotte Hornets say both players will miss their preseason games and be re-evaluated during the first week of the regular season.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wq6hn0/scotto_just_in_kon_knueppel_suffered_a_left/",
+   "links": []
+  },
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1wq6hlg/scotto_just_in_kon_knueppel_suffered_a_left/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-25T20:07:55+00:00",
+   "text": "Just In: Kon Knueppel suffered a left hamstring injury and Grant Williams suffered a right hamstring injury during offseason on-court activity. The Charlotte Hornets say both players will miss their preseason games and be re-evaluated during the first week of the regular season.\n\nFrom Scotto: https://www.hoopshype.com/staff/84455328007/michael-scotto/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wq6hlg/scotto_just_in_kon_knueppel_suffered_a_left/",
+   "links": [
+    "https://www.hoopshype.com/staff/84455328007/michael-scotto/"
+   ]
+  },
   {
    "reporter": "Michael Scotto（HoopsHype）",
    "handle": "MikeAScotto",
@@ -63,19 +87,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wpywmi/stein_the_mavericks_have_today_formally_resigned/",
    "links": [
     "https://marcstein.substack.com"
-   ]
-  },
-  {
-   "reporter": "Tim MacMahon（ESPN）",
-   "handle": "espn_macmahon",
-   "key": "https://www.reddit.com/r/nba/comments/1woocy5/macmahon_dallas_mavericks_center_dereck_lively_ii/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-24T01:29:23+00:00",
-   "text": "https://www.espn.com/nba/story/_/id/50016983/sources-mavs-dereck-lively-ii-foot-not-cleared-camp  After playing a key role as a rookie in the Mavericks' run to the 2024 NBA Finals, Lively's promising career has been derailed by recurring problems with his right foot, which has been surgically repaired twice in the past 14 months.\n\nLively is ramping up toward being cleared for basketball activity, sources said, emphasizing that the team is not discouraged by his progress.\n\nDallas begins training camp Saturday.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1woocy5/macmahon_dallas_mavericks_center_dereck_lively_ii/",
-   "links": [
-    "https://www.espn.com/nba/story/_/id/50016983/sources-mavs-dereck-lively-ii-foot-not-cleared-camp"
    ]
   }
  ]
