@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "248-bfive-cafe-series-sesame-street.html",
+    cat: "CULTURE",
+    title: "BFIVE、セサミストリートとコラボした新コレクション「CAFE SERIES」を発売 —— コートサイドのカフェ気分をまとうヴィンテージカジュアル",
+    excerpt: "バスケットボールウェアブランド「BFIVE」を展開する株式会社フラスコ100ccは9月25日、米国セサミワークショップとのライセンス契約のもとセサミストリートとコラボレーションした新コレクション「CAFE SERIES」を発売した。コートサイドのカフェをイメージし、Tシャツやバスパン、スウェット、シューズケースなど幅広いアイテムを展開する。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "BFIVE × SESAME STREET"
+  },
+  {
     href: "247-pelinka-lebron-exit-lakers-reset.html",
     cat: "NBA",
     title: "「円満だった」—— レイカーズGMペリンカ、レブロン退団に開幕会見で初めて言及 リーブス残留・ケスラー獲得の舞台裏も",
