@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "247-pelinka-lebron-exit-lakers-reset.html",
+    cat: "NBA",
+    title: "「円満だった」—— レイカーズGMペリンカ、レブロン退団に開幕会見で初めて言及 リーブス残留・ケスラー獲得の舞台裏も",
+    excerpt: "ロサンゼルス・レイカーズのロブ・ペリンカ球団社長兼GMは9月24日（現地時間）、開幕前恒例の記者会見でレブロン・ジェームズの退団に初めて言及し「円満だった」と述べた。オースティン・リーブスとの4年1億8470万ドル再契約、ユタ・ジャズとのサイン・アンド・トレードで獲得したウォーカー・ケスラーとの4年1億3000万ドル契約など、今オフの補強の狙いも語った。ESPNが伝えた。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "PELINKA ON LEBRON EXIT & LAKERS RESET"
+  },
+  {
     href: "246-bob-pettit-dies.html",
     cat: "NBA",
     title: "NBA草創期のスーパースター、ボブ・ペティ氏が死去 —— 2度のMVP、11年連続オールスターの93歳",
