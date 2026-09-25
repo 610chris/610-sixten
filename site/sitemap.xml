@@ -2,8 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sixten.jp/</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-09-25</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-09-24</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-09-24</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sixten.jp/journal/250-puma-mb06-shooting-star.html</loc><lastmod>2026-09-25T14:00:02+09:00</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sixten.jp/journal/249-easl-2026-27-groups.html</loc><lastmod>2026-09-25T16:41:18+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/248-bfive-cafe-series-sesame-street.html</loc><lastmod>2026-09-25T12:53:54+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/247-pelinka-lebron-exit-lakers-reset.html</loc><lastmod>2026-09-25T09:57:05+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/246-bob-pettit-dies.html</loc><lastmod>2026-09-25T06:54:27+09:00</lastmod><priority>0.8</priority></url>

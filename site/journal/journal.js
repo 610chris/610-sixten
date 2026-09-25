@@ -3,6 +3,24 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "250-puma-mb06-shooting-star.html",
+    cat: "KICKS",
+    title: "PUMA MB.06「Shooting Star」が発売 —— ラメロ・ボール新シグネチャー、新色「Hills」やALL PRO NITRO™ 2シリーズ新色も",
+    excerpt: "プーマ ジャパンは2026年9月25日、シャーロット・ホーネッツのラメロ・ボールを擁するシグネチャーモデル「PUMA MB.06」の新色「Shooting Star」（20,900円、品番313624）を発売した。10月16日には新色「MB.06 Hills」、10月2日には「ALL PRO NITRO™ 2 ELITE」（33,000円）も発売予定。「PUMA BASKETBALL INFORMATION」第四弾として紹介された。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8",
+    tile: "PUMA MB.06 SHOOTING STAR"
+  },
+  {
+    href: "249-easl-2026-27-groups.html",
+    cat: "JAPAN",
+    title: "東アジアスーパーリーグ(EASL)2026-27シーズンのグループ分け決定 —— キングス・ヴェルカ・アルバルク東京が出場",
+    excerpt: "B.LEAGUEは2026年9月25日、東アジアスーパーリーグ(EASL)2026-27シーズンのグループ分けを発表した。琉球ゴールデンキングス、長崎ヴェルカ、アルバルク東京のB.LEAGUE勢3クラブが、韓国・チャイニーズタイペイ・香港・マカオ・フィリピン・モンゴルの9クラブとともに計12クラブでA/B/Cの3グループに分かれる。キングスの初戦は10月28日、アウェーで桃園パウイアン・パイロッツと対戦する。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426",
+    tile: "EASL 2026-27 GROUPS"
+  },
+  {
     href: "248-bfive-cafe-series-sesame-street.html",
     cat: "CULTURE",
     title: "BFIVE、セサミストリートとコラボした新コレクション「CAFE SERIES」を発売 —— コートサイドのカフェ気分をまとうヴィンテージカジュアル",
