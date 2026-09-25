@@ -3,6 +3,15 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "251-tryhoop-okayama-kimochiru-mvp.html",
+    cat: "JAPAN",
+    title: "トライフープ岡山、ファン投票MVP企画に「Kimochiru」導入 —— B.LEAGUE初、9月25日ホーム開幕戦から応援チップも",
+    excerpt: "株式会社ぺこりは2026年9月25日、トライフープ岡山のファン投票型MVP企画「TRYBE'S CHOICE MVP」に応援チップサービス「Kimochiru」が導入されることを発表した。B.LEAGUE所属クラブでの導入は初。同日のシゲトーアリーナ岡山でのホーム開幕戦・越谷アルファーズ戦から、専用アプリ不要でカードのQRコードを読み取ってMVP投票と応援チップを送れる。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-251-hero.jpg?v=7216833613",
+    tile: "TRYHOOP OKAYAMA × KIMOCHIRU"
+  },
+  {
     href: "250-puma-mb06-shooting-star.html",
     cat: "KICKS",
     title: "PUMA MB.06「Shooting Star」が発売 —— ラメロ・ボール新シグネチャー、新色「Hills」やALL PRO NITRO™ 2シリーズ新色も",
