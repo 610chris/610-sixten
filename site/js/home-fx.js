@@ -12,6 +12,14 @@
   var clamp = function (v, a, b) { return v < a ? a : v > b ? b : v; };
   var tasks = [];           // 毎フレーム呼ぶ処理（1本の rAF にまとめる）
   var scrollY = window.scrollY, lastY = scrollY, vel = 0, vh = innerHeight;
+  // 位置・大きさは毎フレーム読まない（スタイルを書いた直後に読むと毎回レイアウト計算が走ってスマホで重い）。
+  // 大きさが変わった時だけ measures をまとめて測り直す。値はページ上の位置（スクロール量を足したもの）
+  var measures = [], dirty = true;
+  function markDirty() { dirty = true; }
+  addEventListener('resize', markDirty);
+  addEventListener('load', markDirty);
+  if (window.ResizeObserver) new ResizeObserver(markDirty).observe(document.body);
+  function docTop(el) { return el.getBoundingClientRect().top + window.scrollY; }
 
   /* ---------- 文字を1文字ずつ span に分ける ---------- */
   function splitChars(el) {
@@ -48,10 +56,12 @@
   var heroName = document.querySelector('.hero-name');
   var heroTag = document.querySelector('.hero-tag');
   var heroScroll = document.querySelector('.hero-scroll');
+  var heroH = 1;
+  if (hero) measures.push(function () { heroH = hero.offsetHeight || 1; });
   tasks.push(function () {
-    if (!hero || scrollY > hero.offsetHeight * 1.2) return;
+    if (!hero || scrollY > heroH * 1.2) return;
     var s = scrollY;
-    var o = clamp(1 - s / (hero.offsetHeight * 0.55), 0, 1);
+    var o = clamp(1 - s / (heroH * 0.55), 0, 1);
     if (heroName) { heroName.style.transform = 'translateY(' + (-s * 0.35) + 'px)'; heroName.style.opacity = o; }
     if (heroTag) { heroTag.style.transform = 'translateY(' + (-s * 0.22) + 'px)'; heroTag.style.opacity = o; }
     if (heroScroll) heroScroll.style.opacity = clamp(1 - s / 120, 0, 1);
@@ -60,9 +70,9 @@
   /* ---------- マーキー: スクロール速度で加速・向きが反転・傾く ---------- */
   var track = document.querySelector('.marquee-track');
   if (track) {
-    var mx = 0, dir = 1, skew = 0;
+    var mx = 0, dir = 1, skew = 0, half = 0;
+    measures.push(function () { half = track.scrollWidth / 2; });
     tasks.push(function (dt) {
-      var half = track.scrollWidth / 2;
       if (!half) return;
       if (vel > 0.5) dir = 1; else if (vel < -0.5) dir = -1;
       mx -= (60 * dt + Math.abs(vel) * 0.9) * dir;
@@ -85,12 +95,16 @@
       }).join('');
       p.querySelectorAll('.ln').forEach(function (l) { lines.push(l); });
     });
-    tasks.push(function () {
+    var maniTop = 0, maniBot = 0, lineMid = [];
+    measures.push(function () {
       var r = mani.getBoundingClientRect();
-      if (r.bottom < -100 || r.top > vh + 100) return;
-      lines.forEach(function (l) {
-        var b = l.getBoundingClientRect();
-        var c = b.top + b.height / 2;
+      maniTop = r.top + window.scrollY; maniBot = r.bottom + window.scrollY;
+      lineMid = lines.map(function (l) { var b = l.getBoundingClientRect(); return b.top + window.scrollY + b.height / 2; });
+    });
+    tasks.push(function () {
+      if (maniBot - scrollY < -100 || maniTop - scrollY > vh + 100) return;
+      lines.forEach(function (l, i) {
+        var c = lineMid[i] - scrollY;
         var t = clamp((vh * 0.9 - c) / (vh * 0.35), 0, 1);
         l.style.setProperty('--lit', (0.18 + 0.82 * t).toFixed(3));
       });
@@ -127,20 +141,24 @@
   }
 
   /* ---------- WORK 写真のパララックス ---------- */
-  var photos = document.querySelectorAll('.work-card.has-photo .ph');
+  var photos = Array.prototype.slice.call(document.querySelectorAll('.work-card.has-photo .ph')), photoBox = [];
+  measures.push(function () {
+    photoBox = photos.map(function (ph) { var r = ph.getBoundingClientRect(); return [r.top + window.scrollY, r.height]; });
+  });
   tasks.push(function () {
-    photos.forEach(function (ph) {
-      var r = ph.getBoundingClientRect();
-      if (r.bottom < 0 || r.top > vh) return;
-      var t = (r.top + r.height / 2 - vh / 2) / (vh / 2 + r.height / 2); // -1〜1
-      ph.firstElementChild.style.setProperty('--py', (t * r.height * 0.06).toFixed(1) + 'px');
+    photos.forEach(function (ph, i) {
+      var top = photoBox[i][0] - scrollY, h = photoBox[i][1];
+      if (top + h < 0 || top > vh) return;
+      var t = (top + h / 2 - vh / 2) / (vh / 2 + h / 2); // -1〜1
+      ph.firstElementChild.style.setProperty('--py', (t * h * 0.06).toFixed(1) + 'px');
     });
   });
 
   /* ---------- ヒーロー背景: バスケコートのラインを光の線で ----------
      フルコート（94ft×50ft を 1ft=10 で描く）。床のように奥へ倒し、
-     白い線は引かず、オレンジの光だけが見えない線の上を走り続ける */
-  if (hero) {
+     白い線は引かず、オレンジの光だけが見えない線の上を走り続ける。
+     スマホでは作らない（ぼかしの光を毎フレーム描き直すのが重く、ボールの動きまで止まるため） */
+  if (hero && !isCoarse) {
     var half = '<path d="M0 170H190V330H0"/>' +                                    // キー（制限区域）
       '<path d="M130 250a60 60 0 1 0 120 0a60 60 0 1 0 -120 0"/>' +                // フリースローサークル
       '<path d="M0 30H142A237.5 237.5 0 0 1 142 470H0"/>' +                         // 3ポイントライン
@@ -186,6 +204,7 @@
     scrollY = window.scrollY;
     vel += ((scrollY - lastY) - vel) * 0.2;
     lastY = scrollY;
+    if (dirty) { dirty = false; vh = innerHeight; measures.forEach(function (m) { try { m(); } catch (e) {} }); }
     // 次のフレームを先に予約: 途中の演出でエラーが出てもループは止めない
     requestAnimationFrame(frame);
     for (var i = 0; i < tasks.length; i++) { try { tasks[i](dt, now); } catch (e) { if (dbg) dbg.err = 'task' + i + ':' + e.message; } }
@@ -347,7 +366,7 @@
     function resize() {
       var r = hero.getBoundingClientRect();
       Wc = Math.max(1, r.width); Hc = Math.max(1, r.height);
-      dpr = Math.min(window.devicePixelRatio || 1, isCoarse ? 2 : 1.75);
+      dpr = Math.min(window.devicePixelRatio || 1, isCoarse ? 1.5 : 1.75);
       canvas.width = Math.round(Wc * dpr); canvas.height = Math.round(Hc * dpr);
       var f = 1 / Math.tan(20 * Math.PI / 180);
       D = (Hc / 2) * f;
