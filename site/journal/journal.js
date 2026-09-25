@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "259-hotscape-saitama-broncos-partnership.html",
+    cat: "JAPAN",
+    title: "ホットスケープ、さいたまブロンコスとオフィシャルパートナー契約を締結 —— イベントプロデュースの知見で「熱狂空間」づくりを支援",
+    excerpt: "東京・虎ノ門の株式会社ホットスケープ（代表取締役・前野伸幸）は9月25日、B.LEAGUE ONE所属「さいたまブロンコス」とオフィシャルパートナー契約を締結したと発表した。ホットスケープが手がけてきたイベント企画・施設運営の知見と、ブロンコスが掲げる新アリーナ構想を軸にした「熱狂空間」づくりの想いが共鳴したという。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "258-mavericks-resign-dwight-powell.html",
     cat: "NBA",
     title: "パウエル、マーベリックスと正式再契約 —— 球団はロースター枠確保の道も模索",
