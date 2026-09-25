@@ -34,9 +34,9 @@
     var frag = document.createDocumentFragment(), i = 0;
     Array.prototype.forEach.call(t.textContent.trim(), function (c) {
       var s = document.createElement('span');
-      s.className = 'ch'; s.setAttribute('aria-hidden', 'true');
+      s.className = c === ' ' ? 'ch sp' : 'ch'; s.setAttribute('aria-hidden', 'true');
       s.style.setProperty('--i', i++);
-      s.textContent = c === ' ' ? ' ' : c;
+      s.textContent = c === ' ' ? ' ' : c;
       frag.appendChild(s);
     });
     el.setAttribute('aria-label', t.textContent.trim());

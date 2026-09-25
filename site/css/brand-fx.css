@@ -313,3 +313,56 @@
 @media (max-width: 400px) { .s5-rep-stats > div { padding: 14px 6px; } .s5-rep-stats strong { font-size: 30px; } .s5-rep-stats span { overflow-wrap: anywhere; } }
 /* #10 S5: スポンサー募集をご相談の中へ（2026-09-26） */
 .s5-contact .sponsor-wanted.sw-in { margin-top: 40px; }
+
+/* ===== S5 ヒーロー作り直し（2026-09-26）: 左に文字・右に5人（スマホは1列）／メンバー名つき／ボタン2つ ===== */
+.s5h { min-height: auto; display: block; text-align: left; padding: 112px 20px 56px; overflow: hidden; }
+.s5h::before { content: ''; position: absolute; inset: 0; z-index: 0; pointer-events: none;
+  background: radial-gradient(60% 55% at 85% 45%, rgba(43, 179, 173, 0.22), transparent 70%), radial-gradient(40% 40% at 0% 100%, rgba(255, 90, 60, 0.10), transparent 70%); }
+.s5h::after { content: '5'; position: absolute; right: -4vw; bottom: -18vw; z-index: 0; pointer-events: none;
+  font-family: var(--font-display); font-size: 62vw; line-height: 1; color: transparent; -webkit-text-stroke: 1px rgba(43, 179, 173, 0.16); }
+.s5h-in { position: relative; z-index: 3; max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: minmax(0, 1fr);
+  grid-template-areas: "brand" "h1" "catch" "crew" "lead" "links"; }
+.s5h-brand { grid-area: brand; display: flex; align-items: center; gap: 14px; }
+.s5h .s5h-brand .s5-logo { width: 52px; height: 52px; margin: 0; padding: 4px; }
+.s5h .media-tag { margin: 0; }
+.s5h .type-logo { grid-area: h1; margin-top: 20px; font-family: "Archivo Black", var(--font-display); font-weight: 400; font-size: clamp(48px, 15.5vw, 112px); line-height: 0.95; letter-spacing: -0.01em; white-space: nowrap; }
+.s5h .type-logo .ch.sp { display: block; height: 0; }
+.s5h .type-logo .ch:nth-child(n+10) { color: #2bb3ad; }
+.s5h .type-logo small { margin-top: 14px; font-family: var(--font-body); font-weight: 700; font-size: 12px; letter-spacing: 0.28em; color: #2bb3ad; }
+.s5h .s5-catch { grid-area: catch; margin-top: 22px; font-size: clamp(22px, 5.8vw, 34px); line-height: 1.45; }
+.s5h .lead { grid-area: lead; margin-top: 20px; max-width: 520px; font-size: 14px; line-height: 1.9; }
+.s5h .brand-links { grid-area: links; justify-content: flex-start; margin-top: 28px; gap: 10px; }
+.s5h .brand-links a { padding: 14px 26px; }
+
+/* 5人: スマホは横一列・名前つき */
+.s5-crew { grid-area: crew; list-style: none; margin: 26px 0 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
+.s5-crew li { margin: 0; text-align: center; }
+.brand-hero .s5-crew img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 22%; border-radius: 12px; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08); background: #1c1c1c; }
+.s5-crew span { display: block; margin-top: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.04em; white-space: nowrap; }
+.fx .brand-hero .s5-crew li { animation: fxPop 0.7s cubic-bezier(0.3, 1.5, 0.5, 1) both; }
+.fx .brand-hero .s5-crew li:nth-child(1) { animation-delay: 0.5s; }
+.fx .brand-hero .s5-crew li:nth-child(2) { animation-delay: 0.6s; }
+.fx .brand-hero .s5-crew li:nth-child(3) { animation-delay: 0.7s; }
+.fx .brand-hero .s5-crew li:nth-child(4) { animation-delay: 0.8s; }
+.fx .brand-hero .s5-crew li:nth-child(5) { animation-delay: 0.9s; }
+
+/* PC: 左に文字・右に5人（3＋2の互い違い） */
+@media (min-width: 900px) {
+  .s5h { min-height: min(86svh, 820px); display: flex; align-items: center; padding: 120px 40px 72px; }
+  .s5h::after { display: none; }
+  .s5h-in { width: 100%; grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); column-gap: 56px;
+    grid-template-areas: "brand crew" "h1 crew" "catch crew" "lead crew" "links crew"; grid-template-rows: auto auto auto auto 1fr; align-items: start; }
+  .s5h .type-logo { font-size: clamp(48px, 5.6vw, 84px); margin-top: 24px; white-space: nowrap; }
+  .s5h .type-logo small { font-size: 13px; margin-top: 16px; }
+  .s5h .s5-catch { margin-top: 30px; font-size: clamp(26px, 2.5vw, 34px); }
+  .s5h .lead { font-size: 15px; }
+  .s5h .brand-links { margin-top: 34px; align-self: start; }
+  .s5-crew { margin: 0; align-self: center; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 22px 16px; }
+  .s5-crew li { grid-column: span 2; }
+  .s5-crew li:nth-child(4) { grid-column: 2 / span 2; }
+  .s5-crew li:nth-child(2) { transform: translateY(-26px); }
+  .s5-crew li:nth-child(4), .s5-crew li:nth-child(5) { margin-top: -6px; }
+  .brand-hero .s5-crew img { border-radius: 16px; }
+  .s5-crew span { margin-top: 10px; font-size: 14px; }
+}
+@media (prefers-reduced-motion: reduce) { .fx .brand-hero .s5-crew li { animation: none; } }
