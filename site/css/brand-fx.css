@@ -365,5 +365,4 @@
 @media (prefers-reduced-motion: reduce) { .fx .brand-hero .s5-group::before, .fx .brand-hero .s5-group img, .fx .brand-hero .s5-group figcaption { animation: none; } }
 
 /* 03 準備中のキャンプ（リンクなし）: ホバーで浮かせない（2026-09-26） */
-.s5-camp.s5-camp-plan:hover { transform: none; border-color: rgba(43, 179, 173, 0.55); }
 .s5-camp-plan .next-mark { font-size: clamp(36px, 4.2vw, 54px); }
