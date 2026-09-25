@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "258-mavericks-resign-dwight-powell.html",
+    cat: "NBA",
+    title: "パウエル、マーベリックスと正式再契約 —— 球団はロースター枠確保の道も模索",
+    excerpt: "ダラス・マーベリックスはドワイト・パウエルとの再契約を正式に発表した。Marc Stein氏(The Stein Line)が9月25日(現地時間)に一報。球団は開幕ロースターに彼の枠を確保する可能性も排除していないという。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "257-grizzlies-waive-dangelo-russell.html",
+    cat: "NBA",
+    title: "グリズリーズ、ラッセルをウェイバー —— ロースター整理の一環、開幕前の新天地探しが可能に",
+    excerpt: "メンフィス・グリズリーズがディアンジェロ・ラッセルをウェイバー(解雇)した。Shams Charania記者(ESPN)が9月25日(現地時間)に一報。ロースターの人数調整が理由で、開幕前に他球団と契約する道が開かれた。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "256-brunson-cleared-wrist-surgery.html",
     cat: "NBA",
     title: "ファイナルMVP、フルに戦える —— ニックスのブランソン、オフに受けた左手首の手術から完全復帰を発表",
