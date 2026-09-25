@@ -1562,3 +1562,9 @@ p, li, .lead { text-wrap: pretty; }
     pointer-events: none;
   }
 }
+
+/* プロ目線レビューの残り（2026-09-26）: WORK 4枚は 1/2/4 列（3+1 に割れない）／PC ヘッダーのタップ領域 44px */
+@media (min-width: 600px) { .work-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1180px) { .work-grid { grid-template-columns: repeat(4, 1fr); } }
+.nav-logo { padding: 12px 0; margin: -12px 0; }
+@media (min-width: 761px) { .nav-links a:not(.nav-cta) { padding: 11px 0; margin: -11px 0; } }

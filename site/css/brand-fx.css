@@ -366,3 +366,5 @@
 
 /* 03 準備中のキャンプ（リンクなし）: ホバーで浮かせない（2026-09-26） */
 .s5-camp-plan .next-mark { font-size: clamp(36px, 4.2vw, 54px); }
+/* 03 CAMP: PC は2列（過去キャンプ2枚の右に空き枠を作らない・2026-09-26） */
+@media (min-width: 900px) { .s5-camps { grid-template-columns: repeat(2, 1fr); } }
