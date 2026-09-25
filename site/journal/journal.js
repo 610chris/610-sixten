@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "255-shinagawa-cc-wildcats-3xs-homegame.html",
+    cat: "JAPAN",
+    title: "品川CC ワイルドキャッツ、10月18日に東品川海上公園でホームゲーム開催 —— リニューアルの水辺公園で3x3公式戦「PLCO 3XS」、観戦無料",
+    excerpt: "3人制プロバスケットボールチーム「品川CC ワイルドキャッツ」は2026年10月18日、東京都品川区の東品川海上公園で3x3リーグ「PLCO 3XS 2026-27 SEASON DIVISION 2 ROUND.11」をホームゲームとして開催する。公園のPark-PFI事業による新施設開業後初のスポーツイベントで、観戦は無料。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "254-japan-women-taipei-asian-games-sf.html",
     cat: "JAPAN",
     title: "女子日本代表、アジア大会準決勝でチャイニーズ・タイペイに80-52で快勝 —— 決勝は韓国と対戦、28年ぶり金メダルを懸ける",
