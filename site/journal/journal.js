@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "252-be5ive-camp-2026-report.html",
+    cat: "REPORT",
+    title: "Everything is a read —— FaFa Luと中高生68名、判断力を鍛えた2日間「Be 5IVE CAMP」開催レポート",
+    excerpt: "STARTING 5IVE主催「Be 5IVE CAMP -Think the Game with FaFa-」を8月12・13日に開催。元NBAホーネッツのビデオコーディネーター FaFa Lu が、中高生68名に「いつ・なぜ選ぶか」を教えた2日間。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-252-hero.jpg?v=2b5d6e6c88"
+  },
+  {
     href: "251-tryhoop-okayama-kimochiru-mvp.html",
     cat: "JAPAN",
     title: "トライフープ岡山、ファン投票MVP企画に「Kimochiru」導入 —— B.LEAGUE初、9月25日ホーム開幕戦から応援チップも",

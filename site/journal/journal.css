@@ -461,6 +461,17 @@ footer {
 @media (max-width: 960px) {
   .hero { grid-template-columns: 1fr; gap: 30px; }
 }
+@media (min-width: 761px) and (max-width: 960px) {
+  .jnav-inner { gap: 16px; }
+  .jnav-links { gap: 14px; }
+  .jnav-links a { letter-spacing: 0.06em; }
+  .jnav-links .jnav-home { white-space: nowrap; padding: 8px 12px; }
+}
+@media (min-width: 761px) and (max-width: 860px) {
+  .jnav-logo img { height: 44px; margin: 0; }
+  .jnav-links { gap: 11px; }
+  .jnav-links a { letter-spacing: 0.03em; }
+}
 
 @media (max-width: 760px) {
   .jnav-toggle { display: block; }

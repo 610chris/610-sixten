@@ -354,7 +354,7 @@ def apply_hub_links(t: str) -> str:
 def build_hubs(arts: list[dict]) -> None:
     nav_items = [("ALL", "../index.html")] + [
         (c, f"../{HUBS[c]['slug']}/" if c in HUBS else f"../index.html?cat={c}") for c in CATS
-    ]
+    ] + [("PROJECTS", "../projects/")]
     for cat, h in HUBS.items():
         items = [a for a in arts if a["cat"] == cat]
         url = hub_url(cat)
@@ -730,6 +730,8 @@ def build_sitemap(arts: list[dict]) -> None:
     for c in HUBS:
         cat_newest = max((a["iso"] for a in arts if a["cat"] == c), default=newest)
         lines.append(f"  <url><loc>{hub_url(c)}</loc><lastmod>{cat_newest}</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>")
+    if (SITE / "journal" / "projects" / "index.html").exists():
+        lines.append(f"  <url><loc>{BASE}/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>")
     for a in arts:
         lines.append(f"  <url><loc>{a['url']}</loc><lastmod>{a.get('lastmod', a['iso'])}</lastmod><priority>0.8</priority></url>")
     for m in sorted((SITE / "media").glob("*.html")):
