@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "253-lebron-76ers-decision-maxey-embiid.html",
+    cat: "NBA",
+    title: "「エンビードに、その初優勝を」—— レブロン・ジェームズ、76ers移籍の理由を語る マクシーとの友情も後押しに",
+    excerpt: "レブロン・ジェームズ(41)は9月25日(現地時間)公開のポッドキャスト「Mind the Game」で、フィラデルフィア・76ers入りを決めた理由を語った。タイリース・マクシーとの長年の友情、そしてジョエル・エンビードに初優勝をもたらしたいという思いが後押しになったという。ESPNが伝えた。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "252-be5ive-camp-2026-report.html",
     cat: "REPORT",
     title: "Everything is a read —— FaFa Luと中高生68名、判断力を鍛えた2日間「Be 5IVE CAMP」開催レポート",
