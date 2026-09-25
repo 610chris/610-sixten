@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "260-kyrie-irving-acl-recovery-no-restrictions.html",
+    cat: "NBA",
+    title: "カイリー・アービング、ACL断裂から19カ月ぶりに完全復帰 —— マーベリックス公式メディアデーで「制限は一切ない」と明言",
+    excerpt: "ダラス・マーベリックスのカイリー・アービングは現地時間9月25日、球団公式メディアデーで、2025年3月に負った左ひざ前十字靭帯(ACL)断裂から19カ月が経ち、プレーに身体的な制限は一切ないと明らかにした。負傷後、初めて報道陣の前に立った。ESPNが伝えた。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "259-hotscape-saitama-broncos-partnership.html",
     cat: "JAPAN",
     title: "ホットスケープ、さいたまブロンコスとオフィシャルパートナー契約を締結 —— イベントプロデュースの知見で「熱狂空間」づくりを支援",
