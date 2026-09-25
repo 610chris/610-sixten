@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "256-brunson-cleared-wrist-surgery.html",
+    cat: "NBA",
+    title: "ファイナルMVP、フルに戦える —— ニックスのブランソン、オフに受けた左手首の手術から完全復帰を発表",
+    excerpt: "ニューヨーク・ニックスのジェイレン・ブランソンは9月25日(現地時間)、自身のポッドキャスト公開収録で、オフに受けた左手首の手術から完全復帰したことを明らかにした。優勝を決めたファイナルの最中も痛みを抱えてプレーしていたという。ESPNが伝えた。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "255-shinagawa-cc-wildcats-3xs-homegame.html",
     cat: "JAPAN",
     title: "品川CC ワイルドキャッツ、10月18日に東品川海上公園でホームゲーム開催 —— リニューアルの水辺公園で3x3公式戦「PLCO 3XS」、観戦無料",
