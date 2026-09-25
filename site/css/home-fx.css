@@ -57,6 +57,13 @@
 @media (max-aspect-ratio: 1/1) {
   .fx-court { width: 330vw; top: 58%; }
 }
+/* スマホの軽量版: ぼかしなし・線は止めたまま。太い薄い線＋細い明るい線で光って見せ、
+   動きはレイヤー全体の明るさだけ（opacity のアニメは描き直しなしで GPU が合成する） */
+.fx-court.lite { opacity: 0; animation: fxShow 1.2s ease 0.6s forwards, fxCourtBreath 4.5s ease-in-out 1.8s infinite alternate; }
+.fx-court.lite .glow path { stroke: #ff7a1a; stroke-width: 14; stroke-opacity: 0.2; }
+.fx-court.lite .core path { stroke: #ffa15c; stroke-width: 3.2; stroke-opacity: 0.9; }
+@keyframes fxCourtBreath { from { opacity: 1; } to { opacity: 0.55; } }
+@media (prefers-reduced-motion: reduce) { .fx-court.lite { animation: fxShow 0.6s ease forwards; } }
 .fx .hero-scroll { z-index: 1; }
 
 /* 粒子ロゴが出るまで <img> は隠す。JS が読めなかった時の保険で3秒後に出す */

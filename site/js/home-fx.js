@@ -157,8 +157,9 @@
   /* ---------- ヒーロー背景: バスケコートのラインを光の線で ----------
      フルコート（94ft×50ft を 1ft=10 で描く）。床のように奥へ倒し、
      白い線は引かず、オレンジの光だけが見えない線の上を走り続ける。
-     スマホでは作らない（ぼかしの光を毎フレーム描き直すのが重く、ボールの動きまで止まるため） */
-  if (hero && !isCoarse) {
+     スマホは軽量版: ぼかしと「光が走る」動きは毎フレーム描き直しになって重い（ボールの動きまで止まった）ので、
+     太い半透明の線を重ねて光って見せ、動きはレイヤーの明るさだけ（GPU の合成だけで済む）にする */
+  if (hero) {
     var half = '<path d="M0 170H190V330H0"/>' +                                    // キー（制限区域）
       '<path d="M130 250a60 60 0 1 0 120 0a60 60 0 1 0 -120 0"/>' +                // フリースローサークル
       '<path d="M0 30H142A237.5 237.5 0 0 1 142 470H0"/>' +                         // 3ポイントライン
@@ -170,7 +171,11 @@
     court.className = 'fx-court';
     court.setAttribute('aria-hidden', 'true');
     // 全体は見せない: 右半面（センターサークルの端〜3P・キー・FTサークル）だけをズームで切り取る
-    court.innerHTML = '<svg viewBox="440 -40 540 600" preserveAspectRatio="xMidYMid slice">' +
+    if (isCoarse) {
+      court.className += ' lite';
+      court.innerHTML = '<svg viewBox="440 -40 540 600" preserveAspectRatio="xMidYMid slice">' +
+        '<g class="glow">' + courtLines + '</g><g class="core">' + courtLines + '</g></svg>';
+    } else court.innerHTML = '<svg viewBox="440 -40 540 600" preserveAspectRatio="xMidYMid slice">' +
       '<defs><filter id="fxCourtGlow" x="-20%" y="-20%" width="140%" height="140%">' +
       '<feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>' +
       '<g class="run" filter="url(#fxCourtGlow)">' + courtLines + '</g></svg>';
