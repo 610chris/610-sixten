@@ -20,7 +20,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Noto+Sans+JP:wght@400;500;700;900&family=Zen+Old+Mincho:wght@700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="css/style.css?v=6ab2e65b02">
+<link rel="stylesheet" href="css/style.css?v=99bb396caa">
+<link rel="stylesheet" href="css/home-fx.css?v=f376e7f471">
+<script>if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('fx','fx-hero')</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "@id": "https://sixten.jp/#org", "name": "610 — sixten", "alternateName": ["610", "sixten", "シックステン", "610 sixten"], "url": "https://sixten.jp", "logo": "https://sixten.jp/assets/logo-white-800.png?v=74fc74516a", "description": "610（シックステン）は、バスケットボールとカルチャーの交差点からブランドの物語をつくる日本のメディアエージェンシー。バスケ専門メディア「610バスケットボールジャーナル」、動画メディア「クリスのバスケ日記」、トーク番組「POST UP PODCAST」を運営。", "address": {"@type": "PostalAddress", "addressLocality": "Tokyo", "addressCountry": "JP"}, "knowsAbout": ["バスケットボール", "NBA", "Bリーグ", "スニーカー", "ストリートカルチャー"], "sameAs": ["https://www.instagram.com/muwe.c/", "https://www.youtube.com/@muwe.c", "https://www.tiktok.com/@muwe.c", "https://www.instagram.com/postup/"], "subOrganization": [{"@type": "NewsMediaOrganization", "name": "610バスケットボールジャーナル", "alternateName": "610 JOURNAL", "url": "https://sixten.jp/journal/", "logo": {"@type": "ImageObject", "url": "https://sixten.jp/assets/journal-logo-black.png?v=654cddaf4e"}}, {"@type": "Organization", "name": "クリスのバスケ日記", "url": "https://sixten.jp/media/chris-basketball-diary.html"}, {"@type": "Organization", "name": "POST UP PODCAST", "url": "https://sixten.jp/media/postup.html"}, {"@type": "Organization", "name": "STARTING 5IVE", "url": "https://sixten.jp/media/starting5ive.html", "sameAs": ["https://www.youtube.com/@starting5ive-ch"]}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebSite", "name": "610 — sixten", "alternateName": "シックステン", "url": "https://sixten.jp", "inLanguage": "ja", "publisher": {"@id": "https://sixten.jp/#org"}}</script>
 <!-- ga4:start build_seo.py が自動生成。手で編集しない -->
@@ -39,10 +41,10 @@ gtag('config', 'G-D2CX26H018');
   <div class="wrap nav-inner">
     <a href="#top" class="nav-logo">
       <img src="assets/logo-white-800.png?v=74fc74516a" alt="610">
-      <span>SIXTEN</span>
+      <img class="nav-word" src="assets/sixten-logo-white.png?v=160a07e5f0" alt="SIXTEN" width="1200" height="188">
     </a>
-    <button class="nav-toggle" aria-label="メニュー">☰</button>
-    <nav class="nav-links">
+    <button class="nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="site-nav">☰</button>
+    <nav class="nav-links" id="site-nav">
       <a href="#about">ABOUT</a>
       <a href="#media">MEDIA</a>
       <a href="#services">SERVICES</a>
@@ -56,8 +58,12 @@ gtag('config', 'G-D2CX26H018');
 <!-- Hero -->
 <section class="hero" id="top">
   <img class="hero-logo" src="assets/logo-white.png?v=d663748e55" alt="610 ロゴ">
-  <h1 class="hero-name">SIXTEN</h1>
+  <h1 class="hero-name"><img class="hero-word" src="assets/sixten-logo-white.png?v=160a07e5f0" alt="SIXTEN" width="1200" height="188"></h1>
   <p class="hero-tag">MEDIA AGENCY — バスケットボールとカルチャーの交差点から。</p>
+  <div class="hero-cta">
+    <a href="#contact" class="hero-btn primary">START A PROJECT</a>
+    <a href="#media" class="hero-btn">OUR MEDIA ↓</a>
+  </div>
   <span class="hero-scroll">SCROLL</span>
 </section>
 
@@ -71,10 +77,10 @@ gtag('config', 'G-D2CX26H018');
 <!-- Manifesto -->
 <section id="about">
   <div class="wrap manifesto reveal">
-    <div class="sec-label">MANIFESTO</div>
-    <p>コートの上だけが、<br>バスケじゃない。</p>
-    <p class="dim">スニーカー、音楽、映像、ストリート。<br>ゲームのまわりにあるすべてがカルチャーだ。</p>
-    <p>610は、その熱を<br>ブランドの物語に変える。</p>
+    <h2 class="sec-label">MANIFESTO</h2>
+    <p class="dim">コートの上だけが、<br>バスケじゃない。</p>
+    <p class="hl">スニーカー、<wbr>音楽、<wbr>映像、<wbr>ストリート。<br>ゲームの<wbr>まわりに<wbr>あるすべてが<wbr>バスケカルチャーだ。</p>
+    <p class="dim">610は、その熱を<br>ブランドの物語に変える。</p>
     <span class="en">WE TELL STORIES WHERE THE GAME MEETS CULTURE.</span>
   </div>
 </section>
@@ -82,7 +88,7 @@ gtag('config', 'G-D2CX26H018');
 <!-- Media (610 Family) -->
 <section class="media" id="media">
   <div class="wrap">
-    <div class="sec-label reveal">OUR MEDIA — 610のメディア</div>
+    <h2 class="sec-label reveal">OUR MEDIA — 610のメディア</h2>
     <div class="media-grid reveal">
 
       <a class="media-card" href="media/chris-basketball-diary.html">
@@ -129,7 +135,7 @@ gtag('config', 'G-D2CX26H018');
 <!-- Services -->
 <section id="services">
   <div class="wrap">
-    <div class="sec-label reveal">SERVICES</div>
+    <h2 class="sec-label reveal">SERVICES</h2>
     <div class="services-grid reveal">
       <div class="service">
         <span class="num">01</span>
@@ -143,7 +149,7 @@ gtag('config', 'G-D2CX26H018');
 <!-- Work -->
 <section id="work">
   <div class="wrap">
-    <div class="sec-label reveal">SELECTED WORK</div>
+    <h2 class="sec-label reveal">SELECTED WORK</h2>
     <div class="work-grid reveal">
       <a class="work-card project-card has-photo" href="https://fafa-camp-2026.surge.sh/" target="_blank" rel="noopener">
         <div class="ph"><img src="assets/s5/camp-fafa.jpg?v=3b1295a1aa" alt="Be 5IVE CAMP コーチのFaFa Lu" width="1200" height="900" loading="lazy"></div>
@@ -164,14 +170,14 @@ gtag('config', 'G-D2CX26H018');
         </div>
       </a>
       <div class="work-card">
-        <span class="code">610 — 003</span>
-        <span class="status">COMING SOON</span>
-        <span class="cat">FILM / DOCUMENTARY</span>
+        <span class="code">610 — 003　2027.02（予定）</span>
+        <span class="status">BE 5IVE CAMP<small>Stop the Game — COMING SOON</small></span>
+        <span class="cat">EVENT / CAMP — STARTING 5IVE PRESENTS</span>
       </div>
       <div class="work-card">
         <span class="code">610 — 004</span>
-        <span class="status">COMING SOON</span>
-        <span class="cat">BRAND / APPAREL</span>
+        <span class="status">THE ONE<small>COMING SOON</small></span>
+        <span class="cat">FILM / DOCUMENTARY</span>
       </div>
     </div>
     <p class="work-note reveal">※ その他のプロジェクト事例は順次公開予定。</p>
@@ -181,10 +187,10 @@ gtag('config', 'G-D2CX26H018');
 <!-- Journal -->
 <section class="journal" id="journal">
   <div class="wrap">
-    <div class="sec-label reveal">BASKETBALL JOURNAL — バスケとカルチャーの読みもの</div>
+    <h2 class="sec-label reveal"><span>BASKETBALL JOURNAL<br class="sp"> — バスケとカルチャーの読みもの</span></h2>
 
     <a class="journal-featured reveal" href="journal/001-banned-aj1.html">
-      <div class="visual"><img src="assets/logo-white-800.png?v=74fc74516a" alt=""></div>
+      <div class="visual photo"><img src="assets/journal-001-hero.jpg?v=275678f497" width="1600" height="900" alt="" loading="lazy"></div>
       <div class="meta">
         <span class="jr-cat">KICKS</span>
         <h3><span class="kt">「禁止」が生んだ伝説 ——</span> <span class="kt">エア・ジョーダン1と</span><span class="kt">ルールの向こう側</span></h3>
@@ -227,11 +233,21 @@ gtag('config', 'G-D2CX26H018');
     <h2 class="sec-title">一緒に、物語をつくろう。</h2>
     <p>プロジェクトのご相談・コラボレーションのご連絡はこちらから。</p>
     <a class="contact-btn" href="https://docs.google.com/forms/d/e/1FAIpQLSePTkVEu6pI_05J95pQdnEcYn8AI9_ghXAiC6B0MkeZu0QOfQ/viewform" target="_blank" rel="noopener">START A PROJECT</a>
-    <p style="margin-top:20px; font-size:12px;">※ フォームからお送りいただいた内容は、担当が確認のうえ折り返しご連絡いたします。</p>
+    <p style="margin-top:20px; font-size:14px;">※ フォームからお送りいただいた内容は、担当が確認のうえ折り返しご連絡いたします。</p>
   </div>
 </section>
 
 <footer>
+  <!-- footer-media: 610のメディア一覧（名前とリンク先はトップの OUR MEDIA 欄と同じ・2026-09-26） -->
+  <nav class="wrap footer-media" aria-label="610のメディア">
+    <span class="fm-label">MEDIA</span>
+    <ul>
+      <li><a href="media/chris-basketball-diary.html">クリスのバスケ日記</a></li>
+      <li><a href="media/postup.html">POST UP PODCAST</a></li>
+      <li><a href="journal/index.html">610 Basketball Journal</a></li>
+      <li><a href="media/starting5ive.html">STARTING 5IVE</a></li>
+    </ul>
+  </nav>
   <div class="wrap footer-inner">
     <img src="assets/logo-white-800.png?v=74fc74516a" alt="610">
     <small>© <span id="year">2026</span> 610 — sixten. ALL RIGHTS RESERVED.</small>
@@ -251,10 +267,18 @@ document.querySelectorAll('.reveal').forEach(el => io.observe(el));
 // モバイルナビ
 const toggle = document.querySelector('.nav-toggle');
 const links = document.querySelector('.nav-links');
-toggle.addEventListener('click', () => links.classList.toggle('open'));
-links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => links.classList.remove('open')));
+function setNav(open) {
+  links.classList.toggle('open', open);
+  toggle.setAttribute('aria-expanded', String(open));
+  toggle.setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
+  toggle.textContent = open ? '×' : '☰';
+}
+toggle.addEventListener('click', () => setNav(!links.classList.contains('open')));
+links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => setNav(false)));
 
 document.getElementById('year').textContent = new Date().getFullYear();
 </script>
+<script src="js/home-fx.js?v=fba0797304" defer></script>
+<script src="js/phrase-wrap.js?v=22c6dfaa2c" defer></script>
 </body>
 </html>
