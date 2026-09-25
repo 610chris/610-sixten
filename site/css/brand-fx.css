@@ -334,19 +334,21 @@
 .s5h .brand-links { grid-area: links; justify-content: flex-start; margin-top: 28px; gap: 10px; }
 .s5h .brand-links a { padding: 14px 26px; }
 
-/* 5人: スマホは横一列・名前つき */
-.s5-crew { grid-area: crew; list-style: none; margin: 26px 0 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 8px; }
-.s5-crew li { margin: 0; text-align: center; }
-.brand-hero .s5-crew img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 22%; border-radius: 12px; box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.08); background: #1c1c1c; }
-.s5-crew span { display: block; margin-top: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.04em; white-space: nowrap; }
-.fx .brand-hero .s5-crew li { animation: fxPop 0.7s cubic-bezier(0.3, 1.5, 0.5, 1) both; }
-.fx .brand-hero .s5-crew li:nth-child(1) { animation-delay: 0.5s; }
-.fx .brand-hero .s5-crew li:nth-child(2) { animation-delay: 0.6s; }
-.fx .brand-hero .s5-crew li:nth-child(3) { animation-delay: 0.7s; }
-.fx .brand-hero .s5-crew li:nth-child(4) { animation-delay: 0.8s; }
-.fx .brand-hero .s5-crew li:nth-child(5) { animation-delay: 0.9s; }
+/* 5人の集合写真（背景透過・2026-09-26）: 背後に青緑の光・足元は下へフェード・名前は写真の並び順 */
+.s5-group { grid-area: crew; position: relative; margin: 22px -20px 0; padding: 0; }
+.s5-group::before { content: ''; position: absolute; left: 6%; right: 6%; top: 8%; bottom: 14%; z-index: 0; pointer-events: none; border-radius: 50%;
+  background: radial-gradient(closest-side, rgba(43, 179, 173, 0.55), rgba(43, 179, 173, 0.18) 55%, transparent 100%); filter: blur(24px); }
+.brand-hero .s5-group img { position: relative; z-index: 1; display: block; width: 100%; height: auto; max-width: none; border-radius: 0; box-shadow: none; background: none;
+  -webkit-mask-image: linear-gradient(to bottom, #000 72%, transparent 100%); mask-image: linear-gradient(to bottom, #000 72%, transparent 100%);
+  filter: drop-shadow(0 14px 30px rgba(0, 0, 0, 0.45)); }
+.s5-group figcaption { position: relative; z-index: 2; display: flex; justify-content: space-between; gap: 6px; margin: -30px 20px 0; padding-top: 10px;
+  border-top: 1px solid rgba(43, 179, 173, 0.45); font-size: 12px; font-weight: 700; letter-spacing: 0.06em; white-space: nowrap; }
+.s5-group figcaption span { min-width: 0; }
+.fx .brand-hero .s5-group::before { animation: fxPop 1.2s ease 0.3s both; }
+.fx .brand-hero .s5-group img { animation: fxUp 1s cubic-bezier(0.2, 0.8, 0.2, 1) 0.5s both; }
+.fx .brand-hero .s5-group figcaption { animation: fxUp 1s ease 0.9s both; }
 
-/* PC: 左に文字・右に5人（3＋2の互い違い） */
+/* PC: 左に文字・右に5人の集合写真 */
 @media (min-width: 900px) {
   .s5h { min-height: min(86svh, 820px); display: flex; align-items: center; padding: 120px 40px 72px; }
   .s5h::after { display: none; }
@@ -357,12 +359,11 @@
   .s5h .s5-catch { margin-top: 30px; font-size: clamp(26px, 2.5vw, 34px); }
   .s5h .lead { font-size: 15px; }
   .s5h .brand-links { margin-top: 34px; align-self: start; }
-  .s5-crew { margin: 0; align-self: center; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 22px 16px; }
-  .s5-crew li { grid-column: span 2; }
-  .s5-crew li:nth-child(4) { grid-column: 2 / span 2; }
-  .s5-crew li:nth-child(2) { transform: translateY(-26px); }
-  .s5-crew li:nth-child(4), .s5-crew li:nth-child(5) { margin-top: -6px; }
-  .brand-hero .s5-crew img { border-radius: 16px; }
-  .s5-crew span { margin-top: 10px; font-size: 14px; }
+  .s5-group { margin: 0 -20px 0 0; align-self: center; }
+  .s5-group figcaption { margin: -40px 24px 0; font-size: 14px; }
 }
-@media (prefers-reduced-motion: reduce) { .fx .brand-hero .s5-crew li { animation: none; } }
+@media (prefers-reduced-motion: reduce) { .fx .brand-hero .s5-group::before, .fx .brand-hero .s5-group img, .fx .brand-hero .s5-group figcaption { animation: none; } }
+
+/* 03 準備中のキャンプ（リンクなし）: ホバーで浮かせない（2026-09-26） */
+.s5-camp.s5-camp-plan:hover { transform: none; border-color: rgba(43, 179, 173, 0.55); }
+.s5-camp-plan .next-mark { font-size: clamp(36px, 4.2vw, 54px); }
