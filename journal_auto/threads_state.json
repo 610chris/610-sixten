@@ -47,7 +47,21 @@
    "image_src": "Wikimedia Commons",
    "credit": "撮影: Gamecock Central / CC BY 2.0, via Wikimedia Commons",
    "credit_reply_id": "18103055402002530"
+  },
+  "https://www.reddit.com/r/nba/comments/1wq11u5/charania_the_memphis_grizzlies_have_waived/": {
+   "post_id": "18064767059607086",
+   "permalink": "https://www.threads.com/@muwe.c/post/DduKU6foEvx",
+   "posted_utc": "2026-09-25T19:00:44+00:00",
+   "image": "https://raw.githubusercontent.com/610chris/610-sixten/main/journal_auto/threads_media/f4effcd8f78e2def.jpg",
+   "image_src": "Wikimedia Commons",
+   "credit": "撮影: All-Pro Reels / CC BY-SA 2.0, via Wikimedia Commons",
+   "credit_reply_id": "18026943581905811"
   }
  },
- "skipped": {}
+ "skipped": {
+  "https://www.reddit.com/r/nba/comments/1wpywmi/stein_the_mavericks_have_today_formally_resigned/": {
+   "reason": "stale(記者のポストから3時間超)",
+   "utc": "2026-09-25T19:00:19+00:00"
+  }
+ }
 }
