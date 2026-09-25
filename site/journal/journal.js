@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "254-japan-women-taipei-asian-games-sf.html",
+    cat: "JAPAN",
+    title: "女子日本代表、アジア大会準決勝でチャイニーズ・タイペイに80-52で快勝 —— 決勝は韓国と対戦、28年ぶり金メダルを懸ける",
+    excerpt: "9月25日、愛知国際アリーナで「第20回アジア競技大会（2026／愛知・名古屋）」女子バスケットボールの準決勝が行われ、女子日本代表がチャイニーズ・タイペイ代表に80-52で快勝した。26日の決勝は韓国代表と対戦し、1998年以来28年ぶりの金メダル獲得を目指す。",
+    date: "2026.09.25",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "253-lebron-76ers-decision-maxey-embiid.html",
     cat: "NBA",
     title: "「エンビードに、その初優勝を」—— レブロン・ジェームズ、76ers移籍の理由を語る マクシーとの友情も後押しに",
