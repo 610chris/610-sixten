@@ -1,17 +1,19 @@
 {
- "updated_utc": "2026-09-25 21:58 UTC",
+ "updated_utc": "2026-09-26 22:45 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1wq6hn0/scotto_just_in_kon_knueppel_suffered_a_left/",
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wr1sxd/charania_the_chicago_bulls_are_trading_rob/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-09-25T20:07:58+00:00",
-   "text": "Just In: Kon Knueppel suffered a left hamstring injury and Grant Williams suffered a right hamstring injury during offseason on-court activity. The Charlotte Hornets say both players will miss their preseason games and be re-evaluated during the first week of the regular season.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wq6hn0/scotto_just_in_kon_knueppel_suffered_a_left/",
-   "links": []
+   "posted_utc": "2026-09-26T21:13:25+00:00",
+   "text": "The Chicago Bulls are trading Rob Dillingham to the Charlotte Hornets for Buddy Hield and cash, sources tell ESPN. https://www.espn.com/contributor/shams-charania/a6cd13b7c38f0\n\nThe Bulls add a veteran shooter in Hield, who landed in Charlotte via trade from Atlanta, while the Hornets create a $9.4 million trade exception and take in $3 million less in salary. Chicago gets cash to make up for a good chunk of the difference in salaries.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wr1sxd/charania_the_chicago_bulls_are_trading_rob/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/a6cd13b7c38f0"
+   ]
   },
   {
    "reporter": "Michael Scotto（HoopsHype）",
