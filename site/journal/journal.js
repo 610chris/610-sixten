@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "265-bulls-trade-dillingham-hield-hornets.html",
+    cat: "NBA",
+    title: "ブルズ、ディリンガムをホーネッツへトレード —— バディ・ヒールドと交換、獲得1週間足らずでの再放出に",
+    excerpt: "シカゴ・ブルズは現地時間9月26日、ロブ・ディリングハムをシャーロット・ホーネッツへ送り、バディ・ヒールドと現金を獲得するトレードを成立させた。ESPNのシャムズ・シャラニア記者が関係者の話として伝えた。ヒールドはホーネッツ加入から1週間足らずでの退団となる。",
+    date: "2026.09.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "264-nba-rank-2026-audit-metrics.html",
     cat: "NBA",
     title: "ブランソンの6位は「買いかぶり」? —— ESPN分析官が指標で「NBA Rank」検証、マレー＝ボイルズは見逃された過小評価に",
