@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "261-warriors-curry-extension.html",
+    cat: "NBA",
+    title: "カリー、ウォリアーズと2年1億1600万ドルの契約延長に合意 —— 最大契約より2000万ドル減額、2028-29はプレーヤーオプション",
+    excerpt: "ゴールデンステート・ウォリアーズのステフィン・カリーは現地時間9月25日、球団と2年1億1600万ドルの契約延長に合意した。2028-29シーズンにプレーヤーオプションが付く。8月29日に資格を得た最大2年1億3670万ドルから2000万ドル減額を受け入れた形で、来夏のサラリーキャップに余裕をもたらす。Shams Charania記者(ESPN)が伝えた。",
+    date: "2026.09.26",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "260-kyrie-irving-acl-recovery-no-restrictions.html",
     cat: "NBA",
     title: "カイリー・アービング、ACL断裂から19カ月ぶりに完全復帰 —— マーベリックス公式メディアデーで「制限は一切ない」と明言",
