@@ -368,3 +368,22 @@
 .s5-camp-plan .next-mark { font-size: clamp(36px, 4.2vw, 54px); }
 /* 03 CAMP: PC は2列（過去キャンプ2枚の右に空き枠を作らない・2026-09-26） */
 @media (min-width: 900px) { .s5-camps { grid-template-columns: repeat(2, 1fr); } }
+
+/* S5 04 コラボ: イベント出演カード（NBA docomo） */
+#collab .s5-ch + .s5-sub { margin-top: 0; }
+.s5-event { margin: 0; display: grid; border: 1px solid var(--line); background: var(--bg-card); overflow: hidden; }
+.s5-event .ph { aspect-ratio: 3 / 2; overflow: hidden; }
+.s5-event .ph img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.s5-event .body { display: grid; gap: 12px; align-content: center; padding: 28px 24px; }
+.s5-event .date { font-family: var(--font-display); font-size: 13px; letter-spacing: 0.2em; color: #2bb3ad; }
+.s5-event strong { font-family: var(--font-display); font-size: clamp(22px, 2.6vw, 32px); line-height: 1.1; letter-spacing: 0.04em; }
+.s5-event p { margin: 0; font-size: 15px; line-height: 1.8; }
+.s5-event dl { margin: 4px 0 0; display: grid; gap: 8px; }
+.s5-event dl div { display: grid; grid-template-columns: 6.5em 1fr; gap: 8px; font-size: 14px; }
+.s5-event dt { color: var(--muted); }
+.s5-event dd { margin: 0; }
+@media (min-width: 900px) {
+  .s5-event { grid-template-columns: 56% 1fr; }
+  .s5-event .ph { aspect-ratio: auto; min-height: 340px; }
+  .s5-event .body { padding: 36px 40px; }
+}
