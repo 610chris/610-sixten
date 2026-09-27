@@ -719,6 +719,38 @@ def build_article(a: dict, arts: list[dict]) -> None:
 
 
 # ---------------------------------------------------------------- 4. sitemap
+# media/*.html の lastmod(2026-09-27): git の日付は CI の浅い clone で狂うので使わない。
+# 本文から版番号(?v=…)と自動生成ブロック(ga4/legal)を除いたハッシュを media_lastmod.json に記録し、
+# ハッシュが変わった日(JST)を lastmod にする。版番号の更新だけでは lastmod は動かない(冪等)。
+MEDIA_LASTMOD = ROOT / "journal_auto" / "media_lastmod.json"
+_AUTO_BLOCK_RE = re.compile(r"<!-- (ga4|legal):start.*?<!-- \1:end -->", re.S)
+
+
+def media_body_hash(p: Path) -> str:
+    t = _AUTO_BLOCK_RE.sub("", read(p))
+    t = re.sub(r"\?v=[0-9a-f]+", "", t)
+    return hashlib.sha256(t.encode("utf-8")).hexdigest()[:16]
+
+
+def media_lastmods() -> dict[str, str]:
+    try:
+        store = json.loads(MEDIA_LASTMOD.read_text(encoding="utf-8"))
+    except (FileNotFoundError, ValueError):
+        store = {}
+    today = dt.datetime.now(JST).date().isoformat()
+    out: dict[str, str] = {}
+    new_store: dict[str, dict] = {}
+    for m in sorted((SITE / "media").glob("*.html")):
+        h = media_body_hash(m)
+        rec = store.get(m.name) or {}
+        if rec.get("hash") != h or not rec.get("lastmod"):
+            rec = {"hash": h, "lastmod": today}
+        new_store[m.name] = rec
+        out[m.name] = rec["lastmod"]
+    write_if_changed(MEDIA_LASTMOD, json.dumps(new_store, ensure_ascii=False, indent=2) + "\n")
+    return out
+
+
 def build_sitemap(arts: list[dict]) -> None:
     newest = max(a["iso"] for a in arts)
     lines = [
@@ -734,8 +766,9 @@ def build_sitemap(arts: list[dict]) -> None:
         lines.append(f"  <url><loc>{BASE}/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>")
     for a in arts:
         lines.append(f"  <url><loc>{a['url']}</loc><lastmod>{a.get('lastmod', a['iso'])}</lastmod><priority>0.8</priority></url>")
+    media_mod = media_lastmods()
     for m in sorted((SITE / "media").glob("*.html")):
-        lines.append(f"  <url><loc>{BASE}/media/{m.name}</loc><priority>0.5</priority></url>")
+        lines.append(f"  <url><loc>{BASE}/media/{m.name}</loc><lastmod>{media_mod[m.name]}</lastmod><priority>0.5</priority></url>")
     if (SITE / "privacy.html").exists():
         lines.append(f"  <url><loc>{BASE}/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>")
     lines.append("</urlset>\n")
