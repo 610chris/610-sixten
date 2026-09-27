@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "266-dennis-smith-jr-heat-deal.html",
+    cat: "NBA",
+    title: "デニス・スミス・ジュニア、ヒートと契約合意 —— 元ロッタリーピックのガード、夏を通じて注視された末の新天地",
+    excerpt: "マイアミ・ヒートは、フリーエージェントのガード、デニス・スミス・ジュニアと契約合意に達した。エージェントを務めるヘイザン・スポーツのダニエル・ヘイザン氏の情報として、NBA on Primeのクリス・ヘインズ記者が現地時間9月27日に伝えた。ヒートはこの夏を通じて元ロッタリーピックの動向を注視してきたという。",
+    date: "2026.09.27",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "265-bulls-trade-dillingham-hield-hornets.html",
     cat: "NBA",
     title: "ブルズ、ディリンガムをホーネッツへトレード —— バディ・ヒールドと交換、獲得1週間足らずでの再放出に",
