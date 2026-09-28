@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-09-28 06:54 UTC",
+ "updated_utc": "2026-09-28 14:47 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wse8uu/charania_allnba_center_jalen_duren_is_not/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-28T13:11:30+00:00",
+   "text": "Source: https://www.espn.com/contributor/shams-charania\n\nAll-NBA center Jalen Duren is not attending Detroit Pistons media day Monday nor the start of training camp, declining the team’s five-year, $200 million fully guaranteed offer in restricted free agency so far, sources tell ESPN. The sides remain at a stalemate ahead of Thursday deadline on a one-year, $9.6 million qualifying offer.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wse8uu/charania_allnba_center_jalen_duren_is_not/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
   {
    "reporter": "Marc Stein（The Stein Line）",
    "handle": "TheSteinLine",
@@ -75,45 +88,6 @@
    "text": "Sources: The Dallas Mavericks signed Dwight Powell to a one-year, $3.88 million deal, including $1 million partially guaranteed and another $500K if he makes the opening night roster.",
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wq3jjg/scotto_sources_the_dallas_mavericks_signed_dwight/",
    "links": []
-  },
-  {
-   "reporter": "Brian Windhorst（ESPN）",
-   "handle": "WindhorstESPN",
-   "key": "https://www.reddit.com/r/nba/comments/1wq1ldc/windhorst_towns_and_his_camp_have_a_position_on/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-25T16:55:51+00:00",
-   "text": "Talks around the extension of Karl-Anthony Towns have received a lot of attention, due to the report by ESPN's Shams Charania revealing that the talks have stalled.\n\nESPN's Brian Windhorst has detailed that the New York Knicks and Towns could reach an acceptable agreement for both sides, but there is an issue.\n\n\"I do not doubt that if they get into a room that CAA and Karl Towns can come to an agreement that protects the Knicks and gives them flexibility to keep these guys together and make sure that Karl is given a respectful contract. Believe that will happen,\" he explained on the Brian Windhorst and the Hoop Collective podcast.\n\nAccording to Windhorst, Knicks owner James Dolan's unwillingness to sacrifice for the team to possibly reach the second apron is the main reason that puts them in a tough spot in these contract negotiations.\n\n\"What I can't say is how Jim Dolan will operate, because I'm not sure that they can hit Karl's counts to take a pay cut, keep their core together, and stay out of the second apron.\"\n\nTowns is eligible for a four-year $276 million max extension, but the Knicks are offering very far from the figure the player is expecting, per Windhorst.\n\n\"He and his side have a position on what he wants to sign for, the Knicks have a position in which they have offered. So that's the parameters. From what I understand, they are tens of millions apart. They're not close,\" he revealed.\n\nTowns could potentially try his luck in free agency next year, as there is expected to be a lot of cap space on other teams if he fails to reach a deal with the Knicks.\n\nHowever, New York has all of the upcoming season to negotiate a new deal with Towns with no deadline during the year\n\nSource: https://basketnews.com/news-256113-main-obstacle-in-karl-anthony-towns-extension-talks-revealed.html",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wq1ldc/windhorst_towns_and_his_camp_have_a_position_on/",
-   "links": [
-    "https://basketnews.com/news-256113-main-obstacle-in-karl-anthony-towns-extension-talks-revealed.html"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wq11u5/charania_the_memphis_grizzlies_have_waived/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-25T16:34:44+00:00",
-   "text": "Shams Charania:\n\nThe Memphis Grizzlies have waived D’Angelo Russell, sources tell ESPN. With Memphis needing to trim its roster, this frees Russell up to potentially land somewhere before the start of the season.\n\nhttps://www.espn.com/contributor/shams-charania/2bb5da2128000",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wq11u5/charania_the_memphis_grizzlies_have_waived/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/2bb5da2128000"
-   ]
-  },
-  {
-   "reporter": "Marc Stein（The Stein Line）",
-   "handle": "TheSteinLine",
-   "key": "https://www.reddit.com/r/nba/comments/1wq0c7r/stein_cooper_flagg_says_at_mavericks_media_day/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-25T16:07:09+00:00",
-   "text": "Cooper Flagg says at Mavericks Media Day that he has indeed grown from his listed height last season of 6-foot-9 to an official measurement yesterday without shoes of 6-foot-10.  Source:https://marcstein.substack.com/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wq0c7r/stein_cooper_flagg_says_at_mavericks_media_day/",
-   "links": [
-    "https://marcstein.substack.com/"
-   ]
   }
  ]
 }
