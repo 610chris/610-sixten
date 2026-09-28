@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "301-edwards-cede-pg-duties-lamelo-ball.html",
+    cat: "NBA",
+    title: "アンソニー・エドワーズ「もう1人で運ばなくていい」—— ボール加入でSG回帰、守備に集中する新シーズンへ",
+    excerpt: "ミネソタ・ティンバーウルブズのアンソニー・エドワーズは現地時間9月28日のメディアデーで、新加入のラメロ・ボールにポイントガード業務を委ね、本来のシューティングガードに専念する姿勢を語った。ボール運びから解放されることで守備によりエネルギーを割けるとした。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "300-knicks-brown-towns-hart-extensions.html",
     cat: "NBA",
     title: "ブラウンHC「部屋に象は作らない」—— ニックス、タウンズに続きハートの契約延長交渉も難航中と判明",
