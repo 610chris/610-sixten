@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "297-pistons-bickerstaff-cunningham-better.html",
+    cat: "NBA",
+    title: "カニングハムに「もっと良いバージョン」—— ピストンズHC保証、専用シグネチャーシューズも始動へ",
+    excerpt: "デトロイト・ピストンズのJ・B・ビッカースタッフHCは現地時間9月28日のメディアデーで、ケイド・カニングハムについて「もっと良いバージョン」を今季見せると保証した。カニングハムはこの日、自身の新シグネチャーシューズにつながるNike S.T. Chargeの新色を履いて登場した。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "296-lillard-morant-blazers-backcourt.html",
     cat: "NBA",
     title: "リラード「バランスは自然と解決する」—— ブレイザーズの過密バックコート、モラントも「再出発」",
