@@ -18,3 +18,6 @@ __pycache__/
 
 # IGカードの試作（ig_card.py --preview）。site/配下なのでcommitすると公開されてしまう
 site/assets/ig/preview-*.jpg
+
+# Claude Codeのセッション内部状態（worktree等）。リポジトリ内容ではない
+.claude/
