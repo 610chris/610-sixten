@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "283-brandon-miller-hornets-camp-ready.html",
+    cat: "NBA",
+    title: "ホーネッツGM「オープニングナイトへ準備万端」—— ブランドン・ミラー、左肩手術からキャンプ本格復帰へ",
+    excerpt: "シャーロット・ホーネッツのジェフ・ピーターソンGMは現地時間9月28日のメディアデーで、オフに左肩の手術を受けたブランドン・ミラーについて「キャンプにフル参加できるはずで、オープニングナイトへの準備は万端になる」と語った。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "282-nba-media-day-2026-quotes-roundup.html",
     cat: "NBA",
     title: "NBAメディアデー2026 発言まとめ —— レブロン、ヤニス、タウンズ、ヨキッチ、カワイ…開幕前に各チームで何が語られたか",
