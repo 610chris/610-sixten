@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "298-sga-vaa-air-force-1-low.html",
+    cat: "KICKS",
+    title: "ギルジャス＝アレクサンダー、未発売「V.A.A. x Nike Air Force 1 Low」をメディアデーで —— コンバースからの移籍後、鮮烈なオレンジ",
+    excerpt: "オクラホマシティ・サンダーのシャイ・ギルジャス＝アレクサンダーは現地時間9月28日のチームメディアデーで、未発売の「Virgil Abloh Archive（V.A.A.）x Nike Air Force 1 Low」を鮮やかなオレンジのカラーで着用した。コンバースからナイキへ移籍して以降でも目を引く一足になった。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "297-pistons-bickerstaff-cunningham-better.html",
     cat: "NBA",
     title: "カニングハムに「もっと良いバージョン」—— ピストンズHC保証、専用シグネチャーシューズも始動へ",
