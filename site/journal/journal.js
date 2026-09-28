@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "286-doncic-lakers-lebron-exit.html",
+    cat: "NBA",
+    title: "ドンチッチ「レブロンとのプレーは最高だった」—— レイカーズ新体制、優勝こそが目標と明言",
+    excerpt: "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間9月28日のメディアデーで、今夏76ersへ移籍したレブロン・ジェームズについて「一緒にプレーできたのは最高だった」と振り返り、2026-27シーズンのレイカーズについて「優勝を狙えないと思うなら、ここにいるべきじゃない」と語った。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "285-mitchell-harden-cavaliers-media-day.html",
     cat: "NBA",
     title: "ミッチェル「レブロンは戻ってきてもおかしくなかった」—— キャバリアーズのメディアデー、ハーデンも延長契約への思い語る",
