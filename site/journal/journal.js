@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "272-lebron-envisioned-knicks.html",
+    cat: "NBA",
+    title: "レブロン、ニックス入りを思い描いていた —— 優勝後に「無理だ」と断念、76ers移籍決断の裏側",
+    excerpt: "レブロン・ジェームズは76ersのメディアデーでESPNに対し、今夏のフリーエージェンシーでニューヨーク・ニックス入りを思い描いていたが、ニックスが優勝した後にその考えを断念したと明かした。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "271-kawhi-leonard-focused-raptors.html",
+    cat: "NBA",
+    title: "カワイ・レナード、ラプターズのメディアデーで捜査に終止符 —— 「前を向いてラプターズの話だけしたい」",
+    excerpt: "トロント・ラプターズのカワイ・レナードが現地時間9月28日のメディアデーで、クリッパーズ時代の契約疑惑を巡る調査には触れず、バスケットボールとラプターズでのプレーに専念する意思を語った。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "270-porzingis-warriors-health-issue.html",
     cat: "NBA",
     title: "ポルジンギス、ウォリアーズのキャンプ初日を欠場 —— 原因不明の「健康上の問題」再発、無期限の離脱に",
