@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "269-kobe-10-protro-blue-lagoon.html",
+    cat: "KICKS",
+    title: "Kobe 10 Protro「Blue Lagoon」が復活 —— 2015年発売時のカラーを再現、フルレングスZoomとカーボンウィング搭載",
+    excerpt: "FLY BASKETBALL CULTURE MAGAZINEが2026年9月28日、「Kobe 10」のプロトロ(Protro)仕様、新色「Blue Lagoon」を紹介した。2015年のオリジナル発売時のカラーを再現し、フルレングスのAir Zoomストロベルやカーボン製ウィングなど現行仕様の機能性を備える。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "268-duren-pistons-contract-standoff.html",
     cat: "NBA",
     title: "デューレン、ピストンズとの契約交渉巡り媒体デー欠席 —— 5年2億ドルの提示拒否、木曜のQO期限が迫る",
