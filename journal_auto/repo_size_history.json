@@ -20,5 +20,16 @@
     "articles_per_day": 6.7,
     "growth_mb_per_day": 2.74,
     "level": "OK"
+  },
+  {
+    "date": "2026-09-28",
+    "size_mb": 447.1,
+    "size_source": "GitHub API",
+    "videos": 124,
+    "videos_mb": 43.3,
+    "video_avg_kb": 358,
+    "articles_per_day": 8.43,
+    "growth_mb_per_day": 3.38,
+    "level": "OK"
   }
 ]
