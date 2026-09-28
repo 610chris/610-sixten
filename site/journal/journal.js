@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "274-haliburton-no-restrictions-achilles-return.html",
+    cat: "NBA",
+    title: "ハリバートン、アキレス腱断裂から完全復帰へ「制限は一切ない、俺が情報源だ」",
+    excerpt: "インディアナ・ペイサーズのタイリース・ハリバートンが現地時間9月28日のメディアデーで、1年以上コートを離れる原因となった右アキレス腱断裂からの復帰に制限は一切無いと明言した。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "273-towns-knicks-extension-media-day.html",
+    cat: "NBA",
+    title: "タウンズ、ニックスとの契約延長「ここでプレーしたい」—— 開幕前合意は困難な情勢、資格は4年2億7600万ドル超",
+    excerpt: "ニューヨーク・ニックスのカール=アンソニー・タウンズが現地時間9月28日のメディアデーで契約延長への意欲を改めて示した。4年2億7600万ドル超の延長資格を持つが、シーズン開幕前の合意は見込みにくい情勢という。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "272-lebron-envisioned-knicks.html",
     cat: "NBA",
     title: "レブロン、ニックス入りを思い描いていた —— 優勝後に「無理だ」と断念、76ers移籍決断の裏側",
