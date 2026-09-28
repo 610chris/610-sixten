@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "302-jimmy-butler-acl-rehab-ahead.html",
+    cat: "NBA",
+    title: "バトラー「僕の数値は驚異的」—— ACL手術から8カ月、ウォリアーズのメディアデーで回復に自信",
+    excerpt: "ゴールデンステート・ウォリアーズのジミー・バトラーは現地時間9月28日のメディアデーで、右膝前十字靭帯(ACL)断裂の手術からおよそ8カ月が経過したリハビリの経過について「数値は予定より先行している」と自信を語った。復帰時期は明言しなかった。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "301-edwards-cede-pg-duties-lamelo-ball.html",
     cat: "NBA",
     title: "アンソニー・エドワーズ「もう1人で運ばなくていい」—— ボール加入でSG回帰、守備に集中する新シーズンへ",
