@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "270-porzingis-warriors-health-issue.html",
+    cat: "NBA",
+    title: "ポルジンギス、ウォリアーズのキャンプ初日を欠場 —— 原因不明の「健康上の問題」再発、無期限の離脱に",
+    excerpt: "ゴールデンステート・ウォリアーズは現地時間9月28日、先発センターのクリスタプス・ポルジンギスが「健康上の問題」を理由にトレーニングキャンプの開始を欠場すると発表した。GMのマイク・ダンリービーは離脱を無期限とし、チームのハワイ合宿にも同行しない。ポルジンギスは過去2年で計90試合を欠場しており、原因不明の体調不良が再発した形だ。ESPNのアンソニー・スレイター記者が伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "269-kobe-10-protro-blue-lagoon.html",
     cat: "KICKS",
     title: "Kobe 10 Protro「Blue Lagoon」が復活 —— 2015年発売時のカラーを再現、フルレングスZoomとカーボンウィング搭載",
