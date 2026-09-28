@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "284-warriors-2027-cap-space-bobby-marks.html",
+    cat: "NBA",
+    title: "カリーの2年1.16億ドル延長で ウォリアーズ、2027年に最大5500万ドルの空き枠 —— ボビー・マークス分析",
+    excerpt: "スティーブン・カリーの2年1億1600万ドル延長により、ウォリアーズは2027年オフに最大5500万ドルの空き枠を持てる可能性が出てきた。ESPNのボビー・マークス記者が、ポルジンギス放出やグリーン・バトラーのFA離脱を条件とした試算を伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "283-brandon-miller-hornets-camp-ready.html",
     cat: "NBA",
     title: "ホーネッツGM「オープニングナイトへ準備万端」—— ブランドン・ミラー、左肩手術からキャンプ本格復帰へ",
