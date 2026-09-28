@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "291-curry-home-warriors-extension-injuries.html",
+    cat: "NBA",
+    title: "カリー「これがホームだ」—— 延長契約後初の公の場で心境語る、バトラー・ムーディーも数カ月級の離脱に",
+    excerpt: "ゴールデンステート・ウォリアーズのステフィン・カリーは、2年1億1600万ドルの契約延長合意後初めて公の場に立ち「これがホームだ」と語った。一方でジミー・バトラーとモーゼス・ムーディーが数カ月単位の離脱になる見通しであることも明らかになった。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "290-clippers-apologize-fans-leonard-investigation.html",
+    cat: "NBA",
+    title: "クリッパーズ、メディアデーで謝罪 —— 「信頼を取り戻したい」暫定バスケットボール運営責任者レデン、再建シーズンへ",
+    excerpt: "ロサンゼルス・クリッパーズは現地時間9月28日のメディアデーで、カワイ・レナードを巡るサラリーキャップ規定違反の調査を受け、ファンに謝罪した。オーナーのスティーブ・バルマー氏らが職務停止処分となる中、暫定でバスケットボール運営を率いるトレント・レデン氏(Trent Redden)が「信頼を取り戻したい」と語った。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "289-ben-simmons-kings-media-day.html",
     cat: "NBA",
     title: "ベン・シモンズ「期待が低いのは自分にも重なる」—— キングスのメディアデーで復帰へ意気込み",
