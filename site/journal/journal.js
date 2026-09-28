@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "300-knicks-brown-towns-hart-extensions.html",
+    cat: "NBA",
+    title: "ブラウンHC「部屋に象は作らない」—— ニックス、タウンズに続きハートの契約延長交渉も難航中と判明",
+    excerpt: "ニューヨーク・ニックスのマイク・ブラウンHCは現地時間9月28日、カール=アンソニー・タウンズとジョシュ・ハートの契約延長交渉について「腫れ物扱いにはしない」と述べた。タウンズだけでなくハートの延長交渉も難航していることが新たに判明した。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "299-bucks-trent-jr-investigation.html",
+    cat: "NBA",
+    title: "バックス、トレント・Jr.契約のNBA調査に「特に進展なし」—— エデンス共同オーナー、キャップ規定違反の疑いでリーグに全面協力と説明",
+    excerpt: "ミルウォーキー・バックスのウェス・エデンス共同オーナーは現地時間9月28日のメディアデーで、ゲイリー・トレント・ジュニアの契約を巡るNBAの調査について「開示できる進展はない」と述べた。NBAは今オフに結んだ契約にサラリーキャップ規定違反の疑いがあるとみて調査している。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "298-sga-vaa-air-force-1-low.html",
     cat: "KICKS",
     title: "ギルジャス＝アレクサンダー、未発売「V.A.A. x Nike Air Force 1 Low」をメディアデーで —— コンバースからの移籍後、鮮烈なオレンジ",
