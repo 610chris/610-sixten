@@ -1,10 +1,166 @@
 {
- "updated_utc": "2026-09-29 19:36 UTC",
+ "updated_utc": "2026-09-29 23:10 UTC",
  "teams_ok": 29,
  "teams_failed": [
   "GSW"
  ],
  "posts": [
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/new-look-hornets-intent-on-strengthening-identity",
+   "url": "https://www.nba.com/hornets/news/new-look-hornets-intent-on-strengthening-identity",
+   "canonical_url": "https://hornets.com/news/new-look-hornets-intent-on-strengthening-identity",
+   "title": "New-Look Hornets Intent On Strengthening Identity",
+   "author": "Sam Perley",
+   "published_utc": "2026-09-29T23:10:57Z",
+   "tags": [
+    "2026 Training Camp",
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Arguably the biggest accomplishment for the Charlotte Hornets during the 2025-26 NBA campaign went beyond securing their highest win total and first postseason victory in a decade. It was finally solidifying an identity, which played a massive role in their late-season surge.",
+   "facts": [
+    "Arguably the biggest accomplishment for the Charlotte Hornets during the 2025-26 NBA campaign went beyond securing their highest win total and first postseason victory in a decade.",
+    "On the glass, they were second across the board in offensive (35.8%), defensive (72.2%) and overall (53.9%) rebounding percentages, as well as second in second-chance points scored (17.8) and third in second-chance point…",
+    "From Jan. 22 on, they ranked third in offense (120.9), sixth in defense (110.1), and second in net rating (10.8), leading to the league’s third-best overall record (28-10) behind only San Antonio and Boston.",
+    "They also tied for the NBA’s eighth-best road winning percentage overall (.561, 23-18), the highest of any team that didn’t qualify for the playoffs.",
+    "In addition to playing with more physicality, improving on their 10-18 clutch-time record – fourth-worst in the NBA (.357) – is a must for the Hornets.",
+    "According to Cleaning the Glass, the Hornets’ overall seasonal net rating of 4.9 – eighth best in the NBA – was more indicative of a 52-to-53 win team but was skewed a little by several blowout wins mixed with close loss…",
+    "Lee also mentioned lowering the team’s 28th-ranked turnover percentage (15.7%) and raising its 23rd-ranked free-throw rate (0.244 attempts per field-goal attempt) as other areas he’s planning to address.",
+    "The Hornets could also benefit from generating more deflections on defense, a category they finished last in last season (13.8)."
+   ],
+   "quotes": [
+    "We have an identity. We know what our absolutes are defensively and offensively,",
+    "I think we went out and acquired some veterans that are going to bring something to both sides of the ball,",
+    "They’ve all played at a high level offensively and defensively throughout their careers. I think that we’ve also done a great job of bringing in some young talent through the draft with our two-ways, …"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
+   "title": "Utah Jazz Training Camp Notebook: Prioritizing Defense, Jaren Jackson Jr.'s Communication",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-09-29T22:23:35Z",
+   "tags": [
+    "Jaren Jackson Jr.",
+    "Lauri Markkanen",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "With Media Day in the rearview mirror and training camp getting underway, the real work begins for the Utah Jazz.",
+   "facts": [
+    "Jackson Jr. only appeared in three games back in February, which resulted in a total of 42 minutes played alongside Markkanen and five minutes spent next to Keyonte George."
+   ],
+   "quotes": [
+    "It was a good atmosphere, everyone was excited,",
+    "I think everyone was ready to get out of the gate.",
+    "There was a lot of defensive work this morning,",
+    "(We need to establish) a competitive mindset, especially on the defensive side of the ball."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/herb-jones-appreciates-jamahl-mosleys-top-priority-improving-pelicans-defense",
+   "url": "https://www.nba.com/pelicans/news/herb-jones-appreciates-jamahl-mosleys-top-priority-improving-pelicans-defense",
+   "canonical_url": "https://pelicans.com/news/herb-jones-appreciates-jamahl-mosleys-top-priority-improving-pelicans-defense",
+   "title": "Herb Jones appreciates Jamahl Mosley's top priority: Improving Pelicans defense",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-09-29T21:05:23Z",
+   "tags": [],
+   "summary": "With the possible exception of fishing, few topics seem to pique Herb Jones’ interest as much as defense, the end of the floor where he’s built a sterling reputation since New Orleans picked him in the 2021 draft. After the Pelicans hired defensive-minded head coach Jamahl Mosley this summer, Jones acknowledged during Media Day that Mosley’s well-known emphasis fits perfectly with the way the sixt…",
+   "facts": [
+    "With the possible exception of fishing, few topics seem to pique Herb Jones’ interest as much as defense, the end of the floor where he’s built a sterling reputation since New Orleans picked him in the 2021 draft.",
+    "Via NBA.com, their favorite team ranked 29th and 23rd in points allowed per 100 possessions, respectively, greatly contributing to 21-61 and 26-56 records.",
+    "In a related development, Jones – an NBA First-Team All-Defense selection in 2023-24 – only played a total of 76 games during the pair of recent seasons, frequently leaving the Pelicans without their best individual defe…",
+    "In Jones’ last full season, New Orleans ranked sixth in defensive efficiency, with “Not on Herb” in uniform for 76 games.",
+    "The Pelicans qualified for the playoffs or play-in during each of Jones’ first three NBA seasons, but have sat out the past two postseasons, as the forward/guard dealt with shoulder and ankle injuries.",
+    "Meanwhile, Mosley’s last three teams in Orlando – all playoff qualifiers in the East – finished third, second and 13th in defense, respectively.",
+    "Mosley’s Orlando squads, Murphy always required “extra treatment the night before, because I knew they’d be really physical.” Including Murphy (team-best 21.5 ppg last season), New Orleans’ roster has boasted numerous ta…",
+    "The Pelicans actually lost four games last season on hot nights of shooting at least 54 percent or better from the field; they also dropped six contests when scoring 125 points or more."
+   ],
+   "quotes": [
+    "Him coming in with the defense-first mindset, that’s music to my ears,",
+    "They’ve seen that it works,",
+    "There is a level of physicality that we hold with each team. There is a discipline we have on the defensive end, the structure, the conditioning, the ability to communicate at a high level. Those are …",
+    "One thing about Mose I’ve noticed is he’s really into details,"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "roster",
+   "key": "https://www.nba.com/sixers/news/2026-sixers-training-camp-notes-quotes",
+   "url": "https://www.nba.com/sixers/news/2026-sixers-training-camp-notes-quotes",
+   "canonical_url": "https://sixers.com/news/2026-sixers-training-camp-notes-quotes",
+   "title": "2026 Sixers Training Camp Notes & Quotes",
+   "author": "Matt Murphy",
+   "published_utc": "2026-09-29T20:59:25Z",
+   "tags": [],
+   "summary": "Training camp is underway at the Penn Medicine Philadelphia 76ers Training Complex. The 2026-27 Sixers, featuring newly acquired stars LeBron James and Jaylen Brown, began practice Tuesday following Monday’s Media Day.",
+   "facts": [
+    "Training camp is underway at the Penn Medicine Philadelphia 76ers Training Complex.",
+    "The 2026-27 Sixers, featuring newly acquired stars LeBron James and Jaylen Brown, began practice Tuesday following Monday’s Media Day.",
+    "An expanded Blue x White Scrimmage, presented by BODYARMOR, will be held at Xfinity Mobile Arena on Saturday, Oct. 3, at noon.",
+    "Philadelphia will begin its four-game preseason slate Monday, Oct. 5, against New York.",
+    "Follow along here for the latest news from the 76ers’ 2026 training camp!",
+    "TUESDAY, SEPT. 29 | DAY 1 VJ Edgecombe, coming off an NBA All-Rookie Team selection, free-agent signing Anfernee Simons and rookie No. 22 overall pick Labaron Philon Jr. were among the last players getting shots up after…",
+    "He added that he is not putting any additional pressure on himself and worked closely with the 22-time All-Star during the session."
+   ],
+   "quotes": [
+    "work needs to be done, and I’m ready to put the work in,",
+    "You’ve got to start building your defense, and that starts with getting your defense set up and all that kind of stuff,",
+    "We did a lot of transition defensive drills. Then we went to the other end of ending our defense, with a lot of blocking-out drills. We got into some real basic, Day 1-type stuff, foundational defensi…",
+    "Not that it's any big secret, but I always start the season with kind of a 30-minute vision for the year,"
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/haliburtons-joy-evident-as-pacers-tip-off-new-season",
+   "url": "https://www.nba.com/pacers/news/haliburtons-joy-evident-as-pacers-tip-off-new-season",
+   "canonical_url": "https://pacers.com/news/haliburtons-joy-evident-as-pacers-tip-off-new-season",
+   "title": "Haliburton's Joy Evident as Pacers Tip Off New Season",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-09-29T19:29:38Z",
+   "tags": [
+    "2026 Training Camp"
+   ],
+   "summary": "The Pacers officially tipped off a new season on Tuesday, opening training camp with their first practice of the 2026-27 campaign at the Ascension St. Vincent Center.",
+   "facts": [
+    "The Pacers officially tipped off a new season on Tuesday, opening training camp with their first practice of the 2026-27 campaign at the Ascension St.",
+    "As expected, a lot of the attention after practice centered on star guard Tyrese Haliburton, who is returning to action after missing all of last season recovering from tearing his right Achilles tendon in Game 7 of the …",
+    "He will have a new starting center in Ivica Zubac, a bruising 7-footer from Croatia acquired from the Clippers in February.",
+    "Zubac played just five games with Indiana last year before a fractured rib ended his season.",
+    "The eighth overall pick in the 2023 NBA Draft, Walker played the second-most minutes of any player on Indiana's injury-ravaged roster last season.",
+    "He started 41 of 76 games and averaged 11.6 points, 5.1 rebounds, and 2.5 assists — all career highs.",
+    "Walker will move back into a reserve role with everyone fully healthy, but Carlisle still sees plenty of promise in the 6-foot-8, 235-pound forward, who just turned 23 earlier this month."
+   ],
+   "quotes": [
+    "I think over the last couple days, the mundane parts of the NBA have just been fun for me again. Just glad to be back out on the floor.",
+    " for his ability to lift up everyone in the gym with his infectious, upbeat personality. ",
+    "It's hard to put a value on the kind of intrinsic intangible things that he does naturally. That's one of the things that makes him so special. He had a great day today.",
+    " Pacers forward Jarace Walker added. "
+   ]
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -23,19 +179,18 @@
     "Sidebar",
     "Training Camp"
    ],
-   "summary": "BOSTON – On Tuesday, the Celtics opened training camp. And with it, the doors officially opened to Big Fella University.",
+   "summary": "BOSTON – On Tuesday, the Celtics opened training camp. And with it, the doors officially opened to \"Big Fella University.\"",
    "facts": [
-    "Garza stretches the floor in the pick-and-pop – he was the league’s most efficient 3-point shooting center last season – while also providing interior scoring, energy, and constant hustle.",
+    "Garza stretches the floor in the pick-and-pop – he was the league’s most efficient 3-point shooting center last season – while also providing interior scoring, rebounding, energy, and constant hustle.",
     "Williams, a sophomore 7-footer, gives Boston a different dimension with his playmaking and ability to facilitate from the high post, along with his screening, rebounding, and interior defense.",
-    "And Cenac is the developing jack-of-all-trades of the group, combining athleticism and mobility with rim protection, rebounding, lob-catching ability, and a growing perimeter game.",
-    "The 7-footer arrives in Boston as one of the league’s second all-time leading offensive rebounder on a per-minute basis behind only Jayson Williams.",
-    "Cenac is still developing his game, but at 6-foot-10 with the mobility to defend multiple positions and an emerging face-up and 3-point shot, he already has the attention of his veteran teammates."
+    "The 7-footer arrives in Boston as the league’s second all-time leading offensive rebounder on a per-minute basis behind only Jayson Williams.",
+    "Cenac is the developing jack-of-all-trades of the big man rotation, combining athleticism and mobility with rim protection, rebounding, lob-catching ability, and a growing perimeter game."
    ],
    "quotes": [
     "I think our Big Fella University is pretty exciting,",
     "Those guys should be pretty reliable. Night in and night out whoever gets called upon, I got 100 percent confidence we’ll deliver.",
-    "I think we’ve got a great group, a lot of guys that bring different things to the table and just good-character guys in general, so that’s what it takes,",
-    "So we’ll take pride in that."
+    "I just want to add what I did in New York – the dirty work and the grit and grind,",
+    "He’s one of those guys you hate going against, just how good he is on the glass, you’ve got to box him out every single time. Obviously he’s huge so he makes it tough, but he’s relentless and so it’s …"
    ]
   },
   {
@@ -74,6 +229,31 @@
    ]
   },
   {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "roster",
+   "key": "https://www.nba.com/heat/news/heat-sign-lester-quinones",
+   "url": "https://www.nba.com/heat/news/heat-sign-lester-quinones",
+   "canonical_url": "https://heat.com/news/heat-sign-lester-quinones",
+   "title": "HEAT SIGN LESTER QUIÑONES",
+   "author": "Miami HEAT",
+   "published_utc": "2026-09-29T17:18:59Z",
+   "tags": [
+    "Trending"
+   ],
+   "summary": "Your Miami HEAT announced today that they have signed guard Lester Quiñones. Per club policy, terms of the deal were not disclosed.",
+   "facts": [
+    "Quiñones, who was named to the All-NBA G League First Team and selected to the NBA G League Next Up Game, appeared in 36 regular season G League games (35 starts) last season with the Osceola Magic and averaged a team-le…",
+    "He led the team in points, field goals made, three-point field goals made, free throws made and plus/minus and recorded 27 20-point games, including four 30-point performances.",
+    "His returning rights were acquired by the HEAT’s G League affiliate, the Sioux Falls Skyforce, in a four-team trade on September 26.",
+    "Quiñones has appeared in 99 career regular season G League games (98 starts) and averaged 22.2 points, 6.2 rebounds, 4.1 assists, 1.11 steals and 33.2 minutes while shooting 45.3 percent from the field, 37.3 percent from…",
+    "He has also appeared in 54 career NBA games over three seasons with New Orleans, Philadelphia and Golden State averaging 4.8 points, 1.7 rebounds and 1.1 assists in 11.0 minutes of action."
+   ],
+   "quotes": []
+  },
+  {
    "source": "IND 公式（nba.com）",
    "team": "IND",
    "team_ja": "ペイサーズ",
@@ -85,7 +265,9 @@
    "title": "Indiana Pacers Announce 2026-27 Training Camp Roster",
    "author": "Wheat Hotchkiss",
    "published_utc": "2026-09-29T16:36:21Z",
-   "tags": [],
+   "tags": [
+    "2026 Training Camp"
+   ],
    "summary": "INDIANAPOLIS — The Indiana Pacers announced on Tuesday their training camp roster for the 2026-27 season. Training camp will be held at the Ascension St. Vincent Center in Indianapolis beginning Tuesday, September 29.",
    "facts": [
     "INDIANAPOLIS — The Indiana Pacers announced on Tuesday their training camp roster for the 2026-27 season.",
@@ -159,6 +341,7 @@
    "author": "Hornets PR",
    "published_utc": "2026-09-29T12:50:28Z",
    "tags": [
+    "2026 Training Camp",
     "Featured",
     "Press Release"
    ],
@@ -1262,105 +1445,6 @@
     "Most of the time everybody just assumes that we’re tough and we just can handle everything,",
     "I really feel for guys out there, even more so now, because when I say it to myself, I’m like, ‘Yeah, I’m different. But this gives me an opportunity to go out and prove something greater.’ And that’s…",
     "I just think we need to take, in our industry, a little bit more serious. When guys go through surgery, they’re not coming off that surgery table the same. The rehab is going to be crappy, it’s going …"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "roster",
-   "key": "https://www.nba.com/cavaliers/news/features-camp-questions-260926",
-   "url": "https://www.nba.com/cavaliers/news/features-camp-questions-260926",
-   "canonical_url": "https://cavs.com/news/features-camp-questions-260926",
-   "title": "Pre-Training Camp Questions, Part 3",
-   "author": "clejgabriele",
-   "published_utc": "2026-09-26T21:37:17Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "With Training Camp tipping off just on the other side of the weekend – and on the other side of the Atlantic Ocean – Cavaliers President of Basketball Operations Koby Altman and Head Coach Kenny Atkinson met with the media on Friday afternoon at CCC in Independence.",
-   "facts": [
-    "The answers will begin to avail themselves when the ball goes up against Boston on October 8.",
-    "Until then, here’s Part 3 … Will Evan Mobley take the next big step?",
-    "Usually, 25-year-olds aren’t forced to answer for their “next big step” as much as Evan Mobley has in his short stay in the Association.",
-    "It’s hard to believe that the soft-spoken seven-footer is going into his sixth NBA season after being taken No. 3 overall out of USC in 2021.",
-    "In the playoffs, the former DPOY rejected 32 shots, with multiple blocks in nine straight games.",
-    "In Cleveland’s Game 4 win over the Pistons, he became the first player team history to post five blocks and three steals in a single playoff game.",
-    "Every year, it seems farfetched that a fringe guy could climb through the ranks and find his way into an NBA rotation, especially on a team like Cleveland that’s averaged 52 wins a year over the past five.",
-    "But another annual fact of life is that injuries happen over the 82-game grind, and unlikely heroes arise every season."
-   ],
-   "quotes": [
-    "All he’s done is win since he’s gotten here,",
-    "And we’re going to ask for more from him. We want more. And he knows that.",
-    "Just having a lot of conversations with Evan this summer and being around him a lot, I think he does have a chip on his shoulder,",
-    "There's another level for him at 25 years old,"
-   ]
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "feature",
-   "key": "https://www.nba.com/suns/news/how-continuity-will-help-the-phoenix-suns-strengthen-their-identity",
-   "url": "https://www.nba.com/suns/news/how-continuity-will-help-the-phoenix-suns-strengthen-their-identity",
-   "canonical_url": "https://suns.com/news/how-continuity-will-help-the-phoenix-suns-strengthen-their-identity",
-   "title": "How continuity will help the Phoenix Suns strengthen their identity",
-   "author": "Shane Young",
-   "published_utc": "2026-09-26T20:00:07Z",
-   "tags": [
-    "2026-27"
-   ],
-   "summary": "The Phoenix Suns are determined to build on the success of last season and elevate themselves in a stacked Western Conference by doubling down on the formula that earned them league-wide respect.",
-   "facts": [
-    "The Suns are returning 76.2% of their player minutes from last season, giving Phoenix the sixth-highest continuity rating in the league.",
-    "For the Suns, it's their highest mark since the beginning of 2021-22, which led to the best regular season in franchise history.",
-    "This season will also mark the second time over the last decade that Phoenix has been above 70% continuity.",
-    "Both the New York Knicks (3rd) and Oklahoma City Thunder (7th) had ratings above 78% heading into their title-winning seasons.",
-    "Joining the group of returning players will be Miles Bridges and Luke Kennard, who both have a strong feel for the game and can easily plug right into head coach Jordan Ott's vision.",
-    "By incorporating Bridges, the 28-year-old with a resume of versatile scoring and underrated playmaking, Phoenix is looking to increase their speed and downhill presence.",
-    "He finished 205 possessions that classified as transition chances last season - a number that would have ranked second on the Suns, behind only Devin Booker.",
-    "Over the last three seasons, Bridges has ranked in the 87th percentile amongst all wings in defensive rebounding rate."
-   ],
-   "quotes": [
-    "Our continuity and internal development are so critical for us right now,",
-    "When those two come together, we have a chance in front of us. With the continuity of our players, the continuity of our staff, with a huge focus on development, we're going to take big jumps this sum…",
-    "I think the only way to do it is with everybody on the same page,",
-    "That's where we're at right now. And that's why we're in a good place. We have a solid foundation to continue to build on."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/flagg-ready-to-prove-rookie-seasons-only-blip-was-an-aberration",
-   "url": "https://www.nba.com/mavs/news/flagg-ready-to-prove-rookie-seasons-only-blip-was-an-aberration",
-   "canonical_url": "https://mavs.com/mavs/news/flagg-ready-to-prove-rookie-seasons-only-blip-was-an-aberration",
-   "title": "Flagg ready to prove rookie season's only blip was an aberration",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-09-26T19:46:27Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "Even casual basketball observers could figure out that Cooper Flagg’s rookie season was a beating.",
-   "facts": [
-    "But the mental aspect of losing 56 games and winning only 26 was a miserable experience that was totally foreign to the man who would be rookie of the year.",
-    "Considering Flagg had hardly lost six times in his life, much less 56 times, it was uncharted territory.",
-    "And as Flagg and his teammates went through their first practice of training camp for the 2026-27 season on Saturday, it was a time to put the lessons of last season into motion.",
-    "After all, he shot 29.5 percent last season (72-of-244) from three-point land.",
-    "This came after hitting 38.5 percent (52-135) during his only collegiate season.",
-    "And when he hits his 20th birthday on Dec. 21, he’ll already be a quarter of the way through his second season."
-   ],
-   "quotes": [
-    "It’s tough, you never want to lose,",
-    "Obviously, you never want to be OK with losing games.",
-    "The NBA line is a little farther back,",
-    "The game’s a different pace. But I felt like I was indecisive, I think, a lot of the year. I wasn’t confident shooting shots that I normally shoot. It probably comes down to my preparation."
    ]
   }
  ]
