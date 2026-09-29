@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "307-dylan-harper-spurs-role.html",
+    cat: "NBA",
+    title: "ハーパー「コーチが望む場所に、喜んで入る」—— 役割論争にスパーズのガードが淡々と応じる",
+    excerpt: "サンアントニオ・スパーズのディラン・ハーパーは現地時間9月28日のメディアデーで、オフシーズンに注目された自身の役割について「コーチ陣が最善だと考える場所に、喜んで入る」と語った。チームの勝利に何ができるかを最優先に挙げた。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "306-embiid-76ers-extremely-excited.html",
+    cat: "NBA",
+    title: "エンビード「このチームには本気で興奮している」—— レブロン加入の76ers、正しい組み合わせに手応え",
+    excerpt: "フィラデルフィア76ersのジョエル・エンビードは現地時間9月28日のメディアデーで、ジェイレン・ブラウン獲得とレブロン・ジェームズ加入を経た今季のチームについて「このチームには本気で興奮している」と語った。ベテランと若手の組み合わせを評価した。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "305-tatum-comfortable-leading-celtics-post-brown-trade.html",
     cat: "NBA",
     title: "テイタム「とても心地いい」—— ブラウン放出後の新生セルティックス、10年目でリーダーシップ引き受け",
