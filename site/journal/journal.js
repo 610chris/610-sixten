@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "308-bronny-james-own-path.html",
+    cat: "NBA",
+    title: "ブロニー・ジェームズ「彼には彼の道、僕には僕の道がある」—— レブロンの76ers移籍後、レイカーズで自分を証明する道へ",
+    excerpt: "ロサンゼルス・レイカーズのブロニー・ジェームズは現地時間9月28日のメディアデーで、父レブロン・ジェームズが今夏フィラデルフィア76ersへ移籍したことについて「彼には彼の道があり、僕には僕の道がある」と語った。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "307-dylan-harper-spurs-role.html",
     cat: "NBA",
     title: "ハーパー「コーチが望む場所に、喜んで入る」—— 役割論争にスパーズのガードが淡々と応じる",
