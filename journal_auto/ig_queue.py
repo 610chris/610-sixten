@@ -127,10 +127,33 @@ def find(data, article_id):
 
 # ---------------------------------------------------------------- キャプション
 
-def build_caption(item):
-    """キャプション未指定時の既定フォーマット。
+IG_HANDLE = "@sixten"
 
-    IGは本文中のURLがリンクにならないので導線は「プロフィールのリンク」に寄せる。
+# 問いかけをルーチンが書かなかった時の既定（カテゴリ別）。記事固有の問いの方が
+# コメントは付くので、PROMPT_CLOUD.md §3b でルーチンに --question を書かせるのが本線
+DEFAULT_QUESTION = {
+    "NBA": "みんなはこのニュース、どう見る？",
+    "JAPAN": "みんなはこのニュース、どう見る？",
+    "KICKS": "これ、買う？見送る？",
+    "CULTURE": "みんなはどう思う？",
+    "REPORT": "みんなはどう思う？",
+}
+
+
+def build_caption(item):
+    """IGリールのキャプション（2026-09-29 クリス指定: コメントを引き出す → @sixten をフォロー → 詳しくは記事）
+
+        見出し（1行目が引き。IGは2行目以降を「続きを読む」で畳む）
+        要点3行
+        💬 問いかけ 👇コメントで教えて
+        👉 @sixten をフォロー
+        📰 詳しくは記事で（プロフィールのリンク）
+        出典・写真クレジット
+        ハッシュタグ
+
+    問いかけは item["question"]（ルーチンが記事ごとに書く）→ 無ければカテゴリ別の既定。
+    ケガ・訃報・事件など重いニュースは item["no_question"]=True で問いかけ自体を出さない。
+    IGは本文中のURLがリンクにならないので記事への導線は「プロフィールのリンク」に寄せる。
     写真クレジットは CC BY-SA の表示義務なので必ず入れる（消さないこと）。
     """
     lines = [item["headline"], ""]
@@ -138,12 +161,17 @@ def build_caption(item):
         lines += ["・" + p for p in item["points"]] + [""]
     elif item.get("excerpt"):
         lines += [item["excerpt"], ""]
-    lines.append("詳しくは 610バスケットボールジャーナル（プロフィールのリンク）から。")
+    if not item.get("no_question"):
+        q = (item.get("question") or "").strip() or DEFAULT_QUESTION.get(item.get("category", ""), "みんなはどう思う？")
+        lines += [f"💬 {q}", "👇 コメントで教えて！", ""]
+    lines.append(f"👉 最新のバスケニュースは {IG_HANDLE} をフォローしてチェック")
+    lines.append("📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ")
     lines.append("")
     if item.get("source"):
         lines.append(f"出典: {item['source']}")
-    if item.get("photo_credit"):
-        lines.append(f"写真: {item['photo_credit']}")
+    credit = item.get("photo_credit") or ""
+    if credit:
+        lines.append(credit if credit.startswith(("写真", "撮影")) else f"写真: {credit}")
     lines.append("")
     lines.append(" ".join(dict.fromkeys(TAGS_BASE + TAGS_BY_CAT.get(item.get("category", ""), []))))
     return "\n".join(lines)
@@ -169,6 +197,10 @@ def cmd_add(args):
         "hero_path": meta["hero_path"],
         # 動画(video_input.py)の背景写真を探す検索語。記事の主役の選手名（英語）
         "subject": [s.strip() for s in (args.subject or []) if s.strip()],
+        # リールのコメント誘導（build_caption 参照）
+        "question": (args.question or "").strip(),
+        "no_question": bool(args.no_question),
+        "caption_manual": bool(args.caption),
         "images": [],
         "state": "pending",
         "created": datetime.now(JST).isoformat(timespec="seconds"),
@@ -187,6 +219,10 @@ def cmd_add(args):
         item["images"] = old["images"]
         if not item["subject"]:
             item["subject"] = old.get("subject", [])
+        if not item["question"] and not item["no_question"]:
+            item["question"] = old.get("question", "")
+            item["no_question"] = old.get("no_question", False)
+            item["caption"] = args.caption or build_caption(item)
         data["items"] = [item if x["id"] == aid else x for x in data["items"]]
         print(f"[update] {aid} {item['headline']}")
     else:
@@ -251,7 +287,10 @@ def main():
     a.add_argument("id")
     a.add_argument("--headline", help="IG用の短い見出し（省略時はog:title）")
     a.add_argument("--points", nargs="*", help="要点3行（2枚目のカードに載る）")
-    a.add_argument("--caption", help="キャプション全文（省略時は自動生成）")
+    a.add_argument("--caption", help="キャプション全文（省略時は自動生成・普段は使わない）")
+    a.add_argument("--question", help="コメントを引き出す問いかけ（記事ごと。省略時はカテゴリ別の既定）")
+    a.add_argument("--no-question", dest="no_question", action="store_true",
+                   help="問いかけを出さない（ケガ・訃報・事件など重いニュース）")
     a.add_argument("--source", help="出典（例: Nice Kicks / Shams Charania（ESPN））")
     a.add_argument("--photo-credit", dest="photo_credit", help="省略時は記事のfigcaptionから")
     a.add_argument("--subject", nargs="*",

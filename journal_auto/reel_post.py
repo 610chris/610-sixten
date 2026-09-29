@@ -24,7 +24,7 @@ GitHub Actions（.github/workflows/video-build.yml）が動画を書き出した
 ~/.claude/scripts/ig_token_secret_sync.py が毎日入れ直す（延長自体は reels_sync.py が毎朝やっている）。
 """
 
-import argparse, json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, json, os, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -80,18 +80,15 @@ def wait_finished(container_id, tok):
 
 
 def reel_caption(item, credit):
-    """カルーセル用キャプションの「写真:」を動画の背景写真のクレジットに差し替える。
+    """投稿直前に ig_queue.build_caption で組み直す（キューに入った時点の古い書式を出さない）。
 
-    背景は記事ヒーローと別の写真（Commons 等）になることが多く、CC BY の表示義務は
-    動画に実際に使った写真に対して負う。クレジットが無い（記事ヒーロー流用）時は記事のまま。
+    「写真:」は動画の背景写真のクレジットに差し替える。背景は記事ヒーローと別の写真
+    （Commons 等）になることが多く、CC BY の表示義務は動画に実際に使った写真に対して負う。
+    クレジットが無い（記事ヒーロー流用）時は記事のまま。--caption で手書きした記事だけはそのまま使う。
     """
-    cap = item.get("caption") or Q.build_caption(item)
-    if not credit:
-        return cap
-    line = credit if credit.startswith(("写真", "撮影")) else f"写真: {credit}"
-    if re.search(r"^写真: .*$", cap, re.M):
-        return re.sub(r"^写真: .*$", lambda _: line, cap, count=1, flags=re.M)
-    return cap.replace("\n\n#", f"\n{line}\n\n#", 1) if "\n\n#" in cap else f"{cap}\n{line}"
+    if item.get("caption_manual") and item.get("caption"):
+        return item["caption"]
+    return Q.build_caption(dict(item, photo_credit=credit or item.get("photo_credit", "")))
 
 
 def post_one(item, st, tok, test=False):
