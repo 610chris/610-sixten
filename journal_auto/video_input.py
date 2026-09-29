@@ -75,6 +75,25 @@ PHOTO_OVERRIDES = {
     "307": ("https://a.espncdn.com/photo/2026/0204/r1610377.jpg", "Daniel Dunn-Imagn Images"),
     "308": ("https://a.espncdn.com/photo/2025/1004/r1555269.jpg", "Denis Poroy/Imagn Images"),
 }
+# ニュース型の見出し・本文の改行位置を記事ごとに指定する（記事番号 → {"headline": str, "body": [str]}）。
+# 画面幅で機械的に折り返すと単語の途中で切れるので、意味の切れ目に "\n" を入れた文字で置き換える。
+# 見出しは 68px で1行13字・58px で1行16字まで（theme.ts headlineFontSize）、本文は40pxで1行22字までを目安にする。
+TEXT_OVERRIDES = {
+    "297": {"headline": "カニングハムに\n「もっと良いバージョン」\n—— ピストンズHC保証",
+            "body": ["ビッカースタッフHC\n「彼は自分から引っ張っている」",
+                     "昨季23.9得点9.9アシスト、東地区最多TOは課題",
+                     "初シグネチャーNikeシューズは今季後半デビュー"]},
+    "298": {"headline": "SGA、未発売の\nV.A.A. x AF1 Lowを\nメディアデーで披露"},
+    "299": {"headline": "バックス、\nトレント・Jr.契約の\nNBA調査に進展なし",
+            "body": ["エデンス共同オーナー、\n開示できる進展はないと説明",
+                     "今オフの契約にキャップ規定違反の疑い",
+                     "リーグに全面協力していると強調"]},
+    "300": {"headline": "ニックス、タウンズに続き\nハートの延長交渉も難航"},
+    "301": {"headline": "エドワーズ\n「もう運ばなくていい」\nボール加入でSG回帰"},
+    "302": {"headline": "バトラー\n「僕の数値は驚異的」\n—— ACL手術から8カ月"},
+    "303": {"headline": "デイビス\n「シーズン終了後に決める」\n—— ウィザーズ残留は\n開幕後に持ち越し"},
+    "306": {"headline": "エンビード\n「このチームには\n本気で興奮している」"},
+}
 SITE_JOURNAL = os.path.join(ROOT, "site", "journal")
 NOT_SOURCE = re.compile(r"fonts\.(googleapis|gstatic)\.com|sixten\.jp|instagram\.com/sixten|"
                         r"creativecommons\.org|wikimedia\.org|wikipedia\.org")
@@ -414,7 +433,8 @@ def build(aid):
             "background": {"type": "image", "src": bg_rel},
             "credit": credit,
         }
-    bgm = BGM.get(props.get("template", "news"), BGM["news"])
+        props.update(TEXT_OVERRIDES.get(aid, {}))
+    bgm =BGM.get(props.get("template", "news"), BGM["news"])
     if not os.path.exists(os.path.join(VIDEO, "public", bgm)):
         raise RuntimeError(f"BGM が無い（BGMなしでは書き出さない）: journal_video/public/{bgm}")
     props.update({"bgm": bgm, "_article": item["url"], "_route": route})
