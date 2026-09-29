@@ -360,7 +360,6 @@
         }
         partBufs = [buffer(tgt, P, 'aTarget', 3), buffer(st, P, 'aStart', 3), buffer(rnd, P, 'aRand', 4)];
         partCount = N;
-        introStart = performance.now();
       } catch (e) { fail(); }
     };
     img.onerror = fail;
@@ -379,12 +378,22 @@
       proj.fill(0);
       proj[0] = f / asp; proj[5] = f; proj[10] = (far + near) / (near - far); proj[11] = -1; proj[14] = 2 * far * near / (near - far);
       // ロゴの位置は <img> に合わせる（img 自身は透明で残す＝SEO・フォールバック）
+      // 画像の読み込み前は高さ0で測れてしまう（=610 が潰れた形・ずれた位置に集まる）ので、測れるまで集め始めない
       var lr = logoImg.getBoundingClientRect();
+      if (lr.width < 2 || lr.height < 2) return;
       logoRect = [lr.left - r.left - Wc / 2, Hc / 2 - (lr.top - r.top), lr.width, lr.height];
+      logoReady = true;
     }
+    var logoReady = false;
     resize();
-    if (window.ResizeObserver) new ResizeObserver(resize).observe(hero);
+    // ヒーローの高さは画面いっぱいで変わらないので、ロゴ画像・社名（Webフォント）の読み込みでロゴが動いた時も測り直す
+    if (window.ResizeObserver) {
+      var ro = new ResizeObserver(resize);
+      [hero, logoImg, hero.querySelector('.hero-name'), hero.querySelector('.hero-tag')].forEach(function (el) { if (el) ro.observe(el); });
+    }
     addEventListener('resize', resize);
+    logoImg.addEventListener('load', resize);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(resize);
 
     function lookAt(ex, ey, ez) {
       // 原点を見る。up=(0,1,0)
@@ -451,8 +460,12 @@
       gl.clearColor(0, 0, 0, 0);
       gl.clear(gl.COLOR_BUFFER_BIT);
 
-      // 粒子ロゴ
-      if (partBufs) {
+      // 粒子ロゴ（粒の準備とロゴ位置の測定がそろってから集め始める）
+      if (partBufs && !introStart) {
+        if (!logoReady) resize();
+        if (logoReady) introStart = now;
+      }
+      if (partBufs && introStart) {
         var intro = (now - introStart) / 1000;
         gl.useProgram(P.p);
         gl.uniformMatrix4fv(P.u.uProj, false, proj);
@@ -479,6 +492,6 @@
     }
 
     canvas.addEventListener('webglcontextlost', function (e) { e.preventDefault(); fail(); });
-    return { render: render, intro: function (now) { return partBufs ? (now - introStart) / 1000 : -1; }, state: function () { return { scatter: scatter, scatT: scatT, goal: goal, visible: visible }; } };
+    return { render: render, intro: function (now) { return partBufs && introStart ? (now - introStart) / 1000 : -1; }, state: function () { return { scatter: scatter, scatT: scatT, goal: goal, visible: visible }; } };
   }
 })();
