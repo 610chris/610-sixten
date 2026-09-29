@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "315-embiid-full-participant-sixers-practice.html",
+    cat: "NBA",
+    title: "エンビード「フル参加」で76ers始動 —— ナース監督「非常に良いニュース」、故障続きからの復調に手応え",
+    excerpt: "フィラデルフィア76ersのジョエル・エンビードは現地時間9月29日、トレーニングキャンプの初練習に最初から最後までフル参加した。ニック・ナースHCは「非常に良いニュースだ」と評価。直近3シーズンで150試合を欠場してきただけに、上々の滑り出しとなった。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "314-nba-vegas-expansion-bids.html",
     cat: "NBA",
     title: "NBA、ラスベガス拡張枠の入札を最終候補3グループに絞る —— 総額120億〜130億ドル規模",
