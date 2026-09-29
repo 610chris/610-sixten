@@ -18,6 +18,16 @@
     ⑤ 記事ヒーローをぼかして敷き、くっきりしたヒーローを上側に重ねる
     ⑥ 記事が汎用イメージ写真（fallback-images.md）を使っていて記事専用ヒーローが無い場合、
        その写真の縦版（1080x1920・make_video_fallbacks.py で常備）をフル画面で敷く
+
+メディアデーの記事（見出し・要約・要点に「メディアデー」を含む）だけは、①より前に
+「新ユニフォーム姿の新しい写真」を探す（2026-09-29 クリス指示「メディアデーで、新ユニフォーム姿が
+あったりする！それをこのメディアデーのIGリール投稿ではどんどんその新しい画像を使ってほしい！」）:
+    ⓪-a subject で Commons 検索（直近 FRESH_DAYS 日に撮影・条件は②と同じ）
+    ⓪-b NBA.com 公式ヘッドショットが直近 FRESH_DAYS 日に更新されている（＝今季のメディアデー撮影分）
+取れなければ従来の①〜⑥に戻る。チーム公式IG・Getty・NBA.com のフォトギャラリーの写真は
+クレジットを付けても使えない（PROMPT_CLOUD.md §1b）ので探さない。
+NBA.com のヘッドショットは毎年メディアデー直後の約2週間で順に差し替わる（2025年は 9/24〜10/6 に
+更新されたことを Last-Modified で確認）ので、更新前の選手は従来の写真になる。
 """
 
 import io, json, os, re, sys, urllib.parse, urllib.request
@@ -41,6 +51,8 @@ MIN_CROP_H = 1600        # ②④: 縦に切る高さ（元画像px）の下限�
 MIN_CROP_H_HERO = 1200   # ①: 記事と同じ写真は多少粗くても優先する
 MAX_TRY = 8
 GENERIC = re.compile(r"^イメージ|本文とは直接関係")
+MEDIADAY = re.compile(r"メディアデー|[Mm]edia [Dd]ay")
+FRESH_DAYS = 14          # メディアデー記事で「新しい写真」とみなす日数
 
 
 def log(msg):
@@ -92,8 +104,9 @@ def route_hero_source(item):
     return img, src["credit"], f"hero_source {how}"
 
 
-def route_commons(names, years):
-    since = datetime.now(timezone.utc) - timedelta(days=365 * years) if years else None
+def route_commons(names, years, days=None):
+    since = datetime.now(timezone.utc) - timedelta(days=days or 365 * years) if (days or years) else None
+    span = f"直近{days}日" if days else ("直近%d年" % years if years else "年代不問")
     for name in names:
         last = name.split()[-1].lower()
         try:
@@ -104,7 +117,7 @@ def route_commons(names, years):
         cands = [c for c in cands if eligible(c, since) and last in c["title"].lower()
                  and min(c["height"], c["width"] * 16 / 9) >= MIN_CROP_H]
         cands.sort(key=rank_key, reverse=True)
-        log(f"  Commons「{name}」{'直近%d年' % years if years else '年代不問'}: 候補{len(cands)}")
+        log(f"  Commons「{name}」{span}: 候補{len(cands)}")
         for c in cands[:MAX_TRY]:
             try:
                 data = fetch(c["url"])
@@ -130,7 +143,8 @@ def wikidata_json(params):
         return json.load(r)
 
 
-def route_nba_headshot(names):
+def route_nba_headshot(names, fresh_since=None):
+    """fresh_since を渡すと、その日時より後に更新されたヘッドショットだけを使う（メディアデー用）"""
     for name in names:
         try:
             hits = wikidata_json({"action": "wbsearchentities", "search": name, "language": "en",
@@ -148,6 +162,13 @@ def route_nba_headshot(names):
             url = f"https://cdn.nba.com/headshots/nba/latest/1040x760/{pid}.png"
             req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(req, timeout=30) as r:
+                modified = r.headers.get("Last-Modified")
+                if fresh_since:
+                    from email.utils import parsedate_to_datetime
+                    mod = parsedate_to_datetime(modified) if modified else None
+                    if not mod or mod < fresh_since:
+                        log(f"  ⓪-b ヘッドショットが今季の更新前: {name} id={pid} 更新={modified or '不明'}")
+                        continue
                 head = Image.open(io.BytesIO(r.read())).convert("RGBA")
         except Exception as e:
             log(f"  ③ 失敗 {name}: {e}")
@@ -164,7 +185,24 @@ def route_nba_headshot(names):
         head.putalpha(Image.composite(alpha, Image.new("L", (tw, th), 0), mask))
         bg = Image.new("RGBA", (W, H), (0, 0, 0, 255))
         bg.alpha_composite(head, ((W - tw) // 2, 180))
-        return bg.convert("RGB"), "写真: NBA.com", f"nba_headshot id={pid}"
+        return bg.convert("RGB"), "写真: NBA.com", f"nba_headshot id={pid} 更新={modified or '不明'}"
+    return None
+
+
+def is_mediaday(item):
+    text = " ".join([item.get("headline", ""), item.get("excerpt", "")] + list(item.get("points") or []))
+    return bool(MEDIADAY.search(text))
+
+
+def route_fresh(names):
+    """メディアデー記事: 新ユニフォーム姿が写っている見込みの高い、撮影・更新が新しい写真だけを探す"""
+    since = datetime.now(timezone.utc) - timedelta(days=FRESH_DAYS)
+    log(f"  メディアデー記事: 直近{FRESH_DAYS}日の新しい写真を優先して探す")
+    got = route_commons(names, 0, days=FRESH_DAYS) or route_nba_headshot(names, fresh_since=since)
+    if got:
+        img, credit, route = got
+        return img, credit, f"mediaday_fresh {route}"
+    log("  ⓪ 新しい写真なし → 従来の順で探す")
     return None
 
 
@@ -218,7 +256,8 @@ def build(aid):
     item = find_item(aid)
     names = [s for s in item.get("subject") or [] if s.strip()]
     log(f"[{aid}] {item['headline']} subject={names or 'なし'}")
-    got = route_hero_source(item)
+    got = route_fresh(names) if names and is_mediaday(item) else None
+    got = got or route_hero_source(item)
     if not got and names:
         got = route_commons(names, 3) or route_nba_headshot(names) or route_commons(names, 0)
     if not got:
