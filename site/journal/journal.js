@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "305-tatum-comfortable-leading-celtics-post-brown-trade.html",
+    cat: "NBA",
+    title: "テイタム「とても心地いい」—— ブラウン放出後の新生セルティックス、10年目でリーダーシップ引き受け",
+    excerpt: "ボストン・セルティックスのジェイソン・テイタムは現地時間9月28日のメディアデーで、長年の相棒ジェイレン・ブラウンが76ersへトレードされた後のチームを率いることについて「とても心地いい。10年目だから」と語った。ポール・ジョージやミッチェル・ロビンソンらを加えた新体制での船出となる。ESPNが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "304-zion-williamson-not-where-i-want-to-be.html",
     cat: "NBA",
     title: "ザイオン・ウィリアムソン「まだそこには届いていない」—— 8年目の減量成功、ペリカンズは契約延長より再建優先で一致",
