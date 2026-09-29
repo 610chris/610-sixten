@@ -31,11 +31,20 @@ NBA.com の公式ヘッドショット（顔写真を黒地に合成する経路
 直近 FRESH_DAYS 日の撮影に絞って探す（2026-09-29 クリス指示「メディアデーで、新ユニフォーム姿が
 あったりする！それをこのメディアデーのIGリール投稿ではどんどんその新しい画像を使ってほしい！」）。
 
+Ⓛ NBA写真ライブラリ（各チーム公式IGの写真・Mac 側で集めて Release「photolib」に置いたもの。
+索引は journal_auto/photolib_index.json＝~/.claude/scripts/nba_photo_library/publish_photolib.py が生成）
+を subject の選手名で引く（2026-09-30 設置）。
+    - メディアデー記事: ⓞ の次・ⓢ より前（チーム公式の新ユニフォーム姿を最優先で使う）
+    - それ以外の記事: ⓢ の次（ネタ元の写真が取れない時の代替）
+同じ写真が続かないよう、video_build.py が video_status.json の経路（"library <key> …"）から使用回数を数えて
+渡し、使った回数の少ない写真 → 主役1人だけの写真 → （メディアデー記事なら）メディアデーの写真 → 撮影日が新しい順に選ぶ。
+
 BGM は型ごとに BGM の曲を必ず入れる（2026-09-29 クリス指示「このIGリールBGMがない！れkは大問題だわ！！」）。
 曲ファイルが journal_video/public/ に無いときは例外で止める＝BGMなしの動画は書き出さない。
 """
 
-import io, json, os, re, sys, urllib.parse, urllib.request
+import io, json, os, re, sys, unicodedata, urllib.parse, urllib.request
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -50,6 +59,10 @@ ROOT = os.path.dirname(HERE)
 VIDEO = os.path.join(ROOT, "journal_video")
 QUEUE = os.path.join(HERE, "ig_queue.json")
 SOURCES = os.path.join(HERE, "hero_sources.json")
+LIBRARY = os.path.join(HERE, "photolib_index.json")
+LIBRARY_MEDIADAY_EVENTS = {"メディアデー", "メディアデー期間"}
+# NBA.com の選手顔写真（headshot）は背景に使わない（2026-09-29 クリス「あの種類の画像は2度と使うな」）
+HEADSHOT = re.compile(r"cdn\.nba\.com/headshots|/headshots/", re.I)
 W, H = 1080, 1920
 FACE_Y = 0.30            # 顔の中心を仕上がりの上から何割に置くか
 MIN_CROP_H = 1600        # ②④: 縦に切る高さ（元画像px）の下限。これ未満は拡大で眠くなる
@@ -301,6 +314,93 @@ def route_fresh(names):
     return None
 
 
+def norm_name(s):
+    """選手名の照合用（アクセント・大文字小文字・記号を落とす: Jokić → nikolajokic）"""
+    s = unicodedata.normalize("NFKD", s or "")
+    return re.sub(r"[^a-z0-9]", "", "".join(c for c in s if not unicodedata.combining(c)).lower())
+
+
+def split_names(names):
+    """subject は ["A|B"] のように1要素に複数名が入っていることがある"""
+    return [p.strip() for n in names or [] for p in n.split("|") if p.strip()]
+
+
+def library_used(status, exclude_aid=None):
+    """video_status.json → ライブラリ写真の key ごとの使用回数（作り直す記事自身の分は数えない）"""
+    used = Counter()
+    for aid, st in (status or {}).items():
+        route = st.get("route") or ""
+        if aid != exclude_aid and route.startswith("library "):
+            used[route.split()[1]] += 1
+    return used
+
+
+def group_focus_x(data):
+    """複数人の写真: 大きい顔（最大の顔の半分以上の幅）全員の横位置の中央（0〜1）。取れなければ None。
+    detect_face は一番大きい顔しか返さないので、2ショットで主役が端にいると主役が切れる（Curry×Lendeborg で発生）"""
+    try:
+        import cv2, numpy as np
+        from pick_commons_photo import YUNET, FACE_SCORE, FACE_LONG
+        im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert("RGB")
+        s = min(1.0, FACE_LONG / max(im.size))
+        if s < 1.0:
+            im = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
+        arr = np.ascontiguousarray(np.asarray(im)[:, :, ::-1])
+        det = cv2.FaceDetectorYN.create(YUNET, "", (arr.shape[1], arr.shape[0]), score_threshold=FACE_SCORE)
+        _, faces = det.detect(arr)
+    except Exception:
+        return None
+    if faces is None or len(faces) < 2:
+        return None
+    big = max(f[2] for f in faces)
+    xs = [(f[0] + f[2] / 2) / arr.shape[1] for f in faces if f[2] >= big * 0.5]
+    return (min(xs) + max(xs)) / 2 if len(xs) >= 2 else None
+
+
+def route_library(names, item, used=None):
+    """NBA写真ライブラリ（チーム公式IG）から記事の選手の写真を選び、顔基準で縦に切る"""
+    try:
+        lib = json.load(open(LIBRARY, encoding="utf-8")).get("items") or []
+    except (FileNotFoundError, ValueError):
+        log("  Ⓛ ライブラリ索引が無い")
+        return None
+    used = used or Counter()
+    mediaday = is_mediaday(item)
+    want = [norm_name(n) for n in split_names(names)]
+    best = {}  # key → (候補の並び順キー, 写真)
+    for e in lib:
+        if HEADSHOT.search(e.get("url", "")) or HEADSHOT.search(e.get("source_url", "")):
+            continue
+        ps = {norm_name(p) for p in e.get("players") or []}
+        rank = next((i for i, n in enumerate(want) if n in ps), None)
+        if rank is None:
+            continue
+        # 未使用 → 記事の主役順 → 使った回数が少ない → 1人だけの写真 → メディアデー記事ならメディアデーの写真 → 新しい順
+        # （主役の写真が使い切りなら、記事に出てくる2人目以降の未使用の写真を先に使う）
+        n_used = used.get(e["key"], 0)
+        # @nba（リーグ公式）の投稿は写真に大きな文字を載せた加工画像が多いので、チーム公式の後に回す
+        order = (n_used > 0, rank, n_used, len(ps) > 1, (e.get("credit") or "").startswith("nba "),
+                 mediaday and e.get("event") not in LIBRARY_MEDIADAY_EVENTS,
+                 -int(re.sub(r"\D", "", e.get("date", "")) or 0))
+        best[e["key"]] = (order, e)
+    cands = [e for _, e in sorted(best.values(), key=lambda t: t[0])]
+    log(f"  Ⓛ ライブラリ「{' / '.join(split_names(names))}」: 候補{len(cands)}")
+    for e in cands[:MAX_TRY]:
+        try:
+            data = http_get(e["url"], 60)
+            # 複数人の写真は顔の並びの中央で切る（一番大きい顔＝主役とは限らない）
+            fx = group_focus_x(data) if len(e.get("players") or []) > 1 else None
+            img, how = portrait_from(data, MIN_CROP_H_SOURCE, fx)
+        except Exception as ex:
+            log(f"    取得失敗 {e['key']}: {ex}")
+            continue
+        if img is None:
+            log(f"    不採用({how}) {e['key']}")
+            continue
+        return img, f"写真: {e['credit']}", f"library {e['key']} {e.get('event', '')} {e.get('date', '')} {how}"
+    return None
+
+
 def route_generic_fallback(item):
     """記事が汎用イメージ写真を使っている（＝記事専用のヒーローが無い）場合。
 
@@ -400,13 +500,20 @@ def route_override(aid):
     return img, f"写真: {credit}", f"override {img_url} {how}"
 
 
-def build(aid):
+def build(aid, used=None):
+    """used: ライブラリ写真の key → 使用回数（video_build.py が library_used() で渡す）"""
     aid = str(aid).zfill(3)
     item = find_item(aid)
     names = [s for s in item.get("subject") or [] if s.strip()]
+    mediaday = bool(names) and is_mediaday(item)
     log(f"[{aid}] {item['headline']} subject={names or 'なし'}")
-    got = route_override(aid) or route_source(item)
-    if not got and names and is_mediaday(item):
+    got = route_override(aid)
+    if not got and mediaday:
+        got = route_library(names, item, used)
+    got = got or route_source(item)
+    if not got and names and not mediaday:
+        got = route_library(names, item, used)
+    if not got and mediaday:
         got = route_fresh(names)
     got = got or route_hero_source(item)
     if not got and names:

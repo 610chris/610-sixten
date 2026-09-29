@@ -124,7 +124,8 @@ def main():
     failed = 0
     for it in todo:
         try:
-            res = video_input.build(it["id"])
+            # ライブラリ写真を連続で使い回さないよう、ほかの記事での使用回数を渡す
+            res = video_input.build(it["id"], used=video_input.library_used(status, it["id"]))
             rel = os.path.relpath(res["json"], video_input.VIDEO)
             subprocess.run(["npx", "tsx", "scripts/render.ts", rel], cwd=video_input.VIDEO, check=True)
             mp4 = os.path.join(video_input.VIDEO, "out", f"{res['slug']}.mp4")
