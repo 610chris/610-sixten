@@ -1,8 +1,78 @@
 {
- "updated_utc": "2026-09-29 17:38 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-09-29 19:36 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20260929-class-is-in-session-at-celtics-big-fella-university",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20260929-class-is-in-session-at-celtics-big-fella-university",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20260929-class-is-in-session-at-celtics-big-fella-university",
+   "title": "Class is in Session at Celtics’ ‘Big Fella University’",
+   "author": "Taylor Snow",
+   "published_utc": "2026-09-29T19:19:33Z",
+   "tags": [
+    "Practice",
+    "Preseason",
+    "Sidebar",
+    "Training Camp"
+   ],
+   "summary": "BOSTON – On Tuesday, the Celtics opened training camp. And with it, the doors officially opened to Big Fella University.",
+   "facts": [
+    "Garza stretches the floor in the pick-and-pop – he was the league’s most efficient 3-point shooting center last season – while also providing interior scoring, energy, and constant hustle.",
+    "Williams, a sophomore 7-footer, gives Boston a different dimension with his playmaking and ability to facilitate from the high post, along with his screening, rebounding, and interior defense.",
+    "And Cenac is the developing jack-of-all-trades of the group, combining athleticism and mobility with rim protection, rebounding, lob-catching ability, and a growing perimeter game.",
+    "The 7-footer arrives in Boston as one of the league’s second all-time leading offensive rebounder on a per-minute basis behind only Jayson Williams.",
+    "Cenac is still developing his game, but at 6-foot-10 with the mobility to defend multiple positions and an emerging face-up and 3-point shot, he already has the attention of his veteran teammates."
+   ],
+   "quotes": [
+    "I think our Big Fella University is pretty exciting,",
+    "Those guys should be pretty reliable. Night in and night out whoever gets called upon, I got 100 percent confidence we’ll deliver.",
+    "I think we’ve got a great group, a lot of guys that bring different things to the table and just good-character guys in general, so that’s what it takes,",
+    "So we’ll take pride in that."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
+   "url": "https://www.nba.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
+   "canonical_url": "https://mavs.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
+   "title": "Now that he's back home, Marcus Sasser's basketball journey has come full circle",
+   "author": "Dwain Price",
+   "published_utc": "2026-09-29T19:18:59Z",
+   "tags": [
+    "dallas mavericks",
+    "Marcus Sasser",
+    "nba"
+   ],
+   "summary": "Marcus Sasser’s basketball journey has come full circle.",
+   "facts": [
+    "Growing up in the South Dallas suburb of Red Oak, Sasser was such an effective basketball player at the University of Houston that he became a first-round draft pick of the Memphis Grizzlies in 2023.",
+    "And on draft night the crafty guard was first traded to the Boston Celtics and then to the Detroit Pistons, where he pieced together a solid career in the Motor City over the past three years.",
+    "However, as part of a six-team trade, the Pistons traded Sasser to the Dallas Mavericks this past July 8, thus providing him the unique opportunity to pack his bags and come home where he’ll have the pleasure of playing …",
+    "He shot a hefty 41.5 percent from beyond the three-point arc last season, which would have ranked him in the Top 10 in the league had he played the required amount of games.",
+    "His great grandfather, John Barber, was chosen on the seventh round of the 1956 NBA Draft by the Minneapolis Lakers.",
+    "Sasser’s uncle, Jason Sasser, was a second-round pick of the Sacramento Kings in 1996.",
+    "And another uncle, Jeryl Sasser, was a first-round selection of the Orlando Magic in 2001.",
+    "He also remembers his first time playing in American Airlines Center as he scored a game-high 24 points to lead the Pistons to a 107-89 victory over the Mavs on April 12, 2024."
+   ],
+   "quotes": [
+    "It was exciting when I first heard the news -- just coming back home to Dallas,",
+    "For me it’s a new refreshing start, so everything was just exciting and a blessing.",
+    "It can’t get any better than this,",
+    "I’m just here to really take advantage of it and have fun."
+   ]
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -230,38 +300,6 @@
     "This summer was a big summer for us to keep all of the same guys in the same building.",
     " and what that represents. ",
     "Being together working out, doing some events together, or getting together not even in Phoenix. That's special."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "quotes",
-   "key": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "url": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "canonical_url": "https://warriors.com/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "title": "Top Quotes from Warriors 2026 Media Day",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-09-29T01:35:14Z",
-   "tags": [
-    "2026 Media Day",
-    "Warriors Talk"
-   ],
-   "summary": "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday. Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season. Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise f…",
-   "facts": [
-    "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday.",
-    "Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season.",
-    "Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise for the foreseeable future.",
-    "Butler detailed his ongoing recovery from a torn ACL and said he expects to be the same player, or maybe “even a little better,” when he returns.",
-    "We want to go for a top-3 defense in this league.",
-    "Some would say we want to go for the best defense in the league, but I think ultimately just starting, you know, trying to get top-3 week after week, and I think weeks will start to add up. - De’Anthony Melton on the add…"
-   ],
-   "quotes": [
-    "It got to a point where it all made sense for both sides. For me, clarity of mind for the next two, three years, and then with some optionality on, trying to put us in a position to have room and to b…",
-    "I'm not altering anything. I don't care what anybody says. I always tell Steph and Dray, if I'm up there, throw the ball, because I really think I'm a wide receiver. One of my favorite athletes of all…",
-    "Every day we walk in here, we must be on a trajectory of putting together a great project, and if you put together a great project, when you get to the end of it, regardless of what the result is, you…",
-    "I would say playing meaningful minutes. You know, when the game is on the line, I want to be the guy on the court trying to make a play on defense or offense, whatever it has to come to. Then, hopeful…"
    ]
   },
   {
@@ -1051,34 +1089,6 @@
    "facts": [
     "SALT LAKE CITY (September 27, 2026) – The Utah Jazz announced today that the team has signed guard Terrell Brown Jr.",
     "Brown Jr. (6-3, 175, Washington) spent the 2025-26 season with the Greensboro Swarm, where he appeared in 50 games, averaging 11.9 points, 6.1 assists, 3.1 rebounds, and 1.2 steals, helping Greensboro to a G League Champ…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
-   "url": "https://www.nba.com/warriors/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
-   "canonical_url": "https://warriors.com/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
-   "title": "Warriors Announce Roster And Schedule For 2026 Training Camp, Presented By Gatorade",
-   "author": "Golden State Warriors",
-   "published_utc": "2026-09-27T20:00:00Z",
-   "tags": [
-    "2026 Training Camp"
-   ],
-   "summary": "The Golden State Warriors have announced their training camp roster and schedule ahead of the team’s 2026 Training Camp, presented by Gatorade. Golden State has signed free agent guard Miles Kelly, guard Dalen (DAY-lynn) Terry and forward Alex Toohey (TOO-Ee) to contracts, it was also announced today. Per NBA policy, teams are allowed to roster a maximum of 21 players during the offseason and trai…",
-   "facts": [
-    "The Golden State Warriors have announced their training camp roster and schedule ahead of the team’s 2026 Training Camp, presented by Gatorade.",
-    "Golden State has signed free agent guard Miles Kelly, guard Dalen (DAY-lynn) Terry and forward Alex Toohey (TOO-Ee) to contracts, it was also announced today.",
-    "Per NBA policy, teams are allowed to roster a maximum of 21 players during the offseason and training camp.",
-    "Golden State’s Opening Night roster will be finalized by 2 p.m. on Monday, October 19.",
-    "Cannon Activities Center on the campus of BYU-Hawaii on Tuesday, September 29, and will run through Saturday, October 3.",
-    "The Warriors will tip off their six-game preseason schedule against the Los Angeles Clippers on Sunday, October 4 (4 p.m. tip-off), at Bankoh Arena at Stan Sheriff Center on the University of Hawaii campus in Honolulu, b…",
-    "Kelly, 23, appeared in 14 games (all as a reserve) in his rookie season with the Dallas Mavericks last year, averaging 3.1 points, 1.7 rebounds and 0.9 assists in 9.6 minutes per game.",
-    "Unselected in the 2025 NBA Draft, Kelly averaged 11.2 points, 3.5 rebounds and 1.2 assists in 27.0 minutes per game across 133 appearances (96 starts) over four collegiate seasons at Georgia Tech and Auburn."
    ],
    "quotes": []
   },
