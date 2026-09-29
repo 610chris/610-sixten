@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "312-suns-ishbia-mortgage-no-effect.html",
+    cat: "NBA",
+    title: "サンズ会長イシュビア「金融会社の不調、影響はゼロ」—— 保有比率、80%への積み増しも表明",
+    excerpt: "フェニックス・サンズのオーナー、マット・イシュビアは現地時間9月28日、自身が創業した住宅ローン会社の業績不振について「チーム経営には全く関係ない」と述べた。球団の保有比率をさらに14%積み増し、約80%まで引き上げる意向も明らかにした。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "311-air-jordan-4-light-army.html",
     cat: "KICKS",
     title: "Air Jordan 4「Light Army」、10月31日にヨーロッパ限定発売 —— 品番JA5911-320",
