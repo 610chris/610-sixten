@@ -24,7 +24,7 @@ GitHub Actions（.github/workflows/video-build.yml）が動画を書き出した
 ~/.claude/scripts/ig_token_secret_sync.py が毎日入れ直す（延長自体は reels_sync.py が毎朝やっている）。
 """
 
-import argparse, json, os, sys, time, urllib.error, urllib.parse, urllib.request
+import argparse, json, os, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
 from datetime import datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -41,6 +41,7 @@ MAX_ATTEMPTS = 3
 BETWEEN_POSTS = 60      # 秒。まとめて書き出された日に連投にならないように
 POLL_INTERVAL = 10
 POLL_LIMIT = 60         # 最大10分待つ
+THUMB_BEFORE_END = 0.6  # 秒。サムネにするコマ（終わりのこれだけ前）
 
 
 def token():
@@ -91,12 +92,32 @@ def reel_caption(item, credit):
     return Q.build_caption(dict(item, photo_credit=credit or item.get("photo_credit", "")))
 
 
+def thumb_offset_ms(url):
+    """サムネ（カバー）にするコマ＝終わりの THUMB_BEFORE_END 秒前（文字が全部出そろった画面）。
+
+    2026-09-29 クリス指定「サムネが、この今送った状態になるように」。確認用の一覧も同じ時刻で切り出している。
+    長さが測れない時は None（IG の既定＝先頭付近のコマになる）。
+    """
+    try:
+        out = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration",
+                              "-of", "csv=p=0", url], capture_output=True, text=True, timeout=60).stdout
+        return max(0, int((float(out.strip()) - THUMB_BEFORE_END) * 1000))
+    except Exception as e:
+        print(f"    WARN: 動画の長さが測れずサムネ指定なし: {e}", file=sys.stderr)
+        return None
+
+
 def post_one(item, st, tok, test=False):
     if not st["url"].startswith("http"):
         raise RuntimeError(f"動画が Release に上がっていない: {st['url']}")
-    cid = call("me/media", {"media_type": "REELS", "video_url": st["url"],
-                            "caption": reel_caption(item, st.get("credit", "")),
-                            "share_to_feed": "true"}, "POST", tok)["id"]
+    params = {"media_type": "REELS", "video_url": st["url"],
+              "caption": reel_caption(item, st.get("credit", "")),
+              "share_to_feed": "true"}
+    off = thumb_offset_ms(st["url"])
+    if off is not None:
+        params["thumb_offset"] = str(off)
+        print(f"    サムネ = {off / 1000:.1f}秒目")
+    cid = call("me/media", params, "POST", tok)["id"]
     print(f"    container {cid} → FINISHED 待ち")
     wait_finished(cid, tok)
     if test:
