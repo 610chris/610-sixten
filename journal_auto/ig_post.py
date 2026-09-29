@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""610 JOURNAL → Instagram へ実際に投稿する（承認済みだけ）
+"""【停止中】610 JOURNAL → Instagram へ実際に投稿する（承認済みだけ）
+
+⚠️2026-09-29 停止。IG 投稿は縦型動画のリール全自動投稿（reel_post.py・video-build.yml）に切り替えた
+（クリス指定: 承認なしの全自動・リールだけ）。カルーセルを投げると同じ記事が二重に出るので動かさない。
 
 `ig_queue.py approve` で state=approved になった記事だけを対象にする。承認していないものは
 何があっても投げない（クリスの指定＝「生成まで自動＋承認して投稿」）。
@@ -138,6 +141,8 @@ def post_one(item, tok):
 
 
 def main():
+    print("停止中: IG 投稿はリール全自動（journal_auto/reel_post.py）に切り替えた（2026-09-29）")
+    return 1
     ap = argparse.ArgumentParser(description="610 JOURNAL → Instagram 投稿（承認済みのみ）")
     ap.add_argument("ids", nargs="*", help="記事番号（省略時は approved を全部）")
     ap.add_argument("--dry-run", action="store_true", help="投げずに対象と本文だけ出す")

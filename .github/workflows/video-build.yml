@@ -2,6 +2,8 @@ name: Video build
 # 記事が IG キュー（journal_auto/ig_queue.json）に積まれたら、その記事の縦型ニュース動画（1080x1920）を
 # journal_video/（Remotion）で書き出し、Release「videos」に置く。背景は該当選手の写真（journal_auto/video_input.py）。
 # 2026-09-14 設置（クリス指示「俺は1つも動きたくない。完全自動で記事が作られる形がいいんだ」）。
+# 書き出した動画はそのまま @sixten に IG リールとして自動投稿する（journal_auto/reel_post.py）。
+# 2026-09-29 追加（クリス指定: 承認なしの全自動・リールだけ・Actions で投稿）。
 # 記録（video_status.json）も Release 側に置くので、この workflow は commit/push しない＝他の起動を誘発しない。
 on:
   push:
@@ -16,6 +18,9 @@ on:
       force:
         description: 'true で作成済みでも作り直す'
         default: 'false'
+      post:
+        description: 'false でリール投稿をしない（動画を作るだけ）'
+        default: 'true'
 
 permissions:
   contents: write
@@ -73,3 +78,10 @@ jobs:
           # deploy.yml が走らないと記事に <video> が入らないので、ここから明示的に起動する
           # （workflow_dispatch は GITHUB_TOKEN でも起動できる例外・2026-09-20 実測で確認）。
           gh workflow run deploy.yml --ref main
+      - name: Post reels
+        # 動画が一部失敗しても、できた分は投稿する
+        if: ${{ !cancelled() && github.event.inputs.post != 'false' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python3 journal_auto/reel_post.py
