@@ -11,23 +11,28 @@
     journal_video/public/assets/journal/auto/<NNN>-bg.jpg
 
 背景は次の順で探し、取れた時点で止める（item["subject"] = 記事の主役の選手名・英語）:
+    ⓢ ネタ元記事のメイン画像（記事ページの外部リンク＝ネタ元。ESPN は公開APIで原寸を引く）
     ① hero_sources.json に記事ヒーローの原寸URLがある（汎用写真でない）→ 顔を上から約30%に置いて縦に切る
     ② subject で Commons 検索（直近3年・切り抜く高さが元画像で1600px以上・顔が検出できる）
-    ③ NBA.com 公式ヘッドショット（Wikidata P3647 で選手IDを引く）を黒地に合成
-    ④ subject で Commons 検索（年代は問わない）
-    ⑤ 記事ヒーローをぼかして敷き、くっきりしたヒーローを上側に重ねる
-    ⑥ 記事が汎用イメージ写真（fallback-images.md）を使っていて記事専用ヒーローが無い場合、
+    ③ subject で Commons 検索（年代は問わない）
+    ④ 記事ヒーローをぼかして敷き、くっきりしたヒーローを上側に重ねる
+    ⑤ 記事が汎用イメージ写真（fallback-images.md）を使っていて記事専用ヒーローが無い場合、
        その写真の縦版（1080x1920・make_video_fallbacks.py で常備）をフル画面で敷く
 
-メディアデーの記事（見出し・要約・要点に「メディアデー」を含む）だけは、①より前に
-「新ユニフォーム姿の新しい写真」を探す（2026-09-29 クリス指示「メディアデーで、新ユニフォーム姿が
-あったりする！それをこのメディアデーのIGリール投稿ではどんどんその新しい画像を使ってほしい！」）:
-    ⓪-a subject で Commons 検索（直近 FRESH_DAYS 日に撮影・条件は②と同じ）
-    ⓪-b NBA.com 公式ヘッドショットが直近 FRESH_DAYS 日に更新されている（＝今季のメディアデー撮影分）
-取れなければ従来の①〜⑥に戻る。チーム公式IG・Getty・NBA.com のフォトギャラリーの写真は
-クレジットを付けても使えない（PROMPT_CLOUD.md §1b）ので探さない。
-NBA.com のヘッドショットは毎年メディアデー直後の約2週間で順に差し替わる（2025年は 9/24〜10/6 に
-更新されたことを Last-Modified で確認）ので、更新前の選手は従来の写真になる。
+ⓢ は 2026-09-29 クリス指示「IG投稿は写真権利に関しては大きくリーグに許容されているから、もっと画像
+いいのにしてよ！」→ 取得元の選択「元記事の写真」で先頭に置いた。IGリールの話で、サイト記事の写真ルール
+（PROMPT_CLOUD.md §1b）とは別。次のものは主役と合わない写真になるので使わない:
+    - 記事の日付より SOURCE_MAX_AGE 日以上前の写真（ESPN は画像URLの /photo/<年>/<月日>/ で判定）
+    - 複数の記事が同じネタ元を指している（ESPN のまとめページ等＝写真が特定の選手の物ではない）
+NBA.com の公式ヘッドショット（顔写真を黒地に合成する経路）は同日「あの種類の画像は2度と、このIGリールに
+使うな」で削除した。戻さない。
+
+メディアデーの記事（見出し・要約・要点に「メディアデー」を含む）は、ⓢ の次に subject で Commons を
+直近 FRESH_DAYS 日の撮影に絞って探す（2026-09-29 クリス指示「メディアデーで、新ユニフォーム姿が
+あったりする！それをこのメディアデーのIGリール投稿ではどんどんその新しい画像を使ってほしい！」）。
+
+BGM は型ごとに BGM の曲を必ず入れる（2026-09-29 クリス指示「このIGリールBGMがない！れkは大問題だわ！！」）。
+曲ファイルが journal_video/public/ に無いときは例外で止める＝BGMなしの動画は書き出さない。
 """
 
 import io, json, os, re, sys, urllib.parse, urllib.request
@@ -49,10 +54,28 @@ W, H = 1080, 1920
 FACE_Y = 0.30            # 顔の中心を仕上がりの上から何割に置くか
 MIN_CROP_H = 1600        # ②④: 縦に切る高さ（元画像px）の下限。これ未満は拡大で眠くなる
 MIN_CROP_H_HERO = 1200   # ①: 記事と同じ写真は多少粗くても優先する
+MIN_FACE = 0.065         # 顔の高さ÷切り抜く高さの下限。選手が遠くに小さく写っている写真は、
+                         # 一番大きい顔が観客になって観客のアップになる（2026-09-29 296・302 で発生）
 MAX_TRY = 8
 GENERIC = re.compile(r"^イメージ|本文とは直接関係")
 MEDIADAY = re.compile(r"メディアデー|[Mm]edia [Dd]ay")
 FRESH_DAYS = 14          # メディアデー記事で「新しい写真」とみなす日数
+SOURCE_MAX_AGE = 200     # ⓢ: 記事の日付からこれ以上前の写真は使わない（前シーズン終盤より前＝移籍前の恐れ）
+MIN_CROP_H_SOURCE = 1000 # ⓢ: ネタ元の写真は記事の主役が確実に写っているので多少粗くても使う
+# 自動では主役の写真に届かない記事だけ、写真を名指しする（記事番号 → (画像URL, クレジット)）。
+# ネタ元がまとめページで Commons にも使える写真が無く、汎用背景に落ちた記事用。
+PHOTO_OVERRIDES = {
+    "299": ("https://a.espncdn.com/photo/2025/0616/r1507331.jpg", "John Fisher/Getty Images"),
+    "307": ("https://a.espncdn.com/photo/2026/0204/r1610377.jpg", "Daniel Dunn-Imagn Images"),
+}
+SITE_JOURNAL = os.path.join(ROOT, "site", "journal")
+NOT_SOURCE = re.compile(r"fonts\.(googleapis|gstatic)\.com|sixten\.jp|instagram\.com/sixten|"
+                        r"creativecommons\.org|wikimedia\.org|wikipedia\.org")
+ESPN_ID = re.compile(r"espn\.com/.*/id/(\d+)")
+BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/130 Safari/537.36")
+# 型 → BGM（journal_video/public/ からの相対パス）。無い型は "news" を使う
+BGM = {"news": "audio/bgm_news.mp3", "quote": "audio/bgm_quote.mp3"}
 
 
 def log(msg):
@@ -74,9 +97,11 @@ def portrait_from(data, min_crop_h):
     cw = ch * 9 / 16
     if ch < min_crop_h:
         return None, f"切り抜き高さ{ch:.0f}px<{min_crop_h}"
-    face = detect_face(im)
+    face = detect_face(im, with_size=True)
     if not face:
         return None, "顔が検出できない"
+    if face[2] * sh / ch < MIN_FACE:
+        return None, f"顔が小さい（{face[2] * sh / ch:.3f}<{MIN_FACE}）"
     fx, fy = face[0] * sw, face[1] * sh
     x = min(max(fx - cw / 2, 0), sw - cw)
     y = min(max(fy - FACE_Y * ch, 0), sh - ch)
@@ -137,56 +162,93 @@ def route_commons(names, years, days=None):
     return None
 
 
-def wikidata_json(params):
-    url = "https://www.wikidata.org/w/api.php?" + urllib.parse.urlencode(dict(params, format="json"))
-    with urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": UA}), timeout=30) as r:
-        return json.load(r)
-
-
-def route_nba_headshot(names, fresh_since=None):
-    """fresh_since を渡すと、その日時より後に更新されたヘッドショットだけを使う（メディアデー用）"""
-    for name in names:
-        try:
-            hits = wikidata_json({"action": "wbsearchentities", "search": name, "language": "en",
-                                  "type": "item", "limit": 5}).get("search", [])
-            pid = None
-            for h in hits:
-                claims = wikidata_json({"action": "wbgetclaims", "entity": h["id"], "property": "P3647"})
-                vals = claims.get("claims", {}).get("P3647", [])
-                if vals:
-                    pid = vals[0]["mainsnak"]["datavalue"]["value"]
-                    break
-            if not pid:
-                log(f"  ③ NBA選手ID(P3647)が見つからない: {name}")
-                continue
-            url = f"https://cdn.nba.com/headshots/nba/latest/1040x760/{pid}.png"
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                modified = r.headers.get("Last-Modified")
-                if fresh_since:
-                    from email.utils import parsedate_to_datetime
-                    mod = parsedate_to_datetime(modified) if modified else None
-                    if not mod or mod < fresh_since:
-                        log(f"  ⓪-b ヘッドショットが今季の更新前: {name} id={pid} 更新={modified or '不明'}")
-                        continue
-                head = Image.open(io.BytesIO(r.read())).convert("RGBA")
-        except Exception as e:
-            log(f"  ③ 失敗 {name}: {e}")
-            continue
-        tw = 1300
-        th = round(head.height * tw / head.width)
-        head = head.resize((tw, th), Image.LANCZOS)
-        # 下端 35% を黒に溶かす（肩の切れ目を見せない）
-        fade = Image.linear_gradient("L").resize((tw, th))  # 上0→下255
-        start = int(th * 0.65)
-        alpha = head.getchannel("A")
-        mask = Image.new("L", (tw, th), 255)
-        mask.paste(ImageOps.invert(fade.crop((0, 0, tw, th - start)).resize((tw, th - start))), (0, start))
-        head.putalpha(Image.composite(alpha, Image.new("L", (tw, th), 0), mask))
-        bg = Image.new("RGBA", (W, H), (0, 0, 0, 255))
-        bg.alpha_composite(head, ((W - tw) // 2, 180))
-        return bg.convert("RGB"), "写真: NBA.com", f"nba_headshot id={pid} 更新={modified or '不明'}"
+def source_url(aid):
+    """記事ページ site/journal/NNN-*.html の外部リンク（フォント・自サイト・クレジット以外）＝ネタ元"""
+    page = next((f for f in os.listdir(SITE_JOURNAL) if f.startswith(f"{aid}-") and f.endswith(".html")), None)
+    if not page:
+        return None
+    html = open(os.path.join(SITE_JOURNAL, page), encoding="utf-8").read()
+    for u in re.findall(r'href="(https?://[^"]+)"', html):
+        if not NOT_SOURCE.search(u):
+            return u
     return None
+
+
+def source_key(url):
+    """ESPN は URL の末尾（slug）が変わっても記事IDが同じなら同じページ"""
+    m = ESPN_ID.search(url or "")
+    return f"espn:{m.group(1)}" if m else url
+
+
+def shared_sources(aid, url):
+    """同じネタ元を指している別の記事の番号（まとめページ判定用）"""
+    same, key = [], source_key(url)
+    for f in os.listdir(SITE_JOURNAL):
+        m = re.match(r"(\d{3})-.*\.html$", f)
+        if m and m.group(1) != aid and source_key(source_url(m.group(1))) == key:
+            same.append(m.group(1))
+    return same
+
+
+def http_get(url, timeout=30):
+    req = urllib.request.Request(url, headers={"User-Agent": BROWSER_UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read()
+
+
+def source_image(url):
+    """ネタ元URL → (画像URL, クレジット, 撮影日 or None)。取れなければ None"""
+    m = ESPN_ID.search(url)
+    if m:
+        # espn.com の記事ページはボット判定で空（202）が返るので公開ニュースAPIを使う
+        d = json.loads(http_get(f"https://now.core.api.espn.com/v1/sports/news/{m.group(1)}"))
+        imgs = (d.get("headlines") or [{}])[0].get("images") or []
+        im = next((i for i in imgs if i.get("type") == "header"), imgs[0] if imgs else None)
+        if not im or not im.get("url"):
+            return None
+        # r1723110_600x400_3-2.jpg → r1723110.jpg（原寸）
+        full = re.sub(r"_\d+x\d+(_[\d-]+)?(\.jpg)$", r"\2", im["url"])
+        dm = re.search(r"/photo/(\d{4})/(\d{2})(\d{2})/", full)
+        taken = datetime(int(dm[1]), int(dm[2]), int(dm[3]), tzinfo=timezone.utc) if dm else None
+        return full, im.get("credit") or "ESPN", taken
+    html = http_get(url).decode("utf-8", "replace")
+    og = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html) or \
+        re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', html)
+    if not og:
+        return None
+    host = urllib.parse.urlparse(url).netloc.replace("www.", "")
+    return og.group(1), host, None
+
+
+def route_source(item):
+    aid = item["id"]
+    url = source_url(aid)
+    if not url:
+        log("  ⓢ ネタ元リンクが記事に無い")
+        return None
+    same = shared_sources(aid, url)
+    if same:
+        log(f"  ⓢ 不採用: 同じネタ元を {' '.join(same)} も指している（まとめページ）{url}")
+        return None
+    try:
+        got = source_image(url)
+        if not got:
+            log(f"  ⓢ ネタ元に画像が無い: {url}")
+            return None
+        img_url, credit, taken = got
+        if taken and item.get("date"):
+            art = datetime.fromisoformat(item["date"][:10]).replace(tzinfo=timezone.utc)
+            if (art - taken).days >= SOURCE_MAX_AGE:
+                log(f"  ⓢ 不採用: 写真が古い（{taken:%Y-%m-%d}・記事 {item['date'][:10]}）{img_url}")
+                return None
+        img, how = portrait_from(http_get(img_url, 60), MIN_CROP_H_SOURCE)
+    except Exception as e:
+        log(f"  ⓢ 取得失敗 {url}: {e}")
+        return None
+    if img is None:
+        log(f"  ⓢ 不採用: {how} {img_url}")
+        return None
+    return img, f"写真: {credit}", f"source {img_url} {how}"
 
 
 def is_mediaday(item):
@@ -195,14 +257,13 @@ def is_mediaday(item):
 
 
 def route_fresh(names):
-    """メディアデー記事: 新ユニフォーム姿が写っている見込みの高い、撮影・更新が新しい写真だけを探す"""
-    since = datetime.now(timezone.utc) - timedelta(days=FRESH_DAYS)
-    log(f"  メディアデー記事: 直近{FRESH_DAYS}日の新しい写真を優先して探す")
-    got = route_commons(names, 0, days=FRESH_DAYS) or route_nba_headshot(names, fresh_since=since)
+    """メディアデー記事: 新ユニフォーム姿が写っている見込みの高い、撮影が新しい Commons 写真だけを探す"""
+    log(f"  メディアデー記事: Commons で直近{FRESH_DAYS}日の新しい写真を探す")
+    got = route_commons(names, 0, days=FRESH_DAYS)
     if got:
         img, credit, route = got
         return img, credit, f"mediaday_fresh {route}"
-    log("  ⓪ 新しい写真なし → 従来の順で探す")
+    log("  新しい写真なし → 従来の順で探す")
     return None
 
 
@@ -289,15 +350,32 @@ def template_props(video):
     return props, t
 
 
+def route_override(aid):
+    if aid not in PHOTO_OVERRIDES:
+        return None
+    img_url, credit = PHOTO_OVERRIDES[aid]
+    try:
+        img, how = portrait_from(http_get(img_url, 60), MIN_CROP_H_SOURCE)
+    except Exception as e:
+        log(f"  ⓞ 取得失敗 {img_url}: {e}")
+        return None
+    if img is None:
+        log(f"  ⓞ 不採用: {how} {img_url}")
+        return None
+    return img, f"写真: {credit}", f"override {img_url} {how}"
+
+
 def build(aid):
     aid = str(aid).zfill(3)
     item = find_item(aid)
     names = [s for s in item.get("subject") or [] if s.strip()]
     log(f"[{aid}] {item['headline']} subject={names or 'なし'}")
-    got = route_fresh(names) if names and is_mediaday(item) else None
+    got = route_override(aid) or route_source(item)
+    if not got and names and is_mediaday(item):
+        got = route_fresh(names)
     got = got or route_hero_source(item)
     if not got and names:
-        got = route_commons(names, 3) or route_nba_headshot(names) or route_commons(names, 0)
+        got = route_commons(names, 3) or route_commons(names, 0)
     if not got:
         got = route_hero_blur(item) or route_generic_fallback(item)
     if not got:
@@ -324,7 +402,10 @@ def build(aid):
             "background": {"type": "image", "src": bg_rel},
             "credit": credit,
         }
-    props.update({"_article": item["url"], "_route": route})
+    bgm = BGM.get(props.get("template", "news"), BGM["news"])
+    if not os.path.exists(os.path.join(VIDEO, "public", bgm)):
+        raise RuntimeError(f"BGM が無い（BGMなしでは書き出さない）: journal_video/public/{bgm}")
+    props.update({"bgm": bgm, "_article": item["url"], "_route": route})
     json_path = os.path.join(VIDEO, "input", "auto", f"{item['slug']}.json")
     os.makedirs(os.path.dirname(json_path), exist_ok=True)
     with open(json_path, "w", encoding="utf-8") as f:

@@ -269,8 +269,9 @@ def blur_ng(b, product=False):
     return None
 
 
-def detect_face(im):
+def detect_face(im, with_size=False):
     """PIL Image から一番大きい顔を探し、中心を (x割合, y割合) で返す。取れなければ None。
+    with_size=True なら (x割合, y割合, 顔の高さ÷画像の高さ) を返す。
 
     OpenCV(opencv-python-headless) と同梱の YuNet モデルが揃っている時だけ動く。
     どちらか欠けても例外にせず None を返し、呼び出し側が縦横比フォールバックへ落ちる。
@@ -294,7 +295,8 @@ def detect_face(im):
         if faces is None or len(faces) == 0:
             return None
         x, y, fw, fh = max(faces, key=lambda f: f[2] * f[3])[:4]
-        return ((x + fw / 2) / arr.shape[1], (y + fh / 2) / arr.shape[0])
+        c = ((x + fw / 2) / arr.shape[1], (y + fh / 2) / arr.shape[0])
+        return c + (fh / arr.shape[0],) if with_size else c
     except Exception:
         return None
 
