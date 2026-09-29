@@ -1,7 +1,34 @@
 {
- "updated_utc": "2026-09-28 20:51 UTC",
+ "updated_utc": "2026-09-29 00:38 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Marc J. Spears（Andscape）",
+   "handle": "MarcJSpears",
+   "key": "https://www.reddit.com/r/nba/comments/1wsrpvp/marc_spears_jalen_duren_has_not_spoken_with/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-28T21:36:23+00:00",
+   "text": "Jalen Duren and the Detroit Pistons remain without an agreement on a new contract. According to Marc Spears, the center has not spoken with Trajan Langdon for months, although there is still optimism within the franchise that the two sides will reach a deal.\n\n“Jalen Duren, he’s not even talked to Trajan for months. A Pistons source told me that there’s still optimism that they think he’ll sign the big deal.”\n\nIf an agreement cannot be reached, Spears says an NBA general manager told him that the Milwaukee Bucks, Atlanta Hawks, Sacramento Kings and Washington Wizards have interest in a potential sign-and-trade involving Duren\n\nSource: https://sportando.basketball/en/jalen-duren-four-teams-interested-in-potential-sign-and-trade/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wsrpvp/marc_spears_jalen_duren_has_not_spoken_with/",
+   "links": [
+    "https://sportando.basketball/en/jalen-duren-four-teams-interested-in-potential-sign-and-trade/"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wsqp2f/charania_the_charlotte_hornets_are_waiving_former/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-09-28T20:58:07+00:00",
+   "text": "Shams Charania has posted the following:   The Charlotte Hornets are waiving former No. 8 pick Rob Dillingham, sources tell ESPN.  Source to the story: https://www.espn.com/contributor/shams-charania/ca3e5326cb666\n\nAlternative link: https://bsky.app/profile/shamsbot.bsky.social/post/3mwm7ip6g7p2w",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wsqp2f/charania_the_charlotte_hornets_are_waiving_former/",
+   "links": [
+    "https://bsky.app/profile/shamsbot.bsky.social/post/3mwm7ip6g7p2w",
+    "https://www.espn.com/contributor/shams-charania/ca3e5326cb666"
+   ]
+  },
   {
    "reporter": "Marc J. Spears（Andscape）",
    "handle": "MarcJSpears",
@@ -121,19 +148,6 @@
    "text": "The Detroit Pistons have waived Gary Harris, league sources say",
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wrvtcb/scotto_the_detroit_pistons_have_waived_gary/",
    "links": []
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wr1sxd/charania_the_chicago_bulls_are_trading_rob/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-26T21:13:25+00:00",
-   "text": "The Chicago Bulls are trading Rob Dillingham to the Charlotte Hornets for Buddy Hield and cash, sources tell ESPN. https://www.espn.com/contributor/shams-charania/a6cd13b7c38f0\n\nThe Bulls add a veteran shooter in Hield, who landed in Charlotte via trade from Atlanta, while the Hornets create a $9.4 million trade exception and take in $3 million less in salary. Chicago gets cash to make up for a good chunk of the difference in salaries.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wr1sxd/charania_the_chicago_bulls_are_trading_rob/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/a6cd13b7c38f0"
-   ]
   }
  ]
 }
