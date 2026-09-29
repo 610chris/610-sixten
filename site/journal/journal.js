@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "309-air-jordan-4-j-balvin-amazonas.html",
+    cat: "KICKS",
+    title: "J Balvin x Air Jordan 4「Amazonas」発表 —— コロンビアの生物多様性を色彩で表現、2言語ロゴも",
+    excerpt: "J Balvinとジョーダン ブランドは、Air Jordan 4の新色「Amazonas」を発表した。Balvinの故郷コロンビアの生物多様性から着想を得た配色で、英語・スペイン語の2言語で「Just Do It」をあしらったシューレース飾りとジャンプマン×J Balvinのロゴを採用。発売日・価格は現時点で明らかになっていない。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-309-hero.jpg?v=1a6657a22f"
+  },
+  {
     href: "308-bronny-james-own-path.html",
     cat: "NBA",
     title: "ブロニー・ジェームズ「彼には彼の道、僕には僕の道がある」—— レブロンの76ers移籍後、レイカーズで自分を証明する道へ",
