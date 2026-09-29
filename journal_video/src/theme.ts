@@ -139,6 +139,95 @@ export const headlineFontSize = (text: string): number => {
   return 58;
 };
 
+/* ------------------------------------------------------------------ */
+/* ニュース以外の型（得点・名言・ランキング）                          */
+/* ------------------------------------------------------------------ */
+
+/** 文字を置いてよい横幅（左右マージンの内側 = 950px） */
+export const CONTENT_WIDTH = VIDEO.width - MARGIN_X * 2;
+
+/**
+ * 文字ブロックの下端。ブランドタグ箱の上端から gap だけ空ける。
+ * ニュース型と同じくブランドタグ（下から12%）＋箱の高さの上に収める。
+ */
+export const contentBottomPx = (gap: number): number =>
+  VIDEO.height * BRAND_TAG.bottomRatio + brandTagBoxHeight + gap;
+
+/**
+ * 1行に収まるフォントサイズ。visualLength（全角換算）× サイズ ≒ 描画幅として、
+ * 横幅 width に収まる最大値を max〜min の範囲で返す。
+ * min まで縮めても収まらない分は CSS の折り返しに任せる。
+ */
+export const fitFontSize = (
+  text: string,
+  { width, max, min }: { width: number; max: number; min: number },
+): number => {
+  const len = Math.max(1, visualLength(text));
+  return Math.max(min, Math.min(max, Math.floor(width / len)));
+};
+
+/**
+ * 背景の暗さ。ニュース型は全編で 0.15→0.55 と薄く始まるが、
+ * 新しい3型は画面の中央に文字を置くので最初から暗くしておく
+ * （中央にはスクリムが掛からないため、暗転だけで白文字を読ませる）。
+ */
+export const DIM = {
+  score: { from: 0.5, to: 0.62 },
+  quote: { from: 0.72, to: 0.8 },
+  ranking: { from: 0.55, to: 0.65 },
+} as const;
+
+export const SCORE = {
+  /** 選手名ブロックの上端（画面高さ比） */
+  topRatio: 0.24,
+  player: { max: 92, min: 56, fontWeight: 900, letterSpacing: "0.02em" },
+  underline: { width: 180, height: 6, marginTop: 26 },
+  opponent: { fontSize: 42, fontWeight: 500, letterSpacing: "0.12em", marginTop: 30 },
+  points: { fontSize: 300, fontWeight: 900, marginTop: 40 },
+  unit: { fontSize: 64, fontWeight: 800, letterSpacing: "0.06em", gap: 18 },
+  /** 補足スタッツ。4行以上で縮める */
+  stats: { fontSize: 48, fontSizeMany: 40, fontWeight: 700, lineHeight: 1.6, marginTop: 36 },
+} as const;
+
+/** 得点の補足スタッツの上限（これ以上はブランドタグとぶつかる） */
+export const SCORE_MAX_STATS = 5;
+
+export const QUOTE = {
+  /** 文字ブロックを上下中央に置く範囲の上端（ラベルの下） */
+  topPx: 250,
+  gapAboveBrandTag: 60,
+  mark: { fontSize: 260, fontWeight: 700, height: 170 },
+  line: { max: 60, min: 38, maxWhenMany: 52, fontWeight: 700, lineHeight: 1.7 },
+  speaker: { fontSize: 40, fontWeight: 700, marginTop: 56 },
+  speakerNote: { fontSize: 30, fontWeight: 500, marginTop: 12, opacity: 0.8 },
+} as const;
+
+/** 名言の行数の上限 */
+export const QUOTE_MAX_LINES = 8;
+
+export const RANKING = {
+  /** 見出しの上端（画面高さ比） */
+  topRatio: 0.15,
+  gapAboveBrandTag: 60,
+  title: { max: 96, min: 56, fontWeight: 900, lineHeight: 1.08 },
+  subtitle: { fontSize: 34, fontWeight: 500, marginTop: 16, opacity: 0.85 },
+  /** 見出しと1行目の間 */
+  rowsMarginTop: 52,
+  rowGap: 14,
+  rowMaxHeight: 112,
+  /** 行の文字サイズ = 行の高さ × この比率 */
+  fontRatio: 0.42,
+  paddingX: 30,
+  /** 各行の帯（半透明の黒） */
+  rowColor: "rgba(0,0,0,0.55)",
+  /** 合計行の帯（白・黒文字で強調） */
+  totalColor: COLORS.white,
+  totalTextColor: COLORS.black,
+} as const;
+
+/** ランキングの行数の上限（合計行は別） */
+export const RANKING_MAX_ROWS = 10;
+
 /** 本文のフォントサイズ。行数が増えたら縮めて下部のブランドタグと衝突させない。 */
 export const bodyFontSize = (lines: string[]): number => {
   const n = lines.length;

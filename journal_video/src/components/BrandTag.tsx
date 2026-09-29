@@ -9,15 +9,18 @@ import { normalizeBrandTag, type BrandTagSpec } from "../types";
  * 最下部のブランドタグ。白い背景ボックス＋黒の中身。
  * ボックスは中身の幅にフィットし、左寄せ。
  * 本文の最終行から少し置いて、白ボックスが左→右へワイプで開き、開ききってから中身が出る。
+ * 新しい3型は startSec（ワイプ開始の秒）と align（"center" で中央寄せ）を渡す。
  */
 export const BrandTag: React.FC<{
   brandTag: BrandTagSpec;
-  bodyLineCount: number;
-}> = ({ brandTag, bodyLineCount }) => {
+  bodyLineCount?: number;
+  startSec?: number;
+  align?: "left" | "center";
+}> = ({ brandTag, bodyLineCount = 1, startSec, align = "left" }) => {
   const frame = useCurrentFrame();
   const tag = normalizeBrandTag(brandTag);
 
-  const start = brandTagStart(bodyLineCount);
+  const start = startSec ?? brandTagStart(bodyLineCount);
   /** 白ボックスの開き具合（0=閉じている / 1=開ききり） */
   const wipe = progressIn(frame, start, BRAND_TAG_IN.wipeDuration);
   /** 中身（ロゴ／文字）のフェード。ワイプが開ききってから始める */
@@ -33,8 +36,9 @@ export const BrandTag: React.FC<{
         position: "absolute",
         bottom: VIDEO.height * BRAND_TAG.bottomRatio,
         left: MARGIN_X,
+        right: align === "center" ? MARGIN_X : undefined,
         display: "flex",
-        justifyContent: "flex-start",
+        justifyContent: align === "center" ? "center" : "flex-start",
       }}
     >
       <div

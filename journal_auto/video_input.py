@@ -251,6 +251,44 @@ def video_credit(credit):
     return m.group(0) if m else (credit or "")
 
 
+# item["video"] の型ごとの必須キーと行数上限（journal_video/src/props.ts と揃える）
+TEMPLATES = {
+    "score": {"required": ("player", "points"), "lists": {"stats": 5}},
+    "quote": {"required": ("quote", "speaker"), "lists": {"quote": 8}},
+    "ranking": {"required": ("title", "rows"), "lists": {"rows": 10}},
+}
+TEMPLATE_KEYS = {
+    "score": ("player", "opponent", "points", "unit", "stats", "label"),
+    "quote": ("quote", "speaker", "speakerNote", "label"),
+    "ranking": ("title", "subtitle", "rows", "total", "label"),
+}
+
+
+def template_props(video):
+    """item["video"] → 新しい型の props。使えなければ (None, 理由)。自動なので止めずにニュース型へ戻す"""
+    if not video:
+        return None, "video 指定なし"
+    t = video.get("template")
+    spec = TEMPLATES.get(t)
+    if not spec:
+        return None, f"未知の template: {t}"
+    for k in spec["required"]:
+        if video.get(k) in (None, "", []):
+            return None, f"{t}: {k} が空"
+    for k, cap in spec["lists"].items():
+        v = video.get(k, [])
+        if not isinstance(v, list) or len(v) > cap:
+            return None, f"{t}: {k} は最大{cap}行の配列"
+    if t == "score" and not isinstance(video["points"], (int, float)):
+        return None, "score: points が数値でない"
+    if t == "ranking" and not all(isinstance(r, dict) and r.get("name") and r.get("value")
+                                  for r in video["rows"]):
+        return None, "ranking: rows の各行に name と value が要る"
+    props = {"template": t}
+    props.update({k: video[k] for k in TEMPLATE_KEYS[t] if k in video})
+    return props, t
+
+
 def build(aid):
     aid = str(aid).zfill(3)
     item = find_item(aid)
@@ -272,23 +310,30 @@ def build(aid):
     os.makedirs(os.path.dirname(bg_path), exist_ok=True)
     img.save(bg_path, "JPEG", quality=90, optimize=True)
 
-    body = [p for p in item.get("points") or [] if p.strip()] or [item.get("excerpt", "")[:80]]
-    props = {
-        "label": item.get("category") or "NEWS",
-        "headline": item["headline"],
-        "body": body,
-        "background": {"type": "image", "src": bg_rel},
-        "credit": credit,
-        "_article": item["url"],
-        "_route": route,
-    }
+    props, why = template_props(item.get("video"))
+    if props:
+        props.update({"background": {"type": "image", "src": bg_rel}, "credit": credit})
+    else:
+        if item.get("video"):
+            log(f"  video 指定を使わずニュース型にする（{why}）")
+        body = [p for p in item.get("points") or [] if p.strip()] or [item.get("excerpt", "")[:80]]
+        props = {
+            "label": item.get("category") or "NEWS",
+            "headline": item["headline"],
+            "body": body,
+            "background": {"type": "image", "src": bg_rel},
+            "credit": credit,
+        }
+    props.update({"_article": item["url"], "_route": route})
     json_path = os.path.join(VIDEO, "input", "auto", f"{item['slug']}.json")
     os.makedirs(os.path.dirname(json_path), exist_ok=True)
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(props, f, ensure_ascii=False, indent=2)
         f.write("\n")
-    log(f"  背景: {route.split()[0]} → {bg_rel}\n  経路詳細: {route}\n  クレジット: {credit or '（なし）'}")
-    return {"json": json_path, "route": route, "credit": credit, "slug": item["slug"]}
+    template = props.get("template", "news")
+    log(f"  型: {template}\n  背景: {route.split()[0]} → {bg_rel}\n  経路詳細: {route}\n  クレジット: {credit or '（なし）'}")
+    return {"json": json_path, "route": route, "credit": credit, "slug": item["slug"],
+            "template": template}
 
 
 if __name__ == "__main__":

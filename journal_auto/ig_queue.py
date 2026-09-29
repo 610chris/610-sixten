@@ -177,6 +177,22 @@ def build_caption(item):
     return "\n".join(lines)
 
 
+VIDEO_TEMPLATES = ("score", "quote", "ranking")
+
+
+def parse_video(raw):
+    """--video のJSONを読む。壊れていたらここで止める（ルーチンがその場で気づけるように）"""
+    if not raw:
+        return None
+    try:
+        v = json.loads(raw)
+    except ValueError as e:
+        raise SystemExit(f"--video がJSONとして読めない: {e}")
+    if not isinstance(v, dict) or v.get("template") not in VIDEO_TEMPLATES:
+        raise SystemExit(f"--video の template は {' / '.join(VIDEO_TEMPLATES)} のどれか")
+    return v
+
+
 # ---------------------------------------------------------------- コマンド
 
 def cmd_add(args):
@@ -201,6 +217,8 @@ def cmd_add(args):
         "question": (args.question or "").strip(),
         "no_question": bool(args.no_question),
         "caption_manual": bool(args.caption),
+        # 縦型動画の型（score / quote / ranking）と中身。無ければニュース型（video_input.py）
+        "video": parse_video(args.video),
         "images": [],
         "state": "pending",
         "created": datetime.now(JST).isoformat(timespec="seconds"),
@@ -223,6 +241,8 @@ def cmd_add(args):
             item["question"] = old.get("question", "")
             item["no_question"] = old.get("no_question", False)
             item["caption"] = args.caption or build_caption(item)
+        if not item["video"]:
+            item["video"] = old.get("video")
         data["items"] = [item if x["id"] == aid else x for x in data["items"]]
         print(f"[update] {aid} {item['headline']}")
     else:
@@ -295,6 +315,7 @@ def main():
     a.add_argument("--photo-credit", dest="photo_credit", help="省略時は記事のfigcaptionから")
     a.add_argument("--subject", nargs="*",
                    help="記事の主役の選手名（英語・複数可）。縦型動画の背景写真の検索に使う")
+    a.add_argument("--video", help='縦型動画の型と中身のJSON 例: \'{"template":"score","player":"...","points":33}\'')
     a.add_argument("--category")
     a.add_argument("--date")
     a.set_defaults(func=cmd_add)

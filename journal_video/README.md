@@ -53,6 +53,78 @@ JSON が参照する素材が無いときはレンダリング前にエラーで
 最大1.06倍のズームで引き伸ばされるため、記事のヒーロー画像（1600×900）をそのまま使うと **2.26倍**に拡大されて眠い絵になる。
 1.2倍を超える拡大になる画像は、レンダリング時に必要サイズ付きで警告が出る（止まりはしない）。
 
+### ニュース以外の型（得点・名言・ランキング）
+
+JSON に `"template"` を書くと型が変わる。**`template` が無い JSON は従来どおりニュース型**（上の書式・`video_build.py` の出力はそのまま動く）。
+`npm run render -- <json>` のコマンドは同じで、`template` を見て Composition を自動で選ぶ。
+
+共通キー: `background`（必須）/ `label`（省略時 `SCORE` / `QUOTE` / `RANKING`）/ `brandTag` / `bgm` / `durationInSeconds` / `credit` はニュース型と同じ意味。
+尺は省略すると行数から自動計算（8〜30秒でクランプ）。確認用の見本は `tests/score-01.json` ・ `quote-01.json` ・ `ranking-01.json`。
+
+**得点（`"template": "score"`）** — 選手名＋下線 → 対戦相手 → 得点が 0 からカウントアップ → 補足スタッツが1行ずつ
+
+```json
+{
+  "template": "score",
+  "player": "STEPHEN CURRY",
+  "opponent": "vs. KINGS",
+  "points": 33,
+  "stats": ["5 REB", "7/12 3PT"],
+  "background": { "type": "image", "src": "assets/curry.jpg" }
+}
+```
+
+| キー | 必須 | 内容 |
+|---|---|---|
+| `player` | ○ | 選手名 |
+| `points` | ○ | カウントアップする得点（数値） |
+| `opponent` | | 対戦相手の行 |
+| `unit` | | 得点の単位。省略時 `PTS` |
+| `stats` | | 補足スタッツ。**1要素＝1行・最大5行** |
+
+**名言（`"template": "quote"`）** — 背景を暗く落とし、中央の「“」の下に発言を1行ずつ → 最後に発言者
+
+```json
+{
+  "template": "quote",
+  "quote": ["負けた夜のほうが、", "眠れないくらい練習したくなる。"],
+  "speaker": "ステフィン・カリー",
+  "speakerNote": "試合後の会見で",
+  "background": { "type": "image", "src": "assets/curry.jpg" }
+}
+```
+
+| キー | 必須 | 内容 |
+|---|---|---|
+| `quote` | ○ | 発言。**1要素＝1行・最大8行**（改行位置は JSON 側で決める） |
+| `speaker` | ○ | 発言者 |
+| `speakerNote` | | 発言者の下の小さい補足 |
+
+**ランキング（`"template": "ranking"`）** — 大見出しの下に、半透明の帯が1行ずつ積み上がり → 最後に白帯の合計行
+
+```json
+{
+  "template": "ranking",
+  "title": "LAKERS 3PT% RANKING",
+  "subtitle": "2025-26 レギュラーシーズン",
+  "rows": [
+    { "name": "PLAYER A", "value": "42.1%" },
+    { "name": "PLAYER B", "value": "39.8%" }
+  ],
+  "total": { "name": "TEAM", "value": "36.8%" },
+  "background": { "type": "image", "src": "assets/lakers.jpg" }
+}
+```
+
+| キー | 必須 | 内容 |
+|---|---|---|
+| `title` | ○ | 大見出し |
+| `rows` | ○ | `{"name","value"}` の配列。**最大10行**。`rank` を書くと順位表示を上書き（省略時 1, 2, 3…） |
+| `subtitle` | | 見出しの下の小さい補足 |
+| `total` | | 最後に白帯で強調する行 |
+
+行数が上限を超えると、レンダリング前にエラーで止まる。
+
 ## 尺の自動計算
 
 ```

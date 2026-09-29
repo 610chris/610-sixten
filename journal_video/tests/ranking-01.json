@@ -1,0 +1,15 @@
+{
+  "_note": "ランキングテンプレの確認用。選手名・数字とも架空のサンプル",
+  "template": "ranking",
+  "title": "3PT% RANKING",
+  "subtitle": "サンプルチーム 2025-26",
+  "rows": [
+    { "name": "PLAYER A", "value": "42.1%" },
+    { "name": "PLAYER B", "value": "39.8%" },
+    { "name": "PLAYER C", "value": "38.5%" },
+    { "name": "PLAYER D", "value": "36.0%" },
+    { "name": "PLAYER E", "value": "33.3%" }
+  ],
+  "total": { "name": "TEAM", "value": "36.8%" },
+  "background": { "type": "image", "src": "assets/test/tall-a.jpg" }
+}

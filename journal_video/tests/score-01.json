@@ -1,0 +1,9 @@
+{
+  "_note": "得点テンプレの確認用。数字は参考リール(CkF0uuYAAlX)の表示をそのまま借りたサンプル",
+  "template": "score",
+  "player": "STEPHEN CURRY",
+  "opponent": "vs. KINGS",
+  "points": 33,
+  "stats": ["5 REB", "7/12 3PT"],
+  "background": { "type": "image", "src": "assets/test/tall-a.jpg" }
+}

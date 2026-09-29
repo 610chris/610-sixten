@@ -72,6 +72,96 @@ export const computeDurationInSeconds = (bodyLineCount: number): number => {
   return Math.min(DURATION_CLAMP.max, Math.max(DURATION_CLAMP.min, raw));
 };
 
+/* ------------------------------------------------------------------ */
+/* ニュース以外の型（得点・名言・ランキング）                          */
+/* ------------------------------------------------------------------ */
+
+const clampDuration = (raw: number): number =>
+  Math.min(DURATION_CLAMP.max, Math.max(DURATION_CLAMP.min, raw));
+
+/** 得点: 選手名 → 下線 → 対戦相手 → 得点カウントアップ → 補足スタッツ1行ずつ */
+export const SCORE_IN = {
+  player: { start: 0.5, duration: 0.6, slideY: 28 },
+  underline: { start: 0.9, duration: 0.5 },
+  opponent: { start: 1.1, duration: 0.5, slideY: 18 },
+  /** 得点の数字が出てから 0→points まで数える時間 */
+  count: { start: 1.6, duration: 1.6 },
+  /** 数え終わりに一瞬だけ大きくして止める */
+  pop: { duration: 0.35, scale: 1.08 },
+  stats: { start: 3.6, stagger: 0.5, duration: 0.5, slideY: 18 },
+} as const;
+
+export const scoreBrandTagStart = (statCount: number): number =>
+  statCount > 0
+    ? SCORE_IN.stats.start +
+      SCORE_IN.stats.stagger * (statCount - 1) +
+      BRAND_TAG_IN.delayAfterLastBodyLine
+    : SCORE_IN.count.start +
+      SCORE_IN.count.duration +
+      BRAND_TAG_IN.delayAfterLastBodyLine;
+
+export const computeScoreDuration = (statCount: number): number =>
+  clampDuration(
+    scoreBrandTagStart(statCount) + BRAND_TAG_IN.wipeDuration + OUTRO_HOLD,
+  );
+
+/** 名言: 引用符 → 発言を1行ずつ（読む時間を取ってゆっくり） → 発言者 */
+export const QUOTE_IN = {
+  mark: { start: 0.4, duration: 0.6 },
+  lines: { start: 1.1, stagger: 0.7, duration: 0.6, slideY: 16 },
+  speakerDelay: 0.9,
+  speaker: { duration: 0.6, slideY: 12 },
+} as const;
+
+/** 名言は読み終わるまで待つので余韻を長めにとる */
+export const QUOTE_OUTRO_HOLD = 3.5;
+
+export const quoteSpeakerStart = (lineCount: number): number =>
+  QUOTE_IN.lines.start +
+  QUOTE_IN.lines.stagger * Math.max(0, lineCount - 1) +
+  QUOTE_IN.speakerDelay;
+
+export const quoteBrandTagStart = (lineCount: number): number =>
+  quoteSpeakerStart(lineCount) + BRAND_TAG_IN.delayAfterLastBodyLine;
+
+export const computeQuoteDuration = (lineCount: number): number =>
+  clampDuration(
+    quoteBrandTagStart(lineCount) + BRAND_TAG_IN.wipeDuration + QUOTE_OUTRO_HOLD,
+  );
+
+/** ランキング: 見出し → 行が上から1行ずつ左から滑り込む → 合計行が白帯でワイプ */
+export const RANKING_IN = {
+  title: { start: 0.5, duration: 0.6, slideY: 28 },
+  rows: { start: 1.4, stagger: 0.4, duration: 0.5, slideX: 60 },
+  totalDelay: 0.6,
+  total: { wipeDuration: 0.5, contentDelay: 0.05, contentFadeDuration: 0.3 },
+} as const;
+
+export const rankingTotalStart = (rowCount: number): number =>
+  RANKING_IN.rows.start +
+  RANKING_IN.rows.stagger * Math.max(0, rowCount - 1) +
+  RANKING_IN.totalDelay;
+
+export const rankingBrandTagStart = (
+  rowCount: number,
+  hasTotal: boolean,
+): number =>
+  (hasTotal
+    ? rankingTotalStart(rowCount) + RANKING_IN.total.wipeDuration
+    : RANKING_IN.rows.start +
+      RANKING_IN.rows.stagger * Math.max(0, rowCount - 1)) +
+  BRAND_TAG_IN.delayAfterLastBodyLine;
+
+export const computeRankingDuration = (
+  rowCount: number,
+  hasTotal: boolean,
+): number =>
+  clampDuration(
+    rankingBrandTagStart(rowCount, hasTotal) +
+      BRAND_TAG_IN.wipeDuration +
+      OUTRO_HOLD,
+  );
+
 /** props から最終的なフレーム数を出す */
 export const resolveDurationInFrames = (
   bodyLineCount: number,

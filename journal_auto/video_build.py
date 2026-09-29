@@ -140,7 +140,7 @@ def main():
                 except Exception as e:
                     print(f"[warn] {it['id']}: 記事用の軽量版が作れなかった: {e}", file=sys.stderr)
             status[it["id"]] = {"slug": res["slug"], "url": url or mp4, "route": res["route"],
-                                "credit": res["credit"],
+                                "credit": res["credit"], "template": res["template"],
                                 "built_at": datetime.now(JST).isoformat(timespec="seconds")}
             save_status(status, upload)
             print(f"[done] {it['id']} {url or mp4}")

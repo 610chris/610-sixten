@@ -1,0 +1,12 @@
+{
+  "_note": "名言テンプレの確認用。発言者・発言とも架空のサンプル（実在選手の発言ではない）",
+  "template": "quote",
+  "quote": [
+    "負けた夜のほうが、",
+    "眠れないくらい練習したくなる。",
+    "それがバスケを続けてる理由。"
+  ],
+  "speaker": "サンプル選手",
+  "speakerNote": "試合後の会見で",
+  "background": { "type": "image", "src": "assets/test/tall-b.jpg" }
+}

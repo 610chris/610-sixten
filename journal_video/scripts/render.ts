@@ -12,17 +12,23 @@ import fs from "node:fs";
 import path from "node:path";
 import { bundle } from "@remotion/bundler";
 import { renderMedia, selectComposition } from "@remotion/renderer";
-import { parseNewsVideoInput } from "../src/props";
+import { parseVideoInput } from "../src/props";
 import { VIDEO } from "../src/theme";
 import { BACKGROUND_ZOOM } from "../src/timeline";
-import type { NewsVideoProps } from "../src/types";
+import type { BackgroundSpec, TemplateId, VideoInput } from "../src/types";
 
 /** npm script から実行されるので、カレントはプロジェクトルート */
 const ROOT = process.cwd();
 const INPUT_DIR = path.join(ROOT, "input");
 const OUT_DIR = path.join(ROOT, "out");
 const PUBLIC_DIR = path.join(ROOT, "public");
-const COMPOSITION_ID = "NewsVideo";
+/** JSON の "template" → Root.tsx の Composition id */
+const COMPOSITION_ID: Record<TemplateId, string> = {
+  news: "NewsVideo",
+  score: "ScoreVideo",
+  quote: "QuoteVideo",
+  ranking: "RankingVideo",
+};
 
 /**
  * JPEG の EXIF Orientation を読む。
@@ -135,9 +141,12 @@ const imageSize = (
  * 横長の記事ヒーロー画像（1600×900 など）をそのまま使うと2倍以上に引き伸ばされて眠くなるので、
  * 止めはせず「どれだけ足りないか」と必要サイズを出す。
  */
-const warnIfBackgroundTooSmall = (props: NewsVideoProps, source: string) => {
-  if (props.background.type !== "image") return;
-  const file = path.join(PUBLIC_DIR, props.background.src);
+const warnIfBackgroundTooSmall = (
+  background: BackgroundSpec,
+  source: string,
+) => {
+  if (background.type !== "image") return;
+  const file = path.join(PUBLIC_DIR, background.src);
   const size = imageSize(file);
   if (!size) return;
 
@@ -151,17 +160,18 @@ const warnIfBackgroundTooSmall = (props: NewsVideoProps, source: string) => {
   const needW = Math.ceil((size.width * scale) / 10) * 10;
   const needH = Math.ceil((size.height * scale) / 10) * 10;
   console.warn(
-    `  ⚠ ${source}: 背景 ${props.background.src} は ${size.width}×${size.height} で、` +
+    `  ⚠ ${source}: 背景 ${background.src} は ${size.width}×${size.height} で、` +
       `画面いっぱいにするのに ${scale.toFixed(2)}倍まで拡大されます（眠い絵になります）。` +
       `${needW}×${needH} 以上の画像を推奨。`,
   );
 };
 
 /** JSON を読んで props にする。ここで弾けば描画時に落ちない */
-const loadInput = (jsonPath: string): NewsVideoProps => {
+const loadInput = (jsonPath: string): VideoInput => {
   const source = path.relative(ROOT, jsonPath);
   const raw: unknown = JSON.parse(fs.readFileSync(jsonPath, "utf8"));
-  const props = parseNewsVideoInput(raw, source);
+  const input = parseVideoInput(raw, source);
+  const { props } = input;
 
   // public/ 配下に実体があるか先に確かめる（無いと真っ黒な動画ができてしまう）
   const assets = [props.background.src, props.bgm].filter(
@@ -177,8 +187,8 @@ const loadInput = (jsonPath: string): NewsVideoProps => {
       );
     }
   }
-  warnIfBackgroundTooSmall(props, source);
-  return props;
+  warnIfBackgroundTooSmall(props.background, source);
+  return input;
 };
 
 /** 引数から対象のJSONを決める */
@@ -212,7 +222,7 @@ const main = async () => {
   // 先に全部のJSONを検証する（3本目で落ちて1・2本目だけ出来る、を防ぐ）
   const jobs = targets.map((jsonPath) => ({
     jsonPath,
-    props: loadInput(jsonPath),
+    input: loadInput(jsonPath),
     outPath: path.join(
       OUT_DIR,
       `${path.basename(jsonPath, ".json")}.mp4`,
@@ -228,10 +238,15 @@ const main = async () => {
   });
 
   for (const [index, job] of jobs.entries()) {
+    // 省略した項目（undefined）は JSON 化で消え、Remotion が Root.tsx のサンプル値で埋めてしまう
+    // （speakerNote や ranking の total に架空の値が出る）。null にして「空」を明示して渡す
+    const inputProps = JSON.parse(
+      JSON.stringify(job.input.props, (_k, v) => (v === undefined ? null : v)),
+    );
     const composition = await selectComposition({
       serveUrl,
-      id: COMPOSITION_ID,
-      inputProps: job.props,
+      id: COMPOSITION_ID[job.input.template],
+      inputProps,
     });
 
     const seconds = composition.durationInFrames / composition.fps;
@@ -241,7 +256,7 @@ const main = async () => {
       serveUrl,
       codec: "h264",
       outputLocation: job.outPath,
-      inputProps: job.props,
+      inputProps,
       imageFormat: "jpeg",
       concurrency: 4,
       overwrite: true,
@@ -259,7 +274,8 @@ const main = async () => {
     console.log(
       `  [${index + 1}/${jobs.length}] ${path.relative(ROOT, job.outPath)} ` +
         `(${seconds.toFixed(2)}秒 / ${composition.durationInFrames}フレーム` +
-        `${job.props.bgm ? " / BGMあり" : ""})`,
+        `${job.input.template === "news" ? "" : ` / ${job.input.template}`}` +
+        `${job.input.props.bgm ? " / BGMあり" : ""})`,
     );
   }
 
