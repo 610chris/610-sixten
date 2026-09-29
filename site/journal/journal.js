@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "311-air-jordan-4-light-army.html",
+    cat: "KICKS",
+    title: "Air Jordan 4「Light Army」、10月31日にヨーロッパ限定発売 —— 品番JA5911-320",
+    excerpt: "ジョーダン ブランドは、Air Jordan 4の新色「Light Army」（品番JA5911-320）を2026年10月31日にヨーロッパの一部店舗限定で発売する。他地域での発売は現時点で明らかになっていない。Nice Kicksが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-311-hero.jpg?v=1a6657a22f"
+  },
+  {
     href: "310-ss-andteras-partnership.html",
     cat: "JAPAN",
     title: "SS、アンドテラスとトップパートナー契約 —— 3x3の関口サムエル、2028年ロス五輪目指し名古屋の不動産会社と提携",
