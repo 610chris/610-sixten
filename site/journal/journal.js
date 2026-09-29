@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "316-brandon-ingram-achilles-clippers.html",
+    cat: "NBA",
+    title: "クリッパーズのインガム、アキレス腱部分断裂 —— 2026-27シーズン開幕に間に合わず",
+    excerpt: "LAクリッパーズは、ブランドン・インガムの足に部分的なアキレス腱断裂が見つかったと発表した。今夏のヒール手術後に判明したもので、2026-27シーズンの開幕には間に合わない見通し。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "315-embiid-full-participant-sixers-practice.html",
     cat: "NBA",
     title: "エンビード「フル参加」で76ers始動 —— ナース監督「非常に良いニュース」、故障続きからの復調に手応え",
