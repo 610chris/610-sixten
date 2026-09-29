@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "310-ss-andteras-partnership.html",
+    cat: "JAPAN",
+    title: "SS、アンドテラスとトップパートナー契約 —— 3x3の関口サムエル、2028年ロス五輪目指し名古屋の不動産会社と提携",
+    excerpt: "2025年創設のプロ3x3クラブ「SS」（東京都新宿区、代表・関口サムエル）は9月29日、愛知県名古屋市の不動産会社アンドテラスとトップパートナー契約を締結したと発表した。関口は2028年ロサンゼルス五輪の3x3日本代表出場を目指しており、アンドテラスは子どもたちへ夢を伝えるという理念への共感からパートナーに加わったとしている。",
+    date: "2026.09.29",
+    thumb: "../assets/journal-310-hero.jpg?v=aebf60364f"
+  },
+  {
     href: "309-air-jordan-4-j-balvin-amazonas.html",
     cat: "KICKS",
     title: "J Balvin x Air Jordan 4「Amazonas」発表 —— コロンビアの生物多様性を色彩で表現、2言語ロゴも",
