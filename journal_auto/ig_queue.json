@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:02:07+09:00",
+  "updated": "2026-09-29T17:04:51+09:00",
   "items": [
     {
       "id": "134",
@@ -4661,7 +4661,7 @@
         "https://sixten.jp/assets/ig/295-2.jpg",
         "https://sixten.jp/assets/ig/295-3.jpg"
       ],
-      "state": "pending",
+      "state": "skipped",
       "created": "2026-09-29T06:56:44+09:00",
       "posted_at": null,
       "ig_media_id": null,
@@ -4704,7 +4704,7 @@
         "https://sixten.jp/assets/ig/296-2.jpg",
         "https://sixten.jp/assets/ig/296-3.jpg"
       ],
-      "state": "pending",
+      "state": "skipped",
       "created": "2026-09-29T06:56:54+09:00",
       "posted_at": null,
       "ig_media_id": null,
@@ -4745,7 +4745,7 @@
         "https://sixten.jp/assets/ig/297-2.jpg",
         "https://sixten.jp/assets/ig/297-3.jpg"
       ],
-      "state": "pending",
+      "state": "skipped",
       "created": "2026-09-29T07:06:04+09:00",
       "posted_at": null,
       "ig_media_id": null,
@@ -4776,7 +4776,7 @@
         "https://sixten.jp/assets/ig/298-2.jpg",
         "https://sixten.jp/assets/ig/298-3.jpg"
       ],
-      "state": "pending",
+      "state": "skipped",
       "created": "2026-09-29T07:13:34+09:00",
       "posted_at": null,
       "ig_media_id": null,
@@ -4807,7 +4807,7 @@
         "https://sixten.jp/assets/ig/299-2.jpg",
         "https://sixten.jp/assets/ig/299-3.jpg"
       ],
-      "state": "pending",
+      "state": "skipped",
       "created": "2026-09-29T07:30:50+09:00",
       "posted_at": null,
       "ig_media_id": null,
@@ -4839,7 +4839,7 @@
         "https://sixten.jp/assets/ig/300-2.jpg",
         "https://sixten.jp/assets/ig/300-3.jpg"
       ],
-      "state": "pending",
+      "state": "skipped",
       "created": "2026-09-29T07:30:50+09:00",
       "posted_at": null,
       "ig_media_id": null,
