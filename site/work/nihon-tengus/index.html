@@ -1,0 +1,927 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>NIHON TENGUS | 日本テングス オフィシャルサイト</title>
+<meta name="description" content="アジアの舞台で戦う独立系バスケットボールチーム、NIHON TENGUS（日本テングス）のオフィシャルサイト。">
+<link rel="icon" href="assets/logo.webp">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#07070a; --ink2:#0e0e13; --ink3:#16161d;
+  --pink:#e23b72; --pink-d:#a8244f;
+  --teal:#43b8ae; --teal-d:#23807a;
+  --white:#f7f5f6; --mute:#9a98a2; --line:rgba(255,255,255,.09);
+  --display:'Anton','Bebas Neue',Impact,sans-serif;
+  --jp:'Noto Sans JP',system-ui,sans-serif;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;overflow-x:hidden;overflow-x:clip}
+body{background:var(--ink);color:var(--white);font-family:var(--jp);overflow-x:hidden;overflow-x:clip;-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+::selection{background:var(--pink);color:#fff}
+
+/* ---------- LOADER ---------- */
+#loader{position:fixed;inset:0;z-index:100;background:var(--ink);display:grid;place-items:center;transition:opacity .8s ease,visibility .8s}
+#loader.done{opacity:0;visibility:hidden}
+#loader .l-word{font-family:var(--display);font-size:clamp(40px,9vw,120px);letter-spacing:.04em;line-height:1;display:flex;overflow:hidden}
+#loader .l-word span{display:inline-block;transform:translateY(110%);animation:rise .7s cubic-bezier(.2,.9,.2,1) forwards}
+#loader .l-bar{position:absolute;bottom:18%;left:50%;width:min(320px,60vw);height:3px;transform:translateX(-50%);background:var(--line);overflow:hidden}
+#loader .l-bar i{position:absolute;inset:0;background:linear-gradient(90deg,var(--teal),var(--pink));transform:scaleX(0);transform-origin:left;transition:transform .4s}
+@keyframes rise{to{transform:translateY(0)}}
+
+/* ---------- HEADER ---------- */
+header{position:fixed;top:0;left:0;right:0;z-index:50;display:flex;align-items:center;justify-content:space-between;padding:18px clamp(16px,4vw,48px);transition:background .4s,padding .4s,backdrop-filter .4s}
+header.scrolled{background:rgba(7,7,10,.78);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);padding-block:10px;border-bottom:1px solid var(--line)}
+header{gap:clamp(16px,2.4vw,40px)}
+.brand{display:flex;align-items:center;gap:12px;flex-shrink:0;white-space:nowrap}
+.brand img{height:34px;width:auto}
+.brand b{font-family:var(--display);font-size:22px;letter-spacing:.06em;font-weight:400}
+nav ul{display:flex;gap:clamp(14px,2.2vw,34px);list-style:none}
+nav a{font-family:var(--display);font-size:17px;letter-spacing:.12em;position:relative;padding:6px 0;color:#d9d7de;transition:color .25s}
+nav a::after{content:"";position:absolute;left:0;bottom:0;height:2px;width:100%;background:linear-gradient(90deg,var(--teal),var(--pink));transform:scaleX(0);transform-origin:right;transition:transform .35s}
+nav a:hover{color:#fff}
+nav a:hover::after{transform:scaleX(1);transform-origin:left}
+.h-cta{font-family:var(--display);letter-spacing:.12em;font-size:16px;padding:10px 20px;border:1px solid var(--pink);color:#fff;background:linear-gradient(90deg,var(--pink),var(--pink-d));clip-path:polygon(10px 0,100% 0,calc(100% - 10px) 100%,0 100%);transition:filter .25s}
+.h-cta:hover{filter:brightness(1.15)}
+.burger{display:none;background:none;border:0;width:36px;height:36px;position:relative;cursor:pointer}
+.burger i{position:absolute;left:6px;right:6px;height:2px;background:#fff;transition:.3s}
+.burger i:nth-child(1){top:11px}.burger i:nth-child(2){top:17px}.burger i:nth-child(3){top:23px}
+body.menu-open .burger i:nth-child(1){top:17px;transform:rotate(45deg)}
+body.menu-open .burger i:nth-child(2){opacity:0}
+body.menu-open .burger i:nth-child(3){top:17px;transform:rotate(-45deg)}
+
+/* ---------- HERO ---------- */
+#hero{position:relative;height:100svh;min-height:620px;overflow:hidden;background:
+  radial-gradient(60% 50% at 50% 46%,rgba(67,184,174,.20),transparent 70%),
+  radial-gradient(45% 40% at 70% 70%,rgba(226,59,114,.18),transparent 70%),
+  radial-gradient(40% 40% at 25% 30%,rgba(226,59,114,.10),transparent 70%),var(--ink)}
+#stage{position:absolute;inset:0;width:100%;height:100%;display:block}
+.hero-bgword{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-family:var(--display);font-size:clamp(120px,26vw,420px);line-height:.8;white-space:nowrap;color:transparent;-webkit-text-stroke:1px rgba(255,255,255,.06);pointer-events:none;user-select:none;letter-spacing:.02em}
+.court{position:absolute;inset:0;pointer-events:none;opacity:.5}
+.hero-copy{position:absolute;left:0;right:0;bottom:clamp(28px,7vh,72px);display:flex;justify-content:space-between;align-items:flex-end;padding:0 clamp(16px,4vw,48px);gap:24px;pointer-events:none}
+.hero-copy{z-index:2;isolation:isolate}
+.hero-copy::before{content:"";position:absolute;left:0;right:0;top:-70px;bottom:calc(-1*clamp(28px,7vh,72px));background:linear-gradient(180deg,transparent,rgba(7,7,10,.82) 45%);z-index:-1}
+.hero-copy .tag{font-family:var(--display);letter-spacing:.3em;font-size:14px;color:var(--teal);margin-bottom:10px;display:flex;align-items:center;gap:10px}
+.hero-copy .tag::before{content:"";width:36px;height:2px;background:var(--teal)}
+.hero-copy h1{font-family:var(--display);font-weight:400;font-size:clamp(34px,5.4vw,78px);line-height:.95;letter-spacing:.01em;text-transform:uppercase}
+.hero-copy h1 em{font-style:normal;background:linear-gradient(90deg,var(--teal),var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero-copy p{margin-top:12px;color:#c8c6cf;font-size:14px;line-height:1.8;max-width:34em}
+.hero-side{text-align:right;font-family:var(--display);letter-spacing:.14em}
+.hero-side .n{font-size:clamp(40px,5vw,72px);line-height:1;background:linear-gradient(180deg,#fff,#8c8a94);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero-side .l{font-size:13px;color:var(--mute)}
+.scroll-cue{position:absolute;left:50%;bottom:22px;transform:translateX(-50%);width:22px;height:36px;border:2px solid rgba(255,255,255,.35);border-radius:12px}
+.scroll-cue::after{content:"";position:absolute;left:50%;top:7px;width:3px;height:7px;margin-left:-1.5px;border-radius:2px;background:#fff;animation:cue 1.6s infinite}
+@keyframes cue{0%{opacity:0;transform:translateY(0)}40%{opacity:1}100%{opacity:0;transform:translateY(12px)}}
+.fallback-logo{position:absolute;left:50%;top:46%;width:min(80vw,760px);transform:translate(-50%,-50%);display:none;filter:drop-shadow(0 20px 60px rgba(226,59,114,.35))}
+.no-webgl .fallback-logo{display:block;animation:spinY 8s linear infinite}
+@keyframes spinY{from{transform:translate(-50%,-50%) rotateY(0)}to{transform:translate(-50%,-50%) rotateY(-360deg)}}
+
+/* ---------- TICKER ---------- */
+.ticker{background:linear-gradient(90deg,var(--pink),var(--pink-d));overflow:hidden;white-space:nowrap;border-block:1px solid rgba(0,0,0,.4);transform:rotate(-1.2deg) scale(1.03);margin-top:-18px;position:relative;z-index:3;box-shadow:0 10px 40px rgba(226,59,114,.25)}
+.ticker .track{display:inline-flex;animation:tick 28s linear infinite}
+.ticker span{font-family:var(--display);font-size:clamp(22px,3vw,34px);letter-spacing:.08em;padding:12px 26px;display:inline-flex;align-items:center;gap:26px}
+.ticker span::after{content:"✦";color:var(--ink);font-size:.7em}
+.ticker.teal{background:linear-gradient(90deg,var(--teal-d),var(--teal));transform:rotate(1deg) scale(1.03);margin-top:-6px;z-index:2;box-shadow:none}
+.ticker.teal .track{animation-direction:reverse;animation-duration:34s}
+.ticker.teal span{color:var(--ink)}
+.ticker.teal span::after{color:#fff}
+/* 衡山毛筆フォント(武蔵システム・無料/商用可)を「日本テングス天狗」だけにサブセット化 */
+@font-face{font-family:'KouzanTengus';src:url(assets/kouzan-tengus.woff2) format('woff2');font-display:swap}
+.ticker .fude{font-family:'KouzanTengus',var(--jp);font-weight:400;letter-spacing:.08em;font-size:clamp(28px,3.9vw,46px);-webkit-text-stroke:1.4px currentColor;paint-order:stroke fill;line-height:1}
+.ticker .fude::after{font-family:var(--display)}
+@keyframes tick{to{transform:translateX(-50%)}}
+
+/* ---------- SECTIONS ---------- */
+section{position:relative;padding:clamp(80px,12vw,150px) clamp(16px,4vw,48px)}
+.wrap{max-width:1280px;margin:0 auto}
+.sec-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;margin-bottom:clamp(36px,5vw,64px);flex-wrap:wrap}
+.eyebrow{font-family:var(--display);letter-spacing:.32em;font-size:14px;color:var(--pink);display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.eyebrow::before{content:"";width:28px;height:2px;background:currentColor}
+.sec-title{font-family:var(--display);font-weight:400;font-size:clamp(52px,9vw,128px);line-height:.88;letter-spacing:.01em}
+.sec-title .o{color:transparent;-webkit-text-stroke:1.5px rgba(255,255,255,.55)}
+.more{font-family:var(--display);letter-spacing:.16em;font-size:15px;display:inline-flex;align-items:center;gap:10px;border-bottom:2px solid var(--teal);padding-bottom:4px}
+.more::after{content:"→";transition:transform .3s}
+.more:hover::after{transform:translateX(6px)}
+.reveal{opacity:0;transform:translateY(40px);transition:opacity .9s cubic-bezier(.2,.8,.2,1),transform .9s cubic-bezier(.2,.8,.2,1)}
+.reveal.in{opacity:1;transform:none}
+
+/* ---------- NEWS ---------- */
+#news{background:var(--ink)}
+.news-grid{display:grid;grid-template-columns:1.3fr 1fr;gap:18px}
+.card{position:relative;background:var(--ink3);border:1px solid var(--line);overflow:hidden;min-height:260px;display:flex;flex-direction:column;justify-content:flex-end;padding:26px;transition:transform .4s,border-color .4s}
+.card:hover{transform:translateY(-6px);border-color:rgba(226,59,114,.5)}
+.card .art{position:absolute;inset:0;overflow:hidden}
+.card .art::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,rgba(7,7,10,.95))}
+.card.big{grid-row:span 2;min-height:540px}
+.card .cat{font-family:var(--display);letter-spacing:.2em;font-size:13px;color:var(--teal);position:relative}
+.card h3{position:relative;font-size:clamp(18px,1.8vw,26px);line-height:1.45;margin:10px 0 12px;font-weight:900}
+.card.big h3{font-size:clamp(22px,2.1vw,32px)}
+.card.big .art::after{background:linear-gradient(180deg,transparent 25%,rgba(7,7,10,.7) 50%,rgba(7,7,10,.97) 75%)}
+.card time{position:relative;font-family:var(--display);letter-spacing:.14em;color:var(--mute);font-size:13px}
+.art-a{background:
+  radial-gradient(70% 60% at 30% 30%,rgba(226,59,114,.55),transparent 60%),
+  radial-gradient(60% 60% at 80% 70%,rgba(67,184,174,.5),transparent 60%),#111}
+.art-a .bigtxt{position:absolute;top:8%;left:-2%;font-family:var(--display);font-size:clamp(90px,13vw,200px);line-height:.85;color:rgba(255,255,255,.08)}
+.art-a img{position:absolute;right:-6%;top:4%;width:64%;opacity:.9;transform:rotate(-8deg);filter:drop-shadow(0 20px 40px rgba(0,0,0,.6))}
+.art-b{background:repeating-linear-gradient(135deg,rgba(67,184,174,.14) 0 2px,transparent 2px 16px),linear-gradient(135deg,#0f2826,#0b0b10)}
+.art-c{background:repeating-linear-gradient(45deg,rgba(226,59,114,.16) 0 2px,transparent 2px 16px),linear-gradient(135deg,#2a0f1a,#0b0b10)}
+.art .num{position:absolute;right:18px;top:6px;font-family:var(--display);font-size:120px;line-height:1;color:rgba(255,255,255,.07)}
+
+/* ---------- SCHEDULE ---------- */
+#schedule{background:linear-gradient(180deg,var(--ink),var(--ink2))}
+.event-banner .ev-logo{width:clamp(72px,8vw,112px);height:auto;filter:invert(1);opacity:.92}
+.event-banner{display:grid;grid-template-columns:auto auto 1fr auto;align-items:center;gap:clamp(16px,3vw,40px);padding:clamp(22px,3vw,36px);background:linear-gradient(100deg,rgba(67,184,174,.16),rgba(226,59,114,.14));border:1px solid var(--line);margin-bottom:22px}
+.event-banner .ev-city{font-family:var(--display);font-size:clamp(46px,7vw,96px);line-height:.85}
+.event-banner .ev-meta{font-size:14px;color:#cfcdd6;line-height:1.9}
+.event-banner .ev-meta b{font-family:var(--display);font-weight:400;letter-spacing:.14em;color:#fff;font-size:18px;display:block}
+.event-banner .ev-flag{font-family:var(--display);letter-spacing:.2em;font-size:13px;color:var(--ink);background:var(--teal);padding:8px 14px}
+.games{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.game{background:var(--ink3);border:1px solid var(--line);padding:22px 22px 20px;position:relative;overflow:hidden;transition:border-color .3s,transform .3s}
+.game:hover{border-color:var(--teal);transform:translateY(-4px)}
+.game .g-top{display:flex;justify-content:space-between;font-family:var(--display);letter-spacing:.16em;font-size:13px;color:var(--mute)}
+.game .g-top .gn{color:var(--pink)}
+.game .date{font-family:var(--display);font-size:52px;line-height:1;margin:14px 0 4px}
+.game .date small{font-size:20px;color:var(--mute);margin-left:6px}
+.game .vs{display:flex;align-items:center;gap:12px;margin-top:14px;padding-top:14px;border-top:1px dashed var(--line)}
+.game .vs img{width:64px;flex:none}
+.game .vs i{font-style:normal;font-family:var(--display);color:var(--mute);letter-spacing:.1em}
+.game .vs b{font-family:var(--display);font-weight:400;font-size:21px;letter-spacing:.04em;line-height:1.1}
+a.game{display:block;color:inherit}
+.game .watch{display:inline-block;margin-top:14px;font-family:var(--display);letter-spacing:.14em;font-size:14px;color:var(--teal)}
+.game:hover .watch{color:#fff}
+.game::after{content:"";position:absolute;right:-30px;bottom:-30px;width:110px;height:110px;border-radius:50%;border:2px solid rgba(67,184,174,.14)}
+.note{margin-top:18px;font-size:12px;color:var(--mute)}
+
+/* ---------- ROSTER ---------- */
+#roster{background:var(--ink2);overflow:hidden}
+.filters{display:flex;gap:8px;flex-wrap:wrap}
+.filters button{font-family:var(--display);letter-spacing:.16em;font-size:15px;background:transparent;color:#cfcdd6;border:1px solid var(--line);padding:9px 18px;cursor:pointer;transition:.25s}
+.filters button.on,.filters button:hover{background:var(--white);color:var(--ink);border-color:var(--white)}
+.players{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.player{position:relative;aspect-ratio:3/4.2;background:linear-gradient(170deg,#1b1b23,#0c0c10 70%);border:1px solid var(--line);overflow:hidden;cursor:default;transition:transform .45s cubic-bezier(.2,.8,.2,1),border-color .3s,opacity .4s}
+.player:hover{transform:translateY(-8px);border-color:var(--pink)}
+.player.hide{display:none}
+.player .pnum{position:absolute;top:-4%;right:-4%;font-family:var(--display);font-size:clamp(120px,13vw,190px);line-height:1;color:transparent;-webkit-text-stroke:2px rgba(255,255,255,.12);transition:.45s}
+.player:hover .pnum{-webkit-text-stroke-color:transparent;color:rgba(226,59,114,.9);transform:scale(1.04)}
+.player .photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 20%;transition:transform .6s}
+.player:hover .photo{transform:scale(1.05)}
+.player .pnum{z-index:1}.player .info{z-index:2}.player .stripe{z-index:3}
+.player .info{position:absolute;left:0;right:0;bottom:0;padding:16px;background:linear-gradient(180deg,transparent,rgba(7,7,10,.96) 45%)}
+.player .pos{font-family:var(--display);letter-spacing:.2em;font-size:12px;color:var(--teal)}
+.player .name{font-family:var(--display);font-size:clamp(20px,1.8vw,26px);line-height:1;margin:6px 0 8px;letter-spacing:.02em}
+.player .meta{display:flex;gap:12px;font-size:11px;color:var(--mute);letter-spacing:.04em}
+.player .meta b{color:#fff;font-weight:700}
+.player .stripe{position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,var(--teal),var(--pink))}
+
+/* ---------- STAFF ---------- */
+#staff{background:var(--ink)}
+.coach{display:grid;grid-template-columns:1fr 1.3fr;gap:clamp(24px,5vw,72px);align-items:center}
+.coach-card{position:relative;aspect-ratio:4/5;background:linear-gradient(160deg,rgba(67,184,174,.22),transparent 55%),linear-gradient(20deg,rgba(226,59,114,.25),transparent 60%),var(--ink3);border:1px solid var(--line);overflow:hidden}
+.coach-card .hc{position:absolute;left:24px;top:18px;font-family:var(--display);font-size:clamp(110px,14vw,210px);line-height:.85;color:rgba(255,255,255,.07)}
+.coach-card img{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:70%}
+.coach h3{font-family:var(--display);font-weight:400;font-size:clamp(48px,6vw,90px);line-height:.9}
+.coach .role{font-family:var(--display);letter-spacing:.3em;color:var(--pink);font-size:15px;margin-bottom:10px}
+.career{margin-top:28px;border-top:1px solid var(--line)}
+.career li{list-style:none;display:grid;grid-template-columns:200px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--line);font-size:14px;color:#d7d5dd;line-height:1.7}
+.career li b{font-family:var(--display);font-weight:400;letter-spacing:.08em;font-size:20px;color:#fff}
+
+.coach-card .coach-name-bg{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(-90deg);font-family:var(--display);font-size:clamp(70px,9vw,140px);letter-spacing:.04em;color:transparent;-webkit-text-stroke:1.5px rgba(67,184,174,.28);white-space:nowrap}
+.coach-card .coach-photo{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:auto;height:92%;max-width:none;filter:drop-shadow(0 30px 50px rgba(0,0,0,.6)) drop-shadow(-12px 0 0 rgba(226,59,114,.35))}
+.coach-card .coach-tag{position:absolute;left:0;bottom:22px;background:linear-gradient(90deg,var(--pink),var(--pink-d));padding:10px 18px 10px 22px;clip-path:polygon(0 0,100% 0,calc(100% - 12px) 100%,0 100%)}
+.coach-tag b{display:block;font-family:var(--display);font-weight:400;letter-spacing:.2em;font-size:15px}
+.coach-tag span{font-family:var(--display);letter-spacing:.2em;font-size:11px;opacity:.85}
+.coach h3 small{display:block;font-family:var(--jp);font-weight:900;font-size:clamp(18px,2vw,26px);color:var(--teal);margin-top:10px;letter-spacing:.1em}
+.coach-lead{margin-top:20px;color:#d7d5dd;line-height:2;font-size:15px}
+.coach-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:26px}
+.coach-stats div{border:1px solid var(--line);padding:16px;background:linear-gradient(180deg,rgba(255,255,255,.04),transparent)}
+.coach-stats b{display:block;font-family:var(--display);font-weight:400;font-size:clamp(34px,4vw,52px);line-height:1;background:linear-gradient(90deg,var(--teal),var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
+.coach-stats b i{font-style:normal;font-family:var(--jp);font-size:.45em}
+.coach-stats span{font-size:12px;color:var(--mute);line-height:1.5;display:block;margin-top:6px}
+.sns{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
+.sns a{font-family:var(--display);letter-spacing:.16em;font-size:14px;padding:10px 16px;border:1px solid var(--line);transition:.25s}
+.sns a:hover{border-color:var(--pink);background:rgba(226,59,114,.12)}
+.jp-sub{font-family:var(--jp);letter-spacing:.1em;font-size:12px;color:var(--mute);font-weight:700}
+
+/* ---------- IDENTITY ---------- */
+#identity{background:var(--ink2);overflow:hidden}
+.identity{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+.id-block{border:1px solid var(--line);padding:clamp(24px,3.5vw,44px);position:relative;overflow:hidden;background:var(--ink3)}
+.id-block .kanji{position:absolute;right:-10px;bottom:-40px;font-size:clamp(150px,18vw,260px);font-weight:900;line-height:1;color:rgba(255,255,255,.05)}
+.id-block .en{font-family:var(--display);font-size:clamp(46px,6vw,84px);line-height:.9}
+.id-block .en.t{color:var(--pink)}
+.id-block .en.n{color:var(--teal)}
+.id-block p{margin-top:18px;color:#d7d5dd;line-height:2;font-size:15px;max-width:30em;position:relative}
+.pillars{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.pillar{padding:30px;border:1px solid var(--line);background:linear-gradient(180deg,rgba(255,255,255,.03),transparent)}
+.pillar .pi{font-family:var(--display);color:var(--mute);letter-spacing:.2em;font-size:13px}
+.pillar h4{font-family:var(--display);font-weight:400;font-size:clamp(36px,4vw,56px);line-height:1;margin:10px 0 6px}
+.pillar span{color:#cfcdd6;font-size:14px}
+.colors{grid-column:1/-1;display:grid;grid-template-columns:repeat(4,1fr);height:160px;border:1px solid var(--line)}
+.colors div{display:flex;flex-direction:column;justify-content:flex-end;padding:16px;font-family:var(--display);letter-spacing:.14em;font-size:15px;transition:flex .4s}
+.colors small{font-family:var(--jp);font-size:11px;letter-spacing:.04em;opacity:.8;margin-top:4px}
+.marks{grid-column:1/-1}
+.marks .eyebrow{margin-bottom:16px}
+.marks-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.mark{margin:0;border:1px solid var(--line);background:#000;display:flex;flex-direction:column;overflow:hidden;transition:transform .35s,border-color .35s}
+.mark:hover{transform:translateY(-6px);border-color:var(--pink)}
+.mark .m-img{aspect-ratio:4/3;display:grid;place-items:center;padding:18px}
+.mark.light .m-img{background:#fff}
+.mark img{max-width:100%;max-height:100%;object-fit:contain}
+.mark figcaption{padding:12px 14px;font-family:var(--display);letter-spacing:.16em;font-size:14px;border-top:1px solid var(--line);background:var(--ink3)}
+.mark figcaption small{display:block;font-family:var(--jp);font-size:11px;letter-spacing:.04em;color:var(--mute);margin-top:2px}
+.quote{grid-column:1/-1;text-align:center;padding:clamp(40px,6vw,80px) 10px}
+.quote q{font-size:clamp(20px,2.6vw,34px);font-weight:900;line-height:1.7;quotes:"「" "」"}
+
+/* ---------- SHOP ---------- */
+#shop{background:var(--ink)}
+.items{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.item{background:var(--ink3);border:1px solid var(--line);transition:transform .35s,border-color .35s;display:block}
+.item:hover{transform:translateY(-6px);border-color:var(--teal)}
+.item .ph{aspect-ratio:1;display:grid;place-items:center;position:relative;overflow:hidden;background:radial-gradient(60% 60% at 50% 45%,rgba(255,255,255,.07),transparent 70%)}
+.item .ph img{width:100%;height:100%;object-fit:cover;transition:transform .5s}
+.item:hover .ph img{transform:scale(1.04)}
+.item .it{padding:16px 18px 20px}
+.item .it b{display:block;font-weight:700;font-size:14px}
+.item .it span{font-family:var(--display);letter-spacing:.08em;color:var(--pink);font-size:20px;display:block;margin-top:6px}
+
+/* ---------- PARTNERS / CTA ---------- */
+#partners{background:linear-gradient(180deg,var(--ink),#0d0a0e);text-align:center;overflow:hidden}
+#partners .sec-title{margin-bottom:24px}
+#partners p{color:#cfcdd6;line-height:2;max-width:40em;margin:0 auto 36px}
+.btn{display:inline-flex;align-items:center;gap:12px;font-family:var(--display);letter-spacing:.16em;font-size:18px;padding:18px 38px;background:linear-gradient(90deg,var(--teal),var(--pink));color:#fff;clip-path:polygon(14px 0,100% 0,calc(100% - 14px) 100%,0 100%);transition:filter .3s,transform .3s}
+.btn:hover{filter:brightness(1.12);transform:translateY(-2px)}
+.btn.ghost{background:transparent;border:1px solid rgba(255,255,255,.4);clip-path:none}
+.slots{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;max-width:980px;margin:48px auto 0}
+.slots div{aspect-ratio:2/1;border:1px dashed rgba(255,255,255,.18);display:grid;place-items:center;font-family:var(--display);letter-spacing:.2em;color:var(--mute);font-size:14px}
+
+/* ---------- FOOTER ---------- */
+footer{background:#040406;padding:70px clamp(16px,4vw,48px) 30px;border-top:1px solid var(--line)}
+.f-top{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px;max-width:1280px;margin:0 auto}
+.f-top img{width:220px}
+.f-top p{color:var(--mute);font-size:13px;line-height:1.9;margin-top:16px}
+.f-top h5{font-family:var(--display);font-weight:400;letter-spacing:.2em;font-size:15px;color:var(--teal);margin-bottom:14px}
+.f-top ul{list-style:none;display:grid;gap:10px;font-size:14px;color:#cfcdd6}
+.f-top ul a:hover{color:var(--pink)}
+.f-bot{max-width:1280px;margin:50px auto 0;padding-top:22px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;font-size:12px;color:var(--mute);flex-wrap:wrap}
+.f-huge{font-family:var(--display);font-size:clamp(70px,17vw,280px);line-height:.8;text-align:center;margin-top:60px;background:linear-gradient(180deg,rgba(255,255,255,.12),transparent 85%);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:.02em;user-select:none}
+
+/* ---------- DOCUMENTARY ---------- */
+#documentary{background:radial-gradient(60% 50% at 80% 0%,rgba(226,59,114,.14),transparent 70%),var(--ink2)}
+.doc-lead{color:#d7d5dd;line-height:2;font-size:15px;max-width:46em;margin:-20px 0 36px}
+.eps{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+.ep{display:block;background:var(--ink3);border:1px solid var(--line);transition:transform .35s,border-color .35s}
+.ep:hover{transform:translateY(-6px);border-color:var(--pink)}
+.ep-th{position:relative;aspect-ratio:16/9;overflow:hidden;background:#111}
+.ep-th img{width:100%;height:100%;object-fit:cover;filter:saturate(.85) brightness(.8);transition:.4s}
+.ep:hover .ep-th img{filter:none;transform:scale(1.05)}
+.ep-no{position:absolute;left:0;top:10px;font-family:var(--display);letter-spacing:.14em;font-size:15px;background:var(--pink);padding:4px 12px}
+.play{position:absolute;right:12px;bottom:12px;width:40px;height:40px;border-radius:50%;background:rgba(7,7,10,.7);border:1px solid rgba(255,255,255,.4)}
+.play::after{content:"";position:absolute;left:16px;top:12px;border-left:12px solid #fff;border-block:8px solid transparent}
+.ep p{padding:14px 16px 18px;font-size:14px;font-weight:700;line-height:1.6}
+.eps .ep:first-child{grid-column:span 2}
+.eps .ep:first-child p{font-size:clamp(16px,1.6vw,22px)}
+/* ---------- LANG ---------- */
+html[data-lang="ja"] [lang="en"],html[data-lang="en"] [lang="ja"]{display:none}
+.lang{display:flex;border:1px solid var(--line);margin-left:auto;margin-right:14px}
+.lang button{background:none;border:0;color:var(--mute);font-family:var(--display);letter-spacing:.12em;font-size:14px;padding:7px 10px;cursor:pointer}
+.lang button.on{background:var(--white);color:var(--ink)}
+/* ---------- PERKS ---------- */
+.perks{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:10px auto 44px;text-align:left}
+.perk{border:1px solid var(--line);padding:22px 18px;background:linear-gradient(180deg,rgba(67,184,174,.08),transparent)}
+.perk i{font-style:normal;font-family:var(--display);color:var(--pink);letter-spacing:.2em;font-size:13px}
+.perk b{display:block;font-family:var(--display);font-weight:400;font-size:26px;letter-spacing:.04em;margin:8px 0}
+.perk span{font-size:13px;color:#cfcdd6;line-height:1.7}
+#partners p.small{font-size:12px;color:var(--mute);margin:18px auto 0}
+@media (max-width:1080px){.eps{grid-template-columns:repeat(2,1fr)}.perks{grid-template-columns:repeat(6,1fr)}.perk{grid-column:span 2}.perk:nth-child(n+4){grid-column:span 3}}
+@media (max-width:560px){.eps{grid-template-columns:1fr}.eps .ep:first-child{grid-column:auto;grid-row:auto}.perks{grid-template-columns:1fr 1fr}.perks .perk{grid-column:auto}#partners .perks>.perk:last-child{grid-column:1/-1}.coach-stats{grid-template-columns:1fr 1fr 1fr}.coach-stats b{font-size:28px}}
+
+/* ---------- 改行 ---------- */
+body{text-wrap:pretty}
+:lang(ja){word-break:auto-phrase}
+.coach-stats span,.perk span,.ep p{line-break:strict}
+@media (max-width:560px){.sec-title{line-height:1}}
+
+/* ---------- RESPONSIVE ---------- */
+@media (max-width:1080px){
+  .players{grid-template-columns:repeat(4,1fr)}
+  .items{grid-template-columns:repeat(2,1fr)}
+  .games{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:1500px){
+  nav ul{gap:clamp(12px,1.4vw,22px)}
+  nav a{font-size:15px;letter-spacing:.1em}
+  .h-cta{font-size:14px;padding:9px 16px}
+}
+@media (max-width:1320px){
+  nav{position:fixed;inset:0;background:rgba(7,7,10,.97);display:grid;place-items:center;opacity:0;visibility:hidden;transition:.35s}
+  body.menu-open nav{opacity:1;visibility:visible}
+  nav ul{flex-direction:column;align-items:center;gap:22px}
+  nav a{font-size:34px}
+  .burger{display:block;z-index:60}
+}
+@media (max-width:860px){
+  .h-cta{display:none}
+  .news-grid{grid-template-columns:1fr}
+  .card.big{min-height:420px}
+  .players{grid-template-columns:repeat(2,1fr)}
+  .coach,.identity,.pillars{grid-template-columns:1fr}
+  .colors{grid-template-columns:repeat(2,1fr);height:auto}
+  .colors div{height:110px}
+  .event-banner{grid-template-columns:1fr}
+  .marks-grid{grid-template-columns:repeat(2,1fr)}
+  .f-top{grid-template-columns:1fr}
+  .slots{grid-template-columns:repeat(2,1fr)}
+  .career li{grid-template-columns:1fr;gap:4px}
+  .hero-side{display:none}
+}
+@media (max-width:560px){
+  .games{grid-template-columns:1fr}
+  .items{grid-template-columns:1fr 1fr}
+  .hero-copy p{display:none}
+}
+@media (prefers-reduced-motion:reduce){
+  .ticker .track{animation:none}
+  .reveal{opacity:1;transform:none}
+}
+</style>
+</head>
+<body>
+
+<div id="loader" aria-hidden="true">
+  <div class="l-word" id="lword"></div>
+  <div class="l-bar"><i id="lbar"></i></div>
+</div>
+
+<header id="hdr">
+  <a class="brand" href="#hero" aria-label="NIHON TENGUS ホーム"><img src="assets/logo.webp" alt=""><b>NIHON TENGUS</b></a>
+  <nav id="nav">
+    <ul>
+      <li><a href="#news">NEWS</a></li>
+      <li><a href="#schedule">SCHEDULE</a></li>
+      <li><a href="#roster">ROSTER</a></li>
+      <li><a href="#staff">STAFF</a></li>
+      <li><a href="#documentary">DOCUMENTARY</a></li>
+      <li><a href="#identity">TEAM</a></li>
+      <li><a href="#shop">SHOP</a></li>
+      <li><a href="#partners">SPONSOR</a></li>
+    </ul>
+  </nav>
+  <div class="lang" id="lang"><button data-l="ja">JP</button><button data-l="en">EN</button></div>
+  <a class="h-cta" href="#shop">OFFICIAL STORE</a>
+  <button class="burger" id="burger" aria-label="メニュー"><i></i><i></i><i></i></button>
+</header>
+
+<!-- ================= HERO ================= -->
+<section id="hero" style="padding:0">
+  <div class="hero-bgword">TENGUS</div>
+  <svg class="court" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <g fill="none" stroke="rgba(255,255,255,.06)" stroke-width="2">
+      <line x1="800" y1="0" x2="800" y2="900"/>
+      <circle cx="800" cy="450" r="180"/>
+      <circle cx="800" cy="450" r="60"/>
+      <path d="M0 150 H260 A300 300 0 0 1 260 750 H0"/>
+      <path d="M1600 150 H1340 A300 300 0 0 0 1340 750 H1600"/>
+      <rect x="0" y="330" width="230" height="240"/>
+      <rect x="1370" y="330" width="230" height="240"/>
+    </g>
+  </svg>
+  <canvas id="stage" aria-label="回転する NIHON TENGUS 3Dロゴ"></canvas>
+  <img class="fallback-logo" src="assets/logo.webp" alt="NIHON TENGUS ロゴ">
+  <div class="hero-copy">
+    <div>
+      <div class="tag">OFFICIAL SITE · EST. FOR ASIA</div>
+      <h1>Born in Japan.<br><em>Built for Asia.</em></h1>
+      <p><span lang="ja">日本からアジアへ。国際大会「The Asian Tournament」を舞台に戦う、独立系バスケットボールチーム。</span><span lang="en">From Japan to Asia. An independent basketball team competing on the international stage of The Asian Tournament.</span></p>
+    </div>
+    <div class="hero-side">
+      <div class="n">CHENGDU 2026</div>
+      <div class="l">THE ASIAN TOURNAMENT · AUG 17–23</div>
+    </div>
+  </div>
+  <div class="scroll-cue" aria-hidden="true"></div>
+</section>
+
+<div class="ticker"><div class="track" id="t1"></div></div>
+<div class="ticker teal"><div class="track" id="t2"></div></div>
+
+<!-- ================= NEWS ================= -->
+<section id="news">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><div class="eyebrow">LATEST</div><h2 class="sec-title">NEWS</h2></div>
+      <a class="more" href="https://nihontengus.com/" target="_blank" rel="noopener">ALL NEWS</a>
+    </div>
+    <div class="news-grid">
+      <a class="card big reveal" href="https://nihontengus.com/" target="_blank" rel="noopener">
+        <div class="art art-a"><div class="bigtxt">ASIA<br>2026</div><img src="assets/logo.webp" alt=""></div>
+        <span class="cat">TOURNAMENT</span>
+        <h3>The tournament may be over.<br>The journey is just beginning.<br><span lang="ja">成都で、アジアへの挑戦が始まった。</span><span lang="en">Our challenge in Asia began in Chengdu.</span></h3>
+        <time>AUG 2026 · CHENGDU, CHINA</time>
+      </a>
+      <a class="card reveal" href="#schedule">
+        <div class="art art-b"><span class="num">06</span></div>
+        <span class="cat">SCHEDULE</span>
+        <h3><span lang="ja">The Asian Tournament 成都大会、全6試合を戦い抜く</span><span lang="en">Six games fought through at The Asian Tournament, Chengdu</span></h3>
+        <time>AUG 17 – AUG 23, 2026</time>
+      </a>
+      <a class="card reveal" href="#roster">
+        <div class="art art-c"><span class="num">10</span></div>
+        <span class="cat">ROSTER</span>
+        <h3><span lang="ja">日本・アメリカ・ノルウェー。多国籍ロスター10名を紹介</span><span lang="en">Japan, USA, Norway — meet our 10-man international roster</span></h3>
+        <time>2026 SEASON</time>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ================= SCHEDULE ================= -->
+<section id="schedule">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><div class="eyebrow">THE ASIAN TOURNAMENT</div><h2 class="sec-title">SCHEDULE<br><span class="o">&amp; GAMES</span></h2></div>
+      <a class="more" href="https://nihontengus.com/ja/pages/theasiantournament" target="_blank" rel="noopener">TOURNAMENT INFO</a>
+    </div>
+    <div class="event-banner reveal">
+      <img class="ev-logo" src="assets/team/tatlogo.webp" alt="The Asian Tournament" loading="lazy">
+      <div class="ev-city">CHENGDU</div>
+      <div class="ev-meta"><b>THE ASIAN TOURNAMENT 2026</b><span lang="ja">中国・成都 ／ 中国・香港・マカオ・フィリピンなどアジア各地のチームが集う国際大会。試合は YouTube チャンネル「The Asian Tournament」で配信。</span><span lang="en">Chengdu, China — an international tournament bringing together teams from China, Hong Kong, Macau, the Philippines and across Asia. Games stream on the "The Asian Tournament" YouTube channel.</span></div>
+      <div class="ev-flag">6 GAMES</div>
+    </div>
+    <div class="games" id="games"></div>
+    <p class="note">※ <span lang="ja">試合映像は大会公式 YouTube「The Asian Tournament」。スコアは公式発表をご確認ください。</span><span lang="en">Game footage: The Asian Tournament official YouTube. Please refer to official announcements for scores.</span></p>
+  </div>
+</section>
+
+<!-- ================= ROSTER ================= -->
+<section id="roster">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><div class="eyebrow">2026 SQUAD</div><h2 class="sec-title">ROSTER</h2></div>
+      <div class="filters" id="filters">
+        <button class="on" data-f="ALL">ALL</button>
+        <button data-f="G">GUARD</button>
+        <button data-f="F">FORWARD</button>
+        <button data-f="C">CENTER</button>
+      </div>
+    </div>
+    <div class="players" id="players"></div>
+  </div>
+</section>
+
+<!-- ================= STAFF ================= -->
+<section id="staff">
+  <div class="wrap coach">
+    <div class="coach-card reveal">
+      <div class="hc">HC</div>
+      <div class="coach-name-bg">HALLELUJAH</div>
+      <img class="coach-photo" src="assets/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy">
+      <div class="coach-tag"><b>HEAD COACH</b><span>NIHON TENGUS 2026</span></div>
+    </div>
+    <div class="reveal">
+      <div class="eyebrow">COACHING STAFF<span class="jp-sub" lang="ja">コーチングスタッフ</span></div>
+      <div class="role">HEAD COACH</div>
+      <h3>HALLELUJAH<small>ハレルヤ</small></h3>
+      <p class="coach-lead"><span lang="ja">Bリーグの現場でビデオ・スカウティング・スキル育成を担い、YouTube『Be a baller』でコーチ目線のNBA戦術を発信するタクティシャン。アジアの舞台で、テングスの戦い方を設計する。</span><span lang="en">A tactician who worked in B.LEAGUE video, scouting and skill development, and breaks down NBA tactics from a coach's eye on his YouTube channel "Be a baller". Now he designs how the Tengus compete in Asia.</span></p>
+      <div class="coach-stats">
+        <div><b><span lang="ja">10.1<i>万</i></span><span lang="en">101<i>K</i></span></b><span lang="ja">YouTube登録者</span><span lang="en">YouTube subs (101K)</span></div>
+        <div><b>2</b><span lang="ja">Bリーグクラブ</span><span lang="en">B.LEAGUE clubs</span></div>
+        <div><b>68</b><span lang="ja">キャンプ参加者<br>（2026夏）</span><span lang="en">camp players<br>(Summer 2026)</span></div>
+      </div>
+      <ul class="career">
+        <li><b>NIHON TENGUS</b><span lang="ja">ヘッドコーチ（The Asian Tournament 2026 成都大会）</span><span lang="en">Head Coach — The Asian Tournament 2026, Chengdu</span></li>
+        <li><b>THE ONE (JORDAN)</b><span lang="ja">スペシャルコーチ（Jordan Brand のバスケットボールイベント「THE ONE」）</span><span lang="en">Special Coach — THE ONE (JORDAN), a Jordan Brand basketball event</span></li>
+        <li><b>SAITAMA BRONCOS</b><span lang="ja">ビデオコーディネーター／スカウティングコーチ／スキルデベロップメントコーチ</span><span lang="en">Video Coordinator / Scouting Coach / Skill Development Coach</span></li>
+        <li><b>KANAZAWA SAMURAIZ</b><span lang="ja">アシスタントコーチ（インターン）／スキルデベロップメントコーチ</span><span lang="en">Assistant Coach (Intern) / Skill Development Coach</span></li>
+        <li><b>BE 5IVE CAMP 2026</b><span lang="ja">コーチ（FaFa Lu と共に指導／中高生68名・2日間）。翌日の指導者向けクリニックで「ピック&amp;ロールの対応」を講義</span><span lang="en">Coach alongside FaFa Lu (68 youth players, 2 days). Lectured on defending the pick-and-roll at the coaches' clinic</span></li>
+        <li><b>STARTING 5IVE</b><span lang="ja">YouTubeチャンネル「STARTING 5IVE」共同運営メンバー</span><span lang="en">Co-host of the YouTube channel "STARTING 5IVE"</span></li>
+      </ul>
+      <div class="sns">
+        <a href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">YOUTUBE</a>
+        <a href="https://x.com/be_a_baller11" target="_blank" rel="noopener">X</a>
+        <a href="https://www.tiktok.com/@beaballer11" target="_blank" rel="noopener">TIKTOK</a>
+        <a href="https://nihontengus.com/pages/staff" target="_blank" rel="noopener">STAFF PAGE</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= DOCUMENTARY ================= -->
+<section id="documentary">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><div class="eyebrow">ON YOUTUBE · BE A BALLER<span class="jp-sub" lang="ja">密着ドキュメンタリー</span></div><h2 class="sec-title">THE ROAD<br><span class="o">TO ASIA</span></h2></div>
+      <a class="more" href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">WATCH ON YOUTUBE</a>
+    </div>
+    <p class="doc-lead reveal"><span lang="ja">ヘッドコーチ・ハレルヤのYouTubeチャンネル『Be a baller』で、テングスのアジアトーナメント挑戦を追うドキュメンタリーシリーズ「アジアトーナメント」を配信中。チーム結成から中国・成都での戦いまで、ベンチの中の言葉をそのまま届ける。</span><span lang="en">Head coach Hallelujah's YouTube channel "Be a baller" follows the Tengus' run at The Asian Tournament in the documentary series "Asian Tournament" — from forming the team to the games in Chengdu, with every word from the bench left in.</span></p>
+    <div class="eps">
+      <a class="ep reveal" href="https://www.youtube.com/watch?v=tpg34LJrIHU" target="_blank" rel="noopener">
+        <div class="ep-th"><img src="https://i.ytimg.com/vi/tpg34LJrIHU/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.0</span><span class="play"></span></div>
+        <p><span lang="ja">「俺らはアジアを取りに、中国にいくんだ」</span><span lang="en">“We're going to China to take Asia.”</span></p>
+      </a>
+      <a class="ep reveal" href="https://www.youtube.com/watch?v=tIgWkt5vOqI" target="_blank" rel="noopener">
+        <div class="ep-th"><img src="https://i.ytimg.com/vi/tIgWkt5vOqI/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.1</span><span class="play"></span></div>
+        <p><span lang="ja">「温人は良い子ちゃんすぎる。殻を破ってくれ」</span><span lang="en">“He's too much of a good kid. Break out of your shell.”</span></p>
+      </a>
+      <a class="ep reveal" href="https://www.youtube.com/watch?v=YpOnwjGQeIU" target="_blank" rel="noopener">
+        <div class="ep-th"><img src="https://i.ytimg.com/vi/YpOnwjGQeIU/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.2</span><span class="play"></span></div>
+        <p><span lang="ja">「打たれるぐらいなら抜かれてくれ」</span><span lang="en">“I'd rather you get beat off the dribble than give up the shot.”</span></p>
+      </a>
+      <a class="ep reveal" href="https://www.youtube.com/watch?v=uXKcQ_2U3w4" target="_blank" rel="noopener">
+        <div class="ep-th"><img src="https://i.ytimg.com/vi/uXKcQ_2U3w4/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.3</span><span class="play"></span></div>
+        <p><span lang="ja">「それをやっていいのは体育祭だけだろ」</span><span lang="en">“The only place you get to do that is a school sports day.”</span></p>
+      </a>
+      <a class="ep reveal" href="https://www.youtube.com/watch?v=vRARzzkQP70" target="_blank" rel="noopener">
+        <div class="ep-th"><img src="https://i.ytimg.com/vi/vRARzzkQP70/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.4</span><span class="play"></span></div>
+        <p><span lang="ja">「何人だろうが、ボールを持ってるやつが責任を持て」</span><span lang="en">“I don't care who you are — whoever has the ball owns it.”</span></p>
+      </a>
+      <a class="ep reveal" href="https://www.youtube.com/watch?v=iJyCT6Wpfd0" target="_blank" rel="noopener">
+        <div class="ep-th"><img src="https://i.ytimg.com/vi/iJyCT6Wpfd0/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.5</span><span class="play"></span></div>
+        <p><span lang="ja">「YouTubeで散々偉そうにしてきたんだ。ここでできなきゃただの口だけのやつになる」</span><span lang="en">“I've talked big on YouTube for years. If I can't do it here, I'm all talk.”</span></p>
+      </a>
+      <a class="ep reveal" href="https://www.youtube.com/watch?v=syomdmQPnaY" target="_blank" rel="noopener">
+        <div class="ep-th"><img src="https://i.ytimg.com/vi/syomdmQPnaY/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.6</span><span class="play"></span></div>
+        <p><span lang="ja">「そんなやつはコートに出せないんだよ」</span><span lang="en">“A player like that can't be on the court.”</span></p>
+      </a>
+    </div>
+    <p class="note">※ <span lang="ja">動画はYouTubeで再生されます。エピソードは随時追加。</span><span lang="en">Videos open on YouTube. New episodes are added over time.</span></p>
+  </div>
+</section>
+
+<!-- ================= IDENTITY ================= -->
+<section id="identity">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><div class="eyebrow">WHO WE ARE</div><h2 class="sec-title">THE<br><span class="o">TENGUS</span> WAY</h2></div>
+    </div>
+    <div class="identity">
+      <div class="id-block reveal">
+        <span class="kanji">日本</span>
+        <div class="en n">NIHON</div>
+        <p><span lang="ja">「日本」。チームの文化的・地理的なルーツを表す。日本のバスケットボールのアイデンティティを背負い、国際舞台で戦う。</span><span lang="en">"Japan" — our cultural and geographic roots. We carry the identity of Japanese basketball onto the international stage.</span></p>
+      </div>
+      <div class="id-block reveal">
+        <span class="kanji">天狗</span>
+        <div class="en t">TENGU</div>
+        <p><span lang="ja">日本の民間伝承に登場する「天狗」。存在感・規律・強さの象徴。過剰なプレーではなく、自信と自制心、コントロールで戦うチームであるために。</span><span lang="en">The Tengu of Japanese folklore — a symbol of presence, discipline and strength. We compete with confidence, restraint and control, not excess.</span></p>
+      </div>
+      <div class="pillars">
+        <div class="pillar reveal"><div class="pi">01</div><h4>DISCIPLINE</h4><span lang="ja">規律ある準備</span><span lang="en">Disciplined preparation</span></div>
+        <div class="pillar reveal"><div class="pi">02</div><h4>RESILIENCE</h4><span lang="ja">どんな環境でも戦い抜く</span><span lang="en">Compete in any environment</span></div>
+        <div class="pillar reveal"><div class="pi">03</div><h4>PRESENCE</h4><span lang="ja">アジアに存在感を示す</span><span lang="en">Make our presence felt in Asia</span></div>
+      </div>
+      <div class="colors reveal">
+        <div style="background:#07070a;border-right:1px solid var(--line)">BLACK<small><span lang="ja">明快さ</span><span lang="en">Clarity</span></small></div>
+        <div style="background:#f7f5f6;color:#07070a">WHITE<small><span lang="ja">コントラスト</span><span lang="en">Contrast</span></small></div>
+        <div style="background:var(--pink)">PINK<small><span lang="ja">エネルギー</span><span lang="en">Energy</span></small></div>
+        <div style="background:var(--teal);color:#07070a">TEAL<small><span lang="ja">バランス</span><span lang="en">Balance</span></small></div>
+      </div>
+      <div class="marks reveal">
+        <div class="eyebrow">BRAND MARKS</div>
+        <div class="marks-grid">
+          <figure class="mark"><div class="m-img"><img src="assets/team/final2.webp" alt="NIHON TENGUS wordmark" loading="lazy"></div><figcaption>WORDMARK<small><span lang="ja">ワードマーク</span><span lang="en">Primary logo</span></small></figcaption></figure>
+          <figure class="mark light"><div class="m-img"><img src="assets/team/ntlogooff2.webp" alt="NT monogram" loading="lazy"></div><figcaption>MONOGRAM<small><span lang="ja">モノグラム「NT」</span><span lang="en">"NT" initials</span></small></figcaption></figure>
+          <figure class="mark light"><div class="m-img"><img src="assets/team/offical_10_tengus.webp" alt="Tengu mascot #10" loading="lazy"></div><figcaption>MASCOT #10<small><span lang="ja">マスコット</span><span lang="en">Team mascot</span></small></figcaption></figure>
+          <figure class="mark"><div class="m-img"><img src="assets/team/tengus_mask.webp" alt="Tengu mask" loading="lazy"></div><figcaption>TENGU MASK<small><span lang="ja">天狗マスク</span><span lang="en">Tengu emblem</span></small></figcaption></figure>
+        </div>
+      </div>
+      <div class="quote reveal"><q><span lang="ja">アジアで、継続的に戦い続ける。<br>明確なアイデンティティと共に、次の大会サイクルへ。</span><span lang="en">Keep competing in Asia, again and again.<br>With a clear identity, into the next tournament cycle.</span></q></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= SHOP ================= -->
+<section id="shop">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><div class="eyebrow">OFFICIAL GOODS</div><h2 class="sec-title">STORE</h2></div>
+      <a class="more" href="https://nihontengus.com/collections/all" target="_blank" rel="noopener">GO TO STORE</a>
+    </div>
+    <div class="items" id="items"></div>
+  </div>
+</section>
+
+<!-- ================= PARTNERS ================= -->
+<section id="partners">
+  <div class="wrap">
+    <div class="reveal">
+      <div class="eyebrow" style="justify-content:center">SPONSORSHIP<span class="jp-sub" lang="ja">チームスポンサー募集</span></div>
+      <h2 class="sec-title">BECOME A<br><span class="o">PARTNER</span></h2>
+      <p><span lang="ja">NIHON TENGUS は、日本からアジアへ挑み続けるチームです。<br>短期の露出ではなく、長く一緒に歩むパートナーとして、チームスポンサーを募集しています。</span><span lang="en">NIHON TENGUS is a team built to keep taking Japan to Asia.<br>We look for sponsors as long-term partners — not short-term placements.</span></p>
+    </div>
+    <div class="perks"><div class="perk reveal"><i>01</i><b>UNIFORM</b><span lang="ja">公式ユニフォームへのロゴ掲出</span><span lang="en">Logo placement on official competition uniforms</span></div><div class="perk reveal"><i>02</i><b>TRAVEL</b><span lang="ja">遠征・準備期間での露出</span><span lang="en">Visibility during preparation and international travel</span></div><div class="perk reveal"><i>03</i><b>APPAREL</b><span lang="ja">チームグッズ・アパレルへの展開</span><span lang="en">Integration across team merchandise and apparel</span></div><div class="perk reveal"><i>04</i><b>CONTENT</b><span lang="ja">公式コンテンツ・大会中継・発信への掲出</span><span lang="en">Inclusion in official content, tournament coverage and communications</span></div><div class="perk reveal"><i>05</i><b>ON-SITE</b><span lang="ja">大会会場でのプレゼンス</span><span lang="en">On-site presence at tournament events</span></div></div>
+    <div class="reveal">
+      <a class="btn" href="https://nihontengus.com/pages/partners" target="_blank" rel="noopener">SPONSOR INQUIRY →</a>
+      <p class="small"><span lang="ja">公式サイトのパートナー募集フォーム（お名前・メール・会社名・メッセージ）からお問い合わせください。内容を確認のうえ、ご連絡いたします。</span><span lang="en">Please contact us via the partner form on the official site (name, email, organization, message). Every inquiry is reviewed carefully.</span></p>
+    </div>
+    <div class="slots"><div>YOUR LOGO</div><div>YOUR LOGO</div><div>YOUR LOGO</div><div>YOUR LOGO</div></div>
+  </div>
+</section>
+
+<footer>
+  <div class="f-top">
+    <div><img src="assets/logo.webp" alt="NIHON TENGUS"><p>NIHON TENGUS（日本テングス）<br><span lang="ja">アジアの国際大会で戦う、独立系バスケットボールチーム。</span><span lang="en">An independent basketball team competing in international tournaments across Asia.</span></p></div>
+    <div><h5>TEAM</h5><ul><li><a href="#news">News</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#roster">Roster</a></li><li><a href="#staff">Staff</a></li><li><a href="#identity">Team</a></li></ul></div>
+    <div><h5>OFFICIAL</h5><ul><li><a href="https://nihontengus.com/" target="_blank" rel="noopener">nihontengus.com</a></li><li><a href="https://nihontengus.com/ja/pages/theasiantournament" target="_blank" rel="noopener">The Asian Tournament</a></li><li><a href="#shop">Store</a></li><li><a href="#partners">Partners / Contact</a></li></ul></div>
+  </div>
+  <div class="f-huge">NIHON TENGUS</div>
+  <div class="f-bot"><span>© 2026 NIHON TENGUS. All Rights Reserved.</span><span>BORN IN JAPAN · BUILT FOR ASIA</span></div>
+</footer>
+
+<script src="assets/logo-data.js"></script>
+<script>
+/* ---------- DATA（出典: nihontengus.com 2026-09-29時点） ---------- */
+const PLAYERS=[
+  {no:0,name:"MUTSUKI KOJIMA",jp:"小嶋 睦月",pos:"G",h:185,nat:"JPN",img:"misuki"},
+  {no:1,name:"CARL TOMO YAHATA",jp:"",pos:"G",h:180,nat:"JPN",img:"carl"},
+  {no:3,name:"ROMAN IRE WRIGHT",jp:"",pos:"G",h:183,nat:"JPN",img:"rome"},
+  {no:7,name:"RIKU KATO",jp:"加藤 陸",pos:"G/F",h:191,nat:"JPN",img:"riky3"},
+  {no:8,name:"HIKARU DOI",jp:"土井 光",pos:"SF",h:188,nat:"JPN",img:"doi"},
+  {no:11,name:"JESMOND ADDISON KOGO",jp:"",pos:"C",h:198,nat:"JPN",img:"jes"},
+  {no:14,name:"ROSS DAVIS",jp:"",pos:"PF",h:200,nat:"USA",img:"ross"},
+  {no:17,name:"YUUTO TOKASHIKI",jp:"渡嘉敷 勇人",pos:"G",h:172,nat:"JPN",img:"yuuta2"},
+  {no:32,name:"SIGURD SANDAL",jp:"",pos:"PF",h:201,nat:"NOR",img:"Sigrud_Sandal"},
+  {no:37,name:"KO TAKAHASHI",jp:"高橋 康",pos:"G",h:169,nat:"JPN",img:"ko"}
+];
+const GAMES=[
+  {d:"08.17",w:"MON",opp:"MACAU BLACK KNIGHTS",v:"E4I2EfaOOJs"},
+  {d:"08.18",w:"TUE",opp:"TAOYUAN LEOPARDS",v:"QVGyEzAOGsQ"},
+  {d:"08.19",w:"WED",opp:"SICHUAN WHALE",v:"eKTIlO4BENo"},
+  {d:"08.20",w:"THU",opp:"PHILIPPINES ACES UNITED",v:"_Ev6iAc0XcA"},
+  {d:"08.22",w:"SAT",opp:"SICHUAN WHALE",v:"P2m96oXeVwA"},
+  {d:"08.23",w:"SUN",opp:"TAOYUAN LEOPARDS",v:"zKLay26uW-k"}
+];
+const ITEMS=[
+  {e:"Official Team Zip Hoodie",n:"公式チーム ジップフーディー",p:"¥11,000",h:"nihon-tengus-official-team-zip-hoodie"},
+  {e:"Official Team Pants",n:"公式チームパンツ",p:"¥9,000",h:"nihon-tengus-official-team-pants"},
+  {e:"Official T-Shirt",n:"公式 Tシャツ",p:"¥7,000",h:"unisex-oversized-cotton-t-shirt-1"},
+  {e:"Mascot Hoodie",n:"マスコット フーディー",p:"¥8,500",h:"nihon-tengus-mascot-hoodie"},
+  {e:"Logo Hoodie",n:"ロゴ フーディー",p:"¥8,000",h:"nihon-tengus-logo-hoodie"},
+  {e:"Mascot T-Shirt",n:"マスコット Tシャツ",p:"¥6,000",h:"nihon-tengus-mascot-t-shirt"},
+  {e:"Logo T-Shirt",n:"ロゴ Tシャツ",p:"¥6,000",h:"essential-cotton-t-shirt-1"},
+  {e:"Mascot Sweatpants",n:"マスコット スウェットパンツ",p:"¥7,500",h:"unisex-solid-color-fleece-straight-leg-pants"},
+  {e:"Graphic Shorts",n:"グラフィック ショーツ",p:"¥7,000",h:"nihon-tengus-graphic-shorts"}
+];
+
+/* ---------- LOADER ---------- */
+const lw=document.getElementById('lword');
+"TENGUS".split('').forEach((c,i)=>{const s=document.createElement('span');s.textContent=c;s.style.animationDelay=(i*.07)+'s';lw.appendChild(s)});
+const lbar=document.getElementById('lbar');
+let loadP=0;const bump=v=>{loadP=Math.max(loadP,v);lbar.style.transform=`scaleX(${loadP})`};
+bump(.3);
+function hideLoader(){bump(1);setTimeout(()=>{document.getElementById('loader').classList.add('done');window.dispatchEvent(new Event('tengus:start'))},350)}
+setTimeout(hideLoader,4000); // 保険
+
+/* ---------- TICKERS ---------- */
+function fillTicker(id,words){const t=document.getElementById(id);const html=words.map(w=>`<span${/[\u3040-\u9fff]/.test(w)?' class="fude"':''}>${w}</span>`).join('');t.innerHTML=html+html+html+html}
+fillTicker('t1',["NIHON TENGUS","BORN IN JAPAN","BUILT FOR ASIA","THE ASIAN TOURNAMENT","CHENGDU 2026"]);
+fillTicker('t2',["DISCIPLINE","RESILIENCE","PRESENCE","日本テングス","WE FLY"]);
+
+/* ---------- GAMES ---------- */
+document.getElementById('games').innerHTML=GAMES.map((g,i)=>`
+  <a class="game reveal" href="https://www.youtube.com/watch?v=${g.v}" target="_blank" rel="noopener" style="transition-delay:${(i%3)*.08}s">
+    <div class="g-top"><span class="gn">GAME ${i+1}</span><span>CHENGDU</span></div>
+    <div class="date">${g.d}<small>${g.w}</small></div>
+    <div class="vs"><img src="assets/logo.webp" alt="NIHON TENGUS"><i>VS</i><b>${g.opp}</b></div>
+    <span class="watch">▶ <span lang="ja">試合をフルで見る</span><span lang="en">WATCH FULL GAME</span></span>
+  </a>`).join('');
+
+/* ---------- ROSTER ---------- */
+const flag={JPN:"JAPAN",USA:"USA",NOR:"NORWAY"};
+document.getElementById('players').innerHTML=PLAYERS.map((p,i)=>`
+  <div class="player reveal" data-pos="${p.pos}" style="transition-delay:${(i%5)*.06}s">
+    <span class="stripe"></span><img class="photo" src="assets/players/${p.img}.webp" alt="${p.name}" loading="lazy"><span class="pnum">${p.no}</span>
+    <div class="info"><div class="pos">#${p.no} · ${p.pos}</div><div class="name">${p.name}</div>
+    <div class="meta"><span><b>${p.h}</b> cm</span><span>${flag[p.nat]}</span>${p.jp?`<span>${p.jp}</span>`:''}</div></div>
+  </div>`).join('');
+document.getElementById('filters').addEventListener('click',e=>{
+  const b=e.target.closest('button');if(!b)return;
+  document.querySelectorAll('#filters button').forEach(x=>x.classList.toggle('on',x===b));
+  const f=b.dataset.f;
+  document.querySelectorAll('.player').forEach(el=>{const pos=el.dataset.pos;const show=f==='ALL'||pos.includes(f);el.classList.toggle('hide',!show)});
+});
+
+/* ---------- SHOP ---------- */
+document.getElementById('items').innerHTML=ITEMS.map((it,i)=>`
+  <a class="item reveal" href="https://nihontengus.com/products/${it.h}" target="_blank" rel="noopener" style="transition-delay:${(i%3)*.07}s">
+    <div class="ph"><img src="assets/goods/${it.h}.webp" alt="${it.e}" loading="lazy"></div>
+    <div class="it"><b><span lang="ja">${it.n}</span><span lang="en">${it.e}</span></b><span>${it.p}</span></div>
+  </a>`).join('');
+
+/* ---------- LANG ---------- */
+function setLang(l){document.documentElement.dataset.lang=l;document.documentElement.lang=l;document.querySelectorAll('#lang button').forEach(b=>b.classList.toggle('on',b.dataset.l===l));try{localStorage.setItem('tg-lang',l)}catch(e){}}
+let _l='ja';try{_l=localStorage.getItem('tg-lang')||(/^ja/.test(navigator.language)?'ja':'en')}catch(e){}
+setLang(_l);
+document.getElementById('lang').onclick=e=>{const b=e.target.closest('button');if(b)setLang(b.dataset.l)};
+
+/* ---------- HEADER / MENU / REVEAL ---------- */
+const hdr=document.getElementById('hdr');
+addEventListener('scroll',()=>hdr.classList.toggle('scrolled',scrollY>40),{passive:true});
+document.getElementById('burger').onclick=()=>document.body.classList.toggle('menu-open');
+document.querySelectorAll('nav a').forEach(a=>a.onclick=()=>document.body.classList.remove('menu-open'));
+const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}}),{threshold:.12});
+document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
+</script>
+
+<!-- ---------- 3D LOGO (three.js) ---------- -->
+<script type="importmap">{"imports":{"three":"https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+
+const canvas=document.getElementById('stage');
+const hero=document.getElementById('hero');
+let renderer;
+try{
+  renderer=new THREE.WebGLRenderer({canvas,antialias:true,alpha:true,powerPreference:'high-performance'});
+}catch(e){document.documentElement.classList.add('no-webgl');hideLoader();throw e}
+renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+renderer.outputColorSpace=THREE.SRGBColorSpace;
+
+const scene=new THREE.Scene();
+const camera=new THREE.PerspectiveCamera(32,1,.1,100);
+camera.position.set(0,0,9);
+
+/* --- ロゴを「厚みのある3Dエンブレム」にする: 同じ切り抜きを層状に重ねて押し出す --- */
+const img=new Image();
+img.src=window.TENGUS_LOGO||'assets/logo.webp';
+await img.decode().catch(()=>{});
+bump(.7);
+const tex=new THREE.Texture(img);
+tex.colorSpace=THREE.SRGBColorSpace;
+tex.anisotropy=renderer.capabilities.getMaxAnisotropy();
+tex.needsUpdate=true;
+
+const aspect=img.naturalWidth/img.naturalHeight||1.85;
+const W=4.6,H=W/aspect;
+const DEPTH=.34,LAYERS=48;
+const logo=new THREE.Group();
+const geo=new THREE.PlaneGeometry(W,H);
+
+// 表面: シーン光沢(シャイン)が走るシェーダー
+const faceMat=(flip)=>new THREE.ShaderMaterial({
+  uniforms:{map:{value:tex},uTime:{value:0},uFlip:{value:flip?1:0}},
+  transparent:false,side:THREE.FrontSide,
+  vertexShader:`varying vec2 vUv;void main(){vUv=uv;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
+  fragmentShader:`uniform sampler2D map;uniform float uTime;uniform float uFlip;varying vec2 vUv;
+  void main(){vec2 uv=vUv;if(uFlip>.5)uv.x=1.-uv.x;vec4 c=texture2D(map,uv);if(c.a<.5)discard;
+    float band=uv.x*1.2+uv.y*.6-mod(uTime*.35,3.2)+.6;float s=smoothstep(.0,.08,band)*(1.-smoothstep(.08,.2,band));
+    vec3 col=c.rgb+s*.55;
+    gl_FragColor=vec4(col,1.);
+    #include <colorspace_fragment>
+  }`
+});
+const front=new THREE.Mesh(geo,faceMat(false));front.position.z=DEPTH/2;logo.add(front);
+/* 裏面: rotation.y=π で既に正しい向きになる(UV反転すると鏡文字) */
+const back=new THREE.Mesh(geo,faceMat(false));back.position.z=-DEPTH/2;back.rotation.y=Math.PI;logo.add(back);
+
+// 側面: 奥に行くほど暗くなる層 + 縁にティール/ピンクの光
+const sideMat=new THREE.ShaderMaterial({
+  uniforms:{map:{value:tex}},side:THREE.DoubleSide,
+  vertexShader:`attribute float layer;varying vec2 vUv;varying float vL;void main(){vUv=uv;vL=layer;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
+  fragmentShader:`uniform sampler2D map;varying vec2 vUv;varying float vL;
+  void main(){vec4 c=texture2D(map,vUv);if(c.a<.5)discard;
+    float k=abs(vL-.5)*2.;vec3 edge=mix(vec3(.26,.72,.68),vec3(.89,.23,.45),vUv.x);
+    vec3 col=mix(c.rgb*.18,edge*.55,.35)*(0.55+0.45*k);
+    gl_FragColor=vec4(col,1.);
+    #include <colorspace_fragment>
+  }`
+});
+{
+  const pos=[],uvs=[],lay=[],idx=[];
+  for(let i=1;i<LAYERS-1;i++){
+    const z=-DEPTH/2+DEPTH*i/(LAYERS-1),b=pos.length/3,t=i/(LAYERS-1);
+    pos.push(-W/2,-H/2,z, W/2,-H/2,z, W/2,H/2,z, -W/2,H/2,z);
+    uvs.push(0,0,1,0,1,1,0,1);lay.push(t,t,t,t);
+    idx.push(b,b+1,b+2,b,b+2,b+3);
+  }
+  const g=new THREE.BufferGeometry();
+  g.setAttribute('position',new THREE.Float32BufferAttribute(pos,3));
+  g.setAttribute('uv',new THREE.Float32BufferAttribute(uvs,2));
+  g.setAttribute('layer',new THREE.Float32BufferAttribute(lay,1));
+  g.setIndex(idx);
+  logo.add(new THREE.Mesh(g,sideMat));
+}
+scene.add(logo);
+
+/* --- 足元の円形コート(黒い木目の床＋ピンク/ティールのライン) --- */
+const ringMat=new THREE.ShaderMaterial({
+  transparent:true,depthWrite:false,uniforms:{uTime:{value:0}},
+  vertexShader:`varying vec2 vUv;void main(){vUv=uv;gl_Position=projectionMatrix*modelViewMatrix*vec4(position,1.);}`,
+  fragmentShader:`uniform float uTime;varying vec2 vUv;
+    float h(float n){return fract(sin(n)*43758.5453);}
+    float ln(float d,float w){return 1.-smoothstep(w*.55,w,abs(d));}
+    void main(){
+      vec2 q=(vUv-.5)*2.;float r=length(q);
+      /* 木目: 横長の板を互い違いに並べ、板ごとに明るさ・木目をずらす */
+      float pw=.075,row=floor(q.y/pw),fy=fract(q.y/pw);
+      float px=q.x+h(row)*1.7,col=floor(px/.9),fx=fract(px/.9);
+      float id=row*13.+col*7.;
+      float grain=sin((q.x*38.+sin(q.x*6.+h(id)*6.)*1.4)+fy*5.+h(id)*20.)*.5+.5;
+      vec3 wood=vec3(.055,.048,.045)*(.75+.5*h(id))+vec3(.025,.02,.017)*grain;
+      float seam=min(smoothstep(0.,.05,fy)*smoothstep(1.,.95,fy),smoothstep(0.,.006,fx)*smoothstep(1.,.994,fx));
+      wood*=.55+.45*seam;
+      wood+=vec3(.05)*exp(-pow(length(q-vec2(-.2,-.35))*1.6,2.)); /* 床のつや */
+      /* ライン: ピンク=センターサークル・ペイント / ティール=センターライン・スリー */
+      vec3 PK=vec3(.886,.231,.447),TL=vec3(.263,.722,.682);float w=.022;
+      float pink=max(ln(length(q)-.34,w),ln(length(q)-.12,w*.8));
+      vec2 a=vec2(abs(q.x),q.y);
+      float key=ln(max(abs(a.x-1.02)-.3,abs(a.y)-.2),w)*step(a.x,1.4);
+      pink=max(pink,key);pink=max(pink,ln(length(a-vec2(.72,0.))-.2,w*.8)*step(a.x,.72));
+      float teal=ln(q.x,w);
+      teal=max(teal,ln(length(a-vec2(1.3,0.))-.78,w)*step(a.x,1.3));
+      teal=max(teal,ln(abs(q.y)-.66,w)*step(.9,a.x));
+      float pulse=.85+.15*sin(uTime*1.6);
+      vec3 c=wood;c=mix(c,PK*pulse,pink);c=mix(c,TL*pulse,teal*(1.-pink));
+      float edge=1.-smoothstep(.82,1.,r);
+      float rim=exp(-pow((r-.9)*30.,2.))*.35;
+      c+=mix(TL,PK,.5+.5*sin(atan(q.y,q.x)*2.+uTime))*rim;
+      gl_FragColor=vec4(c,max(edge,rim));}`
+});
+const ring=new THREE.Mesh(new THREE.PlaneGeometry(6.4,6.4),ringMat);
+ring.rotation.x=-Math.PI/2;ring.position.y=-H/2-.55;scene.add(ring);
+
+/* --- 舞う光の粒 (ピンク/ティールの星屑) --- */
+const N=700,pg=new THREE.BufferGeometry(),pp=new Float32Array(N*3),pc=new Float32Array(N*3),ps=new Float32Array(N);
+const cA=new THREE.Color('#43b8ae'),cB=new THREE.Color('#e23b72'),cW=new THREE.Color('#ffffff');
+for(let i=0;i<N;i++){
+  const r=2.6+Math.random()*5.5,th=Math.random()*Math.PI*2;
+  pp[i*3]=Math.cos(th)*r;pp[i*3+1]=(Math.random()-.5)*6.5;pp[i*3+2]=Math.sin(th)*r-1.5;
+  const c=[cA,cB,cW][Math.random()<.45?0:Math.random()<.8?1:2];pc.set([c.r,c.g,c.b],i*3);ps[i]=Math.random();
+}
+pg.setAttribute('position',new THREE.BufferAttribute(pp,3));
+pg.setAttribute('color',new THREE.BufferAttribute(pc,3));
+pg.setAttribute('seed',new THREE.BufferAttribute(ps,1));
+const pMat=new THREE.ShaderMaterial({
+  transparent:true,depthWrite:false,blending:THREE.AdditiveBlending,uniforms:{uTime:{value:0},uPR:{value:renderer.getPixelRatio()}},
+  vertexShader:`attribute vec3 color;attribute float seed;uniform float uTime;uniform float uPR;varying vec3 vC;varying float vA;
+    void main(){vec3 p=position;float t=uTime*.25+seed*6.28;p.y+=sin(t)*.35;p.x+=cos(t*.7)*.2;
+      vec4 mv=modelViewMatrix*vec4(p,1.);gl_Position=projectionMatrix*mv;
+      gl_PointSize=(4.+seed*9.)*uPR/(-mv.z)*3.;vC=color;vA=.35+.65*abs(sin(uTime*1.3+seed*20.));}`,
+  fragmentShader:`varying vec3 vC;varying float vA;void main(){vec2 p=gl_PointCoord-.5;float d=length(p);
+    float star=max(0.,1.-d*2.)+max(0.,.12-abs(p.x)*abs(p.y)*40.)*.0;float a=pow(max(0.,1.-d*2.),2.)*vA;gl_FragColor=vec4(vC*a,a);}`
+});
+const points=new THREE.Points(pg,pMat);scene.add(points);
+
+/* --- サイズ調整 --- */
+function resize(){
+  const w=hero.clientWidth,h=hero.clientHeight;
+  renderer.setSize(w,h,false);camera.aspect=w/h;
+  // 横幅の狭い画面ではカメラを引いてロゴ全体を収める
+  const fitW=(W*1.25)/(2*Math.tan(THREE.MathUtils.degToRad(camera.fov/2))*camera.aspect);
+  camera.position.z=Math.max(9,fitW+DEPTH);
+  camera.updateProjectionMatrix();
+  const viewW=2*Math.tan(THREE.MathUtils.degToRad(camera.fov/2))*camera.position.z*camera.aspect;
+  ring.scale.setScalar(Math.min(1,viewW*(camera.aspect<1?.78:.98)/6.4));
+  ring.rotation.x=-Math.PI/2+(camera.aspect<1?.28:0);
+}
+addEventListener('resize',resize);resize();
+
+/* --- マウス / ジャイロでわずかに傾く --- */
+let mx=0,my=0,tx=0,ty=0;
+addEventListener('pointermove',e=>{tx=(e.clientX/innerWidth-.5)*2;ty=(e.clientY/innerHeight-.5)*2},{passive:true});
+
+/* --- アニメーション: 奥から回転しながら飛び込み → ゆっくり回転し続ける --- */
+let started=false,t0=0;
+addEventListener('tengus:start',()=>{started=true;t0=performance.now()},{once:true});
+const ease=t=>1-Math.pow(1-t,4);
+const clock=new THREE.Clock();
+let spin=0,visible=true;
+new IntersectionObserver(([e])=>visible=e.isIntersecting).observe(hero);
+bump(.95);hideLoader();
+
+function tick(){
+  requestAnimationFrame(tick);
+  if(!visible)return;
+  const t=clock.getElapsedTime();
+  mx+=(tx-mx)*.05;my+=(ty-my)*.05;
+  let intro=1;
+  if(started){intro=Math.min(1,(performance.now()-t0)/2600)}else intro=0;
+  const e=ease(intro);
+  // 入場: 3回転しながら奥から迫ってくる
+  const introSpin=-(1-e)*Math.PI*6;
+  spin-=0.0085; // 常時ゆっくり360°回転（逆回り）
+  logo.rotation.y=spin*e+introSpin+mx*.25;
+  logo.rotation.x=-my*.18+Math.sin(t*.8)*.04;
+  logo.position.z=-14*(1-e);
+  logo.position.y=Math.sin(t*1.1)*.08+.15;
+  logo.scale.setScalar(.6+.4*e);
+  // スクロールで少し後退
+  const sc=Math.min(1,scrollY/innerHeight);
+  logo.position.z-=sc*3;logo.rotation.x+=sc*.4;
+  canvas.style.opacity=1-sc*.8;
+  front.material.uniforms.uTime.value=t;back.material.uniforms.uTime.value=t;
+  ringMat.uniforms.uTime.value=t;pMat.uniforms.uTime.value=t;
+  ring.material.opacity=e;
+  points.rotation.y=t*.03;
+  camera.position.x=mx*.35;camera.position.y=-my*.2;camera.lookAt(0,0,0);
+  renderer.render(scene,camera);
+}
+tick();
+</script>
+</body>
+</html>
