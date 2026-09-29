@@ -64,10 +64,13 @@ SOURCE_MAX_AGE = 200     # ⓢ: 記事の日付からこれ以上前の写真は
 MIN_CROP_H_SOURCE = 1000 # ⓢ: ネタ元の写真は記事の主役が確実に写っているので多少粗くても使う
 # 自動では主役の写真に届かない記事だけ、写真を名指しする（記事番号 → (画像URL, クレジット[, 横位置])）。
 # ネタ元がまとめページで Commons にも使える写真が無い記事や、ネタ元の写真に主役が写っていない記事用。
+# 画像URLは journal_auto/ からの相対パスでもよい（手で作った背景用）。
 # 横位置(0〜1)は主役の顔の横位置。複数人が写る写真で、顔検出が別人を拾うのを防ぐ。
 PHOTO_OVERRIDES = {
     "295": ("https://a.espncdn.com/photo/2026/0928/r1723110.jpg", "AP Photo/Chris Szagola", 0.54),
     "296": ("https://a.espncdn.com/photo/2023/0928/r1230782.jpg", "Troy Wayrynen/USA TODAY Sports", 0.5),
+    # 298 は靴の記事なので、ネタ元（Sneaker News）の靴のアップを文字に隠れない上半分に置いた合成画像を使う
+    "298": ("manual_bg/298.jpg", "Sneaker News", 0.5),
     "299": ("https://a.espncdn.com/photo/2025/0616/r1507331.jpg", "John Fisher/Getty Images"),
     "300": ("https://a.espncdn.com/photo/2024/1218/r1429531.jpg", "Mark Blinch/NBAE via Getty Images", 0.44),
     "302": ("https://a.espncdn.com/photo/2025/0209/r1449466.jpg", "Michael Reaves/Getty Images", 0.22),
@@ -386,7 +389,8 @@ def route_override(aid):
         return None
     img_url, credit, *focus = PHOTO_OVERRIDES[aid]
     try:
-        img, how = portrait_from(http_get(img_url, 60), MIN_CROP_H_SOURCE, *focus)
+        data = http_get(img_url, 60) if img_url.startswith("http") else open(os.path.join(os.path.dirname(os.path.abspath(__file__)), img_url), "rb").read()
+        img, how = portrait_from(data, MIN_CROP_H_SOURCE, *focus)
     except Exception as e:
         log(f"  ⓞ 取得失敗 {img_url}: {e}")
         return None
@@ -427,7 +431,7 @@ def build(aid):
             log(f"  video 指定を使わずニュース型にする（{why}）")
         body = [p for p in item.get("points") or [] if p.strip()] or [item.get("excerpt", "")[:80]]
         props = {
-            "label": item.get("category") or "NEWS",
+            "label": "NEWS",  # ニュース型は記事のカテゴリ（NBA/KICKS 等）に関係なく NEWS と出す
             "headline": item["headline"],
             "body": body,
             "background": {"type": "image", "src": bg_rel},
