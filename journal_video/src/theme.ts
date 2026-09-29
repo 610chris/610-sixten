@@ -61,17 +61,21 @@ export const BRAND_TAG = {
   bottomRatio: 0.12,
   /** ロゴ画像の表示高さ（JSON 側の brandTag.heightPx で1本ごとに上書きも可能） */
   logoHeight: 60,
-  paddingX: 30,
+  /** 下地なしなので左右の余白は0（本文と左端を揃える）。上下は配置計算のため残す */
+  paddingX: 0,
   paddingY: 20,
   /** テキスト運用時のスタイル */
   fontSize: 34,
   fontWeight: 700,
   letterSpacing: "0.18em",
-  boxColor: COLORS.white,
-  textColor: COLORS.black,
+  /** クリス指示で白い下地は廃止（白ロゴを写真の上に直接置く） */
+  boxColor: "transparent",
+  textColor: COLORS.white,
+  /** 明るい写真の上でも白ロゴが溶けないための影 */
+  shadow: "drop-shadow(0 2px 10px rgba(0,0,0,0.65))",
 } as const;
 
-/** ブランドタグの白ボックスの高さ（ロゴ高さ＋上下パディング）= 100px */
+/** ブランドタグの枠の高さ（ロゴ高さ＋上下パディング）= 100px */
 export const brandTagBoxHeight = BRAND_TAG.logoHeight + BRAND_TAG.paddingY * 2;
 
 /**
@@ -109,10 +113,10 @@ export const TEXT_BLOCK = {
   gapAboveBrandTag: 76,
 };
 
-/** ブランドタグに何も指定がない場合の既定値（黒版ロゴ） */
+/** ブランドタグに何も指定がない場合の既定値（白版ロゴ・下地なし） */
 export const DEFAULT_BRAND_TAG = {
   type: "logo" as const,
-  src: "assets/610journal-logo.png",
+  src: "assets/610journal-logo-white.png",
 };
 
 /**

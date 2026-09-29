@@ -12,7 +12,7 @@ export type BackgroundSpec = {
 /**
  * 最下部のブランドタグ。
  * - 文字列    … その文字を白ボックス内に黒文字で組む（例: "610 JOURNAL"）
- * - logo 指定 … ロゴ画像を白ボックス内に置く（既定の運用。黒版ロゴを使う）
+ * - logo 指定 … ロゴ画像を下地なしで置く（既定の運用。白版ロゴを使う）
  */
 export type BrandTagSpec =
   | string

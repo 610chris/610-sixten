@@ -6,9 +6,9 @@ import { BRAND_TAG_IN, brandTagStart } from "../timeline";
 import { normalizeBrandTag, type BrandTagSpec } from "../types";
 
 /**
- * 最下部のブランドタグ。白い背景ボックス＋黒の中身。
- * ボックスは中身の幅にフィットし、左寄せ。
- * 本文の最終行から少し置いて、白ボックスが左→右へワイプで開き、開ききってから中身が出る。
+ * 最下部のブランドタグ。下地なしの白ロゴ（影つき）。
+ * 枠は中身の幅にフィットし、左寄せ。
+ * 本文の最終行から少し置いて、枠が左→右へワイプで開き、開ききってから中身が出る。
  * 新しい3型は startSec（ワイプ開始の秒）と align（"center" で中央寄せ）を渡す。
  */
 export const BrandTag: React.FC<{
@@ -59,6 +59,7 @@ export const BrandTag: React.FC<{
               height: tag.heightPx ?? BRAND_TAG.logoHeight,
               width: "auto",
               display: "block",
+              filter: BRAND_TAG.shadow,
             }}
           />
         ) : (
@@ -70,6 +71,7 @@ export const BrandTag: React.FC<{
               fontWeight: BRAND_TAG.fontWeight,
               letterSpacing: BRAND_TAG.letterSpacing,
               color: BRAND_TAG.textColor,
+              filter: BRAND_TAG.shadow,
               textTransform: "uppercase",
               whiteSpace: "nowrap",
               lineHeight: 1,
