@@ -4,8 +4,12 @@
 設計書: 615_JOURNAL/Threads速報/DESIGN.md §4-③
 カタカナは「英語版Wikipediaの選手ページ → 日本語版への言語間リンクの題名」だけを採用する。
 日本語版にページが無い選手は辞書に入れない（推測のカタカナで出さない＝クリス指示「名前は1つ1つ調べていって欲しい」）。
+第2の出典: NBA docomo（nba.docomo.ne.jp）の30チームのロスター。Wikipediaで引けない選手だけをここで埋める。
+表記は docomo のまま（「トレイ・ジェミソン三世」等・整形しない）。既に辞書にある鍵は上書きしない。src は選手ページ
+（https://nba.docomo.ne.jp/stats/players/<player_id>/info）。
 
-  python3 journal_auto/players_kana.py build            # 30チームのロスター表から作り直す（既存の項目は残す）
+  python3 journal_auto/players_kana.py build            # 30チームのロスター表から作り直す（既存の項目は残す・最後に docomo で埋める）
+  python3 journal_auto/players_kana.py docomo           # docomo のロスターから、辞書に無い選手だけ書き足す
   python3 journal_auto/players_kana.py lookup "Name" …  # 辞書を引く。無ければWikipediaを1人ずつ調べる
   python3 journal_auto/players_kana.py lookup --add "Name" …  # 見つかったら辞書に書き足す
 
@@ -116,8 +120,9 @@ def load():
 
 
 def save(d):
-    d['_note'] = ('Threads速報の選手名カタカナ辞書。カタカナ=日本語版Wikipediaの題名（英語版からの言語間リンク）だけ。'
-                  '推測で足さない。追加は players_kana.py lookup --add。DESIGN.md §4-③')
+    d['_note'] = ('Threads速報の選手名カタカナ辞書。カタカナ=日本語版Wikipediaの題名（英語版からの言語間リンク）が第一。'
+                  'Wikipediaで引けない選手だけ NBA docomo のロスター表記（src=選手ページ）で埋める。'
+                  '推測で足さない。追加は players_kana.py lookup --add / docomo。DESIGN.md §4-③')
     d['players'] = dict(sorted(d['players'].items(), key=lambda kv: kv[0].lower()))
     with open(DICT, 'w', encoding='utf-8') as f:
         json.dump(d, f, ensure_ascii=False, indent=1)
@@ -161,9 +166,87 @@ def build():
             misses.append(f'{name}\t{why}')
     save(d)
     print(f'ロスター表のリンク {len(names)}件 → カタカナ確定 {added}件 / 未確定 {len(misses)}件（辞書の鍵は記号なし表記も含めて {len(d["players"])}件）')
-    with open(os.path.join(BASE, 'players_kana_missing.txt'), 'w', encoding='utf-8') as f:
-        f.write('# 日本語版Wikipediaで確認できなかった名前（辞書に入れていない＝この名前が出たら Threads は held）\n')
-        f.write('\n'.join(misses) + '\n')
+    write_missing(misses)
+    docomo()
+
+
+MISSING = os.path.join(BASE, 'players_kana_missing.txt')
+
+
+def write_missing(lines):
+    with open(MISSING, 'w', encoding='utf-8') as f:
+        f.write('# 日本語版Wikipediaで確認できなかった名前のうち、NBA docomo でも埋まらなかったもの'
+                '（辞書に入れていない＝この名前が出たら Threads は held）\n')
+        f.write('\n'.join(lines) + ('\n' if lines else ''))
+
+
+# ---- 第2の出典: NBA docomo のロスター ----
+DOCOMO = 'https://nba.docomo.ne.jp'
+DOCOMO_UA = 'curl/8.7.1'  # docomo はこのUAで200を返す（ブラウザ以外の独自UAは未確認）
+DOCOMO_TEAM_IDS = range(1, 31)  # /team/1〜30/roster が30チーム（2026-09-30 確認。31以降は空）
+
+
+def docomo_roster(team_id):
+    """/team/<id>/roster のページ内JSON（Next.js の self.__next_f.push）から players を取り出す"""
+    url = f'{DOCOMO}/team/{team_id}/roster'
+    for i in range(3):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': DOCOMO_UA})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                html = r.read().decode('utf-8')
+            break
+        except Exception as e:
+            last = e
+            time.sleep(2 + i * 3)
+    else:
+        raise NetError(f'docomo {url}: {last}')
+    buf = ''.join(json.loads(m.group(1)) for m in
+                  re.finditer(r'self\.__next_f\.push\(\[1,("(?:[^"\\]|\\.)*")\]\)', html))
+    i = buf.find('"initialData":')
+    if i < 0:
+        raise NetError(f'docomo {url}: initialData が見つからない（ページの形が変わった？）')
+    obj, _ = json.JSONDecoder().raw_decode(buf, i + len('"initialData":'))
+    return (obj.get('data') or {}).get('players') or []
+
+
+def docomo():
+    """docomo の30チームのロスターから、辞書で引けない選手だけ書き足す（既存の鍵は上書きしない）"""
+    d = load()
+    have = set(d['players'])
+    added, skipped, seen = [], 0, set()
+    for tid in DOCOMO_TEAM_IDS:
+        ps = docomo_roster(tid)
+        print(f'docomo team {tid}: {len(ps)}人', file=sys.stderr)
+        for p in ps:
+            en = (p.get('full_name_en_all') or '').strip()
+            ja = (p.get('full_name') or '').strip()
+            pid = p.get('player_id')
+            if not en or not ja or not pid or en in seen:
+                continue
+            seen.add(en)
+            ks = keys_for(en)
+            if ks & have:
+                skipped += 1  # 既に辞書にある（Wikipedia が優先）
+                continue
+            src = f'{DOCOMO}/stats/players/{pid}/info'
+            for k in ks:
+                d['players'][k] = {'kana': ja, 'src': src}
+            have |= ks
+            added.append((en, ja, src))
+        time.sleep(0.5)
+    save(d)
+    for en, ja, src in added:
+        print(f'ADD\t{en}\t{ja}\t{src}')
+    print(f'docomo ロスター {len(seen)}人 → 既存 {skipped}人 / 追加 {len(added)}人（辞書の鍵 {len(d["players"])}件）')
+    # missing から辞書で引けるようになった名前を外す（理由の列はそのまま）
+    try:
+        with open(MISSING, encoding='utf-8') as f:
+            rows = [l.rstrip('\n') for l in f if l.strip() and not l.startswith('#')]
+    except FileNotFoundError:
+        rows = []
+    keep = [r for r in rows if not (keys_for(r.split('\t')[0]) & have)]
+    write_missing(keep)
+    print(f'players_kana_missing.txt: {len(rows)}行 → {len(keep)}行')
 
 
 def lookup(names, add):
@@ -199,6 +282,9 @@ def main():
     try:
         if a[:1] == ['build']:
             build()
+            return 0
+        if a[:1] == ['docomo']:
+            docomo()
             return 0
         if a[:1] == ['lookup']:
             add = '--add' in a

@@ -1,5 +1,5 @@
 {
- "_note": "Threads速報の選手名カタカナ辞書。カタカナ=日本語版Wikipediaの題名（英語版からの言語間リンク）だけ。推測で足さない。追加は players_kana.py lookup --add。DESIGN.md §4-③",
+ "_note": "Threads速報の選手名カタカナ辞書。カタカナ=日本語版Wikipediaの題名（英語版からの言語間リンク）が第一。Wikipediaで引けない選手だけ NBA docomo のロスター表記（src=選手ページ）で埋める。推測で足さない。追加は players_kana.py lookup --add / docomo。DESIGN.md §4-③",
  "players": {
   "A. J. Green": {
    "kana": "A・J・グリーン",
@@ -33,6 +33,18 @@
    "kana": "エース・ベイリー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%99%E3%82%A4%E3%83%AA%E3%83%BC"
   },
+  "Adam Flagler": {
+   "kana": "アダム・フラグラー",
+   "src": "https://nba.docomo.ne.jp/stats/players/2385/info"
+  },
+  "Aday Mara": {
+   "kana": "アデイ・マーラ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3825/info"
+  },
+  "Adem Bona": {
+   "kana": "アデム・ボナ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2466/info"
+  },
   "Adou Thiero": {
    "kana": "アドゥ・シーロー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%89%E3%82%A5%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%AD%E3%83%BC"
@@ -57,17 +69,37 @@
    "kana": "エイジェイ・ミッチェル",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A4%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB"
   },
+  "AK Okereke": {
+   "kana": "AK・オケレケ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3839/info"
+  },
   "Al Horford": {
    "kana": "アル・ホーフォード",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
+  },
+  "Alex Antetokounmpo": {
+   "kana": "アレックス・アデトクンボ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3671/info"
   },
   "Alex Caruso": {
    "kana": "アレックス・カルーソ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%BC%E3%82%BD"
   },
+  "Alex Karaban": {
+   "kana": "アレックス・カラバン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3828/info"
+  },
+  "Alex Morales": {
+   "kana": "アレックス・モラレス",
+   "src": "https://nba.docomo.ne.jp/stats/players/2343/info"
+  },
   "Alex Sarr": {
    "kana": "アレックス・サー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%BC"
+  },
+  "Alex Toohey": {
+   "kana": "アレックス・トゥーイー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3415/info"
   },
   "Alexis Ajinca": {
    "kana": "アレクシス・アジンサ",
@@ -77,6 +109,18 @@
    "kana": "アレクシス・アジンサ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B7%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%B8%E3%83%B3%E3%82%B5"
   },
+  "Alijah Martin": {
+   "kana": "アライジャ・マーティン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3434/info"
+  },
+  "Allen Graves": {
+   "kana": "アレン・グレイブス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3815/info"
+  },
+  "Alondes Williams": {
+   "kana": "アロンデス・ウィリアムズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/963/info"
+  },
   "Alperen Sengun": {
    "kana": "アルペラン・シェングン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%9A%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B0%E3%83%B3"
@@ -84,6 +128,14 @@
   "Alperen Şengün": {
    "kana": "アルペラン・シェングン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%9A%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B0%E3%83%B3"
+  },
+  "Alpha Diallo": {
+   "kana": "アルファ・ディアロ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3872/info"
+  },
+  "Amari Williams": {
+   "kana": "アマリ・ウィリアムズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3435/info"
   },
   "Amen Thompson": {
    "kana": "アメン・トンプソン",
@@ -137,9 +189,21 @@
    "kana": "アンソニー・エドワーズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%82%BA"
   },
+  "Anthony Gill": {
+   "kana": "アンソニー・ギル",
+   "src": "https://nba.docomo.ne.jp/stats/players/500/info"
+  },
   "Antonio Lang": {
    "kana": "アントニオ・ラング",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%88%E3%83%8B%E3%82%AA%E3%83%BB%E3%83%A9%E3%83%B3%E3%82%B0"
+  },
+  "Ariel Hukporti": {
+   "kana": "アリエル・フクポルティ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2454/info"
+  },
+  "Arthur Kaluma": {
+   "kana": "アーサー・カルマ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3461/info"
   },
   "Asa Newell": {
    "kana": "エイサ・ニューエル",
@@ -157,6 +221,10 @@
    "kana": "アヨ・ドスンム",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A8%E3%83%BB%E3%83%89%E3%82%B9%E3%83%B3%E3%83%A0"
   },
+  "Baba Miller": {
+   "kana": "ババ・ミラー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3848/info"
+  },
   "Bam Adebayo": {
    "kana": "バム・アデバヨ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A0%E3%83%BB%E3%82%A2%E3%83%87%E3%83%90%E3%83%A8"
@@ -164,6 +232,14 @@
   "Baylor Scheierman": {
    "kana": "ベイラー・シャイアマン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%9E%E3%83%B3"
+  },
+  "Ben Saraf": {
+   "kana": "ベン・ザラフ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3392/info"
+  },
+  "Ben Sheppard": {
+   "kana": "ベン・シェパード",
+   "src": "https://nba.docomo.ne.jp/stats/players/1798/info"
   },
   "Ben Simmons": {
    "kana": "ベン・シモンズ",
@@ -173,6 +249,14 @@
    "kana": "ベネディクト・マサリン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%83%87%E3%82%A3%E3%82%AF%E3%83%88%E3%83%BB%E3%83%9E%E3%82%B5%E3%83%AA%E3%83%B3"
   },
+  "Bennett Stirtz": {
+   "kana": "ベネット・スターツ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3826/info"
+  },
+  "Bez Mbeng": {
+   "kana": "ベズ・ムベン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3782/info"
+  },
   "Bilal Coulibaly": {
    "kana": "ビラル・クリバリ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A9%E3%83%AB%E3%83%BB%E3%82%AF%E3%83%AA%E3%83%90%E3%83%AA"
@@ -181,9 +265,25 @@
    "kana": "ビリー・ドノバン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%89%E3%83%8E%E3%83%90%E3%83%B3"
   },
+  "BJ Boston Jr": {
+   "kana": "ブランドン・ボストンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/171/info"
+  },
+  "BJ Boston Jr.": {
+   "kana": "ブランドン・ボストンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/171/info"
+  },
   "Blake Ahearn": {
    "kana": "ブレイク・アハーン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%8F%E3%83%BC%E3%83%B3"
+  },
+  "Blake Hinson": {
+   "kana": "ブレーク・ヒンソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2440/info"
+  },
+  "Blake Wesley": {
+   "kana": "ブレイク・ウェスリー",
+   "src": "https://nba.docomo.ne.jp/stats/players/1016/info"
   },
   "Bobby Jackson": {
    "kana": "ボビー・ジャクソン",
@@ -209,6 +309,10 @@
    "kana": "ボグダン・ボグダノヴィッチ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B0%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9C%E3%82%B0%E3%83%80%E3%83%8E%E3%83%B4%E3%82%A3%E3%83%83%E3%83%81"
   },
+  "Bogoljub Markovic": {
+   "kana": "ボゴリュブ・マルコビッチ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3444/info"
+  },
   "Bones Hyland": {
    "kana": "ボーンズ・ハイランド",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89"
@@ -217,9 +321,17 @@
    "kana": "ボスニア・ヘルツェゴビナ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%8B%E3%82%A2%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84%E3%82%A7%E3%82%B4%E3%83%93%E3%83%8A"
   },
+  "Braden Smith": {
+   "kana": "ブレーデン・スミス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3836/info"
+  },
   "Bradley Beal": {
    "kana": "ブラッドリー・ビール",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%93%E3%83%BC%E3%83%AB"
+  },
+  "Branden Carlson": {
+   "kana": "ブランデン・カールソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2460/info"
   },
   "Brandin Podziemski": {
    "kana": "ブランディン・ポジェムスキー",
@@ -240,6 +352,14 @@
   "Brandon Miller (basketball, born 2002)": {
    "kana": "ブランドン・ミラー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC"
+  },
+  "Brandon Williams": {
+   "kana": "ブランドン・ウィリアムズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/698/info"
+  },
+  "Brayden Burries": {
+   "kana": "ブレイデン・バリーズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3821/info"
   },
   "Brett Brown": {
    "kana": "ブレット・ブラウン",
@@ -269,6 +389,14 @@
    "kana": "ブルック・ロペス",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AD%E3%83%9A%E3%82%B9"
   },
+  "Brooks Barnhizer": {
+   "kana": "ブルックス・バーンハイザー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3441/info"
+  },
+  "Bruce Brown": {
+   "kana": "ブルース・ブラウン",
+   "src": "https://nba.docomo.ne.jp/stats/players/626/info"
+  },
   "Bruce Fraser": {
    "kana": "ブルース・フレイザー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC"
@@ -276,6 +404,14 @@
   "Bruce Fraser (basketball)": {
    "kana": "ブルース・フレイザー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%95%E3%83%AC%E3%82%A4%E3%82%B6%E3%83%BC"
+  },
+  "Bruce Thornton": {
+   "kana": "ブルース・ソーントン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3840/info"
+  },
+  "Bryce Hopkins": {
+   "kana": "ブライス・ホプキンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3865/info"
   },
   "Bryce McGowens": {
    "kana": "ブライス・マクゴーウェンズ",
@@ -292,6 +428,10 @@
   "Cade Cunningham": {
    "kana": "ケイド・カニングハム",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%89%E3%83%BB%E3%82%AB%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%8F%E3%83%A0"
+  },
+  "Caleb Grill": {
+   "kana": "ケーレブ・グリル",
+   "src": "https://nba.docomo.ne.jp/stats/players/4077/info"
   },
   "Caleb Houstan": {
    "kana": "ケイレブ・ヒュースタン",
@@ -317,6 +457,14 @@
    "kana": "ケイレブ・ウィルソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A4%E3%83%AC%E3%83%96%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AB%E3%82%BD%E3%83%B3"
   },
+  "Cam Christie": {
+   "kana": "キャム・クリスティー",
+   "src": "https://nba.docomo.ne.jp/stats/players/2446/info"
+  },
+  "Cam Spencer": {
+   "kana": "キャム・スペンサー",
+   "src": "https://nba.docomo.ne.jp/stats/players/2467/info"
+  },
   "Cam Thomas": {
    "kana": "キャム・トーマス",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A0%E3%83%BB%E3%83%88%E3%83%BC%E3%83%9E%E3%82%B9"
@@ -337,6 +485,10 @@
    "kana": "キャメロン・カー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%AB%E3%83%BC"
   },
+  "Cameron Hildreth": {
+   "kana": "キャメロン・ヒルドレス",
+   "src": "https://nba.docomo.ne.jp/stats/players/4078/info"
+  },
   "Cameron Johnson": {
    "kana": "キャメロン・ジョンソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%A1%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
@@ -348,6 +500,10 @@
   "Caron Butler": {
    "kana": "カロン・バトラー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC"
+  },
+  "Carson Cooper": {
+   "kana": "カーソン・クーパー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3867/info"
   },
   "Carter Bryant": {
    "kana": "カーター・ブライアント",
@@ -369,6 +525,10 @@
    "kana": "チャド・フォーシァー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B7%E3%82%A1%E3%83%BC"
   },
+  "Chaney Johnson": {
+   "kana": "チェイニー・ジョンソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3638/info"
+  },
   "Charles Bassey": {
    "kana": "チャールズ・バッシー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%90%E3%83%83%E3%82%B7%E3%83%BC"
@@ -385,6 +545,10 @@
    "kana": "チャールズ・リー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E3%83%BB%E3%83%AA%E3%83%BC"
   },
+  "Chaz Lanier": {
+   "kana": "チャズ・ラニアー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3419/info"
+  },
   "Chet Holmgren": {
    "kana": "チェット・ホルムグレン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%83%E3%83%88%E3%83%BB%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%B0%E3%83%AC%E3%83%B3"
@@ -392,6 +556,14 @@
   "Chip Engelland": {
    "kana": "チップ・イングランド",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%83%E3%83%97%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  "Chris Cenac Jr": {
+   "kana": "クリス・セナックJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3819/info"
+  },
+  "Chris Cenac Jr.": {
+   "kana": "クリス・セナックJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3819/info"
   },
   "Chris Finch": {
    "kana": "クリス・フィンチ",
@@ -401,6 +573,10 @@
    "kana": "クリス・リビングストン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3"
   },
+  "Chris Manon": {
+   "kana": "クリス・マニョン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3458/info"
+  },
   "Chris Quinn": {
    "kana": "クリス・クイン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%B3"
@@ -408,6 +584,14 @@
   "Chris Youngblood": {
    "kana": "クリス・ヤングブラッド",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%A4%E3%83%B3%E3%82%B0%E3%83%96%E3%83%A9%E3%83%83%E3%83%89"
+  },
+  "Christian Anderson Jr": {
+   "kana": "クリスチャン・アンダーソンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3805/info"
+  },
+  "Christian Anderson Jr.": {
+   "kana": "クリスチャン・アンダーソンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3805/info"
   },
   "Christian Braun": {
    "kana": "クリスチャン・ブラウン",
@@ -417,9 +601,17 @@
    "kana": "クリスチャン・コロコ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%AD%E3%82%B3"
   },
+  "Chucky Hepburn": {
+   "kana": "チャッキー・ヘップバーン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3433/info"
+  },
   "Chuma Okeke": {
    "kana": "チュマ・オキキ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%9E%E3%83%BB%E3%82%AA%E3%82%AD%E3%82%AD"
+  },
+  "CJ Huntley": {
+   "kana": "CJ・ハントリー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3454/info"
   },
   "CJ McCollum": {
    "kana": "CJ・マッカラム",
@@ -469,13 +661,41 @@
    "kana": "コーリス・ウィリアムソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BD%E3%83%B3"
   },
+  "Cormac Ryan": {
+   "kana": "コーマック・ライアン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2539/info"
+  },
+  "Craig Porter Jr": {
+   "kana": "クレッグ・ポーターJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/1876/info"
+  },
+  "Craig Porter Jr.": {
+   "kana": "クレッグ・ポーターJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/1876/info"
+  },
+  "Curtis Jones": {
+   "kana": "カーティス・ジョーンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3457/info"
+  },
   "D'Angelo Russell": {
    "kana": "ディアンジェロ・ラッセル",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%BB%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB"
   },
+  "Daeqwon Plowden": {
+   "kana": "デイクウォン・プラウデン",
+   "src": "https://nba.docomo.ne.jp/stats/players/1449/info"
+  },
   "Dahntay Jones": {
    "kana": "ダンテイ・ジョーンズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%B3%E3%83%86%E3%82%A4%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
+  },
+  "Dailyn Swain": {
+   "kana": "デイリン・スウェイン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3801/info"
+  },
+  "Dain Dainja": {
+   "kana": "デイン・ダインジャ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3660/info"
   },
   "Dalen Terry": {
    "kana": "デイレン・テリー",
@@ -489,13 +709,29 @@
    "kana": "デイミアン・リラード",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%9F%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%A9%E3%83%BC%E3%83%89"
   },
+  "Dane Goodwin": {
+   "kana": "デーン・グッドウィン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2392/info"
+  },
   "Daniel Gafford": {
    "kana": "ダニエル・ギャフォード",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AE%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
   },
+  "Daniss Jenkins": {
+   "kana": "デイニス・ジェンキンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2438/info"
+  },
+  "Danny Wolf": {
+   "kana": "ダニー・ウルフ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3389/info"
+  },
   "Dariq Whitehead": {
    "kana": "ダリク・ホワイトヘッド",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%AA%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E3%83%98%E3%83%83%E3%83%89"
+  },
+  "Darius Acuff": {
+   "kana": "ダリアス・エイカフJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3829/info"
   },
   "Darius Acuff Jr": {
    "kana": "ダリアス・エイカフ・ジュニア",
@@ -541,6 +777,10 @@
    "kana": "デヴィッド・ジョーンズ＝ガルシア",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B4%E3%82%A3%E3%83%83%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA%EF%BC%9D%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2"
   },
+  "David Roddy": {
+   "kana": "デイビッド・ロディー",
+   "src": "https://nba.docomo.ne.jp/stats/players/1029/info"
+  },
   "Davion Mitchell": {
    "kana": "デイビオン・ミッチェル",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%93%E3%82%AA%E3%83%B3%E3%83%BB%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB"
@@ -577,6 +817,10 @@
    "kana": "デジャンテ・マレー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%86%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC"
   },
+  "DeMar DeRozan": {
+   "kana": "デマー・デローザン",
+   "src": "https://nba.docomo.ne.jp/stats/players/86/info"
+  },
   "DeMarre Carroll": {
    "kana": "デマール・キャロル",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%AD%E3%83%AB"
@@ -592,6 +836,14 @@
   "Dennis Schröder": {
    "kana": "デニス・シュルーダー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%AB%E3%83%BC%E3%83%80%E3%83%BC"
+  },
+  "Dennis Smith Jr": {
+   "kana": "デニス・スミスJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/426/info"
+  },
+  "Dennis Smith Jr.": {
+   "kana": "デニス・スミスJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/426/info"
   },
   "Dereck Lively II": {
    "kana": "デレック・ライブリー2世",
@@ -633,6 +885,14 @@
    "kana": "ディロン・ブルックス",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9"
   },
+  "Dillon Jones": {
+   "kana": "ディロン・ジョーンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2422/info"
+  },
+  "Dillon Mitchell": {
+   "kana": "ディロン・ミッチェル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3851/info"
+  },
   "Domantas Sabonis": {
    "kana": "ドマンタス・サボニス",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9E%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%9C%E3%83%8B%E3%82%B9"
@@ -669,9 +929,21 @@
    "kana": "ドレイモンド・グリーン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AC%E3%82%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
   },
+  "Drew Eubanks": {
+   "kana": "ドリュー・ユーバンクス",
+   "src": "https://nba.docomo.ne.jp/stats/players/437/info"
+  },
+  "Drew Peterson": {
+   "kana": "ドリュー・ピーターソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2351/info"
+  },
   "Drew Timme": {
    "kana": "ドリュー・ティミー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%86%E3%82%A3%E3%83%9F%E3%83%BC"
+  },
+  "Dru Smith": {
+   "kana": "ドリュー・スミス",
+   "src": "https://nba.docomo.ne.jp/stats/players/278/info"
   },
   "Duncan Robinson": {
    "kana": "ダンカン・ロビンソン",
@@ -685,6 +957,10 @@
    "kana": "ドワイト・パウエル",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AF%E3%82%A4%E3%83%88%E3%83%BB%E3%83%91%E3%82%A6%E3%82%A8%E3%83%AB"
   },
+  "Dylan Cardwell": {
+   "kana": "ディラン・カードウェル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3453/info"
+  },
   "Dylan Harper": {
    "kana": "ディラン・ハーパー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%91%E3%83%BC"
@@ -696,6 +972,10 @@
   "E. J. Liddell": {
    "kana": "E・J・リデル",
    "src": "https://ja.wikipedia.org/wiki/E%E3%83%BBJ%E3%83%BB%E3%83%AA%E3%83%87%E3%83%AB"
+  },
+  "Ebuka Okorie": {
+   "kana": "エブカ・オコリエ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3807/info"
   },
   "Egor Demin": {
    "kana": "イゴール・デミン",
@@ -713,13 +993,45 @@
    "kana": "エペイ・ウドゥ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%9A%E3%82%A4%E3%83%BB%E3%82%A6%E3%83%89%E3%82%A5"
   },
+  "Elfrid Payton": {
+   "kana": "エルフリッド・ペイトン",
+   "src": "https://nba.docomo.ne.jp/stats/players/408/info"
+  },
+  "Elijah Harkless": {
+   "kana": "イライジャ・ハークレス",
+   "src": "https://nba.docomo.ne.jp/stats/players/2553/info"
+  },
+  "Emanuel Miller": {
+   "kana": "エマニュエル・ミラー",
+   "src": "https://nba.docomo.ne.jp/stats/players/2536/info"
+  },
+  "Emanuel Sharp": {
+   "kana": "エマニュエル・シャープ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3863/info"
+  },
+  "Enrique Freeman": {
+   "kana": "エンリケ・フリーマン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2449/info"
+  },
   "Erik Spoelstra": {
    "kana": "エリック・スポールストラ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%AB%E3%82%B9%E3%83%88%E3%83%A9"
   },
+  "Ernest Udeh Jr": {
+   "kana": "アーネスト・ウデーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3869/info"
+  },
+  "Ernest Udeh Jr.": {
+   "kana": "アーネスト・ウデーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3869/info"
+  },
   "Evan Mobley": {
    "kana": "エバン・モーブリー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%90%E3%83%B3%E3%83%BB%E3%83%A2%E3%83%BC%E3%83%96%E3%83%AA%E3%83%BC"
+  },
+  "Felix Okpara": {
+   "kana": "フェリックス・オクパラ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3837/info"
   },
   "Frank Vogel": {
    "kana": "フランク・ヴォーゲル",
@@ -781,6 +1093,14 @@
    "kana": "グレイディ・ディック",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%A4%E3%83%87%E3%82%A3%E3%83%BB%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF"
   },
+  "Graham Ike": {
+   "kana": "グレアム・アイク",
+   "src": "https://nba.docomo.ne.jp/stats/players/4093/info"
+  },
+  "Grant Nelson": {
+   "kana": "グラント・ネルソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3769/info"
+  },
   "Grant Williams": {
    "kana": "グラント・ウィリアムズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
@@ -801,6 +1121,10 @@
    "kana": "ギー・サントス",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%BC%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%88%E3%82%B9"
   },
+  "Hannes Steinbach": {
+   "kana": "ハンネス・スタインバック",
+   "src": "https://nba.docomo.ne.jp/stats/players/3806/info"
+  },
   "Harrison Barnes": {
    "kana": "ハリソン・バーンズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%90%E3%83%BC%E3%83%B3%E3%82%BA"
@@ -809,9 +1133,17 @@
    "kana": "ハリソン・イングラム",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AA%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%A0"
   },
+  "Hayden Gray": {
+   "kana": "ヘイデン・グレイ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3799/info"
+  },
   "Haywood Highsmith": {
    "kana": "ヘイウッド・ハイスミス",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%A4%E3%82%A6%E3%83%83%E3%83%89%E3%83%BB%E3%83%8F%E3%82%A4%E3%82%B9%E3%83%9F%E3%82%B9"
+  },
+  "Henri Veesaar": {
+   "kana": "アンリ・ビーザール",
+   "src": "https://nba.docomo.ne.jp/stats/players/3843/info"
   },
   "Herbert Jones": {
    "kana": "ハーバート・ジョーンズ",
@@ -821,9 +1153,33 @@
    "kana": "ハーバート・ジョーンズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
   },
+  "Hugo Gonzalez": {
+   "kana": "ウーゴ・ゴンサレス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3397/info"
+  },
+  "Hugo González": {
+   "kana": "ウーゴ・ゴンサレス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3397/info"
+  },
   "Hunter Tyson": {
    "kana": "ハンター・タイソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%BD%E3%83%B3"
+  },
+  "Hyunjung Lee": {
+   "kana": "李 賢重",
+   "src": "https://nba.docomo.ne.jp/stats/players/4083/info"
+  },
+  "Ian Schieffelin": {
+   "kana": "イアン・シーフェリン",
+   "src": "https://nba.docomo.ne.jp/stats/players/4109/info"
+  },
+  "Igor Milicic Jr": {
+   "kana": "イゴール・ミリチッチ Jr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3646/info"
+  },
+  "Igor Milicic Jr.": {
+   "kana": "イゴール・ミリチッチ Jr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3646/info"
   },
   "Ime Udoka": {
    "kana": "イーメイ・ウドカ",
@@ -833,6 +1189,10 @@
    "kana": "イマニュエル・クイックリー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%83%AA%E3%83%BC"
   },
+  "Isaac Jones": {
+   "kana": "アイザック・ジョーンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2456/info"
+  },
   "Isaac Okoro": {
    "kana": "アイザック・オコロ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%82%B3%E3%83%AD"
@@ -840,6 +1200,14 @@
   "Isaiah Collier": {
    "kana": "アイザイア・コリアー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B3%E3%83%AA%E3%82%A2%E3%83%BC"
+  },
+  "Isaiah Crawford": {
+   "kana": "アイザイア・クロフォード",
+   "src": "https://nba.docomo.ne.jp/stats/players/2455/info"
+  },
+  "Isaiah Evans": {
+   "kana": "アイザイア・エバンス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3844/info"
   },
   "Isaiah Hartenstein": {
    "kana": "アイザイア・ハーテンシュタイン",
@@ -857,6 +1225,10 @@
    "kana": "アイザイア・ジョー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC"
   },
+  "Isaiah Livers": {
+   "kana": "アイザイア・リバース",
+   "src": "https://nba.docomo.ne.jp/stats/players/166/info"
+  },
   "Isaiah Stewart": {
    "kana": "アイザイア・スチュワート",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B6%E3%82%A4%E3%82%A2%E3%83%BB%E3%82%B9%E3%83%81%E3%83%A5%E3%83%AF%E3%83%BC%E3%83%88"
@@ -864,6 +1236,10 @@
   "Ivica Zubac": {
    "kana": "イビツァ・ズバッツ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%93%E3%83%84%E3%82%A1%E3%83%BB%E3%82%BA%E3%83%90%E3%83%83%E3%83%84"
+  },
+  "Izaiyah Nelson": {
+   "kana": "アイザイア・ネルソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3862/info"
   },
   "J. B. Bickerstaff": {
    "kana": "J・B・ビッカースタッフ",
@@ -881,6 +1257,10 @@
    "kana": "ジャコービー・ウォルター",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B3%E3%83%BC%E3%83%93%E3%83%BC%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%BF%E3%83%BC"
   },
+  "Ja'Kobi Gillespie": {
+   "kana": "ジャコビ・ギレスピー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3852/info"
+  },
   "Jabari Smith Jr": {
    "kana": "ジャバリ・スミス・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%90%E3%83%AA%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
@@ -892,6 +1272,14 @@
   "Jabari Walker": {
    "kana": "ジャバリ・ウォーカー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%90%E3%83%AA%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC"
+  },
+  "Jack Kayil": {
+   "kana": "ジャック・カイル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3831/info"
+  },
+  "Jaden Bradley": {
+   "kana": "ジェイデン・ブラッドリー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3854/info"
   },
   "Jaden Hardy": {
    "kana": "ジェイデン・ハーディー",
@@ -909,6 +1297,18 @@
    "kana": "ジェイショーン・テイト",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%86%E3%82%A4%E3%83%88"
   },
+  "Jaelen House": {
+   "kana": "ジェイレン・ハウス",
+   "src": "https://nba.docomo.ne.jp/stats/players/4107/info"
+  },
+  "Jahmai Mashack": {
+   "kana": "ジャフマイ・マシャック",
+   "src": "https://nba.docomo.ne.jp/stats/players/3432/info"
+  },
+  "Jahmir Young": {
+   "kana": "ジャミア・ヤング",
+   "src": "https://nba.docomo.ne.jp/stats/players/2529/info"
+  },
   "Jaime Jaquez Jr": {
    "kana": "ハイメ・ハーケス・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%A1%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
@@ -920,6 +1320,14 @@
   "Jake LaRavia": {
    "kana": "ジェイク・ラレイビア",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%AC%E3%82%A4%E3%83%93%E3%82%A2"
+  },
+  "Jake Stephens": {
+   "kana": "ジェイク・スティーブンス",
+   "src": "https://nba.docomo.ne.jp/stats/players/2393/info"
+  },
+  "Jakob Poeltl": {
+   "kana": "ヤコブ・パートル",
+   "src": "https://nba.docomo.ne.jp/stats/players/454/info"
   },
   "Jakob Poltl": {
    "kana": "ヤコブ・パートル",
@@ -945,6 +1353,14 @@
    "kana": "ジェイレン・ジョンソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BD%E3%83%B3"
   },
+  "Jalen Pickett": {
+   "kana": "ジェイレン・ピケット",
+   "src": "https://nba.docomo.ne.jp/stats/players/1791/info"
+  },
+  "Jalen Slawson": {
+   "kana": "ジェイレン・スローソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/1814/info"
+  },
   "Jalen Smith": {
    "kana": "ジェイレン・スミス",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9"
@@ -957,21 +1373,49 @@
    "kana": "ジェイレン・ウィリアムズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
   },
+  "Jalen Wilson": {
+   "kana": "ジェイレン・ウィルソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/1805/info"
+  },
   "Jamahl Mosley": {
    "kana": "ジャマール・モズリー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A2%E3%82%BA%E3%83%AA%E3%83%BC"
+  },
+  "Jamal Cain": {
+   "kana": "ジャマール・ケイン",
+   "src": "https://nba.docomo.ne.jp/stats/players/1626/info"
   },
   "Jamal Murray": {
    "kana": "ジャマール・マレー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%AC%E3%83%BC"
   },
+  "Jamal Shead": {
+   "kana": "ジャマール・シェッド",
+   "src": "https://nba.docomo.ne.jp/stats/players/2462/info"
+  },
+  "Jamaree Bouyea": {
+   "kana": "ジャマリー・ブイヤ",
+   "src": "https://nba.docomo.ne.jp/stats/players/959/info"
+  },
   "James Harden": {
    "kana": "ジェームズ・ハーデン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%83%B3"
   },
+  "James Johnson": {
+   "kana": "ジェームズ・ジョンソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/303/info"
+  },
   "James Wiseman": {
    "kana": "ジェームズ・ワイズマン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%BA%E3%83%BB%E3%83%AF%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3"
+  },
+  "Jamir Watkins": {
+   "kana": "ジャミーア・ワトキンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3421/info"
+  },
+  "Jamison Battle": {
+   "kana": "ジェイミソン・バトル",
+   "src": "https://nba.docomo.ne.jp/stats/players/2548/info"
   },
   "Jarace Walker": {
    "kana": "ジャレス・ウォーカー",
@@ -993,6 +1437,14 @@
    "kana": "ジャレン・ジャクソン・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
   },
+  "Jarkel Joiner": {
+   "kana": "ジャーケル・ジョイナー",
+   "src": "https://nba.docomo.ne.jp/stats/players/2394/info"
+  },
+  "Jaron Pierre": {
+   "kana": "ジャロン・ピエール.Jr",
+   "src": "https://nba.docomo.ne.jp/stats/players/3842/info"
+  },
   "Jarred Vanderbilt": {
    "kana": "ジャレッド・バンダービルト",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%AC%E3%83%83%E3%83%89%E3%83%BB%E3%83%90%E3%83%B3%E3%83%80%E3%83%BC%E3%83%93%E3%83%AB%E3%83%88"
@@ -1012,6 +1464,10 @@
   "Jason Terry": {
    "kana": "ジェイソン・テリー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%86%E3%83%AA%E3%83%BC"
+  },
+  "Javon Small": {
+   "kana": "ジャボン・スモール",
+   "src": "https://nba.docomo.ne.jp/stats/players/3420/info"
   },
   "Javonte Green": {
    "kana": "ジャボンテ・グリーン",
@@ -1033,6 +1489,10 @@
    "kana": "ジェイ・トリアーノ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%BB%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8E"
   },
+  "Jayden Nunn": {
+   "kana": "ジェイデン・ナン",
+   "src": "https://nba.docomo.ne.jp/stats/players/4091/info"
+  },
   "Jayden Quaintance": {
    "kana": "ジェイデン・クインタンス",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%87%E3%83%B3%E3%83%BB%E3%82%AF%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%B3%E3%82%B9"
@@ -1041,9 +1501,17 @@
    "kana": "ジェイレン・ブラウン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3"
   },
+  "Jaylen Clark": {
+   "kana": "ジェイレン・クラーク",
+   "src": "https://nba.docomo.ne.jp/stats/players/1809/info"
+  },
   "Jaylen Wells": {
    "kana": "ジェイレン・ウェルズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AC%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%AB%E3%82%BA"
+  },
+  "Jaylin Sellers": {
+   "kana": "ジェイリン・セラーズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3866/info"
   },
   "Jaylin Williams": {
    "kana": "ジェイリン・ウィリアムズ",
@@ -1056,6 +1524,10 @@
   "Jaylon Tyson": {
    "kana": "ジェイロン・タイソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%82%A4%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%BF%E3%82%A4%E3%82%BD%E3%83%B3"
+  },
+  "Jayson Kent": {
+   "kana": "ジェイソン・ケント",
+   "src": "https://nba.docomo.ne.jp/stats/players/3771/info"
   },
   "Jayson Tatum": {
    "kana": "ジェイソン・テイタム",
@@ -1109,6 +1581,10 @@
    "kana": "ジミー・バトラー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%9F%E3%83%BC%E3%83%BB%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC"
   },
+  "Jimmy Butler III": {
+   "kana": "ジミー・バトラー三世",
+   "src": "https://nba.docomo.ne.jp/stats/players/267/info"
+  },
   "JJ Barea": {
    "kana": "J・J・バレア",
    "src": "https://ja.wikipedia.org/wiki/J%E3%83%BBJ%E3%83%BB%E3%83%90%E3%83%AC%E3%82%A2"
@@ -1116,6 +1592,10 @@
   "JJ Redick": {
    "kana": "J・J・レディック",
    "src": "https://ja.wikipedia.org/wiki/J%E3%83%BBJ%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%E3%83%83%E3%82%AF"
+  },
+  "Joan Beringer": {
+   "kana": "ヨアン・ベリンジャー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3393/info"
   },
   "Jock Landale": {
    "kana": "ジョック・ランデール",
@@ -1141,6 +1621,14 @@
    "kana": "ジョエル・エンビード",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%A8%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%93%E3%83%BC%E3%83%89"
   },
+  "John Butler Jr": {
+   "kana": "ジョン・バトラーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/1616/info"
+  },
+  "John Butler Jr.": {
+   "kana": "ジョン・バトラーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/1616/info"
+  },
   "John Collins": {
    "kana": "ジョン・コリンズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%BA"
@@ -1149,6 +1637,18 @@
    "kana": "ジョン・コリンズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%AA%E3%83%B3%E3%82%BA"
   },
+  "John Konchar": {
+   "kana": "ジョン・コンチャー",
+   "src": "https://nba.docomo.ne.jp/stats/players/542/info"
+  },
+  "John Poulakidas": {
+   "kana": "ジョン・ポウラキダス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3643/info"
+  },
+  "John Tonje": {
+   "kana": "ジョン・トンジェイ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3439/info"
+  },
   "Johnny Furphy": {
    "kana": "ジョニー・ファーフィー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%83%BC%E3%83%95%E3%82%A3%E3%83%BC"
@@ -1156,6 +1656,10 @@
   "Johnny Juzang": {
    "kana": "ジョニー・ジューザン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B6%E3%83%B3"
+  },
+  "Jonas Aidoo": {
+   "kana": "ジョナス・アイドゥ",
+   "src": "https://nba.docomo.ne.jp/stats/players/4108/info"
   },
   "Jonas Valanciunas": {
    "kana": "ヨナス・ヴァランチューナス",
@@ -1173,6 +1677,10 @@
    "kana": "ジョナサン・クミンガ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%8A%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%9F%E3%83%B3%E3%82%AC"
   },
+  "Jonathan Mogbo": {
+   "kana": "ジョナサン・モグボ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2461/info"
+  },
   "Jordan Clarkson": {
    "kana": "ジョーダン・クラークソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%83%B3"
@@ -1188,6 +1696,10 @@
   "Jordan McLaughlin": {
    "kana": "ジョーダン・マクラフリン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%A9%E3%83%95%E3%83%AA%E3%83%B3"
+  },
+  "Jordan Miller": {
+   "kana": "ジョーダン・ミラー",
+   "src": "https://nba.docomo.ne.jp/stats/players/1803/info"
   },
   "Jordan Poole": {
    "kana": "ジョーダン・プール",
@@ -1213,6 +1725,10 @@
    "kana": "ホセ・アルバラード",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A9%E3%83%BC%E3%83%89"
   },
+  "Josh Dix": {
+   "kana": "ジョッシュ・ディックス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3859/info"
+  },
   "Josh Giddey": {
    "kana": "ジョシュ・ギディー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%AE%E3%83%87%E3%82%A3%E3%83%BC"
@@ -1233,9 +1749,17 @@
    "kana": "ジョシュ・マイノット",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%83%9E%E3%82%A4%E3%83%8E%E3%83%83%E3%83%88"
   },
+  "Josh Oduro": {
+   "kana": "ジョシュ・オドゥロ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2557/info"
+  },
   "Josh Okogie": {
    "kana": "ジョシュ・オコーギー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%AA%E3%82%B3%E3%83%BC%E3%82%AE%E3%83%BC"
+  },
+  "Joshua Jefferson": {
+   "kana": "ジョシュア・ジェファーソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3808/info"
   },
   "Jrue Holiday": {
    "kana": "ドリュー・ホリデー",
@@ -1245,6 +1769,14 @@
    "kana": "ジュリアン・シャンパニー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC"
   },
+  "Julian Phillips": {
+   "kana": "ジュリアン・フィリップス",
+   "src": "https://nba.docomo.ne.jp/stats/players/1778/info"
+  },
+  "Julian Reese": {
+   "kana": "ジュリアン・リース",
+   "src": "https://nba.docomo.ne.jp/stats/players/3679/info"
+  },
   "Julian Strawther": {
    "kana": "ジュリアン・ストローザー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%BC"
@@ -1252,6 +1784,10 @@
   "Julius Randle": {
    "kana": "ジュリアス・ランドル",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AB"
+  },
+  "Justin Champagnie": {
+   "kana": "ジャスティン・シャンペニー",
+   "src": "https://nba.docomo.ne.jp/stats/players/519/info"
   },
   "Justin Edwards": {
    "kana": "ジャスティン・エドワーズ",
@@ -1273,9 +1809,29 @@
    "kana": "ジュワン・ハワード",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%AF%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89"
   },
+  "Kadary Richmond": {
+   "kana": "カダリー・リッチモンド",
+   "src": "https://nba.docomo.ne.jp/stats/players/3674/info"
+  },
+  "Kam Jones": {
+   "kana": "キャム・ジョーンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3412/info"
+  },
+  "Karim Lopez": {
+   "kana": "カリム・ロペス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3813/info"
+  },
   "Karl-Anthony Towns": {
    "kana": "カール＝アンソニー・タウンズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%AB%EF%BC%9D%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%BF%E3%82%A6%E3%83%B3%E3%82%BA"
+  },
+  "Karlo Matkovic": {
+   "kana": "カルロ・マトコビッチ",
+   "src": "https://nba.docomo.ne.jp/stats/players/974/info"
+  },
+  "Karlo Matković": {
+   "kana": "カルロ・マトコビッチ",
+   "src": "https://nba.docomo.ne.jp/stats/players/974/info"
   },
   "Kasparas Jakucionis": {
    "kana": "カスパラス・ヤクチオニス",
@@ -1292,6 +1848,10 @@
   "Keaton Wagler": {
    "kana": "キートン・ワグラー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%88%E3%83%B3%E3%83%BB%E3%83%AF%E3%82%B0%E3%83%A9%E3%83%BC"
+  },
+  "Keaton Wallace": {
+   "kana": "キートン・ウォレス",
+   "src": "https://nba.docomo.ne.jp/stats/players/1475/info"
   },
   "Keegan Murray": {
    "kana": "キーガン・マレー",
@@ -1313,6 +1873,10 @@
    "kana": "ケリー・ウーブレ・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A6%E3%83%BC%E3%83%96%E3%83%AC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
   },
+  "Kennedy Chandler": {
+   "kana": "ケネディー・チャンドラー",
+   "src": "https://nba.docomo.ne.jp/stats/players/1030/info"
+  },
   "Kenny Atkinson": {
    "kana": "ケニー・アトキンソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%88%E3%82%AD%E3%83%B3%E3%82%BD%E3%83%B3"
@@ -1325,9 +1889,29 @@
    "kana": "ケンテイビアス・コールドウェル＝ポープ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%B3%E3%83%86%E3%82%A4%E3%83%93%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A6%E3%82%A7%E3%83%AB%EF%BC%9D%E3%83%9D%E3%83%BC%E3%83%97"
   },
+  "Kenyon Martin Jr": {
+   "kana": "ケニオン・マーティンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/191/info"
+  },
+  "Kenyon Martin Jr.": {
+   "kana": "ケニオン・マーティンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/191/info"
+  },
   "Keon Ellis": {
    "kana": "キーオン・エリス",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A8%E3%83%AA%E3%82%B9"
+  },
+  "Keonte Jones": {
+   "kana": "ケオンテ・ジョーンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/4095/info"
+  },
+  "Keshad Johnson": {
+   "kana": "キーシャド・ジョンソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2450/info"
+  },
+  "Keshon Gilbert": {
+   "kana": "ケション・ギルバート",
+   "src": "https://nba.docomo.ne.jp/stats/players/3641/info"
   },
   "Kessler Edwards": {
    "kana": "ケスラー・エドワーズ",
@@ -1340,6 +1924,18 @@
   "Kevin Huerter": {
    "kana": "ケビン・ハーター",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%93%E3%83%B3%E3%83%BB%E3%83%8F%E3%83%BC%E3%82%BF%E3%83%BC"
+  },
+  "Kevin Knox II": {
+   "kana": "ケビン・ノックス",
+   "src": "https://nba.docomo.ne.jp/stats/players/323/info"
+  },
+  "Kevin McCullar Jr": {
+   "kana": "ケビン・マッカラーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/2452/info"
+  },
+  "Kevin McCullar Jr.": {
+   "kana": "ケビン・マッカラーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/2452/info"
   },
   "Kevin Porter Jr": {
    "kana": "ケビン・ポーター・ジュニア",
@@ -1357,6 +1953,10 @@
    "kana": "キヨンテ・ジョージ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A8%E3%83%B3%E3%83%86%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8"
   },
+  "Khalifa Diop": {
+   "kana": "カリーファ・ジョップ",
+   "src": "https://nba.docomo.ne.jp/stats/players/978/info"
+  },
   "Khaman Maluach": {
    "kana": "カマン・マルアチ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%A2%E3%83%81"
@@ -1369,13 +1969,33 @@
    "kana": "キングストン・フレミングス",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3%E3%83%BB%E3%83%95%E3%83%AC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B9"
   },
+  "KJ Simpson": {
+   "kana": "KJ・シンプソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2472/info"
+  },
   "Klay Thompson": {
    "kana": "クレイ・トンプソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%88%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3"
   },
+  "Koa Peat": {
+   "kana": "コア・ピート",
+   "src": "https://nba.docomo.ne.jp/stats/players/3827/info"
+  },
+  "Kobe Brown": {
+   "kana": "コービー・ブラウン",
+   "src": "https://nba.docomo.ne.jp/stats/players/1802/info"
+  },
   "Kobe Bufkin": {
    "kana": "コービー・バフキン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%93%E3%83%BC%E3%83%BB%E3%83%90%E3%83%95%E3%82%AD%E3%83%B3"
+  },
+  "Kobe Sanders": {
+   "kana": "コービー・サンダーズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3437/info"
+  },
+  "Koby Brea": {
+   "kana": "コービー・ブレイア",
+   "src": "https://nba.docomo.ne.jp/stats/players/3446/info"
   },
   "Kon Knueppel": {
    "kana": "コン・カニップル",
@@ -1396,6 +2016,10 @@
   "Kristaps Porziņģis": {
    "kana": "クリスタプス・ポルジンギス",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%97%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%AB%E3%82%B8%E3%83%B3%E3%82%AE%E3%82%B9"
+  },
+  "Kylan Boswell": {
+   "kana": "カイラン・ボズウェル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3871/info"
   },
   "Kyle Anderson": {
    "kana": "カイル・アンダーソン",
@@ -1421,6 +2045,18 @@
    "kana": "キーショーン・ジョージ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8"
   },
+  "Labaron Philon Jr": {
+   "kana": "ラバロン・フィロンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3803/info"
+  },
+  "Labaron Philon Jr.": {
+   "kana": "ラバロン・フィロンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3803/info"
+  },
+  "Lajae Jones": {
+   "kana": "レイジャ・ジョーンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3850/info"
+  },
   "LaMelo Ball": {
    "kana": "ラメロ・ボール",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A1%E3%83%AD%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%AB"
@@ -1445,6 +2081,10 @@
    "kana": "ラウリ・マルカネン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A6%E3%83%AA%E3%83%BB%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%8D%E3%83%B3"
   },
+  "Leaky Black": {
+   "kana": "リーキー・ブラック",
+   "src": "https://nba.docomo.ne.jp/stats/players/1960/info"
+  },
   "Leandro Barbosa": {
    "kana": "リアンドロ・バルボサ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BB%E3%83%90%E3%83%AB%E3%83%9C%E3%82%B5"
@@ -1460,6 +2100,18 @@
   "Leonard Miller (basketball)": {
    "kana": "レナード・ミラー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%89%E3%83%BB%E3%83%9F%E3%83%A9%E3%83%BC"
+  },
+  "Liam McNeeley": {
+   "kana": "リアム・マクニーリー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3387/info"
+  },
+  "LJ Cryer": {
+   "kana": "LJ・クライヤー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3656/info"
+  },
+  "Lonnie Walker IV": {
+   "kana": "ロニー・ウォーカー四世",
+   "src": "https://nba.docomo.ne.jp/stats/players/453/info"
   },
   "Lonzo Ball": {
    "kana": "ロンゾ・ボール",
@@ -1493,17 +2145,41 @@
    "kana": "ルーク・ウォルトン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A9%E3%83%AB%E3%83%88%E3%83%B3"
   },
+  "M.J. Iraldi": {
+   "kana": "MJ・イラルディ",
+   "src": "https://nba.docomo.ne.jp/stats/players/4080/info"
+  },
+  "Malachi Smith": {
+   "kana": "マラカイ・スミス",
+   "src": "https://nba.docomo.ne.jp/stats/players/2395/info"
+  },
   "Malaki Branham": {
    "kana": "マラカイ・ブランナム",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%AB%E3%82%A4%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%A0"
+  },
+  "Malevy Leons": {
+   "kana": "マレビ・レオンス",
+   "src": "https://nba.docomo.ne.jp/stats/players/2538/info"
   },
   "Malik Allen": {
    "kana": "マリック・アレン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A2%E3%83%AC%E3%83%B3"
   },
+  "Malik Dia": {
+   "kana": "マリク・ディア",
+   "src": "https://nba.docomo.ne.jp/stats/players/3876/info"
+  },
   "Malik Monk": {
    "kana": "マリーク・モンク",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%A2%E3%83%B3%E3%82%AF"
+  },
+  "Maliq Brown": {
+   "kana": "マリク・ブラウン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3853/info"
+  },
+  "Malique Lewis": {
+   "kana": "マリク・ルイス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3855/info"
   },
   "Marcus Sasser": {
    "kana": "マーカス・サッサー",
@@ -1517,6 +2193,10 @@
    "kana": "マリオ・ヘゾニャ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%98%E3%82%BE%E3%83%8B%E3%83%A3"
   },
+  "MarJon Beauchamp": {
+   "kana": "マージョン・ボウチャンプ",
+   "src": "https://nba.docomo.ne.jp/stats/players/1008/info"
+  },
   "Mark Daigneault": {
    "kana": "マーク・デイグノルト",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%87%E3%82%A4%E3%82%B0%E3%83%8E%E3%83%AB%E3%83%88"
@@ -1528,6 +2208,10 @@
   "Mark Williams (basketball)": {
    "kana": "マーク・ウィリアムズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"
+  },
+  "Marquel Sutton": {
+   "kana": "マーケル・サットン",
+   "src": "https://nba.docomo.ne.jp/stats/players/4106/info"
   },
   "Marvin Bagley III": {
    "kana": "マービン・バグリー3世",
@@ -1564,6 +2248,30 @@
   "Maxi Kleber": {
    "kana": "マキシ・クレバー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AD%E3%82%B7%E3%83%BB%E3%82%AF%E3%83%AC%E3%83%90%E3%83%BC"
+  },
+  "Maxime Raynaud": {
+   "kana": "マクシーム・レイノー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3449/info"
+  },
+  "Meechie Johnson": {
+   "kana": "ミーキエ・ジョンソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/4092/info"
+  },
+  "Meleek Thomas": {
+   "kana": "メリーク・トーマス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3834/info"
+  },
+  "Micah Peavy": {
+   "kana": "マイカ・ピービー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3426/info"
+  },
+  "Micah Potter": {
+   "kana": "ミカ・ポッター",
+   "src": "https://nba.docomo.ne.jp/stats/players/266/info"
+  },
+  "Michael Ajayi": {
+   "kana": "マイケル・アジャイ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3870/info"
   },
   "Michael Porter Jr": {
    "kana": "マイケル・ポーター・ジュニア",
@@ -1609,6 +2317,10 @@
    "kana": "マイク・ウッドソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%82%A6%E3%83%83%E3%83%89%E3%82%BD%E3%83%B3"
   },
+  "Mikel Brown": {
+   "kana": "マイケル・ブラウンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3809/info"
+  },
   "Mikel Brown Jr": {
    "kana": "マイケル・ブラウン・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B1%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
@@ -1633,6 +2345,10 @@
    "kana": "ミッチェル・ロビンソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%81%E3%82%A7%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%93%E3%83%B3%E3%82%BD%E3%83%B3"
   },
+  "MJ Iraldi": {
+   "kana": "MJ・イラルディ",
+   "src": "https://nba.docomo.ne.jp/stats/players/4080/info"
+  },
   "Mo Bamba": {
    "kana": "モー・バンバ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%BB%E3%83%90%E3%83%B3%E3%83%90"
@@ -1640,6 +2356,14 @@
   "Mody Maor": {
    "kana": "モーディ・マオール",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9E%E3%82%AA%E3%83%BC%E3%83%AB"
+  },
+  "Mohamed Diawara": {
+   "kana": "モハメド・ディアワラ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3411/info"
+  },
+  "Morez Johnson": {
+   "kana": "モレズ・ジョンソンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3823/info"
   },
   "Moritz Wagner": {
    "kana": "モリッツ・バグナー",
@@ -1653,6 +2377,14 @@
    "kana": "モーゼス・ムーディー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%82%BC%E3%82%B9%E3%83%BB%E3%83%A0%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC"
   },
+  "Mouhamed Gueye": {
+   "kana": "モハメッド・ゲイ",
+   "src": "https://nba.docomo.ne.jp/stats/players/1780/info"
+  },
+  "Moussa Cisse": {
+   "kana": "ムッサ・シセイ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3635/info"
+  },
   "Moussa Diabate": {
    "kana": "ムサ・ディアバテ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%A0%E3%82%B5%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%83%90%E3%83%86"
@@ -1665,13 +2397,33 @@
    "kana": "マイルズ・ターナー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%8A%E3%83%BC"
   },
+  "Myron Gardner": {
+   "kana": "マイロン・ガードナー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3459/info"
+  },
+  "N'Faly Dante": {
+   "kana": "エンファリ・ダンテ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2443/info"
+  },
+  "Nae'Qwan Tomlin": {
+   "kana": "ネイクワン・トムリン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2524/info"
+  },
   "Naji Marshall": {
    "kana": "ナジ・マーシャル",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B8%E3%83%BB%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB"
   },
+  "Nate Ament": {
+   "kana": "ネイト・エイメント",
+   "src": "https://nba.docomo.ne.jp/stats/players/3822/info"
+  },
   "Nate McMillan": {
    "kana": "ネイト・マクミラン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%A4%E3%83%88%E3%83%BB%E3%83%9E%E3%82%AF%E3%83%9F%E3%83%A9%E3%83%B3"
+  },
+  "Nate Williams": {
+   "kana": "ジーナサン・ウィリアムズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/1633/info"
   },
   "Naz Reid": {
    "kana": "ナズ・リード",
@@ -1684,6 +2436,10 @@
   "Nic Claxton": {
    "kana": "ニコラス・クラクストン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%AF%E3%82%B9%E3%83%88%E3%83%B3"
+  },
+  "Nick Martinelli": {
+   "kana": "ニック・マルティネッリ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3846/info"
   },
   "Nick Nurse": {
    "kana": "ニック・ナース",
@@ -1729,6 +2485,14 @@
    "kana": "ニコラ・ブーチェビッチ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B3%E3%83%A9%E3%83%BB%E3%83%96%E3%83%BC%E3%83%81%E3%82%A7%E3%83%93%E3%83%83%E3%83%81"
   },
+  "Nimari Burnett": {
+   "kana": "ニマリ・バーネット",
+   "src": "https://nba.docomo.ne.jp/stats/players/4103/info"
+  },
+  "Nique Clifford": {
+   "kana": "ニーク・クリフォード",
+   "src": "https://nba.docomo.ne.jp/stats/players/3408/info"
+  },
   "Noa Essengue": {
    "kana": "ノア・エセング",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A2%E3%83%BB%E3%82%A8%E3%82%BB%E3%83%B3%E3%82%B0"
@@ -1736,6 +2500,10 @@
   "Noah Clowney": {
    "kana": "ノア・クラウニー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%8B%E3%83%BC"
+  },
+  "Noah Penda": {
+   "kana": "ノア・ペンダ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3448/info"
   },
   "Nolan Traore": {
    "kana": "ノーラン・トラオレ",
@@ -1745,6 +2513,10 @@
    "kana": "ノーラン・トラオレ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%88%E3%83%A9%E3%82%AA%E3%83%AC"
   },
+  "Norchad Omier": {
+   "kana": "ノーチャド・オミエ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3637/info"
+  },
   "Norman Powell": {
    "kana": "ノーマン・パウエル",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%91%E3%82%A6%E3%82%A8%E3%83%AB"
@@ -1752,6 +2524,10 @@
   "Obi Toppin": {
    "kana": "オビ・トッピン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%93%E3%83%BB%E3%83%88%E3%83%83%E3%83%94%E3%83%B3"
+  },
+  "Ochai Agbaji": {
+   "kana": "オチャイ・アバジ",
+   "src": "https://nba.docomo.ne.jp/stats/players/975/info"
   },
   "OG Anunoby": {
    "kana": "OG・アヌノビー",
@@ -1765,6 +2541,10 @@
    "kana": "オニエカ・オコング",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%8B%E3%82%A8%E3%82%AB%E3%83%BB%E3%82%AA%E3%82%B3%E3%83%B3%E3%82%B0"
   },
+  "Orlando Robinson": {
+   "kana": "オーランド・ロビンソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/962/info"
+  },
   "Oscar Tshiebwe": {
    "kana": "オスカー・シブエ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B7%E3%83%96%E3%82%A8"
@@ -1772,6 +2552,10 @@
   "Oso Ighodaro": {
    "kana": "オソ・イゴダロ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%BD%E3%83%BB%E3%82%A4%E3%82%B4%E3%83%80%E3%83%AD"
+  },
+  "Otega Oweh": {
+   "kana": "オテガ・オウェ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3858/info"
   },
   "Ousmane Dieng": {
    "kana": "ウスマン・ジェン",
@@ -1785,6 +2569,14 @@
    "kana": "パブロ・プリジオーニ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%96%E3%83%AD%E3%83%BB%E3%83%97%E3%83%AA%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%8B"
   },
+  "Pacome Dadiet": {
+   "kana": "パコメ・ダディエ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2428/info"
+  },
+  "Pacôme Dadiet": {
+   "kana": "パコメ・ダディエ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2428/info"
+  },
   "Paolo Banchero": {
    "kana": "パオロ・バンケロ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%AA%E3%83%AD%E3%83%BB%E3%83%90%E3%83%B3%E3%82%B1%E3%83%AD"
@@ -1796,6 +2588,10 @@
   "Pat Connaughton": {
    "kana": "パット・コノートン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%83%E3%83%88%E3%83%BB%E3%82%B3%E3%83%8E%E3%83%BC%E3%83%88%E3%83%B3"
+  },
+  "Pat Spencer": {
+   "kana": "パット・スペンサー",
+   "src": "https://nba.docomo.ne.jp/stats/players/1433/info"
   },
   "Patrick Ewing": {
    "kana": "パトリック・ユーイング",
@@ -1825,6 +2621,18 @@
    "kana": "ペイトン・プリチャード",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A4%E3%83%88%E3%83%B3%E3%83%BB%E3%83%97%E3%83%AA%E3%83%81%E3%83%A3%E3%83%BC%E3%83%89"
   },
+  "Pelle Larsson": {
+   "kana": "ペラ・ラーソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2451/info"
+  },
+  "Pete Nance": {
+   "kana": "ピート・ナンス",
+   "src": "https://nba.docomo.ne.jp/stats/players/2342/info"
+  },
+  "Peter Suder": {
+   "kana": "ピーター・スーダー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3838/info"
+  },
   "Peyton Watson": {
    "kana": "ペイトン・ワトソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A4%E3%83%88%E3%83%B3%E3%83%BB%E3%83%AF%E3%83%88%E3%82%BD%E3%83%B3"
@@ -1832,6 +2640,14 @@
   "Phil Handy": {
    "kana": "フィル・ハンディ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3"
+  },
+  "Phillip Wheeler": {
+   "kana": "フィリップ・ウィーラー",
+   "src": "https://nba.docomo.ne.jp/stats/players/2562/info"
+  },
+  "PJ Hall": {
+   "kana": "PJ・ホール",
+   "src": "https://nba.docomo.ne.jp/stats/players/2436/info"
   },
   "PJ Washington": {
    "kana": "P・J・ワシントン",
@@ -1845,9 +2661,17 @@
    "kana": "プレシャス・アチュワ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%82%B7%E3%83%A3%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%81%E3%83%A5%E3%83%AF"
   },
+  "Quadir Copeland": {
+   "kana": "カディール・コープランド",
+   "src": "https://nba.docomo.ne.jp/stats/players/3841/info"
+  },
   "Quentin Grimes": {
    "kana": "クエンティン・グライムズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%A9%E3%82%A4%E3%83%A0%E3%82%BA"
+  },
+  "Quenton Jackson": {
+   "kana": "クエントン・ジャクソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/1456/info"
   },
   "Quin Snyder": {
    "kana": "クイン・スナイダー",
@@ -1857,13 +2681,41 @@
    "kana": "クインテン・ポスト",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%86%E3%83%B3%E3%83%BB%E3%83%9D%E3%82%B9%E3%83%88"
   },
+  "R.J. Davis": {
+   "kana": "RJ・デイビス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3462/info"
+  },
+  "Rafael Castro": {
+   "kana": "ラファエル・カストロ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3868/info"
+  },
+  "Rashaun Agee": {
+   "kana": "ラシャウン・アジー",
+   "src": "https://nba.docomo.ne.jp/stats/players/4102/info"
+  },
+  "Rasheer Fleming": {
+   "kana": "ラシーア・フレミング",
+   "src": "https://nba.docomo.ne.jp/stats/players/3447/info"
+  },
   "Rayan Rupert": {
    "kana": "ライアン・ルパート",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%91%E3%83%BC%E3%83%88"
   },
+  "RayJ Dennis": {
+   "kana": "レイジェイ・デニス",
+   "src": "https://nba.docomo.ne.jp/stats/players/2543/info"
+  },
   "Reed Sheppard": {
    "kana": "リード・シェパード",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%89%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%91%E3%83%BC%E3%83%89"
+  },
+  "Reese Dixon-Waters": {
+   "kana": "リース・ディクソン・ウォーターズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/4094/info"
+  },
+  "Richie Saunders": {
+   "kana": "リッチー・サンダース",
+   "src": "https://nba.docomo.ne.jp/stats/players/3849/info"
   },
   "Rick Carlisle": {
    "kana": "リック・カーライル",
@@ -1877,6 +2729,10 @@
    "kana": "RJ・バレット",
    "src": "https://ja.wikipedia.org/wiki/RJ%E3%83%BB%E3%83%90%E3%83%AC%E3%83%83%E3%83%88"
   },
+  "RJ Davis": {
+   "kana": "RJ・デイビス",
+   "src": "https://nba.docomo.ne.jp/stats/players/3462/info"
+  },
   "Rob Dillingham": {
    "kana": "ロブ・ディリングハム",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%96%E3%83%BB%E3%83%87%E3%82%A3%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%8F%E3%83%A0"
@@ -1885,9 +2741,21 @@
    "kana": "ロバート・ウィリアムズ3世",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA3%E4%B8%96"
   },
+  "Rocco Zikarsky": {
+   "kana": "ロッコ・ジカースキー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3428/info"
+  },
   "Ron Adams": {
    "kana": "ロン・アダムズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA"
+  },
+  "Ron Harper Jr": {
+   "kana": "ロン・ハーパーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/968/info"
+  },
+  "Ron Harper Jr.": {
+   "kana": "ロン・ハーパーJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/968/info"
   },
   "Ron Holland": {
    "kana": "ロン・ホランド",
@@ -1896,6 +2764,10 @@
   "Ron Holland (basketball)": {
    "kana": "ロン・ホランド",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%9B%E3%83%A9%E3%83%B3%E3%83%89"
+  },
+  "Ronald Holland II": {
+   "kana": "ロン・ホランド二世",
+   "src": "https://nba.docomo.ne.jp/stats/players/2397/info"
   },
   "Royce O'Neale": {
    "kana": "ロイス・オニール",
@@ -1908,6 +2780,10 @@
   "Rui Hachimura": {
    "kana": "八村塁",
    "src": "https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9D%91%E5%A1%81"
+  },
+  "Ryan Conwell": {
+   "kana": "ライアン・コンウェル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3857/info"
   },
   "Ryan Dunn": {
    "kana": "ライアン・ダン",
@@ -1985,6 +2861,10 @@
    "kana": "スコッティ・ピッペン・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%86%E3%82%A3%E3%83%BB%E3%83%94%E3%83%83%E3%83%9A%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
   },
+  "Sean Pedulla": {
+   "kana": "ショーン・ペデュラ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3763/info"
+  },
   "Sean Sweeney": {
    "kana": "シーン・スウィニー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%8B%E3%83%BC"
@@ -1992,6 +2872,14 @@
   "Sean Sweeney (basketball)": {
    "kana": "シーン・スウィニー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%A6%E3%82%A3%E3%83%8B%E3%83%BC"
+  },
+  "Sergio De Larrea": {
+   "kana": "セルヒオ・デ・ラレア",
+   "src": "https://nba.docomo.ne.jp/stats/players/3824/info"
+  },
+  "Seth Lundy": {
+   "kana": "セス・ランディー",
+   "src": "https://nba.docomo.ne.jp/stats/players/1781/info"
   },
   "Shaedon Sharpe": {
    "kana": "シェイドン・シャープ",
@@ -2004,6 +2892,22 @@
   "Sidy Cissoko": {
    "kana": "シディ・シソッコ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%87%E3%82%A3%E3%83%BB%E3%82%B7%E3%82%BD%E3%83%83%E3%82%B3"
+  },
+  "Simone Fontecchio": {
+   "kana": "シモーネ・フォンテッキオ",
+   "src": "https://nba.docomo.ne.jp/stats/players/1042/info"
+  },
+  "Sion James": {
+   "kana": "シオン・ジェームズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3430/info"
+  },
+  "Solomon Washington": {
+   "kana": "ソロモン・ワシントン",
+   "src": "https://nba.docomo.ne.jp/stats/players/4097/info"
+  },
+  "Spencer Jones": {
+   "kana": "スペンサー・ジョーンズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2517/info"
   },
   "Stephen Curry": {
    "kana": "ステフィン・カリー",
@@ -2021,6 +2925,10 @@
    "kana": "スティーブン・アダムズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA"
   },
+  "Svi Mykhailiuk": {
+   "kana": "スビ・ミハイリュク",
+   "src": "https://nba.docomo.ne.jp/stats/players/522/info"
+  },
   "Sviatoslav Mykhailiuk": {
    "kana": "スビ・ミハイリュク",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%93%E3%83%BB%E3%83%9F%E3%83%8F%E3%82%A4%E3%83%AA%E3%83%A5%E3%82%AF"
@@ -2033,13 +2941,25 @@
    "kana": "T・J・マッコネル",
    "src": "https://ja.wikipedia.org/wiki/T%E3%83%BBJ%E3%83%BB%E3%83%9E%E3%83%83%E3%82%B3%E3%83%8D%E3%83%AB"
   },
+  "Taelon Peter": {
+   "kana": "テイロン・ピーター",
+   "src": "https://nba.docomo.ne.jp/stats/players/3413/info"
+  },
   "Taj Gibson": {
    "kana": "タージ・ギブソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%BB%E3%82%AE%E3%83%96%E3%82%BD%E3%83%B3"
   },
+  "Tamar Bates": {
+   "kana": "タマール・ベイツ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3452/info"
+  },
   "Tari Eason": {
    "kana": "タリ・イーソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%AA%E3%83%BB%E3%82%A4%E3%83%BC%E3%82%BD%E3%83%B3"
+  },
+  "Tarik Biberovic": {
+   "kana": "タリク・ビベロビッチ",
+   "src": "https://nba.docomo.ne.jp/stats/players/1818/info"
   },
   "Tarris Reed Jr": {
    "kana": "タリス・リード・ジュニア",
@@ -2064,6 +2984,14 @@
   "Terance Mann": {
    "kana": "テレンス・マン",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%B3"
+  },
+  "Terrell Brown Jr": {
+   "kana": "テレル・ブラウンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3874/info"
+  },
+  "Terrell Brown Jr.": {
+   "kana": "テレル・ブラウンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3874/info"
   },
   "Terrence Shannon Jr": {
    "kana": "テレンス・シャノン・ジュニア",
@@ -2117,9 +3045,21 @@
    "kana": "T・J・マッコネル",
    "src": "https://ja.wikipedia.org/wiki/T%E3%83%BBJ%E3%83%BB%E3%83%9E%E3%83%83%E3%82%B3%E3%83%8D%E3%83%AB"
   },
+  "Tobe Awaka": {
+   "kana": "トベ・アワカ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3830/info"
+  },
+  "Tobi Lawal": {
+   "kana": "トビ・ラワル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3860/info"
+  },
   "Tobias Harris": {
    "kana": "トバイアス・ハリス",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%AA%E3%82%B9"
+  },
+  "Tolu Smith": {
+   "kana": "トル・スミス三世",
+   "src": "https://nba.docomo.ne.jp/stats/players/2546/info"
   },
   "Toumani Camara": {
    "kana": "トゥマニ・カマラ",
@@ -2132,6 +3072,10 @@
   "Trayce Jackson-Davis": {
    "kana": "トレイス・ジャクソン＝デイビス",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%AF%E3%82%BD%E3%83%B3%EF%BC%9D%E3%83%87%E3%82%A4%E3%83%93%E3%82%B9"
+  },
+  "Tre Donaldson": {
+   "kana": "トレイ・ドナルドソン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3856/info"
   },
   "Tre Johnson": {
    "kana": "トレイ・ジョンソン",
@@ -2153,6 +3097,26 @@
    "kana": "トレンドン・ワトフォード",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%B3%E3%83%89%E3%83%B3%E3%83%BB%E3%83%AF%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89"
   },
+  "Trevon Brazile": {
+   "kana": "トレボン・ブラジル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3864/info"
+  },
+  "Trevor Keels": {
+   "kana": "トレバー・キールズ",
+   "src": "https://nba.docomo.ne.jp/stats/players/1006/info"
+  },
+  "Trey Alexander": {
+   "kana": "トレイ・アレクサンダー",
+   "src": "https://nba.docomo.ne.jp/stats/players/2512/info"
+  },
+  "Trey Jemison III": {
+   "kana": "トレイ・ジェミソン三世",
+   "src": "https://nba.docomo.ne.jp/stats/players/2369/info"
+  },
+  "Trey Kaufman-Renn": {
+   "kana": "トレイ・カウフマン・レン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3845/info"
+  },
   "Trey Lyles": {
    "kana": "トレイ・ライルズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%82%A4%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%AB%E3%82%BA"
@@ -2165,9 +3129,25 @@
    "kana": "トリスタン・ダ・シウバ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%B7%E3%82%A6%E3%83%90"
   },
+  "Tristan Enaruna": {
+   "kana": "トリスタン・エナルナ",
+   "src": "https://nba.docomo.ne.jp/stats/players/2523/info"
+  },
+  "Tristan Vukcevic": {
+   "kana": "トリスタン・ブクチェビッチ",
+   "src": "https://nba.docomo.ne.jp/stats/players/1816/info"
+  },
+  "Tristen Newton": {
+   "kana": "トリステン・ニュートン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2448/info"
+  },
   "Ty Jerome": {
    "kana": "タイ・ジェローム",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%AD%E3%83%BC%E3%83%A0"
+  },
+  "Tyler Bilodeau": {
+   "kana": "タイラー・ビロドウ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3835/info"
   },
   "Tyler Herro": {
    "kana": "タイラー・ヒーロー",
@@ -2181,9 +3161,21 @@
    "kana": "タイラー・コレック",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%AC%E3%83%83%E3%82%AF"
   },
+  "Tyler Nickel": {
+   "kana": "タイラー・ニッケル",
+   "src": "https://nba.docomo.ne.jp/stats/players/3832/info"
+  },
+  "Tyreke Key": {
+   "kana": "タイリーク・キー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3798/info"
+  },
   "Tyrese Haliburton": {
    "kana": "タイリース・ハリバートン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%90%E3%83%BC%E3%83%88%E3%83%B3"
+  },
+  "Tyrese Martin": {
+   "kana": "タイリース・マーティン",
+   "src": "https://nba.docomo.ne.jp/stats/players/970/info"
   },
   "Tyrese Maxey": {
    "kana": "タイリース・マクシー",
@@ -2197,6 +3189,14 @@
    "kana": "ティロン・ルー",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%AB%E3%83%BC"
   },
+  "Tyson Etienne": {
+   "kana": "タイソン・エティエン",
+   "src": "https://nba.docomo.ne.jp/stats/players/1038/info"
+  },
+  "TyTy Washington": {
+   "kana": "タイタイ・ワシントンJr",
+   "src": "https://nba.docomo.ne.jp/stats/players/996/info"
+  },
   "TyTy Washington Jr": {
    "kana": "タイタイ・ワシントン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3"
@@ -2209,9 +3209,17 @@
    "kana": "タイアス・ジョーンズ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%82%A2%E3%82%B9%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%B3%E3%82%BA"
   },
+  "Ugonna Onyenso": {
+   "kana": "ウゴンナ・オニエンソ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3833/info"
+  },
   "V. J. Edgecombe": {
    "kana": "VJ・エッジコム",
    "src": "https://ja.wikipedia.org/wiki/VJ%E3%83%BB%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%A0"
+  },
+  "Valdez Edgecombe": {
+   "kana": "VJ・エッジコム",
+   "src": "https://nba.docomo.ne.jp/stats/players/3382/info"
   },
   "Victor Wembanyama": {
    "kana": "ビクター・ウェンバンヤマ",
@@ -2241,13 +3249,33 @@
    "kana": "VJ・エッジコム",
    "src": "https://ja.wikipedia.org/wiki/VJ%E3%83%BB%E3%82%A8%E3%83%83%E3%82%B8%E3%82%B3%E3%83%A0"
   },
+  "Vladislav Goldin": {
+   "kana": "ブラディスラフ・ゴールディン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3440/info"
+  },
+  "Vsevolod Ishchenko": {
+   "kana": "フセヴォロド・イシチェンコ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3861/info"
+  },
   "Vít Krejčí": {
    "kana": "ヴィト・クレイチ",
    "src": "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%83%88%E3%83%BB%E3%82%AF%E3%83%AC%E3%82%A4%E3%83%81"
   },
+  "Wade Taylor IV": {
+   "kana": "ウェイド・テイラー四世",
+   "src": "https://nba.docomo.ne.jp/stats/players/4079/info"
+  },
   "Walker Kessler": {
    "kana": "ウォーカー・ケスラー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B1%E3%82%B9%E3%83%A9%E3%83%BC"
+  },
+  "Walter Clayton Jr": {
+   "kana": "ウォルター・クレイトンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3398/info"
+  },
+  "Walter Clayton Jr.": {
+   "kana": "ウォルター・クレイトンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3398/info"
   },
   "Wayne Ellington": {
    "kana": "ウェイン・エリントン",
@@ -2261,6 +3289,14 @@
    "kana": "ウェンデル・カーター・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%B3%E3%83%87%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
   },
+  "Wendell Moore Jr": {
+   "kana": "ウェンデル・モアJr",
+   "src": "https://nba.docomo.ne.jp/stats/players/1003/info"
+  },
+  "Wendell Moore Jr.": {
+   "kana": "ウェンデル・モアJr",
+   "src": "https://nba.docomo.ne.jp/stats/players/1003/info"
+  },
   "Wes Unseld Jr": {
    "kana": "ウェス・アンセルド・ジュニア",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%82%B9%E3%83%BB%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%AB%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A5%E3%83%8B%E3%82%A2"
@@ -2273,6 +3309,14 @@
    "kana": "ウィル・ハーディー",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AB%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%87%E3%82%A3%E3%83%BC"
   },
+  "Will Richard": {
+   "kana": "ウィル・リチャード",
+   "src": "https://nba.docomo.ne.jp/stats/players/3416/info"
+  },
+  "Will Riley": {
+   "kana": "ウィル・ライリー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3384/info"
+  },
   "Willie Green": {
    "kana": "ウィリー・グリーン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3"
@@ -2280,6 +3324,18 @@
   "Xavier Tillman": {
    "kana": "ゼイビア・ティルマン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%BC%E3%82%A4%E3%83%93%E3%82%A2%E3%83%BB%E3%83%86%E3%82%A3%E3%83%AB%E3%83%9E%E3%83%B3"
+  },
+  "Yang Hansen": {
+   "kana": "ヤン・ハンセン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3409/info"
+  },
+  "Yanic Konan Niederhauser": {
+   "kana": "ヤニック・コナン・ニーダーハウザー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3405/info"
+  },
+  "Yanic Konan Niederhäuser": {
+   "kana": "ヤニック・コナン・ニーダーハウザー",
+   "src": "https://nba.docomo.ne.jp/stats/players/3405/info"
   },
   "Yaxel Lendeborg": {
    "kana": "ヤクセル・レンデボーグ",
@@ -2309,6 +3365,10 @@
    "kana": "ザック・ラビーン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%83%93%E3%83%BC%E3%83%B3"
   },
+  "Zack Austin": {
+   "kana": "ザック・オースティン",
+   "src": "https://nba.docomo.ne.jp/stats/players/3650/info"
+  },
   "Zeke Nnaji": {
    "kana": "ジーク・ナジ",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%8A%E3%82%B8"
@@ -2320,6 +3380,26 @@
   "Zion Williamson": {
    "kana": "ザイオン・ウィリアムソン",
    "src": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BD%E3%83%B3"
+  },
+  "Zuby Ejiofor": {
+   "kana": "ズビー・エジオフォ",
+   "src": "https://nba.docomo.ne.jp/stats/players/3810/info"
+  },
+  "Zyon Pullin": {
+   "kana": "ザイオン・プリン",
+   "src": "https://nba.docomo.ne.jp/stats/players/2473/info"
+  },
+  "Sergio de Larrea": {
+   "kana": "セルヒオ・デ・ラレア",
+   "src": "https://nba.docomo.ne.jp/stats/players/3824/info"
+  },
+  "Morez Johnson Jr.": {
+   "kana": "モレズ・ジョンソンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3823/info"
+  },
+  "Christian Anderson": {
+   "kana": "クリスチャン・アンダーソンJr.",
+   "src": "https://nba.docomo.ne.jp/stats/players/3805/info"
   }
  }
 }
