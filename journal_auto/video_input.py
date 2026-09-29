@@ -62,11 +62,18 @@ MEDIADAY = re.compile(r"メディアデー|[Mm]edia [Dd]ay")
 FRESH_DAYS = 14          # メディアデー記事で「新しい写真」とみなす日数
 SOURCE_MAX_AGE = 200     # ⓢ: 記事の日付からこれ以上前の写真は使わない（前シーズン終盤より前＝移籍前の恐れ）
 MIN_CROP_H_SOURCE = 1000 # ⓢ: ネタ元の写真は記事の主役が確実に写っているので多少粗くても使う
-# 自動では主役の写真に届かない記事だけ、写真を名指しする（記事番号 → (画像URL, クレジット)）。
-# ネタ元がまとめページで Commons にも使える写真が無く、汎用背景に落ちた記事用。
+# 自動では主役の写真に届かない記事だけ、写真を名指しする（記事番号 → (画像URL, クレジット[, 横位置])）。
+# ネタ元がまとめページで Commons にも使える写真が無い記事や、ネタ元の写真に主役が写っていない記事用。
+# 横位置(0〜1)は主役の顔の横位置。複数人が写る写真で、顔検出が別人を拾うのを防ぐ。
 PHOTO_OVERRIDES = {
+    "295": ("https://a.espncdn.com/photo/2026/0928/r1723110.jpg", "AP Photo/Chris Szagola", 0.54),
+    "296": ("https://a.espncdn.com/photo/2023/0928/r1230782.jpg", "Troy Wayrynen/USA TODAY Sports", 0.5),
     "299": ("https://a.espncdn.com/photo/2025/0616/r1507331.jpg", "John Fisher/Getty Images"),
+    "300": ("https://a.espncdn.com/photo/2024/1218/r1429531.jpg", "Mark Blinch/NBAE via Getty Images", 0.44),
+    "302": ("https://a.espncdn.com/photo/2025/0209/r1449466.jpg", "Michael Reaves/Getty Images", 0.22),
+    "306": ("https://a.espncdn.com/photo/2026/0430/r1651520.jpg", "Jesse D. Garrabrant/NBAE via Getty Images", 0.53),
     "307": ("https://a.espncdn.com/photo/2026/0204/r1610377.jpg", "Daniel Dunn-Imagn Images"),
+    "308": ("https://a.espncdn.com/photo/2025/1004/r1555269.jpg", "Denis Poroy/Imagn Images"),
 }
 SITE_JOURNAL = os.path.join(ROOT, "site", "journal")
 NOT_SOURCE = re.compile(r"fonts\.(googleapis|gstatic)\.com|sixten\.jp|instagram\.com/sixten|"
@@ -89,8 +96,9 @@ def find_item(aid):
     raise SystemExit(f"ig_queue.json に {aid} が無い")
 
 
-def portrait_from(data, min_crop_h):
-    """写真を顔基準で 9:16 に切る。条件を満たさなければ (None, 理由)"""
+def portrait_from(data, min_crop_h, focus_x=None):
+    """写真を顔基準で 9:16 に切る。条件を満たさなければ (None, 理由)。
+    focus_x を渡すと、横の中心はその位置に固定する（顔検出は縦位置にだけ使う）"""
     im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert("RGB")
     sw, sh = im.size
     ch = min(sh, sw * 16 / 9)
@@ -98,11 +106,15 @@ def portrait_from(data, min_crop_h):
     if ch < min_crop_h:
         return None, f"切り抜き高さ{ch:.0f}px<{min_crop_h}"
     face = detect_face(im, with_size=True)
-    if not face:
+    if focus_x is not None:
+        fx = focus_x * sw
+        fy = face[1] * sh if face and abs(face[0] - focus_x) < 0.1 else FACE_Y * sh
+    elif not face:
         return None, "顔が検出できない"
-    if face[2] * sh / ch < MIN_FACE:
+    elif face[2] * sh / ch < MIN_FACE:
         return None, f"顔が小さい（{face[2] * sh / ch:.3f}<{MIN_FACE}）"
-    fx, fy = face[0] * sw, face[1] * sh
+    else:
+        fx, fy = face[0] * sw, face[1] * sh
     x = min(max(fx - cw / 2, 0), sw - cw)
     y = min(max(fy - FACE_Y * ch, 0), sh - ch)
     out = im.crop((round(x), round(y), round(x + cw), round(y + ch))).resize((W, H), Image.LANCZOS)
@@ -353,9 +365,9 @@ def template_props(video):
 def route_override(aid):
     if aid not in PHOTO_OVERRIDES:
         return None
-    img_url, credit = PHOTO_OVERRIDES[aid]
+    img_url, credit, *focus = PHOTO_OVERRIDES[aid]
     try:
-        img, how = portrait_from(http_get(img_url, 60), MIN_CROP_H_SOURCE)
+        img, how = portrait_from(http_get(img_url, 60), MIN_CROP_H_SOURCE, *focus)
     except Exception as e:
         log(f"  ⓞ 取得失敗 {img_url}: {e}")
         return None
