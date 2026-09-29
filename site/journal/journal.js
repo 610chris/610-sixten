@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "314-nba-vegas-expansion-bids.html",
+    cat: "NBA",
+    title: "NBA、ラスベガス拡張枠の入札を最終候補3グループに絞る —— 総額120億〜130億ドル規模",
+    excerpt: "NBAはラスベガスに新設する拡張枠球団のオーナー候補を、最終候補3グループに絞り込んだ。フランチャイズと新アリーナを合わせた総額は少なくとも120億〜130億ドル規模になる見込みで、リーグは年内にラスベガスとシアトルの拡張2球団について正式な承認プロセスを行う予定だという。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "313-new-balance-maxey-v1.html",
+    cat: "KICKS",
+    title: "タイリース・マクシー、New Balanceと初のシグネチャーモデル「Maxey v1」発表",
+    excerpt: "New Balanceは、フィラデルフィア・76ersのタイリース・マクシーとの初のシグネチャーモデル「Maxey v1」を発表した。パフォーマンスバスケットボールを軸にした一足だという。カラー・価格・発売日は現時点で明らかになっていない。Nice Kicksが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "312-suns-ishbia-mortgage-no-effect.html",
     cat: "NBA",
     title: "サンズ会長イシュビア「金融会社の不調、影響はゼロ」—— 保有比率、80%への積み増しも表明",
