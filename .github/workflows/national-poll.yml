@@ -8,6 +8,7 @@ name: National team poll
 # 取得・抽出の中身は journal_auto/national_poll.py。public リポジトリなので記事本文は保存せず、
 # 数字を含む文・クォーター別スコア・短いコメントだけを抜いて渡す。
 # ループ安全性: ルーチンはチェックした key を必ず seen_national.txt に追記するので、未読ゼロ→commitなし→再発火なしで収束。
+# 2026-09-30: 同じジョブで NBA 30チーム公式サイトの発表も集める（team_poll.py → team_feed.json + team_signal.txt → §1g・既読は seen_team.txt）。
 on:
   schedule:
     - cron: '40 * * * *'
@@ -37,20 +38,38 @@ jobs:
         run: |
           echo "new=false" >> "$GITHUB_OUTPUT"
           python3 journal_auto/national_poll.py
+      # 2026-09-30 追加: NBA 30チーム公式サイト（nba.com/<team>）の発表記事。取得は journal_auto/team_poll.py、
+      # 記事化は PROMPT_CLOUD.md §1g。スケジュールは日本代表と共用（同じジョブ・同じ push で1回だけルーチンを起こす）。
+      # 失敗しても日本代表側のシグナルは止めない（continue-on-error）。
+      - name: Collect NBA team official news
+        id: team
+        continue-on-error: true
+        run: |
+          echo "team_new=false" >> "$GITHUB_OUTPUT"
+          python3 journal_auto/team_poll.py
       - name: Signal via push
-        if: steps.check.outputs.new == 'true' || github.event.inputs.force == 'true'
+        if: steps.check.outputs.new == 'true' || steps.team.outputs.team_new == 'true' || github.event.inputs.force == 'true'
         run: |
           git config user.name "national-poll"
           git config user.email "actions@github.com"
-          if [ "${{ github.event.inputs.force }}" = "true" ] && [ "${{ steps.check.outputs.new }}" != "true" ]; then
+          if [ "${{ github.event.inputs.force }}" = "true" ] && [ "${{ steps.check.outputs.new }}" != "true" ] && [ "${{ steps.team.outputs.team_new }}" != "true" ]; then
             git commit --allow-empty -m "national-poll: 疎通テスト(force)"
           else
-            cp /tmp/new_national.txt journal_auto/national_signal.txt
-            git add journal_auto/national_signal.txt journal_auto/national_feed.json
+            msg=""
+            if [ "${{ steps.check.outputs.new }}" = "true" ]; then
+              cp /tmp/new_national.txt journal_auto/national_signal.txt
+              git add journal_auto/national_signal.txt journal_auto/national_feed.json
+              msg="日本代表の試合記事"
+            fi
+            if [ "${{ steps.team.outputs.team_new }}" = "true" ]; then
+              cp /tmp/new_team.txt journal_auto/team_signal.txt
+              git add journal_auto/team_signal.txt journal_auto/team_feed.json
+              msg="${msg:+$msg・}NBAチーム公式発表"
+            fi
             if git diff --cached --quiet; then
               echo "signal unchanged — 前回シグナルが未処理のまま。毎時ルーチンに任せてスキップ"
               exit 0
             fi
-            git commit -m "national-poll: 日本代表の試合記事 新着シグナル"
+            git commit -m "national-poll: ${msg} 新着シグナル"
           fi
           git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }
