@@ -101,7 +101,7 @@ body.menu-open .burger i:nth-child(3){top:17px;transform:rotate(-45deg)}
 section{position:relative;padding:clamp(80px,12vw,150px) clamp(16px,4vw,48px)}
 .wrap{max-width:1280px;margin:0 auto}
 .sec-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;margin-bottom:clamp(36px,5vw,64px);flex-wrap:wrap}
-.eyebrow{font-family:var(--display);letter-spacing:.32em;font-size:14px;color:var(--pink);display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.eyebrow{font-family:var(--display);letter-spacing:.32em;font-size:14px;color:var(--pink);display:flex;flex-wrap:wrap;align-items:center;gap:6px 12px;margin-bottom:12px}
 .eyebrow::before{content:"";width:28px;height:2px;background:currentColor}
 .sec-title{font-family:var(--display);font-weight:400;font-size:clamp(52px,9vw,128px);line-height:.88;letter-spacing:.01em}
 .sec-title .o{color:transparent;-webkit-text-stroke:1.5px rgba(255,255,255,.55)}
@@ -203,6 +203,9 @@ a.game{display:block;color:inherit}
 .coach-stats b{display:block;font-family:var(--display);font-weight:400;font-size:clamp(34px,4vw,52px);line-height:1;background:linear-gradient(90deg,var(--teal),var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
 .coach-stats b i{font-style:normal;font-family:var(--jp);font-size:.45em}
 .coach-stats span{font-size:12px;color:var(--mute);line-height:1.5;display:block;margin-top:6px}
+.coach-stats b span{font-size:inherit;color:inherit;line-height:inherit;display:inline;margin:0}
+.coach>*,.coach-stats>div{min-width:0}
+.nw{white-space:nowrap}
 .sns{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
 .sns a{font-family:var(--display);letter-spacing:.16em;font-size:14px;padding:10px 16px;border:1px solid var(--line);transition:.25s}
 .sns a:hover{border-color:var(--pink);background:rgba(226,59,114,.12)}
@@ -286,6 +289,7 @@ footer{background:#040406;padding:70px clamp(16px,4vw,48px) 30px;border-top:1px 
 .ep p{padding:14px 16px 18px;font-size:14px;font-weight:700;line-height:1.6}
 .eps .ep:first-child{grid-column:span 2}
 .eps .ep:first-child p{font-size:clamp(16px,1.6vw,22px)}
+@media (min-width:1081px){.eps .ep:first-child{display:grid;grid-template-columns:1.3fr 1fr}.eps .ep:first-child .ep-th{aspect-ratio:auto;height:100%}.eps .ep:first-child p{align-self:center;padding:18px 22px}}
 /* ---------- LANG ---------- */
 html[data-lang="ja"] [lang="en"],html[data-lang="en"] [lang="ja"]{display:none}
 .lang{display:flex;border:1px solid var(--line);margin-left:auto;margin-right:14px}
@@ -299,7 +303,7 @@ html[data-lang="ja"] [lang="en"],html[data-lang="en"] [lang="ja"]{display:none}
 .perk span{font-size:13px;color:#cfcdd6;line-height:1.7}
 #partners p.small{font-size:12px;color:var(--mute);margin:18px auto 0}
 @media (max-width:1080px){.eps{grid-template-columns:repeat(2,1fr)}.perks{grid-template-columns:repeat(6,1fr)}.perk{grid-column:span 2}.perk:nth-child(n+4){grid-column:span 3}}
-@media (max-width:560px){.eps{grid-template-columns:1fr}.eps .ep:first-child{grid-column:auto;grid-row:auto}.perks{grid-template-columns:1fr 1fr}.perks .perk{grid-column:auto}#partners .perks>.perk:last-child{grid-column:1/-1}.coach-stats{grid-template-columns:1fr 1fr 1fr}.coach-stats b{font-size:28px}}
+@media (max-width:560px){.eps{grid-template-columns:1fr}.eps .ep:first-child{grid-column:auto;grid-row:auto}.perks{grid-template-columns:1fr 1fr}.perks .perk{grid-column:auto}#partners .perks>.perk:last-child{grid-column:1/-1}.coach-stats{grid-template-columns:repeat(3,minmax(0,1fr))}.coach-stats div{padding:14px 10px}.coach-stats b{font-size:28px}}
 
 /* ---------- 改行 ---------- */
 body{text-wrap:pretty}
@@ -487,7 +491,7 @@ body{text-wrap:pretty}
       <div class="eyebrow">COACHING STAFF<span class="jp-sub" lang="ja">コーチングスタッフ</span></div>
       <div class="role">HEAD COACH</div>
       <h3>HALLELUJAH<small>ハレルヤ</small></h3>
-      <p class="coach-lead"><span lang="ja">Bリーグの現場でビデオ・スカウティング・スキル育成を担い、YouTube『Be a baller』でコーチ目線のNBA戦術を発信するタクティシャン。アジアの舞台で、テングスの戦い方を設計する。</span><span lang="en">A tactician who worked in B.LEAGUE video, scouting and skill development, and breaks down NBA tactics from a coach's eye on his YouTube channel "Be a baller". Now he designs how the Tengus compete in Asia.</span></p>
+      <p class="coach-lead"><span lang="ja">Bリーグの現場でビデオ・スカウティング・スキル育成を担い、YouTube<span class="nw">『Be a baller』</span>でコーチ目線のNBA戦術を発信するタクティシャン。アジアの舞台で、テングスの戦い方を設計する。</span><span lang="en">A tactician who worked in B.LEAGUE video, scouting and skill development, and breaks down NBA tactics from a coach's eye on his YouTube channel <span class="nw">"Be a baller"</span>. Now he designs how the Tengus compete in Asia.</span></p>
       <div class="coach-stats">
         <div><b><span lang="ja">10.1<i>万</i></span><span lang="en">101<i>K</i></span></b><span lang="ja">YouTube登録者</span><span lang="en">YouTube subs (101K)</span></div>
         <div><b>2</b><span lang="ja">Bリーグクラブ</span><span lang="en">B.LEAGUE clubs</span></div>
@@ -515,10 +519,10 @@ body{text-wrap:pretty}
 <section id="documentary">
   <div class="wrap">
     <div class="sec-head reveal">
-      <div><div class="eyebrow">ON YOUTUBE · BE A BALLER<span class="jp-sub" lang="ja">密着ドキュメンタリー</span></div><h2 class="sec-title">THE ROAD<br><span class="o">TO ASIA</span></h2></div>
+      <div><div class="eyebrow"><span class="nw">ON YOUTUBE · BE A BALLER</span><span class="jp-sub" lang="ja">密着ドキュメンタリー</span></div><h2 class="sec-title">THE ROAD<br><span class="o">TO ASIA</span></h2></div>
       <a class="more" href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">WATCH ON YOUTUBE</a>
     </div>
-    <p class="doc-lead reveal"><span lang="ja">ヘッドコーチ・ハレルヤのYouTubeチャンネル『Be a baller』で、テングスのアジアトーナメント挑戦を追うドキュメンタリーシリーズ「アジアトーナメント」を配信中。チーム結成から中国・成都での戦いまで、ベンチの中の言葉をそのまま届ける。</span><span lang="en">Head coach Hallelujah's YouTube channel "Be a baller" follows the Tengus' run at The Asian Tournament in the documentary series "Asian Tournament" — from forming the team to the games in Chengdu, with every word from the bench left in.</span></p>
+    <p class="doc-lead reveal"><span lang="ja">ヘッドコーチ・ハレルヤのYouTubeチャンネル<span class="nw">『Be a baller』</span>で、テングスのアジアトーナメント挑戦を追うドキュメンタリーシリーズ「アジアトーナメント」を配信中。チーム結成から中国・成都での戦いまで、ベンチの中の言葉をそのまま届ける。</span><span lang="en">Head coach Hallelujah's YouTube channel <span class="nw">"Be a baller"</span> follows the Tengus' run at The Asian Tournament in the documentary series "Asian Tournament" — from forming the team to the games in Chengdu, with every word from the bench left in.</span></p>
     <div class="eps">
       <a class="ep reveal" href="https://www.youtube.com/watch?v=tpg34LJrIHU" target="_blank" rel="noopener">
         <div class="ep-th"><img src="https://i.ytimg.com/vi/tpg34LJrIHU/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.0</span><span class="play"></span></div>
