@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "327-maxey-76ers-judged-by-winning.html",
+    cat: "NBA",
+    title: "マクシー「勝つことで判断されたい」—— 76ersキャンプ2日目、キャリアハイ翌季も個人成績にこだわらず",
+    excerpt: "フィラデルフィア・76ersのタイリース・マクシーは現地時間9月30日、トレーニングキャンプ2日目の練習後に「勝つことで判断されたい」と語った。平均28.3得点でキャリアハイを記録した昨シーズンに続き、個人成績よりチームの勝敗を最優先する考えを明らかにした。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "326-jordan-jersey-record-auction.html",
     cat: "NBA",
     title: "ジョーダンの「ラストダンス」第3戦ジャージが1226万ドルで落札 —— NBAジャージ史上最高額を更新",
