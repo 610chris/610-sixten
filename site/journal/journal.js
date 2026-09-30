@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "320-sga-mvp-threepeat.html",
+    cat: "NBA",
+    title: "ギルジャス＝アレクサンダー「MVPの決定なんて82試合先の話」—— 史上初の3連覇へ、冷静に開幕を待つ",
+    excerpt: "サンダーのシェイ・ギルジャス＝アレクサンダーは現地時間9月28日のメディアデーで、史上初となるMVP3年連続受賞の可能性を問われ「MVPの決定なんて、文字通り82試合先の話だ」と述べた。ESPNの事前予想では受賞確率4位。3連覇は1984〜86年のラリー・バード以来40年ぶりの快挙となる。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "319-kawhi-leonard-raptors-media-day.html",
+    cat: "NBA",
+    title: "カワイ「自分が騒動の種になっていた」—— ラプターズ加入後初のメディアデーで、調査には触れず前進を選ぶ",
+    excerpt: "トロント・ラプターズのカワイ・レナードは現地時間9月28日、移籍後初のメディアデーでNBAとNBA選手会が進める調査について問われ、「自分は70日間、騒動の種になっていた」と述べた上で、詳細には触れずラプターズでの新シーズンに集中する考えを示した。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "318-chiba-sky-wings-3x3-miyako.html",
     cat: "JAPAN",
     title: "CHIBA SKY WINGS女子、3x3宮古大会で優勝 —— 21-17で決勝制し日本選手権への出場権",
