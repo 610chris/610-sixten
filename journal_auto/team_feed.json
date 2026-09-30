@@ -1,10 +1,38 @@
 {
- "updated_utc": "2026-09-29 23:10 UTC",
- "teams_ok": 29,
- "teams_failed": [
-  "GSW"
- ],
+ "updated_utc": "2026-09-30 08:58 UTC",
+ "teams_ok": 30,
+ "teams_failed": [],
  "posts": [
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/caleb-wilson-doesnt-carry-himself-like-the-average-nba-rookie",
+   "url": "https://www.nba.com/bulls/news/caleb-wilson-doesnt-carry-himself-like-the-average-nba-rookie",
+   "canonical_url": "https://bulls.com/news/caleb-wilson-doesnt-carry-himself-like-the-average-nba-rookie",
+   "title": "Caleb Wilson doesn't carry himself like the average NBA rookie",
+   "author": "Sam Smith",
+   "published_utc": "2026-09-30T02:46:06Z",
+   "tags": [],
+   "summary": "We’ve seen the athletic ability, the confidence and self assurance, and the skills. The draft whisper was Caleb Wilson couldn’t shoot. So he became one of the best three-point shooters in Summer League. He shows you, and maybe you began to think a little Derrick Rose. And he plays the entire court, handling the ball, passing and leading with an edge. And then maybe we add a dash, just maybe a spri…",
+   "facts": [
+    "And join me in a cringe remembering some of the things we did and said at 19.",
+    "But even for Michael Jordan it took more than putting up those 50s and letting opponents know.",
+    "Here’s now a 6-foot-10 kid who just turned 20 years old being fitted with the makeup that paints him as the coming face of the franchise.",
+    "Consider that a great long distance shooter misses 60 percent of the time.",
+    "Yet, in this whirlpool of emotion and angst, you are expected to maintain certainty and dignity.",
+    "And that as good as you are, if you average 25 points there’s still 75 more to find.",
+    "Everybody knows I work hard and I’m excited for that opportunity to possibly get 20-point games and things like that."
+   ],
+   "quotes": [
+    "Just controlling what I can control and making sure that in every situation I'm kind of above it,",
+    "I really focus on controlling what I can control,",
+    "I thought it was corny at first,",
+    "Then I actually started to read into it and I felt like it was going to be really big for me because going into the NBA and going to all these new things so quickly, there's a lot of times we'll have …"
+   ]
+  },
   {
    "source": "CHA 公式（nba.com）",
    "team": "CHA",
@@ -38,6 +66,32 @@
     "I think we went out and acquired some veterans that are going to bring something to both sides of the ball,",
     "They’ve all played at a high level offensively and defensively throughout their careers. I think that we’ve also done a great job of bringing in some young talent through the draft with our two-ways, …"
    ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "quotes",
+   "key": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
+   "url": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
+   "canonical_url": "https://warriors.com/news/sights-and-sounds-2026-27-warriors-media-day",
+   "title": "Sights and Sounds: 2026-27 Warriors Media Day",
+   "author": "gswgrizzo",
+   "published_utc": "2026-09-29T23:10:00Z",
+   "tags": [
+    "2026 Media Day"
+   ],
+   "summary": "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday. Check out the sights and sounds from the exciting day.",
+   "facts": [
+    "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday.",
+    "Draymond Green is ready to get his 15th season as a Dub underway.",
+    "Resigning to the Warriors in the offseason, veteran Al Horford, will begin his 20th NBA season wearing blue and gold.",
+    "The Warriors 11th draft pick, Yaxel Lendeborg, flagged down the longest-tenured player on the roster, Stephen Curry, for an iconic photo before their first season as teammates.",
+    "Georges Niang suited up in Warriors threads for the first time at Media Day, wearing No. 32.",
+    "The forward signed during the summer and his starting his 10th NBA season."
+   ],
+   "quotes": []
   },
   {
    "source": "UTA 公式（nba.com）",
@@ -184,7 +238,8 @@
     "Garza stretches the floor in the pick-and-pop – he was the league’s most efficient 3-point shooting center last season – while also providing interior scoring, rebounding, energy, and constant hustle.",
     "Williams, a sophomore 7-footer, gives Boston a different dimension with his playmaking and ability to facilitate from the high post, along with his screening, rebounding, and interior defense.",
     "The 7-footer arrives in Boston as the league’s second all-time leading offensive rebounder on a per-minute basis behind only Jayson Williams.",
-    "Cenac is the developing jack-of-all-trades of the big man rotation, combining athleticism and mobility with rim protection, rebounding, lob-catching ability, and a growing perimeter game."
+    "Cenac is the developing jack-of-all-trades of the big man rotation, combining athleticism and mobility with rim protection, rebounding, lob-catching ability, and a growing perimeter game.",
+    "After spending just a short amount of time around the group, the 6-foot-11 19-year-old already has the attention of his teammates."
    ],
    "quotes": [
     "I think our Big Fella University is pretty exciting,",
@@ -483,6 +538,38 @@
     "This summer was a big summer for us to keep all of the same guys in the same building.",
     " and what that represents. ",
     "Being together working out, doing some events together, or getting together not even in Phoenix. That's special."
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "quotes",
+   "key": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "url": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "canonical_url": "https://warriors.com/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "title": "Top Quotes from Warriors 2026 Media Day",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-09-29T01:35:14Z",
+   "tags": [
+    "2026 Media Day",
+    "Warriors Talk"
+   ],
+   "summary": "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday. Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season. Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise f…",
+   "facts": [
+    "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday.",
+    "Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season.",
+    "Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise for the foreseeable future.",
+    "Butler detailed his ongoing recovery from a torn ACL and said he expects to be the same player, or maybe “even a little better,” when he returns.",
+    "We want to go for a top-3 defense in this league.",
+    "Some would say we want to go for the best defense in the league, but I think ultimately just starting, you know, trying to get top-3 week after week, and I think weeks will start to add up. - De’Anthony Melton on the add…"
+   ],
+   "quotes": [
+    "It got to a point where it all made sense for both sides. For me, clarity of mind for the next two, three years, and then with some optionality on, trying to put us in a position to have room and to b…",
+    "I'm not altering anything. I don't care what anybody says. I always tell Steph and Dray, if I'm up there, throw the ball, because I really think I'm a wide receiver. One of my favorite athletes of all…",
+    "Every day we walk in here, we must be on a trajectory of putting together a great project, and if you put together a great project, when you get to the end of it, regardless of what the result is, you…",
+    "I would say playing meaningful minutes. You know, when the game is on the line, I want to be the guy on the court trying to make a play on defense or offense, whatever it has to come to. Then, hopeful…"
    ]
   },
   {
@@ -1276,6 +1363,34 @@
    "quotes": []
   },
   {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "roster",
+   "key": "https://www.nba.com/warriors/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
+   "url": "https://www.nba.com/warriors/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
+   "canonical_url": "https://warriors.com/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
+   "title": "Warriors Announce Roster And Schedule For 2026 Training Camp, Presented By Gatorade",
+   "author": "Golden State Warriors",
+   "published_utc": "2026-09-27T20:00:00Z",
+   "tags": [
+    "2026 Training Camp"
+   ],
+   "summary": "The Golden State Warriors have announced their training camp roster and schedule ahead of the team’s 2026 Training Camp, presented by Gatorade. Golden State has signed free agent guard Miles Kelly, guard Dalen (DAY-lynn) Terry and forward Alex Toohey (TOO-Ee) to contracts, it was also announced today. Per NBA policy, teams are allowed to roster a maximum of 21 players during the offseason and trai…",
+   "facts": [
+    "The Golden State Warriors have announced their training camp roster and schedule ahead of the team’s 2026 Training Camp, presented by Gatorade.",
+    "Golden State has signed free agent guard Miles Kelly, guard Dalen (DAY-lynn) Terry and forward Alex Toohey (TOO-Ee) to contracts, it was also announced today.",
+    "Per NBA policy, teams are allowed to roster a maximum of 21 players during the offseason and training camp.",
+    "Golden State’s Opening Night roster will be finalized by 2 p.m. on Monday, October 19.",
+    "Cannon Activities Center on the campus of BYU-Hawaii on Tuesday, September 29, and will run through Saturday, October 3.",
+    "The Warriors will tip off their six-game preseason schedule against the Los Angeles Clippers on Sunday, October 4 (4 p.m. tip-off), at Bankoh Arena at Stan Sheriff Center on the University of Hawaii campus in Honolulu, b…",
+    "Kelly, 23, appeared in 14 games (all as a reserve) in his rookie season with the Dallas Mavericks last year, averaging 3.1 points, 1.7 rebounds and 0.9 assists in 9.6 minutes per game.",
+    "Unselected in the 2025 NBA Draft, Kelly averaged 11.2 points, 3.5 rebounds and 1.2 assists in 27.0 minutes per game across 133 appearances (96 starts) over four collegiate seasons at Georgia Tech and Auburn."
+   ],
+   "quotes": []
+  },
+  {
    "source": "MIN 公式（nba.com）",
    "team": "MIN",
    "team_ja": "ティンバーウルブズ",
@@ -1412,40 +1527,6 @@
     "Dillingham holds career averages of 5.5 points (41.1 FG%, 32.4 3P%, 70.0 FT%), 1.6 rebounds and 2.1 assists in 13.0 minutes per game, compiling 114 career appearances (one start) between Minnesota and Chicago."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "roster",
-   "key": "https://www.nba.com/mavs/news/kyrie-irving-had-to-hit-re-set-button-in-order-to-extend-his-basketball-career",
-   "url": "https://www.nba.com/mavs/news/kyrie-irving-had-to-hit-re-set-button-in-order-to-extend-his-basketball-career",
-   "canonical_url": "https://mavs.com/mavs/news/kyrie-irving-had-to-hit-re-set-button-in-order-to-extend-his-basketball-career",
-   "title": "Kyrie Irving had to hit reset button in order to extend basketball career",
-   "author": "Dwain Price",
-   "published_utc": "2026-09-27T00:03:52Z",
-   "tags": [
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "As he was going through the painstaking process of rehabilitating his surgically repaired left knee, Dallas Mavericks guard Kyrie Irving knew one of the first things he had to do to extend his basketball career was hit the reset button.",
-   "facts": [
-    "This is for all my brothers and sisters that have dealt with traumatic injuries or something in their life where you’re going to come back different.",
-    "It was the first training camp Irving was able to fully participate in since 2024.",
-    "The 16-year veteran has been sidelined since tearing the anterior cruciate ligament in his left knee during a game against the Sacramento Kings on March 3, 2025.",
-    "And as he reflected back on the past 18 months, he recalled the setbacks, the times sitting on the couch while wondering if his basketball career had reached its conclusion.",
-    "Nobody goes into sports and wants to get surgery and then try to come back.",
-    "When guys go through surgery, they’re not coming off that surgery table the same.",
-    "And when guys don’t come back and return, it’s not time to throw more on them."
-   ],
-   "quotes": [
-    "There are a lot of stories of guys who were supposed to continue on for 20-plus years and could not because they were on that surgery table,",
-    "Most of the time everybody just assumes that we’re tough and we just can handle everything,",
-    "I really feel for guys out there, even more so now, because when I say it to myself, I’m like, ‘Yeah, I’m different. But this gives me an opportunity to go out and prove something greater.’ And that’s…",
-    "I just think we need to take, in our industry, a little bit more serious. When guys go through surgery, they’re not coming off that surgery table the same. The rehab is going to be crappy, it’s going …"
-   ]
   }
  ]
 }
