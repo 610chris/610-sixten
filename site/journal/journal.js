@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "328-towns-knicks-pay-cut-andrews.html",
+    cat: "NBA",
+    title: "タウンズ、契約延長で\"減俸\"は受け入れる構え —— ニックスの提示額は「妥当ではない」とアンドリュース記者",
+    excerpt: "ニューヨーク・ニックスのカール＝アンソニー・タウンズは、契約延長交渉でジェイレン・ブランソンに続く減俸を受け入れる用意がある一方、球団側が求める減俸幅は妥当ではないと受け止めていることが分かった。ESPNのマリカ・アンドリュース記者が現地時間9月29日、番組「NBA Today」で伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-328-hero.jpg?v=eef9cf375c"
+  },
+  {
     href: "327-maxey-76ers-judged-by-winning.html",
     cat: "NBA",
     title: "マクシー「勝つことで判断されたい」—— 76ersキャンプ2日目、キャリアハイ翌季も個人成績にこだわらず",
