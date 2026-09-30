@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "322-quest-kawasaki-brave-thunders-partner.html",
+    cat: "JAPAN",
+    title: "クエスト、川崎ブレイブサンダースとオフィシャルパートナー契約 —— 2026-27シーズンから地域活性化を支援",
+    excerpt: "ITコンサルティング事業を手がける株式会社クエスト（東証スタンダード上場）は、B.LEAGUE PREMIER所属・川崎ブレイブサンダースと2026-27シーズンからのオフィシャルパートナー契約を締結したと発表した。グループ会社が長年続けてきた支援をクエストが引き継ぐ形で、公式サイトへのロゴ掲出や会場広告を通じ、クラブと地域社会とのつながりを深めるとしている。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "321-nba-push-off-officiating.html",
     cat: "NBA",
     title: "NBA、プッシュオフ厳格化へ新指針「4つのF」—— ジョーダンの伝説のシュートも新基準では反則にならず",
