@@ -1,10 +1,143 @@
 {
- "updated_utc": "2026-09-30 16:03 UTC",
- "teams_ok": 29,
+ "updated_utc": "2026-09-30 20:58 UTC",
+ "teams_ok": 23,
  "teams_failed": [
-  "GSW"
+  "HOU",
+  "LAC",
+  "PHX",
+  "TOR",
+  "UTA",
+  "WAS",
+  "CHA"
  ],
  "posts": [
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/features-jaylon-tyson-260930",
+   "url": "https://www.nba.com/cavaliers/news/features-jaylon-tyson-260930",
+   "canonical_url": "https://cavs.com/news/features-jaylon-tyson-260930",
+   "title": "Jaylon Tyson is Ready for the Next Step in his NBA Career",
+   "author": "clejgabriele",
+   "published_utc": "2026-09-30T20:03:13Z",
+   "tags": [
+    "2026 Training Camp",
+    "2026-27 Season"
+   ],
+   "summary": "After a quiet rookie season, Tyson put himself on the NBA map as a sophomore – finishing 4th in the league in long-distance shooting and quadrupling his scoring average from one year to the next.",
+   "facts": [
+    "After a quiet rookie season, Tyson put himself on the NBA map as a sophomore – finishing 4th in the league in long-distance shooting and quadrupling his scoring average from one year to the next.",
+    "The 20th overall pick out of Cal in 2024 put together a strong Training Camp one year ago in Florida and worked his way into the starting lineup by opening night.",
+    "And after getting off to a slow start, posting four straight games of single-digit showings, he notched double-figure scoring in the next five straight and would eventually go on to tally 46 on the year – with eight 20-p…",
+    "From early January to early February, Tyson scored in double-figures in 15 straight games.",
+    "The Texas native improved his scoring average from 3.6 PPG as a rookie to 13.2 PPG as a sophomore.",
+    "His biggest night came in a January 16 victory over Philly – scoring a career-high 39 points, going 13-for-17 from the floor, including 7-of-9 from deep and 6-of-6 from the stripe, becoming just the third player in team …",
+    "A foot injury in late March sidelined Tyson for 10 games just as Max Strus was returning from a foot injury of his own, and although he closed out the regular season with a pair of double-digit scoring performances, stru…",
+    "In 17 postseason outings, all coming off the bench, Tyson averaged just 4.1 PPG on 36 percent shooting, 24 percent from long-range."
+   ],
+   "quotes": [
+    "I feel like every summer that I've been in the NBA has been a little bit different – this year was different than last year and, obviously, last year was different than my rookie year,",
+    "We talked through things, talked about having a plan. I know my triggers; I know what keeps me happy. We talked about good things, we talked about bad things, you know, and you try to figure out how t…",
+    "I mean, I didn't surprise myself at all,",
+    "Now that I have a year under my belt and some confidence and understanding what (the league) is about,"
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "feature",
+   "key": "https://www.nba.com/heat/news/knox-hydration-named-official-electrolyte-beverage-of-the-miami-heat",
+   "url": "https://www.nba.com/heat/news/knox-hydration-named-official-electrolyte-beverage-of-the-miami-heat",
+   "canonical_url": "https://heat.com/news/knox-hydration-named-official-electrolyte-beverage-of-the-miami-heat",
+   "title": "KNOX Hydration Named Official Electrolyte Beverage of the Miami HEAT",
+   "author": "Miami HEAT",
+   "published_utc": "2026-09-30T19:09:20Z",
+   "tags": [],
+   "summary": "KNOX Hydration, the performance hydration brand trusted by elite athletes and everyday consumers around the world, today announced a landmark five-year partnership with the Miami HEAT, becoming the Official Functional Sports Beverage of the Miami HEAT.",
+   "facts": [],
+   "quotes": [
+    "This partnership with the Miami HEAT is a defining moment for KNOX,",
+    "As we launch in the United States, aligning with one of the world's premier sports organizations demonstrates our commitment to building KNOX as a truly global performance brand. The HEAT's culture of…",
+    "KNOX Hydrate has exploded onto the global scene through innovation and technology, two of our primary tenets as an organization",
+    "We're proud to enter into this partnership with KNOX and excited for our fans to enjoy a beverage that is reshaping the functional sports beverage industry."
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "feature",
+   "key": "https://www.nba.com/heat/news/coup-finding-identity-for-new-heat-giannis-bam-spoelstra-preview",
+   "url": "https://www.nba.com/heat/news/coup-finding-identity-for-new-heat-giannis-bam-spoelstra-preview",
+   "canonical_url": "https://heat.com/news/coup-finding-identity-for-new-heat-giannis-bam-spoelstra-preview",
+   "title": "Who, Or What, Is This Revamped HEAT Team Going To Be?",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-09-30T17:24:48Z",
+   "tags": [
+    "CoupWords",
+    "News",
+    "Season Preview",
+    "Trending"
+   ],
+   "summary": "When you have a roster with a ton of continuity, as the Miami HEAT have had plenty of in recent years, the questions at training camp are usually pretty straightforward.",
+   "facts": [
+    "After the Antetokounmpo trade with Milwaukee, which also brought in Bobby Portis, and subsequent additions of Tim Hardaway Jr. and Klay Thompson, the general idea was that the unique, explosive offensive system that Erik…",
+    "Instead, they spaced the floor with plenty of rotation and relocation, to create lanes for the most drives and most isolations per 100 possessions.",
+    "We’re going to get so many easy looks, get the scoreboard up to 110, 120 each night, which gives you a chance to win, and we’re going to guard.",
+    "First in drives, No. 13 in drive efficiency.",
+    "First in isolations, No. 13 in isolation efficiency.",
+    "First in points per game, No. 12 in offensive efficiency.",
+    "Still a major jump from the previous season’s No. 21 offensive ranking, but against the best defenses the system couldn’t overcome the lack of elite, All-NBA talent doing the creating within it.",
+    "Antetokounmpo has averaged a 35 percent usage rate."
+   ],
+   "quotes": [
+    "There are things we did last year that make a lot of sense for Giannis, but also all the guys coming in,",
+    "There will certainly be some principles that we’ll lean on from last year. In many ways it was great that we were able to go through that for a season, we learned a lot last year and we’ll see how it …",
+    "Having a coach like that, you don’t worry about nothing. You worry about your job, he’s going to have your back and our offense and defense looking sharp.",
+    "It just fits well with the new guys coming in"
+   ]
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/mikecheck-how-do-grizzlies-define-success-on-day-1-of-camp",
+   "url": "https://www.nba.com/grizzlies/news/mikecheck-how-do-grizzlies-define-success-on-day-1-of-camp",
+   "canonical_url": "https://grizzlies.com/news/mikecheck-how-do-grizzlies-define-success-on-day-1-of-camp",
+   "title": "MikeCheck: How do Grizzlies define success on Day 1 of camp?",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-09-30T17:00:00Z",
+   "tags": [
+    "Grind City Media",
+    "Michael Wallace",
+    "Mike Check",
+    "Press Room"
+   ],
+   "summary": "NASHVILLE – Defined culture. Determined identity. Decisive lane.",
+   "facts": [
+    "This time a year ago, O-Max arrived on a two-way developmental deal, performed and persevered through an injury-riddled season for the Grizzlies, and was ultimately promoted to a standard NBA contract.",
+    "It started with president of basketball operations Zach Kleiman “picking a lane” that redirected toward a younger build after a series of trades in which the Grizzlies moved on from Desmond Bane, Jaren Jackson Jr. and Ja…",
+    "Those deals returned a bevy of draft capital, financial flexibility and quality rotation players, including last year’s offseason addition of guard Ty Jerome and this summer’s acquisitions of Jerami Grant, Isaiah Stewart…",
+    "The Grizzlies open the season Oct. 21 at FedExForum against the Jazz.",
+    "And that’s by design for a team that held its first practice Tuesday with a league-maximum of 21 players on the training camp roster.",
+    "NBA rules limit teams to 15 players on standard contracts, plus up to three additional roster spots for prospects on two-way developmental deals.",
+    "Edey, coming off ankle and elbow surgery after playing just 11 games last season, is cleared for full-speed basketball activities in camp as the 7-foot-4 third-year center ramps up."
+   ],
+   "quotes": [
+    "Success for us means we’re building and growing every single day,",
+    "I’m my own biggest critic,",
+    "In order to have a good training camp, we also need to have guys competing in practice and that will reveal what the current depth chart is,",
+    "But it’s not written in stone. We have decisions to make because we have a lot of candidates who are in very similar situations. We’ve got to take a look at who takes those steps forward. It’ll also b…"
+   ]
+  },
   {
    "source": "MIA 公式（nba.com）",
    "team": "MIA",
@@ -90,37 +223,6 @@
    "quotes": []
   },
   {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/why-is-j-b-bickerstaff-so-sure-the-pistons-wont-lose-identity-it-helps-to-have-no-2",
-   "url": "https://www.nba.com/pistons/news/why-is-j-b-bickerstaff-so-sure-the-pistons-wont-lose-identity-it-helps-to-have-no-2",
-   "canonical_url": "https://pistons.com/news/why-is-j-b-bickerstaff-so-sure-the-pistons-wont-lose-identity-it-helps-to-have-no-2",
-   "title": "Why is J.B. Bickerstaff so sure the Pistons won’t lose identity? It helps to have No. 2",
-   "author": "Keith Langlois",
-   "published_utc": "2026-09-30T13:34:24Z",
-   "tags": [
-    "Cade Cunningham",
-    "detroit basketball",
-    "Detroit Pistons"
-   ],
-   "summary": "If you’re wondering if a 60-win season might dull J.B. Bickerstaff’s competitive edge or if losing in the second round of the playoffs would make him less bullish on the Pistons future, rest easy.",
-   "facts": [
-    "If you’re wondering if a 60-win season might dull J.B.",
-    "In Cunningham, the Pistons have their first All-NBA first team honoree since Grant Hill in 1997.",
-    "He’s universally recognized not only as a top-10 player but also for embodying ideal leadership traits.",
-    "For all the years the Pistons endured bad luck in their lottery appearances – which is to say every time they’ve been there but one – their fate in the 2021 draft when they landed at No. 1 and won the right to draft Cunn…"
-   ],
-   "quotes": [
-    "The amount of talent that’s flooded the East and the way teams have been put together. But we don’t really give a (crap) about what anybody else is doing. We know what Pistons basketball looks like. W…",
-    "I just have no doubt about it,",
-    "I know some vets here who will talk, but he’s the one who has to do it,",
-    "That’s got to be his job. We’re here to support everybody and give our wisdom and two cents and we’ll speak when it needs to be spoken. This is Cade’s room. That’s what we need from him – as a point g…"
-   ]
-  },
-  {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
    "team_ja": "マジック",
@@ -150,6 +252,38 @@
     "Last season, he took 4.2 shots in transition per 100 possessions, second highest on the Magic behind Anthony Black, and he made a career-best 64.4 percent of his transition shots."
    ],
    "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-to-provide-new-affordability-options-for-home-games-kia-center-20260930",
+   "url": "https://www.nba.com/magic/news/orlando-magic-to-provide-new-affordability-options-for-home-games-kia-center-20260930",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-to-provide-new-affordability-options-for-home-games-kia-center-20260930",
+   "title": "Orlando Magic to Provide New Affordability Options for Home Games",
+   "author": "Dan Savage",
+   "published_utc": "2026-09-30T12:34:12Z",
+   "tags": [
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Team to offer value options on tickets, merchandise and concessions",
+   "facts": [
+    "The program will provide $20 ticket options for every game with offers launched on the first of each month.",
+    "The retail item of the game and Eighty9 Collection will be available at every game.",
+    "The item of the game includes merchandise starting at $15.",
+    "Weekly deals can also be found in the Magic Authentics team shop at Kia Center that features a $15 hat or T-shirt.",
+    "T he affordable private-label option, Eighty9 Collection, will also be available at each game in the team shop.",
+    "Concession Choices Additionally, there will be concession options in Slam Dunk section 115 and Flavors of Orlando section 218.",
+    "Those will include the Fan Favorites Value Menu featuring select food and beverage items priced between $2 and $7.",
+    "SunRail stations exist in 17 locations around Central Florida including areas in DeLand and DeBary all offering a convenient drop off right by Kia Center."
+   ],
+   "quotes": [
+    "Making Magic games accessible to every fan has always been a priority for our organization, and this season we worked closely with the DeVos family to build on that commitment,",
+    "From affordable ticket and concession options to retail merchandise deals, we want to make sure a Magic game remains within reach for families across our community. The DeVos family ownership has been…"
+   ]
   },
   {
    "source": "CHI 公式（nba.com）",
@@ -182,67 +316,30 @@
    ]
   },
   {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/new-look-hornets-intent-on-strengthening-identity",
-   "url": "https://www.nba.com/hornets/news/new-look-hornets-intent-on-strengthening-identity",
-   "canonical_url": "https://hornets.com/news/new-look-hornets-intent-on-strengthening-identity",
-   "title": "New-Look Hornets Intent On Strengthening Identity",
-   "author": "Sam Perley",
-   "published_utc": "2026-09-29T23:10:57Z",
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "quotes",
+   "key": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
+   "url": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
+   "canonical_url": "https://warriors.com/news/sights-and-sounds-2026-27-warriors-media-day",
+   "title": "Sights and Sounds: 2026-27 Warriors Media Day",
+   "author": "gswgrizzo",
+   "published_utc": "2026-09-29T23:10:00Z",
    "tags": [
-    "2026 Training Camp",
-    "Featured",
-    "Press Release"
+    "2026 Media Day"
    ],
-   "summary": "Arguably the biggest accomplishment for the Charlotte Hornets during the 2025-26 NBA campaign went beyond securing their highest win total and first postseason victory in a decade. It was finally solidifying an identity, which played a massive role in their late-season surge.",
+   "summary": "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday. Check out the sights and sounds from the exciting day.",
    "facts": [
-    "Arguably the biggest accomplishment for the Charlotte Hornets during the 2025-26 NBA campaign went beyond securing their highest win total and first postseason victory in a decade.",
-    "On the glass, they were second across the board in offensive (35.8%), defensive (72.2%) and overall (53.9%) rebounding percentages, as well as second in second-chance points scored (17.8) and third in second-chance point…",
-    "From Jan. 22 on, they ranked third in offense (120.9), sixth in defense (110.1), and second in net rating (10.8), leading to the league’s third-best overall record (28-10) behind only San Antonio and Boston.",
-    "They also tied for the NBA’s eighth-best road winning percentage overall (.561, 23-18), the highest of any team that didn’t qualify for the playoffs.",
-    "In addition to playing with more physicality, improving on their 10-18 clutch-time record – fourth-worst in the NBA (.357) – is a must for the Hornets.",
-    "According to Cleaning the Glass, the Hornets’ overall seasonal net rating of 4.9 – eighth best in the NBA – was more indicative of a 52-to-53 win team but was skewed a little by several blowout wins mixed with close loss…",
-    "Lee also mentioned lowering the team’s 28th-ranked turnover percentage (15.7%) and raising its 23rd-ranked free-throw rate (0.244 attempts per field-goal attempt) as other areas he’s planning to address.",
-    "The Hornets could also benefit from generating more deflections on defense, a category they finished last in last season (13.8)."
+    "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday.",
+    "Draymond Green is ready to get his 15th season as a Dub underway.",
+    "Resigning to the Warriors in the offseason, veteran Al Horford, will begin his 20th NBA season wearing blue and gold.",
+    "The Warriors 11th draft pick, Yaxel Lendeborg, flagged down the longest-tenured player on the roster, Stephen Curry, for an iconic photo before their first season as teammates.",
+    "Georges Niang suited up in Warriors threads for the first time at Media Day, wearing No. 32.",
+    "The forward signed during the summer and his starting his 10th NBA season."
    ],
-   "quotes": [
-    "We have an identity. We know what our absolutes are defensively and offensively,",
-    "I think we went out and acquired some veterans that are going to bring something to both sides of the ball,",
-    "They’ve all played at a high level offensively and defensively throughout their careers. I think that we’ve also done a great job of bringing in some young talent through the draft with our two-ways, …"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
-   "title": "Utah Jazz Training Camp Notebook: Prioritizing Defense, Jaren Jackson Jr.'s Communication",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-09-29T22:23:35Z",
-   "tags": [
-    "Jaren Jackson Jr.",
-    "Lauri Markkanen",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "With Media Day in the rearview mirror and training camp getting underway, the real work begins for the Utah Jazz.",
-   "facts": [
-    "Jackson Jr. only appeared in three games back in February, which resulted in a total of 42 minutes played alongside Markkanen and five minutes spent next to Keyonte George."
-   ],
-   "quotes": [
-    "It was a good atmosphere, everyone was excited,",
-    "I think everyone was ready to get out of the gate.",
-    "There was a lot of defensive work this morning,",
-    "(We need to establish) a competitive mindset, especially on the defensive side of the ball."
-   ]
+   "quotes": []
   },
   {
    "source": "NOP 公式（nba.com）",
@@ -379,7 +476,7 @@
    "key": "https://www.nba.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
    "url": "https://www.nba.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
    "canonical_url": "https://mavs.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
-   "title": "Now that he's back home, Marcus Sasser's basketball journey has come full circle",
+   "title": "Now that he's home, Marcus Sasser's basketball journey has come full circle",
    "author": "Dwain Price",
    "published_utc": "2026-09-29T19:18:59Z",
    "tags": [
@@ -387,22 +484,22 @@
     "Marcus Sasser",
     "nba"
    ],
-   "summary": "Marcus Sasser’s basketball journey has come full circle.",
+   "summary": "Marcus Sasser’s basketball journey proves that you really can come home.",
    "facts": [
-    "Growing up in the South Dallas suburb of Red Oak, Sasser was such an effective basketball player at the University of Houston that he became a first-round draft pick of the Memphis Grizzlies in 2023.",
+    "Growing up in the South Dallas suburb of Red Oak, Sasser was such a standout basketball player at the University of Houston that he became a first-round draft pick of the Memphis Grizzlies in 2023.",
     "And on draft night the crafty guard was first traded to the Boston Celtics and then to the Detroit Pistons, where he pieced together a solid career in the Motor City over the past three years.",
-    "However, as part of a six-team trade, the Pistons traded Sasser to the Dallas Mavericks on July 8, thus providing him the unique opportunity to pack his bags and come home where he’ll have the pleasure of playing in fron…",
-    "He shot a hefty 41.5 percent from beyond the three-point arc last season, which would have ranked him in the Top 10 in the league had he played the required amount of games.",
-    "His great grandfather, John Barber, was chosen on the seventh round of the 1956 NBA Draft by the Minneapolis Lakers.",
+    "Then, as part of a six-team trade, the Pistons traded Sasser to the Dallas Mavericks on July 8, providing him the unique opportunity to pack his bags and come home where he’ll have the pleasure of playing in front of his…",
+    "He shot a hefty 41.5 percent from beyond the three-point arc last season, which would have ranked him in the top 10 in the league had he played the required amount of games.",
+    "His great grandfather, John Barber, was chosen in the seventh round of the 1956 NBA Draft by the Minneapolis Lakers.",
     "Sasser’s uncle, Jason Sasser, was a second-round pick of the Sacramento Kings in 1996.",
     "And another uncle, Jeryl Sasser, was a first-round selection of the Orlando Magic in 2001.",
     "He also remembers his first time playing in American Airlines Center as he scored a game-high 24 points to lead the Pistons to a 107-89 victory over the Mavs on April 12, 2024."
    ],
    "quotes": [
     "It was exciting when I first heard the news — just coming back home to Dallas,",
-    "For me it’s a new refreshing start, so everything was just exciting and a blessing.",
+    "I talked to my parents about it and they were super-excited just to have me right up the street, basically. For me it’s a new start, so everything's exciting and a blessing.",
     "It can’t get any better than this,",
-    "I’m just here to really take advantage of it and have fun."
+    "It’s a kid’s game and we’re getting paid for it, and it’s kind of a dream come true to grow up here and play basketball in the Dallas area and then you’re playing in the NBA for the Dallas Mavericks. …"
    ]
   },
   {
@@ -506,31 +603,6 @@
    "quotes": []
   },
   {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "roster",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-announce-2026-27-training-camp-roster",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-announce-2026-27-training-camp-roster",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-announce-2026-27-training-camp-roster",
-   "title": "Charlotte Hornets Announce 2026-27 Training Camp Roster",
-   "author": "Hornets PR",
-   "published_utc": "2026-09-29T12:50:28Z",
-   "tags": [
-    "2026 Training Camp",
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "September 29, 2026 – The Charlotte Hornets today announced the team’s roster for 2026-27 training camp. The Hornets will conduct training camp at McAlister Field House on the campus of The Citadel in Charleston, S.C., for the second consecutive season. Hornets Training Camp is presented by Truist.",
-   "facts": [
-    "September 29, 2026 – The Charlotte Hornets today announced the team’s roster for 2026-27 training camp.",
-    "Charlotte’s roster stands at 21 players heading into training camp beginning today, Tuesday, Sept. 29.",
-    "Charlotte Hornets Training Camp Roster 2026-27 * denotes Two-Way contract player"
-   ],
-   "quotes": []
-  },
-  {
    "source": "DET 公式（nba.com）",
    "team": "DET",
    "team_ja": "ピストンズ",
@@ -630,62 +702,36 @@
    ]
   },
   {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
    "kind": "quotes",
-   "key": "https://www.nba.com/suns/news/biggest-themes-from-phoenix-suns-media-day",
-   "url": "https://www.nba.com/suns/news/biggest-themes-from-phoenix-suns-media-day",
-   "canonical_url": "https://suns.com/news/biggest-themes-from-phoenix-suns-media-day",
-   "title": "Biggest themes from Phoenix Suns Media Day",
-   "author": "Shane Young",
-   "published_utc": "2026-09-29T04:33:11Z",
+   "key": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "url": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "canonical_url": "https://warriors.com/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "title": "Top Quotes from Warriors 2026 Media Day",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-09-29T01:35:14Z",
    "tags": [
-    "2026-27",
-    "media day"
+    "2026 Media Day",
+    "Warriors Talk"
    ],
-   "summary": "Media Day is officially in the books, and now the Phoenix Suns will enter training camp to launch the 2026-27 NBA season.",
+   "summary": "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday. Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season. Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise f…",
    "facts": [
-    "Media Day is officially in the books, and now the Phoenix Suns will enter training camp to launch the 2026-27 NBA season.",
-    "Here are 3 main takeaways from Monday's press conferences, which you can watch and listen to here.",
-    "All of the returning players stayed in contact through their workouts at the Suns' training facility, on the court and in the weight room.",
-    "That included 12-year veteran Devin Booker, who wanted to be around as the Suns' leader.",
-    "It's extremely helpful when implementing new players and getting them acclimated with the returning core.",
-    "With center Mark Williams being out with a shoulder injury, the door is now open for minutes and increased opportunities for Maluach and Oso Ighodaro, who have developed a strong bond over the last 14 months and pushed e…",
-    "With the unfortunate injury to Mark, I think he's going to be thrown into the fire a lot more."
+    "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday.",
+    "Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season.",
+    "Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise for the foreseeable future.",
+    "Butler detailed his ongoing recovery from a torn ACL and said he expects to be the same player, or maybe “even a little better,” when he returns.",
+    "We want to go for a top-3 defense in this league.",
+    "Some would say we want to go for the best defense in the league, but I think ultimately just starting, you know, trying to get top-3 week after week, and I think weeks will start to add up. - De’Anthony Melton on the add…"
    ],
    "quotes": [
-    "We're all on the same page,",
-    "This summer was a big summer for us to keep all of the same guys in the same building.",
-    " and what that represents. ",
-    "Being together working out, doing some events together, or getting together not even in Phoenix. That's special."
+    "It got to a point where it all made sense for both sides. For me, clarity of mind for the next two, three years, and then with some optionality on, trying to put us in a position to have room and to b…",
+    "I'm not altering anything. I don't care what anybody says. I always tell Steph and Dray, if I'm up there, throw the ball, because I really think I'm a wide receiver. One of my favorite athletes of all…",
+    "Every day we walk in here, we must be on a trajectory of putting together a great project, and if you put together a great project, when you get to the end of it, regardless of what the result is, you…",
+    "I would say playing meaningful minutes. You know, when the game is on the line, I want to be the guy on the court trying to make a play on defense or offense, whatever it has to come to. Then, hopeful…"
    ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-wrapping-up-jazz-media-day",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-wrapping-up-jazz-media-day",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-wrapping-up-jazz-media-day",
-   "title": "Roundball Roundup: Wrapping up Jazz Media Day",
-   "author": "JP Chunga",
-   "published_utc": "2026-09-28T23:57:04Z",
-   "tags": [
-    "Keyonte George",
-    "Lauri Markkanen",
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos gave their takeaways from Media Day, starting with expectations (3:40), center depth (9:00), Darryn Peterson-Keyonte George (14:20), and Lauri Markkanen-Jaren Jackson Jr. (23:00).",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos gave their takeaways from Media Day, starting with expectations (3:40), center depth (9:00), Darryn Peterson-Keyonte George (14:20), and Lauri Markkanen-Jaren Jackson Jr. (23…"
-   ],
-   "quotes": []
   },
   {
    "source": "ORL 公式（nba.com）",
@@ -786,44 +832,6 @@
    ]
   },
   {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/key-takeaways-from-utah-jazz-2026-27-media-day",
-   "url": "https://www.nba.com/jazz/news/key-takeaways-from-utah-jazz-2026-27-media-day",
-   "canonical_url": "https://utahjazz.com/news/key-takeaways-from-utah-jazz-2026-27-media-day",
-   "title": "Key Takeaways from Utah Jazz 2026-27 Media Day",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-09-28T22:18:30Z",
-   "tags": [
-    "Ace Bailey",
-    "Brice Sensabaugh",
-    "Darryn Peterson",
-    "Isaiah Collier",
-    "Jaren Jackson Jr.",
-    "Keyonte George",
-    "Kyle Filipowski",
-    "Lauri Markkanen"
-   ],
-   "summary": "Excitement was in the air at the Utah Jazz practice facility Monday as the team unofficially kicked off the 2026-27 season with Media Day.",
-   "facts": [
-    "Excitement was in the air at the Utah Jazz practice facility Monday as the team unofficially kicked off the 2026-27 season with Media Day.",
-    "Brice Sensabaugh has received a lot of praise from Ainge in recent weeks, with Utah’s President of Basketball Operations claiming that the 22-year-old had a “big summer” ahead of his fourth year.",
-    "Kyle Filipowski’s offseason work was delayed due to a surgery to repair a herniated disc, an injury that prevented him from reaching his physical peak.",
-    "Although he hasn’t made his official NBA debut or turned 20 years old, Peterson has impressed his new teammates and coach.",
-    "George has expressed his excitement to play alongside the rookie in Utah’s backcourt, while Sensabaugh has come away impressed with the 19-year-old.",
-    "In the coming weeks, there will be plenty of opportunities for Peterson and the rest of his teammates to learn and gain comfort, all while the Jazz build up to opening night on Oct. 21."
-   ],
-   "quotes": [
-    "Just seeing how we go through adversity,",
-    "Throughout my years here, I’ve been through a lot of adversity, but now we have a common goal as a group.",
-    "Building relationships and trust is important,",
-    "We don’t know what’s ahead of us, but knowing that we have each other’s back, we can go through anything."
-   ]
-  },
-  {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
    "team_ja": "マーベリックス",
@@ -874,39 +882,6 @@
    "summary": "INDIANAPOLIS - The Indiana Pacers announced Monday several promotions and new hires within the Basketball Operations department. Within the coaching staff, Isaac Yacob was promoted to Assistant Coach, Jannero Pargo was promoted to Assistant Coach/Director of Player Development, Martin Tombe was promoted to Assistant Coach, Player Development, and Joel Okafor was promoted to Head Video Coordinator.…",
    "facts": [],
    "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/excited-to-take-a-step-forward-the-utah-jazz-are-ready-for-the-2026-27-season",
-   "url": "https://www.nba.com/jazz/news/excited-to-take-a-step-forward-the-utah-jazz-are-ready-for-the-2026-27-season",
-   "canonical_url": "https://utahjazz.com/news/excited-to-take-a-step-forward-the-utah-jazz-are-ready-for-the-2026-27-season",
-   "title": "“Excited to Take a Step Forward” | The Utah Jazz Are Ready for the 2026-27 Season",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-09-28T20:22:11Z",
-   "tags": [
-    "Austin Ainge",
-    "Jaren Jackson Jr.",
-    "Keyonte George",
-    "Lauri Markkanen",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "NBA fans have long come to consider Media Day the unofficial start of a new season, with players donning new uniforms, engaging content being captured, and countless quotes making the rounds on social media.",
-   "facts": [
-    "For the Utah Jazz, Monday represented a kickoff to the 2026-27 campaign, one that they hope comes with plenty of growth and further development.",
-    "Although he’s not a new face in the organization, Jackson Jr. only joined the Jazz in February and suited up for three games before undergoing knee surgery.",
-    "With the former Defensive Player of the Year only having shared the floor with Markkanen for 42 minutes and with Keyonte George for five minutes, Hardy emphasized that it’s a “new beginning ahead.” With the changes that …"
-   ],
-   "quotes": [
-    "I think we have a really long pathway ahead for this team,",
-    "It's exciting for me, because it gives them time to grow individually… but more importantly, them having time to grow in the pathway together as a team.",
-    "Anything worth achieving will have adversity,",
-    "The easiest way to navigate those things is through trust and being able to tell each other the truth. 'Raise the floor' is something we’ve used with the team from a developmental standpoint in the ho…"
-   ]
   },
   {
    "source": "DET 公式（nba.com）",
@@ -1012,37 +987,6 @@
     "Sacramento opens preseason play against the Los Angeles Lakers on Monday, Oct. 5 at Golden 1 Center before traveling to Los Angeles to face the Lakers again on Oct. 8 at Crypto.com Arena.",
     "The Kings will then face the Golden State Warriors on Oct. 10 at Chase Center before returning home to Golden 1 Center to host the Portland Trail Blazers on Oct. 13.",
     "Sacramento concludes the preseason on the road against the San Antonio Spurs on Oct. 16."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "roster",
-   "key": "https://www.nba.com/clippers/news/la-clippers-announce-2026-27-training-camp-roster",
-   "url": "https://www.nba.com/clippers/news/la-clippers-announce-2026-27-training-camp-roster",
-   "canonical_url": "https://clippers.com/news/la-clippers-announce-2026-27-training-camp-roster",
-   "title": "LA CLIPPERS ANNOUNCE 2026-27 TRAINING CAMP ROSTER",
-   "author": "LAClippers",
-   "published_utc": "2026-09-28T15:36:36Z",
-   "tags": [
-    "2026-27 Season",
-    "Bradley Beal",
-    "Cam Christie",
-    "Darius Garland",
-    "Gradey Dick",
-    "Kris Dunn",
-    "LA Clippers",
-    "Press Release"
-   ],
-   "summary": "The LA Clippers have announced their 2026-27 Training Camp roster. The team will host its Media Day today at 10:30 a.m. at Intuit Dome in Inglewood. Following Media Day, the Clippers will begin training camp at the University of Hawai'i on Tuesday, with their first preseason game on Sunday, October 4, against the Golden State Warriors at Bankoh Arena at Stan Sheriff Center. Below is the 2026 Clipp…",
-   "facts": [
-    "The LA Clippers have announced their 2026-27 Training Camp roster.",
-    "The team will host its Media Day today at 10:30 a.m. at Intuit Dome in Inglewood.",
-    "Following Media Day, the Clippers will begin training camp at the University of Hawai'i on Tuesday, with their first preseason game on Sunday, October 4, against the Golden State Warriors at Bankoh Arena at Stan Sheriff …",
-    "Below is the 2026 Clippers’ Training Camp roster:"
    ],
    "quotes": []
   },
@@ -1355,27 +1299,6 @@
    ]
   },
   {
-   "source": "WAS 公式（nba.com）",
-   "team": "WAS",
-   "team_ja": "ウィザーズ",
-   "team_id": 1610612764,
-   "kind": "roster",
-   "key": "https://www.nba.com/wizards/news/wizards-announce-2026training-camp-roster-schedule",
-   "url": "https://www.nba.com/wizards/news/wizards-announce-2026training-camp-roster-schedule",
-   "canonical_url": "https://washingtonwizards.com/news/wizards-announce-2026training-camp-roster-schedule",
-   "title": "WIZARDS ANNOUNCE 2026 TRAINING CAMP ROSTER/SCHEDULE",
-   "author": "admin",
-   "published_utc": "2026-09-27T22:10:00Z",
-   "tags": [],
-   "summary": "WASHINGTON, D.C. – The Washington Wizards announced today the team will begin training camp presented by MedStar Health on Tuesday, September 30 at the MedStar Health Performance Center.",
-   "facts": [
-    "WASHINGTON, D.C. – The Washington Wizards announced today the team will begin training camp presented by MedStar Health on Tuesday, September 30 at the MedStar Health Performance Center.",
-    "Below is the Wizards’ 21-player training camp roster as of September 27, 2026: The full training camp schedule is listed below.",
-    "Please be advised that all times are subject to change. 2026 WASHINGTON WIZARDS MEDIA DAY & TRAINING CAMP SCHEDULE The Wizards’ 2026 Preseason guide is now available at HoopsOMG.com and is also attached. *To request atte…"
-   ],
-   "quotes": []
-  },
-  {
    "source": "POR 公式（nba.com）",
    "team": "POR",
    "team_ja": "トレイルブレイザーズ",
@@ -1428,57 +1351,6 @@
     "Really just taking that aspect and implementing it into the basketball side, it helped me really just build a lot more confidence because I felt like I was at my worst last year. Really, about the bal…",
     "He makes them in practice,"
    ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-terrell-brown-jr",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-terrell-brown-jr",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-terrell-brown-jr",
-   "title": "Utah Jazz Sign Terrell Brown Jr.",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-09-27T22:00:17Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (September 27, 2026) – The Utah Jazz announced today that the team has signed guard Terrell Brown Jr. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "SALT LAKE CITY (September 27, 2026) – The Utah Jazz announced today that the team has signed guard Terrell Brown Jr.",
-    "Brown Jr. (6-3, 175, Washington) spent the 2025-26 season with the Greensboro Swarm, where he appeared in 50 games, averaging 11.9 points, 6.1 assists, 3.1 rebounds, and 1.2 steals, helping Greensboro to a G League Champ…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "roster",
-   "key": "https://www.nba.com/timberwolves/news/timberwolves-announce-roster-and-schedule-for-2026-27-training-camp",
-   "url": "https://www.nba.com/timberwolves/news/timberwolves-announce-roster-and-schedule-for-2026-27-training-camp",
-   "canonical_url": "https://timberwolves.com/news/timberwolves-announce-roster-and-schedule-for-2026-27-training-camp",
-   "title": "Timberwolves Announce Roster and Schedule for 2026-27 Training Camp",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-09-27T17:23:40Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "Minneapolis/St. Paul – The Minnesota Timberwolves today finalized the team’s 2026-27 Training Camp roster by signing forwards KJ Martin, Norchad Omier (Oh-MEER) and Drew Timme and guard Antonio Reeves. Per team policy, terms of the agreements were not released. The team’s roster stands at 21 players.",
-   "facts": [
-    "Paul – The Minnesota Timberwolves today finalized the team’s 2026-27 Training Camp roster by signing forwards KJ Martin, Norchad Omier (Oh-MEER) and Drew Timme and guard Antonio Reeves.",
-    "The team’s roster stands at 21 players.",
-    "Martin, 6-6, has played in 309 games (77 starts) across his NBA career with the Houston Rockets, LA Clippers, Philadelphia 76ers and Utah Jazz.",
-    "Martin was originally drafted in the second round of the 2020 NBA Draft (52nd overall) by the Sacramento Kings.",
-    "During the 2022-23 season, he played in 82 games (49 starts), averaging 12.7 points and 5.5 rebounds, while shooting 56.9% from the field.",
-    "For his career, Martin has averaged 8.6 points on 54.5% shooting from the field, 4.0 rebounds and 1.2 assists per game.",
-    "The Los Angeles native attended IMG Academy in Bradenton, Fla., before declaring for the 2020 NBA Draft.",
-    "Omier, 6-5, most recently appeared in six games with the LA Clippers during the 2025-26 season, totaling 17 points."
-   ],
-   "quotes": []
   }
  ]
 }
