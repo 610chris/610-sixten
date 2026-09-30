@@ -1,8 +1,156 @@
 {
- "updated_utc": "2026-09-30 08:58 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-09-30 16:03 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/miami-heat-name-gale-nelson-as-public-address-announcer",
+   "url": "https://www.nba.com/heat/news/miami-heat-name-gale-nelson-as-public-address-announcer",
+   "canonical_url": "https://heat.com/news/miami-heat-name-gale-nelson-as-public-address-announcer",
+   "title": "MIAMI HEAT NAME GALE NELSON AS PUBLIC ADDRESS ANNOUNCER",
+   "author": "Miami HEAT",
+   "published_utc": "2026-09-30T13:54:30Z",
+   "tags": [
+    "Trending"
+   ],
+   "summary": "Your Miami HEAT today announce Gale Nelson as the team's new public address announcer, beginning the 2026-27 NBA season. Nelson succeeds Michael Baiamonte, who retired after 35 years in the role, and becomes the third public address announcer in HEAT history.",
+   "facts": [
+    "Your Miami HEAT today announce Gale Nelson as the team's new public address announcer, beginning the 2026-27 NBA season.",
+    "Nelson succeeds Michael Baiamonte, who retired after 35 years in the role, and becomes the third public address announcer in HEAT history.",
+    "Nelson will make his debut behind the microphone on Oct. 6th, 2026, at the Red, White and Pink Game, the HEAT's annual team scrimmage.",
+    "While at the BBBS, he has helped lead the growth of the agency's mentoring and fund development programs since joining in 2006.",
+    "With more than 30 years of nonprofit leadership experience, Nelson led the organization to Agency of the Year honors in 2021 and four consecutive National Pinnacle Awards from 2019 to 2022."
+   ],
+   "quotes": [
+    "Gale brings a unique style and his very distinctive voice to the PA announcer position,",
+    "We were intrigued right from the start when we heard Gale, and we knew he could be exactly what we were looking for.",
+    "I look forward to continuing the legacy that Michael Biamonte left at the HEAT and creating my own journey with the organization,",
+    "I am humbled and excited for HEAT Nation to see who Gale is and showcase my personality and style that I will bring to the microphone this season."
+   ]
+  },
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "roster",
+   "key": "https://www.nba.com/knicks/news/new-york-knicks-sign-tony-bradley-to-an-exhibit-9-contract",
+   "url": "https://www.nba.com/knicks/news/new-york-knicks-sign-tony-bradley-to-an-exhibit-9-contract",
+   "canonical_url": "https://knicks.com/news/new-york-knicks-sign-tony-bradley-to-an-exhibit-9-contract",
+   "title": "NEW YORK KNICKS SIGN TONY BRADLEY TO AN EXHIBIT 9 CONTRACT",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-09-30T13:51:27Z",
+   "tags": [
+    "Front Office News"
+   ],
+   "summary": "NEW YORK, September 30, 2026 – The New York Knicks announced today that the team has signed Tony Bradley to an Exhibit 9 contract.",
+   "facts": [
+    "NEW YORK, September 30, 2026 – The New York Knicks announced today that the team has signed Tony Bradley to an Exhibit 9 contract.",
+    "Bradley, 28-years-old (6-10, 248 pounds), split time with the Pacers and Hawks last season after signing with Atlanta in April.",
+    "He appeared in 41 games (four starts) and averaged 4.0 points and 2.8 rebounds over 11.0 minutes.",
+    "In 234 career games (22 starts) over eight NBA seasons with Utah, Philadelphia, Oklahoma City, Chicago, Indiana and Atlanta, Bradley holds averages of 4.3 points on 61.8-percent shooting and 3.8 rebounds over 10.9 minute…",
+    "The Bartow, FL-native was originally selected by the Los Angeles Lakers with the 28th overall pick in the 2017 NBA Draft out of North Carolina.",
+    "He finished his lone season as a Tar Heel averaging 7.1 points on 57.3-percent shooting and 5.1 rebounds over 14.6 minutes in 38 games."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "roster",
+   "key": "https://www.nba.com/knicks/news/new-york-knicks-sign-jaden-akins-totwo-way-contract",
+   "url": "https://www.nba.com/knicks/news/new-york-knicks-sign-jaden-akins-totwo-way-contract",
+   "canonical_url": "https://knicks.com/news/new-york-knicks-sign-jaden-akins-totwo-way-contract",
+   "title": "NEW YORK KNICKS SIGN JADEN AKINS TO TWO-WAY CONTRACT",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-09-30T13:50:39Z",
+   "tags": [
+    "Front Office News"
+   ],
+   "summary": "NEW YORK, September 30, 2026 – The New York Knicks announced today that the team has signed Jaden Akins to a two-way contract.",
+   "facts": [
+    "NEW YORK, September 30, 2026 – The New York Knicks announced today that the team has signed Jaden Akins to a two-way contract.",
+    "Akins, 23-years-old (6-4, 195-pounds), played in three games for the New York Knicks during 2026 NBA 2K27 Summer League in Las Vegas and averaged 11.3 points, 2.0 assists and 1.3 rebounds over 23.6 minutes.",
+    "He registered a game-high 21 points, two rebounds and one assist over 24 minutes off the bench against the Warriors (July 16, 2026).",
+    "Akins spent the 2025-26 season with the Motor City Cruise, averaging 14.7 points, 4.4 assists, 2.8 rebounds and 1.4 steals over 30.0 minutes in 33 games played (22 starts).",
+    "He also recorded a career-high 35 points on 52-percent shooting, five rebounds and five assists against the Westchester Knicks (Jan 3, 2026).",
+    "The Farmington, MI-native originally joined the Detroit Pistons prior to the 2025-26 season following his four seasons at Michigan State.",
+    "During his senior season, Akins was named to the 2025 Third-Team All-Big Ten Team and 2025 Big Ten All-Defensive Team after averaging 12.8 points, 3.5 rebounds and 1.5 assists over 27.2 minutes in 37 games (all starts) f…",
+    "Akins finished his collegiate career averaging 9.1 points, 3.4 rebounds and 1.1 assists over 24.3 minutes in 138 games (98 starts)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/why-is-j-b-bickerstaff-so-sure-the-pistons-wont-lose-identity-it-helps-to-have-no-2",
+   "url": "https://www.nba.com/pistons/news/why-is-j-b-bickerstaff-so-sure-the-pistons-wont-lose-identity-it-helps-to-have-no-2",
+   "canonical_url": "https://pistons.com/news/why-is-j-b-bickerstaff-so-sure-the-pistons-wont-lose-identity-it-helps-to-have-no-2",
+   "title": "Why is J.B. Bickerstaff so sure the Pistons won’t lose identity? It helps to have No. 2",
+   "author": "Keith Langlois",
+   "published_utc": "2026-09-30T13:34:24Z",
+   "tags": [
+    "Cade Cunningham",
+    "detroit basketball",
+    "Detroit Pistons"
+   ],
+   "summary": "If you’re wondering if a 60-win season might dull J.B. Bickerstaff’s competitive edge or if losing in the second round of the playoffs would make him less bullish on the Pistons future, rest easy.",
+   "facts": [
+    "If you’re wondering if a 60-win season might dull J.B.",
+    "In Cunningham, the Pistons have their first All-NBA first team honoree since Grant Hill in 1997.",
+    "He’s universally recognized not only as a top-10 player but also for embodying ideal leadership traits.",
+    "For all the years the Pistons endured bad luck in their lottery appearances – which is to say every time they’ve been there but one – their fate in the 2021 draft when they landed at No. 1 and won the right to draft Cunn…"
+   ],
+   "quotes": [
+    "The amount of talent that’s flooded the East and the way teams have been put together. But we don’t really give a (crap) about what anybody else is doing. We know what Pistons basketball looks like. W…",
+    "I just have no doubt about it,",
+    "I know some vets here who will talk, but he’s the one who has to do it,",
+    "That’s got to be his job. We’re here to support everybody and give our wisdom and two cents and we’ll speak when it needs to be spoken. This is Cade’s room. That’s what we need from him – as a point g…"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "quotes",
+   "key": "https://www.nba.com/magic/news/3-franz-wagner-storylines-going-into-2026-27-season",
+   "url": "https://www.nba.com/magic/news/3-franz-wagner-storylines-going-into-2026-27-season",
+   "canonical_url": "https://orlandomagic.com/news/3-franz-wagner-storylines-going-into-2026-27-season",
+   "title": "3 Franz Wagner Storylines Going Into 2026-27 Season",
+   "author": "Josh Cohen",
+   "published_utc": "2026-09-30T13:30:52Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "This question really applies to every player. Nobody is immune to injury, regardless of what their health status has been in the past. Nonetheless, Franz missed 48 games in last year’s regular season because of the high left ankle injury he suffered in early December in a game at New York, and then he wasn’t able to play in the last three games of Orlando’s playoff series against Detroit because o…",
+   "facts": [
+    "Nobody is immune to injury, regardless of what their health status has been in the past.",
+    "Nonetheless, Franz missed 48 games in last year’s regular season because of the high left ankle injury he suffered in early December in a game at New York, and then he wasn’t able to play in the last three games of Orlan…",
+    "The hope, obviously, is that those injuries are behind him after a summer of recovery.",
+    "Last year, the Magic went 23-15 in the regular season and playoffs combined when he played.",
+    "They outscored their opponent by 80 in the regular season when he was on the floor and by 23 in the postseason series against the Pistons.",
+    "Being 6-foot-10 makes all that even more special.",
+    "Cade Cunningham, for example, made just six of his 18 Wagner contested shot attempts in the 2026 playoffs.",
+    "Last season, he took 4.2 shots in transition per 100 possessions, second highest on the Magic behind Anthony Black, and he made a career-best 64.4 percent of his transition shots."
+   ],
+   "quotes": []
+  },
   {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
@@ -66,32 +214,6 @@
     "I think we went out and acquired some veterans that are going to bring something to both sides of the ball,",
     "They’ve all played at a high level offensively and defensively throughout their careers. I think that we’ve also done a great job of bringing in some young talent through the draft with our two-ways, …"
    ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "quotes",
-   "key": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
-   "url": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
-   "canonical_url": "https://warriors.com/news/sights-and-sounds-2026-27-warriors-media-day",
-   "title": "Sights and Sounds: 2026-27 Warriors Media Day",
-   "author": "gswgrizzo",
-   "published_utc": "2026-09-29T23:10:00Z",
-   "tags": [
-    "2026 Media Day"
-   ],
-   "summary": "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday. Check out the sights and sounds from the exciting day.",
-   "facts": [
-    "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday.",
-    "Draymond Green is ready to get his 15th season as a Dub underway.",
-    "Resigning to the Warriors in the offseason, veteran Al Horford, will begin his 20th NBA season wearing blue and gold.",
-    "The Warriors 11th draft pick, Yaxel Lendeborg, flagged down the longest-tenured player on the roster, Stephen Curry, for an iconic photo before their first season as teammates.",
-    "Georges Niang suited up in Warriors threads for the first time at Media Day, wearing No. 32.",
-    "The forward signed during the summer and his starting his 10th NBA season."
-   ],
-   "quotes": []
   },
   {
    "source": "UTA 公式（nba.com）",
@@ -269,7 +391,7 @@
    "facts": [
     "Growing up in the South Dallas suburb of Red Oak, Sasser was such an effective basketball player at the University of Houston that he became a first-round draft pick of the Memphis Grizzlies in 2023.",
     "And on draft night the crafty guard was first traded to the Boston Celtics and then to the Detroit Pistons, where he pieced together a solid career in the Motor City over the past three years.",
-    "However, as part of a six-team trade, the Pistons traded Sasser to the Dallas Mavericks this past July 8, thus providing him the unique opportunity to pack his bags and come home where he’ll have the pleasure of playing …",
+    "However, as part of a six-team trade, the Pistons traded Sasser to the Dallas Mavericks on July 8, thus providing him the unique opportunity to pack his bags and come home where he’ll have the pleasure of playing in fron…",
     "He shot a hefty 41.5 percent from beyond the three-point arc last season, which would have ranked him in the Top 10 in the league had he played the required amount of games.",
     "His great grandfather, John Barber, was chosen on the seventh round of the 1956 NBA Draft by the Minneapolis Lakers.",
     "Sasser’s uncle, Jason Sasser, was a second-round pick of the Sacramento Kings in 1996.",
@@ -277,7 +399,7 @@
     "He also remembers his first time playing in American Airlines Center as he scored a game-high 24 points to lead the Pistons to a 107-89 victory over the Mavs on April 12, 2024."
    ],
    "quotes": [
-    "It was exciting when I first heard the news -- just coming back home to Dallas,",
+    "It was exciting when I first heard the news — just coming back home to Dallas,",
     "For me it’s a new refreshing start, so everything was just exciting and a blessing.",
     "It can’t get any better than this,",
     "I’m just here to really take advantage of it and have fun."
@@ -372,14 +494,14 @@
    ],
    "summary": "Some of the game’s all-time best players made their biggest gains in their fifth NBA season. Kobe Bryant increased his scoring average by six points in his fifth year with the Lakers. That was essentially when the debate started as to who between he and Shaquile O’Neal was truly L.A.’s No. 1 option. Kawhi Leonard finished second in MVP voting in his fifth NBA season after primarily being just a de…",
    "facts": [
-    "1) Major Fifth Year Rise?",
     "That was essentially when the debate started as to who between he and Shaquile O’Neal was truly L.A.’s No. 1 option.",
-    "Banchero, entering his fifth year, hopes to follow the same pattern. 2) The Best Playmaking Power Forward in the League?",
     "His Magic teammates shot just under 40 percent from 3-point range off his kickouts from the paint (109 attempts).",
     "On general sprayouts (passing from anywhere inside 3-point line out to the perimeter), Franz Wagner made six of his seven threes when the pass was delivered by Banchero, while Anthony Black went 18-of-36 (50 percent) and…",
-    "Teammates made 74.6 percent of those shots last season. 3) What Areas Will He Improve Most In?",
+    "Teammates made 74.6 percent of those shots last season.",
     "What we know about Paolo is that he’s one of the best at drawing fouls (drew league-most 300 shooting fouls last season), makes great reads as a playmaker (as detailed above), has a unique blend of power and finesse that…",
-    "What did go under the radar last season, however, was his catch-and-shoot 3-point shooting."
+    "What did go under the radar last season, however, was his catch-and-shoot 3-point shooting.",
+    "On 81 stationary catch-and-shoot 3-point attempts last season, he shot 40.8 percent.",
+    "The last two seasons combined, he’s made 41 percent of his 139 attempts."
    ],
    "quotes": []
   },
@@ -538,38 +660,6 @@
     "This summer was a big summer for us to keep all of the same guys in the same building.",
     " and what that represents. ",
     "Being together working out, doing some events together, or getting together not even in Phoenix. That's special."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "quotes",
-   "key": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "url": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "canonical_url": "https://warriors.com/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "title": "Top Quotes from Warriors 2026 Media Day",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-09-29T01:35:14Z",
-   "tags": [
-    "2026 Media Day",
-    "Warriors Talk"
-   ],
-   "summary": "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday. Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season. Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise f…",
-   "facts": [
-    "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday.",
-    "Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season.",
-    "Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise for the foreseeable future.",
-    "Butler detailed his ongoing recovery from a torn ACL and said he expects to be the same player, or maybe “even a little better,” when he returns.",
-    "We want to go for a top-3 defense in this league.",
-    "Some would say we want to go for the best defense in the league, but I think ultimately just starting, you know, trying to get top-3 week after week, and I think weeks will start to add up. - De’Anthony Melton on the add…"
-   ],
-   "quotes": [
-    "It got to a point where it all made sense for both sides. For me, clarity of mind for the next two, three years, and then with some optionality on, trying to put us in a position to have room and to b…",
-    "I'm not altering anything. I don't care what anybody says. I always tell Steph and Dray, if I'm up there, throw the ball, because I really think I'm a wide receiver. One of my favorite athletes of all…",
-    "Every day we walk in here, we must be on a trajectory of putting together a great project, and if you put together a great project, when you get to the end of it, regardless of what the result is, you…",
-    "I would say playing meaningful minutes. You know, when the game is on the line, I want to be the guy on the court trying to make a play on defense or offense, whatever it has to come to. Then, hopeful…"
    ]
   },
   {
@@ -1363,34 +1453,6 @@
    "quotes": []
   },
   {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
-   "url": "https://www.nba.com/warriors/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
-   "canonical_url": "https://warriors.com/news/warriors-announce-roster-and-schedule-for-2026-training-camp-presented-by-gatorade",
-   "title": "Warriors Announce Roster And Schedule For 2026 Training Camp, Presented By Gatorade",
-   "author": "Golden State Warriors",
-   "published_utc": "2026-09-27T20:00:00Z",
-   "tags": [
-    "2026 Training Camp"
-   ],
-   "summary": "The Golden State Warriors have announced their training camp roster and schedule ahead of the team’s 2026 Training Camp, presented by Gatorade. Golden State has signed free agent guard Miles Kelly, guard Dalen (DAY-lynn) Terry and forward Alex Toohey (TOO-Ee) to contracts, it was also announced today. Per NBA policy, teams are allowed to roster a maximum of 21 players during the offseason and trai…",
-   "facts": [
-    "The Golden State Warriors have announced their training camp roster and schedule ahead of the team’s 2026 Training Camp, presented by Gatorade.",
-    "Golden State has signed free agent guard Miles Kelly, guard Dalen (DAY-lynn) Terry and forward Alex Toohey (TOO-Ee) to contracts, it was also announced today.",
-    "Per NBA policy, teams are allowed to roster a maximum of 21 players during the offseason and training camp.",
-    "Golden State’s Opening Night roster will be finalized by 2 p.m. on Monday, October 19.",
-    "Cannon Activities Center on the campus of BYU-Hawaii on Tuesday, September 29, and will run through Saturday, October 3.",
-    "The Warriors will tip off their six-game preseason schedule against the Los Angeles Clippers on Sunday, October 4 (4 p.m. tip-off), at Bankoh Arena at Stan Sheriff Center on the University of Hawaii campus in Honolulu, b…",
-    "Kelly, 23, appeared in 14 games (all as a reserve) in his rookie season with the Dallas Mavericks last year, averaging 3.1 points, 1.7 rebounds and 0.9 assists in 9.6 minutes per game.",
-    "Unselected in the 2025 NBA Draft, Kelly averaged 11.2 points, 3.5 rebounds and 1.2 assists in 27.0 minutes per game across 133 appearances (96 starts) over four collegiate seasons at Georgia Tech and Auburn."
-   ],
-   "quotes": []
-  },
-  {
    "source": "MIN 公式（nba.com）",
    "team": "MIN",
    "team_ja": "ティンバーウルブズ",
@@ -1415,116 +1477,6 @@
     "For his career, Martin has averaged 8.6 points on 54.5% shooting from the field, 4.0 rebounds and 1.2 assists per game.",
     "The Los Angeles native attended IMG Academy in Bradenton, Fla., before declaring for the 2020 NBA Draft.",
     "Omier, 6-5, most recently appeared in six games with the LA Clippers during the 2025-26 season, totaling 17 points."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "roster",
-   "key": "https://www.nba.com/knicks/news/new-york-knicks-sign-kevin-mccullar-jr-to",
-   "url": "https://www.nba.com/knicks/news/new-york-knicks-sign-kevin-mccullar-jr-to",
-   "canonical_url": "https://knicks.com/news/new-york-knicks-sign-kevin-mccullar-jr-to",
-   "title": "NEW YORK KNICKS SIGN KEVIN MCCULLAR JR. TO",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-09-27T15:30:00Z",
-   "tags": [
-    "Front Office News"
-   ],
-   "summary": "NEW YORK, September 26, 2026 – The New York Knicks announced today that the team has signed Kevin McCullar Jr. to a two-way contract.",
-   "facts": [
-    "NEW YORK, September 26, 2026 – The New York Knicks announced today that the team has signed Kevin McCullar Jr. to a two-way contract.",
-    "McCullar Jr., 25-years-old (6-6, 210-pounds), most recently appeared in 21 games with the Knicks last season.",
-    "He recorded a career-high 14 points on 54.5-percent shooting, two rebounds, one assist and two steals against Charlotte (Apr 12, 2026).",
-    "During the 2025-26 season, McCullar Jr. also played in 10 games (all starts) for the Westchester Knicks, the New York Knicks G-League affiliate, averaging 16.8 points on 46.7-percent shooting, 6.7 assists, 5.4 rebounds, …",
-    "The San Antonio, TX-native was originally selected by the Phoenix Suns with the 56th overall pick in the 2024 NBA Draft before being acquired by the Knicks.",
-    "McCullar Jr. finished his final two years of his collegiate career at Kansas, playing in 60 games (59 starts) averaging 14.0 points, 6.6 rebounds, 3.1 assists, and 1.8 steals over 32.2 minutes.",
-    "He was named a 2024 Third-Team All-American by NABC and 2024 First-Team All-Big 12 after averaging 18.3 points, 6.0 rebounds, 4.1 assists and 1.5 steals over 34.2 minutes in 26 games (all starts) during his senior year a…",
-    "McCullar Jr. recorded a career-high 34 points on 61.1-percent shooting, six rebounds, four assists, two steals and one block against Yale (Dec. 22)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "roster",
-   "key": "https://www.nba.com/knicks/news/new-york-knicks-sign-tyler-nickel-to",
-   "url": "https://www.nba.com/knicks/news/new-york-knicks-sign-tyler-nickel-to",
-   "canonical_url": "https://knicks.com/news/new-york-knicks-sign-tyler-nickel-to",
-   "title": "NEW YORK KNICKS SIGN TYLER NICKEL TO TWO-WAY CONTRACT",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-09-27T15:26:59Z",
-   "tags": [
-    "Front Office News"
-   ],
-   "summary": "NEW YORK, September 26, 2026 – The New York Knicks announced today that the team has signed Tyler Nickel to a two-way contract.",
-   "facts": [
-    "NEW YORK, September 26, 2026 – The New York Knicks announced today that the team has signed Tyler Nickel to a two-way contract.",
-    "Nickel, 23-years-old (6-7, 217-pounds), played in five games for the New York Knicks during 2026 NBA 2K27 Summer League in Las Vegas and averaged 12.2 points, 3.6 rebounds and 1.6 assists over 28.3 minutes.",
-    "He recorded 18 points including six made three-pointers and four rebounds in 22 minutes off the bench against the Nets (July 10, 2026).",
-    "The Harrisonburg, VA-native was originally selected by the Phoenix Suns with the 47th overall pick in the 2026 NBA Draft before being acquired by the Knicks.",
-    "Nickel finished his final two years of his collegiate career at Vanderbilt, playing in 69 games (all starts) averaging 12.0 points, 2.8 rebounds and 1.1 assists over 27.9 minutes.",
-    "He finished his senior season (2025-26) ranked second in the SEC and 18th nationally with 110 three-pointers.",
-    "Nickel registered a career-high 30 points on 55.6-percent shooting, four rebounds, and eight three-pointers against Central Arkansas (Dec 13, 2025).",
-    "Nickel finished his collegiate career averaging 9.2 points, 2.2 rebounds, 1.0 assists over 22.7 minutes in 127 games (76 starts)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "roster",
-   "key": "https://www.nba.com/bulls/news/chicago-bulls-acquire-buddy-hield",
-   "url": "https://www.nba.com/bulls/news/chicago-bulls-acquire-buddy-hield",
-   "canonical_url": "https://bulls.com/news/chicago-bulls-acquire-buddy-hield",
-   "title": "CHICAGO BULLS ACQUIRE BUDDY HIELD",
-   "author": "Bulls.com",
-   "published_utc": "2026-09-27T13:55:11Z",
-   "tags": [
-    "Transaction"
-   ],
-   "summary": "The Chicago Bulls announced today the team has acquired guard Buddy Hield along with cash considerations from the Charlotte Hornets in exchange for guard Rob Dillingham.",
-   "facts": [
-    "The Chicago Bulls announced today the team has acquired guard Buddy Hield along with cash considerations from the Charlotte Hornets in exchange for guard Rob Dillingham.",
-    "Hield, 6-4, 220, joins Chicago as he enters the 11th season of his NBA career while suiting up in 765 games (437 starts) between stints with the New Orleans Pelicans, Sacramento Kings, Indiana Pacers, Philadelphia 76ers,…",
-    "Hield owns career clips of 14.5 points (.433 FG%, .395 3FG%), 4.0 rebounds, 2.4 assists and 0.9 steals in 27.4 minutes, including averages of 16.9 points (.402 3FG%) and 4.4 rebounds in 385 games with the Kings from 2017…",
-    "He posted a career-high 20.7 points per game while starting in all 82 regular-season contests in 2018-19.",
-    "A native of Freeport, Bahamas, Hield ranks eighth among active players in three-pointers made (2,201) and enters the 2026-27 season ranked 15th on the NBA’s all-time three-point list.",
-    "Having amassed 200-plus threes in seven of his 10 NBA seasons played, Hield stands as one of five players in NBA history to record as many seasons with 200-plus three-pointers (Stephen Curry – 12, Klay Thompson – 11, Dam…",
-    "Hield has finished as the NBA’s runner-up in most threes made in a season four times (2019-20, 2020-21, 2021-22, 2022-23) and top 10 in three-point shooting percentage on three occasions (2017-18, 2018-19, 2022-23), whil…",
-    "Drafted No. 6 overall by the New Orleans Pelicans in 2016, Hield earned 2016-17 NBA All-Rookie First Team honors and has been a four-time participant in the NBA’s Three-Point Contest (2019, 2020, 2023, 2025), winning the…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "roster",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-acquire-rob-dillingham",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-acquire-rob-dillingham",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-acquire-rob-dillingham",
-   "title": "Charlotte Hornets Acquire Rob Dillingham",
-   "author": "Hornets PR",
-   "published_utc": "2026-09-27T13:32:38Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "September 27, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has acquired guard Rob Dillingham from the Chicago Bulls in exchange for guard Buddy Hield and cash considerations.",
-   "facts": [
-    "September 27, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has acquired guard Rob Dillingham from the Chicago Bulls in exchange for guard Buddy Hield and cash co…",
-    "The Hornets originally acquired Hield on Sept. 22, 2026, from the Atlanta Hawks alongside Ryan Nembhard and cash considerations in exchange for forward Dorian Finney-Smith.",
-    "Hield was selected by the Pelicans with the 6th overall pick in the 2016 NBA Draft and boasts career averages of 14.5 points (43.3 FG%, 39.5 3P%, 85.6 FT%), 4.0 rebounds and 2.4 assists in 27.4 minutes per game, totaling…",
-    "He was selected with the 8th overall pick in the 2024 NBA Draft and acquired by the Minnesota Timberwolves in a draft-night trade.",
-    "Dillingham holds career averages of 5.5 points (41.1 FG%, 32.4 3P%, 70.0 FT%), 1.6 rebounds and 2.1 assists in 13.0 minutes per game, compiling 114 career appearances (one start) between Minnesota and Chicago."
    ],
    "quotes": []
   }
