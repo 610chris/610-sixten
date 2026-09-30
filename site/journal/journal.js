@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "317-kessler-lakers-defense.html",
+    cat: "NBA",
+    title: "ケスラー「うちは意地の悪い守備チームになる」—— レイカーズ新体制、キャンプ初日から自信",
+    excerpt: "レイカーズのウォーカー・ケスラーは現地時間9月29日、キャンプ初日を終えて「うちは意地の悪い守備チームになると思う」と語った。ルカ・ドンチッチ主体の新体制で、周辺の守備陣にも自信を示した。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "316-brandon-ingram-achilles-clippers.html",
     cat: "NBA",
     title: "クリッパーズのインガム、アキレス腱部分断裂 —— 2026-27シーズン開幕に間に合わず",
