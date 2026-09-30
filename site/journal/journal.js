@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "326-jordan-jersey-record-auction.html",
+    cat: "NBA",
+    title: "ジョーダンの「ラストダンス」第3戦ジャージが1226万ドルで落札 —— NBAジャージ史上最高額を更新",
+    excerpt: "マイケル・ジョーダンが1998年NBAファイナル第3戦で着用したブルズのユニフォームが現地時間9月30日、オークションで1226万ドル(約18億円)で落札され、NBAジャージ史上最高額を更新した。これまでの記録も同じ1998年ファイナルシリーズのジョーダンのジャージだった。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "325-bs10-bpremier-free-broadcast.html",
     cat: "JAPAN",
     title: "BS10、10月は毎週土曜にB.PREMIER5試合を全国無料生中継 —— 「バスケ魂」含め今シーズン累計約20試合を放送予定",
