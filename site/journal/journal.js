@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "321-nba-push-off-officiating.html",
+    cat: "NBA",
+    title: "NBA、プッシュオフ厳格化へ新指針「4つのF」—— ジョーダンの伝説のシュートも新基準では反則にならず",
+    excerpt: "NBAは現地時間9月29日、審判向けに新しい判定指針を発表した。得点上昇が続く中、オフェンス側が非ドリブル側の腕を使ってディフェンスを押し離す「プッシュオフ」を「feeling／firming／force／full extension」の「4つのF」基準で判定する。ESPNが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "320-sga-mvp-threepeat.html",
     cat: "NBA",
     title: "ギルジャス＝アレクサンダー「MVPの決定なんて82試合先の話」—— 史上初の3連覇へ、冷静に開幕を待つ",
