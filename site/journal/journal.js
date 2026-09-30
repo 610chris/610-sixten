@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "325-bs10-bpremier-free-broadcast.html",
+    cat: "JAPAN",
+    title: "BS10、10月は毎週土曜にB.PREMIER5試合を全国無料生中継 —— 「バスケ魂」含め今シーズン累計約20試合を放送予定",
+    excerpt: "株式会社ジャパネットブロードキャスティングが運営する無料BS放送局「BS10」は、B.LEAGUEの新トップカテゴリー「B.PREMIER」の試合を10月の毎週土曜日に全国無料生中継すると発表した。対象は滋賀vs琉球、長崎vs群馬など5試合。レギュラー番組「バスケ魂」と合わせ、今シーズン累計約20試合を放送予定。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "324-nike-caitlin-1-halloween.html",
     cat: "KICKS",
     title: "Nike Caitlin 1「Halloween」10月23日発売 —— グロー・イン・ザ・ダークのアウトソール、品番JA4290-001",
