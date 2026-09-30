@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "324-nike-caitlin-1-halloween.html",
+    cat: "KICKS",
+    title: "Nike Caitlin 1「Halloween」10月23日発売 —— グロー・イン・ザ・ダークのアウトソール、品番JA4290-001",
+    excerpt: "ナイキは、ケイトリン・クラーク初のシグネチャーシューズ「Nike Caitlin 1」のホリデーカラー「Halloween」を10月23日に発売する。ブラックベースにアウトソールとブランディングが暗闇で光る仕様。価格150ドル、品番JA4290-001。Hypebeastが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-324-hero.jpg?v=5b15e70027"
+  },
+  {
+    href: "323-uniqlo-jwbf-partnership.html",
+    cat: "JAPAN",
+    title: "ユニクロ、日本車いすバスケットボール連盟とパートナーシップ契約 —— 国枝慎吾氏の縁で日本代表・次世代チームにLifeWearを提供",
+    excerpt: "株式会社ユニクロは、一般社団法人日本車いすバスケットボール連盟（JWBF）と2029年3月31日までのパートナーシップ契約を締結したと発表した。オフィシャルスポンサー兼サプライヤーとして、車いすバスケットボール日本代表男女と次世代チームにユニフォームなどのLifeWearを提供する。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-323-hero.jpg?v=3f64828cd4"
+  },
+  {
     href: "322-quest-kawasaki-brave-thunders-partner.html",
     cat: "JAPAN",
     title: "クエスト、川崎ブレイブサンダースとオフィシャルパートナー契約 —— 2026-27シーズンから地域活性化を支援",
