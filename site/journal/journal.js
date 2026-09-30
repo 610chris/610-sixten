@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "318-chiba-sky-wings-3x3-miyako.html",
+    cat: "JAPAN",
+    title: "CHIBA SKY WINGS女子、3x3宮古大会で優勝 —— 21-17で決勝制し日本選手権への出場権",
+    excerpt: "3x3チーム「CHIBA SKY WINGS」の女子チームは2026年9月27日、岩手県宮古市で開催された「3x3 TOHOKU 2026 - MIYAKO STOP」で優勝した。中山桂・石田悠月・田戸郁乃の3選手が決勝でXDに21-17で勝利し、2027年2月の第12回3x3日本選手権大会への出場権を獲得した。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-318-hero.jpg?v=5ea70e58b8"
+  },
+  {
     href: "317-kessler-lakers-defense.html",
     cat: "NBA",
     title: "ケスラー「うちは意地の悪い守備チームになる」—— レイカーズ新体制、キャンプ初日から自信",
