@@ -1,8 +1,158 @@
 {
- "updated_utc": "2026-10-01 00:48 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-10-01 15:38 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/hes-going-to-ascend-teammates-take-notice-of-vj-edgecombes-development-heading-into-year-2",
+   "url": "https://www.nba.com/sixers/news/hes-going-to-ascend-teammates-take-notice-of-vj-edgecombes-development-heading-into-year-2",
+   "canonical_url": "https://sixers.com/news/hes-going-to-ascend-teammates-take-notice-of-vj-edgecombes-development-heading-into-year-2",
+   "title": "‘He’s going to ascend:’ Teammates take notice of VJ Edgecombe’s development heading into Year 2",
+   "author": "Owen Boyle",
+   "published_utc": "2026-10-01T15:21:55Z",
+   "tags": [
+    "VJ Edgecombe"
+   ],
+   "summary": "Second-year guard VJ Edgecombe still watches his games from his rookie season, not to marvel at the impressive campaign he had, but to see where his game can improve.",
+   "facts": [
+    "Edgecombe finished his first season in the league averaging 16.0 points, 5.6 rebounds, 4.2 assists and 1.4 steals in 35.0 minutes per game.",
+    "He was third in Rookie of the Year voting and was named to the 2025-26 Kia NBA All-Rookie First Team.",
+    "He also participated in an alumni scrimmage at Baylor while attending shootarounds at the Penn Medicine Philadelphia 76ers Training Complex.",
+    "Last season, Edgecombe led all rookies with 107 steals and led the entire NBA with 79 loose balls recovered."
+   ],
+   "quotes": [
+    "I try to see where I can be better,",
+    "Obviously, it’s a new team and a new landscape, but I still think some things might be similar, especially for me in certain aspects of the game.",
+    "I said it at the end of last year: That’s the guy, he’s the future, but for now, he’s going to continue to get better and better and better.",
+    "I’ve been working on my game,"
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/nexstar-media-group-and-dazn-announce-agreement-to-televise-and-live-stream-15-indiana-pacers-games-for-fans-across-central-indiana",
+   "url": "https://www.nba.com/pacers/news/nexstar-media-group-and-dazn-announce-agreement-to-televise-and-live-stream-15-indiana-pacers-games-for-fans-across-central-indiana",
+   "canonical_url": "https://pacers.com/news/nexstar-media-group-and-dazn-announce-agreement-to-televise-and-live-stream-15-indiana-pacers-games-for-fans-across-central-indiana",
+   "title": "Nexstar Media Group and DAZN Announce Agreement to Televise and Live Stream 15 Indiana Pacers Games for Fans Across Central Indiana",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-01T13:58:17Z",
+   "tags": [
+    "DAZN"
+   ],
+   "summary": "Games Will Stream for Free on DAZN and Be Broadcast Over-The-Air on Nexstar’s Local TV Stations in Indianapolis, Evansville, and Champaign, Illinois",
+   "facts": [
+    "Games Will Stream for Free on DAZN and Be Broadcast Over-The-Air on Nexstar’s Local TV Stations in Indianapolis, Evansville, and Champaign, Illinois First Over-the-air Broadcast Will Be October 23 When the Pacers Take on…",
+    "Nexstar-owned WTTV-TV (CBS) and WXIN-TV (FOX) in Indianapolis will serve as the television home for the 15 games, which will also be carried live by WTVW-TV (CW) in Evansville, and WCIX-TV (MyNet) in Champaign, Illinois.",
+    "Nexstar intends to engage additional stations in the Pacers’ extended territory throughout other parts of Indiana, Illinois, Ohio, and Kentucky, to create a broad network of exposure and reach for the 15 games."
+   ],
+   "quotes": [
+    "We are thrilled to partner with DAZN to give Indiana Pacers fans more ways to watch and support their team,",
+    "Serving local viewers is at the heart of everything we do, and this partnership combines the reach of local television with the convenience of streaming, making Pacers basketball accessible wherever a…",
+    "This partnership gives local fans of the Indiana Pacers greater choice and access, by making 15 of the team’s games free-to-view,",
+    "Together with Nexstar, we’re making it easier for more basketball fans to watch the Pacers live, while delivering a richer streaming experience on DAZN throughout the season."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "quotes",
+   "key": "https://www.nba.com/magic/news/3-desmond-bane-storylines-going-into-2026-27-season",
+   "url": "https://www.nba.com/magic/news/3-desmond-bane-storylines-going-into-2026-27-season",
+   "canonical_url": "https://orlandomagic.com/news/3-desmond-bane-storylines-going-into-2026-27-season",
+   "title": "3 Desmond Bane Storylines Going Into 2026-27 Season",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-01T13:41:37Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Can He Replicate His Peak Points of Last Season?",
+   "facts": [
+    "In January, which consisted of 13 games, he shot 51.1 percent from the field overall, 40.3 percent from 3-point range and 94.9 percent from the free throw line.",
+    "In February, consisting of 11 games, he shot 59.1 percent overall, 49.3 percent from beyond the arc and 84.3 percent from the stripe.",
+    "He totaled 272 points in February, making him just the sixth player all time to score 250-plus points while shooting 59-plus percent from the field overall and 49-plus percent from 3-point range (minimum 10 3-point attem…",
+    "Throughout the year, he scored 30-plus points 12 times and in the playoffs against Detroit had 25 points in Game 3 and 22 in Game 4.",
+    "Can He Get Up More 3-Point Attempts?",
+    "Last year, he averaged 5.2 3-point attempts, his fewest since his rookie season.",
+    "In 2025-26, his first season in Orlando, he averaged 3.2 transition shots per 100 possessions.",
+    "Back in 2022-23, he averaged over five, and the following two years he averaged over four."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/releases-galen-davies-261001",
+   "url": "https://www.nba.com/cavaliers/news/releases-galen-davies-261001",
+   "canonical_url": "https://cavs.com/news/releases-galen-davies-261001",
+   "title": "Rock Entertainment Group and the Cleveland Cavaliers Appoint Galen Davies Executive Vice President and Chief Commercial Officer",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-01T13:39:42Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "CLEVELAND – Rock Entertainment Group (REG) and the Cleveland Cavaliers today announced Galen Davies as Executive Vice President (EVP) and Chief Commercial Officer (CCO).",
+   "facts": [
+    "Before Portland, Davies spent 15 years at Maple Leafs Sports & Entertainment in Toronto, advancing from corporate partnerships into senior leadership roles spanning commercial strategy and brand.",
+    "REG also operates Rock Entertainment Sports Network (RESN), Rocket Arena, Cleveland Clinic Courts and the Cavaliers’ new practice facility, the Cleveland Clinic Global Peak Performance Center, which is set to open in Feb…"
+   ],
+   "quotes": [
+    "Galen is a dynamic leader who puts people and culture first, with a unique ability to drive results at scale while staying rooted in creativity,",
+    "Given Rock Entertainment Group's growth and trajectory, Galen's experience and innovative mindset will continue to drive forward the momentum our team has created and deepen the lasting, positive impa…",
+    "Rock Entertainment Group's relentless drive to redefine what's possible, paired with the shared sense of purpose, trust and authentic belief in one another that fuels their culture, is second to none …",
+    "I'm energized to join this exceptional group, build on the momentum they've created and help shape what comes next for REG, our partners, fans and the communities we serve."
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/norman-powell-ready-to-embrace-role-as-veteran-leader-on-2026-27-bulls",
+   "url": "https://www.nba.com/bulls/news/norman-powell-ready-to-embrace-role-as-veteran-leader-on-2026-27-bulls",
+   "canonical_url": "https://bulls.com/news/norman-powell-ready-to-embrace-role-as-veteran-leader-on-2026-27-bulls",
+   "title": "Norman Powell ready to embrace role as veteran leader on 2026-27 Bulls",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-01T12:54:29Z",
+   "tags": [
+    "Sam Smith"
+   ],
+   "summary": "One of the more interesting quandaries the Bulls will face this season is the Powell Paradox.",
+   "facts": [
+    "Veteran guard Norman Powell is the best and most accomplished player on the roster, the only All-Star, a unique two-way player who ranks among the league’s elite scorers and shooters, perhaps the team’s only player who c…",
+    "So while Powell needs to anchor what figures to be a shaky half court Bulls offense, he likely will be in demand around the NBA, especially if there are injuries.",
+    "And because of his experience and expertise, he should be the most valuable trade candidate for a Bulls team in need of draft assets.",
+    "Though the 33-year-old Californian of Jamaican ancestry is having none of it.",
+    "So not worried about or thought about what the future looks like, teams and trades and things like that.",
+    "Without the versatile and cerebral Powell, the Bulls might be challenged to score 100 points.",
+    "And Powell will be well compensated for that, a two-year deal with team option for 2027-28 which no other team could match.",
+    "Powell honestly admitted when introduced by the Bulls this summer he missed returning to Miami."
+   ],
+   "quotes": [
+    "I'm excited for the challenge that's in front of us,",
+    "I see myself being where I'm at. I'm in the present,",
+    "doth protest too much, me thinks?",
+    "I've been in every single role,"
+   ]
+  },
   {
    "source": "CHA 公式（nba.com）",
    "team": "CHA",
@@ -587,32 +737,6 @@
    ]
   },
   {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "quotes",
-   "key": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
-   "url": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
-   "canonical_url": "https://warriors.com/news/sights-and-sounds-2026-27-warriors-media-day",
-   "title": "Sights and Sounds: 2026-27 Warriors Media Day",
-   "author": "gswgrizzo",
-   "published_utc": "2026-09-29T23:10:00Z",
-   "tags": [
-    "2026 Media Day"
-   ],
-   "summary": "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday. Check out the sights and sounds from the exciting day.",
-   "facts": [
-    "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday.",
-    "Draymond Green is ready to get his 15th season as a Dub underway.",
-    "Resigning to the Warriors in the offseason, veteran Al Horford, will begin his 20th NBA season wearing blue and gold.",
-    "The Warriors 11th draft pick, Yaxel Lendeborg, flagged down the longest-tenured player on the roster, Stephen Curry, for an iconic photo before their first season as teammates.",
-    "Georges Niang suited up in Warriors threads for the first time at Media Day, wearing No. 32.",
-    "The forward signed during the summer and his starting his 10th NBA season."
-   ],
-   "quotes": []
-  },
-  {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
    "team_ja": "ジャズ",
@@ -1061,38 +1185,6 @@
    ]
   },
   {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "quotes",
-   "key": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "url": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "canonical_url": "https://warriors.com/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "title": "Top Quotes from Warriors 2026 Media Day",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-09-29T01:35:14Z",
-   "tags": [
-    "2026 Media Day",
-    "Warriors Talk"
-   ],
-   "summary": "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday. Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season. Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise f…",
-   "facts": [
-    "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday.",
-    "Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season.",
-    "Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise for the foreseeable future.",
-    "Butler detailed his ongoing recovery from a torn ACL and said he expects to be the same player, or maybe “even a little better,” when he returns.",
-    "We want to go for a top-3 defense in this league.",
-    "Some would say we want to go for the best defense in the league, but I think ultimately just starting, you know, trying to get top-3 week after week, and I think weeks will start to add up. - De’Anthony Melton on the add…"
-   ],
-   "quotes": [
-    "It got to a point where it all made sense for both sides. For me, clarity of mind for the next two, three years, and then with some optionality on, trying to put us in a position to have room and to b…",
-    "I'm not altering anything. I don't care what anybody says. I always tell Steph and Dray, if I'm up there, throw the ball, because I really think I'm a wide receiver. One of my favorite athletes of all…",
-    "Every day we walk in here, we must be on a trajectory of putting together a great project, and if you put together a great project, when you get to the end of it, regardless of what the result is, you…",
-    "I would say playing meaningful minutes. You know, when the game is on the line, I want to be the guy on the court trying to make a play on defense or offense, whatever it has to come to. Then, hopeful…"
-   ]
-  },
-  {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
    "team_ja": "ジャズ",
@@ -1442,295 +1534,6 @@
     "Sacramento opens preseason play against the Los Angeles Lakers on Monday, Oct. 5 at Golden 1 Center before traveling to Los Angeles to face the Lakers again on Oct. 8 at Crypto.com Arena.",
     "The Kings will then face the Golden State Warriors on Oct. 10 at Chase Center before returning home to Golden 1 Center to host the Portland Trail Blazers on Oct. 13.",
     "Sacramento concludes the preseason on the road against the San Antonio Spurs on Oct. 16."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "roster",
-   "key": "https://www.nba.com/clippers/news/la-clippers-announce-2026-27-training-camp-roster",
-   "url": "https://www.nba.com/clippers/news/la-clippers-announce-2026-27-training-camp-roster",
-   "canonical_url": "https://clippers.com/news/la-clippers-announce-2026-27-training-camp-roster",
-   "title": "LA CLIPPERS ANNOUNCE 2026-27 TRAINING CAMP ROSTER",
-   "author": "LAClippers",
-   "published_utc": "2026-09-28T15:36:36Z",
-   "tags": [
-    "2026-27 Season",
-    "Bradley Beal",
-    "Cam Christie",
-    "Darius Garland",
-    "Gradey Dick",
-    "Kris Dunn",
-    "LA Clippers",
-    "Press Release"
-   ],
-   "summary": "The LA Clippers have announced their 2026-27 Training Camp roster. The team will host its Media Day today at 10:30 a.m. at Intuit Dome in Inglewood. Following Media Day, the Clippers will begin training camp at the University of Hawai'i on Tuesday, with their first preseason game on Sunday, October 4, against the Golden State Warriors at Bankoh Arena at Stan Sheriff Center. Below is the 2026 Clipp…",
-   "facts": [
-    "The LA Clippers have announced their 2026-27 Training Camp roster.",
-    "The team will host its Media Day today at 10:30 a.m. at Intuit Dome in Inglewood.",
-    "Following Media Day, the Clippers will begin training camp at the University of Hawai'i on Tuesday, with their first preseason game on Sunday, October 4, against the Golden State Warriors at Bankoh Arena at Stan Sheriff …",
-    "Below is the 2026 Clippers’ Training Camp roster:"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIL 公式（nba.com）",
-   "team": "MIL",
-   "team_ja": "バックス",
-   "team_id": 1610612749,
-   "kind": "roster",
-   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-announce-2026-training-camp-roster",
-   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-announce-2026-training-camp-roster",
-   "canonical_url": "https://bucks.com/news/milwaukee-bucks-announce-2026-training-camp-roster",
-   "title": "Milwaukee Bucks Announce 2026 Training Camp Roster",
-   "author": "Milwaukee Bucks",
-   "published_utc": "2026-09-28T15:06:14Z",
-   "tags": [],
-   "summary": "MILWAUKEE (Sept. 28, 2026) – The Milwaukee Bucks announce their 2026 Training Camp roster.",
-   "facts": [
-    "MILWAUKEE (Sept. 28, 2026) – The Milwaukee Bucks announce their 2026 Training Camp roster.",
-    "Training camp will take place in Milwaukee at the Froedtert & Medical College of Wisconsin Sports Science Center beginning Tuesday, Sept. 29.",
-    "Milwaukee’s 21-man Training Camp roster is below: *-Two-Way Contract ^-Training Camp Contract Head Coach: Taylor Jenkins (Pennsylvania) Assistant Coaches: Darvin Ham (Texas Tech) Pat St."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "roster",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-sign-lawson-lovering",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-sign-lawson-lovering",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-sign-lawson-lovering",
-   "title": "Grizzlies Sign Lawson Lovering",
-   "author": "memjcochran",
-   "published_utc": "2026-09-28T14:16:07Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "Memphis Waives Kira Lewis Jr. Memphis, Tenn. – The Memphis Grizzlies today announced the team signed center Lawson Lovering and waived guard Kira Lewis Jr.",
-   "facts": [
-    "Memphis Waives Kira Lewis Jr.",
-    "Memphis, Tenn. – The Memphis Grizzlies today announced the team signed center Lawson Lovering and waived guard Kira Lewis Jr.",
-    "Lovering (7-1, 235) appeared in 30 NBA G League games (26 starts) with the Memphis Hustle last season and averaged 7.7 points, 7.0 rebounds, 1.3 assists and 1.3 blocks in 26.8 minutes.",
-    "He also was called up to the Grizzlies on a 10-day contract and recorded 7.0 points, 7.5 rebounds, 1.5 assists and 1.5 steals in 24.5 minutes in two games (one start).",
-    "Unselected in the 2025 NBA Draft, the 23-year-old played two seasons at Utah to finish his collegiate career after two years at Colorado.",
-    "Lewis Jr. (6-1, 170) has appeared in 90 NBA G League games (53 starts) over four seasons with the Birmingham Squadron, Raptors 905, Capital City Go-Go and Wisconsin Herd and has played 131 NBA regular season games as a r…",
-    "Selected 13th overall in the 2020 NBA Draft, the 25-year-old played collegiately at Alabama."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "roster",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-sign-kira-lewis-jr",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-sign-kira-lewis-jr",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-sign-kira-lewis-jr",
-   "title": "Grizzlies Sign Kira Lewis Jr.",
-   "author": "memjcochran",
-   "published_utc": "2026-09-28T14:14:48Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "Memphis Waives Eric Dixon Memphis, Tenn. – The Memphis Grizzlies today announced the team signed guard Kira Lewis Jr. and waived forward Eric Dixon.",
-   "facts": [
-    "Memphis Waives Eric Dixon Memphis, Tenn. – The Memphis Grizzlies today announced the team signed guard Kira Lewis Jr. and waived forward Eric Dixon.",
-    "Lewis Jr. (6-1, 170) has appeared in 90 NBA G League games (53 starts) over four seasons with the Birmingham Squadron, Raptors 905, Capital City Go-Go and Wisconsin Herd and has averaged 12.9 points, 3.2 rebounds, 3.9 as…",
-    "The 25-year-old, who was selected 13th overall in the 2020 NBA Draft out of Alabama, also has competed in 131 NBA games as a reserve for the New Orleans Pelicans, Utah Jazz and Toronto Raptors and has averaged 5.2 points…",
-    "Dixon (6-6, 255) played 44 NBA G League games (21 starts) last season for the Greensboro Swarm and Memphis Hustle and averaged 15.2 points, 4.3 rebounds and 1.3 assists in 24.8 minutes.",
-    "He started all 17 appearances for the Hustle and recorded 21.6 points, 6.1 rebounds and 2.1 assists in 35.1 minutes.",
-    "The 25-year-old Pennsylvania native went unselected in the 2025 NBA Draft following his collegiate career at Villanova."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "roster",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-sign-eric-dixon",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-sign-eric-dixon",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-sign-eric-dixon",
-   "title": "Grizzlies Sign Eric Dixon",
-   "author": "memjcochran",
-   "published_utc": "2026-09-28T14:13:04Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "Memphis, Tenn. – The Memphis Grizzlies today announced the team signed forward Eric Dixon and waived guard Yuri Collins.",
-   "facts": [
-    "Memphis Waives Yuri Collins Memphis, Tenn. – The Memphis Grizzlies today announced the team signed forward Eric Dixon and waived guard Yuri Collins.",
-    "Dixon (6-6, 255) appeared in 44 NBA G League games (21 starts) last season for the Greensboro Swarm and Memphis Hustle and averaged 15.2 points, 4.3 rebounds and 1.3 assists in 24.8 minutes.",
-    "He started all 17 games for the Hustle and averaged 21.6 points, 6.1 rebounds and 2.1 assists in 35.1 minutes after joining the team midseason.",
-    "The 25-year-old Pennsylvania native went unselected in the 2025 NBA Draft following his collegiate career at Villanova, where he was named to the 2024-25 All-Big East First Team.",
-    "Collins (6-0, 190), who was signed by the Grizzlies earlier today, has appeared in 115 career NBA G League games (66 starts) over three seasons with the Santa Cruz Warriors and Long Island Nets and has played two games o…",
-    "Louis native went unselected in the 2023 NBA Draft following a four-year collegiate career at St."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "roster",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-sign-yuri-collins",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-sign-yuri-collins",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-sign-yuri-collins",
-   "title": "Grizzlies Sign Yuri Collins",
-   "author": "memjcochran",
-   "published_utc": "2026-09-28T14:10:14Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "Memphis Waives Brendan Hausen Memphis, Tenn. – The Memphis Grizzlies today announced the team signed guard Yuri Collins and waived guard Brendan Hausen.",
-   "facts": [
-    "Memphis Waives Brendan Hausen Memphis, Tenn. – The Memphis Grizzlies today announced the team signed guard Yuri Collins and waived guard Brendan Hausen.",
-    "Collins (6-0, 190) has appeared in 115 career games (66 starts) over three seasons with the NBA G League’s Santa Cruz Warriors and Long Island Nets and has averaged 9.5 points, 2.9 rebounds, 7.2 assists and 1.1 steals in…",
-    "He was called up by the Golden State Warriors and played two games as a reserve during the 2024-25 season.",
-    "Undrafted in the 2023 NBA Draft, the 25-year-old St.",
-    "Louis University, where he was a two-time All-Atlantic 10 selection.",
-    "Hausen (6-4, 205), who was signed by the Grizzlies on September 25, appeared in 120 games (33 starts) over his four-year collegiate career with Villanova (2022-24), Kansas State (2024-25) and Iowa (2025-26).",
-    "The 22-year-old Amarillo, Tex., native went unselected in the 2026 NBA Draft."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BKN 公式（nba.com）",
-   "team": "BKN",
-   "team_ja": "ネッツ",
-   "team_id": 1610612751,
-   "kind": "roster",
-   "key": "https://www.nba.com/nets/news/brooklyn-nets-announce-training-camp-roster-10",
-   "url": "https://www.nba.com/nets/news/brooklyn-nets-announce-training-camp-roster-10",
-   "canonical_url": "https://brooklynnets.com/news/brooklyn-nets-announce-training-camp-roster-10",
-   "title": "Brooklyn Nets Announce Training Camp Roster",
-   "author": "Brooklyn Nets",
-   "published_utc": "2026-09-28T12:47:00Z",
-   "tags": [],
-   "summary": "BROOKLYN – The Brooklyn Nets announced today their 20-player training camp roster. Training camp begins in Brooklyn at HSS Training Center on Tuesday, Sept. 29, and concludes on Monday, Oct. 5, before the Nets tip off their four-game preseason slate on the road against the Charlotte Hornets on Tuesday, Oct. 6, at 7 p.m. ET.",
-   "facts": [
-    "BROOKLYN – The Brooklyn Nets announced today their 20-player training camp roster.",
-    "Training camp begins in Brooklyn at HSS Training Center on Tuesday, Sept. 29, and concludes on Monday, Oct. 5, before the Nets tip off their four-game preseason slate on the road against the Charlotte Hornets on Tuesday,…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "quotes",
-   "key": "https://www.nba.com/sixers/news/media-day-press-conference",
-   "url": "https://www.nba.com/sixers/news/media-day-press-conference",
-   "canonical_url": "https://www.nba.com/sixers/news/watch-jaylen-brown-introductory-press-conference",
-   "title": "2026 Philadelphia 76ers Media Day",
-   "author": "76ers PR",
-   "published_utc": "2026-09-28T12:40:00Z",
-   "tags": [],
-   "summary": "LeBron James on the team staying together throughout a long season…",
-   "facts": [
-    "If you put the work in and you continue to get better and better every day, and you have this championship approach every day to get 1% better, then it definitely will work in our favor.” James on Philadelphia fans… “I’m…",
-    "It’s a good position for him to be in because being around all these great players to learn and learn and learn is going to help him in the future.” Tyrese Maxey on LeBron James being a 76er… “It’s weird that I see him i…",
-    "For this team, like he said, like I’ve been saying for years: We’ve got to get 1% better [every day].",
-    "So I’m ready for either.” VJ Edgecombe on embracing what’s to come… “I’m going into Year 2.",
-    "I’m going into Year 2, I’m still learning."
-   ],
-   "quotes": [
-    "We’re a really talented team, but talent only gets you so far. If you put the work in and you continue to get better and better every day, and you have this championship approach every day to get 1% b…",
-    "It’s weird that I see him in the summertime every year, but to see him here in Camden, New Jersey at the facility with a Sixers jersey on, it’s cool. It’s a cool experience."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/whos-starting-how-can-pelicans-improve-preseason-could-answer-key-questions",
-   "url": "https://www.nba.com/pelicans/news/whos-starting-how-can-pelicans-improve-preseason-could-answer-key-questions",
-   "canonical_url": "https://pelicans.com/news/whos-starting-how-can-pelicans-improve-preseason-could-answer-key-questions",
-   "title": "Who's starting? How can Pelicans improve? Preseason could answer key questions",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-09-28T12:00:00Z",
-   "tags": [],
-   "summary": "New Orleans made an offseason hire of a new head coach (Jamahl Mosley) for the first time since 2021 and executed a late-summer free-agent acquisition (Bennedict Mathurin) that helped fortify the team’s depth, adding a player who’s been one of the NBA’s premier reserve scorers. Mosley and Mathurin are joining a Pelicans squad that’s otherwise largely familiar to Crescent City hoops aficionados, wh…",
-   "facts": [
-    "New Orleans made an offseason hire of a new head coach (Jamahl Mosley) for the first time since 2021 and executed a late-summer free-agent acquisition (Bennedict Mathurin) that helped fortify the team’s depth, adding a p…",
-    "Mosley and Mathurin are joining a Pelicans squad that’s otherwise largely familiar to Crescent City hoops aficionados, who’ve followed the careers of six returning veterans for multiple seasons.",
-    "Zion Williamson (drafted in 2019), Trey Murphy and Herb Jones (both picked in a very fruitful 2021 class) have now been in the Big Easy for at least a half-decade; Dejounte Murray, Yves Missi and Karlo Matkovic each join…",
-    "With Media Day on Monday and training camp tipping off this week, a few key questions to watch during preseason, leading up to the Oct. 21 regular season opener vs.",
-    "Among the eight New Orleans players who started 14 or more games during the 2025-26 season, all have returned to the roster.",
-    "Along with that large group, the Pelicans signed Mathurin, a starter 25 times last season, mostly with Indiana.",
-    "Murphy (66 starts), Saddiq Bey (64), Jones (56) and Williamson (55) were common first-stringers for the Pelicans – and position-wise, are all primarily considered forwards – while Jeremiah Fears and Derik Queen made 49 a…",
-    "Veteran point guard Dejounte Murray only started 14 times, but that accounted for all of his appearances amid his post-All-Star break return to action from an Achilles injury, never coming off the bench."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/an-everything-you-need-to-know-orlando-magic-guide-going-into-the-2026-27-season-20260927",
-   "url": "https://www.nba.com/magic/news/an-everything-you-need-to-know-orlando-magic-guide-going-into-the-2026-27-season-20260927",
-   "canonical_url": "",
-   "title": "An Everything-You-Need-To-Know Orlando Magic Guide Going Into the 2026-27 Season",
-   "author": "Josh Cohen",
-   "published_utc": "2026-09-28T10:05:56Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO - A new coaching staff blending in with a familiar core is the theme of the Orlando Magic going into the 2026-27 season.",
-   "facts": [
-    "ORLANDO - A new coaching staff blending in with a familiar core is the theme of the Orlando Magic going into the 2026-27 season.",
-    "Sean Sweeney, an accomplished assistant coach over the last 13 seasons with stops in Brooklyn, Milwaukee, Detroit, Dallas and San Antonio, brings some added excitement and energy to the table after being named the 16th h…",
-    "Some of his notable achievements as an assistant include helping the Bucks going from dead last in defensive rating to fourth in that category in his first year in Milwaukee in 2014-15.",
-    "In his first year in Dallas in 2021-22, the Mavs ranked seventh in defense, a year after ranking 21st on that end.",
-    "Last year with him in San Antonio, the Spurs ranked third in defense, 22 spots up from the prior season.",
-    "He also helped the Mavs rank in the top eight in offensive rating in both the 2022-23 and 2023-24 seasons.",
-    "He’s reportedly had great relationships with some of the game’s biggest stars over these last 13 years.",
-    "There were 118 instances of the Magic forcing their opponent into a turnover in the backcourt last season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "roster",
-   "key": "https://www.nba.com/celtics/news/celtics-announce-2026-27-training-camp-roster",
-   "url": "https://www.nba.com/celtics/news/celtics-announce-2026-27-training-camp-roster",
-   "canonical_url": "https://celtics.com/news/celtics-announce-2026-27-training-camp-roster",
-   "title": "Celtics Announce 2026-27 Training Camp Roster",
-   "author": "Marc D'Amico",
-   "published_utc": "2026-09-28T01:55:49Z",
-   "tags": [
-    "Preseason",
-    "Press Release",
-    "Roster",
-    "Training Camp"
-   ],
-   "summary": "BOSTON – The 18-time World Champion Boston Celtics announced today their training camp roster for the upcoming 2026-27 NBA season. The Celtics enter training camp with a blend of championship experience, established veteran leadership, and emerging young talent, highlighted by key offseason additions Paul George, Mitchell Robinson, and Mike Conley Jr.",
-   "facts": [
-    "BOSTON – The 18-time World Champion Boston Celtics announced today their training camp roster for the upcoming 2026-27 NBA season.",
-    "Boston is set to open training camp on Tuesday, Sept. 29, at the Auerbach Center in Brighton before the team travels to Charleston, S.C., to host additional training camp practices at The Citadel.",
-    "The Celtics will tip off a four-game preseason slate with a matchup against the Cavaliers in Cleveland on Thursday, Oct. 8.",
-    "Click here to view the full 2026-27 Celtics preseason and regular season schedule.",
-    "Boston’s 21-man training camp roster is listed below. *Player under two-way contract"
    ],
    "quotes": []
   }
