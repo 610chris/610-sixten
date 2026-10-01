@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "330-air-jordan-4028-black-volt.html",
+    cat: "KICKS",
+    title: "Air Jordan 4028「Black/Barely Volt」10月2日発売 —— アディバヨの83得点試合で火がついた、XX8の伝説カラーが復刻",
+    excerpt: "ジョーダン ブランドは、「Air Jordan 4028」の新色「Black/Barely Volt」（品番IR2084-001）を10月2日に発売する。マイアミ・ヒートのバム・アディバヨが2026年3月の83得点の試合でサンプルを着用し注目された一足で、2013年発表の「Air Jordan XX8」のブラック×ブライトグリーンの配色を復刻している。Sneaker Bar Detroitが伝えた。",
+    date: "2026.09.30",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "329-ryan-nembhard-nuggets-two-way.html",
     cat: "NBA",
     title: "ナゲッツ、ライアン・ネムハードとツーウェイ契約で合意 —— ホーネッツ移籍から1週間余りで新天地へ",
