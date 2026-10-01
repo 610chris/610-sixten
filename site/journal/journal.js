@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "337-donovan-mitchell-adidas-extension.html",
+    cat: "KICKS",
+    title: "ドノバン・ミッチェル、アディダスと複数年契約を延長 —— 10作目のシグネチャーモデルへ、現役では7人目の到達",
+    excerpt: "クリーブランド・キャバリアーズのドノバン・ミッチェルは、アディダスと新たな複数年契約延長を締結した。10作目のシグネチャーモデルに向けた契約で、現役NBA選手としては7人目の節目となる。ESPNのシャムズ・シャラニア記者が現地時間10月1日に伝えた。",
+    date: "2026.10.01",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "336-jamal-shead-raptors-extension.html",
+    cat: "NBA",
+    title: "ラプターズ、ジャマール・シードと3年2400万ドルの契約延長で合意 —— 控えからベンチ最多アシストの司令塔へ",
+    excerpt: "トロント・ラプターズは、ガードのジャマール・シード選手と3年2400万ドルの契約延長で合意した。ESPNのシャムズ・シャラニア記者が現地時間10月1日、代理人のKJ・スミス氏の話として伝えた。新契約により2029-30シーズンまでラプターズに所属する。",
+    date: "2026.10.01",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "335-kobe-air-force-1-purple-stardust.html",
     cat: "KICKS",
     title: "Kobe Bryant x Nike Air Force 1 Low「Black/Purple Stardust」が発売 —— バスケ発のアイコンにコービーの名を冠した新色",
