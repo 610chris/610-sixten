@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>ベネクス、日本バスケ界のレジェンド・五十嵐圭選手とアンバサダー契約 —— 現役24年目、支えるのは「質の高いリカバリー」</title>
+      <link>https://sixten.jp/journal/331-igarashi-venex-ambassador.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/331-igarashi-venex-ambassador.html</guid>
+      <pubDate>Thu, 01 Oct 2026 09:00:00 +0900</pubDate>
+      <category>JAPAN</category>
+      <description>リカバリーウェアを手がける株式会社ベネクスは、新潟アルビレックスBB所属の五十嵐圭選手とアンバサダー契約を締結したと10月1日発表した。46歳・現役24年目の五十嵐選手は2017年からVENEXリカバリーウェアを愛用してきたという。</description>
+      <enclosure url="https://sixten.jp/assets/journal-331-hero.jpg?v=84a3150731" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>Air Jordan 4028「Black/Barely Volt」10月2日発売 —— アディバヨの83得点試合で火がついた、XX8の伝説カラーが復刻</title>
       <link>https://sixten.jp/journal/330-air-jordan-4028-black-volt.html</link>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ゴールデンステート・ウォリアーズのジミー・バトラーは現地時間9月28日のメディアデーで、右膝前十字靭帯(ACL)断裂の手術からおよそ8カ月が経過したリハビリの経過について「数値は予定より先行している」と自信を語った。復帰時期は明言しなかった。ESPNが伝えた。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>アンソニー・エドワーズ「もう1人で運ばなくていい」—— ボール加入でSG回帰、守備に集中する新シーズンへ</title>
-      <link>https://sixten.jp/journal/301-edwards-cede-pg-duties-lamelo-ball.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/301-edwards-cede-pg-duties-lamelo-ball.html</guid>
-      <pubDate>Tue, 29 Sep 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>ミネソタ・ティンバーウルブズのアンソニー・エドワーズは現地時間9月28日のメディアデーで、新加入のラメロ・ボールにポイントガード業務を委ね、本来のシューティングガードに専念する姿勢を語った。ボール運びから解放されることで守備によりエネルギーを割けるとした。ESPNが伝えた。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

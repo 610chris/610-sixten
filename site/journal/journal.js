@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "331-igarashi-venex-ambassador.html",
+    cat: "JAPAN",
+    title: "ベネクス、日本バスケ界のレジェンド・五十嵐圭選手とアンバサダー契約 —— 現役24年目、支えるのは「質の高いリカバリー」",
+    excerpt: "リカバリーウェアを手がける株式会社ベネクスは、新潟アルビレックスBB所属の五十嵐圭選手とアンバサダー契約を締結したと10月1日発表した。46歳・現役24年目の五十嵐選手は2017年からVENEXリカバリーウェアを愛用してきたという。",
+    date: "2026.10.01",
+    thumb: "../assets/journal-331-hero.jpg?v=84a3150731"
+  },
+  {
     href: "330-air-jordan-4028-black-volt.html",
     cat: "KICKS",
     title: "Air Jordan 4028「Black/Barely Volt」10月2日発売 —— アディバヨの83得点試合で火がついた、XX8の伝説カラーが復刻",
