@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "334-nba-coaches-under-pressure.html",
+    cat: "NBA",
+    title: "開幕前、最も重圧を背負う監督5人 —— ESPNがプレビュー、トップは76ersのナース「レブロン×エンビード」の共存術",
+    excerpt: "ESPNは10月1日（現地時間）、開幕前に最も重圧を背負うNBA監督5人を選ぶプレビュー記事を掲載した。キャバリアーズのアトキンソン、ナゲッツのアデルマン、スパーズのジョンソン、ロケッツのウドカを挙げた上で、単独トップにはレブロン・ジェームズを迎えた76ersのニック・ナース監督を選出。ベン・ゴリバー記者が分析した。",
+    date: "2026.10.01",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "333-nike-lebron-24-greater-china.html",
     cat: "KICKS",
     title: "Nike LeBron 24「Greater China」10月9日発売 —— 吉祥の雲文様をまとった旧正月限定モデル、品番IX5105-200",
