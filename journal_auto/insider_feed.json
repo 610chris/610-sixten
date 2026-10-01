@@ -1,7 +1,18 @@
 {
- "updated_utc": "2026-10-01 14:41 UTC",
+ "updated_utc": "2026-10-01 23:28 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wvb081/charania_the_detroit_pistons_are_waiting_for/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-01T20:53:56+00:00",
+   "text": "The Detroit Pistons are waiting for Jalen Duren to make a decision today and are preparing for three potential outcomes: 1) A five year, $200M fully guaranteed deal, 2) sign the qualifying offer that would make him an UFA next summer, 3) Do nothing and remain a restricted free agent",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wvb081/charania_the_detroit_pistons_are_waiting_for/",
+   "links": []
+  },
   {
    "reporter": "Jake Fischer（The Stein Line）",
    "handle": "JakeLFischer",
@@ -77,32 +88,6 @@
    "text": "Name me the teams you feel strongly are definitely going to be in the top-6 in the east. I don't even have Philly there.",
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wu83bm/windhorst_name_me_the_teams_you_feel_strongly_are/",
    "links": []
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wtkx9z/charania_espn_sources_the_nba_is_expected_to/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-29T20:18:12+00:00",
-   "text": "Shams Charania has posted the following:   ESPN Sources: The NBA is expected to select the winning bid for owner of the Las Vegas expansion team in the very near future, with a price of at least $12-13 billion for the franchise and new arena among three finalist groups – Nancy Walton Laurie and Bill Laurie; Steve Apostolopoulos and Marc Lasry; Bill Foley and Jerry Colangelo.  Source to the story: https://www.espn.com/contributor/shams-charania/6e13341cd7ec2\n\nAlternative link:",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wtkx9z/charania_espn_sources_the_nba_is_expected_to/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/6e13341cd7ec2"
-   ]
-  },
-  {
-   "reporter": "Dave McMenamin（ESPN）",
-   "handle": "mcten",
-   "key": "https://www.reddit.com/r/nba/comments/1wtjmhn/dave_mcmenamin_lebron_james_took_a_helicopter/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-29T19:28:57+00:00",
-   "text": "While Anfernee Simons was answering questions to the media members after Sixers practice Tuesday a loud droning noise could be heard coming from outside the facility: a helicopter for LeBron James to take to head to New York.\n\nSource: https://bleacherreport.com/articles/25504629-lebron-james-using-helicopter-commute-philadelphia-new-york-after-joining-76ers",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wtjmhn/dave_mcmenamin_lebron_james_took_a_helicopter/",
-   "links": [
-    "https://bleacherreport.com/articles/25504629-lebron-james-using-helicopter-commute-philadelphia-new-york-after-joining-76ers"
-   ]
   }
  ]
 }
