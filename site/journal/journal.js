@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "333-nike-lebron-24-greater-china.html",
+    cat: "KICKS",
+    title: "Nike LeBron 24「Greater China」10月9日発売 —— 吉祥の雲文様をまとった旧正月限定モデル、品番IX5105-200",
+    excerpt: "ナイキは、レブロン・ジェームズのシグネチャーモデル「LeBron 24」の新色「Greater China」（品番IX5105-200）を、中国本土・香港・マカオ・台湾で10月9日に発売する。旧正月を祝う中国の伝統的な雲文様「祥雲」をベージュのKingknitメッシュアッパーに赤のアクセントで描いた限定モデルで、価格は190米ドル。Hypebeastが伝えた。",
+    date: "2026.10.01",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "332-air-jordan-4-amazonas-j-balvin.html",
+    cat: "KICKS",
+    title: "J Balvin x Air Jordan 4「Amazonas」10月2日発売 —— コロンビアの生物多様性を纏った新色、英西2カ国語の「Just Do It」",
+    excerpt: "ジョーダン ブランドは、コロンビア出身のシンガーソングライター J・バルヴィンとのコラボレーション最新作「Air Jordan 4『Amazonas』」を、10月2日午前9時より『SNKRS』などで発売する。価格は34,100円（税込）。コロンビアの豊かな生物多様性を鮮やかな配色で表現し、シューレースには英語とスペイン語の2カ国語で「Just Do It」をあしらった。Hypebeastが伝えた。",
+    date: "2026.10.01",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "331-igarashi-venex-ambassador.html",
     cat: "JAPAN",
     title: "ベネクス、日本バスケ界のレジェンド・五十嵐圭選手とアンバサダー契約 —— 現役24年目、支えるのは「質の高いリカバリー」",
