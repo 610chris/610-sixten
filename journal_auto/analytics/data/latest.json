@@ -1,11 +1,91 @@
 {
-  "month": "2026-08",
-  "pageviews": 0,
-  "users": 0,
-  "sessions": 0,
-  "avg_engagement_sec": 0.0,
-  "engagement_rate": 0.0,
-  "top_articles": [],
-  "channels": [],
-  "updated_at": "2026-09-12 17:42"
+  "month": "2026-09",
+  "pageviews": 762,
+  "users": 433,
+  "sessions": 502,
+  "avg_engagement_sec": 26.8,
+  "engagement_rate": 36.3,
+  "top_articles": [
+    {
+      "path": "/journal/280-clippers-ingram-partial-achilles-tear.html",
+      "title": "クリッパーズ、イングラムのアキレス腱部分断裂を発表 —— かかとの手術後に判明、開幕に間に合わず | 610バスケットボールジャーナル",
+      "pageviews": 101
+    },
+    {
+      "path": "/index.html",
+      "title": "610 — sixten（シックステン）｜バスケットボール × カルチャーのメディアエージェンシー",
+      "pageviews": 73
+    },
+    {
+      "path": "/journal/257-grizzlies-waive-dangelo-russell.html",
+      "title": "グリズリーズ、ラッセルをウェイバー —— ロースター整理の一環、開幕前の新天地探しが可能に | 610バスケットボールジャーナル",
+      "pageviews": 58
+    },
+    {
+      "path": "/",
+      "title": "610 — sixten（シックステン）｜バスケットボール × カルチャーのメディアエージェンシー",
+      "pageviews": 44
+    },
+    {
+      "path": "/journal/214-nike-ja-4-phantom.html",
+      "title": "Nike Ja 4「Phantom」が10月発売 —— ジャ・モラント4代目シグネチャー、白ベースの新色 | 610バスケットボールジャーナル",
+      "pageviews": 43
+    },
+    {
+      "path": "/media/starting5ive.html",
+      "title": "STARTING 5IVE｜5人のNBAクリエイターのバスケ雑談チャンネル | 610 — sixten",
+      "pageviews": 41
+    },
+    {
+      "path": "/journal/index.html",
+      "title": "610バスケットボールジャーナル（610 JOURNAL）｜NBA・Bリーグ・バスケのニュースと読みもの",
+      "pageviews": 28
+    },
+    {
+      "path": "/work/nihon-tengus/",
+      "title": "NIHON TENGUS | 日本テングス オフィシャルサイト",
+      "pageviews": 28
+    },
+    {
+      "path": "/journal/",
+      "title": "610バスケットボールジャーナル（610 JOURNAL）｜NBA・Bリーグ・バスケのニュースと読みもの",
+      "pageviews": 22
+    },
+    {
+      "path": "/media/chris-basketball-diary.html",
+      "title": "クリスのバスケ日記｜NBA・バスケの動画メディア | 610 — sixten",
+      "pageviews": 16
+    }
+  ],
+  "channels": [
+    {
+      "channel": "Referral",
+      "sessions": 201
+    },
+    {
+      "channel": "Organic Search",
+      "sessions": 195
+    },
+    {
+      "channel": "Direct",
+      "sessions": 44
+    },
+    {
+      "channel": "Organic Social",
+      "sessions": 29
+    },
+    {
+      "channel": "Cross-network",
+      "sessions": 21
+    },
+    {
+      "channel": "Unassigned",
+      "sessions": 20
+    },
+    {
+      "channel": "AI Assistant",
+      "sessions": 2
+    }
+  ],
+  "updated_at": "2026-10-01 00:24"
 }
