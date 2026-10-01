@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "335-kobe-air-force-1-purple-stardust.html",
+    cat: "KICKS",
+    title: "Kobe Bryant x Nike Air Force 1 Low「Black/Purple Stardust」が発売 —— バスケ発のアイコンにコービーの名を冠した新色",
+    excerpt: "ナイキは、コービー・ブライアントの名を冠した「Kobe Bryant x Nike Air Force 1 Low」の新色「Black/Purple Stardust」(品番IB0018-007)を2026年10月1日に発売した。価格・取扱店舗は本稿執筆時点で明らかになっていない。Nice Kicksが伝えた。",
+    date: "2026.10.01",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "334-nba-coaches-under-pressure.html",
     cat: "NBA",
     title: "開幕前、最も重圧を背負う監督5人 —— ESPNがプレビュー、トップは76ersのナース「レブロン×エンビード」の共存術",
