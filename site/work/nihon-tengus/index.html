@@ -188,6 +188,45 @@ html[data-lang="en"] .st-p{font-family:var(--jp);font-weight:700;line-height:1.5
 @keyframes fade{from{opacity:0}}
 @keyframes pop{from{opacity:0;transform:scale(.96)}}
 body.modal-open{overflow:hidden}
+/* profile modal（選手・HC・フロントオフィス） */
+.pmodal{position:fixed;inset:0;z-index:210;display:grid;place-items:center;padding:16px}
+.pmodal[hidden]{display:none}
+.pm-box{position:relative;width:min(1100px,100%);max-height:calc(100vh - 32px);max-height:calc(100dvh - 32px);display:flex;flex-direction:column;background:linear-gradient(170deg,#15151c,#0a0a0e 70%);border:1px solid var(--line);box-shadow:0 30px 90px rgba(0,0,0,.8),0 0 0 1px rgba(226,59,114,.25);animation:pop .35s cubic-bezier(.2,.9,.2,1)}
+.pm-scroll{overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch}
+.pm-in{padding:clamp(20px,4vw,52px)}
+.pm-x{position:absolute;right:10px;top:10px;z-index:5;width:40px;height:40px;border-radius:50%;background:rgba(7,7,10,.7);border:1px solid rgba(255,255,255,.3);color:#fff;font-size:24px;line-height:1;cursor:pointer}
+.pm-x:hover{background:var(--pink);border-color:var(--pink)}
+.pp{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.25fr);gap:clamp(22px,4vw,56px);align-items:start}
+.pp-ph{position:relative;aspect-ratio:3/4;overflow:hidden;background:linear-gradient(160deg,rgba(67,184,174,.2),transparent 55%),linear-gradient(20deg,rgba(226,59,114,.22),transparent 60%),var(--ink3);border:1px solid var(--line)}
+.pp-ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 18%}
+.pp-ph img.mask{object-fit:contain;padding:18%;opacity:.15}
+.pp-num{position:absolute;right:-2%;top:-6%;z-index:1;font-family:var(--display);font-size:clamp(120px,14vw,200px);line-height:1;color:transparent;-webkit-text-stroke:2px rgba(226,59,114,.55);pointer-events:none}
+.pp-pos{font-family:var(--display);letter-spacing:.24em;color:var(--pink);font-size:15px;padding-right:44px}
+.pp-name{font-family:var(--display);font-weight:400;font-size:clamp(40px,5vw,72px);line-height:.95;margin-top:10px;overflow-wrap:anywhere}
+.pp-name small{display:block;font-family:var(--jp);font-weight:900;font-size:clamp(17px,1.8vw,24px);color:var(--teal);margin-top:12px;letter-spacing:.08em;line-height:1.3}
+.pp-dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);margin:24px 0 0}
+.pp-dl div{background:var(--ink2);padding:12px 14px}
+.pp-dl div:last-child:nth-child(odd){grid-column:1/-1}
+.pp-dl dt{font-family:var(--display);letter-spacing:.16em;font-size:11px;color:var(--mute)}
+.pp-dl dt [lang="ja"]{font-family:var(--jp);letter-spacing:.08em;font-weight:700}
+.pp-dl dd{margin:4px 0 0;font-size:15px;font-weight:700;color:#fff;line-height:1.45;overflow-wrap:anywhere}
+.pp-h{display:flex;gap:10px;align-items:baseline;margin-top:28px;font-family:var(--display);letter-spacing:.24em;font-size:14px;color:var(--teal)}
+.pp-h span{font-family:var(--jp);font-weight:700;letter-spacing:.08em;font-size:12px;color:var(--mute)}
+.pp-car{margin-top:10px;border-top:1px solid var(--line)}
+.pp-car li{list-style:none;display:grid;grid-template-columns:118px minmax(0,1fr);gap:14px;padding:11px 0;border-bottom:1px solid var(--line);font-size:14px;line-height:1.6;color:#d7d5dd}
+.pp-car li b{font-family:var(--display);font-weight:400;letter-spacing:.06em;font-size:17px;color:#fff}
+.player .more,.scard .more{position:absolute;left:12px;top:12px;z-index:3;font-family:var(--display);font-size:11px;letter-spacing:.18em;padding:6px 9px;border:1px solid rgba(255,255,255,.35);background:rgba(7,7,10,.6);color:#fff;transition:background .3s,border-color .3s}
+.player:hover .more,.player.lit .more,.player:focus-visible .more,.scard[data-pid]:hover .more,.scard[data-pid]:focus-visible .more{background:var(--pink);border-color:var(--pink)}
+.scard[data-pid]{cursor:pointer;outline:none}
+.scard[data-pid]:focus-visible{border-color:var(--pink);box-shadow:0 0 0 1px var(--pink)}
+#staff .staff-grid{margin-bottom:0}
+.scard.wide{grid-column:1/-1}
+.scard.wide .s-ph{aspect-ratio:auto;height:clamp(110px,13vw,190px)}
+.scard.nophoto .s-ph img{object-fit:contain;padding:6%;opacity:.14}
+.pp-ig{display:inline-block;margin-top:24px;font-family:var(--display);letter-spacing:.14em;font-size:14px;color:#fff;border:1px solid rgba(255,255,255,.35);padding:10px 16px;transition:background .3s,border-color .3s}
+.pp-ig:hover,.pp-ig:focus-visible{background:var(--pink);border-color:var(--pink)}
+@media (max-width:760px){.pp{grid-template-columns:1fr}.pp-ph{aspect-ratio:4/3.6}.pp-car li{grid-template-columns:92px minmax(0,1fr);gap:10px}}
+@media (max-width:420px){.pp-dl{grid-template-columns:1fr}.pp-dl div:last-child:nth-child(odd){grid-column:auto}}
 
 /* ---------- 3. OWNER & STAFF ---------- */
 #staff{background:var(--ink)}
@@ -536,42 +575,10 @@ body{text-wrap:pretty}
     <div class="staff-h reveal"><b>STAFF</b><span><span lang="ja">スタッフ</span><span lang="en">2026</span></span></div>
     <div class="staff-grid">
       <div class="scard tba reveal"><div class="s-ph"><img src="assets/team/tengus_mask.webp" alt="" loading="lazy"></div><div class="s-info"><div class="s-role">GM<small><span lang="ja">ゼネラルマネージャー</span><span lang="en">General Manager</span></small></div><div class="s-name">TBA<small><span lang="ja">準備中</span><span lang="en">Coming soon</span></small></div></div></div>
-      <div class="scard reveal"><div class="s-ph"><img src="assets/staff/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy"></div><div class="s-info"><div class="s-role">HC<small><span lang="ja">ヘッドコーチ</span><span lang="en">Head Coach</span></small></div><div class="s-name">HALLELUJAH<small>ハレルヤ</small></div></div></div>
+      <div class="scard reveal" data-pid="hc" role="button" tabindex="0" aria-haspopup="dialog" aria-label="HALLELUJAH ヘッドコーチ プロフィール / Head Coach profile"><span class="more">PROFILE +</span><div class="s-ph"><img src="assets/staff/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy"></div><div class="s-info"><div class="s-role">HC<small><span lang="ja">ヘッドコーチ</span><span lang="en">Head Coach</span></small></div><div class="s-name">HALLELUJAH<small>ハレルヤ</small></div></div></div>
       <div class="scard tba reveal"><div class="s-ph"><img src="assets/team/tengus_mask.webp" alt="" loading="lazy"></div><div class="s-info"><div class="s-role">AC<small><span lang="ja">アシスタントコーチ</span><span lang="en">Assistant Coach</span></small></div><div class="s-name">TBA<small><span lang="ja">準備中</span><span lang="en">Coming soon</span></small></div></div></div>
       <div class="scard reveal"><div class="s-ph"><img src="assets/staff/sugawara.webp" alt="スタッフ 菅原海生" loading="lazy"></div><div class="s-info"><div class="s-role">STAFF<small><span lang="ja">チームスタッフ</span><span lang="en">Team Staff</span></small></div><div class="s-name">SUGAWARA<small>菅原海生</small></div></div></div>
-    </div>
-    <div class="staff-h reveal"><b>HEAD COACH PROFILE</b><span><span lang="ja">ヘッドコーチ紹介</span><span lang="en">HALLELUJAH</span></span></div>
-    <div class="coach">
-      <div class="coach-card reveal">
-        <div class="hc">HC</div>
-        <div class="coach-name-bg">HALLELUJAH</div>
-        <img class="coach-photo" src="assets/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy">
-        <div class="coach-tag"><b>HEAD COACH</b><span>NIHON TENGUS 2026</span></div>
-      </div>
-      <div class="reveal">
-        <div class="role">HEAD COACH</div>
-        <h3>HALLELUJAH<small>ハレルヤ</small></h3>
-        <p class="coach-lead"><span lang="ja">Bリーグの現場でビデオ・スカウティング・スキル育成を担い、YouTube<span class="nw">『Be a baller』</span>でコーチ目線のNBA戦術を発信するタクティシャン。アジアの舞台で、テングスの戦い方を設計する。</span><span lang="en">A tactician who worked in B.LEAGUE video, scouting and skill development, and breaks down NBA tactics from a coach's eye on his YouTube channel <span class="nw">"Be a baller"</span>. Now he designs how the Tengus compete in Asia.</span></p>
-        <div class="coach-stats">
-          <div><b><span lang="ja">10.1<i>万</i></span><span lang="en">101<i>K</i></span></b><span lang="ja">YouTube登録者</span><span lang="en">YouTube subs (101K)</span></div>
-          <div><b>2</b><span lang="ja">Bリーグクラブ</span><span lang="en">B.LEAGUE clubs</span></div>
-          <div><b>68</b><span lang="ja">キャンプ参加者<br>（2026夏）</span><span lang="en">camp players<br>(Summer 2026)</span></div>
-        </div>
-        <ul class="career">
-          <li><b>NIHON TENGUS</b><span lang="ja">ヘッドコーチ（The Asian Tournament 2026 成都大会）</span><span lang="en">Head Coach — The Asian Tournament 2026, Chengdu</span></li>
-          <li><b>THE ONE (JORDAN)</b><span lang="ja">スペシャルコーチ（Jordan Brand のバスケットボールイベント「THE ONE」）</span><span lang="en">Special Coach — THE ONE (JORDAN), a Jordan Brand basketball event</span></li>
-          <li><b>SAITAMA BRONCOS</b><span lang="ja">ビデオコーディネーター／スカウティングコーチ／スキルデベロップメントコーチ</span><span lang="en">Video Coordinator / Scouting Coach / Skill Development Coach</span></li>
-          <li><b>KANAZAWA SAMURAIZ</b><span lang="ja">アシスタントコーチ（インターン）／スキルデベロップメントコーチ</span><span lang="en">Assistant Coach (Intern) / Skill Development Coach</span></li>
-          <li><b>BE 5IVE CAMP 2026</b><span lang="ja">コーチ（FaFa Lu と共に指導／中高生68名・2日間）。翌日の指導者向けクリニックで<span class="nw">「ピック&amp;ロールの対応」を講義</span></span><span lang="en">Coach alongside FaFa Lu (68 youth players, 2 days). Lectured on defending the pick-and-roll at the coaches' clinic</span></li>
-          <li><b>STARTING 5IVE</b><span lang="ja">YouTubeチャンネル<span class="nw">「STARTING 5IVE」</span>共同運営メンバー</span><span lang="en">Co-host of the YouTube channel "STARTING 5IVE"</span></li>
-        </ul>
-        <div class="sns">
-          <a href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">YOUTUBE</a>
-          <a href="https://x.com/be_a_baller11" target="_blank" rel="noopener">X</a>
-          <a href="https://www.tiktok.com/@beaballer11" target="_blank" rel="noopener">TIKTOK</a>
-          <a href="https://nihontengus.com/pages/staff" target="_blank" rel="noopener">STAFF PAGE</a>
-        </div>
-      </div>
+      <div class="scard wide nophoto reveal" data-pid="luke" role="button" tabindex="0" aria-haspopup="dialog" aria-label="LUKE CANNELL フロントオフィス プロフィール / Front Office profile"><span class="more">PROFILE +</span><div class="s-ph"><img src="assets/team/tengus_mask.webp" alt="" loading="lazy"></div><div class="s-info"><div class="s-role">FO<small><span lang="ja">フロントオフィス</span><span lang="en">Front Office</span></small></div><div class="s-name">LUKE CANNELL<small>カネル ルーク</small></div></div></div>
     </div>
   </div>
 </section>
@@ -686,6 +693,55 @@ body{text-wrap:pretty}
   </div>
 </div>
 
+<div class="pmodal" id="pmodal" role="dialog" aria-modal="true" aria-label="Profile" hidden>
+  <div class="vm-bg" data-close></div>
+  <div class="pm-box">
+    <button class="pm-x" data-close aria-label="閉じる / Close">×</button>
+    <div class="pm-scroll"><div class="pm-in" id="pmcontent"></div></div>
+  </div>
+</div>
+
+<div class="pmodal" id="hcmodal" role="dialog" aria-modal="true" aria-label="Head Coach profile" hidden>
+  <div class="vm-bg" data-close></div>
+  <div class="pm-box">
+    <button class="pm-x" data-close aria-label="閉じる / Close">×</button>
+    <div class="pm-scroll"><div class="pm-in">
+    <div class="coach">
+      <div class="coach-card">
+        <div class="hc">HC</div>
+        <div class="coach-name-bg">HALLELUJAH</div>
+        <img class="coach-photo" src="assets/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy">
+        <div class="coach-tag"><b>HEAD COACH</b><span>NIHON TENGUS 2026</span></div>
+      </div>
+      <div>
+        <div class="role">HEAD COACH</div>
+        <h3>HALLELUJAH<small>ハレルヤ</small></h3>
+        <p class="coach-lead"><span lang="ja">Bリーグの現場でビデオ・スカウティング・スキル育成を担い、YouTube<span class="nw">『Be a baller』</span>でコーチ目線のNBA戦術を発信するタクティシャン。アジアの舞台で、テングスの戦い方を設計する。</span><span lang="en">A tactician who worked in B.LEAGUE video, scouting and skill development, and breaks down NBA tactics from a coach's eye on his YouTube channel <span class="nw">"Be a baller"</span>. Now he designs how the Tengus compete in Asia.</span></p>
+        <div class="coach-stats">
+          <div><b><span lang="ja">10.1<i>万</i></span><span lang="en">101<i>K</i></span></b><span lang="ja">YouTube登録者</span><span lang="en">YouTube subs (101K)</span></div>
+          <div><b>2</b><span lang="ja">Bリーグクラブ</span><span lang="en">B.LEAGUE clubs</span></div>
+          <div><b>68</b><span lang="ja">キャンプ参加者<br>（2026夏）</span><span lang="en">camp players<br>(Summer 2026)</span></div>
+        </div>
+        <ul class="career">
+          <li><b>NIHON TENGUS</b><span lang="ja">ヘッドコーチ（The Asian Tournament 2026 成都大会）</span><span lang="en">Head Coach — The Asian Tournament 2026, Chengdu</span></li>
+          <li><b>THE ONE (JORDAN)</b><span lang="ja">スペシャルコーチ（Jordan Brand のバスケットボールイベント「THE ONE」）</span><span lang="en">Special Coach — THE ONE (JORDAN), a Jordan Brand basketball event</span></li>
+          <li><b>SAITAMA BRONCOS</b><span lang="ja">ビデオコーディネーター／スカウティングコーチ／スキルデベロップメントコーチ</span><span lang="en">Video Coordinator / Scouting Coach / Skill Development Coach</span></li>
+          <li><b>KANAZAWA SAMURAIZ</b><span lang="ja">アシスタントコーチ（インターン）／スキルデベロップメントコーチ</span><span lang="en">Assistant Coach (Intern) / Skill Development Coach</span></li>
+          <li><b>BE 5IVE CAMP 2026</b><span lang="ja">コーチ（FaFa Lu と共に指導／中高生68名・2日間）。翌日の指導者向けクリニックで<span class="nw">「ピック&amp;ロールの対応」を講義</span></span><span lang="en">Coach alongside FaFa Lu (68 youth players, 2 days). Lectured on defending the pick-and-roll at the coaches' clinic</span></li>
+          <li><b>STARTING 5IVE</b><span lang="ja">YouTubeチャンネル<span class="nw">「STARTING 5IVE」</span>共同運営メンバー</span><span lang="en">Co-host of the YouTube channel "STARTING 5IVE"</span></li>
+        </ul>
+        <div class="sns">
+          <a href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">YOUTUBE</a>
+          <a href="https://x.com/be_a_baller11" target="_blank" rel="noopener">X</a>
+          <a href="https://www.tiktok.com/@beaballer11" target="_blank" rel="noopener">TIKTOK</a>
+          <a href="https://nihontengus.com/pages/staff" target="_blank" rel="noopener">STAFF PAGE</a>
+        </div>
+      </div>
+    </div>
+    </div></div>
+  </div>
+</div>
+
 <script src="assets/logo-data.js"></script>
 <script>
 /* ---------- DATA（出典: nihontengus.com 2026-09-29時点。日本語名・グループ分けはクライアント指示 2026-10-01） ---------- */
@@ -695,17 +751,30 @@ const GROUPS=[
   {k:"big",en:"BIG MAN",ja:"ビッグマン"}
 ];
 const PLAYERS=[
-  {g:"guard",no:3,name:"ROMAN IRE WRIGHT",jp:"入江ローマン",h:183,nat:"JPN",img:"studio/rome",img2:"rome"},
-  {g:"guard",no:0,name:"MUTSUKI KOJIMA",jp:"小嶋 睦月",h:185,nat:"JPN",img:"studio/kojima",img2:"misuki"},
-  {g:"guard",no:37,name:"KO TAKAHASHI",jp:"高橋幸",h:169,nat:"JPN",img:"studio/ko",img2:"ko"},
-  {g:"guard",no:17,name:"YUUTO TOKASHIKI",jp:"渡嘉敷温人",h:172,nat:"JPN",img:"studio/tokashiki",img2:"yuuta2"},
-  {g:"wing",no:1,name:"CARL TOMO YAHATA",jp:"八幡カール知",h:180,nat:"JPN",img:"carl"},
-  {g:"wing",no:8,name:"HIKARU DOI",jp:"土井ひかる",h:188,nat:"JPN",img:"studio/doi",img2:"doi"},
-  {g:"wing",no:7,name:"RIKU KATO",jp:"加藤リク",h:191,nat:"JPN",img:"studio/kato",img2:"riky3"},
-  {g:"big",no:32,name:"SIGURD SANDAL",jp:"",h:201,nat:"NOR",img:"studio/sigurd",img2:"Sigrud_Sandal"},
-  {g:"big",no:14,name:"ROSS DAVID",jp:"",h:200,nat:"USA",img:"studio/ross",img2:"ross"},
-  {g:"big",no:11,name:"JESMOND ADDISON KOGO",jp:"",h:198,nat:"JPN",img:"studio/jes",img2:"jes"}
+  {g:"guard",no:3,name:"IRIE WRIGHT ROMAN",jp:"入江ライトローマン",pos:"PG",h:182,w:82,dob:"2001-04-06",from:["東京","Tokyo, Japan"],nat:["日本","Japan"],card:"JAPAN",ig:"lifebyheem",img:"studio/rome",img2:"rome",
+    car:[["2021–22","HIU ZEROCKETS (3x3.EXE Premier)","HIU ZEROCKETS (3x3.EXE Premier)"],["2022–23","Yamaguchi Patriots (B3) | Crayon (3x3.EXE Premier)","Yamaguchi Patriots (B3) | Crayon (3x3.EXE Premier)"],["2023–24","Tokushima Gambarous (B3)","Tokushima Gambarous (B3)"],["2024–25","MP3 (3x3.EXE Premier)","MP3 (3x3.EXE Premier)"],["2025–26","Bridgeline MP3 (3x3.EXE Premier) | Alest AGEO (Champions League) | Yunnan Basketball League Champion","Bridgeline MP3 (3x3.EXE Premier) | Alest AGEO (Champions League) | Yunnan Basketball League Champion"],["2026","Japan National Selection | SUMMER JAM World Finals（オーストラリア・メルボルン）","Japan National Selection | SUMMER JAM World Finals, Melbourne, Australia"],["2026","Nihon Tengus (TAT)","Nihon Tengus (TAT)"],["2026–27","Selenge Bodons (MBA)","Selenge Bodons (MBA)"]]},
+  {g:"guard",no:0,name:"MUTSUKI KOJIMA",jp:"小島睦希",pos:"SG",h:187,w:92,dob:"2006-01-22",from:["愛知県","Aichi"],school:["Justice university","Justice university"],blood:"B",nat:["日本","Japan"],card:"JAPAN",ig:"mtsukikojima",img:"studio/kojima",img2:"misuki",
+    car:[["2024–25","横浜エクセレンス","Yokohama Excellence"],["2025–","Justice university","Justice university"]]},
+  {g:"guard",no:37,name:"KO TAKAHASHI",jp:"高橋幸",pos:"PG",h:169,w:70,dob:"2002-02-13",from:["神奈川県","Kanagawa"],school:["Terry Fox Secondary School（カナダ）","Terry Fox Secondary School (Canada)"],blood:"A",nat:["日本","Japan"],card:"JAPAN",ig:"kotakahashi.6",img:"studio/ko",img2:"ko",
+    car:[["2013–17","横浜ビー・コルセアーズ ジュニアユース U12–15","Yokohama B-Corsairs Junior Youth U12–15"],["2017–20","Terry Fox Secondary School（カナダ）","Terry Fox Secondary School (Canada)"],["2021–22","Vancouver Huskies（カナダ）","Vancouver Huskies (Canada)"],["2022–23","OKK Novi Pazar（セルビア1部）","OKK Novi Pazar (Serbia, 1st division)"],["2023–24","レバンガ北海道","Levanga Hokkaido"],["2026–","ニホンテングス","Nihon Tengus"]]},
+  {g:"guard",no:17,name:"YUTO TOKASHIKI",jp:"渡嘉敷温人",pos:"PG",h:174,w:72,dob:"1999-04-11",from:["沖縄県","Okinawa"],school:["名桜大学","Meio University"],blood:"A",nat:["日本","Japan"],card:"JAPAN",ig:"yuto_nukt_17",img:"studio/tokashiki",img2:"yuuta2",
+    car:[["2021–23","トライフープ岡山 サテライト","Tryhoop Okayama Satellite"],["2023.4–2023.9","沖縄ゼネラル","Okinawa General"],["2023.12","RBC東京","RBC Tokyo"],["2023–26","東京八王子ビートレインズ","Tokyo Hachioji Bee Trains"]]},
+  {g:"wing",no:1,name:"CARL TOMO YAHATA",jp:"矢幡カール知",pos:"G",h:180,w:75,dob:"1999-08-08",from:["Berkeley, California, USA","Berkeley, California, USA"],school:["UC Santa Cruz","UC Santa Cruz"],blood:"A",nat:["日本","Japan"],card:"JAPAN",ig:"cyahatap",img:"carl",
+    car:[["2024–25","San Jose Wolfpack (ABA)","San Jose Wolfpack (ABA)"],["2025","Yokohama Gigaspirits","Yokohama Gigaspirits"],["2025","Bridgeline.exe (3x3)","Bridgeline.exe (3x3)"],["2026","Tokyo Dime (3x3)","Tokyo Dime (3x3)"]]},
+  {g:"wing",no:8,name:"HIKARU DOI",jp:"土居光",pos:"SG / SF",h:188,w:88,dob:"1998-10-02",from:["福岡県","Fukuoka"],school:["日本体育大学","Nippon Sport Science University"],blood:"O",nat:["日本","Japan"],card:"JAPAN",ig:"h_hooper24",img:"studio/doi",img2:"doi",
+    car:[["2021–23","山口ペイトリオッツ","Yamaguchi Patriots"],["2023–24","豊田合成スコーピオンズ","Toyoda Gosei Scorpions"],["2024–25","八王子ビートレインズ","Tokyo Hachioji Bee Trains"],["2025–26","アースフレンズ東京Z","Earthfriends Tokyo Z"]]},
+  {g:"wing",no:7,name:"RIKU KATO",jp:"加藤陸",pos:"F",h:191,w:90,dob:"2003-02-09",from:["宮城県","Miyagi"],school:["拓殖大学","Takushoku University"],blood:"A",nat:["日本","Japan"],card:"JAPAN",ig:"riku__kato",img:"studio/kato",img2:"riky3",
+    car:[["2025–26","湘南ユナイテッドBC","Shonan United BC"]]},
+  {g:"big",no:32,name:"SIGURD HAKAMI SANDAL",jp:"",pos:"FORWARD",h:200,w:98,dob:"2001-08-07",from:["Oslo, Norway","Oslo, Norway"],school:["Lee-Ming Institute of Technology","Lee-Ming Institute of Technology"],nat:["ノルウェー / イギリス","Norway / UK"],card:"NORWAY / UK",ig:"sigurdsandal",img:"studio/sigurd",img2:"Sigrud_Sandal",
+    car:[["2026–27","Fyllingen Lions","Fyllingen Lions"],["2026","Bridgeline","Bridgeline"],["2025–26","Ammerud Basket","Ammerud Basket"],["2025","Bridgeline","Bridgeline"],["2023–25","Lee-Ming Institute of Technology","Lee-Ming Institute of Technology"]]},
+  {g:"big",no:14,name:"ROSS DAVIS JR",jp:"",pos:"SG / SF / PF",h:198,w:103,dob:"2001-09-13",from:["Beaverton, OR","Beaverton, OR"],blood:"O-",nat:["アメリカ","USA"],card:"USA",ig:"r.davisjr",img:"studio/ross",img2:"ross",
+    car:[["2022–23","University of Oregon（ウォークオン／練習生）","University of Oregon Walk-on / Practice player"],["2024–25","Diroex Tokyo (United 3x3)","Diroex Tokyo (United 3x3)"],["2025–26","Leovista.exe (3x3.EXE Premier) | Alest AGEO (Champions League / United 3x3)","Leovista.exe (3x3.EXE Premier) | Alest AGEO (Champions League / United 3x3)"],["2026","Japan National Selection | SUMMER JAM World Finals（オーストラリア・メルボルン）","Japan National Selection | SUMMER JAM World Finals, Melbourne, Australia"],["2026","Nihon Tengus (TAT)","Nihon Tengus (TAT)"],["2026–27","Hachinohe Dime.exe (3x3.EXE Premier)","Hachinohe Dime.exe (3x3.EXE Premier)"]]},
+  {g:"big",no:11,name:"JESMOND KOGOADDISON",jp:"向後アディソン ジェスモンド",pos:"PF",h:200,w:94,dob:"1999-12-09",from:["埼玉県","Saitama"],school:["大東文化大学","Daito Bunka University"],blood:"B",nat:["日本","Japan"],card:"JAPAN",ig:"addison__jjj",img:"studio/jes",img2:"jes",
+    car:[["2023–24","ヴィアティン三重","Veertien Mie"],["2024–26","アースフレンズ東京Z","Earthfriends Tokyo Z"]]}
 ];
+/* フロントオフィス（ロスターには出さず、スタッフ欄のカードから開く） */
+const LUKE={no:24,name:"LUKE CANNELL",jp:"カネル ルーク",pos:"SG / F",role:["フロントオフィス","FRONT OFFICE"],h:188,w:90,dob:"1998-04-23",from:["東京都","Tokyo"],school:["BYU","BYU"],nat:["日本","Japan"],ig:"lukeccomet",
+  car:[["2022–23","山口ペイトリオッツ","Yamaguchi Patriots"],["2023–","東京八王子ビートレインズ","Tokyo Hachioji Bee Trains"],["2024–25","トライデント3x3","Trident 3x3"],["2026–","立川ダイス3x3","Tachikawa Dice 3x3"]]};
 const GAMES=[
   {d:"08.17",w:"MON",opp:"MACAU BLACK KNIGHTS",v:"E4I2EfaOOJs"},
   {d:"08.18",w:"TUE",opp:"TAOYUAN LEOPARDS",v:"QVGyEzAOGsQ"},
@@ -772,20 +841,68 @@ function closeVideo(){
   vm.hidden=true;document.body.classList.remove('modal-open');
   if(lastFocus)lastFocus.focus({preventScroll:true});
 }
+
+/* ---------- プロフィールモーダル（選手・HC・フロントオフィス） ---------- */
+const L=(ja,en)=>`<span lang="ja">${ja}</span><span lang="en">${en}</span>`;
+const MON=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+const fmtD=(s,l)=>{const[y,m,d]=s.split('-').map(Number);return l==='ja'?`${y}年${m}月${d}日`:`${MON[m-1]} ${d}, ${y}`};
+const pm=document.getElementById('pmodal'),hm=document.getElementById('hcmodal'),pmc=document.getElementById('pmcontent');
+let pLast=null;
+function profileHTML(p){
+  const group=p.role?L(p.role[0],p.role[1]):GROUPS.find(g=>g.k===p.g).en;
+  const rows=[
+    [L('生年月日','BORN'),L(fmtD(p.dob,'ja'),fmtD(p.dob,'en'))],
+    [L('身長 / 体重','HEIGHT / WEIGHT'),`${p.h} cm / ${p.w} kg`],
+    [L('出身地','HOMETOWN'),L(...p.from)],
+    p.school&&[L('出身校','SCHOOL'),L(...p.school)],
+    p.blood&&[L('血液型','BLOOD TYPE'),p.blood],
+    [L('国籍','NATIONALITY'),L(...p.nat)]
+  ].filter(Boolean);
+  return `<div class="pp">
+    <div class="pp-ph">${p.img?`<img src="assets/players/${p.img}.webp" alt="${p.name}">`:`<img class="mask" src="assets/team/tengus_mask.webp" alt="">`}<span class="pp-num">${p.no}</span></div>
+    <div>
+      <div class="pp-pos">#${p.no} · ${p.pos} · ${group}</div>
+      <h3 class="pp-name">${p.name}${p.jp?`<small>${p.jp}</small>`:''}</h3>
+      <dl class="pp-dl">${rows.map(r=>`<div><dt>${r[0]}</dt><dd>${r[1]}</dd></div>`).join('')}</dl>
+      <div class="pp-h">CAREER<span lang="ja">経歴</span></div>
+      <ul class="pp-car">${p.car.map(c=>`<li><b>${c[0]}</b><span>${L(c[1],c[2])}</span></li>`).join('')}</ul>
+      <a class="pp-ig" href="https://www.instagram.com/${p.ig}/" target="_blank" rel="noopener">INSTAGRAM @${p.ig} ↗</a>
+    </div>
+  </div>`;
+}
+function openProfile(pid,trigger){
+  pLast=trigger||document.activeElement;
+  let m=hm;
+  if(pid!=='hc'){
+    const p=pid==='luke'?LUKE:PLAYERS.find(x=>String(x.no)===pid);if(!p)return;
+    pmc.innerHTML=profileHTML(p);pm.setAttribute('aria-label',p.name+' profile');m=pm;
+  }
+  m.hidden=false;document.body.classList.add('modal-open');
+  m.querySelector('.pm-scroll').scrollTop=0;
+  m.querySelector('.pm-x').focus({preventScroll:true});
+}
+function closeProfile(){
+  const m=[pm,hm].find(x=>!x.hidden);if(!m)return;
+  m.hidden=true;document.body.classList.remove('modal-open');
+  if(pLast)pLast.focus({preventScroll:true});
+}
 document.addEventListener('click',e=>{
   const c=e.target.closest('.vcard');if(c){openVideo(c.dataset.v,c.dataset.title);return}
-  if(e.target.closest('[data-close]'))closeVideo();
+  const d=e.target.closest('[data-pid]');if(d){openProfile(d.dataset.pid,d);return}
+  if(e.target.closest('[data-close]')){closeVideo();closeProfile()}
 });
-addEventListener('keydown',e=>{if(e.key==='Escape')closeVideo()});
+document.addEventListener('keydown',e=>{
+  if((e.key==='Enter'||e.key===' ')&&e.target.matches&&e.target.matches('[data-pid]')){e.preventDefault();openProfile(e.target.dataset.pid,e.target)}
+});
+addEventListener('keydown',e=>{if(e.key==='Escape'){closeVideo();closeProfile()}});
 
 /* ---------- ROSTER ---------- */
-const flag={JPN:"JAPAN",USA:"USA",NOR:"NORWAY"};
 const card=(p,i)=>`
-  <div class="player reveal" data-g="${p.g}" tabindex="0" style="transition-delay:${(i%4)*.06}s">
-    <img class="photo" src="assets/players/${p.img}.webp" alt="${p.name}" loading="lazy">${p.img2?`<img class="photo photo2" src="assets/players/${p.img2}.webp" alt="" loading="lazy">`:''}<span class="tint"></span><span class="pnum">${p.no}</span>
+  <div class="player reveal" data-g="${p.g}" data-pid="${p.no}" role="button" tabindex="0" aria-haspopup="dialog" aria-label="${p.name} PROFILE" style="transition-delay:${(i%4)*.06}s">
+    <img class="photo" src="assets/players/${p.img}.webp" alt="${p.name}" loading="lazy">${p.img2?`<img class="photo photo2" src="assets/players/${p.img2}.webp" alt="" loading="lazy">`:''}<span class="tint"></span><span class="more">PROFILE +</span><span class="pnum">${p.no}</span>
     <div class="info"><div class="pos">#${p.no} · ${GROUPS.find(g=>g.k===p.g).en}</div><div class="name">${p.name}</div>
     ${p.jp?`<div class="jpn">${p.jp}</div>`:''}
-    <div class="meta"><span><b>${p.h}</b> cm</span><span>${flag[p.nat]}</span></div></div>
+    <div class="meta"><span><b>${p.h}</b> cm</span><span>${p.card}</span></div></div>
     <span class="edge"></span>
   </div>`;
 document.getElementById('rgroups').innerHTML=GROUPS.map(g=>`
@@ -799,14 +916,6 @@ document.getElementById('rtabs').addEventListener('click',e=>{
   const f=b.dataset.f;
   document.querySelectorAll('.r-group').forEach(el=>{el.hidden=!(f==='all'||el.dataset.g===f);if(!el.hidden)el.querySelectorAll('.reveal').forEach(r=>r.classList.add('in'))});
 });
-// タップ端末: タップした選手だけ点灯（ホバーと同じ見た目）
-document.getElementById('rgroups').addEventListener('click',e=>{
-  const p=e.target.closest('.player');if(!p)return;
-  const on=!p.classList.contains('lit');
-  document.querySelectorAll('.player.lit').forEach(x=>x.classList.remove('lit'));
-  p.classList.toggle('lit',on);
-});
-
 /* ---------- LANG ---------- */
 function setLang(l){document.documentElement.dataset.lang=l;document.documentElement.lang=l;document.querySelectorAll('#lang button').forEach(b=>b.classList.toggle('on',b.dataset.l===l));try{localStorage.setItem('tg-lang',l)}catch(e){}}
 let _l='ja';try{_l=localStorage.getItem('tg-lang')||(/^ja/.test(navigator.language)?'ja':'en')}catch(e){}
