@@ -111,157 +111,226 @@ section{position:relative;padding:clamp(80px,12vw,150px) clamp(16px,4vw,48px)}
 .reveal{opacity:0;transform:translateY(40px);transition:opacity .9s cubic-bezier(.2,.8,.2,1),transform .9s cubic-bezier(.2,.8,.2,1)}
 .reveal.in{opacity:1;transform:none}
 
-/* ---------- NEWS ---------- */
-#news{background:var(--ink)}
-.news-grid{display:grid;grid-template-columns:1.3fr 1fr;gap:18px}
-.card{position:relative;background:var(--ink3);border:1px solid var(--line);overflow:hidden;min-height:260px;display:flex;flex-direction:column;justify-content:flex-end;padding:26px;transition:transform .4s,border-color .4s}
-.card:hover{transform:translateY(-6px);border-color:rgba(226,59,114,.5)}
-.card .art{position:absolute;inset:0;overflow:hidden}
-.card .art::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,rgba(7,7,10,.95))}
-.card.big{grid-row:span 2;min-height:540px}
-.card .cat{font-family:var(--display);letter-spacing:.2em;font-size:13px;color:var(--teal);position:relative}
-.card h3{position:relative;font-size:clamp(18px,1.8vw,26px);line-height:1.45;margin:10px 0 12px;font-weight:900}
-.card.big h3{font-size:clamp(22px,2.1vw,32px)}
-.card.big .art::after{background:linear-gradient(180deg,transparent 25%,rgba(7,7,10,.7) 50%,rgba(7,7,10,.97) 75%)}
-.card time{position:relative;font-family:var(--display);letter-spacing:.14em;color:var(--mute);font-size:13px}
-.art-a{background:
-  radial-gradient(70% 60% at 30% 30%,rgba(226,59,114,.55),transparent 60%),
-  radial-gradient(60% 60% at 80% 70%,rgba(67,184,174,.5),transparent 60%),#111}
-.art-a .bigtxt{position:absolute;top:8%;left:-2%;font-family:var(--display);font-size:clamp(90px,13vw,200px);line-height:.85;color:rgba(255,255,255,.08)}
-.art-a img{position:absolute;right:-6%;top:4%;width:64%;opacity:.9;transform:rotate(-8deg);filter:drop-shadow(0 20px 40px rgba(0,0,0,.6))}
-.art-b{background:repeating-linear-gradient(135deg,rgba(67,184,174,.14) 0 2px,transparent 2px 16px),linear-gradient(135deg,#0f2826,#0b0b10)}
-.art-c{background:repeating-linear-gradient(45deg,rgba(226,59,114,.16) 0 2px,transparent 2px 16px),linear-gradient(135deg,#2a0f1a,#0b0b10)}
-.art .num{position:absolute;right:18px;top:6px;font-family:var(--display);font-size:120px;line-height:1;color:rgba(255,255,255,.07)}
+:root{--gold:#d8b45a;--gold-d:#a8853a}
+.btn{display:inline-flex;align-items:center;gap:12px;font-family:var(--display);letter-spacing:.14em;font-size:18px;padding:18px 34px;background:linear-gradient(90deg,var(--teal),var(--pink));color:#fff;clip-path:polygon(14px 0,100% 0,calc(100% - 14px) 100%,0 100%);transition:filter .3s,transform .3s}
+.btn:hover{filter:brightness(1.12);transform:translateY(-2px)}
+.btn.ghost{background:transparent;box-shadow:inset 0 0 0 1px rgba(255,255,255,.4);clip-path:none}
+.btn.ghost:hover{box-shadow:inset 0 0 0 1px var(--teal);background:rgba(67,184,174,.1)}
+.note{margin-top:18px;font-size:12px;color:var(--mute);line-height:1.8}
+.nw{white-space:nowrap}
+.jp-sub{font-family:var(--jp);letter-spacing:.1em;font-size:12px;color:var(--mute);font-weight:700}
 
-/* ---------- SCHEDULE ---------- */
-#schedule{background:linear-gradient(180deg,var(--ink),var(--ink2))}
-.event-banner .ev-logo{width:clamp(72px,8vw,112px);height:auto;filter:invert(1);opacity:.92}
-.event-banner{display:grid;grid-template-columns:auto auto 1fr auto;align-items:center;gap:clamp(16px,3vw,40px);padding:clamp(22px,3vw,36px);background:linear-gradient(100deg,rgba(67,184,174,.16),rgba(226,59,114,.14));border:1px solid var(--line);margin-bottom:22px}
-.event-banner .ev-city{font-family:var(--display);font-size:clamp(46px,7vw,96px);line-height:.85}
-.event-banner .ev-meta{font-size:14px;color:#cfcdd6;line-height:1.9}
-.event-banner .ev-meta b{font-family:var(--display);font-weight:400;letter-spacing:.14em;color:#fff;font-size:18px;display:block}
-.event-banner .ev-flag{font-family:var(--display);letter-spacing:.2em;font-size:13px;color:var(--ink);background:var(--teal);padding:8px 14px}
-.games{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.game{background:var(--ink3);border:1px solid var(--line);padding:22px 22px 20px;position:relative;overflow:hidden;transition:border-color .3s,transform .3s}
-.game:hover{border-color:var(--teal);transform:translateY(-4px)}
-.game .g-top{display:flex;justify-content:space-between;font-family:var(--display);letter-spacing:.16em;font-size:13px;color:var(--mute)}
-.game .g-top .gn{color:var(--pink)}
-.game .date{font-family:var(--display);font-size:52px;line-height:1;margin:14px 0 4px}
-.game .date small{font-size:20px;color:var(--mute);margin-left:6px}
-.game .vs{display:flex;align-items:center;gap:12px;margin-top:14px;padding-top:14px;border-top:1px dashed var(--line)}
-.game .vs img{width:64px;flex:none}
-.game .vs i{font-style:normal;font-family:var(--display);color:var(--mute);letter-spacing:.1em}
-.game .vs b{font-family:var(--display);font-weight:400;font-size:21px;letter-spacing:.04em;line-height:1.1}
-a.game{display:block;color:inherit}
-.game .watch{display:inline-block;margin-top:14px;font-family:var(--display);letter-spacing:.14em;font-size:14px;color:var(--teal)}
-.game:hover .watch{color:#fff}
-.game::after{content:"";position:absolute;right:-30px;bottom:-30px;width:110px;height:110px;border-radius:50%;border:2px solid rgba(67,184,174,.14)}
-.note{margin-top:18px;font-size:12px;color:var(--mute)}
+/* ---------- 1. TEAM INFO ---------- */
+#team{background:#040406;overflow:hidden;padding-block:clamp(110px,15vw,200px)}
+#team .t-bg{position:absolute;inset:0;pointer-events:none;overflow:hidden}
+#team .t-mask{position:absolute;right:-12%;top:50%;transform:translateY(-50%);width:min(1100px,95vw);max-width:none;opacity:.16;mix-blend-mode:screen;filter:saturate(.7);-webkit-mask-image:radial-gradient(closest-side,#000 55%,transparent);mask-image:radial-gradient(closest-side,#000 55%,transparent)}
+#team .t-tat{position:absolute;left:-4%;bottom:-6%;width:min(520px,60vw);filter:invert(1);opacity:.05}
+#team .t-bg::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,#040406 18%,rgba(4,4,6,.55) 60%,rgba(4,4,6,.2)),linear-gradient(180deg,#040406,transparent 20%,transparent 80%,#040406)}
+#team .t-grain{position:absolute;inset:0;background:repeating-linear-gradient(0deg,rgba(255,255,255,.018) 0 1px,transparent 1px 3px);z-index:1}
+#team .wrap{position:relative;z-index:2}
+.stmt{display:grid;gap:clamp(40px,6vw,80px);max-width:1040px}
+.st-k{font-family:var(--display);letter-spacing:.22em;font-size:15px;color:var(--teal);display:flex;flex-wrap:wrap;align-items:center;gap:14px;margin-bottom:18px}
+.st-k::before{content:attr(data-n);color:var(--pink)}
+.st-k::after{content:"";flex:0 0 60px;height:1px;background:var(--line)}
+.st-k .jp{font-family:var(--jp);font-weight:900;letter-spacing:.08em;font-size:16px;color:#fff}
+.st-p{font-size:clamp(20px,2.4vw,34px);font-weight:900;line-height:1.75;letter-spacing:.02em;color:#f1eff4}
+html[data-lang="en"] .st-p{font-family:var(--jp);font-weight:700;line-height:1.55}
+.st-p em{font-style:normal;background:linear-gradient(90deg,var(--teal),var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
+.t-pillars{display:flex;flex-wrap:wrap;gap:10px 28px;margin-top:clamp(44px,6vw,72px);font-family:var(--display);letter-spacing:.24em;font-size:clamp(16px,1.6vw,20px);color:var(--mute)}
+.t-pillars b{font-weight:400;color:#fff}
+.t-pillars span{display:flex;align-items:baseline;gap:10px}
+.t-pillars small{font-family:var(--jp);letter-spacing:.06em;font-size:12px}
 
-/* ---------- ROSTER ---------- */
-#roster{background:var(--ink2);overflow:hidden}
-.filters{display:flex;gap:8px;flex-wrap:wrap}
-.filters button{font-family:var(--display);letter-spacing:.16em;font-size:15px;background:transparent;color:#cfcdd6;border:1px solid var(--line);padding:9px 18px;cursor:pointer;transition:.25s}
-.filters button.on,.filters button:hover{background:var(--white);color:var(--ink);border-color:var(--white)}
-.players{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
-.player{position:relative;aspect-ratio:3/4.2;background:linear-gradient(170deg,#1b1b23,#0c0c10 70%);border:1px solid var(--line);overflow:hidden;cursor:default;transition:transform .45s cubic-bezier(.2,.8,.2,1),border-color .3s,opacity .4s}
-.player:hover{transform:translateY(-8px);border-color:var(--pink)}
-.player.hide{display:none}
-.player .pnum{position:absolute;top:-4%;right:-4%;font-family:var(--display);font-size:clamp(120px,13vw,190px);line-height:1;color:transparent;-webkit-text-stroke:2px rgba(255,255,255,.12);transition:.45s}
-.player:hover .pnum{-webkit-text-stroke-color:transparent;color:rgba(226,59,114,.9);transform:scale(1.04)}
-.player .photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 20%;transition:transform .6s}
-.player:hover .photo{transform:scale(1.05)}
-.player .pnum{z-index:1}.player .info{z-index:2}.player .stripe{z-index:3}
-.player .info{position:absolute;left:0;right:0;bottom:0;padding:16px;background:linear-gradient(180deg,transparent,rgba(7,7,10,.96) 45%)}
-.player .pos{font-family:var(--display);letter-spacing:.2em;font-size:12px;color:var(--teal)}
-.player .name{font-family:var(--display);font-size:clamp(20px,1.8vw,26px);line-height:1;margin:6px 0 8px;letter-spacing:.02em}
-.player .meta{display:flex;gap:12px;font-size:11px;color:var(--mute);letter-spacing:.04em}
-.player .meta b{color:#fff;font-weight:700}
-.player .stripe{position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,var(--teal),var(--pink))}
+/* ---------- 2. TAT CONTENTS ---------- */
+#tat{background:radial-gradient(60% 50% at 85% 0%,rgba(226,59,114,.12),transparent 70%),#000}
+.tabs{display:flex;gap:0;border-bottom:1px solid var(--line);margin-bottom:34px;overflow:hidden}
+.tab{background:none;border:0;color:var(--mute);font-family:var(--display);letter-spacing:.14em;font-size:clamp(16px,1.8vw,22px);padding:16px clamp(12px,2vw,26px) 14px;cursor:pointer;position:relative;display:flex;align-items:baseline;gap:8px;transition:color .25s;white-space:nowrap}
+.tab .jp{font-family:var(--jp);font-weight:900;letter-spacing:.06em;font-size:.82em}
+.tab small{font-size:.7em;color:var(--pink);letter-spacing:.08em}
+.tab::after{content:"";position:absolute;left:0;right:0;bottom:-1px;height:3px;background:linear-gradient(90deg,var(--teal),var(--pink));transform:scaleX(0);transition:transform .35s}
+.tab[aria-selected="true"]{color:#fff}
+.tab[aria-selected="true"]::after{transform:scaleX(1)}
+.tab:hover{color:#fff}
+.panel-lead{color:#c9c7d0;line-height:1.95;font-size:14px;max-width:52em;margin-bottom:26px}
+.panel[hidden]{display:none}
+.panel.show{animation:pin .5s ease}
+@keyframes pin{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.vgrid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.vcard{display:block;width:100%;text-align:left;background:#0a0a0d;border:1px solid rgba(255,255,255,.07);color:inherit;font:inherit;cursor:pointer;padding:0;transition:transform .4s,border-color .4s,box-shadow .4s}
+.vcard:hover,.vcard:focus-visible{transform:translateY(-6px);border-color:rgba(226,59,114,.55);box-shadow:0 20px 50px rgba(0,0,0,.6),0 0 30px rgba(226,59,114,.18);outline:none}
+.v-th{display:block;position:relative;aspect-ratio:16/9;overflow:hidden;background:#111}
+.v-th img{width:100%;height:100%;object-fit:cover;filter:saturate(.55) brightness(.62) contrast(1.1);transition:filter .5s,transform .7s}
+.vcard:hover .v-th img,.vcard:focus-visible .v-th img{filter:saturate(1) brightness(.85);transform:scale(1.05)}
+.v-th::before,.v-th::after{content:"";position:absolute;left:0;right:0;height:9%;background:#000;z-index:1}
+.v-th::before{top:0}.v-th::after{bottom:0}
+.v-play{position:absolute;left:50%;top:50%;width:58px;height:58px;margin:-29px 0 0 -29px;border-radius:50%;border:1.5px solid rgba(255,255,255,.75);background:rgba(0,0,0,.35);backdrop-filter:blur(4px);-webkit-backdrop-filter:blur(4px);z-index:2;transition:transform .35s,background .35s,border-color .35s}
+.v-play::after{content:"";position:absolute;left:23px;top:18px;border-left:15px solid #fff;border-block:11px solid transparent}
+.vcard:hover .v-play{transform:scale(1.12);background:var(--pink);border-color:var(--pink)}
+.v-badge{position:absolute;left:12px;top:calc(9% + 10px);z-index:2;font-family:var(--display);letter-spacing:.14em;font-size:13px;background:var(--pink);padding:4px 10px}
+.v-badge.t{background:var(--teal);color:#07070a}
+.v-body{display:block;padding:16px 18px 20px;border-top:1px solid rgba(255,255,255,.06)}
+.v-k{font-family:var(--display);letter-spacing:.18em;font-size:12px;color:var(--mute)}
+.v-t{display:block;margin-top:6px;font-family:var(--display);font-size:clamp(20px,1.8vw,26px);letter-spacing:.03em;line-height:1.1}
+.v-q{display:block;margin-top:6px;font-size:14px;font-weight:700;line-height:1.65;line-break:strict}
+.vmore{margin-top:22px;display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+.vmore .note{margin:0}
+/* modal */
+.vmodal{position:fixed;inset:0;z-index:200;display:grid;place-items:center;padding:16px}
+.vmodal[hidden]{display:none}
+.vm-bg{position:absolute;inset:0;background:rgba(0,0,0,.88);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);animation:fade .3s}
+.vm-box{position:relative;width:min(1100px,100%);animation:pop .35s cubic-bezier(.2,.9,.2,1)}
+.vm-frame{position:relative;aspect-ratio:16/9;background:#000;box-shadow:0 30px 90px rgba(0,0,0,.8),0 0 0 1px rgba(255,255,255,.08)}
+.vm-frame iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.vm-bar{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-top:12px;font-family:var(--display);letter-spacing:.14em;font-size:14px;color:#cfcdd6}
+.vm-bar a{color:var(--teal)}
+.vm-x{position:absolute;right:0;top:-48px;width:40px;height:40px;border-radius:50%;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.3);color:#fff;font-size:24px;line-height:1;cursor:pointer}
+.vm-x:hover{background:var(--pink);border-color:var(--pink)}
+@keyframes fade{from{opacity:0}}
+@keyframes pop{from{opacity:0;transform:scale(.96)}}
+body.modal-open{overflow:hidden}
 
-/* ---------- STAFF ---------- */
+/* ---------- 3. OWNER & STAFF ---------- */
 #staff{background:var(--ink)}
-.coach{display:grid;grid-template-columns:1fr 1.3fr;gap:clamp(24px,5vw,72px);align-items:center}
-.coach-card{position:relative;aspect-ratio:4/5;background:linear-gradient(160deg,rgba(67,184,174,.22),transparent 55%),linear-gradient(20deg,rgba(226,59,114,.25),transparent 60%),var(--ink3);border:1px solid var(--line);overflow:hidden}
+.owner{position:relative;border:1px solid var(--line);padding:clamp(40px,7vw,110px) clamp(24px,6vw,96px);overflow:hidden;background:linear-gradient(135deg,rgba(255,255,255,.035),transparent 55%),#09090c;margin-bottom:clamp(60px,9vw,120px)}
+.owner::before{content:"OWNER";position:absolute;right:-2%;bottom:-14%;font-family:var(--display);font-size:clamp(120px,22vw,340px);line-height:1;color:transparent;-webkit-text-stroke:1px rgba(255,255,255,.05);pointer-events:none}
+.owner::after{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(180deg,var(--teal),var(--pink))}
+.ow-role{font-family:var(--display);letter-spacing:.38em;font-size:clamp(14px,1.4vw,18px);color:var(--pink);display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 16px}
+.ow-role .jp{font-family:var(--jp);font-weight:700;letter-spacing:.2em;font-size:13px;color:var(--mute)}
+.ow-name{font-family:var(--display);font-weight:400;font-size:clamp(64px,11vw,176px);line-height:.88;letter-spacing:.01em;margin:clamp(18px,2.4vw,30px) 0;position:relative}
+.ow-name span{display:block}
+.ow-name span+span{color:transparent;-webkit-text-stroke:1.5px rgba(255,255,255,.8)}
+.ow-foot{display:flex;align-items:center;gap:14px;font-family:var(--display);letter-spacing:.3em;font-size:13px;color:var(--mute);position:relative}
+.ow-foot::before{content:"";width:48px;height:1px;background:var(--mute)}
+.staff-h{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:clamp(30px,4vw,50px)}
+.staff-h b{font-family:var(--display);font-weight:400;letter-spacing:.3em;font-size:16px}
+.staff-h span{font-family:var(--display);letter-spacing:.2em;font-size:13px;color:var(--mute)}
+.coach{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.3fr);gap:clamp(24px,5vw,80px);align-items:center}
+.coach-card{position:relative;aspect-ratio:4/5;background:linear-gradient(160deg,rgba(67,184,174,.2),transparent 55%),linear-gradient(20deg,rgba(226,59,114,.22),transparent 60%),var(--ink3);border:1px solid var(--line);overflow:hidden}
 .coach-card .hc{position:absolute;left:24px;top:18px;font-family:var(--display);font-size:clamp(110px,14vw,210px);line-height:.85;color:rgba(255,255,255,.07)}
-.coach-card img{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:70%}
-.coach h3{font-family:var(--display);font-weight:400;font-size:clamp(48px,6vw,90px);line-height:.9}
-.coach .role{font-family:var(--display);letter-spacing:.3em;color:var(--pink);font-size:15px;margin-bottom:10px}
-.career{margin-top:28px;border-top:1px solid var(--line)}
-.career li{list-style:none;display:grid;grid-template-columns:200px 1fr;gap:18px;padding:18px 0;border-bottom:1px solid var(--line);font-size:14px;color:#d7d5dd;line-height:1.7}
-.career li b{font-family:var(--display);font-weight:400;letter-spacing:.08em;font-size:20px;color:#fff}
-
 .coach-card .coach-name-bg{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%) rotate(-90deg);font-family:var(--display);font-size:clamp(70px,9vw,140px);letter-spacing:.04em;color:transparent;-webkit-text-stroke:1.5px rgba(67,184,174,.28);white-space:nowrap}
 .coach-card .coach-photo{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:auto;height:92%;max-width:none;filter:drop-shadow(0 30px 50px rgba(0,0,0,.6)) drop-shadow(-12px 0 0 rgba(226,59,114,.35))}
 .coach-card .coach-tag{position:absolute;left:0;bottom:22px;background:linear-gradient(90deg,var(--pink),var(--pink-d));padding:10px 18px 10px 22px;clip-path:polygon(0 0,100% 0,calc(100% - 12px) 100%,0 100%)}
 .coach-tag b{display:block;font-family:var(--display);font-weight:400;letter-spacing:.2em;font-size:15px}
 .coach-tag span{font-family:var(--display);letter-spacing:.2em;font-size:11px;opacity:.85}
+.coach .role{font-family:var(--display);letter-spacing:.34em;color:var(--pink);font-size:15px;margin-bottom:10px}
+.coach h3{font-family:var(--display);font-weight:400;font-size:clamp(48px,6vw,90px);line-height:.9}
 .coach h3 small{display:block;font-family:var(--jp);font-weight:900;font-size:clamp(18px,2vw,26px);color:var(--teal);margin-top:10px;letter-spacing:.1em}
 .coach-lead{margin-top:20px;color:#d7d5dd;line-height:2;font-size:15px}
-.coach-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:26px}
+.coach-stats{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;margin-top:26px}
 .coach-stats div{border:1px solid var(--line);padding:16px;background:linear-gradient(180deg,rgba(255,255,255,.04),transparent)}
 .coach-stats b{display:block;font-family:var(--display);font-weight:400;font-size:clamp(34px,4vw,52px);line-height:1;background:linear-gradient(90deg,var(--teal),var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
 .coach-stats b i{font-style:normal;font-family:var(--jp);font-size:.45em}
 .coach-stats span{font-size:12px;color:var(--mute);line-height:1.5;display:block;margin-top:6px}
 .coach-stats b span{font-size:inherit;color:inherit;line-height:inherit;display:inline;margin:0}
-.coach>*,.coach-stats>div{min-width:0}
-.nw{white-space:nowrap}
+.staff-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:clamp(12px,2.4vw,28px);margin-bottom:clamp(70px,9vw,130px)}
+.scard{position:relative;border:1px solid var(--line);background:linear-gradient(170deg,#1b1b23,#0c0c10 70%);overflow:hidden;transition:border-color .45s,box-shadow .45s}
+.scard .s-ph{position:relative;aspect-ratio:16/11;overflow:hidden}
+.scard .s-ph img{width:100%;height:100%;object-fit:cover;object-position:50% 14%;filter:grayscale(1) contrast(1.1) brightness(.8);transition:filter .6s,transform .7s cubic-bezier(.2,.8,.2,1)}
+.scard .s-ph::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 45%,rgba(7,7,10,.85))}
+.scard.tba .s-ph img{object-fit:contain;padding:12%;opacity:.12;filter:grayscale(1)}
+.scard .s-info{display:flex;align-items:flex-end;justify-content:space-between;gap:10px 16px;flex-wrap:wrap;padding:clamp(14px,2vw,26px)}
+.scard .s-role{font-family:var(--display);font-size:clamp(34px,4.6vw,68px);line-height:.85;color:transparent;-webkit-text-stroke:1px var(--teal)}
+.scard .s-role small{display:block;-webkit-text-stroke:0;color:var(--teal);font-size:clamp(10px,1vw,13px);letter-spacing:.24em;margin-top:8px}
+.scard .s-name{font-family:var(--display);font-size:clamp(18px,2.1vw,30px);line-height:1;letter-spacing:.04em;text-align:right}
+.scard .s-name small{display:block;font-family:var(--jp);font-weight:900;font-size:clamp(11px,1vw,14px);letter-spacing:.08em;color:#d7d5dd;margin-top:6px}
+.scard.tba .s-name{color:var(--mute)}
+.scard:not(.tba):hover{border-color:var(--pink);box-shadow:0 0 0 1px var(--pink),0 0 30px rgba(226,59,114,.35)}
+.scard:not(.tba):hover .s-ph img{filter:grayscale(0) contrast(1.02) brightness(1);transform:scale(1.05)}
+.scard:not(.tba):hover .s-role{-webkit-text-stroke-color:var(--pink)}
+@media (max-width:640px){.scard .s-info{flex-direction:column;align-items:flex-start}.scard .s-name{text-align:left}}
+.career{margin-top:28px;border-top:1px solid var(--line)}
+.career li{list-style:none;display:grid;grid-template-columns:200px minmax(0,1fr);gap:18px;padding:16px 0;border-bottom:1px solid var(--line);font-size:14px;color:#d7d5dd;line-height:1.7}
+.career li b{font-family:var(--display);font-weight:400;letter-spacing:.08em;font-size:19px;color:#fff}
 .sns{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
 .sns a{font-family:var(--display);letter-spacing:.16em;font-size:14px;padding:10px 16px;border:1px solid var(--line);transition:.25s}
 .sns a:hover{border-color:var(--pink);background:rgba(226,59,114,.12)}
-.jp-sub{font-family:var(--jp);letter-spacing:.1em;font-size:12px;color:var(--mute);font-weight:700}
 
-/* ---------- IDENTITY ---------- */
-#identity{background:var(--ink2);overflow:hidden}
-.identity{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
-.id-block{border:1px solid var(--line);padding:clamp(24px,3.5vw,44px);position:relative;overflow:hidden;background:var(--ink3)}
-.id-block .kanji{position:absolute;right:-10px;bottom:-40px;font-size:clamp(150px,18vw,260px);font-weight:900;line-height:1;color:rgba(255,255,255,.05)}
-.id-block .en{font-family:var(--display);font-size:clamp(46px,6vw,84px);line-height:.9}
-.id-block .en.t{color:var(--pink)}
-.id-block .en.n{color:var(--teal)}
-.id-block p{margin-top:18px;color:#d7d5dd;line-height:2;font-size:15px;max-width:30em;position:relative}
-.pillars{grid-column:1/-1;display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
-.pillar{padding:30px;border:1px solid var(--line);background:linear-gradient(180deg,rgba(255,255,255,.03),transparent)}
-.pillar .pi{font-family:var(--display);color:var(--mute);letter-spacing:.2em;font-size:13px}
-.pillar h4{font-family:var(--display);font-weight:400;font-size:clamp(36px,4vw,56px);line-height:1;margin:10px 0 6px}
-.pillar span{color:#cfcdd6;font-size:14px}
-.colors{grid-column:1/-1;display:grid;grid-template-columns:repeat(4,1fr);height:160px;border:1px solid var(--line)}
-.colors div{display:flex;flex-direction:column;justify-content:flex-end;padding:16px;font-family:var(--display);letter-spacing:.14em;font-size:15px;transition:flex .4s}
-.colors small{font-family:var(--jp);font-size:11px;letter-spacing:.04em;opacity:.8;margin-top:4px}
-.marks{grid-column:1/-1}
-.marks .eyebrow{margin-bottom:16px}
-.marks-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
-.mark{margin:0;border:1px solid var(--line);background:#000;display:flex;flex-direction:column;overflow:hidden;transition:transform .35s,border-color .35s}
-.mark:hover{transform:translateY(-6px);border-color:var(--pink)}
-.mark .m-img{aspect-ratio:4/3;display:grid;place-items:center;padding:18px}
-.mark.light .m-img{background:#fff}
-.mark img{max-width:100%;max-height:100%;object-fit:contain}
-.mark figcaption{padding:12px 14px;font-family:var(--display);letter-spacing:.16em;font-size:14px;border-top:1px solid var(--line);background:var(--ink3)}
-.mark figcaption small{display:block;font-family:var(--jp);font-size:11px;letter-spacing:.04em;color:var(--mute);margin-top:2px}
-.quote{grid-column:1/-1;text-align:center;padding:clamp(40px,6vw,80px) 10px}
-.quote q{font-size:clamp(20px,2.6vw,34px);font-weight:900;line-height:1.7;quotes:"「" "」"}
+/* ---------- 4. ROSTER ---------- */
+#roster{background:var(--ink2);overflow:hidden}
+.rtabs{display:flex;flex-wrap:wrap;gap:8px}
+.rtabs button{font-family:var(--display);letter-spacing:.16em;font-size:15px;background:transparent;color:#cfcdd6;border:1px solid var(--line);padding:10px 18px;cursor:pointer;transition:.25s;display:flex;align-items:baseline;gap:8px}
+.rtabs button small{font-size:12px;color:var(--mute)}
+.rtabs button[aria-selected="true"],.rtabs button:hover{background:var(--white);color:var(--ink);border-color:var(--white)}
+.rtabs button[aria-selected="true"] small{color:var(--pink-d)}
+.r-group{margin-bottom:clamp(36px,5vw,56px)}
+.r-group[hidden]{display:none}
+.r-gh{display:flex;align-items:baseline;gap:14px;margin-bottom:16px;font-family:var(--display);letter-spacing:.24em;font-size:18px}
+.r-gh small{font-family:var(--jp);font-weight:700;letter-spacing:.1em;font-size:12px;color:var(--mute)}
+.r-gh::after{content:"";flex:1;height:1px;background:var(--line);align-self:center}
+.players{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
+.player{--glow:var(--pink);--glow2:var(--teal);position:relative;aspect-ratio:3/4.1;background:linear-gradient(170deg,#1b1b23,#0c0c10 70%);border:1px solid var(--line);overflow:hidden;cursor:pointer;outline:none;transition:transform .45s cubic-bezier(.2,.8,.2,1),border-color .35s,box-shadow .45s,opacity .9s}
+.player[data-g="wing"]{--glow:var(--teal);--glow2:var(--pink)}
+.player .photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:50% 20%;filter:grayscale(1) contrast(1.15) brightness(.78);transition:filter .6s,transform .7s cubic-bezier(.2,.8,.2,1)}
+.player .tint{position:absolute;inset:0;z-index:1;background:linear-gradient(200deg,var(--glow),transparent 45%),linear-gradient(20deg,var(--glow2),transparent 55%);mix-blend-mode:soft-light;opacity:0;transition:opacity .6s}
+.player .pnum{position:absolute;top:-4%;right:-3%;z-index:1;font-family:var(--display);font-size:clamp(110px,11vw,180px);line-height:1;color:transparent;-webkit-text-stroke:2px rgba(255,255,255,.14);transition:.5s}
+.player .info{position:absolute;left:0;right:0;bottom:0;z-index:2;padding:34px 16px 16px;background:linear-gradient(180deg,transparent,rgba(7,7,10,.82) 30%,rgba(7,7,10,.96) 55%)}
+.player .pos{font-family:var(--display);letter-spacing:.2em;font-size:12px;color:var(--glow);text-shadow:0 1px 6px rgba(0,0,0,.9)}
+.player .name{font-family:var(--display);font-size:clamp(20px,1.9vw,27px);line-height:1.1;margin:6px 0 6px;letter-spacing:.02em}
+.player .jpn{font-size:13px;font-weight:900;letter-spacing:.06em;color:#e9e7ee;margin-bottom:8px}
+.player .meta{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:11px;color:var(--mute);letter-spacing:.04em}
+.player .meta b{color:#fff;font-weight:700}
+.player .edge{position:absolute;inset:0;z-index:3;pointer-events:none;border:1px solid transparent;transition:.45s}
+.player:hover,.player.lit,.player:focus-visible{transform:translateY(-8px);border-color:var(--glow);box-shadow:0 0 0 1px var(--glow),0 0 22px color-mix(in srgb,var(--glow) 70%,transparent),0 0 60px color-mix(in srgb,var(--glow2) 35%,transparent)}
+.player:hover .photo,.player.lit .photo,.player:focus-visible .photo{filter:grayscale(0) saturate(1.15) contrast(1.05) brightness(1);transform:scale(1.08)}
+.player:hover .tint,.player.lit .tint,.player:focus-visible .tint{opacity:.55}
+.player .photo2{opacity:0;filter:grayscale(0) saturate(1.1) brightness(.95);transform:scale(1.04);transition:opacity .5s,transform .7s cubic-bezier(.2,.8,.2,1)}
+.player:hover .photo2,.player.lit .photo2,.player:focus-visible .photo2{opacity:1;transform:scale(1)}
+.player:hover .pnum,.player.lit .pnum,.player:focus-visible .pnum{-webkit-text-stroke-color:transparent;color:var(--glow);text-shadow:0 0 18px var(--glow),0 0 40px var(--glow);opacity:.85}
+.player:hover .edge,.player.lit .edge,.player:focus-visible .edge{border-color:color-mix(in srgb,var(--glow) 60%,#fff);box-shadow:inset 0 0 30px color-mix(in srgb,var(--glow) 40%,transparent)}
 
-/* ---------- SHOP ---------- */
-#shop{background:var(--ink)}
-.items{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
-.item{background:var(--ink3);border:1px solid var(--line);transition:transform .35s,border-color .35s;display:block}
-.item:hover{transform:translateY(-6px);border-color:var(--teal)}
-.item .ph{aspect-ratio:1;display:grid;place-items:center;position:relative;overflow:hidden;background:radial-gradient(60% 60% at 50% 45%,rgba(255,255,255,.07),transparent 70%)}
-.item .ph img{width:100%;height:100%;object-fit:cover;transition:transform .5s}
-.item:hover .ph img{transform:scale(1.04)}
-.item .it{padding:16px 18px 20px}
-.item .it b{display:block;font-weight:700;font-size:14px}
-.item .it span{font-family:var(--display);letter-spacing:.08em;color:var(--pink);font-size:20px;display:block;margin-top:6px}
+/* ---------- 5. TRYOUT ---------- */
+#tryout{background:#000;padding-block:clamp(70px,10vw,130px)}
+.try{position:relative;overflow:hidden;border:1px solid rgba(216,180,90,.35);background:radial-gradient(60% 90% at 100% 0%,rgba(67,184,174,.16),transparent 60%),radial-gradient(50% 80% at 0% 100%,rgba(216,180,90,.12),transparent 60%),#030304;padding:clamp(44px,7vw,100px) clamp(22px,6vw,90px);display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:clamp(30px,5vw,70px);align-items:end}
+.try::before{content:"TRYOUT";position:absolute;right:-1%;top:-8%;font-family:var(--display);font-size:clamp(110px,20vw,320px);line-height:1;color:transparent;-webkit-text-stroke:1px rgba(216,180,90,.13);pointer-events:none}
+.try::after{content:"";position:absolute;left:0;right:0;top:0;height:3px;background:linear-gradient(90deg,var(--gold),var(--teal),transparent)}
+.try>*{position:relative}
+.try .eyebrow{color:var(--gold)}
+.try-h{font-weight:900;font-size:clamp(34px,5.4vw,78px);line-height:1.2;letter-spacing:.01em}
+html[data-lang="en"] .try-h{font-family:var(--display);font-weight:400;line-height:.98;text-transform:uppercase}
+.try-h em{font-style:normal;background:linear-gradient(90deg,var(--gold),#f3dc9a 50%,var(--teal));-webkit-background-clip:text;background-clip:text;color:transparent}
+.try-lead{margin-top:20px;color:#cfcdd6;line-height:1.95;font-size:15px;max-width:34em}
+.try-cta{display:grid;gap:16px;justify-items:start}
+.btn-gold{display:inline-flex;align-items:center;gap:14px;font-family:var(--display);letter-spacing:.14em;font-size:clamp(18px,1.8vw,22px);padding:20px 34px;background:linear-gradient(90deg,var(--gold),#f0d48a);color:#0a0a0a;box-shadow:0 0 0 1px rgba(216,180,90,.6),0 14px 40px rgba(216,180,90,.22);transition:transform .3s,box-shadow .3s,filter .3s}
+.btn-gold .jp{font-family:var(--jp);font-weight:900;letter-spacing:.06em}
+.btn-gold:hover{transform:translateY(-2px);filter:brightness(1.06);box-shadow:0 0 0 1px var(--teal),0 0 34px rgba(67,184,174,.4)}
+.try-note{font-size:13px;color:#bdbbc4;line-height:1.85;border-left:2px solid var(--teal);padding-left:14px;max-width:30em}
 
-/* ---------- PARTNERS / CTA ---------- */
-#partners{background:linear-gradient(180deg,var(--ink),#0d0a0e);text-align:center;overflow:hidden}
-#partners .sec-title{margin-bottom:24px}
-#partners p{color:#cfcdd6;line-height:2;max-width:40em;margin:0 auto 36px}
-.btn{display:inline-flex;align-items:center;gap:12px;font-family:var(--display);letter-spacing:.16em;font-size:18px;padding:18px 38px;background:linear-gradient(90deg,var(--teal),var(--pink));color:#fff;clip-path:polygon(14px 0,100% 0,calc(100% - 14px) 100%,0 100%);transition:filter .3s,transform .3s}
-.btn:hover{filter:brightness(1.12);transform:translateY(-2px)}
-.btn.ghost{background:transparent;border:1px solid rgba(255,255,255,.4);clip-path:none}
-.slots{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;max-width:980px;margin:48px auto 0}
-.slots div{aspect-ratio:2/1;border:1px dashed rgba(255,255,255,.18);display:grid;place-items:center;font-family:var(--display);letter-spacing:.2em;color:var(--mute);font-size:14px}
+/* ---------- 6. GOODS ---------- */
+#goods{background:var(--ink);padding-block:clamp(60px,9vw,120px)}
+.goods{position:relative;display:block;overflow:hidden;border:1px solid var(--line);background:linear-gradient(110deg,#0b0b0f 40%,#121218);padding:clamp(44px,7vw,96px) clamp(22px,6vw,90px);min-height:clamp(320px,34vw,460px);transition:border-color .4s}
+.goods:hover{border-color:rgba(67,184,174,.5)}
+.goods .gimg{position:absolute;top:50%;width:clamp(240px,30vw,440px);max-width:none;filter:invert(1) hue-rotate(180deg) grayscale(.3);mix-blend-mode:screen;opacity:.1;transform:translateY(-50%) rotate(var(--r));transition:opacity .6s,transform .8s cubic-bezier(.2,.8,.2,1);pointer-events:none}
+.goods .g1{right:16%;--r:-6deg}
+.goods .g2{right:-4%;--r:7deg}
+.goods:hover .gimg{opacity:.16;transform:translateY(-52%) rotate(var(--r)) scale(1.03)}
+.goods .g-in{position:relative;max-width:640px}
+.goods .sec-title{font-size:clamp(46px,7vw,104px)}
+.goods p{margin-top:18px;color:#cfcdd6;font-size:15px;line-height:1.9}
+.store-link{display:inline-flex;align-items:center;gap:16px;margin-top:30px;font-family:var(--display);letter-spacing:.12em;font-size:clamp(22px,2.6vw,34px);padding:18px 30px;border:1px solid rgba(255,255,255,.6);transition:.35s}
+.store-link .jp{font-family:var(--jp);font-weight:900;letter-spacing:.06em;font-size:.82em}
+.store-link i{font-style:normal;transition:transform .35s}
+.goods:hover .store-link{background:#fff;color:var(--ink);border-color:#fff}
+.goods:hover .store-link i{transform:translate(4px,-4px)}
+
+/* ---------- 7. SPONSORS & CONTACT ---------- */
+#contact{background:linear-gradient(180deg,var(--ink),#0b090d);overflow:hidden}
+.sp-lead{color:#cfcdd6;line-height:2;font-size:15px;max-width:44em;margin:-14px 0 30px}
+.sp-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.sp-slot{aspect-ratio:2/1;background:#0a0a0d;display:grid;place-items:center;align-content:center;gap:4px;text-align:center;filter:grayscale(1);opacity:.6;transition:filter .45s,opacity .45s,background .45s}
+.sp-slot b{font-family:var(--display);font-weight:400;letter-spacing:.24em;font-size:clamp(16px,1.7vw,22px);background:linear-gradient(90deg,var(--teal),var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
+.sp-slot span{font-family:var(--display);letter-spacing:.2em;font-size:11px;color:var(--mute)}
+.sp-slot:hover{filter:none;opacity:1;background:radial-gradient(70% 90% at 50% 50%,rgba(226,59,114,.14),transparent),#0d0d11}
+.sp-perks{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 0}
+.sp-perks li{list-style:none;border:1px solid var(--line);padding:9px 14px;font-size:12px;color:#cfcdd6;display:flex;gap:10px;align-items:baseline}
+.sp-perks li b{font-family:var(--display);font-weight:400;letter-spacing:.14em;font-size:14px;color:#fff}
+.contact{margin-top:clamp(50px,7vw,90px);display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.c-row{background:#08080b;padding:clamp(26px,3.5vw,44px);display:flex;flex-direction:column;gap:14px;align-items:flex-start}
+.c-row .k{font-family:var(--display);letter-spacing:.26em;font-size:13px;color:var(--teal)}
+.c-row h3{font-size:clamp(20px,2vw,26px);font-weight:900;line-height:1.5}
+html[data-lang="en"] .c-row h3{font-family:var(--display);font-weight:400;letter-spacing:.04em;font-size:clamp(24px,2.4vw,32px);line-height:1.1}
+.c-row p{font-size:13px;color:var(--mute);line-height:1.8;flex:1}
+.c-row .btn{font-size:16px;padding:15px 26px}
+.c-row .btn .jp{font-family:var(--jp);font-weight:900;letter-spacing:.06em}
 
 /* ---------- FOOTER ---------- */
 footer{background:#040406;padding:70px clamp(16px,4vw,48px) 30px;border-top:1px solid var(--line)}
@@ -272,51 +341,20 @@ footer{background:#040406;padding:70px clamp(16px,4vw,48px) 30px;border-top:1px 
 .f-top ul{list-style:none;display:grid;gap:10px;font-size:14px;color:#cfcdd6}
 .f-top ul a:hover{color:var(--pink)}
 .f-bot{max-width:1280px;margin:50px auto 0;padding-top:22px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;font-size:12px;color:var(--mute);flex-wrap:wrap}
-.f-huge{font-family:var(--display);font-size:clamp(70px,17vw,280px);line-height:.8;text-align:center;margin-top:60px;background:linear-gradient(180deg,rgba(255,255,255,.12),transparent 85%);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:.02em;user-select:none}
+.f-huge{font-family:var(--display);font-size:clamp(70px,17vw,280px);line-height:.8;text-align:center;margin-top:60px;background:linear-gradient(180deg,rgba(255,255,255,.12),transparent 85%);-webkit-background-clip:text;background-clip:text;color:transparent;letter-spacing:.02em;user-select:none;white-space:nowrap;overflow:hidden}
 
-/* ---------- DOCUMENTARY ---------- */
-#documentary{background:radial-gradient(60% 50% at 80% 0%,rgba(226,59,114,.14),transparent 70%),var(--ink2)}
-.doc-lead{color:#d7d5dd;line-height:2;font-size:15px;max-width:46em;margin:-20px 0 36px}
-.eps{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
-.ep{display:block;background:var(--ink3);border:1px solid var(--line);transition:transform .35s,border-color .35s}
-.ep:hover{transform:translateY(-6px);border-color:var(--pink)}
-.ep-th{position:relative;aspect-ratio:16/9;overflow:hidden;background:#111}
-.ep-th img{width:100%;height:100%;object-fit:cover;filter:saturate(.85) brightness(.8);transition:.4s}
-.ep:hover .ep-th img{filter:none;transform:scale(1.05)}
-.ep-no{position:absolute;left:0;top:10px;font-family:var(--display);letter-spacing:.14em;font-size:15px;background:var(--pink);padding:4px 12px}
-.play{position:absolute;right:12px;bottom:12px;width:40px;height:40px;border-radius:50%;background:rgba(7,7,10,.7);border:1px solid rgba(255,255,255,.4)}
-.play::after{content:"";position:absolute;left:16px;top:12px;border-left:12px solid #fff;border-block:8px solid transparent}
-.ep p{padding:14px 16px 18px;font-size:14px;font-weight:700;line-height:1.6}
-.eps .ep:first-child{grid-column:span 2}
-.eps .ep:first-child p{font-size:clamp(16px,1.6vw,22px)}
-@media (min-width:1081px){.eps .ep:first-child{display:grid;grid-template-columns:1.3fr 1fr}.eps .ep:first-child .ep-th{aspect-ratio:auto;height:100%}.eps .ep:first-child p{align-self:center;padding:18px 22px}}
 /* ---------- LANG ---------- */
 html[data-lang="ja"] [lang="en"],html[data-lang="en"] [lang="ja"]{display:none}
 .lang{display:flex;border:1px solid var(--line);margin-left:auto;margin-right:14px}
 .lang button{background:none;border:0;color:var(--mute);font-family:var(--display);letter-spacing:.12em;font-size:14px;padding:7px 10px;cursor:pointer}
 .lang button.on{background:var(--white);color:var(--ink)}
-/* ---------- PERKS ---------- */
-.perks{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin:10px auto 44px;text-align:left}
-.perk{border:1px solid var(--line);padding:22px 18px;background:linear-gradient(180deg,rgba(67,184,174,.08),transparent)}
-.perk i{font-style:normal;font-family:var(--display);color:var(--pink);letter-spacing:.2em;font-size:13px}
-.perk b{display:block;font-family:var(--display);font-weight:400;font-size:26px;letter-spacing:.04em;margin:8px 0}
-.perk span{font-size:13px;color:#cfcdd6;line-height:1.7}
-#partners p.small{font-size:12px;color:var(--mute);margin:18px auto 0}
-@media (max-width:1080px){.eps{grid-template-columns:repeat(2,1fr)}.perks{grid-template-columns:repeat(6,1fr)}.perk{grid-column:span 2}.perk:nth-child(n+4){grid-column:span 3}}
-@media (max-width:560px){.eps{grid-template-columns:1fr}.eps .ep:first-child{grid-column:auto;grid-row:auto}.perks{grid-template-columns:1fr 1fr}.perks .perk{grid-column:auto}#partners .perks>.perk:last-child{grid-column:1/-1}.coach-stats{grid-template-columns:repeat(3,minmax(0,1fr))}.coach-stats div{padding:14px 10px}.coach-stats b{font-size:28px}}
 
 /* ---------- 改行 ---------- */
 body{text-wrap:pretty}
 :lang(ja){word-break:auto-phrase}
-.coach-stats span,.perk span,.ep p{line-break:strict}
-@media (max-width:560px){.sec-title{line-height:1}}
+.coach-stats span,.try-note,.c-row p{line-break:strict}
 
 /* ---------- RESPONSIVE ---------- */
-@media (max-width:1080px){
-  .players{grid-template-columns:repeat(4,1fr)}
-  .items{grid-template-columns:repeat(2,1fr)}
-  .games{grid-template-columns:repeat(2,1fr)}
-}
 @media (max-width:1500px){
   nav ul{gap:clamp(12px,1.4vw,22px)}
   nav a{font-size:15px;letter-spacing:.1em}
@@ -329,40 +367,49 @@ body{text-wrap:pretty}
   nav a{font-size:34px}
   .burger{display:block;z-index:60}
 }
+@media (max-width:1080px){
+  .vgrid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .players{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .try{grid-template-columns:1fr;align-items:start}
+}
 @media (max-width:860px){
   .h-cta{display:none}
-  .news-grid{grid-template-columns:1fr}
-  .card.big{min-height:420px}
-  .players{grid-template-columns:repeat(2,1fr)}
-  .coach,.identity,.pillars{grid-template-columns:1fr}
-  .colors{grid-template-columns:repeat(2,1fr);height:auto}
-  .colors div{height:110px}
-  .event-banner{grid-template-columns:1fr}
-  .marks-grid{grid-template-columns:repeat(2,1fr)}
-  .f-top{grid-template-columns:1fr}
-  .slots{grid-template-columns:repeat(2,1fr)}
-  .career li{grid-template-columns:1fr;gap:4px}
   .hero-side{display:none}
+  .coach{grid-template-columns:1fr}
+  .career li{grid-template-columns:1fr;gap:4px}
+  .players{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .sp-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .contact{grid-template-columns:1fr}
+  .f-top{grid-template-columns:1fr}
+  .goods .g1{right:30%}
+  .goods .gimg{opacity:.08}
 }
 @media (max-width:560px){
-  .games{grid-template-columns:1fr}
-  .items{grid-template-columns:1fr 1fr}
   .hero-copy p{display:none}
+  .sec-title{line-height:1}
+  .vgrid{grid-template-columns:1fr}
+  .tab{font-size:15px;padding-inline:10px;gap:6px}
+  .tab small{display:none}
+  .players{gap:10px}
+  .player .info{padding:12px}
+  .player .name{font-size:18px}
+  .player .jpn{font-size:12px}
+  .coach-stats div{padding:14px 10px}
+  .coach-stats b{font-size:28px}
+  .goods .g1{right:-20%;top:28%}
+  .goods .g2{display:none}
+  .store-link{padding:16px 20px}
+  .btn-gold{padding:18px 24px}
+  .t-pillars{flex-direction:column;gap:8px}
+  .st-k::after{display:none}
+  .sp-slot:nth-child(n+5){display:none}
 }
 @media (prefers-reduced-motion:reduce){
   .ticker .track{animation:none}
   .reveal{opacity:1;transform:none}
 }
+
 </style>
-<!-- ga4:start build_seo.py が自動生成。手で編集しない -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-D2CX26H018"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-D2CX26H018');
-</script>
-<!-- ga4:end -->
 </head>
 <body>
 
@@ -375,18 +422,17 @@ gtag('config', 'G-D2CX26H018');
   <a class="brand" href="#hero" aria-label="NIHON TENGUS ホーム"><img src="assets/logo.webp" alt=""><b>NIHON TENGUS</b></a>
   <nav id="nav">
     <ul>
-      <li><a href="#news">NEWS</a></li>
-      <li><a href="#schedule">SCHEDULE</a></li>
-      <li><a href="#roster">ROSTER</a></li>
+      <li><a href="#team">TEAM</a></li>
+      <li><a href="#tat">TAT</a></li>
       <li><a href="#staff">STAFF</a></li>
-      <li><a href="#documentary">DOCUMENTARY</a></li>
-      <li><a href="#identity">TEAM</a></li>
-      <li><a href="#shop">SHOP</a></li>
-      <li><a href="#partners">SPONSOR</a></li>
+      <li><a href="#roster">ROSTER</a></li>
+      <li><a href="#tryout">TRYOUT</a></li>
+      <li><a href="#goods">GOODS</a></li>
+      <li><a href="#contact">CONTACT</a></li>
     </ul>
   </nav>
   <div class="lang" id="lang"><button data-l="ja">JP</button><button data-l="en">EN</button></div>
-  <a class="h-cta" href="#shop">OFFICIAL STORE</a>
+  <a class="h-cta" href="https://nihontengus.com/collections/all" target="_blank" rel="noopener">OFFICIAL STORE ↗</a>
   <button class="burger" id="burger" aria-label="メニュー"><i></i><i></i><i></i></button>
 </header>
 
@@ -423,243 +469,242 @@ gtag('config', 'G-D2CX26H018');
 <div class="ticker"><div class="track" id="t1"></div></div>
 <div class="ticker teal"><div class="track" id="t2"></div></div>
 
-<!-- ================= NEWS ================= -->
-<section id="news">
+<!-- ================= 1. TEAM INFO ================= -->
+<section id="team">
+  <div class="t-bg" aria-hidden="true">
+    <img class="t-mask" src="assets/team/tengus_mask.webp" alt="" loading="lazy">
+    <img class="t-tat" src="assets/team/tatlogo.webp" alt="" loading="lazy">
+    <div class="t-grain"></div>
+  </div>
   <div class="wrap">
     <div class="sec-head reveal">
-      <div><div class="eyebrow">LATEST</div><h2 class="sec-title">NEWS</h2></div>
-      <a class="more" href="https://nihontengus.com/" target="_blank" rel="noopener">ALL NEWS</a>
+      <div><div class="eyebrow">TEAM INFO<span class="jp-sub" lang="ja">チーム情報</span></div><h2 class="sec-title">WHO WE<br><span class="o">ARE</span></h2></div>
     </div>
-    <div class="news-grid">
-      <a class="card big reveal" href="https://nihontengus.com/" target="_blank" rel="noopener">
-        <div class="art art-a"><div class="bigtxt">ASIA<br>2026</div><img src="assets/logo.webp" alt=""></div>
-        <span class="cat">TOURNAMENT</span>
-        <h3>The tournament may be over.<br>The journey is just beginning.<br><span lang="ja">成都で、アジアへの挑戦が始まった。</span><span lang="en">Our challenge in Asia began in Chengdu.</span></h3>
-        <time>AUG 2026 · CHENGDU, CHINA</time>
-      </a>
-      <a class="card reveal" href="#schedule">
-        <div class="art art-b"><span class="num">06</span></div>
-        <span class="cat">SCHEDULE</span>
-        <h3><span lang="ja">The Asian Tournament 成都大会、全6試合を戦い抜く</span><span lang="en">Six games fought through at The Asian Tournament, Chengdu</span></h3>
-        <time>AUG 17 – AUG 23, 2026</time>
-      </a>
-      <a class="card reveal" href="#roster">
-        <div class="art art-c"><span class="num">10</span></div>
-        <span class="cat">ROSTER</span>
-        <h3><span lang="ja">日本・アメリカ・ノルウェー。多国籍ロスター10名を紹介</span><span lang="en">Japan, USA, Norway — meet our 10-man international roster</span></h3>
-        <time>2026 SEASON</time>
-      </a>
+    <div class="stmt">
+      <div class="reveal">
+        <div class="st-k" data-n="01"><span lang="ja" class="jp">Nihon Tengusとは</span><span lang="en">ABOUT NIHON TENGUS</span></div>
+        <p class="st-p"><span lang="ja">「日本」にルーツを持ち、民間伝承の「天狗」が象徴する<em>存在感・規律・強さ</em>を背負う。NIHON TENGUS は、アジアの国際舞台で戦うために生まれた独立系バスケットボールチーム。過剰さではなく、自信と自制、そして<em>コントロール</em>で戦う。</span><span lang="en">Rooted in Japan, carrying the <em>presence, discipline and strength</em> of the Tengu from Japanese folklore. NIHON TENGUS is an independent basketball team built for Asia's international stage — competing with confidence, restraint and <em>control</em>, not excess.</span></p>
+      </div>
+      <div class="reveal">
+        <div class="st-k" data-n="02"><span lang="ja" class="jp">TAT（The Asian Tournament）への挑戦</span><span lang="en">THE CHALLENGE · THE ASIAN TOURNAMENT (TAT)</span></div>
+        <p class="st-p"><span lang="ja">2026年8月、中国・成都。アジア各地のチームが集う The Asian Tournament で、全6試合を戦い抜いた。大会は終わった。けれど、旅は<em>ここから始まる</em>。次の大会サイクルへ——アジアで、戦い続ける。</span><span lang="en">August 2026, Chengdu, China. At The Asian Tournament, where teams from across Asia gather, we fought through all six games. The tournament may be over — <em>the journey is just beginning</em>. Into the next tournament cycle, we keep competing in Asia.</span></p>
+      </div>
+    </div>
+    <div class="t-pillars reveal">
+      <span><b>DISCIPLINE</b><small lang="ja">規律ある準備</small></span>
+      <span><b>RESILIENCE</b><small lang="ja">どんな環境でも戦い抜く</small></span>
+      <span><b>PRESENCE</b><small lang="ja">アジアに存在感を示す</small></span>
     </div>
   </div>
 </section>
 
-<!-- ================= SCHEDULE ================= -->
-<section id="schedule">
+<!-- ================= 2. TAT CONTENTS ================= -->
+<section id="tat">
   <div class="wrap">
     <div class="sec-head reveal">
-      <div><div class="eyebrow">THE ASIAN TOURNAMENT</div><h2 class="sec-title">SCHEDULE<br><span class="o">&amp; GAMES</span></h2></div>
+      <div><div class="eyebrow">THE ASIAN TOURNAMENT<span class="jp-sub" lang="ja">過去大会アーカイブ ＆ ドキュメンタリー</span></div><h2 class="sec-title">TAT<br><span class="o">FILMS</span></h2></div>
       <a class="more" href="https://nihontengus.com/ja/pages/theasiantournament" target="_blank" rel="noopener">TOURNAMENT INFO</a>
     </div>
-    <div class="event-banner reveal">
-      <img class="ev-logo" src="assets/team/tatlogo.webp" alt="The Asian Tournament" loading="lazy">
-      <div class="ev-city">CHENGDU</div>
-      <div class="ev-meta"><b>THE ASIAN TOURNAMENT 2026</b><span lang="ja">中国・成都 ／ 中国・香港・マカオ・フィリピンなどアジア各地のチームが集う国際大会。試合は YouTube チャンネル「The Asian Tournament」で配信。</span><span lang="en">Chengdu, China — an international tournament bringing together teams from China, Hong Kong, Macau, the Philippines and across Asia. Games stream on the "The Asian Tournament" YouTube channel.</span></div>
-      <div class="ev-flag">6 GAMES</div>
+    <div class="tabs reveal" role="tablist" id="vtabs">
+      <button class="tab" role="tab" id="tab-live" aria-controls="p-live" aria-selected="true">CHENGDU <span lang="ja" class="jp">ライブアーカイブ</span><span lang="en">LIVE ARCHIVE</span><small>06</small></button>
+      <button class="tab" role="tab" id="tab-doc" aria-controls="p-doc" aria-selected="false"><span lang="ja" class="jp">ドキュメンタリー</span><span lang="en">DOCUMENTARY</span><small>07</small></button>
     </div>
-    <div class="games" id="games"></div>
-    <p class="note">※ <span lang="ja">試合映像は大会公式 YouTube「The Asian Tournament」。スコアは公式発表をご確認ください。</span><span lang="en">Game footage: The Asian Tournament official YouTube. Please refer to official announcements for scores.</span></p>
+    <div class="panel show" id="p-live" role="tabpanel" aria-labelledby="tab-live">
+      <p class="panel-lead"><span lang="ja">The Asian Tournament 2026 成都大会（8/17〜8/23）の全6試合。大会公式 YouTube のフル試合映像をこのページで再生できます。</span><span lang="en">All six games from The Asian Tournament 2026 in Chengdu (Aug 17–23). Full-game footage from the tournament's official YouTube plays right here.</span></p>
+      <div class="vgrid" id="g-live"></div>
+      <p class="note">※ <span lang="ja">試合映像は大会公式 YouTube「The Asian Tournament」。スコアは公式発表をご確認ください。</span><span lang="en">Game footage: The Asian Tournament official YouTube. Please refer to official announcements for scores.</span></p>
+    </div>
+    <div class="panel" id="p-doc" role="tabpanel" aria-labelledby="tab-doc" hidden>
+      <p class="panel-lead"><span lang="ja">ヘッドコーチ・ハレルヤの YouTube <span class="nw">『Be a baller』</span>で配信中の密着シリーズ。チーム結成から成都での戦いまで、ベンチの中の言葉をそのまま届ける。</span><span lang="en">The documentary series on head coach Hallelujah's YouTube <span class="nw">"Be a baller"</span> — from forming the team to the games in Chengdu, with every word from the bench left in.</span></p>
+      <div class="vgrid" id="g-doc"></div>
+      <div class="vmore"><p class="note">※ <span lang="ja">エピソードは随時追加。</span><span lang="en">New episodes are added over time.</span></p><a class="more" href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">BE A BALLER ON YOUTUBE</a></div>
+    </div>
   </div>
 </section>
 
-<!-- ================= ROSTER ================= -->
+<!-- ================= 3. OWNER & STAFF ================= -->
+<section id="staff">
+  <div class="wrap">
+    <div class="sec-head reveal">
+      <div><div class="eyebrow">OWNER &amp; STAFF<span class="jp-sub" lang="ja">チームオーナー ＆ スタッフ</span></div><h2 class="sec-title">THE<br><span class="o">LEADERSHIP</span></h2></div>
+    </div>
+    <div class="owner reveal">
+      <div class="ow-role">TEAM OWNER<span class="jp" lang="ja">チームオーナー</span></div>
+      <h3 class="ow-name"><span>MICHAEL</span><span>PARKER</span></h3>
+      <div class="ow-foot">NIHON TENGUS</div>
+    </div>
+    <div class="staff-h reveal"><b>STAFF</b><span><span lang="ja">スタッフ</span><span lang="en">2026</span></span></div>
+    <div class="staff-grid">
+      <div class="scard tba reveal"><div class="s-ph"><img src="assets/team/tengus_mask.webp" alt="" loading="lazy"></div><div class="s-info"><div class="s-role">GM<small><span lang="ja">ゼネラルマネージャー</span><span lang="en">General Manager</span></small></div><div class="s-name">TBA<small><span lang="ja">準備中</span><span lang="en">Coming soon</span></small></div></div></div>
+      <div class="scard reveal"><div class="s-ph"><img src="assets/staff/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy"></div><div class="s-info"><div class="s-role">HC<small><span lang="ja">ヘッドコーチ</span><span lang="en">Head Coach</span></small></div><div class="s-name">HALLELUJAH<small>ハレルヤ</small></div></div></div>
+      <div class="scard tba reveal"><div class="s-ph"><img src="assets/team/tengus_mask.webp" alt="" loading="lazy"></div><div class="s-info"><div class="s-role">AC<small><span lang="ja">アシスタントコーチ</span><span lang="en">Assistant Coach</span></small></div><div class="s-name">TBA<small><span lang="ja">準備中</span><span lang="en">Coming soon</span></small></div></div></div>
+      <div class="scard reveal"><div class="s-ph"><img src="assets/staff/sugawara.webp" alt="スタッフ 菅原海生" loading="lazy"></div><div class="s-info"><div class="s-role">STAFF<small><span lang="ja">チームスタッフ</span><span lang="en">Team Staff</span></small></div><div class="s-name">SUGAWARA<small>菅原海生</small></div></div></div>
+    </div>
+    <div class="staff-h reveal"><b>HEAD COACH PROFILE</b><span><span lang="ja">ヘッドコーチ紹介</span><span lang="en">HALLELUJAH</span></span></div>
+    <div class="coach">
+      <div class="coach-card reveal">
+        <div class="hc">HC</div>
+        <div class="coach-name-bg">HALLELUJAH</div>
+        <img class="coach-photo" src="assets/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy">
+        <div class="coach-tag"><b>HEAD COACH</b><span>NIHON TENGUS 2026</span></div>
+      </div>
+      <div class="reveal">
+        <div class="role">HEAD COACH</div>
+        <h3>HALLELUJAH<small>ハレルヤ</small></h3>
+        <p class="coach-lead"><span lang="ja">Bリーグの現場でビデオ・スカウティング・スキル育成を担い、YouTube<span class="nw">『Be a baller』</span>でコーチ目線のNBA戦術を発信するタクティシャン。アジアの舞台で、テングスの戦い方を設計する。</span><span lang="en">A tactician who worked in B.LEAGUE video, scouting and skill development, and breaks down NBA tactics from a coach's eye on his YouTube channel <span class="nw">"Be a baller"</span>. Now he designs how the Tengus compete in Asia.</span></p>
+        <div class="coach-stats">
+          <div><b><span lang="ja">10.1<i>万</i></span><span lang="en">101<i>K</i></span></b><span lang="ja">YouTube登録者</span><span lang="en">YouTube subs (101K)</span></div>
+          <div><b>2</b><span lang="ja">Bリーグクラブ</span><span lang="en">B.LEAGUE clubs</span></div>
+          <div><b>68</b><span lang="ja">キャンプ参加者<br>（2026夏）</span><span lang="en">camp players<br>(Summer 2026)</span></div>
+        </div>
+        <ul class="career">
+          <li><b>NIHON TENGUS</b><span lang="ja">ヘッドコーチ（The Asian Tournament 2026 成都大会）</span><span lang="en">Head Coach — The Asian Tournament 2026, Chengdu</span></li>
+          <li><b>THE ONE (JORDAN)</b><span lang="ja">スペシャルコーチ（Jordan Brand のバスケットボールイベント「THE ONE」）</span><span lang="en">Special Coach — THE ONE (JORDAN), a Jordan Brand basketball event</span></li>
+          <li><b>SAITAMA BRONCOS</b><span lang="ja">ビデオコーディネーター／スカウティングコーチ／スキルデベロップメントコーチ</span><span lang="en">Video Coordinator / Scouting Coach / Skill Development Coach</span></li>
+          <li><b>KANAZAWA SAMURAIZ</b><span lang="ja">アシスタントコーチ（インターン）／スキルデベロップメントコーチ</span><span lang="en">Assistant Coach (Intern) / Skill Development Coach</span></li>
+          <li><b>BE 5IVE CAMP 2026</b><span lang="ja">コーチ（FaFa Lu と共に指導／中高生68名・2日間）。翌日の指導者向けクリニックで<span class="nw">「ピック&amp;ロールの対応」を講義</span></span><span lang="en">Coach alongside FaFa Lu (68 youth players, 2 days). Lectured on defending the pick-and-roll at the coaches' clinic</span></li>
+          <li><b>STARTING 5IVE</b><span lang="ja">YouTubeチャンネル<span class="nw">「STARTING 5IVE」</span>共同運営メンバー</span><span lang="en">Co-host of the YouTube channel "STARTING 5IVE"</span></li>
+        </ul>
+        <div class="sns">
+          <a href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">YOUTUBE</a>
+          <a href="https://x.com/be_a_baller11" target="_blank" rel="noopener">X</a>
+          <a href="https://www.tiktok.com/@beaballer11" target="_blank" rel="noopener">TIKTOK</a>
+          <a href="https://nihontengus.com/pages/staff" target="_blank" rel="noopener">STAFF PAGE</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= 4. ROSTER ================= -->
 <section id="roster">
   <div class="wrap">
     <div class="sec-head reveal">
-      <div><div class="eyebrow">2026 SQUAD</div><h2 class="sec-title">ROSTER</h2></div>
-      <div class="filters" id="filters">
-        <button class="on" data-f="ALL">ALL</button>
-        <button data-f="G">GUARD</button>
-        <button data-f="F">FORWARD</button>
-        <button data-f="C">CENTER</button>
+      <div><div class="eyebrow">2026 SQUAD<span class="jp-sub" lang="ja">ロスター</span></div><h2 class="sec-title">ROSTER</h2></div>
+      <div class="rtabs" id="rtabs" role="tablist">
+        <button role="tab" data-f="all" aria-selected="true">ALL<small>10</small></button>
+        <button role="tab" data-f="guard" aria-selected="false">GUARD<small>4</small></button>
+        <button role="tab" data-f="wing" aria-selected="false">WING<small>3</small></button>
+        <button role="tab" data-f="big" aria-selected="false">BIG MAN<small>3</small></button>
       </div>
     </div>
-    <div class="players" id="players"></div>
+    <div id="rgroups"></div>
   </div>
 </section>
 
-<!-- ================= STAFF ================= -->
-<section id="staff">
-  <div class="wrap coach">
-    <div class="coach-card reveal">
-      <div class="hc">HC</div>
-      <div class="coach-name-bg">HALLELUJAH</div>
-      <img class="coach-photo" src="assets/hallelujah.webp" alt="ヘッドコーチ ハレルヤ" loading="lazy">
-      <div class="coach-tag"><b>HEAD COACH</b><span>NIHON TENGUS 2026</span></div>
-    </div>
-    <div class="reveal">
-      <div class="eyebrow">COACHING STAFF<span class="jp-sub" lang="ja">コーチングスタッフ</span></div>
-      <div class="role">HEAD COACH</div>
-      <h3>HALLELUJAH<small>ハレルヤ</small></h3>
-      <p class="coach-lead"><span lang="ja">Bリーグの現場でビデオ・スカウティング・スキル育成を担い、YouTube<span class="nw">『Be a baller』</span>でコーチ目線のNBA戦術を発信するタクティシャン。アジアの舞台で、テングスの戦い方を設計する。</span><span lang="en">A tactician who worked in B.LEAGUE video, scouting and skill development, and breaks down NBA tactics from a coach's eye on his YouTube channel <span class="nw">"Be a baller"</span>. Now he designs how the Tengus compete in Asia.</span></p>
-      <div class="coach-stats">
-        <div><b><span lang="ja">10.1<i>万</i></span><span lang="en">101<i>K</i></span></b><span lang="ja">YouTube登録者</span><span lang="en">YouTube subs (101K)</span></div>
-        <div><b>2</b><span lang="ja">Bリーグクラブ</span><span lang="en">B.LEAGUE clubs</span></div>
-        <div><b>68</b><span lang="ja">キャンプ参加者<br>（2026夏）</span><span lang="en">camp players<br>(Summer 2026)</span></div>
+<!-- ================= 5. TRYOUT ================= -->
+<section id="tryout">
+  <div class="wrap">
+    <div class="try reveal">
+      <div>
+        <div class="eyebrow">PLAYER TRYOUT<span class="jp-sub" lang="ja">選手トライアウト</span></div>
+        <h2 class="try-h"><span lang="ja"><span class="nw">Nihon Tengus</span>として、<br><em>アジアに挑戦。</em></span><span lang="en">Take on Asia<br><em>as a Nihon Tengu.</em></span></h2>
+        <p class="try-lead"><span lang="ja">次の大会サイクルへ。アジアの国際舞台で、テングスの一員として戦う選手を待っている。</span><span lang="en">Into the next tournament cycle. We're looking for players ready to compete on Asia's international stage as a Tengu.</span></p>
       </div>
-      <ul class="career">
-        <li><b>NIHON TENGUS</b><span lang="ja">ヘッドコーチ（The Asian Tournament 2026 成都大会）</span><span lang="en">Head Coach — The Asian Tournament 2026, Chengdu</span></li>
-        <li><b>THE ONE (JORDAN)</b><span lang="ja">スペシャルコーチ（Jordan Brand のバスケットボールイベント「THE ONE」）</span><span lang="en">Special Coach — THE ONE (JORDAN), a Jordan Brand basketball event</span></li>
-        <li><b>SAITAMA BRONCOS</b><span lang="ja">ビデオコーディネーター／スカウティングコーチ／スキルデベロップメントコーチ</span><span lang="en">Video Coordinator / Scouting Coach / Skill Development Coach</span></li>
-        <li><b>KANAZAWA SAMURAIZ</b><span lang="ja">アシスタントコーチ（インターン）／スキルデベロップメントコーチ</span><span lang="en">Assistant Coach (Intern) / Skill Development Coach</span></li>
-        <li><b>BE 5IVE CAMP 2026</b><span lang="ja">コーチ（FaFa Lu と共に指導／中高生68名・2日間）。翌日の指導者向けクリニックで「ピック&amp;ロールの対応」を講義</span><span lang="en">Coach alongside FaFa Lu (68 youth players, 2 days). Lectured on defending the pick-and-roll at the coaches' clinic</span></li>
-        <li><b>STARTING 5IVE</b><span lang="ja">YouTubeチャンネル「STARTING 5IVE」共同運営メンバー</span><span lang="en">Co-host of the YouTube channel "STARTING 5IVE"</span></li>
-      </ul>
-      <div class="sns">
-        <a href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">YOUTUBE</a>
-        <a href="https://x.com/be_a_baller11" target="_blank" rel="noopener">X</a>
-        <a href="https://www.tiktok.com/@beaballer11" target="_blank" rel="noopener">TIKTOK</a>
-        <a href="https://nihontengus.com/pages/staff" target="_blank" rel="noopener">STAFF PAGE</a>
+      <div class="try-cta">
+        <a class="btn-gold" href="https://nihontengus.com/pages/contact" target="_blank" rel="noopener"><span lang="ja" class="jp">お問い合わせ</span><span lang="en">CONTACT US</span> ↗</a>
+        <p class="try-note"><span lang="ja">応募要項は準備中です。トライアウトへの参加を希望される方は、公式サイトのお問い合わせフォームからご連絡ください。</span><span lang="en">Tryout details are coming soon. If you're interested in trying out, please reach us through the contact form on the official site.</span></p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ================= DOCUMENTARY ================= -->
-<section id="documentary">
+<!-- ================= 6. GOODS ================= -->
+<section id="goods">
+  <div class="wrap">
+    <a class="goods reveal" href="https://nihontengus.com/collections/all" target="_blank" rel="noopener">
+      <img class="gimg g1" src="assets/goods/nihon-tengus-logo-hoodie.webp" alt="" loading="lazy">
+      <img class="gimg g2" src="assets/goods/nihon-tengus-official-team-zip-hoodie.webp" alt="" loading="lazy">
+      <div class="g-in">
+        <div class="eyebrow">OFFICIAL GOODS<span class="jp-sub" lang="ja">グッズ</span></div>
+        <h2 class="sec-title">OFFICIAL<br><span class="o">STORE</span></h2>
+        <p><span lang="ja">Nihon Tengus オフィシャルグッズストア。チームウェアからアパレルまで、公式サイトで販売中。</span><span lang="en">The Nihon Tengus Official Goods Store — team wear and apparel, available on the official site.</span></p>
+        <span class="store-link"><span lang="ja" class="jp">ストアを見る</span><span lang="en">VISIT STORE</span> <i>↗</i></span>
+      </div>
+    </a>
+  </div>
+</section>
+
+<!-- ================= 7. SPONSORS & CONTACT ================= -->
+<section id="contact">
   <div class="wrap">
     <div class="sec-head reveal">
-      <div><div class="eyebrow"><span class="nw">ON YOUTUBE · BE A BALLER</span><span class="jp-sub" lang="ja">密着ドキュメンタリー</span></div><h2 class="sec-title">THE ROAD<br><span class="o">TO ASIA</span></h2></div>
-      <a class="more" href="https://www.youtube.com/@be_a_baller11" target="_blank" rel="noopener">WATCH ON YOUTUBE</a>
+      <div><div class="eyebrow">SPONSORS &amp; CONTACT<span class="jp-sub" lang="ja">スポンサー ＆ お問い合わせ</span></div><h2 class="sec-title">PARTNERS<br><span class="o">&amp; CONTACT</span></h2></div>
     </div>
-    <p class="doc-lead reveal"><span lang="ja">ヘッドコーチ・ハレルヤのYouTubeチャンネル<span class="nw">『Be a baller』</span>で、テングスのアジアトーナメント挑戦を追うドキュメンタリーシリーズ「アジアトーナメント」を配信中。チーム結成から中国・成都での戦いまで、ベンチの中の言葉をそのまま届ける。</span><span lang="en">Head coach Hallelujah's YouTube channel <span class="nw">"Be a baller"</span> follows the Tengus' run at The Asian Tournament in the documentary series "Asian Tournament" — from forming the team to the games in Chengdu, with every word from the bench left in.</span></p>
-    <div class="eps">
-      <a class="ep reveal" href="https://www.youtube.com/watch?v=tpg34LJrIHU" target="_blank" rel="noopener">
-        <div class="ep-th"><img src="https://i.ytimg.com/vi/tpg34LJrIHU/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.0</span><span class="play"></span></div>
-        <p><span lang="ja">「俺らはアジアを取りに、中国にいくんだ」</span><span lang="en">“We're going to China to take Asia.”</span></p>
-      </a>
-      <a class="ep reveal" href="https://www.youtube.com/watch?v=tIgWkt5vOqI" target="_blank" rel="noopener">
-        <div class="ep-th"><img src="https://i.ytimg.com/vi/tIgWkt5vOqI/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.1</span><span class="play"></span></div>
-        <p><span lang="ja">「温人は良い子ちゃんすぎる。殻を破ってくれ」</span><span lang="en">“He's too much of a good kid. Break out of your shell.”</span></p>
-      </a>
-      <a class="ep reveal" href="https://www.youtube.com/watch?v=YpOnwjGQeIU" target="_blank" rel="noopener">
-        <div class="ep-th"><img src="https://i.ytimg.com/vi/YpOnwjGQeIU/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.2</span><span class="play"></span></div>
-        <p><span lang="ja">「打たれるぐらいなら抜かれてくれ」</span><span lang="en">“I'd rather you get beat off the dribble than give up the shot.”</span></p>
-      </a>
-      <a class="ep reveal" href="https://www.youtube.com/watch?v=uXKcQ_2U3w4" target="_blank" rel="noopener">
-        <div class="ep-th"><img src="https://i.ytimg.com/vi/uXKcQ_2U3w4/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.3</span><span class="play"></span></div>
-        <p><span lang="ja">「それをやっていいのは体育祭だけだろ」</span><span lang="en">“The only place you get to do that is a school sports day.”</span></p>
-      </a>
-      <a class="ep reveal" href="https://www.youtube.com/watch?v=vRARzzkQP70" target="_blank" rel="noopener">
-        <div class="ep-th"><img src="https://i.ytimg.com/vi/vRARzzkQP70/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.4</span><span class="play"></span></div>
-        <p><span lang="ja">「何人だろうが、ボールを持ってるやつが責任を持て」</span><span lang="en">“I don't care who you are — whoever has the ball owns it.”</span></p>
-      </a>
-      <a class="ep reveal" href="https://www.youtube.com/watch?v=iJyCT6Wpfd0" target="_blank" rel="noopener">
-        <div class="ep-th"><img src="https://i.ytimg.com/vi/iJyCT6Wpfd0/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.5</span><span class="play"></span></div>
-        <p><span lang="ja">「YouTubeで散々偉そうにしてきたんだ。ここでできなきゃただの口だけのやつになる」</span><span lang="en">“I've talked big on YouTube for years. If I can't do it here, I'm all talk.”</span></p>
-      </a>
-      <a class="ep reveal" href="https://www.youtube.com/watch?v=syomdmQPnaY" target="_blank" rel="noopener">
-        <div class="ep-th"><img src="https://i.ytimg.com/vi/syomdmQPnaY/hqdefault.jpg" alt="" loading="lazy"><span class="ep-no">EP.6</span><span class="play"></span></div>
-        <p><span lang="ja">「そんなやつはコートに出せないんだよ」</span><span lang="en">“A player like that can't be on the court.”</span></p>
-      </a>
+    <p class="sp-lead reveal"><span lang="ja">NIHON TENGUS は、短期の露出ではなく、長く一緒に歩むパートナーとしてチームスポンサーを募集しています。</span><span lang="en">NIHON TENGUS looks for sponsors as long-term partners — not short-term placements.</span></p>
+    <div class="sp-grid reveal">
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
+      <div class="sp-slot"><b>YOUR LOGO</b><span>PARTNER</span></div>
     </div>
-    <p class="note">※ <span lang="ja">動画はYouTubeで再生されます。エピソードは随時追加。</span><span lang="en">Videos open on YouTube. New episodes are added over time.</span></p>
-  </div>
-</section>
-
-<!-- ================= IDENTITY ================= -->
-<section id="identity">
-  <div class="wrap">
-    <div class="sec-head reveal">
-      <div><div class="eyebrow">WHO WE ARE</div><h2 class="sec-title">THE<br><span class="o">TENGUS</span> WAY</h2></div>
-    </div>
-    <div class="identity">
-      <div class="id-block reveal">
-        <span class="kanji">日本</span>
-        <div class="en n">NIHON</div>
-        <p><span lang="ja">「日本」。チームの文化的・地理的なルーツを表す。日本のバスケットボールのアイデンティティを背負い、国際舞台で戦う。</span><span lang="en">"Japan" — our cultural and geographic roots. We carry the identity of Japanese basketball onto the international stage.</span></p>
+    <ul class="sp-perks reveal">
+      <li><b>UNIFORM</b><span lang="ja">公式ユニフォーム</span><span lang="en">Game uniforms</span></li>
+      <li><b>TRAVEL</b><span lang="ja">遠征・練習ウェア</span><span lang="en">Training &amp; travel apparel</span></li>
+      <li><b>GOODS</b><span lang="ja">公式グッズ</span><span lang="en">Official goods</span></li>
+      <li><b>MEDIA</b><span lang="ja">公式コンテンツ・大会中継</span><span lang="en">Digital &amp; media</span></li>
+      <li><b>ON-SITE</b><span lang="ja">大会会場</span><span lang="en">On-site presence</span></li>
+    </ul>
+    <div class="contact reveal">
+      <div class="c-row">
+        <div class="k">SPONSORSHIP</div>
+        <h3><span lang="ja">スポンサー・パートナーのご相談</span><span lang="en">Partnership inquiries</span></h3>
+        <p><span lang="ja">公式サイトのパートナー募集フォーム（お名前・メール・会社名・メッセージ）からお問い合わせください。内容を確認のうえ、ご連絡いたします。</span><span lang="en">Please use the partner form on the official site (name, email, organization, message). Every inquiry is reviewed carefully.</span></p>
+        <a class="btn" href="https://nihontengus.com/pages/partners" target="_blank" rel="noopener"><span lang="ja" class="jp">パートナー問い合わせ</span><span lang="en">PARTNER FORM</span> ↗</a>
       </div>
-      <div class="id-block reveal">
-        <span class="kanji">天狗</span>
-        <div class="en t">TENGU</div>
-        <p><span lang="ja">日本の民間伝承に登場する「天狗」。存在感・規律・強さの象徴。過剰なプレーではなく、自信と自制心、コントロールで戦うチームであるために。</span><span lang="en">The Tengu of Japanese folklore — a symbol of presence, discipline and strength. We compete with confidence, restraint and control, not excess.</span></p>
+      <div class="c-row">
+        <div class="k">GENERAL</div>
+        <h3><span lang="ja">その他のお問い合わせ</span><span lang="en">General inquiries</span></h3>
+        <p><span lang="ja">トライアウトのご相談を含む、その他のお問い合わせは公式サイトのお問い合わせフォームへ。</span><span lang="en">For everything else, including tryout interest, please use the contact form on the official site.</span></p>
+        <a class="btn ghost" href="https://nihontengus.com/pages/contact" target="_blank" rel="noopener"><span lang="ja" class="jp">お問い合わせフォーム</span><span lang="en">CONTACT FORM</span> ↗</a>
       </div>
-      <div class="pillars">
-        <div class="pillar reveal"><div class="pi">01</div><h4>DISCIPLINE</h4><span lang="ja">規律ある準備</span><span lang="en">Disciplined preparation</span></div>
-        <div class="pillar reveal"><div class="pi">02</div><h4>RESILIENCE</h4><span lang="ja">どんな環境でも戦い抜く</span><span lang="en">Compete in any environment</span></div>
-        <div class="pillar reveal"><div class="pi">03</div><h4>PRESENCE</h4><span lang="ja">アジアに存在感を示す</span><span lang="en">Make our presence felt in Asia</span></div>
-      </div>
-      <div class="colors reveal">
-        <div style="background:#07070a;border-right:1px solid var(--line)">BLACK<small><span lang="ja">明快さ</span><span lang="en">Clarity</span></small></div>
-        <div style="background:#f7f5f6;color:#07070a">WHITE<small><span lang="ja">コントラスト</span><span lang="en">Contrast</span></small></div>
-        <div style="background:var(--pink)">PINK<small><span lang="ja">エネルギー</span><span lang="en">Energy</span></small></div>
-        <div style="background:var(--teal);color:#07070a">TEAL<small><span lang="ja">バランス</span><span lang="en">Balance</span></small></div>
-      </div>
-      <div class="marks reveal">
-        <div class="eyebrow">BRAND MARKS</div>
-        <div class="marks-grid">
-          <figure class="mark"><div class="m-img"><img src="assets/team/final2.webp" alt="NIHON TENGUS wordmark" loading="lazy"></div><figcaption>WORDMARK<small><span lang="ja">ワードマーク</span><span lang="en">Primary logo</span></small></figcaption></figure>
-          <figure class="mark light"><div class="m-img"><img src="assets/team/ntlogooff2.webp" alt="NT monogram" loading="lazy"></div><figcaption>MONOGRAM<small><span lang="ja">モノグラム「NT」</span><span lang="en">"NT" initials</span></small></figcaption></figure>
-          <figure class="mark light"><div class="m-img"><img src="assets/team/offical_10_tengus.webp" alt="Tengu mascot #10" loading="lazy"></div><figcaption>MASCOT #10<small><span lang="ja">マスコット</span><span lang="en">Team mascot</span></small></figcaption></figure>
-          <figure class="mark"><div class="m-img"><img src="assets/team/tengus_mask.webp" alt="Tengu mask" loading="lazy"></div><figcaption>TENGU MASK<small><span lang="ja">天狗マスク</span><span lang="en">Tengu emblem</span></small></figcaption></figure>
-        </div>
-      </div>
-      <div class="quote reveal"><q><span lang="ja">アジアで、継続的に戦い続ける。<br>明確なアイデンティティと共に、次の大会サイクルへ。</span><span lang="en">Keep competing in Asia, again and again.<br>With a clear identity, into the next tournament cycle.</span></q></div>
     </div>
-  </div>
-</section>
-
-<!-- ================= SHOP ================= -->
-<section id="shop">
-  <div class="wrap">
-    <div class="sec-head reveal">
-      <div><div class="eyebrow">OFFICIAL GOODS</div><h2 class="sec-title">STORE</h2></div>
-      <a class="more" href="https://nihontengus.com/collections/all" target="_blank" rel="noopener">GO TO STORE</a>
-    </div>
-    <div class="items" id="items"></div>
-  </div>
-</section>
-
-<!-- ================= PARTNERS ================= -->
-<section id="partners">
-  <div class="wrap">
-    <div class="reveal">
-      <div class="eyebrow" style="justify-content:center">SPONSORSHIP<span class="jp-sub" lang="ja">チームスポンサー募集</span></div>
-      <h2 class="sec-title">BECOME A<br><span class="o">PARTNER</span></h2>
-      <p><span lang="ja">NIHON TENGUS は、日本からアジアへ挑み続けるチームです。<br>短期の露出ではなく、長く一緒に歩むパートナーとして、チームスポンサーを募集しています。</span><span lang="en">NIHON TENGUS is a team built to keep taking Japan to Asia.<br>We look for sponsors as long-term partners — not short-term placements.</span></p>
-    </div>
-    <div class="perks"><div class="perk reveal"><i>01</i><b>UNIFORM</b><span lang="ja">公式ユニフォームへのロゴ掲出</span><span lang="en">Logo placement on official competition uniforms</span></div><div class="perk reveal"><i>02</i><b>TRAVEL</b><span lang="ja">遠征・準備期間での露出</span><span lang="en">Visibility during preparation and international travel</span></div><div class="perk reveal"><i>03</i><b>APPAREL</b><span lang="ja">チームグッズ・アパレルへの展開</span><span lang="en">Integration across team merchandise and apparel</span></div><div class="perk reveal"><i>04</i><b>CONTENT</b><span lang="ja">公式コンテンツ・大会中継・発信への掲出</span><span lang="en">Inclusion in official content, tournament coverage and communications</span></div><div class="perk reveal"><i>05</i><b>ON-SITE</b><span lang="ja">大会会場でのプレゼンス</span><span lang="en">On-site presence at tournament events</span></div></div>
-    <div class="reveal">
-      <a class="btn" href="https://nihontengus.com/pages/partners" target="_blank" rel="noopener">SPONSOR INQUIRY →</a>
-      <p class="small"><span lang="ja">公式サイトのパートナー募集フォーム（お名前・メール・会社名・メッセージ）からお問い合わせください。内容を確認のうえ、ご連絡いたします。</span><span lang="en">Please contact us via the partner form on the official site (name, email, organization, message). Every inquiry is reviewed carefully.</span></p>
-    </div>
-    <div class="slots"><div>YOUR LOGO</div><div>YOUR LOGO</div><div>YOUR LOGO</div><div>YOUR LOGO</div></div>
+    <p class="note reveal">※ <span lang="ja">いずれも公式サイト nihontengus.com のフォームが開きます。</span><span lang="en">Both buttons open forms on the official site, nihontengus.com.</span></p>
   </div>
 </section>
 
 <footer>
   <div class="f-top">
     <div><img src="assets/logo.webp" alt="NIHON TENGUS"><p>NIHON TENGUS（日本テングス）<br><span lang="ja">アジアの国際大会で戦う、独立系バスケットボールチーム。</span><span lang="en">An independent basketball team competing in international tournaments across Asia.</span></p></div>
-    <div><h5>TEAM</h5><ul><li><a href="#news">News</a></li><li><a href="#schedule">Schedule</a></li><li><a href="#roster">Roster</a></li><li><a href="#staff">Staff</a></li><li><a href="#identity">Team</a></li></ul></div>
-    <div><h5>OFFICIAL</h5><ul><li><a href="https://nihontengus.com/" target="_blank" rel="noopener">nihontengus.com</a></li><li><a href="https://nihontengus.com/ja/pages/theasiantournament" target="_blank" rel="noopener">The Asian Tournament</a></li><li><a href="#shop">Store</a></li><li><a href="#partners">Partners / Contact</a></li></ul></div>
+    <div><h5>TEAM</h5><ul><li><a href="#team">Team Info</a></li><li><a href="#tat">TAT Films</a></li><li><a href="#staff">Owner &amp; Staff</a></li><li><a href="#roster">Roster</a></li><li><a href="#tryout">Tryout</a></li></ul></div>
+    <div><h5>OFFICIAL</h5><ul><li><a href="https://nihontengus.com/" target="_blank" rel="noopener">nihontengus.com</a></li><li><a href="https://nihontengus.com/ja/pages/theasiantournament" target="_blank" rel="noopener">The Asian Tournament</a></li><li><a href="#goods">Store</a></li><li><a href="#contact">Partners / Contact</a></li></ul></div>
   </div>
   <div class="f-huge">NIHON TENGUS</div>
   <div class="f-bot"><span>© 2026 NIHON TENGUS. All Rights Reserved.</span><span>BORN IN JAPAN · BUILT FOR ASIA</span></div>
 </footer>
 
+<div class="vmodal" id="vmodal" role="dialog" aria-modal="true" aria-label="Video player" hidden>
+  <div class="vm-bg" data-close></div>
+  <div class="vm-box">
+    <button class="vm-x" data-close aria-label="閉じる / Close">×</button>
+    <div class="vm-frame" id="vmframe"></div>
+    <div class="vm-bar"><span id="vmtitle"></span><a id="vmyt" href="#" target="_blank" rel="noopener">YOUTUBE ↗</a></div>
+  </div>
+</div>
+
 <script src="assets/logo-data.js"></script>
 <script>
-/* ---------- DATA（出典: nihontengus.com 2026-09-29時点） ---------- */
+/* ---------- DATA（出典: nihontengus.com 2026-09-29時点。日本語名・グループ分けはクライアント指示 2026-10-01） ---------- */
+const GROUPS=[
+  {k:"guard",en:"GUARD",ja:"ガード"},
+  {k:"wing",en:"WING",ja:"ウィング"},
+  {k:"big",en:"BIG MAN",ja:"ビッグマン"}
+];
 const PLAYERS=[
-  {no:0,name:"MUTSUKI KOJIMA",jp:"小嶋 睦月",pos:"G",h:185,nat:"JPN",img:"misuki"},
-  {no:1,name:"CARL TOMO YAHATA",jp:"",pos:"G",h:180,nat:"JPN",img:"carl"},
-  {no:3,name:"ROMAN IRE WRIGHT",jp:"",pos:"G",h:183,nat:"JPN",img:"rome"},
-  {no:7,name:"RIKU KATO",jp:"加藤 陸",pos:"G/F",h:191,nat:"JPN",img:"riky3"},
-  {no:8,name:"HIKARU DOI",jp:"土井 光",pos:"SF",h:188,nat:"JPN",img:"doi"},
-  {no:11,name:"JESMOND ADDISON KOGO",jp:"",pos:"C",h:198,nat:"JPN",img:"jes"},
-  {no:14,name:"ROSS DAVIS",jp:"",pos:"PF",h:200,nat:"USA",img:"ross"},
-  {no:17,name:"YUUTO TOKASHIKI",jp:"渡嘉敷 勇人",pos:"G",h:172,nat:"JPN",img:"yuuta2"},
-  {no:32,name:"SIGURD SANDAL",jp:"",pos:"PF",h:201,nat:"NOR",img:"Sigrud_Sandal"},
-  {no:37,name:"KO TAKAHASHI",jp:"高橋 康",pos:"G",h:169,nat:"JPN",img:"ko"}
+  {g:"guard",no:3,name:"ROMAN IRE WRIGHT",jp:"入江ローマン",h:183,nat:"JPN",img:"studio/rome",img2:"rome"},
+  {g:"guard",no:0,name:"MUTSUKI KOJIMA",jp:"小嶋 睦月",h:185,nat:"JPN",img:"studio/kojima",img2:"misuki"},
+  {g:"guard",no:37,name:"KO TAKAHASHI",jp:"高橋幸",h:169,nat:"JPN",img:"studio/ko",img2:"ko"},
+  {g:"guard",no:17,name:"YUUTO TOKASHIKI",jp:"渡嘉敷温人",h:172,nat:"JPN",img:"studio/tokashiki",img2:"yuuta2"},
+  {g:"wing",no:1,name:"CARL TOMO YAHATA",jp:"八幡カール知",h:180,nat:"JPN",img:"carl"},
+  {g:"wing",no:8,name:"HIKARU DOI",jp:"土井ひかる",h:188,nat:"JPN",img:"studio/doi",img2:"doi"},
+  {g:"wing",no:7,name:"RIKU KATO",jp:"加藤リク",h:191,nat:"JPN",img:"studio/kato",img2:"riky3"},
+  {g:"big",no:32,name:"SIGURD SANDAL",jp:"",h:201,nat:"NOR",img:"studio/sigurd",img2:"Sigrud_Sandal"},
+  {g:"big",no:14,name:"ROSS DAVID",jp:"",h:200,nat:"USA",img:"studio/ross",img2:"ross"},
+  {g:"big",no:11,name:"JESMOND ADDISON KOGO",jp:"",h:198,nat:"JPN",img:"studio/jes",img2:"jes"}
 ];
 const GAMES=[
   {d:"08.17",w:"MON",opp:"MACAU BLACK KNIGHTS",v:"E4I2EfaOOJs"},
@@ -669,16 +714,14 @@ const GAMES=[
   {d:"08.22",w:"SAT",opp:"SICHUAN WHALE",v:"P2m96oXeVwA"},
   {d:"08.23",w:"SUN",opp:"TAOYUAN LEOPARDS",v:"zKLay26uW-k"}
 ];
-const ITEMS=[
-  {e:"Official Team Zip Hoodie",n:"公式チーム ジップフーディー",p:"¥11,000",h:"nihon-tengus-official-team-zip-hoodie"},
-  {e:"Official Team Pants",n:"公式チームパンツ",p:"¥9,000",h:"nihon-tengus-official-team-pants"},
-  {e:"Official T-Shirt",n:"公式 Tシャツ",p:"¥7,000",h:"unisex-oversized-cotton-t-shirt-1"},
-  {e:"Mascot Hoodie",n:"マスコット フーディー",p:"¥8,500",h:"nihon-tengus-mascot-hoodie"},
-  {e:"Logo Hoodie",n:"ロゴ フーディー",p:"¥8,000",h:"nihon-tengus-logo-hoodie"},
-  {e:"Mascot T-Shirt",n:"マスコット Tシャツ",p:"¥6,000",h:"nihon-tengus-mascot-t-shirt"},
-  {e:"Logo T-Shirt",n:"ロゴ Tシャツ",p:"¥6,000",h:"essential-cotton-t-shirt-1"},
-  {e:"Mascot Sweatpants",n:"マスコット スウェットパンツ",p:"¥7,500",h:"unisex-solid-color-fleece-straight-leg-pants"},
-  {e:"Graphic Shorts",n:"グラフィック ショーツ",p:"¥7,000",h:"nihon-tengus-graphic-shorts"}
+const EPS=[
+  {v:"tpg34LJrIHU",ja:"「俺らはアジアを取りに、中国にいくんだ」",en:"“We're going to China to take Asia.”"},
+  {v:"tIgWkt5vOqI",ja:"「温人は良い子ちゃんすぎる。殻を破ってくれ」",en:"“He's too much of a good kid. Break out of your shell.”"},
+  {v:"YpOnwjGQeIU",ja:"「打たれるぐらいなら抜かれてくれ」",en:"“I'd rather you get beat off the dribble than give up the shot.”"},
+  {v:"uXKcQ_2U3w4",ja:"「それをやっていいのは体育祭だけだろ」",en:"“The only place you get to do that is a school sports day.”"},
+  {v:"vRARzzkQP70",ja:"「何人だろうが、ボールを持ってるやつが責任を持て」",en:"“I don't care who you are — whoever has the ball owns it.”"},
+  {v:"iJyCT6Wpfd0",ja:"「YouTubeで散々偉そうにしてきたんだ。ここでできなきゃただの口だけのやつになる」",en:"“I've talked big on YouTube for years. If I can't do it here, I'm all talk.”"},
+  {v:"syomdmQPnaY",ja:"「そんなやつはコートに出せないんだよ」",en:"“A player like that can't be on the court.”"}
 ];
 
 /* ---------- LOADER ---------- */
@@ -691,40 +734,78 @@ function hideLoader(){bump(1);setTimeout(()=>{document.getElementById('loader').
 setTimeout(hideLoader,4000); // 保険
 
 /* ---------- TICKERS ---------- */
-function fillTicker(id,words){const t=document.getElementById(id);const html=words.map(w=>`<span${/[\u3040-\u9fff]/.test(w)?' class="fude"':''}>${w}</span>`).join('');t.innerHTML=html+html+html+html}
+function fillTicker(id,words){const t=document.getElementById(id);const html=words.map(w=>`<span${/[぀-鿿]/.test(w)?' class="fude"':''}>${w}</span>`).join('');t.innerHTML=html+html+html+html}
 fillTicker('t1',["NIHON TENGUS","BORN IN JAPAN","BUILT FOR ASIA","THE ASIAN TOURNAMENT","CHENGDU 2026"]);
 fillTicker('t2',["DISCIPLINE","RESILIENCE","PRESENCE","日本テングス","WE FLY"]);
 
-/* ---------- GAMES ---------- */
-document.getElementById('games').innerHTML=GAMES.map((g,i)=>`
-  <a class="game reveal" href="https://www.youtube.com/watch?v=${g.v}" target="_blank" rel="noopener" style="transition-delay:${(i%3)*.08}s">
-    <div class="g-top"><span class="gn">GAME ${i+1}</span><span>CHENGDU</span></div>
-    <div class="date">${g.d}<small>${g.w}</small></div>
-    <div class="vs"><img src="assets/logo.webp" alt="NIHON TENGUS"><i>VS</i><b>${g.opp}</b></div>
-    <span class="watch">▶ <span lang="ja">試合をフルで見る</span><span lang="en">WATCH FULL GAME</span></span>
-  </a>`).join('');
+/* ---------- TAT: 映像カード ---------- */
+const th=v=>`https://i.ytimg.com/vi/${v}/hqdefault.jpg`;
+document.getElementById('g-live').innerHTML=GAMES.map((g,i)=>`
+  <button class="vcard" type="button" data-v="${g.v}" data-title="GAME ${i+1} · ${g.d} VS ${g.opp}">
+    <span class="v-th"><img src="${th(g.v)}" alt="" loading="lazy"><span class="v-badge">GAME ${i+1}</span><span class="v-play"></span></span>
+    <span class="v-body"><span class="v-k">${g.d} ${g.w} · CHENGDU · FULL GAME</span><span class="v-t">VS ${g.opp}</span></span>
+  </button>`).join('');
+document.getElementById('g-doc').innerHTML=EPS.map((e,i)=>`
+  <button class="vcard" type="button" data-v="${e.v}" data-title="BE A BALLER · EP.${i}">
+    <span class="v-th"><img src="${th(e.v)}" alt="" loading="lazy"><span class="v-badge t">EP.${i}</span><span class="v-play"></span></span>
+    <span class="v-body"><span class="v-k">BE A BALLER · DOCUMENTARY</span><span class="v-q"><span lang="ja">${e.ja}</span><span lang="en">${e.en}</span></span></span>
+  </button>`).join('');
+const vtabs=[...document.querySelectorAll('#vtabs .tab')];
+vtabs.forEach(t=>t.addEventListener('click',()=>{
+  vtabs.forEach(x=>{const on=x===t;x.setAttribute('aria-selected',on);const p=document.getElementById(x.getAttribute('aria-controls'));p.hidden=!on;p.classList.toggle('show',on)});
+}));
+
+/* ---------- 動画モーダル ---------- */
+const vm=document.getElementById('vmodal'),vf=document.getElementById('vmframe');
+let lastFocus=null;
+function openVideo(id,title){
+  lastFocus=document.activeElement;
+  vf.innerHTML=`<iframe src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1&rel=0&playsinline=1" title="${title||'YouTube video'}" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+  document.getElementById('vmtitle').textContent=title||'';
+  document.getElementById('vmyt').href=`https://www.youtube.com/watch?v=${id}`;
+  vm.hidden=false;document.body.classList.add('modal-open');
+  vm.querySelector('.vm-x').focus();
+}
+function closeVideo(){
+  if(vm.hidden)return;
+  vf.innerHTML=''; // iframe を破棄して音を止める
+  vm.hidden=true;document.body.classList.remove('modal-open');
+  if(lastFocus)lastFocus.focus({preventScroll:true});
+}
+document.addEventListener('click',e=>{
+  const c=e.target.closest('.vcard');if(c){openVideo(c.dataset.v,c.dataset.title);return}
+  if(e.target.closest('[data-close]'))closeVideo();
+});
+addEventListener('keydown',e=>{if(e.key==='Escape')closeVideo()});
 
 /* ---------- ROSTER ---------- */
 const flag={JPN:"JAPAN",USA:"USA",NOR:"NORWAY"};
-document.getElementById('players').innerHTML=PLAYERS.map((p,i)=>`
-  <div class="player reveal" data-pos="${p.pos}" style="transition-delay:${(i%5)*.06}s">
-    <span class="stripe"></span><img class="photo" src="assets/players/${p.img}.webp" alt="${p.name}" loading="lazy"><span class="pnum">${p.no}</span>
-    <div class="info"><div class="pos">#${p.no} · ${p.pos}</div><div class="name">${p.name}</div>
-    <div class="meta"><span><b>${p.h}</b> cm</span><span>${flag[p.nat]}</span>${p.jp?`<span>${p.jp}</span>`:''}</div></div>
+const card=(p,i)=>`
+  <div class="player reveal" data-g="${p.g}" tabindex="0" style="transition-delay:${(i%4)*.06}s">
+    <img class="photo" src="assets/players/${p.img}.webp" alt="${p.name}" loading="lazy">${p.img2?`<img class="photo photo2" src="assets/players/${p.img2}.webp" alt="" loading="lazy">`:''}<span class="tint"></span><span class="pnum">${p.no}</span>
+    <div class="info"><div class="pos">#${p.no} · ${GROUPS.find(g=>g.k===p.g).en}</div><div class="name">${p.name}</div>
+    ${p.jp?`<div class="jpn">${p.jp}</div>`:''}
+    <div class="meta"><span><b>${p.h}</b> cm</span><span>${flag[p.nat]}</span></div></div>
+    <span class="edge"></span>
+  </div>`;
+document.getElementById('rgroups').innerHTML=GROUPS.map(g=>`
+  <div class="r-group" data-g="${g.k}">
+    <div class="r-gh">${g.en}<small lang="ja">${g.ja}</small></div>
+    <div class="players">${PLAYERS.filter(p=>p.g===g.k).map(card).join('')}</div>
   </div>`).join('');
-document.getElementById('filters').addEventListener('click',e=>{
+document.getElementById('rtabs').addEventListener('click',e=>{
   const b=e.target.closest('button');if(!b)return;
-  document.querySelectorAll('#filters button').forEach(x=>x.classList.toggle('on',x===b));
+  document.querySelectorAll('#rtabs button').forEach(x=>x.setAttribute('aria-selected',x===b));
   const f=b.dataset.f;
-  document.querySelectorAll('.player').forEach(el=>{const pos=el.dataset.pos;const show=f==='ALL'||pos.includes(f);el.classList.toggle('hide',!show)});
+  document.querySelectorAll('.r-group').forEach(el=>{el.hidden=!(f==='all'||el.dataset.g===f);if(!el.hidden)el.querySelectorAll('.reveal').forEach(r=>r.classList.add('in'))});
 });
-
-/* ---------- SHOP ---------- */
-document.getElementById('items').innerHTML=ITEMS.map((it,i)=>`
-  <a class="item reveal" href="https://nihontengus.com/products/${it.h}" target="_blank" rel="noopener" style="transition-delay:${(i%3)*.07}s">
-    <div class="ph"><img src="assets/goods/${it.h}.webp" alt="${it.e}" loading="lazy"></div>
-    <div class="it"><b><span lang="ja">${it.n}</span><span lang="en">${it.e}</span></b><span>${it.p}</span></div>
-  </a>`).join('');
+// タップ端末: タップした選手だけ点灯（ホバーと同じ見た目）
+document.getElementById('rgroups').addEventListener('click',e=>{
+  const p=e.target.closest('.player');if(!p)return;
+  const on=!p.classList.contains('lit');
+  document.querySelectorAll('.player.lit').forEach(x=>x.classList.remove('lit'));
+  p.classList.toggle('lit',on);
+});
 
 /* ---------- LANG ---------- */
 function setLang(l){document.documentElement.dataset.lang=l;document.documentElement.lang=l;document.querySelectorAll('#lang button').forEach(b=>b.classList.toggle('on',b.dataset.l===l));try{localStorage.setItem('tg-lang',l)}catch(e){}}
