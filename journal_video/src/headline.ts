@@ -33,12 +33,15 @@ const SIZE_TOLERANCE = 5;
 const MAX_LINES = 3;
 
 /** 行頭に置けない文字 */
-const NO_START = /[、。，．）」』】〉》”’!?！？・ーぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮ々〜:：;；\s]/;
+const NO_START = /[、。，．）」』】〉》”’!?！？・ーぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮ々〜:：;；＆&×✕／/\s]/;
 /** 行末に置けない文字 */
 const NO_END = /[（「『【〈《“‘]/;
 const ALNUM = /[0-9A-Za-z]/;
-/** 英数の語を作る文字。B.PREMIER / Jr. / V.A.A. / 3.5 のピリオドは語の一部として扱う */
-const WORDCHAR = /[0-9A-Za-z.]/;
+/**
+ * 英数の語を作る文字。B.PREMIER / Jr. / V.A.A. / 3.5 のピリオド、2026-27 / 114-37 のハイフンも
+ * 語の一部として扱う（「2026-／27シーズン」で割れるのを防ぐ）
+ */
+const WORDCHAR = /[0-9A-Za-z.-]/;
 const HIRA = /[ぁ-ん]/;
 const KATA = /[ァ-ヴー]/;
 const KANJI = /[一-龥]/;
@@ -50,6 +53,11 @@ const PARTICLE = /[はがをにでともへやのかばねよわ]/;
  * ように語尾にも現れるので、こちらには入れない。
  */
 const STRONG_PARTICLE = /[がをはにでも]/;
+/** 数量の単位。数字のあとのこれは語の一部なので切らない（「9月26／日」を防ぐ） */
+const UNIT_CHAR = /[日月年時分秒週人名回戦本点位個枚件勝敗度割円万億兆％%歳番台試]/;
+/** カタカナの単位。数字・漢数単位のあとに続くときだけ語の一部とみなす（「3000万／ドル」を防ぐ） */
+const KATA_UNIT = ["ドル", "ユーロ", "ポイント", "パーセント", "メートル", "センチ", "キロ",
+                   "インチ", "ヤード", "ゲーム", "シーズン", "イニング", "シート"];
 
 /** 文字種（切れ目の点数に使う） */
 const kind = (ch: string): string =>
@@ -66,6 +74,10 @@ const breakScore = (text: string, i: number, relaxed = false): number => {
   if (NO_START.test(ch) || NO_END.test(prev)) return 0;
   // 英数字の語の途中では切らない（Air Jordan / 1226万ドル / B.PREMIER / V.A.A. など）
   if (WORDCHAR.test(prev) && WORDCHAR.test(ch) && (ALNUM.test(prev) || ALNUM.test(ch))) return 0;
+  // 数量の内部では切らない（「9月26／日発売」「罰金3000万／ドル」）
+  if ((ALNUM.test(prev) || UNIT_CHAR.test(prev)) && UNIT_CHAR.test(ch)) return 0;
+  if ((ALNUM.test(prev) || UNIT_CHAR.test(prev)) &&
+      KATA_UNIT.some((u) => text.startsWith(u, i))) return 0;
   // 行頭が助詞になる切り方は禁則（「このチームに／は本気で」「このチーム／には本気で」
   // 「LeBron Witness 10」／がこのホリデーシーズンに」）。「もっと」のような語頭も諦める
   if (PARTICLE.test(ch)) return 0;

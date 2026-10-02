@@ -117,7 +117,8 @@ ESPN_ID = re.compile(r"espn\.com/.*/id/(\d+)")
 BROWSER_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/130 Safari/537.36")
 # 型 → BGM（journal_video/public/ からの相対パス）。無い型は "news" を使う
-BGM = {"news": "audio/bgm_news.mp3", "quote": "audio/bgm_quote.mp3"}
+BGM = {"news": "audio/bgm_news.mp3", "quote": "audio/bgm_quote.mp3",
+       "score": "audio/bgm_score.mp3", "ranking": "audio/bgm_ranking.mp3"}
 
 
 def log(msg):

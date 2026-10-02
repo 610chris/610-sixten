@@ -25,6 +25,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageOps
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ig_queue as Q  # noqa: E402
+import ja_wrap as J  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONTS = os.path.join(HERE, "fonts")
@@ -41,10 +42,6 @@ ACCENT = (232, 68, 46)    # --accent #e8442e
 BLACK = (20, 20, 20)      # --black #141414
 MUTED = (111, 108, 103)   # --muted #6f6c67
 LINE = (227, 224, 218)    # --line #e3e0da
-
-# 行頭に来てはいけない/行末に来てはいけない文字（最小限の禁則処理）
-NO_START = "、。，．）」』】〉》〕｝!?！？・:：;；ー…‐-%％"
-NO_END = "（「『【〈《〔｛"
 
 
 # ---------------------------------------------------------------- フォント
@@ -71,66 +68,65 @@ def text_w(d, s, font):
     return d.textbbox((0, 0), s, font=font)[2]
 
 
-WORD_CHARS = ".-_/'&+"
+# 行末から戻ってよい幅（max_w に対する比）。これ以上戻ると行が短くなりすぎる
+LOOKBACK_RATIO = 0.15
 
 
-def tokenize(text):
-    """日本語は1文字ずつ、英数字は単語ごとに1トークンにまとめる。
+def _fit_end(d, s, start, font, max_w):
+    """s[start:end] が max_w に収まる最大の end（1文字も入らないときは start+1）"""
+    lo, hi, best = start + 1, len(s) - 1, start + 1
+    while lo <= hi:
+        mid = (lo + hi) // 2
+        if text_w(d, s[start:mid], font) <= max_w:
+            best, lo = mid, mid + 1
+        else:
+            hi = mid - 1
+    return best
 
-    1文字ずつ折ると "adidas.com" が "adidas.c / om" のように割れて読めなくなるので、
-    ラテン文字・数字の連なりだけは塊のまま扱う。
-    """
-    out, buf = [], ""
-    for ch in text:
-        if ch.isascii() and (ch.isalnum() or ch in WORD_CHARS):
-            buf += ch
-            continue
-        if buf:
-            out.append(buf)
-            buf = ""
-        out.append(ch)
-    if buf:
-        out.append(buf)
-    return out
+
+def _wrap_para(d, text, font, max_w):
+    s = text.strip()
+    if not s:
+        return [""]
+    lines, start, n = [], 0, len(s)
+    lookback = max_w * LOOKBACK_RATIO
+    while start < n:
+        if text_w(d, s[start:], font) <= max_w:     # 残りが1行に入る
+            lines.append(s[start:])
+            break
+        limit = _fit_end(d, s, start, font, max_w)
+        cands = [i for i in range(start + 1, limit + 1) if J.break_score(s, i)]
+        if not cands:   # 語の内部を許してもう一度（カタカナ語・熟語しか無い行）
+            cands = [i for i in range(start + 1, limit + 1) if J.break_score(s, i, True)]
+        if cands:
+            right_w = text_w(d, s[start:cands[-1]], font)
+            pool = [i for i in cands if right_w - text_w(d, s[start:i], font) <= lookback]
+            cut = max(pool, key=lambda i: (J.break_score(s, i) or J.break_score(s, i, True), i))
+        else:           # 切れ目が1つも無い（長いURL・英単語）＝幅で強制的に割る
+            cut = limit
+            if J.NO_START.match(s[cut:cut + 1] or " "):     # 行頭禁則はぶら下げる
+                cut += 1
+        lines.append(s[start:cut].rstrip())
+        start = cut
+        while start < n and s[start] == " ":        # 折り返し直後の空白は落とす
+            start += 1
+    return lines
 
 
 def wrap_ja(d, text, font, max_w):
-    """日本語は単語区切りが無いので詰めて折る。禁則と英単語だけ面倒を見る。"""
-    lines, cur = [], ""
+    """幅 max_w に収まるように行へ割る。切る位置は日本語として自然な切れ目を選ぶ。
 
-    def split_long(tk):
-        """1行に収まらない長い英単語だけは文字単位で割る"""
-        while text_w(d, tk, font) > max_w and len(tk) > 1:
-            k = 1
-            while k < len(tk) and text_w(d, tk[:k + 1], font) <= max_w:
-                k += 1
-            lines.append(tk[:k])
-            tk = tk[k:]
-        return tk
-
-    for tk in tokenize(text):
-        if tk == "\n":
-            lines.append(cur)
-            cur = ""
-            continue
-        if not cur and tk == " ":       # 折り返し直後の空白は落とす
-            continue
-        if cur and text_w(d, cur + tk, font) > max_w:
-            if len(tk) == 1 and tk in NO_START:   # 行頭禁則: ぶら下げる
-                cur += tk
-                lines.append(cur)
-                cur = ""
-                continue
-            if cur[-1] in NO_END:       # 行末禁則: 直前の1字を次行へ送る
-                lines.append(cur[:-1])
-                cur = cur[-1]
-            else:
-                lines.append(cur.rstrip())
-                cur = ""
-            tk = split_long(tk)
-        cur += tk
-    if cur:
-        lines.append(cur)
+    動画の見出し（journal_video/src/headline.ts）と同じ `ja_wrap.break_score` を使うので、
+    「本気で興／奮している」のような語の途中や助詞の前では折れない。動画側は2〜3行を全探索
+    するが、カルーセルは行数が可変（max_h に入るだけ入る）なので貪欲＋ルックバックにする:
+      ① max_w に収まる最大位置 limit を求め
+      ② start+1..limit の切ってよい候補のうち、いちばん右から LOOKBACK_RATIO ぶんだけ
+         戻れる範囲で、もっとも自然な（点数の高い）位置で切る
+    候補が1つも無い行だけ幅で強制的に割る（長いURLがこれに当たる＝旧 split_long と同じ効果）。
+    """
+    lines = []
+    for para in text.split("\n"):
+        lines.extend(_wrap_para(d, para, font, max_w))
     return lines
 
 
