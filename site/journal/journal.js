@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "344-johnson-donovan-spurs-assistant.html",
+    cat: "NBA",
+    title: "ジョンソンHC「袖をまくって、手を汚して働いてくれている」—— スパーズ新アシスタントのドノバンに感謝",
+    excerpt: "サンアントニオ・スパーズのミッチ・ジョンソンHCは現地時間10月1日、新加入のアシスタントコーチ、ビリー・ドノバン氏について「袖をまくって、手を汚して働いてくれている」と評価した。ドノバン氏は7月、守備を改善させたシーン・スウィニー前アシスタントの後任としてスタッフに加わった。ESPNが伝えた。",
+    date: "2026.10.02",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "343-shinjuku-givers-3x3-season2.html",
     cat: "JAPAN",
     title: "新宿givers、3x3.EXE PREMIERで年間2位 —— エスター選手が168得点で得点女王に、大阪PLAYOFFSへ",
