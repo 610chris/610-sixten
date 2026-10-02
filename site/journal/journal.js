@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "347-nike-air-foamposite-one-glow-in-the-dark.html",
+    cat: "KICKS",
+    title: "Nike Air Foamposite One PRM「Glow in the Dark」が10月16日発売 —— 品番IV6246-100、SNKRSで",
+    excerpt: "ナイキは、伝説的なバスケットボールシューズ「Nike Air Foamposite One」のプレミアムモデル「PRM」で、新色「Glow in the Dark」を2026年10月16日にSNKRSで発売する。品番はIV6246-100。Nice Kicksが伝えた。",
+    date: "2026.10.03",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "346-nike-kobe-ad-protro-laser-orange.html",
     cat: "KICKS",
     title: "Nike Kobe AD Protro「Laser Orange」が始動 —— 品番IO8233-800の新色先行カット",
