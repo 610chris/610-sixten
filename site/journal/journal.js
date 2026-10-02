@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "346-nike-kobe-ad-protro-laser-orange.html",
+    cat: "KICKS",
+    title: "Nike Kobe AD Protro「Laser Orange」が始動 —— 品番IO8233-800の新色先行カット",
+    excerpt: "ナイキは「Kobe AD Protro」の新色「Laser Orange」（品番IO8233-800）の先行カットを公開した。コービー・ブライアントのパフォーマンスラインの最新カラーで、発売日・価格は現時点で未定。Sneaker Newsが伝えた。",
+    date: "2026.10.03",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "345-air-jordan-3-middle-east.html",
+    cat: "KICKS",
+    title: "Air Jordan 3「Middle East」発表 —— 中東地域限定、タンにアラビア数字の「23」",
+    excerpt: "ジョーダン ブランドは中東地域限定の新色「Air Jordan 3『Middle East』」（品番IX6986-047）を発表した。通常のカラーウェイに地域名を添えるのではなく、タンにアラビア数字の「23」を配したディテールを加え、ホリデーシーズンに中東地域で限定発売する。Sneaker News・Nice Kicksなどが伝えた。",
+    date: "2026.10.03",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "344-johnson-donovan-spurs-assistant.html",
     cat: "NBA",
     title: "ジョンソンHC「袖をまくって、手を汚して働いてくれている」—— スパーズ新アシスタントのドノバンに感謝",
