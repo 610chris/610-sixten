@@ -1,8 +1,105 @@
 {
- "updated_utc": "2026-10-02 18:40 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-10-02 22:33 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-darryn-petersons-adjustment-making-strides-on-defense",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-darryn-petersons-adjustment-making-strides-on-defense",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-darryn-petersons-adjustment-making-strides-on-defense",
+   "title": "Utah Jazz Training Camp Notebook: Darryn Peterson’s Adjustment, Making Strides on Defense",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-02T21:12:13Z",
+   "tags": [
+    "Brice Sensabaugh",
+    "Darryn Peterson",
+    "Jaxson Hayes",
+    "Josh Green",
+    "Josh Okogie",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "An initial week of intense practices and training has come to an end, with preseason basketball right around the corner.",
+   "facts": [
+    "Two upcoming games against Denver will provide fans with a first glimpse at the 2026-27 Jazz squad, while further practices will help Hardy and the coaching staff prepare the team for opening night on Oct. 21.",
+    "Although it’s early and Utah hasn’t played a game against an actual opponent yet, Peterson has primarily played off the ball during camp, with the split being roughly 60-to-40 in terms of his time spent off ball compared…"
+   ],
+   "quotes": [
+    "(I just try to) bring max effort on every rep,",
+    "It’s definitely every rep (that) they’re keeping me on, (so I’m) trying to go hard and learn from them.",
+    "Right now I’m trying to navigate screens at a higher level,",
+    "Not dying on them, really trying to get into the ball, and staying in the play when I get hit. That and just staying sound, because I don’t need any early fouls."
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261002",
+   "url": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261002",
+   "canonical_url": "https://cavs.com/news/features-meleek-thomas-261002",
+   "title": "Meleek Thomas is Not Shying Away from His Rookie Season",
+   "author": "clejgabriele",
+   "published_utc": "2026-10-02T20:55:33Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "That’s what Donovan Mitchell said about rookie teammate Meleek Thomas on Media Day earlier this week, an opinion that seems to be the universal review on the 20-year-old guard. Fans got a glimpse at Summer League. They’re going to get more in less than a week at Rocket Arena.",
+   "facts": [
+    "A consensus five-star prep recruit who won two Pennsylvania state titles, Thomas led the Razorbacks as a freshman in three-point shooting (.416), from the free throw line (.844), and in steals (51), finishing 10th in the…",
+    "In his single season at Fayetteville, Thomas topped the 20-point plateau on eight occasions, with a career-best 30-point effort against Missouri in the regular season finale – going 5-for-6 from three-point range in an o…",
+    "On the season, Thomas posted four games with at least five triples – shooting 49 percent from beyond the arc in SEC games.",
+    "Overall, in his four games out west, Thomas led everyone in scoring (27.3 PPG) and field goal attempts (20.5) and was second overall in field goals makes (10.3).",
+    "He shot an even 50 percent from the floor and 44 percent from long-range – averaging 3.5 boards and a team-best 3.8 assist per game.",
+    "He averaged just 1.5 turnovers to go with 2.0 steals in his four outings.",
+    "He went 7-for-15 from the floor for 20 points in his debut against Indiana but really hit his stride two nights later against the Pistons – finishing with 30 points on 10-of-24 shooting, leading both teams with seven ass…",
+    "Thomas was even more explosive the following night with a 35-point eruption – going 14-for-23 from the floor, including 5-of-9 from deep, adding three boards, three assists, a pair of steals and a block."
+   ],
+   "quotes": [
+    "(Calipari guys) are different,",
+    "I would say it kind of gives me the same confidence that I stay with,",
+    "I knew I would have a big Summer League just because of my hunger and my drive to perform and succeed. Like, nothing’s stopping me from succeeding.",
+    "Growing up in a larger family affects my basketball mentality, just because, like, I've seen my mom and dad never give up, always work hard, and always provide and care for me and my siblings, day aft…"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/zion-williamson-working-after-practice-with-trey-murphy-on-perimeter-shot",
+   "url": "https://www.nba.com/pelicans/news/zion-williamson-working-after-practice-with-trey-murphy-on-perimeter-shot",
+   "canonical_url": "https://pelicans.com/news/zion-williamson-working-after-practice-with-trey-murphy-on-perimeter-shot",
+   "title": "Zion Williamson working after practice with Trey Murphy on perimeter shot",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-02T19:50:38Z",
+   "tags": [],
+   "summary": "New Orleans’ two top scorers from last season are polar opposites in terms of how they get their points: Trey Murphy is an elite long-range shooter, ranking eighth in the NBA in three-pointers made per game (3.2) last season, while Zion Williamson is often impossible to keep away from the rim, averaging 15.4 paint points, second behind only Giannis Antetokounmpo. Given those tendencies, a unique s…",
+   "facts": [
+    "New Orleans’ two top scorers from last season are polar opposites in terms of how they get their points: Trey Murphy is an elite long-range shooter, ranking eighth in the NBA in three-pointers made per game (3.2) last se…",
+    "As part of Williamson’s ongoing efforts to expand and diversify his offensive skill set, he darts around Murphy’s screens and fires shot after shot from 24 feet, work he hopes will force defenses to respect him beyond th…",
+    "Murphy has mastered every shooting skill – coming off picks, shooting pull-ups in transition, spotting up in corners for wide-open looks – resulting in 814 successful treys over his five NBA seasons.",
+    "Williamson’s career accuracy is below average, but not terrible, at 32 percent, but he’s been extremely reticent to fire, attempting only 102 triples in 276 career games.",
+    "San Antonio in January 2020.",
+    "Since then, he’s only twice made more than one trey in a game (going 2/3 in separate 2022 games against Phoenix and Indiana)."
+   ],
+   "quotes": [
+    "Z’s trying to expand his game, trying to shoot more (from outside),",
+    "That’s something I do pretty well. So (I’m) giving him pointers, just helping him along the way. He’s willing to listen, willing to work. I’m already going to get my work in, so it’s great to have him…",
+    "For him, it’s just about staying consistent with mechanics,",
+    "Not worrying about makes or misses right now. If you stay consistent with the same (shooting) form, the same repetition, eventually there will be more makes."
+   ]
+  },
   {
    "source": "MEM 公式（nba.com）",
    "team": "MEM",
@@ -139,7 +236,7 @@
    "key": "https://www.nba.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
    "url": "https://www.nba.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
    "canonical_url": "https://mavs.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
-   "title": "Washington aims to be healthier this season so he can be more available for Mavs",
+   "title": "Washington aims for better health so he can be more available for Mavs",
    "author": "Dwain Price",
    "published_utc": "2026-10-01T23:22:34Z",
    "tags": [
@@ -147,17 +244,17 @@
     "nba",
     "PJ Washington"
    ],
-   "summary": "Entering this year’s training camp, the No. 1 priority for P. J. Washington is his ability to stay healthy this upcoming season. That’s because for the past two years, the Dallas Mavericks forward knows his inability to stay healthy has been like an albatross around his neck.",
+   "summary": "Entering this year’s training camp, the No. 1 priority for P.J. Washington is to stay healthy this season. That’s because for the past two years, the Dallas Mavericks forward knows his lack of availability has been like an albatross around his neck.",
    "facts": [
-    "Entering this year’s training camp, the No. 1 priority for P.",
+    "Entering this year’s training camp, the No. 1 priority for P.J.",
     "Two years ago a series of injuries forced Washington to miss 25 games.",
     "Repeat trips to visit the Mavs’ medical staff cost him 26 games last season."
    ],
    "quotes": [
     "The last two years have been tough for me staying on the floor,",
-    "For me my biggest emphasis is making sure I’m doing everything to make sure my body is right each and every day, and make sure I come in here at 100 percent healthy, and just doing all the little thin…",
-    "P. J. is certainly in the mix for a starting spot, mostly because he can play multiple positions,",
-    "He’s a winning player. He fights for his teammates. He has their backs. He’s a good passer. He’s a quick thinker. We’re excited about P. J."
+    "For me my biggest emphasis is making sure I’m doing everything to make sure my body is right each and every day, and make sure I come in here at 100 percent healthy, doing all the little things. I thi…",
+    "P.J. is certainly in the mix for a starting spot, mostly because he can play multiple positions,",
+    "He’s a winning player. He fights for his teammates. He has their backs. He’s a good passer. He’s a quick thinker. We’re excited about P.J."
    ]
   },
   {
@@ -250,29 +347,6 @@
     "From the 45th pick in the draft to the integral role he has carved out with our team, Jamal’s leadership, hard work, and tenacity earned this,",
     "We’re thrilled he’ll be a Raptor for seasons to come."
    ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "url": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "canonical_url": "https://warriors.com/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "title": "Golden State Sports Academy Announces 2026-27 Winter Camp Schedule",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-01T20:24:16Z",
-   "tags": [],
-   "summary": "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up. Registration is now open for all winter camp sessions at gssportsacademy.com. For video from a recent camp session, CLICK HERE.",
-   "facts": [
-    "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up.",
-    "The winter schedule will run from November 11 through February 27, highlighted by clinics at Chase Center in San Francisco and Sephora Performance Center in Oakland.",
-    "For complete details on Golden State Basketball Camp and to register online, visit gssportsacademy.com or call (510) 986-5310.",
-    "Earlier this year, Golden State Sports Academy opened three new Golden State Shoot 360 locations within City Sports Clubs in Stonestown (San Francisco), Almaden (San Jose), and Newhall (San Jose).",
-    "For complete details on Golden State Shoot 360 memberships and to become a member, visit gsshoot360.com or call (510) 986-5310."
-   ],
-   "quotes": []
   },
   {
    "source": "CHA 公式（nba.com）",
@@ -1252,223 +1326,6 @@
     "We have an identity. We know what our absolutes are defensively and offensively,",
     "I think we went out and acquired some veterans that are going to bring something to both sides of the ball,",
     "They’ve all played at a high level offensively and defensively throughout their careers. I think that we’ve also done a great job of bringing in some young talent through the draft with our two-ways, …"
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "quotes",
-   "key": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
-   "url": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
-   "canonical_url": "https://warriors.com/news/sights-and-sounds-2026-27-warriors-media-day",
-   "title": "Sights and Sounds: 2026-27 Warriors Media Day",
-   "author": "gswgrizzo",
-   "published_utc": "2026-09-29T23:10:00Z",
-   "tags": [
-    "2026 Media Day"
-   ],
-   "summary": "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday. Check out the sights and sounds from the exciting day.",
-   "facts": [
-    "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday.",
-    "Draymond Green is ready to get his 15th season as a Dub underway.",
-    "Resigning to the Warriors in the offseason, veteran Al Horford, will begin his 20th NBA season wearing blue and gold.",
-    "The Warriors 11th draft pick, Yaxel Lendeborg, flagged down the longest-tenured player on the roster, Stephen Curry, for an iconic photo before their first season as teammates.",
-    "Georges Niang suited up in Warriors threads for the first time at Media Day, wearing No. 32.",
-    "The forward signed during the summer and his starting his 10th NBA season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-prioritizing-defense-jaren-jackson-jr-s-communication",
-   "title": "Utah Jazz Training Camp Notebook: Prioritizing Defense, Jaren Jackson Jr.'s Communication",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-09-29T22:23:35Z",
-   "tags": [
-    "Jaren Jackson Jr.",
-    "Lauri Markkanen",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "With Media Day in the rearview mirror and training camp getting underway, the real work begins for the Utah Jazz.",
-   "facts": [
-    "Jackson Jr. only appeared in three games back in February, which resulted in a total of 42 minutes played alongside Markkanen and five minutes spent next to Keyonte George."
-   ],
-   "quotes": [
-    "It was a good atmosphere, everyone was excited,",
-    "I think everyone was ready to get out of the gate.",
-    "There was a lot of defensive work this morning,",
-    "(We need to establish) a competitive mindset, especially on the defensive side of the ball."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/herb-jones-appreciates-jamahl-mosleys-top-priority-improving-pelicans-defense",
-   "url": "https://www.nba.com/pelicans/news/herb-jones-appreciates-jamahl-mosleys-top-priority-improving-pelicans-defense",
-   "canonical_url": "https://pelicans.com/news/herb-jones-appreciates-jamahl-mosleys-top-priority-improving-pelicans-defense",
-   "title": "Herb Jones appreciates Jamahl Mosley's top priority: Improving Pelicans defense",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-09-29T21:05:23Z",
-   "tags": [],
-   "summary": "With the possible exception of fishing, few topics seem to pique Herb Jones’ interest as much as defense, the end of the floor where he’s built a sterling reputation since New Orleans picked him in the 2021 draft. After the Pelicans hired defensive-minded head coach Jamahl Mosley this summer, Jones acknowledged during Media Day that Mosley’s well-known emphasis fits perfectly with the way the sixt…",
-   "facts": [
-    "With the possible exception of fishing, few topics seem to pique Herb Jones’ interest as much as defense, the end of the floor where he’s built a sterling reputation since New Orleans picked him in the 2021 draft.",
-    "Via NBA.com, their favorite team ranked 29th and 23rd in points allowed per 100 possessions, respectively, greatly contributing to 21-61 and 26-56 records.",
-    "In a related development, Jones – an NBA First-Team All-Defense selection in 2023-24 – only played a total of 76 games during the pair of recent seasons, frequently leaving the Pelicans without their best individual defe…",
-    "In Jones’ last full season, New Orleans ranked sixth in defensive efficiency, with “Not on Herb” in uniform for 76 games.",
-    "The Pelicans qualified for the playoffs or play-in during each of Jones’ first three NBA seasons, but have sat out the past two postseasons, as the forward/guard dealt with shoulder and ankle injuries.",
-    "Meanwhile, Mosley’s last three teams in Orlando – all playoff qualifiers in the East – finished third, second and 13th in defense, respectively.",
-    "Mosley’s Orlando squads, Murphy always required “extra treatment the night before, because I knew they’d be really physical.” Including Murphy (team-best 21.5 ppg last season), New Orleans’ roster has boasted numerous ta…",
-    "The Pelicans actually lost four games last season on hot nights of shooting at least 54 percent or better from the field; they also dropped six contests when scoring 125 points or more."
-   ],
-   "quotes": [
-    "Him coming in with the defense-first mindset, that’s music to my ears,",
-    "They’ve seen that it works,",
-    "There is a level of physicality that we hold with each team. There is a discipline we have on the defensive end, the structure, the conditioning, the ability to communicate at a high level. Those are …",
-    "One thing about Mose I’ve noticed is he’s really into details,"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "roster",
-   "key": "https://www.nba.com/sixers/news/2026-sixers-training-camp-notes-quotes",
-   "url": "https://www.nba.com/sixers/news/2026-sixers-training-camp-notes-quotes",
-   "canonical_url": "https://sixers.com/news/2026-sixers-training-camp-notes-quotes",
-   "title": "2026 Sixers Training Camp Notes & Quotes",
-   "author": "Matt Murphy",
-   "published_utc": "2026-09-29T20:59:25Z",
-   "tags": [],
-   "summary": "Training camp is underway at the Penn Medicine Philadelphia 76ers Training Complex. The 2026-27 Sixers, featuring newly acquired stars LeBron James and Jaylen Brown, began practice Tuesday following Monday’s Media Day.",
-   "facts": [
-    "Training camp is underway at the Penn Medicine Philadelphia 76ers Training Complex.",
-    "The 2026-27 Sixers, featuring newly acquired stars LeBron James and Jaylen Brown, began practice Tuesday following Monday’s Media Day.",
-    "An expanded Blue x White Scrimmage, presented by BODYARMOR, will be held at Xfinity Mobile Arena on Saturday, Oct. 3, at noon.",
-    "Philadelphia will begin its four-game preseason slate Monday, Oct. 5, against New York.",
-    "Follow along here for the latest news from the 76ers’ 2026 training camp!",
-    "TUESDAY, SEPT. 29 | DAY 1 VJ Edgecombe, coming off an NBA All-Rookie Team selection, free-agent signing Anfernee Simons and rookie No. 22 overall pick Labaron Philon Jr. were among the last players getting shots up after…",
-    "He added that he is not putting any additional pressure on himself and worked closely with the 22-time All-Star during the session.",
-    "I just feel like I've been here for a minute. [Joel Embiid] has been here, what, 13 years?"
-   ],
-   "quotes": [
-    "work needs to be done, and I’m ready to put the work in,",
-    "You’ve got to start building your defense, and that starts with getting your defense set up and all that kind of stuff,",
-    "We did a lot of transition defensive drills. Then we went to the other end of ending our defense, with a lot of blocking-out drills. We got into some real basic, Day 1-type stuff, foundational defensi…",
-    "Not that it's any big secret, but I always start the season with kind of a 30-minute vision for the year,"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/haliburtons-joy-evident-as-pacers-tip-off-new-season",
-   "url": "https://www.nba.com/pacers/news/haliburtons-joy-evident-as-pacers-tip-off-new-season",
-   "canonical_url": "https://pacers.com/news/haliburtons-joy-evident-as-pacers-tip-off-new-season",
-   "title": "Haliburton's Joy Evident as Pacers Tip Off New Season",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-09-29T19:29:38Z",
-   "tags": [
-    "2026 Training Camp"
-   ],
-   "summary": "The Pacers officially tipped off a new season on Tuesday, opening training camp with their first practice of the 2026-27 campaign at the Ascension St. Vincent Center.",
-   "facts": [
-    "The Pacers officially tipped off a new season on Tuesday, opening training camp with their first practice of the 2026-27 campaign at the Ascension St.",
-    "As expected, a lot of the attention after practice centered on star guard Tyrese Haliburton, who is returning to action after missing all of last season recovering from tearing his right Achilles tendon in Game 7 of the …",
-    "He will have a new starting center in Ivica Zubac, a bruising 7-footer from Croatia acquired from the Clippers in February.",
-    "Zubac played just five games with Indiana last year before a fractured rib ended his season.",
-    "The eighth overall pick in the 2023 NBA Draft, Walker played the second-most minutes of any player on Indiana's injury-ravaged roster last season.",
-    "He started 41 of 76 games and averaged 11.6 points, 5.1 rebounds, and 2.5 assists — all career highs.",
-    "Walker will move back into a reserve role with everyone fully healthy, but Carlisle still sees plenty of promise in the 6-foot-8, 235-pound forward, who just turned 23 earlier this month."
-   ],
-   "quotes": [
-    "I think over the last couple days, the mundane parts of the NBA have just been fun for me again. Just glad to be back out on the floor.",
-    " for his ability to lift up everyone in the gym with his infectious, upbeat personality. ",
-    "It's hard to put a value on the kind of intrinsic intangible things that he does naturally. That's one of the things that makes him so special. He had a great day today.",
-    " Pacers forward Jarace Walker added. "
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20260929-class-is-in-session-at-celtics-big-fella-university",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20260929-class-is-in-session-at-celtics-big-fella-university",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20260929-class-is-in-session-at-celtics-big-fella-university",
-   "title": "Class is in Session at Celtics’ ‘Big Fella University’",
-   "author": "Taylor Snow",
-   "published_utc": "2026-09-29T19:19:33Z",
-   "tags": [
-    "Practice",
-    "Preseason",
-    "Sidebar",
-    "Training Camp"
-   ],
-   "summary": "BOSTON – On Tuesday, the Celtics opened training camp. And with it, the doors officially opened to \"Big Fella University.\"",
-   "facts": [
-    "Garza stretches the floor in the pick-and-pop – he was the league’s most efficient 3-point shooting center last season – while also providing interior scoring, rebounding, energy, and constant hustle.",
-    "Williams, a sophomore 7-footer, gives Boston a different dimension with his playmaking and ability to facilitate from the high post, along with his screening, rebounding, and interior defense.",
-    "The 7-footer arrives in Boston as the league’s second all-time leading offensive rebounder on a per-minute basis behind only Jayson Williams.",
-    "Cenac is the developing jack-of-all-trades of the big man rotation, combining athleticism and mobility with rim protection, rebounding, lob-catching ability, and a growing perimeter game.",
-    "After spending just a short amount of time around the group, the 6-foot-11 19-year-old already has the attention of his teammates."
-   ],
-   "quotes": [
-    "I think our Big Fella University is pretty exciting,",
-    "Those guys should be pretty reliable. Night in and night out whoever gets called upon, I got 100 percent confidence we’ll deliver.",
-    "I just want to add what I did in New York – the dirty work and the grit and grind,",
-    "He’s one of those guys you hate going against, just how good he is on the glass, you’ve got to box him out every single time. Obviously he’s huge so he makes it tough, but he’s relentless and so it’s …"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
-   "url": "https://www.nba.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
-   "canonical_url": "https://mavs.com/mavs/news/now-that-hes-back-home-marcus-sassers-basketball-journey-has-come-full-circle",
-   "title": "Now that he's home, Marcus Sasser's basketball journey has come full circle",
-   "author": "Dwain Price",
-   "published_utc": "2026-09-29T19:18:59Z",
-   "tags": [
-    "dallas mavericks",
-    "Marcus Sasser",
-    "nba"
-   ],
-   "summary": "Marcus Sasser’s basketball journey proves that you really can come home.",
-   "facts": [
-    "Growing up in the South Dallas suburb of Red Oak, Sasser was such a standout basketball player at the University of Houston that he became a first-round draft pick of the Memphis Grizzlies in 2023.",
-    "And on draft night the crafty guard was first traded to the Boston Celtics and then to the Detroit Pistons, where he pieced together a solid career in the Motor City over the past three years.",
-    "Then, as part of a six-team trade, the Pistons traded Sasser to the Dallas Mavericks on July 8, providing him the unique opportunity to pack his bags and come home where he’ll have the pleasure of playing in front of his…",
-    "He shot a hefty 41.5 percent from beyond the three-point arc last season, which would have ranked him in the top 10 in the league had he played the required amount of games.",
-    "His great grandfather, John Barber, was chosen in the seventh round of the 1956 NBA Draft by the Minneapolis Lakers.",
-    "Sasser’s uncle, Jason Sasser, was a second-round pick of the Sacramento Kings in 1996.",
-    "And another uncle, Jeryl Sasser, was a first-round selection of the Orlando Magic in 2001.",
-    "He also remembers his first time playing in American Airlines Center as he scored a game-high 24 points to lead the Pistons to a 107-89 victory over the Mavs on April 12, 2024."
-   ],
-   "quotes": [
-    "It was exciting when I first heard the news — just coming back home to Dallas,",
-    "I talked to my parents about it and they were super-excited just to have me right up the street, basically. For me it’s a new start, so everything's exciting and a blessing.",
-    "It can’t get any better than this,",
-    "It’s a kid’s game and we’re getting paid for it, and it’s kind of a dream come true to grow up here and play basketball in the Dallas area and then you’re playing in the NBA for the Dallas Mavericks. …"
    ]
   }
  ]
