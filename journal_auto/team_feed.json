@@ -1,8 +1,135 @@
 {
- "updated_utc": "2026-10-02 00:09 UTC",
+ "updated_utc": "2026-10-02 18:40 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/memphis-grizzlies-conclude-annual-grizz-goes-back-to-school-campaign-2",
+   "url": "https://www.nba.com/grizzlies/news/memphis-grizzlies-conclude-annual-grizz-goes-back-to-school-campaign-2",
+   "canonical_url": "https://grizzlies.com/news/memphis-grizzlies-conclude-annual-grizz-goes-back-to-school-campaign-2",
+   "title": "Memphis Grizzlies Conclude Annual Grizz Goes Back to School Campaign",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-10-02T18:19:59Z",
+   "tags": [
+    "Community",
+    "Education",
+    "Grizz Goes Back to School",
+    "Pressroom"
+   ],
+   "summary": "Grizzlies Celebrate Students and Educators Across the Mid-South",
+   "facts": [
+    "The annual program tipped-off on Tuesday, July 21, with Grizzlies forward GG Jackson II hosting a Groom & Grind event at the Buckman Boys & Girls Club.",
+    "Jackson II treated 100 kids to a day filled with basketball activities, inflatables, craft stations and more.",
+    "On Wednesday, July 22, Grizzlies Connect volunteers packed backpacks with various school supplies for over 900 children at the Raleigh Library, one of several Memphis Public Libraries, with the backpacks distributed to l…",
+    "Grizzlies forward Taylor Hendricks also hosted 100 kids at the Buckman Boys & Girls Club on Thursday, July 23, playing basketball games and providing each kid with a gift card to purchase back-to-school supplies.",
+    "Grizzlies Connect volunteers sorted through thousands of school supplies to distribute to teachers ahead of the school year on Friday, July 31, at the Stuff the Bus event.",
+    "The team joined both the Memphis-Shelby County Schools’ Back-to-School Fair and the Orange Mound Back-to-School Fair on Saturday, Aug. 1, to provide swag items and giveaways to more than 5,000 community members.",
+    "The Grizzlies supported the annual Teach901 back-to-school teacher bash at Old Dominick Distillery on Thursday, Aug. 20, to celebrate over 200 schoolteachers.",
+    "Grizzlies guard Jahmai Mashack donated back-to-school items to Grizzlies Prep students and teachers on Wednesday, Aug. 26."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261002-for-rookies-cenac-mitchell-the-learning-hasnt-stopped-in-boston",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261002-for-rookies-cenac-mitchell-the-learning-hasnt-stopped-in-boston",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20261002-for-rookies-cenac-mitchell-the-learning-hasnt-stopped-in-boston",
+   "title": "For Rookies Cenac, Mitchell, the Learning Hasn’t Stopped in Boston",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-02T18:11:37Z",
+   "tags": [
+    "Preseason",
+    "Sidebar",
+    "Training Camp"
+   ],
+   "summary": "BOSTON – Before Chris Cenac Jr. ever played a college basketball game, he had already received a lesson from one of the greatest big men to ever play the sport.",
+   "facts": [
+    "In the fall of 2025, before beginning his freshman season at the University of Houston, Cenac had an opportunity to work out with Hall-of-Famer Hakeem Olajuwon for a couple of days.",
+    "For the then-18-year-old, it was a chance to pick the brain of a two-time NBA champion, an MVP, a two-time Defensive Player of the Year, the league's all-time shot-blocking leader, and one of the most skilled centers the…",
+    "The Celtics selected the 6-foot-11 forward/center with the 27th pick in June’s NBA Draft, and he and fellow rookie forward Dillon Mitchell, the 40th pick, have been hard at work with Boston’s developmental staff almost f…",
+    "He blocked 18 shots across 37 games during his lone college season at Houston, but flashed more of that ability during Summer League when he swatted 11 shots in just four games.",
+    "He’s also been putting in significant work on the other end of the floor, particularly with his outside shot after connecting on 33.3 percent of his 3-point attempts in college.",
+    "Athleticism and defensive versatility have long been his calling card’s but he’s spent much of his first few months as a Celtic developing a part of his game that wasn’t featured much during his four collegiate seasons: …",
+    "Mitchell shot 19.3 percent from deep during his college career and attempted just 15 3-pointers as a senior at St.",
+    "Just weeks after arriving in Boston, Mitchell shot 37.5 percent from beyond the arc at Summer League, where he made more 3-pointers than he did during his entire senior season."
+   ],
+   "quotes": [
+    "It was pretty cool, just learning from one of the best to ever play,",
+    "He taught me a lot of little things about just keeping the game simple, having one or two moves, like he did, and I learned a lot from him.",
+    "When me and Chris got drafted and flew in, that day we flew in we didn't even go to the hotel and change,",
+    "We came straight [to the Auerbach Center] and got a workout in. So it's been immediate and it's been every day. It’s no days off."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-2026-27-preseason-preview",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-2026-27-preseason-preview",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-2026-27-preseason-preview",
+   "title": "Utah Jazz 2026-27 Preseason Preview",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-02T16:40:01Z",
+   "tags": [
+    "Darryn Peterson",
+    "Jaren Jackson Jr.",
+    "Utah Jazz"
+   ],
+   "summary": "On Sunday, the Jazz will kick off a four-game preseason slate, giving fans a first glimpse at the 2026-27 squad. Utah will conduct a home-and-home set against the Denver Nuggets prior to matchups against the San Antonio Spurs and Phoenix Suns.",
+   "facts": [
+    "On Sunday, the Jazz will kick off a four-game preseason slate, giving fans a first glimpse at the 2026-27 squad.",
+    "After spending a lot of time in the gym against fellow teammates, the opportunity to face live competition against other teams will help the Jazz sharpen their attack leading up to the Oct. 21 season opener against the M…",
+    "Oct. 4 at Denver Nuggets (5 p.m.",
+    "The Nuggets are returning their main core, which continues to be led by three-time MVP Nikola Jokić and Jamal Murray.",
+    "Denver Nuggets (7 p.m.",
+    "While this Oct. 6 clash will provide another opportunity for the Jazz to stack up against one of the Western Conference’s elite squads, it will perhaps be more notable for the debut of the new-look Delta Center.",
+    "After waiting many months to watch their team in action at the Delta Center, Jazz fans can look forward to Oct. 6.",
+    "San Antonio Spurs (7 p.m."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "quotes",
+   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-expectations-for-the-2026-27-new-look-bulls",
+   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-expectations-for-the-2026-27-new-look-bulls",
+   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-expectations-for-the-2026-27-new-look-bulls",
+   "title": "Ask Sam Mailbag: Expectations for the 2026-27 new look Bulls",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-02T16:33:45Z",
+   "tags": [
+    "Ask Sam mailbag",
+    "Sam Smith"
+   ],
+   "summary": "Peter Zievers: Wilson has a shot he's obviously worked on. It looks pretty okay, but he could use to get his hands a little higher on release from what I saw. Yeah, this guy can get an easy 20 just off secondary offense. He appears to have a real nice set of hands around the rim; I'm not sure how that's going to show when actual men start ramming into his rib cage in the under-the-basket scrum. Th…",
+   "facts": [
+    "Yeah, this guy can get an easy 20 just off secondary offense.",
+    "Think Splitter is going to give him 30+ minutes a game to begin with?",
+    "Bulls desperately need 3-point shooting and that’s one thing he does really well.",
+    "Which probably is his Bulls fate somewhat similar to Norman Powell, though Powell’s contract might be more difficult to trade.",
+    "But he has a manageable contract with a player option, which figured to be the biggest appeal to the Bulls.",
+    "Once injuries and desperation hit around the league, Hield has a most marketable skill.",
+    "Outside of the fact he grew over the summer to 7 Feet along with him not showing much in the summer league, where do you see him on this Bulls team?",
+    "Though most important to remember about Essengue is that he was their (previous management’s) choice, and he basically is a rookie after missing all last season with surgery, and even still a teenager until December."
+   ],
+   "quotes": [
+    "The Lakers and Bulls are in advanced discussions on a trade that would send Dalton Knecht and Jaden Hardy to Chicago for big man Jalen Smith, according to sources."
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -17,9 +144,10 @@
    "published_utc": "2026-10-01T23:22:34Z",
    "tags": [
     "dallas mavericks",
-    "nba"
+    "nba",
+    "PJ Washington"
    ],
-   "summary": "Entering this year’s training camp, the No. 1 priority for P. J. Washington is his ability to stay healthy this upcoming season. That’s because for the past two years, the Dallas Mavericks’ forward knows his inability to stay healthy has been like an albatross around his neck.",
+   "summary": "Entering this year’s training camp, the No. 1 priority for P. J. Washington is his ability to stay healthy this upcoming season. That’s because for the past two years, the Dallas Mavericks forward knows his inability to stay healthy has been like an albatross around his neck.",
    "facts": [
     "Entering this year’s training camp, the No. 1 priority for P.",
     "Two years ago a series of injuries forced Washington to miss 25 games.",
@@ -1341,295 +1469,6 @@
     "I talked to my parents about it and they were super-excited just to have me right up the street, basically. For me it’s a new start, so everything's exciting and a blessing.",
     "It can’t get any better than this,",
     "It’s a kid’s game and we’re getting paid for it, and it’s kind of a dream come true to grow up here and play basketball in the Dallas area and then you’re playing in the NBA for the Dallas Mavericks. …"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "roster",
-   "key": "https://www.nba.com/heat/news/heat-sign-lester-quinones",
-   "url": "https://www.nba.com/heat/news/heat-sign-lester-quinones",
-   "canonical_url": "https://heat.com/news/heat-sign-lester-quinones",
-   "title": "HEAT SIGN LESTER QUIÑONES",
-   "author": "Miami HEAT",
-   "published_utc": "2026-09-29T17:18:59Z",
-   "tags": [
-    "Trending"
-   ],
-   "summary": "Your Miami HEAT announced today that they have signed guard Lester Quiñones. Per club policy, terms of the deal were not disclosed.",
-   "facts": [
-    "Quiñones, who was named to the All-NBA G League First Team and selected to the NBA G League Next Up Game, appeared in 36 regular season G League games (35 starts) last season with the Osceola Magic and averaged a team-le…",
-    "He led the team in points, field goals made, three-point field goals made, free throws made and plus/minus and recorded 27 20-point games, including four 30-point performances.",
-    "His returning rights were acquired by the HEAT’s G League affiliate, the Sioux Falls Skyforce, in a four-team trade on September 26.",
-    "Quiñones has appeared in 99 career regular season G League games (98 starts) and averaged 22.2 points, 6.2 rebounds, 4.1 assists, 1.11 steals and 33.2 minutes while shooting 45.3 percent from the field, 37.3 percent from…",
-    "He has also appeared in 54 career NBA games over three seasons with New Orleans, Philadelphia and Golden State averaging 4.8 points, 1.7 rebounds and 1.1 assists in 11.0 minutes of action."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "roster",
-   "key": "https://www.nba.com/pacers/news/indiana-pacers-announce-2026-27-training-camp-roster",
-   "url": "https://www.nba.com/pacers/news/indiana-pacers-announce-2026-27-training-camp-roster",
-   "canonical_url": "",
-   "title": "Indiana Pacers Announce 2026-27 Training Camp Roster",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-09-29T16:36:21Z",
-   "tags": [
-    "2026 Training Camp"
-   ],
-   "summary": "INDIANAPOLIS — The Indiana Pacers announced on Tuesday their training camp roster for the 2026-27 season. Training camp will be held at the Ascension St. Vincent Center in Indianapolis beginning Tuesday, September 29.",
-   "facts": [
-    "INDIANAPOLIS — The Indiana Pacers announced on Tuesday their training camp roster for the 2026-27 season.",
-    "Vincent Center in Indianapolis beginning Tuesday, September 29.",
-    "The Pacers' training camp roster is listed below: Indiana Pacers 2026 Training Camp Roster No. | Player | Pos | Ht | Wt | Birthdate | Prior to NBA/Native Country | Years Pro 24 | Kobe Brown* | F | 6-7 | 250 | 1/1/2000 | …",
-    "McConnell | G | 6-2 | 190 | 3/25/1992 | Arizona | 11 22 | Larry Nance Jr. | F/C | 6-6 | 245 | 1/1/1993 | Wyoming | 11 2 | Andrew Nembhard | G | 6-5 | 200 | 1/16/2000 | Gonzaga/Canada | 4 23 | Aaron Nesmith | G | 6-6 | 21…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "roster",
-   "key": "https://www.nba.com/sixers/news/philadelphia-76ers-announce-2026-training-camp-details",
-   "url": "https://www.nba.com/sixers/news/philadelphia-76ers-announce-2026-training-camp-details",
-   "canonical_url": "https://sixers.com/news/philadelphia-76ers-announce-2026-training-camp-details",
-   "title": "PHILADELPHIA 76ERS ANNOUNCE 2026 TRAINING CAMP DETAILS",
-   "author": "76ers PR",
-   "published_utc": "2026-09-29T15:57:04Z",
-   "tags": [],
-   "summary": "TRAINING CAMP WILL BE HELD AT THE PENN MEDICINE PHILADELPHIA 76ERS TRAINING COMPLEX IN CAMDEN, NEW JERSEY",
-   "facts": [
-    "TRAINING CAMP WILL BE HELD AT THE PENN MEDICINE PHILADELPHIA 76ERS TRAINING COMPLEX IN CAMDEN, NEW JERSEY PHILADELPHIA — September 29, 2026 — The Philadelphia 76ers announced today their training camp roster for the 2026…",
-    "Training camp will be held at The Penn Medicine Philadelphia 76ers Training Complex in Camden, New Jersey, beginning Today, September 29, through Friday, October 2."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "quotes",
-   "key": "https://www.nba.com/magic/news/3-paolo-banchero-storylines-going-into-2026-27-season",
-   "url": "https://www.nba.com/magic/news/3-paolo-banchero-storylines-going-into-2026-27-season",
-   "canonical_url": "https://orlandomagic.com/news/3-paolo-banchero-storylines-going-into-2026-27-season",
-   "title": "3 Paolo Banchero Storylines Going Into 2026-27 Season",
-   "author": "Josh Cohen",
-   "published_utc": "2026-09-29T13:44:20Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Some of the game’s all-time best players made their biggest gains in their fifth NBA season. Kobe Bryant increased his scoring average by six points in his fifth year with the Lakers. That was essentially when the debate started as to who between he and Shaquile O’Neal was truly L.A.’s No. 1 option. Kawhi Leonard finished second in MVP voting in his fifth NBA season after primarily being just a de…",
-   "facts": [
-    "That was essentially when the debate started as to who between he and Shaquile O’Neal was truly L.A.’s No. 1 option.",
-    "His Magic teammates shot just under 40 percent from 3-point range off his kickouts from the paint (109 attempts).",
-    "On general sprayouts (passing from anywhere inside 3-point line out to the perimeter), Franz Wagner made six of his seven threes when the pass was delivered by Banchero, while Anthony Black went 18-of-36 (50 percent) and…",
-    "Teammates made 74.6 percent of those shots last season.",
-    "What we know about Paolo is that he’s one of the best at drawing fouls (drew league-most 300 shooting fouls last season), makes great reads as a playmaker (as detailed above), has a unique blend of power and finesse that…",
-    "What did go under the radar last season, however, was his catch-and-shoot 3-point shooting.",
-    "On 81 stationary catch-and-shoot 3-point attempts last season, he shot 40.8 percent.",
-    "The last two seasons combined, he’s made 41 percent of his 139 attempts."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "roster",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-announce-2026-27-training-camp-roster",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-announce-2026-27-training-camp-roster",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-announce-2026-27-training-camp-roster",
-   "title": "Charlotte Hornets Announce 2026-27 Training Camp Roster",
-   "author": "Hornets PR",
-   "published_utc": "2026-09-29T12:50:28Z",
-   "tags": [
-    "2026 Training Camp",
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "September 29, 2026 – The Charlotte Hornets today announced the team’s roster for 2026-27 training camp. The Hornets will conduct training camp at McAlister Field House on the campus of The Citadel in Charleston, S.C., for the second consecutive season. Hornets Training Camp is presented by Truist.",
-   "facts": [
-    "September 29, 2026 – The Charlotte Hornets today announced the team’s roster for 2026-27 training camp.",
-    "Charlotte’s roster stands at 21 players heading into training camp beginning today, Tuesday, Sept. 29.",
-    "Charlotte Hornets Training Camp Roster 2026-27 * denotes Two-Way contract player"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/camp-questions-pistons-fold-new-players-into-mix-eye-jumps-for-holdovers",
-   "url": "https://www.nba.com/pistons/news/camp-questions-pistons-fold-new-players-into-mix-eye-jumps-for-holdovers",
-   "canonical_url": "https://pistons.com/news/camp-questions-pistons-fold-new-players-into-mix-eye-jumps-for-holdovers",
-   "title": "Camp questions: Pistons fold new players into mix, eye jumps for holdovers",
-   "author": "Keith Langlois",
-   "published_utc": "2026-09-29T12:48:40Z",
-   "tags": [
-    "Cade Cunningham",
-    "Jalen Duren",
-    "training camp"
-   ],
-   "summary": "Cade Cunningham, Jalen Duren and Ausar Thompson – the three players Trajan Langdon identified from the roster he inherited two years ago as the foundational pieces around whom he’ll try to build an NBA champion – are the only three Pistons players who endured the 14-win season of three years ago.",
-   "facts": [
-    "Cade Cunningham, Jalen Duren and Ausar Thompson – the three players Trajan Langdon identified from the roster he inherited two years ago as the foundational pieces around whom he’ll try to build an NBA champion – are the…",
-    "The Pistons have an enviable degree of roster stability, but even at that, they’ll be incorporating at least one new starter and as many as four new rotation pieces if you include Kevin Huerter, acquired at last season’s…",
-    "Bickerstaff might have ahead of the Oct. 20 season opener vs.",
-    "The biggest question, of course, is whether Jalen Duren signs a long-term contract or accepts his qualifying offer to enable becoming an unrestricted free agent after the season.",
-    "The odds-on favorites to fill out the starting lineup are Duncan Robinson and newcomer John Collins, which would give the unit two 40 percent 3-point shooters – an appealing and arguably a necessary ingredient given that…",
-    "Keep an eye on another newcomer, Isaiah Joe, five years younger than Robinson and one of the few players in the NBA in Robinson’s company for 3-point volume and efficiency.Thompson, fresh off inking a five-year contract …",
-    "The surest way for that to happen is for Holland to become a legitimate 3-point threat.",
-    "Not only would improved 3-point shooting allow Holland – who hit 25 percent of his threes a season ago while taking 36 percent of his shots from the arc – to become a much more dynamic offensive threat, it would give Bic…"
-   ],
-   "quotes": [
-    "Been working on it for most of the summer,",
-    "Getting to spots, raising up. It all comes with being aggressive, throwing the first punch and everything flows, everything’s free.",
-    "He’s looked great this summer,"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "quotes",
-   "key": "https://www.nba.com/cavaliers/news/features-media-day-recap-260929",
-   "url": "https://www.nba.com/cavaliers/news/features-media-day-recap-260929",
-   "canonical_url": "https://cavs.com/news/features-media-day-recap-260929",
-   "title": "Media Day Recap, presented by Cleveland Clinic",
-   "author": "clejgabriele",
-   "published_utc": "2026-09-29T12:03:56Z",
-   "tags": [
-    "2026 Media Day",
-    "2026-27 Season"
-   ],
-   "summary": "On Monday afternoon, just hours before boarding a plane for Training Camp in southern Spain, the Cavaliers took the floor at Rocket Arena for the first time since the Eastern Conference Finals last spring – gathering for their annual Media Day session. The next time they’ll congregate there, it’ll be to take on Boston in the first preseason contest of the year on October 8.",
-   "facts": [
-    "The next time they’ll congregate there, it’ll be to take on Boston in the first preseason contest of the year on October 8.",
-    "The Cavaliers aren’t a new-look squad heading into the 2026-27 campaign, but there were some familiar faces missing – and some new ones in their place.",
-    "James Harden is the squad’s oldest at 37; Meleek Thomas, the youngest at age 20.",
-    "Peyton Watson arrived via a five-team sign-and-trade deal.",
-    "Mario Hezonja returns to the NBA after a six-year stint overseas.",
-    "Despite the offseason changes, Allen – who’s been a fixture in the middle for Cleveland since January 2021 – talked about how tight this group has been, over the years and even this past summer.",
-    "The 25-year-old big man already has a DPOY award and All-Star nod on his resume, but he knows he still has room to grow.",
-    "I didn’t even know he was 23, 24 years old, because he plays as if he's older."
-   ],
-   "quotes": [
-    "It's just a good group of guys,",
-    "That's the number one thing in this league: if you're willing to play for each other, you're willing to sacrifice even more. And I think having a great group of guys off the court – hanging out togeth…",
-    "We were with each other a lot this summer,",
-    "Even with Don, I think he had some guys go with him to Louisville to watch the Louisville (football) games and stuff like that. And then, just on the court, it's been good. Like, we've been here for a…"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "quotes",
-   "key": "https://www.nba.com/bulls/news/bryson-graham-tiago-splitter-talk-bulls-rebuild-were-ready-for-this-challenge",
-   "url": "https://www.nba.com/bulls/news/bryson-graham-tiago-splitter-talk-bulls-rebuild-were-ready-for-this-challenge",
-   "canonical_url": "https://bulls.com/news/bryson-graham-tiago-splitter-talk-bulls-rebuild-were-ready-for-this-challenge",
-   "title": "Bryson Graham, Tiago Splitter talk Bulls rebuild: \"We're ready for this challenge\"",
-   "author": "Sam Smith",
-   "published_utc": "2026-09-29T10:59:28Z",
-   "tags": [],
-   "summary": "The Bulls have dug a deep hole in recent seasons. They believe they finally have a cornerstone.",
-   "facts": [
-    "Legendary sports franchise, great city and fans, return of championships the goal.",
-    "Like Graham said when talking about that presumed foundational player, 6-10 Skywalker Caleb Wilson.",
-    "The community had painfully endured the end of the Derrick Rose era and then waved goodbye to Jimmy Butler in what then was a run of .500 seasons.",
-    "So the new 2020 management correctly read the table and decided to push their chips in.",
-    "They traded for the long missing center; perhaps Nikola Vučević wasn’t so beloved.",
-    "But he was an All-Star and Wendell Carter Jr. is a grounded 6-8.",
-    "Then the big summer of 2021; what seemed like coups to land All-Star DeMar DeRozan and super sub Alex Caruso to also pair with the dynamic Lonzo Ball.",
-    "Maybe not to compete with the Knicks, 76ers or Cavaliers."
-   ],
-   "quotes": [
-    "Just kind of like where we're at,",
-    "That's where we're at, the building phase, and it's exciting because Caleb has all the potential in the world,",
-    "And we just kind of have to water that seed correctly. And in time it'll sprout into something really, really beautiful. But we're gonna be patient, and we're gonna temper the expectations, and we're …",
-    "That is going to be a constant fight, and that's going to be something that me and Tiago and the rest of the staff have to be committed to. Not mortgaging the future for short-term gains,"
-   ]
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "quotes",
-   "key": "https://www.nba.com/suns/news/biggest-themes-from-phoenix-suns-media-day",
-   "url": "https://www.nba.com/suns/news/biggest-themes-from-phoenix-suns-media-day",
-   "canonical_url": "https://suns.com/news/biggest-themes-from-phoenix-suns-media-day",
-   "title": "Biggest themes from Phoenix Suns Media Day",
-   "author": "Shane Young",
-   "published_utc": "2026-09-29T04:33:11Z",
-   "tags": [
-    "2026-27",
-    "media day"
-   ],
-   "summary": "Media Day is officially in the books, and now the Phoenix Suns will enter training camp to launch the 2026-27 NBA season.",
-   "facts": [
-    "Media Day is officially in the books, and now the Phoenix Suns will enter training camp to launch the 2026-27 NBA season.",
-    "Here are 3 main takeaways from Monday's press conferences, which you can watch and listen to here.",
-    "All of the returning players stayed in contact through their workouts at the Suns' training facility, on the court and in the weight room.",
-    "That included 12-year veteran Devin Booker, who wanted to be around as the Suns' leader.",
-    "It's extremely helpful when implementing new players and getting them acclimated with the returning core.",
-    "With center Mark Williams being out with a shoulder injury, the door is now open for minutes and increased opportunities for Maluach and Oso Ighodaro, who have developed a strong bond over the last 14 months and pushed e…",
-    "With the unfortunate injury to Mark, I think he's going to be thrown into the fire a lot more."
-   ],
-   "quotes": [
-    "We're all on the same page,",
-    "This summer was a big summer for us to keep all of the same guys in the same building.",
-    " and what that represents. ",
-    "Being together working out, doing some events together, or getting together not even in Phoenix. That's special."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "quotes",
-   "key": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "url": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "canonical_url": "https://warriors.com/news/top-quotes-from-warriors-2026-media-day-20260928",
-   "title": "Top Quotes from Warriors 2026 Media Day",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-09-29T01:35:14Z",
-   "tags": [
-    "2026 Media Day",
-    "Warriors Talk"
-   ],
-   "summary": "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday. Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season. Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise f…",
-   "facts": [
-    "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday.",
-    "Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season.",
-    "Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise for the foreseeable future.",
-    "Butler detailed his ongoing recovery from a torn ACL and said he expects to be the same player, or maybe “even a little better,” when he returns.",
-    "We want to go for a top-3 defense in this league.",
-    "Some would say we want to go for the best defense in the league, but I think ultimately just starting, you know, trying to get top-3 week after week, and I think weeks will start to add up. - De’Anthony Melton on the add…"
-   ],
-   "quotes": [
-    "It got to a point where it all made sense for both sides. For me, clarity of mind for the next two, three years, and then with some optionality on, trying to put us in a position to have room and to b…",
-    "I'm not altering anything. I don't care what anybody says. I always tell Steph and Dray, if I'm up there, throw the ball, because I really think I'm a wide receiver. One of my favorite athletes of all…",
-    "Every day we walk in here, we must be on a trajectory of putting together a great project, and if you put together a great project, when you get to the end of it, regardless of what the result is, you…",
-    "I would say playing meaningful minutes. You know, when the game is on the line, I want to be the guy on the court trying to make a play on defense or offense, whatever it has to come to. Then, hopeful…"
    ]
   }
  ]
