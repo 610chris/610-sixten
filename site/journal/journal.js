@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "343-shinjuku-givers-3x3-season2.html",
+    cat: "JAPAN",
+    title: "新宿givers、3x3.EXE PREMIERで年間2位 —— エスター選手が168得点で得点女王に、大阪PLAYOFFSへ",
+    excerpt: "女子3人制バスケットボールチーム「新宿givers」は2026年9月26日に終えた3x3.EXE PREMIER 2026 WOMEN'S JAPANのレギュラーシーズン全8Roundを565ポイントの年間2位で終えた。イベ・エスター・チカンソ選手は通算168得点で得点ランキング1位。チームは10月3日・4日に大阪で開催されるPLAYOFFSに進出する。",
+    date: "2026.10.02",
+    thumb: "../assets/journal-343-hero.jpg?v=a213d0ab62"
+  },
+  {
     href: "342-nishida-brothers-fan-space.html",
     cat: "JAPAN",
     title: "Bリーグ・西田三兄弟のファンコミュニティ「海部の三兄弟」SPACE開設 —— 徳島の旧地名に由来、三者三様のキャリアをつなぐ",
