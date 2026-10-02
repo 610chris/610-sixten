@@ -5,11 +5,16 @@ name: Video build
 # 書き出した動画はそのまま @sixten に IG リールとして自動投稿する（journal_auto/reel_post.py）。
 # 2026-09-29 追加（クリス指定: 承認なしの全自動・リールだけ・Actions で投稿）。
 # 記録（video_status.json）も Release 側に置くので、この workflow は commit/push しない＝他の起動を誘発しない。
+# 深夜（JST 3:00〜6:59）にできた動画は reel_post.py が投稿を保留するので、7:00 の schedule で流す
+# （2026-10-02 クリス指示「夜中の3時から朝7時までに起きたやつは全部朝7時に投稿」）。
 on:
   push:
     branches: [main]
     paths:
       - journal_auto/ig_queue.json
+  schedule:
+    # UTC 22:00 = JST 7:00。Actions の cron は数分〜十数分遅れることがある
+    - cron: '0 22 * * *'
   workflow_dispatch:
     inputs:
       ids:
@@ -48,6 +53,8 @@ jobs:
           ffmpeg -version >/dev/null 2>&1 || { sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg; }
           cd journal_video && npm ci
       - name: Build videos
+        # 7:00 の schedule は深夜に保留したぶんを投稿するだけ。動画は作らない
+        if: ${{ github.event_name != 'schedule' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -61,6 +68,7 @@ jobs:
       # 自己ループはしない: この workflow のトリガーは journal_auto/ig_queue.json の push だけで、
       # ここで触るのは site/assets/journal/video/ のみ。video_status.json は従来どおり Release 側。
       - name: Commit web copies
+        if: ${{ github.event_name != 'schedule' }}
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -84,4 +92,10 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_TOKEN }}
-        run: python3 journal_auto/reel_post.py
+        # 7:00 の schedule 起動は静音時間を抜けた直後なので、深夜にたまったぶんを多めに出し切る
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python3 journal_auto/reel_post.py --ignore-quiet --max 12
+          else
+            python3 journal_auto/reel_post.py
+          fi

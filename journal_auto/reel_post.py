@@ -11,6 +11,7 @@ GitHub Actions（.github/workflows/video-build.yml）が動画を書き出した
     3. /me/media_publish で公開 → video_status.json（Release 添付）に reel_media_id を書く
 
 投稿しないもの:
+    - JST 3:00〜6:59 に走ったぶん（深夜のニュースは朝7時にまとめて投稿する。--ignore-quiet で解除）
     - POST_FROM より前に書き出された動画（切り替え前の過去動画を一斉に流さない）
     - キューで state=skipped の記事（ig_queue.py skip 134 で止められる）
     - 投稿済み（reel_media_id あり）・3回失敗したもの
@@ -18,6 +19,7 @@ GitHub Actions（.github/workflows/video-build.yml）が動画を書き出した
     python3 journal_auto/reel_post.py              # 未投稿を最大 MAX_PER_RUN 本
     python3 journal_auto/reel_post.py 309          # 記事番号を指定（POST_FROM の判定は外す）
     python3 journal_auto/reel_post.py 309 --test   # アップロードして FINISHED まで確かめるだけ（公開しない）
+    python3 journal_auto/reel_post.py --ignore-quiet  # 静音時間(3:00〜7:00)でも投稿する
 
 トークンは環境変数 IG_ACCESS_TOKEN（Actions は Secret IG_TOKEN）。無ければ
 ~/.claude/state/ig_token.txt の IG_ACCESS_TOKEN= 行。Secret は Mac の
@@ -36,6 +38,10 @@ API = "https://graph.instagram.com/v23.0"
 TOKEN_FILE = os.path.expanduser("~/.claude/state/ig_token.txt")
 
 POST_FROM = "2026-09-29T12:50:00+09:00"   # リール自動投稿の稼働開始。これより前の動画は投稿しない
+# 投稿しない時間帯（JST）。2026-10-02 クリス指示「夜中にニュースが起きる場合、朝一に投稿をしてほしくて、
+# 夜中の3時から朝7時までに起きたやつは全部朝7時に投稿っていうような形をとってほしい」。
+# この時間に動画ができても投稿せず（失敗にもしない）、7:00 の schedule 実行でまとめて流す。
+QUIET_FROM, QUIET_TO = 3, 7
 MAX_PER_RUN = 6
 MAX_ATTEMPTS = 3
 BETWEEN_POSTS = 60      # 秒。まとめて書き出された日に連投にならないように
@@ -131,7 +137,13 @@ def main():
     ap.add_argument("ids", nargs="*")
     ap.add_argument("--test", action="store_true", help="公開せず FINISHED まで確かめる")
     ap.add_argument("--max", type=int, default=MAX_PER_RUN)
+    ap.add_argument("--ignore-quiet", action="store_true",
+                    help=f"{QUIET_FROM}:00〜{QUIET_TO}:00 でも投稿する（{QUIET_TO}:00 の取りこぼし回収用）")
     args = ap.parse_args()
+
+    if not (args.ids or args.test or args.ignore_quiet) and QUIET_FROM <= datetime.now(VB.JST).hour < QUIET_TO:
+        print(f"今は {QUIET_FROM}:00〜{QUIET_TO}:00 の静音時間なので投稿しない（{QUIET_TO}:00 にまとめて投稿する）")
+        return
 
     tok = token()
     if not tok:
