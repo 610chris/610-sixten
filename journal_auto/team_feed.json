@@ -1,10 +1,151 @@
 {
- "updated_utc": "2026-10-01 20:29 UTC",
- "teams_ok": 29,
- "teams_failed": [
-  "GSW"
- ],
+ "updated_utc": "2026-10-02 00:09 UTC",
+ "teams_ok": 30,
+ "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
+   "url": "https://www.nba.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
+   "canonical_url": "https://mavs.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
+   "title": "Washington aims to be healthier this season so he can be more available for Mavs",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-01T23:22:34Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "Entering this year’s training camp, the No. 1 priority for P. J. Washington is his ability to stay healthy this upcoming season. That’s because for the past two years, the Dallas Mavericks’ forward knows his inability to stay healthy has been like an albatross around his neck.",
+   "facts": [
+    "Entering this year’s training camp, the No. 1 priority for P.",
+    "Two years ago a series of injuries forced Washington to miss 25 games.",
+    "Repeat trips to visit the Mavs’ medical staff cost him 26 games last season."
+   ],
+   "quotes": [
+    "The last two years have been tough for me staying on the floor,",
+    "For me my biggest emphasis is making sure I’m doing everything to make sure my body is right each and every day, and make sure I come in here at 100 percent healthy, and just doing all the little thin…",
+    "P. J. is certainly in the mix for a starting spot, mostly because he can play multiple positions,",
+    "He’s a winning player. He fights for his teammates. He has their backs. He’s a good passer. He’s a quick thinker. We’re excited about P. J."
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "feature",
+   "key": "https://www.nba.com/heat/news/coup-conversation-with-davion-mitchell",
+   "url": "https://www.nba.com/heat/news/coup-conversation-with-davion-mitchell",
+   "canonical_url": "https://heat.com/news/coup-conversation-with-davion-mitchell",
+   "title": "A Conversation With Davion Mitchell",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-10-01T23:09:14Z",
+   "tags": [
+    "CoupWords",
+    "News",
+    "Trending"
+   ],
+   "summary": "What follows is an edited interview with Davion Mitchell at the Miami HEAT’s Training Camp at Florida Atlantic University.",
+   "facts": [
+    "Then the injuries, the shoulder, the knee problems.",
+    "It was the fact that I can be the same person throughout the full 48 minutes instead of 32 or 36.",
+    "My thing this summer every day was make sure I get 15,000 steps.",
+    "But nine times out of 10, I’m getting 15,000 steps.",
+    "You mentioned your usage rate the other day, yours was below 14 last year, do you want it to go up?",
+    "I know I shot it really well finishing at the rim, and I know I make the right play nine times out of 10.",
+    "He went Super Saiyan 3 against Buu.",
+    "There were moments against Charlotte where I was different than in Game 56 against the Wizards."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-ace-bailey-prepares-for-year-two-jaren-jackson-jr-continues-to-adjust",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-ace-bailey-prepares-for-year-two-jaren-jackson-jr-continues-to-adjust",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-ace-bailey-prepares-for-year-two-jaren-jackson-jr-continues-to-adjust",
+   "title": "Utah Jazz Training Camp Notebook: Ace Bailey Prepares for Year Two, Jaren Jackson Jr. Continues to Adjust",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-01T22:49:41Z",
+   "tags": [
+    "Ace Bailey",
+    "Jaren Jackson Jr.",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "With each passing day, the return of Utah Jazz basketball inches closer and closer.",
+   "facts": [
+    "With each passing day, the return of Utah Jazz basketball inches closer and closer.",
+    "Training camp is in full swing for the Jazz as they prepare to begin their preseason slate of games on Sunday, Oct. 4 against the Denver Nuggets.",
+    "However, Utah’s fifth overall pick from a year ago showed plenty of flashes on both ends of the floor across 72 games and now enters his second season following a full offseason of work and preparation.",
+    "At Media Day, the 20-year-old revealed that he had added 10-to-12 pounds in the offseason, which has helped alter his approach on both ends of the floor."
+   ],
+   "quotes": [
+    "The focus has to be everything,",
+    "I didn’t feel like I scratched the surface (in those three games).",
+    "We’ve tried a bunch of stuff,",
+    "There isn’t just one thing that’s going to happen in the game, especially with matchups. I’ve got to be ready to do everything. Guarding perimeter players more, (but) still having the freedom to conte…"
+   ]
+  },
+  {
+   "source": "TOR 公式（nba.com）",
+   "team": "TOR",
+   "team_ja": "ラプターズ",
+   "team_id": 1610612761,
+   "kind": "roster",
+   "key": "https://www.nba.com/raptors/news/raptors-sign-shead-to-multi-year-contract-extension",
+   "url": "https://www.nba.com/raptors/news/raptors-sign-shead-to-multi-year-contract-extension",
+   "canonical_url": "https://raptors.com/news/raptors-sign-shead-to-multi-year-contract-extension",
+   "title": "RAPTORS SIGN SHEAD TO MULTI-YEAR CONTRACT EXTENSION",
+   "author": "torsskeen",
+   "published_utc": "2026-10-01T21:31:28Z",
+   "tags": [],
+   "summary": "The Toronto Raptors announced Thursday they have signed guard Jamal Shead to a multi-year contract extension. Per team policy, financial terms of the deal were not disclosed.",
+   "facts": [
+    "The Toronto Raptors announced Thursday they have signed guard Jamal Shead to a multi-year contract extension.",
+    "Shead, 6-foot, 209 pounds, averaged 6.6 points, 5.4 assists, 1.7 rebounds and 22.6 minutes in 82 games (12 starts) last season.",
+    "He scored in double figures 16 times, including a season-high 22 points Jan. 11 vs.",
+    "Shead also dished out 10 or more assists in eight games.",
+    "He led the NBA with 354 assists as a reserve and was one of 18 players in the league to appear in all 82 games last season and the first Raptor to accomplish this feat since Jakob Poeltl in 2017-18.",
+    "In the postseason, Shead averaged 9.0 points, 5.0 assists, 2.0 rebounds, 1.4 steals and 32.0 minutes in seven games (four starts) against Cleveland in the first round.",
+    "Shead was picked 45th overall by Sacramento in the 2024 NBA Draft.",
+    "His rights were acquired from the Kings on draft night along with Davion Mitchell, Sasha Vezenkov and a second-round draft pick for Jalen McDaniels."
+   ],
+   "quotes": [
+    "From the 45th pick in the draft to the integral role he has carved out with our team, Jamal’s leadership, hard work, and tenacity earned this,",
+    "We’re thrilled he’ll be a Raptor for seasons to come."
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
+   "url": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
+   "canonical_url": "https://warriors.com/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
+   "title": "Golden State Sports Academy Announces 2026-27 Winter Camp Schedule",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-01T20:24:16Z",
+   "tags": [],
+   "summary": "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up. Registration is now open for all winter camp sessions at gssportsacademy.com. For video from a recent camp session, CLICK HERE.",
+   "facts": [
+    "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up.",
+    "The winter schedule will run from November 11 through February 27, highlighted by clinics at Chase Center in San Francisco and Sephora Performance Center in Oakland.",
+    "For complete details on Golden State Basketball Camp and to register online, visit gssportsacademy.com or call (510) 986-5310.",
+    "Earlier this year, Golden State Sports Academy opened three new Golden State Shoot 360 locations within City Sports Clubs in Stonestown (San Francisco), Almaden (San Jose), and Newhall (San Jose).",
+    "For complete details on Golden State Shoot 360 memberships and to become a member, visit gsshoot360.com or call (510) 986-5310."
+   ],
+   "quotes": []
+  },
   {
    "source": "CHA 公式（nba.com）",
    "team": "CHA",
@@ -986,6 +1127,32 @@
    ]
   },
   {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "quotes",
+   "key": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
+   "url": "https://www.nba.com/warriors/news/sights-and-sounds-2026-27-warriors-media-day",
+   "canonical_url": "https://warriors.com/news/sights-and-sounds-2026-27-warriors-media-day",
+   "title": "Sights and Sounds: 2026-27 Warriors Media Day",
+   "author": "gswgrizzo",
+   "published_utc": "2026-09-29T23:10:00Z",
+   "tags": [
+    "2026 Media Day"
+   ],
+   "summary": "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday. Check out the sights and sounds from the exciting day.",
+   "facts": [
+    "The Dubs showed up and showed out for Warriors Media Day to tip off the 2026-27 NBA Season on Monday.",
+    "Draymond Green is ready to get his 15th season as a Dub underway.",
+    "Resigning to the Warriors in the offseason, veteran Al Horford, will begin his 20th NBA season wearing blue and gold.",
+    "The Warriors 11th draft pick, Yaxel Lendeborg, flagged down the longest-tenured player on the roster, Stephen Curry, for an iconic photo before their first season as teammates.",
+    "Georges Niang suited up in Warriors threads for the first time at Media Day, wearing No. 32.",
+    "The forward signed during the summer and his starting his 10th NBA season."
+   ],
+   "quotes": []
+  },
+  {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
    "team_ja": "ジャズ",
@@ -1434,217 +1601,36 @@
    ]
   },
   {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
    "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-wrapping-up-jazz-media-day",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-wrapping-up-jazz-media-day",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-wrapping-up-jazz-media-day",
-   "title": "Roundball Roundup: Wrapping up Jazz Media Day",
-   "author": "JP Chunga",
-   "published_utc": "2026-09-28T23:57:04Z",
+   "key": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "url": "https://www.nba.com/warriors/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "canonical_url": "https://warriors.com/news/top-quotes-from-warriors-2026-media-day-20260928",
+   "title": "Top Quotes from Warriors 2026 Media Day",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-09-29T01:35:14Z",
    "tags": [
-    "Keyonte George",
-    "Lauri Markkanen",
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
+    "2026 Media Day",
+    "Warriors Talk"
    ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos gave their takeaways from Media Day, starting with expectations (3:40), center depth (9:00), Darryn Peterson-Keyonte George (14:20), and Lauri Markkanen-Jaren Jackson Jr. (23:00).",
+   "summary": "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday. Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season. Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise f…",
    "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos gave their takeaways from Media Day, starting with expectations (3:40), center depth (9:00), Darryn Peterson-Keyonte George (14:20), and Lauri Markkanen-Jaren Jackson Jr. (23…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "quotes",
-   "key": "https://www.nba.com/magic/news/orlando-magic-media-day-notable-quotable-20260928",
-   "url": "https://www.nba.com/magic/news/orlando-magic-media-day-notable-quotable-20260928",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-media-day-notable-quotable-20260928",
-   "title": "2026 Orlando Magic Media Day’s Notable and Quotable",
-   "author": "Dan Savage",
-   "published_utc": "2026-09-28T22:55:45Z",
-   "tags": [
-    "Featured News",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO – There was a different feeling in the air for the Orlando Magic’s 2026 Media Day.",
-   "facts": [
-    "ORLANDO – There was a different feeling in the air for the Orlando Magic’s 2026 Media Day.",
-    "Sweet on Sweeney To a man, every player on the Magic’s roster was asked about their initial impressions of the 16th head coach in franchise history.",
-    "P5 put a tremendous amount of work into his game and his body this summer and looks forward to showcasing it over all 82 games.",
-    "While both AB and the Magic would love to get a deal done before the 2026-27 campaign tips off, the franchise faces the financial reality of being up against the second apron of the salary cap and the challenges that pre…",
-    "Last season, Orlando took a 3-1 series lead over the Detroit Pistons, before a Wagner injury shifted momentum, and they subsequently dropped the final three contests of their best-of-seven matchup.",
-    "In the 182 minutes Orlando’s starting unit of Jalen Suggs, Bane, Wagner, Banchero and Wendell Carter Jr. were on the floor together, they outscored the opposition by 45, while collectively shooting 50.1 percent from the …"
+    "The Warriors embark on another season, tipping off their 2026-27 campaign with Media Day at Chase Center on Monday.",
+    "Fourteen players spoke, headlined by Stephen Curry entering Year 18, Jimmy Butler III entering Year 16, Draymond Green entering Year 15, and Yaxel Lendeborg beginning his rookie season.",
+    "Curry discussed a new contract extension he signed on Friday, which keeps him with the franchise for the foreseeable future.",
+    "Butler detailed his ongoing recovery from a torn ACL and said he expects to be the same player, or maybe “even a little better,” when he returns.",
+    "We want to go for a top-3 defense in this league.",
+    "Some would say we want to go for the best defense in the league, but I think ultimately just starting, you know, trying to get top-3 week after week, and I think weeks will start to add up. - De’Anthony Melton on the add…"
    ],
    "quotes": [
-    "Media day feels a little different,",
-    "He called me right after he got the job,",
-    "I feel like he's assembled a world-class staff,",
-    "My main goal this year, outside of winning the Eastern Conference, is to go out there and dominate every single night,"
+    "It got to a point where it all made sense for both sides. For me, clarity of mind for the next two, three years, and then with some optionality on, trying to put us in a position to have room and to b…",
+    "I'm not altering anything. I don't care what anybody says. I always tell Steph and Dray, if I'm up there, throw the ball, because I really think I'm a wide receiver. One of my favorite athletes of all…",
+    "Every day we walk in here, we must be on a trajectory of putting together a great project, and if you put together a great project, when you get to the end of it, regardless of what the result is, you…",
+    "I would say playing meaningful minutes. You know, when the game is on the line, I want to be the guy on the court trying to make a play on defense or offense, whatever it has to come to. Then, hopeful…"
    ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "quotes",
-   "key": "https://www.nba.com/celtics/news/sidebar-media-day-20260928-10-things-we-learned-at-celtics-2026-media-day",
-   "url": "https://www.nba.com/celtics/news/sidebar-media-day-20260928-10-things-we-learned-at-celtics-2026-media-day",
-   "canonical_url": "https://celtics.com/news/sidebar-media-day-20260928-10-things-we-learned-at-celtics-2026-media-day",
-   "title": "10 Things We Learned at Celtics 2026 Media Day",
-   "author": "Taylor Snow",
-   "published_utc": "2026-09-28T22:51:38Z",
-   "tags": [
-    "Media Day",
-    "Sidebar"
-   ],
-   "summary": "BOSTON – Media Day is a bit like back-to-school day for the Celtics. And with it comes a fresh batch of storylines as the players set the tone for the season before hitting the court for the official start of training camp.",
-   "facts": [
-    "We picked out 10 of the top storylines from Monday – one from each of the 10 players who came to the podium at the Auerbach Center, in order of appearance. 1.",
-    "Jayson Tatum Goes from Studying Paul George to Sharing the Court with Him Jayson Tatum entered his 10th Celtics Media Day feeling as good as he has in quite some time.",
-    "After spending the previous summer on an arduous rehab schedule following his Achilles injury, Tatum had a full offseason to regenerate physically and prepare for the season ahead.",
-    "Just that archetype of a two-way player, 6-9, score on all three levels.",
-    "Little did he know how quickly he would fall in love with Boston after being traded here earlier this summer.",
-    "But after getting his first taste of life on the other side of the rivalry, the 36-year-old admitted Monday that he wishes he could have experienced it sooner.",
-    "White had connected on at least 38 percent of his 3-pointers in each of his first three full seasons with the Celtics before that number dipped to 32.7 percent in 2025-26.",
-    "That’s because the 20-year-old hardly stopped playing."
-   ],
-   "quotes": [
-    "I’ve been playing a lot. I think that’s something you can take for granted. I think a lot of people in the NBA don’t play for six months (after the season ends), and I got the opportunity to like play…",
-    "He came down to Nashville this summer to come see me, and I really appreciated that, and I felt that connection. But then, just overall, he sees us as like people instead of just players, and that alo…",
-    "At first, we had a little issue because I’m like, ‘You have to say sorry for fouling me. If you don’t do that, then we’re going to have some issues.’ But he apologized, and now we’re on the same team.…",
-    "I stay in Boston for the summer. It’s kind of home now. So right when the first guys, young ones, come into the gym in mid-August, I’m in there playing with them. So most guys will come in the beginni…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/returning-to-playoffs-tops-list-of-pelicans-2026-27-objectives",
-   "url": "https://www.nba.com/pelicans/news/returning-to-playoffs-tops-list-of-pelicans-2026-27-objectives",
-   "canonical_url": "https://pelicans.com/news/returning-to-playoffs-tops-list-of-pelicans-2026-27-objectives",
-   "title": "Returning to playoffs tops list of Pelicans' 2026-27 objectives",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-09-28T22:28:25Z",
-   "tags": [],
-   "summary": "Zion Williamson experienced a memorable 2022 first-round postseason series vs. Phoenix in a similar manner as thousands of other New Orleanians: Watching from the sideline, wowed by a Smoothie King Center atmosphere that ESPN’s Michael Wilbon called “the most noticeable homecourt advantage in all of the playoffs.”",
-   "facts": [
-    "Zion Williamson experienced a memorable 2022 first-round postseason series vs.",
-    "Phoenix in a similar manner as thousands of other New Orleanians: Watching from the sideline, wowed by a Smoothie King Center atmosphere that ESPN’s Michael Wilbon called “the most noticeable homecourt advantage in all o…",
-    "For Williamson, who also sat out the team’s 2024 Round 1 series against Oklahoma City due to injury, envisioning his first playoff game was part of his summer motivation.",
-    "After finishing 26-56, the Pelicans undoubtedly must add double-digit victories to their 2025-26 mark to even be a contender for a Western Conference play-in tournament spot.",
-    "They also need to start much faster after opening last season 0-6 and 3-22.",
-    "New head coach Jamahl Mosley, who guided Orlando to the East playoffs in each of the last three seasons, noted Monday that this Pelicans team he’s taking over is healthier than the NOLA squad that entered 2025-26.",
-    "Point guard Dejounte Murray didn’t play a game last season until February while coming off an Achilles tear, while rookie Derik Queen and veteran wings Trey Murphy and Herb Jones were either injured during the ’25 offsea…",
-    "All four players are now 100 percent entering Tuesday’s opening of training camp practices."
-   ],
-   "quotes": [
-    "the most noticeable homecourt advantage in all of the playoffs.",
-    "A lot of my work I’ve put in, my mind always went to the playoffs,",
-    "I want to experience it and get there.",
-    "We’d like to be a playoff team. We have people in the building that want to win. Every (player) to a man when I talk to them, (said), ‘We want to try to make the playoffs.’ That’s what we’re here for.…"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/key-takeaways-from-utah-jazz-2026-27-media-day",
-   "url": "https://www.nba.com/jazz/news/key-takeaways-from-utah-jazz-2026-27-media-day",
-   "canonical_url": "https://utahjazz.com/news/key-takeaways-from-utah-jazz-2026-27-media-day",
-   "title": "Key Takeaways from Utah Jazz 2026-27 Media Day",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-09-28T22:18:30Z",
-   "tags": [
-    "Ace Bailey",
-    "Brice Sensabaugh",
-    "Darryn Peterson",
-    "Isaiah Collier",
-    "Jaren Jackson Jr.",
-    "Keyonte George",
-    "Kyle Filipowski",
-    "Lauri Markkanen"
-   ],
-   "summary": "Excitement was in the air at the Utah Jazz practice facility Monday as the team unofficially kicked off the 2026-27 season with Media Day.",
-   "facts": [
-    "Excitement was in the air at the Utah Jazz practice facility Monday as the team unofficially kicked off the 2026-27 season with Media Day.",
-    "Brice Sensabaugh has received a lot of praise from Ainge in recent weeks, with Utah’s President of Basketball Operations claiming that the 22-year-old had a “big summer” ahead of his fourth year.",
-    "Kyle Filipowski’s offseason work was delayed due to a surgery to repair a herniated disc, an injury that prevented him from reaching his physical peak.",
-    "Although he hasn’t made his official NBA debut or turned 20 years old, Peterson has impressed his new teammates and coach.",
-    "George has expressed his excitement to play alongside the rookie in Utah’s backcourt, while Sensabaugh has come away impressed with the 19-year-old.",
-    "In the coming weeks, there will be plenty of opportunities for Peterson and the rest of his teammates to learn and gain comfort, all while the Jazz build up to opening night on Oct. 21."
-   ],
-   "quotes": [
-    "Just seeing how we go through adversity,",
-    "Throughout my years here, I’ve been through a lot of adversity, but now we have a common goal as a group.",
-    "Building relationships and trust is important,",
-    "We don’t know what’s ahead of us, but knowing that we have each other’s back, we can go through anything."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/aldama-thankful-for-change-of-scenery-eager-to-fill-whatever-role-is-needed",
-   "url": "https://www.nba.com/mavs/news/aldama-thankful-for-change-of-scenery-eager-to-fill-whatever-role-is-needed",
-   "canonical_url": "https://mavs.com/mavs/news/aldama-thankful-for-change-of-scenery-eager-to-fill-whatever-role-is-needed",
-   "title": "Aldama thankful for change of scenery, eager to fill whatever role is needed",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-09-28T21:09:44Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "Santi Aldama"
-   ],
-   "summary": "If there’s an X-factor for Mavericks fans going into the 2026-27 season, it might be Santi Aldama.",
-   "facts": [
-    "If there’s an X-factor for Mavericks fans going into the 2026-27 season, it might be Santi Aldama.",
-    "They remember him from five seasons with Memphis (or maybe not), but figuring out just how the 7-footer will fit in with the Mavericks is difficult to envision.",
-    "So far in training camp, Aldama has been limited because of injury, although it’s not clear exactly what ails him.",
-    "What we do know is that he had surgery and an injection on his right knee that ended his 2025-26 season in March.",
-    "He’s always been a quality three-point shooter and at 7-foot, he may not make anybody forget about Dirk Nowitzki, but he’s got the ability to be a stretch-five.",
-    "Last season, he averaged 14 points and 6.7 rebounds, both career bests, before his surgery.",
-    "He also shot 35 percent from beyond the arc, which was right on par with his previous three seasons.",
-    "On May 2, Aldama became a father, and he and his wife were thrilled to relocate to Dallas."
-   ],
-   "quotes": [
-    "It’s been long summer in that sense. But I’m working every day and feeling better every day, so I’m excited to get back out there.",
-    "To be honest, (between) me and the medical staff, they just say who can go and that’s who we plan practice around that day. He’s been limited with something that happened before. He is working out. It…",
-    "Santi, obviously, being a 7-footer could be a heck of a stretch five,",
-    "Lineup versatility: He gives us a different dimension if we want to go with it. An elite shooting lineup. But Santi’s not just a shooter. He can really close out. He’s learned to play against perimete…"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "roster",
-   "key": "https://www.nba.com/pacers/news/indiana-pacers-announce-basketball-operations-promotions-and-hires-for-2026-27-season",
-   "url": "https://www.nba.com/pacers/news/indiana-pacers-announce-basketball-operations-promotions-and-hires-for-2026-27-season",
-   "canonical_url": "https://pacers.com/news/indiana-pacers-announce-basketball-operations-promotions-and-hires-for-2026-27-season",
-   "title": "Indiana Pacers Announce Basketball Operations Promotions and Hires for 2026-27 Season",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-09-28T21:00:38Z",
-   "tags": [],
-   "summary": "INDIANAPOLIS - The Indiana Pacers announced Monday several promotions and new hires within the Basketball Operations department. Within the coaching staff, Isaac Yacob was promoted to Assistant Coach, Jannero Pargo was promoted to Assistant Coach/Director of Player Development, Martin Tombe was promoted to Assistant Coach, Player Development, and Joel Okafor was promoted to Head Video Coordinator.…",
-   "facts": [],
-   "quotes": []
   }
  ]
 }
