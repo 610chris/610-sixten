@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "352-nike-kobe-ad-protro-purple-stardust.html",
+    cat: "KICKS",
+    title: "Nike Kobe AD Protro「Purple Stardust」が始動 —— 品番IO8233-500、2016年オリジナルカラーが復刻",
+    excerpt: "ナイキは「Kobe AD Protro」の新色「Purple Stardust」（品番IO8233-500）の公式写真を公開した。2016年のオリジナル「Kobe AD」のカラーをプロトロ仕様で復刻し、2026年のホリデーシーズンに発売予定。Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.03",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "351-grizzlies-waive-hawkins.html",
     cat: "NBA",
     title: "グリズリーズ、ホーキンスをウェイブ —— ペリカンズとのトレード成立からわずか3週間",
