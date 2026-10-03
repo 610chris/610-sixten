@@ -1,8 +1,128 @@
 {
- "updated_utc": "2026-10-03 17:34 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-10-03 23:18 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/in-golf-as-in-basketball-christie-hoping-to-master-all-aspects-of-the-game",
+   "url": "https://www.nba.com/mavs/news/in-golf-as-in-basketball-christie-hoping-to-master-all-aspects-of-the-game",
+   "canonical_url": "https://mavs.com/mavs/news/in-golf-as-in-basketball-christie-hoping-to-master-all-aspects-of-the-game",
+   "title": "In golf as in basketball, Christie hoping to master all aspects of the game",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-03T23:14:44Z",
+   "tags": [],
+   "summary": "The Mavericks are deep into training camp and their trip to China for preseason games Friday and Sunday against the Houston Rockets will commence on Sunday.",
+   "facts": [
+    "He averaged a career-best 12.3 points and shot 40.4 percent from three-point range.",
+    "He’s changed his number from double-0 to a single zero."
+   ],
+   "quotes": [
+    "It’s probably my favorite hobby,",
+    "Just the recharge I get from it, being able to be outside and to incorporate some teammates into it and build some camaraderie there,",
+    "I think it’s so similar to basketball where you really do have to move on to the next play, the next golf shot. So it’s brought a few guys on the team together.",
+    "To be known as something, I’d love to be known as a shooter,"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-host-practice-at-second-round-pick-jaron-pierre-jr-s-new-orleans-high-school",
+   "url": "https://www.nba.com/pelicans/news/pelicans-host-practice-at-second-round-pick-jaron-pierre-jr-s-new-orleans-high-school",
+   "canonical_url": "https://pelicans.com/news/pelicans-host-practice-at-second-round-pick-jaron-pierre-jr-s-new-orleans-high-school",
+   "title": "Pelicans host practice at second-round pick Jaron Pierre Jr.'s New Orleans high school",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-03T20:15:51Z",
+   "tags": [],
+   "summary": "In June, New Orleans native Jaron Pierre Jr. described being drafted by his hometown NBA franchise as “surreal,” a word he appropriately used again Saturday, when the Pelicans held a practice at his local high school, St. Augustine. After arriving on the school’s campus, the 24-year-old was the first player to walk into the gym, where he became a scholastic standout guard.",
+   "facts": [
+    "After arriving on the school’s campus, the 24-year-old was the first player to walk into the gym, where he became a scholastic standout guard.",
+    "An amused Pierre noted that at one point he turned around to see how Dia was faring, but the fellow two-way contract signee was “not moving.”"
+   ],
+   "quotes": [
+    "I felt like it was going to be a lot of love, because I’m from here,",
+    "It was very surreal seeing everyone here.",
+    "Well he’s a rook, so we didn’t really do it for him. (But practicing at St. Aug was based on) the history of this school, what it means to the city. I’ve had multiple phone calls from people who went …",
+    "It shows that he’s pouring himself into the community and really wants to be diehard about New Orleans,"
+   ]
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/its-great-for-us-duren-deal-done-pistons-set-up-for",
+   "url": "https://www.nba.com/pistons/news/its-great-for-us-duren-deal-done-pistons-set-up-for",
+   "canonical_url": "https://pistons.com/news/its-great-for-us-duren-deal-done-pistons-set-up-for",
+   "title": "‘It’s great for us’ – Duren deal done, Pistons set up for bright future",
+   "author": "Keith Langlois",
+   "published_utc": "2026-10-03T19:19:58Z",
+   "tags": [
+    "ausar thompson",
+    "Cade Cunningham",
+    "Jalen Duren"
+   ],
+   "summary": "The Pistons front office spent two seasons identifying and assessing their core. Now they’ve locked it up for the next several seasons. The last bit of business came down to the wire Thursday night when Jalen Duren agreed to terms on a contract that extends through the 2030-31 season.",
+   "facts": [
+    "The last bit of business came down to the wire Thursday night when Jalen Duren agreed to terms on a contract that extends through the 2030-31 season.",
+    "That gives them a long runway with Cade Cunningham, Ausar Thompson – who also agreed to a long-term contract extension ahead of training camp – and Duren all with their best years ahead of them in Pistons uniforms.",
+    "Armed with all of their future No. 1 picks and no other weighty long-term contracts, the Pistons have put themselves in optimal position to use the momentum gathered in the first two years under Trajan Langdon and J.B.",
+    "Either option would have meant Duren remained a Pistons player this season, but the long-term extension obviously was the desired outcome for the Pistons and Duren.",
+    "Duren, a four-year veteran despite not turning 23 until next month, had a breakout season in 2025-26 after failing to reach agreement on a contract extension in summer 2025 when first eligible to do so.",
+    "Duren averaged a career-high 19.5 points on 65 percent shooting plus 10.5 rebounds, earned his first All-Star berth and was named to the All-NBA third team.",
+    "Cunningham, 25, was All-NBA first team and Thompson, 23, was first team All-Defense and finished third in Defensive Player of the Year balloting.",
+    "There are rookies coming into the NBA – Golden State’s Yaxel Lendeborg, 24, for instance – who are older than Duren."
+   ],
+   "quotes": [
+    "We’re obviously excited to have him back,",
+    "Like I said yesterday, our expectation was that he was always going to be back and we were planning accordingly. But to get it done, to get him in the building to start the process of getting him back…",
+    "We will be excited to have him regardless of what decision he does make,",
+    "He was a huge reason for our success the last two seasons (and) had a tremendous season individually last year, as well. We believe he will do the same thing this year and are excited to have him back…"
+   ]
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "roster",
+   "key": "https://www.nba.com/pistons/news/detroit-pistons-sign-jalen-duren-to-contract-extension",
+   "url": "https://www.nba.com/pistons/news/detroit-pistons-sign-jalen-duren-to-contract-extension",
+   "canonical_url": "https://pistons.com/news/detroit-pistons-sign-jalen-duren-to-contract-extension",
+   "title": "DETROIT PISTONS SIGN JALEN DUREN TO CONTRACT EXTENSION",
+   "author": "Pistons.com",
+   "published_utc": "2026-10-03T19:07:09Z",
+   "tags": [
+    "Detroit Pistons",
+    "Jalen Duren",
+    "transaction"
+   ],
+   "summary": "DETROIT, Mich. (October 3, 2026) – The Detroit Pistons announced today that the team has signed center Jalen Duren to a contract extension. Per team policy, terms of the agreement were not disclosed.",
+   "facts": [
+    "DETROIT, Mich. (October 3, 2026) – The Detroit Pistons announced today that the team has signed center Jalen Duren to a contract extension.",
+    "He appeared in 70 games for Detroit (all starts), averaging a career-high 19.5 points and 10.5 rebounds while shooting 65.0% from the field.",
+    "Duren was named Eastern Conference Player of the Week for games played from Feb. 23 to March 1, the first such honor of his career.",
+    "He averaged 14.6 points in the paint per game, ranking second in the NBA among players with at least 40 games played.",
+    "He was the only player in the league this past season to average 19-plus points and 10-plus rebounds and shoot .600-plus from the field.",
+    "Duren ranked third in the NBA with 26 13-plus rebound double-doubles and 189 dunks and finished fourth in the league with 265 offensive rebounds.",
+    "He is also the third-youngest player in NBA history to record 850 career offensive rebounds, joining Andre Drummond and Dwight Howard.",
+    "Duren recorded two games of 30-plus points on .900-plus field-goal percentage, tying Dwight Howard for the second-most games by a primary center in NBA history behind Wilt Chamberlain (4)."
+   ],
+   "quotes": [
+    "We’re excited to have Jalen in Detroit as a core piece of our team for years to come,",
+    "He’s been an important part of our success over the last two seasons, and we’ve seen tremendous growth in his game. Jalen has accomplished a great deal at a young age, and we believe his best basketba…"
+   ]
+  },
   {
    "source": "PHI 公式（nba.com）",
    "team": "PHI",
@@ -19,40 +139,6 @@
    "summary": "",
    "facts": [],
    "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "url": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "canonical_url": "https://warriors.com/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "title": "New Faces and Philosophies for Warriors 2026 Training Camp",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-02T23:55:48Z",
-   "tags": [
-    "2026 Training Camp",
-    "Player Spotlight"
-   ],
-   "summary": "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii. Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contract extension this offseason, committing to the Bay for the foreseeable fu…",
-   "facts": [
-    "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii.",
-    "Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contr…",
-    "Head Coach Steve Kerr also signed a multi-year extension.",
-    "The Warriors added three players with standard contracts for this upcoming season, including No. 11 pick Yaxel Lendeborg, fifth-year guard Brandon Williams, and 10-year NBA veteran Georges Niang.",
-    "Fresh off a National Championship with the University of Michigan, Lendeborg led the Warriors to the Summer League championship and was named the 2026 Summer League MVP.",
-    "At 6-foot-9 and 241 pounds, Lendeborg’s size, skill set, and IQ stood out to Jimmy Butler III.",
-    "General Manager Mike Dunleavy shared at Media Day that the Warriors had a full offseason to prepare for the void left by Butler and Moses Moody being out recovering from injuries at the start of the season — foresight th…",
-    "He has played for five different franchises over nine seasons and even had a career-altering stint with the Warriors’ G League affiliate in Santa Cruz following the team’s 2017 championship run."
-   ],
-   "quotes": [
-    "He's massive. He's a big human being, and he shoots the ball so incredibly well,",
-    "He's smart. He wants to learn, and he's a winning player.",
-    "Not many people can say they turned 24 playing in the NBA in Hawaii,",
-    "I would say playing meaningful minutes,"
-   ]
   },
   {
    "source": "DAL 公式（nba.com）",
@@ -458,29 +544,6 @@
    ]
   },
   {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "url": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "canonical_url": "https://warriors.com/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "title": "Golden State Sports Academy Announces 2026-27 Winter Camp Schedule",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-01T20:24:16Z",
-   "tags": [],
-   "summary": "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up. Registration is now open for all winter camp sessions at gssportsacademy.com. For video from a recent camp session, CLICK HERE.",
-   "facts": [
-    "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up.",
-    "The winter schedule will run from November 11 through February 27, highlighted by clinics at Chase Center in San Francisco and Sephora Performance Center in Oakland.",
-    "For complete details on Golden State Basketball Camp and to register online, visit gssportsacademy.com or call (510) 986-5310.",
-    "Earlier this year, Golden State Sports Academy opened three new Golden State Shoot 360 locations within City Sports Clubs in Stonestown (San Francisco), Almaden (San Jose), and Newhall (San Jose).",
-    "For complete details on Golden State Shoot 360 memberships and to become a member, visit gsshoot360.com or call (510) 986-5310."
-   ],
-   "quotes": []
-  },
-  {
    "source": "CHA 公式（nba.com）",
    "team": "CHA",
    "team_ja": "ホーネッツ",
@@ -870,281 +933,6 @@
     "I see myself being where I'm at. I'm in the present,",
     "doth protest too much, me thinks?",
     "I've been in every single role,"
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/incoming-veteran-quartet-gives-hornets-more-experience-and-flexibility",
-   "url": "https://www.nba.com/hornets/news/incoming-veteran-quartet-gives-hornets-more-experience-and-flexibility",
-   "canonical_url": "https://hornets.com/news/incoming-veteran-quartet-gives-hornets-more-experience-and-flexibility",
-   "title": "Incoming Veteran Quartet Gives Hornets More Experience And Flexibility",
-   "author": "Sam Perley",
-   "published_utc": "2026-09-30T22:21:26Z",
-   "tags": [
-    "2026 Training Camp",
-    "Featured"
-   ],
-   "summary": "Last summer, the Charlotte Hornets brought in four rookies via the 2025 NBA Draft, all of whom quickly made an impact and solidified themselves as long-term building blocks for the franchise. Over the past few months, a slightly older and more playoff-tested tetrad has joined the group.",
-   "facts": [
-    "Last summer, the Charlotte Hornets brought in four rookies via the 2025 NBA Draft, all of whom quickly made an impact and solidified themselves as long-term building blocks for the franchise.",
-    "Collectively, combo big man Naz Reid, shooting guard Grayson Allen, forward Royce O’Neale and point guard Dennis Schröder have accumulated 37 NBA seasons between them along with 219 playoff appearances.",
-    "A top five finisher for Sixth Man of the Year each of the past three seasons (which includes winning it in 2024), Reid is easily on the league’s short list of best 3-point shooting bigs.",
-    "On top of missing only eight regular season games since the start of the 2023-24 season, his 506 made 3-pointers over this stretch are third most in the NBA amongst players 6-foot-9 or taller (38.4%).",
-    "Imagine being a defensive team with a standing five like Walker Kessler or Rudy Gobert and you now have to guard every position at the 3-point line and at a high level, too – not just a contest and get back.",
-    "Most local fans are already familiar with Allen’s decorated All-American, national-title-winning career at Duke University, while O’Neale has grinded his way up the ranks, starting out as an undrafted free agent in 2015 …",
-    "He’s an incredibly improved shooter from when I played with him in Utah and he’s a great shooter now (career-high 40.8% from 3-point last season)."
-   ],
-   "quotes": [
-    "Naz brings more to the offensive side of basketball than people give him credit for,",
-    "I think [Grayson’s] game is a lot more versatile than people give him credit for,",
-    "I’m so glad to be reunited with Dennis,"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-believe-they-have-talent-depth-to-make-jump-in-west-standings",
-   "url": "https://www.nba.com/pelicans/news/pelicans-believe-they-have-talent-depth-to-make-jump-in-west-standings",
-   "canonical_url": "https://pelicans.com/news/pelicans-believe-they-have-talent-depth-to-make-jump-in-west-standings",
-   "title": "Pelicans believe they have talent, depth to make jump in West standings",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-09-30T22:01:28Z",
-   "tags": [],
-   "summary": "Skeptics may scoff at the notion that a team coming off a 26-win season actually boasts enviable talent and depth, but the New Orleans Pelicans’ potential 2026-27 starting lineup could feature two former NBA All-Stars (Zion Williamson, Dejounte Murray), a recent First-Team All-Defense member (Herb Jones) and one of the NBA’s premier three-point shooters (Trey Murphy). That group doesn’t even inclu…",
-   "facts": [
-    "Skeptics may scoff at the notion that a team coming off a 26-win season actually boasts enviable talent and depth, but the New Orleans Pelicans’ potential 2026-27 starting lineup could feature two former NBA All-Stars (Z…",
-    "That group doesn’t even include a pair of youngsters coming off All-Rookie Second Team seasons (Jeremiah Fears, Derik Queen), an elite reserve scorer acquired in free agency (Bennedict Mathurin), or a veteran forward com…",
-    "Did we mention that guard Jordan Poole was the third-leading scorer on Golden State’s 2022 NBA championship team?",
-    "New Orleans undoubtedly has enough individual scorers to regularly generate prolific numbers, with seven returning players averaging double-digit points for the Pelicans last season, plus Mathurin (17.6 ppg last season, …",
-    "Prior to his arrival in 2020-21, the Magic were a bottom-five defense, but progressively improved under Mosley, finishing in the top three in both 2023-24 and 2024-25.",
-    "Similarly, he’s taking over a New Orleans club that ranked just 29th and 23rd in defense the past two (non-playoff) campaigns."
-   ],
-   "quotes": [
-    "We’re going to say it over and over again, there is so much talent on this roster,",
-    "The key is to get that talent to mesh together, and understand the sacrifice to be great.",
-    "We have a lot of guys who can go out there and score 30 (points on any given night) – that list is long,",
-    "The list would be shorter (to say) the guys who cannot score 30. That would be easier to name."
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-jusuf-nurkic-is-back-brice-sensabaugh-earns-praise",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-jusuf-nurkic-is-back-brice-sensabaugh-earns-praise",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-jusuf-nurkic-is-back-brice-sensabaugh-earns-praise",
-   "title": "Utah Jazz Training Camp Notebook: Jusuf Nurkić is Back, Brice Sensabaugh Earns Praise",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-09-30T21:42:34Z",
-   "tags": [
-    "Brice Sensabaugh",
-    "Jusuf Nurkić",
-    "Keyonte George",
-    "Utah Jazz"
-   ],
-   "summary": "The Utah Jazz are off and running as the 2026-27 NBA regular season inches closer.",
-   "facts": [
-    "The Utah Jazz are off and running as the 2026-27 NBA regular season inches closer.",
-    "Following Wednesday’s practice, Jusuf Nurkić and Keyonte George reflected on the team’s continued focus on the defensive end, the growth of returning young players, and the competitive energy in the gym, all of which wer…",
-    "Nurkić looks ahead to year two One of the standout storylines from the 2025-26 campaign was the play of Nurkić, who stepped up to be Utah’s starting center and averaged 10.9 points, 10.4 rebounds, and a career-high 4.8 a…",
-    "Both George and Nurkić followed with more praise for the 22-year-old following the second day of practice."
-   ],
-   "quotes": [
-    "He was a priority for us,",
-    "He had a really good year for us, and we think he fits well in Will's system. Just the way that we run some things through our bigs, his decision-making ability really helped a lot of our guards get o…",
-    "The number one reason was Will Hardy,",
-    "The organization was a part, the owners, and my teammates too. I have so much faith in Will. He was communicating with me all summer."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/flagg-has-more-than-one-kind-of-growth-on-his-mind",
-   "url": "https://www.nba.com/mavs/news/flagg-has-more-than-one-kind-of-growth-on-his-mind",
-   "canonical_url": "https://mavs.com/mavs/news/flagg-has-more-than-one-kind-of-growth-on-his-mind",
-   "title": "Flagg has more than one kind of growth on his mind",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-09-30T21:14:31Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "Morez Johnson Jr.",
-    "nba"
-   ],
-   "summary": "Growth has been a major topic of training camp when it comes to Cooper Flagg.",
-   "facts": [
-    "But while the 6-foot-10 (and a half???) Flagg plays along with inquiring media minds about his stature, there’s another area of growth that might be more important as he plows into his second season.",
-    "He’ll have more help this season with Kyrie Irving returning and, in theory, more shooters surrounding him."
-   ],
-   "quotes": [
-    "grown another quarter-inch",
-    "It’s just comfortability, familiarity of being out there, knowing my spots and where I want to ge to. A lot comes with having the year of experience. And the confidence that comes with it.",
-    "I can’t speak on anything from last year other than I did watch practices and games,",
-    "As far as year one to year two leap, you look at freshmen to sophomores in college, in high school and then first year to second year in the NBA, there’s typically a jump. And even when you look at mo…"
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "roster",
-   "key": "https://www.nba.com/nuggets/news/nuggets-ryan-nembhard-two-way-contract",
-   "url": "https://www.nba.com/nuggets/news/nuggets-ryan-nembhard-two-way-contract",
-   "canonical_url": "https://nuggets.com/news/nuggets-ryan-nembhard-two-way-contract",
-   "title": "NUGGETS SIGN RYAN NEMBHARD TO TWO-WAY CONTRACT",
-   "author": "Nuggets PR",
-   "published_utc": "2026-09-30T21:12:49Z",
-   "tags": [
-    "2025-26 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "DENVER, Sept. 30, 2026 – The Denver Nuggets have signed guard Ryan Nembhard to a two-way contract, Ben Tenzer, Executive Vice President of Basketball Operations, and Jonathan Wallace, Executive Vice President of Player Personnel, announced today. In a related move, the Nuggets have requested waivers on two-way guard KJ Simpson.",
-   "facts": [
-    "DENVER, Sept. 30, 2026 – The Denver Nuggets have signed guard Ryan Nembhard to a two-way contract, Ben Tenzer, Executive Vice President of Basketball Operations, and Jonathan Wallace, Executive Vice President of Player P…",
-    "In a related move, the Nuggets have requested waivers on two-way guard KJ Simpson.",
-    "Nembhard, 5-11, 180, appeared in 60 games (27 starts) for Dallas as a rookie last season, averaging 6.6 points, 2.2 rebounds and 5.3 assists in 19.5 minutes per game.",
-    "Last season as a rookie, he registered four double-doubles, scored 10+ points 13 times and dished out 10+ assists six times.",
-    "Nembhard posted a career-high 28 points to go with 10 assists vs.",
-    "Denver on 12/1 and handed out 23 assists vs.",
-    "CHI on 4/12 to become just the 24th player in NBA history to record 23-or-more assists in a game.",
-    "The 23-year-old native of Ontario, Canada went undrafted in the 2025 NBA Draft after playing four years collegiately, his first two for Creighton and his final two for Gonzaga."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20260930-even-in-year-20-mike-conley-finding-some-surprises-in-boston",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20260930-even-in-year-20-mike-conley-finding-some-surprises-in-boston",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20260930-even-in-year-20-mike-conley-finding-some-surprises-in-boston",
-   "title": "Even in Year 20, Mike Conley Finding Some Surprises in Boston",
-   "author": "Taylor Snow",
-   "published_utc": "2026-09-30T20:52:10Z",
-   "tags": [
-    "Practice",
-    "Preseason",
-    "Sidebar",
-    "Training Camp"
-   ],
-   "summary": "BOSTON – Mike Conley has attended more NBA training camps than Celtics rookie Chris Cenac Jr. has celebrated birthdays. So when a 20-year veteran says something has surprised him this early into the preseason, it carries a little extra weight.",
-   "facts": [
-    "So when a 20-year veteran says something has surprised him this early into the preseason, it carries a little extra weight.",
-    "It didn’t take a barrage of 3-pointers or a flashy pass to do it, either.",
-    "After returning from a ruptured Achilles tendon last March, Tatum now enters the new campaign with a full, healthy offseason behind him and a chance to show that he can be just as good, if not better than he was pre-inju…",
-    "Now, in Year 20, Conley is embracing the opportunity to bring that same presence to Boston.",
-    "The 28-year-old guard has soaked up everything he can from his 38-year-old backcourt mate during their short time together, looking to the veteran as someone whose longevity and style of play he’d like to emulate.",
-    "After spending the past three-plus seasons in Minnesota, starting over with a new team, in a new city, has brought some added energy to the 38-year-old as he embarks on a milestone season."
-   ],
-   "quotes": [
-    "There’s a lot more talent in here than I ever thought,",
-    "The other day, Baylor, I think he got like four offensive rebounds in one possession, and I just said, ‘I like him.’ Like that’s all I need to know. I like him. I like him a lot,",
-    "And obviously, he did a bunch of other things other than that. But his willingness to crash and keep possessions alive and make the right reads was impressive. Stuff like that sticks out to me.",
-    "From the outside looking in, I always thought he’s one of the best players in the league,"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-jaylon-tyson-260930",
-   "url": "https://www.nba.com/cavaliers/news/features-jaylon-tyson-260930",
-   "canonical_url": "https://cavs.com/news/features-jaylon-tyson-260930",
-   "title": "Jaylon Tyson is Ready for the Next Step in his NBA Career",
-   "author": "clejgabriele",
-   "published_utc": "2026-09-30T20:03:13Z",
-   "tags": [
-    "2026 Training Camp",
-    "2026-27 Season"
-   ],
-   "summary": "After a quiet rookie season, Tyson put himself on the NBA map as a sophomore – finishing 4th in the league in long-distance shooting and quadrupling his scoring average from one year to the next.",
-   "facts": [
-    "After a quiet rookie season, Tyson put himself on the NBA map as a sophomore – finishing 4th in the league in long-distance shooting and quadrupling his scoring average from one year to the next.",
-    "The 20th overall pick out of Cal in 2024 put together a strong Training Camp one year ago in Florida and worked his way into the starting lineup by opening night.",
-    "And after getting off to a slow start, posting four straight games of single-digit showings, he notched double-figure scoring in the next five straight and would eventually go on to tally 46 on the year – with eight 20-p…",
-    "From early January to early February, Tyson scored in double-figures in 15 straight games.",
-    "The Texas native improved his scoring average from 3.6 PPG as a rookie to 13.2 PPG as a sophomore.",
-    "His biggest night came in a January 16 victory over Philly – scoring a career-high 39 points, going 13-for-17 from the floor, including 7-of-9 from deep and 6-of-6 from the stripe, becoming just the third player in team …",
-    "A foot injury in late March sidelined Tyson for 10 games just as Max Strus was returning from a foot injury of his own, and although he closed out the regular season with a pair of double-digit scoring performances, stru…",
-    "In 17 postseason outings, all coming off the bench, Tyson averaged just 4.1 PPG on 36 percent shooting, 24 percent from long-range."
-   ],
-   "quotes": [
-    "I feel like every summer that I've been in the NBA has been a little bit different – this year was different than last year and, obviously, last year was different than my rookie year,",
-    "We talked through things, talked about having a plan. I know my triggers; I know what keeps me happy. We talked about good things, we talked about bad things, you know, and you try to figure out how t…",
-    "I mean, I didn't surprise myself at all,",
-    "Now that I have a year under my belt and some confidence and understanding what (the league) is about,"
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/pistons-tweak-offense-to-exploit-onboarding-of-3-point-threats",
-   "url": "https://www.nba.com/pistons/news/pistons-tweak-offense-to-exploit-onboarding-of-3-point-threats",
-   "canonical_url": "https://pistons.com/news/pistons-tweak-offense-to-exploit-onboarding-of-3-point-threats",
-   "title": "Pistons tweak offense to exploit onboarding of 3-point threats",
-   "author": "Keith Langlois",
-   "published_utc": "2026-09-30T19:13:00Z",
-   "tags": [
-    "Cade Cunningham"
-   ],
-   "summary": "The Pistons proudly wear the badge of a team known for defense, but don’t mistake that for lack of desire to be just as lethal on the other end of the court. The Pistons were a top-10 offense last season – No. 9 in offensive rating, No. 8 in scoring – in addition to fielding the NBA’s No. 2 defense.",
-   "facts": [
-    "The Pistons were a top-10 offense last season – No. 9 in offensive rating, No. 8 in scoring – in addition to fielding the NBA’s No. 2 defense.",
-    "They did that despite scraping the bottom of the barrel in the category that’s done more to transform NBA offenses than any other over the last generation, 3-point shooting.",
-    "The Pistons were 29th in 3-point attempts per game at 30.9 (NBA average was 37.0), 29th in 3-point rate (34.5 percent of their shot attempts were triples; NBA average was 41.5) and 20th in 3-point accuracy at 35.6 percen…",
-    "Robinson’s 220 3-point buckets were second-most in Pistons history.",
-    "His 536 attempts were 170 more than the next-closest Piston, Cade Cunningham.",
-    "Third in attempts was Javonte Green at 247 despite being 11th in minutes per game.",
-    "We’ll see where the Pistons finish on offense this season, but you probably wouldn’t be taking much of a gamble betting that they’ll finish higher on the 3-point charts across the board.",
-    "Isaiah Joe, acquired from Oklahoma City for the bargain price of two second-round picks, has been a 41.5 percent 3-point shooter over the past four seasons while taking 10 triples per 36 minutes."
-   ],
-   "quotes": [
-    "We’ve got a lot of guys that can shoot, which is really exciting,",
-    "Anytime you have multiple threats from behind the arc, it’s just harder to defend the 3-point line. You can’t necessarily not help off of one guy. That’s going to be a great addition and excited to do…",
-    "I’m a big fan of Chaz’s game,",
-    "I enjoyed working with him a bunch last year. I’d always try to stay in his ear about being aggressive. It was really fun to watch him take that step in Summer League. It was an incredible opportunity…"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "feature",
-   "key": "https://www.nba.com/heat/news/knox-hydration-named-official-electrolyte-beverage-of-the-miami-heat",
-   "url": "https://www.nba.com/heat/news/knox-hydration-named-official-electrolyte-beverage-of-the-miami-heat",
-   "canonical_url": "https://heat.com/news/knox-hydration-named-official-electrolyte-beverage-of-the-miami-heat",
-   "title": "KNOX Hydration Named Official Electrolyte Beverage of the Miami HEAT",
-   "author": "Miami HEAT",
-   "published_utc": "2026-09-30T19:09:20Z",
-   "tags": [],
-   "summary": "KNOX Hydration, the performance hydration brand trusted by elite athletes and everyday consumers around the world, today announced a landmark five-year partnership with the Miami HEAT, becoming the Official Electrolyte Beverage of the Miami HEAT.",
-   "facts": [],
-   "quotes": [
-    "This partnership with the Miami HEAT is a defining moment for KNOX,",
-    "As we launch in the United States, aligning with one of the world's premier sports organizations demonstrates our commitment to building KNOX as a truly global performance brand. The HEAT's culture of…",
-    "KNOX Hydrate has exploded onto the global scene through innovation and technology, two of our primary tenets as an organization",
-    "We're proud to enter into this partnership with KNOX and excited for our fans to enjoy a beverage that is reshaping the functional sports beverage industry."
    ]
   }
  ]
