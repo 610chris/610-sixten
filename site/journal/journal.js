@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "353-air-jordan-5-halloween.html",
+    cat: "KICKS",
+    title: "Air Jordan 5「Halloween」が10月17日発売 —— 品番HQ7978-001、蓄光ディテールのブラックベース",
+    excerpt: "ジョーダン ブランドは「Air Jordan 5」の新色「Halloween」（品番HQ7978-001）を2026年10月17日にSNKRSおよび一部取扱店舗で発売する。黒を基調に蓄光ディテールと明るい差し色を効かせたハロウィーン向けの一足。Nice KicksとSneaker Bar Detroitが伝えた。",
+    date: "2026.10.04",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "352-nike-kobe-ad-protro-purple-stardust.html",
     cat: "KICKS",
     title: "Nike Kobe AD Protro「Purple Stardust」が始動 —— 品番IO8233-500、2016年オリジナルカラーが復刻",
