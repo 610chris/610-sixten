@@ -1,6 +1,7 @@
 import React from "react";
 import { Composition } from "remotion";
 import "./fonts";
+import { layoutBody } from "./body";
 import { NewsVideo } from "./NewsVideo";
 import {
   parseNewsVideoInput,
@@ -52,14 +53,15 @@ export const RemotionRoot: React.FC = () => (
       width={VIDEO.width}
       height={VIDEO.height}
       durationInFrames={resolveDurationInFrames(
-        sample.body.length,
+        layoutBody(sample.body).lines.length,
         sample.durationInSeconds,
       )}
       defaultProps={sample}
       calculateMetadata={({ props }) => ({
         // 尺は本文の行数から自動計算する（durationInSeconds 指定があればそちらを優先）
         durationInFrames: resolveDurationInFrames(
-          props.body.length,
+          // 折り返し後の行数。1行ずつ出すので、折れて増えた行のぶんも尺に乗る
+          layoutBody(props.body).lines.length,
           props.durationInSeconds,
         ),
       })}

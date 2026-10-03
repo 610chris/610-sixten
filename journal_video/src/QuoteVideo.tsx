@@ -10,14 +10,14 @@ import { Overlay } from "./components/Overlay";
 import { Scrim } from "./components/Scrim";
 import {
   COLORS,
-  CONTENT_WIDTH,
   contentBottomPx,
   DIM,
   FONT_FAMILY,
   fitFontSize,
   MARGIN_X,
   QUOTE,
-  visualLength,
+  SAFE_WIDTH,
+  textWidthEm,
 } from "./theme";
 import {
   QUOTE_IN,
@@ -32,13 +32,15 @@ import type { QuoteVideoProps } from "./types";
  */
 const quoteFontSize = (lines: string[]): number => {
   const longest = lines.reduce(
-    (a, b) => (visualLength(b) > visualLength(a) ? b : a),
+    (a, b) =>
+      textWidthEm(b, QUOTE.line.fontWeight) > textWidthEm(a, QUOTE.line.fontWeight) ? b : a,
     "",
   );
   return fitFontSize(longest, {
-    width: CONTENT_WIDTH,
+    width: SAFE_WIDTH,
     max: lines.length >= 6 ? QUOTE.line.maxWhenMany : QUOTE.line.max,
     min: QUOTE.line.min,
+    weight: QUOTE.line.fontWeight,
   });
 };
 

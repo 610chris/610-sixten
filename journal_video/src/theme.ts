@@ -3,6 +3,8 @@
  * 見た目に関する数値はすべてこのファイルに集約する（timeline.ts はタイミング専用）。
  */
 
+import { DEFAULT_GLYPH_WIDTH, GLYPH_WIDTH } from "./metrics";
+
 export const VIDEO = {
   width: 1080,
   height: 1920,
@@ -120,14 +122,27 @@ export const DEFAULT_BRAND_TAG = {
 };
 
 /**
- * 全角換算の文字数。半角英数は全角の約0.55文字幅として数える。
- * 見出し／本文のフォントサイズ自動調整に使う。
+ * 文字列の幅（em単位 = フォントサイズ1pxあたりの横幅）。
+ * metrics.ts の実測テーブルを引く。表に無い文字は全角（1.0em）扱い＝安全側。
+ *
+ * 2026-10-04 以前は「半角=0.55em・全角=1.0em」の概算だった。Noto Sans JP の実寸は
+ * wght900 で N=0.764 / A=0.660 と大きく、見出しの幅を 0.5em ほど小さく見積もっていた。
+ * そのため改行ルールが「収まる」と判断した行が実際には枠を超え、CSS の折り返しが
+ * 行末の1文字だけを次行へ落としていた（「NBA拡張、シルバー委員長／が」）。
  */
-export const visualLength = (text: string): number =>
-  [...text].reduce(
-    (sum, ch) => sum + (/[ -~]/.test(ch) ? 0.55 : 1),
+export const textWidthEm = (text: string, weight: number): number => {
+  const table = GLYPH_WIDTH[weight] ?? GLYPH_WIDTH[nearestWeight(weight)];
+  return [...text].reduce(
+    (sum, ch) => sum + (table[ch] ?? DEFAULT_GLYPH_WIDTH),
     0,
   );
+};
+
+/** 実測テーブルがある太さ（500/700/900）のうち、いちばん近いもの */
+const nearestWeight = (weight: number): number =>
+  Object.keys(GLYPH_WIDTH)
+    .map(Number)
+    .reduce((best, w) => (Math.abs(w - weight) < Math.abs(best - weight) ? w : best), 500);
 
 /**
  * 見出しのフォントサイズ。
@@ -135,7 +150,7 @@ export const visualLength = (text: string): number =>
  * CSS 側でも折り返すので、これは"はみ出し"ではなく"行数が増えすぎない"ための調整。
  */
 export const headlineFontSize = (text: string): number => {
-  const len = visualLength(text);
+  const len = textWidthEm(text, HEADLINE.fontWeight);
   if (len <= 9) return 104;
   if (len <= 13) return 92;
   if (len <= 18) return 80;
@@ -151,6 +166,13 @@ export const headlineFontSize = (text: string): number => {
 export const CONTENT_WIDTH = VIDEO.width - MARGIN_X * 2;
 
 /**
+ * 実際に文字を収める幅。実測テーブルは字送りの合計なので理屈では CONTENT_WIDTH まで入るが、
+ * 字間の丸めやフォントの合成（Hiragino へのフォールバック）で数px増えることがあるため
+ * 1%だけ安全側に取る。CSS の折り返しを切った（Headline.tsx）ので、ここがはみ出しの最後の砦。
+ */
+export const SAFE_WIDTH = Math.floor(CONTENT_WIDTH * 0.99);
+
+/**
  * 文字ブロックの下端。ブランドタグ箱の上端から gap だけ空ける。
  * ニュース型と同じくブランドタグ（下から12%）＋箱の高さの上に収める。
  */
@@ -158,15 +180,15 @@ export const contentBottomPx = (gap: number): number =>
   VIDEO.height * BRAND_TAG.bottomRatio + brandTagBoxHeight + gap;
 
 /**
- * 1行に収まるフォントサイズ。visualLength（全角換算）× サイズ ≒ 描画幅として、
+ * 1行に収まるフォントサイズ。textWidthEm（実測）× サイズ = 描画幅として、
  * 横幅 width に収まる最大値を max〜min の範囲で返す。
  * min まで縮めても収まらない分は CSS の折り返しに任せる。
  */
 export const fitFontSize = (
   text: string,
-  { width, max, min }: { width: number; max: number; min: number },
+  { width, max, min, weight }: { width: number; max: number; min: number; weight: number },
 ): number => {
-  const len = Math.max(1, visualLength(text));
+  const len = Math.max(0.1, textWidthEm(text, weight));
   return Math.max(min, Math.min(max, Math.floor(width / len)));
 };
 
@@ -232,11 +254,17 @@ export const RANKING = {
 /** ランキングの行数の上限（合計行は別） */
 export const RANKING_MAX_ROWS = 10;
 
-/** 本文のフォントサイズ。行数が増えたら縮めて下部のブランドタグと衝突させない。 */
-export const bodyFontSize = (lines: string[]): number => {
-  const n = lines.length;
-  if (n <= 5) return 40;
-  if (n <= 7) return 36;
-  if (n <= 9) return 32;
-  return 28;
-};
+/**
+ * 本文のフォントサイズの段階。行数が増えたら縮めて下部のブランドタグと衝突させない。
+ * body.ts の折り返しが「このサイズなら何行になるか」を上から順に試すので、降順で並べる。
+ */
+export const BODY_SIZE_STEPS = [
+  { maxLines: 5, fontSize: 40 },
+  { maxLines: 7, fontSize: 36 },
+  { maxLines: 9, fontSize: 32 },
+  { maxLines: Infinity, fontSize: 28 },
+] as const;
+
+/** その行数で使ってよい本文のフォントサイズ */
+export const bodyFontSize = (lineCount: number): number =>
+  (BODY_SIZE_STEPS.find((s) => lineCount <= s.maxLines) ?? BODY_SIZE_STEPS[3]).fontSize;

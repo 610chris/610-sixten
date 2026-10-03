@@ -1,16 +1,19 @@
 import React from "react";
 import { useCurrentFrame } from "remotion";
 import { fadeSlideIn } from "../animation";
-import { BODY, bodyFontSize, FONT_FAMILY } from "../theme";
+import { BODY, FONT_FAMILY } from "../theme";
 import { BODY_IN } from "../timeline";
 
 /**
- * 本文。配列の1要素が1行。
+ * 本文。受け取るのは layoutBody（body.ts）で折り返しとサイズを確定させたあとの行
+ * （2026-10-04 まで折り返しは CSS 任せで「落選組はシ／アトルへ」のように語の途中で折れていた）。
  * BODY_IN.start から BODY_IN.stagger 秒間隔で、1行ずつ順番にフェードイン＋スライドする。
  */
-export const BodyLines: React.FC<{ lines: string[] }> = ({ lines }) => {
+export const BodyLines: React.FC<{ lines: string[]; fontSize: number }> = ({
+  lines,
+  fontSize,
+}) => {
   const frame = useCurrentFrame();
-  const fontSize = bodyFontSize(lines);
 
   return (
     <div style={{ marginTop: BODY.marginTop }}>
@@ -29,9 +32,8 @@ export const BodyLines: React.FC<{ lines: string[] }> = ({ lines }) => {
             lineHeight: BODY.lineHeight,
             color: BODY.color,
             textAlign: "left",
-            lineBreak: "strict",
-            overflowWrap: "anywhere",
-            whiteSpace: "pre-wrap",
+            // 折り返しは layoutBody が決めるので CSS には折らせない
+            whiteSpace: "nowrap",
           }}
         >
           {line}

@@ -10,7 +10,7 @@ import { Overlay } from "./components/Overlay";
 import { Scrim } from "./components/Scrim";
 import {
   COLORS,
-  CONTENT_WIDTH,
+  SAFE_WIDTH,
   DIM,
   FONT_FAMILY,
   fitFontSize,
@@ -136,9 +136,10 @@ export const ScoreVideo: React.FC<ScoreVideoProps> = ({
           style={{
             ...fadeSlideIn(frame, SCORE_IN.player),
             fontSize: fitFontSize(player, {
-              width: CONTENT_WIDTH,
+              width: SAFE_WIDTH,
               max: SCORE.player.max,
               min: SCORE.player.min,
+              weight: SCORE.player.fontWeight,
             }),
             fontWeight: SCORE.player.fontWeight,
             letterSpacing: SCORE.player.letterSpacing,

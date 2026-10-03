@@ -1,5 +1,6 @@
 import React from "react";
 import { AbsoluteFill } from "remotion";
+import { layoutBody } from "./body";
 import { Background } from "./components/Background";
 import { Bgm } from "./components/Bgm";
 import { BodyLines } from "./components/BodyLines";
@@ -61,7 +62,12 @@ export const NewsVideo: React.FC<NewsVideoProps> = ({
   brandTag,
   bgm,
   credit,
-}) => (
+}) => {
+  // 本文の折り返しは描画より先に確定させる。幅に入らない文を折ると行数が増え、
+  // ブランドタグの出現タイミング（＝尺）もその行数で決まるため、両方で同じ結果を使う。
+  const bodyLayout = layoutBody(body);
+
+  return (
   <AbsoluteFill
     style={{
       backgroundColor: COLORS.black,
@@ -83,13 +89,14 @@ export const NewsVideo: React.FC<NewsVideoProps> = ({
       }}
     >
       <Headline text={headline} />
-      <BodyLines lines={body} />
+      <BodyLines lines={bodyLayout.lines} fontSize={bodyLayout.fontSize} />
     </div>
 
-    <BrandTag brandTag={brandTag} bodyLineCount={body.length} />
+    <BrandTag brandTag={brandTag} bodyLineCount={bodyLayout.lines.length} />
 
     {credit ? <Credit text={credit} /> : null}
 
     {bgm ? <Bgm src={bgm} /> : null}
   </AbsoluteFill>
-);
+  );
+};

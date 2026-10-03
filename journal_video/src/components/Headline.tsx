@@ -24,9 +24,11 @@ export const Headline: React.FC<{ text: string }> = ({ text }) => {
         lineHeight: HEADLINE.lineHeight,
         color: HEADLINE.color,
         textAlign: "left",
-        // 想定外に長い行が来ても、はみ出す前に CSS 側でも折り返す
-        lineBreak: "strict",
-        overflowWrap: "anywhere",
+        // 改行位置は wrapHeadline だけが決める。CSS には折り返させない。
+        // 2026-10-04 まではここに overflowWrap:"anywhere" があり、幅の見積もりが甘いと
+        // ブラウザが行末の1文字だけを次行へ落としていた（「シルバー委員長／が」）。
+        // 幅は metrics.ts の実測値で計算するので、収まらない行はそもそも作られない。
+        whiteSpace: "nowrap",
       }}
     >
       {lines.map((line, i) => (

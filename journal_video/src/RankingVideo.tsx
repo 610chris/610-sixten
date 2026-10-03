@@ -10,7 +10,6 @@ import { Overlay } from "./components/Overlay";
 import { Scrim } from "./components/Scrim";
 import {
   COLORS,
-  CONTENT_WIDTH,
   contentBottomPx,
   DIM,
   FONT_FAMILY,
@@ -18,7 +17,8 @@ import {
   MARGIN_X,
   RANKING,
   VIDEO,
-  visualLength,
+  SAFE_WIDTH,
+  textWidthEm,
 } from "./theme";
 import {
   RANKING_IN,
@@ -40,7 +40,7 @@ const rowHeightFor = (
 ): number => {
   const titleLines = Math.max(
     1,
-    Math.ceil((visualLength(title) * titleFontSize) / CONTENT_WIDTH),
+    Math.ceil((textWidthEm(title, RANKING.title.fontWeight) * titleFontSize) / SAFE_WIDTH),
   );
   const titleHeight =
     titleLines * titleFontSize * RANKING.title.lineHeight +
@@ -137,9 +137,10 @@ export const RankingVideo: React.FC<RankingVideoProps> = ({
 }) => {
   const frame = useCurrentFrame();
   const titleFontSize = fitFontSize(title, {
-    width: CONTENT_WIDTH,
+    width: SAFE_WIDTH,
     max: RANKING.title.max,
     min: RANKING.title.min,
+    weight: RANKING.title.fontWeight,
   });
   const rowCount = rows.length + (total ? 1 : 0);
   const rowHeight = rowHeightFor(titleFontSize, title, !!subtitle, rowCount);

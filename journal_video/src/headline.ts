@@ -14,7 +14,10 @@
  * という順で行を決める。禁則（行頭に「、。」」や単独の助詞、行末に「「（」）も守る。
  */
 
-import { CONTENT_WIDTH, visualLength } from "./theme";
+import { HEADLINE, SAFE_WIDTH, textWidthEm } from "./theme";
+
+/** 見出しの太さ。幅の実測テーブルを引くのに使う */
+const WEIGHT = HEADLINE.fontWeight;
 
 /** 行数ごとのフォントサイズ上限。行数が増えるぶん1行を小さくして縦の高さを揃える */
 const MAX_SIZE = [0, 104, 92, 72] as const;
@@ -31,6 +34,18 @@ const ONE_LINE_MIN = 88;
 const SIZE_TOLERANCE = 5;
 /** 最大行数 */
 const MAX_LINES = 3;
+/**
+ * 「文節を割っていない」とみなせる切れ目の点数。
+ * 句読点(12) / スペース(11) / カッコ閉じ・——(10,8) / カッコ開き前(9) / 助詞のあと(6) がここに入る。
+ * 文字種の変わり目だけ（カタカナ→漢字=4 など）はこれを下回る。
+ *
+ * 2026-10-04 クリス指示「シルバー委員長が で一フレーズだから改行は その前だよね。
+ * 句読点・改行とかそのワードに、主語述語までは一文に収まるように改行ルールを直して」で追加。
+ * それまでは行数が少なく文字が大きい割り方を優先していたので、
+ * 「NBA拡張、シルバー／委員長が年内投票を目指す」のように肩書きの途中で割れていた。
+ * 文字が数px小さくなっても、文節の切れ目で割るほうを先に採る。
+ */
+const PHRASE_BREAK = 6;
 
 /** 行頭に置けない文字 */
 const NO_START = /[、。，．）」』】〉》”’!?！？・ーぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮ々〜:：;；＆&×✕／/\s]/;
@@ -53,6 +68,11 @@ const PARTICLE = /[はがをにでともへやのかばねよわ]/;
  * ように語尾にも現れるので、こちらには入れない。
  */
 const STRONG_PARTICLE = /[がをはにでも]/;
+/**
+ * 指示連体詞の頭（この・その・あの・どの）。直後の「の」で切ると語を割るので禁じる
+ * （「エンビード「この／チームには本気で興奮している」」を防ぐ）
+ */
+const DEMONSTRATIVE = /[こそあど]/;
 /** 数量の単位。数字のあとのこれは語の一部なので切らない（「9月26／日」を防ぐ） */
 const UNIT_CHAR = /[日月年時分秒週人名回戦本点位個枚件勝敗度割円万億兆％%歳番台試]/;
 /** カタカナの単位。数字・漢数単位のあとに続くときだけ語の一部とみなす（「3000万／ドル」を防ぐ） */
@@ -64,11 +84,20 @@ const kind = (ch: string): string =>
   ALNUM.test(ch) ? "a" : HIRA.test(ch) ? "h" : KATA.test(ch) ? "k" : KANJI.test(ch) ? "j" : "o";
 
 /**
+ * text[at] の助詞が「語の末尾の一部」に見えるか（「こと」「もの」「たか」の と/の/か）。
+ * 直前も助詞なら（「には」「とは」「でも」）助詞が連なっているだけなので語尾ではない。
+ */
+const isWordTailParticle = (text: string, at: number): boolean => {
+  const before = text[at - 1] ?? "";
+  return PARTICLE.test(before) && !STRONG_PARTICLE.test(before);
+};
+
+/**
  * text[i-1] と text[i] の間で改行してよいか、よいなら自然さの点数（大きいほど自然）。
  * 切ってはいけない位置は 0 を返す。
  * relaxed=true のときだけ、語の内部（同じ文字種の連続）も最後の手段として許す。
  */
-const breakScore = (text: string, i: number, relaxed = false): number => {
+export const breakScore = (text: string, i: number, relaxed = false): number => {
   const prev = text[i - 1];
   const ch = text[i];
   if (NO_START.test(ch) || NO_END.test(prev)) return 0;
@@ -81,6 +110,8 @@ const breakScore = (text: string, i: number, relaxed = false): number => {
   // 行頭が助詞になる切り方は禁則（「このチームに／は本気で」「このチーム／には本気で」
   // 「LeBron Witness 10」／がこのホリデーシーズンに」）。「もっと」のような語頭も諦める
   if (PARTICLE.test(ch)) return 0;
+  // 「この」「その」「あの」「どの」の直後は切らない（連体詞と体言を割ってしまう）
+  if (prev === "の" && DEMONSTRATIVE.test(text[i - 2] ?? "")) return 0;
   // 半角スペース（英語タイトル・—— の前後）。ただし「Air Jordan 4」「Nike Caitlin 1」のように
   // 英字のあとの数字は製品名の一部なので、ここで割るのは他の切れ目に譲る
   if (/\s/.test(prev)) {
@@ -91,12 +122,15 @@ const breakScore = (text: string, i: number, relaxed = false): number => {
   if (prev === "—" && text[i - 2] === "—") return 10;           // 「——」のあと
   if (ch === "—") return 8;                                     // 「——」の前
   if (/[「『（【〈《]/.test(ch)) return 9;                       // 発言・カッコの開く前
-  // ほぼ確実に助詞と言える文字のあとは、次がひらがなでも切ってよい
-  if (STRONG_PARTICLE.test(prev) && !PARTICLE.test(text[i - 2] ?? "")) return 6;
+  // ほぼ確実に助詞と言える文字のあとは、次がひらがなでも切ってよい。
+  // 直前がさらに助詞（「には」「とは」「でも」）なら助詞が連なっているだけなので、
+  // それも文節の切れ目として扱う（2026-10-04: ここを一律で外していたため「〜には／本気で」が
+  // 5点どまりで、代わりに「この／チームには」で割れていた）
+  if (STRONG_PARTICLE.test(prev) && !isWordTailParticle(text, i - 1)) return 6;
   // 句読点やカッコを挟まずに行頭がひらがなになる切り方は、送り仮名・活用語尾・複合語を
   // 割っていることがほとんど（「前向／きなことだ」「届いてい／ない」「こと／だ」）
   if (HIRA.test(ch) && !relaxed) return 0;
-  if (PARTICLE.test(prev) && !PARTICLE.test(text[i - 2] ?? "")) return 6;  // 助詞のあと
+  if (PARTICLE.test(prev) && !isWordTailParticle(text, i - 1)) return 6;   // 助詞のあと
   const [kp, kc] = [kind(prev), kind(ch)];
   // 同じ文字種の連続＝ひとつの語の内部。カタカナ語（インガム・アレクサンダー）や熟語を割るのでふつうは切らない
   if (kp === kc) return relaxed ? 1 : 0;
@@ -106,7 +140,14 @@ const breakScore = (text: string, i: number, relaxed = false): number => {
   return 3;
 };
 
-type Split = { lines: string[]; fontSize: number; score: number; spread: number };
+type Split = {
+  lines: string[];
+  fontSize: number;
+  score: number;
+  /** 使った切れ目のうち、いちばん自然さの低い点数（文節を割っていないかの判定に使う） */
+  minScore: number;
+  spread: number;
+};
 
 const measure = (text: string, cuts: number[], relaxed: boolean): Split | null => {
   const bounds = [0, ...cuts, text.length];
@@ -116,11 +157,18 @@ const measure = (text: string, cuts: number[], relaxed: boolean): Split | null =
     if (!line) return null;
     lines.push(line);
   }
-  const lens = lines.map(visualLength);
+  const lens = lines.map((line) => textWidthEm(line, WEIGHT));
   const longest = Math.max(...lens);
-  const fontSize = Math.min(MAX_SIZE[lines.length], Math.floor(CONTENT_WIDTH / longest));
-  const score = cuts.reduce((sum, i) => sum + breakScore(text, i, relaxed), 0);
-  return { lines, fontSize, score, spread: longest - Math.min(...lens) };
+  const fontSize = Math.min(MAX_SIZE[lines.length], Math.floor(SAFE_WIDTH / longest));
+  const scores = cuts.map((i) => breakScore(text, i, relaxed));
+  const score = scores.reduce((sum, v) => sum + v, 0);
+  return {
+    lines,
+    fontSize,
+    score,
+    minScore: scores.length ? Math.min(...scores) : Infinity,
+    spread: longest - Math.min(...lens),
+  };
 };
 
 /**
@@ -140,7 +188,17 @@ const bestOf = (candidates: Split[]): Split | null => {
   }, null);
 };
 
-const splitInto = (text: string, lineCount: number, relaxed: boolean): Split | null => {
+/**
+ * 指定の行数での割り方を1つ選ぶ。
+ * minBreak を渡すと、それより自然さの低い切れ目を使う割り方は候補から外す
+ * （＝文節の途中で割らせない）。
+ */
+const splitInto = (
+  text: string,
+  lineCount: number,
+  relaxed: boolean,
+  minBreak = 0,
+): Split | null => {
   if (lineCount === 1) return measure(text, [], relaxed);
   const points: number[] = [];
   for (let i = 1; i < text.length; i += 1) if (breakScore(text, i, relaxed) > 0) points.push(i);
@@ -158,7 +216,7 @@ const splitInto = (text: string, lineCount: number, relaxed: boolean): Split | n
       }
     }
   }
-  return bestOf(found);
+  return bestOf(found.filter((s) => s.minScore >= minBreak));
 };
 
 /**
@@ -172,7 +230,16 @@ export const wrapHeadline = (text: string): { lines: string[]; fontSize: number 
   const one = splitInto(flat, 1, false);
   if (one && one.fontSize >= ONE_LINE_MIN) return show(one);
 
-  // 語の内部を切らない割り方を 2行 → 3行 の順で探す（「基本は2行、場合によっては3行」）
+  // ① まず文節の切れ目（句読点・カッコ・助詞のあと）だけで割れる形を 2行 → 3行 で探す。
+  //    行数が増えても、肩書きや複合語の途中で割らないほうを優先する。
+  const twoPhrase = splitInto(flat, 2, false, PHRASE_BREAK);
+  if (twoPhrase && twoPhrase.fontSize >= TWO_LINE_MIN) return show(twoPhrase);
+  const threePhrase =
+    MAX_LINES >= 3 ? splitInto(flat, 3, false, PHRASE_BREAK) : null;
+  if (threePhrase && threePhrase.fontSize >= THREE_LINE_MIN) return show(threePhrase);
+
+  // ② 文節の切れ目だけでは読めるサイズに収まらない見出し。
+  //    語の内部は切らないまま、文字種の変わり目も使って 2行 → 3行 の順で探す
   const two = splitInto(flat, 2, false);
   if (two && two.fontSize >= TWO_LINE_MIN) return show(two);
   const three = MAX_LINES >= 3 ? splitInto(flat, 3, false) : null;
@@ -188,5 +255,8 @@ export const wrapHeadline = (text: string): { lines: string[]; fontSize: number 
   if (best) return show(best);
 
   // 切れ目が1つも無い（記号だけ等）＝ CSS の折り返しに任せる
-  return { lines: [flat], fontSize: Math.min(MAX_SIZE[2], Math.floor(CONTENT_WIDTH / visualLength(flat)) * 2) };
+  return {
+    lines: [flat],
+    fontSize: Math.min(MAX_SIZE[2], Math.floor(SAFE_WIDTH / textWidthEm(flat, WEIGHT)) * 2),
+  };
 };
