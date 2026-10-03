@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "349-nba-expansion-vegas-seattle-blazers.html",
+    cat: "NBA",
+    title: "NBA拡張、シルバー委員長が年内投票を目指す —— ラスベガス落選組はシアトルへ、ブレイザーズに思わぬ余波",
+    excerpt: "ESPNのラモーナ・シェルバーン記者が、NBA拡張(新規2球団追加)に関する最新の内部情報を報じた。シルバー委員長は年内の理事会投票を目指し、ラスベガスで落選した陣営がシアトル市場へ回る可能性があるという。ポートランド・トレイルブレイザーズの新オーナーが移転をちらつかせる交渉材料にしている側面も浮上している。",
+    date: "2026.10.03",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "348-jordan-6-rings-winterized-cobalt-blue.html",
+    cat: "KICKS",
+    title: "Jordan 6 Rings Winterized「Cobalt Blue」が2026年冬発売へ —— 防寒仕様の新色、品番IX8456-479",
+    excerpt: "ジョーダン ブランドは、定番シルエット「Jordan 6 Rings」の防寒仕様モデル「Winterized」に新色「Cobalt Blue」を投入し、2026年冬に発売する予定。品番はIX8456-479。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.03",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "347-nike-air-foamposite-one-glow-in-the-dark.html",
     cat: "KICKS",
     title: "Nike Air Foamposite One PRM「Glow in the Dark」が10月16日発売 —— 品番IV6246-100、SNKRSで",
