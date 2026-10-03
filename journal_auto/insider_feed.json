@@ -1,7 +1,33 @@
 {
- "updated_utc": "2026-10-02 19:54 UTC",
+ "updated_utc": "2026-10-03 02:15 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1wwbc4z/scotto_the_detroit_pistons_signed_jalen_duren_to/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-03T01:57:57+00:00",
+   "text": "This changes the context of Duren’s contract and the Pistons’ cap sheet quite a bit. \n\nDetroit pays more now while Ausar is still on his rookie deal. Duren’s salary then drops when Ausar’s extension kicks in, then rises modestly afterwards. \n\nIt’s the same $200M commitment regardless, but Duren gave the team some flexibility for when the core gets more expensive. \n\nSource: https://www.hoopshype.com/story/sports/nba/rumors/2026/10/02/jalen-durens-five-year-deal-with-pistons-dips-in-year-2-before-rising/92066524007/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wwbc4z/scotto_the_detroit_pistons_signed_jalen_duren_to/",
+   "links": [
+    "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/02/jalen-durens-five-year-deal-with-pistons-dips-in-year-2-before-rising/92066524007/"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1wwaptp/charania_the_memphis_grizzlies_and_guard_jordan/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-03T01:24:29+00:00",
+   "text": "The Memphis Grizzlies and guard Jordan Hawkins have mutually agreed to part ways, allowing the 2023 lottery pick to find a new home in free agency once he clears waivers, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/4041963d39917",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wwaptp/charania_the_memphis_grizzlies_and_guard_jordan/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/4041963d39917"
+   ]
+  },
   {
    "reporter": "Anthony Slater（ESPN）",
    "handle": "anthonyVslater",
@@ -115,19 +141,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1wv08qt/charania_cleveland_cavaliers_star_donovan/",
    "links": [
     "https://www.espn.com/contributor/shams-charania/4cc95c10e3a3d"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wufuim/charania_guard_ryan_nembhard_has_agreed_to_a/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-09-30T20:26:51+00:00",
-   "text": "Guard Ryan Nembhard has agreed to a two-way NBA contract with the Denver Nuggets, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/d04463534f961",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wufuim/charania_guard_ryan_nembhard_has_agreed_to_a/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/d04463534f961"
    ]
   }
  ]
