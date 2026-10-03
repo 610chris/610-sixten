@@ -43,8 +43,9 @@ BGM は型ごとに BGM の曲を必ず入れる（2026-09-29 クリス指示「
 曲ファイルが journal_video/public/ に無いときは例外で止める＝BGMなしの動画は書き出さない。
 """
 
-import io, json, os, re, sys, unicodedata, urllib.parse, urllib.request
+import io, json, math, os, re, sys, unicodedata, urllib.parse, urllib.request
 from collections import Counter
+from html import unescape
 from datetime import datetime, timedelta, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -111,6 +112,120 @@ TEXT_OVERRIDES = {
     "306": {"headline": "エンビード\n「このチームには\n本気で興奮している」"},
 }
 SITE_JOURNAL = os.path.join(ROOT, "site", "journal")
+
+# ───────── 本文（ニュース型）を記事本文から組み立てる ─────────
+# 2026-10-04 クリス指示「本文の中もちょっと気持ち悪くて、本文に句読点が全くないから
+# それは気持ち悪いし、もうちょっと文章長くてもいいかな。12行ぐらい、内容深掘っても
+# いいんじゃないかな」。
+# それまで動画の本文は item["points"]（IGキャプション用の要点3行・体言止めで句読点なし）
+# だった。points を伸ばすとキャプションとカルーセルまで巻き込むので、動画の本文だけ
+# 記事ページの本文から作る。順序は原文のまま上から積む（記事がリード→詳細の順なので話が繋がる）。
+ARTICLE_P = re.compile(r"<p([^>]*)>(.*?)</p>", re.S)
+# 本文として使う段落。属性なし＝本文、class="lead"＝リード。
+# style付き（動画の案内文）・class="footer-about"（媒体紹介）は本文ではない。
+BODY_P_ATTR = ("", 'class="lead"')
+# 「出典:」の段落から下は本文ではない（出典・動画の案内・フッター）
+BODY_END = re.compile(r"^出典[:：]")
+# カッコの内側の句点では文を切らない（「本気で興奮している。すごく楽しみだ」と語った。）
+QUOTE_OPEN = "「『（(〈《【［"
+QUOTE_CLOSE = "」』）)〉》】］"
+# 重複とみなす文字bigramの重なり（短い文のこの割合が長い文に入っていたら同じ内容）。
+# リードは記事全体の要約なので、短い記事だと本文の段落が同じことを繰り返す。
+# 実測で決めた値: 落としたいペア（「発売は2026年のホリデー…」×「品番は…発売は2026年の
+# ホリデー…」）が0.61、残したいペア（同じ主語で別の内容）が0.33以下だったので間を取る
+DUP_RATIO = 0.55
+# 行数の見積り。本文28pxのとき1行は SAFE_WIDTH(940) ÷ 28 ≒ 33.5em 入る。
+# 厳密な折り返しは journal_video/src/body.ts（layoutBody）がやるので、
+# ここは「何文まで載せるか」を決めるための粗い見積りでよい。
+BODY_LINE_EM = 33.5
+BODY_TARGET_LINES = 12  # クリスの「12行ぐらい」
+BODY_MAX_LINES = 13     # 次の1文を足して超えるなら、その文は載せない
+_BODY_GLYPH = None
+
+
+def body_em(text):
+    """本文の太さ（wght500）での文字幅(em)。font_metrics.py の実測テーブルを引く"""
+    global _BODY_GLYPH
+    if _BODY_GLYPH is None:
+        import font_metrics
+        _BODY_GLYPH = font_metrics.measure()[500]
+    return sum(_BODY_GLYPH.get(c, 1.0) for c in text)
+
+
+def body_lines(text):
+    """その文が本文で占める行数（1行に収まらなければ折り返される）"""
+    return max(1, math.ceil(body_em(text) / BODY_LINE_EM))
+
+
+def sentences_of(text):
+    """段落を文に割る。句点で切るが、カッコの内側の句点では切らない"""
+    out, buf, depth = [], "", 0
+    for ch in text:
+        buf += ch
+        if ch in QUOTE_OPEN:
+            depth += 1
+        elif ch in QUOTE_CLOSE:
+            depth = max(0, depth - 1)
+        elif ch == "。" and depth == 0:
+            out.append(buf.strip())
+            buf = ""
+    if buf.strip():
+        out.append(buf.strip())
+    return [t for t in out if t]
+
+
+def bigrams(text):
+    """文字の2連続の集合。言い回しの違いを無視して内容の重なりを見るのに使う"""
+    t = re.sub(r"[^0-9A-Za-zぁ-んァ-ヶ一-龥ー]", "", text)
+    return {t[i:i + 2] for i in range(len(t) - 1)} or ({t} if t else set())
+
+
+def says_same(text, chosen):
+    """すでに採った文と同じ内容か（短い側の DUP_RATIO 以上が重なっていたら同じ）"""
+    a = bigrams(text)
+    for c in chosen:
+        b = bigrams(c)
+        small, big = (a, b) if len(a) <= len(b) else (b, a)
+        if small and len(small & big) / len(small) >= DUP_RATIO:
+            return True
+    return False
+
+
+def plain(frag):
+    """段落の中身（HTML）→ 画面に出る文字"""
+    return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", "", frag))).strip()
+
+
+def article_body(aid):
+    """記事ページの本文から句読点のある文を上から約12行ぶん積む。取れなければ []"""
+    page = next((f for f in os.listdir(SITE_JOURNAL)
+                 if f.startswith(f"{aid}-") and f.endswith(".html")), None)
+    if not page:
+        return []
+    doc = open(os.path.join(SITE_JOURNAL, page), encoding="utf-8").read()
+    sentences = []
+    for m in ARTICLE_P.finditer(doc):
+        text = plain(m.group(2))
+        if not text:
+            continue
+        if BODY_END.match(text):
+            break
+        if m.group(1).strip() not in BODY_P_ATTR:
+            continue
+        sentences += sentences_of(text)
+    body, lines = [], 0
+    for t in sentences:
+        if says_same(t, body):
+            continue
+        n = body_lines(t)
+        if body and lines + n > BODY_MAX_LINES:
+            break
+        body.append(t)
+        lines += n
+        if lines >= BODY_TARGET_LINES:
+            break
+    return body
+
 NOT_SOURCE = re.compile(r"fonts\.(googleapis|gstatic)\.com|sixten\.jp|instagram\.com/sixten|"
                         r"creativecommons\.org|wikimedia\.org|wikipedia\.org")
 ESPN_ID = re.compile(r"espn\.com/.*/id/(\d+)")
@@ -537,7 +652,12 @@ def build(aid, used=None):
     else:
         if item.get("video"):
             log(f"  video 指定を使わずニュース型にする（{why}）")
-        body = [p for p in item.get("points") or [] if p.strip()] or [item.get("excerpt", "")[:80]]
+        body = article_body(aid)
+        if body:
+            log(f"  本文: 記事本文から{len(body)}文（約{sum(body_lines(t) for t in body)}行）")
+        else:
+            body = [p for p in item.get("points") or [] if p.strip()] or [item.get("excerpt", "")[:80]]
+            log("  本文: 記事ページの本文が取れないので points を使う")
         props = {
             "label": "NEWS",  # ニュース型は記事のカテゴリ（NBA/KICKS 等）に関係なく NEWS と出す
             "headline": item["headline"],
