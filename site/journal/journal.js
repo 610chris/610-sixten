@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "354-lebron-great-first-step-76ers-scrimmage.html",
+    cat: "NBA",
+    title: "レブロン「目指す方向への大きな一歩」—— 76ers紅白戦に1万人、エンビードも「かなりいい」と手応え",
+    excerpt: "フィラデルフィア・76ersは現地時間10月3日、本拠地アリーナで恒例のブルー・ホワイト紅白戦を開催し、約1万人のファンが詰めかけた。レブロン・ジェームズは「目指す方向への大きな一歩になった」と語り、ジョエル・エンビードも前季からの体調の回復ぶりに「かなりいい」と手応えを口にした。ESPNが伝えた。",
+    date: "2026.10.03",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "353-air-jordan-5-halloween.html",
     cat: "KICKS",
     title: "Air Jordan 5「Halloween」が10月17日発売 —— 品番HQ7978-001、蓄光ディテールのブラックベース",
