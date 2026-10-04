@@ -1,8 +1,41 @@
 {
- "updated_utc": "2026-10-04 18:46 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-10-04 22:30 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-set-to-spread-good-will-with-preseason-journey-to-china",
+   "url": "https://www.nba.com/mavs/news/mavericks-set-to-spread-good-will-with-preseason-journey-to-china",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-set-to-spread-good-will-with-preseason-journey-to-china",
+   "title": "Mavericks set to spread good will with preseason journey to China",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-04T20:36:52Z",
+   "tags": [],
+   "summary": "It was inevitable that the Mavericks would make a preseason trip to China the moment that the team was sold to the Dumont-Adelson family early in 2024.",
+   "facts": [
+    "It was inevitable that the Mavericks would make a preseason trip to China the moment that the team was sold to the Dumont-Adelson family early in 2024.",
+    "Macao is 13 hours ahead of Dallas.",
+    "It’s a preseason trip to play two games against the Houston Rockets on Friday (7 a.m., Dallas time) and Sunday (5 a.m., Dallas time).",
+    "It’s 8,151 miles from Love Field to the Macao International Airport.",
+    "The Mavericks’ plane, a Boeing 757, can fly about 4,400 miles without refueling.",
+    "It’s not the same plane that the team took in the preseason of 2018, when they played games in Shanghai and Shenzhen.",
+    "The interesting thing is that the flight to Macao (often spelled Macau in other languages) is 17 hours.",
+    "The return trip, thanks to the prevailing wind currents, is about 13 hours, Barkley said."
+   ],
+   "quotes": [
+    "He’s ready to show us this amazing arena that he has,",
+    "We (he and Dumont) talked a few weeks ago and he mentioned that with the games that happened last time, there was no one sitting down the entire time. It’s a super-nice arena, NBA-style and a brand-ne…",
+    "Us small guys . . . To be honest, I’ve always enjoyed flying,",
+    "I have a high level of concentration on the flight. They bring the meals and sit them right in your lap. There will be no complaints from me."
+   ]
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -80,8 +113,9 @@
    "author": "Eddie Sefko",
    "published_utc": "2026-10-03T23:14:44Z",
    "tags": [],
-   "summary": "The Mavericks are deep into training camp and their trip to China for preseason games Friday and Sunday against the Houston Rockets will commence on Sunday.",
+   "summary": "The Mavericks are deep into training camp and their trip to China for preseason games Friday and Oct. 11 against the Houston Rockets will commence on Sunday.",
    "facts": [
+    "The Mavericks are deep into training camp and their trip to China for preseason games Friday and Oct. 11 against the Houston Rockets will commence on Sunday.",
     "He averaged a career-best 12.3 points and shot 40.4 percent from three-point range.",
     "He’s changed his number from double-0 to a single zero."
    ],
@@ -201,40 +235,6 @@
    "summary": "",
    "facts": [],
    "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "url": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "canonical_url": "https://warriors.com/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "title": "New Faces and Philosophies for Warriors 2026 Training Camp",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-02T23:55:48Z",
-   "tags": [
-    "2026 Training Camp",
-    "Player Spotlight"
-   ],
-   "summary": "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii. Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contract extension this offseason, committing to the Bay for the foreseeable fu…",
-   "facts": [
-    "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii.",
-    "Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contr…",
-    "Head Coach Steve Kerr also signed a multi-year extension.",
-    "The Warriors added three players with standard contracts for this upcoming season, including No. 11 pick Yaxel Lendeborg, fifth-year guard Brandon Williams, and 10-year NBA veteran Georges Niang.",
-    "Fresh off a National Championship with the University of Michigan, Lendeborg led the Warriors to the Summer League championship and was named the 2026 Summer League MVP.",
-    "At 6-foot-9 and 241 pounds, Lendeborg’s size, skill set, and IQ stood out to Jimmy Butler III.",
-    "General Manager Mike Dunleavy shared at Media Day that the Warriors had a full offseason to prepare for the void left by Butler and Moses Moody being out recovering from injuries at the start of the season — foresight th…",
-    "He has played for five different franchises over nine seasons and even had a career-altering stint with the Warriors’ G League affiliate in Santa Cruz following the team’s 2017 championship run."
-   ],
-   "quotes": [
-    "He's massive. He's a big human being, and he shoots the ball so incredibly well,",
-    "He's smart. He wants to learn, and he's a winning player.",
-    "Not many people can say they turned 24 playing in the NBA in Hawaii,",
-    "I would say playing meaningful minutes,"
-   ]
   },
   {
    "source": "DAL 公式（nba.com）",
@@ -608,180 +608,6 @@
     "I didn’t feel like I scratched the surface (in those three games).",
     "We’ve tried a bunch of stuff,",
     "There isn’t just one thing that’s going to happen in the game, especially with matchups. I’ve got to be ready to do everything. Guarding perimeter players more, (but) still having the freedom to conte…"
-   ]
-  },
-  {
-   "source": "TOR 公式（nba.com）",
-   "team": "TOR",
-   "team_ja": "ラプターズ",
-   "team_id": 1610612761,
-   "kind": "roster",
-   "key": "https://www.nba.com/raptors/news/raptors-sign-shead-to-multi-year-contract-extension",
-   "url": "https://www.nba.com/raptors/news/raptors-sign-shead-to-multi-year-contract-extension",
-   "canonical_url": "https://raptors.com/news/raptors-sign-shead-to-multi-year-contract-extension",
-   "title": "RAPTORS SIGN SHEAD TO MULTI-YEAR CONTRACT EXTENSION",
-   "author": "torsskeen",
-   "published_utc": "2026-10-01T21:31:28Z",
-   "tags": [],
-   "summary": "The Toronto Raptors announced Thursday they have signed guard Jamal Shead to a multi-year contract extension. Per team policy, financial terms of the deal were not disclosed.",
-   "facts": [
-    "The Toronto Raptors announced Thursday they have signed guard Jamal Shead to a multi-year contract extension.",
-    "Shead, 6-foot, 209 pounds, averaged 6.6 points, 5.4 assists, 1.7 rebounds and 22.6 minutes in 82 games (12 starts) last season.",
-    "He scored in double figures 16 times, including a season-high 22 points Jan. 11 vs.",
-    "Shead also dished out 10 or more assists in eight games.",
-    "He led the NBA with 354 assists as a reserve and was one of 18 players in the league to appear in all 82 games last season and the first Raptor to accomplish this feat since Jakob Poeltl in 2017-18.",
-    "In the postseason, Shead averaged 9.0 points, 5.0 assists, 2.0 rebounds, 1.4 steals and 32.0 minutes in seven games (four starts) against Cleveland in the first round.",
-    "Shead was picked 45th overall by Sacramento in the 2024 NBA Draft.",
-    "His rights were acquired from the Kings on draft night along with Davion Mitchell, Sasha Vezenkov and a second-round draft pick for Jalen McDaniels."
-   ],
-   "quotes": [
-    "From the 45th pick in the draft to the integral role he has carved out with our team, Jamal’s leadership, hard work, and tenacity earned this,",
-    "We’re thrilled he’ll be a Raptor for seasons to come."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "url": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "canonical_url": "https://warriors.com/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
-   "title": "Golden State Sports Academy Announces 2026-27 Winter Camp Schedule",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-01T20:24:16Z",
-   "tags": [],
-   "summary": "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up. Registration is now open for all winter camp sessions at gssportsacademy.com. For video from a recent camp session, CLICK HERE.",
-   "facts": [
-    "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up.",
-    "The winter schedule will run from November 11 through February 27, highlighted by clinics at Chase Center in San Francisco and Sephora Performance Center in Oakland.",
-    "For complete details on Golden State Basketball Camp and to register online, visit gssportsacademy.com or call (510) 986-5310.",
-    "Earlier this year, Golden State Sports Academy opened three new Golden State Shoot 360 locations within City Sports Clubs in Stonestown (San Francisco), Almaden (San Jose), and Newhall (San Jose).",
-    "For complete details on Golden State Shoot 360 memberships and to become a member, visit gsshoot360.com or call (510) 986-5310."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hornets-younger-players-all-vying-for-rotational-minutes",
-   "url": "https://www.nba.com/hornets/news/hornets-younger-players-all-vying-for-rotational-minutes",
-   "canonical_url": "https://hornets.com/news/hornets-younger-players-all-vying-for-rotational-minutes",
-   "title": "Hornets’ Younger Players All Vying For Rotational Minutes",
-   "author": "Sam Perley",
-   "published_utc": "2026-10-01T20:03:29Z",
-   "tags": [
-    "2026 Training Camp",
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "Heading into his third season as head coach of the Charlotte Hornets, Charles Lee has his deepest roster yet, allowing him more flexibility for different lineups and rotations. With Kon Knueppel and Grant Williams both currently nursing hamstring injuries, the battle for preseason reps and rotational minutes is heating up, especially amongst the team’s younger players.",
-   "facts": [
-    "With Kon Knueppel and Grant Williams both currently nursing hamstring injuries, the battle for preseason reps and rotational minutes is heating up, especially amongst the team’s younger players.",
-    "Barring injuries or foul trouble, regular season rotations are normally nine or ten players deep.",
-    "Anything higher than that and it becomes increasingly more difficult to allot the proper number of minutes for everybody to perform at their highest level (there’s only 240 to divvy up).",
-    "McNeeley is coming off Second-Team All-Summer League honors after putting up 21.7 points and shooting 53% from 3-point range (10-of-19) in three appearances back in July.",
-    "As for the incoming rookies, center Hannes Steinbach was the first freshman to lead Division I in rebounding (11.8) in almost 20 years and point guard Christian Anderson Jr. shot 41.5% from deep last season and topped th…",
-    "Two-way forward Michael Ajayi – who drew praise from veteran Naz Reid on media day – and guard Kylan Boswell plus the return of big man P.J."
-   ],
-   "quotes": [
-    "We have some things that are up in the air in terms of minutes to be won, positions to be won, but I think that’s what makes it fun,",
-    "[I’m working on] the physicality and speed,",
-    "Especially playing against a guy like Moussa [Diabate], he’s very physical and very fast for his size. So, I’ve just been adjusting to that. Just playing physical, playing hard, playing the right way,…",
-    "I’m just continuing to grow my versatility, whether it be offensively or defensively"
-   ]
-  },
-  {
-   "source": "MIL 公式（nba.com）",
-   "team": "MIL",
-   "team_ja": "バックス",
-   "team_id": 1610612749,
-   "kind": "feature",
-   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-launch-bucks-streaming-service-for-2026-27-season",
-   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-launch-bucks-streaming-service-for-2026-27-season",
-   "canonical_url": "https://bucks.com/news/milwaukee-bucks-launch-bucks-streaming-service-for-2026-27-season",
-   "title": "Milwaukee Bucks Launch Bucks+ Streaming Service For 2026-27 Season",
-   "author": "Milwaukee Bucks",
-   "published_utc": "2026-10-01T20:01:03Z",
-   "tags": [],
-   "summary": "MILWAUKEE (Oct. 1, 2026) – The Milwaukee Bucks have launched Bucks+, a direct-to-consumer streaming service that expands access to Bucks games during the 2026-27 season for fans statewide.",
-   "facts": [
-    "MILWAUKEE (Oct. 1, 2026) – The Milwaukee Bucks have launched Bucks+, a direct-to-consumer streaming service that expands access to Bucks games during the 2026-27 season for fans statewide.",
-    "Fans across Wisconsin can subscribe for $19.99 per month or $99.99 for the full season via the NBA app or at www.bucks.com/bucksplus.",
-    "All locally televised Bucks games during the 2026-27 season will be available on Bucks+ in addition to the free, over-the-air broadcasts on MY24 in Milwaukee and statewide affiliates in Green Bay (WBAY 2.3), Madison (WIS…",
-    "Bucks+ and over-the-air broadcasts will be available for the first time on Monday, Oct. 5, when the Bucks host the Minnesota Timberwolves at 7 p.m. at Fiserv Forum to tip off their five-game preseason slate."
-   ],
-   "quotes": [
-    "Bucks+ is an exciting way to broaden access to Bucks games for our fans throughout Wisconsin this season,",
-    "We’re happy to add a streaming option to our over-the-air broadcasts to ensure every fan can follow Bucks basketball at home or on any streaming device as we build our next great era."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/internal-improvement-from-younger-pelicans-could-be-key-to-teams-progress",
-   "url": "https://www.nba.com/pelicans/news/internal-improvement-from-younger-pelicans-could-be-key-to-teams-progress",
-   "canonical_url": "https://pelicans.com/news/internal-improvement-from-younger-pelicans-could-be-key-to-teams-progress",
-   "title": "Internal improvement from younger Pelicans could be key to team's progress",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-01T19:47:27Z",
-   "tags": [],
-   "summary": "A New Orleans roster that features familiar faces Zion Williamson, Trey Murphy and Herb Jones – as well as established NBA veterans Saddiq Bey, Dejounte Murray, Jordan Poole and DeAndre Jordan – may initially appear to be an older group, but according to RotoWire.com, the club still is the league’s ninth-youngest team (average age 25.56). The Pelicans did not make a slew of headline-grabbing addit…",
-   "facts": [
-    "A New Orleans roster that features familiar faces Zion Williamson, Trey Murphy and Herb Jones – as well as established NBA veterans Saddiq Bey, Dejounte Murray, Jordan Poole and DeAndre Jordan – may initially appear to b…",
-    "The Pelicans did not make a slew of headline-grabbing additions during the offseason, but their core of youthful talent is among the reasons they believe a jump from 26 wins is doable.",
-    "The No. 7 overall pick in ’25, point guard Jeremiah Fears set franchise rookie scoring records late in his debut campaign, averaging 30.0 points, 5.2 rebounds and 5.2 assists over his six April games.",
-    "Derik Queen (13th pick) posted a pair of triple-doubles, including becoming the first rookie since 2021-22 to notch a 30-point triple-double.",
-    "Second-year center Yves Missi (drafted 21st in ’24) initially experienced a dip in his minutes after starting 67 games as a rookie, but in the second half of last season, he emerged as one of the NBA’s best shot-blockers…",
-    "Year 2 is often when talented NBA players make their biggest season-to-season leap, placing Fears (turns 20 years old this month) and Queen (21) among the most intriguing youngsters to watch from a loaded ’25 draft class…",
-    "Williamson is entering his eighth year in the Crescent City but is only 26, while Murphy is also 26.",
-    "Karlo Matkovic and summer additions Trendon Watford and Bennedict Mathurin are all either 25 or 24."
-   ],
-   "quotes": [
-    "Internal improvement – we’ve got to get better inside the building, first,",
-    "I don’t think all of your improvement is brought from outside. We have some good young players. We have players we believe in.",
-    "Those guys are going to continue to grow,",
-    "I’ve watched them this summer. You can tell they have a year under their belt (and are) just more confident, the way they’re carrying themselves on the floor now. That’s all you really want from young…"
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/pistons-confident-theyll-get-best-version-of-huerter-after-prioritizing-return",
-   "url": "https://www.nba.com/pistons/news/pistons-confident-theyll-get-best-version-of-huerter-after-prioritizing-return",
-   "canonical_url": "https://pistons.com/news/pistons-confident-theyll-get-best-version-of-huerter-after-prioritizing-return",
-   "title": "Pistons confident they’ll get best version of Huerter after prioritizing return",
-   "author": "Keith Langlois",
-   "published_utc": "2026-10-01T19:13:00Z",
-   "tags": [
-    "Detroit Pistons"
-   ],
-   "summary": "The three-year contract the Pistons and Kevin Huerter came to agreement on before the starting gates to free agency had fully swung open spoke loudly about both sides’ view of the other.",
-   "facts": [
-    "The three-year contract the Pistons and Kevin Huerter came to agreement on before the starting gates to free agency had fully swung open spoke loudly about both sides’ view of the other.",
-    "In moving so quickly to lock up Huerter, it said the Pistons believe the player they acquired last winter is more the one who flashed so brightly for Atlanta earlier in his career than the one who went in fits and starts…",
-    "In re-upping with the Pistons on a contract that will pay him less than half what he earned a season ago – and doing so for a three-year term – it showed Huerter was equally certain Detroit was the place to regain his fo…",
-    "Huerter’s contract – a reported three years, $27 million after he played out the last year of a four-year, $65 million deal – is more in line with a second-wave signing in free agency.",
-    "Huerter shot between 36 and 40 percent from the 3-point arc over his first six seasons with a .381 career average.",
-    "His last two seasons he’s shot .305 from the arc.",
-    "At 28, the three-year deal he starts this season should represent his prime years.",
-    "But Huerter can’t be quite pigeon-holed as just a 3-point shooter."
-   ],
-   "quotes": [
-    "First and foremost, we’re really good,",
-    "I want to be on a good team. That was important – a team that wanted me back. From the jump when I got here, for them and myself, hopefully it was going to be more than a three-month thing. I like the…",
-    "I do believe if (Huerter had) been on the roster, we could have won the second-(round) series (with Cleveland). He’s looking great this summer.",
-    "He’s comfortable. He understand who we are, his teammates understand who he is, he understands what we need,"
    ]
   }
  ]
