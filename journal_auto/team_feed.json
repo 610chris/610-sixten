@@ -1,10 +1,38 @@
 {
- "updated_utc": "2026-10-03 23:18 UTC",
- "teams_ok": 29,
- "teams_failed": [
-  "GSW"
- ],
+ "updated_utc": "2026-10-04 02:50 UTC",
+ "teams_ok": 30,
+ "teams_failed": [],
  "posts": [
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-debut-toronto-thompson-larsson-adebayo",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-debut-toronto-thompson-larsson-adebayo",
+   "canonical_url": "https://heat.com/news/coups-takeaways-antetokounmpo-debut-toronto-thompson-larsson-adebayo",
+   "title": "Coup’s Takeaways: Antetokounmpo Makes His Debut As HEAT Regulars Find Their New Offensive Groove",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-10-04T02:09:21Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. It’s finally time to get going, preseason style at least.",
+   "facts": [
+    "Early returns were just about everything you could have wanted.",
+    "Spoelstra left the starters in for a full six-minute shift before doing a line shift, that group up to a 20-12 lead.",
+    "The bench group that followed was Pelle Larsson, Nikola Jovic, Tim Hardaway Jr., Simone Fontecchio and Bobby Portis, that five immediately going on a 9-0 run as Hardaway Jr. (14 points, 3-of-3 from three) pulls up for a …",
+    "Larsson had the ball in his hands plenty with that group, leading to free-throws in bunches (7-of-7 from the stripe in just 11 minutes).",
+    "It all added up to 76 first half points, allowing just 55 to Toronto, on 11-of-23 shooting from three, 19 assists against 22 makes from the field and 21-of-24 shooting from the free-throw line.",
+    "Just 19 points in the third quarter as the scoring slowed, those young guards getting their first taste of the NBA game as both Conwell and Donaldson struggled to find early efficiency.",
+    "HEAT take it, 129-105. 2.",
+    "Our belief all offseason was that this system, assuming Spoelstra decided to stick with the bulk of it, would be a great fit for Antetokounmpo (nine points, seven assists on 3-of-3 shooting) simply because putting the le…"
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -141,6 +169,40 @@
    "quotes": []
   },
   {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "roster",
+   "key": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "url": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "canonical_url": "https://warriors.com/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "title": "New Faces and Philosophies for Warriors 2026 Training Camp",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-02T23:55:48Z",
+   "tags": [
+    "2026 Training Camp",
+    "Player Spotlight"
+   ],
+   "summary": "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii. Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contract extension this offseason, committing to the Bay for the foreseeable fu…",
+   "facts": [
+    "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii.",
+    "Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contr…",
+    "Head Coach Steve Kerr also signed a multi-year extension.",
+    "The Warriors added three players with standard contracts for this upcoming season, including No. 11 pick Yaxel Lendeborg, fifth-year guard Brandon Williams, and 10-year NBA veteran Georges Niang.",
+    "Fresh off a National Championship with the University of Michigan, Lendeborg led the Warriors to the Summer League championship and was named the 2026 Summer League MVP.",
+    "At 6-foot-9 and 241 pounds, Lendeborg’s size, skill set, and IQ stood out to Jimmy Butler III.",
+    "General Manager Mike Dunleavy shared at Media Day that the Warriors had a full offseason to prepare for the void left by Butler and Moses Moody being out recovering from injuries at the start of the season — foresight th…",
+    "He has played for five different franchises over nine seasons and even had a career-altering stint with the Warriors’ G League affiliate in Santa Cruz following the team’s 2017 championship run."
+   ],
+   "quotes": [
+    "He's massive. He's a big human being, and he shoots the ball so incredibly well,",
+    "He's smart. He wants to learn, and he's a winning player.",
+    "Not many people can say they turned 24 playing in the NBA in Hawaii,",
+    "I would say playing meaningful minutes,"
+   ]
+  },
+  {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
    "team_ja": "マーベリックス",
@@ -149,7 +211,7 @@
    "key": "https://www.nba.com/mavs/news/former-no-1-overall-draft-pick-zaccharie-risacher-happy-to-have-fresh-start-with-mavs",
    "url": "https://www.nba.com/mavs/news/former-no-1-overall-draft-pick-zaccharie-risacher-happy-to-have-fresh-start-with-mavs",
    "canonical_url": "https://mavs.com/mavs/news/former-no-1-overall-draft-pick-zaccharie-risacher-happy-to-have-fresh-start-with-mavs",
-   "title": "Former No. 1 overall draft pick Zaccharie Risacher happy to have fresh start with Mavs",
+   "title": "Former No. 1 overall draft pick Risacher happy to have fresh start with Mavs",
    "author": "Dwain Price",
    "published_utc": "2026-10-02T22:44:55Z",
    "tags": [
@@ -157,11 +219,11 @@
     "nba",
     "Zaccharie Risacher"
    ],
-   "summary": "Not too many people probably wouldn't blame Zaccharie Risacher if he played this upcoming NBA season with a chip on his shoulders.",
+   "summary": "Not many people would blame Zaccharie Risacher if he played this upcoming NBA season with a chip on his shoulders.",
    "facts": [
     "After all, the Atlanta Hawks gave Risacher the absolute thrill of his life when they made him the No.1 overall pick of the 2024 NBA Draft.",
-    "But after just two seasons in Atlanta, the Hawks pulled the plug and subsequently traded Risacher to the Dallas Mavericks this past July 19 in a three-team deal that involved the Mavs sending guard Ryan Nembhard to Atlan…",
-    "Prior to the trade deadline last February, Risacher heard his name floated around as possibly being traded to the Mavs.",
+    "But after just two seasons in Atlanta, the Hawks pulled the plug and subsequently traded Risacher to the Dallas Mavericks on July 19 in a three-team deal that involved the Mavs sending guard Ryan Nembhard to Atlanta.",
+    "Before the trade deadline last February, Risacher heard his name floated around as possibly being traded to the Mavs.",
     "I kept working, kept focusing on the things I could control about it, and (the trade) happened and I’m glad it did.",
     "But this league, from what I’ve learned, don’t give up on guys at 20 or 21 or whatever the case and say you’re not an NBA player.",
     "In his first season in Atlanta he played 75 games – started 73 – shot 45.8 percent from the field in only 24.6 minutes and made the NBA All-Rookie first team.",
@@ -542,6 +604,29 @@
     "From the 45th pick in the draft to the integral role he has carved out with our team, Jamal’s leadership, hard work, and tenacity earned this,",
     "We’re thrilled he’ll be a Raptor for seasons to come."
    ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
+   "url": "https://www.nba.com/warriors/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
+   "canonical_url": "https://warriors.com/news/golden-state-sports-academy-announces-2026-27-winter-camp-schedule-20261001",
+   "title": "Golden State Sports Academy Announces 2026-27 Winter Camp Schedule",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-01T20:24:16Z",
+   "tags": [],
+   "summary": "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up. Registration is now open for all winter camp sessions at gssportsacademy.com. For video from a recent camp session, CLICK HERE.",
+   "facts": [
+    "Golden State Sports Academy has announced its 2026-27 winter camp schedule, which includes camp sessions at locations in the Bay Area and Central Valley for athletes, ages seven and up.",
+    "The winter schedule will run from November 11 through February 27, highlighted by clinics at Chase Center in San Francisco and Sephora Performance Center in Oakland.",
+    "For complete details on Golden State Basketball Camp and to register online, visit gssportsacademy.com or call (510) 986-5310.",
+    "Earlier this year, Golden State Sports Academy opened three new Golden State Shoot 360 locations within City Sports Clubs in Stonestown (San Francisco), Almaden (San Jose), and Newhall (San Jose).",
+    "For complete details on Golden State Shoot 360 memberships and to become a member, visit gsshoot360.com or call (510) 986-5310."
+   ],
+   "quotes": []
   },
   {
    "source": "CHA 公式（nba.com）",
