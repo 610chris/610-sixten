@@ -1,8 +1,42 @@
 {
- "updated_utc": "2026-10-04 02:50 UTC",
+ "updated_utc": "2026-10-04 18:46 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/pacers-tip-off-new-season-entertaining-fans-2026-fanjam",
+   "url": "https://www.nba.com/pacers/news/pacers-tip-off-new-season-entertaining-fans-2026-fanjam",
+   "canonical_url": "https://pacers.com/news/pacers-tip-off-new-season-entertaining-fans-2026-fanjam",
+   "title": "Pacers Tip Off New Season Entertaining Fans at 2026 FanJam",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-04T16:35:18Z",
+   "tags": [
+    "2026 FanJam",
+    "2026 Training Camp"
+   ],
+   "summary": "Pacers All-Star guard Tyrese Haliburton's return to the court at Gainbridge Fieldhouse headlined Sunday's Pacers FanJam, the team's annual open scrimmage.",
+   "facts": [
+    "Pacers All-Star guard Tyrese Haliburton's return to the court at Gainbridge Fieldhouse headlined Sunday's Pacers FanJam, the team's annual open scrimmage.",
+    "The first 5,000 fans in attendance received a swag bag and all fans had opportunities to meet Boomer and the Pacemates and take part in family activities before the on-court program began.",
+    "The last player introduced was Haliburton, back playing in front of fans at Gainbridge Fieldhouse for the first time since the 2025 NBA Finals.",
+    "He found Ivica Zubac — acquired from the Clippers last season at the trade deadline — in the post for a bucket on the White team's first possession of the game.",
+    "Zubac scored the White team's first eight points, while free agent signing Kelly Oubre Jr. scored five of the first seven (and 12 of the first 21) points for the Blue team.",
+    "The Blue team jumped out to an early 13-point lead and maintained a similar margin for the remainder of the 12-minute scrimmage.",
+    "Haliburton finished with eight points on 3-of-6 shooting, two rebounds, and four assists.",
+    "Zubac had a team-high 12 points on 6-of-7 shooting and six boards for the White team."
+   ],
+   "quotes": [
+    " Haliburton said of the ovation. ",
+    "The ball finds energy and I had a lot of it,",
+    "...Braden [Smith], all the guys, they did a good job of playing unselfishly and we all flowed off each other. I just so happened to shoot the most.",
+    " center Rienk Mast took the crowd back in time with the Jackson 5's "
+   ]
+  },
   {
    "source": "MIA 公式（nba.com）",
    "team": "MIA",
@@ -156,11 +190,11 @@
    "team": "PHI",
    "team_ja": "76ers",
    "team_id": 1610612755,
-   "kind": "feature",
+   "kind": "quotes",
    "key": "https://www.nba.com/sixers/news/blue-x-white-scrimmage-live-stream",
    "url": "https://www.nba.com/sixers/news/blue-x-white-scrimmage-live-stream",
    "canonical_url": "https://sixers.com/news/blue-x-white-scrimmage-live-stream",
-   "title": "Blue x White Scrimmage Live Stream",
+   "title": "Blue x White Scrimmage Recap",
    "author": "76ers PR",
    "published_utc": "2026-10-03T14:03:35Z",
    "tags": [],
@@ -748,276 +782,6 @@
     "I want to be on a good team. That was important – a team that wanted me back. From the jump when I got here, for them and myself, hopefully it was going to be more than a three-month thing. I like the…",
     "I do believe if (Huerter had) been on the roster, we could have won the second-(round) series (with Cleveland). He’s looking great this summer.",
     "He’s comfortable. He understand who we are, his teammates understand who he is, he understands what we need,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-jaelen-house",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-jaelen-house",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-jaelen-house",
-   "title": "Utah Jazz Waive Jaelen House",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-01T18:09:06Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 1, 2026) – The Utah Jazz have waived guard Jaelen House.",
-   "facts": [
-    "SALT LAKE CITY (October 1, 2026) – The Utah Jazz have waived guard Jaelen House.",
-    "About Jaelen House House (6-0, 165, New Mexico) appeared in 53 games (three starts) over two seasons (2024-26) for the San Diego Clippers, averaging 13.8 points, 4.9 assists, and 2.4 rebounds in 20.2 minutes per game.",
-    "Appeared in 32 games (three starts) in his second season for San Diego during the 2025-26 season, averaging 17.3 points, 6.2 assists, and 2.8 rebounds in 24.8 minutes per contest.",
-    "Played for the Beijing Royal Fighters of the CBA in 2026, appearing in 18 games with averages of 15.7 points on 45.6 percent from three, along with 4.2 assists, and 3.2 rebounds.Earned 2023-24 Mountain West Defensive Pla…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261001-golf-fantasy-football-and-more-inside-the-celtics-off-court-bond",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261001-golf-fantasy-football-and-more-inside-the-celtics-off-court-bond",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20261001-golf-fantasy-football-and-more-inside-the-celtics-off-court-bond",
-   "title": "Golf, Fantasy Football and More: Inside the Celtics’ Off-Court Bond",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-01T17:47:18Z",
-   "tags": [
-    "Practice",
-    "Sidebar",
-    "Training Camp"
-   ],
-   "summary": "BOSTON – The Celtics have only been in training camp for a few days, but in many ways, this group has been coming together for months.",
-   "facts": [
-    "Tatum took the initiative this summer to organize workouts in Los Angeles, bringing together returning Celtics and newcomers at a time when attendance wasn’t required.",
-    "The 26-year-old only picked up the sport this past spring and has wisely decided to stay away from some of Boston’s more accomplished golfers for the time being.",
-    "The 38-year-old veteran was also instrumental in starting a Celtics fantasy football league, which features 11 members and has given the players another avenue to compete and talk trash away from basketball."
-   ],
-   "quotes": [
-    "I would just kind of say it had to do with the new guys on our team and with the rookies,",
-    "Just trying something new. It’s the first time we’ve ever done that since I’ve been here – getting in the gym in the summertime when we normally wouldn’t be around each other and play some golf and ju…",
-    "We got some guys that really can play and are competitive about it. So it’s just another thing to compete with against each other and spend some time with each other away from being in the gym all day…",
-    "P always wants to play, especially now that Mike beat his ass a couple of times,"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/releases-jr-reporters-261001",
-   "url": "https://www.nba.com/cavaliers/news/releases-jr-reporters-261001",
-   "canonical_url": "https://cavs.com/news/releases-jr-reporters-261001",
-   "title": "Cleveland Cavaliers Announce 2026-27 Jr. Reporters Class presented by Smucker’s Uncrustables",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-01T17:02:24Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "CLEVELAND – The Cleveland Cavaliers today announced the Cavs Jr. Reporters Class of 2026-27 presented by Smucker’s Uncrustables. This season’s class of 10- and 11-year-old reporters will gain hands-on experience covering the team they love, from gameday press conferences to community events and youth sports programs, giving fans an inside look at the team while they jumpstart their own journalism …",
-   "facts": [
-    "Reporters Class of 2026-27 presented by Smucker’s Uncrustables.",
-    "This season’s class of 10- and 11-year-old reporters will gain hands-on experience covering the team they love, from gameday press conferences to community events and youth sports programs, giving fans an inside look at …",
-    "Reporters: Left to right in the image: Desmond (11), Demetrius (10), Cayden (11), Grace (10) and Rowan (10).",
-    "Meet the 2026-27 Cavs Jr.",
-    "Reporters tipped off their season at the 2026 Cavs Media Day presented by Cleveland Clinic, sitting down with Donovan Mitchell, Jaylon Tyson, Peyton Watson and more to ask the kind of questions that bring out a player’s …",
-    "Reporters, the Cavaliers invited aspiring young journalists to submit a 60-second video making their case for the highly sought-after roles.",
-    "More than 150 creative submissions poured in, and the top finalists earned a trip to Rocket Arena for in-person auditions, where they showed off their passion, basketball knowledge and reporting talents in front of a pan…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-2026-27-season-preview-storylines-to-watch",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-2026-27-season-preview-storylines-to-watch",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-2026-27-season-preview-storylines-to-watch",
-   "title": "Utah Jazz 2026-27 Season Preview: Storylines to Watch",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-01T16:36:58Z",
-   "tags": [
-    "Ace Bailey",
-    "Brice Sensabaugh",
-    "Darryn Peterson",
-    "Isaiah Collier",
-    "Jaren Jackson Jr.",
-    "Jaxson Hayes",
-    "Josh Okogie",
-    "Jusuf Nurkić"
-   ],
-   "summary": "With the Utah Jazz holding Media Day on Monday and beginning training camp earlier this week, the 2026-27 season has almost arrived.",
-   "facts": [
-    "With the Utah Jazz holding Media Day on Monday and beginning training camp earlier this week, the 2026-27 season has almost arrived.",
-    "Utah will kick off its preseason slate of games on Sunday, Oct. 4 against the Denver Nuggets, with three more tune-up games to follow ahead of the squad’s Oct. 21 season opener against the Memphis Grizzlies.",
-    "From different lineup combinations to stylistic shifts on the floor, the ensuing weeks will go a long way towards preparing the Jazz for the grind of the 82-game regular season.",
-    "Part of that learning process will involve adversity, which may come in many forms during the course of an 82-game regular season.",
-    "On Media Day, Hardy emphasized that the decision-making process will come through a focus of maximizing all 48 minutes of a game.",
-    "Brice Sensabaugh is a sniper from deep and capable of getting buckets in any environment, while Josh Green and Josh Okogie present options as “3&D” wings.",
-    "Last but certainly not least, Svi Mykhailiuk was a quality shooter, defender, and secondary playmaker during the 2025-26 campaign, thus earning the trust of Hardy and the staff.",
-    "A season ago, Utah ranked 29th in defensive rating, which won’t be anywhere near good enough to climb up the standings in the upcoming campaign."
-   ],
-   "quotes": [
-    "Anything worth achieving will have adversity,",
-    "The easiest way to navigate those things is through trust and being able to tell each other the truth. 'Raise the floor' is something we’ve used with the team from a developmental standpoint in the ho…",
-    "Will is an extremely talented coach, a great communicator, and he’s very creative,",
-    "I’m excited for the variety of tools he has to use… in some ways it makes his job harder. He has a lot of figuring out to do, (but there’s) no one I trust more to do that."
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/hes-going-to-ascend-teammates-take-notice-of-vj-edgecombes-development-heading-into-year-2",
-   "url": "https://www.nba.com/sixers/news/hes-going-to-ascend-teammates-take-notice-of-vj-edgecombes-development-heading-into-year-2",
-   "canonical_url": "https://sixers.com/news/hes-going-to-ascend-teammates-take-notice-of-vj-edgecombes-development-heading-into-year-2",
-   "title": "‘He’s going to ascend:’ Teammates take notice of VJ Edgecombe’s development heading into Year 2",
-   "author": "Owen Boyle",
-   "published_utc": "2026-10-01T15:21:55Z",
-   "tags": [
-    "VJ Edgecombe"
-   ],
-   "summary": "Second-year guard VJ Edgecombe still watches his games from his rookie season, not to marvel at the impressive campaign he had, but to see where his game can improve.",
-   "facts": [
-    "Edgecombe finished his first season in the league averaging 16.0 points, 5.6 rebounds, 4.2 assists and 1.4 steals in 35.0 minutes per game.",
-    "He was third in Rookie of the Year voting and was named to the 2025-26 Kia NBA All-Rookie First Team.",
-    "He also participated in an alumni scrimmage at Baylor while attending shootarounds at the Penn Medicine Philadelphia 76ers Training Complex.",
-    "Last season, Edgecombe led all rookies with 107 steals and led the entire NBA with 79 loose balls recovered."
-   ],
-   "quotes": [
-    "I try to see where I can be better,",
-    "Obviously, it’s a new team and a new landscape, but I still think some things might be similar, especially for me in certain aspects of the game.",
-    "I said it at the end of last year: That’s the guy, he’s the future, but for now, he’s going to continue to get better and better and better.",
-    "I’ve been working on my game,"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/nexstar-media-group-and-dazn-announce-agreement-to-televise-and-live-stream-15-indiana-pacers-games-for-fans-across-central-indiana",
-   "url": "https://www.nba.com/pacers/news/nexstar-media-group-and-dazn-announce-agreement-to-televise-and-live-stream-15-indiana-pacers-games-for-fans-across-central-indiana",
-   "canonical_url": "https://pacers.com/news/nexstar-media-group-and-dazn-announce-agreement-to-televise-and-live-stream-15-indiana-pacers-games-for-fans-across-central-indiana",
-   "title": "Nexstar Media Group and DAZN Announce Agreement to Televise and Live Stream 15 Indiana Pacers Games for Fans Across Central Indiana",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-01T13:58:17Z",
-   "tags": [
-    "DAZN"
-   ],
-   "summary": "Games Will Stream for Free on DAZN and Be Broadcast Over-The-Air on Nexstar’s Local TV Stations in Indianapolis, Evansville, and Champaign, Illinois",
-   "facts": [
-    "Games Will Stream for Free on DAZN and Be Broadcast Over-The-Air on Nexstar’s Local TV Stations in Indianapolis, Evansville, and Champaign, Illinois First Over-the-air Broadcast Will Be October 23 When the Pacers Take on…",
-    "Nexstar-owned WTTV-TV (CBS) and WXIN-TV (FOX) in Indianapolis will serve as the television home for the 15 games, which will also be carried live by WTVW-TV (CW) in Evansville, and WCIX-TV (MyNet) in Champaign, Illinois.",
-    "Nexstar intends to engage additional stations in the Pacers’ extended territory throughout other parts of Indiana, Illinois, Ohio, and Kentucky, to create a broad network of exposure and reach for the 15 games."
-   ],
-   "quotes": [
-    "We are thrilled to partner with DAZN to give Indiana Pacers fans more ways to watch and support their team,",
-    "Serving local viewers is at the heart of everything we do, and this partnership combines the reach of local television with the convenience of streaming, making Pacers basketball accessible wherever a…",
-    "This partnership gives local fans of the Indiana Pacers greater choice and access, by making 15 of the team’s games free-to-view,",
-    "Together with Nexstar, we’re making it easier for more basketball fans to watch the Pacers live, while delivering a richer streaming experience on DAZN throughout the season."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "quotes",
-   "key": "https://www.nba.com/magic/news/3-desmond-bane-storylines-going-into-2026-27-season",
-   "url": "https://www.nba.com/magic/news/3-desmond-bane-storylines-going-into-2026-27-season",
-   "canonical_url": "https://orlandomagic.com/news/3-desmond-bane-storylines-going-into-2026-27-season",
-   "title": "3 Desmond Bane Storylines Going Into 2026-27 Season",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-01T13:41:37Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Can He Replicate His Peak Points of Last Season?",
-   "facts": [
-    "In January, which consisted of 13 games, he shot 51.1 percent from the field overall, 40.3 percent from 3-point range and 94.9 percent from the free throw line.",
-    "In February, consisting of 11 games, he shot 59.1 percent overall, 49.3 percent from beyond the arc and 84.3 percent from the stripe.",
-    "He totaled 272 points in February, making him just the sixth player all time to score 250-plus points while shooting 59-plus percent from the field overall and 49-plus percent from 3-point range (minimum 10 3-point attem…",
-    "Throughout the year, he scored 30-plus points 12 times and in the playoffs against Detroit had 25 points in Game 3 and 22 in Game 4.",
-    "Can He Get Up More 3-Point Attempts?",
-    "Last year, he averaged 5.2 3-point attempts, his fewest since his rookie season.",
-    "In 2025-26, his first season in Orlando, he averaged 3.2 transition shots per 100 possessions.",
-    "Back in 2022-23, he averaged over five, and the following two years he averaged over four."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/releases-galen-davies-261001",
-   "url": "https://www.nba.com/cavaliers/news/releases-galen-davies-261001",
-   "canonical_url": "https://cavs.com/news/releases-galen-davies-261001",
-   "title": "Rock Entertainment Group and the Cleveland Cavaliers Appoint Galen Davies Executive Vice President and Chief Commercial Officer",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-01T13:39:42Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "CLEVELAND – Rock Entertainment Group (REG) and the Cleveland Cavaliers today announced Galen Davies as Executive Vice President (EVP) and Chief Commercial Officer (CCO).",
-   "facts": [
-    "Before Portland, Davies spent 15 years at Maple Leafs Sports & Entertainment in Toronto, advancing from corporate partnerships into senior leadership roles spanning commercial strategy and brand.",
-    "REG also operates Rock Entertainment Sports Network (RESN), Rocket Arena, Cleveland Clinic Courts and the Cavaliers’ new practice facility, the Cleveland Clinic Global Peak Performance Center, which is set to open in Feb…"
-   ],
-   "quotes": [
-    "Galen is a dynamic leader who puts people and culture first, with a unique ability to drive results at scale while staying rooted in creativity,",
-    "Given Rock Entertainment Group's growth and trajectory, Galen's experience and innovative mindset will continue to drive forward the momentum our team has created and deepen the lasting, positive impa…",
-    "Rock Entertainment Group's relentless drive to redefine what's possible, paired with the shared sense of purpose, trust and authentic belief in one another that fuels their culture, is second to none …",
-    "I'm energized to join this exceptional group, build on the momentum they've created and help shape what comes next for REG, our partners, fans and the communities we serve."
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/norman-powell-ready-to-embrace-role-as-veteran-leader-on-2026-27-bulls",
-   "url": "https://www.nba.com/bulls/news/norman-powell-ready-to-embrace-role-as-veteran-leader-on-2026-27-bulls",
-   "canonical_url": "https://bulls.com/news/norman-powell-ready-to-embrace-role-as-veteran-leader-on-2026-27-bulls",
-   "title": "Norman Powell ready to embrace role as veteran leader on 2026-27 Bulls",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-01T12:54:29Z",
-   "tags": [
-    "Sam Smith"
-   ],
-   "summary": "One of the more interesting quandaries the Bulls will face this season is the Powell Paradox.",
-   "facts": [
-    "Veteran guard Norman Powell is the best and most accomplished player on the roster, the only All-Star, a unique two-way player who ranks among the league’s elite scorers and shooters, perhaps the team’s only player who c…",
-    "So while Powell needs to anchor what figures to be a shaky half court Bulls offense, he likely will be in demand around the NBA, especially if there are injuries.",
-    "And because of his experience and expertise, he should be the most valuable trade candidate for a Bulls team in need of draft assets.",
-    "Though the 33-year-old Californian of Jamaican ancestry is having none of it.",
-    "So not worried about or thought about what the future looks like, teams and trades and things like that.",
-    "Without the versatile and cerebral Powell, the Bulls might be challenged to score 100 points.",
-    "And Powell will be well compensated for that, a two-year deal with team option for 2027-28 which no other team could match.",
-    "Powell honestly admitted when introduced by the Bulls this summer he missed returning to Miami."
-   ],
-   "quotes": [
-    "I'm excited for the challenge that's in front of us,",
-    "I see myself being where I'm at. I'm in the present,",
-    "doth protest too much, me thinks?",
-    "I've been in every single role,"
    ]
   }
  ]
