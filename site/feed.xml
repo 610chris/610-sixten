@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 04 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>VRTX、千葉ジェッツとオフィシャルパートナー契約 —— B.LEAGUE開幕へトレーニングをサポート</title>
+      <link>https://sixten.jp/journal/355-vrtx-chiba-jets-partner.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/355-vrtx-chiba-jets-partner.html</guid>
+      <pubDate>Mon, 05 Oct 2026 09:00:00 +0900</pubDate>
+      <category>JAPAN</category>
+      <description>次世代トレーニングバンド「VRTX」を日本で展開する株式会社Japan Insiderは、B.LEAGUE所属・千葉ジェッツの2026-27シーズンのオフィシャルパートナーに就任したと発表した。トップレベルの競技現場にVRTXを提供するとともに、トレーナーインタビューやトレーニングHOW TO動画も公開する。</description>
+      <enclosure url="https://sixten.jp/assets/journal-355-hero.jpg?v=ed595772aa" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>レブロン「目指す方向への大きな一歩」—— 76ers紅白戦に1万人、エンビードも「かなりいい」と手応え</title>
       <link>https://sixten.jp/journal/354-lebron-great-first-step-76ers-scrimmage.html</link>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>マイケル・ジョーダンが1998年NBAファイナル第3戦で着用したブルズのユニフォームが現地時間9月30日、オークションで1226万ドル(約18億円)で落札され、NBAジャージ史上最高額を更新した。これまでの記録も同じ1998年ファイナルシリーズのジョーダンのジャージだった。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>BS10、10月は毎週土曜にB.PREMIER5試合を全国無料生中継 —— 「バスケ魂」含め今シーズン累計約20試合を放送予定</title>
-      <link>https://sixten.jp/journal/325-bs10-bpremier-free-broadcast.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/325-bs10-bpremier-free-broadcast.html</guid>
-      <pubDate>Wed, 30 Sep 2026 09:00:00 +0900</pubDate>
-      <category>JAPAN</category>
-      <description>株式会社ジャパネットブロードキャスティングが運営する無料BS放送局「BS10」は、B.LEAGUEの新トップカテゴリー「B.PREMIER」の試合を10月の毎週土曜日に全国無料生中継すると発表した。対象は滋賀vs琉球、長崎vs群馬など5試合。レギュラー番組「バスケ魂」と合わせ、今シーズン累計約20試合を放送予定。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

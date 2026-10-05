@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "355-vrtx-chiba-jets-partner.html",
+    cat: "JAPAN",
+    title: "VRTX、千葉ジェッツとオフィシャルパートナー契約 —— B.LEAGUE開幕へトレーニングをサポート",
+    excerpt: "次世代トレーニングバンド「VRTX」を日本で展開する株式会社Japan Insiderは、B.LEAGUE所属・千葉ジェッツの2026-27シーズンのオフィシャルパートナーに就任したと発表した。トップレベルの競技現場にVRTXを提供するとともに、トレーナーインタビューやトレーニングHOW TO動画も公開する。",
+    date: "2026.10.05",
+    thumb: "../assets/journal-355-hero.jpg?v=ed595772aa"
+  },
+  {
     href: "354-lebron-great-first-step-76ers-scrimmage.html",
     cat: "NBA",
     title: "レブロン「目指す方向への大きな一歩」—— 76ers紅白戦に1万人、エンビードも「かなりいい」と手応え",
