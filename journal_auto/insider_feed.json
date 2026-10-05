@@ -1,83 +1,67 @@
 {
- "updated_utc": "2026-10-03 22:50 UTC",
+ "updated_utc": "2026-10-05 20:38 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
    "reporter": "Marc Stein（The Stein Line）",
    "handle": "TheSteinLine",
-   "key": "https://www.reddit.com/r/nba/comments/1wwz1sh/stein_update_giannis_antetokounmpo_will_play_for/",
+   "key": "https://www.reddit.com/r/nba/comments/1wyjd2r/stein_news_espn_is_in_advanced_talks_to_hire/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-10-03T21:52:58+00:00",
-   "text": "Source: https://marcstein.substack.com/p/more-of-the-latest-late-night-nba\n\nUPDATE: Giannis Antetokounmpo will play for Miami for the first time tonight while Toronto has elected to rest the reacquired Kawhi Leonard in Quebec City.\n\nHeat-at-Raptors is the NBA’s first preseason game of the new season.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wwz1sh/stein_update_giannis_antetokounmpo_will_play_for/",
-   "links": [
-    "https://marcstein.substack.com/p/more-of-the-latest-late-night-nba"
-   ]
+   "posted_utc": "2026-10-05T20:28:45+00:00",
+   "text": "NEWS: ESPN is in advanced talks to hire former Mavericks coach Jason Kidd to add him to their NBA studio coverage, @thesteinline.bsky.social has learned. Kidd was fired by the Mavericks in May after five seasons and two weeks after Masai Ujiri’s hiring as president of basketball operations.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wyjd2r/stein_news_espn_is_in_advanced_talks_to_hire/",
+   "links": []
   },
   {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1wwbc4z/scotto_the_detroit_pistons_signed_jalen_duren_to/",
+   "reporter": "Dave McMenamin（ESPN）",
+   "handle": "mcten",
+   "key": "https://www.reddit.com/r/nba/comments/1wyj26x/mcmenamin_lebron_james_joel_embiid_tyrese_maxey/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-10-03T01:57:57+00:00",
-   "text": "This changes the context of Duren’s contract and the Pistons’ cap sheet quite a bit. \n\nDetroit pays more now while Ausar is still on his rookie deal. Duren’s salary then drops when Ausar’s extension kicks in, then rises modestly afterwards. \n\nIt’s the same $200M commitment regardless, but Duren gave the team some flexibility for when the core gets more expensive. \n\nSource: https://www.hoopshype.com/story/sports/nba/rumors/2026/10/02/jalen-durens-five-year-deal-with-pistons-dips-in-year-2-before-rising/92066524007/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wwbc4z/scotto_the_detroit_pistons_signed_jalen_duren_to/",
+   "posted_utc": "2026-10-05T20:16:46+00:00",
+   "text": "The Philadelphia 76ers are set to start their preseason against the New York Knicks without many of their main players.\n\nAccording to ESPN's Dave McMenamin, LeBron James, Joel Embiid, Tyrese Maxey, Anfernee Simons, Dominick Barlow, Adem Bona and Tacko Fall will all miss the preseason opener.\n\nThe 76ers are set to start their preseason against the reigning NBA champions led by Jaylen Brown and VJ Edgecombe.\n\nPhiladelphia will play against the Brooklyn Nets and Boston Celtics twice later before the season, where fans might have the chance to see some of these players that are out tonight.\n\nSource: https://basketnews.com/news-256780-lebron-james-and-other-sixers-stars-to-miss-preseason-opener-against-knicks.html",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wyj26x/mcmenamin_lebron_james_joel_embiid_tyrese_maxey/",
    "links": [
-    "https://www.hoopshype.com/story/sports/nba/rumors/2026/10/02/jalen-durens-five-year-deal-with-pistons-dips-in-year-2-before-rising/92066524007/"
+    "https://basketnews.com/news-256780-lebron-james-and-other-sixers-stars-to-miss-preseason-opener-against-knicks.html"
    ]
   },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1wwaptp/charania_the_memphis_grizzlies_and_guard_jordan/",
+   "key": "https://www.reddit.com/r/nba/comments/1wyhaun/charania_karlanthony_towns_is_willing_to_take_a/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-10-03T01:24:29+00:00",
-   "text": "The Memphis Grizzlies and guard Jordan Hawkins have mutually agreed to part ways, allowing the 2023 lottery pick to find a new home in free agency once he clears waivers, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/4041963d39917",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wwaptp/charania_the_memphis_grizzlies_and_guard_jordan/",
+   "posted_utc": "2026-10-05T19:09:07+00:00",
+   "text": "Karl-Anthony Towns is willing to take a lower deal to help the Knicks avoid the second apron, but the Knicks want him to take a $76M+ discount: “This is a growing cloud around the New York Knicks … These sides are not close.”",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wyhaun/charania_karlanthony_towns_is_willing_to_take_a/",
+   "links": []
+  },
+  {
+   "reporter": "Marc Stein（The Stein Line）",
+   "handle": "TheSteinLine",
+   "key": "https://www.reddit.com/r/nba/comments/1wyaotp/stein_the_strongest_candidates_to_receive_a/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-05T14:57:04+00:00",
+   "text": "The deadline for members of the 2023 NBA Draft class to sign rookie-scale extensions is approaching, with only four players having agreed to new deals so far as they enter the final seasons of their original rookie contracts.\n\nSo far, No. 1 overall pick Victor Wembanyama, No. 16 pick Keyonte George, and twins Amen Thompson and Ausar Thompson, selected No. 4 and No. 5 respectively, have signed extensions with their teams.\n\nSeveral other notable players from the class remain without new deals ahead of the October 19 deadline.\n\nAccording to NBA insider Marc Stein, multiple names are currently viewed as the strongest candidates to receive extensions in the coming days.\n\n\"The strongest candidates to join that list in coming days, league sources say, are No. 2 overall pick Brandon Miller (Charlotte), No. 6 Anthony Black (Orlando), No. 10 Cason Wallace (Oklahoma City) and No. 19 Brandin Podziemski (Golden State),\" Stein wrote on his Substack.\n\nStein noted that while there appears to be mutual interest between No. 3 pick Scoot Henderson and the Portland Trail Blazers, there have not yet been stronger indications that an agreement is close.\n\nA similar level of uncertainty surrounds Bilal Coulibaly and the Washington Wizards.\n\n\"Trail Blazers general manager Joe Cronin said earlier this week that there is 'seemingly mutual interest' between Portland and 2023's No. 3 overall pick Scoot Henderson on an extension, but it's been difficult to get a clearer read than that when it comes to the Blazers and Henderson as well as Washington and former No. 7 pick Bilal Coulibaly,\" Stein reported.\n\nStein also provided an update on Golden State Warriors guard Brandin Podziemski, reporting that both sides are interested in reaching an agreement before the deadline.\n\n\"Regarding Podziemski specifically: Word relayed to The Stein Line this week is that both sides want to get a deal done,\" Stein wrote. \"But that is obviously dependent on beating the ticking clock.\"\n\nhttps://basketnews.com/news-256748-four-players-most-likely-to-land-rookie-scale-extensions-before-deadline-revealed.html",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wyaotp/stein_the_strongest_candidates_to_receive_a/",
    "links": [
-    "https://www.espn.com/contributor/shams-charania/4041963d39917"
+    "https://basketnews.com/news-256748-four-players-most-likely-to-land-rookie-scale-extensions-before-deadline-revealed.html"
    ]
   },
   {
-   "reporter": "Anthony Slater（ESPN）",
-   "handle": "anthonyVslater",
-   "key": "https://www.reddit.com/r/nba/comments/1ww2bmy/slater_the_warriors_could_have_signed_draymond/",
+   "reporter": "Dave McMenamin（ESPN）",
+   "handle": "mcten",
+   "key": "https://www.reddit.com/r/nba/comments/1wy82vn/mcmenamin_and_there_is_special_attention_paid_to/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-10-02T19:08:09+00:00",
-   "text": "The Golden State Warriors had a busy offseason this summer, with multiple major decisions looming as they try to build a championship-caliber roster for the final years of the Stephen Curry era.\n\nOne of the key pieces of that roster remains longtime veteran star Draymond Green.\n\nGolden State ultimately re-signed Green to a one-year deal, avoiding a longer-term commitment to the four-time NBA champion.\n\nAccording to Warriors insider Anthony Slater of ESPN, Green was interested in potentially re-signing with the Warriors on a longer deal worth significantly less per year than his current contract, but Golden State rejected the idea of a long-term agreement with the 36-year-old forward.\n\n\"And Draymond, you know, the Warriors could have signed him to three-year $60 million deal this summer, something like that. Like, Draymond would have been very interested in a multi year deal at a little bit lower number, but they're like, nah, it's good,\" Slater reported on The Hoop Collective podcast.\n\n\"We'll just give you back one-year $27 million. We want our future flexibility. And I think that says a little something about the unknown of Draymond Green's future.\"\n\nSlater also added that Green had already envisioned himself as part of a blockbuster trade last season.\n\nGreen reportedly understood that he could have been the player moved in a potential deal for Giannis Antetokounmpo with the Milwaukee Bucks before Antetokounmpo ultimately joined the Miami Heat.\n\n\"Draymond Green thought about himself in a Milwaukee Bucks uniform during the last trade deadline to the point that he told the Warriors, you know, try to find a third team if that's the case,\" Slater added.\n\nSource: https://basketnews.com/news-256616-warriors-rejected-massive-draymond-green-contract-idea-insider-reveals.html",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1ww2bmy/slater_the_warriors_could_have_signed_draymond/",
+   "posted_utc": "2026-10-05T13:06:13+00:00",
+   "text": "James' daily routine begins at the Sixers' training complex around 7:45 a.m., when he is met by his longtime athletic trainer, Mike Mancias, to work on his body.\n\nThere is stretching, activation and modalities to check off as he embarks on an unprecedented 24th NBA season, breaking his NBA record for player longevity with every game he plays.\n\nAnd there is special attention paid to his left foot, which has chronic arthritis, sources told ESPN, and his lower back, which caused him to miss the first month of last season because of sciatica.\n\nPractice was scheduled for 11 a.m. during the first week of training camp.\n\nEdgecombe recalls the first time he saw James in the locker room before practice.\n\n\"He was in there before everybody,\" Edgecombe said. \"As usual.\"\n\nThis, of course, despite living nearly 100 miles away in New York City.\n\nJames takes a 40-minute helicopter ride to work, with the chopper landing on the helicopter pad on top of the Sixers' business offices next to the practice facility.\n\nThe commute has invited outside curiosity but does not appear to faze anyone in the organization who are used to Sixers managing partner and primary owner Josh Harris coming and going the same way.\n\nAfter Friday's practice, James' helicopter was heard inside the facility as Sixers third-year forward Justin Edwards wrapped up his media availability with reporters.\n\nEdwards finished his final answer, turned his head toward the ceiling and joked, \"Is he coming back?\"\n\nSource: https://www.espn.com/nba/story/\\_/id/50104877/lebron-james-philadelphia-76ers-training-camp",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1wy82vn/mcmenamin_and_there_is_special_attention_paid_to/",
    "links": [
-    "https://basketnews.com/news-256616-warriors-rejected-massive-draymond-green-contract-idea-insider-reveals.html"
-   ]
-  },
-  {
-   "reporter": "Sam Amick（The Athletic）",
-   "handle": "sam_amick",
-   "key": "https://www.reddit.com/r/nba/comments/1wvyyns/amick_per_source_the_nba_will_not_discipline/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-02T16:56:16+00:00",
-   "text": "Per source, the NBA will not discipline Wizards guard Bub Carrington (or the team) for his candid comments about tanking.  source: https://www.nytimes.com/athletic/7652753/2026/10/02/bub-carrington-wizards-tanking-aj-dybantsa/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wvyyns/amick_per_source_the_nba_will_not_discipline/",
-   "links": [
-    "https://www.nytimes.com/athletic/7652753/2026/10/02/bub-carrington-wizards-tanking-aj-dybantsa/"
-   ]
-  },
-  {
-   "reporter": "Sam Amick（The Athletic）",
-   "handle": "sam_amick",
-   "key": "https://www.reddit.com/r/nba/comments/1wvy0mv/amick_per_source_the_nba_will_not_discipline/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-02T16:17:39+00:00",
-   "text": "Source: https://www.nytimes.com/athletic/7652753/2026/10/02/bub-carrington-wizards-tanking-aj-dybantsa/\n\nPer source, the NBA will not discipline Wizards guard Bub Carrington (or the team) for his candid comments about tanking.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1wvy0mv/amick_per_source_the_nba_will_not_discipline/",
-   "links": [
-    "https://www.nytimes.com/athletic/7652753/2026/10/02/bub-carrington-wizards-tanking-aj-dybantsa/"
+    "https://www.espn.com/nba/story/%5C_/id/50104877/lebron-james-philadelphia-76ers-training-camp",
+    "https://www.espn.com/nba/story/\\_/id/50104877/lebron-james-philadelphia-76ers-training-camp"
    ]
   }
  ]
