@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "362-hachimura-clippers-camp-notebook.html",
+    cat: "NBA",
+    title: "八村塁がFG8/11・3P4本と好調 —— ルーキー・ワグラーの終盤ショットでクリッパーズが開幕戦を接戦制す",
+    excerpt: "ロサンゼルス・クリッパーズは現地10月4日、ハワイで行われたプレシーズン開幕戦でウォリアーズに104-101で競り勝った。八村塁はFG11本中8本・3P5本中4本と好調で、イングラム離脱の中オフェンスの中心を担い、ルーキーのキートン・ワグラーが終盤の決勝ショットを沈めた。クリッパーズ公式サイトが伝えた。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "361-clippers-strus-foot-injury-four-weeks.html",
     cat: "NBA",
     title: "クリッパーズのストゥルース、右足底腱膜を部分断裂 —— プレシーズン開幕戦で負傷、4週間後に再評価",
