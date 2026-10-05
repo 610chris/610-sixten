@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "356-tissot-supersport-nba.html",
+    cat: "CULTURE",
+    title: "ティソが新作NBAウォッチ「スーパースポーツ NBA」を発表 —— 文字盤に24秒ルール、河村勇輝がジャパンアンバサダーに",
+    excerpt: "スイスの時計ブランド、ティソ（TISSOT）は10月5日、NBAとのパートナーシップから着想を得た新作モデル「ティソ スーパースポーツ NBA」を発表した。文字盤やケースバックにバスケットボールのディテールを落とし込み、価格は77,000円（税込）。ジャパンアンバサダーにはNBA挑戦中の河村勇輝選手が名を連ねる。",
+    date: "2026.10.05",
+    thumb: "../assets/journal-356-hero.jpg?v=170198c56d"
+  },
+  {
     href: "355-vrtx-chiba-jets-partner.html",
     cat: "JAPAN",
     title: "VRTX、千葉ジェッツとオフィシャルパートナー契約 —— B.LEAGUE開幕へトレーニングをサポート",
