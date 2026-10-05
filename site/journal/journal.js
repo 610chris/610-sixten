@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "358-nurse-lebron-recruiting-call-sixers-camp.html",
+    cat: "NBA",
+    title: "ナース「完璧に当てはまると思った」—— レブロン加入前、ゴルフ場で受けた電話が描いた構想",
+    excerpt: "フィラデルフィア・76ersのニック・ナース監督は、レブロン・ジェームズの加入が決まる2週間前の7月中旬、ゴルフ中に代理人リッチ・ポールを介して本人からの電話を受け、オフェンスとディフェンスの基本方針や「フィット」を話し合っていたと明かした。キャンプ初日には4人のスターが自主的にワークアウトで合流し、VJ・エッジコムが仕掛けたグループチャットにジェームズも加わった。ESPNが伝えた。",
+    date: "2026.10.05",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "357-nike-dunk-low-jade-stone-old-royal.html",
     cat: "KICKS",
     title: "Nike Dunk Low「Jade Stone/Old Royal」が2026年秋冬発売へ —— 品番IM4414-301、3色を切り分けたマルチカラー",
