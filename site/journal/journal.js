@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "357-nike-dunk-low-jade-stone-old-royal.html",
+    cat: "KICKS",
+    title: "Nike Dunk Low「Jade Stone/Old Royal」が2026年秋冬発売へ —— 品番IM4414-301、3色を切り分けたマルチカラー",
+    excerpt: "ナイキは「Dunk Low」の新色「Jade Stone/Old Royal」（品番IM4414-301、価格120ドル）を2026年秋冬に発売する。トゥやアイステイに差し込んだ鮮やかなオールドロイヤルのスエードが特徴で、ジェイドストーンとライトカーキを組み合わせたマルチカラー仕様。Hypebeastが公式画像を、Sneaker Bar Detroitが詳細を伝えた。",
+    date: "2026.10.05",
+    thumb: "../assets/journal-357-hero.jpg?v=d2cd0d1d8c"
+  },
+  {
     href: "356-tissot-supersport-nba.html",
     cat: "CULTURE",
     title: "ティソが新作NBAウォッチ「スーパースポーツ NBA」を発表 —— 文字盤に24秒ルール、河村勇輝がジャパンアンバサダーに",
