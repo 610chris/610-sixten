@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "359-kaws-air-jordan-4-dark-grey.html",
+    cat: "KICKS",
+    title: "KAWS×Air Jordan 4「Dark Grey」が2027年夏発売へ —— 10年越しの再タッグ、3代目のコラボカラーに",
+    excerpt: "アーティストのKAWSとジョーダン ブランドは、「Air Jordan 4」の新色「Dark Grey」（品番JU4624-002）を2027年夏に発売する見通し。2017年の初コラボからおよそ10年ぶりの再タッグで、実現すればKAWS×Air Jordan 4としては3代目のコラボカラーとなる。Sneaker NewsとSneaker Bar Detroitが伝えた。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-359-hero.jpg?v=8dc43aa975"
+  },
+  {
     href: "358-nurse-lebron-recruiting-call-sixers-camp.html",
     cat: "NBA",
     title: "ナース「完璧に当てはまると思った」—— レブロン加入前、ゴルフ場で受けた電話が描いた構想",
