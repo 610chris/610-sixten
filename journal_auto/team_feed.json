@@ -1,9 +1,7 @@
 {
- "updated_utc": "2026-10-05 07:39 UTC",
- "teams_ok": 29,
- "teams_failed": [
-  "GSW"
- ],
+ "updated_utc": "2026-10-05 16:22 UTC",
+ "teams_ok": 30,
+ "teams_failed": [],
  "posts": [
   {
    "source": "UTA 公式（nba.com）",
@@ -76,6 +74,32 @@
    ]
   },
   {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261004",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261004",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261004",
+   "title": "Warriors Fall Just Short in Preseason Loss to Clippers in Hawaii",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-05T01:41:59Z",
+   "tags": [],
+   "summary": "The Warriors’ second-half comeback efforts fell just short in their 104-101 preseason loss to the Los Angeles Clippers at Stan Sheriff Center in Hawaii on Sunday. The Warriors’ reserves outscored the Clippers’ bench by 17 points (75-58) and overcame a once 13-point deficit to take a one-point lead with 27.5 seconds remaining. However, Clippers rookie Keaton Wager knocked down a step-back midrange …",
+   "facts": [
+    "The Warriors’ second-half comeback efforts fell just short in their 104-101 preseason loss to the Los Angeles Clippers at Stan Sheriff Center in Hawaii on Sunday.",
+    "The Warriors’ reserves outscored the Clippers’ bench by 17 points (75-58) and overcame a once 13-point deficit to take a one-point lead with 27.5 seconds remaining.",
+    "Charles Bassey was the highest of four Warriors to score in double figures with 12 points — Brandon Williams and Graham Ike added 11 points each, and Stephen Curry had 10 points in 12 minutes.",
+    "Rui Hachimura led the Clippers with 21 points on 8-for-11 shooting, and Darius Garland added 15 points, shooting a perfect 4-for-4 from the floor.",
+    "Both rookie lottery picks — Yaxel Lendeborg (11th pick, Warriors) and Keaton Wagler (5th pick, Clippers) — had impactful floor games but struggled with shooting efficiency.",
+    "LENDEBORG’S PRESEASON DEBUT HIGHLIGHTS Yaxel Lendeborg earned the starting nod in his preseason debut and scored the first basket of the game, knocking down a corner 3-pointer off a feed from Stephen Curry.",
+    "After knocking down his first shot, Lendeborg missed his final five field goal attempts but finished a plus-three in 18 minutes of action.",
+    "CURRY BEGINS 18TH SEASON WITH 10 POINTS IN 12 MINUTES Stephen Curry began his 18th NBA season in Hawaii, scoring 10 points in 12 minutes."
+   ],
+   "quotes": []
+  },
+  {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
    "team_ja": "ブルズ",
@@ -117,7 +141,10 @@
    "title": "Mavericks set to spread good will with preseason journey to China",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-04T20:36:52Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
    "summary": "It was inevitable that the Mavericks would make a preseason trip to China the moment that the team was sold to the Dumont-Adelson family early in 2024.",
    "facts": [
     "It was inevitable that the Mavericks would make a preseason trip to China the moment that the team was sold to the Dumont-Adelson family early in 2024.",
@@ -212,7 +239,11 @@
    "title": "In golf as in basketball, Christie hoping to master all aspects of the game",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-03T23:14:44Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "Max Chrisite",
+    "nba"
+   ],
    "summary": "The Mavericks are deep into training camp and their trip to China for preseason games Friday and Oct. 11 against the Houston Rockets will commence on Sunday.",
    "facts": [
     "The Mavericks are deep into training camp and their trip to China for preseason games Friday and Oct. 11 against the Houston Rockets will commence on Sunday.",
@@ -337,6 +368,40 @@
    "quotes": []
   },
   {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "roster",
+   "key": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "url": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "canonical_url": "https://warriors.com/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "title": "New Faces and Philosophies for Warriors 2026 Training Camp",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-02T23:55:48Z",
+   "tags": [
+    "2026 Training Camp",
+    "Player Spotlight"
+   ],
+   "summary": "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii. Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contract extension this offseason, committing to the Bay for the foreseeable fu…",
+   "facts": [
+    "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii.",
+    "Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contr…",
+    "Head Coach Steve Kerr also signed a multi-year extension.",
+    "The Warriors added three players with standard contracts for this upcoming season, including No. 11 pick Yaxel Lendeborg, fifth-year guard Brandon Williams, and 10-year NBA veteran Georges Niang.",
+    "Fresh off a National Championship with the University of Michigan, Lendeborg led the Warriors to the Summer League championship and was named the 2026 Summer League MVP.",
+    "At 6-foot-9 and 241 pounds, Lendeborg’s size, skill set, and IQ stood out to Jimmy Butler III.",
+    "General Manager Mike Dunleavy shared at Media Day that the Warriors had a full offseason to prepare for the void left by Butler and Moses Moody being out recovering from injuries at the start of the season — foresight th…",
+    "He has played for five different franchises over nine seasons and even had a career-altering stint with the Warriors’ G League affiliate in Santa Cruz following the team’s 2017 championship run."
+   ],
+   "quotes": [
+    "He's massive. He's a big human being, and he shoots the ball so incredibly well,",
+    "He's smart. He wants to learn, and he's a winning player.",
+    "Not many people can say they turned 24 playing in the NBA in Hawaii,",
+    "I would say playing meaningful minutes,"
+   ]
+  },
+  {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
    "team_ja": "マーベリックス",
@@ -353,21 +418,21 @@
     "nba",
     "Zaccharie Risacher"
    ],
-   "summary": "Not many people would blame Zaccharie Risacher if he played this upcoming NBA season with a chip on his shoulders.",
+   "summary": "Not many people would blame Zaccharie Risacher if he played this upcoming NBA season with a chip on his shoulder.",
    "facts": [
     "After all, the Atlanta Hawks gave Risacher the absolute thrill of his life when they made him the No.1 overall pick of the 2024 NBA Draft.",
     "But after just two seasons in Atlanta, the Hawks pulled the plug and subsequently traded Risacher to the Dallas Mavericks on July 19 in a three-team deal that involved the Mavs sending guard Ryan Nembhard to Atlanta.",
     "Before the trade deadline last February, Risacher heard his name floated around as possibly being traded to the Mavs.",
     "I kept working, kept focusing on the things I could control about it, and (the trade) happened and I’m glad it did.",
     "But this league, from what I’ve learned, don’t give up on guys at 20 or 21 or whatever the case and say you’re not an NBA player.",
-    "In his first season in Atlanta he played 75 games – started 73 – shot 45.8 percent from the field in only 24.6 minutes and made the NBA All-Rookie first team.",
+    "In his first season in Atlanta he played 75 games — started 73 — shot 45.8 percent from the field in only 24.6 minutes and made the NBA All-Rookie first team.",
     "And last season he averaged 9.6 points in just 22.4 minutes and converted 45.5 percent of his shots while starting 46 of the 67 games he played in.",
     "On March 30, 2025, Risacher scored 36 points during a 145-124 win over the Milwaukee Bucks while joining LeBron James, Allen Iverson and Anthony Edwards as the only rookies to score at least 35 points while draining at l…"
    ],
    "quotes": [
     "I was told not to worry about it and just focus on the things you can control,",
     "Once the season was over I was in the same habits. I kept working, kept focusing on the things I could control about it, and (the trade) happened and I’m glad it did. But if it wasn’t the case, I woul…",
-    "We just want him to play good ball and embrace who he is as a player – his strengths,",
+    "We just want him to play good ball and embrace who he is as a player — his strengths,",
     "It’s a blessing for me to be here,"
    ]
   },
