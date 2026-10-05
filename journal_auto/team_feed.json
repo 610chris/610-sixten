@@ -1,10 +1,38 @@
 {
- "updated_utc": "2026-10-04 22:30 UTC",
- "teams_ok": 29,
- "teams_failed": [
-  "GSW"
- ],
+ "updated_utc": "2026-10-05 01:13 UTC",
+ "teams_ok": 30,
+ "teams_failed": [],
  "posts": [
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/sam-smith-patrick-williams-deserves-some-grace-going-into-year-7",
+   "url": "https://www.nba.com/bulls/news/sam-smith-patrick-williams-deserves-some-grace-going-into-year-7",
+   "canonical_url": "https://bulls.com/news/sam-smith-patrick-williams-deserves-some-grace-going-into-year-7",
+   "title": "Sam Smith: Patrick Williams deserves some grace going into Year 7",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-04T22:33:30Z",
+   "tags": [
+    "Sam Smith"
+   ],
+   "summary": "Have we failed Patrick Williams more than he’s failed us?",
+   "facts": [
+    "That’s hardly the conventional wisdom regarding the Bulls most polarizing player, the languid yet powerful 6-7 forward once projected as the team’s centerpiece who’s become more of a decorative appendage.",
+    "When the Bulls start the 2026-27 preseason on Wednesday in the United Center against the Phoenix Suns, Williams doesn’t project being a part of the regular rotation.",
+    "Only the last 10 or 15 minutes when players generally are practicing free throws are open for viewing.",
+    "So far this preseason, with practices resuming Monday after a weekend off, 11 players have been invited by reporters.",
+    "The same as what he did before he was drafted by the Bulls in 2020.",
+    "We wanted Patrick Williams because he looked so powerful and athletic and was the No. 4 selection in the 2020 draft — a weak draft, by the way — to be the style and structure for a new Bulls era.",
+    "And then even more so because he signed a generous contract extension.",
+    "He did have two major injuries, one that cost him most of his sophomore season."
+   ],
+   "quotes": [
+    "Why aren’t you better? Why are you so bad?"
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -235,6 +263,40 @@
    "summary": "",
    "facts": [],
    "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "roster",
+   "key": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "url": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "canonical_url": "https://warriors.com/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
+   "title": "New Faces and Philosophies for Warriors 2026 Training Camp",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-02T23:55:48Z",
+   "tags": [
+    "2026 Training Camp",
+    "Player Spotlight"
+   ],
+   "summary": "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii. Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contract extension this offseason, committing to the Bay for the foreseeable fu…",
+   "facts": [
+    "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii.",
+    "Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contr…",
+    "Head Coach Steve Kerr also signed a multi-year extension.",
+    "The Warriors added three players with standard contracts for this upcoming season, including No. 11 pick Yaxel Lendeborg, fifth-year guard Brandon Williams, and 10-year NBA veteran Georges Niang.",
+    "Fresh off a National Championship with the University of Michigan, Lendeborg led the Warriors to the Summer League championship and was named the 2026 Summer League MVP.",
+    "At 6-foot-9 and 241 pounds, Lendeborg’s size, skill set, and IQ stood out to Jimmy Butler III.",
+    "General Manager Mike Dunleavy shared at Media Day that the Warriors had a full offseason to prepare for the void left by Butler and Moses Moody being out recovering from injuries at the start of the season — foresight th…",
+    "He has played for five different franchises over nine seasons and even had a career-altering stint with the Warriors’ G League affiliate in Santa Cruz following the team’s 2017 championship run."
+   ],
+   "quotes": [
+    "He's massive. He's a big human being, and he shoots the ball so incredibly well,",
+    "He's smart. He wants to learn, and he's a winning player.",
+    "Not many people can say they turned 24 playing in the NBA in Hawaii,",
+    "I would say playing meaningful minutes,"
+   ]
   },
   {
    "source": "DAL 公式（nba.com）",
@@ -516,98 +578,6 @@
    ],
    "quotes": [
     "The Lakers and Bulls are in advanced discussions on a trade that would send Dalton Knecht and Jaden Hardy to Chicago for big man Jalen Smith, according to sources."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
-   "url": "https://www.nba.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
-   "canonical_url": "https://mavs.com/mavs/news/washington-eyes-to-be-more-healthy-this-season-so-he-can-be-more-available-for-mavs",
-   "title": "Washington aims for better health so he can be more available for Mavs",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-01T23:22:34Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "PJ Washington"
-   ],
-   "summary": "Entering this year’s training camp, the No. 1 priority for P.J. Washington is to stay healthy this season. That’s because for the past two years, the Dallas Mavericks forward knows his lack of availability has been like an albatross around his neck.",
-   "facts": [
-    "Entering this year’s training camp, the No. 1 priority for P.J.",
-    "Two years ago a series of injuries forced Washington to miss 25 games.",
-    "Repeat trips to visit the Mavs’ medical staff cost him 26 games last season."
-   ],
-   "quotes": [
-    "The last two years have been tough for me staying on the floor,",
-    "For me my biggest emphasis is making sure I’m doing everything to make sure my body is right each and every day, and make sure I come in here at 100 percent healthy, doing all the little things. I thi…",
-    "P.J. is certainly in the mix for a starting spot, mostly because he can play multiple positions,",
-    "He’s a winning player. He fights for his teammates. He has their backs. He’s a good passer. He’s a quick thinker. We’re excited about P.J."
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "feature",
-   "key": "https://www.nba.com/heat/news/coup-conversation-with-davion-mitchell",
-   "url": "https://www.nba.com/heat/news/coup-conversation-with-davion-mitchell",
-   "canonical_url": "https://heat.com/news/coup-conversation-with-davion-mitchell",
-   "title": "A Conversation With Davion Mitchell",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-10-01T23:09:14Z",
-   "tags": [
-    "CoupWords",
-    "News",
-    "Trending"
-   ],
-   "summary": "What follows is an edited interview with Davion Mitchell at the Miami HEAT’s Training Camp at Florida Atlantic University.",
-   "facts": [
-    "Then the injuries, the shoulder, the knee problems.",
-    "It was the fact that I can be the same person throughout the full 48 minutes instead of 32 or 36.",
-    "My thing this summer every day was make sure I get 15,000 steps.",
-    "But nine times out of 10, I’m getting 15,000 steps.",
-    "You mentioned your usage rate the other day, yours was below 14 last year, do you want it to go up?",
-    "I know I shot it really well finishing at the rim, and I know I make the right play nine times out of 10.",
-    "He went Super Saiyan 3 against Buu.",
-    "There were moments against Charlotte where I was different than in Game 56 against the Wizards."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-ace-bailey-prepares-for-year-two-jaren-jackson-jr-continues-to-adjust",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-ace-bailey-prepares-for-year-two-jaren-jackson-jr-continues-to-adjust",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-ace-bailey-prepares-for-year-two-jaren-jackson-jr-continues-to-adjust",
-   "title": "Utah Jazz Training Camp Notebook: Ace Bailey Prepares for Year Two, Jaren Jackson Jr. Continues to Adjust",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-01T22:49:41Z",
-   "tags": [
-    "Ace Bailey",
-    "Jaren Jackson Jr.",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "With each passing day, the return of Utah Jazz basketball inches closer and closer.",
-   "facts": [
-    "With each passing day, the return of Utah Jazz basketball inches closer and closer.",
-    "Training camp is in full swing for the Jazz as they prepare to begin their preseason slate of games on Sunday, Oct. 4 against the Denver Nuggets.",
-    "However, Utah’s fifth overall pick from a year ago showed plenty of flashes on both ends of the floor across 72 games and now enters his second season following a full offseason of work and preparation.",
-    "At Media Day, the 20-year-old revealed that he had added 10-to-12 pounds in the offseason, which has helped alter his approach on both ends of the floor."
-   ],
-   "quotes": [
-    "The focus has to be everything,",
-    "I didn’t feel like I scratched the surface (in those three games).",
-    "We’ve tried a bunch of stuff,",
-    "There isn’t just one thing that’s going to happen in the game, especially with matchups. I’ve got to be ready to do everything. Guarding perimeter players more, (but) still having the freedom to conte…"
    ]
   }
  ]
