@@ -1,8 +1,275 @@
 {
- "updated_utc": "2026-10-05 16:22 UTC",
+ "updated_utc": "2026-10-05 22:53 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "quotes",
+   "key": "https://www.nba.com/clippers/news/clippers-camp-notebook",
+   "url": "https://www.nba.com/clippers/news/clippers-camp-notebook",
+   "canonical_url": "https://clippers.com/news/clippers-camp-notebook",
+   "title": "Clippers Camp Notebook",
+   "author": "LAClippers",
+   "published_utc": "2026-10-05T22:46:05Z",
+   "tags": [
+    "2026-27 Season",
+    "Injury Report",
+    "Keaton Wagler",
+    "LA Clippers",
+    "Rui Hachimura"
+   ],
+   "summary": "HONOLULU –- Ty Lue kept an eye on how Keaton Wagler handled himself during the first week of training camp and the rookie's demeanor left an impression on the Clippers head coach.",
+   "facts": [
+    "The rookie shot just 3-for-15, including 1-of-11 from 3.",
+    "But he made the most important shot of the game, drilling a clutch step-back 20-footer with 14 seconds left to give the Clippers a one-point lead before they held on for a 104-101 win over the Warriors at the Stan Sherif…",
+    "He displayed an ability to get to the line, making 8-of-9 free throws.",
+    "So far, Wagler has impressed teammates like Kris Dunn with his ability to process things quickly, learning from mistakes and figuring things out quicker than expected for a 19-year-old.",
+    "Hachimura buried 8-of-11 shots, including 4-for-5 from 3-point range.",
+    "With Brandon Ingram sidelined following surgery for a right heel injury and a partially torn Achilles tendon, the Clippers will be leaning heavily on Hachimura, especially on offense.",
+    "It didn’t take Jackson long on Sunday to show why Lue had the 6-8 big man with the first unit alongside Darius Garland, Max Strus, Derrick Jones Jr. and Hachimura.",
+    "And 38 seconds later, Garland found Jackson running the floor for an alley-oop past the Golden State defense."
+   ],
+   "quotes": [
+    "Missed shots and is still ready to shoot the basketball. He learns quickly.",
+    "My teammates were saying to me, ‘Keep shooting it no matter makes or misses. This is the preseason, this is the time to get better,’",
+    "And the only way to get better is to shoot shots. So I just went out there and tried to play free, play confident. Shots didn't really fall tonight, but I stayed confident the whole game.",
+    "My shots weren't falling,"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "roster",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261005-why-the-celtics-took-training-camp-on-the-road-for-first-time-in-nine-years",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261005-why-the-celtics-took-training-camp-on-the-road-for-first-time-in-nine-years",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20261005-why-the-celtics-took-training-camp-on-the-road-for-first-time-in-nine-years",
+   "title": "Why the Celtics Took Training Camp on the Road for First Time in Nine Years",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-05T22:25:20Z",
+   "tags": [
+    "Practice",
+    "Preseason",
+    "Sidebar",
+    "Training Camp"
+   ],
+   "summary": "For the first time in nearly a decade, Celtics training camp has a change of scenery.",
+   "facts": [
+    "The C’s traded their familiar surroundings at the Auerbach Center in Brighton for Charleston, South Carolina, this week, where the C’s have spent the past three days working on the court and bonding off of it while being…",
+    "It’s the first time the Celtics have taken training camp on the road since 2017, when they made the short trip south from Boston to Newport, Rhode Island.",
+    "One of those teams was the New York Knicks, who held training there in back-to-back years in 2023 and 2024.",
+    "Robinson and Payton Pritchard were roommates nearly a decade ago during the 2017 USA Basketball Men’s U19 training camp."
+   ],
+   "quotes": [
+    "We have a bunch of new guys, so just really kind of wanted to take a step back, get away, spend time with each other in a different environment,",
+    "I’m pretty sure a lot of guys haven’t been here, so the team bonding is taking place, and it’s been great,",
+    "We’re all enjoying each other’s company, learning each other, like off-the-court things. Like everybody sees that I like trucks, fishing, animals, X, Y, and Z, and I’m learning the other guys as well.",
+    "I’ve been knowing Payton for a minute now, and now that we’re teammates in the NBA… it’s a crazy ride,"
+   ]
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/mikecheckthe-word-on-grizzlies-as-they-progress-from-camp-to-preseason-competition",
+   "url": "https://www.nba.com/grizzlies/news/mikecheckthe-word-on-grizzlies-as-they-progress-from-camp-to-preseason-competition",
+   "canonical_url": "https://grizzlies.com/news/mikecheckthe-word-on-grizzlies-as-they-progress-from-camp-to-preseason-competition",
+   "title": "MikeCheck: The ‘word’ on Grizzlies as they progress from camp to preseason competition",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-10-05T20:13:43Z",
+   "tags": [
+    "Grind City Media",
+    "Michael Wallace",
+    "MikeCheck"
+   ],
+   "summary": "Iisalo eager to evaluate roster in game action ATLANTA – Opportunity.",
+   "facts": [
+    "With 20 players on the preseason roster – and a relatively clean bill of health – Memphis will sort through various lineup combinations over the course of four dress rehearsals leading to the Oct. 21 season opener agains…",
+    "On the heels of four days of training camp in Nashville and Sunday’s Open Practice in Memphis, the Grizzlies get their first game-night look at newcomers in rookie third overall pick Cam Boozer, trade acquisitions Isaiah…",
+    "The Grizzlies also return a promising young core as Zach Edey, Cedric Coward and Jaylen Wells – all former NBA All Rookie First-Team selections – continue their encouraging development.",
+    "Cam Boozer: Foundational – Fundamentally sound, skillfully versatile and psychologically mature, the 19-year-old Boozer carries plenty of promise into his rookie NBA season.",
+    "The point guard depth chart already has Ty Jerome and Scotty Pippen locked in at the top and Javon Small in a two-way spot.",
+    "Occupying one of the team’s three two-way developmental contracts, he’ll get plenty of seasoning with the G-League’s Memphis Hustle.",
+    "Zach Edey: Progressing – The Grizzlies repeatedly stress the 7-foot-4 franchise center is on pace to be ready for the regular season, but nobody has ruled Edey out of seeing preseason action.",
+    "Taylor Hendricks: Teetering – Two seasons removed from a devastating leg injury with the Jazz, Hendricks entered camp as physically and mentally healthy as he’s been since being drafted in the 2023 lottery."
+   ],
+   "quotes": [
+    "We have so many guys we want to see on the court, and then gradually build up,",
+    "I don’t expect any guys to really crack 20 minutes."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "quotes",
+   "key": "https://www.nba.com/magic/news/3-wendell-carter-jr-storylines-going-into-2026-27-season",
+   "url": "https://www.nba.com/magic/news/3-wendell-carter-jr-storylines-going-into-2026-27-season",
+   "canonical_url": "https://orlandomagic.com/news/3-wendell-carter-jr-storylines-going-into-2026-27-season",
+   "title": "3 Wendell Carter Jr. Storylines Going Into 2026-27 Season",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-05T19:33:39Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Can Free Throw Shooting Improvement Extend to 3-Point Territory?",
+   "facts": [
+    "Can Free Throw Shooting Improvement Extend to 3-Point Territory?",
+    "Last year, Wendell Carter Jr. took more free throws than ever before with 250 of them and he shot 79.2 percent from the stripe, his best mark since his rookie NBA season.",
+    "So now the question is whether that improvement from the foul line will translate to better 3-point shooting going forward.",
+    "In his NBA career thus far, he’s made 31.6 percent of his 1,106 3-point attempts.",
+    "In wins in his career, he has shot 37.3 percent from downtown, and in losses, he has shot 27.7 percent.",
+    "After re-acquiring Nikola Vucevic in the offseason, the Magic are the only team with two centers who ranked in the top 15 in 3-point attempts last season.",
+    "Vucevic took the ninth most among full-time centers and Carter 14th.",
+    "In fact, they went from ranking third in opponent points in the paint in 2024-25 to 16th in 2025-26."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "roster",
+   "key": "https://www.nba.com/timberwolves/news/minnesota-timberwolves-promote-david-hines-to-executive-vice-president-of-medical-and-wellness",
+   "url": "https://www.nba.com/timberwolves/news/minnesota-timberwolves-promote-david-hines-to-executive-vice-president-of-medical-and-wellness",
+   "canonical_url": "https://timberwolves.com/news/minnesota-timberwolves-promote-david-hines-to-executive-vice-president-of-medical-and-wellness",
+   "title": "Minnesota Timberwolves Promote David Hines to Executive Vice President of Medical and Wellness",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-10-05T19:04:22Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "Minneapolis/St. Paul – The Minnesota Timberwolves today named David Hines Executive Vice President of Medical and Wellness.",
+   "facts": [
+    "This past season, Hines led the Timberwolves training staff as they were named the 2025-26 Joe O’Toole- David Craig Athletic Training Staff of the Year Award.",
+    "Hines joined the Wolves with more than 15 years of medical experience, ranging from physical therapy to athletic training and sports performance.",
+    "Prior to his time with the Timberwolves, he was with the Arizona Cardinals as a physical therapist/athletic trainer, where he would perform musculoskeletal evaluations during practices and games as well as design and man…",
+    "The Florida State University graduate received his start in the sports medicine industry with the Jacksonville Jaguars in 2005.",
+    "Hines then received his Doctorate in physical therapy in the fall of 2016."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-initial-preseason-test-comes-tuesday-vs-oklahoma-city",
+   "url": "https://www.nba.com/pelicans/news/pelicans-initial-preseason-test-comes-tuesday-vs-oklahoma-city",
+   "canonical_url": "https://pelicans.com/news/pelicans-initial-preseason-test-comes-tuesday-vs-oklahoma-city",
+   "title": "Pelicans' initial preseason test comes Tuesday vs. Oklahoma City",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-05T18:42:18Z",
+   "tags": [],
+   "summary": "On paper, New Orleans is scheduled to play Tuesday and Thursday road games vs. teams headlined by Shai Gilgeous-Alexander and Giannis Antetokounmpo, respectively, but the Pelicans may not get a ton of court time being tested by those superstars (winners of four of the last eight MVP awards). It’s preseason.",
+   "facts": [
+    "The Thunder are coming off 68- and 64-win campaigns, ranking as the NBA’s No. 1 defense in both seasons.",
+    "Next week, the Pelicans have games at Dallas (Oct. 14) and in the Blender vs.",
+    "Washington (Oct. 16).",
+    "Last season, New Orleans ranked third-worst in defensive rebounding percentage (67.4, ahead of only Washington and Memphis).",
+    "Neither OKC nor Miami were above average on the offensive glass in 2025-26, but the specifics of the opponent won’t be much of a consideration during the four-game exhibition slate."
+   ],
+   "quotes": [
+    "This is a pretty big test for us,",
+    "Obviously (New Orleans rotation players) are not going to play a lot (of minutes), but (we want to see) what we look like in those minutes that we do play together.",
+    "I think it gives you a real test, to be able to see what you’ve put in, what feels good, going against a different opponent, where you’ll see different coverages. Those are all great to be able to see…",
+    "I think it’s a great opportunity to continue to improve and see where we stand,"
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/charlotte-hornets-announce-basketball-operations-staff-changes-and-additions-2",
+   "url": "https://www.nba.com/hornets/news/charlotte-hornets-announce-basketball-operations-staff-changes-and-additions-2",
+   "canonical_url": "https://hornets.com/news/charlotte-hornets-announce-basketball-operations-staff-changes-and-additions-2",
+   "title": "Charlotte Hornets Announce Basketball Operations Staff Changes And Additions",
+   "author": "Hornets PR",
+   "published_utc": "2026-10-05T18:11:32Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "October 5, 2026 – The Charlotte Hornets announced today that the team has finalized its basketball operations staff heading into the 2026-27 season.",
+   "facts": [
+    "October 5, 2026 – The Charlotte Hornets announced today that the team has finalized its basketball operations staff heading into the 2026-27 season.",
+    "Prior to his time in Chicago, Bryant spent four seasons with the Philadelphia 76ers—two as an assistant coach and two as a player development coach—­and several years coaching for the G League, as well as the Angola and …",
+    "Bryant served as the Bulls Summer League Head Coach in 2022 and 2023.",
+    "Following his collegiate career at Northeastern, the Florida native spent several years playing professional basketball in the G League, as well as Germany and Canada, before returning to Rio Grande as a part of their st…",
+    "Prindiville brings 10 years of Executive Assistant experience to the Hornets after serving as Executive Assistant to the General Manager for the Milwaukee Bucks.",
+    "Hersel, a Washington State University graduate, received his doctorate of physical therapy at the University of New England in Maine, going on to join the San Francisco 49ers medical staff.",
+    "Alex Ruoff was promoted to Two-Way Player Enhancement Coach after joining the Greensboro Swarm as an assistant coach in 2024."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-taylor-funk",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-taylor-funk",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-taylor-funk",
+   "title": "Utah Jazz Sign Taylor Funk",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-05T18:00:16Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 5, 2026) – The Utah Jazz announced today that the team has signed forward Taylor Funk. Per team policy, terms of the deal were not disclosed.",
+   "facts": [
+    "SALT LAKE CITY (October 5, 2026) – The Utah Jazz announced today that the team has signed forward Taylor Funk.",
+    "About Taylor Funk Funk (6-8, 230, Utah State) appeared in 41 games for the San Diego Clippers in 2025-26, averaging 11.3 points, 4.4 rebounds, and 2.1 assists in 26.2 minutes per contest, also totaling six games with 20-…",
+    "A native of Lancaster, Pa., Funk played five collegiate seasons at Saint Joseph’s (2017-22) and finished his career at Utah State (2022-23).In his lone season at Utah State, he averaged 13.4 points, 5.5 rebounds, and 1.7…",
+    "He knocked down 219 three-point field goals for Utah State in 2022-23, which is the eighth-highest single-season total in school history."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "TOR 公式（nba.com）",
+   "team": "TOR",
+   "team_ja": "ラプターズ",
+   "team_id": 1610612761,
+   "kind": "roster",
+   "key": "https://www.nba.com/raptors/news/raptors-sign-degenhart",
+   "url": "https://www.nba.com/raptors/news/raptors-sign-degenhart",
+   "canonical_url": "https://raptors.com/news/raptors-sign-degenhart",
+   "title": "RAPTORS SIGN DEGENHART",
+   "author": "tormbeloso",
+   "published_utc": "2026-10-05T16:22:50Z",
+   "tags": [
+    "News",
+    "Press Releases"
+   ],
+   "summary": "The Toronto Raptors announced Monday they have signed forward Tyson Degenhart (Tyson DAYgin-hart). Per team policy, financial terms of the deal were not disclosed. In a corresponding move, the Raptors have waived guard Andre Jackson Jr.",
+   "facts": [
+    "In a corresponding move, the Raptors have waived guard Andre Jackson Jr.",
+    "Degenhart, 6-foot-8, 235 pounds, averaged 8.5 points, 3.0 rebounds, 1.3 assists and 21.0 minutes in 50 games (nine starts) with Raptors 905 in the NBA G League last season.",
+    "He shot .547 (164-300) from the field, .389 (44-113) from three-point range and .711 (32-45) at the free throw line.",
+    "Degenhart scored in double figures in 21 games, including a season-high 24 points Feb. 8 vs.",
+    "Motor City, and recorded his lone double-double with 14 points and a season-best 10 rebounds Mar. 23 at Salt Lake City.",
+    "Degenhart helped the 905 earn the number one seed in the Tip-Off Tournament, reach the 2025 G League Winter Showcase Final and secure a playoff berth.",
+    "A native of Spokane, Washington, Degenhart joined the 905 following four seasons at Boise State (2021-25) where he departed as the program’s all-time leading scorer with 2,037 points and earned All-Mountain West First Te…"
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -86,7 +353,7 @@
    "author": "Kalyb Champion",
    "published_utc": "2026-10-05T01:41:59Z",
    "tags": [],
-   "summary": "The Warriors’ second-half comeback efforts fell just short in their 104-101 preseason loss to the Los Angeles Clippers at Stan Sheriff Center in Hawaii on Sunday. The Warriors’ reserves outscored the Clippers’ bench by 17 points (75-58) and overcame a once 13-point deficit to take a one-point lead with 27.5 seconds remaining. However, Clippers rookie Keaton Wager knocked down a step-back midrange …",
+   "summary": "The Warriors’ second-half comeback efforts fell just short in their 104-101 preseason loss to the Los Angeles Clippers at Stan Sheriff Center in Hawaii on Sunday. The Warriors’ reserves outscored the Clippers’ bench by 17 points (75-58) and overcame a once 13-point deficit to take a one-point lead with 27.5 seconds remaining. However, Clippers rookie Keaton Wagler knocked down a step-back midrange…",
    "facts": [
     "The Warriors’ second-half comeback efforts fell just short in their 104-101 preseason loss to the Los Angeles Clippers at Stan Sheriff Center in Hawaii on Sunday.",
     "The Warriors’ reserves outscored the Clippers’ bench by 17 points (75-58) and overcame a once 13-point deficit to take a one-point lead with 27.5 seconds remaining.",
@@ -399,288 +666,6 @@
     "He's smart. He wants to learn, and he's a winning player.",
     "Not many people can say they turned 24 playing in the NBA in Hawaii,",
     "I would say playing meaningful minutes,"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/former-no-1-overall-draft-pick-zaccharie-risacher-happy-to-have-fresh-start-with-mavs",
-   "url": "https://www.nba.com/mavs/news/former-no-1-overall-draft-pick-zaccharie-risacher-happy-to-have-fresh-start-with-mavs",
-   "canonical_url": "https://mavs.com/mavs/news/former-no-1-overall-draft-pick-zaccharie-risacher-happy-to-have-fresh-start-with-mavs",
-   "title": "Former No. 1 overall draft pick Risacher happy to have fresh start with Mavs",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-02T22:44:55Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "Zaccharie Risacher"
-   ],
-   "summary": "Not many people would blame Zaccharie Risacher if he played this upcoming NBA season with a chip on his shoulder.",
-   "facts": [
-    "After all, the Atlanta Hawks gave Risacher the absolute thrill of his life when they made him the No.1 overall pick of the 2024 NBA Draft.",
-    "But after just two seasons in Atlanta, the Hawks pulled the plug and subsequently traded Risacher to the Dallas Mavericks on July 19 in a three-team deal that involved the Mavs sending guard Ryan Nembhard to Atlanta.",
-    "Before the trade deadline last February, Risacher heard his name floated around as possibly being traded to the Mavs.",
-    "I kept working, kept focusing on the things I could control about it, and (the trade) happened and I’m glad it did.",
-    "But this league, from what I’ve learned, don’t give up on guys at 20 or 21 or whatever the case and say you’re not an NBA player.",
-    "In his first season in Atlanta he played 75 games — started 73 — shot 45.8 percent from the field in only 24.6 minutes and made the NBA All-Rookie first team.",
-    "And last season he averaged 9.6 points in just 22.4 minutes and converted 45.5 percent of his shots while starting 46 of the 67 games he played in.",
-    "On March 30, 2025, Risacher scored 36 points during a 145-124 win over the Milwaukee Bucks while joining LeBron James, Allen Iverson and Anthony Edwards as the only rookies to score at least 35 points while draining at l…"
-   ],
-   "quotes": [
-    "I was told not to worry about it and just focus on the things you can control,",
-    "Once the season was over I was in the same habits. I kept working, kept focusing on the things I could control about it, and (the trade) happened and I’m glad it did. But if it wasn’t the case, I woul…",
-    "We just want him to play good ball and embrace who he is as a player — his strengths,",
-    "It’s a blessing for me to be here,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-training-camp-check-in",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-training-camp-check-in",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-training-camp-check-in",
-   "title": "Roundball Roundup: Training Camp Check In",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-02T22:41:59Z",
-   "tags": [
-    "Ace Bailey",
-    "Darryn Peterson",
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos recapped the first week of training camp (1:15), discussed the Denver Nuggets (9:10), and previewed things to watch in Sunday’s game (13:00).",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos recapped the first week of training camp (1:15), discussed the Denver Nuggets (9:10), and previewed things to watch in Sunday’s game (13:00)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-darryn-petersons-adjustment-making-strides-on-defense",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-training-camp-notebook-darryn-petersons-adjustment-making-strides-on-defense",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-training-camp-notebook-darryn-petersons-adjustment-making-strides-on-defense",
-   "title": "Utah Jazz Training Camp Notebook: Darryn Peterson’s Adjustment, Making Strides on Defense",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-02T21:12:13Z",
-   "tags": [
-    "Brice Sensabaugh",
-    "Darryn Peterson",
-    "Jaxson Hayes",
-    "Josh Green",
-    "Josh Okogie",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "An initial week of intense practices and training has come to an end, with preseason basketball right around the corner.",
-   "facts": [
-    "Two upcoming games against Denver will provide fans with a first glimpse at the 2026-27 Jazz squad, while further practices will help Hardy and the coaching staff prepare the team for opening night on Oct. 21.",
-    "Although it’s early and Utah hasn’t played a game against an actual opponent yet, Peterson has primarily played off the ball during camp, with the split being roughly 60-to-40 in terms of his time spent off ball compared…"
-   ],
-   "quotes": [
-    "(I just try to) bring max effort on every rep,",
-    "It’s definitely every rep (that) they’re keeping me on, (so I’m) trying to go hard and learn from them.",
-    "Right now I’m trying to navigate screens at a higher level,",
-    "Not dying on them, really trying to get into the ball, and staying in the play when I get hit. That and just staying sound, because I don’t need any early fouls."
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261002",
-   "url": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261002",
-   "canonical_url": "https://cavs.com/news/features-meleek-thomas-261002",
-   "title": "Meleek Thomas is Not Shying Away from His Rookie Season",
-   "author": "clejgabriele",
-   "published_utc": "2026-10-02T20:55:33Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "That’s what Donovan Mitchell said about rookie teammate Meleek Thomas on Media Day earlier this week, an opinion that seems to be the universal review on the 20-year-old guard. Fans got a glimpse at Summer League. They’re going to get more in less than a week at Rocket Arena.",
-   "facts": [
-    "A consensus five-star prep recruit who won two Pennsylvania state titles, Thomas led the Razorbacks as a freshman in three-point shooting (.416), from the free throw line (.844), and in steals (51), finishing 10th in the…",
-    "In his single season at Fayetteville, Thomas topped the 20-point plateau on eight occasions, with a career-best 30-point effort against Missouri in the regular season finale – going 5-for-6 from three-point range in an o…",
-    "On the season, Thomas posted four games with at least five triples – shooting 49 percent from beyond the arc in SEC games.",
-    "Overall, in his four games out west, Thomas led everyone in scoring (27.3 PPG) and field goal attempts (20.5) and was second overall in field goals makes (10.3).",
-    "He shot an even 50 percent from the floor and 44 percent from long-range – averaging 3.5 boards and a team-best 3.8 assist per game.",
-    "He averaged just 1.5 turnovers to go with 2.0 steals in his four outings.",
-    "He went 7-for-15 from the floor for 20 points in his debut against Indiana but really hit his stride two nights later against the Pistons – finishing with 30 points on 10-of-24 shooting, leading both teams with seven ass…",
-    "Thomas was even more explosive the following night with a 35-point eruption – going 14-for-23 from the floor, including 5-of-9 from deep, adding three boards, three assists, a pair of steals and a block."
-   ],
-   "quotes": [
-    "(Calipari guys) are different,",
-    "I would say it kind of gives me the same confidence that I stay with,",
-    "I knew I would have a big Summer League just because of my hunger and my drive to perform and succeed. Like, nothing’s stopping me from succeeding.",
-    "Growing up in a larger family affects my basketball mentality, just because, like, I've seen my mom and dad never give up, always work hard, and always provide and care for me and my siblings, day aft…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/zion-williamson-working-after-practice-with-trey-murphy-on-perimeter-shot",
-   "url": "https://www.nba.com/pelicans/news/zion-williamson-working-after-practice-with-trey-murphy-on-perimeter-shot",
-   "canonical_url": "https://pelicans.com/news/zion-williamson-working-after-practice-with-trey-murphy-on-perimeter-shot",
-   "title": "Zion Williamson working after practice with Trey Murphy on perimeter shot",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-02T19:50:38Z",
-   "tags": [],
-   "summary": "New Orleans’ two top scorers from last season are polar opposites in terms of how they get their points: Trey Murphy is an elite long-range shooter, ranking eighth in the NBA in three-pointers made per game (3.2) last season, while Zion Williamson is often impossible to keep away from the rim, averaging 15.4 paint points, second behind only Giannis Antetokounmpo. Given those tendencies, a unique s…",
-   "facts": [
-    "New Orleans’ two top scorers from last season are polar opposites in terms of how they get their points: Trey Murphy is an elite long-range shooter, ranking eighth in the NBA in three-pointers made per game (3.2) last se…",
-    "As part of Williamson’s ongoing efforts to expand and diversify his offensive skill set, he darts around Murphy’s screens and fires shot after shot from 24 feet, work he hopes will force defenses to respect him beyond th…",
-    "Murphy has mastered every shooting skill – coming off picks, shooting pull-ups in transition, spotting up in corners for wide-open looks – resulting in 814 successful treys over his five NBA seasons.",
-    "Williamson’s career accuracy is below average, but not terrible, at 32 percent, but he’s been extremely reticent to fire, attempting only 102 triples in 276 career games.",
-    "San Antonio in January 2020.",
-    "Since then, he’s only twice made more than one trey in a game (going 2/3 in separate 2022 games against Phoenix and Indiana)."
-   ],
-   "quotes": [
-    "Z’s trying to expand his game, trying to shoot more (from outside),",
-    "That’s something I do pretty well. So (I’m) giving him pointers, just helping him along the way. He’s willing to listen, willing to work. I’m already going to get my work in, so it’s great to have him…",
-    "For him, it’s just about staying consistent with mechanics,",
-    "Not worrying about makes or misses right now. If you stay consistent with the same (shooting) form, the same repetition, eventually there will be more makes."
-   ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/memphis-grizzlies-conclude-annual-grizz-goes-back-to-school-campaign-2",
-   "url": "https://www.nba.com/grizzlies/news/memphis-grizzlies-conclude-annual-grizz-goes-back-to-school-campaign-2",
-   "canonical_url": "https://grizzlies.com/news/memphis-grizzlies-conclude-annual-grizz-goes-back-to-school-campaign-2",
-   "title": "Memphis Grizzlies Conclude Annual Grizz Goes Back to School Campaign",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-02T18:19:59Z",
-   "tags": [
-    "Community",
-    "Education",
-    "Grizz Goes Back to School",
-    "Pressroom"
-   ],
-   "summary": "Grizzlies Celebrate Students and Educators Across the Mid-South",
-   "facts": [
-    "The annual program tipped-off on Tuesday, July 21, with Grizzlies forward GG Jackson II hosting a Groom & Grind event at the Buckman Boys & Girls Club.",
-    "Jackson II treated 100 kids to a day filled with basketball activities, inflatables, craft stations and more.",
-    "On Wednesday, July 22, Grizzlies Connect volunteers packed backpacks with various school supplies for over 900 children at the Raleigh Library, one of several Memphis Public Libraries, with the backpacks distributed to l…",
-    "Grizzlies forward Taylor Hendricks also hosted 100 kids at the Buckman Boys & Girls Club on Thursday, July 23, playing basketball games and providing each kid with a gift card to purchase back-to-school supplies.",
-    "Grizzlies Connect volunteers sorted through thousands of school supplies to distribute to teachers ahead of the school year on Friday, July 31, at the Stuff the Bus event.",
-    "The team joined both the Memphis-Shelby County Schools’ Back-to-School Fair and the Orange Mound Back-to-School Fair on Saturday, Aug. 1, to provide swag items and giveaways to more than 5,000 community members.",
-    "The Grizzlies supported the annual Teach901 back-to-school teacher bash at Old Dominick Distillery on Thursday, Aug. 20, to celebrate over 200 schoolteachers.",
-    "Grizzlies guard Jahmai Mashack donated back-to-school items to Grizzlies Prep students and teachers on Wednesday, Aug. 26."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261002-for-rookies-cenac-mitchell-the-learning-hasnt-stopped-in-boston",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261002-for-rookies-cenac-mitchell-the-learning-hasnt-stopped-in-boston",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20261002-for-rookies-cenac-mitchell-the-learning-hasnt-stopped-in-boston",
-   "title": "For Rookies Cenac, Mitchell, the Learning Hasn’t Stopped in Boston",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-02T18:11:37Z",
-   "tags": [
-    "Preseason",
-    "Sidebar",
-    "Training Camp"
-   ],
-   "summary": "BOSTON – Before Chris Cenac Jr. ever played a college basketball game, he had already received a lesson from one of the greatest big men to ever play the sport.",
-   "facts": [
-    "In the fall of 2025, before beginning his freshman season at the University of Houston, Cenac had an opportunity to work out with Hall-of-Famer Hakeem Olajuwon for a couple of days.",
-    "For the then-18-year-old, it was a chance to pick the brain of a two-time NBA champion, an MVP, a two-time Defensive Player of the Year, the league's all-time shot-blocking leader, and one of the most skilled centers the…",
-    "The Celtics selected the 6-foot-11 forward/center with the 27th pick in June’s NBA Draft, and he and fellow rookie forward Dillon Mitchell, the 40th pick, have been hard at work with Boston’s developmental staff almost f…",
-    "He blocked 18 shots across 37 games during his lone college season at Houston, but flashed more of that ability during Summer League when he swatted 11 shots in just four games.",
-    "He’s also been putting in significant work on the other end of the floor, particularly with his outside shot after connecting on 33.3 percent of his 3-point attempts in college.",
-    "Athleticism and defensive versatility have long been his calling card’s but he’s spent much of his first few months as a Celtic developing a part of his game that wasn’t featured much during his four collegiate seasons: …",
-    "Mitchell shot 19.3 percent from deep during his college career and attempted just 15 3-pointers as a senior at St.",
-    "Just weeks after arriving in Boston, Mitchell shot 37.5 percent from beyond the arc at Summer League, where he made more 3-pointers than he did during his entire senior season."
-   ],
-   "quotes": [
-    "It was pretty cool, just learning from one of the best to ever play,",
-    "He taught me a lot of little things about just keeping the game simple, having one or two moves, like he did, and I learned a lot from him.",
-    "When me and Chris got drafted and flew in, that day we flew in we didn't even go to the hotel and change,",
-    "We came straight [to the Auerbach Center] and got a workout in. So it's been immediate and it's been every day. It’s no days off."
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-2026-27-preseason-preview",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-2026-27-preseason-preview",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-2026-27-preseason-preview",
-   "title": "Utah Jazz 2026-27 Preseason Preview",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-02T16:40:01Z",
-   "tags": [
-    "Darryn Peterson",
-    "Jaren Jackson Jr.",
-    "Utah Jazz"
-   ],
-   "summary": "On Sunday, the Jazz will kick off a four-game preseason slate, giving fans a first glimpse at the 2026-27 squad. Utah will conduct a home-and-home set against the Denver Nuggets prior to matchups against the San Antonio Spurs and Phoenix Suns.",
-   "facts": [
-    "On Sunday, the Jazz will kick off a four-game preseason slate, giving fans a first glimpse at the 2026-27 squad.",
-    "After spending a lot of time in the gym against fellow teammates, the opportunity to face live competition against other teams will help the Jazz sharpen their attack leading up to the Oct. 21 season opener against the M…",
-    "Oct. 4 at Denver Nuggets (5 p.m.",
-    "The Nuggets are returning their main core, which continues to be led by three-time MVP Nikola Jokić and Jamal Murray.",
-    "Denver Nuggets (7 p.m.",
-    "While this Oct. 6 clash will provide another opportunity for the Jazz to stack up against one of the Western Conference’s elite squads, it will perhaps be more notable for the debut of the new-look Delta Center.",
-    "After waiting many months to watch their team in action at the Delta Center, Jazz fans can look forward to Oct. 6.",
-    "San Antonio Spurs (7 p.m."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "quotes",
-   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-expectations-for-the-2026-27-new-look-bulls",
-   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-expectations-for-the-2026-27-new-look-bulls",
-   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-expectations-for-the-2026-27-new-look-bulls",
-   "title": "Ask Sam Mailbag: Expectations for the 2026-27 new look Bulls",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-02T16:33:45Z",
-   "tags": [
-    "Ask Sam mailbag",
-    "Sam Smith"
-   ],
-   "summary": "Peter Zievers: Wilson has a shot he's obviously worked on. It looks pretty okay, but he could use to get his hands a little higher on release from what I saw. Yeah, this guy can get an easy 20 just off secondary offense. He appears to have a real nice set of hands around the rim; I'm not sure how that's going to show when actual men start ramming into his rib cage in the under-the-basket scrum. Th…",
-   "facts": [
-    "Yeah, this guy can get an easy 20 just off secondary offense.",
-    "Think Splitter is going to give him 30+ minutes a game to begin with?",
-    "Bulls desperately need 3-point shooting and that’s one thing he does really well.",
-    "Which probably is his Bulls fate somewhat similar to Norman Powell, though Powell’s contract might be more difficult to trade.",
-    "But he has a manageable contract with a player option, which figured to be the biggest appeal to the Bulls.",
-    "Once injuries and desperation hit around the league, Hield has a most marketable skill.",
-    "Outside of the fact he grew over the summer to 7 Feet along with him not showing much in the summer league, where do you see him on this Bulls team?",
-    "Though most important to remember about Essengue is that he was their (previous management’s) choice, and he basically is a rookie after missing all last season with surgery, and even still a teenager until December."
-   ],
-   "quotes": [
-    "The Lakers and Bulls are in advanced discussions on a trade that would send Dalton Knecht and Jaden Hardy to Chicago for big man Jalen Smith, according to sources."
    ]
   }
  ]
