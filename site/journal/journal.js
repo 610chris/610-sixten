@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "361-clippers-strus-foot-injury-four-weeks.html",
+    cat: "NBA",
+    title: "クリッパーズのストゥルース、右足底腱膜を部分断裂 —— プレシーズン開幕戦で負傷、4週間後に再評価",
+    excerpt: "LAクリッパーズのマックス・ストゥルースは、ハワイで行われたプレシーズン開幕戦で右足の足底腱膜を部分断裂し、4週間後に再評価されることになった。ブランドン・インガムやブラッドリー・ビールらの離脱が続く中でのさらなる負傷で、クリッパーズは開幕前から主力を欠く苦しい状況に置かれている。ESPNが伝えた。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "359-kaws-air-jordan-4-dark-grey.html",
     cat: "KICKS",
     title: "KAWS×Air Jordan 4「Dark Grey」が2027年夏発売へ —— 10年越しの再タッグ、3代目のコラボカラーに",
