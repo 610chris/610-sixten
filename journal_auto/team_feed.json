@@ -1,8 +1,80 @@
 {
- "updated_utc": "2026-10-05 01:13 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-10-05 07:39 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-open-preseason-with-win-over-denver-nuggets-three-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-open-preseason-with-win-over-denver-nuggets-three-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-open-preseason-with-win-over-denver-nuggets-three-takeaways",
+   "title": "Utah Jazz Open Preseason With Win over Denver Nuggets: Three Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-05T02:21:50Z",
+   "tags": [
+    "Ace Bailey",
+    "Isaiah Collier",
+    "Jaren Jackson Jr.",
+    "Keyonte George",
+    "Lauri Markkanen",
+    "Svi Mykhailiuk",
+    "Utah Jazz"
+   ],
+   "summary": "After a summer full of anticipation, Utah Jazz basketball made its return Sunday night.",
+   "facts": [
+    "After a summer full of anticipation, Utah Jazz basketball made its return Sunday night.",
+    "Although it was only a preseason matchup against the Denver Nuggets, Jazz fans finally got to see the 2026-27 squad in action.",
+    "Utah fought through multiple cold spells offensively to gain control and pull out a 109-97 win to open the preseason slate of games.",
+    "The long ball was a key weapon for the Jazz (15 made threes), while an edge on the boards (63-55) also helped fuel the victory.",
+    "The Jazz closed the opening frame on a 19-6 run, fueled by good ball movement (11 assists in the quarter) and hot shooting (52 percent from the field and five made 3-pointers).",
+    "It was a similar story in the second quarter, as Utah shot 1-of-10 from the field to begin the frame before using regular trips to the free-throw line to find more of a rhythm on the offensive end.",
+    "Lauri Markkanen totaled 17 points in the first half, with Jaren Jackson Jr. (11 points) and Keyonte George (10 points) following The Finnisher’s lead.",
+    "On the defensive end, the Jazz forced six turnovers and limited Denver to 44 percent shooting from the field, which helped push the visitors in front 63-52."
+   ],
+   "quotes": [
+    "It was a good first effort for our group,",
+    "Both of them were picking their spots really well and recognizing opportunities to attack versus when to move it,",
+    "When they play together, it’s a matchup problem. It’s all a work in progress. It’s about showing them positive moments and where they’re making good decisions.",
+    "I thought they both used their burst to get into the paint,"
+   ]
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "roster",
+   "key": "https://www.nba.com/suns/news/5-observations-from-suns-training-camp",
+   "url": "https://www.nba.com/suns/news/5-observations-from-suns-training-camp",
+   "canonical_url": "https://suns.com/news/5-observations-from-suns-training-camp",
+   "title": "5 Observations from Suns Training Camp",
+   "author": "Shane Young",
+   "published_utc": "2026-10-05T02:00:12Z",
+   "tags": [],
+   "summary": "The Phoenix Suns begin their preseason on Monday!",
+   "facts": [
+    "From the beginning of the season to the All-Star break, they ranked 3rd in average pickup distance (47.5 feet) on their defensive possessions.",
+    "They ranked 5th in the average time it took opponents to start their first action.",
+    "We were still top 10 (in frequency).",
+    "Last year was about setting the foundation for what a great defensive play looks like - how it starts, how it feels, and how players stay connected for the entire 24 seconds.",
+    "The Suns only finished 67.7% of their defensive possessions by collecting the rebound, which ranked 27th in the league last season.",
+    "Viewing it another way, that means they allowed opponents to grab their own misses 32.3% of the time.",
+    "We were 25th in wingspan last year.",
+    "Rasheer's is 7-5, Miles is bigger."
+   ],
+   "quotes": [
+    "We emphasize after free throws and dead balls to really extend it,",
+    "Just our initial pickup point and our aggressiveness helped fuel energy, even in the halfcourt when we got back to our base and the opponent got back to neutral.",
+    "We liked it and we're going to continue doubling down,",
+    "Full court pressure was up around the league. We were still top 10 (in frequency). Our goal has now shifted upward … we need to do it more."
+   ]
+  },
   {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
@@ -263,40 +335,6 @@
    "summary": "",
    "facts": [],
    "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "url": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "canonical_url": "https://warriors.com/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "title": "New Faces and Philosophies for Warriors 2026 Training Camp",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-02T23:55:48Z",
-   "tags": [
-    "2026 Training Camp",
-    "Player Spotlight"
-   ],
-   "summary": "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii. Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contract extension this offseason, committing to the Bay for the foreseeable fu…",
-   "facts": [
-    "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii.",
-    "Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contr…",
-    "Head Coach Steve Kerr also signed a multi-year extension.",
-    "The Warriors added three players with standard contracts for this upcoming season, including No. 11 pick Yaxel Lendeborg, fifth-year guard Brandon Williams, and 10-year NBA veteran Georges Niang.",
-    "Fresh off a National Championship with the University of Michigan, Lendeborg led the Warriors to the Summer League championship and was named the 2026 Summer League MVP.",
-    "At 6-foot-9 and 241 pounds, Lendeborg’s size, skill set, and IQ stood out to Jimmy Butler III.",
-    "General Manager Mike Dunleavy shared at Media Day that the Warriors had a full offseason to prepare for the void left by Butler and Moses Moody being out recovering from injuries at the start of the season — foresight th…",
-    "He has played for five different franchises over nine seasons and even had a career-altering stint with the Warriors’ G League affiliate in Santa Cruz following the team’s 2017 championship run."
-   ],
-   "quotes": [
-    "He's massive. He's a big human being, and he shoots the ball so incredibly well,",
-    "He's smart. He wants to learn, and he's a winning player.",
-    "Not many people can say they turned 24 playing in the NBA in Hawaii,",
-    "I would say playing meaningful minutes,"
-   ]
   },
   {
    "source": "DAL 公式（nba.com）",
