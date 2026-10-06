@@ -1,8 +1,65 @@
 {
- "updated_utc": "2026-10-05 22:53 UTC",
+ "updated_utc": "2026-10-06 03:18 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hawks-in-preseason-opener-132123",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hawks-in-preseason-opener-132123",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-hawks-in-preseason-opener-132123",
+   "title": "Grizzlies Defeat Hawks in Preseason Opener 132–123",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-10-06T02:46:54Z",
+   "tags": [
+    "Pressroom"
+   ],
+   "summary": "ATLANTA, GA - The Memphis Grizzlies (1-0) defeated the Atlanta Hawks (0-1) in each team's first preseason game, 132-123, Monday at State Farm Arena.",
+   "facts": [
+    "ATLANTA, GA - The Memphis Grizzlies (1-0) defeated the Atlanta Hawks (0-1) in each team's first preseason game, 132-123, Monday at State Farm Arena.",
+    "GG Jackson II led the Grizzlies in scoring with 14 points, and Jaylen Wells and Ty Jerome added 12 points each.",
+    "Jerami Grant and Scotty Pippen Jr. both finished with 10 points off the bench.",
+    "Cameron Boozer tallied 11 points, five rebounds, four assists and two steals in his preseason debut.",
+    "Corey Kispert led the Hawks in scoring with 19 points, and Asa Newell recorded his first double-double of the season with 12 points and 12 rebounds in 22 minutes.",
+    "Four other Hawks players accumulated double-digit points: Nickeil Alexander-Walker (14), Kingston Flemings (11), RayJ Dennis (12) and Jalen Wilson (12).",
+    "The Grizzlies ignited offensively in the second quarter, going on an 8-0 run to gain the lead and scored 49 points on 16-of-23 shooting (8-of-11 from 3) during the frame to take an 81-61 lead at the half.",
+    "Memphis shot 55.1% from the field and 41.9% from beyond the arc."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/after-winning-it-all-at-michigan-dusty-may-and-morez-johnson-jr-are-back-together-again",
+   "url": "https://www.nba.com/mavs/news/after-winning-it-all-at-michigan-dusty-may-and-morez-johnson-jr-are-back-together-again",
+   "canonical_url": "https://mavs.com/mavs/news/after-winning-it-all-at-michigan-dusty-may-and-morez-johnson-jr-are-back-together-again",
+   "title": "After winning it all at Michigan, Dusty May and Morez Johnson Jr. are back together again",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-06T00:27:38Z",
+   "tags": [
+    "dallas mavericks",
+    "Morez Johnson Jr.",
+    "nba"
+   ],
+   "summary": "As fate would have it, Dusty May and Morez Johnson Jr. are back together again.",
+   "facts": [
+    "This past spring, May led the University of Michigan to the national championship with Johnson being one of the pivotal players on a squad that finished last season with a gaudy 37-3 record.",
+    "Then on June 23, May turned in his college papers and became the head coach of the Dallas Mavericks."
+   ],
+   "quotes": [
+    "I didn’t know we were taking Morez until we had already taken him,",
+    "I didn’t see the message on who we were taking.",
+    "Obviously, you give them the feedback and intel on all your guys,",
+    "Morez and Aday have the same agency, so they started looking at me. So, at that point I used some deductive reasoning and figured it was one of the two, but I didn’t know which one."
+   ]
+  },
   {
    "source": "LAC 公式（nba.com）",
    "team": "LAC",
@@ -633,40 +690,6 @@
    "summary": "",
    "facts": [],
    "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "url": "https://www.nba.com/warriors/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "canonical_url": "https://warriors.com/news/new-faces-and-philosophies-for-warriors-2026-training-camp-20261002",
-   "title": "New Faces and Philosophies for Warriors 2026 Training Camp",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-02T23:55:48Z",
-   "tags": [
-    "2026 Training Camp",
-    "Player Spotlight"
-   ],
-   "summary": "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii. Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contract extension this offseason, committing to the Bay for the foreseeable fu…",
-   "facts": [
-    "The Warriors have tipped off the 2026-27 NBA season with Training Camp, presented by Gatorade, in Hawaii.",
-    "Golden State entered camp with strong continuity — six free agents returned (Draymond Green, Kristaps Porziņģis, Al Horford, De'Anthony Melton, Charles Bassey, Gary Payton II), and Stephen Curry signed a multi-year contr…",
-    "Head Coach Steve Kerr also signed a multi-year extension.",
-    "The Warriors added three players with standard contracts for this upcoming season, including No. 11 pick Yaxel Lendeborg, fifth-year guard Brandon Williams, and 10-year NBA veteran Georges Niang.",
-    "Fresh off a National Championship with the University of Michigan, Lendeborg led the Warriors to the Summer League championship and was named the 2026 Summer League MVP.",
-    "At 6-foot-9 and 241 pounds, Lendeborg’s size, skill set, and IQ stood out to Jimmy Butler III.",
-    "General Manager Mike Dunleavy shared at Media Day that the Warriors had a full offseason to prepare for the void left by Butler and Moses Moody being out recovering from injuries at the start of the season — foresight th…",
-    "He has played for five different franchises over nine seasons and even had a career-altering stint with the Warriors’ G League affiliate in Santa Cruz following the team’s 2017 championship run."
-   ],
-   "quotes": [
-    "He's massive. He's a big human being, and he shoots the ball so incredibly well,",
-    "He's smart. He wants to learn, and he's a winning player.",
-    "Not many people can say they turned 24 playing in the NBA in Hawaii,",
-    "I would say playing meaningful minutes,"
-   ]
   }
  ]
 }
