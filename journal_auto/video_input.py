@@ -256,9 +256,11 @@ def find_item(aid):
     raise SystemExit(f"ig_queue.json に {aid} が無い")
 
 
-def portrait_from(data, min_crop_h, focus_x=None):
+def portrait_from(data, min_crop_h, focus_x=None, face_y=FACE_Y, face_max=None):
     """写真を顔基準で 9:16 に切る。条件を満たさなければ (None, 理由)。
-    focus_x を渡すと、横の中心はその位置に固定する（顔検出は縦位置にだけ使う）"""
+    focus_x を渡すと、横の中心はその位置に固定する（顔検出は縦位置にだけ使う）。
+    face_y: 顔の中心を仕上がりの上から何割に置くか。
+    face_max: 切り抜いた結果、顔がこれより下になる（写真の端で寄せきれない）・顔が取れない写真は不採用"""
     im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert("RGB")
     sw, sh = im.size
     ch = min(sh, sw * 16 / 9)
@@ -268,7 +270,7 @@ def portrait_from(data, min_crop_h, focus_x=None):
     face = detect_face(im, with_size=True)
     if focus_x is not None:
         fx = focus_x * sw
-        fy = face[1] * sh if face and abs(face[0] - focus_x) < 0.1 else FACE_Y * sh
+        fy = face[1] * sh if face and abs(face[0] - focus_x) < 0.1 else face_y * sh
         # 複数人の全身写真（メディアデーの撮影風景など）は人が小さく、見出しが体に重なる（362）。
         # 顔が MIN_FACE に届くまで寄る。ただし min_crop_h より粗くしない・横は元の4割より狭くしない（隣の人を切らない）
         if face and abs(face[0] - focus_x) < 0.1 and face[2] * sh / ch < MIN_FACE:
@@ -281,7 +283,12 @@ def portrait_from(data, min_crop_h, focus_x=None):
     else:
         fx, fy = face[0] * sw, face[1] * sh
     x = min(max(fx - cw / 2, 0), sw - cw)
-    y = min(max(fy - FACE_Y * ch, 0), sh - ch)
+    y = min(max(fy - face_y * ch, 0), sh - ch)
+    if face_max is not None:
+        if not face or (focus_x is not None and abs(face[0] - focus_x) >= 0.1):
+            return None, "顔の位置が取れない"
+        if (fy - y) / ch > face_max:
+            return None, f"顔を上に寄せきれない（上から{(fy - y) / ch * 100:.0f}%）"
     out = im.crop((round(x), round(y), round(x + cw), round(y + ch))).resize((W, H), Image.LANCZOS)
     return out, f"元{sw}x{sh}→切り抜き{cw:.0f}x{ch:.0f}（顔 上から{(fy - y) / ch * 100:.0f}%）"
 
@@ -462,6 +469,9 @@ def library_used(status, exclude_aid=None):
         route = st.get("route") or ""
         if aid != exclude_aid and route.startswith("library "):
             used[route.split()[1]] += 1
+        m = re.search(r" player=(\S+)$", route)  # KICKS 記事の背景に敷いた着用選手の写真
+        if aid != exclude_aid and m:
+            used[m.group(1)] += 1
     return used
 
 
@@ -487,7 +497,7 @@ def group_focus_x(data):
     return (min(xs) + max(xs)) / 2 if len(xs) >= 2 else None
 
 
-def route_library(names, item, used=None):
+def route_library(names, item, used=None, face_y=FACE_Y, face_max=None):
     """NBA写真ライブラリ（チーム公式IG）から記事の選手の写真を選び、顔基準で縦に切る"""
     try:
         lib = json.load(open(LIBRARY, encoding="utf-8")).get("items") or []
@@ -522,7 +532,7 @@ def route_library(names, item, used=None):
             data = http_get(e["url"], 60)
             # 複数人の写真は顔の並びの中央で切る（一番大きい顔＝主役とは限らない）
             fx = group_focus_x(data) if len(e.get("players") or []) > 1 else None
-            img, how = portrait_from(data, MIN_CROP_H_SOURCE, fx)
+            img, how = portrait_from(data, MIN_CROP_H_SOURCE, fx, face_y, face_max)
         except Exception as ex:
             log(f"    取得失敗 {e['key']}: {ex}")
             continue
@@ -592,6 +602,14 @@ def route_espn_athlete(names, item):
 # 文字（見出し・本文）は下寄せなので、上段の箱とは重ならない。
 KICKS_BOX = (150, 930)     # 靴を置く上段の箱（上端y, 下端y）
 KICKS_MIN_W = 700          # これより小さい画像は粗いので使わない
+# 2026-10-06 クリス指示「KICKS 記事の背景を、その靴を履いている選手の写真にする」。
+# 記事の subject（LeBron 24 → LeBron James 等）の写真がライブラリにあれば、ぼかしの代わりに全面に敷く。
+# 顔を上に寄せ（KICKS_PLAYER_FACE_Y）、靴はその下の箱（KICKS_PLAYER_BOX）へ＝顔・靴・文字が重ならない。
+# 靴の画像が無い時に選手写真だけで出すことはしない（靴のデザインが載っていないのは不可）。
+KICKS_PLAYER_FACE_Y = 0.12
+KICKS_PLAYER_FACE_MAX = 0.18  # 写真の端で顔をここより上に寄せきれない写真は使わない（靴で顔が隠れる）
+KICKS_PLAYER_BOX = (480, 930)
+KICKS_PLAYER_DIM = 0.6     # 選手写真の明るさ（靴と文字を立たせる）
 SKU = re.compile(r"品番\s*([A-Z0-9]{2,}-[A-Z0-9]{3})")
 KICKS_HOSTS = {"sneakernews.com": "Sneaker News", "nicekicks.com": "Nice Kicks", "hypebeast.com": "Hypebeast",
                "sneakerfiles.com": "Sneaker Files", "kicksonfire.com": "KicksOnFire", "complex.com": "Complex",
@@ -603,13 +621,18 @@ def is_shoe_release(item):
     return bool(SKU.search(" ".join([item.get("headline", ""), item.get("excerpt", "")])))
 
 
-def kicks_layout(data):
+def kicks_layout(data, player_bg=None):
+    """player_bg: 着用選手の縦写真（W x H・顔が上寄り）。あれば暗くして全面に敷き、靴は下の箱へ"""
     im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert("RGB")
     if im.width < KICKS_MIN_W:
         return None, f"画像が小さい（幅{im.width}px<{KICKS_MIN_W}）"
-    top, bottom = KICKS_BOX
-    bg = ImageOps.fit(im, (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(45))
-    bg = Image.eval(bg, lambda v: int(v * 0.55))
+    if player_bg is not None:
+        top, bottom = KICKS_PLAYER_BOX
+        bg = Image.eval(player_bg, lambda v: int(v * KICKS_PLAYER_DIM))
+    else:
+        top, bottom = KICKS_BOX
+        bg = ImageOps.fit(im, (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(45))
+        bg = Image.eval(bg, lambda v: int(v * 0.55))
     s = min(W / im.width, (bottom - top) / im.height)
     fg = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
     bg.paste(fg, ((W - fg.width) // 2, top + (bottom - top - fg.height) // 2))
@@ -658,16 +681,39 @@ def kicks_official(item, tmp):
     return open(tmp, "rb").read(), (label.group(1).strip() if label else "ブランド公式")
 
 
-def route_kicks(item):
+def kicks_player(item, used=None):
+    """着用選手（記事の subject）の写真をライブラリから縦に切って返す。(img, クレジット, key) か None"""
+    names = [s for s in item.get("subject") or [] if s.strip()]
+    if not names:
+        return None
+    got = route_library(names, item, used, face_y=KICKS_PLAYER_FACE_Y, face_max=KICKS_PLAYER_FACE_MAX)
+    if not got:
+        log(f"  Ⓚ 着用選手の写真がライブラリに無い: {' / '.join(names)}（ぼかし背景にする）")
+        return None
+    img, credit, route = got
+    return img, re.sub(r"^写真[:：]\s*", "", credit), route.split()[1]
+
+
+def kicks_credit(shoe, player):
+    return f"写真: {shoe} / {player[1]}" if player else f"写真: {shoe}"
+
+
+def kicks_route(route, player):
+    return f"{route} player={player[2]}" if player else route
+
+
+def route_kicks(item, used=None):
+    player = kicks_player(item, used)
+    pbg = player[0] if player else None
     url = source_url(item["id"])
     if url and not shared_sources(item["id"], url):
         try:
             got = kicks_source_image(url)
             if got:
                 from pick_product_photo import fetch as curl_fetch
-                img, how = kicks_layout(curl_fetch(got[0], 60))
+                img, how = kicks_layout(curl_fetch(got[0], 60), pbg)
                 if img is not None:
-                    return img, f"写真: {got[1]}", f"kicks_source {got[0]} {how}"
+                    return img, kicks_credit(got[1], player), kicks_route(f"kicks_source {got[0]} {how}", player)
                 log(f"  Ⓚ ネタ元の画像 不採用: {how} {got[0]}")
             else:
                 log(f"  Ⓚ ネタ元に画像が無い: {url}")
@@ -678,13 +724,13 @@ def route_kicks(item):
     except Exception as e:
         data, credit = None, f"失敗: {e}"
     if data is not None:
-        img, how = kicks_layout(data)
+        img, how = kicks_layout(data, pbg)
         if img is not None:
-            return img, f"写真: {credit}", f"kicks_official {how}"
+            return img, kicks_credit(credit, player), kicks_route(f"kicks_official {how}", player)
         log(f"  Ⓚ ブランド公式 不採用: {how}")
     else:
         log(f"  Ⓚ ブランド公式 {credit}")
-    return route_kicks_library(item)
+    return route_kicks_library(item, player)
 
 
 KICKS_STOP = {"nike", "jordan", "air", "adidas", "new", "balance", "puma", "the", "x", "×", "and", "&", "low", "mid", "high", "og"}
@@ -694,7 +740,7 @@ def kicks_words(text):
     return [w for w in re.findall(r"[a-z0-9]+", text.lower()) if w not in KICKS_STOP]
 
 
-def route_kicks_library(item):
+def route_kicks_library(item, player=None):
     """Ⓚ SLAM KICKS（@slamkicks）の写真から、キャプションに記事の靴のモデル名（とカラー名）が全部入っている写真を使う。
     品番つきの新作記事でカラー名が見出しにある時は、カラー名まで一致した写真だけ（別カラーを出さない）"""
     try:
@@ -724,12 +770,13 @@ def route_kicks_library(item):
     log(f"  Ⓚ SLAM KICKS「{' '.join(mw)}{' / ' + ' '.join(cw) if cw else ''}」: 候補{len(cands)}")
     for _, e in sorted(cands, key=lambda t: t[0])[:MAX_TRY]:
         try:
-            img, how = kicks_layout(http_get(e["url"], 60))
+            img, how = kicks_layout(http_get(e["url"], 60), player[0] if player else None)
         except Exception as ex:
             log(f"    取得失敗 {e['key']}: {ex}")
             continue
         if img is not None:
-            return img, f"写真: {e.get('credit') or 'SLAM KICKS'}", f"kicks_library {e['key']} {e.get('date', '')} {how}"
+            return (img, kicks_credit(e.get('credit') or 'SLAM KICKS', player),
+                    kicks_route(f"kicks_library {e['key']} {e.get('date', '')} {how}", player))
         log(f"    不採用({how}) {e['key']}")
     return None
 
@@ -854,7 +901,7 @@ def build(aid, used=None):
     kicks = item.get("category") == "KICKS"
     got = route_override(aid)
     if not got and kicks:
-        got = route_kicks(item)
+        got = route_kicks(item, used)
     if not got and not (kicks and is_shoe_release(item)):
         if names:
             got = route_library(names, item, used) or route_espn_athlete(names, item)
