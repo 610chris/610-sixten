@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "371-nba-smart-basketball-referee-wearables.html",
+    cat: "NBA",
+    title: "NBA、「スマートバスケットボール」とレフェリー用リストバンドをプレシーズンで試験導入 —— リプレイ判定の高度化へ、今季はまだ本採用せず",
+    excerpt: "NBAは一部のプレシーズンの試合で、Bluetoothセンサーを内蔵した「スマートバスケットボール」と、審判がリプレイセンターと通信できるリストウェアラブルの試験導入を発表した。データ収集が目的で、今季の判定そのものには影響しないという。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "370-spurs-tobias-harris-calf-strain.html",
+    cat: "NBA",
+    title: "スパーズのトバイアス・ハリス、左ふくらはぎ負傷で開幕戦の出場に黄信号 —— 加入直後、先発定着を目指す中での負傷",
+    excerpt: "サンアントニオ・スパーズに今夏加入したトバイアス・ハリスが左ふくらはぎを負傷し、10月20日のレギュラーシーズン開幕戦(オクラホマシティ・サンダー戦)の出場が微妙な情勢になっている。ESPNが伝えた。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "369-hornets-coby-white-calf-strain.html",
+    cat: "NBA",
+    title: "ホーネッツのコービー・ホワイト、左ふくらはぎ負傷でプレシーズン残り全休 —— カニップルも故障中、バックコートに不安",
+    excerpt: "シャーロット・ホーネッツのコービー・ホワイトが左ふくらはぎを負傷し、プレシーズン残り試合を全休することが分かった。夏に3年7400万ドルで再契約した主力ガードの離脱で、ラメロ・ボール放出後のバックコートに不安が残る。ESPNが伝えた。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "368-sixers-hukporti-achilles-season-ending.html",
     cat: "NBA",
     title: "76ersのフクポルティ、右アキレス腱完全断裂で今季絶望 —— プレシーズン開幕戦で負傷、本日手術へ",
