@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "367-circus-kawasaki-bravethunders-sponsor.html",
+    cat: "JAPAN",
+    title: "circus、川崎ブレイブサンダースの冠スポンサーに就任 —— 11月1日の横浜戦、「UNLOCK YOUR POTENTIAL」掲げ特設ブースも",
+    excerpt: "HRTech企業のcircus株式会社は、B.LEAGUE所属・川崎ブレイブサンダースが11月1日に開催するホームゲーム（vs横浜ビー・コルセアーズ）の冠スポンサーに就任したと発表した。代表の矢部貴志氏は中学時代に神奈川県選抜でプレーした経験を持ち、現在同クラブに所属する篠山竜青選手とはかつてのチームメート。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-367-hero.jpg?v=82e985217b"
+  },
+  {
     href: "366-nba-new-lottery-rules-tanking.html",
     cat: "NBA",
     title: "新ドラフト抽選ルールでNBAはどう変わる —— ザック・クラム記者が5つの予測、\"タンキング\"は本当に消えるか",
