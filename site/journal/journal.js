@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "364-air-jordan-11-space-jam-2026.html",
+    cat: "KICKS",
+    title: "Air Jordan 11「Space Jam」が12月12日に\"真のOG仕様\"で復刻 —— 「Green Screen」「WMNS マジックボール」も同時展開",
+    excerpt: "ジョーダン ブランドは、映画『スペース・ジャム』のカラーとして知られる「Air Jordan 11」オリジナルカラーを12月12日に復刻発売する。あわせて「Green Screen」(品番IQ5700-900・11月14日)、WMNS「Magic Ball」(品番IZ1800-200・11月11日)も展開し、映画にちなんだ3カラー展開となる。Nice Kicks、Sneaker Filesなどが伝えた。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "363-nike-lebron-24-stars.html",
+    cat: "KICKS",
+    title: "Nike LeBron 24「Stars」が11月17日発売 —— 歴代最軽量とされる最新シグネチャー、\"本番\"カラーが登場",
+    excerpt: "ナイキは、レブロン・ジェームズの最新シグネチャーモデル「Nike LeBron 24」の正式な一般発売カラー「Stars」(品番IO8204-400)を11月17日に発売する。LeBronシリーズ史上もっとも軽量な仕上がりとされ、数カ月にわたる先行お披露目を経ての\"本番\"投入となる。Sneaker NewsとSneaker Bar Detroitが伝えた。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "362-hachimura-clippers-camp-notebook.html",
     cat: "NBA",
     title: "八村塁がFG8/11・3P4本と好調 —— ルーキー・ワグラーの終盤ショットでクリッパーズが開幕戦を接戦制す",
