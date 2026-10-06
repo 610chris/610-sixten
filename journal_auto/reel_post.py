@@ -27,7 +27,8 @@ GitHub Actions（.github/workflows/video-build.yml）が動画を書き出した
 """
 
 import argparse, json, os, subprocess, sys, time, urllib.error, urllib.parse, urllib.request
-from datetime import datetime
+from collections import Counter
+from datetime import datetime, timedelta
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
@@ -52,6 +53,50 @@ BETWEEN_POSTS = 60      # 秒。まとめて書き出された日に連投にな
 POLL_INTERVAL = 10
 POLL_LIMIT = 60         # 最大10分待つ
 THUMB_BEFORE_END = 0.6  # 秒。サムネにするコマ（終わりのこれだけ前）
+# カテゴリ別の本数配分（24時間あたりの上限）。growth/ig/report.py が観察実験の判定後に自動で書く。
+# 2026-10-06 クリス指示「KICKS・PR系の投稿本数の配分を見直す（エンゲージの観察実験の結果が出てから）」
+# →「これから自分で続けて言いたくないから…言わずとも成立するようにして」。ファイルが無い・上限 null なら今まで通り全部出す。
+MIX_FILE = os.path.join(HERE, "growth", "ig", "mix.json")
+MIX_DROP_H = 48         # 上限で待たされたまま、書き出しからこれだけ過ぎたニュースは出さない（古いニュースを後から流さない）
+
+
+def mix_caps():
+    try:
+        m = json.load(open(MIX_FILE, encoding="utf-8"))
+        return m.get("daily_cap") or {}, m.get("no_person_cap")
+    except Exception:
+        return {}, None
+
+
+def apply_mix(todo, items, status, limit):
+    """上限を超える分は今回は出さない（次の実行に回す）。MIX_DROP_H を過ぎたら mix_dropped にして以後出さない"""
+    caps, np_cap = mix_caps()
+    if not caps and np_cap is None:
+        return todo[:limit], False
+    now = datetime.now(VB.JST)
+    recent = [a for a, st in status.items() if a in items and st.get("reel_posted_at")
+              and datetime.fromisoformat(st["reel_posted_at"]) >= now - timedelta(hours=24)]
+    cnt = Counter(items[a].get("category") for a in recent)
+    npc = sum(1 for a in recent if not items[a].get("subject"))
+    keep, dropped = [], False
+    for aid in todo:
+        if len(keep) >= limit:
+            break
+        it = items[aid]
+        cat, noperson = it.get("category"), not it.get("subject")
+        cap = caps.get(cat)
+        if (cap is not None and cnt[cat] >= cap) or (np_cap is not None and noperson and npc >= np_cap):
+            if now - datetime.fromisoformat(status[aid]["built_at"]) > timedelta(hours=MIX_DROP_H):
+                status[aid]["mix_dropped"] = f"{now:%Y-%m-%d %H:%M} 配分の上限（mix.json）で{MIX_DROP_H}時間出せず見送り"
+                dropped = True
+                print(f"[mix] {aid} 見送り（{cat}・{MIX_DROP_H}時間たっても上限のまま）")
+            else:
+                print(f"[mix] {aid} 保留（{cat}・24時間の上限に到達）")
+            continue
+        keep.append(aid)
+        cnt[cat] += 1
+        npc += noperson
+    return keep, dropped
 
 
 def token():
@@ -166,7 +211,7 @@ def main():
     todo = []
     for aid, st in sorted(status.items()):
         it = items.get(aid)
-        if not it or it.get("state") == "skipped" or st.get("no_photo"):
+        if not it or it.get("state") == "skipped" or st.get("no_photo") or (st.get("mix_dropped") and not want):
             continue
         if want:
             if aid in want and (args.test or not st.get("reel_media_id")):
@@ -177,7 +222,12 @@ def main():
         if datetime.fromisoformat(st["built_at"]) < start:
             continue
         todo.append(aid)
-    todo = todo[: args.max]
+    if want or args.test:
+        todo = todo[: args.max]
+    else:
+        todo, dropped = apply_mix(todo, items, status, args.max)
+        if dropped:
+            VB.save_status(status, True)
     if not todo:
         print("投稿するリールはない")
         return

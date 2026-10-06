@@ -45,6 +45,7 @@ jobs:
           git config user.name "ig-insights"
           git config user.email "actions@github.com"
           git add journal_auto/growth/ig/data journal_auto/growth/ig/REPORT.md
+          [ -f journal_auto/growth/ig/mix.json ] && git add journal_auto/growth/ig/mix.json
           if git diff --cached --quiet; then
             echo "変化なし — commit しない"
             exit 0

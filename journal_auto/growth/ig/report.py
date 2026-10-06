@@ -370,8 +370,67 @@ def sec_experiments(auto, now):
                     rs = [r for r in allok if r.get("category") == cat and bool(r.get("subject")) == has]
                     if rs:
                         L.append(row(f"{cat}・{'選手あり' if has else '選手なし'}", rs))
-            L += ["", "**判定: 観察中**（同じカテゴリ内で選手あり/なしが各20本たまったら比較する・対応はクリスに提案して決める）", ""]
+            L += ["", "**判定: 観察中**（同じカテゴリ内で選手あり/なしが各20本たまったら比較する）", ""]
+            if e["id"] == MIX_EXP:
+                L += decide_mix(auto, now)
     return L
+
+
+MIX = HERE / "mix.json"
+MIX_EXP = "ig-2026-10-content-mix-observe"
+MIX_WAIT_DAYS = 3        # 終了日の投稿が72時間たつのを待ってから決める
+MIX_MIN_CAT = 5          # KICKS/JAPAN がこれ未満なら、そのカテゴリは決めない（上限なしのまま）
+
+
+def decide_mix(auto, now):
+    """観察実験が終わったら本数配分を決めて mix.json に書く（1回だけ。reel_post.py が読む）。
+
+    2026-10-06 クリス指示「KICKS・PR系の投稿本数の配分を見直す（エンゲージの観察実験の結果が出てから）」
+    「これから自分で続けて言いたくないから…言わずとも成立するようにして」→ 提案待ちにせず自動で反映する。
+    - KICKS・JAPAN の views 中央値（72時間値）が NBA の 0.5倍未満 → 24時間に1本 / 0.8倍未満 → 2本 / それ以上 → 上限なし
+    - 同じカテゴリ内で選手あり・なしが各20本以上あり、選手ありが1.5倍以上 →「選手なし」の投稿は全カテゴリで24時間に1本
+    戻り値は REPORT に書く行。
+    """
+    mix = load(MIX, {})
+    if mix.get("decided_by") == MIX_EXP:
+        return [f"**配分: 決定済み（{mix.get('decided_at')}）** → 24時間の上限 {json.dumps(mix.get('daily_cap'), ensure_ascii=False)}"
+                f"・選手なし {json.dumps(mix.get('no_person_cap'))}（null=上限なし）。理由: {mix.get('reason')}", ""]
+    exp = next((e for e in load(HERE / "experiments.json", {}).get("experiments", []) if e["id"] == MIX_EXP), None)
+    if not exp:
+        return []
+    start, ends = date.fromisoformat(exp["started"]), date.fromisoformat(exp["ends"])
+    if now.date() < ends + timedelta(days=MIX_WAIT_DAYS):
+        return [f"配分は {ends + timedelta(days=MIX_WAIT_DAYS)} 以降の毎朝の更新で自動で決まる（mix.json → reel_post.py）。", ""]
+    ok = [r for r in auto if r["at72"] and start <= r["t"].date() <= ends and r["at72"].get("views") is not None]
+    by = lambda cat, has=None: [r["at72"]["views"] for r in ok if r.get("category") == cat
+                                and (has is None or bool(r.get("subject")) == has)]
+    nba = by("NBA")
+    if len(nba) < MIN_N:
+        return [f"配分: NBA の比較対象が {len(nba)} 本で足りない（{MIN_N}本で決める）。上限なしのまま。", ""]
+    base = med(nba)
+    caps, why = {}, [f"NBA {len(nba)}本 中央値{base:.0f}"]
+    for cat in ("KICKS", "JAPAN"):
+        v = by(cat)
+        if len(v) < MIX_MIN_CAT:
+            caps[cat] = None
+            why.append(f"{cat} {len(v)}本で少なすぎ→上限なし")
+            continue
+        ratio = med(v) / base if base else 1
+        caps[cat] = 1 if ratio < 0.5 else (2 if ratio < 0.8 else None)
+        why.append(f"{cat} {len(v)}本 中央値{med(v):.0f}（NBAの{ratio:.2f}倍）")
+    person = []
+    for cat in ("NBA", "KICKS", "JAPAN"):
+        a, b = by(cat, True), by(cat, False)
+        if len(a) >= 20 and len(b) >= 20 and med(b) and med(a) >= med(b) * 1.5:
+            person.append(f"{cat} 選手あり{med(a):.0f}/なし{med(b):.0f}")
+    np_cap = 1 if person else None
+    why.append("人物の効果あり: " + "・".join(person) if person else "人物の効果は判定できず/差なし")
+    mix = {"decided_by": MIX_EXP, "decided_at": f"{now:%Y-%m-%d %H:%M}", "daily_cap": caps,
+           "no_person_cap": np_cap, "reason": " / ".join(why),
+           "note": "report.py が観察実験の判定で自動で書いた。消す・null にすると上限なしに戻る"}
+    MIX.write_text(json.dumps(mix, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    return [f"**配分: 今回決定（{mix['decided_at']}）** → 24時間の上限 {json.dumps(caps, ensure_ascii=False)}"
+            f"・選手なし {json.dumps(np_cap)}（null=上限なし）。理由: {mix['reason']}", ""]
 
 
 def main():
