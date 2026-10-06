@@ -145,6 +145,15 @@ def main():
                                 "built_at": datetime.now(JST).isoformat(timespec="seconds")}
             save_status(status, upload)
             print(f"[done] {it['id']} {url or mp4}")
+        except video_input.NoPhoto as e:
+            # フリー画像では作らない方針なので失敗扱いにしない。記録して次回以降は飛ばす
+            # （ライブラリに写真を足したら `video_build.py NNN --force` で作り直す）。
+            # 既に動画がある記事（--force の作り直し）は記録を上書きしない＝投稿済みの記録を消さない。
+            if not status.get(it["id"], {}).get("built_at"):
+                status[it["id"]] = {"no_photo": str(e)[:300],
+                                    "checked_at": datetime.now(JST).isoformat(timespec="seconds")}
+                save_status(status, upload)
+            print(f"[skip] {it['id']}: {e}")
         except Exception as e:
             failed += 1
             print(f"[fail] {it['id']}: {e}", file=sys.stderr)
