@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "368-sixers-hukporti-achilles-season-ending.html",
+    cat: "NBA",
+    title: "76ersのフクポルティ、右アキレス腱完全断裂で今季絶望 —— プレシーズン開幕戦で負傷、本日手術へ",
+    excerpt: "フィラデルフィア・76ersのバックアップセンター、アリエル・フクポルティが右アキレス腱を完全断裂し、今シーズンを絶望視されている。10月5日のプレシーズン開幕戦で負傷し、翌6日のMRIで判明。Shams Charania記者（ESPN）が伝えた。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "367-circus-kawasaki-bravethunders-sponsor.html",
     cat: "JAPAN",
     title: "circus、川崎ブレイブサンダースの冠スポンサーに就任 —— 11月1日の横浜戦、「UNLOCK YOUR POTENTIAL」掲げ特設ブースも",
