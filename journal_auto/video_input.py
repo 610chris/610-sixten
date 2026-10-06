@@ -10,14 +10,19 @@
     journal_video/input/auto/<slug>.json
     journal_video/public/assets/journal/auto/<NNN>-bg.jpg
 
-背景は次の順で探し、取れた時点で止める（item["subject"] = 記事の主役の選手名・英語）:
+背景は次の順で探し、取れた時点で止める（item["subject"] = 記事の主役の選手名・英語）。2026-10-05 に組み替え:
+    ⓞ manual_bg/<NNN>.jpg（手で置いた背景）
+    Ⓚ KICKS の靴記事: ネタ元の靴画像（Sneaker News は WP API・Hypebeast/Nice Kicks は og:image）
+       → ブランド公式（品番/カラーが一致する時だけ）。上段に靴全体＋下は同じ写真のぼかし（kicks_layout）。
+       品番入りの発売記事は選手写真に落とさない
+    Ⓛ 写真ライブラリ（チーム公式IG優先・ESPN由来は移籍前の写真があるので後回し）
+    Ⓔ ESPN の選手関連記事の写真（写真説明に姓が入っている＝本人・SOURCE_MAX_AGE 日以内）
     ⓢ ネタ元記事のメイン画像（記事ページの外部リンク＝ネタ元。ESPN は公開APIで原寸を引く）
-    ① hero_sources.json に記事ヒーローの原寸URLがある（汎用写真でない）→ 顔を上から約30%に置いて縦に切る
-    ② subject で Commons 検索（直近3年・切り抜く高さが元画像で1600px以上・顔が検出できる）
-    ③ subject で Commons 検索（年代は問わない）
-    ④ 記事ヒーローをぼかして敷き、くっきりしたヒーローを上側に重ねる
-    ⑤ 記事が汎用イメージ写真（fallback-images.md）を使っていて記事専用ヒーローが無い場合、
-       その写真の縦版（1080x1920・make_video_fallbacks.py で常備）をフル画面で敷く
+    ① hero_sources.json の記事ヒーロー原寸（権利フリー＝CC/PD/CC0 の写真は除く）
+    どれも取れなければ NoPhoto を投げ、video_build.py が status に no_photo と記録して動画を作らない。
+2026-10-05 クリス指示「リールに関しては権利持ってるから画像権利フリーの画像なんか使ってほしくない」で、
+Commons(CC) 検索・汎用フォールバック・ヒーローぼかし・メディアデーの Commons 新着検索は build() から外した
+（関数は残っているが呼ばない）。以下の段落の旧経路の説明は経緯として残す。
 
 ⓢ は 2026-09-29 クリス指示「IG投稿は写真権利に関しては大きくリーグに許容されているから、もっと画像
 いいのにしてよ！」→ 取得元の選択「元記事の写真」で先頭に置いた。IGリールの話で、サイト記事の写真ルール
@@ -138,8 +143,11 @@ DUP_RATIO = 0.55
 # 厳密な折り返しは journal_video/src/body.ts（layoutBody）がやるので、
 # ここは「何文まで載せるか」を決めるための粗い見積りでよい。
 BODY_LINE_EM = 33.5
-BODY_TARGET_LINES = 12  # クリスの「12行ぐらい」
-BODY_MAX_LINES = 13     # 次の1文を足して超えるなら、その文は載せない
+# 2026-10-05 クリス指示「初期値の1.5倍ぐらいでいいと思ったんだけど、3倍ぐらいになっちゃってる」。
+# 初期値（points 3行）は直近60本の中央値で約55em、12行版は約312em（5.7倍）だった。
+# 量は行数でなく文字幅(em)で決める＝1.5倍の約85em（本文40pxで3〜4行）。
+BODY_TARGET_EM = 85
+BODY_MAX_EM = 100       # 次の1文を足して超えるなら、その文は載せない
 _BODY_GLYPH = None
 
 
@@ -213,16 +221,16 @@ def article_body(aid):
         if m.group(1).strip() not in BODY_P_ATTR:
             continue
         sentences += sentences_of(text)
-    body, lines = [], 0
+    body, em = [], 0
     for t in sentences:
         if says_same(t, body):
             continue
-        n = body_lines(t)
-        if body and lines + n > BODY_MAX_LINES:
+        n = body_em(t)
+        if body and em + n > BODY_MAX_EM:
             break
         body.append(t)
-        lines += n
-        if lines >= BODY_TARGET_LINES:
+        em += n
+        if em >= BODY_TARGET_EM:
             break
     return body
 
@@ -260,6 +268,11 @@ def portrait_from(data, min_crop_h, focus_x=None):
     if focus_x is not None:
         fx = focus_x * sw
         fy = face[1] * sh if face and abs(face[0] - focus_x) < 0.1 else FACE_Y * sh
+        # 複数人の全身写真（メディアデーの撮影風景など）は人が小さく、見出しが体に重なる（362）。
+        # 顔が MIN_FACE に届くまで寄る。ただし min_crop_h より粗くしない・横は元の4割より狭くしない（隣の人を切らない）
+        if face and abs(face[0] - focus_x) < 0.1 and face[2] * sh / ch < MIN_FACE:
+            ch = max(min(ch, face[2] * sh / MIN_FACE), min_crop_h, min(ch, sw * 0.4 * 16 / 9))
+            cw = ch * 9 / 16
     elif not face:
         return None, "顔が検出できない"
     elif face[2] * sh / ch < MIN_FACE:
@@ -495,7 +508,9 @@ def route_library(names, item, used=None):
         # （主役の写真が使い切りなら、記事に出てくる2人目以降の未使用の写真を先に使う）
         n_used = used.get(e["key"], 0)
         # @nba（リーグ公式）の投稿は写真に大きな文字を載せた加工画像が多いので、チーム公式の後に回す
-        order = (n_used > 0, rank, n_used, len(ps) > 1, (e.get("credit") or "").startswith("nba "),
+        # ESPN 由来（espn-*）は日付が「記事の日付」で、写真は移籍前のことがある（362 クリッパーズ記事に
+        # レイカーズ時代の八村が出た）。使い回しになってもチーム公式IGの写真を先にする。
+        order = (e["key"].startswith("espn-"), n_used > 0, rank, n_used, len(ps) > 1, (e.get("credit") or "").startswith("nba "),
                  mediaday and e.get("event") not in LIBRARY_MEDIADAY_EVENTS,
                  -int(re.sub(r"\D", "", e.get("date", "")) or 0))
         best[e["key"]] = (order, e)
@@ -515,6 +530,164 @@ def route_library(names, item, used=None):
             continue
         return img, f"写真: {e['credit']}", f"library {e['key']} {e.get('event', '')} {e.get('date', '')} {how}"
     return None
+
+
+ESPN_PHOTO_DATE = re.compile(r"/photo/(\d{4})/(\d{2})(\d{2})/")
+
+
+def espn_athlete_id(name):
+    d = json.loads(http_get("https://site.web.api.espn.com/apis/common/v3/search?query="
+                            + urllib.parse.quote(name) + "&type=player&limit=5"))
+    return next((it["id"] for it in d.get("items") or []
+                 if it.get("league") == "nba" and norm_name(it.get("displayName")) == norm_name(name)), None)
+
+
+def route_espn_athlete(names, item):
+    """Ⓔ ESPN の選手関連記事の写真から、写真説明に選手の姓が入っている写真（＝本人が写っている）を新しい順に使う。
+    2026-10-05 クリス指示「八村君のゲームだったら…彼の写真…いろんなところで出回ってんのに
+    フリーの画像を入れちゃうってことはもうほぼナンセンス」で設置。古い写真（移籍前の恐れ）は使わない"""
+    art = datetime.fromisoformat((item.get("date") or datetime.now().isoformat())[:10]).replace(tzinfo=timezone.utc)
+    for name in split_names(names)[:2]:
+        try:
+            pid = espn_athlete_id(name)
+            if not pid:
+                log(f"  Ⓔ ESPN に選手が見つからない: {name}")
+                continue
+            news = json.loads(http_get(f"https://now.core.api.espn.com/v1/sports/news?athletes={pid}&limit=50"))
+        except Exception as e:
+            log(f"  Ⓔ 取得失敗 {name}: {e}")
+            continue
+        last = name.split()[-1].lower()
+        cands = {}
+        for h in news.get("headlines") or []:
+            for im in h.get("images") or []:
+                url, cap = im.get("url") or "", (im.get("caption") or "").lower()
+                dm = ESPN_PHOTO_DATE.search(url)
+                if not dm or last not in cap:
+                    continue
+                taken = datetime(int(dm[1]), int(dm[2]), int(dm[3]), tzinfo=timezone.utc)
+                if (art - taken).days >= SOURCE_MAX_AGE:
+                    continue
+                full = re.sub(r"_\d+x\d+(_[\d-]+)?(\.jpg)$", r"\2", url)
+                cands[full] = (taken, im.get("credit") or "ESPN")
+        log(f"  Ⓔ ESPN「{name}」: 写真説明に名前があり直近{SOURCE_MAX_AGE}日の写真 {len(cands)}枚")
+        for full, (taken, credit) in sorted(cands.items(), key=lambda t: t[1][0], reverse=True)[:MAX_TRY]:
+            try:
+                img, how = portrait_from(http_get(full, 60), MIN_CROP_H_SOURCE)
+            except Exception as e:
+                log(f"    取得失敗 {full}: {e}")
+                continue
+            if img is None:
+                log(f"    不採用({how}) {full}")
+                continue
+            return img, f"写真: {credit}", f"espn_athlete {full} {taken:%Y-%m-%d} {how}"
+    return None
+
+
+# ── KICKS（スニーカー記事）: その靴そのものの画像を上段に全体表示する ──
+# 2026-10-05 クリス指示「何より靴のデザインが載ってない画像としてもうそれはありえない…
+# フリーなんか使わないでほしい絶対に探してきてほしいその対象となるシューズを」。
+# 切り抜かず（靴が切れない）に上段の箱へ収め、残りは同じ写真をぼかして暗くしたもので埋める。
+# 文字（見出し・本文）は下寄せなので、上段の箱とは重ならない。
+KICKS_BOX = (150, 930)     # 靴を置く上段の箱（上端y, 下端y）
+KICKS_MIN_W = 700          # これより小さい画像は粗いので使わない
+SKU = re.compile(r"品番\s*([A-Z0-9]{2,}-[A-Z0-9]{3})")
+KICKS_HOSTS = {"sneakernews.com": "Sneaker News", "nicekicks.com": "Nice Kicks", "hypebeast.com": "Hypebeast",
+               "sneakerfiles.com": "Sneaker Files", "kicksonfire.com": "KicksOnFire", "complex.com": "Complex",
+               "solecollector.com": "Sole Collector", "highsnobiety.com": "Highsnobiety"}
+
+
+def is_shoe_release(item):
+    """新作・復刻など「特定の靴」の記事か（品番が書いてある）。契約・着用ニュースは選手の写真でよい"""
+    return bool(SKU.search(" ".join([item.get("headline", ""), item.get("excerpt", "")])))
+
+
+def kicks_layout(data):
+    im = ImageOps.exif_transpose(Image.open(io.BytesIO(data))).convert("RGB")
+    if im.width < KICKS_MIN_W:
+        return None, f"画像が小さい（幅{im.width}px<{KICKS_MIN_W}）"
+    top, bottom = KICKS_BOX
+    bg = ImageOps.fit(im, (W, H), Image.LANCZOS).filter(ImageFilter.GaussianBlur(45))
+    bg = Image.eval(bg, lambda v: int(v * 0.55))
+    s = min(W / im.width, (bottom - top) / im.height)
+    fg = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
+    bg.paste(fg, ((W - fg.width) // 2, top + (bottom - top - fg.height) // 2))
+    return bg, f"元{im.width}x{im.height}→上段{fg.width}x{fg.height}"
+
+
+def kicks_source_image(url):
+    """ネタ元のメイン画像（＝記事の靴）。Sneaker News は Cloudflare でページが読めないので WordPress の公開APIで引く"""
+    from pick_product_photo import fetch_page
+    host = urllib.parse.urlparse(url).netloc.replace("www.", "")
+    if host == "sneakernews.com":
+        slug = url.rstrip("/").rsplit("/", 1)[-1]
+        body, _ = fetch_page(f"https://sneakernews.com/wp-json/wp/v2/posts?slug={slug}"
+                             "&_fields=jetpack_featured_media_url")
+        posts = json.loads(body or "[]")
+        img = posts[0].get("jetpack_featured_media_url") if posts else None
+    else:
+        html, _ = fetch_page(url)
+        og = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', html) or \
+            re.search(r'<meta[^>]+content="([^"]+)"[^>]+property="og:image"', html)
+        img = unescape(og.group(1)) if og else None
+    return (img, KICKS_HOSTS.get(host, host)) if img else None
+
+
+def kicks_official(item, tmp):
+    """ブランド公式の商品画像（pick_product_photo.py）。品番かカラー名が記事と一致した時だけ使う"""
+    import subprocess
+    head = item.get("headline", "")
+    model = re.match(r"[A-Za-z0-9 .'&×x/+-]+", head)
+    color = re.search(r"「([^」]+)」", head)
+    terms = [t.strip() for t in [model.group(0) if model else "", color.group(1) if color else ""] if t.strip()]
+    if not terms:
+        return None, "モデル名が見出しから取れない"
+    sku = SKU.search(" ".join([head, item.get("excerpt", "")]))
+    cmd = [sys.executable, os.path.join(HERE, "pick_product_photo.py"), *terms, "--out", tmp]
+    if sku:
+        cmd += ["--sku", sku.group(1)]
+    if os.path.exists(tmp):
+        os.remove(tmp)
+    r = subprocess.run(cmd, capture_output=True, text=True, timeout=180)
+    if r.returncode != 0 or not os.path.exists(tmp):
+        return None, f"公式画像なし（exit {r.returncode}）{terms}"
+    if "別カラー" in r.stdout or "品番未指定。" in r.stdout:
+        return None, f"公式画像が記事と同じカラーと確認できない {terms}"
+    label = re.search(r"CREDIT: 画像: ([^(（]+)", r.stdout)
+    return open(tmp, "rb").read(), (label.group(1).strip() if label else "ブランド公式")
+
+
+def route_kicks(item):
+    url = source_url(item["id"])
+    if url and not shared_sources(item["id"], url):
+        try:
+            got = kicks_source_image(url)
+            if got:
+                from pick_product_photo import fetch as curl_fetch
+                img, how = kicks_layout(curl_fetch(got[0], 60))
+                if img is not None:
+                    return img, f"写真: {got[1]}", f"kicks_source {got[0]} {how}"
+                log(f"  Ⓚ ネタ元の画像 不採用: {how} {got[0]}")
+            else:
+                log(f"  Ⓚ ネタ元に画像が無い: {url}")
+        except Exception as e:
+            log(f"  Ⓚ ネタ元 取得失敗 {url}: {e}")
+    try:
+        data, credit = kicks_official(item, os.path.join("/tmp", f"kicks-{item['id']}-official.jpg"))
+    except Exception as e:
+        data, credit = None, f"失敗: {e}"
+    if data is None:
+        log(f"  Ⓚ ブランド公式 {credit}")
+        return None
+    img, how = kicks_layout(data)
+    return (img, f"写真: {credit}", f"kicks_official {how}") if img is not None else None
+
+
+FREE_PHOTO = re.compile(r"Wikimedia|Commons|CC0|CC BY|Unsplash|Pexels|Flickr|パブリックドメイン", re.I)
+
+
+class NoPhoto(Exception):
+    """権利フリー以外で記事に合う写真が見つからない（＝フリー画像で出さず、動画は作らない）"""
 
 
 def route_generic_fallback(item):
@@ -623,21 +796,22 @@ def build(aid, used=None):
     names = [s for s in item.get("subject") or [] if s.strip()]
     mediaday = bool(names) and is_mediaday(item)
     log(f"[{aid}] {item['headline']} subject={names or 'なし'}")
+    # 2026-10-05 クリス指示で順を変更:「リールに関しては権利持ってるから画像権利フリーの画像なんか使ってほしくない」。
+    # 選手記事は ライブラリ（選手タグ付き）→ ESPN の本人写真 → ネタ元 の順（ネタ元の写真は主役が写っているとは
+    # 限らない＝362で八村が写っていない写真になった）。KICKS の靴記事は靴そのものの画像だけ。
+    # Commons(CC)・汎用フォールバック・CCのヒーロー/ぼかしは使わない。何も取れなければ動画を作らない（NoPhoto）。
+    kicks = item.get("category") == "KICKS"
     got = route_override(aid)
-    if not got and mediaday:
-        got = route_library(names, item, used)
-    got = got or route_source(item)
-    if not got and names and not mediaday:
-        got = route_library(names, item, used)
-    if not got and mediaday:
-        got = route_fresh(names)
-    got = got or route_hero_source(item)
-    if not got and names:
-        got = route_commons(names, 3) or route_commons(names, 0)
+    if not got and kicks:
+        got = route_kicks(item)
+    if not got and not (kicks and is_shoe_release(item)):
+        if names:
+            got = route_library(names, item, used) or route_espn_athlete(names, item)
+        got = got or route_source(item)
+        if not got and not FREE_PHOTO.search(item.get("photo_credit", "")):
+            got = route_hero_source(item)
     if not got:
-        got = route_hero_blur(item) or route_generic_fallback(item)
-    if not got:
-        got = Image.new("RGB", (W, H), (0, 0, 0)), "", "black（フォールバック写真も無い）"
+        raise NoPhoto("権利フリー以外の、記事に合う写真が見つからない（フリー画像では作らない）")
     img, credit, route = got
     credit = video_credit(credit)
 
@@ -654,7 +828,7 @@ def build(aid, used=None):
             log(f"  video 指定を使わずニュース型にする（{why}）")
         body = article_body(aid)
         if body:
-            log(f"  本文: 記事本文から{len(body)}文（約{sum(body_lines(t) for t in body)}行）")
+            log(f"  本文: 記事本文から{len(body)}文（約{sum(body_em(t) for t in body):.0f}em）")
         else:
             body = [p for p in item.get("points") or [] if p.strip()] or [item.get("excerpt", "")[:80]]
             log("  本文: 記事ページの本文が取れないので points を使う")

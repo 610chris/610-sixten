@@ -157,7 +157,7 @@ def main():
     todo = []
     for aid, st in sorted(status.items()):
         it = items.get(aid)
-        if not it or it.get("state") == "skipped":
+        if not it or it.get("state") == "skipped" or st.get("no_photo"):
             continue
         if want:
             if aid in want and (args.test or not st.get("reel_media_id")):
