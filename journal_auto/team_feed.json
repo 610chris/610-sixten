@@ -1,8 +1,58 @@
 {
- "updated_utc": "2026-10-06 17:23 UTC",
+ "updated_utc": "2026-10-06 21:52 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-terrell-brown-jr",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-terrell-brown-jr",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-terrell-brown-jr",
+   "title": "Utah Jazz Waive Terrell Brown Jr.",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-06T20:00:18Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 6, 2026) – The Utah Jazz have waived guard Terrell Brown Jr.",
+   "facts": [
+    "SALT LAKE CITY (October 6, 2026) – The Utah Jazz have waived guard Terrell Brown Jr.",
+    "Brown Jr. (6-3, 175, Washington) spent the 2025-26 season with the Greensboro Swarm, where he appeared in 50 games, averaging 11.9 points, 6.1 assists, 3.1 rebounds, and 1.2 steals, helping Greensboro to a G League Champ…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-embracing-culture-chemistry-as-china-workouts-begin",
+   "url": "https://www.nba.com/mavs/news/mavericks-embracing-culture-chemistry-as-china-workouts-begin",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-embracing-culture-chemistry-as-china-workouts-begin",
+   "title": "Mavericks embracing culture, chemistry as China workouts begin",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-06T19:00:00Z",
+   "tags": [],
+   "summary": "The Mavericks got to China early Tuesday (Monday afternoon, Dallas time) and they are eager to test their new system, new players and new coaching staff in two preseason games against the Houston Rockets starting Friday morning (7 a.m., Dallas time).",
+   "facts": [
+    "The Mavericks got to China early Tuesday (Monday afternoon, Dallas time) and they are eager to test their new system, new players and new coaching staff in two preseason games against the Houston Rockets starting Friday …",
+    "Their 17-hour flight took a toll, but the resiliency of NBA players is legendary.",
+    "He suffered a torn ACL in March, 2025.",
+    "He spent all last season rehabilitating from the ensuing surgery."
+   ],
+   "quotes": [
+    "I’ve always felt like when a team’s together outside your normal environment, it’s an opportunity for different guys to break bread together, sit at a different meal table and get to know one of your …",
+    "Today was called get-what-you-need,",
+    "It’s always good to get into the gym, get some work in, go back to the hotel, rest up and we have a Mavs’ dinner tonight, break some bread and we feel good about the next few days as we continue to wo…",
+    "Personally, it’s just getting out of my own way and the mental aspect of it,"
+   ]
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -295,7 +345,7 @@
    ],
    "summary": "As fate would have it, Dusty May and Morez Johnson Jr. are back together again.",
    "facts": [
-    "This past spring, May led the University of Michigan to the national championship with Johnson being one of the pivotal players on a squad that finished last season with a gaudy 37-3 record.",
+    "Last spring, May led the University of Michigan to the national championship with Johnson being one of the pivotal players on a squad that finished with a gaudy 37-3 record.",
     "Then, on June 23, May turned in his college papers and became the head coach of the Dallas Mavericks."
    ],
    "quotes": [
@@ -824,99 +874,6 @@
     "Just the recharge I get from it, being able to be outside and to incorporate some teammates into it and build some camaraderie there,",
     "I think it’s so similar to basketball where you really do have to move on to the next play, the next golf shot. So it’s brought a few guys on the team together.",
     "To be known as something, I’d love to be known as a shooter,"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-host-practice-at-second-round-pick-jaron-pierre-jr-s-new-orleans-high-school",
-   "url": "https://www.nba.com/pelicans/news/pelicans-host-practice-at-second-round-pick-jaron-pierre-jr-s-new-orleans-high-school",
-   "canonical_url": "https://pelicans.com/news/pelicans-host-practice-at-second-round-pick-jaron-pierre-jr-s-new-orleans-high-school",
-   "title": "Pelicans host practice at second-round pick Jaron Pierre Jr.'s New Orleans high school",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-03T20:15:51Z",
-   "tags": [],
-   "summary": "In June, New Orleans native Jaron Pierre Jr. described being drafted by his hometown NBA franchise as “surreal,” a word he appropriately used again Saturday, when the Pelicans held a practice at his local high school, St. Augustine. After arriving on the school’s campus, the 24-year-old was the first player to walk into the gym, where he became a scholastic standout guard.",
-   "facts": [
-    "After arriving on the school’s campus, the 24-year-old was the first player to walk into the gym, where he became a scholastic standout guard.",
-    "An amused Pierre noted that at one point he turned around to see how Dia was faring, but the fellow two-way contract signee was “not moving.”"
-   ],
-   "quotes": [
-    "I felt like it was going to be a lot of love, because I’m from here,",
-    "It was very surreal seeing everyone here.",
-    "Well he’s a rook, so we didn’t really do it for him. (But practicing at St. Aug was based on) the history of this school, what it means to the city. I’ve had multiple phone calls from people who went …",
-    "It shows that he’s pouring himself into the community and really wants to be diehard about New Orleans,"
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/its-great-for-us-duren-deal-done-pistons-set-up-for",
-   "url": "https://www.nba.com/pistons/news/its-great-for-us-duren-deal-done-pistons-set-up-for",
-   "canonical_url": "https://pistons.com/news/its-great-for-us-duren-deal-done-pistons-set-up-for",
-   "title": "‘It’s great for us’ – Duren deal done, Pistons set up for bright future",
-   "author": "Keith Langlois",
-   "published_utc": "2026-10-03T19:19:58Z",
-   "tags": [
-    "ausar thompson",
-    "Cade Cunningham",
-    "Jalen Duren"
-   ],
-   "summary": "The Pistons front office spent two seasons identifying and assessing their core. Now they’ve locked it up for the next several seasons. The last bit of business came down to the wire Thursday night when Jalen Duren agreed to terms on a contract that extends through the 2030-31 season.",
-   "facts": [
-    "The last bit of business came down to the wire Thursday night when Jalen Duren agreed to terms on a contract that extends through the 2030-31 season.",
-    "That gives them a long runway with Cade Cunningham, Ausar Thompson – who also agreed to a long-term contract extension ahead of training camp – and Duren all with their best years ahead of them in Pistons uniforms.",
-    "Armed with all of their future No. 1 picks and no other weighty long-term contracts, the Pistons have put themselves in optimal position to use the momentum gathered in the first two years under Trajan Langdon and J.B.",
-    "Either option would have meant Duren remained a Pistons player this season, but the long-term extension obviously was the desired outcome for the Pistons and Duren.",
-    "Duren, a four-year veteran despite not turning 23 until next month, had a breakout season in 2025-26 after failing to reach agreement on a contract extension in summer 2025 when first eligible to do so.",
-    "Duren averaged a career-high 19.5 points on 65 percent shooting plus 10.5 rebounds, earned his first All-Star berth and was named to the All-NBA third team.",
-    "Cunningham, 25, was All-NBA first team and Thompson, 23, was first team All-Defense and finished third in Defensive Player of the Year balloting.",
-    "There are rookies coming into the NBA – Golden State’s Yaxel Lendeborg, 24, for instance – who are older than Duren."
-   ],
-   "quotes": [
-    "We’re obviously excited to have him back,",
-    "Like I said yesterday, our expectation was that he was always going to be back and we were planning accordingly. But to get it done, to get him in the building to start the process of getting him back…",
-    "We will be excited to have him regardless of what decision he does make,",
-    "He was a huge reason for our success the last two seasons (and) had a tremendous season individually last year, as well. We believe he will do the same thing this year and are excited to have him back…"
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "roster",
-   "key": "https://www.nba.com/pistons/news/detroit-pistons-sign-jalen-duren-to-contract-extension",
-   "url": "https://www.nba.com/pistons/news/detroit-pistons-sign-jalen-duren-to-contract-extension",
-   "canonical_url": "https://pistons.com/news/detroit-pistons-sign-jalen-duren-to-contract-extension",
-   "title": "DETROIT PISTONS SIGN JALEN DUREN TO CONTRACT EXTENSION",
-   "author": "Pistons.com",
-   "published_utc": "2026-10-03T19:07:09Z",
-   "tags": [
-    "Detroit Pistons",
-    "Jalen Duren",
-    "transaction"
-   ],
-   "summary": "DETROIT, Mich. (October 3, 2026) – The Detroit Pistons announced today that the team has signed center Jalen Duren to a contract extension. Per team policy, terms of the agreement were not disclosed.",
-   "facts": [
-    "DETROIT, Mich. (October 3, 2026) – The Detroit Pistons announced today that the team has signed center Jalen Duren to a contract extension.",
-    "He appeared in 70 games for Detroit (all starts), averaging a career-high 19.5 points and 10.5 rebounds while shooting 65.0% from the field.",
-    "Duren was named Eastern Conference Player of the Week for games played from Feb. 23 to March 1, the first such honor of his career.",
-    "He averaged 14.6 points in the paint per game, ranking second in the NBA among players with at least 40 games played.",
-    "He was the only player in the league this past season to average 19-plus points and 10-plus rebounds and shoot .600-plus from the field.",
-    "Duren ranked third in the NBA with 26 13-plus rebound double-doubles and 189 dunks and finished fourth in the league with 265 offensive rebounds.",
-    "He is also the third-youngest player in NBA history to record 850 career offensive rebounds, joining Andre Drummond and Dwight Howard.",
-    "Duren recorded two games of 30-plus points on .900-plus field-goal percentage, tying Dwight Howard for the second-most games by a primary center in NBA history behind Wilt Chamberlain (4)."
-   ],
-   "quotes": [
-    "We’re excited to have Jalen in Detroit as a core piece of our team for years to come,",
-    "He’s been an important part of our success over the last two seasons, and we’ve seen tremendous growth in his game. Jalen has accomplished a great deal at a young age, and we believe his best basketba…"
    ]
   }
  ]
