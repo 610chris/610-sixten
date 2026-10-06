@@ -1,8 +1,32 @@
 {
- "updated_utc": "2026-10-06 03:18 UTC",
+ "updated_utc": "2026-10-06 10:44 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-preseason-game-1-takeaways-youtube-mailbag",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-preseason-game-1-takeaways-youtube-mailbag",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-preseason-game-1-takeaways-youtube-mailbag",
+   "title": "Roundball Roundup: Preseason Game 1 Takeaways + YouTube Mailbag",
+   "author": "JP Chunga",
+   "published_utc": "2026-10-06T04:15:38Z",
+   "tags": [
+    "Keyonte George",
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos recapped the Jazz’s win against the Nuggets in Boulder (3:30), the Jaren Jackson Jr.-Lauri Markkanen combination (9:00), Isaiah Collier’s change of pace (15:30), and then answered questions from YouTube (26:10).",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos recapped the Jazz’s win against the Nuggets in Boulder (3:30), the Jaren Jackson Jr.-Lauri Markkanen combination (9:00), Isaiah Collier’s change of pace (15:30), and then ans…"
+   ],
+   "quotes": []
+  },
   {
    "source": "MEM 公式（nba.com）",
    "team": "MEM",
