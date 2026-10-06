@@ -1,0 +1,71 @@
+{
+  "_readme": "@sixten（IG）の実験。サイト側の growth/experiments.json とは別ファイル（weekly_report.py が全件で pages を読むため混ぜない）。status=running の実験だけ journal_auto/ig_experiments.py が投稿時に効かせ、どのアームだったかを video_status.json の exp_arms に残す。止めるときは status を stopped にして push（次の投稿から元のキャプションに戻る）。判定は growth/ig/report.py が毎日 REPORT.md に書く。",
+  "baseline_2026-10-07": {
+    "note": "設計時点の実データ（2026-10-07 0時 JST 取得・自動投稿リール 87本のうち投稿3日以上経過 74本）",
+    "followers": 4797,
+    "follows_29d": 259,
+    "unfollows_29d": 299,
+    "auto_reel_views_median": 1060,
+    "auto_reel_reach_median": 645,
+    "share_rate_pct": 0.02,
+    "save_rate_pct": 0.11,
+    "like_rate_pct": 4.1,
+    "skip_rate_median_pct": 64.6,
+    "avg_watch_sec_median": 5.1
+  },
+  "experiments": [
+    {
+      "id": "ig-2026-10-share-cta",
+      "status": "running",
+      "kind": "per_post",
+      "started": "2026-10-07",
+      "ends": "2026-11-04",
+      "assign": "記事番号のハッシュで A/B を半々に固定（同じ記事は何度投稿し直しても同じアーム）。問いかけを出さない重いニュース（no_question）と手書きキャプションは対象外",
+      "variable": "キャプションの「👇 コメントで教えて！」の直後に1行足すかどうか",
+      "arms": {
+        "A": "現状のまま（対照）",
+        "B": "📤 バスケ好きの友だちにも送ってあげて"
+      },
+      "hypothesis": "IGのリールは『送られた数（シェア）÷リーチ』を拡散の強いシグナルにしている。いまシェア率は0.02%（74本でシェア合計が一桁）とほぼゼロで、頼んでいないから押されていない。送る理由と行動を1行で示せばシェア率が上がり、views の伸びにつながる。",
+      "metric": "share_rate",
+      "secondary": ["save_rate", "views"],
+      "decision": "各アーム30本以上・投稿から3日以上たったものだけで比較。B のシェア率が A の1.5倍以上 かつ 並べ替え検定 p<0.10 なら『B を採用候補』。B の views 中央値が A より15%以上低いなら『止める』。期限までにどちらにも届かなければ『差なし』（元に戻す）。",
+      "notes": "シェアは1本あたり0〜1件と少ないので、検出力を上げるため期限は4週間。"
+    },
+    {
+      "id": "ig-2026-10-follow-cta",
+      "status": "running",
+      "kind": "per_week",
+      "started": "2026-10-07",
+      "ends": "2026-11-01",
+      "assign": "投稿日（JST）の ISO 週番号が偶数=A・奇数=B（第41週 10/7〜11=B → 第42週=A → 第43週=B → 第44週 〜11/1=A）。週ごとに全投稿を切り替える（フォローは投稿単位で API から取れないため、アカウント日別の follows で比べる）",
+      "variable": "キャプションのフォロー誘導の1行の文面",
+      "arms": {
+        "A": "👉 最新のバスケニュースは @sixten をフォローしてチェック",
+        "B": "🔔 @sixten をフォローすると、バスケの最新ニュースが毎日タイムラインに届く"
+      },
+      "hypothesis": "直近29日はフォロー259に対しフォロー解除299で純減。『チェック』は命令だけで、フォローすると何が得られるかが書かれていない。得られるもの（毎日・タイムラインに届く）を書けば、届いた人のフォロー率（follows ÷ reach）が上がる。",
+      "metric": "follows_per_1k_reach",
+      "secondary": ["unfollows", "profile_views_per_1k_reach"],
+      "decision": "各アーム2週（計4週）そろってから判定。B の週平均 follows/1kリーチ が A の1.2倍以上 かつ unfollows が A より増えていなければ『B を採用候補』。それ以外は『差なし』。週単位なのでニュースの当たり外れ（10月下旬の開幕など）に引っ張られる＝結果は参考値として扱い、続けて追試する。",
+      "notes": "A/B/A/B と交互に回すことで、季節要因を片方に寄せない。"
+    },
+    {
+      "id": "ig-2026-10-content-mix-observe",
+      "status": "observing",
+      "kind": "observational",
+      "started": "2026-10-07",
+      "ends": "2026-10-28",
+      "assign": "投稿パイプラインは変えない。自然に出てくる投稿を属性で分けて比べるだけ",
+      "variable": "カテゴリ（NBA / KICKS / JAPAN）と、背景に人物がいるか（記事に選手 subject があるか）",
+      "arms": {
+        "person": "subject あり（選手の写真が背景）",
+        "no_person": "subject なし（商品・ロゴ・ぼかし・汎用写真）"
+      },
+      "hypothesis": "設計時点（投稿72時間値）で subject なし17本の views 中央値 489 に対し subject あり59本は 1,167（約2.4倍）、スキップ率も 79% 対 63%。ただし NBA に限ると選手なし4本も 1,216 で差が無く、KICKS・JAPAN（PR TIMES）というカテゴリ自体の弱さかもしれない。冒頭1秒で『誰の話か』が顔で分からない投稿は流し見で飛ばされている。カテゴリ（KICKS/PR TIMES系）と重なっているので、3週間データを足して切り分ける。",
+      "metric": "views_at_72h",
+      "secondary": ["skip_rate", "avg_watch_ms"],
+      "decision": "各グループ20本以上で、同じカテゴリ内でも人物ありが views を1.5倍以上上回るなら『人物の有無が効いている』と判定。その場合の対応（KICKS の背景を着用選手の写真にする・本数配分を変える等）はクリスに提案して決めてもらう（自動では変えない）。"
+    }
+  ]
+}

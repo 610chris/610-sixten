@@ -33,6 +33,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import ig_queue as Q  # noqa: E402
 import video_build as VB  # noqa: E402
+try:  # キャプションの A/B 実験（growth/ig/experiments.json）。読めなくても投稿は続ける
+    import ig_experiments  # noqa: E402
+except Exception:
+    ig_experiments = None
 
 API = "https://graph.instagram.com/v23.0"
 TOKEN_FILE = os.path.expanduser("~/.claude/state/ig_token.txt")
@@ -116,8 +120,13 @@ def thumb_offset_ms(url):
 def post_one(item, st, tok, test=False):
     if not st["url"].startswith("http"):
         raise RuntimeError(f"動画が Release に上がっていない: {st['url']}")
+    caption = reel_caption(item, st.get("credit", ""))
+    if ig_experiments:
+        caption, arms = ig_experiments.apply(caption, item, datetime.now(VB.JST))
+        if arms:
+            st["exp_arms"] = arms   # どのアームで出したか（video_status.json に残る）
     params = {"media_type": "REELS", "video_url": st["url"],
-              "caption": reel_caption(item, st.get("credit", "")),
+              "caption": caption,
               "share_to_feed": "true"}
     off = thumb_offset_ms(st["url"])
     if off is not None:

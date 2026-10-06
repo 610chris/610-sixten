@@ -1,0 +1,57 @@
+name: IG insights daily
+# @sixten（610 の Instagram）のエンゲージを毎日取って journal_auto/growth/ig/data/ に時系列で保存し、
+# journal_auto/growth/ig/REPORT.md（属性別比較・実験の判定）を作り直して commit する。
+# 2026-10-06 クリス指示「常にエンゲージは見て欲しいし、その上でプロのマーケターとして目線でいろいろ試して、
+# データを集めて、ニュースがより広まり、インスタのフォロワーが伸びるようにして欲しい」で設置。
+#
+# cron '30 23 * * *' = 毎日 23:30 UTC = JST 8:30（7:00 の深夜分まとめ投稿が終わったあと）。
+# トークンはリール自動投稿（video-build.yml）と同じ Secret IG_TOKEN。無ければ何もせず正常終了する。
+# 取得に失敗しても取れたぶんだけ保存して正常終了する（fetch_ig.py が例外を握って警告にする）。
+# commit は GITHUB_TOKEN なので他の workflow は起動しない（deploy.yml も走らない＝サイトは再公開されない）。
+on:
+  schedule:
+    - cron: '30 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ig-insights
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+
+      - name: Fetch IG insights
+        # video_status.json（Release「videos」）から記事番号・背景経路・実験アームを引くのに gh を使う
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python3 journal_auto/growth/ig/fetch_ig.py || echo "::warning::fetch_ig.py が異常終了（取れたぶんは保存済み）"
+
+      - name: Build report
+        run: python3 journal_auto/growth/ig/report.py || echo "::warning::report.py が異常終了"
+
+      - name: Commit data
+        run: |
+          git config user.name "ig-insights"
+          git config user.email "actions@github.com"
+          git add journal_auto/growth/ig/data journal_auto/growth/ig/REPORT.md
+          if git diff --cached --quiet; then
+            echo "変化なし — commit しない"
+            exit 0
+          fi
+          git commit -m "ig: エンゲージ計測とレポートを更新（$(TZ=Asia/Tokyo date +%F)）"
+          for i in 1 2 3; do
+            git push origin HEAD:main && exit 0
+            git pull --rebase origin main || exit 1
+          done
+          exit 1
