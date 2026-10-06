@@ -67,6 +67,7 @@ QUEUE = os.path.join(HERE, "ig_queue.json")
 SOURCES = os.path.join(HERE, "hero_sources.json")
 LIBRARY = os.path.join(HERE, "photolib_index.json")
 LIBRARY_MEDIADAY_EVENTS = {"メディアデー", "メディアデー期間"}
+KICKS_LIBRARY_TEAMS = {"SKICKS"}  # 靴写真のアカウント（選手記事では後回し・KICKS 記事は route_kicks_library が引く）
 # NBA.com の選手顔写真（headshot）は背景に使わない（2026-09-29 クリス「あの種類の画像は2度と使うな」）
 HEADSHOT = re.compile(r"cdn\.nba\.com/headshots|/headshots/", re.I)
 W, H = 1080, 1920
@@ -510,7 +511,7 @@ def route_library(names, item, used=None):
         # @nba（リーグ公式）の投稿は写真に大きな文字を載せた加工画像が多いので、チーム公式の後に回す
         # ESPN 由来（espn-*）は日付が「記事の日付」で、写真は移籍前のことがある（362 クリッパーズ記事に
         # レイカーズ時代の八村が出た）。使い回しになってもチーム公式IGの写真を先にする。
-        order = (e["key"].startswith("espn-"), n_used > 0, rank, n_used, len(ps) > 1, (e.get("credit") or "").startswith("nba "),
+        order = (e.get("team") in KICKS_LIBRARY_TEAMS, e["key"].startswith("espn-"), n_used > 0, rank, n_used, len(ps) > 1, (e.get("credit") or "").startswith("nba "),
                  mediaday and e.get("event") not in LIBRARY_MEDIADAY_EVENTS,
                  -int(re.sub(r"\D", "", e.get("date", "")) or 0))
         best[e["key"]] = (order, e)
@@ -676,11 +677,61 @@ def route_kicks(item):
         data, credit = kicks_official(item, os.path.join("/tmp", f"kicks-{item['id']}-official.jpg"))
     except Exception as e:
         data, credit = None, f"失敗: {e}"
-    if data is None:
+    if data is not None:
+        img, how = kicks_layout(data)
+        if img is not None:
+            return img, f"写真: {credit}", f"kicks_official {how}"
+        log(f"  Ⓚ ブランド公式 不採用: {how}")
+    else:
         log(f"  Ⓚ ブランド公式 {credit}")
+    return route_kicks_library(item)
+
+
+KICKS_STOP = {"nike", "jordan", "air", "adidas", "new", "balance", "puma", "the", "x", "×", "and", "&", "low", "mid", "high", "og"}
+
+
+def kicks_words(text):
+    return [w for w in re.findall(r"[a-z0-9]+", text.lower()) if w not in KICKS_STOP]
+
+
+def route_kicks_library(item):
+    """Ⓚ SLAM KICKS（@slamkicks）の写真から、キャプションに記事の靴のモデル名（とカラー名）が全部入っている写真を使う。
+    品番つきの新作記事でカラー名が見出しにある時は、カラー名まで一致した写真だけ（別カラーを出さない）"""
+    try:
+        lib = json.load(open(LIBRARY, encoding="utf-8")).get("items") or []
+    except (FileNotFoundError, ValueError):
         return None
-    img, how = kicks_layout(data)
-    return (img, f"写真: {credit}", f"kicks_official {how}") if img is not None else None
+    head = item.get("headline", "")
+    model = re.match(r"[A-Za-z0-9 .'&×x/+-]+", head)
+    color = re.search(r"「([^」]+)」", head)
+    mw = kicks_words(model.group(0)) if model else []
+    cw = kicks_words(color.group(1)) if color else []
+    if not mw:
+        log("  Ⓚ SLAM KICKS: モデル名が見出しから取れない")
+        return None
+    need_color = bool(cw) and is_shoe_release(item)
+    cands = []
+    for e in lib:
+        if e.get("team") not in KICKS_LIBRARY_TEAMS or not e.get("caption"):
+            continue
+        cap = set(re.findall(r"[a-z0-9]+", e["caption"].lower()))
+        if not all(w in cap for w in mw):
+            continue
+        hit_color = bool(cw) and all(w in cap for w in cw)
+        if need_color and not hit_color:
+            continue
+        cands.append(((not hit_color, -int(re.sub(r"\D", "", e.get("date", "")) or 0)), e))
+    log(f"  Ⓚ SLAM KICKS「{' '.join(mw)}{' / ' + ' '.join(cw) if cw else ''}」: 候補{len(cands)}")
+    for _, e in sorted(cands, key=lambda t: t[0])[:MAX_TRY]:
+        try:
+            img, how = kicks_layout(http_get(e["url"], 60))
+        except Exception as ex:
+            log(f"    取得失敗 {e['key']}: {ex}")
+            continue
+        if img is not None:
+            return img, f"写真: {e.get('credit') or 'SLAM KICKS'}", f"kicks_library {e['key']} {e.get('date', '')} {how}"
+        log(f"    不採用({how}) {e['key']}")
+    return None
 
 
 FREE_PHOTO = re.compile(r"Wikimedia|Commons|CC0|CC BY|Unsplash|Pexels|Flickr|パブリックドメイン", re.I)
