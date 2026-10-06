@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "366-nba-new-lottery-rules-tanking.html",
+    cat: "NBA",
+    title: "新ドラフト抽選ルールでNBAはどう変わる —— ザック・クラム記者が5つの予測、\"タンキング\"は本当に消えるか",
+    excerpt: "2026-27シーズンから、NBAは勝率下位チームが故意に負けて指名権を得る\"タンキング\"への対抗策として、抽選方式を大幅に刷新した。ESPNのザック・クラム記者は、大敗の減少や中位チームの混戦化など5つの変化を予測する一方、指名権を自チームで保有しないチームには依然タンキングの誘因が残ると分析している。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "365-doncic-lakers-kings-preseason-weight.html",
+    cat: "NBA",
+    title: "レディックHC「夏、本気で体を作り込んだ」—— 絞ったドンチッチがキングス戦21得点、レイカーズがプレシーズン開幕戦を白星発進",
+    excerpt: "ロサンゼルス・レイカーズは現地時間10月5日のプレシーズン開幕戦でサクラメント・キングスに127-103で快勝し、ルカ・ドンチッチが16分で21得点を記録した。JJ・レディックHCは「夏の間、本気で体を作り込んだ」とドンチッチの減量を明かした。ESPNが伝えた。",
+    date: "2026.10.06",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "364-air-jordan-11-space-jam-2026.html",
     cat: "KICKS",
     title: "Air Jordan 11「Space Jam」が12月12日に\"真のOG仕様\"で復刻 —— 「Green Screen」「WMNS マジックボール」も同時展開",
