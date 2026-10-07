@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "379-air-jordan-12-obsidian-2027.html",
+    cat: "KICKS",
+    title: "Air Jordan 12「Obsidian」が2027年に復刻 —— 品番CT8013-401、ハイトップでは15年ぶり",
+    excerpt: "ジョーダン ブランドは、1997年デビューのオリジナルカラー「Air Jordan 12 Obsidian」(品番CT8013-401)を2027年に復刻する。ハイトップ仕様での再展開は2012年以来で、実に15年ぶりとなる。Nice KicksとSneaker Bar Detroitが伝えた。",
+    date: "2026.10.08",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "378-adidas-harden-vol-10-snakeskin.html",
+    cat: "KICKS",
+    title: "adidas Harden Vol. 10「Snakeskin」が10月16日発売 —— 品番KI1612、160ドル",
+    excerpt: "ジェームズ・ハーデン(クリーブランド・キャバリアーズ)のシグネチャー10代目モデル「adidas Harden Vol. 10」に新色「Snakeskin」(品番KI1612)が登場。2026年10月16日にadidas.comおよび一部取扱店で発売、価格は160ドルの見通しだと、Nice Kicksが伝えた。",
+    date: "2026.10.08",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "377-tubc-bleague-one-attendance-record.html",
     cat: "JAPAN",
     title: "東京ユナイテッドBC、B.LEAGUE ONE最多入場者数を更新 —— 有明アリーナに7,293人、アースフレンズ東京Z戦",
