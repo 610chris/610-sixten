@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "373-nba-bpi-2026-27-projections.html",
+    cat: "NBA",
+    title: "ESPN「BPI」が2026-27シーズン予測を公開 —— サンダーが守備・優勝オッズで首位、ウォリアーズはバトラー負傷で20位評価",
+    excerpt: "ESPNの分析モデル「BPI」が10月20日開幕の2026-27シーズン事前予測を公開。守備力はサンダーが+5.7で断トツ首位、優勝オッズも単独トップに。ウォリアーズはバトラー3世のACL負傷で20位評価、76ersはエンビードの出場率次第という評価になった。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "372-nba-europe-euroleague-reject-merger.html",
     cat: "NBA",
     title: "NBAの「NBAヨーロッパ」統合提案、ユーロリーグが拒否 —— 独自に16チーム構想、2027-28開幕も視野",
