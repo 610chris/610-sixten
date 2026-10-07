@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "377-tubc-bleague-one-attendance-record.html",
+    cat: "JAPAN",
+    title: "東京ユナイテッドBC、B.LEAGUE ONE最多入場者数を更新 —— 有明アリーナに7,293人、アースフレンズ東京Z戦",
+    excerpt: "東京ユナイテッドバスケットボールクラブ(TUBC)は10月3日、有明アリーナで行われたB.LEAGUE 2026-27シーズン B.LEAGUE ONE第2節のアースフレンズ東京Z戦に7,293人を集め、B.LEAGUE ONEの1試合最多入場者数記録を更新したと発表した。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-377-hero.jpg?v=72ab55ce51"
+  },
+  {
     href: "376-adidas-anthony-edwards-3-omen.html",
     cat: "KICKS",
     title: "adidas Anthony Edwards 3「Omen」がハロウィンに合わせて発売 —— 品番KJ3021、レッド×シルバーの新色",
