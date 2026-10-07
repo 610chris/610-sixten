@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "372-nba-europe-euroleague-reject-merger.html",
+    cat: "NBA",
+    title: "NBAの「NBAヨーロッパ」統合提案、ユーロリーグが拒否 —— 独自に16チーム構想、2027-28開幕も視野",
+    excerpt: "NBAが2年以上かけて提示していた欧州統合案「NBAヨーロッパ」を、ユーロリーグ加盟クラブが今週拒否した。ESPNによると、NBAは拒否後も独自に16チーム規模の新リーグ創設を進める方針で、早ければ2027-28シーズンの開幕を目指す。Brian Windhorst記者が伝えた。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "371-nba-smart-basketball-referee-wearables.html",
     cat: "NBA",
     title: "NBA、「スマートバスケットボール」とレフェリー用リストバンドをプレシーズンで試験導入 —— リプレイ判定の高度化へ、今季はまだ本採用せず",
