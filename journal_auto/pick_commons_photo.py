@@ -50,7 +50,7 @@
 依存: 標準ライブラリのみで検索・ランク付けできる。保存とボケ判定は Pillow(+numpy)、顔検出は
       opencv-python-headless があれば行う。無い場合もエラーにはせず、上の②→③に自動で落ちる。
 """
-import argparse, json, os, re, sys, urllib.parse, urllib.request
+import argparse, json, os, re, subprocess, sys, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
 API = 'https://commons.wikimedia.org/w/api.php'
@@ -95,17 +95,26 @@ SHOE_HINT = re.compile(r'\b(shoe|sneaker|trainer|footwear|basketball|kicks|nike|
                        r'puma|reebok|converse|new balance|under armour|anta|li[- ]ning|asics)\b', re.I)
 
 
+def _curl(url, timeout=40):
+    """urllib は一部環境のTLS/HTTP2指紋で弾かれる(429/403)ことがあるため curl で取る
+    (pick_product_photo.py の adidas/New Balance 対応と同じ理由。2026-10-07実測で
+    urllib 経由の Wikimedia Commons API 呼び出しが毎回 429 になる環境があったため)。"""
+    args = ['curl', '-sSL', '--max-time', str(timeout), '-A', UA]
+    r = subprocess.run(args + [url], capture_output=True, timeout=timeout + 15)
+    if r.returncode != 0:
+        raise RuntimeError(f'curl 失敗({r.returncode}): {r.stderr.decode("utf-8", "replace")[:200]}')
+    if not r.stdout:
+        raise RuntimeError(f'空レスポンス: {url}')
+    return r.stdout
+
+
 def api(params):
     params = dict(params, format='json', formatversion=2)
-    req = urllib.request.Request(API + '?' + urllib.parse.urlencode(params), headers={'User-Agent': UA})
-    with urllib.request.urlopen(req, timeout=40) as r:
-        return json.load(r)
+    return json.loads(_curl(API + '?' + urllib.parse.urlencode(params), timeout=40))
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={'User-Agent': UA})
-    with urllib.request.urlopen(req, timeout=60) as r:
-        return r.read()
+    return _curl(url, timeout=60)
 
 
 def parse_date(s):

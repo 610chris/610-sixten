@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "376-adidas-anthony-edwards-3-omen.html",
+    cat: "KICKS",
+    title: "adidas Anthony Edwards 3「Omen」がハロウィンに合わせて発売 —— 品番KJ3021、レッド×シルバーの新色",
+    excerpt: "アンソニー・エドワーズの3代目シグネチャー「adidas Anthony Edwards 3」に、新色「Omen」(品番KJ3021)が登場。ハロウィン(10月31日)に合わせて発売される見通しで、アッパーのメッシュ部分にルーシッドレッド、その他にシルバーメタリックを配した、これまでより主張の強い配色になっている。Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "375-jordan-tatum-5-laser.html",
+    cat: "KICKS",
+    title: "Jordan Tatum 5「Laser」が10月10日発売 —— コンセプツ限定の先行販売、ブラウン×レッドの新色",
+    excerpt: "ジェイソン・テイタムの3代目シグネチャー「Jordan Tatum 5」に新色「Laser」が登場。ボストンの老舗セレクトショップ、コンセプツ(CNCPTS)限定での先行発売が2026年10月10日に行われる。ブラウンとタンを基調に、レーザーで刻んだようなグラフィックとレッドのアクセントが特徴。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "374-sixers-hukporti-injury-roster-impact.html",
+    cat: "NBA",
+    title: "フクポルティ離脱で76ers、選手枠の選択迫られる —— ウォーカーの保証額はわずか25万ドル、ボビー・マークス分析",
+    excerpt: "アリエル・フクポルティの右アキレス腱断裂を受け、フィラデルフィア・76ersはロースター編成の選択を迫られている。ESPNのボビー・マークス記者が、ファーストエプロンまで残り180万ドルという制約や、ジャバリ・ウォーカー(保証額25万ドル)の処遇を軸にチーム事情を分析した。",
+    date: "2026.10.07",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "373-nba-bpi-2026-27-projections.html",
     cat: "NBA",
     title: "ESPN「BPI」が2026-27シーズン予測を公開 —— サンダーが守備・優勝オッズで首位、ウォリアーズはバトラー負傷で20位評価",
