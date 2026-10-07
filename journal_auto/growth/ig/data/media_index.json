@@ -136,6 +136,33 @@
   "product": "REELS",
   "timestamp": "2021-12-23T07:22:10+0000"
  },
+ "17887868856475608": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "369",
+  "auto": true,
+  "caption_len": 260,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ホーネッツのコービー・ホワイト、左ふくらはぎ負傷",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DeLK5kwj-DP/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Coby White"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-07T01:23:47+0000"
+ },
  "17890405907720466": {
   "auto": false,
   "caption_len": 85,
@@ -2139,6 +2166,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-06T01:10:51+0000"
+ },
+ "18113685329175542": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "370",
+  "auto": true,
+  "caption_len": 265,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "スパーズのトバイアス・ハリス、左ふくらはぎ負傷",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DeLLFD7jbzR/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Tobias Harris"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-07T01:25:27+0000"
  },
  "18115034726061426": {
   "article": "338",
