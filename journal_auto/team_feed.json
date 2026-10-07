@@ -1,33 +1,231 @@
 {
- "updated_utc": "2026-10-07 09:11 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-10-07 22:14 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
   {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
    "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261006",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261006",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261006",
-   "title": "Warriors Defeat Lakers by 26 Points in Preseason",
-   "author": "gswgrizzo",
-   "published_utc": "2026-10-07T04:30:00Z",
-   "tags": [],
-   "summary": "An explosive 81 point first half carries the Golden State Warriors to a 124-98 victory over the Los Angeles Lakers in their preseason home debut at Chase Center on Tuesday night. Their largest lead reached 38 points in the fourth quarter and the Lakers never led at any point in the contest. Yaxel Lendeborg paced the team in scoring with 17 points, followed by Stephen Curry (16) and Brandin Podziem…",
-   "facts": [
-    "An explosive 81 point first half carries the Golden State Warriors to a 124-98 victory over the Los Angeles Lakers in their preseason home debut at Chase Center on Tuesday night.",
-    "Their largest lead reached 38 points in the fourth quarter and the Lakers never led at any point in the contest.",
-    "Yaxel Lendeborg paced the team in scoring with 17 points, followed by Stephen Curry (16) and Brandin Podziemski (16).",
-    "FIRST QUARTER FINISHING The Dubs wasted no time in their home court debut, going on a 11-2 scoring run to start the first quarter that quickly evolved into a double digit lead.",
-    "They scored 45 points in the frame with their advantage reaching a high of 20 points at one point.",
-    "The high-scoring quarter was highlighted by a Draymond Green buzzer beater 3-pointer and a Stephen Curry four-point play as he earned the hoop and harm from beyond the arc.",
-    "Curry led the scoring across both teams in the first, contributing 11 points in eight minutes.",
-    "The sequence started with a tough and-1 play and followed by a penetrating drive to the rim off a Draymond Green dime to secure another bucket."
+   "key": "https://www.nba.com/mavs/news/mavericks-using-china-experience-to-stick-together-explore-together",
+   "url": "https://www.nba.com/mavs/news/mavericks-using-china-experience-to-stick-together-explore-together",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-using-china-experience-to-stick-together-explore-together",
+   "title": "Mavericks using China experience to 'stick together, explore together'",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-07T19:00:00Z",
+   "tags": [
+    "dallas mavericks",
+    "Dusty May",
+    "Max Chrisite",
+    "Morez Johnson Jr.",
+    "nba"
    ],
-   "quotes": []
+   "summary": "As the Mavericks give new basketball meaning to the term “Globetrotters,” they also have gotten a new perspective on many things after a couple of days nearly halfway around the world.",
+   "facts": [
+    "Dumont is the unofficial host of the NBA China Games 2026 and the league and Dumont’s leadership team is making sure this trip is unforgettable.",
+    "Basketball will get here soon enough on Friday morning at 7, Dallas time, when the Mavericks and Rockets tip off their preseason."
+   ],
+   "quotes": [
+    "I’m very grateful to be a Maverick,",
+    "It’s crazy to think someone can own a piece of the world 18 hours away (from Dallas, by plane). So I think that’s pretty cool.",
+    "We obviously know why we’re here,",
+    "Luckily, Houston has the same problems. I think both teams are trying to do the same things — prepare themselves to play a really competitive season."
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/royce-oneale-cut-his-teeth-literally-at-first-nba-camp-and-never-looked-back",
+   "url": "https://www.nba.com/hornets/news/royce-oneale-cut-his-teeth-literally-at-first-nba-camp-and-never-looked-back",
+   "canonical_url": "https://hornets.com/news/royce-oneale-cut-his-teeth-literally-at-first-nba-camp-and-never-looked-back",
+   "title": "Royce O’Neale Cut His Teeth (Literally) At First NBA Camp and Never Looked Back",
+   "author": "Sam Perley",
+   "published_utc": "2026-10-07T15:41:08Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "It took Royce O’Neale until the start of his third professional season to get his first taste of an NBA training camp. When he reminisces on this momentous day in his career, an unexpected visit to see a Salt Lake City dentist is the thing that still stands out the most nine years later.",
+   "facts": [
+    "It’s worth noting that two-way contracts – which allow younger players in need of more developmental reps to split time between the NBA and G League – weren’t an option for O’Neale at the time, as they weren’t added to t…",
+    "While Europe provided O’Neale with stability and competitive environments, he was a little off the radar and couldn’t leave mid-season to sign a 10-day contract if an NBA team extended him one.",
+    "Looking to patch together the void left by All-Star forward Gordon Hayward’s free-agency departure to Boston, Utah signed O’Neale to a three-year deal in July of 2017, although only the first year was guaranteed.",
+    "While the Jazz already had the maximum 15 players under contract, adding more competition for the final roster spot – which came down to O’Neale, point guard Raul Neto and power forward Joel Bolomboy – was worth whatever…",
+    "Choosing to take his chances in Utah also forced O’Neale to opt out of his recently signed deal with Lithuanian EuroLeague powerhouse Žalgiris with no guarantees that offer would still be on the table if Utah waived him.",
+    "O’Neale ended up playing in each of the team’s final 42 regular season games (and all 13 playoff contests, as well) to finish with overall rookie averages of 5.0 points on 42% shooting and 36% from 3-point range (42-of-1…",
+    "One year later, O’Neale played in all 82 games for Utah and hasn’t logged fewer than 75 appearances in a full NBA season since.",
+    "His 1,138 career 3-pointers on 38.9% shooting are the seventh most by any undrafted player in NBA history and third most by any active one behind only Duncan Robinson (1,422; second overall) and Fred VanVleet (1,386; thi…"
+   ],
+   "quotes": [
+    "On the first drill, I got my tooth knocked out in the first practice. I didn’t even realize it – I just kept going. I had to go to the dentist right after practice. I was like, ‘Can we just make sure …",
+    "It was definitely a great experience for me,",
+    "Those were big-time opportunities,",
+    "Why Royce has lasted so long in this league is because he’s got an edge and a hunger to him,"
+   ]
+  },
+  {
+   "source": "SAS 公式（nba.com）",
+   "team": "SAS",
+   "team_ja": "スパーズ",
+   "team_id": 1610612759,
+   "kind": "feature",
+   "key": "https://www.nba.com/spurs/news/san-antonio-spurs-to-host-tipoff-week-in-anticipation-of-2026-27-season",
+   "url": "https://www.nba.com/spurs/news/san-antonio-spurs-to-host-tipoff-week-in-anticipation-of-2026-27-season",
+   "canonical_url": "https://spurs.com/news/san-antonio-spurs-to-host-tipoff-week-in-anticipation-of-2026-27-season",
+   "title": "San Antonio Spurs to Host 'Tipoff Week' in Anticipation of 2026-27 Season",
+   "author": "saslkaneb",
+   "published_utc": "2026-10-07T14:31:49Z",
+   "tags": [
+    "Featured",
+    "press-release"
+   ],
+   "summary": "SAN ANTONIO (Oct. 7, 2026) – The San Antonio Spurs invite fans to take part in the 2026-27 Spurs Tipoff Week, presented by Ticketmaster, taking place from Tuesday, Oct. 13 through Tuesday, Oct. 20. This weeklong celebration across the city of San Antonio, consisting of in-person activations, giveaways, discounts and more, will build momentum and excitement for the team’s upcoming season, presented…",
+   "facts": [
+    "SAN ANTONIO (Oct. 7, 2026) – The San Antonio Spurs invite fans to take part in the 2026-27 Spurs Tipoff Week, presented by Ticketmaster, taking place from Tuesday, Oct. 13 through Tuesday, Oct. 20.",
+    "This weeklong celebration across the city of San Antonio, consisting of in-person activations, giveaways, discounts and more, will build momentum and excitement for the team’s upcoming season, presented by H-E-B, and the…",
+    "For more details on all the activations, text TIPOFF to 210-444-5940."
+   ],
+   "quotes": [
+    "It’s a thrilling time to be part of the Spurs community, as we carry the momentum of last season’s Finals run into a new chapter,",
+    "That energy and unwavering support set the tone for what’s ahead, and Tipoff Week will bring the Silver & Black spirit to life across San Antonio and beyond as we celebrate our fans and welcome a new …"
+   ]
+  },
+  {
+   "source": "SAS 公式（nba.com）",
+   "team": "SAS",
+   "team_ja": "スパーズ",
+   "team_id": 1610612759,
+   "kind": "feature",
+   "key": "https://www.nba.com/spurs/news/san-antonio-spurs-to-host-road-to-i-35-in-austin-in-anticipation-of-2026-27-season-tipoff",
+   "url": "https://www.nba.com/spurs/news/san-antonio-spurs-to-host-road-to-i-35-in-austin-in-anticipation-of-2026-27-season-tipoff",
+   "canonical_url": "https://spurs.com/news/san-antonio-spurs-to-host-road-to-i-35-in-austin-in-anticipation-of-2026-27-season-tipoff",
+   "title": "San Antonio Spurs to Host 'Road to I-35' in Austin in Anticipation of 2026-27 Season Tipoff",
+   "author": "saslkaneb",
+   "published_utc": "2026-10-07T14:28:20Z",
+   "tags": [
+    "Featured",
+    "press-release"
+   ],
+   "summary": "AUSTIN (Oct. 7, 2026) – The San Antonio Spurs invite fans to take part in “Road to I-35,” a weeklong series of fan activations across Austin from Monday, Oct. 19 through Saturday, Oct. 24. The festivities will lead into the Spurs game against the Houston Rockets at Moody Center on Friday, Oct. 23. Road to I-35 will feature free coffee, community events, live music, giveaways, appearances by the Co…",
+   "facts": [
+    "AUSTIN (Oct. 7, 2026) – The San Antonio Spurs invite fans to take part in “Road to I-35,” a weeklong series of fan activations across Austin from Monday, Oct. 19 through Saturday, Oct. 24.",
+    "The festivities will lead into the Spurs game against the Houston Rockets at Moody Center on Friday, Oct. 23.",
+    "Road to I-35 will feature free coffee, community events, live music, giveaways, appearances by the Coyote and more.",
+    "Fans can text ROADTOI35 to 210-444-5940 for additional information."
+   ],
+   "quotes": [
+    "We’re looking forward to spending the week in Austin and giving fans plenty of ways to connect with the Spurs before Friday’s game at Moody Center,",
+    "There’s something for everyone throughout the week, and we hope fans join us with their friends and family as we celebrate Spurs basketball across Austin."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/ujiri-wants-to-bring-joy-back-to-basketball-in-dallas-and-get-mavs-back-to-being-a-winner",
+   "url": "https://www.nba.com/mavs/news/ujiri-wants-to-bring-joy-back-to-basketball-in-dallas-and-get-mavs-back-to-being-a-winner",
+   "canonical_url": "https://mavs.com/mavs/news/ujiri-wants-to-bring-joy-back-to-basketball-in-dallas-and-get-mavs-back-to-being-a-winner",
+   "title": "Ujiri wants to bring joy back to basketball in Dallas and get Mavs back to winning",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-07T14:02:01Z",
+   "tags": [
+    "dallas mavericks",
+    "Masai Ujiri",
+    "nba"
+   ],
+   "summary": "Masai Ujiri broke his long-term vision for the Dallas Mavericks down to its lowest common denominator. He didn’t use any fancy words and he didn’t try to deceive anyone.",
+   "facts": [
+    "Ujiri was hired on May 4 as the team’s president and alternate governor and came in with specific plans to get the ship afloat and pointed in the right direction.",
+    "Together, Ujiri and Schmitz have formed an alliance that the Mavs hope will help them return to basketball royalty.",
+    "That’s when, aided by improvements in the roster and a coaching change from Dwane Casey to Nick Nurse, the Raptors captured the 2019 NBA title and were celebrated throughout Canada.",
+    "For the Raptors, that season will be remembered for Ujiri trading the longest tenured and very popular Raptor — forward DeMar DeRozan — to San Antonio for Spurs forward Kawhi Leonard, who was often injured.",
+    "During the 2024-25 season, Mavs players missed 444 games to injuries and illnesses, and last season that number was at 364 games missed.",
+    "After playing high school basketball in Seattle and in college at Bismarck State, Ujiri played his entire pro career (1991-2002) in Europe.",
+    "During the 2012-13 season while working as the general manager and executive vice president of basketball operations for Denver, Ujiri led the Nuggets to an impressive 57-win season, which was their franchise-best single…"
+   ],
+   "quotes": [
+    "We are trying to bring joy back to basketball in this city with this team,",
+    "Sports, basketball is all about winning, and we want to win in Dallas and we will win in Dallas. This organization has been nothing but first class. This is the beginning.",
+    "There’s a vibe and an energy that we are all feeling and we hope this can translate to good basketball, winning and the right attitude,",
+    "What we want to do is show a lot of respect for the game, how the game is played — played with joy — and win."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-memphis-grizzlies-game-preview-injury-report-20261007",
+   "url": "https://www.nba.com/magic/news/orlando-magic-memphis-grizzlies-game-preview-injury-report-20261007",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-memphis-grizzlies-game-preview-injury-report-20261007",
+   "title": "Orlando Magic at Memphis Grizzlies: Preseason Opener Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-07T13:07:39Z",
+   "tags": [
+    "Game Day",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "It’s been 157 days since the Orlando Magic touched the floor for an NBA game.",
+   "facts": [
+    "It’s been 157 days since the Orlando Magic touched the floor for an NBA game.",
+    "While it will not count in the official standings, the Magic are eager to get back on the hardwood and tip off the 2026 NBA preseason when they visit the Memphis Grizzlies on Wednesday at 8 p.m.",
+    "So, expect Orlando to hone in on the fine details of the fundamentals that are being instilled by the 16th head coach in franchise history.",
+    "While Bane played in all 82 games for the Magic last season, their two contests against the Grizzlies took place overseas in Berlin and London as part of the NBA Global Games.",
+    "He holds their single-season record for most 3-pointers made (228, 2021-22) and stands as their all-time leader in free throw percentage (88.3 percent).",
+    "On the court, he developed into one of the biggest surprises and steals of the draft, being picked 30th overall.",
+    "Desmond Bane being picked 30th and emerging as one of the better guards in the Western Conference, one of the most productive guards in the Western Conference, as a frontline starter.",
+    "In addition to being clutch on the court, he definitely was clutch in the community.” Savage: “What will you be looking for in the Grizzlies’ preseason home opener against the Magic?” Wallace: “Just to see that the Grizz…"
+   ],
+   "quotes": [
+    "Once you play against each other for a while, you know what the schemes are (and) you know what to expect. I think it will be good to test (ourselves) against a team where we don’t know that as well.",
+    "Our attention to detail, intensity and togetherness (have stood out),",
+    "I think we’re reaching another level of togetherness and accountability that’s going to serve us well over the course of the season.",
+    "For us, we’re looking to do as good of a job as we can at building up our base and building up our foundation, and then, add layers to it,"
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/expect-tiago-splitters-bulls-to-play-fast-in-preseason-opener-vs-phoenix",
+   "url": "https://www.nba.com/bulls/news/expect-tiago-splitters-bulls-to-play-fast-in-preseason-opener-vs-phoenix",
+   "canonical_url": "https://bulls.com/news/expect-tiago-splitters-bulls-to-play-fast-in-preseason-opener-vs-phoenix",
+   "title": "Expect Tiago Splitter's Bulls to play fast in Preseason Opener vs. Phoenix",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-07T10:12:40Z",
+   "tags": [
+    "Sam Smith"
+   ],
+   "summary": "The last time the Bulls played in the United Center, Billy Donovan was coach, Artūras Karnišovas was basketball chief, Lachlan Olbrich, Leonard Miller and Collin Sexton were starters, and Rob Dillingham, Mac McClung, Yuki Kawamura and Mouhamed Gueye were off the bench part of the regular playing rotation.",
+   "facts": [
+    "The home opener is October 24 against No. 1 draft pick AJ Dybantsa and the Washington Wizards.",
+    "With presumed Bulls starting center Nic Claxton out probably a month with a hamstring strain sustained late last week, the Bulls likely will start Josh Giddey and Norman Powell in the backcourt and Matas Buzelis and Cale…",
+    "Though since Splitter emphasized Game 1 of the preseason is primarily an opportunity for experimentation with rotations and lineups, it could be Jalen Smith.",
+    "Or maybe a two-way player like rebounder Tobe Awaka.",
+    "I don't think I go into a game. ‘Hey, listen, I gotta shoot 35 threes or 40 or 50.’ That's not the way I think about a game.",
+    "And the true shooting percentage (which measures a player's total scoring efficiency by accounting for two pointers, three pointers and free throws) is something that we're gonna acquire by skill development, shooting ev…",
+    "When you play fast and you put that type of stress (on players), sometimes you need more players in that rotation; it could be 10 or 11.",
+    "Which still doesn’t suggest this is a Bulls team quite yet with eyes on the Knicks and 76ers."
+   ],
+   "quotes": [
+    "It has nothing to do with who was here before and how they played before,",
+    "It’s how the standard is going to be and that’s it.",
+    "Nothing is written in stone yet,",
+    "I say I like good threes,"
+   ]
   },
   {
    "source": "UTA 公式（nba.com）",
@@ -120,6 +318,40 @@
    "quotes": []
   },
   {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "quotes",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261007-3-storylines-from-celtics-final-day-of-camp-in-charleston",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261007-3-storylines-from-celtics-final-day-of-camp-in-charleston",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20261007-3-storylines-from-celtics-final-day-of-camp-in-charleston",
+   "title": "3 Storylines From Celtics' Final Day of Camp in Charleston",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-06T22:25:00Z",
+   "tags": [
+    "Practice",
+    "Preseason",
+    "Sidebar",
+    "Training Camp"
+   ],
+   "summary": "The Celtics wrapped up the Charleston portion of training camp Tuesday, putting the finishing touches on four days of work at The Citadel before turning their attention toward Thursday’s preseason opener in Cleveland.",
+   "facts": [
+    "But him adding a 3-point shot could help with Boston’s spacing this coming season.",
+    "If I can add the 3-point shot, let's do it.",
+    "It came on Nov. 20, 2019, and happened to occur during the very first game that George and Kawhi Leonard took the court as teammates together at STAPLES Center.",
+    "But Boston’s third-year wing, stole the night late in the fourth quarter when he crossed up George, dropping the Clippers’ superstar to the ground before burying a game-tying step-back 3-pointer with 13 seconds remaining…",
+    "The game went to overtime, and Tatum (30 points) scored six more points for the C’s, carrying them to a 107-104 win.",
+    "It’s about beginning a process that the Celtics can continue building upon and can potentially return to when they’re tested later in the season."
+   ],
+   "quotes": [
+    "I think the preparation started with just getting spot shots during the summer, working on different forms, speeds, arches, and just getting a better feel for my shot,",
+    "I feel like we're gonna see a little bit more of my shot just off of the positioning we're gonna have, and just the comfortability I have in it too.",
+    "We shouldn’t stop expecting the same stuff I've been doing all over, which is rebounding, setting great screens, and finishing around the paint,",
+    "That's my bread and butter. If I can add the 3-point shot, let's do it. But I'm not living and dying by it."
+   ]
+  },
+  {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
    "team_ja": "ジャズ",
@@ -154,7 +386,12 @@
    "title": "Mavericks embracing culture, chemistry as China workouts begin",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-06T19:00:00Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "kyrie irving",
+    "nba",
+    "Santi Aldama"
+   ],
    "summary": "The Mavericks got to China early Tuesday (Monday afternoon, Dallas time) and they are eager to test their new system, new players and new coaching staff in two preseason games against the Houston Rockets starting Friday morning (7 a.m., Dallas time).",
    "facts": [
     "The Mavericks got to China early Tuesday (Monday afternoon, Dallas time) and they are eager to test their new system, new players and new coaching staff in two preseason games against the Houston Rockets starting Friday …",
@@ -809,32 +1046,6 @@
    ]
   },
   {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261004",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261004",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261004",
-   "title": "Warriors Fall Just Short in Preseason Loss to Clippers in Hawaii",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-05T01:41:59Z",
-   "tags": [],
-   "summary": "The Warriors’ second-half comeback efforts fell just short in their 104-101 preseason loss to the Los Angeles Clippers at Stan Sheriff Center in Hawaii on Sunday. The Warriors’ reserves outscored the Clippers’ bench by 17 points (75-58) and overcame a once 13-point deficit to take a one-point lead with 27.5 seconds remaining. However, Clippers rookie Keaton Wagler knocked down a step-back midrange…",
-   "facts": [
-    "The Warriors’ second-half comeback efforts fell just short in their 104-101 preseason loss to the Los Angeles Clippers at Stan Sheriff Center in Hawaii on Sunday.",
-    "The Warriors’ reserves outscored the Clippers’ bench by 17 points (75-58) and overcame a once 13-point deficit to take a one-point lead with 27.5 seconds remaining.",
-    "Charles Bassey was the highest of four Warriors to score in double figures with 12 points — Brandon Williams and Graham Ike added 11 points each, and Stephen Curry had 10 points in 12 minutes.",
-    "Rui Hachimura led the Clippers with 21 points on 8-for-11 shooting, and Darius Garland added 15 points, shooting a perfect 4-for-4 from the floor.",
-    "Both rookie lottery picks — Yaxel Lendeborg (11th pick, Warriors) and Keaton Wagler (5th pick, Clippers) — had impactful floor games but struggled with shooting efficiency.",
-    "LENDEBORG’S PRESEASON DEBUT HIGHLIGHTS Yaxel Lendeborg earned the starting nod in his preseason debut and scored the first basket of the game, knocking down a corner 3-pointer off a feed from Stephen Curry.",
-    "After knocking down his first shot, Lendeborg missed his final five field goal attempts but finished a plus-three in 18 minutes of action.",
-    "CURRY BEGINS 18TH SEASON WITH 10 POINTS IN 12 MINUTES Stephen Curry began his 18th NBA season in Hawaii, scoring 10 points in 12 minutes."
-   ],
-   "quotes": []
-  },
-  {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
    "team_ja": "ブルズ",
@@ -862,74 +1073,6 @@
    ],
    "quotes": [
     "Why aren’t you better? Why are you so bad?"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-set-to-spread-good-will-with-preseason-journey-to-china",
-   "url": "https://www.nba.com/mavs/news/mavericks-set-to-spread-good-will-with-preseason-journey-to-china",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-set-to-spread-good-will-with-preseason-journey-to-china",
-   "title": "Mavericks set to spread good will with preseason journey to China",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-04T20:36:52Z",
-   "tags": [
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "It was inevitable that the Mavericks would make a preseason trip to China the moment that the team was sold to the Dumont-Adelson family early in 2024.",
-   "facts": [
-    "It was inevitable that the Mavericks would make a preseason trip to China the moment that the team was sold to the Dumont-Adelson family early in 2024.",
-    "Macao is 13 hours ahead of Dallas.",
-    "It’s a preseason trip to play two games against the Houston Rockets on Friday (7 a.m., Dallas time) and Sunday (5 a.m., Dallas time).",
-    "It’s 8,151 miles from Love Field to the Macao International Airport.",
-    "The Mavericks’ plane, a Boeing 757, can fly about 4,400 miles without refueling.",
-    "It’s not the same plane that the team took in the preseason of 2018, when they played games in Shanghai and Shenzhen.",
-    "The interesting thing is that the flight to Macao (often spelled Macau in other languages) is 17 hours.",
-    "The return trip, thanks to the prevailing wind currents, is about 13 hours, Barkley said."
-   ],
-   "quotes": [
-    "He’s ready to show us this amazing arena that he has,",
-    "We (he and Dumont) talked a few weeks ago and he mentioned that with the games that happened last time, there was no one sitting down the entire time. It’s a super-nice arena, NBA-style and a brand-ne…",
-    "Us small guys . . . To be honest, I’ve always enjoyed flying,",
-    "I have a high level of concentration on the flight. They bring the meals and sit them right in your lap. There will be no complaints from me."
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/pacers-tip-off-new-season-entertaining-fans-2026-fanjam",
-   "url": "https://www.nba.com/pacers/news/pacers-tip-off-new-season-entertaining-fans-2026-fanjam",
-   "canonical_url": "https://pacers.com/news/pacers-tip-off-new-season-entertaining-fans-2026-fanjam",
-   "title": "Pacers Tip Off New Season Entertaining Fans at 2026 FanJam",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-04T16:35:18Z",
-   "tags": [
-    "2026 FanJam",
-    "2026 Training Camp"
-   ],
-   "summary": "Pacers All-Star guard Tyrese Haliburton's return to the court at Gainbridge Fieldhouse headlined Sunday's Pacers FanJam, the team's annual open scrimmage.",
-   "facts": [
-    "Pacers All-Star guard Tyrese Haliburton's return to the court at Gainbridge Fieldhouse headlined Sunday's Pacers FanJam, the team's annual open scrimmage.",
-    "The first 5,000 fans in attendance received a swag bag and all fans had opportunities to meet Boomer and the Pacemates and take part in family activities before the on-court program began.",
-    "The last player introduced was Haliburton, back playing in front of fans at Gainbridge Fieldhouse for the first time since the 2025 NBA Finals.",
-    "He found Ivica Zubac — acquired from the Clippers last season at the trade deadline — in the post for a bucket on the White team's first possession of the game.",
-    "Zubac scored the White team's first eight points, while free agent signing Kelly Oubre Jr. scored five of the first seven (and 12 of the first 21) points for the Blue team.",
-    "The Blue team jumped out to an early 13-point lead and maintained a similar margin for the remainder of the 12-minute scrimmage.",
-    "Haliburton finished with eight points on 3-of-6 shooting, two rebounds, and four assists.",
-    "Zubac had a team-high 12 points on 6-of-7 shooting and six boards for the White team."
-   ],
-   "quotes": [
-    " Haliburton said of the ovation. ",
-    "The ball finds energy and I had a lot of it,",
-    "...Braden [Smith], all the guys, they did a good job of playing unselfishly and we all flowed off each other. I just so happened to shoot the most.",
-    " center Rienk Mast took the crowd back in time with the Jackson 5's "
    ]
   }
  ]
