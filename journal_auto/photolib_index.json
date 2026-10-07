@@ -1,7 +1,7 @@
 {
  "_about": "NBA写真ライブラリ（各チーム公式IG）の選手判定済み写真。~/.claude/scripts/nba_photo_library/publish_photolib.py が生成。手で編集しない。",
  "release": "photolib",
- "count": 978,
+ "count": 998,
  "items": [
   {
    "key": "espn-50056625",
@@ -58,6 +58,20 @@
    "source_url": "https://www.espn.com/nba/story/_/id/50008454/nba-2026-2027-preseason-biggest-question-all-30-teams",
    "w": 1600,
    "h": 2400
+  },
+  {
+   "key": "Dd4jMiqkwgT-1",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4jMiqkwgT-1.jpg",
+   "team": "BOS",
+   "players": [
+    "Paul George"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "celtics (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4jMiqkwgT/",
+   "w": 1439,
+   "h": 1919
   },
   {
    "key": "Dd4UVnXkWxL-5",
@@ -176,6 +190,244 @@
    "h": 1440
   },
   {
+   "key": "Dd4NEwNmgYO-9",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-9.jpg",
+   "team": "ATL",
+   "players": [
+    "Asa Newell"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-8",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-8.jpg",
+   "team": "ATL",
+   "players": [
+    "Zuby Ejiofor"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-7",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-7.jpg",
+   "team": "ATL",
+   "players": [
+    "Kingston Flemings"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-6",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-6.jpg",
+   "team": "ATL",
+   "players": [
+    "Dorian Finney-Smith"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-5",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-5.jpg",
+   "team": "ATL",
+   "players": [
+    "Dyson Daniels"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-4",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-4.jpg",
+   "team": "ATL",
+   "players": [
+    "Aaron Wiggins"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-3",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-3.jpg",
+   "team": "ATL",
+   "players": [
+    "Mouhamed Gueye"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-2",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-2.jpg",
+   "team": "ATL",
+   "players": [
+    "Luguentz Dort"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-17",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-17.jpg",
+   "team": "ATL",
+   "players": [
+    "Onyeka Okongwu"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-16",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-16.jpg",
+   "team": "ATL",
+   "players": [
+    "Jalen Johnson"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-15",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-15.jpg",
+   "team": "ATL",
+   "players": [
+    "CJ McCollum"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-14",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-14.jpg",
+   "team": "ATL",
+   "players": [
+    "Jock Landale"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-13",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-13.jpg",
+   "team": "ATL",
+   "players": [
+    "Keshon Gilbert"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-12",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-12.jpg",
+   "team": "ATL",
+   "players": [
+    "Jalen Wilson"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-11",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-11.jpg",
+   "team": "ATL",
+   "players": [
+    "RayJ Dennis"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 1998
+  },
+  {
+   "key": "Dd4NEwNmgYO-10",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-10.jpg",
+   "team": "ATL",
+   "players": [
+    "Corey Kispert"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
+   "key": "Dd4NEwNmgYO-1",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4NEwNmgYO-1.jpg",
+   "team": "ATL",
+   "players": [
+    "Nickeil Alexander-Walker"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4NEwNmgYO/",
+   "w": 1600,
+   "h": 2000
+  },
+  {
    "key": "Dd4K7wexZRg-1",
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4K7wexZRg-1.jpg",
    "team": "MIN",
@@ -218,6 +470,21 @@
    "source_url": "https://www.instagram.com/p/Dd4Jv5vFryk/",
    "w": 1600,
    "h": 2000
+  },
+  {
+   "key": "Dd4JjfcIBCT-1",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4JjfcIBCT-1.jpg",
+   "team": "ATL",
+   "players": [
+    "Onyeka Okongwu",
+    "Jalen Johnson"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4JjfcIBCT/",
+   "w": 1600,
+   "h": 2004
   },
   {
    "key": "Dd4J_2IFqkv-9",
@@ -583,6 +850,36 @@
    "source_url": "https://www.instagram.com/p/Dd4F2PNAA-c/",
    "w": 1600,
    "h": 2000
+  },
+  {
+   "key": "Dd4EBbGIFeb-2",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4EBbGIFeb-2.jpg",
+   "team": "ATL",
+   "players": [
+    "Jalen Johnson",
+    "Ronald Holland II"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4EBbGIFeb/",
+   "w": 1200,
+   "h": 1500
+  },
+  {
+   "key": "Dd4EBbGIFeb-1",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd4EBbGIFeb-1.jpg",
+   "team": "ATL",
+   "players": [
+    "Nickeil Alexander-Walker",
+    "Ronald Holland II"
+   ],
+   "event": "メディアデー期間",
+   "date": "2026-09-29",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Dd4EBbGIFeb/",
+   "w": 1200,
+   "h": 1500
   },
   {
    "key": "Dd4DdEMkZvc-6",
@@ -9049,20 +9346,6 @@
    "h": 1440
   },
   {
-   "key": "Dd2B6i0FJph-1",
-   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd2B6i0FJph-1.jpg",
-   "team": "NOP",
-   "players": [
-    "LaMelo Ball"
-   ],
-   "event": "メディアデー",
-   "date": "2026-09-28",
-   "credit": "pelicansnba (Instagram)",
-   "source_url": "https://www.instagram.com/p/Dd2B6i0FJph/",
-   "w": 1080,
-   "h": 1440
-  },
-  {
    "key": "Dd2A-dxEuZl-4",
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd2A-dxEuZl-4.jpg",
    "team": "POR",
@@ -9165,7 +9448,6 @@
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd1xK0EmuEM-1.jpg",
    "team": "ORL",
    "players": [
-    "Orlando Robinson",
     "Noah Penda"
    ],
    "event": "メディアデー",
@@ -11215,7 +11497,6 @@
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd14Q92mqyq-1.jpg",
    "team": "BKN",
    "players": [
-    "LaMelo Ball",
     "Mikel Brown Jr."
    ],
    "event": "メディアデー",
@@ -11387,7 +11668,6 @@
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd13zZylJcj-1.jpg",
    "team": "NOP",
    "players": [
-    "LaMelo Ball",
     "Zion Williamson"
    ],
    "event": "メディアデー",
@@ -11488,7 +11768,6 @@
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd12RPyD1pc-1.jpg",
    "team": "POR",
    "players": [
-    "LaMelo Ball",
     "Donovan Clingan"
    ],
    "event": "メディアデー",
@@ -11503,7 +11782,6 @@
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Dd10sTAHeYb-1.jpg",
    "team": "CLE",
    "players": [
-    "LaMelo Ball",
     "Meleek Thomas"
    ],
    "event": "メディアデー",
@@ -11772,20 +12050,6 @@
    "players": [
     "Tyrese Haliburton",
     "Pascal Siakam"
-   ],
-   "event": "メディアデー",
-   "date": "2026-09-27",
-   "credit": "pacers (Instagram)",
-   "source_url": "https://www.instagram.com/p/DdzlFpmGKpp/",
-   "w": 1600,
-   "h": 2000
-  },
-  {
-   "key": "DdzlFpmGKpp-4",
-   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/DdzlFpmGKpp-4.jpg",
-   "team": "IND",
-   "players": [
-    "David Jones Garcia"
    ],
    "event": "メディアデー",
    "date": "2026-09-27",
@@ -13425,7 +13689,6 @@
    "url": "https://github.com/610chris/610-sixten/releases/download/photolib/DdwGPqnFqSu-2.jpg",
    "team": "ORL",
    "players": [
-    "Jett Howard",
     "Izaiyah Nelson"
    ],
    "event": "チーム投稿",
@@ -13616,6 +13879,20 @@
    "source_url": "https://www.espn.com/nba/story/_/id/50029817/altman-cavs-built-sustainable-run-missing-lebron",
    "w": 2400,
    "h": 1600
+  },
+  {
+   "key": "Ddt1LyMIFft-1",
+   "url": "https://github.com/610chris/610-sixten/releases/download/photolib/Ddt1LyMIFft-1.jpg",
+   "team": "ATL",
+   "players": [
+    "Dorian Finney-Smith"
+   ],
+   "event": "チーム投稿",
+   "date": "2026-09-25",
+   "credit": "atlhawks (Instagram)",
+   "source_url": "https://www.instagram.com/p/Ddt1LyMIFft/",
+   "w": 1600,
+   "h": 2000
   },
   {
    "key": "espn-50006415",
