@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "386-nba-fiba-europe-push-continue-euroleague.html",
+    cat: "NBA",
+    title: "NBAとFIBA「統合拒否のユーロリーグ抜きでも欧州進出は続行」—— 対立の中でも交渉の扉は開く",
+    excerpt: "NBAとFIBAは8日(現地時間)、ユーロリーグ加盟クラブによる統合提案拒否を受けても、新リーグ「NBAヨーロッパ」創設を独自に進める方針を共同声明で示した。両者の緊張は高まっているが交渉の余地は残るとESPNが報じた。アダム・シルバーコミッショナーらは中国遠征中の澳門(マカオ)で欧州情勢への対応に当たっている。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "385-nike-giannis-freak-8-star-blue.html",
     cat: "KICKS",
     title: "Nike Giannis Freak 8「Star Blue」が登場 —— 品番IQ7703-400、ターコイズ×ブルーの新色",
