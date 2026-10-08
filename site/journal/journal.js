@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "382-towns-knicks-extension-not-looking-good.html",
+    cat: "NBA",
+    title: "タウンズ「状況は良くない」—— ニックスとの契約延長、開幕前合意は絶望的に",
+    excerpt: "ニューヨーク・ニックスのカール=アンソニー・タウンズ(Karl-Anthony Towns)は5日(現地時間)、契約延長交渉について「状況は良くない」と語り、レギュラーシーズン開幕前の合意は困難との認識を示した。最大4年2億7600万ドルの資格を持つ中、球団側の最新提示は4年総額約2億ドルにとどまるとESPNが報じている。",
+    date: "2026.10.08",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "381-haliburton-return-iowa-state-preseason.html",
+    cat: "NBA",
+    title: "ハリバートン、アキレス腱から400日ぶり実戦復帰 —— 母校アイオワ州立で16分7得点、ペイサーズがプレシーズン開幕戦を快勝",
+    excerpt: "インディアナ・ペイサーズのタイリース・ハリバートン(Tyrese Haliburton)は7日(現地時間)、母校アイオワ州立大学で行われたティンバーウルブズとのプレシーズン開幕戦に出場し、右アキレス腱断裂から400日以上ぶりに実戦復帰した。16分の出場で7得点・6アシストを記録し、ペイサーズは123-112で勝利した。",
+    date: "2026.10.08",
+    thumb: "../assets/journal-381-hero.jpg?v=9836230fd4"
+  },
+  {
     href: "380-jazz-nurkic-toe-injury-four-weeks.html",
     cat: "NBA",
     title: "ジャズのヌルキッチ、右足第2趾の足底板を部分断裂 —— プレシーズン開幕戦で負傷、4週間後に再評価",

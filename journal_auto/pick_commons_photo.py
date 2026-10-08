@@ -484,15 +484,22 @@ def main():
     for c in order:
         try:
             data = fetch(c['thumb'])
+            if not data.startswith(b'\xff\xd8') and not data.startswith(b'\x89PNG'):
+                raise RuntimeError(f'画像以外の応答(先頭: {data[:40]!r})')
         except Exception as e:
             if c['url'] and c['url'] != c['thumb']:
                 try:
                     data = fetch(c['url'])
+                    if not data.startswith(b'\xff\xd8') and not data.startswith(b'\x89PNG'):
+                        raise RuntimeError(f'画像以外の応答(先頭: {data[:40]!r})')
                 except Exception as e2:
                     print(f"  取得失敗 {c['title'][:50]}: {e2}"); continue
             else:
                 print(f"  取得失敗 {c['title'][:50]}: {e}"); continue
-        b = blur_score(data)
+        try:
+            b = blur_score(data)
+        except Exception as e:
+            print(f"  判定失敗 {c['title'][:50]}: {e}"); continue
         ng = blur_ng(b, product=args.product)
         if ng:
             print(f"  ボケ判定NG({ng}) → 次の候補: {c['title'][:60]}"); continue
