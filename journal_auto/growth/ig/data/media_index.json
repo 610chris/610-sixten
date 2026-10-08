@@ -1367,6 +1367,34 @@
   "product": "REELS",
   "timestamp": "2022-04-12T02:31:30+0000"
  },
+ "18021473849940081": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "374",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "フクポルティ離脱、76ersが選手枠で難しい選択",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeMnrfYAo3y/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ボビー・マークス）",
+  "subject": [
+   "Jabari Walker",
+   "Joel Embiid"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-07T14:54:34+0000"
+ },
  "18026400979417562": {
   "auto": false,
   "caption_len": 76,
@@ -1984,6 +2012,31 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:14:32+0000"
  },
+ "18108397078933856": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "379",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 16,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Air Jordan 12「Obsidian」が2027年に復刻",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeNyZ54ARGZ/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Nice Kicks / Sneaker Bar Detroit",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-08T01:47:34+0000"
+ },
  "18108570026247827": {
   "article": "320",
   "auto": true,
@@ -2122,6 +2175,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T11:21:22+0000"
+ },
+ "18111709844143090": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "376",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 17,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "adidas AE3「Omen」がハロウィンに発売",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeMoEC1CBVC/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker Bar Detroit",
+  "subject": [
+   "Anthony Edwards"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-07T14:57:56+0000"
  },
  "18112153307120548": {
   "article": "306",
@@ -2472,6 +2552,60 @@
   "product": "REELS",
   "timestamp": "2021-08-21T06:51:02+0000"
  },
+ "18128306654505242": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "375",
+  "auto": true,
+  "caption_len": 397,
+  "caption_lines": 17,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Jordan Tatum 5「Laser」10月10日先行発売",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeMn3i7DbYl/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker News / Sneaker Bar Detroit",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-07T14:56:16+0000"
+ },
+ "18128865808838888": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "380",
+  "auto": true,
+  "caption_len": 313,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャズのヌルキッチ、右足第2趾の足底板を部分断裂",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeN3O33jonw/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ユタ・ジャズ公式サイト",
+  "subject": [
+   "Jusuf Nurkic"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-08T02:29:36+0000"
+ },
  "18129634228762830": {
   "article": "327",
   "auto": true,
@@ -2668,6 +2802,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-03T17:32:47+0000"
+ },
+ "18146126653590325": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "378",
+  "auto": true,
+  "caption_len": 371,
+  "caption_lines": 17,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "adidas Harden Vol. 10「Snakeskin」が10月16日発売",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeNyNzXirx6/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Nice Kicks",
+  "subject": [
+   "James Harden"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-08T01:45:55+0000"
  },
  "18149854045539124": {
   "article": "272",
