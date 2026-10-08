@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "380-jazz-nurkic-toe-injury-four-weeks.html",
+    cat: "NBA",
+    title: "ジャズのヌルキッチ、右足第2趾の足底板を部分断裂 —— プレシーズン開幕戦で負傷、4週間後に再評価",
+    excerpt: "ユタ・ジャズ(Utah Jazz)は、センターのユスフ・ヌルキッチ(Jusuf Nurkić)がプレシーズン開幕戦で右足第2趾の足底板を部分断裂したと公式サイトで発表した。4週間後に再評価される見通し。",
+    date: "2026.10.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "379-air-jordan-12-obsidian-2027.html",
     cat: "KICKS",
     title: "Air Jordan 12「Obsidian」が2027年に復刻 —— 品番CT8013-401、ハイトップでは15年ぶり",
