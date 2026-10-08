@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "383-nba-docomo-october-schedule.html",
+    cat: "NBA",
+    title: "「NBA docomo」10月の配信試合が決定 —— 開幕戦「サンダー vs スパーズ」含む全25試合、八村塁の\"古巣対決\"は2度",
+    excerpt: "NTTドコモの映像配信サービス「NBA docomo」は8日、NBA2026-27シーズン10月の配信試合を発表した。10月21日開幕のレギュラーシーズン25試合とプレシーズン5試合を日本語実況・解説付きで配信し、開幕戦の目玉は「オクラホマシティ・サンダー vs サンアントニオ・スパーズ」。八村塁選手が所属するクリッパーズとレイカーズの対戦も10月に2度組まれている。",
+    date: "2026.10.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "382-towns-knicks-extension-not-looking-good.html",
     cat: "NBA",
     title: "タウンズ「状況は良くない」—— ニックスとの契約延長、開幕前合意は絶望的に",
