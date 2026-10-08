@@ -1,8 +1,46 @@
 {
- "updated_utc": "2026-10-08 02:14 UTC",
- "teams_ok": 30,
- "teams_failed": [],
+ "updated_utc": "2026-10-08 09:25 UTC",
+ "teams_ok": 29,
+ "teams_failed": [
+  "GSW"
+ ],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-show-great-ball-movement-spacing-and-shooting-in-preseason-victory-over-memphis-grizzlies-20261007",
+   "url": "https://www.nba.com/magic/news/orlando-magic-show-great-ball-movement-spacing-and-shooting-in-preseason-victory-over-memphis-grizzlies-20261007",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-show-great-ball-movement-spacing-and-shooting-in-preseason-victory-over-memphis-grizzlies-20261007",
+   "title": "Orlando Magic Show Great Ball Movement, Spacing and Shooting in Preseason Victory Over Memphis Grizzlies",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-08T03:33:57Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Sweeney makes head coaching debut; Bane returns to Memphis for first time since trade",
+   "facts": [
+    "Sweeney makes head coaching debut; Bane returns to Memphis for first time since trade MEMPHIS - On the very first play of the Orlando Magic’s first preseason game of the year against the Memphis Grizzlies, Franz Wagner f…",
+    "There were many perfectly executed plays like this by the Magic throughout the night, which ended with Orlando going home with a 122-118 victory.",
+    "Banchero was on the floor for 15 minutes and finished with 11 points and five assists.",
+    "Wagner had six points and seven assists in his 14 minutes, Carter 13 points in 15 minutes and Bane nine points in 13 minutes.",
+    "Neither Jalen Suggs (illness) nor Anthony Black (right ankle sprain) played.",
+    "Also out for Orlando were Jonathan Isaac (personal reasons) and Noah Penda (right hamstring strain).",
+    "Among the many things that stood out about the Magic’s offense was their spacing, which helped them make six of their first seven 3-pointers and go 20-for-45 (44 percent) in the game.",
+    "Expected to help in this area as well is the re-addition of Nikola Vucevic, who’s been one of the league’s better stretch fives the last several years."
+   ],
+   "quotes": [
+    "We talked a lot about trying to sprint into organization going into this game and I thought we did a really nice job of that, especially in the first half but throughout the game we did a good job of …",
+    "I think that showed with the 35 assists and 14 turnovers. Great ball movement there. A lot of unselfishness — 12 assists between Franz and Paolo in the first half, so excellent job by those two guys b…",
+    "The way the coaching staff has really pointed to me to have me shoot those shots and made me realize how important it is that I do shoot those shots to be able to space the floor,",
+    "I think that’s just a credit to how much the coaching staff pours into me."
+   ]
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -14,22 +52,24 @@
    "canonical_url": "https://pacers.com/news/rewind-pacers-timberwolves-261007",
    "title": "Game Rewind: Pacers 123, Timberwolves 112 (Preseason)",
    "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-08T01:35:00Z",
+   "published_utc": "2026-10-08T02:35:00Z",
    "tags": [
     "2026-27 Game Rewind"
    ],
    "summary": "Wednesday, Oct. 7 at 7:00 PM ET at Hilton Coliseum in Ames, Iowa",
    "facts": [
     "Wednesday, Oct. 7 at 7:00 PM ET at Hilton Coliseum in Ames, Iowa Game Recap The Pacers tipped off the preseason on Wednesday night in a special place for star guard Tyrese Haliburton, taking on the Minnesota Timberwolves…",
-    "Back on his alma mater's campus and back on the court for a competitive game for the first time in 16 months, Haliburton donned a special jersey with his college number of 22 before the game and took the mic to address t…",
+    "Back on his college campus and back on the court for a competitive game for the first time in 16 months, Haliburton donned a special jersey with his college number, 22, before the game and took the mic to address the cro…",
     "The Pacers ultimately prevailed 123-112.",
     "Haliburton played 16 minutes in his first NBA action since he tore his Achilles in Game 7 of the 2025 NBA Finals.",
     "The All-Star guard tallied seven points on 3-of-8 shooting and dished out six assists while only committing one turnover.",
-    "Aaron Nesmith led Indiana with 19 points on 7-of-9 shooting (4-of-6 from 3-point range) in just 15 minutes.",
     "Reserve center Jay Huff scored 16 points on 6-of-11 shooting, while Ben Sheppard added 13 points and four rebounds.",
-    "The Blue & Gold reeled off 15 unanswered points and outscored the Timberwolves 20-7 over the final 4:27 of the first quarter to take a 32-27 lead."
+    "The Blue & Gold reeled off 15 unanswered points and outscored the Timberwolves 20-7 over the final 4:27 of the first quarter to take a 32-27 lead.",
+    "Nesmith had it going in the second quarter, tallying 14 points in the frame."
    ],
    "quotes": [
+    "Probably will be the loudest preseason game I'm ever a part of,",
+    "I had a lot of fun. A lot of special memories I made here, so that just adds to it.",
     "I thought we played pretty well today,",
     "Flew around, moved the ball, played together. It was a good first game."
    ]
@@ -121,32 +161,6 @@
     "Those were big-time opportunities,",
     "Why Royce has lasted so long in this league is because he’s got an edge and a hunger to him,"
    ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/warriors-to-host-open-practice-presented-by-waymo-on-sunday-october-18-20261006",
-   "url": "https://www.nba.com/warriors/news/warriors-to-host-open-practice-presented-by-waymo-on-sunday-october-18-20261006",
-   "canonical_url": "https://warriors.com/news/warriors-to-host-open-practice-presented-by-waymo-on-sunday-october-18-20261006",
-   "title": "Warriors To Host Open Practice, Presented By Waymo, On Sunday, October 18",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-07T15:00:00Z",
-   "tags": [],
-   "summary": "The Golden State Warriors have announced that the team will host Open Practice, presented by Waymo, at Chase Center on Sunday, October 18, at 2:30 p.m., giving fans a rare, behind-the-scenes look at a Warriors team practice. Tickets for Open Practice, which will go on sale Wednesday, Oct. 7 at 11 a.m. on warriors.com, are $5, with net proceeds benefitting the Golden State Community Foundation.",
-   "facts": [
-    "The Golden State Warriors have announced that the team will host Open Practice, presented by Waymo, at Chase Center on Sunday, October 18, at 2:30 p.m., giving fans a rare, behind-the-scenes look at a Warriors team pract…",
-    "Tickets for Open Practice, which will go on sale Wednesday, Oct. 7 at 11 a.m. on warriors.com, are $5, with net proceeds benefitting the Golden State Community Foundation.",
-    "To tip off Open Practice, Warriors Head Coach Steve Kerr will join Warriors Television Play-By-Play Announcer Bob Fitzgerald for a question-and-answer session at approximately 2:30 p.m.",
-    "Chase Center doors will open at 2 p.m.",
-    "Fans can check-in at Portal 10 with their ride receipt for a chance to receive a seat upgrade while supplies last.",
-    "For all Warriors games and basketball events, including Open Practice, all Chase cardholders who use their Chase cards at the arena’s eateries can take $5 off each purchase of $30 or more.",
-    "Additionally, Chase cardholders will receive $20 off purchases of $100 or more at any Golden State Shop location when they use their Chase card.",
-    "The Warriors will host the Memphis Grizzlies in their 2026-27 NBA regular season home opener at Chase Center on Friday, October 23, at 7 p.m."
-   ],
-   "quotes": []
   },
   {
    "source": "SAS 公式（nba.com）",
@@ -304,32 +318,6 @@
     "Nothing is written in stone yet,",
     "I say I like good threes,"
    ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261006",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261006",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261006",
-   "title": "Warriors Defeat Lakers by 26 Points in Preseason",
-   "author": "gswgrizzo",
-   "published_utc": "2026-10-07T04:30:00Z",
-   "tags": [],
-   "summary": "An explosive 81 point first half carries the Golden State Warriors to a 124-98 victory over the Los Angeles Lakers in their preseason home debut at Chase Center on Tuesday night. Their largest lead reached 38 points in the fourth quarter and the Lakers never led at any point in the contest. Yaxel Lendeborg paced the team in scoring with 17 points, followed by Stephen Curry (16) and Brandin Podziem…",
-   "facts": [
-    "An explosive 81 point first half carries the Golden State Warriors to a 124-98 victory over the Los Angeles Lakers in their preseason home debut at Chase Center on Tuesday night.",
-    "Their largest lead reached 38 points in the fourth quarter and the Lakers never led at any point in the contest.",
-    "Yaxel Lendeborg paced the team in scoring with 17 points, followed by Stephen Curry (16) and Brandin Podziemski (16).",
-    "FIRST QUARTER FINISHING The Dubs wasted no time in their home court debut, going on a 11-2 scoring run to start the first quarter that quickly evolved into a double digit lead.",
-    "They scored 45 points in the frame with their advantage reaching a high of 20 points at one point.",
-    "The high-scoring quarter was highlighted by a Draymond Green buzzer beater 3-pointer and a Stephen Curry four-point play as he earned the hoop and harm from beyond the arc.",
-    "Curry led the scoring across both teams in the first, contributing 11 points in eight minutes.",
-    "The sequence started with a tough and-1 play and followed by a penetrating drive to the rim off a Draymond Green dime to secure another bucket."
-   ],
-   "quotes": []
   },
   {
    "source": "UTA 公式（nba.com）",
@@ -1078,45 +1066,6 @@
     "A native of Spokane, Washington, Degenhart joined the 905 following four seasons at Boise State (2021-25) where he departed as the program’s all-time leading scorer with 2,037 points and earned All-Mountain West First Te…"
    ],
    "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-open-preseason-with-win-over-denver-nuggets-three-takeaways",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-open-preseason-with-win-over-denver-nuggets-three-takeaways",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-open-preseason-with-win-over-denver-nuggets-three-takeaways",
-   "title": "Utah Jazz Open Preseason With Win over Denver Nuggets: Three Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-05T02:21:50Z",
-   "tags": [
-    "Ace Bailey",
-    "Isaiah Collier",
-    "Jaren Jackson Jr.",
-    "Keyonte George",
-    "Lauri Markkanen",
-    "Svi Mykhailiuk",
-    "Utah Jazz"
-   ],
-   "summary": "After a summer full of anticipation, Utah Jazz basketball made its return Sunday night.",
-   "facts": [
-    "After a summer full of anticipation, Utah Jazz basketball made its return Sunday night.",
-    "Although it was only a preseason matchup against the Denver Nuggets, Jazz fans finally got to see the 2026-27 squad in action.",
-    "Utah fought through multiple cold spells offensively to gain control and pull out a 109-97 win to open the preseason slate of games.",
-    "The long ball was a key weapon for the Jazz (15 made threes), while an edge on the boards (63-55) also helped fuel the victory.",
-    "The Jazz closed the opening frame on a 19-6 run, fueled by good ball movement (11 assists in the quarter) and hot shooting (52 percent from the field and five made 3-pointers).",
-    "It was a similar story in the second quarter, as Utah shot 1-of-10 from the field to begin the frame before using regular trips to the free-throw line to find more of a rhythm on the offensive end.",
-    "Lauri Markkanen totaled 17 points in the first half, with Jaren Jackson Jr. (11 points) and Keyonte George (10 points) following The Finnisher’s lead.",
-    "On the defensive end, the Jazz forced six turnovers and limited Denver to 44 percent shooting from the field, which helped push the visitors in front 63-52."
-   ],
-   "quotes": [
-    "It was a good first effort for our group,",
-    "Both of them were picking their spots really well and recognizing opportunities to attack versus when to move it,",
-    "When they play together, it’s a matchup problem. It’s all a work in progress. It’s about showing them positive moments and where they’re making good decisions.",
-    "I thought they both used their burst to get into the paint,"
-   ]
   }
  ]
 }
