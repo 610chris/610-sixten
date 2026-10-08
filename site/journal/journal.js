@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "384-lendeborg-warriors-preseason.html",
+    cat: "NBA",
+    title: "ウォリアーズ新人レンデボーグ、プレシーズン2戦で21得点18リバウンド —— カーHC「もう我々のベストプレーヤーの1人」",
+    excerpt: "2026年ドラフト全体11位のヤクセル・レンデボーグが、ウォリアーズのプレシーズン開幕2戦で21得点18リバウンド5アシスト2ブロックを記録。カリー・グリーンとのコンビネーションや八村塁への守備対応まで、新人の滑り出しをESPNが詳報した。",
+    date: "2026.10.08",
+    thumb: "../assets/journal-384-hero.jpg?v=e3dff30df6"
+  },
+  {
     href: "383-nba-docomo-october-schedule.html",
     cat: "NBA",
     title: "「NBA docomo」10月の配信試合が決定 —— 開幕戦「サンダー vs スパーズ」含む全25試合、八村塁の\"古巣対決\"は2度",
