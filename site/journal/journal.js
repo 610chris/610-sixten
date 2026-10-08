@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "385-nike-giannis-freak-8-star-blue.html",
+    cat: "KICKS",
+    title: "Nike Giannis Freak 8「Star Blue」が登場 —— 品番IQ7703-400、ターコイズ×ブルーの新色",
+    excerpt: "ナイキは、ヤニス・アデトクンボ(マイアミ・ヒート)のシグネチャー8代目モデル「Nike Giannis Freak 8」に新色「Star Blue」(品番IQ7703-400)を投入する。ハイパーターコイズ・グレイシャーブルー・ライトニングを組み合わせた配色で、Sneaker Newsが伝えた。発売日と価格は記事執筆時点で明らかにされていない。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "384-lendeborg-warriors-preseason.html",
     cat: "NBA",
     title: "ウォリアーズ新人レンデボーグ、プレシーズン2戦で21得点18リバウンド —— カーHC「もう我々のベストプレーヤーの1人」",
