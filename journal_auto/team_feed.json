@@ -1,10 +1,62 @@
 {
- "updated_utc": "2026-10-07 22:14 UTC",
- "teams_ok": 29,
- "teams_failed": [
-  "GSW"
- ],
+ "updated_utc": "2026-10-08 02:14 UTC",
+ "teams_ok": 30,
+ "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-timberwolves-261007",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-timberwolves-261007",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-timberwolves-261007",
+   "title": "Game Rewind: Pacers 123, Timberwolves 112 (Preseason)",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-08T01:35:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Wednesday, Oct. 7 at 7:00 PM ET at Hilton Coliseum in Ames, Iowa",
+   "facts": [
+    "Wednesday, Oct. 7 at 7:00 PM ET at Hilton Coliseum in Ames, Iowa Game Recap The Pacers tipped off the preseason on Wednesday night in a special place for star guard Tyrese Haliburton, taking on the Minnesota Timberwolves…",
+    "Back on his alma mater's campus and back on the court for a competitive game for the first time in 16 months, Haliburton donned a special jersey with his college number of 22 before the game and took the mic to address t…",
+    "The Pacers ultimately prevailed 123-112.",
+    "Haliburton played 16 minutes in his first NBA action since he tore his Achilles in Game 7 of the 2025 NBA Finals.",
+    "The All-Star guard tallied seven points on 3-of-8 shooting and dished out six assists while only committing one turnover.",
+    "Aaron Nesmith led Indiana with 19 points on 7-of-9 shooting (4-of-6 from 3-point range) in just 15 minutes.",
+    "Reserve center Jay Huff scored 16 points on 6-of-11 shooting, while Ben Sheppard added 13 points and four rebounds.",
+    "The Blue & Gold reeled off 15 unanswered points and outscored the Timberwolves 20-7 over the final 4:27 of the first quarter to take a 32-27 lead."
+   ],
+   "quotes": [
+    "I thought we played pretty well today,",
+    "Flew around, moved the ball, played together. It was a good first game."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "injury",
+   "key": "https://www.nba.com/jazz/news/jusuf-nurkic-injury-update",
+   "url": "https://www.nba.com/jazz/news/jusuf-nurkic-injury-update",
+   "canonical_url": "https://utahjazz.com/news/jusuf-nurkic-injury-update",
+   "title": "Jusuf Nurkić Injury Update",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-08T01:15:51Z",
+   "tags": [
+    "Jusuf Nurkić",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 7, 2026) – The following is a medical update on Utah Jazz center Jusuf Nurkić:",
+   "facts": [
+    "SALT LAKE CITY (October 7, 2026) – The following is a medical update on Utah Jazz center Jusuf Nurkić: Nurkić sustained a partial plantar plate tear of the second toe of his right foot during Utah's first preseason game …",
+    "He will be re-evaluated in four weeks."
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -69,6 +121,32 @@
     "Those were big-time opportunities,",
     "Why Royce has lasted so long in this league is because he’s got an edge and a hunger to him,"
    ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/warriors-to-host-open-practice-presented-by-waymo-on-sunday-october-18-20261006",
+   "url": "https://www.nba.com/warriors/news/warriors-to-host-open-practice-presented-by-waymo-on-sunday-october-18-20261006",
+   "canonical_url": "https://warriors.com/news/warriors-to-host-open-practice-presented-by-waymo-on-sunday-october-18-20261006",
+   "title": "Warriors To Host Open Practice, Presented By Waymo, On Sunday, October 18",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-07T15:00:00Z",
+   "tags": [],
+   "summary": "The Golden State Warriors have announced that the team will host Open Practice, presented by Waymo, at Chase Center on Sunday, October 18, at 2:30 p.m., giving fans a rare, behind-the-scenes look at a Warriors team practice. Tickets for Open Practice, which will go on sale Wednesday, Oct. 7 at 11 a.m. on warriors.com, are $5, with net proceeds benefitting the Golden State Community Foundation.",
+   "facts": [
+    "The Golden State Warriors have announced that the team will host Open Practice, presented by Waymo, at Chase Center on Sunday, October 18, at 2:30 p.m., giving fans a rare, behind-the-scenes look at a Warriors team pract…",
+    "Tickets for Open Practice, which will go on sale Wednesday, Oct. 7 at 11 a.m. on warriors.com, are $5, with net proceeds benefitting the Golden State Community Foundation.",
+    "To tip off Open Practice, Warriors Head Coach Steve Kerr will join Warriors Television Play-By-Play Announcer Bob Fitzgerald for a question-and-answer session at approximately 2:30 p.m.",
+    "Chase Center doors will open at 2 p.m.",
+    "Fans can check-in at Portal 10 with their ride receipt for a chance to receive a seat upgrade while supplies last.",
+    "For all Warriors games and basketball events, including Open Practice, all Chase cardholders who use their Chase cards at the arena’s eateries can take $5 off each purchase of $30 or more.",
+    "Additionally, Chase cardholders will receive $20 off purchases of $100 or more at any Golden State Shop location when they use their Chase card.",
+    "The Warriors will host the Memphis Grizzlies in their 2026-27 NBA regular season home opener at Chase Center on Friday, October 23, at 7 p.m."
+   ],
+   "quotes": []
   },
   {
    "source": "SAS 公式（nba.com）",
@@ -226,6 +304,32 @@
     "Nothing is written in stone yet,",
     "I say I like good threes,"
    ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261006",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261006",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261006",
+   "title": "Warriors Defeat Lakers by 26 Points in Preseason",
+   "author": "gswgrizzo",
+   "published_utc": "2026-10-07T04:30:00Z",
+   "tags": [],
+   "summary": "An explosive 81 point first half carries the Golden State Warriors to a 124-98 victory over the Los Angeles Lakers in their preseason home debut at Chase Center on Tuesday night. Their largest lead reached 38 points in the fourth quarter and the Lakers never led at any point in the contest. Yaxel Lendeborg paced the team in scoring with 17 points, followed by Stephen Curry (16) and Brandin Podziem…",
+   "facts": [
+    "An explosive 81 point first half carries the Golden State Warriors to a 124-98 victory over the Los Angeles Lakers in their preseason home debut at Chase Center on Tuesday night.",
+    "Their largest lead reached 38 points in the fourth quarter and the Lakers never led at any point in the contest.",
+    "Yaxel Lendeborg paced the team in scoring with 17 points, followed by Stephen Curry (16) and Brandin Podziemski (16).",
+    "FIRST QUARTER FINISHING The Dubs wasted no time in their home court debut, going on a 11-2 scoring run to start the first quarter that quickly evolved into a double digit lead.",
+    "They scored 45 points in the frame with their advantage reaching a high of 20 points at one point.",
+    "The high-scoring quarter was highlighted by a Draymond Green buzzer beater 3-pointer and a Stephen Curry four-point play as he earned the hoop and harm from beyond the arc.",
+    "Curry led the scoring across both teams in the first, contributing 11 points in eight minutes.",
+    "The sequence started with a tough and-1 play and followed by a penetrating drive to the rim off a Draymond Green dime to secure another bucket."
+   ],
+   "quotes": []
   },
   {
    "source": "UTA 公式（nba.com）",
@@ -1012,67 +1116,6 @@
     "Both of them were picking their spots really well and recognizing opportunities to attack versus when to move it,",
     "When they play together, it’s a matchup problem. It’s all a work in progress. It’s about showing them positive moments and where they’re making good decisions.",
     "I thought they both used their burst to get into the paint,"
-   ]
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "roster",
-   "key": "https://www.nba.com/suns/news/5-observations-from-suns-training-camp",
-   "url": "https://www.nba.com/suns/news/5-observations-from-suns-training-camp",
-   "canonical_url": "https://suns.com/news/5-observations-from-suns-training-camp",
-   "title": "5 Observations from Suns Training Camp",
-   "author": "Shane Young",
-   "published_utc": "2026-10-05T02:00:12Z",
-   "tags": [],
-   "summary": "The Phoenix Suns begin their preseason on Monday!",
-   "facts": [
-    "From the beginning of the season to the All-Star break, they ranked 3rd in average pickup distance (47.5 feet) on their defensive possessions.",
-    "They ranked 5th in the average time it took opponents to start their first action.",
-    "We were still top 10 (in frequency).",
-    "Last year was about setting the foundation for what a great defensive play looks like - how it starts, how it feels, and how players stay connected for the entire 24 seconds.",
-    "The Suns only finished 67.7% of their defensive possessions by collecting the rebound, which ranked 27th in the league last season.",
-    "Viewing it another way, that means they allowed opponents to grab their own misses 32.3% of the time.",
-    "We were 25th in wingspan last year.",
-    "Rasheer's is 7-5, Miles is bigger."
-   ],
-   "quotes": [
-    "We emphasize after free throws and dead balls to really extend it,",
-    "Just our initial pickup point and our aggressiveness helped fuel energy, even in the halfcourt when we got back to our base and the opponent got back to neutral.",
-    "We liked it and we're going to continue doubling down,",
-    "Full court pressure was up around the league. We were still top 10 (in frequency). Our goal has now shifted upward … we need to do it more."
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/sam-smith-patrick-williams-deserves-some-grace-going-into-year-7",
-   "url": "https://www.nba.com/bulls/news/sam-smith-patrick-williams-deserves-some-grace-going-into-year-7",
-   "canonical_url": "https://bulls.com/news/sam-smith-patrick-williams-deserves-some-grace-going-into-year-7",
-   "title": "Sam Smith: Patrick Williams deserves some grace going into Year 7",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-04T22:33:30Z",
-   "tags": [
-    "Sam Smith"
-   ],
-   "summary": "Have we failed Patrick Williams more than he’s failed us?",
-   "facts": [
-    "That’s hardly the conventional wisdom regarding the Bulls most polarizing player, the languid yet powerful 6-7 forward once projected as the team’s centerpiece who’s become more of a decorative appendage.",
-    "When the Bulls start the 2026-27 preseason on Wednesday in the United Center against the Phoenix Suns, Williams doesn’t project being a part of the regular rotation.",
-    "Only the last 10 or 15 minutes when players generally are practicing free throws are open for viewing.",
-    "So far this preseason, with practices resuming Monday after a weekend off, 11 players have been invited by reporters.",
-    "The same as what he did before he was drafted by the Bulls in 2020.",
-    "We wanted Patrick Williams because he looked so powerful and athletic and was the No. 4 selection in the 2020 draft — a weak draft, by the way — to be the style and structure for a new Bulls era.",
-    "And then even more so because he signed a generous contract extension.",
-    "He did have two major injuries, one that cost him most of his sophomore season."
-   ],
-   "quotes": [
-    "Why aren’t you better? Why are you so bad?"
    ]
   }
  ]
