@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "398-air-jordan-41-trunner-os-space-jam.html",
+    cat: "KICKS",
+    title: "Jordan Brand『スペース・ジャム』コレクションがさらに拡大 —— Air Jordan 41とJordan Trunner O/S「Space Jam Planet」に新色",
+    excerpt: "ジョーダン ブランドは、映画『スペース・ジャム』30周年記念コレクションをさらに拡大し、「Air Jordan 41 Space Jam」(品番HV6474-003)と「Jordan Trunner O/S Space Jam Planet」(品番IX6403-200)を明らかにした。Sneaker News、Sneaker Bar Detroitが伝えた。発売日・価格は記事執筆時点で明らかにされていない。",
+    date: "2026.10.10",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "397-air-jordan-4-bin23.html",
     cat: "KICKS",
     title: "Air Jordan 4「BIN23」のファーストルックが公開 —— 品番JA3588-200、プレミアムライン復活の最新作",
