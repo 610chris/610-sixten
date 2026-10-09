@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "387-agentbase-levanga-hokkaido-diamond-partner.html",
+    cat: "JAPAN",
+    title: "エージェントベース、レバンガ北海道とオフィシャルダイヤモンドパートナー契約 —— 10月10日の千葉ジェッツ戦を冠試合に",
+    excerpt: "北海道札幌市のAI・Salesforce支援企業エージェントベースは、B.LEAGUE PREMIER所属のレバンガ北海道と2026-27シーズンのオフィシャルダイヤモンドパートナー契約を締結したと発表した。10月10日の千葉ジェッツ戦を冠試合「エージェントベース presents」として北海きたえーるで開催する。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-387-hero.jpg?v=2efe8aeb55"
+  },
+  {
     href: "386-nba-fiba-europe-push-continue-euroleague.html",
     cat: "NBA",
     title: "NBAとFIBA「統合拒否のユーロリーグ抜きでも欧州進出は続行」—— 対立の中でも交渉の扉は開く",
