@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "395-pistons-explored-leonard-durant-trades.html",
+    cat: "NBA",
+    title: "ピストンズ、今オフにレナード・デュラント獲りを画策 —— 実現せず、デューレンと5年2億ドルで決着",
+    excerpt: "デトロイト・ピストンズが今シーズン開幕前のオフシーズン中、カワイ・レナードとケビン・デュラントのトレード獲得を探っていたことが分かった。ESPNのヴィンセント・グッドウィル記者が10月9日(現地時間)に報じた。いずれも実現せず、ピストンズは制限付きFAだったジェイレン・デューレンと5年2億ドルで契約している。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "394-victory-lap-radio-air-force-1-pine-green.html",
     cat: "KICKS",
     title: "Victory Lap Radio x Nike Air Force 1 Low「Pine Green」が登場 —— パテントレザーに差し色、ホリデー発売へ",
