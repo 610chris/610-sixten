@@ -1,8 +1,64 @@
 {
- "updated_utc": "2026-10-09 02:32 UTC",
+ "updated_utc": "2026-10-09 09:35 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "roster",
+   "key": "https://www.nba.com/heat/news/heat-sign-kylor-kelley-and-gabe-madsen",
+   "url": "https://www.nba.com/heat/news/heat-sign-kylor-kelley-and-gabe-madsen",
+   "canonical_url": "https://heat.com/news/heat-sign-kylor-kelley-and-gabe-madsen",
+   "title": "HEAT SIGN KYLOR KELLEY AND GABE MADSEN",
+   "author": "Miami HEAT",
+   "published_utc": "2026-10-09T07:51:37Z",
+   "tags": [
+    "Trending"
+   ],
+   "summary": "Following tonight’s preseason win against the New Orleans Pelicans, your Miami HEAT announced that they have signed center Kylor Kelley and guard Gabe Madsen and waived J’Vonne Hadley and Lester Quiñones. In a subsequent move, Miami also signed and waived Dennis Smith Jr. Per club policy, terms of the deals were not disclosed.",
+   "facts": [
+    "Following tonight’s preseason win against the New Orleans Pelicans, your Miami HEAT announced that they have signed center Kylor Kelley and guard Gabe Madsen and waived J’Vonne Hadley and Lester Quiñones.",
+    "In a subsequent move, Miami also signed and waived Dennis Smith Jr.",
+    "Kelley appeared in 19 regular season G League games (18 starts) last season with the South Bay Lakers and averaged 8.3 points, 7.1 rebounds, 2.32 blocks, 1.8 assists and 25.9 minutes while shooting 73.3 percent from the …",
+    "He scored in double-figures nine times and blocked multiple shots 10 times.",
+    "He also appeared in 11 career NBA games with Dallas and New Orleans during the 2024-25 season, totaling 34 points, 39 rebounds, five assists, three blocks and a steal while shooting 63.6 percent from the field.",
+    "Madsen appeared in 36 regular season G League games last season with the HEAT’s affiliate, the Sioux Falls Skyforce, and averaged 9.8 points, 4.8 rebounds, 2.6 assists, 1.17 steals and 28.5 minutes while shooting 45 perc…",
+    "He scored in double-figures 17 times, including two 20-point performances.",
+    "He scored a season-high 27 points against the Texas Legends on February 1 and posted a 14-point, 11-rebound double-double against the Salt Lake City Stars on January 18."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-heat-starters-off-to-races-pelicans-giannis-bam-davion",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-heat-starters-off-to-races-pelicans-giannis-bam-davion",
+   "canonical_url": "https://heat.com/news/coups-takeaways-heat-starters-off-to-races-pelicans-giannis-bam-davion",
+   "title": "Coup’s Takeaways: HEAT Regulars Off To The Races For Another One-Half Warmup",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-10-09T02:42:49Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. Another first to check off the list of Giannis Antetokounmpo firsts, this time his first appearance in a HEAT jersey at Kaseya Center, albeit for a preseason game against the New Orleans Pelicans.",
+   "facts": [
+    "If it wasn’t already clear based on last season’s offense and everything we heard out of training camp, this is a team still focused on playing fast and fast plays right into Antetokounmpo’s hands, as he regularly got do…",
+    "By the break Miami was on pace for a game with 116 possessions – a couple degrees faster than they played last season, when they were the fastest team in the league – and 46 fast-break points, which would be an absurd am…",
+    "Another 73-point half for the HEAT, after dropping 76 in Toronto, and a 135.9 Offensive Rating.",
+    "Not too much of note after that, the end of Miami’s preseason roster holding off a Pelicans run, with plenty of energy from Myron Gardner and some shotmaking from Tre Donaldson along the way, as Miami takes it, 128-118, …",
+    "Tonight, the starters remained together for the first six minutes of the game, but unlike in Toronto where a full line shift followed, this time it was just Bobby Portis Jr. coming in for Antetokounmpo, then Antetokounmp…",
+    "For now, it’s just another clue as to what form this team will take. 3."
+   ],
+   "quotes": []
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -21,7 +77,7 @@
     "Postgame",
     "Preseason"
    ],
-   "summary": "Boston opened its preseason in similar fashion to how it closed the regular season: with its depth on full display. The Celtics rested their top seven rotation players and were also without Ron Harper Jr., yet their young group had no trouble putting away a Cavaliers squad that featured its regular starters, earning a 124-113 win in Cleveland.",
+   "summary": "Boston opened its preseason in similar fashion to how it closed the previous regular season: with its depth on full display. The Celtics rested their top seven rotation players and were also without Ron Harper Jr., yet their young group had no trouble putting away a Cavaliers squad that featured its regular starters, earning a 124-113 win in Cleveland. It was a familiar formula for the C's, who cl…",
    "facts": [
     "The Celtics rested their top seven rotation players and were also without Ron Harper Jr., yet their young group had no trouble putting away a Cavaliers squad that featured its regular starters, earning a 124-113 win in C…",
     "Boston carried a three-point lead into the fourth quarter before taking control with an 18-6 run.",
@@ -55,7 +111,7 @@
     "It wasn’t quite enough to produce a victory, because the Heat raced to a 73-64 halftime edge, then won the final period 35-22, after the Pelicans briefly took a lead on the scoreboard.",
     "The second-round pick’s 12 points in 13 minutes shifted the momentum before Miami answered with a late surge. … Fellow reserve guard Kobe Bufkin was also hot from the perimeter, canning three treys in four attempts.",
     "Bufkin had nine points in 12 minutes. … Speaking of hot shooting, Jordan Poole was on a roll early, maneuvering his way to some crafty moves off the dribble and going 3/4 on triples.",
-    "Poole finished with a team-high 14 points, keeping New Orleans within shouting distance. … Saddiq Bey (12 points), Jeremiah Fears (11 points) and Trey Murphy each knocked down two threes, combining to go 6/15 from beyond…",
+    "Poole finished with a team-high 14 points, keeping New Orleans within shouting distance. … Saddiq Bey (12 points), Jeremiah Fears (11 points) and Trey Murphy (11 points) each knocked down two threes, combining to go 6/15…",
     "Yves Missi also posted 11 points. … Fears and Bennedict Mathurin (eight points) moved into the starting backcourt, with Fears replacing Dejounte Murray, who was sidelined as a precautionary measure for a right toe contus…"
    ],
    "quotes": []
@@ -1190,58 +1246,6 @@
     "Players to Watch PELICANS Bennedict Mathurin New Orleans’ most significant summer addition coincidentally faced OKC during the 2025 NBA Finals, scoring 27 points in Indiana’s Game 3 victory.",
     "Mathurin also poured in 36 points during the 2025-26 season opener for the Pacers against the Thunder, shooting 15/17 on free throws.",
     "Jeremiah Fears Pelicans fans should be intrigued to see what kind of jump Fears might make in Year 2, as well as how he follows up a memorable final month of his rookie campaign."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-preseason-game-1-takeaways-youtube-mailbag",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-preseason-game-1-takeaways-youtube-mailbag",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-preseason-game-1-takeaways-youtube-mailbag",
-   "title": "Roundball Roundup: Preseason Game 1 Takeaways + YouTube Mailbag",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-06T04:15:38Z",
-   "tags": [
-    "Keyonte George",
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos recapped the Jazz’s win against the Nuggets in Boulder (3:30), the Jaren Jackson Jr.-Lauri Markkanen combination (9:00), Isaiah Collier’s change of pace (15:30), and then answered questions from YouTube (26:10).",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos recapped the Jazz’s win against the Nuggets in Boulder (3:30), the Jaren Jackson Jr.-Lauri Markkanen combination (9:00), Isaiah Collier’s change of pace (15:30), and then ans…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hawks-in-preseason-opener-132123",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hawks-in-preseason-opener-132123",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-hawks-in-preseason-opener-132123",
-   "title": "Grizzlies Defeat Hawks in Preseason Opener 132–123",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-06T02:46:54Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "ATLANTA, GA - The Memphis Grizzlies (1-0) defeated the Atlanta Hawks (0-1) in each team's first preseason game, 132-123, Monday at State Farm Arena.",
-   "facts": [
-    "ATLANTA, GA - The Memphis Grizzlies (1-0) defeated the Atlanta Hawks (0-1) in each team's first preseason game, 132-123, Monday at State Farm Arena.",
-    "GG Jackson II led the Grizzlies in scoring with 14 points, and Jaylen Wells and Ty Jerome added 12 points each.",
-    "Jerami Grant and Scotty Pippen Jr. both finished with 10 points off the bench.",
-    "Cameron Boozer tallied 11 points, five rebounds, four assists and two steals in his preseason debut.",
-    "Corey Kispert led the Hawks in scoring with 19 points, and Asa Newell recorded his first double-double of the season with 12 points and 12 rebounds in 22 minutes.",
-    "Four other Hawks players accumulated double-digit points: Nickeil Alexander-Walker (14), Kingston Flemings (11), RayJ Dennis (12) and Jalen Wilson (12).",
-    "The Grizzlies ignited offensively in the second quarter, going on an 8-0 run to gain the lead and scored 49 points on 16-of-23 shooting (8-of-11 from 3) during the frame to take an 81-61 lead at the half.",
-    "Memphis shot 55.1% from the field and 41.9% from beyond the arc."
    ],
    "quotes": []
   }
