@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "394-victory-lap-radio-air-force-1-pine-green.html",
+    cat: "KICKS",
+    title: "Victory Lap Radio x Nike Air Force 1 Low「Pine Green」が登場 —— パテントレザーに差し色、ホリデー発売へ",
+    excerpt: "ナイキは、ロンドンを拠点とするプラットフォーム「Victory Lap Radio」とのコラボレーションとして「Air Force 1 Low」の新色「Pine Green」を発表した。パイングリーンのパテントレザーパネリングにオリジナルのブランディンググラフィック、プリント入りインソールを備える。品番JA7805-302、2026年ホリデーシーズンにSNKRSおよび一部グローバル店舗での発売が予定されている。Hypebeastが伝えた。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "393-tominaga-kobe-storks-partner.html",
     cat: "JAPAN",
     title: "富永貿易、神戸ストークスとブロンズパートナー契約を締結 —— 神戸で100年、地域への感謝を未来へ",
