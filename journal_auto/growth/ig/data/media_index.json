@@ -1429,6 +1429,33 @@
   "template": "news",
   "timestamp": "2026-09-29T16:09:42+0000"
  },
+ "18032337017856360": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "381",
+  "auto": true,
+  "caption_len": 312,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハリバートン、400日ぶり実戦復帰",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeOCorhluRL/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Tyrese Haliburton"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-08T04:09:15+0000"
+ },
  "18041019830835472": {
   "article": "286",
   "auto": true,
@@ -1791,6 +1818,33 @@
   "template": "news",
   "timestamp": "2026-09-29T19:48:54+0000"
  },
+ "18097620854081558": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "382",
+  "auto": true,
+  "caption_len": 285,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タウンズ「状況は良くない」—— 契約延長交渉",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeOCz2JETcN/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Karl-Anthony Towns"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-08T04:10:56+0000"
+ },
  "18098228732455484": {
   "article": "321",
   "auto": true,
@@ -1964,6 +2018,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-02T04:03:50+0000"
+ },
+ "18105029129287831": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "384",
+  "auto": true,
+  "caption_len": 367,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウォリアーズ新人レンデボーグが開幕2戦で21得点18リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeO6hz7gDyB/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Yaxel Lendeborg"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-08T12:17:47+0000"
  },
  "18105160415214085": {
   "article": "310",
@@ -2676,6 +2757,31 @@
   "template": "news",
   "timestamp": "2026-09-29T21:07:29+0000"
  },
+ "18133730218737146": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "388",
+  "auto": true,
+  "caption_len": 440,
+  "caption_lines": 17,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Jordan Brand『スペース・ジャム』30周年コレクション拡大",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeQfSQ6ASJp/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker News / Sneaker Bar Detroit / Sneaker Files",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-09T02:58:11+0000"
+ },
  "18134038192229055": {
   "auto": false,
   "caption_len": 166,
@@ -2852,6 +2958,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T18:40:13+0000"
+ },
+ "18150233845547365": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "385",
+  "auto": true,
+  "caption_len": 348,
+  "caption_lines": 17,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Nike Giannis Freak 8「Star Blue」が登場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeQE2HJgQli/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker News",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-08T23:07:04+0000"
  },
  "18150767386263283": {
   "auto": false,
