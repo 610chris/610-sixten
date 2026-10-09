@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-10-09 00:19 UTC",
+ "updated_utc": "2026-10-09 13:28 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1x1kvms/charania_the_knicks_are_tabling_all_contract/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-09T13:06:35+00:00",
+   "text": "Source: https://www.espn.com/contributor/shams-charania\n\nThe New York Knicks are tabling all contract extension talks, per team spokesperson: \"As an organization, our entire focus is on preparing for the upcoming season and delivering another year for our fans to be proud of. As a result, we will not be negotiating contract extensions until later in the season and will remain solely focused on preparing for the start of the season.\"",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x1kvms/charania_the_knicks_are_tabling_all_contract/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
   {
    "reporter": "Dave McMenamin（ESPN）",
    "handle": "mcten",
