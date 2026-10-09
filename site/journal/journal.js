@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "389-nigo-nike-air-force-1-j-hope.html",
+    cat: "KICKS",
+    title: "NIGO® x Nike Air Force 1、BTS j-hopeを迎えたトリプルコラボ —— 「Hobicore」を落とし込んだバーントサンライズ×ゴールド",
+    excerpt: "NIGO®とナイキによるコラボプロジェクト「Air Force 1 World Tour」最新作として、BTSのj-hope(ジェイホープ)を共同パートナーに迎えた「NIGO® x Nike Air Force 1」が発表された。2001年発売のAir Force 1のヴィンテージルックを再解釈し、j-hope自身のスタイル「Hobicore」の要素を落とし込んだ一足。Hypebeast、HYPEBEAST JPが伝えた。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "388-jordan-space-jam-30th-collection.html",
+    cat: "KICKS",
+    title: "Jordan Brand、『スペース・ジャム』30周年コレクションを拡大 —— Air Jordan 11「Space Jam Laser」はF&Fなど限定、Air Jordan 1「Lola Bunny」「Hare」も",
+    excerpt: "ジョーダン ブランドは、映画『スペース・ジャム』30周年を記念したコレクションを拡大。Air Jordan 11「Space Jam Laser」は一般発売のない関係者限定仕様で、Air Jordan 1 Low「Lola Bunny」(品番IX6038-100)は2026年ホリデー、Air Jordan 1 Mid「Space Jam Hare」は11月5日に発売される。Sneaker News、Sneaker Bar Detroit、Sneaker Filesが伝えた。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "387-agentbase-levanga-hokkaido-diamond-partner.html",
     cat: "JAPAN",
     title: "エージェントベース、レバンガ北海道とオフィシャルダイヤモンドパートナー契約 —— 10月10日の千葉ジェッツ戦を冠試合に",
