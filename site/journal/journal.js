@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "397-air-jordan-4-bin23.html",
+    cat: "KICKS",
+    title: "Air Jordan 4「BIN23」のファーストルックが公開 —— 品番JA3588-200、プレミアムライン復活の最新作",
+    excerpt: "ジョーダン ブランドの上質素材ライン“BIN23”の最新作となる「Air Jordan 4 BIN23」(品番JA3588-200)のファーストルック画像が公開された。Sneaker Newsが現地時間10月9日に伝え、Sneaker Bar Detroitも同日報じている。BIN23は2026年にAir Jordan 3・6・8で復活してきたライン。発売日・価格は記事執筆時点で明らかにされていない。",
+    date: "2026.10.10",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "396-nike-kobe-3-mamba-eterno.html",
+    cat: "KICKS",
+    title: "Nike Kobe 3 Low Protro「Mamba Eterno」が登場 —— 品番IO6260-800、“死者の日”着想の新色",
+    excerpt: "ナイキは、コービー・ブライアントのシグネチャーライン「Kobe 3 Low Protro」に、メキシコの伝統行事“死者の日(Dia de los Muertos)”をテーマにした新色「Mamba Eterno」(品番IO6260-800)を投入する。同ラインの中でもとりわけ作り込まれた仕上げになるとみられ、Sneaker Newsが現地時間10月9日に伝えた。発売日・価格は記事執筆時点で明らかにされていない。",
+    date: "2026.10.10",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "395-pistons-explored-leonard-durant-trades.html",
     cat: "NBA",
     title: "ピストンズ、今オフにレナード・デュラント獲りを画策 —— 実現せず、デューレンと5年2億ドルで決着",
