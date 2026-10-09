@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T12:01:09+09:00",
+  "updated": "2026-10-09T13:59:54+09:00",
   "items": [
     {
       "id": "134",
@@ -7899,6 +7899,84 @@
       "ig_media_id": null,
       "error": null,
       "caption": "「世界の山ちゃん」がB.LEAGUE ALL-STARイベントパートナーに\n\n・名古屋のエスワイフード、来年1月のB.LEAGUE ALL-STAR WEEKENDに参画\n・会場は名古屋IGアリーナ、2027年1月15〜17日開催\n・テーマは「熱狂×革新=未来」、ロゴは金の鯱\n\n💬 名古屋のALL-STAR、見に行きたい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 株式会社エスワイフード プレスリリース（PR TIMES）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "391",
+      "slug": "391-venex-wolga-shonan-recovery-wear",
+      "category": "JAPAN",
+      "date": "2026-10-09",
+      "headline": "ベネクス、ウォルガ湘南とサプライヤー契約",
+      "excerpt": "リカバリーウェアを手がける株式会社ベネクス（神奈川県厚木市）は、りそなグループB.LEAGUE 2026-27シーズン B.LEAGUE NEXTに参戦するプロバスケットボールチーム「ウォルガ湘南」とオフィシャルリカバリーウェアサプライヤー契約を締結したと発表した。VENEXリカバリーウェアや休養の知見提供を通じて選手・スタッフを支える。",
+      "points": [
+        "B.LEAGUE NEXT参戦チームを支援",
+        "VENEXリカバリーウェアを提供",
+        "ともに神奈川県拠点で連携"
+      ],
+      "source": "株式会社ベネクス プレスリリース（PR TIMES）",
+      "photo_credit": "プレスリリースより（PR TIMES）",
+      "url": "https://sixten.jp/journal/391-venex-wolga-shonan-recovery-wear.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-391-hero.jpg",
+      "subject": [],
+      "question": "湘南エリアのB.LEAGUEチーム、応援してる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/391-1.jpg",
+        "https://sixten.jp/assets/ig/391-2.jpg",
+        "https://sixten.jp/assets/ig/391-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-09T13:59:28+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ベネクス、ウォルガ湘南とサプライヤー契約\n\n・B.LEAGUE NEXT参戦チームを支援\n・VENEXリカバリーウェアを提供\n・ともに神奈川県拠点で連携\n\n💬 湘南エリアのB.LEAGUEチーム、応援してる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 株式会社ベネクス プレスリリース（PR TIMES）\n写真: プレスリリースより（PR TIMES）\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "392",
+      "slug": "392-lebron-76ers-debut-nets",
+      "category": "NBA",
+      "date": "2026-10-09",
+      "headline": "レブロン、76ersで公式戦デビュー",
+      "excerpt": "フィラデルフィア・76ersのレブロン・ジェームズは現地時間10月8日、プレシーズンのブルックリン・ネッツ戦で76ersとして初めてコートに立ち、前半だけで10得点5アシスト4リバウンドを記録した。チームは108-114で敗れた。NBA通算24年目、ニック・ナース新HC体制での船出となった。ESPNが伝えた。",
+      "points": [
+        "ネッツ戦で前半10得点5アシスト",
+        "FT8本全て成功、出場18分",
+        "キャリア24年目の船出"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/392-lebron-76ers-debut-nets.html",
+      "hero_path": "",
+      "subject": [
+        "LeBron James"
+      ],
+      "question": "レブロンの76ers、今季どこまでいける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LEBRON JAMES",
+        "opponent": "vs. NETS",
+        "points": 10,
+        "stats": [
+          "5 AST",
+          "4 REB",
+          "8/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/392-1.jpg",
+        "https://sixten.jp/assets/ig/392-2.jpg",
+        "https://sixten.jp/assets/ig/392-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-09T13:59:51+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "レブロン、76ersで公式戦デビュー\n\n・ネッツ戦で前半10得点5アシスト\n・FT8本全て成功、出場18分\n・キャリア24年目の船出\n\n💬 レブロンの76ers、今季どこまでいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "392-lebron-76ers-debut-nets.html",
+    cat: "NBA",
+    title: "レブロン、76ersで公式戦デビュー —— ネッツ戦で前半10得点5アシスト、キャリア24年目の船出",
+    excerpt: "フィラデルフィア・76ersのレブロン・ジェームズは現地時間10月8日、プレシーズンのブルックリン・ネッツ戦で76ersとして初めてコートに立ち、前半だけで10得点5アシスト4リバウンドを記録した。チームは108-114で敗れた。NBA通算24年目、ニック・ナース新HC体制での船出となった。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "391-venex-wolga-shonan-recovery-wear.html",
+    cat: "JAPAN",
+    title: "ベネクス、「ウォルガ湘南」とオフィシャルリカバリーウェアサプライヤー契約 —— B.LEAGUE NEXT参戦のチームを「休養」で支援",
+    excerpt: "リカバリーウェアを手がける株式会社ベネクスは、りそなグループB.LEAGUE 2026-27シーズン B.LEAGUE NEXTに参戦するプロバスケットボールチーム「ウォルガ湘南」とオフィシャルリカバリーウェアサプライヤー契約を締結したと発表した。VENEXリカバリーウェアや休養の知見提供を通じて選手・スタッフを支える。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-391-hero.jpg?v=552b2e8116"
+  },
+  {
     href: "390-syfood-bleague-allstar-2027-partner.html",
     cat: "JAPAN",
     title: "「世界の山ちゃん」のエスワイフード、B.LEAGUE ALL-STAR GAME WEEKEND 2027にイベントパートナー就任 —— 来年1月、名古屋IGアリーナで開催",
