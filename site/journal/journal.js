@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "393-tominaga-kobe-storks-partner.html",
+    cat: "JAPAN",
+    title: "富永貿易、神戸ストークスとブロンズパートナー契約を締結 —— 神戸で100年、地域への感謝を未来へ",
+    excerpt: "兵庫県神戸市の富永貿易株式会社は、B.LEAGUE PREMIER所属のプロバスケットボールクラブ「神戸ストークス」とブロンズパートナー契約を締結したと発表した。神戸の地で100年以上事業を続けてきた感謝を地域の未来につなぎたいとの思いが背景にある。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "392-lebron-76ers-debut-nets.html",
     cat: "NBA",
     title: "レブロン、76ersで公式戦デビュー —— ネッツ戦で前半10得点5アシスト、キャリア24年目の船出",
