@@ -1,8 +1,89 @@
 {
- "updated_utc": "2026-10-08 22:24 UTC",
+ "updated_utc": "2026-10-09 02:32 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261008-boscle",
+   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261008-boscle",
+   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261008-boscle",
+   "title": "Keys to the Game: Celtics 124, Cavaliers 113",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-09T02:28:15Z",
+   "tags": [
+    "Game Recap",
+    "Keys to the Game",
+    "Postgame",
+    "Preseason"
+   ],
+   "summary": "Boston opened its preseason in similar fashion to how it closed the regular season: with its depth on full display. The Celtics rested their top seven rotation players and were also without Ron Harper Jr., yet their young group had no trouble putting away a Cavaliers squad that featured its regular starters, earning a 124-113 win in Cleveland.",
+   "facts": [
+    "The Celtics rested their top seven rotation players and were also without Ron Harper Jr., yet their young group had no trouble putting away a Cavaliers squad that featured its regular starters, earning a 124-113 win in C…",
+    "Boston carried a three-point lead into the fourth quarter before taking control with an 18-6 run.",
+    "Hayden Gray sparked the surge with a 3-pointer, Dillon Mitchell followed with an alley-oop slam off a dish from Milos Uzan, and Tucker DeVries buried back-to-back triples to push the Celtics’ advantage into double digits…",
+    "The C’s held the Cavs to just six points over the first seven minutes of the fourth quarter, giving themselves plenty of time to pull away for an 11-point victory.",
+    "The veteran big man closed the 2025-26 regular-season campaign with a career-high 27 points and 12 rebounds against Orlando.",
+    "In his first action of the 2026 preseason, he delivered another double-double, leading all scorers and rebounders with 22 points and 10 boards, while adding two assists and three blocks.",
+    "Garza did most of his damage before halftime, piling up 16 points and seven rebounds while making more 3-pointers (three) than Cleveland’s entire starting five (two).",
+    "Box Score Nuggets Five Celtics scored at least 15 points, while no Cavalier reached that mark.Luka Garza (22 points) was the game’s lone 20-point scorer.Garza also led all players with 10 rebounds.Newly signed guard Devi…"
+   ],
+   "quotes": [
+    "It was an opportunity for them as well, and they crushed it."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/preseason-postgame-wrap-heat-128-pelicans-118",
+   "url": "https://www.nba.com/pelicans/news/preseason-postgame-wrap-heat-128-pelicans-118",
+   "canonical_url": "https://pelicans.com/news/preseason-postgame-wrap-heat-128-pelicans-118",
+   "title": "Preseason postgame wrap: Heat 128, Pelicans 118",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-09T01:58:21Z",
+   "tags": [],
+   "summary": "An explosive first half and a big finish lifted Miami to a home victory over New Orleans, despite the Pelicans again getting contributions from a multitude of players, including a deep bench. Six New Orleans players cracked double digits in scoring, while nine different visitors sank at least one three-pointer, part of the club’s 19/43 night from long distance. It wasn’t quite enough to produce a …",
+   "facts": [
+    "Six New Orleans players cracked double digits in scoring, while nine different visitors sank at least one three-pointer, part of the club’s 19/43 night from long distance.",
+    "It wasn’t quite enough to produce a victory, because the Heat raced to a 73-64 halftime edge, then won the final period 35-22, after the Pelicans briefly took a lead on the scoreboard.",
+    "The second-round pick’s 12 points in 13 minutes shifted the momentum before Miami answered with a late surge. … Fellow reserve guard Kobe Bufkin was also hot from the perimeter, canning three treys in four attempts.",
+    "Bufkin had nine points in 12 minutes. … Speaking of hot shooting, Jordan Poole was on a roll early, maneuvering his way to some crafty moves off the dribble and going 3/4 on triples.",
+    "Poole finished with a team-high 14 points, keeping New Orleans within shouting distance. … Saddiq Bey (12 points), Jeremiah Fears (11 points) and Trey Murphy each knocked down two threes, combining to go 6/15 from beyond…",
+    "Yves Missi also posted 11 points. … Fears and Bennedict Mathurin (eight points) moved into the starting backcourt, with Fears replacing Dejounte Murray, who was sidelined as a precautionary measure for a right toe contus…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-mohamed-wague",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-mohamed-wague",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-mohamed-wague",
+   "title": "Utah Jazz Sign Mohamed Wague",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-09T00:00:26Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 8, 2026) – The Utah Jazz announced today that the team has signed forward/center Mohamed Wague (wag-EE). Per team policy, terms of the deal were not disclosed.",
+   "facts": [
+    "SALT LAKE CITY (October 8, 2026) – The Utah Jazz announced today that the team has signed forward/center Mohamed Wague (wag-EE).",
+    "About Mohamed Wague Wague (6-10, 225, Oklahoma) played four Division I seasons at West Virginia (2022-23), Alabama (2023-24), and Oklahoma (2024-26).In his senior season (2025-26), he started all 37 games he appeared in,…",
+    "He finished the season with 55 total blocks, ranking fourth in the SEC in 2025-26.He spent one JUCO season at Harcum College in 2021-22, earning JUCO All-American First Team honors.Wague represented Mali's men's senior n…"
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -1163,104 +1244,6 @@
     "Memphis shot 55.1% from the field and 41.9% from beyond the arc."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/after-winning-it-all-at-michigan-dusty-may-and-morez-johnson-jr-are-back-together-again",
-   "url": "https://www.nba.com/mavs/news/after-winning-it-all-at-michigan-dusty-may-and-morez-johnson-jr-are-back-together-again",
-   "canonical_url": "https://mavs.com/mavs/news/after-winning-it-all-at-michigan-dusty-may-and-morez-johnson-jr-are-back-together-again",
-   "title": "After winning it all at Michigan, Dusty May and Morez Johnson Jr. are back together again",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-06T00:27:38Z",
-   "tags": [
-    "dallas mavericks",
-    "Morez Johnson Jr.",
-    "nba"
-   ],
-   "summary": "As fate would have it, Dusty May and Morez Johnson Jr. are back together again.",
-   "facts": [
-    "Last spring, May led the University of Michigan to the national championship with Johnson being one of the pivotal players on a squad that finished with a gaudy 37-3 record.",
-    "Then, on June 23, May turned in his college papers and became the head coach of the Dallas Mavericks."
-   ],
-   "quotes": [
-    "I didn’t know we were taking Morez until we had already taken him,",
-    "I didn’t see the message on who we were taking.",
-    "Obviously, you give them the feedback and intel on all your guys,",
-    "Morez and Aday have the same agency, so they started looking at me. So, at that point I used some deductive reasoning and figured it was one of the two, but I didn’t know which one."
-   ]
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "quotes",
-   "key": "https://www.nba.com/clippers/news/clippers-camp-notebook",
-   "url": "https://www.nba.com/clippers/news/clippers-camp-notebook",
-   "canonical_url": "https://clippers.com/news/clippers-camp-notebook",
-   "title": "Clippers Camp Notebook",
-   "author": "LAClippers",
-   "published_utc": "2026-10-05T22:46:05Z",
-   "tags": [
-    "2026-27 Season",
-    "Injury Report",
-    "Keaton Wagler",
-    "LA Clippers",
-    "Rui Hachimura"
-   ],
-   "summary": "HONOLULU –- Ty Lue kept an eye on how Keaton Wagler handled himself during the first week of training camp and the rookie's demeanor left an impression on the Clippers head coach.",
-   "facts": [
-    "The rookie shot just 3-for-15, including 1-of-11 from 3.",
-    "But he made the most important shot of the game, drilling a clutch step-back 20-footer with 14 seconds left to give the Clippers a one-point lead before they held on for a 104-101 win over the Warriors at the Stan Sherif…",
-    "He displayed an ability to get to the line, making 8-of-9 free throws.",
-    "So far, Wagler has impressed teammates like Kris Dunn with his ability to process things quickly, learning from mistakes and figuring things out quicker than expected for a 19-year-old.",
-    "Hachimura buried 8-of-11 shots, including 4-for-5 from 3-point range.",
-    "With Brandon Ingram sidelined following surgery for a right heel injury and a partially torn Achilles tendon, the Clippers will be leaning heavily on Hachimura, especially on offense.",
-    "It didn’t take Jackson long on Sunday to show why Lue had the 6-8 big man with the first unit alongside Darius Garland, Max Strus, Derrick Jones Jr. and Hachimura.",
-    "And 38 seconds later, Garland found Jackson running the floor for an alley-oop past the Golden State defense."
-   ],
-   "quotes": [
-    "Missed shots and is still ready to shoot the basketball. He learns quickly.",
-    "My teammates were saying to me, ‘Keep shooting it no matter makes or misses. This is the preseason, this is the time to get better,’",
-    "And the only way to get better is to shoot shots. So I just went out there and tried to play free, play confident. Shots didn't really fall tonight, but I stayed confident the whole game.",
-    "My shots weren't falling,"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "roster",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261005-why-the-celtics-took-training-camp-on-the-road-for-first-time-in-nine-years",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261005-why-the-celtics-took-training-camp-on-the-road-for-first-time-in-nine-years",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20261005-why-the-celtics-took-training-camp-on-the-road-for-first-time-in-nine-years",
-   "title": "Why the Celtics Took Training Camp on the Road for First Time in Nine Years",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-05T22:25:20Z",
-   "tags": [
-    "Practice",
-    "Preseason",
-    "Sidebar",
-    "Training Camp"
-   ],
-   "summary": "For the first time in nearly a decade, Celtics training camp has a change of scenery.",
-   "facts": [
-    "The C’s traded their familiar surroundings at the Auerbach Center in Brighton for Charleston, South Carolina, this week, where the C’s have spent the past three days working on the court and bonding off of it while being…",
-    "It’s the first time the Celtics have taken training camp on the road since 2017, when they made the short trip south from Boston to Newport, Rhode Island.",
-    "One of those teams was the New York Knicks, who held training there in back-to-back years in 2023 and 2024.",
-    "Robinson and Payton Pritchard were roommates nearly a decade ago during the 2017 USA Basketball Men’s U19 training camp."
-   ],
-   "quotes": [
-    "We have a bunch of new guys, so just really kind of wanted to take a step back, get away, spend time with each other in a different environment,",
-    "I’m pretty sure a lot of guys haven’t been here, so the team bonding is taking place, and it’s been great,",
-    "We’re all enjoying each other’s company, learning each other, like off-the-court things. Like everybody sees that I like trucks, fishing, animals, X, Y, and Z, and I’m learning the other guys as well.",
-    "I’ve been knowing Payton for a minute now, and now that we’re teammates in the NBA… it’s a crazy ride,"
-   ]
   }
  ]
 }
