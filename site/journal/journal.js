@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "390-syfood-bleague-allstar-2027-partner.html",
+    cat: "JAPAN",
+    title: "「世界の山ちゃん」のエスワイフード、B.LEAGUE ALL-STAR GAME WEEKEND 2027にイベントパートナー就任 —— 来年1月、名古屋IGアリーナで開催",
+    excerpt: "「世界の山ちゃん」を展開する株式会社エスワイフードは、2027年1月15日から17日にかけて愛知県名古屋市のIGアリーナで開催される「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」のB.LEAGUE EVENT PARTNERSに就任したと発表した。",
+    date: "2026.10.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "389-nigo-nike-air-force-1-j-hope.html",
     cat: "KICKS",
     title: "NIGO® x Nike Air Force 1、BTS j-hopeを迎えたトリプルコラボ —— 「Hobicore」を落とし込んだバーントサンライズ×ゴールド",
