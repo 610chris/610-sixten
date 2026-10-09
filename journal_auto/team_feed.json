@@ -1,8 +1,63 @@
 {
- "updated_utc": "2026-10-09 16:31 UTC",
+ "updated_utc": "2026-10-09 21:12 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "quotes",
+   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-takeaways-from-the-start-of-preseason",
+   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-takeaways-from-the-start-of-preseason",
+   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-takeaways-from-the-start-of-preseason",
+   "title": "Ask Sam Mailbag: Takeaways from the start of Preseason",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-09T16:42:40Z",
+   "tags": [
+    "Ask Sam mailbag",
+    "Sam Smith"
+   ],
+   "summary": "Parker Lerdal: How did the Bulls Rookie Caleb Wilson do in his debut as a Bulls for the win against the Phoenix Suns Wednesday Night?",
+   "facts": [
+    "If you can score 15 points in an NBA game on a bad night, then I think you have a bright future.",
+    "But with a deeper rotation to accommodate faster play and injuries, we saw how difficult it was to maintain that philosophy.",
+    "Just look around: Knicks with Brunson, Pistons with Cade, Cavs with Harden or Mitchell, Raptors with Barnes, 76ers with Maxey, Thunder with Shai, Warriors with Steph, and, of course, LeBron whoever he is.",
+    "Norman Powell is easily the best and most reliable scorer, and will be the No. 1 offensive option.",
+    "I assume Claxton starts once he’s healthy, but those three big men all have a history of injuries.",
+    "Maybe not outrageous fortune, but he’s a heck of a two-way addition.",
+    "You also need luck, and the Cubs haven’t had it lately with the injuries like the Bulls, in some respects, faced in the early 2010s.",
+    "Giddey 24, Matas and Wilson 21 and 20."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "injury",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-jusuf-nurkicinjury",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-jusuf-nurkicinjury",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-jusuf-nurkicinjury",
+   "title": "Roundball Roundup: Jusuf Nurkić Injury",
+   "author": "JP Chunga",
+   "published_utc": "2026-10-09T16:40:44Z",
+   "tags": [
+    "Jaxson Hayes",
+    "Jusuf Nurkic",
+    "Mo Bamba",
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos reacted to the injury news of Jusuf Nurkić. They discussed Jaxson Hayes, Jaren Jackson Jr., and options for the Jazz at the big position.",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos reacted to the injury news of Jusuf Nurkić."
+   ],
+   "quotes": []
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -49,7 +104,7 @@
     "Latest News",
     "Team News"
    ],
-   "summary": "ORLANDO - A few weeks ago, Nikola Jokic was a guest on the Jao Mile podcast and was asked during the interview to name some opponents that are tough to go up against. Mentioned, of course, were guys like Victor Wembanyama and Rudy Gobert, who have five NBA Defensive Player of the Year awards combined (Gobert with four and Wembanyama with one so far). Another name he brought up was Wendell Carter J…",
+   "summary": "ORLANDO - A few weeks ago, Nikola Jokic was a guest on the Jao Mile podcast and was asked during the interview to name some opponents that are tough to go up against. Mentioned, of course, were guys like Victor Wembanyama and Rudy Gobert, who have five Defensive Player of the Year awards combined (Gobert with four and Wembanyama with one so far). Another name he brought up was Wendell Carter Jr., …",
    "facts": [
     "In 2025-26, Carter actually defended the most shots in the league when hard switching onto a ball handler in a pick-and-roll set.",
     "Those opponents combined to make just 38 of their 99 shots, which is 38.4 percent.",
@@ -60,7 +115,10 @@
     "Opponents in 2025-26 shot 49.2 percent in the paint on 510 attempts with Carter contesting.",
     "That was the 17th lowest mark out of the 78 players who contested at least 300 plaint shots."
    ],
-   "quotes": []
+   "quotes": [
+    "It’s very rewarding. It’s really a pride thing,",
+    "Since I was a kid, I always hated when people scored on me. That’s just always been my mentality, so that’s just something I use every day. Yeah, it’s technique. Yeah, it’s conditioning. But at the en…"
+   ]
   },
   {
    "source": "DAL 公式（nba.com）",
@@ -74,16 +132,23 @@
    "title": "Mavs drop preseason opener to Rockets, 135-117",
    "author": "Dwain Price",
    "published_utc": "2026-10-09T14:58:39Z",
-   "tags": [],
-   "summary": "The bad news is that the Dallas Mavericks lost to the Houston Rockets, 135-117, on Friday in the China Global Games 2026. But the good news is that it was ONLY a preseason game.",
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "Max Christie",
+    "nba",
+    "Sergio De Larrea",
+    "Zaccharie Risacher"
+   ],
+   "summary": "The bad news is that the Dallas Mavericks lost to the Houston Rockets, 135-117, on Friday in the China Global Games 2026. The good news is that it was ONLY a preseason game.",
    "facts": [
     "The bad news is that the Dallas Mavericks lost to the Houston Rockets, 135-117, on Friday in the China Global Games 2026.",
     "Playing over 8,000 miles away from Dallas in Macao, China, the Rockets built a massive 25-point lead late in the first half and went on to secure the victory in this preseason opener for both teams at the Venetian Arena.",
     "Cooper Flagg only played in the first half and finished with 19 points, six rebounds and three assists in 19 minutes for the Mavs.",
     "Naji Marshall and Max Christie, who ignited a surge by the Mavs in the third quarter, added 16 points and 14 points, respectively.",
     "In addition, the Mavs got 13 points on from Tobi Lawal and 11 from Sergio de Larrea.",
-    "Lawal was 5-of-6 from the field in just 15 minutes, and de Larrea converted all three of his three-point attempts.",
-    "Alperen Sengun registered a triple-double – 16 points, 10 rebounds, 10 assists – to pace the Rockets.",
+    "Lawal was 5-of-6 from the field in just 15 minutes, and de Larrea converted all three of his three-point attempts and also dispensed six assists, while Dwight Powell distributed a team-high eight assists in just 13 minut…",
+    "Alperen Şengün registered a triple-double — 16 points, 10 rebounds, 10 assists — to pace the Rockets.",
     "Also for Houston, Tari Eason collected 20 points and 10 rebounds, Fred VanVleet had 17 points and seven assists, Reed Sheppard tallied 16 points, Kevin Durant scored 15 points, Jabari Smith Jr. popped in 12 points and Br…"
    ],
    "quotes": [
@@ -310,7 +375,12 @@
    "title": "Irving itching to introduce Mavericks' fans to his pairing with Flagg",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-08T20:18:07Z",
-   "tags": [],
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
    "summary": "Dusty May might be new to the NBA, but his abundance of basketball wisdom already is serving the Mavericks well.",
    "facts": [
     "May said during Thursday’s media-day interviews for the NBA’s China Games 2026 that he’ll be working with a “limited roster,” and that Kyrie Irving’s return from 19 months recuperating from knee surgery will be restricte…",
@@ -1094,61 +1164,6 @@
     "I feel like we're gonna see a little bit more of my shot just off of the positioning we're gonna have, and just the comfortability I have in it too.",
     "We shouldn’t stop expecting the same stuff I've been doing all over, which is rebounding, setting great screens, and finishing around the paint,",
     "That's my bread and butter. If I can add the 3-point shot, let's do it. But I'm not living and dying by it."
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-terrell-brown-jr",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-terrell-brown-jr",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-terrell-brown-jr",
-   "title": "Utah Jazz Waive Terrell Brown Jr.",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-06T20:00:18Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 6, 2026) – The Utah Jazz have waived guard Terrell Brown Jr.",
-   "facts": [
-    "SALT LAKE CITY (October 6, 2026) – The Utah Jazz have waived guard Terrell Brown Jr.",
-    "Brown Jr. (6-3, 175, Washington) spent the 2025-26 season with the Greensboro Swarm, where he appeared in 50 games, averaging 11.9 points, 6.1 assists, 3.1 rebounds, and 1.2 steals, helping Greensboro to a G League Champ…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-embracing-culture-chemistry-as-china-workouts-begin",
-   "url": "https://www.nba.com/mavs/news/mavericks-embracing-culture-chemistry-as-china-workouts-begin",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-embracing-culture-chemistry-as-china-workouts-begin",
-   "title": "Mavericks embracing culture, chemistry as China workouts begin",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-06T19:00:00Z",
-   "tags": [
-    "dallas mavericks",
-    "kyrie irving",
-    "nba",
-    "Santi Aldama"
-   ],
-   "summary": "The Mavericks got to China early Tuesday (Monday afternoon, Dallas time) and they are eager to test their new system, new players and new coaching staff in two preseason games against the Houston Rockets starting Friday morning (7 a.m., Dallas time).",
-   "facts": [
-    "The Mavericks got to China early Tuesday (Monday afternoon, Dallas time) and they are eager to test their new system, new players and new coaching staff in two preseason games against the Houston Rockets starting Friday …",
-    "Their 17-hour flight took a toll, but the resiliency of NBA players is legendary.",
-    "He suffered a torn ACL in March, 2025.",
-    "He spent all last season rehabilitating from the ensuing surgery."
-   ],
-   "quotes": [
-    "I’ve always felt like when a team’s together outside your normal environment, it’s an opportunity for different guys to break bread together, sit at a different meal table and get to know one of your …",
-    "Today was called get-what-you-need,",
-    "It’s always good to get into the gym, get some work in, go back to the hotel, rest up and we have a Mavs’ dinner tonight, break some bread and we feel good about the next few days as we continue to wo…",
-    "Personally, it’s just getting out of my own way and the mental aspect of it,"
    ]
   }
  ]
