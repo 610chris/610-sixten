@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "399-air-jordan-1-somos-historias.html",
+    cat: "KICKS",
+    title: "Air Jordan 1 Low OG「Somos Historias」が登場 —— “死者の日”テーマ、品番IZ4686-216で5,026足限定",
+    excerpt: "ジョーダン ブランドは、メキシコの“死者の日(Día de los Muertos)”をテーマにした新色「Air Jordan 1 Low OG『Somos Historias』」(品番IZ4686-216)を5,026足限定で展開する。Sneaker Bar Detroitが現地時間10月9日に伝え、Nice Kicksも同日報じている。発売日・価格は記事執筆時点で明らかにされていない。",
+    date: "2026.10.10",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "398-air-jordan-41-trunner-os-space-jam.html",
     cat: "KICKS",
     title: "Jordan Brand『スペース・ジャム』コレクションがさらに拡大 —— Air Jordan 41とJordan Trunner O/S「Space Jam Planet」に新色",
