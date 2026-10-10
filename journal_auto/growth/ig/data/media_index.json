@@ -308,6 +308,33 @@
   "product": "REELS",
   "timestamp": "2022-10-27T09:51:33+0000"
  },
+ "17912304051492591": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "396",
+  "auto": true,
+  "caption_len": 300,
+  "caption_lines": 16,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Nike Kobe 3 Low Protro「Mamba Eterno」が登場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeR8TgXjEDB/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker News",
+  "subject": [
+   "Kobe Bryant"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-09T16:31:02+0000"
+ },
  "17914523025463929": {
   "article": "346",
   "auto": true,
@@ -1774,6 +1801,31 @@
   "template": "news",
   "timestamp": "2026-09-30T14:06:49+0000"
  },
+ "18091154402199170": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "398",
+  "auto": true,
+  "caption_len": 359,
+  "caption_lines": 16,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Jordan Brand『スペース・ジャム』コレクションがさらに拡大",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeS3CltgV9U/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker News / Sneaker Bar Detroit",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-10T01:04:07+0000"
+ },
  "18093380651346856": {
   "article": "347",
   "auto": true,
@@ -1972,6 +2024,31 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T11:17:45+0000"
+ },
+ "18102321803238144": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "399",
+  "auto": true,
+  "caption_len": 364,
+  "caption_lines": 16,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Air Jordan 1 Low OG『Somos Historias』5,026足限定",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeS3NlfABb2/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker Bar Detroit / Nice Kicks",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-10T01:05:47+0000"
  },
  "18104149136274611": {
   "article": "335",
@@ -2598,6 +2675,31 @@
   "template": "news",
   "timestamp": "2026-10-03T00:51:52+0000"
  },
+ "18127428214890323": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "397",
+  "auto": true,
+  "caption_len": 337,
+  "caption_lines": 16,
+  "category": "KICKS",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "Air Jordan 4「BIN23」のファーストルックが公開",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeR8floDTlB/",
+  "product": "REELS",
+  "route": "kicks_source",
+  "source": "Sneaker News / Sneaker Bar Detroit",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-09T16:32:30+0000"
+ },
  "18127481032837905": {
   "article": "350",
   "auto": true,
@@ -2756,6 +2858,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:07:29+0000"
+ },
+ "18132939031763909": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "395",
+  "auto": true,
+  "caption_len": 450,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ピストンズ、今オフにレナード・デュラント獲りを画策",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeRmLqciouZ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「The Pistons need Jalen Duren, and Duren needs the Pistons. Now? The pressure is on」",
+  "subject": [
+   "Jalen Duren"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-09T13:17:44+0000"
  },
  "18133730218737146": {
   "arms": {
@@ -2935,6 +3064,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-08T01:45:55+0000"
+ },
+ "18146142619603646": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "392",
+  "auto": true,
+  "caption_len": 304,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン、76ersで公式戦デビュー",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeQtoHxG3CO/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-09T05:03:35+0000"
  },
  "18149854045539124": {
   "article": "272",
