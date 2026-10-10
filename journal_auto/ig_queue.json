@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:01:28+09:00",
+  "updated": "2026-10-10T21:10:54+09:00",
   "items": [
     {
       "id": "134",
@@ -8212,6 +8212,143 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Air Jordan 1 Low OG『Somos Historias』5,026足限定\n\n・品番IZ4686-216、死者の日テーマの新色\n・ブラウン×ティールのスエード/レザー\n・SNKRS Mexicoで公式画像公開\n\n💬 死者の日モチーフ、気に入った？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker Bar Detroit / Nice Kicks\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "401",
+      "slug": "401-hachimura-clippers-debut-warriors-hawaii",
+      "category": "NBA",
+      "date": "2026-10-10",
+      "headline": "八村塁、クリッパーズ初戦で21得点",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁は現地時間10月4日、ハワイで行われたプレシーズンのゴールデンステート・ウォリアーズ戦に先発し、15分の出場で21得点5リバウンド（FG8/11・3P4/5）を記録した。チームは104-101で勝利。八村はクリッパーズでの初戦で両チーム最多得点を挙げた。",
+      "points": [
+        "現地10/4 プレシーズンのウォリアーズ戦（ハワイ）",
+        "先発15分で21得点5REB・FG8/11・3P4/5",
+        "クリッパーズ104-101勝利、河村勇輝も出場"
+      ],
+      "source": "ESPN ボックススコア／Honolulu Star-Advertiser",
+      "photo_credit": "ワシントン・ウィザーズ時代の八村塁（2022年3月撮影）。撮影: All-Pro Reels / CC BY-SA 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/401-hachimura-clippers-debut-warriors-hawaii.html",
+      "hero_path": "/private/tmp/sixten-rks/site/assets/journal-401-hero.jpg",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "クリッパーズの八村塁、今季は平均何点いけると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. WARRIORS",
+        "points": 21,
+        "stats": [
+          "5 REB",
+          "8/11 FG",
+          "4/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/401-1.jpg",
+        "https://sixten.jp/assets/ig/401-2.jpg",
+        "https://sixten.jp/assets/ig/401-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-10T21:10:52+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、クリッパーズ初戦で21得点\n\n・現地10/4 プレシーズンのウォリアーズ戦（ハワイ）\n・先発15分で21得点5REB・FG8/11・3P4/5\n・クリッパーズ104-101勝利、河村勇輝も出場\n\n💬 クリッパーズの八村塁、今季は平均何点いけると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア／Honolulu Star-Advertiser\n写真: ワシントン・ウィザーズ時代の八村塁（2022年3月撮影）。撮影: All-Pro Reels / CC BY-SA 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "402",
+      "slug": "402-doncic-23-points-kings-preseason",
+      "category": "NBA",
+      "date": "2026-10-10",
+      "headline": "ドンチッチ、キングス戦で23得点",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間10月8日、本拠地crypto.com Arenaでのプレシーズン、サクラメント・キングス戦に先発し、25分の出場で23得点3リバウンド3アシスト（FT9/9）を記録した。レイカーズは114-110で勝ち、プレシーズン2勝1敗とした。",
+      "points": [
+        "現地10/8 プレシーズン、本拠地での初戦",
+        "先発25分で23得点3REB3AST・FT9/9",
+        "レイカーズ114-110勝利でプレシーズン2勝1敗"
+      ],
+      "source": "ESPN ボックススコア／Lakers Nation",
+      "photo_credit": "レイカーズでプレーするルカ・ドンチッチ（2026年1月撮影）。撮影: Erik Drost / CC BY 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/402-doncic-23-points-kings-preseason.html",
+      "hero_path": "/private/tmp/sixten-rks/site/assets/journal-402-hero.jpg",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチとリーブス、今季レイカーズの得点王はどっち？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. KINGS",
+        "points": 23,
+        "stats": [
+          "3 REB",
+          "3 AST",
+          "6/16 FG",
+          "2/6 3PT",
+          "9/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/402-1.jpg",
+        "https://sixten.jp/assets/ig/402-2.jpg",
+        "https://sixten.jp/assets/ig/402-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-10T21:10:52+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドンチッチ、キングス戦で23得点\n\n・現地10/8 プレシーズン、本拠地での初戦\n・先発25分で23得点3REB3AST・FT9/9\n・レイカーズ114-110勝利でプレシーズン2勝1敗\n\n💬 ドンチッチとリーブス、今季レイカーズの得点王はどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア／Lakers Nation\n写真: レイカーズでプレーするルカ・ドンチッチ（2026年1月撮影）。撮影: Erik Drost / CC BY 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "403",
+      "slug": "403-sengun-triple-double-macao-mavericks",
+      "category": "NBA",
+      "date": "2026-10-10",
+      "headline": "シェングン、22分でトリプルダブル",
+      "excerpt": "ヒューストン・ロケッツのアルペラン・シェングンは現地時間10月9日、マカオで行われたNBAチャイナゲームのプレシーズン、ダラス・マーベリックス戦に先発し、22分の出場で16得点10リバウンド10アシストのトリプルダブルを記録した。ロケッツは135-117で勝利した。",
+      "points": [
+        "現地10/9 マカオでのNBAチャイナゲーム",
+        "16得点10REB10AST・FG6/9・+22",
+        "ロケッツがマーベリックスに135-117で勝利"
+      ],
+      "source": "ESPN ボックススコア／Eurohoops",
+      "photo_credit": "ピストンズ戦でレイアップに向かうアルペラン・シェングン（2026年1月撮影）。撮影: Pikraken / CC BY 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/403-sengun-triple-double-macao-mavericks.html",
+      "hero_path": "/private/tmp/sixten-rks/site/assets/journal-403-hero.jpg",
+      "subject": [
+        "Alperen Sengun"
+      ],
+      "question": "シェングン、今季トリプルダブルは何回いけると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ALPEREN SENGUN",
+        "opponent": "vs. MAVERICKS",
+        "points": 16,
+        "stats": [
+          "10 REB",
+          "10 AST",
+          "6/9 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/403-1.jpg",
+        "https://sixten.jp/assets/ig/403-2.jpg",
+        "https://sixten.jp/assets/ig/403-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-10T21:10:52+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シェングン、22分でトリプルダブル\n\n・現地10/9 マカオでのNBAチャイナゲーム\n・16得点10REB10AST・FG6/9・+22\n・ロケッツがマーベリックスに135-117で勝利\n\n💬 シェングン、今季トリプルダブルは何回いけると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア／Eurohoops\n写真: ピストンズ戦でレイアップに向かうアルペラン・シェングン（2026年1月撮影）。撮影: Pikraken / CC BY 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
