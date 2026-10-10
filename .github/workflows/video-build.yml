@@ -92,6 +92,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_ACCESS_TOKEN_KICKS: ${{ secrets.IG_TOKEN_KICKS }}
         # 7:00 の schedule 起動は静音時間を抜けた直後なので、深夜にたまったぶんを多めに出し切る
         run: |
           if [ "${{ github.event_name }}" = "schedule" ]; then

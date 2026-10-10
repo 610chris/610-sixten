@@ -56,6 +56,15 @@ THUMB_BEFORE_END = 0.6  # 秒。サムネにするコマ（終わりのこれだ
 # カテゴリ別の本数配分（24時間あたりの上限）。growth/ig/report.py が観察実験の判定後に自動で書く。
 # 2026-10-06 クリス指示「KICKS・PR系の投稿本数の配分を見直す（エンゲージの観察実験の結果が出てから）」
 # →「これから自分で続けて言いたくないから…言わずとも成立するようにして」。ファイルが無い・上限 null なら今まで通り全部出す。
+# 2026-10-10 クリス指示「スニーカーに関するニュースはシックステンジャーナルの方のインスタで上げるのはやめて、
+# キックスラボっていう多分俺のインスタがあるはずで、それで上げてってほしくて、シックステンを共同投稿で入れといてほしい。
+# それで作り直してほしい。作り直してから今後そっちで上げてってほしい」。
+# KICKS の記事は @sixten では出さず、Kicks Lab のトークン（環境変数 IG_ACCESS_TOKEN_KICKS／Actions は Secret
+# IG_TOKEN_KICKS／Mac は ig_token.txt の IG_KICKS_ACCESS_TOKEN= 行）で投稿し、@sixten を共同投稿者に招待する。
+# トークンが無い間は保留（@sixten にも出さない・失敗にも数えない）。@sixten に出済みの KICKS も
+# kicks_media_id が無ければ Kicks Lab で出し直す（＝作り直し）。
+KICKS_CAT = "KICKS"
+KICKS_COLLAB = ["sixten"]
 MIX_FILE = os.path.join(HERE, "growth", "ig", "mix.json")
 MIX_DROP_H = 48         # 上限で待たされたまま、書き出しからこれだけ過ぎたニュースは出さない（古いニュースを後から流さない）
 
@@ -99,13 +108,13 @@ def apply_mix(todo, items, status, limit):
     return keep, dropped
 
 
-def token():
-    t = os.environ.get("IG_ACCESS_TOKEN", "").strip()
+def token(env="IG_ACCESS_TOKEN", key="IG_ACCESS_TOKEN="):
+    t = os.environ.get(env, "").strip()
     if t:
         return t
     if os.path.exists(TOKEN_FILE):
         for line in open(TOKEN_FILE, encoding="utf-8"):
-            if line.startswith("IG_ACCESS_TOKEN="):
+            if line.startswith(key):
                 return line.split("=", 1)[1].strip()
     return ""
 
@@ -162,7 +171,7 @@ def thumb_offset_ms(url):
         return None
 
 
-def post_one(item, st, tok, test=False):
+def post_one(item, st, tok, test=False, collab=None):
     if not st["url"].startswith("http"):
         raise RuntimeError(f"動画が Release に上がっていない: {st['url']}")
     caption = reel_caption(item, st.get("credit", ""))
@@ -173,6 +182,8 @@ def post_one(item, st, tok, test=False):
     params = {"media_type": "REELS", "video_url": st["url"],
               "caption": caption,
               "share_to_feed": "true"}
+    if collab:
+        params["collaborators"] = json.dumps(collab)
     off = thumb_offset_ms(st["url"])
     if off is not None:
         params["thumb_offset"] = str(off)
@@ -203,15 +214,31 @@ def main():
     if not tok:
         print("IG トークンが無いのでリール投稿は飛ばす（Secret IG_TOKEN を確認）")
         return
+    ktok = token("IG_ACCESS_TOKEN_KICKS", "IG_KICKS_ACCESS_TOKEN=")
     status = VB.load_status(True)
     items = {it["id"]: it for it in json.load(open(VB.video_input.QUEUE, encoding="utf-8"))["items"]}
     want = {str(i).zfill(3) for i in args.ids}
     start = datetime.fromisoformat(POST_FROM)
 
-    todo = []
+    todo, kicks_todo = [], []
     for aid, st in sorted(status.items()):
         it = items.get(aid)
         if not it or it.get("state") == "skipped" or st.get("no_photo") or (st.get("mix_dropped") and not want):
+            continue
+        if it.get("category") == KICKS_CAT:
+            # KICKS は Kicks Lab 側の投稿状況（kicks_media_id）で判定する。下の mix 配分（@sixten 用）は通さない
+            if not ktok:
+                if not want or aid in want:
+                    st_note = "（@sixten 出済み・作り直し待ち）" if st.get("reel_media_id") else ""
+                    print(f"[kicks] {aid} 保留{st_note}: Kicks Lab のトークン（Secret IG_TOKEN_KICKS）が無い")
+                continue
+            if want and aid not in want:
+                continue
+            if st.get("kicks_media_id") or st.get("kicks_attempts", 0) >= MAX_ATTEMPTS:
+                continue
+            if not want and datetime.fromisoformat(st["built_at"]) < start:
+                continue
+            kicks_todo.append(aid)
             continue
         if want:
             if aid in want and (args.test or not st.get("reel_media_id")):
@@ -228,32 +255,37 @@ def main():
         todo, dropped = apply_mix(todo, items, status, args.max)
         if dropped:
             VB.save_status(status, True)
-    if not todo:
+    kicks_todo = kicks_todo[: args.max]
+    if not todo and not kicks_todo:
         print("投稿するリールはない")
         return
 
     failed = 0
-    for n, aid in enumerate(todo):
+    jobs = [(a, False) for a in todo] + [(a, True) for a in kicks_todo]
+    for n, (aid, kicks) in enumerate(jobs):
         if n:
             time.sleep(BETWEEN_POSTS)
         st = status[aid]
-        print(f"[reel] {aid} {items[aid]['headline']}")
+        print(f"[{'kicks' if kicks else 'reel'}] {aid} {items[aid]['headline']}")
         try:
-            media_id = post_one(items[aid], st, tok, args.test)
+            media_id = post_one(items[aid], st, ktok if kicks else tok, args.test,
+                                KICKS_COLLAB if kicks else None)
         except Exception as e:
             failed += 1
             print(f"  ✗ 失敗: {e}", file=sys.stderr)
             if not args.test:
-                st["reel_attempts"] = st.get("reel_attempts", 0) + 1
-                st["reel_error"] = str(e)[:500]
+                pre = "kicks" if kicks else "reel"
+                st[f"{pre}_attempts"] = st.get(f"{pre}_attempts", 0) + 1
+                st[f"{pre}_error"] = str(e)[:500]
                 VB.save_status(status, True)
             continue
         if args.test:
             print("  ✓ テスト通過")
             continue
-        st["reel_media_id"] = media_id
-        st["reel_posted_at"] = datetime.now(VB.JST).isoformat(timespec="seconds")
-        st.pop("reel_error", None)
+        pre = "kicks" if kicks else "reel"
+        st[f"{pre}_media_id"] = media_id
+        st[f"{pre}_posted_at"] = datetime.now(VB.JST).isoformat(timespec="seconds")
+        st.pop(f"{pre}_error", None)
         VB.save_status(status, True)
         print(f"  ✓ 投稿した ig_media_id={media_id}")
     if failed:
