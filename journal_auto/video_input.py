@@ -200,6 +200,18 @@ def says_same(text, chosen):
     return False
 
 
+# 2026-10-10 クリス指示「コービー・ブライアントって文字があったときに、カタカナで入れた後に英語をカッコでつけてると
+# 思うけど、その英語のカッコ付けはいらないからなしで」。記事本文は初出に「コービー・ブライアント(Kobe Bryant)」と
+# 原語を添える書き方なので、リールに出す文字からだけ外す（記事ページはそのまま）。日本語の直後の、中身が
+# 英字だけのカッコが対象。「(品番IZ4686-216)」「(3PT)」のように日本語・数字で始まるカッコは残す。
+EN_PAREN = re.compile(r"(?<=[ぁ-んァ-ヶー・一-龥」』”])\s*[（(][A-Za-zÀ-ÿ][A-Za-zÀ-ÿ0-9 .,'’&\-/]*[)）]")
+
+
+def drop_en_paren(text):
+    """「コービー・ブライアント(Kobe Bryant)」→「コービー・ブライアント」"""
+    return EN_PAREN.sub("", text)
+
+
 def plain(frag):
     """段落の中身（HTML）→ 画面に出る文字"""
     return re.sub(r"\s+", " ", unescape(re.sub(r"<[^>]+>", "", frag))).strip()
@@ -214,7 +226,7 @@ def article_body(aid):
     doc = open(os.path.join(SITE_JOURNAL, page), encoding="utf-8").read()
     sentences = []
     for m in ARTICLE_P.finditer(doc):
-        text = plain(m.group(2))
+        text = drop_en_paren(plain(m.group(2)))
         if not text:
             continue
         if BODY_END.match(text):
@@ -928,11 +940,12 @@ def build(aid, used=None):
         if body:
             log(f"  本文: 記事本文から{len(body)}文（約{sum(body_em(t) for t in body):.0f}em）")
         else:
-            body = [p for p in item.get("points") or [] if p.strip()] or [item.get("excerpt", "")[:80]]
+            body = [drop_en_paren(p) for p in item.get("points") or [] if p.strip()] \
+                or [drop_en_paren(item.get("excerpt", ""))[:80]]
             log("  本文: 記事ページの本文が取れないので points を使う")
         props = {
             "label": "NEWS",  # ニュース型は記事のカテゴリ（NBA/KICKS 等）に関係なく NEWS と出す
-            "headline": item["headline"],
+            "headline": drop_en_paren(item["headline"]),
             "body": body,
             "background": {"type": "image", "src": bg_rel},
             "credit": credit,
