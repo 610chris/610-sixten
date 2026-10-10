@@ -1,10 +1,31 @@
 {
- "updated_utc": "2026-10-10 19:29 UTC",
- "teams_ok": 29,
- "teams_failed": [
-  "GSW"
- ],
+ "updated_utc": "2026-10-10 22:53 UTC",
+ "teams_ok": 30,
+ "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "injury",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-injury-fallout-darryn-petersons-big-game-and-eastern-conference-preview",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-injury-fallout-darryn-petersons-big-game-and-eastern-conference-preview",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-injury-fallout-darryn-petersons-big-game-and-eastern-conference-preview",
+   "title": "Roundball Roundup: Injury Fallout, Darryn Peterson’s Big Game, and Eastern Conference Preview",
+   "author": "JP Chunga",
+   "published_utc": "2026-10-10T22:03:21Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the impact of the Nurkić injury, Darryn Peterson’s 23 point performance, and Eastern Conference questions.",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the impact of the Nurkić injury, Darryn Peterson’s 23 point performance, and Eastern Conference questions."
+   ],
+   "quotes": []
+  },
   {
    "source": "CHA 公式（nba.com）",
    "team": "CHA",
@@ -745,6 +766,32 @@
    ]
   },
   {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261007",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261007",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261007",
+   "title": "Six Warriors Score in Double Figures in Road Loss to Trail Blazers",
+   "author": "Golden State Warriors",
+   "published_utc": "2026-10-08T03:17:43Z",
+   "tags": [],
+   "summary": "Miles Kelly scored a game-high 24 points as the Golden State Warriors fell 123-118 at Moda Center in Portland on Wednesday night.",
+   "facts": [
+    "Miles Kelly scored a game-high 24 points as the Golden State Warriors fell 123-118 at Moda Center in Portland on Wednesday night.",
+    "WILLIAMS AND TERRY SHINE Dalen Terry and Brandon Williams combined for 40 points, with Terry playing a game-high 42 minutes.",
+    "Terry recorded 23 points on 9-for-18 shooting, adding nine assists, eight rebounds and four steals in an all-around performance.",
+    "He finished the night with 17 points on 7-for-11 shooting.",
+    "KELLY'S BENCH SPARK Miles Kelly made six 3-pointers off the bench, scoring a game-high 24 points on 8-for-16 shooting.",
+    "He finished with a team-high plus-14 differential in 28 minutes, and also recorded seven rebounds and six assists.",
+    "BASSEY'S PERFECT NIGHT Charles Bassey shot a perfect 6-for-6 from the field, tallying 13 points, six rebounds, three steals and three blocks in 24 minutes of action, showcasing his touch near the rim.",
+    "UP NEXT The Warriors continue their preseason slate on Saturday night, when they host the Sacramento Kings at Chase Center (5:30 p.m."
+   ],
+   "quotes": []
+  },
+  {
    "source": "IND 公式（nba.com）",
    "team": "IND",
    "team_ja": "ペイサーズ",
@@ -797,28 +844,6 @@
    "facts": [
     "SALT LAKE CITY (October 7, 2026) – The following is a medical update on Utah Jazz center Jusuf Nurkić: Nurkić sustained a partial plantar plate tear of the second toe of his right foot during Utah's first preseason game …",
     "He will be re-evaluated in four weeks."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-boscle-261008",
-   "url": "https://www.nba.com/cavaliers/news/preview-boscle-261008",
-   "canonical_url": "https://cavs.com/news/preview-boscle-261008",
-   "title": "Cavs vs Celtics, Preseason Game 1 | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-07T19:46:11Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "In the first game action since late May, the Cavs are back in action for the first of three preseason games, with tonight against the Boston Celtics. Sunday and next Tuesday's games will both be against the Magic.",
-   "facts": [
-    "GAME INFORMATION LAST TIME OUT The last competitive game action came in Game 4 of the Eastern Conference Finals in May before Meleek Thomas took Summer League by storm in Las Vegas a couple months later.",
-    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -TBD Celtics: -TBD KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @S…"
    ],
    "quotes": []
   }
