@@ -57,12 +57,12 @@ THUMB_BEFORE_END = 0.6  # 秒。サムネにするコマ（終わりのこれだ
 # 2026-10-06 クリス指示「KICKS・PR系の投稿本数の配分を見直す（エンゲージの観察実験の結果が出てから）」
 # →「これから自分で続けて言いたくないから…言わずとも成立するようにして」。ファイルが無い・上限 null なら今まで通り全部出す。
 # 2026-10-10 クリス指示「スニーカーに関するニュースはシックステンジャーナルの方のインスタで上げるのはやめて、
-# キックスラボっていう多分俺のインスタがあるはずで、それで上げてってほしくて、シックステンを共同投稿で入れといてほしい。
+# Kicks Yeetっていう多分俺のインスタがあるはずで、それで上げてってほしくて、シックステンを共同投稿で入れといてほしい。
 # それで作り直してほしい。作り直してから今後そっちで上げてってほしい」。
-# KICKS の記事は @sixten では出さず、Kicks Lab（@kick_yeet・2026-10-10 クリス回答）のトークン（環境変数 IG_ACCESS_TOKEN_KICKS／Actions は Secret
+# KICKS の記事は @sixten では出さず、Kicks Yeet（@kick_yeet・2026-10-10 クリス回答）のトークン（環境変数 IG_ACCESS_TOKEN_KICKS／Actions は Secret
 # IG_TOKEN_KICKS／Mac は ig_token.txt の IG_KICKS_ACCESS_TOKEN= 行）で投稿し、@sixten を共同投稿者に招待する。
 # トークンが無い間は保留（@sixten にも出さない・失敗にも数えない）。@sixten に出済みの KICKS も
-# kicks_media_id が無ければ Kicks Lab で出し直す（＝作り直し）。
+# kicks_media_id が無ければ Kicks Yeet で出し直す（＝作り直し）。
 KICKS_CAT = "KICKS"
 KICKS_COLLAB = ["sixten"]
 MIX_FILE = os.path.join(HERE, "growth", "ig", "mix.json")
@@ -226,11 +226,11 @@ def main():
         if not it or it.get("state") == "skipped" or st.get("no_photo") or (st.get("mix_dropped") and not want):
             continue
         if it.get("category") == KICKS_CAT:
-            # KICKS は Kicks Lab 側の投稿状況（kicks_media_id）で判定する。下の mix 配分（@sixten 用）は通さない
+            # KICKS は Kicks Yeet 側の投稿状況（kicks_media_id）で判定する。下の mix 配分（@sixten 用）は通さない
             if not ktok:
                 if not want or aid in want:
                     st_note = "（@sixten 出済み・作り直し待ち）" if st.get("reel_media_id") else ""
-                    print(f"[kicks] {aid} 保留{st_note}: Kicks Lab のトークン（Secret IG_TOKEN_KICKS）が無い")
+                    print(f"[kicks] {aid} 保留{st_note}: Kicks Yeet のトークン（Secret IG_TOKEN_KICKS）が無い")
                 continue
             if want and aid not in want:
                 continue
