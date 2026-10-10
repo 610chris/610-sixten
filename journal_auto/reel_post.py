@@ -59,7 +59,7 @@ THUMB_BEFORE_END = 0.6  # 秒。サムネにするコマ（終わりのこれだ
 # 2026-10-10 クリス指示「スニーカーに関するニュースはシックステンジャーナルの方のインスタで上げるのはやめて、
 # キックスラボっていう多分俺のインスタがあるはずで、それで上げてってほしくて、シックステンを共同投稿で入れといてほしい。
 # それで作り直してほしい。作り直してから今後そっちで上げてってほしい」。
-# KICKS の記事は @sixten では出さず、Kicks Lab のトークン（環境変数 IG_ACCESS_TOKEN_KICKS／Actions は Secret
+# KICKS の記事は @sixten では出さず、Kicks Lab（@kick_yeet・2026-10-10 クリス回答）のトークン（環境変数 IG_ACCESS_TOKEN_KICKS／Actions は Secret
 # IG_TOKEN_KICKS／Mac は ig_token.txt の IG_KICKS_ACCESS_TOKEN= 行）で投稿し、@sixten を共同投稿者に招待する。
 # トークンが無い間は保留（@sixten にも出さない・失敗にも数えない）。@sixten に出済みの KICKS も
 # kicks_media_id が無ければ Kicks Lab で出し直す（＝作り直し）。
