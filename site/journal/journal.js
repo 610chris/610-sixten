@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "409-sga-nike-shai-002-hand-drawn.html",
+    cat: "KICKS",
+    title: "ギルジャス＝アレクサンダー、「Nike SHAI 002」は自分でデザインを描いた —— 2作目のシグネチャー、発売は2027年序盤予定",
+    excerpt: "オクラホマシティ・サンダーのシャイ・ギルジャス＝アレクサンダーは、自身2作目のシグネチャーシューズ「Nike SHAI 002」のデザインを自らペンで描いたと米TIME誌のインタビューで明らかにした。コンバースからナイキ・バスケットボールへ移籍して以降、初めての完全新規デザインとなる一足で、発売は2027年序盤を予定している。Hypebeastが伝えた。",
+    date: "2026.10.10",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "408-westbrook-la-olympics-torch.html",
     cat: "NBA",
     title: "ラッセル・ウェストブルック「2028年LA五輪の聖火ランナーになりたい」—— 引退後、地元への恩返しが新たな目標に",
