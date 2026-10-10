@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "400-jeff-hamilton-night-postup-live.html",
+    cat: "CULTURE",
+    title: "レザージャケットの皇帝、東京タワーへ —— ジェフ・ハミルトン×「クリスのバスケ日記」POSTUP公開収録が10月13日開催",
+    excerpt: "ジョーダンやコービーが優勝の夜に袖を通したジャケットを手がけてきたデザイナー、ジェフ・ハミルトン。YouTube「クリスのバスケ日記」のクリスが聞き手となるバスケカルチャー・ポッドキャスト「POSTUP」の公開収録「Jeff Hamilton Night」が、10月13日に東京タワー Club333で開かれる。",
+    date: "2026.10.10",
+    thumb: "../assets/journal-400-hero.jpg?v=f7cd365791"
+  },
+  {
     href: "399-air-jordan-1-somos-historias.html",
     cat: "KICKS",
     title: "Air Jordan 1 Low OG「Somos Historias」が登場 —— “死者の日”テーマ、品番IZ4686-216で5,026足限定",
