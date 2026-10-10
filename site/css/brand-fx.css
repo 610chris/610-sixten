@@ -402,3 +402,7 @@
   .s5-solo-list li { grid-template-columns: minmax(0, 1fr); padding: 14px 16px; }
   .s5-solo-list .via { grid-column: 1; }
 }
+/* 個人案件: 受付停止中のメンバー（カーソル/タップで「現在は受け付けておりません」・2026-10-10） */
+.s5-solo-off { position: relative; justify-self: start; display: inline-block; padding: 6px 14px; border: 1px dashed var(--line); border-radius: 999px; font-weight: 700; font-size: 14px; color: var(--muted); cursor: not-allowed; outline: none; }
+.s5-solo-off .tip { position: absolute; left: 0; top: calc(100% + 8px); padding: 8px 12px; border-radius: 8px; background: var(--text); color: #0a0a0a; font-size: 12px; font-weight: 700; white-space: nowrap; opacity: 0; transform: translateY(-4px); pointer-events: none; transition: opacity 0.18s, transform 0.18s; z-index: 2; }
+.s5-solo-off:hover .tip, .s5-solo-off:focus .tip { opacity: 1; transform: none; }
