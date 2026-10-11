@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "418-kings-raynaud-patellar-subluxation.html",
+    cat: "NBA",
+    title: "キングスのレイノー、右膝蓋骨亜脱臼と診断 —— 球団公式発表、約2週間後に再検査",
+    excerpt: "サクラメント・キングスは11日(現地時間)、プレシーズンのウォリアーズ戦で右膝を負傷したマクシーム・レイノーについて、MRI検査の結果「右膝蓋骨亜脱臼」と診断されたと公式発表した。約2週間後に再検査を行い、続報があり次第伝えるとしている。",
+    date: "2026.10.12",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "417-towns-knicks-news-to-me.html",
     cat: "NBA",
     title: "タウンズ「初耳だった」—— ニックスの契約延長保留発表に「かなり残念」",
