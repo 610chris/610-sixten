@@ -97,6 +97,9 @@ PHOTO_OVERRIDES = {
     "306": ("https://a.espncdn.com/photo/2026/0430/r1651520.jpg", "Jesse D. Garrabrant/NBAE via Getty Images", 0.53),
     "307": ("https://a.espncdn.com/photo/2026/0204/r1610377.jpg", "Daniel Dunn-Imagn Images"),
     "308": ("https://a.espncdn.com/photo/2025/1004/r1555269.jpg", "Denis Poroy/Imagn Images"),
+    # 414 河村: photolib の Release がアセット上限1000件で頭打ちになり、9/24以降の河村の写真が索引に無い。
+    # ライブラリの @laclippers 10/8 投稿（練習・単独）を直接置く
+    "414": ("manual_bg/414.jpg", "laclippers (Instagram)", 0.5),
 }
 # ニュース型の見出し・本文の改行位置を記事ごとに指定する（記事番号 → {"headline": str, "body": [str]}）。
 # 画面幅で機械的に折り返すと単語の途中で切れるので、意味の切れ目に "\n" を入れた文字で置き換える。
