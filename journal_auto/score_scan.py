@@ -4,7 +4,10 @@
 2026-10-10 クリス指示「得点スコアを表示させるやつがあったよねレブロンのやつ。あれめっちゃいいと思うから、
 このプレシーズンからいろんな選手で上げていってほしい」「本当はプレシーズンでの八村塁君の試合のやつも作ってほしかった」。
 
+2026-10-11 クリス指示「日本人選手だけじゃないよ！他の選手もだよ！」→ 基準は「各試合の最多得点者」（日本人選手は別枠で毎回出す）。
+
 ESPN の公開API（scoreboard / summary）からボックススコアを読み、基準に当たった選手を候補として出す。
+基準: ①各試合の最多得点者（両チーム通じて・同点は全員） ②日本人選手（出場したら成績を問わず）
 記事化・ig_queue への登録は呼び出し側（ルーチン）が行う。このスクリプトは何も書き込まない
 （--mark を付けた時だけ seen_score.txt に追記する）。
 
@@ -13,6 +16,7 @@ ESPN の公開API（scoreboard / summary）からボックススコアを読み�
   python3 journal_auto/score_scan.py --days 5
   python3 journal_auto/score_scan.py --dates 20261008 20261009
   python3 journal_auto/score_scan.py --mark 401898717:4066648   # 記事化した候補を既出にする
+  python3 journal_auto/score_scan.py --keys      # 未処理候補の key だけ1行ずつ（score-poll.yml が試合終了の検知に使う）
 """
 import argparse
 import datetime as dt
@@ -29,15 +33,6 @@ UA = "curl/8.4.0"
 
 # 日本人選手: 出場したら成績を問わず候補にする
 JAPANESE = {"Rui Hachimura": "八村塁", "Yuki Kawamura": "河村勇輝"}
-# スーパースター: 20得点以上で候補にする（それ以外の選手は30得点以上）
-STARS = {
-    "LeBron James", "Stephen Curry", "Kevin Durant", "Giannis Antetokounmpo", "Nikola Jokic",
-    "Luka Doncic", "Shai Gilgeous-Alexander", "Victor Wembanyama", "Anthony Edwards",
-    "Jayson Tatum", "Joel Embiid", "Kawhi Leonard", "Jalen Brunson", "Donovan Mitchell",
-    "Devin Booker", "Anthony Davis", "Ja Morant", "Tyrese Haliburton", "Cade Cunningham",
-    "Jaylen Brown", "Kyrie Irving", "Damian Lillard", "James Harden", "Trae Young",
-    "Cooper Flagg", "Paolo Banchero", "Tyrese Maxey", "Karl-Anthony Towns",
-}
 
 
 def get(url):
@@ -85,18 +80,13 @@ def stat_lines(st):
     return lines[:5]
 
 
-def reasons(name, st):
+def reasons(name, st, top_pts):
     pts = to_int(st.get("PTS")) or 0
-    doubles = sum(1 for k in ("PTS", "REB", "AST", "STL", "BLK") if (to_int(st.get(k)) or 0) >= 10)
     r = []
     if name in JAPANESE:
         r.append("日本人選手")
-    if pts >= 30:
-        r.append(f"{pts}得点")
-    elif name in STARS and pts >= 20:
-        r.append(f"スター{pts}得点")
-    if doubles >= 3:
-        r.append("トリプルダブル")
+    if top_pts and pts == top_pts:
+        r.append(f"試合最多{pts}得点")
     return r
 
 
@@ -112,7 +102,10 @@ def scan_event(eid, seen):
     season_type = d["header"].get("season", {}).get("type")
     teams = {c["team"]["id"]: c for c in comp["competitors"]}
     out = []
-    for block in d.get("boxscore", {}).get("players", []):
+    blocks = d.get("boxscore", {}).get("players", [])
+    top_pts = max((to_int(dict(zip(b["statistics"][0]["labels"], a["stats"])).get("PTS")) or 0
+                   for b in blocks for a in b["statistics"][0]["athletes"] if a.get("stats")), default=0)
+    for block in blocks:
         tid = block["team"]["id"]
         opp = next(c for k, c in teams.items() if k != tid)
         me = teams[tid]
@@ -122,7 +115,7 @@ def scan_event(eid, seen):
                 continue
             name = a["athlete"]["displayName"]
             st = dict(zip(labels, a["stats"]))
-            why = reasons(name, st)
+            why = reasons(name, st, top_pts)
             if not why:
                 continue
             key = f"{eid}:{a['athlete']['id']}"
@@ -157,6 +150,7 @@ def main():
     ap.add_argument("--dates", nargs="*")
     ap.add_argument("--all", action="store_true", help="既出（seen_score.txt）も表示する")
     ap.add_argument("--mark", nargs="*", help="記事化した候補の key を seen_score.txt に追記する")
+    ap.add_argument("--keys", action="store_true", help="未処理候補の key だけを1行ずつ出す")
     args = ap.parse_args()
 
     if args.mark:
@@ -184,8 +178,11 @@ def main():
                     print(f"! {e['id']} {e.get('name')}: {ex}", file=sys.stderr)
     if not args.all:
         found = [c for c in found if not c["seen"]]
-    # 日本人選手 → スター → 得点の多い順
-    found.sort(key=lambda c: (c["player_ja"] is None, c["player"] not in STARS, -c["video"]["points"]))
+    # 日本人選手 → 得点の多い順
+    found.sort(key=lambda c: (c["player_ja"] is None, -c["video"]["points"]))
+    if args.keys:
+        print("\n".join(sorted(c["key"] for c in found)))
+        return
     print(json.dumps(found, ensure_ascii=False, indent=1))
 
 

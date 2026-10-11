@@ -1,0 +1,47 @@
+name: Score poll
+# NBA の試合終了を15分おきに見張り、score_scan.py の基準（各試合の最多得点者＋日本人選手）に
+# 当たる未処理候補が出たら journal_auto/score_signal.txt を更新して push する。
+# この push を claude.ai の webhook トリガーが受けて、クラウドルーチン「610 JOURNAL 自動記事化」を即時起動する
+# （記事化と score リールの登録はルーチン側 §1h の仕事）。shams-poll.yml / national-poll.yml と同じ方式。
+# 2026-10-11 クリス指示「予想スタート時間を確認しといてその試合が終わった瞬間にスタッツ調べてってできるよね」
+# 「日本人選手だけじゃないよ！他の選手もだよ！」。
+#
+# ループ安全性: 候補の顔ぶれが前回シグナルと同じなら commit しない＝再発火しない。
+# ルーチンが記事化した候補は seen_score.txt に --mark されるので、次回の判定から自然に消える。
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: score-poll
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+      - name: Check finished games
+        id: check
+        run: |
+          python3 journal_auto/score_scan.py --days 2 --keys | grep . > /tmp/keys.txt || true
+          echo "candidates: $(wc -l < /tmp/keys.txt)"; cat /tmp/keys.txt
+          if [ -s /tmp/keys.txt ] && ! cmp -s /tmp/keys.txt journal_auto/score_signal.txt; then
+            echo "new=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Signal via push
+        if: steps.check.outputs.new == 'true'
+        run: |
+          git config user.name "score-poll"
+          git config user.email "actions@github.com"
+          cp /tmp/keys.txt journal_auto/score_signal.txt
+          git add journal_auto/score_signal.txt
+          git commit -m "score-poll: 試合終了シグナル（最多得点者/日本人選手の候補）"
+          git push origin HEAD:main || { git pull --rebase origin main && git push origin HEAD:main; }

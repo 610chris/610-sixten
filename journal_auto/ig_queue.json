@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:11:41+09:00",
+  "updated": "2026-10-11T12:40:34+09:00",
   "items": [
     {
       "id": "134",
@@ -8612,12 +8612,23 @@
       "url": "https://sixten.jp/journal/411-hachimura-kawamura-raptors-vancouver.html",
       "hero_path": "",
       "subject": [
-        "Rui Hachimura|Yuki Kawamura"
+        "Rui Hachimura"
       ],
       "question": "八村と河村、今日の活躍はどっちが印象的だった？",
       "no_question": false,
       "caption_manual": false,
-      "video": null,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. RAPTORS",
+        "points": 14,
+        "stats": [
+          "3 REB",
+          "1 AST",
+          "3/8 FG",
+          "7/7 FT"
+        ]
+      },
       "images": [
         "https://sixten.jp/assets/ig/411-1.jpg",
         "https://sixten.jp/assets/ig/411-2.jpg",
@@ -8710,6 +8721,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "キングスのレイノー、右膝に重傷の恐れ\n\n・プレシーズンのウォリアーズ戦でスクリーン中に右膝を負傷\n・ハーフタイムに検査、第3Q序盤に復帰なしと発表\n・GMと球団社主も当日に見舞い、長期離脱を懸念する声\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Kings lose Maxime Raynaud to apparent serious knee injury」\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "414",
+      "slug": "414-kawamura-10-points-plus12-raptors",
+      "category": "NBA",
+      "date": "2026-10-11",
+      "headline": "河村勇輝、14分で10得点4アシスト・チーム最高+12",
+      "excerpt": "ロサンゼルス・クリッパーズの河村勇輝は現地時間10月10日、カナダ・バンクーバーで行われたプレシーズンのトロント・ラプターズ戦にベンチから出場し、14分で10得点4アシスト2スティール（FG3/4・3P1/2・FT3/3）を記録した。プラスマイナス+12はチーム最高。試合はクリッパーズが106-114で敗れた。",
+      "points": [
+        "ベンチから14分出場で10得点4アシスト2スティール",
+        "FG3/4・3P1/2・FT3/3と高確率",
+        "プラスマイナス+12はチーム最高（プレシーズン）"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/414-kawamura-10-points-plus12-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Yuki Kawamura"
+      ],
+      "question": "河村勇輝、今季はどれくらい出場時間をつかめると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "YUKI KAWAMURA",
+        "opponent": "vs. RAPTORS",
+        "points": 10,
+        "stats": [
+          "4 AST",
+          "2 STL",
+          "3/4 FG",
+          "3/3 FT",
+          "+12 +/-"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/414-1.jpg",
+        "https://sixten.jp/assets/ig/414-2.jpg",
+        "https://sixten.jp/assets/ig/414-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-11T12:40:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "河村勇輝、14分で10得点4アシスト・チーム最高+12\n\n・ベンチから14分出場で10得点4アシスト2スティール\n・FG3/4・3P1/2・FT3/3と高確率\n・プラスマイナス+12はチーム最高（プレシーズン）\n\n💬 河村勇輝、今季はどれくらい出場時間をつかめると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
