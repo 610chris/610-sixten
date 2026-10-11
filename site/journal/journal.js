@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "415-kennard-20-points-suns-preseason.html",
+    cat: "NBA",
+    title: "ケナード、スパーズ戦で20得点 —— プレシーズンでサンズが102-98の接戦を制す",
+    excerpt: "フィニックス・サンズのルーク・ケナードは現地時間10月10日、本拠地で行われたプレシーズンのサンアントニオ・スパーズ戦に出場し、25分の出場で20得点5リバウンド4アシストを記録した。サンズは102-98でスパーズを下した。",
+    date: "2026.10.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "414-kawamura-10-points-plus12-raptors.html",
     cat: "NBA",
     title: "河村勇輝、ラプターズ戦で10得点4アシスト —— 14分の出場でチーム最高のプラスマイナス+12",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:40:34+09:00",
+  "updated": "2026-10-11T14:55:23+09:00",
   "items": [
     {
       "id": "134",
@@ -8768,6 +8768,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "河村勇輝、14分で10得点4アシスト・チーム最高+12\n\n・ベンチから14分出場で10得点4アシスト2スティール\n・FG3/4・3P1/2・FT3/3と高確率\n・プラスマイナス+12はチーム最高（プレシーズン）\n\n💬 河村勇輝、今季はどれくらい出場時間をつかめると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "415",
+      "slug": "415-kennard-20-points-suns-preseason",
+      "category": "NBA",
+      "date": "2026-10-11",
+      "headline": "ケナード、スパーズ戦で20得点",
+      "excerpt": "フィニックス・サンズのルーク・ケナードは現地時間10月10日、本拠地で行われたプレシーズンのサンアントニオ・スパーズ戦に出場し、25分の出場で20得点5リバウンド4アシストを記録した。サンズは102-98でスパーズを下した。",
+      "points": [
+        "FG8/15・3P4/10の高確率で20得点",
+        "ターンオーバーはゼロ、プラスマイナス+11",
+        "サンズが102-98でスパーズとの接戦を制す"
+      ],
+      "source": "ESPN ボックススコア（Suns vs. Spurs・2026年10月10日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/415-kennard-20-points-suns-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Luke Kennard"
+      ],
+      "question": "ケナードのこのシュート力、レギュラーシーズンでも続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKE KENNARD",
+        "opponent": "vs. SPURS",
+        "points": 20,
+        "stats": [
+          "5 REB",
+          "4 AST",
+          "8/15 FG",
+          "4/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/415-1.jpg",
+        "https://sixten.jp/assets/ig/415-2.jpg",
+        "https://sixten.jp/assets/ig/415-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-11T14:54:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ケナード、スパーズ戦で20得点\n\n・FG8/15・3P4/10の高確率で20得点\n・ターンオーバーはゼロ、プラスマイナス+11\n・サンズが102-98でスパーズとの接戦を制す\n\n💬 ケナードのこのシュート力、レギュラーシーズンでも続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Suns vs. Spurs・2026年10月10日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
