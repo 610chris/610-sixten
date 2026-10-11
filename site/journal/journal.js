@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "413-kings-raynaud-knee-injury.html",
+    cat: "NBA",
+    title: "キングスのレイノー、右膝に重傷の恐れ —— プレシーズンのウォリアーズ戦で負傷、長期離脱を懸念",
+    excerpt: "サクラメント・キングスのマクシーム・レイノーは現地時間10月10日、ゴールデンステート・ウォリアーズ戦のプレシーズンで右膝を負傷し、重傷の恐れがあるとESPNが報じた。球団内では長期離脱を懸念する声が出ている。",
+    date: "2026.10.11",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "412-tatum-23-points-76ers-preseason.html",
     cat: "NBA",
     title: "テイタム、76ers戦で23得点 —— プレシーズンでセルティックスが144-106と大勝",
