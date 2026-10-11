@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:55:23+09:00",
+  "updated": "2026-10-11T21:56:05+09:00",
   "items": [
     {
       "id": "134",
@@ -8814,6 +8814,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ケナード、スパーズ戦で20得点\n\n・FG8/15・3P4/10の高確率で20得点\n・ターンオーバーはゼロ、プラスマイナス+11\n・サンズが102-98でスパーズとの接戦を制す\n\n💬 ケナードのこのシュート力、レギュラーシーズンでも続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Suns vs. Spurs・2026年10月10日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "416",
+      "slug": "416-smart-20-points-mavericks-macau",
+      "category": "NBA",
+      "date": "2026-10-11",
+      "headline": "スマート、マーベリックス戦で20得点",
+      "excerpt": "ヒューストン・ロケッツのマーカス・スマートは現地時間10月11日、中国・マカオで行われたNBAチャイナゲームのプレシーズン第2戦、ダラス・マーベリックス戦に先発出場し、24分の出場で20得点5リバウンド4アシストを記録した。ロケッツは115-132で敗れ、カードは1勝1敗となった。",
+      "points": [
+        "FG7/13・3P4/9の高確率で20得点",
+        "ターンオーバーは1つ、プラスマイナス+4",
+        "ロケッツは115-132で敗れ、カードは1勝1敗に"
+      ],
+      "source": "ESPN ボックススコア（Rockets vs. Mavericks・NBAチャイナゲーム第2戦・2026年10月11日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/416-smart-20-points-mavericks-macau.html",
+      "hero_path": "",
+      "subject": [
+        "Marcus Smart"
+      ],
+      "question": "ロケッツ、開幕までにベンチの底上げはできる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "MARCUS SMART",
+        "opponent": "vs. MAVERICKS",
+        "points": 20,
+        "stats": [
+          "5 REB",
+          "4 AST",
+          "7/13 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/416-1.jpg",
+        "https://sixten.jp/assets/ig/416-2.jpg",
+        "https://sixten.jp/assets/ig/416-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-11T21:55:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "スマート、マーベリックス戦で20得点\n\n・FG7/13・3P4/9の高確率で20得点\n・ターンオーバーは1つ、プラスマイナス+4\n・ロケッツは115-132で敗れ、カードは1勝1敗に\n\n💬 ロケッツ、開幕までにベンチの底上げはできる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Rockets vs. Mavericks・NBAチャイナゲーム第2戦・2026年10月11日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
