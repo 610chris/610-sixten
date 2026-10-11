@@ -995,6 +995,33 @@
   "product": "REELS",
   "timestamp": "2022-10-30T09:59:13+0000"
  },
+ "17958625773229207": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "403",
+  "auto": true,
+  "caption_len": 364,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "シェングン、22分でトリプルダブル",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUEKyVj2om/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア／Eurohoops",
+  "subject": [
+   "Alperen Sengun"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-10T12:18:04+0000"
+ },
  "17959619573078707": {
   "auto": false,
   "caption_len": 76,
@@ -2384,6 +2411,62 @@
   "template": "news",
   "timestamp": "2026-09-29T11:32:56+0000"
  },
+ "18112668224125474": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "404",
+  "auto": true,
+  "caption_len": 301,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ニックス、タウンズ&ハートの延長交渉を一時中断",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUIZftFe-o/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Karl-Anthony Towns",
+   "Josh Hart"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-10T12:55:06+0000"
+ },
+ "18113385668014087": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "407",
+  "auto": true,
+  "caption_len": 303,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハリバートン「ダミアンとの関係、取り戻したい」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUJCQ-E8qQ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Tyrese Haliburton",
+   "Damian Lillard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-10T13:00:46+0000"
+ },
  "18113664545157730": {
   "article": "364",
   "auto": true,
@@ -2542,6 +2625,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-02T16:12:39+0000"
+ },
+ "18122254420940299": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "402",
+  "auto": true,
+  "caption_len": 342,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチ、キングス戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUD-ZbFWNv/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア／Lakers Nation",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-10T12:16:34+0000"
  },
  "18122444693514814": {
   "article": "283",
@@ -3038,6 +3148,33 @@
   "template": "news",
   "timestamp": "2026-10-03T17:32:47+0000"
  },
+ "18145619362530502": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "410",
+  "auto": true,
+  "caption_len": 391,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウォリアーズ、ポジェムスキーと5年1.1億ドルで契約延長",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUerWiAczR/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Warriors give Brandin Podziemski 5-year, $110M extension」",
+  "subject": [
+   "Brandin Podziemski"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-10T16:09:54+0000"
+ },
  "18146126653590325": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -3215,6 +3352,33 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:12:49+0000"
  },
+ "18179891341435156": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "401",
+  "auto": true,
+  "caption_len": 362,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、クリッパーズ初戦で21得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUDxzdlPeF/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア／Honolulu Star-Advertiser",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-10T12:14:51+0000"
+ },
  "18186313264239742": {
   "auto": false,
   "caption_len": 85,
@@ -3306,6 +3470,33 @@
   "product": "REELS",
   "timestamp": "2022-03-07T15:16:42+0000"
  },
+ "18198214537379463": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "406",
+  "auto": true,
+  "caption_len": 307,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エンビード、レブロン「叱責」報道を否定",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUI2XREVZY/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Joel Embiid"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-10T12:59:06+0000"
+ },
  "18205033258374116": {
   "article": "326",
   "auto": true,
@@ -3375,6 +3566,31 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-09-30T14:08:33+0000"
+ },
+ "18220589206329916": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "405",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ESPNが開幕前「全30チーム診断」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUIlALCaiZ/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-10T12:56:46+0000"
  },
  "18235490149098791": {
   "auto": false,
@@ -3639,5 +3855,32 @@
   ],
   "template": "news",
   "timestamp": "2026-09-30T15:59:45+0000"
+ },
+ "18639136969061556": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "408",
+  "auto": true,
+  "caption_len": 332,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェストブルック「2028年LA五輪の聖火ランナーになりたい」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeUJON8CYoO/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN",
+  "subject": [
+   "Russell Westbrook"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-10T13:02:25+0000"
  }
 }
