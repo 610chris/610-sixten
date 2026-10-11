@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "412-tatum-23-points-76ers-preseason.html",
+    cat: "NBA",
+    title: "テイタム、76ers戦で23得点 —— プレシーズンでセルティックスが144-106と大勝",
+    excerpt: "ボストン・セルティックスのジェイソン・テイタムは現地時間10月10日、本拠地TD Gardenで行われたプレシーズンのフィラデルフィア・76ers戦に先発し、27分の出場で23得点5リバウンド4アシストを記録した。セルティックスは144-106で大勝した。",
+    date: "2026.10.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "411-hachimura-kawamura-raptors-vancouver.html",
     cat: "NBA",
     title: "八村塁が14得点、河村勇輝はプラマイ+12 —— クリッパーズ、バンクーバーのラプターズ戦でプレシーズン初黒星",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T11:01:23+09:00",
+  "updated": "2026-10-11T11:59:07+09:00",
   "items": [
     {
       "id": "134",
@@ -8629,6 +8629,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "八村塁14得点、河村勇輝+12 —— ラプターズ戦で初黒星\n\n・八村塁は19分出場でチーム最多14得点、FT7/7\n・河村勇輝は14分出場で10得点4アシスト、チーム最高+12\n・クリッパーズはバンクーバーでラプターズに106-114、プレシーズン初黒星\n\n💬 八村と河村、今日の活躍はどっちが印象的だった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "412",
+      "slug": "412-tatum-23-points-76ers-preseason",
+      "category": "NBA",
+      "date": "2026-10-11",
+      "headline": "テイタム、76ers戦で23得点",
+      "excerpt": "ボストン・セルティックスのジェイソン・テイタムは現地時間10月10日、本拠地TD Gardenで行われたプレシーズンのフィラデルフィア・76ers戦に先発し、27分の出場で23得点5リバウンド4アシストを記録した。セルティックスは144-106で大勝した。",
+      "points": [
+        "27分出場で23得点5リバウンド4アシスト",
+        "FG9/19・3P4/10、+/-は+19",
+        "セルティックスは144-106で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/412-tatum-23-points-76ers-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "テイタムとドンチッチ、今プレシーズン好調なのはどっち？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. 76ERS",
+        "points": 23,
+        "stats": [
+          "5 REB",
+          "4 AST",
+          "9/19 FG",
+          "4/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/412-1.jpg",
+        "https://sixten.jp/assets/ig/412-2.jpg",
+        "https://sixten.jp/assets/ig/412-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-11T11:59:01+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "テイタム、76ers戦で23得点\n\n・27分出場で23得点5リバウンド4アシスト\n・FG9/19・3P4/10、+/-は+19\n・セルティックスは144-106で大勝\n\n💬 テイタムとドンチッチ、今プレシーズン好調なのはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
