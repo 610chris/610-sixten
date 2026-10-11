@@ -1,8 +1,73 @@
 {
- "updated_utc": "2026-10-11 09:16 UTC",
+ "updated_utc": "2026-10-11 15:56 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-cleveland-cavaliers-game-preview-injury-report-20261011",
+   "url": "https://www.nba.com/magic/news/orlando-magic-cleveland-cavaliers-game-preview-injury-report-20261011",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-cleveland-cavaliers-game-preview-injury-report-20261011",
+   "title": "Orlando Magic at Cleveland Cavaliers: Preseason Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-11T14:12:12Z",
+   "tags": [
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "The Orlando Magic’s preseason road slate is about to come to an end just as quickly as it started.",
+   "facts": [
+    "The Magic will play their final contest away from the Kia Center this preseason when they visit the Cleveland Cavaliers on Sunday at 6:30 p.m.",
+    "The team will attempt to put forth a similar showing before returning to the City Beautiful for their final two preseason games of their 2026 campaign – outings against the Cavs and Miami Heat.",
+    "The Magic gave much of their first unit the second half off against the Grizzlies and provided opportunity for two-way players and others expected to end up in Osceola down the stretch.",
+    "Cavs guard James Harden did not play in Cleveland’s preseason opener, a 124-113 home loss to the Boston Celtics.",
+    "However, Donovan Mitchell, Jarrett Allen and Evan Mobley all saw 17 minutes of action.",
+    "Former Magic first round pick Mario Hezonja, who’s worked his way back into the NBA, saw 17 minutes of burn off the bench for the Cavs, and notched five points, five rebounds and three assists.",
+    "Orlando dished out a whopping 18 dimes before halftime, with playmakers Franz Wagner (seven) and Paolo Banchero (five) accounting for a dozen of them.",
+    "The 18 assists would have been tied for the third-most first-half dimes by the Magic last season."
+   ],
+   "quotes": [
+    "It’s good to see carryover from practice and training camp into the preseason,",
+    "Obviously, it’s preseason. So, still waiting for the real thing. But the carryover is good to see. Us taking what we’re doing in the practices and training camp and applying it to a real game.",
+    "For a first game with a new system and a new coaching staff, it was pretty good,",
+    "Guys really bought into it. We really tried to execute. It wasn’t perfect. It never will be. But it was some good steps. Just have to continue to work it every day and continue to improve."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/irvings-triumphant-return-highlights-mavericks-win-over-rockets",
+   "url": "https://www.nba.com/mavs/news/irvings-triumphant-return-highlights-mavericks-win-over-rockets",
+   "canonical_url": "https://mavs.com/mavs/news/irvings-triumphant-return-highlights-mavericks-win-over-rockets",
+   "title": "Irving's triumphant return powers Mavericks to win over Rockets",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-11T13:10:41Z",
+   "tags": [],
+   "summary": "It took exactly 14 seconds for Kyrie Irving to put the long, grueling recovery process from knee surgery in his rear-view mirror.",
+   "facts": [
+    "It took exactly 14 seconds for Kyrie Irving to put the long, grueling recovery process from knee surgery in his rear-view mirror.",
+    "Irving had a triumphant return to NBA action on Sunday morning 8,100 miles from Dallas.",
+    "The Mavericks got what they needed most out of this trip – a successful unveiling of the Coop and Kai show – and capped it with a 132-115 preseason win over the Rockets.",
+    "And so, the Mavericks got a split of the exhibitions in Macao after losing on Friday by 18 points.",
+    "They will return home and try to get over the jet lag fast enough to play the New Orleans Pelicans at 7 p.m.",
+    "The 6-2 guard finished with 17 points, leading six Mavericks in double figures, and three assists.",
+    "He hit 2-of-6 three-pointers, including one when the Mavericks were up against the shot clock.",
+    "His impact with Cooper Flagg (14 points, seven assists) was undeniable."
+   ],
+   "quotes": [
+    "As an organization, we’re very grateful for this opportunity, what a great event,",
+    "So much energy. Secondly, to be able to come over here and learn a lot about your team like we were able to do was a real benefit as we get into the regular season in a week or so.",
+    "It’s just impressive, his physical condition and his mental condition,",
+    "I think guys like he and Coop, their gravity, the leverage they provide, makes everyone else exponentially better. Every single player on our roster we put on the floor with those guys have better opp…"
+   ]
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -287,6 +352,29 @@
    "quotes": []
   },
   {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-orlcle-261011",
+   "url": "https://www.nba.com/cavaliers/news/preview-orlcle-261011",
+   "canonical_url": "https://cavs.com/news/preview-orlcle-261011",
+   "title": "Cavs vs Magic, Preseason Game 2 | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-10T15:46:39Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "It's the first of two straight tune-ups against the Orlando Magic tonight. The next meeting comes on Tuesday evening in Florida for the Cavs only road preseason game this year.",
+   "facts": [
+    "Jaylon Tyson led the way with 14 while Donovan Mitchell, Meleek Thomas, and Tristan Enaruna recorded double figures.",
+    "Craig Porter Jr. recorded 10 assists in the loss.",
+    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -TBD Magic: -TBD KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @Ser…"
+   ],
+   "quotes": []
+  },
+  {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
    "team_ja": "ブルズ",
@@ -436,7 +524,7 @@
    ],
    "quotes": [
     "Obviously, it’s a different experience, a different opportunity to travel all the way over here and get adjusted to the time and everything, but I felt good,",
-    "I thought it was a very, very fun experience and a great experience.",
+    "Obviously, the crowd, they were really into the game and very loud, so it gave us a lot of energy. I thought it was a very, very fun experience and a great experience.",
     "Conditioning is going great,",
     "I feel like I’m still unlocking things in my instincts. Practices do wonders. But the game can’t be re-created. I’m excited to get out there and play in front of these great fans here and continue to …"
    ]
@@ -757,159 +845,6 @@
     "Alex Morales had a team high 10 rebounds with four points, two assists, one steal and one block."
    ],
    "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-heat-10-8-2026",
-   "url": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-heat-10-8-2026",
-   "canonical_url": "https://pelicans.com/news/behind-the-numbers-pelicans-at-heat-10-8-2026",
-   "title": "Behind the Numbers: Pelicans at Heat (10/8/2026)",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-08T15:03:29Z",
-   "tags": [],
-   "summary": "A look at three key numbers related to Thursday’s game in Kaseya Center between New Orleans and Miami (6:30 p.m. Central, GCSEN on TV; WWL on radio):",
-   "facts": [
-    "A look at three key numbers related to Thursday’s game in Kaseya Center between New Orleans and Miami (6:30 p.m.",
-    "Central, GCSEN on TV; WWL on radio): 53-23: New Orleans scoring advantage over Oklahoma City during the final 18:21 of Tuesday’s preseason opener, turning a 24-point third-quarter deficit into a six-point triumph for the…",
-    "That Pelicans surge was primarily generated by reserves, with Saddiq Bey leading everyone with a plus-20 during his 20 minutes of action.",
-    "In fact, the Pelicans won the minutes of all 11 players who came off the bench against the Thunder, partly by holding the hosts to just 17 fourth-quarter points.",
-    "Bennedict Mathurin topped New Orleans in scoring (13 points, also had five assists) in a modest 17 minutes of action, while Jeremiah Fears (12 points) and Derik Queen (10 points, nine rebounds, three steals) each began t…",
-    "That’s approaching double what the Pelicans averaged during the 2025-26 regular season (25.7, sixth-most in the NBA).",
-    "Oklahoma City only attempted 21 foul shots, giving New Orleans a big edge in that category – the aggressive Pelicans scored 20 more points on charity tosses, going 34/47 (72 percent), compared to the Thunder’s night of 1…",
-    "The constant parade to the foul line was a group effort by New Orleans, as 14 of the 16 players who logged minutes made a least one trip there."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-rockets-preview-ready-for-a-shock-to-the-system",
-   "url": "https://www.nba.com/mavs/news/mavericks-rockets-preview-ready-for-a-shock-to-the-system",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-rockets-preview-ready-for-a-shock-to-the-system",
-   "title": "Mavericks-Rockets preview: ready for a 'shock to the system'",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-08T15:00:00Z",
-   "tags": [],
-   "summary": "For the Mavericks, it’s finally time to play basketball against somebody other than the Mavericks.",
-   "facts": [
-    "About 8,100 miles from Dallas, they’ll open the preseason Friday morning (7 a.m., mavs.com/chinagames) against the Houston Rockets.",
-    "It’s the NBA’s China Games 2026 at Venetian Arena.",
-    "Kyrie Irving will be making his return after recovering from a torn ACL on March 3, 2025.",
-    "They have someone returning themselves as Fred VanVleet tries to come back after missing all of last season with a torn ACL.The Mavericks have games against the Rockets Friday and Sunday, then will return home without mu…",
-    "Dallas Mavericks WHEN: Friday, 7 a.m.",
-    "Dallas time WHERE: Venetian Arena, Macao, China TV: Mavs.com/chinagames RADIO: 105.3 The Fan (delayed broadcast, 7:30 p.m.) X: @ESefko"
-   ],
-   "quotes": [
-    "We’re still learning a lot about ourselves,",
-    "Sometimes, during an offseason, you almost forget how difficult it is to win a possession, let alone a game. This should shock our systems and get us prepared to hopefully play championship-level bask…",
-    "Houston’s going to be a tough test,",
-    "They play fast, they play hard, they play tough, they crash the glass. They do a lot of things you think you want to ease into. This is going to shock us a little. And I think we’ll do the same to the…"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "quotes",
-   "key": "https://www.nba.com/magic/news/3-key-storylines-from-orlando-magics-win-over-memphis-grizzlies-20261008",
-   "url": "https://www.nba.com/magic/news/3-key-storylines-from-orlando-magics-win-over-memphis-grizzlies-20261008",
-   "canonical_url": "https://orlandomagic.com/news/3-key-storylines-from-orlando-magics-win-over-memphis-grizzlies-20261008",
-   "title": "3 Key Storylines From Orlando Magic’s Win Over Memphis Grizzlies",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-08T14:45:37Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Storylines",
-    "Team News"
-   ],
-   "summary": "What’s always made 6-foot-10 forwards Paolo Banchero and Franz Wagner special is their ability to break down defenses using their blend of size, guard-like ball skills, court vision, and passing instincts. This enables the Magic, now with Sean Sweeney at the helm, to be creative and flexible with their offensive sets. While it was just one preseason game, Paolo and Franz were both on their A-games…",
-   "facts": [
-    "Paolo & Franz’s Playmaking What’s always made 6-foot-10 forwards Paolo Banchero and Franz Wagner special is their ability to break down defenses using their blend of size, guard-like ball skills, court vision, and passin…",
-    "Possession after possession, they each got downhill, collapsed the defense, and found open teammates, primarily out beyond the 3-point line.",
-    "They combined to dish out 12 assists in one half of action.",
-    "Great Shooting a Product of Great Ball Movement & Spacing The Magic on Wednesday knocked down 20 of their 45 3-point attempts (44.4 percent).",
-    "Another big key was the 3-point shooting accuracy of Orlando’s stretch fives.",
-    "Last season, he made just a shade under 37 percent of his catch-and-shoot threes off relocation or while on the move.",
-    "He had five of them Wednesday, including one that led to him making a putback layup with 13.9 seconds left to extend Orlando’s lead to four."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/caleb-wilson-scores-15-points-in-bulls-preseason-debut-win-over-phoenix",
-   "url": "https://www.nba.com/bulls/news/caleb-wilson-scores-15-points-in-bulls-preseason-debut-win-over-phoenix",
-   "canonical_url": "https://bulls.com/news/caleb-wilson-scores-15-points-in-bulls-preseason-debut-win-over-phoenix",
-   "title": "Caleb Wilson scores 15 points in Bulls preseason debut win over Phoenix",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-08T12:25:42Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "Michael Jordan scored 18 points in a victory in his first preseason game with the Bulls. Derrick Rose scored 10 points in a loss in his first preseason game as a Bull.",
-   "facts": [
-    "Michael Jordan scored 18 points in a victory in his first preseason game with the Bulls.",
-    "Derrick Rose scored 10 points in a loss in his first preseason game as a Bull.",
-    "Bulls rookie Caleb Wilson who we are certainly celebrating — and hoping becomes a next — maybe found a sweet spot among Bulls legends on Wednesday with a team-high 15 points in his first Bulls preseason game, a 124-117 w…",
-    "It’s great getting (the first game) under my belt and I’m excited for the rest of the 87 games I have to play.",
-    "He and many other Suns became physical and pressuring, causing the Bulls to commit 14 first half turnovers in falling behind by 15 points.",
-    "But he was unsteady shooting — he and Matas Buzelis were a combined zero for 10 on threes — he didn’t much get involved with rebounding and never quite found a comfort zone for scoring.",
-    "That he still had a team-most 15 points suggests he’s a natural scorer who’ll find ways to accumulate points.",
-    "He played just 14 minutes — all in the first half — and had 14 points on just four field goal attempts, all threes."
-   ],
-   "quotes": [
-    "Wild being in the NBA and having my uniform on,",
-    "They were physical and picking up full court, and you just got to embrace that physicality and be aggressive,",
-    "The combination of strength and will power,",
-    "That guy is going for every rebound. Even the whole summer and tonight was another demonstration of that."
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "quotes",
-   "key": "https://www.nba.com/pistons/news/mailbag-thursday-oct-8",
-   "url": "https://www.nba.com/pistons/news/mailbag-thursday-oct-8",
-   "canonical_url": "https://pistons.com/news/mailbag-thursday-oct-8",
-   "title": "MAILBAG: THURSDAY, Oct. 8",
-   "author": "Keith Langlois",
-   "published_utc": "2026-10-08T11:59:25Z",
-   "tags": [
-    "ausar thompson",
-    "Cade Cunningham",
-    "mailbag"
-   ],
-   "summary": "Ausar Thompson’s expanded role, Ebuka Okorie and Chaz Lanier pushing for roles, the impact expected from John Collins and a whole lot more in the latest edition of Pistons Mailbag:",
-   "facts": [
-    "Ausar Thompson’s expanded role, Ebuka Okorie and Chaz Lanier pushing for roles, the impact expected from John Collins and a whole lot more in the latest edition of Pistons Mailbag: @icedbrew2/bsky: The thing I’m most cur…",
-    "It’s one game and Thompson only logged 18 minutes, the first half or so of them alongside Cunningham.",
-    "Yes, I am comfortable saying Bickerstaff would like to get Cunningham off the ball for stretches for a few reasons – to diversify the offense, to allow Cunningham to get the ball on the move so defenses can’t load to him…",
-    "He didn’t do it all that often, but he seems a very different and more confident shooter from 12 to 16 feet, roughly, than beyond that.",
-    "He had two assists in his 18 minutes, but at least two more of his passes led to would-be layups that resulted in shooting fouls and at least a few others created great scoring chances that weren’t immediately cashed in.",
-    "We know that because they aggressively moved up from 21 to 17 – swapping the same three second-round picks they got back from Memphis in the Isaiah Stewart trade following the draft – to take him.",
-    "But he’s a rookie – and a 19-year-old rookie with one year of college basketball under his belt and not the same type of high-end experience that many of the one-and-done teens bring to the NBA.",
-    "And if it comes to it, Bickerstaff will find a way to play both of them. @Johnny_Junya83/X: Do you think Ebuka could see more minutes with the second unit?"
-   ],
-   "quotes": [
-    "We have depth and depth can be a weapon for us. That’s our thought process. Can we play 10, 11 guys and wear you down? If you want to play your eight or nine, can we exhaust those eight or nine guys s…",
-    "I’m a big fan of Chaz’s game. I enjoyed working with him a bunch last year. I’d always try to stay in his ear about being aggressive. It was really fun to watch him take that step in Summer League. It…"
-   ]
   }
  ]
 }
