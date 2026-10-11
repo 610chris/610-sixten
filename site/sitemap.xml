@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sixten.jp/</loc><lastmod>2026-10-11</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-10-11</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-10-12</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
   <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-10-09</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-10-10</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sixten.jp/journal/417-towns-knicks-news-to-me.html</loc><lastmod>2026-10-12T05:32:55+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/416-smart-20-points-mavericks-macau.html</loc><lastmod>2026-10-11T21:52:59+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/415-kennard-20-points-suns-preseason.html</loc><lastmod>2026-10-11T14:54:14+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/414-kawamura-10-points-plus12-raptors.html</loc><lastmod>2026-10-11T12:40:12+09:00</lastmod><priority>0.8</priority></url>

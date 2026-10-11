@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>タウンズ「初耳だった」—— ニックスの契約延長保留発表に「かなり残念」</title>
+      <link>https://sixten.jp/journal/417-towns-knicks-news-to-me.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/417-towns-knicks-news-to-me.html</guid>
+      <pubDate>Mon, 12 Oct 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>ニューヨーク・ニックスのカール=アンソニー・タウンズ(Karl-Anthony Towns)は11日(現地時間)、球団が契約延長交渉を開幕まで保留すると発表したことについて「初耳だった」と語った。「かなり残念と言わざるを得ない」とも述べ、落胆をあらわにした。タウンズの延長資格は4年2億7600万ドル超、球団提示は4年総額約2億ドルとされる。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>マーカス・スマート、マーベリックス戦で20得点 —— マカオ第2戦でロケッツが115-132、カードは1勝1敗に</title>
       <link>https://sixten.jp/journal/416-smart-20-points-mavericks-macau.html</link>
@@ -268,15 +277,6 @@
       <category>KICKS</category>
       <description>ジョーダン ブランドは、映画『スペース・ジャム』30周年を記念したコレクションを拡大。Air Jordan 11「Space Jam Laser」は一般発売のない関係者限定仕様で、Air Jordan 1 Low「Lola Bunny」(品番IX6038-100)は2026年ホリデー、Air Jordan 1 Mid「Space Jam Hare」は11月5日に発売される。Sneaker News、Sneaker Bar Detroit、Sneaker Filesが伝えた。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>エージェントベース、レバンガ北海道とオフィシャルダイヤモンドパートナー契約 —— 10月10日の千葉ジェッツ戦を冠試合に</title>
-      <link>https://sixten.jp/journal/387-agentbase-levanga-hokkaido-diamond-partner.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/387-agentbase-levanga-hokkaido-diamond-partner.html</guid>
-      <pubDate>Fri, 09 Oct 2026 09:00:00 +0900</pubDate>
-      <category>JAPAN</category>
-      <description>北海道札幌市のAI・Salesforce支援企業エージェントベースは、B.LEAGUE PREMIER所属のレバンガ北海道と2026-27シーズンのオフィシャルダイヤモンドパートナー契約を締結したと発表した。10月10日の千葉ジェッツ戦を冠試合「エージェントベース presents」として北海きたえーるで開催する。</description>
-      <enclosure url="https://sixten.jp/assets/journal-387-hero.jpg?v=2efe8aeb55" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
