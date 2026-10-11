@@ -1,8 +1,27 @@
 {
- "updated_utc": "2026-10-11 15:56 UTC",
+ "updated_utc": "2026-10-11 20:32 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "SAC 公式（nba.com）",
+   "team": "SAC",
+   "team_ja": "キングス",
+   "team_id": 1610612758,
+   "kind": "injury",
+   "key": "https://www.nba.com/kings/news/maxime-raynaud-medical-update",
+   "url": "https://www.nba.com/kings/news/maxime-raynaud-medical-update",
+   "canonical_url": "https://kings.com/news/maxime-raynaud-medical-update",
+   "title": "Maxime Raynaud Medical Update",
+   "author": "Official Release",
+   "published_utc": "2026-10-11T19:35:19Z",
+   "tags": [],
+   "summary": "Sacramento Kings center Maxime Raynaud, who exited Saturday night’s preseason game against the Golden State Warriors with 2:32 remaining in the second quarter, underwent an MRI of his right knee. Imaging revealed a right patellar subluxation. Raynaud will be reevaluated in approximately two weeks and further updates will be provided as appropriate.",
+   "facts": [
+    "Sacramento Kings center Maxime Raynaud, who exited Saturday night’s preseason game against the Golden State Warriors with 2:32 remaining in the second quarter, underwent an MRI of his right knee."
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -57,15 +76,15 @@
     "The Mavericks got what they needed most out of this trip – a successful unveiling of the Coop and Kai show – and capped it with a 132-115 preseason win over the Rockets.",
     "And so, the Mavericks got a split of the exhibitions in Macao after losing on Friday by 18 points.",
     "They will return home and try to get over the jet lag fast enough to play the New Orleans Pelicans at 7 p.m.",
-    "The 6-2 guard finished with 17 points, leading six Mavericks in double figures, and three assists.",
     "He hit 2-of-6 three-pointers, including one when the Mavericks were up against the shot clock.",
-    "His impact with Cooper Flagg (14 points, seven assists) was undeniable."
+    "His impact with Cooper Flagg (14 points, seven assists) was undeniable.",
+    "With 9:25 on the clock, he got a defensive rebound and quickly whipped a pass upcourt to P.J."
    ],
    "quotes": [
     "As an organization, we’re very grateful for this opportunity, what a great event,",
     "So much energy. Secondly, to be able to come over here and learn a lot about your team like we were able to do was a real benefit as we get into the regular season in a week or so.",
-    "It’s just impressive, his physical condition and his mental condition,",
-    "I think guys like he and Coop, their gravity, the leverage they provide, makes everyone else exponentially better. Every single player on our roster we put on the floor with those guys have better opp…"
+    "I’m grateful Dusty called the first play for me. I had my mind made up to attack. I saw Jabari switch, so I was just trying to take advantage of the matchup. It felt good to get that out of the way. I…",
+    "It’s just impressive, his physical condition and his mental condition,"
    ]
   },
   {
@@ -733,118 +752,6 @@
     "He gives such a wide target for the guys to throw it into,",
     "He’s got great timing and also has soft hands. I think he’s going to be a great weapon for all of our guards in the pick-and-roll."
    ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/irving-itching-to-introduce-mavericks-fans-to-his-pairing-with-flagg",
-   "url": "https://www.nba.com/mavs/news/irving-itching-to-introduce-mavericks-fans-to-his-pairing-with-flagg",
-   "canonical_url": "https://mavs.com/mavs/news/irving-itching-to-introduce-mavericks-fans-to-his-pairing-with-flagg",
-   "title": "Irving itching to introduce Mavericks' fans to his pairing with Flagg",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-08T20:18:07Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "Dusty May might be new to the NBA, but his abundance of basketball wisdom already is serving the Mavericks well.",
-   "facts": [
-    "May said during Thursday’s media-day interviews for the NBA’s China Games 2026 that he’ll be working with a “limited roster,” and that Kyrie Irving’s return from 19 months recuperating from knee surgery will be restricte…",
-    "Regardless of whether it is Friday (7 a.m. tip, Dallas time) or Sunday (5 a.m. tip), Irving will get on the court for the first time in 19 months and he will do so with Cooper Flagg.",
-    "It’s a union that everybody connected with the Mavericks has been eager to see ever since Flagg was the No. 1 overall pick in 2025."
-   ],
-   "quotes": [
-    "We’ll have a limited roster, even with Kyrie,",
-    "He’s going to play one game here. We still haven’t decided which one. Based on how his body feels, especially with the jet lag and things like that. It’s still inconclusive at this time. We’re working…",
-    "It was definitely a grueling process at times,",
-    "I did have a moment in December where I did have a setback and put me out for about eight weeks. I had a grade-two calf strain that was crazy and pushed my timeline back even more."
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/countdown-to-tip-off-76ers-unveil-blue-week-fan-experiences-ahead-of-home-opener",
-   "url": "https://www.nba.com/sixers/news/countdown-to-tip-off-76ers-unveil-blue-week-fan-experiences-ahead-of-home-opener",
-   "canonical_url": "https://sixers.com/news/countdown-to-tip-off-76ers-unveil-blue-week-fan-experiences-ahead-of-home-opener",
-   "title": "COUNTDOWN TO TIP-OFF: 76ERS UNVEIL BLUE WEEK FAN EXPERIENCES AHEAD OF HOME OPENER",
-   "author": "76ers PR",
-   "published_utc": "2026-10-08T18:45:00Z",
-   "tags": [],
-   "summary": "The road to opening night starts with Blue Week. Beginning Oct. 13, the Philadelphia 76ers will launch a nine-day celebration designed to build momentum and unite fans across the region ahead of the team's home opener against Cleveland on Oct. 22. Featuring exclusive ticket and jersey giveaways, surprise fan moments, an energy-filled T-shirt bus tour across the city, all culminating with a season …",
-   "facts": [
-    "Beginning Oct. 13, the Philadelphia 76ers will launch a nine-day celebration designed to build momentum and unite fans across the region ahead of the team's home opener against Cleveland on Oct. 22.",
-    "Featuring exclusive ticket and jersey giveaways, surprise fan moments, an energy-filled T-shirt bus tour across the city, all culminating with a season tip-off party at Stateside Live! where fans can watch the 76ers make…",
-    "Knicks on Tuesday, Oct. 20.",
-    "Check out Sixers.com for the official Blue Week landing page, outlining the planned events, and 76ers social media accounts for specific information.",
-    "Schedule Information Season Hype Street Art (Tuesday, October 13) To celebrate the start of the 2026-27 Philadelphia 76ers season, street artist Nero will place art installations across various neighborhoods throughout t…",
-    "Xfinity NBA Tip-Off Event (Thursday, October 15, from 5:00 – 8:00 p.m.) Xfinity and the Philadelphia 76ers will turn the Xfinity Store, located at 1429 Walnut Street in Center City Philadelphia, into a fan destination fe…",
-    "Fans can sign up for Xfinity services on-site. 76ers T-Shirt Toss Bus Tour (Friday, October 16, starting at 11:00 a.m.) The Philadelphia 76ers will take fandom on the road across Philadelphia with a bus tour, giving away…",
-    "The bus will make the following stops (Times are subject to change): 11:00 a.m. 2600 Penrose Avenue 11:45 a.m."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "feature",
-   "key": "https://www.nba.com/timberwolves/news/timberwolves-and-lynx-name-jamie-morningstar-as-new-chief-commercial-officer",
-   "url": "https://www.nba.com/timberwolves/news/timberwolves-and-lynx-name-jamie-morningstar-as-new-chief-commercial-officer",
-   "canonical_url": "https://timberwolves.com/news/timberwolves-and-lynx-name-jamie-morningstar-as-new-chief-commercial-officer",
-   "title": "Timberwolves and Lynx Name Jamie Morningstar as New Chief Commercial Officer",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-10-08T17:55:45Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "New leadership role will oversee ticket sales & service, corporate partnerships and marketing, with a focus on driving revenue growth and scaling the business",
-   "facts": [
-    "Morningstar comes to the Twin Cities after spending the last 5-plus years as SVP, Ticketing at Madison Square Garden Sports.",
-    "While guiding one of the largest ticketing and premium businesses in global sports and entertainment, she helped generate more than $600 million in annual revenue and led a team of more than 130 professionals across tick…",
-    "Working closely with executive leadership on enterprise commercial strategy and revenue growth initiatives, Morningstar helped increase ticketing and premium revenue by $163 million, or 39 percent, since 2021.",
-    "Morningstar was named a Sports Business Journal Game Changers honoree and a Milwaukee Business Journal Women of Influence honoree in 2019.",
-    "The appointment is effective October 19."
-   ],
-   "quotes": [
-    "We are thrilled to add a leader of Jamie’s caliber to our organization,"
-   ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/magic-win-grizzlies-preseason-home-opener-122-118",
-   "url": "https://www.nba.com/grizzlies/news/magic-win-grizzlies-preseason-home-opener-122-118",
-   "canonical_url": "https://grizzlies.com/news/magic-win-grizzlies-preseason-home-opener-122-118",
-   "title": "MAGIC WIN GRIZZLIES’ PRESEASON HOME OPENER 122-118",
-   "author": "memjcochran",
-   "published_utc": "2026-10-08T16:57:54Z",
-   "tags": [
-    "Postgame Report"
-   ],
-   "summary": "MEMPHIS, Tenn. (Oct. 7, 2026) - The Memphis Grizzlies (1-1) were defeated 122-118 by the Orlando Magic (1-0) at FedExForum in the team's preseason home opener.",
-   "facts": [
-    "MEMPHIS, Tenn. (Oct. 7, 2026) - The Memphis Grizzlies (1-1) were defeated 122-118 by the Orlando Magic (1-0) at FedExForum in the team's preseason home opener.",
-    "Ty Jerome led the Grizzlies in scoring with 17 points on 7-for-14 shooting in 19 minutes.",
-    "Cameron Boozer finished with 16 points, six rebounds and two assists in his preseason home debut.",
-    "Jackson added 15 points and six rebounds, and Taylor Hendricks finished with 12 points on 5-of-7 shooting.",
-    "Zach Edey logged 10 minutes in his preseason debut.",
-    "Tristan de Silva led the Magic in scoring with 19 points off the bench.",
-    "Jamal Cain added 15 points with two rebounds and one assist in 22 minutes off the bench.",
-    "Alex Morales had a team high 10 rebounds with four points, two assists, one steal and one block."
-   ],
-   "quotes": []
   }
  ]
 }
