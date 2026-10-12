@@ -1,0 +1,50 @@
+name: Threads insights daily
+# Threads 速報（@muwe.c）の反応（見られた回数・いいね・返信・再投稿・引用・シェア）を毎日取って
+# journal_auto/growth/threads/data/ に時系列で保存し commit する。週次資料（growth/weekly_deck.py）がこれを読む。
+# 2026-10-12 クリス指示（週次レポートを記事・リール・Threads の3軸に／Threads は毎日データを取って常に把握する）で設置。
+#
+# cron '40 23 * * *' = 毎日 23:40 UTC = JST 8:40（ig-insights の10分後）。
+# トークンは投稿係（threads-post.yml）と同じ Secret THREADS_TOKEN。無ければ何もせず正常終了する。
+# 取得に失敗しても取れたぶんだけ保存して正常終了する（fetch_threads.py が例外を握って警告にする）。
+# commit は GITHUB_TOKEN なので他の workflow は起動しない（deploy.yml も走らない＝サイトは再公開されない）。
+on:
+  schedule:
+    - cron: '40 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: threads-insights
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: journal_auto
+
+      - name: Fetch Threads insights
+        env:
+          THREADS_TOKEN: ${{ secrets.THREADS_TOKEN }}
+        run: python3 journal_auto/growth/threads/fetch_threads.py || echo "::warning::fetch_threads.py が異常終了（取れたぶんは保存済み）"
+
+      - name: Commit data
+        run: |
+          git config user.name "threads-insights"
+          git config user.email "actions@github.com"
+          [ -d journal_auto/growth/threads/data ] && git add journal_auto/growth/threads/data
+          if git diff --cached --quiet; then
+            echo "変化なし — commit しない"
+            exit 0
+          fi
+          git commit -m "threads: 速報の反応計測を更新（$(TZ=Asia/Tokyo date +%F)）"
+          for i in 1 2 3; do
+            git push origin HEAD:main && exit 0
+            git pull --rebase origin main || exit 1
+          done
+          exit 1
