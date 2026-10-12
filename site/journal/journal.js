@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "427-nike-kd-19-halloween.html",
+    cat: "KICKS",
+    title: "Nike KD 19「Halloween」が10月23日発売 —— デュラントの最新シグネチャーに秋限定カラー",
+    excerpt: "ナイキは、ケビン・デュラント（ヒューストン・ロケッツ）のシグネチャーシューズ「Nike KD 19」の新色「Halloween」（品番IO8112-600）を10月23日、ナイキ公式サイトおよび一部取扱店で発売する。価格は170ドル（米国価格）。米スニーカーメディアNice Kicksが伝えた。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "426-jordan-finals-game2-jersey-record.html",
     cat: "NBA",
     title: "ジョーダンの1998年ファイナル第2戦ジャージが1400万ドルで落札 —— バスケ記念品史上最高額を更新",
