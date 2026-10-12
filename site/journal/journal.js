@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "425-cooper-flagg-china-games-ascension.html",
+    cat: "NBA",
+    title: "クーパー・フラッグ、マカオ遠征2試合で33得点10リバウンド10アシスト —— ウィンドホースト記者「進化はもう避けられない」",
+    excerpt: "ダラス・マーベリックスのクーパー・フラッグ(Cooper Flagg)は、中国・マカオで行われたロケッツとのNBAチャイナゲーム2連戦で、合計45分の出場に対し33得点10リバウンド10アシスト3スティール2ブロックを記録した。ESPNのブライアン・ウィンドホースト記者は「フラッグの進化はもう避けられない段階に入っている」と分析している。",
+    date: "2026.10.12",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "424-kyrie-irving-return-macao-quotes.html",
     cat: "NBA",
     title: "アービング「自分らしく、アグレッシブに」—— ACL断裂から586日ぶりの実戦でマカオを沸かす",
