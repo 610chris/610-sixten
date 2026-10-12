@@ -1,8 +1,74 @@
 {
- "updated_utc": "2026-10-11 20:32 UTC",
+ "updated_utc": "2026-10-12 06:27 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hornets-rebound-to-beat-bucks-and-notch-first-preseason-win",
+   "url": "https://www.nba.com/hornets/news/hornets-rebound-to-beat-bucks-and-notch-first-preseason-win",
+   "canonical_url": "https://hornets.com/news/hornets-rebound-to-beat-bucks-and-notch-first-preseason-win",
+   "title": "Hornets Rebound To Beat Bucks And Notch First Preseason Win",
+   "author": "Sam Perley",
+   "published_utc": "2026-10-12T02:08:06Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Coming off a so-so showing in their preseason-opening loss to Brooklyn last Tuesday night, the Charlotte Hornets bounced back in a big way to beat the Milwaukee Bucks, 105-90, on Sunday evening at Spectrum Center.",
+   "facts": [
+    "Coming off a so-so showing in their preseason-opening loss to Brooklyn last Tuesday night, the Charlotte Hornets bounced back in a big way to beat the Milwaukee Bucks, 105-90, on Sunday evening at Spectrum Center.",
+    "Top Performers: Making his preseason debut, Brandon Miller posted a game-high-tying 18 points on 6-of-15 shooting, four 3-pointers, three rebounds and four assists in 23 minutes.",
+    "Naz Reid was right behind him with 16 points on 7-of-14 shooting, Liam McNeeley and Sion James both added 11 points and Moussa Diabate was two points away from a double-double (8 points, 11 rebounds and 2 blocks).",
+    "Tyler Herro paced Milwaukee with 18 points, as well, doing so on 6-of-13 shooting (3-of-6 from 3-point range), while also wrangling a team-high-tying seven rebounds.",
+    "Ryan Rollins and Kyle Kuzma each chipped in 12 points, as the Bucks moved to 1-2 in the preseason with the loss.",
+    "Turning Point: Up two with just under three minutes remaining in the first half, the Hornets uncorked a stifling 13-0 run to cruise into the break with a 60-45 lead.",
+    "Five different players scored during this stretch, which included 3-pointers from James, McNeeley and Royce O’Neale.",
+    "Despite putting the Bucks in the bonus midway through the third quarter, Charlotte still took the frame, 27-22 to extend its cushion to an insurmountable 20 points with just 12 minutes to go."
+   ],
+   "quotes": [
+    "I thought that our defensive intensity and connectivity just went to another level. I really thought our guys tightened the screws. I thought there was a ton of really good possessions defensively, wh…"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-come-up-short-in-second-preseason-game-20261011",
+   "url": "https://www.nba.com/magic/news/orlando-magic-come-up-short-in-second-preseason-game-20261011",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-come-up-short-in-second-preseason-game-20261011",
+   "title": "Orlando Magic Come Up Short in Second Preseason Game",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-12T01:56:02Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Jase Richardson, Tristan da Silva among Magic’s top performers",
+   "facts": [
+    "Through two preseason games, we’ve seen a healthy blend of stuff – ranging from excellent ball movement, spacing, and structure in the game in Memphis, to some relentless perimeter shooting from Tristan da Silva, to some…",
+    "Richardson, who made his second straight start with Jalen Suggs still out with an illness, finished with 12 points on 5-for-9 shooting from the field to go along with four assists, while da Silva, also starting with Desm…",
+    "Aside from Bane and Suggs, Anthony Black (right ankle sprain) and Jonathan Isaac (personal reasons) also did not play.",
+    "James Harden, who signed a new contract with the Cavs over the summer, led Cleveland with 24 points, while Evan Mobley scored 14 and Donovan Mitchell had 13 points.",
+    "Although the Magic struggled in a few areas, including defending without fouling (Cavs took 30 free throws), keeping the Cavs off the offensive glass, turnovers (had 19 of them) and guarding the 3-point line (Cleveland m…",
+    "Orlando accumulated 28 assists on its 37 made floor shots.",
+    "Tip-off is scheduled for 7 p.m."
+   ],
+   "quotes": [
+    "Just trying to be aggressive,",
+    "Try to playmake, but keep in mind that I need to be aggressive, try to get downhill, and the lane kind of opened for me. Just trying to find ways to finish over bigger guys and I found those ways. And…",
+    "We want to do a better job defensively. Scheme execution is a big one, positioning is going to be a big thing,",
+    "Making sure we do a good job with our bodies, making sure we are strong in that sense. Defending without fouling is going to be really important. Offensively, I think we can get back to the running ha…"
+   ]
+  },
   {
    "source": "SAC 公式（nba.com）",
    "team": "SAC",
@@ -608,150 +674,6 @@
     "He scored a season-high 27 points against the Texas Legends on February 1 and posted a 14-point, 11-rebound double-double against the Salt Lake City Stars on January 18."
    ],
    "quotes": []
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-heat-starters-off-to-races-pelicans-giannis-bam-davion",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-heat-starters-off-to-races-pelicans-giannis-bam-davion",
-   "canonical_url": "https://heat.com/news/coups-takeaways-heat-starters-off-to-races-pelicans-giannis-bam-davion",
-   "title": "Coup’s Takeaways: HEAT Regulars Off To The Races For Another One-Half Warmup",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-10-09T02:42:49Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. Another first to check off the list of Giannis Antetokounmpo firsts, this time his first appearance in a HEAT jersey at Kaseya Center, albeit for a preseason game against the New Orleans Pelicans.",
-   "facts": [
-    "If it wasn’t already clear based on last season’s offense and everything we heard out of training camp, this is a team still focused on playing fast and fast plays right into Antetokounmpo’s hands, as he regularly got do…",
-    "By the break Miami was on pace for a game with 116 possessions – a couple degrees faster than they played last season, when they were the fastest team in the league – and 46 fast-break points, which would be an absurd am…",
-    "Another 73-point half for the HEAT, after dropping 76 in Toronto, and a 135.9 Offensive Rating.",
-    "Not too much of note after that, the end of Miami’s preseason roster holding off a Pelicans run, with plenty of energy from Myron Gardner and some shotmaking from Tre Donaldson along the way, as Miami takes it, 128-118, …",
-    "Tonight, the starters remained together for the first six minutes of the game, but unlike in Toronto where a full line shift followed, this time it was just Bobby Portis Jr. coming in for Antetokounmpo, then Antetokounmp…",
-    "For now, it’s just another clue as to what form this team will take. 3."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261008-boscle",
-   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261008-boscle",
-   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261008-boscle",
-   "title": "Keys to the Game: Celtics 124, Cavaliers 113",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-09T02:28:15Z",
-   "tags": [
-    "Game Recap",
-    "Keys to the Game",
-    "Postgame",
-    "Preseason"
-   ],
-   "summary": "Boston opened its preseason in similar fashion to how it closed the previous regular season: with its depth on full display. The Celtics rested their top seven rotation players and were also without Ron Harper Jr., yet their young group had no trouble putting away a Cavaliers squad that featured its regular starters, earning a 124-113 win in Cleveland. It was a familiar formula for the C's, who cl…",
-   "facts": [
-    "The Celtics rested their top seven rotation players and were also without Ron Harper Jr., yet their young group had no trouble putting away a Cavaliers squad that featured its regular starters, earning a 124-113 win in C…",
-    "Boston carried a three-point lead into the fourth quarter before taking control with an 18-6 run.",
-    "Hayden Gray sparked the surge with a 3-pointer, Dillon Mitchell followed with an alley-oop slam off a dish from Milos Uzan, and Tucker DeVries buried back-to-back triples to push the Celtics’ advantage into double digits…",
-    "The C’s held the Cavs to just six points over the first seven minutes of the fourth quarter, giving themselves plenty of time to pull away for an 11-point victory.",
-    "The veteran big man closed the 2025-26 regular-season campaign with a career-high 27 points and 12 rebounds against Orlando.",
-    "In his first action of the 2026 preseason, he delivered another double-double, leading all scorers and rebounders with 22 points and 10 boards, while adding two assists and three blocks.",
-    "Garza did most of his damage before halftime, piling up 16 points and seven rebounds while making more 3-pointers (three) than Cleveland’s entire starting five (two).",
-    "Box Score Nuggets Five Celtics scored at least 15 points, while no Cavalier reached that mark.Luka Garza (22 points) was the game’s lone 20-point scorer.Garza also led all players with 10 rebounds.Newly signed guard Devi…"
-   ],
-   "quotes": [
-    "It was an opportunity for them as well, and they crushed it."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/preseason-postgame-wrap-heat-128-pelicans-118",
-   "url": "https://www.nba.com/pelicans/news/preseason-postgame-wrap-heat-128-pelicans-118",
-   "canonical_url": "https://pelicans.com/news/preseason-postgame-wrap-heat-128-pelicans-118",
-   "title": "Preseason postgame wrap: Heat 128, Pelicans 118",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-09T01:58:21Z",
-   "tags": [],
-   "summary": "An explosive first half and a big finish lifted Miami to a home victory over New Orleans, despite the Pelicans again getting contributions from a multitude of players, including a deep bench. Six New Orleans players cracked double digits in scoring, while nine different visitors sank at least one three-pointer, part of the club’s 19/43 night from long distance. It wasn’t quite enough to produce a …",
-   "facts": [
-    "Six New Orleans players cracked double digits in scoring, while nine different visitors sank at least one three-pointer, part of the club’s 19/43 night from long distance.",
-    "It wasn’t quite enough to produce a victory, because the Heat raced to a 73-64 halftime edge, then won the final period 35-22, after the Pelicans briefly took a lead on the scoreboard.",
-    "The second-round pick’s 12 points in 13 minutes shifted the momentum before Miami answered with a late surge. … Fellow reserve guard Kobe Bufkin was also hot from the perimeter, canning three treys in four attempts.",
-    "Bufkin had nine points in 12 minutes. … Speaking of hot shooting, Jordan Poole was on a roll early, maneuvering his way to some crafty moves off the dribble and going 3/4 on triples.",
-    "Poole finished with a team-high 14 points, keeping New Orleans within shouting distance. … Saddiq Bey (12 points), Jeremiah Fears (11 points) and Trey Murphy (11 points) each knocked down two threes, combining to go 6/15…",
-    "Yves Missi also posted 11 points. … Fears and Bennedict Mathurin (eight points) moved into the starting backcourt, with Fears replacing Dejounte Murray, who was sidelined as a precautionary measure for a right toe contus…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-mohamed-wague",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-mohamed-wague",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-mohamed-wague",
-   "title": "Utah Jazz Sign Mohamed Wague",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-09T00:00:26Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 8, 2026) – The Utah Jazz announced today that the team has signed forward/center Mohamed Wague (wag-EE). Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "SALT LAKE CITY (October 8, 2026) – The Utah Jazz announced today that the team has signed forward/center Mohamed Wague (wag-EE).",
-    "About Mohamed Wague Wague (6-10, 225, Oklahoma) played four Division I seasons at West Virginia (2022-23), Alabama (2023-24), and Oklahoma (2024-26).In his senior season (2025-26), he started all 37 games he appeared in,…",
-    "He finished the season with 55 total blocks, ranking fourth in the SEC in 2025-26.He spent one JUCO season at Harcum College in 2021-22, earning JUCO All-American First Team honors.Wague represented Mali's men's senior n…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/how-the-utah-jazz-will-look-to-overcome-jusuf-nurkics-absence",
-   "url": "https://www.nba.com/jazz/news/how-the-utah-jazz-will-look-to-overcome-jusuf-nurkics-absence",
-   "canonical_url": "https://utahjazz.com/news/how-the-utah-jazz-will-look-to-overcome-jusuf-nurkics-absence",
-   "title": "How the Utah Jazz Will Look to Overcome Jusuf Nurkić’s Absence",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-08T21:14:27Z",
-   "tags": [
-    "Jaren Jackson Jr.",
-    "Jaxson Hayes",
-    "Jusuf Nurkić",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "One of the hallmarks of any NBA season is the inevitable adversity that a team faces.",
-   "facts": [
-    "Throughout the grind of 82 games, teams need to overcome absences, cold spells, and a plethora of other setbacks.",
-    "For the Utah Jazz, an early blow came in the form of an injury to Jusuf Nurkić, who is set to be re-evaluated in four weeks following a partial plantar plate tear of the second toe of his right foot.",
-    "Hayes makes the most of his opportunities as a finisher, having shot over 72-percent from the field in each of the last three seasons.",
-    "With the 26-year-old big man playing more, Utah will add a dynamic vertical lob threat on the offensive end, another outlet for the team’s guards in the pick-and-roll.",
-    "There will be mixing and matching throughout the period of Nurkić’s absence, including the integration of Kyle Filipowski as a versatile big man once he’s returned to action.",
-    "With two preseason games to go prior to opening night on Oct. 21, Utah will have some time to make adjustments and work through the details without Nurkić in the lineup."
-   ],
-   "quotes": [
-    "Anything worth achieving will have adversity,",
-    "We need to expect moments where we’re frustrated and disappointed. To be an elite team we need to be able to navigate those things.",
-    "He gives such a wide target for the guys to throw it into,",
-    "He’s got great timing and also has soft hands. I think he’s going to be a great weapon for all of our guards in the pick-and-roll."
-   ]
   }
  ]
 }
