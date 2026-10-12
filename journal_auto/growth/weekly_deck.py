@@ -50,6 +50,12 @@ def esc(s):
     return html.escape(str(s), quote=True)
 
 
+def cut(s, n):
+    """n文字を超える時だけ切って「…」を付ける（途中で切れたと分かるように）"""
+    s = str(s)
+    return s[:n] + "…" if len(s) > n else s
+
+
 def load(p, default):
     try:
         return json.load(open(p, encoding="utf-8"))
@@ -387,7 +393,7 @@ def summary_lines(A, R, T):
     top = A["r"]["top_up"]
     if top:
         n, a, b = top[0]
-        L.append(f"記事：検索で一番伸びたのは「{wr.title(A['r'], n)[:30]}」（{a:,}→{b:,}回）。")
+        L.append(f"記事：検索で一番伸びたのは「{cut(wr.title(A['r'], n), 30)}」（{a:,}→{b:,}回）。")
     if R["vsum"] is not None:
         g = pct(R["vsum"], R["psum"])
         L.append(f"リール：今週{len(R['week'])}本を投稿。アカウント全体の再生は{R['vsum']:,}回"
@@ -395,7 +401,7 @@ def summary_lines(A, R, T):
     if R["week"]:
         best = max(R["week"], key=lambda x: (x["cur"] or {}).get("views") or 0)
         if best["cur"]:
-            L.append(f"リール：今週一番見られたのは「{(best.get('headline') or '')[:28]}」（再生{best['cur'].get('views', 0):,}回）。")
+            L.append(f"リール：今週一番見られたのは「{cut(best.get('headline') or '', 28)}」（再生{best['cur'].get('views', 0):,}回）。")
     tc, tp = T["cur"], T["prev"]
     if tc["n"]:
         L.append(f"Threads：今週の速報{tc['n']}本で表示{tc['tot']['views']:,}回・1本平均{n0(tc['avg']['views'])}回"
@@ -421,7 +427,7 @@ def suggestions(A, R, T):
         if rated:
             x, rr = max(rated, key=lambda z: z[1])
             S.append(("反応率が一番高かった速報の切り口を次も試す",
-                      f"「{x['text'][:34]}…」 反応率{rr * 100:.1f}%（いいね・返信・再投稿・引用・シェアの合計÷表示）"))
+                      f"「{cut(x['text'], 34)}」 反応率{rr * 100:.1f}%（いいね・返信・再投稿・引用・シェアの合計÷表示）"))
     c = A["r"]["cands"]
     if c:
         k, i, cl, p = c[0]
@@ -429,7 +435,7 @@ def suggestions(A, R, T):
     cc = A["r"]["ctr_cands"]
     if cc:
         n, i, p = cc[0]
-        S.append((f"記事{n}のタイトルを見直す", f"「{wr.title(A['r'], n)[:30]}」 直近28日で検索に{i}回出てクリック0（平均{p:.1f}位）"))
+        S.append((f"記事{n}のタイトルを見直す", f"「{cut(wr.title(A['r'], n), 30)}」 直近28日で検索に{i}回出てクリック0（平均{p:.1f}位）"))
     return S
 
 
@@ -531,17 +537,17 @@ def render(today, A, R, T, summ, sugg):
 
     # ---- 2. 記事
     r = A["r"]
-    up_rows = [[f"{n}", esc(wr.title(r, n)[:40]), f"{a:,}", f"{b:,}", f"+{b - a:,}"] for n, a, b in r["top_up"]]
+    up_rows = [[f"{n}", esc(cut(wr.title(r, n), 40)), f"{a:,}", f"{b:,}", f"+{b - a:,}"] for n, a, b in r["top_up"]]
     verd = []
     for x in r["results"]:
         v = x["verdict"]
         cls = "verdict-good" if v.startswith("うまく") else "verdict-bad" if v.startswith("ダメ") else ""
         mark = "○ " if cls == "verdict-good" else "× " if cls == "verdict-bad" else "… "
         ch = x["exp"]["change"]
-        verd.append([f'<b>{esc(x["exp"]["playbook"])}</b>　{esc(ch[:46])}{"…" if len(ch) > 46 else ""}',
+        verd.append([f'<b>{esc(x["exp"]["playbook"])}</b>　{esc(cut(ch, 46))}',
                      f'<span class="{cls}">{mark}{esc(v)}</span>'])
     cands = [[f"「{esc(k)}」", f"{i:,}", f"{pp:.1f}位"] for k, i, cl, pp in r["cands"][:5]]
-    ctr = [[n, esc(wr.title(r, n)[:40]), f"{i:,}", f"{pp:.1f}位"] for n, i, pp in r["ctr_cands"][:5]]
+    ctr = [[n, esc(cut(wr.title(r, n), 40)), f"{i:,}", f"{pp:.1f}位"] for n, i, pp in r["ctr_cands"][:5]]
     ga_note = f'<div class="note">GA4は今週分{A["ga_days"]}日分だけ（設置2026-09-13）。先週比は参考。</div>' if A["ga_days"] < 7 else ""
     P.append(f"""<section class="page">{head(2, total, today)}
 <h2>記事（サイト・検索）</h2>
@@ -571,7 +577,7 @@ def render(today, A, R, T, summ, sugg):
     rk = []
     for x in wk[:5]:
         v = x["cur"] or {}
-        head_ = esc((x.get("headline") or x.get("caption") or "（見出しなし）")[:38])
+        head_ = esc(cut(x.get("headline") or x.get("caption") or "（見出しなし）", 38))
         link = f'<a href="{esc(x.get("permalink", ""))}">{head_}</a>' if x.get("permalink") else head_
         rk.append([f"{md(x['t'])}", link, n0(v.get("views")), n0(v.get("reach")), n0(v.get("saved")), n0(v.get("shares"))])
     gen = [(g, m, f"（{n}本）") for g, m, n in R["genres"] if n >= MIN_N]
@@ -606,7 +612,7 @@ def render(today, A, R, T, summ, sugg):
     for x in tops:
         v = x[T["basis"]]
         rr = engagement(v) / v["views"] * 100 if v.get("views") else None
-        txt = esc((x["text"] or "（本文未取得）")[:40])
+        txt = esc(cut(x["text"] or "（本文未取得）", 40))
         trows.append([md(x["t"]), f'<a href="{esc(x["permalink"])}">{txt}</a>', n0(v.get("views")), n0(v.get("likes")),
                       n0(v.get("replies")), n0(v.get("reposts")), "—" if rr is None else f"{rr:.1f}%"])
     fol = T["fol"]
