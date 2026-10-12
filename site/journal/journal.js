@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "423-kessler-lakers-preseason-debut-nears.html",
+    cat: "NBA",
+    title: "ケスラー、小指のけがから練習フル参加 —— レイカーズでのプレシーズン初出場に前進",
+    excerpt: "ロサンゼルス・レイカーズのウォーカー・ケスラー(Walker Kessler)は現地時間10月11日、エル・セグンドでの練習に全体参加し、トレーニングキャンプ序盤に負傷した左手小指のけがからプレシーズン初出場に近づいた。JJ・レディックHCは次戦の出場を明言していない。",
+    date: "2026.10.12",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "422-miller-26-points-nuggets-preseason.html",
     cat: "NBA",
     title: "レナード・ミラー、ナゲッツ戦で26得点 —— プレシーズンでブルズが128-133で敗れる",
