@@ -39,6 +39,9 @@ TH_STATE = AUTO / "threads_state.json"
 JST = timezone(timedelta(hours=9))
 TEMPLATE_LABEL = {"news": "ニュース", "score": "試合結果", "quote": "発言", None: "手動投稿"}
 MIN_N = 3          # グループ比較で最低限ほしい本数（これ未満のグループは提案に使わない）
+# 目標: 記事が読まれた回数（GA4のPV）月100万回。2026-10-12 クリス「月に100万回いくのが目標ね？」→「ここは目標だよ！」
+# （広告収入の目安「月100万回で20〜50万円」の話の流れで出た数字なので、リール再生ではなく記事のPV）
+GOAL_PV = 1_000_000
 
 # 色（dataviz スキルの参照パレット・ライト面）。紙に刷る資料なのでダークモードは持たない
 C = {"surface": "#fcfcfb", "ink": "#0b0b0b", "ink2": "#52514e", "muted": "#898781", "grid": "#e1e0d9",
@@ -236,7 +239,47 @@ def articles(today):
     clk_series = [(ge - timedelta(days=i), clk_daily.get(ge - timedelta(days=i))) for i in range(27, -1, -1)]
     pv_series = [(ae - timedelta(days=i), ga_daily.get(ae - timedelta(days=i))) for i in range(27, -1, -1)]
     return dict(r=r, gsc=(gc0, ge, gp0, gp1), ga=(ac0, ae, ap0, ap1), cur=cur, prev=prev, sess=sess, pv=pv,
-                ga_days=ga_days, imp_series=imp_series, clk_series=clk_series, pv_series=pv_series)
+                ga_days=ga_days, imp_series=imp_series, clk_series=clk_series, pv_series=pv_series,
+                goal=goal(ga_daily, ae))
+
+
+def month_days(d):
+    nxt = (d.replace(day=28) + timedelta(days=4)).replace(day=1)
+    return (nxt - timedelta(days=1)).day
+
+
+def goal(ga_daily, ae):
+    """目標（月GOAL_PV）に対する進み具合。今月は ae（GA4の最新日）までの実測、見込みは「実測した日の平均×月の日数」"""
+    m0 = ae.replace(day=1)
+    dim = month_days(ae)
+    got = [m0 + timedelta(days=i) for i in range((ae - m0).days + 1) if (m0 + timedelta(days=i)) in ga_daily]
+    total = sum(ga_daily[x] for x in got)
+    pace = total / len(got) * dim if got else None
+    months = defaultdict(list)
+    for x, v in ga_daily.items():
+        if x <= ae:
+            months[(x.year, x.month)].append((x, v))
+    hist = []
+    for (y, m), vs in sorted(months.items()):
+        first = date(y, m, 1)
+        n = len(vs)
+        complete = (y, m) != (ae.year, ae.month) and n == month_days(first)
+        hist.append(dict(label=f"{y}年{m}月", total=sum(v for _, v in vs), n=n, dim=month_days(first),
+                         start=min(x for x, _ in vs), end=max(x for x, _ in vs), complete=complete))
+    last30 = [ga_daily.get(ae - timedelta(days=i)) for i in range(30)]
+    return dict(m0=m0, ae=ae, dim=dim, n=len(got), total=total, pace=pace, rate=total / GOAL_PV,
+                pace_rate=(pace / GOAL_PV) if pace else None, mult=(GOAL_PV / pace) if pace else None,
+                need_day=GOAL_PV / dim, hist=hist,
+                last30=sum(v for v in last30 if v is not None), last30_n=sum(v is not None for v in last30))
+
+
+def mult_txt(x):
+    """目標まであと何倍か（大きい数は丸めて読みやすく）"""
+    if x is None:
+        return "—"
+    if x <= 1:
+        return "達成ペース"
+    return f"あと約{x:,.0f}倍" if x >= 10 else f"あと約{x:.1f}倍"
 
 
 # ====================================================================== 集計: リール
@@ -386,6 +429,10 @@ def engagement(v):
 
 def summary_lines(A, R, T):
     L = []
+    G = A["goal"]
+    if G["n"]:
+        L.append(f"目標（記事が読まれた回数 月{GOAL_PV // 10000:,}万回）：今月は{md(G['m0'])}〜{md(G['ae'])}で{G['total']:,}回・目標の{G['rate'] * 100:.2f}%。"
+                 f"このペースだと月末に約{G['pace']:,.0f}回（目標まで{mult_txt(G['mult'])}）。")
     c, p = A["cur"], A["prev"]
     g = pct(c["imp"], p["imp"])
     L.append(f"記事：検索に出た回数は{c['imp']:,}回（先週{p['imp']:,}回・{'—' if g is None else f'{g * 100:+.0f}%'}）、"
@@ -408,7 +455,7 @@ def summary_lines(A, R, T):
                  + (f"（先週{tp['n']}本・平均{n0(tp['avg']['views'])}回）。" if tp["measured"] else "。"))
     else:
         L.append("Threads：今週投稿した速報は0本。")
-    return L[:5]
+    return L[:6]
 
 
 def suggestions(A, R, T):
@@ -451,7 +498,7 @@ body {{ margin: 0; font-family: system-ui, -apple-system, "Hiragino Sans", "Hira
 header.top {{ display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid {C['ink']}; padding-bottom: 4px; margin-bottom: 10px; }}
 header.top .brand {{ font-weight: 700; letter-spacing: .08em; font-size: 10pt; }}
 header.top .pg {{ color: {C['muted']}; font-size: 9pt; }}
-h1 {{ font-size: 24pt; margin: 18px 0 2px; line-height: 1.25; }}
+h1 {{ font-size: 20pt; margin: 8px 0 2px; line-height: 1.25; }}
 h2 {{ font-size: 15pt; margin: 0 0 2px; }}
 h3 {{ font-size: 11.5pt; margin: 14px 0 4px; }}
 .period {{ color: {C['ink2']}; font-size: 9.5pt; margin-bottom: 8px; }}
@@ -486,7 +533,49 @@ td {{ border-bottom: 1px solid {C['grid']}; padding: 3px 5px; vertical-align: to
 .sugg b {{ font-size: 11pt; }}
 .sugg div {{ font-size: 9.5pt; color: {C['ink2']}; }}
 a {{ color: {C['blue']}; text-decoration: none; }}
+.goal {{ border: 1px solid rgba(11,11,11,.10); border-radius: 8px; padding: 10px 12px; background: {C['surface']}; margin: 8px 0 4px; }}
+.goal .gh {{ display: flex; justify-content: space-between; align-items: baseline; gap: 8px; }}
+.goal .gt {{ font-weight: 700; font-size: 11pt; }}
+.goal .gp {{ font-size: 9pt; color: {C['ink2']}; }}
+.meter {{ position: relative; height: 14px; border-radius: 7px; background: {C['band']}; margin: 8px 0 3px; overflow: hidden; }}
+.meter .fill {{ position: absolute; left: 0; top: 0; bottom: 0; background: {C['blue']}; border-radius: 7px; }}
+.meter .pace {{ position: absolute; top: 0; bottom: 0; border-left: 2px dashed {C['ink2']}; }}
+.mscale {{ display: flex; justify-content: space-between; font-size: 8.5pt; color: {C['muted']}; }}
+.goal .tiles {{ margin-bottom: 0; }}
+.tight h3 {{ margin-top: 8px; }}
+.tight td, .tight th {{ padding: 2px 5px; }}
 """
+
+
+def goal_block(G):
+    """表紙の目標ブロック: メーター（今月の累計・目標の位置）＋3タイル"""
+    if not G["n"]:
+        return f'<div class="goal"><div class="gt">目標：記事が読まれた回数 月{GOAL_PV // 10000:,}万回</div><div class="empty">今月のデータ蓄積中</div></div>'
+    w = min(100, G["rate"] * 100)
+    pw = min(100, (G["pace_rate"] or 0) * 100)
+    # 実測が細すぎて見えない時も「ゼロではない」と分かるよう最低2pxは塗る（数字は横に正確に書く）
+    fill = f'<div class="fill" style="width:max(2px,{w:.3f}%)"></div>'
+    pace = f'<div class="pace" style="left:{pw:.3f}%" title="月末見込み"></div>' if pw > w else ""
+    tiles = (tile(f"今月の累計（{md(G['m0'])}〜{md(G['ae'])}・{G['n']}日分）", f"{G['total']:,}<small> 回</small>",
+                  note=f"目標の{G['rate'] * 100:.2f}%")
+             + tile("このペースの月末見込み", f"{G['pace']:,.0f}<small> 回</small>",
+                    note=f"実測した日の平均×{G['dim']}日。目標の{G['pace_rate'] * 100:.2f}%")
+             + tile("目標まで", mult_txt(G["mult"]),
+                    note=f"目標ペースは1日平均{G['need_day']:,.0f}回（今は1日平均{G['total'] / G['n']:,.0f}回）"))
+    return f"""<div class="goal"><div class="gh"><span class="gt">目標：記事が読まれた回数 月{GOAL_PV // 10000:,}万回</span>
+<span class="gp">GA4のPV（ページが読まれた回数）。{G['ae'].month}月分</span></div>
+<div class="meter">{fill}{pace}</div>
+<div class="mscale"><span>0</span><span>今月の累計 {G['total']:,}回{'／点線＝月末見込み' if pace else ''}</span><span>{GOAL_PV:,}回</span></div>
+<div class="tiles">{tiles}</div></div>"""
+
+
+def goal_line(G):
+    """記事ページ用: 月ごとの読まれた回数と目標比を1行で"""
+    parts = []
+    for h in G["hist"]:
+        span = "全日" if h["complete"] else f"{md(h['start'])}〜{md(h['end'])}の{h['n']}日分"
+        parts.append(f"{h['label']}（{span}）{h['total']:,}回・目標比{h['total'] / GOAL_PV * 100:.2f}%")
+    return "／".join(parts) or "データ蓄積中"
 
 
 def head(pg, total, today):
@@ -522,8 +611,9 @@ def render(today, A, R, T, summ, sugg):
             tile("1本あたりの反応", n0(react_avg(tc)), react_avg(tc), react_avg(tp),
                  note="いいね・返信・再投稿・引用・シェアの合計")]
     P.append(f"""<section class="page">{head(1, total, today)}
-<h1>週次レポート<br>記事・リール・Threads</h1>
+<h1>週次レポート　記事・リール・Threads</h1>
 <div class="period">レポート日 {today:%Y年%-m月%-d日}（月）　リール・Threads の集計期間 {md(ws)}〜{md(we)}（先週 {md(ws - timedelta(days=7))}〜{md(we - timedelta(days=7))}）</div>
+{goal_block(A["goal"])}
 <h3>今週のまとめ</h3>
 <ul class="points">{''.join(f'<li>{esc(x)}</li>' for x in summ)}</ul>
 <div class="axis-title">記事（サイト・検索）<span class="p">検索 {md(gc0)}〜{md(ge)}／訪問 {md(ac0)}〜{md(ae)}（検索は確定待ちの直近3日を除く）</span></div>
@@ -560,9 +650,10 @@ def render(today, A, R, T, summ, sugg):
 <h3>検索で伸びた記事 トップ5（検索に出た回数・先週→今週）</h3>
 {table(["No", "記事", "先週", "今週", "増加"], up_rows, (2, 3, 4)) if up_rows else '<div class="empty">伸びた記事なし</div>'}
 </section>
-<section class="page">{head(3, total, today)}
+<section class="page tight">{head(3, total, today)}
 <h2>記事（サイト・検索）つづき：施策の判定と次の一手</h2>
 <div class="period">施策は「開始前14日 vs 開始後14日」で比較（既存の週次レポートと同じ判定基準）</div>
+<div class="cap"><b>目標（月{GOAL_PV // 10000:,}万回）に対する月ごとの読まれた回数：</b>{esc(goal_line(A["goal"]))}</div>
 <h3>改善施策の判定</h3>
 {table(["やったこと", "判定"], verd) if verd else '<div class="empty">施策なし</div>'}
 <h3>次に書くといい記事（検索に出ているが8〜20位の検索語・直近28日）</h3>
