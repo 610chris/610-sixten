@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "422-miller-26-points-nuggets-preseason.html",
+    cat: "NBA",
+    title: "レナード・ミラー、ナゲッツ戦で26得点 —— プレシーズンでブルズが128-133で敗れる",
+    excerpt: "シカゴ・ブルズのレナード・ミラーは現地時間10月11日、デンバーで行われたプレシーズンのナゲッツ戦に途中出場し、22分の出場で26得点7リバウンド2アシストを記録した。ブルズは128-133でナゲッツに敗れた。",
+    date: "2026.10.12",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "421-miller-18-points-bucks-preseason.html",
     cat: "NBA",
     title: "ブランドン・ミラー、バックス戦で18得点 —— プレシーズンでホーネッツが105-90で勝利",
