@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "426-jordan-finals-game2-jersey-record.html",
+    cat: "NBA",
+    title: "ジョーダンの1998年ファイナル第2戦ジャージが1400万ドルで落札 —— バスケ記念品史上最高額を更新",
+    excerpt: "マイケル・ジョーダンが1998年NBAファイナル第2戦で着用したシカゴ・ブルズの赤いロードジャージが、現地時間10月12日、オークション会社ハント・オークションズを通じた個人間取引で1400万ドル(約21億円)で落札された。同社はバスケットボール記念品として史上最高額と説明している。ESPNが伝えた。",
+    date: "2026.10.12",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "425-cooper-flagg-china-games-ascension.html",
     cat: "NBA",
     title: "クーパー・フラッグ、マカオ遠征2試合で33得点10リバウンド10アシスト —— ウィンドホースト記者「進化はもう避けられない」",
