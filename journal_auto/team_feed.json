@@ -1,8 +1,75 @@
 {
- "updated_utc": "2026-10-12 06:27 UTC",
+ "updated_utc": "2026-10-12 16:01 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-thunder-261013",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-thunder-261013",
+   "canonical_url": "https://pacers.com/news/preview-pacers-thunder-261013",
+   "title": "Game Preview: Pacers at Thunder (Preseason)",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-10-12T14:46:30Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center",
+   "facts": [
+    "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center Game Preview The Indiana Pacers continue to work through their preseason slate as they travel to Oklahoma City for a matchup with the Thunder on Tuesday.",
+    "Indiana is 1-1 through two preseason contests, and the Thunder are 0-2.",
+    "Tuesday’s game would mark the first time guard Tyrese Haliburton will step between the lines with the Thunder since sustaining an Achilles tendon injury during the 2025 NBA Finals, should he be active for the matchup.",
+    "Carlisle expects Haliburton to return to the lineup as soon as Tuesday, but could rest an extra contest and return on Friday against the Milwaukee Bucks.",
+    "Regardless, the matchup with the Thunder is significant for the Pacers, who feel they have returned to full strength for the first time since the 2025 Finals series with Oklahoma City.",
+    "Zubac is a true center that gives Indiana a powerful presence in the paint, Nance brings a veteran presence to the locker room, and Oubre is a versatile wing defender with a 3-point shot.",
+    "Probable Starters Pacers: G - Andrew Nembhard, G - Kelly Oubre Jr., F - Aaron Nesmith, F - Pascal Siakam, C - Ivica Zubac Thunder: G - Shai Gilgeous-Alexander, G - Cason Wallace, F - Alex Caruso, F - Jalen Williams, C - …",
+    "Nembhard scored 27 points with 11 assists and Walker contributed a career-high 26 points in the 2025 Finals rematch."
+   ],
+   "quotes": [
+    "mild tweak of his right ankle",
+    "mild tweak of his right ankle"
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/leonard-miller-steals-the-show-in-preseason-loss-to-nuggets",
+   "url": "https://www.nba.com/bulls/news/leonard-miller-steals-the-show-in-preseason-loss-to-nuggets",
+   "canonical_url": "https://bulls.com/news/leonard-miller-steals-the-show-in-preseason-loss-to-nuggets",
+   "title": "Leonard Miller steals the show in Preseason loss to Nuggets",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-12T12:12:37Z",
+   "tags": [
+    "Game Recap",
+    "Preseason",
+    "Sam Smith",
+    "Sam Smith recap"
+   ],
+   "summary": "The Bulls may have salvaged that Ayo trade after all.",
+   "facts": [
+    "The Bulls may have salvaged that Ayo trade after all.",
+    "And, oh does it seem we were wrong about Leonard Miller, the road runner 6-10 Canadian forward who quietly has been maybe the most consistent player this preseason, Sunday in Denver leading the Bulls with 26 points and s…",
+    "Miller, with his third consecutive double-digit scoring game without a play having been run for him after scoring in double digits in 17 of the last 18 games last season, again motored around to turn bouncing balls and a…",
+    "It was a higher speed, long shooting game courtesy of Miller, Caleb Wilson with 17 points Matas Buzelis with 13 and Noa Essengue with eight.",
+    "Buddy Hield finally rediscovered his shooting stroke with 4-of-6 threes as the Bulls fired up 50 threes, making 21.",
+    "They were 13-of-25 in the first half when they led 68-59.",
+    "The Bulls exhibition record is 1-2 with the fourth of the five preseason games in Milwaukee Wednesday Though Splitter has talked vaguely about attempting the best threes that present themselves and according to the situa…",
+    "The Bulls had 13 offensive rebounds Sunday even without rebounding vacuum Tobe Awaka."
+   ],
+   "quotes": [
+    "Alas poor Lenny! I knew him.",
+    "I feel amazing, no pain, nothing; I can play free,",
+    "After Summer League, I talked a lot with Tiago and Bryson (Graham, basketball chief). They told me to just play my game, play free offensively and defensively. Pressure the ball more. Offensively play…",
+    "He's being more aggressive,"
+   ]
+  },
   {
    "source": "CHA 公式（nba.com）",
    "team": "CHA",
@@ -511,167 +578,6 @@
    "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos reacted to the injury news of Jusuf Nurkić. They discussed Jaxson Hayes, Jaren Jackson Jr., and options for the Jazz at the big position.",
    "facts": [
     "UtahJazz.com’s JP Chunga and Eric Spyropoulos reacted to the injury news of Jusuf Nurkić."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-hawks-261010",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-hawks-261010",
-   "canonical_url": "https://pacers.com/news/preview-pacers-hawks-261010",
-   "title": "Game Preview: Pacers vs Hawks (Preseason)",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-09T15:15:28Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Saturday, Oct. 10 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Saturday, Oct. 10 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview After opening the preseason earlier this week at Iowa State, the Pacers return to Gainbridge Fieldhouse to host the Atlanta Hawks on Saturday night.",
-    "Wednesday's preseason opener was a special night for star guard Tyrese Haliburton, who not only returned to his alma mater but also played his first competitive game in 16 months.",
-    "The starters played the first half and Haliburton looked solid, finishing with seven points and six assists with only one turnover in 16 minutes of action.",
-    "The Pacers beat Minnesota 123-112 and got strong contributions from the entire roster.",
-    "One of the standout performances was fourth-year forward Jarace Walker, who dished out 10 assists and was a team-best +18 on the night.",
-    "Indiana now faces another good test in a Hawks team that won 46 games and finished sixth in the East a year ago. 6-foot-8 forward Jalen Johnson had a breakout season for Atlanta last season, earning his first All-Star no…",
-    "The Hawks have played two games so far this preseason, losing to 132-123 to Memphis on Monday and winning 123-116 in San Antonio on Thursday.",
-    "Johnson did not play against the Spurs, but was listed as out simply for rest and for injury-related reasons."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/wendell-carter-jr-has-potential-to-make-an-nba-all-defensive-team-20261009",
-   "url": "https://www.nba.com/magic/news/wendell-carter-jr-has-potential-to-make-an-nba-all-defensive-team-20261009",
-   "canonical_url": "https://orlandomagic.com/news/wendell-carter-jr-has-potential-to-make-an-nba-all-defensive-team-20261009",
-   "title": "Wendell Carter Jr. Has Potential to Make an NBA All-Defensive Team",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-09T15:15:00Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO - A few weeks ago, Nikola Jokic was a guest on the Jao Mile podcast and was asked during the interview to name some opponents that are tough to go up against. Mentioned, of course, were guys like Victor Wembanyama and Rudy Gobert, who have five Defensive Player of the Year awards combined (Gobert with four and Wembanyama with one so far). Another name he brought up was Wendell Carter Jr., …",
-   "facts": [
-    "In 2025-26, Carter actually defended the most shots in the league when hard switching onto a ball handler in a pick-and-roll set.",
-    "Those opponents combined to make just 38 of their 99 shots, which is 38.4 percent.",
-    "Among centers who guarded at least 50 shots in these situations, that mark ranked second best behind Nic Claxton.",
-    "Up until about 10 years ago, post-ups were a frequent play type.",
-    "Last season, Carter defended the fourth most post-up shots, with opponents making just 38.2 percent of those attempts.",
-    "Among the 19 players who defended at least 40 post-up shots, that mark ranked fifth.",
-    "Opponents in 2025-26 shot 49.2 percent in the paint on 510 attempts with Carter contesting.",
-    "That was the 17th lowest mark out of the 78 players who contested at least 300 plaint shots."
-   ],
-   "quotes": [
-    "It’s very rewarding. It’s really a pride thing,",
-    "Since I was a kid, I always hated when people scored on me. That’s just always been my mentality, so that’s just something I use every day. Yeah, it’s technique. Yeah, it’s conditioning. But at the en…"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavs-drop-preseason-opener-to-rockets-135-117",
-   "url": "https://www.nba.com/mavs/news/mavs-drop-preseason-opener-to-rockets-135-117",
-   "canonical_url": "https://mavs.com/mavs/news/mavs-drop-preseason-opener-to-rockets-135-117",
-   "title": "Mavs drop preseason opener to Rockets, 135-117",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-09T14:58:39Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "Max Christie",
-    "nba",
-    "Sergio De Larrea",
-    "Zaccharie Risacher"
-   ],
-   "summary": "The bad news is that the Dallas Mavericks lost to the Houston Rockets, 135-117, on Friday in the China Global Games 2026. The good news is that it was ONLY a preseason game.",
-   "facts": [
-    "The bad news is that the Dallas Mavericks lost to the Houston Rockets, 135-117, on Friday in the China Global Games 2026.",
-    "Playing over 8,000 miles away from Dallas in Macao, China, the Rockets built a massive 25-point lead late in the first half and went on to secure the victory in this preseason opener for both teams at the Venetian Arena.",
-    "Cooper Flagg only played in the first half and finished with 19 points, six rebounds and three assists in 19 minutes for the Mavs.",
-    "Naji Marshall and Max Christie, who ignited a surge by the Mavs in the third quarter, added 16 points and 14 points, respectively.",
-    "In addition, the Mavs got 13 points on from Tobi Lawal and 11 from Sergio de Larrea.",
-    "Lawal was 5-of-6 from the field in just 15 minutes, and de Larrea converted all three of his three-point attempts and also dispensed six assists, while Dwight Powell distributed a team-high eight assists in just 13 minut…",
-    "Alperen Şengün registered a triple-double — 16 points, 10 rebounds, 10 assists — to pace the Rockets.",
-    "Also for Houston, Tari Eason collected 20 points and 10 rebounds, Fred VanVleet had 17 points and seven assists, Reed Sheppard tallied 16 points, Kevin Durant scored 15 points, Jabari Smith Jr. popped in 12 points and Br…"
-   ],
-   "quotes": [
-    "Obviously, it’s a different experience, a different opportunity to travel all the way over here and get adjusted to the time and everything, but I felt good,",
-    "Obviously, the crowd, they were really into the game and very loud, so it gave us a lot of energy. I thought it was a very, very fun experience and a great experience.",
-    "Conditioning is going great,",
-    "I feel like I’m still unlocking things in my instincts. Practices do wonders. But the game can’t be re-created. I’m excited to get out there and play in front of these great fans here and continue to …"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-tyrese-proctor-261009",
-   "url": "https://www.nba.com/cavaliers/news/features-tyrese-proctor-261009",
-   "canonical_url": "https://cavs.com/news/features-tyrese-proctor-261009",
-   "title": "Tyrese Proctor Ahead of Year Two: \"I Feel Great, I Feel Confident\"",
-   "author": "clejgabriele",
-   "published_utc": "2026-10-09T13:07:18Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "As the Cavaliers started their preseason slate this week, one of the hottest topics in Training Camp will continue to heat up as we prepare for the opener on October 22 - who will be the squad’s backup point guard heading into the season?",
-   "facts": [
-    "As the Cavaliers started their preseason slate this week, one of the hottest topics in Training Camp will continue to heat up as we prepare for the opener on October 22 - who will be the squad’s backup point guard headin…",
-    "At this time last year, that role was filled by Lonzo Ball and following the Trade Deadline, by Dennis Schröder.",
-    "Thomas was Cleveland’s top pick in last June’s Draft – taken 34th overall out of Arkansas – and the versatile Porter is going into his fourth season after signing as an undrafted free agent out of Wichita State.",
-    "He notched double-figures on 11 occasions, leading the team in steals four times.",
-    "He’ll probably text me in about 20 minutes about some film from practice.",
-    "He was one of five Blue Devils drafted, the final pick of a group including Cooper Flagg [No 1 overall], Kon Knueppel [4], Khaman Maluach [10], and Sion James [33].",
-    "The Australian guard showed off his shooting skills on several occasions last year with Cleveland, finishing with 14 games with multiple three-pointers, shooting 36 from long-range overall.",
-    "U19s are “Gems” and “Emus,” U17s are “Sapphires” and “Crocs,” and wheelchair teams are the “Gliders” and “Rollers.” Proctor never competed internationally as a Croc or Emu – once due to COVID, once due to the perils of t…"
-   ],
-   "quotes": [
-    "I think (the competition) is great – we got a lot of dogs,",
-    "I'm an open book. Whatever I can do, however I can mold my game to best suit the team – whether it's not dribbling at all and just catch-and-shoot, whether it's picking up 94 feet, I'm willing to do i…",
-    "I feel great with a year under my belt; I feel confident, I know my role,",
-    "I know what I’ve got to do to get on the court – try to make it easier for all the starters and just try and impact winning as much as I can. Knock down shots and play defense."
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "roster",
-   "key": "https://www.nba.com/heat/news/heat-sign-kylor-kelley-and-gabe-madsen",
-   "url": "https://www.nba.com/heat/news/heat-sign-kylor-kelley-and-gabe-madsen",
-   "canonical_url": "https://heat.com/news/heat-sign-kylor-kelley-and-gabe-madsen",
-   "title": "HEAT SIGN KYLOR KELLEY AND GABE MADSEN",
-   "author": "Miami HEAT",
-   "published_utc": "2026-10-09T07:51:37Z",
-   "tags": [
-    "Trending"
-   ],
-   "summary": "Following tonight’s preseason win against the New Orleans Pelicans, your Miami HEAT announced that they have signed center Kylor Kelley and guard Gabe Madsen and waived J’Vonne Hadley and Lester Quiñones. In a subsequent move, Miami also signed and waived Dennis Smith Jr. Per club policy, terms of the deals were not disclosed.",
-   "facts": [
-    "Following tonight’s preseason win against the New Orleans Pelicans, your Miami HEAT announced that they have signed center Kylor Kelley and guard Gabe Madsen and waived J’Vonne Hadley and Lester Quiñones.",
-    "In a subsequent move, Miami also signed and waived Dennis Smith Jr.",
-    "Kelley appeared in 19 regular season G League games (18 starts) last season with the South Bay Lakers and averaged 8.3 points, 7.1 rebounds, 2.32 blocks, 1.8 assists and 25.9 minutes while shooting 73.3 percent from the …",
-    "He scored in double-figures nine times and blocked multiple shots 10 times.",
-    "He also appeared in 11 career NBA games with Dallas and New Orleans during the 2024-25 season, totaling 34 points, 39 rebounds, five assists, three blocks and a steal while shooting 63.6 percent from the field.",
-    "Madsen appeared in 36 regular season G League games last season with the HEAT’s affiliate, the Sioux Falls Skyforce, and averaged 9.8 points, 4.8 rebounds, 2.6 assists, 1.17 steals and 28.5 minutes while shooting 45 perc…",
-    "He scored in double-figures 17 times, including two 20-point performances.",
-    "He scored a season-high 27 points against the Texas Legends on February 1 and posted a 14-point, 11-rebound double-double against the Salt Lake City Stars on January 18."
    ],
    "quotes": []
   }
