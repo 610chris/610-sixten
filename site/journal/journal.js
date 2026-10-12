@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "432-jordan-brand-space-jam-30th-campaign.html",
+    cat: "KICKS",
+    title: "ジョーダン ブランド、『スペース・ジャム』30周年キャンペーン「Greatness is Never Out of Reach」始動",
+    excerpt: "ジョーダン ブランドは、映画『スペース・ジャム』公開30周年を記念し、新作フットウェア・アパレルコレクションとキャンペーン「Greatness is Never Out of Reach」、ミニドキュメンタリーシリーズ「Space Jam: Beyond the Jam」を展開する。Wieden+Kennedy、ワーナー・ブラザース アニメーションと再タッグ。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "431-air-jordan-11-low-made-for-locals.html",
+    cat: "KICKS",
+    title: "APB × Air Jordan 11 Low「Made For Locals」が10月23日発売 —— 品番IU8266-400",
+    excerpt: "APBとのコラボレーションによる「Air Jordan 11 Low ”Made For Locals”」（品番IU8266-400）が10月23日、ホイッテカー・グループ取扱店舗およびオンラインで発売される。地元で愛される場所をテーマにしたデザイン。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "430-henderson-14-points-lions-preseason.html",
     cat: "NBA",
     title: "スクート・ヘンダーソン、ロンドン・ライオンズ戦で14得点 —— 3ポイント5本中4本、ブレイザーズが119-66で快勝",
