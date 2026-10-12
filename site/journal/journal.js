@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "424-kyrie-irving-return-macao-quotes.html",
+    cat: "NBA",
+    title: "アービング「自分らしく、アグレッシブに」—— ACL断裂から586日ぶりの実戦でマカオを沸かす",
+    excerpt: "ダラス・マーベリックスのカイリー・アービング(Kyrie Irving)は現地時間10月11日、中国・マカオで行われたロケッツ戦(NBAチャイナゲーム第2戦)で左膝ACL断裂からの復帰後初めて実戦に立ち、22分の出場で17得点3アシストを記録した。「自分らしく見せようとした」と振り返った。",
+    date: "2026.10.12",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "423-kessler-lakers-preseason-debut-nears.html",
     cat: "NBA",
     title: "ケスラー、小指のけがから練習フル参加 —— レイカーズでのプレシーズン初出場に前進",
