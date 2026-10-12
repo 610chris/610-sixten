@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-10-12 16:50 UTC",
+ "updated_utc": "2026-10-12 23:17 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Marc J. Spears（Andscape）",
+   "handle": "MarcJSpears",
+   "key": "https://www.reddit.com/r/nba/comments/1x4dct0/marc_j_spears_ben_simmons_is_expected_to_be_in/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-12T20:42:28+00:00",
+   "text": "Source: https://andscape.com/features/ben-simmons-documentary-espn-kings-fishing-injuries-career/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x4dct0/marc_j_spears_ben_simmons_is_expected_to_be_in/",
+   "links": [
+    "https://andscape.com/features/ben-simmons-documentary-espn-kings-fishing-injuries-career/"
+   ]
+  },
   {
    "reporter": "Marc Stein（The Stein Line）",
    "handle": "TheSteinLine",
