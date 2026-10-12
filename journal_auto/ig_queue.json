@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T06:57:33+09:00",
+  "updated": "2026-10-13T08:05:06+09:00",
   "items": [
     {
       "id": "134",
@@ -9325,6 +9325,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ポルジンギス、2週間の離脱から火曜に施設復帰へ\n\n・セルティックス時代のウイルス感染の後遺症が原因\n・2年4000万ドルの契約、保証額はわずか300万ドル\n・コート復帰の時期は不明。カーは小型ラインアップを検討\n\n💬 ポルジンギス抜きのウォリアーズ、立ち上がりをどう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Kristaps Porzingis expected to be at Warriors' facility on Tuesday」\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "429",
+      "slug": "429-camara-14-points-lions-preseason",
+      "category": "NBA",
+      "date": "2026-10-13",
+      "headline": "トゥマニ・カマラ、ライオンズ戦で14得点",
+      "excerpt": "ポートランド・トレイルブレイザーズのトゥマニ・カマラは現地時間10月12日、モダ・センターで行われたプレシーズンの親善試合、ロンドン・ライオンズ戦に出場し、15分の出場で14得点2リバウンド3アシストを記録した。ブレイザーズは119-66でロンドン・ライオンズに快勝した。",
+      "points": [
+        "15分の出場で14得点2リバウンド3アシスト",
+        "FG7本中4本・3PT5本中2本・FT4本全部成功",
+        "ブレイザーズは119-66でロンドン・ライオンズに快勝"
+      ],
+      "source": "ESPN ボックススコア（Trail Blazers vs. London Lions・2026年10月12日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/429-camara-14-points-lions-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Toumani Camara"
+      ],
+      "question": "カマラのこの14得点、開幕ロースターでの評価に影響する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TOUMANI CAMARA",
+        "opponent": "vs. LIONS",
+        "points": 14,
+        "stats": [
+          "3 AST",
+          "2 REB",
+          "4/7 FG",
+          "2/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/429-1.jpg",
+        "https://sixten.jp/assets/ig/429-2.jpg",
+        "https://sixten.jp/assets/ig/429-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-13T08:04:50+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "トゥマニ・カマラ、ライオンズ戦で14得点\n\n・15分の出場で14得点2リバウンド3アシスト\n・FG7本中4本・3PT5本中2本・FT4本全部成功\n・ブレイザーズは119-66でロンドン・ライオンズに快勝\n\n💬 カマラのこの14得点、開幕ロースターでの評価に影響する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Trail Blazers vs. London Lions・2026年10月12日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "430",
+      "slug": "430-henderson-14-points-lions-preseason",
+      "category": "NBA",
+      "date": "2026-10-13",
+      "headline": "スクート・ヘンダーソン、ライオンズ戦で14得点",
+      "excerpt": "ポートランド・トレイルブレイザーズのスクート・ヘンダーソンは現地時間10月12日、モダ・センターで行われたプレシーズンの親善試合、ロンドン・ライオンズ戦に途中出場し、16分の出場で3ポイント5本中4本を含む14得点3アシスト2スティールを記録した。ブレイザーズは119-66でロンドン・ライオンズに快勝した。",
+      "points": [
+        "途中出場16分で14得点3アシスト2スティール",
+        "3PT5本中4本の高確率、+29はチーム最高",
+        "ブレイザーズは119-66でロンドン・ライオンズに快勝"
+      ],
+      "source": "ESPN ボックススコア（Trail Blazers vs. London Lions・2026年10月12日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/430-henderson-14-points-lions-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Scoot Henderson"
+      ],
+      "question": "ヘンダーソンのこの14得点、開幕のベンチ起用に影響する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOOT HENDERSON",
+        "opponent": "vs. LIONS",
+        "points": 14,
+        "stats": [
+          "3 AST",
+          "2 STL",
+          "4/7 FG",
+          "4/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/430-1.jpg",
+        "https://sixten.jp/assets/ig/430-2.jpg",
+        "https://sixten.jp/assets/ig/430-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-13T08:05:00+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "スクート・ヘンダーソン、ライオンズ戦で14得点\n\n・途中出場16分で14得点3アシスト2スティール\n・3PT5本中4本の高確率、+29はチーム最高\n・ブレイザーズは119-66でロンドン・ライオンズに快勝\n\n💬 ヘンダーソンのこの14得点、開幕のベンチ起用に影響する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Trail Blazers vs. London Lions・2026年10月12日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
