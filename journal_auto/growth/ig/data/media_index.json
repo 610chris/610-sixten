@@ -308,6 +308,33 @@
   "product": "REELS",
   "timestamp": "2022-10-27T09:51:33+0000"
  },
+ "17911998867498242": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "420",
+  "auto": true,
+  "caption_len": 358,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヒーロー、ホーネッツ戦で18得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeYIo2tAiiz/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Bucks vs. Hornets・2026年10月11日）",
+  "subject": [
+   "Tyler Herro"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-12T02:14:15+0000"
+ },
  "17912304051492591": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -569,6 +596,33 @@
   "permalink": "https://www.instagram.com/reel/Ckcryimg3P5/",
   "product": "REELS",
   "timestamp": "2022-11-02T06:17:15+0000"
+ },
+ "17932986945404387": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "412",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テイタム、76ers戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeVpVZeiOBw/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-11T03:02:12+0000"
  },
  "17933827573724373": {
   "auto": false,
@@ -1408,6 +1462,33 @@
   "template": "news",
   "timestamp": "2026-10-05T08:00:54+0000"
  },
+ "18016175150954179": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "414",
+  "auto": true,
+  "caption_len": 363,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "河村勇輝、14分で10得点4アシスト・チーム最高+12",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeVvArVgi-r/",
+  "product": "REELS",
+  "route": "override",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Yuki Kawamura"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-11T03:51:45+0000"
+ },
  "18018678778356954": {
   "auto": false,
   "caption_len": 85,
@@ -1650,6 +1731,33 @@
   "product": "REELS",
   "timestamp": "2022-10-25T18:17:14+0000"
  },
+ "18065885891785942": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "418",
+  "auto": true,
+  "caption_len": 283,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "キングスのレイノー、右膝蓋骨亜脱臼と診断",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DeYBkVBFHaF/",
+  "product": "REELS",
+  "route": "library",
+  "source": "サクラメント・キングス公式サイト「Maxime Raynaud Medical Update」",
+  "subject": [
+   "Maxime Raynaud"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-12T01:12:29+0000"
+ },
  "18066034979780884": {
   "article": "328",
   "auto": true,
@@ -1693,6 +1801,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-01T06:11:53+0000"
+ },
+ "18070544441759446": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "415",
+  "auto": true,
+  "caption_len": 368,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケナード、スパーズ戦で20得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeV9wqeHcmV/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Suns vs. Spurs・2026年10月10日）",
+  "subject": [
+   "Luke Kennard"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-11T06:00:37+0000"
  },
  "18073427768560264": {
   "article": "329",
@@ -1897,6 +2032,33 @@
   "template": "news",
   "timestamp": "2026-09-29T19:48:54+0000"
  },
+ "18097125089452713": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "419",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハーデン、マジック戦で24得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeYIdEaCngm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Cavaliers vs. Magic・2026年10月11日）",
+  "subject": [
+   "James Harden"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-12T02:12:35+0000"
+ },
  "18097620854081558": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2004,6 +2166,33 @@
   "permalink": "https://www.instagram.com/reel/CS5tCqfgbGv/",
   "product": "REELS",
   "timestamp": "2021-08-23T03:22:30+0000"
+ },
+ "18100483604335080": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "421",
+  "auto": true,
+  "caption_len": 342,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミラー、バックス戦で18得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeYI1JOiLUI/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Hornets vs. Bucks・2026年10月11日）",
+  "subject": [
+   "Brandon Miller"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-12T02:15:45+0000"
  },
  "18100831547455874": {
   "article": "358",
@@ -3644,6 +3833,33 @@
   "product": "REELS",
   "timestamp": "2022-01-24T13:35:16+0000"
  },
+ "18281622541292621": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "417",
+  "auto": true,
+  "caption_len": 400,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タウンズ「初耳だった」—— ニックスの契約延長保留に反応",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeYBYHgCmHq/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Karl-Anthony Towns 'disappointed' with Knicks tabling talks」",
+  "subject": [
+   "Karl-Anthony Towns"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-12T01:10:47+0000"
+ },
  "18281878594066227": {
   "auto": false,
   "caption_len": 85,
@@ -3766,6 +3982,60 @@
   "template": "news",
   "timestamp": "2026-10-02T04:05:18+0000"
  },
+ "18375283660241494": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "411",
+  "auto": true,
+  "caption_len": 382,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁14得点、河村勇輝+12 —— ラプターズ戦で初黒星",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeVuW8nkQai/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-11T03:46:09+0000"
+ },
+ "18408731665089104": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "416",
+  "auto": true,
+  "caption_len": 398,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スマート、マーベリックス戦で20得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeWuC3RDuWx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Rockets vs. Mavericks・NBAチャイナゲーム第2戦・2026年10月11日）",
+  "subject": [
+   "Marcus Smart"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-11T13:02:34+0000"
+ },
  "18447959788123751": {
   "article": "273",
   "auto": true,
@@ -3788,6 +4058,19 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T18:41:43+0000"
+ },
+ "18465127744140971": {
+  "auto": false,
+  "caption_len": 382,
+  "caption_lines": 17,
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁14得点、河村勇輝+12 —— ラプターズ戦で初黒星",
+  "permalink": "https://www.instagram.com/reel/DeViyBIiRYb/",
+  "product": "REELS",
+  "timestamp": "2026-10-11T02:04:54+0000"
  },
  "18467517802190729": {
   "article": "323",
