@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T05:37:23+09:00",
+  "updated": "2026-10-12T11:06:59+09:00",
   "items": [
     {
       "id": "134",
@@ -8930,6 +8930,145 @@
       "ig_media_id": null,
       "error": null,
       "caption": "キングスのレイノー、右膝蓋骨亜脱臼と診断\n\n・球団公式がMRI結果を発表\n・診断は右膝蓋骨亜脱臼\n・約2週間後に再検査予定\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: サクラメント・キングス公式サイト「Maxime Raynaud Medical Update」\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "419",
+      "slug": "419-harden-24-points-magic-preseason",
+      "category": "NBA",
+      "date": "2026-10-12",
+      "headline": "ハーデン、マジック戦で24得点",
+      "excerpt": "クリーブランド・キャバリアーズのジェームズ・ハーデンは現地時間10月11日、本拠地で行われたプレシーズンのオーランド・マジック戦に先発出場し、26分の出場で24得点4リバウンド2アシストを記録した。キャバリアーズは119-105でマジックを下した。",
+      "points": [
+        "FG7/10・3P3/5の高確率で24得点",
+        "フリースローも9本中7本、プラスマイナス+5",
+        "キャバリアーズが119-105でマジックに快勝"
+      ],
+      "source": "ESPN ボックススコア（Cavaliers vs. Magic・2026年10月11日）",
+      "photo_credit": "ブルックリン・ネッツ時代のジェームズ・ハーデン。撮影: Erik Drost / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/419-harden-24-points-magic-preseason.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-419-hero.jpg",
+      "subject": [
+        "James Harden"
+      ],
+      "question": "ハーデンのこのシュート力、レギュラーシーズンでも続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMES HARDEN",
+        "opponent": "vs. MAGIC",
+        "points": 24,
+        "stats": [
+          "4 REB",
+          "2 AST",
+          "7/10 FG",
+          "3/5 3PT",
+          "7/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/419-1.jpg",
+        "https://sixten.jp/assets/ig/419-2.jpg",
+        "https://sixten.jp/assets/ig/419-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-12T11:06:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ハーデン、マジック戦で24得点\n\n・FG7/10・3P3/5の高確率で24得点\n・フリースローも9本中7本、プラスマイナス+5\n・キャバリアーズが119-105でマジックに快勝\n\n💬 ハーデンのこのシュート力、レギュラーシーズンでも続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Cavaliers vs. Magic・2026年10月11日）\n写真: ブルックリン・ネッツ時代のジェームズ・ハーデン。撮影: Erik Drost / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "420",
+      "slug": "420-herro-18-points-hornets-preseason",
+      "category": "NBA",
+      "date": "2026-10-12",
+      "headline": "ヒーロー、ホーネッツ戦で18得点",
+      "excerpt": "ミルウォーキー・バックスのタイラー・ヒーローは現地時間10月11日、シャーロットで行われたプレシーズンのホーネッツ戦に先発出場し、23分の出場で18得点7リバウンド2アシストを記録した。バックスは90-105でホーネッツに敗れた。",
+      "points": [
+        "FG6/13・3P3/6で18得点7リバウンド",
+        "バックス最多得点、プラスマイナス+1",
+        "バックスは90-105でホーネッツに敗戦"
+      ],
+      "source": "ESPN ボックススコア（Bucks vs. Hornets・2026年10月11日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/420-herro-18-points-hornets-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Tyler Herro"
+      ],
+      "question": "ヒーローのバックス、開幕までにどこまで仕上がる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYLER HERRO",
+        "opponent": "vs. HORNETS",
+        "points": 18,
+        "stats": [
+          "7 REB",
+          "2 AST",
+          "6/13 FG",
+          "3/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/420-1.jpg",
+        "https://sixten.jp/assets/ig/420-2.jpg",
+        "https://sixten.jp/assets/ig/420-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-12T11:06:51+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヒーロー、ホーネッツ戦で18得点\n\n・FG6/13・3P3/6で18得点7リバウンド\n・バックス最多得点、プラスマイナス+1\n・バックスは90-105でホーネッツに敗戦\n\n💬 ヒーローのバックス、開幕までにどこまで仕上がる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Bucks vs. Hornets・2026年10月11日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "421",
+      "slug": "421-miller-18-points-bucks-preseason",
+      "category": "NBA",
+      "date": "2026-10-12",
+      "headline": "ミラー、バックス戦で18得点",
+      "excerpt": "シャーロット・ホーネッツのブランドン・ミラーは現地時間10月11日、本拠地で行われたプレシーズンのミルウォーキー・バックス戦に先発出場し、23分の出場で18得点3リバウンド4アシストを記録した。ホーネッツは105-90でバックスを下した。",
+      "points": [
+        "FG6/15・3P4/9で18得点、チーム最多",
+        "4アシスト1ブロック、プラスマイナス+3",
+        "ホーネッツが105-90でバックスを撃破"
+      ],
+      "source": "ESPN ボックススコア（Hornets vs. Bucks・2026年10月11日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/421-miller-18-points-bucks-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Brandon Miller"
+      ],
+      "question": "ミラーとリード、ホーネッツの得点源はどっちが伸びる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BRANDON MILLER",
+        "opponent": "vs. BUCKS",
+        "points": 18,
+        "stats": [
+          "4 AST",
+          "3 REB",
+          "6/15 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/421-1.jpg",
+        "https://sixten.jp/assets/ig/421-2.jpg",
+        "https://sixten.jp/assets/ig/421-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-12T11:06:51+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ミラー、バックス戦で18得点\n\n・FG6/15・3P4/9で18得点、チーム最多\n・4アシスト1ブロック、プラスマイナス+3\n・ホーネッツが105-90でバックスを撃破\n\n💬 ミラーとリード、ホーネッツの得点源はどっちが伸びる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Hornets vs. Bucks・2026年10月11日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
