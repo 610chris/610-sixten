@@ -1,8 +1,222 @@
 {
- "updated_utc": "2026-10-13 12:07 UTC",
+ "updated_utc": "2026-10-13 19:30 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "roster",
+   "key": "https://www.nba.com/mavs/news/mavericks-pelicans-preview-powell-others-bucking-for-roster-spots",
+   "url": "https://www.nba.com/mavs/news/mavericks-pelicans-preview-powell-others-bucking-for-roster-spots",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-pelicans-preview-powell-others-bucking-for-roster-spots",
+   "title": "Mavericks-Pelicans preview: Powell, others bucking for final roster spots",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-13T19:00:00Z",
+   "tags": [],
+   "summary": "The Mavericks play their preseason home opener Wednesday night against New Orleans, but more importantly will be just one week away from the regular-season lid-lifter.",
+   "facts": [
+    "Powell signed a one-year, make-good contract.",
+    "There are 15 other Mavericks with guaranteed deals.",
+    "Excluding the players on two-way deals, those seeking the 15th spot on the roster likely include Powell.",
+    "Moussa Cisse, Seth Lundy (non-guaranteed) and perhaps Caleb Martin, although his contract ($10-million, plus a player option for 2027-28) might preclude any move involving him unless it is a trade.",
+    "Powell has been a Maverick since the middle of the 2014-15 season.",
+    "OK, Powell played in 64 games last season and started 12 of them.",
+    "As recently as Sunday in China, Powell played 15 minutes.",
+    "He had just three points and five rebounds, but the Mavericks were a healthy plus-14 in his time on the floor."
+   ],
+   "quotes": [
+    "When you watch the game, it’s fairly obvious his ability to connect and keep the group organized,",
+    "When you look at the age of, especially our second unit, Sergio (de Larrea) and Max (Christie) and all these young guys, it just gives us another pressure release and outlet. He generates great looks.…",
+    "So there are a number of different components to the development of young players,",
+    "Putting him out there with guys, trying to assist them, make them better, screen well for them, it (his playing time in China) is just a decision where we felt we are playing well with him on the floo…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-spurs-preseason-game-southwest-division-preview",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-spurs-preseason-game-southwest-division-preview",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-spurs-preseason-game-southwest-division-preview",
+   "title": "Roundball Roundup: Spurs Preseason Game + Southwest Division Preview",
+   "author": "JP Chunga",
+   "published_utc": "2026-10-13T18:35:58Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz prepping for San Antonio and previewed the Southwest Division.",
+   "facts": [],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/new-orleans-pelicans-waive-caleb-houstan-roster-moves-10-13-2026",
+   "url": "https://www.nba.com/pelicans/news/new-orleans-pelicans-waive-caleb-houstan-roster-moves-10-13-2026",
+   "canonical_url": "https://pelicans.com/news/new-orleans-pelicans-waive-caleb-houstan-roster-moves-10-13-2026",
+   "title": "New Orleans Pelicans waive Caleb Houstan",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-13T17:30:05Z",
+   "tags": [],
+   "summary": "The New Orleans Pelicans announced today that the team has waived forward Caleb Houstan.",
+   "facts": [
+    "The New Orleans Pelicans announced today that the team has waived forward Caleb Houstan.",
+    "Houstan, 6-8, 223, has appeared in 186 games (23 starts) across four seasons with Atlanta and Orlando, holding career averages of 3.9 points and 1.4 rebounds in 13.4 minutes per game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-unveil-2026-nba-cup-court-design",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-unveil-2026-nba-cup-court-design",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-unveil-2026-nba-cup-court-design",
+   "title": "Utah Jazz Unveil 2026 NBA Cup Court Design",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-13T16:34:08Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "A new NBA season is right around the corner, which means the fourth installment of the NBA Cup is quickly approaching.",
+   "facts": [
+    "On Tuesday, the NBA unveiled all 30 court designs, with Utah’s court shown below: Utah’s court design will debut on Nov. 20 against the Suns at the Delta Center, with a second home game coming against the Nuggets a week …",
+    "The Jazz begin Group Play on Nov. 6 against the Dallas Mavericks, with the full schedule below: Nov. 6 at Dallas Mavericks Nov. 13 at Houston Rockets Nov. 20 vs.",
+    "Phoenix Suns (find tickets) Nov. 27 vs."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-cleveland-cavaliers-game-preview-injury-report-20261013",
+   "url": "https://www.nba.com/magic/news/orlando-magic-cleveland-cavaliers-game-preview-injury-report-20261013",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-cleveland-cavaliers-game-preview-injury-report-20261013",
+   "title": "Orlando Magic vs. Cleveland Cavaliers: Preseason Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-13T16:20:59Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Basketball is officially back at the Kia Center.",
+   "facts": [
+    "The Orlando Magic will play their first home game of the 2026 preseason when they square off with the Cleveland Cavaliers on Tuesday at 7 p.m.",
+    "After dropping a 119-105 decision in Cleveland, Orlando will look to capitalize on another opportunity against the Cavs.",
+    "Bane is expected to play after receiving a rest day on Sunday.",
+    "The 6-foot-8 forward has attempted 10.5 triples per outing this preseason, the second-highest total in the NBA.",
+    "He’s made 4.0 of them per contest, tied for fourth most in the league."
+   ],
+   "quotes": [
+    "We were loose with some of the things that we’ve practiced,",
+    "Our spacing wasn’t great. (We were) driving a little bit too deep into some of the crowds. (And) just being on the same page. But some of that is to be expected. We’re in the preseason for a reason. W…",
+    "(Jalen) is not under the weather anymore,",
+    "Happy to see him running around. So, he’s doing good."
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/warriors-announce-activations-for-2026-emirates-nba-cup-home-games-20261013",
+   "url": "https://www.nba.com/warriors/news/warriors-announce-activations-for-2026-emirates-nba-cup-home-games-20261013",
+   "canonical_url": "https://warriors.com/news/warriors-announce-activations-for-2026-emirates-nba-cup-home-games-20261013",
+   "title": "Warriors Announce Activations for 2026 Emirates NBA Cup Home Games",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-13T16:00:00Z",
+   "tags": [
+    "NBA Cup"
+   ],
+   "summary": "The Golden State Warriors have announced activations for the team’s 2026 Emirates NBA Cup home games, also known as Warriors Cup Games, the first of which will take place Friday, October 30, against the Los Angeles Lakers at 7 p.m. Fans can purchase tickets for all Warriors Cup games at Chase Center by visiting warriors.com or by calling 1-888-GSW-HOOP.",
+   "facts": [
+    "The Golden State Warriors have announced activations for the team’s 2026 Emirates NBA Cup home games, also known as Warriors Cup Games, the first of which will take place Friday, October 30, against the Los Angeles Laker…",
+    "Fans can purchase tickets for all Warriors Cup games at Chase Center by visiting warriors.com or by calling 1-888-GSW-HOOP.",
+    "Sacramento Kings game on Wednesday, November 25, will also receive a custom Warriors Cup Games Shirt.",
+    "To tip off the team’s NBA Cup games on the road, the Warriors will take on the San Antonio Spurs on Friday, November 13 and will close out Group Play in Portland against the Trail Blazers on Friday, November 27.",
+    "Eight teams will advance to the Quarterfinals of the NBA Cup, with games played on Friday, December 4, and Saturday, December 5.",
+    "The winners of those games will advance to the Semifinals in NBA team markets on Tuesday, December 8 and Wednesday, December 9 with the Championship played at Hinkle Fieldhouse in Indianapolis on Friday, December 11.",
+    "Each of the 22 teams that do not advance to the Quarterfinals of the NBA Cup will be assigned two regular season games (one home game and one away game) that will be played between December 6 and 10.",
+    "Warriors.com offers fans the only verified marketplace for game tickets that is 100% guaranteed by the organization."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "SAS 公式（nba.com）",
+   "team": "SAS",
+   "team_ja": "スパーズ",
+   "team_id": 1610612759,
+   "kind": "feature",
+   "key": "https://www.nba.com/spurs/news/frost-bank-center-welcomes-fans-with-color-coded-parking-expanded-ledger-courtside-club-new-menu-items-and-local-culinary-favorites",
+   "url": "https://www.nba.com/spurs/news/frost-bank-center-welcomes-fans-with-color-coded-parking-expanded-ledger-courtside-club-new-menu-items-and-local-culinary-favorites",
+   "canonical_url": "https://spurs.com/news/frost-bank-center-welcomes-fans-with-color-coded-parking-expanded-ledger-courtside-club-new-menu-items-and-local-culinary-favorites",
+   "title": "Frost Bank Center Welcomes Fans with Color-Coded Parking, Expanded Ledger Courtside Club, New Menu Items and Local Culinary Favorites",
+   "author": "sasmbrodsky",
+   "published_utc": "2026-10-13T15:12:28Z",
+   "tags": [
+    "Featured",
+    "press-release"
+   ],
+   "summary": "SAN ANTONIO (Oct. 13, 2026) – Spurs Sports & Entertainment today announced venue improvements and dining updates for the 2026-27 season at Frost Bank Center, including color-coded parking, updated entrances and an expanded Ledger Courtside Club. Additionally, through the Silver & Black Experience, a partnership between Spurs Sports & Entertainment and Aramark Sports & Entertainment, fans will also…",
+   "facts": [
+    "SAN ANTONIO (Oct. 13, 2026) – Spurs Sports & Entertainment today announced venue improvements and dining updates for the 2026-27 season at Frost Bank Center, including color-coded parking, updated entrances and an expand…",
+    "Additionally, through the Silver & Black Experience, a partnership between Spurs Sports & Entertainment and Aramark Sports & Entertainment, fans will also find new menu items and returning local favorites, along with dis…",
+    "The arena’s Owners Suite has also been expanded ahead of the 2026-27 season.",
+    "New Food and Beverage Offerings Plaza Level SA Central (Section 107) – New this season, former Spurs Culinary Residency participant Krazy Katsu will open a location inside SA Central, bringing its signature Asian-inspire…",
+    "Featured menu items will include the Asian Hot Honey Katsu Sandwich, Smash Stack Hamburger, 6th Man Hamburger, Bang-Bang Rice Bowl and Teriyaki Rice Bowl.",
+    "Also returning to SA Central will be Chef Johnny Hernandez’s Fruteria, Chef Jason Dady’s Shuck Shack and Two Bros BBQ concepts.",
+    "Ultra Club (Section 114) – The Ultra Club will introduce the Double Dribble Burger, winner of Zoo La-La’s 2026 People’s Choice Award.",
+    "Frost Club Level Local & Co. (Section 20) – Local & Co. will feature a mix of house-made menu items and offerings from SA Central’s local chefs, including Chicken Flautas and Churros from Fruteria, Slammin’ Shrimp and a …"
+   ],
+   "quotes": [
+    "A night at Frost Bank Center is about more than what happens on the court. It’s feeling welcome from the moment you arrive, sharing a meal, spending time with friends and family and enjoying the atmos…",
+    "We want guests to focus on enjoying the night together, and listening to our fans helps us understand what makes that experience better. These improvements are about making the entire visit more welco…"
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-cleorl-261013",
+   "url": "https://www.nba.com/cavaliers/news/preview-cleorl-261013",
+   "canonical_url": "https://cavs.com/news/preview-cleorl-261013",
+   "title": "Cavs at Magic, Preseason Game 3 | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-13T13:05:57Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "The Cavs take on the Orlando Magic for the second straight game and for Cleveland's final preseason game.",
+   "facts": [
+    "GAME INFORMATION LAST TIME OUT The Wine & Gold got in the win column on Sunday evening, topping the Magic 14 points.",
+    "In 26 minutes, James Harden scored 24 points on 7-10 shooting from the floor with three made threes.",
+    "Mario Hezonja and Jaylon Tyson each recorded 13 points with Evan Mobley scoring 14.",
+    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -TBD Magic: -TBD KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @Ser…",
+    "UP NEXT In eight days, the regular season tips-off in Philadelphia against the 76ers with the home open coming two days later against the Brooklyn Nets on October 24."
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -72,6 +286,34 @@
    ]
   },
   {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/releases-home-opener-261013",
+   "url": "https://www.nba.com/cavaliers/news/releases-home-opener-261013",
+   "canonical_url": "https://cavs.com/news/releases-home-opener-261013",
+   "title": "Cleveland Cavaliers Tip Off 2026-27 Home Schedule with Home Opener presented by Rocket",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-12T22:09:50Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "CLEVELAND – The Cleveland Cavaliers tip off their 2026-27 home schedule Saturday, October 24 at 7:30 p.m. ET when they host the Brooklyn Nets at Rocket Arena for the Home Opener presented by Rocket. Every fan in attendance will receive a Cavaliers-inspired Home Opener T-Shirt presented by Cleveland Clinic, rally towel presented by Rocket and PixMob bracelet, setting the stage for the NBA’s best ho…",
+   "facts": [
+    "CLEVELAND – The Cleveland Cavaliers tip off their 2026-27 home schedule Saturday, October 24 at 7:30 p.m.",
+    "Fan Experience For opening night, fans will enjoy performances from Cavs entertainment teams, including the Cavs Dance Team and 216Stix, along with a halftime performance by Grammy-nominated rapper and DJ Paul Wall.",
+    "Community Spotlights Proceeds from the night’s 50/50 raffle will benefit Cast It Forward, a nonprofit that provides fishing and outdoor experiences to kids, veterans and seniors who might not otherwise have the chance.",
+    "The food drive will help fuel the Cavs Million Meals Mission supported by Giant Eagle, a community program meant to fight food insecurity across Northeast Ohio by serving 1 million meals to underserved communities each y…",
+    "Since launching in 2024, Million Meals Mission has packed and distributed more than 3 million meals to support the Hunger Network, Greater Cleveland Food Bank and Children's Hunger Alliance.",
+    "Fans who spend $100 at Center Court at Rocket Arena during Home Opener will receive a $20 gift card with purchase.",
+    "The first 50 fans to spend $100 at Pinecrest on October 24 will receive tickets to the Cavs October 26 game against the Minnesota Timberwolves.",
+    "Cavs Home Opener Sweepstakes Fans can enter for the chance to win free tickets to the Cavs Home Opener presented by Rocket, now through Tuesday, October 20 at 11:59 p.m."
+   ],
+   "quotes": []
+  },
+  {
    "source": "MEM 公式（nba.com）",
    "team": "MEM",
    "team_ja": "グリズリーズ",
@@ -120,7 +362,8 @@
    "published_utc": "2026-10-12T20:45:24Z",
    "tags": [
     "App Media Feed",
-    "Players"
+    "Players",
+    "Team News"
    ],
    "summary": "The Los Angeles Lakers have signed forward Rafael Castro. In a corresponding move, the team has waived forward William Kyle III.",
    "facts": [
@@ -142,7 +385,12 @@
    "title": "Seeing greatness in Flagg, Irving is eager to help him reach it",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-12T19:44:23Z",
-   "tags": [],
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
    "summary": "To Kyrie Irving’s credit, he did not take the bait.",
    "facts": [
     "I love that he’s a two-way player and cares about using his voice as he’s grown into year two.",
@@ -151,12 +399,12 @@
     "He was asked about the numerous NBA stars that have had to deal with debilitating injuries.",
     "In the past, a torn ACL or Achilles could have meant a player would never return to his previous abilities.",
     "The preseason home opener is Wednesday against the New Orleans Pelicans at 7 p.m. at American Airlines Center . . .",
-    "Several Mavericks continue to deal with injuries that kept them out of the two games in Macao – Santi Aldama, Marcus Sasser, Dereck Lively II and Caleb Martin, notably."
+    "Several Mavericks continue to deal with injuries that kept them out of the two games in Macao — Santi Aldama, Marcus Sasser, Dereck Lively II and Caleb Martin, notably."
    ],
    "quotes": [
     "I don’t want to go deep into the comparisons,",
     "My first few years in the league were pretty tough in terms of losing and not having the necessary pieces,",
-    "So I struggled in certain areas. I needed veteran leadership. Now that I’m a little older and I’m seeing this teenager – I won’t call him a kid – he’s displaying what he’s capable of and he’s only goi…",
+    "So I struggled in certain areas. I needed veteran leadership. Now that I’m a little older and I’m seeing this teenager — I won’t call him a kid — he’s displaying what he’s capable of and he’s only goi…",
     "I think we have great depth,"
    ]
   },
@@ -690,111 +938,6 @@
    "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the impact of the Nurkić injury, Darryn Peterson’s 23 point performance, and Eastern Conference questions.",
    "facts": [
     "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the impact of the Nurkić injury, Darryn Peterson’s 23 point performance, and Eastern Conference questions."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-announce-petey-pablo-to-perform-at-home-opener-halftime-show",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-announce-petey-pablo-to-perform-at-home-opener-halftime-show",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-announce-petey-pablo-to-perform-at-home-opener-halftime-show",
-   "title": "Charlotte Hornets Announce Petey Pablo To Perform At Home Opener Halftime Show",
-   "author": "Hornets PR",
-   "published_utc": "2026-10-10T19:20:01Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "October 10, 2026 — The Charlotte Hornets today announced that Grammy-nominated rap icon Petey Pablo will headline the halftime show for the team’s 2026–27 NBA Home Opener at Spectrum Center on October 23 against the Atlanta Hawks.",
-   "facts": [
-    "October 10, 2026 — The Charlotte Hornets today announced that Grammy-nominated rap icon Petey Pablo will headline the halftime show for the team’s 2026–27 NBA Home Opener at Spectrum Center on October 23 against the Atla…"
-   ],
-   "quotes": [
-    " themed t-shirt giveaway upon entering Spectrum Center. Additionally, the Hornets and Petey Pablo are teaming up to launch a limited-edition merchandise collaboration, which will be sold exclusively a…",
-    " said Hornets Sports & Entertainment President Shelly Cayette-Weston. "
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-rockets-preview-irvings-debut-takes-center-stage",
-   "url": "https://www.nba.com/mavs/news/mavericks-rockets-preview-irvings-debut-takes-center-stage",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-rockets-preview-irvings-debut-takes-center-stage",
-   "title": "Mavericks-Rockets preview: Irving's debut takes center stage",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-10T18:11:52Z",
-   "tags": [
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "Kyrie Irving has been waiting, patiently, for what seems like an eternity.",
-   "facts": [
-    "The long-awaited moment is finally expected to happen Sunday in China.",
-    "And while it is “only” the preseason, it is part of the NBA China Games 2026 and will command global attention.",
-    "After more than 18 months of recovery from surgery to repair his torn left ACL, Irving will take the court at the Venetian Arena against the Houston Rockets.",
-    "And his return is being anticipated by everybody in the NBA, including one of the other superstars in China — Houston’s Kevin Durant.",
-    "Durant missed the 2019-20 season with a ruptured Achilles.",
-    "His teammate, point guard Fred VanVleet, returned Friday in China after missing last season because of an ACL tear.",
-    "And for superstars returning from a season-long injury, it’s even tougher.",
-    "He’ll begin what is sure to be a long process of building chemistry with Flagg, who flashed his rookie-of-the-year skills with 17 second-quarter points in the preseason opener, finishing with 19 overall."
-   ],
-   "quotes": [
-    "I haven’t talked to Kai about his rehab, (but) I spoke to him the other day,",
-    "He’s a savant. When you think about basketball, you think about him. So I’m looking forward to seeing him back on the floor.",
-    "I know him as a human being,",
-    "I’m excited for him, man — so happy that he’s back and healthy. I don’t want to see anybody in our game be away from the game that long, especially the ones who love it as much as (Irving). So I can’t…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "roster",
-   "key": "https://www.nba.com/pelicans/news/jalon-moore-pelicans-roster-moves-christian-koloko-preseason-2026",
-   "url": "https://www.nba.com/pelicans/news/jalon-moore-pelicans-roster-moves-christian-koloko-preseason-2026",
-   "canonical_url": "https://pelicans.com/news/jalon-moore-pelicans-roster-moves-christian-koloko-preseason-2026",
-   "title": "New Orleans Pelicans sign Jalon Moore, waive Christian Koloko",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-10T17:00:10Z",
-   "tags": [],
-   "summary": "The New Orleans Pelicans announced today that the team has signed forward Jalon Moore. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "Moore, 6-7, 215, who suffered a torn Achilles tendon prior to the 2025 NBA Draft, played in three games for the Pelicans Summer League team in Las Vegas this past summer, averaging 6.0 points and 4.0 rebounds in 19.3 min…",
-    "As a college senior, Moore appeared in 34 games (all starts) for the Oklahoma Sooners during the 2024-25 season, finishing with averages of 15.9 points and 5.8 rebounds in 30.3 minutes per game.",
-    "Moore appeared in a total of 110 games (81 starts) over four collegiate seasons with Georgia Tech (2021-23) and Oklahoma (2023-25), holding career averages of 10.6 points and 5.3 rebounds in 23.5 minutes per contest.",
-    "In a corresponding move, the team has waived center Christian Koloko."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-orlcle-261011",
-   "url": "https://www.nba.com/cavaliers/news/preview-orlcle-261011",
-   "canonical_url": "https://cavs.com/news/preview-orlcle-261011",
-   "title": "Cavs vs Magic, Preseason Game 2 | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-10T15:46:39Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "It's the first of two straight tune-ups against the Orlando Magic tonight. The next meeting comes on Tuesday evening in Florida for the Cavs only road preseason game this year.",
-   "facts": [
-    "Jaylon Tyson led the way with 14 while Donovan Mitchell, Meleek Thomas, and Tristan Enaruna recorded double figures.",
-    "Craig Porter Jr. recorded 10 assists in the loss.",
-    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -TBD Magic: -TBD KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @Ser…"
    ],
    "quotes": []
   }
