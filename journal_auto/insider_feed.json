@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-10-13 03:37 UTC",
+ "updated_utc": "2026-10-13 22:41 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1x56u34/charania_boston_celtics_guard_payton_pritchard/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-13T19:51:14+00:00",
+   "text": "Boston Celtics guard Payton Pritchard has agreed to a two-year, $44.2 million contract extension, plus a mutual option in the 2029-30 season, CAA Co-Head of Basketball Austin Brown and agent Max Saidman tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/21317bd976873",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x56u34/charania_boston_celtics_guard_payton_pritchard/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/21317bd976873"
+   ]
+  },
   {
    "reporter": "Michael Scotto（HoopsHype）",
    "handle": "MikeAScotto",
@@ -12,45 +25,6 @@
    "text": "The Los Angeles Clippers have waived Yuki Kawamura.",
    "reddit_url": "https://www.reddit.com/r/nba/comments/1x4m77w/scotto_the_los_angeles_clippers_have_waived_yuki/",
    "links": []
-  },
-  {
-   "reporter": "Marc J. Spears（Andscape）",
-   "handle": "MarcJSpears",
-   "key": "https://www.reddit.com/r/nba/comments/1x4dct0/marc_j_spears_ben_simmons_is_expected_to_be_in/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-12T20:42:28+00:00",
-   "text": "Source: https://andscape.com/features/ben-simmons-documentary-espn-kings-fishing-injuries-career/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x4dct0/marc_j_spears_ben_simmons_is_expected_to_be_in/",
-   "links": [
-    "https://andscape.com/features/ben-simmons-documentary-espn-kings-fishing-injuries-career/"
-   ]
-  },
-  {
-   "reporter": "Marc Stein（The Stein Line）",
-   "handle": "TheSteinLine",
-   "key": "https://www.reddit.com/r/nba/comments/1x430c5/stein_despite_hukportis_injury_76ers_are_unlikely/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-12T14:14:56+00:00",
-   "text": "The Philadelphia 76ers don't have much depth at center behind star big man Joel Embiid after Ariel Hukporti suffered a season-ending Achilles tear, and they don't currently have many avenues to address the concern.\n\nAccording to NBA insiders Marc Stein and Jake Fischer, \"Even before losing Hukporti, Philadelphia knew it was limited by first apron concerns in making any meaningful roster alterations beyond filling its third two-way spot. Sources say that the Sixers are unlikely to add a big man on a standard NBA deal before early December, when a pro-rated minimum salary would no longer take the team's payroll past the first apron threshold. The only apparent pathway to bringing in a replacement sooner is swinging a trade that actually reduces the team's overall salary commitments by roughly $600,000.\"\n\nOne option could be trading a player like forward Jabari Walker, though he's looked very good during the preseason. Another option may be playing small when Embiid sits, with players like Dean Wade, Dominick Barlow or perhaps even LeBron James operating as a small-ball center.\n\nIt isn't the ideal situation—especially considering Embiid's injury history—but the Sixers don't have much flexibility to explore alternate plans, at least until December.\n\nSource: https://bleacherreport.com/articles/25509406-new-76ers-rumors-roster-after-hukportis-season-ending-injury-amid-buzz-lebron-james-role",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x430c5/stein_despite_hukportis_injury_76ers_are_unlikely/",
-   "links": [
-    "https://bleacherreport.com/articles/25509406-new-76ers-rumors-roster-after-hukportis-season-ending-injury-amid-buzz-lebron-james-role"
-   ]
-  },
-  {
-   "reporter": "Marc Stein（The Stein Line）",
-   "handle": "TheSteinLine",
-   "key": "https://www.reddit.com/r/nba/comments/1x4268m/stein_with_a_week_until_the_deadline_brandon/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-12T13:40:53+00:00",
-   "text": "Brandon Miller, the second-overall pick in the 2023 NBA Draft, is now eligible for a rookie-scale contract extension with the Charlotte Hornets. And with the 23-year-old cemented as part of the team's core alongside Kon Knueppel, he is projected to land a five-year max contract.\n\nAccording to NBA insider Marc Stein, the two sides are expected to agree on a deal worth over $200 million over five years, averaging more than $40 million per year.\n\n\"Miller is still projected by various league observers to ultimately come to terms with the Hornets on an extension that could exceed Amen Thompson's new five-year, $208 million deal with the Rockets,\" Stein wrote in his latest report.\n\n\"In conversations with front office executives around the NBA this week, there seemed to be a growing consensus among rival decision-makers that Miller's deal has the potential to be richer in a nod to his higher offensive ceiling,\" he explained.\n\nIn his first three seasons with the Hornets, Brandon Miller has averaged 19.0 points, 4.6 rebounds, and 3.0 assists, shooting 43.1% from the field and 37.3% from three-point range.\n\nEstimates suggest he could land a deal between $220-$270 million. If Brandon Miller lands an extension worth over $200 million, he could earn more than $ 40 million per year. Only 44 players in the league currently earn more than that.\n\nSource: https://sports.yahoo.com/articles/insider-explains-why-brandon-miller-065252580.html",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x4268m/stein_with_a_week_until_the_deadline_brandon/",
-   "links": [
-    "https://sports.yahoo.com/articles/insider-explains-why-brandon-miller-065252580.html"
-   ]
   }
  ]
 }
