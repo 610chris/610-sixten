@@ -1,8 +1,48 @@
 {
- "updated_utc": "2026-10-13 03:48 UTC",
+ "updated_utc": "2026-10-13 12:07 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-119-san-antonio-spurs-109-three-takeaways-from-the-preseason-win",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-119-san-antonio-spurs-109-three-takeaways-from-the-preseason-win",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-119-san-antonio-spurs-109-three-takeaways-from-the-preseason-win",
+   "title": "Utah Jazz 119, San Antonio Spurs 109: Three Takeaways From the Preseason Win",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-13T04:06:12Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Isaiah Collier",
+    "Jaren Jackson Jr.",
+    "Jaxson Hayes",
+    "Keyonte George",
+    "Lauri Markkanen",
+    "Utah Jazz"
+   ],
+   "summary": "For the last time before the regular season kicks off, the Utah Jazz took the floor at the Delta Center as preseason preparation is in full swing.",
+   "facts": [
+    "The Jazz hosted the San Antonio Spurs Monday night in what became a comfortable 119-109 win for the home team.",
+    "Utah’s starting five was productive and active on both ends in the first half, while the team’s second unit was a key spark throughout all 48 minutes.",
+    "Despite only knocking down two 3-pointers in the first 12 minutes, Utah put up 33 points in the quarter, mainly a result of 20 points in the paint.",
+    "To counter that interior scoring, the Spurs hit 6 threes and kept pace with 26 points of their own.",
+    "Free throws became the name of the game in the second quarter, with a combined 38 attempts from the line between the two teams.",
+    "By the halftime buzzer, Utah held a slim 68-61 lead.",
+    "Darryn Peterson helped push Utah’s offense, as the rookie guard dropped 10 points and three assists in the third quarter alone.",
+    "Heading into the final 12 minutes, Utah held a 99-78 advantage."
+   ],
+   "quotes": [
+    "There were some really good moments defensively for our team. I’m proud of the way the team is competing. Their focus level has been really high throughout camp… I can see it in the improvements they'…",
+    "He’s an incredibly gifted athlete,",
+    "He has good instincts and the ability to close space. Gambling is the wrong term, but he’s doing it in the appropriate way right now (in terms of) picking his spots when shooting the gap.",
+    "Jaxson provides a lob threat for us and the team is beginning to understand the power of that,"
+   ]
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -755,34 +795,6 @@
     "Jaylon Tyson led the way with 14 while Donovan Mitchell, Meleek Thomas, and Tristan Enaruna recorded double figures.",
     "Craig Porter Jr. recorded 10 assists in the loss.",
     "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -TBD Magic: -TBD KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @Ser…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-bulls-104100-in-chicago",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-bulls-104100-in-chicago",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-bulls-104100-in-chicago",
-   "title": "Grizzlies Defeat Bulls 104–100 in Chicago",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-10T04:00:00Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "CHICAGO, Ill. - The Memphis Grizzlies (2-1) defeated the Chicago Bulls (1-1) 104100 Friday at United Center.",
-   "facts": [
-    "CHICAGO, Ill. - The Memphis Grizzlies (2-1) defeated the Chicago Bulls (1-1) 104100 Friday at United Center.",
-    "Ty Jerome led the Grizzlies in scoring with 16 points on 5-for-8 shooting from the field and 4for-6 shooting from three-point range.",
-    "GG Jackson II added 14 points on 5-for-9 shooting with four rebounds, one assist and one block in 17 minutes off the bench.",
-    "Cameron Boozer and Zach Edey both finished with 10 points.",
-    "Rookie Caleb Wilson led the Bulls with 21 points, four rebounds and one steal in a team-high 32 minutes.",
-    "Norman Powell finished with 17 points, three rebounds, two assists and one steal in 19 minutes.",
-    "Leonard Miller added 12 points and 11 rebounds in 23 minutes off the bench for his first double-double of the preseason.",
-    "Memphis limited Chicago to just 37.5% from the field and 35.3% from deep and outpaced the Bulls in fast break points (17-8) and points in the paint (50-34)."
    ],
    "quotes": []
   }
