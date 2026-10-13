@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T10:58:33+09:00",
+  "updated": "2026-10-13T11:21:36+09:00",
   "items": [
     {
       "id": "134",
@@ -9575,6 +9575,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ポーター・ジュニアがウィザーズ戦で22得点\n\n・FG 13本中8本の高確率\n・24分出場でスティール2本\n・ネッツは131-122で快勝\n\n💬 ポーター・ジュニア、ネッツで台頭する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "435",
+      "slug": "435-edwards-26-points-knicks-preseason",
+      "category": "NBA",
+      "date": "2026-10-13",
+      "headline": "アンソニー・エドワーズがニックス戦で26得点",
+      "excerpt": "ミネソタ・ティンバーウルブズのアンソニー・エドワーズは現地時間10月12日、マディソン・スクエア・ガーデンで行われたプレシーズンのニューヨーク・ニックス戦に出場し、25分の出場で3ポイント8本中5本を含む26得点3アシストを記録し試合最多得点者となった。ティンバーウルブズは122-104でニックスに快勝した。",
+      "points": [
+        "3P 8本中5本・3アシスト",
+        "25分出場でターンオーバー2",
+        "ウルブズは122-104で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/435-edwards-26-points-knicks-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Edwards"
+      ],
+      "question": "エドワーズ、今季はMVPレースに入ってくる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY EDWARDS",
+        "opponent": "vs. KNICKS",
+        "points": 26,
+        "stats": [
+          "3 REB",
+          "3 AST",
+          "8/16 FG",
+          "5/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/435-1.jpg",
+        "https://sixten.jp/assets/ig/435-2.jpg",
+        "https://sixten.jp/assets/ig/435-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-13T11:21:32+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アンソニー・エドワーズがニックス戦で26得点\n\n・3P 8本中5本・3アシスト\n・25分出場でターンオーバー2\n・ウルブズは122-104で快勝\n\n💬 エドワーズ、今季はMVPレースに入ってくる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
