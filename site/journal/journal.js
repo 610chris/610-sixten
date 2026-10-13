@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "438-clippers-waive-kawamura.html",
+    cat: "NBA",
+    title: "クリッパーズ、河村勇輝をウェイブ —— Michael Scotto記者（HoopsHype）が報道",
+    excerpt: "ロサンゼルス・クリッパーズが河村勇輝をウェイブで放出したことが、日本時間10月13日に明らかになった。HoopsHypeのMichael Scotto記者が自身のXで一報を伝えた。放出の理由や今後の去就は本稿時点で明らかになっていない。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "437-air-force-1-low-what-the-la.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low「What The LA」が10月に再登場 —— 品番CT1117-100で2度目の発売",
