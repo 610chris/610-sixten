@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "442-caldwell-pope-chemistry-76ers.html",
+    cat: "NBA",
+    title: "コールドウェル＝ポープ「お互いを好きになることが一番大事」—— 76ers新戦力、選手層の融合に手応え",
+    excerpt: "フィラデルフィア・76ersのケンテイビアス・コールドウェル＝ポープ(Kentavious Caldwell-Pope)は12日(現地時間)、チーム施設での取材に応じ、スター選手を揃えた今季の76ersの成否は「選手層の化学反応にかかっている」と語った。「お互いを好きになること、コートの内外で一緒に楽しく過ごせることだ」と述べた。",
+    date: "2026.10.14",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "441-air-jordan-3-santa-dm0967-601.html",
+    cat: "KICKS",
+    title: "Air Jordan 3「Santa」が11月発売 —— 品番DM0967-601、1985年のヴィンテージ・ポスターに着想",
+    excerpt: "ジョーダン ブランドの「Air Jordan 3」に、クリスマスをテーマにしたキッズ専用カラー「Santa」(品番DM0967-601)が2026年11月に発売されることがわかった。サンタクロースの衣装から着想を得たレッド・ホワイト・ブラックの配色で、1985年当時のナイキのヴィンテージ・ポスターをモチーフにしている。",
+    date: "2026.10.14",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "440-eneos-sunflowers-2026-27-season-opener.html",
     cat: "JAPAN",
     title: "ENEOSサンフラワーズ、Wリーグ2026-27シーズンが10月14日開幕 —— ユナイテッドカップ連覇、4年ぶり24度目のリーグ制覇目指す",
