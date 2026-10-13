@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "439-golden-kings-fy20-record-revenue.html",
+    cat: "JAPAN",
+    title: "琉球ゴールデンキングス、単体売上高38億6400万円で過去最高 —— B.LEAGUE史上初の5年連続ファイナル進出も",
+    excerpt: "沖縄バスケットボール株式会社は10月13日、琉球ゴールデンキングスの2025-26シーズン(2026年6月期・第20期)実績を発表。単体売上高は3,864百万円で前期比108%の過去最高を記録し、チームはB.LEAGUE史上初となる5年連続のファイナル進出を果たした。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-439-hero.jpg?v=4af158d839"
+  },
+  {
     href: "438-clippers-waive-kawamura.html",
     cat: "NBA",
     title: "クリッパーズ、河村勇輝をウェイブ —— Michael Scotto記者（HoopsHype）が報道",
