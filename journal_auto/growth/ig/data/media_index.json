@@ -176,6 +176,33 @@
   "product": "REELS",
   "timestamp": "2022-10-27T06:31:56+0000"
  },
+ "17896044342416852": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "429",
+  "auto": true,
+  "caption_len": 379,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "トゥマニ・カマラ、ライオンズ戦で14得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeaYcV4E8DL/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Trail Blazers vs. London Lions・2026年10月12日）",
+  "subject": [
+   "Toumani Camara"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-12T23:10:52+0000"
+ },
  "17897827167672483": {
   "article": "336",
   "auto": true,
@@ -294,6 +321,33 @@
   "permalink": "https://www.instagram.com/reel/CS5-uFwgUvg/",
   "product": "REELS",
   "timestamp": "2021-08-23T05:57:35+0000"
+ },
+ "17909625219518397": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "422",
+  "auto": true,
+  "caption_len": 352,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レナード・ミラー、ナゲッツ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeYUvJ_D-51/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Bulls vs. Nuggets・2026年10月11日）",
+  "subject": [
+   "Leonard Miller"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-12T03:59:49+0000"
  },
  "17910388265645839": {
   "auto": false,
@@ -1203,6 +1257,33 @@
   "product": "REELS",
   "timestamp": "2022-10-24T09:15:51+0000"
  },
+ "17978190540067518": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "428",
+  "auto": true,
+  "caption_len": 394,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポルジンギス、2週間の離脱から火曜に施設復帰へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeaQZ26Cntx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Kristaps Porzingis expected to be at Warriors' facility on Tuesday」",
+  "subject": [
+   "Kristaps Porzingis"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-12T22:00:34+0000"
+ },
  "17979752872733450": {
   "auto": false,
   "caption_len": 76,
@@ -1462,6 +1543,33 @@
   "template": "news",
   "timestamp": "2026-10-05T08:00:54+0000"
  },
+ "18013168478957826": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "433",
+  "auto": true,
+  "caption_len": 313,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ベネット・スターツがホークス戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeasIInD85q/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Bennett Stirtz"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-13T02:02:50+0000"
+ },
  "18016175150954179": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -1590,6 +1698,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-08T04:09:15+0000"
+ },
+ "18039122726845085": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "430",
+  "auto": true,
+  "caption_len": 400,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スクート・ヘンダーソン、ライオンズ戦で14得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeaYo3EkXT-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Trail Blazers vs. London Lions・2026年10月12日）",
+  "subject": [
+   "Scoot Henderson"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-12T23:12:33+0000"
  },
  "18041019830835472": {
   "article": "286",
@@ -1828,6 +1963,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T06:00:37+0000"
+ },
+ "18072716108733261": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "424",
+  "auto": true,
+  "caption_len": 295,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アービング、586日ぶりの実戦でマカオを沸かす",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeY4EQDCLtB/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Kyrie Irving"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-12T09:08:41+0000"
  },
  "18073427768560264": {
   "article": "329",
@@ -2240,6 +2402,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T11:17:45+0000"
+ },
+ "18101272838167669": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "434",
+  "auto": true,
+  "caption_len": 293,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポーター・ジュニアがウィザーズ戦で22得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeasXnoApRH/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Michael Porter Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-10-13T02:05:01+0000"
  },
  "18102321803238144": {
   "arms": {
@@ -2724,6 +2913,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-01T20:06:03+0000"
+ },
+ "18116547508821277": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "425",
+  "auto": true,
+  "caption_len": 425,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クーパー・フラッグ、マカオで33得点10リブ10アスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeZMmGdDj2T/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Windhorst: Why Cooper Flagg's ascension is starting to feel inevitable」",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-12T12:07:58+0000"
  },
  "18117441415777105": {
   "article": "354",
@@ -3223,6 +3439,33 @@
   "product": "REELS",
   "timestamp": "2021-09-25T11:52:53+0000"
  },
+ "18134942386657725": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "423",
+  "auto": true,
+  "caption_len": 361,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケスラー、小指の負傷からプレシーズン初出場に前進",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeYV_59gH3i/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Lakers center Walker Kessler (finger) nears preseason debut」",
+  "subject": [
+   "Walker Kessler"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-12T04:11:01+0000"
+ },
  "18139234936621639": {
   "article": "337",
   "auto": true,
@@ -3632,6 +3875,33 @@
   "permalink": "https://www.instagram.com/reel/CcO_HbKgDMK/",
   "product": "REELS",
   "timestamp": "2022-04-12T02:25:45+0000"
+ },
+ "18194643010396583": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "435",
+  "auto": true,
+  "caption_len": 300,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アンソニー・エドワーズがニックス戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeaumEFDK_6/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Anthony Edwards"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-13T02:24:15+0000"
  },
  "18195811609168780": {
   "auto": false,
