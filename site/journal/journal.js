@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "437-air-force-1-low-what-the-la.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low「What The LA」が10月に再登場 —— 品番CT1117-100で2度目の発売",
+    excerpt: "ナイキの「Air Force 1 Low ”What The LA”」(品番CT1117-100)が、2026年10月中に2度目の発売を予定している。具体的な発売日・価格は本稿時点で未定。Nice Kicksが伝えた。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "436-gillespie-25-points-jazz-preseason.html",
+    cat: "NBA",
+    title: "ジャコビ・ギレスピー、ジャズ戦で25得点 —— プレシーズンでスパーズが109-119で敗れる",
+    excerpt: "サンアントニオ・スパーズのジャコビ・ギレスピーは現地時間10月12日、デルタ・センターで行われたプレシーズンのユタ・ジャズ戦に出場し、25分の出場でフィールドゴール14本中9本を沈めて25得点3アシスト3スティールを記録した。スパーズは109-119でジャズに敗れた。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "435-edwards-26-points-knicks-preseason.html",
     cat: "NBA",
     title: "アンソニー・エドワーズ、ニックス戦で26得点 —— プレシーズンでウルブズが122-104で快勝",
