@@ -1,8 +1,36 @@
 {
- "updated_utc": "2026-10-12 23:11 UTC",
+ "updated_utc": "2026-10-13 03:48 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-continue-to-build-magic-together-20261012",
+   "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-continue-to-build-magic-together-20261012",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-walt-disney-world-continue-to-build-magic-together-20261012",
+   "title": "Orlando Magic and Walt Disney World Continue to Build Magic Together",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-13T00:18:34Z",
+   "tags": [
+    "Global Partners",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Orlando Magic and Walt Disney World extend community sponsorship agreement and jersey branding; unveil re-imagined Disney Atrium",
+   "facts": [
+    "The team announced that Walt Disney World is extending its Champion of the Community (COTC) sponsorship, a partnership which began in 2010."
+   ],
+   "quotes": [
+    "The Magic are thrilled to extend our longstanding relationship with Walt Disney World,",
+    "As two Orlando-born organizations, this continues our 16-year COTC relationship putting the community at the heart of what we do. We’re honored to represent our great city and look forward to creating…",
+    "For years, Walt Disney World and the Orlando Magic have brought people together through shared experiences and a deep commitment to Central Florida,",
+    "The reimagined Walt Disney World Atrium builds on that partnership, creating a vibrant new welcome for fans and an experience that feels distinctly Orlando."
+   ]
+  },
   {
    "source": "MEM 公式（nba.com）",
    "team": "MEM",
@@ -755,27 +783,6 @@
     "Norman Powell finished with 17 points, three rebounds, two assists and one steal in 19 minutes.",
     "Leonard Miller added 12 points and 11 rebounds in 23 minutes off the bench for his first double-double of the preseason.",
     "Memphis limited Chicago to just 37.5% from the field and 35.3% from deep and outpaced the Bulls in fast break points (17-8) and points in the paint (50-34)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "injury",
-   "key": "https://www.nba.com/grizzlies/news/memphis-grizzlies-medical-update-46",
-   "url": "https://www.nba.com/grizzlies/news/memphis-grizzlies-medical-update-46",
-   "canonical_url": "https://grizzlies.com/news/memphis-grizzlies-medical-update-46",
-   "title": "Memphis Grizzlies Medical Update",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-09T23:15:00Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "Memphis, Tenn. – The Memphis Grizzlies today provided the following medical update on center Isaiah Stewart:",
-   "facts": [
-    "Memphis, Tenn. – The Memphis Grizzlies today provided the following medical update on center Isaiah Stewart: Stewart sustained a moderate left ankle sprain in the first quarter of the Grizzlies’ preseason road game again…"
    ],
    "quotes": []
   }
