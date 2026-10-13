@@ -1,8 +1,79 @@
 {
- "updated_utc": "2026-10-13 19:30 UTC",
+ "updated_utc": "2026-10-13 23:24 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "SAC 公式（nba.com）",
+   "team": "SAC",
+   "team_ja": "キングス",
+   "team_id": 1610612758,
+   "kind": "injury",
+   "key": "https://www.nba.com/kings/news/dylan-cardwell-medical-update",
+   "url": "https://www.nba.com/kings/news/dylan-cardwell-medical-update",
+   "canonical_url": "https://kings.com/news/dylan-cardwell-medical-update",
+   "title": "Dylan Cardwell Medical Update",
+   "author": "Official Release",
+   "published_utc": "2026-10-13T21:29:58Z",
+   "tags": [
+    "Medical Update"
+   ],
+   "summary": "Sacramento Kings center Dylan Cardwell was evaluated after experiencing left calf soreness following the Kings game versus the Los Angeles Lakers on October 8. Imaging revealed a calf strain in Cardwell’s left calf. He will be reevaluated in approximately two weeks. Further updates will be provided as appropriate.",
+   "facts": [
+    "Sacramento Kings center Dylan Cardwell was evaluated after experiencing left calf soreness following the Kings game versus the Los Angeles Lakers on October 8.",
+    "Imaging revealed a calf strain in Cardwell’s left calf."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "roster",
+   "key": "https://www.nba.com/celtics/news/jsidebar-prac-20261013-joe-mazzulla-praises-paul-georges-tremendous-training-camp",
+   "url": "https://www.nba.com/celtics/news/jsidebar-prac-20261013-joe-mazzulla-praises-paul-georges-tremendous-training-camp",
+   "canonical_url": "https://celtics.com/news/jsidebar-prac-20261013-joe-mazzulla-praises-paul-georges-tremendous-training-camp",
+   "title": "Joe Mazzulla Praises Paul George’s ‘Tremendous Training Camp’",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-13T21:18:00Z",
+   "tags": [
+    "Practice",
+    "Preseason",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – Paul George said heading into training camp that he was feeling the best physically he’s felt in a few years.",
+   "facts": [],
+   "quotes": [
+    "I think he's had a tremendous training camp from a physical standpoint,",
+    "The way he's practiced, the way he played the other night in the game, I think he's in great shape. I think he feels great from that standpoint.",
+    "I'm still trying to find my way offensively and figuring out the system,",
+    "It's been a challenge, but a great challenge. And Joe's been extremely helpful in that. The guys have been extremely helpful in that process. But for sure, defensively, is where I've always taken prid…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-mohamed-wague",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-mohamed-wague",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-mohamed-wague",
+   "title": "Utah Jazz Waive Mohamed Wague",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-13T20:01:35Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 13, 2026) – The Utah Jazz have waived forward/center Mohamed Wague (wag-EE).",
+   "facts": [
+    "SALT LAKE CITY (October 13, 2026) – The Utah Jazz have waived forward/center Mohamed Wague (wag-EE).",
+    "About Mohamed Wague Wague (6-10, 225, Oklahoma) played four Division I seasons at West Virginia (2022-23), Alabama (2023-24), and Oklahoma (2024-26).In his senior season (2025-26), he started all 37 games he appeared in,…"
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -917,29 +988,6 @@
     "It was really fun just seeing so many people out here for the open practice,",
     "There was some really good moves and athleticism showed by Hannes today, which was surprising. I had no idea [he could do a cartwheel], so that was fun to see."
    ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "injury",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-injury-fallout-darryn-petersons-big-game-and-eastern-conference-preview",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-injury-fallout-darryn-petersons-big-game-and-eastern-conference-preview",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-injury-fallout-darryn-petersons-big-game-and-eastern-conference-preview",
-   "title": "Roundball Roundup: Injury Fallout, Darryn Peterson’s Big Game, and Eastern Conference Preview",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-10T22:03:21Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the impact of the Nurkić injury, Darryn Peterson’s 23 point performance, and Eastern Conference questions.",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the impact of the Nurkić injury, Darryn Peterson’s 23 point performance, and Eastern Conference questions."
-   ],
-   "quotes": []
   }
  ]
 }
