@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "443-pritchard-celtics-extension.html",
+    cat: "NBA",
+    title: "セルティックス、プリチャードと2年4420万ドルで契約延長 —— 2029-30シーズンに相互オプション",
+    excerpt: "ボストン・セルティックスは、ガードのペイトン・プリチャードと2年4420万ドルの契約延長に合意した。代理人を務めるCAAのオースティン・ブラウン氏とマックス・サイドマン氏がESPNに伝えた。延長は完全保証の最大額契約で、2029-30シーズンには相互オプションが付く。",
+    date: "2026.10.14",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "442-caldwell-pope-chemistry-76ers.html",
     cat: "NBA",
     title: "コールドウェル＝ポープ「お互いを好きになることが一番大事」—— 76ers新戦力、選手層の融合に手応え",
