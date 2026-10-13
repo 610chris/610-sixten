@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T08:20:26+09:00",
+  "updated": "2026-10-13T10:58:33+09:00",
   "items": [
     {
       "id": "134",
@@ -9483,6 +9483,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジョーダン ブランド『スペース・ジャム』30周年キャンペーン始動\n\n・キャンペーン「Greatness is Never Out of Reach」\n・ミニドキュメンタリー「Beyond the Jam」も\n・Wieden+Kennedy、ワーナー・ブラザースと再タッグ\n\n💬 一番好きなスペース・ジャムの復刻、どれ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: FLY BASKETBALL CULTURE MAGAZINE\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "433",
+      "slug": "433-stirtz-26-points-hawks-preseason",
+      "category": "NBA",
+      "date": "2026-10-13",
+      "headline": "ベネット・スターツがホークス戦で26得点",
+      "excerpt": "オクラホマシティ・サンダーのベネット・スターツは現地時間10月12日、ステート・ファーム・アリーナで行われたプレシーズンのアトランタ・ホークス戦に出場し、38分の出場で3ポイント9本中6本を含む26得点5アシストを記録し試合最多得点者となった。サンダーは110-113でホークスに惜敗した。",
+      "points": [
+        "3P 9本中6本・5アシスト",
+        "38分出場でチーム最長",
+        "サンダーは110-113で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/433-stirtz-26-points-hawks-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Bennett Stirtz"
+      ],
+      "question": "スターツ、サンダーの開幕ロースターに入れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BENNETT STIRTZ",
+        "opponent": "vs. HAWKS",
+        "points": 26,
+        "stats": [
+          "5 AST",
+          "4 REB",
+          "9/16 FG",
+          "6/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/433-1.jpg",
+        "https://sixten.jp/assets/ig/433-2.jpg",
+        "https://sixten.jp/assets/ig/433-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-13T10:57:29+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ベネット・スターツがホークス戦で26得点\n\n・3P 9本中6本・5アシスト\n・38分出場でチーム最長\n・サンダーは110-113で惜敗\n\n💬 スターツ、サンダーの開幕ロースターに入れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "434",
+      "slug": "434-porter-jr-22-points-wizards-preseason",
+      "category": "NBA",
+      "date": "2026-10-13",
+      "headline": "ポーター・ジュニアがウィザーズ戦で22得点",
+      "excerpt": "ブルックリン・ネッツのマイケル・ポーター・ジュニアは現地時間10月12日、キャピタル・ワン・アリーナで行われたプレシーズンのワシントン・ウィザーズ戦に出場し、24分の出場でフィールドゴール13本中8本を沈めて22得点4リバウンド2スティールを記録した。ネッツは131-122でウィザーズに快勝した。",
+      "points": [
+        "FG 13本中8本の高確率",
+        "24分出場でスティール2本",
+        "ネッツは131-122で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/434-porter-jr-22-points-wizards-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Michael Porter Jr."
+      ],
+      "question": "ポーター・ジュニア、ネッツで台頭する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "MICHAEL PORTER JR.",
+        "opponent": "vs. WIZARDS",
+        "points": 22,
+        "stats": [
+          "4 REB",
+          "2 STL",
+          "8/13 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/434-1.jpg",
+        "https://sixten.jp/assets/ig/434-2.jpg",
+        "https://sixten.jp/assets/ig/434-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-13T10:57:37+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ポーター・ジュニアがウィザーズ戦で22得点\n\n・FG 13本中8本の高確率\n・24分出場でスティール2本\n・ネッツは131-122で快勝\n\n💬 ポーター・ジュニア、ネッツで台頭する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

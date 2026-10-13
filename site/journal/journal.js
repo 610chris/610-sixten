@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "434-porter-jr-22-points-wizards-preseason.html",
+    cat: "NBA",
+    title: "マイケル・ポーター・ジュニア、ウィザーズ戦で22得点 —— プレシーズンでネッツが131-122で快勝",
+    excerpt: "ブルックリン・ネッツのマイケル・ポーター・ジュニアは現地時間10月12日、キャピタル・ワン・アリーナで行われたプレシーズンのワシントン・ウィザーズ戦に出場し、24分の出場でフィールドゴール13本中8本を沈めて22得点4リバウンド2スティールを記録した。ネッツは131-122でウィザーズに快勝した。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "433-stirtz-26-points-hawks-preseason.html",
+    cat: "NBA",
+    title: "ベネット・スターツ、ホークス戦で26得点 —— プレシーズンでサンダーが110-113で惜敗",
+    excerpt: "オクラホマシティ・サンダーのベネット・スターツは現地時間10月12日、ステート・ファーム・アリーナで行われたプレシーズンのアトランタ・ホークス戦に出場し、38分の出場で3ポイント9本中6本を含む26得点5アシストを記録し試合最多得点者となった。サンダーは110-113でホークスに惜敗した。",
+    date: "2026.10.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "432-jordan-brand-space-jam-30th-campaign.html",
     cat: "KICKS",
     title: "ジョーダン ブランド、『スペース・ジャム』30周年キャンペーン「Greatness is Never Out of Reach」始動",
