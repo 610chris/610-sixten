@@ -1,8 +1,34 @@
 {
- "updated_utc": "2026-10-14 02:08 UTC",
+ "updated_utc": "2026-10-14 07:59 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261013",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261013",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261013",
+   "title": "Warriors Overcome 20-Point Deficit to Beat Lakers",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-14T04:39:41Z",
+   "tags": [],
+   "summary": "The Warriors overcame a 20-point second-half deficit to beat the Los Angeles Lakers 101-89 at T-Mobile Arena in Las Vegas on Tuesday. The Dubs turned the tide with defense, forcing 30 Laker turnovers and recording 20 steals. Offensively, four starters scored in double figures, with Brandin Podziemski and Yaxel Lendeborg scoring 17 points each, Stephen Curry adding 11, and Gui Santos adding 10. The…",
+   "facts": [
+    "The Warriors overcame a 20-point second-half deficit to beat the Los Angeles Lakers 101-89 at T-Mobile Arena in Las Vegas on Tuesday.",
+    "The Dubs turned the tide with defense, forcing 30 Laker turnovers and recording 20 steals.",
+    "Offensively, four starters scored in double figures, with Brandin Podziemski and Yaxel Lendeborg scoring 17 points each, Stephen Curry adding 11, and Gui Santos adding 10.",
+    "The Lakers also had four starters in double figures, paced by Austin Reaves’ 28 points, but Golden State forced Reaves to commit seven turnovers.",
+    "The Warriors outscored the Lakers by 16 points in the decisive fourth quarter, 29-13.",
+    "WARRIORS OVERCOME 20-POINT DEFICIT The Warriors trailed by as many as 20 points in the third quarter but chipped away and eventually took the lead in the fourth.",
+    "They scored 13 unanswered points to cut the deficit to seven and were within four at the end of the third quarter.",
+    "Brandin Podziemski opened the fourth quarter with a pair of jumpers that tied the game at 76."
+   ],
+   "quotes": []
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -12,24 +38,62 @@
    "key": "https://www.nba.com/pacers/news/rewind-pacers-thunder-261013",
    "url": "https://www.nba.com/pacers/news/rewind-pacers-thunder-261013",
    "canonical_url": "https://pacers.com/news/rewind-pacers-thunder-261013",
-   "title": "Halftime Rewind: Pacers 61, Thunder 59 (Preseason)",
+   "title": "Game Rewind: Pacers 112, Thunder 114 (Preseason)",
    "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-10-14T01:18:12Z",
+   "published_utc": "2026-10-14T03:35:00Z",
    "tags": [
     "2026-27 Game Rewind"
    ],
    "summary": "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center",
    "facts": [
-    "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center Halftime Rewind The Pacers continued preseason action in Oklahoma City on Thursday as they led by two points through the first half, 61-59.",
-    "Shai Gilgeous-Alexander was active for the Thunder, however, and logged 15 first-half points.",
-    "Tyrese Haliburton knocked down a baseline jumper and two deep 3-pointers in the opening minutes of Tuesday’s game.",
-    "He had 11 points just five minutes into the game, and was a perfect 4-for-4 from the floor.",
-    "The Pacers led by nine points, 17-8, and went on to win the first quarter, 33-25.",
+    "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center Game Recap The Pacers continued preseason action in Oklahoma City on Tuesday as they fell to the Thunder in overtime, 114-112.",
+    "Shai Gilgeous-Alexander was active for the Thunder, however, and logged 15 first-half points before resting the second half.",
+    "Haliburton’s half was aggressive – he knocked down a baseline jumper and two deep 3-pointers in the opening minutes of Tuesday’s game, and went on to score 24 points in just 17 minutes.",
+    "Haliburton logged three rebounds and three assists to complement his 9-of-14 shooting performance.",
+    "He racked up 13 points, 13 rebounds, and five assists in his 17 minutes.",
     "Indiana led by as many as 20 points in the first half, and had a two-point advantage heading into the halftime break.",
-    "Haliburton led all scorers with 24 points, and Zubac recorded a 13-point, 13-rebound double-double.",
-    "Indiana shot 49 percent from the field, including 30 percent from 3-point range, but Oklahoma City knocked down 50 percent of its field goals."
+    "Indiana shot 49 percent from the field, including 30 percent from 3-point range, but Oklahoma City knocked down 50 percent of its field goals.",
+    "The Pacers led, 61-59, at the half with the Oklahoma City Thunder on their heels."
    ],
-   "quotes": []
+   "quotes": [
+    "Just the approach. Coming back in here and being really undaunted by anything that's happened in the past. He just came and played his game, and he was Tyrese Haliburton.",
+    "I wanted to play just to get some game reps and just kind of rip the bandaid off. You know, get it out of the way. I thought I would feel maybe a little more emotion coming in there, you know. I don't…",
+    "He's got great feel. He's got a lot of skill. He's got power, size. His screening is something that's going to be a major plus for us. And he's adjusting to a different style of play and a different g…"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-cruise-past-cleveland-cavaliers-in-preseason-action-20261013",
+   "url": "https://www.nba.com/magic/news/orlando-magic-cruise-past-cleveland-cavaliers-in-preseason-action-20261013",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-cruise-past-cleveland-cavaliers-in-preseason-action-20261013",
+   "title": "Orlando Magic Cruise Past Cleveland Cavaliers in Preseason Action",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-14T02:29:37Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Magic’s regular starters flourish together",
+   "facts": [
+    "Magic’s regular starters flourish together ORLANDO - Although we didn’t get a chance to see them on the floor together much last season because of injuries, the Orlando Magic’s regularly scheduled starting unit of Paolo …",
+    "They shot 50.1 percent from the field and outscored their opponents by 45 points in the 19 games and 182 minutes they were on the court together in the regular season.",
+    "Then in the first round of the playoffs, the Magic outscored the Detroit Pistons by 19 points in the 61 minutes they were on the floor at the same time.",
+    "In the first four minutes and 47 seconds, the Magic raced out to a 17-8 lead with those five firing on all cylinders before a substitution was made.",
+    "Then again for the final three minutes of the first half, they again showcased great chemistry and executed on both ends to give Orlando a 20-point advantage going into the break.",
+    "The Magic, with a variety of lineup combinations being explored throughout the second half, would go on to win 132-116.",
+    "In the first half, they kept the Cavs off the offensive glass for the most part and held them to just 5-of-19 3-point shooting (26 percent).",
+    "They finished with 34 assists in the game, which highlights how much the ball moved and how unselfish they were as a group."
+   ],
+   "quotes": [
+    "I loved the way the ball moved,",
+    "I thought we did a really good job of playing extremely aggressively and making every option live on offense. Then defensively, I thought we did a really good job of understanding what we were trying …"
+   ]
   },
   {
    "source": "SAC 公式（nba.com）",
@@ -833,134 +897,6 @@
     "So much energy. Secondly, to be able to come over here and learn a lot about your team like we were able to do was a real benefit as we get into the regular season in a week or so.",
     "I’m grateful Dusty called the first play for me. I had my mind made up to attack. I saw Jabari switch, so I was just trying to take advantage of the matchup. It felt good to get that out of the way. I…",
     "It’s just impressive, his physical condition and his mental condition,"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/depth-boards-3s-positives-on-pelicans-road-trip-defense-turnovers-need-improvement",
-   "url": "https://www.nba.com/pelicans/news/depth-boards-3s-positives-on-pelicans-road-trip-defense-turnovers-need-improvement",
-   "canonical_url": "https://pelicans.com/news/depth-boards-3s-positives-on-pelicans-road-trip-defense-turnovers-need-improvement",
-   "title": "Depth, boards, 3s positives on Pelicans road trip; defense, turnovers need improvement",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-11T03:24:15Z",
-   "tags": [],
-   "summary": "Perhaps you’ve been tracking the MLB postseason or a bit preoccupied with NFL and college football action lately, but New Orleans and the rest of the NBA have tipped off preseason, with the Pelicans splitting a pair of road games against Oklahoma City (116-110 win over the Thunder) and Miami (128-118 loss). Missed the club’s Tuesday and Thursday exhibition tilts? We’ve got you covered. A few extre…",
-   "facts": [
-    "Perhaps you’ve been tracking the MLB postseason or a bit preoccupied with NFL and college football action lately, but New Orleans and the rest of the NBA have tipped off preseason, with the Pelicans splitting a pair of r…",
-    "Washington): POSITIVES Depth Jamahl Mosley did not use any player for more than 38 total minutes over the pair of games (Yves Missi team-high 19.0 mpg).",
-    "That’s one reason why 10 different Pelicans averaged 7.5 points or more, while the club’s leading preseason scorers are Jordan Poole and Jeremiah Fears, at just 11.5 ppg apiece.",
-    "Fourteen different players sank at least one three-pointer, led by rookie Jaron Pierre Jr., who shot 5/8.",
-    "New Orleans finished No. 28 in defensive rebounding percentage last season, adding to the team’s problems at that end of the floor.",
-    "Three-point shooting So far in preseason, the Pelicans have exceeded their averages across the board from last season, making 15.5 treys per game out of 38.0 attempts, on 40.8 percent accuracy.",
-    "The squad’s numbers in those three categories in 2025-26 were substantially lower – 11.1 makes, 32.1 attempts, 34.7 percent.",
-    "All of those figures ranked in the bottom seven out of the 30 NBA clubs."
-   ],
-   "quotes": [
-    "I think we already knew what type of depth we had, from top to bottom,",
-    "It’s just a matter of figuring out what pieces work together, what makes us the most dangerous. The coaching staff is trying to figure out what they have on their team, and that takes a little time.",
-    "I mean, you have options. You’re going to continue to see our process of finding different lineups, looking at different lineups.",
-    "We’ve given up a 40-point quarter, given up 128 (to Miami),"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261010-phibos",
-   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261010-phibos",
-   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261010-phibos",
-   "title": "Keys to the Game: Celtics 144, 76ers 106",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-11T03:10:00Z",
-   "tags": [
-    "Game Recap",
-    "Keys to the Game",
-    "Postgame",
-    "Preseason"
-   ],
-   "summary": "Philadelphia outscored Boston 8-0 in the opening two minutes Saturday night.",
-   "facts": [
-    "Key Moment Philadelphia outscored Boston 8-0 in the opening two minutes Saturday night.",
-    "The Celtics outscored the 76ers 144-98 the rest of the way.",
-    "He played the entire first quarter and singlehandedly outscored the 76ers 10-7 over the final 6:30 of the frame.",
-    "By the end of the first quarter, Boston's eight-point deficit had turned into a 24-20 lead, and it never looked back.",
-    "The Celtics kept piling on from there, eventually stretching their lead to as many as 45 points in the second half before walking out of TD Garden with a 38-point win.",
-    "Key Player Payton Pritchard provided a major spark off the bench, leading the game in points, 3-pointers and plus/minus.",
-    "The point guard poured in 25 points in just 24 minutes, shooting 7-of-12 from the field, 5-of-8 from 3-point range and a perfect 6-for-6 from the free-throw line.",
-    "Perhaps the most telling sign of Pritchard’s impact was his game-high plus-35 rating."
-   ],
-   "quotes": [
-    "It’s a badge of honor to wear that green."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261010",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261010",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261010",
-   "title": "Yaxel Lendeborg's Assertiveness Stands Out in Warriors Preseason Win Over Kings",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-11T03:06:32Z",
-   "tags": [],
-   "summary": "Yaxel Lendeborg paced the Warriors with 23 points, 10 rebounds and six assists in a 111-106 win over the Sacramento Kings at Chase Center on Saturday. The Warriors played four of their five starters into the second half, with Stephen Curry being the lone exception after scoring eight points and making a pair of 3-pointers in 14 minutes. Fresh off a contract extension, Brandin Podziemski played a t…",
-   "facts": [
-    "Yaxel Lendeborg paced the Warriors with 23 points, 10 rebounds and six assists in a 111-106 win over the Sacramento Kings at Chase Center on Saturday.",
-    "The Warriors played four of their five starters into the second half, with Stephen Curry being the lone exception after scoring eight points and making a pair of 3-pointers in 14 minutes.",
-    "Fresh off a contract extension, Brandin Podziemski played a team-high 26 minutes and scored 14 points with three 3-pointers. 2026 No. 7 pick Darius Acuff Jr. led the charge for the Kings with a game-high 25 points and ei…",
-    "LENDEBORG’S 20-POINT HALF Head Coach Steve Kerr and forward Draymond Green have consistently encouraged rookie Yaxel Lendeborg to be assertive and impose his will offensively.",
-    "Lendeborg was relentless in his paint attack on Saturday, taking a half-leading 12 shots, 10 of them in the restricted area.",
-    "Lendeborg made eight of those shots and one of his two 3-point attempts, finishing the half with a game-high 20 points.",
-    "He also grabbed the most rebounds in the half with eight boards and was a +18 in 15 minutes.",
-    "In their offseason pickup games, Green, Lendeborg and Curry have practiced their 3-man game — the veterans were particularly impressed with Lendeborg’s natural instincts off the ball, capitalizing on Curry’s gravity to g…"
-   ],
-   "quotes": [
-    "He’s huge, can handle the ball, and get to the rim,",
-    "It felt like many of his 23 were in the paint, at least half. He’s quite a talented player, 10 rebounds, six assists. He’s got a lot of skill at that size so we’re going to play through him a lot this…",
-    "Obviously I’m super grateful for the situation I'm in,",
-    "A lot of people contributed to my success. But, I’m grateful for the organization taking a leap of faith in me and wanting me here for the future. It shows a sign of faith and trust on their end. I th…"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-hawks-261010",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-hawks-261010",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-hawks-261010",
-   "title": "Game Rewind: Pacers 117, Hawks 119 (Preseason)",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-11T02:26:00Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Saturday, Oct. 10 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Saturday, Oct. 10 at 7:00 PM ET at Gainbridge Fieldhouse Game Recap The Pacers played their first game at Gainbridge Fieldhouse this season on Saturday night, falling to the Atlanta Hawks in a preseason contest, 119-117.",
-    "An MRI on his ankle was clean and Carlisle said the team is hopeful that Haliburton will return for either Tuesday's preseason game at Oklahoma City on Friday's preseason finale against Milwaukee.",
-    "Pascal Siakam and Kelly Oubre Jr. led seven Pacers in double figures on Saturday, finishing with 13 points apiece.",
-    "Siakam added four assists in 22 minutes, while Oubre went 5-for-8 from the field and 3-for-5 from 3-point range.",
-    "The 7-foot Croatian had four points and three rebounds early in Saturday's contest, but also picked up two fouls.",
-    "The Hawks surged ahead late in the quarter thanks to a 9-1 run, but the Pacers scored the final four points of the quarter to take a 32-31 lead after one.",
-    "There were seven lead changes and one tie over the first 5:31 of the second quarter.",
-    "Atlanta then reeled off 10 unanswered points (six by CJ McCollum and four from Onyeka Okongwu) to go up 55-46."
-   ],
-   "quotes": [
-    "a mild tweak of his right ankle",
-    "Atlanta is a team that’s improving every year. A hard-playing team, extremely well-coached. They give you full-court pressure for the entire game. It’s a real test playing against them. We’re going to…",
-    "We’re getting to learn about each other, learn about our tendencies. Just trying to find the ways we can make him better, the ways that he can make us better. This is the time to kind of work on those…",
-    "Larry Nance is a knowledgeable veteran player with feel who knows how to play the game. He’s been a good defender and rebounder in his career. He’s just very smart, a good communicator."
    ]
   }
  ]
