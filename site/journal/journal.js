@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "454-nike-air-raid-2-return.html",
+    cat: "KICKS",
+    title: "Nike Air Raid IIの復刻が濃厚に —— 90年代の名作バッシュ、初のリトロ発売へ",
+    excerpt: "ナイキは、1990年代半ばに発売したバスケットボールシューズ「Air Raid II」を初めて本格的に復刻する見通しであることがわかった。ナイキのデザイナー、フランク・クック氏がInstagramで示唆し、Sneaker NewsとSneaker Bar Detroitが伝えた。具体的な発売日は本稿時点で未定。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "453-new-balance-kawhi-5.html",
+    cat: "KICKS",
+    title: "New Balance Kawhi 5が10月21日発売 —— ラプターズ復帰のカワイ・レナード、最新シグネチャーを2色展開",
+    excerpt: "ニューバランスは、トロント・ラプターズのカワイ・レナードのシグネチャーシューズ最新作「Kawhi 5」を2026年10月21日に2色展開で発売する。Sneaker Newsが伝えた。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "452-nike-tatum-5-lock-in-session.html",
     cat: "KICKS",
     title: "Nike Tatum 5 体験セッション「LOCK IN」—— 大濠高OB・渡邉伶音と恩師・片峯監督が再会",
