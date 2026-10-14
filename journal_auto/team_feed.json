@@ -1,8 +1,52 @@
 {
- "updated_utc": "2026-10-14 18:51 UTC",
+ "updated_utc": "2026-10-14 22:34 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/warriors-statement-on-kristaps-porzingis-20261014",
+   "url": "https://www.nba.com/warriors/news/warriors-statement-on-kristaps-porzingis-20261014",
+   "canonical_url": "https://warriors.com/news/warriors-statement-on-kristaps-porzingis-20261014",
+   "title": "Warriors Statement on Kristaps Porzingis",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-14T20:40:49Z",
+   "tags": [],
+   "summary": "Golden State Warriors forward/center Kristaps Porziņģis, who missed training camp and the team’s first five (5) preseason games due to a health-related matter, returned to the Warriors’ practice facility yesterday and met with Warriors General Manager Mike Dunleavy and Vice President of Player Health & Performance Dr. Rick Celebrini. The specific contents of that meeting will remain private. Porzi…",
+   "facts": [
+    "Golden State Warriors forward/center Kristaps Porziņģis, who missed training camp and the team’s first five (5) preseason games due to a health-related matter, returned to the Warriors’ practice facility yesterday and me…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-chance-moore",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-chance-moore",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-chance-moore",
+   "title": "Utah Jazz Sign Chance Moore",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-14T20:03:16Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 14, 2026) – The Utah Jazz announced today that the team has signed forward Chance Moore. Per team policy, terms of the deal were not disclosed.",
+   "facts": [
+    "SALT LAKE CITY (October 14, 2026) – The Utah Jazz announced today that the team has signed forward Chance Moore.",
+    "About Chance Moore Moore (6-6, 210, West Virginia) played in 29 games last season for West Virginia, owning averages of 10.6 points on 53.1 percent from the field and 5.8 rebounds in 22.3 minutes per game.In his final co…",
+    "Bonaventure (2024-25), Missouri State (2022-24), and Arkansas (2021-22).",
+    "Bonaventure, he averaged 13.0 points, 6.5 rebounds, 1.1 assists, and 1.3 steals in 34.0 minutes per game."
+   ],
+   "quotes": []
+  },
   {
    "source": "CLE 公式（nba.com）",
    "team": "CLE",
@@ -888,49 +932,6 @@
     "We want to do a better job defensively. Scheme execution is a big one, positioning is going to be a big thing,",
     "Making sure we do a good job with our bodies, making sure we are strong in that sense. Defending without fouling is going to be really important. Offensively, I think we can get back to the running ha…"
    ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/warriors-waive-guard-miles-kelly-20261011",
-   "url": "https://www.nba.com/warriors/news/warriors-waive-guard-miles-kelly-20261011",
-   "canonical_url": "https://warriors.com/news/warriors-waive-guard-miles-kelly-20261011",
-   "title": "Warriors Waive Guard Miles Kelly",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-11T22:30:00Z",
-   "tags": [],
-   "summary": "The Golden State Warriors have waived guard Miles Kelly, it was announced Sunday. In a related move, the Warriors have signed free agent forward Tyler Burton. Per team policy, terms of the agreement were not announced.",
-   "facts": [
-    "The Golden State Warriors have waived guard Miles Kelly, it was announced Sunday.",
-    "Kelly appeared in three preseason games (all as a reserve) for the Warriors, averaging 10.7 points, 2.3 rebounds and 2.3 assists in 13.8 minutes per contest.",
-    "Kelly was originally signed by Golden State on September 27.",
-    "Burton, 26, appeared in 12 games (all as a reserve) as a rookie with the Memphis Grizzlies in 2025-26, averaging 10.8 points, 4.2 rebounds, 1.0 assists, 0.92 steals and 25.6 minutes per game.",
-    "In two NBA G League seasons with the Memphis Hustle (2024-25 and 2025-26), he appeared in 37 games (29 starts), averaging 16.6 points, 4.9 rebounds, 2.1 assists and 1.1 steals in 28.2 minutes per game.",
-    "Unselected in the 2024 NBA Draft, Burton had a five-year collegiate career at Richmond (2019-23) and Villanova (2023-24), tallying averages of 12.0 points, 6.5 rebounds, 1.0 steals and 28.0 minutes across 157 games (127 …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "SAC 公式（nba.com）",
-   "team": "SAC",
-   "team_ja": "キングス",
-   "team_id": 1610612758,
-   "kind": "injury",
-   "key": "https://www.nba.com/kings/news/maxime-raynaud-medical-update",
-   "url": "https://www.nba.com/kings/news/maxime-raynaud-medical-update",
-   "canonical_url": "https://kings.com/news/maxime-raynaud-medical-update",
-   "title": "Maxime Raynaud Medical Update",
-   "author": "Official Release",
-   "published_utc": "2026-10-11T19:35:19Z",
-   "tags": [],
-   "summary": "Sacramento Kings center Maxime Raynaud, who exited Saturday night’s preseason game against the Golden State Warriors with 2:32 remaining in the second quarter, underwent an MRI of his right knee. Imaging revealed a right patellar subluxation. Raynaud will be reevaluated in approximately two weeks and further updates will be provided as appropriate.",
-   "facts": [
-    "Sacramento Kings center Maxime Raynaud, who exited Saturday night’s preseason game against the Golden State Warriors with 2:32 remaining in the second quarter, underwent an MRI of his right knee."
-   ],
-   "quotes": []
   }
  ]
 }
