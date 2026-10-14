@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T10:57:20+09:00",
+  "updated": "2026-10-14T12:01:01+09:00",
   "items": [
     {
       "id": "134",
@@ -9997,6 +9997,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カワイ・レナード、ニックス戦で21得点\n\n・17分の出場で21得点5リバウンド2スティール\n・3ポイント8本中4本、プラスマイナス+28\n・ラプターズが148-98でニックスに大勝\n\n💬 レナード、17分で21得点ってもっと出たらどこまで行けた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Raptors vs. Knicks）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "446",
+      "slug": "446-haliburton-24-points-thunder-preseason",
+      "category": "NBA",
+      "date": "2026-10-14",
+      "headline": "ハリバートン、サンダー戦で24得点",
+      "excerpt": "インディアナ・ペイサーズのタイリース・ハリバートンは現地時間10月13日、ペイコム・センター(オクラホマシティ)で行われたプレシーズンのオクラホマシティ・サンダー戦に出場し、18分の出場でフィールドゴール14本中9本、3ポイント6本中4本を沈めて24得点3リバウンド2ブロックを記録した。ペイサーズは112-114でサンダーに惜敗した。",
+      "points": [
+        "18分の出場でFG14本中9本・3P6本中4本",
+        "リバウンド3本・アシスト3本・ブロック2本",
+        "ペイサーズは112-114でサンダーに惜敗"
+      ],
+      "source": "ESPN ボックススコア（Pacers vs. Thunder・2026年10月13日）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/446-haliburton-24-points-thunder-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Haliburton"
+      ],
+      "question": "この勢いならレギュラーシーズンも期待できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYRESE HALIBURTON",
+        "opponent": "vs. THUNDER",
+        "points": 24,
+        "stats": [
+          "3 REB",
+          "3 AST",
+          "2 BLK",
+          "9/14 FG",
+          "4/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/446-1.jpg",
+        "https://sixten.jp/assets/ig/446-2.jpg",
+        "https://sixten.jp/assets/ig/446-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-14T12:00:55+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ハリバートン、サンダー戦で24得点\n\n・18分の出場でFG14本中9本・3P6本中4本\n・リバウンド3本・アシスト3本・ブロック2本\n・ペイサーズは112-114でサンダーに惜敗\n\n💬 この勢いならレギュラーシーズンも期待できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pacers vs. Thunder・2026年10月13日）\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
