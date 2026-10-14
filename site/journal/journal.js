@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "449-chiba-sky-wings-pickup-game-yokoshiba.html",
+    cat: "JAPAN",
+    title: "CHIBA SKY WINGS、10月17日に横芝光町でPICK UP GAMEを開催 —— 初心者・一人参加も歓迎",
+    excerpt: "3人制バスケットボールチーム「CHIBA SKY WINGS」を運営する株式会社SKYPORTは、2026年10月17日19時から21時まで、千葉県横芝光町の横芝中学校で「PICK UP GAME in 横芝光町」を開催する。当日集まった参加者でチームを組む形式で、年齢・経験を問わず初心者や一人での参加も歓迎。参加費は一般500円、ファンクラブ会員は無料。",
+    date: "2026.10.14",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "448-avdija-26-points-kings-preseason.html",
     cat: "NBA",
     title: "デニ・アヴディア、キングス戦で26得点 —— プレシーズンでトレイルブレイザーズが110-98で快勝",
