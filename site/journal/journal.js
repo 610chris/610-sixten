@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "452-nike-tatum-5-lock-in-session.html",
+    cat: "KICKS",
+    title: "Nike Tatum 5 体験セッション「LOCK IN」—— 大濠高OB・渡邉伶音と恩師・片峯監督が再会",
+    excerpt: "Nikeのジェイソン・テイタム新シグネチャー「Tatum 5」の体験セッション「LOCK IN」が開催され、福岡大学附属大濠高校の片峯聡太監督と、教え子でB.PREMIER アルティーリ千葉の渡邉伶音選手が同じコートに立った。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.10.14",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "451-wembanyama-first-seed-goal-spurs.html",
     cat: "NBA",
     title: "ウェンバンヤマ「1番シードを獲りたい」—— ファイナル敗退のスパーズ、新シーズンへ高い目標",
