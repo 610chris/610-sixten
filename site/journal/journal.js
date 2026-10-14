@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "455-porzingis-out-indefinitely-private-health.html",
+    cat: "NBA",
+    title: "ポルジンギス、無期限離脱も施設には復帰へ —— ウォリアーズ、カーHCは小型ラインアップで開幕へ",
+    excerpt: "ゴールデンステート・ウォリアーズは現地時間10月14日、クリスタプス・ポルジンギスが「個人的な健康上の問題」で無期限の離脱を続けると発表した一方、本人はチームの練習施設には戻り周囲に居続ける見込みだと明らかにした。ESPNのアンソニー・スレイター記者が伝えた。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "454-nike-air-raid-2-return.html",
     cat: "KICKS",
     title: "Nike Air Raid IIの復刻が濃厚に —— 90年代の名作バッシュ、初のリトロ発売へ",
