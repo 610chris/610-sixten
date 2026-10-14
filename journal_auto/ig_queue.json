@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T05:09:25+09:00",
+  "updated": "2026-10-14T10:57:20+09:00",
   "items": [
     {
       "id": "134",
@@ -9905,6 +9905,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "セルティックス、プリチャードと2年4420万ドルで契約延長\n\n・完全保証の2年マックス契約、2029-30シーズンに相互オプション\n・昨季は自己最多17.0得点・5.2アシスト・3.9リバウンド\n・ブラウン放出後の新体制でもベンチの核として残留\n\n💬 この延長、セルティックスにとってアリ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Celtics to extend guard Payton Pritchard on 2-year, $44.2M deal」\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "444",
+      "slug": "444-banchero-24-points-cavaliers-preseason",
+      "category": "NBA",
+      "date": "2026-10-14",
+      "headline": "パオロ・バンケーロ、キャバリアーズ戦で24得点",
+      "excerpt": "オーランド・マジックのパオロ・バンケーロは現地時間10月13日、キア・センター(オーランド)で行われたプレシーズンのクリーブランド・キャバリアーズ戦に出場し、28分の出場でフィールドゴール13本中10本を沈めて24得点8リバウンド3アシストを記録した。マジックは132-116でキャバリアーズに快勝した。",
+      "points": [
+        "28分の出場で24得点8リバウンド3アシスト",
+        "フィールドゴール13本中10本、プラスマイナス+19",
+        "マジックが132-116でキャバリアーズに快勝"
+      ],
+      "source": "ESPN ボックススコア（Magic vs. Cavaliers）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/444-banchero-24-points-cavaliers-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Paolo Banchero"
+      ],
+      "question": "バンケーロ、レギュラーシーズンも24得点ペースいける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PAOLO BANCHERO",
+        "opponent": "vs. CAVALIERS",
+        "points": 24,
+        "stats": [
+          "8 REB",
+          "3 AST",
+          "10/13 FG",
+          "2/3 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/444-1.jpg",
+        "https://sixten.jp/assets/ig/444-2.jpg",
+        "https://sixten.jp/assets/ig/444-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-14T10:56:07+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "パオロ・バンケーロ、キャバリアーズ戦で24得点\n\n・28分の出場で24得点8リバウンド3アシスト\n・フィールドゴール13本中10本、プラスマイナス+19\n・マジックが132-116でキャバリアーズに快勝\n\n💬 バンケーロ、レギュラーシーズンも24得点ペースいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Magic vs. Cavaliers）\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "445",
+      "slug": "445-kawhi-leonard-21-points-knicks-preseason",
+      "category": "NBA",
+      "date": "2026-10-14",
+      "headline": "カワイ・レナード、ニックス戦で21得点",
+      "excerpt": "トロント・ラプターズのカワイ・レナードは現地時間10月13日、スコシアバンク・アリーナ(トロント)で行われたプレシーズンのニューヨーク・ニックス戦に出場し、17分の出場でフィールドゴール12本中6本、3ポイント8本中4本を沈めて21得点5リバウンド2スティールを記録した。ラプターズは148-98でニックスに大勝した。",
+      "points": [
+        "17分の出場で21得点5リバウンド2スティール",
+        "3ポイント8本中4本、プラスマイナス+28",
+        "ラプターズが148-98でニックスに大勝"
+      ],
+      "source": "ESPN ボックススコア（Raptors vs. Knicks）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/445-kawhi-leonard-21-points-knicks-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Kawhi Leonard"
+      ],
+      "question": "レナード、17分で21得点ってもっと出たらどこまで行けた？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KAWHI LEONARD",
+        "opponent": "vs. KNICKS",
+        "points": 21,
+        "stats": [
+          "5 REB",
+          "2 STL",
+          "6/12 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/445-1.jpg",
+        "https://sixten.jp/assets/ig/445-2.jpg",
+        "https://sixten.jp/assets/ig/445-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-14T10:57:19+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カワイ・レナード、ニックス戦で21得点\n\n・17分の出場で21得点5リバウンド2スティール\n・3ポイント8本中4本、プラスマイナス+28\n・ラプターズが148-98でニックスに大勝\n\n💬 レナード、17分で21得点ってもっと出たらどこまで行けた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Raptors vs. Knicks）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
