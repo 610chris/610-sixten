@@ -491,6 +491,33 @@
   "product": "REELS",
   "timestamp": "2022-04-12T02:23:31+0000"
  },
+ "17920447215443658": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "438",
+  "auto": true,
+  "caption_len": 316,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クリッパーズ、河村勇輝をウェイブ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dea5hYZlLab/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Michael Scotto（HoopsHype）",
+  "subject": [
+   "Yuki Kawamura"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-13T03:59:54+0000"
+ },
  "17922360030428071": {
   "article": "307",
   "auto": true,
@@ -562,6 +589,33 @@
   "permalink": "https://www.instagram.com/reel/CkJYClgAPWl/",
   "product": "REELS",
   "timestamp": "2022-10-25T18:19:07+0000"
+ },
+ "17925403371199738": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "444",
+  "auto": true,
+  "caption_len": 375,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "パオロ・バンケーロ、キャバリアーズ戦で24得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DedQ2RxitHD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Magic vs. Cavaliers）",
+  "subject": [
+   "Paolo Banchero"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-14T02:02:10+0000"
  },
  "17926173412773548": {
   "auto": false,
@@ -690,6 +744,33 @@
   "permalink": "https://www.instagram.com/reel/CUPtPl1AM-G/",
   "product": "REELS",
   "timestamp": "2021-09-25T12:57:43+0000"
+ },
+ "17934607482404174": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "442",
+  "auto": true,
+  "caption_len": 372,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "コールドウェル＝ポープ「お互いを好きになることが一番大事」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DedKSjGF0-y/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Kentavious Caldwell-Pope"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-14T01:04:53+0000"
  },
  "17937764534320203": {
   "auto": false,
@@ -1499,6 +1580,33 @@
   "product": "REELS",
   "timestamp": "2022-04-12T02:30:50+0000"
  },
+ "18008828612992259": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "443",
+  "auto": true,
+  "caption_len": 419,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "セルティックス、プリチャードと2年4420万ドルで契約延長",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DedKeppFqjD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Celtics to extend guard Payton Pritchard on 2-year, $44.2M deal」",
+  "subject": [
+   "Payton Pritchard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-14T01:06:33+0000"
+ },
  "18011146067980023": {
   "article": "363",
   "auto": true,
@@ -1915,6 +2023,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-30T21:59:54+0000"
+ },
+ "18067115882603212": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "436",
+  "auto": true,
+  "caption_len": 317,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャコビ・ギレスピー、ジャズ戦で25得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dea5Oo-CdXC/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Ja'Kobi Gillespie"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-13T03:57:20+0000"
  },
  "18068955887782488": {
   "article": "332",
