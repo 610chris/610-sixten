@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "451-wembanyama-first-seed-goal-spurs.html",
+    cat: "NBA",
+    title: "ウェンバンヤマ「1番シードを獲りたい」—— ファイナル敗退のスパーズ、新シーズンへ高い目標",
+    excerpt: "サンアントニオ・スパーズのビクター・ウェンバンヤマは、9月のメディアデーでチーム内の目標について「去年は西地区を制した。今年はそれより劣る結果で終わるつもりはない。1番シードを獲りたいし、そのトップの座を守り抜きたい」と語った。ESPNが報じた。昨季ニックスにファイナルで敗れたスパーズは、その悔しさを糧に高い目標を掲げる。",
+    date: "2026.10.14",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "450-espn-now-or-later-rankings-2026-27.html",
+    cat: "NBA",
+    title: "サンズが1年ぶり首位、ネッツは3年連続最下位 —— ESPN「Now or Later」ランキングでNBA30チームを格付け",
+    excerpt: "ESPNのザック・クラム記者は14日(現地時間)、契約の重さとドラフト資産の豊富さから「今勝つべきか、後で勝つか」を測る年次企画『Now or Later Rankings』の2026-27シーズン版を公開した。フェニックス・サンズが1年ぶりに1位、ブルックリン・ネッツは3年連続で30位(最下位)となった。",
+    date: "2026.10.14",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "449-chiba-sky-wings-pickup-game-yokoshiba.html",
     cat: "JAPAN",
     title: "CHIBA SKY WINGS、10月17日に横芝光町でPICK UP GAMEを開催 —— 初心者・一人参加も歓迎",
