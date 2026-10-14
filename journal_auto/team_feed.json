@@ -1,8 +1,36 @@
 {
- "updated_utc": "2026-10-13 23:24 UTC",
+ "updated_utc": "2026-10-14 02:08 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-thunder-261013",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-thunder-261013",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-thunder-261013",
+   "title": "Halftime Rewind: Pacers 61, Thunder 59 (Preseason)",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-10-14T01:18:12Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center",
+   "facts": [
+    "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center Halftime Rewind The Pacers continued preseason action in Oklahoma City on Thursday as they led by two points through the first half, 61-59.",
+    "Shai Gilgeous-Alexander was active for the Thunder, however, and logged 15 first-half points.",
+    "Tyrese Haliburton knocked down a baseline jumper and two deep 3-pointers in the opening minutes of Tuesday’s game.",
+    "He had 11 points just five minutes into the game, and was a perfect 4-for-4 from the floor.",
+    "The Pacers led by nine points, 17-8, and went on to win the first quarter, 33-25.",
+    "Indiana led by as many as 20 points in the first half, and had a two-point advantage heading into the halftime break.",
+    "Haliburton led all scorers with 24 points, and Zubac recorded a 13-point, 13-rebound double-double.",
+    "Indiana shot 49 percent from the field, including 30 percent from 3-point range, but Oklahoma City knocked down 50 percent of its field goals."
+   ],
+   "quotes": []
+  },
   {
    "source": "SAC 公式（nba.com）",
    "team": "SAC",
@@ -933,60 +961,6 @@
     "Atlanta is a team that’s improving every year. A hard-playing team, extremely well-coached. They give you full-court pressure for the entire game. It’s a real test playing against them. We’re going to…",
     "We’re getting to learn about each other, learn about our tendencies. Just trying to find the ways we can make him better, the ways that he can make us better. This is the time to kind of work on those…",
     "Larry Nance is a knowledgeable veteran player with feel who knows how to play the game. He’s been a good defender and rebounder in his career. He’s just very smart, a good communicator."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/warriors-sign-guard-brandin-podziemski-to-contract-extension-20261010",
-   "url": "https://www.nba.com/warriors/news/warriors-sign-guard-brandin-podziemski-to-contract-extension-20261010",
-   "canonical_url": "https://warriors.com/news/warriors-sign-guard-brandin-podziemski-to-contract-extension-20261010",
-   "title": "Warriors Sign Guard Brandin Podziemski to Contract Extension",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-11T00:08:45Z",
-   "tags": [],
-   "summary": "The Golden State Warriors have signed guard Brandin Podziemski to a contract extension, it was announced Saturday. Per team policy, terms of the agreement were not released.",
-   "facts": [
-    "The Golden State Warriors have signed guard Brandin Podziemski to a contract extension, it was announced Saturday.",
-    "He was the only Golden State player to appear in all 82 games and one of just 18 players in the NBA to accomplish the feat.",
-    "Podziemski scored in double figures 62 times, including 16 games with 20-or-more points and one 30-point performance.",
-    "Over the final 22 games of the season (all starts), Podziemski averaged 18.1 points, 5.2 rebounds and 3.6 assists in 31.7 minutes per game.",
-    "Overall, Podziemski owns career averages of 11.6 points, 5.3 rebounds, 3.6 assists, 1.00 steals and 27.4 minutes in 220 games (104 starts) over three seasons with Golden State.",
-    "Originally selected by the Warriors with the 19th overall pick in the 2023 NBA Draft, Podziemski earned 2023-24 NBA All-Rookie First Team honors, becoming the 19th player in franchise history to receive the recognition."
-   ],
-   "quotes": [
-    "We’re thrilled to get an extension done with Brandin prior to the deadline,",
-    "Brandin has continued to improve and expand his game since he entered the league as a mid-first round pick, and we think his upward trajectory will only continue. He’s a durable, skilled, two-way play…"
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/fans-bring-the-energy-and-noise-at-hornets-purple-teal-day",
-   "url": "https://www.nba.com/hornets/news/fans-bring-the-energy-and-noise-at-hornets-purple-teal-day",
-   "canonical_url": "https://hornets.com/news/fans-bring-the-energy-and-noise-at-hornets-purple-teal-day",
-   "title": "Fans Bring The Energy And Noise At Hornets’ Purple & Teal Day",
-   "author": "Sam Perley",
-   "published_utc": "2026-10-11T00:02:37Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "Last summer’s renovations at Spectrum Center forced the Hornets’ preseason Purple & Teal Day to temporarily relocate just down the street to Queens University. On Saturday afternoon, the organization’s free fan festival was back in downtown Charlotte and featured the usual fun array of shot-making, rookie dance-offs, giveaways and of course, player autographs.",
-   "facts": [
-    "Having already taking part in last weekend’s Hola Charlotte Festival and Oktoberfest at Glide Brewery, the Pull-Up is designed to generate excitement and energy for the Hornets’ upcoming 2026-27 season, which tips off on…",
-    "The Hornets will be back in Spectrum Center tomorrow night, when they host the Milwaukee Bucks for their second preseason contest beginning at 7 PM ET."
-   ],
-   "quotes": [
-    "This is one of our favorite days as a team, as an organization. To be able to continue to connect with our fans, our players bring their kids out here, all the kids that are in the arena, it’s so cool…",
-    "It was really fun just seeing so many people out here for the open practice,",
-    "There was some really good moves and athleticism showed by Hannes today, which was surprising. I had no idea [he could do a cartwheel], so that was fun to see."
    ]
   }
  ]
