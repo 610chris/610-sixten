@@ -1,8 +1,147 @@
 {
- "updated_utc": "2026-10-15 06:22 UTC",
+ "updated_utc": "2026-10-15 17:18 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "quotes",
+   "key": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season",
+   "url": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season",
+   "canonical_url": "https://orlandomagic.com/news/3-jalen-suggs-storylines-going-into-2026-27-season",
+   "title": "3 Jalen Suggs Storylines Going Into 2026-27 Season",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-15T16:03:04Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "",
+   "facts": [],
+   "quotes": []
+  },
+  {
+   "source": "WAS 公式（nba.com）",
+   "team": "WAS",
+   "team_ja": "ウィザーズ",
+   "team_id": 1610612764,
+   "kind": "feature",
+   "key": "https://www.nba.com/wizards/news/wizards-announce-2026-27-home-opener-activations",
+   "url": "https://www.nba.com/wizards/news/wizards-announce-2026-27-home-opener-activations",
+   "canonical_url": "https://washingtonwizards.com/news/wizards-announce-2026-27-home-opener-activations",
+   "title": "WIZARDS ANNOUNCE 2026-27 HOME OPENER ACTIVATIONS",
+   "author": "admin",
+   "published_utc": "2026-10-15T15:01:52Z",
+   "tags": [],
+   "summary": "Waka Flocka Flame to Headline Home Opener Celebration on Oct. 21",
+   "facts": [
+    "Waka Flocka Flame to Headline Home Opener Celebration on Oct. 21 WASHINGTON, D.C. – The Washington Wizards announced the activations for the team’s home opener presented by Capital One on Wednesday, Oct. 21, at 7 p.m., w…",
+    "Giveaway Tipping off the first “Wizards Wednesdays,” a seven-night series presented by Capital One, the first 15,000 fans in attendance will receive a Wizards-branded rally towel.",
+    "Doors open at 5:30 p.m.",
+    "Additional giveaways throughout the season include: Nov. 16: “Ice” Trae Young bobblehead for the first 10,000 fans.",
+    "Dec. 12: A beanie designed by guard Tre Johnson for the first 10,000 fans.",
+    "Jan. 17: The first 10,000 fans will receive a cherry blossom City Edition-themed sweatshirt designed by second year forward Will Riley, courtesy of Ticketmaster.",
+    "March 6: AJ Dybantsa Rookie Edition bobblehead for the first 10,000 fans.",
+    "April 11: Wizards-branded fan appreciation T-shirt for the first 15,000 fans."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-bucks-261016",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-bucks-261016",
+   "canonical_url": "https://pacers.com/news/preview-pacers-bucks-261016",
+   "title": "Game Preview: Pacers vs Bucks (Preseason)",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-15T14:57:00Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Friday, Oct. 16 at 7:00 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Friday, Oct. 16 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview The Pacers close out their preseason slate on Friday, hosting the Milwaukee Bucks at Gainbridge Fieldhouse for the final exhibition game for both teams.",
+    "Indiana is coming off a 114-112 overtime loss on Tuesday night in Oklahoma City.",
+    "Playing just his second preseason game after a 16-month absence while rehabbing a torn Achilles, Pacers All-Star guard Tyrese Haliburton was brilliant on Tuesday.",
+    "Back on the same court where he sustained his injury in Game 7 of the 2025 NBA Finals, Haliburton erupted for 24 points in 17 minutes against the Thunder, going 9-for-14 from the field and 4-for-6 from 3-point range whil…",
+    "Zubac had 13 points on 6-of-7 shooting, 13 rebounds (five on the offensive glass), five assists, and three steals.",
+    "The Bucks will have a very look this year, as Milwaukee made the decision to trade two-time MVP Giannis Antetokounmpo (as well as veteran forward Bobby Portis) to Miami this summer.",
+    "They acquired one-time All-Star guard (and Wisconsin native) Tyler Herro from Miami along with a trio of young players in Jaime Jaquez Jr., Kel'el Ware, and Kasparas Jakucionis and a stash of draft picks.",
+    "Milwaukee used its own pick to draft Arizona guard Brayden Burries 10th overall and used the pick acquired from Miami to take Tennessee forward Nate Ament with the 13th overall selection."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "SAS 公式（nba.com）",
+   "team": "SAS",
+   "team_ja": "スパーズ",
+   "team_id": 1610612759,
+   "kind": "feature",
+   "key": "https://www.nba.com/spurs/news/san-antonio-spurs-launch-los-spurs-official-spanish-language-instagram-account",
+   "url": "https://www.nba.com/spurs/news/san-antonio-spurs-launch-los-spurs-official-spanish-language-instagram-account",
+   "canonical_url": "https://spurs.com/news/san-antonio-spurs-launch-los-spurs-official-spanish-language-instagram-account",
+   "title": "San Antonio Spurs Launch 'Los Spurs' Official Spanish-Language Instagram Account",
+   "author": "saslkaneb",
+   "published_utc": "2026-10-15T14:20:11Z",
+   "tags": [
+    "Featured",
+    "press-release"
+   ],
+   "summary": "SAN ANTONIO (Oct. 15, 2026) – The San Antonio Spurs today announced the launch of @LosSpurs, a dedicated Spanish-language Instagram account for the organization. The platform will serve as a digital space catered to Spanish-speaking Spurs fans, with curated content, storytelling and fan engagement efforts. Fans are encouraged to follow the @LosSpurs account to catch the latest news from the team, …",
+   "facts": [
+    "SAN ANTONIO (Oct. 15, 2026) – The San Antonio Spurs today announced the launch of @LosSpurs, a dedicated Spanish-language Instagram account for the organization.",
+    "For decades, the organization has invested in the Mexico region through games, court renovations, community initiatives and partnerships, reinforcing its role as “Mexico’s team.” The team has played seven games in the co…",
+    "The team’s @LesSpurs account, launched in 2025 to cater to French-speaking fans, is the most followed French NBA team account in the league.",
+    "About Spurs Sports & Entertainment Spurs Sports & Entertainment (SS&E) is a value-based and community-centric sports and entertainment company that provides premier live and global digital experiences for fans across a p…"
+   ],
+   "quotes": [
+    "Our Spanish-speaking fans are a big part of what makes the Spurs family so special, and we want them to feel connected to the team in the language they call their own,",
+    "Los Spurs gives us a new way to celebrate their passion, share stories that resonate with them and bring fans across San Antonio, Mexico and beyond closer to the Silver & Black."
+   ]
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/duren-obliterates-all-concerns-in-sparkling-debut-as-pistons-net-blueprint-win",
+   "url": "https://www.nba.com/pistons/news/duren-obliterates-all-concerns-in-sparkling-debut-as-pistons-net-blueprint-win",
+   "canonical_url": "https://pistons.com/news/duren-obliterates-all-concerns-in-sparkling-debut-as-pistons-net-blueprint-win",
+   "title": "Duren obliterates all concerns in sparkling debut as Pistons net blueprint win",
+   "author": "Keith Langlois",
+   "published_utc": "2026-10-15T13:19:37Z",
+   "tags": [
+    "ausar thompson",
+    "game recap",
+    "Jalen Duren"
+   ],
+   "summary": "Remember all the hand-wringing and teeth-gnashing a few weeks ago about Jalen Duren? Would he take the qualifying offer, the nuclear option? Even if he signed a long-term contract – always the overwhelmingly likely option – would bruised feelings ruin the vibe that made the Pistons the NBA’s feel-good story over the past two years?",
+   "facts": [
+    "Even if he signed a long-term contract – always the overwhelmingly likely option – would bruised feelings ruin the vibe that made the Pistons the NBA’s feel-good story over the past two years?",
+    "Duren dispelled 98 percent of those concerns with his thoughtful handling of the press conference that announced his return and obliterated the remaining 2 percent in Wednesday’s preseason debut.",
+    "Duren was the headliner on what was a very good night for the Pistons, scoring 24 points in a sublime 15-minute outing that ended at halftime.",
+    "It was as close as it gets to a meaningful NBA preseason game with two teams, each viewing itself as one that plays deep into the spring, each using a regular-season rotation template for most of 36 minutes, at which tim…",
+    "Other than fouling too much early – the Timberwolves were a perfect 15 of 15 at the foul line in the first quarter as they built their lead to 10 by early in the second – the Pistons played their kind of defense (Minneso…",
+    "Duren, who appeared straight from central casting as the ideal of the modern NBA center’s physique even when he arrived as an 18-year-old, looked somehow stronger, sleeker and more explosive than ever, more rounded and s…",
+    "Thompson played 21 minutes and took just one shot but collected four assists.",
+    "The plan for him is to go beyond the 26 minutes a game he played last season, Bickerstaff has said, and he’s going to be gradually entrusted with more responsibility on the offensive end to go with his enormous role at t…"
+   ],
+   "quotes": [
+    "I had to take my time to get back right, get in somewhat game shape,",
+    "I was happy to be back playing the game I love, happy to be back with my teammates I love. I’m ready to keep it going.",
+    "When he’s out there doing his thing, he’s hard to stop.",
+    "I feel good, just happy to be back with my guys,"
+   ]
+  },
   {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
@@ -1027,101 +1166,6 @@
     "It’s reading the game. I think when you set the tone physically, you dictate the tone, I think it gives you a chance,",
     "These guys are willing to be attached to the body, they're willing to try to blow up screens, they’re willing to get screened. They just play a physical style of basketball and it favors them in situa…",
     "He’s a really high IQ player,"
-   ]
-  },
-  {
-   "source": "BKN 公式（nba.com）",
-   "team": "BKN",
-   "team_ja": "ネッツ",
-   "team_id": 1610612751,
-   "kind": "feature",
-   "key": "https://www.nba.com/nets/news/brooklyn-nets-unveil-classic-edition-uniform-and-dedicated-court-ahead-of-milestone-60th-season",
-   "url": "https://www.nba.com/nets/news/brooklyn-nets-unveil-classic-edition-uniform-and-dedicated-court-ahead-of-milestone-60th-season",
-   "canonical_url": "https://brooklynnets.com/news/brooklyn-nets-unveil-classic-edition-uniform-and-dedicated-court-ahead-of-milestone-60th-season",
-   "title": "Brooklyn Nets Unveil Classic Edition Uniform and Dedicated Court Ahead of Milestone 60th Season",
-   "author": "Brooklyn Nets",
-   "published_utc": "2026-10-12T17:14:30Z",
-   "tags": [],
-   "summary": "BROOKLYN, NY - The Brooklyn Nets today unveiled their 2026–27 Classic Edition uniform and a dedicated court, honoring the franchise’s six decades of history from its ABA origins to its evolution into Brooklyn. Both will debut at Barclays Center on Wednesday, Oct. 21, when the Nets host the Charlotte Hornets in their home opener, presented by Alibaba. The Classic Edition uniform features a red, whi…",
-   "facts": [
-    "BROOKLYN, NY - The Brooklyn Nets today unveiled their 2026–27 Classic Edition uniform and a dedicated court, honoring the franchise’s six decades of history from its ABA origins to its evolution into Brooklyn.",
-    "Both will debut at Barclays Center on Wednesday, Oct. 21, when the Nets host the Charlotte Hornets in their home opener, presented by Alibaba.",
-    "As one of four franchises to join the NBA through the 1976 ABA-NBA merger, the Nets hold a unique place in basketball history.",
-    "Using the colors and design of the team’s early uniforms, the Classic Edition uniform reimagines the franchise’s original identity for a new era, connecting the team’s ABA beginnings to its 60th season and the 50th anniv…",
-    "Beginning Monday, Oct. 19, the jersey will be available for purchase online and in-store at Brooklyn Fanatics.",
-    "The court features the Nets’ 60th season logo at center court, a Nets logo comprised of past team branding along the sideline and the names of more than 575 players who have worn a Nets jersey across the court apron, whi…",
-    "Alibaba, an Official Technology and Cloud Partner of the Brooklyn Nets and the team’s Official Jersey Patch Partner for the 2026–27 season, will also introduce Real-Time 360º Replay at Barclays Center and an in-arena “Ne…",
-    "Throughout the 60th season, the Nets will honor the franchise’s rich history, its impact on professional basketball and the communities that continue to shape its future in Brooklyn."
-   ],
-   "quotes": [
-    "We are thrilled to welcome Brooklyn Nets fans back to Barclays Center as we begin our 60th season,"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-thunder-261013",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-thunder-261013",
-   "canonical_url": "https://pacers.com/news/preview-pacers-thunder-261013",
-   "title": "Game Preview: Pacers at Thunder (Preseason)",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-10-12T14:46:30Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center",
-   "facts": [
-    "Tuesday, Oct. 13 at 8:00 PM ET at Paycom Center Game Preview The Indiana Pacers continue to work through their preseason slate as they travel to Oklahoma City for a matchup with the Thunder on Tuesday.",
-    "Indiana is 1-1 through two preseason contests, and the Thunder are 0-2.",
-    "Tuesday’s game would mark the first time guard Tyrese Haliburton will step between the lines with the Thunder since sustaining an Achilles tendon injury during the 2025 NBA Finals, should he be active for the matchup.",
-    "Carlisle expects Haliburton to return to the lineup as soon as Tuesday, but could rest an extra contest and return on Friday against the Milwaukee Bucks.",
-    "Regardless, the matchup with the Thunder is significant for the Pacers, who feel they have returned to full strength for the first time since the 2025 Finals series with Oklahoma City.",
-    "Zubac is a true center that gives Indiana a powerful presence in the paint, Nance brings a veteran presence to the locker room, and Oubre is a versatile wing defender with a 3-point shot.",
-    "Probable Starters Pacers: G - Andrew Nembhard, G - Kelly Oubre Jr., F - Aaron Nesmith, F - Pascal Siakam, C - Ivica Zubac Thunder: G - Shai Gilgeous-Alexander, G - Cason Wallace, F - Alex Caruso, F - Jalen Williams, C - …",
-    "Nembhard scored 27 points with 11 assists and Walker contributed a career-high 26 points in the 2025 Finals rematch."
-   ],
-   "quotes": [
-    "mild tweak of his right ankle",
-    "mild tweak of his right ankle"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/leonard-miller-steals-the-show-in-preseason-loss-to-nuggets",
-   "url": "https://www.nba.com/bulls/news/leonard-miller-steals-the-show-in-preseason-loss-to-nuggets",
-   "canonical_url": "https://bulls.com/news/leonard-miller-steals-the-show-in-preseason-loss-to-nuggets",
-   "title": "Leonard Miller steals the show in Preseason loss to Nuggets",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-12T12:12:37Z",
-   "tags": [
-    "Game Recap",
-    "Preseason",
-    "Sam Smith",
-    "Sam Smith recap"
-   ],
-   "summary": "The Bulls may have salvaged that Ayo trade after all.",
-   "facts": [
-    "The Bulls may have salvaged that Ayo trade after all.",
-    "And, oh does it seem we were wrong about Leonard Miller, the road runner 6-10 Canadian forward who quietly has been maybe the most consistent player this preseason, Sunday in Denver leading the Bulls with 26 points and s…",
-    "Miller, with his third consecutive double-digit scoring game without a play having been run for him after scoring in double digits in 17 of the last 18 games last season, again motored around to turn bouncing balls and a…",
-    "It was a higher speed, long shooting game courtesy of Miller, Caleb Wilson with 17 points Matas Buzelis with 13 and Noa Essengue with eight.",
-    "Buddy Hield finally rediscovered his shooting stroke with 4-of-6 threes as the Bulls fired up 50 threes, making 21.",
-    "They were 13-of-25 in the first half when they led 68-59.",
-    "The Bulls exhibition record is 1-2 with the fourth of the five preseason games in Milwaukee Wednesday Though Splitter has talked vaguely about attempting the best threes that present themselves and according to the situa…",
-    "The Bulls had 13 offensive rebounds Sunday even without rebounding vacuum Tobe Awaka."
-   ],
-   "quotes": [
-    "Alas poor Lenny! I knew him.",
-    "I feel amazing, no pain, nothing; I can play free,",
-    "After Summer League, I talked a lot with Tiago and Bryson (Graham, basketball chief). They told me to just play my game, play free offensively and defensively. Pressure the ball more. Offensively play…",
-    "He's being more aggressive,"
    ]
   }
  ]
