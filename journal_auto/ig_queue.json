@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:56:18+09:00",
+  "updated": "2026-10-15T14:57:34+09:00",
   "items": [
     {
       "id": "134",
@@ -10890,6 +10890,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "TOKYO MX、アルバルクvs宇都宮を11/1放送\n\n・アルバルク東京vs宇都宮ブレックスのホームゲーム\n・11月1日(日)19:00からTOKYO MX1で録画放送\n・宇都宮は昨季B.LEAGUE東地区王者\n\n💬 アルバルクvs宇都宮、勝つのはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 東京メトロポリタンテレビジョン株式会社プレスリリース（PR TIMES）\n写真: プレスリリースより（PR TIMES）\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "469",
+      "slug": "469-hachimura-16-points-nuggets-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "八村塁、ナゲッツ戦で16得点5リバウンド",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁は現地時間10月14日、本拠地Intuit Domeで行われたプレシーズンのデンバー・ナゲッツ戦に先発し、24分の出場でフィールドゴール12本中5本、3ポイント5本中3本を沈めて16得点5リバウンド2スティールを記録した。クリッパーズは122-110でナゲッツに快勝した。",
+      "points": [
+        "先発24分でFG5/12・3P3/5",
+        "フリースロー3本は全て成功",
+        "クリッパーズが122-110で快勝"
+      ],
+      "source": "ESPN ボックススコア（Nuggets vs. Clippers・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/469-hachimura-16-points-nuggets-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "八村塁、レギュラーシーズンは何得点ペースになる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. NUGGETS",
+        "points": 16,
+        "stats": [
+          "5 REB",
+          "2 STL",
+          "1 AST",
+          "5/12 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/469-1.jpg",
+        "https://sixten.jp/assets/ig/469-2.jpg",
+        "https://sixten.jp/assets/ig/469-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T14:57:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、ナゲッツ戦で16得点5リバウンド\n\n・先発24分でFG5/12・3P3/5\n・フリースロー3本は全て成功\n・クリッパーズが122-110で快勝\n\n💬 八村塁、レギュラーシーズンは何得点ペースになる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nuggets vs. Clippers・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "470",
+      "slug": "470-brazile-22-points-clippers-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "トレボン・ブラジル、クリッパーズ戦で22得点",
+      "excerpt": "デンバー・ナゲッツのトレボン・ブラジルは現地時間10月14日、プレシーズンのロサンゼルス・クリッパーズ戦に出場し、25分の出場でフィールドゴール10本中8本、3ポイント4本中3本を沈めて22得点を記録し、両チーム通じてこの日の試合最多得点者となった。ナゲッツは110-122でクリッパーズに敗れた。",
+      "points": [
+        "25分の出場でFG8/10・3P3/4",
+        "両チーム最多の22得点も110-122で敗戦",
+        "リバウンド2本・スティール1本・ブロック1本"
+      ],
+      "source": "ESPN ボックススコア（Nuggets vs. Clippers・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/470-brazile-22-points-clippers-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Trevon Brazile"
+      ],
+      "question": "ブラジル、来季はもっと出番増える？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TREVON BRAZILE",
+        "opponent": "vs. CLIPPERS",
+        "points": 22,
+        "stats": [
+          "2 REB",
+          "8/10 FG",
+          "3/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/470-1.jpg",
+        "https://sixten.jp/assets/ig/470-2.jpg",
+        "https://sixten.jp/assets/ig/470-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T14:57:34+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "トレボン・ブラジル、クリッパーズ戦で22得点\n\n・25分の出場でFG8/10・3P3/4\n・両チーム最多の22得点も110-122で敗戦\n・リバウンド2本・スティール1本・ブロック1本\n\n💬 ブラジル、来季はもっと出番増える？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nuggets vs. Clippers・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
