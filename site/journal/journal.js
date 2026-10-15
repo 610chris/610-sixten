@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "476-adidas-ae3-purple-iridescent.html",
+    cat: "KICKS",
+    title: "アディダス「Anthony Edwards 3」新色「Purple Iridescent」が11月10日発売 —— 光で色を変えるサイドケージ",
+    excerpt: "アディダスは、アンソニー・エドワーズの3代目シグネチャーシューズ「Anthony Edwards 3」の新色「Purple Iridescent」を2026年11月10日に発売する。アッパーの大半をパープルが覆い、特徴的な大型サイドケージには光の当たり方でシルバー・ブルー・ピンクへと色を変えるイリデセント加工が施されている。Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.16",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "475-nike-dunk-low-shibuya-halloween.html",
+    cat: "KICKS",
+    title: "Nike Dunk Low「Shibuya」新色「Halloween」が10月23日発売 —— 品番IX5169-300、価格135ドル",
+    excerpt: "ナイキは「Dunk Low」の渋谷モチーフモデルに新色「Halloween」（品番IX5169-300、価格135ドル）を加え、2026年10月23日にNike.comおよび一部取扱店で発売する。Nice Kicksが伝えた。",
+    date: "2026.10.16",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "474-nba-preseason-storylines.html",
     cat: "NBA",
     title: "ヤニス、ヒートでも“らしさ”全開 —— ESPNがプレシーズン総括、レブロンは慎重出場・ヨキッチは規格外パス",
