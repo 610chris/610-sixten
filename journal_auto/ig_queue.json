@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:55:32+09:00",
+  "updated": "2026-10-15T12:00:28+09:00",
   "items": [
     {
       "id": "134",
@@ -10779,6 +10779,51 @@
       "ig_media_id": null,
       "error": null,
       "caption": "トビ・ラワル、ペリカンズ戦で16得点\n\n・マーベリックスは97-101で惜敗\n・23分の出場で4/6 FG・8/8 FT\n・フリースローは全て成功\n\n💬 ラワルのフリースロー完璧、今季も見られそう？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Mavericks vs. Pelicans・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "466",
+      "slug": "466-poulakidas-16-points-mavericks-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "ポウラキダス、ペリカンズ戦で16得点",
+      "excerpt": "ダラス・マーベリックスのジョン・ポウラキダスは現地時間10月14日、プレシーズンのニューオーリンズ・ペリカンズ戦に出場し、26分の出場でフィールドゴール9本中5本、3ポイントは8本中4本を沈めて16得点を記録し、ペリカンズのジェレマイア・フィアーズ、チームメイトのトビ・ラワルと並んで両チーム通じてこの日の試合最多得点者となった。マーベリックスは97-101でペリカンズに惜敗した。",
+      "points": [
+        "26分の出場で16得点",
+        "フィールドゴール9本中5本",
+        "3ポイントは8本中4本成功"
+      ],
+      "source": "ESPN ボックススコア（Pelicans vs. Mavericks・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/466-poulakidas-16-points-mavericks-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "John Poulakidas"
+      ],
+      "question": "ポウラキダス、今シーズンはどこまでいける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JOHN POULAKIDAS",
+        "opponent": "vs. PELICANS",
+        "points": 16,
+        "stats": [
+          "3 REB",
+          "5/9 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/466-1.jpg",
+        "https://sixten.jp/assets/ig/466-2.jpg",
+        "https://sixten.jp/assets/ig/466-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:59:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ポウラキダス、ペリカンズ戦で16得点\n\n・26分の出場で16得点\n・フィールドゴール9本中5本\n・3ポイントは8本中4本成功\n\n💬 ポウラキダス、今シーズンはどこまでいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pelicans vs. Mavericks・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
