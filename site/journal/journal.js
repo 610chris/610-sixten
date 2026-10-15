@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "477-nba-gm-survey-wembanyama-spurs.html",
+    cat: "NBA",
+    title: "ウェンバンヤマがMVP最有力、スパーズは優勝候補1位 —— NBA恒例のGM調査、ハーパーはフラッグ超えの評価",
+    excerpt: "NBA.comは15日（現地時間）、リーグ30チームのゼネラルマネージャー（GM）を対象にした恒例調査の結果を公開した。スパーズが優勝候補の最有力（50％）に挙がり、ウェンバンヤマはMVP（77％）とDPOYの本命に選ばれた。ディラン・ハーパーはクーパー・フラッグを上回るブレイクアウト候補に選ばれている。",
+    date: "2026.10.16",
+    thumb: "../assets/journal-477-hero.jpg?v=1427d7febc"
+  },
+  {
     href: "476-adidas-ae3-purple-iridescent.html",
     cat: "KICKS",
     title: "アディダス「Anthony Edwards 3」新色「Purple Iridescent」が11月10日発売 —— 光で色を変えるサイドケージ",
