@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "456-nets-pacers-nuggets-spurs-aba-uniforms.html",
+    cat: "NBA",
+    title: "ネッツ・ペイサーズ・ナゲッツ・スパーズがABA復刻の「クラシック・エディション」ユニフォームを発表 —— 4球団そろって60周年",
+    excerpt: "ブルックリン・ネッツ、インディアナ・ペイサーズ、デンバー・ナゲッツ、サンアントニオ・スパーズの4球団は現地時間10月12日、ABA(アメリカン・バスケットボール・アソシエーション)時代にルーツを持つ「クラシック・エディション」ユニフォームとコートデザインを発表した。4球団はいずれも今季が球団60周年にあたる。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "455-porzingis-out-indefinitely-private-health.html",
     cat: "NBA",
     title: "ポルジンギス、無期限離脱も施設には復帰へ —— ウォリアーズ、カーHCは小型ラインアップで開幕へ",
