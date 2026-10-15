@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "458-chiba-sky-wings-oamishirasato-taiken.html",
+    cat: "JAPAN",
+    title: "CHIBA SKY WINGS、大網白里校で10月の体験会を実施中 —— 11月から本格スタートへ",
+    excerpt: "3x3チーム「CHIBA SKY WINGS」を運営する株式会社SKYPORTは、2026年10月の毎週水曜日、千葉県大網白里市の「Swish(スウィッシュ)」で小学生向けの体験会を開催している。担当は現役3x3選手でスクールのメインコーチを務める遠藤涼真。初回は無料、10月の2回目以降は1回1,000円で、初心者・経験者ともに参加を受け付けている。公式Instagramでは11月から本格的にスタートする予定としている。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "457-kessler-lakers-preseason-debut-relentless.html",
     cat: "NBA",
     title: "ケスラー「とにかく貪欲に」—— レイカーズ初陣で11得点9リバウンド、347日ぶりの実戦復帰",
