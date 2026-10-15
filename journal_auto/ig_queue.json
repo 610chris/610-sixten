@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:19:14+09:00",
+  "updated": "2026-10-15T11:55:32+09:00",
   "items": [
     {
       "id": "134",
@@ -10547,6 +10547,238 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ポーター・ジュニア、ヒート戦で27得点\n\n・27分の出場でフィールドゴール9/17・3P4/8、自己最多級の27得点\n・チーム合計128得点のうち2割以上を1人で記録\n・ネッツは128-144でヒートに敗戦（プレシーズン）\n\n💬 このままいけばネッツの得点源になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nets vs. Heat・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "461",
+      "slug": "461-duren-24-points-timberwolves-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "ジャレン・デューレン、ティンバーウルブズ戦で24得点",
+      "excerpt": "デトロイト・ピストンズのジャレン・デューレンは現地時間10月14日、プレシーズンのミネソタ・ティンバーウルブズ戦に出場し、15分の出場でフィールドゴール9本中8本、フリースロー8本全てを沈めて24得点を記録し、両チーム通じてこの日の試合最多得点者となった。ピストンズは128-106でティンバーウルブズを下した。",
+      "points": [
+        "ピストンズが128-106で快勝",
+        "15分の出場で8/9 FG・8/8 FT",
+        "2スティール・1ブロックも記録"
+      ],
+      "source": "ESPN ボックススコア（Pistons vs. Timberwolves・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/461-duren-24-points-timberwolves-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Duren"
+      ],
+      "question": "15分で24得点、デューレンの出場時間はもっと伸びる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN DUREN",
+        "opponent": "vs. TIMBERWOLVES",
+        "points": 24,
+        "stats": [
+          "3 REB",
+          "2 STL",
+          "1 AST",
+          "8/9 FG",
+          "8/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/461-1.jpg",
+        "https://sixten.jp/assets/ig/461-2.jpg",
+        "https://sixten.jp/assets/ig/461-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:54:52+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジャレン・デューレン、ティンバーウルブズ戦で24得点\n\n・ピストンズが128-106で快勝\n・15分の出場で8/9 FG・8/8 FT\n・2スティール・1ブロックも記録\n\n💬 15分で24得点、デューレンの出場時間はもっと伸びる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pistons vs. Timberwolves・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "462",
+      "slug": "462-kam-jones-23-points-bulls-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "キャム・ジョーンズ、ブルズ戦で23得点",
+      "excerpt": "ミルウォーキー・バックスのキャム・ジョーンズは現地時間10月14日、プレシーズンのシカゴ・ブルズ戦に出場し、22分の出場でフィールドゴール14本中9本、3ポイント6本中2本を沈めて23得点を記録し、両チーム通じてこの日の試合最多得点者となった。バックスは104-125でブルズに敗れた。",
+      "points": [
+        "バックスは104-125で敗戦",
+        "22分の出場で9/14 FG・2/6 3PT",
+        "試合最多得点者に"
+      ],
+      "source": "ESPN ボックススコア（Bucks vs. Bulls・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/462-kam-jones-23-points-bulls-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Kam Jones"
+      ],
+      "question": "ジョーンズのこの得点力、来季の開幕ロスター入りに近づく？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KAM JONES",
+        "opponent": "vs. BULLS",
+        "points": 23,
+        "stats": [
+          "4 REB",
+          "1 AST",
+          "9/14 FG",
+          "2/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/462-1.jpg",
+        "https://sixten.jp/assets/ig/462-2.jpg",
+        "https://sixten.jp/assets/ig/462-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:55:31+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "キャム・ジョーンズ、ブルズ戦で23得点\n\n・バックスは104-125で敗戦\n・22分の出場で9/14 FG・2/6 3PT\n・試合最多得点者に\n\n💬 ジョーンズのこの得点力、来季の開幕ロスター入りに近づく？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Bucks vs. Bulls・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "463",
+      "slug": "463-wembanyama-19-points-suns-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "ウェンバンヤマ、サンズ戦で19得点4ブロック",
+      "excerpt": "サンアントニオ・スパーズのビクター・ウェンバンヤマは現地時間10月14日、プレシーズンのフェニックス・サンズ戦に出場し、23分の出場でフィールドゴール14本中9本を沈めて19得点4ブロックを記録し、両チーム通じてこの日の試合最多得点者となった。スパーズは123-103でサンズを下した。",
+      "points": [
+        "スパーズが123-103で快勝",
+        "23分の出場で9/14 FG・4ブロック",
+        "プラスマイナスはチーム最高の+19"
+      ],
+      "source": "ESPN ボックススコア（Spurs vs. Suns・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/463-wembanyama-19-points-suns-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "得点だけじゃなくブロックも4本、守備も含めて評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. SUNS",
+        "points": 19,
+        "stats": [
+          "4 REB",
+          "4 BLK",
+          "3 AST",
+          "2 STL",
+          "9/14 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/463-1.jpg",
+        "https://sixten.jp/assets/ig/463-2.jpg",
+        "https://sixten.jp/assets/ig/463-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:55:31+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマ、サンズ戦で19得点4ブロック\n\n・スパーズが123-103で快勝\n・23分の出場で9/14 FG・4ブロック\n・プラスマイナスはチーム最高の+19\n\n💬 得点だけじゃなくブロックも4本、守備も含めて評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Spurs vs. Suns・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "464",
+      "slug": "464-fears-16-points-mavericks-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "ジェレマイア・フィアーズ、マーベリックス戦で16得点5アシスト",
+      "excerpt": "ニューオーリンズ・ペリカンズのジェレマイア・フィアーズは現地時間10月14日、プレシーズンのダラス・マーベリックス戦に出場し、20分の出場でフィールドゴール11本中6本、3ポイント3本中2本を沈めて16得点5アシストを記録し、両チーム通じてこの日の試合最多得点者となった。ペリカンズは101-97でマーベリックスを下した。",
+      "points": [
+        "ペリカンズが101-97で勝利",
+        "20分の出場で6/11 FG・5アシスト",
+        "3スティールも記録"
+      ],
+      "source": "ESPN ボックススコア（Pelicans vs. Mavericks・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/464-fears-16-points-mavericks-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Jeremiah Fears"
+      ],
+      "question": "フィアーズのプレーメイク、今季注目してる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JEREMIAH FEARS",
+        "opponent": "vs. MAVERICKS",
+        "points": 16,
+        "stats": [
+          "5 AST",
+          "3 REB",
+          "3 STL",
+          "6/11 FG",
+          "2/3 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/464-1.jpg",
+        "https://sixten.jp/assets/ig/464-2.jpg",
+        "https://sixten.jp/assets/ig/464-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:55:32+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェレマイア・フィアーズ、マーベリックス戦で16得点5アシスト\n\n・ペリカンズが101-97で勝利\n・20分の出場で6/11 FG・5アシスト\n・3スティールも記録\n\n💬 フィアーズのプレーメイク、今季注目してる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pelicans vs. Mavericks・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "465",
+      "slug": "465-tobi-lawal-16-points-pelicans-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "トビ・ラワル、ペリカンズ戦で16得点",
+      "excerpt": "ダラス・マーベリックスのトビ・ラワルは現地時間10月14日、プレシーズンのニューオーリンズ・ペリカンズ戦に出場し、23分の出場でフィールドゴール6本中4本、フリースロー8本全てを沈めて16得点を記録した。マーベリックスは97-101でペリカンズに惜敗した。",
+      "points": [
+        "マーベリックスは97-101で惜敗",
+        "23分の出場で4/6 FG・8/8 FT",
+        "フリースローは全て成功"
+      ],
+      "source": "ESPN ボックススコア（Mavericks vs. Pelicans・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/465-tobi-lawal-16-points-pelicans-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Tobi Lawal"
+      ],
+      "question": "ラワルのフリースロー完璧、今季も見られそう？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TOBI LAWAL",
+        "opponent": "vs. PELICANS",
+        "points": 16,
+        "stats": [
+          "4 REB",
+          "4/6 FG",
+          "8/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/465-1.jpg",
+        "https://sixten.jp/assets/ig/465-2.jpg",
+        "https://sixten.jp/assets/ig/465-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:55:32+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "トビ・ラワル、ペリカンズ戦で16得点\n\n・マーベリックスは97-101で惜敗\n・23分の出場で4/6 FG・8/8 FT\n・フリースローは全て成功\n\n💬 ラワルのフリースロー完璧、今季も見られそう？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Mavericks vs. Pelicans・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
