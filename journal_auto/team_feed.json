@@ -1,8 +1,42 @@
 {
- "updated_utc": "2026-10-15 20:31 UTC",
+ "updated_utc": "2026-10-15 23:15 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/irving-flagg-to-play-as-mavs-have-dress-rehearsal-game-against-hawks",
+   "url": "https://www.nba.com/mavs/news/irving-flagg-to-play-as-mavs-have-dress-rehearsal-game-against-hawks",
+   "canonical_url": "https://mavs.com/mavs/news/irving-flagg-to-play-as-mavs-have-dress-rehearsal-game-against-hawks",
+   "title": "Irving, Flagg to play as Mavs have dress rehearsal game against Hawks",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-15T22:17:47Z",
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
+   "summary": "Anyone curious about getting an up close and personal look at what the Dallas Mavericks will look like before the regular season starts next week might want to make plans to be inside American Airlines Center on Friday night.",
+   "facts": [
+    "Irving tore the anterior cruciate ligament in his left knee during a March 3, 2025 game against the Sacramento Kings and missed all of last season when Flagg was tearing up the NBA en route to winning the league’s presti…",
+    "Of course, Irving and Flagg both played in last Sunday’s preseason game in Macao, China, when the Mavs defeated the Houston Rockets, 132-115.",
+    "In his first game in over 19 months, Irving played 22 minutes and finished with 17 points and three assists, while Flagg played 25 minutes and collected 14 points, seven assists and two steals.",
+    "Also, the Mavs didn’t arrive back in Dallas until 2:30 a.m.",
+    "Monday after spending a week in China while going 1-1 in two preseason games against the Rockets.",
+    "A little over two years after Atlanta selected Risacher with the No. 1 overall pick in the 2024 NBA Draft, the Hawks ceremoniously gave up on him and traded him to the Mavs this past summer in a three-team deal which hel…"
+   ],
+   "quotes": [
+    "This will be the closest to a regular season game that we’ll play just based on availability,",
+    "Just to look like we have a good rhythm and flow to the game offensively, and then defensively that we’re connected and we’ll cover for each other. We’ve got some guys with great natural instincts, so…",
+    "It’s a small sample size, but any time those two guys are on the court we’re going to be a better basketball team just because they both have such high basketball IQs,",
+    "They’re both great passers, they’re scorers, they both defend and have great natural instincts defensively as well."
+   ]
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -1085,94 +1119,6 @@
     "For years, Walt Disney World and the Orlando Magic have brought people together through shared experiences and a deep commitment to Central Florida,",
     "The reimagined Walt Disney World Atrium builds on that partnership, creating a vibrant new welcome for fans and an experience that feels distinctly Orlando."
    ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/releases-home-opener-261013",
-   "url": "https://www.nba.com/cavaliers/news/releases-home-opener-261013",
-   "canonical_url": "https://cavs.com/news/releases-home-opener-261013",
-   "title": "Cleveland Cavaliers Tip Off 2026-27 Home Schedule with Home Opener presented by Rocket",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-12T22:09:50Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "CLEVELAND – The Cleveland Cavaliers tip off their 2026-27 home schedule Saturday, October 24 at 7:30 p.m. ET when they host the Brooklyn Nets at Rocket Arena for the Home Opener presented by Rocket. Every fan in attendance will receive a Cavaliers-inspired Home Opener T-Shirt presented by Cleveland Clinic, rally towel presented by Rocket and PixMob bracelet, setting the stage for the NBA’s best ho…",
-   "facts": [
-    "CLEVELAND – The Cleveland Cavaliers tip off their 2026-27 home schedule Saturday, October 24 at 7:30 p.m.",
-    "Fan Experience For opening night, fans will enjoy performances from Cavs entertainment teams, including the Cavs Dance Team and 216Stix, along with a halftime performance by Grammy-nominated rapper and DJ Paul Wall.",
-    "Community Spotlights Proceeds from the night’s 50/50 raffle will benefit Cast It Forward, a nonprofit that provides fishing and outdoor experiences to kids, veterans and seniors who might not otherwise have the chance.",
-    "The food drive will help fuel the Cavs Million Meals Mission supported by Giant Eagle, a community program meant to fight food insecurity across Northeast Ohio by serving 1 million meals to underserved communities each y…",
-    "Since launching in 2024, Million Meals Mission has packed and distributed more than 3 million meals to support the Hunger Network, Greater Cleveland Food Bank and Children's Hunger Alliance.",
-    "Fans who spend $100 at Center Court at Rocket Arena during Home Opener will receive a $20 gift card with purchase.",
-    "The first 50 fans to spend $100 at Pinecrest on October 24 will receive tickets to the Cavs October 26 game against the Minnesota Timberwolves.",
-    "Cavs Home Opener Sweepstakes Fans can enter for the chance to win free tickets to the Cavs Home Opener presented by Rocket, now through Tuesday, October 20 at 11:59 p.m."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/mikecheck-after-rigorous-preseason-stretch-grizzlies-evaluate-and-regroup-for-final-test-run",
-   "url": "https://www.nba.com/grizzlies/news/mikecheck-after-rigorous-preseason-stretch-grizzlies-evaluate-and-regroup-for-final-test-run",
-   "canonical_url": "https://grizzlies.com/news/mikecheck-after-rigorous-preseason-stretch-grizzlies-evaluate-and-regroup-for-final-test-run",
-   "title": "MikeCheck: After rigorous preseason stretch, Grizzlies evaluate and regroup for final test run",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-12T21:26:49Z",
-   "tags": [
-    "Grind City Media",
-    "Michael Wallace",
-    "MikeCheck"
-   ],
-   "summary": "Grizzlies fine tune in mini-camp type week",
-   "facts": [
-    "That’s because the Grizzlies’ Oct. 21 season and home opener against the Jazz is immediately followed by a four-game road trip out West.",
-    "Iisalo has seen steady development in a week that opened with last Monday’s 132-outburst in a win in Atlanta.",
-    "Instead, it’s the collective resolve as they sort through lineup combinations while working to get rookie third overall pick Cam Boozer acclimated and third-year center Zach Edey up to speed from offseason surgery.",
-    "The 7-foot-4 franchise anchor built on his admittedly rusty 10-minute stint Wednesday against Orlando with Friday’s strong outing against the Bulls.",
-    "Edey was more assertive, made all three of his shot attempts and had 10 points, five rebounds, two steals and a block in 16 minutes.",
-    "Those types of explosive plays give the Grizzlies plenty of hope after the former First Team NBA All-Rookie selection was limited to just 11 games last season by injuries.",
-    "On Friday, however, the starting group was a collective plus-19 in the first half in Chicago.",
-    "Memphis scored 81 points in the first half against the Hawks, notched 31 assists against the Magic and dominated the first half against Chicago when primary rotation players were on the court."
-   ],
-   "quotes": [
-    "I honestly didn’t know that,",
-    "But with the pace we play, it’s definitely important for us to keep up with that type of schedule, to get a taste of that early. So, I’m kind of glad we’re doing that.",
-    "We’ve intentionally scheduled those three games … to develop different things and establish chemistry with the groups that are going to play together,",
-    "Our weekend (was) spent evaluating and recovering from this stretch, which was designed to test our guys’ conditioning. Overall, we’ve taken steps that were very valuable for us. Not just for the fact…"
-   ]
-  },
-  {
-   "source": "LAL 公式（nba.com）",
-   "team": "LAL",
-   "team_ja": "レイカーズ",
-   "team_id": 1610612747,
-   "kind": "roster",
-   "key": "https://www.nba.com/lakers/news/los-angeles-lakers-sign-forward-rafael-castro",
-   "url": "https://www.nba.com/lakers/news/los-angeles-lakers-sign-forward-rafael-castro",
-   "canonical_url": "https://lakers.com/news/los-angeles-lakers-sign-forward-rafael-castro",
-   "title": "Los Angeles Lakers Sign Forward Rafael Castro",
-   "author": "Los Angeles Lakers",
-   "published_utc": "2026-10-12T20:45:24Z",
-   "tags": [
-    "App Media Feed",
-    "Players",
-    "Team News"
-   ],
-   "summary": "The Los Angeles Lakers have signed forward Rafael Castro. In a corresponding move, the team has waived forward William Kyle III.",
-   "facts": [
-    "In a corresponding move, the team has waived forward William Kyle III.",
-    "The 23-year-old was a two-time Atlantic 10 All-Defensive Team selection and was named a finalist for the 2025-26 Lefty Driesell National Defensive Player of the Year Award.",
-    "Kyle III was signed by the Lakers Sept. 27."
-   ],
-   "quotes": []
   }
  ]
 }
