@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "467-ieho-kawasaki-bravethunders-game.html",
+    cat: "JAPAN",
+    title: "「iehoいえほ」presents 川崎ブレイブサンダース冠試合 —— 10月21日、大阪エヴェッサ戦で開催",
+    excerpt: "住宅用火災保険「iehoいえほ」を手がけるジェイアイ傷害火災保険株式会社は、2026年10月21日に開催されるB.LEAGUE PREMIER・川崎ブレイブサンダースのホームゲーム（vs大阪エヴェッサ）で冠試合「ホームを守れ！iehoマッチ」を実施すると発表した。「iehoいえほ」としては初の冠協賛となる。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-467-hero.jpg?v=d9b0886a46"
+  },
+  {
     href: "466-poulakidas-16-points-mavericks-preseason.html",
     cat: "NBA",
     title: "ジョン・ポウラキダス、ペリカンズ戦で3ポイント4本成功の16得点 —— プレシーズンでマーベリックスが97-101で惜敗",
