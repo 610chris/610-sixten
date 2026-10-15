@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "474-nba-preseason-storylines.html",
+    cat: "NBA",
+    title: "ヤニス、ヒートでも“らしさ”全開 —— ESPNがプレシーズン総括、レブロンは慎重出場・ヨキッチは規格外パス",
+    excerpt: "ESPNは15日（現地時間）、開幕を間近に控えたNBAのプレシーズンで見えてきた今シーズンの見どころを総括する記事を公開した。マイアミに移籍したヤニス・アデトクンボの好調ぶり、ニコラ・ヨキッチの規格外のパス、ジェイレン・デューレンの契約延長決着、タイリース・ハリバートンの感動の復帰戦などを取り上げている。ベン・ゴリバー記者が執筆した。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "473-nba-10-important-names-this-season.html",
     cat: "NBA",
     title: "ウィリアムソンからカワイまで —— ESPNが選ぶ2026-27シーズンを左右する「注目の10人」",
