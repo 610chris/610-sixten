@@ -1,17 +1,103 @@
 {
- "updated_utc": "2026-10-15 17:18 UTC",
+ "updated_utc": "2026-10-15 20:31 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/active-disrupting-pelicans-defense-shows-positive-signs-progress-in-dallas-preseason-win",
+   "url": "https://www.nba.com/pelicans/news/active-disrupting-pelicans-defense-shows-positive-signs-progress-in-dallas-preseason-win",
+   "canonical_url": "https://pelicans.com/news/active-disrupting-pelicans-defense-shows-positive-signs-progress-in-dallas-preseason-win",
+   "title": "Active, disruptive Pelicans defense shows positive signs, progress in Dallas preseason win",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-15T19:43:32Z",
+   "tags": [],
+   "summary": "A disruptive defensive performance by New Orleans in Wednesday’s preseason win at Dallas featured numerous high-impact plays, including 14 steals and seven blocks, but the possessions that caused the biggest reaction from the visitor’s bench didn’t include an individual stat. En route to holding the Mavericks to a rough 18-point first quarter, the Pelicans’ defense quickly forced multiple shot-clo…",
+   "facts": [
+    "A disruptive defensive performance by New Orleans in Wednesday’s preseason win at Dallas featured numerous high-impact plays, including 14 steals and seven blocks, but the possessions that caused the biggest reaction fro…",
+    "En route to holding the Mavericks to a rough 18-point first quarter, the Pelicans’ defense quickly forced multiple shot-clock violations, preventing the hosts from even a chance to score within the allotted 24 seconds.",
+    "After allowing 110 and 128 points to Oklahoma City and Miami, respectively, while splitting two previous exhibition games, New Orleans (2-1 in preseason) clamped down significantly on Dallas, holding the Mavericks to 35 …",
+    "It’s perhaps the biggest key for the Pelicans in 2026-27 to make a jump in the Western Conference standings, after placing 29th and 23rd in the NBA on defense in consecutive non-playoff years.",
+    "Denver, the NBA’s top-ranked offense in 2025-26."
+   ],
+   "quotes": [
+    "I thought our guys were very connected; I think that’s a great word (to describe them),",
+    "They were communicating with one another, flying around, covering for one another, doing it without fouling. We had two or three shot-clock violations. That’s just their ability to sit down and take o…",
+    "It just shows that you’re locked in throughout the whole defensive possession,",
+    "They believe that’s what’s going to get you over the top,"
+   ]
+  },
+  {
+   "source": "SAC 公式（nba.com）",
+   "team": "SAC",
+   "team_ja": "キングス",
+   "team_id": 1610612758,
+   "kind": "roster",
+   "key": "https://www.nba.com/kings/news/sacramento-kings-convert-leaky-black-to-two-way-contract",
+   "url": "https://www.nba.com/kings/news/sacramento-kings-convert-leaky-black-to-two-way-contract",
+   "canonical_url": "https://kings.com/news/sacramento-kings-convert-leaky-black-to-two-way-contract",
+   "title": "Sacramento Kings Convert Leaky Black to Two-Way Contract",
+   "author": "Official Release",
+   "published_utc": "2026-10-15T17:46:37Z",
+   "tags": [
+    "Press Release",
+    "Two-Way Contracts"
+   ],
+   "summary": "The Sacramento Kings announced today that the team has converted forward Leaky Black to a two-way contract. Per team policy, terms of the deal were not disclosed.",
+   "facts": [
+    "The Sacramento Kings announced today that the team has converted forward Leaky Black to a two-way contract.",
+    "In two NBA seasons, Black (6-6, 209) has averaged 4.3 points, 3.0 rebounds and 1.1 assists in 17.5 minutes per game across 41 career games (12 starts) with the Charlotte Hornets (2023-24) and Washington Wizards (2025-26)…",
+    "During the 2025-26 season, he appeared in 24 regular season games for the Capital City Go-Go, Washington’s G League affiliate, averaging 9.9 points, 8.1 rebounds, 3.4 assists and 2.0 steals in 35.7 minutes per game.",
+    "Prior to his NBA career, Black played five seasons at the University of North Carolina (2018-23), averaging 5.5 points and 4.7 rebounds in 155 games."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/labaron-philons-confidence-and-basketball-iq-shine-in-preseason",
+   "url": "https://www.nba.com/sixers/news/labaron-philons-confidence-and-basketball-iq-shine-in-preseason",
+   "canonical_url": "https://sixers.com/news/labaron-philons-confidence-and-basketball-iq-shine-in-preseason",
+   "title": "Labaron Philon’s confidence and basketball IQ shine in preseason",
+   "author": "Owen Boyle",
+   "published_utc": "2026-10-15T17:21:06Z",
+   "tags": [
+    "Labaron Philon Jr."
+   ],
+   "summary": "Labaron Philon Jr. has already had his welcome-to-the-league moment, and he hasn’t even made his NBA debut.",
+   "facts": [
+    "It’s been a baptism by fire for the No. 22 overall pick in the 2026 NBA Draft.",
+    "He joined a team whose starting five has a combined 36 All-Star Game appearances and five NBA Finals MVP awards.",
+    "In his preseason debut against the New York Knicks on Oct. 5, Philon played 25 minutes, scoring six points and recording four assists.",
+    "Two days later, Philon delivered his best preseason performance, scoring 14 points and registering seven assists in 25 minutes off the bench against the Boston Celtics.",
+    "The 6-foot-4 guard shot 50% from 3-point range, making four of his eight attempts.",
+    "As a point guard, Philon’s experience running an NBA-style offense in his two years at Alabama under head coach Nate Oats has helped make the switch from college to the pros smoother for the 20-year-old.",
+    "A third-team All-American and first-team All-SEC selection, Philon scored at least 20 points in 21 games as a sophomore and finished 11th nationally in scoring.",
+    "Whether that is his routine in the training room or the questions he asks his teammates and coaches during practice or film sessions, the 20-year-old “loves to work.” With just one preseason game remaining before the reg…"
+   ],
+   "quotes": [
+    "The first play of training camp, LeBron was coming at me full speed, and I was backpedaling, and that’s when the moment really hit,",
+    "I was like, ‘Alright, it’s here now.’ But being able to stand my ground and knowing that I can compete against these guys at a high level, I can be more confident.",
+    "Tyrese, VJ, Jaylen, LeBron, all those guys giving me heads up and stuff like that, it’s been really great,",
+    "Being myself. That was a big thing for me coming in with all the great guys we’ve got around me. Being yourself and being able to be a young, confident player, that’s where I have grown the most."
+   ]
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
    "team_ja": "マジック",
    "team_id": 1610612753,
    "kind": "quotes",
-   "key": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season",
-   "url": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season",
-   "canonical_url": "https://orlandomagic.com/news/3-jalen-suggs-storylines-going-into-2026-27-season",
+   "key": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season-1",
+   "url": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season-1",
+   "canonical_url": "https://orlandomagic.com/news/3-jalen-suggs-storylines-going-into-2026-27-season-1",
    "title": "3 Jalen Suggs Storylines Going Into 2026-27 Season",
    "author": "Josh Cohen",
    "published_utc": "2026-10-15T16:03:04Z",
@@ -21,8 +107,17 @@
     "Latest News",
     "Team News"
    ],
-   "summary": "",
-   "facts": [],
+   "summary": "What Will His Shooting Percentages Look Like By Season’s End?",
+   "facts": [
+    "However, his pull-up 3-point percentage and efficiency around the basket slipped.",
+    "Perhaps the mark to really circle this season is Suggs’ 3-point percentage in transition.",
+    "Last year, that mark was at 31.1 percent, a 12-percent drop from the prior two years combined.",
+    "As a team in 2025-26, the Magic shot 34.5 percent from downtown in transition, which ranked 27th in the league.",
+    "Being able to knock down threes at a reasonably high clip while on the move after getting stops or forcing turnovers is something the best teams excelled at last season (Nuggets, Hawks, Thunder, Spurs, Celtics and Knicks…",
+    "In the 2023-24 season, a year in which Suggs appeared in 75 games, the Magic ranked second in scoring off turnovers.",
+    "Last year, they slipped down to 12th in this category.",
+    "Now it’s important to note that the number of points Orlando scored off turnovers in both these seasons was about the same (18.6 in 2023-24 and 18.5 in 2025-26)."
+   ],
    "quotes": []
   },
   {
@@ -221,7 +316,12 @@
    "title": "Rookie de Larrea builds his strong case for court time in preseason loss",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-15T02:54:23Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "dwight powell",
+    "nba",
+    "Sergio De Larrea"
+   ],
    "summary": "While NBA preseason games can put a strain on the eyes when several of a team’s key players are on the sideline, that doesn’t mean there aren’t compelling plotlines.",
    "facts": [
     "While NBA preseason games can put a strain on the eyes when several of a team’s key players are on the sideline, that doesn’t mean there aren’t compelling plotlines.",
@@ -1073,100 +1173,6 @@
     "Kyle III was signed by the Lakers Sept. 27."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/irving-sees-greatness-in-flagg-is-eager-to-help-him-reach-it",
-   "url": "https://www.nba.com/mavs/news/irving-sees-greatness-in-flagg-is-eager-to-help-him-reach-it",
-   "canonical_url": "https://mavs.com/mavs/news/irving-sees-greatness-in-flagg-is-eager-to-help-him-reach-it",
-   "title": "Seeing greatness in Flagg, Irving is eager to help him reach it",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-12T19:44:23Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "To Kyrie Irving’s credit, he did not take the bait.",
-   "facts": [
-    "I love that he’s a two-way player and cares about using his voice as he’s grown into year two.",
-    "Irving had sat out the first game, an 18-point Rockets’ win, setting up Sunday’s debut with Flagg.",
-    "But in terms of scoring, they combined for 31 points and created plenty of easy baskets for each other and teammates.",
-    "He was asked about the numerous NBA stars that have had to deal with debilitating injuries.",
-    "In the past, a torn ACL or Achilles could have meant a player would never return to his previous abilities.",
-    "The preseason home opener is Wednesday against the New Orleans Pelicans at 7 p.m. at American Airlines Center . . .",
-    "Several Mavericks continue to deal with injuries that kept them out of the two games in Macao — Santi Aldama, Marcus Sasser, Dereck Lively II and Caleb Martin, notably."
-   ],
-   "quotes": [
-    "I don’t want to go deep into the comparisons,",
-    "My first few years in the league were pretty tough in terms of losing and not having the necessary pieces,",
-    "So I struggled in certain areas. I needed veteran leadership. Now that I’m a little older and I’m seeing this teenager — I won’t call him a kid — he’s displaying what he’s capable of and he’s only goi…",
-    "I think we have great depth,"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-generated-prolific-three-point-shooting-numbers-on-preseason-road-trip",
-   "url": "https://www.nba.com/pelicans/news/pelicans-generated-prolific-three-point-shooting-numbers-on-preseason-road-trip",
-   "canonical_url": "https://pelicans.com/news/pelicans-generated-prolific-three-point-shooting-numbers-on-preseason-road-trip",
-   "title": "Pelicans generated prolific three-point shooting numbers on preseason road trip",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-12T19:44:05Z",
-   "tags": [],
-   "summary": "A substantial amount of recent discussion has understandably focused on forward Zion Williamson’s efforts to expand and diversify his shot profile, upping his willingness to shoot from beyond the three-point arc. A similar conversation – perhaps a more important one, relatively speaking – could just as easily center on Williamson’s team.",
-   "facts": [
-    "New Orleans ranked 27th in three-pointers made and 24th in three-point percentage each of the last two seasons, contributing to the Pelicans finishing 21-61 and 26-56 and out of Western Conference play-in contention.",
-    "Led by forward Trey Murphy, the recent roster has featured multiple threats from long distance, but it’s still lagged behind the rest of the league in an area that’s increasingly important: NBA teams took an average of 3…",
-    "New Orleans has ranked in the bottom 10 in triple tries for six consecutive seasons.",
-    "Read into small-sample preseason statistics at your peril, but the Pelicans have displayed a greater inclination to fire from deep, averaging 15.5 three-pointers made through two games (ranked ninth in the NBA) and shoot…",
-    "Mosley said recently that he doesn’t want to take away from the team’s preexisting strengths, including being one of the NBA’s best paint-scoring offenses (57.7 ppg in 2025-26, second behind only Detroit’s 57.9).",
-    "Last season, the Pelicans made 19-plus trifectas only twice among their 82 games."
-   ],
-   "quotes": [
-    "We all have confidence in each other,",
-    "You see guys out here every day working on their jump shots. Just building that confidence and trust in each other to make shots.",
-    "I’m going to look at quality, more than I’ll look at the exact number,",
-    "I think a lot of the shots we took were the type we want – feet set, knockdown threes. We had a couple walk-up threes in transition, with guys we know are capable of making those. We’ve got to take wh…"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261012-gonzalez-scheierman-making-their-presence-felt-with-preseason-hustle",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261012-gonzalez-scheierman-making-their-presence-felt-with-preseason-hustle",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20261012-gonzalez-scheierman-making-their-presence-felt-with-preseason-hustle",
-   "title": "Gonzalez, Scheierman Making Their Presence Felt with Preseason Hustle",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-12T18:27:21Z",
-   "tags": [
-    "Practice",
-    "Preseason"
-   ],
-   "summary": "BOSTON – The Celtics drew six offensive fouls in their first two preseason games.",
-   "facts": [
-    "Gonzalez has totaled 32 points, 10 rebounds and seven assists, while shooting a blistering 68.8 percent from the field and 70 percent from 3-point range.",
-    "Scheierman has chipped in with 19 points, eight rebounds, 11 assists, and five steals, while knocking down 50 percent of his attempts from deep.",
-    "The Celtics have opened the exhibition slate with a pair of wins, including a 144-106 victory over Philadelphia.",
-    "That 38-point win included a whopping 16 steals and 22 deflections for the C’s."
-   ],
-   "quotes": [
-    "We always do practice together, so it's big time,",
-    "It’s reading the game. I think when you set the tone physically, you dictate the tone, I think it gives you a chance,",
-    "These guys are willing to be attached to the body, they're willing to try to blow up screens, they’re willing to get screened. They just play a physical style of basketball and it favors them in situa…",
-    "He’s a really high IQ player,"
-   ]
   }
  ]
 }
