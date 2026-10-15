@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "473-nba-10-important-names-this-season.html",
+    cat: "NBA",
+    title: "ウィリアムソンからカワイまで —— ESPNが選ぶ2026-27シーズンを左右する「注目の10人」",
+    excerpt: "ESPNのヴィンセント・グッドウィル記者は、2026-27シーズンの行方を左右しうる選手・コーチ・GMとして10人を選出した。ザイオン・ウィリアムソン、カール・アンソニー・タウンズの去就、カワイ・レナードの去就など、開幕直前の注目ポイントを610 JOURNALが整理する。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "472-nike-af1-iron-man.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low Patent「Iron Man」が11月1日発売 —— 品番IX8058-687、2013年モデルの再解釈",
