@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "468-tokyomx-alvark-utsunomiya.html",
+    cat: "JAPAN",
+    title: "TOKYO MX、「アルバルク東京vs宇都宮ブレックス」を録画放送 —— 11月1日19時、昨季東地区王者との一戦",
+    excerpt: "東京メトロポリタンテレビジョン株式会社（TOKYO MX）は、B.LEAGUE PREMIERのアルバルク東京のホームゲーム「アルバルク東京 VS 宇都宮ブレックス」を2026年11月1日（日）19:00からTOKYO MX1で録画放送すると発表した。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-468-hero.jpg?v=201c676ca5"
+  },
+  {
     href: "467-ieho-kawasaki-bravethunders-game.html",
     cat: "JAPAN",
     title: "「iehoいえほ」presents 川崎ブレイブサンダース冠試合 —— 10月21日、大阪エヴェッサ戦で開催",
