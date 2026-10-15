@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "457-kessler-lakers-preseason-debut-relentless.html",
+    cat: "NBA",
+    title: "ケスラー「とにかく貪欲に」—— レイカーズ初陣で11得点9リバウンド、347日ぶりの実戦復帰",
+    excerpt: "ロサンゼルス・レイカーズのウォーカー・ケスラー(Walker Kessler)は現地時間10月13日、ラスベガスでのウォリアーズ戦でプレシーズン初出場を果たし、16分の出場で11得点9リバウンド1ブロック1スティールを記録した。左肩手術からの実戦復帰は347日ぶり。JJ・レディックHCは「relentless(とにかく貪欲に)」を合言葉に掲げている。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "456-nets-pacers-nuggets-spurs-aba-uniforms.html",
     cat: "NBA",
     title: "ネッツ・ペイサーズ・ナゲッツ・スパーズがABA復刻の「クラシック・エディション」ユニフォームを発表 —— 4球団そろって60周年",
