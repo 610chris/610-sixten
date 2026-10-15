@@ -772,6 +772,33 @@
   "template": "news",
   "timestamp": "2026-10-14T01:04:53+0000"
  },
+ "17935789422400402": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "445",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、ニックス戦で21得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DedRCO4CdfL/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Raptors vs. Knicks）",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-14T02:03:49+0000"
+ },
  "17937764534320203": {
   "auto": false,
   "caption_len": 12,
@@ -1919,6 +1946,33 @@
   "product": "REELS",
   "timestamp": "2022-11-02T06:15:05+0000"
  },
+ "18060237918380258": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "448",
+  "auto": true,
+  "caption_len": 362,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デニ・アヴディア、キングス戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DedlOEMCXn2/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Trail Blazers vs. Kings・2026年10月13日）",
+  "subject": [
+   "Deni Avdija"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-14T05:00:14+0000"
+ },
  "18061775561625929": {
   "article": "366",
   "auto": true,
@@ -2148,6 +2202,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-30T22:39:55+0000"
+ },
+ "18076553816456949": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "455",
+  "auto": true,
+  "caption_len": 346,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ポルジンギス、無期限離脱も施設には復帰へ",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DefbIqGjBJQ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Warriors' Porzingis out indefinitely but will remain around team」",
+  "subject": [
+   "Kristaps Porzingis"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-14T22:10:35+0000"
  },
  "18077881187402238": {
   "article": "274",
@@ -2404,6 +2485,33 @@
   "template": "news",
   "timestamp": "2026-09-30T14:14:00+0000"
  },
+ "18098290754389627": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "451",
+  "auto": true,
+  "caption_len": 296,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ「1番シードを獲りたい」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeeXFN3kznp/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-14T12:15:55+0000"
+ },
  "18098493518534835": {
   "article": "305",
   "auto": true,
@@ -2426,6 +2534,33 @@
   ],
   "template": "quote",
   "timestamp": "2026-09-29T11:30:25+0000"
+ },
+ "18099434201310563": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "447",
+  "auto": true,
+  "caption_len": 341,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "オースティン・リーブス、ウォリアーズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DedlBd7ijaB/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Lakers vs. Warriors・2026年10月13日）",
+  "subject": [
+   "Austin Reaves"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-14T04:58:33+0000"
  },
  "18099558254066049": {
   "article": "271",
@@ -3216,6 +3351,31 @@
   "template": "news",
   "timestamp": "2026-09-29T21:09:13+0000"
  },
+ "18123521362926693": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "456",
+  "auto": true,
+  "caption_len": 381,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ネッツ・ペイサーズ・ナゲッツ・スパーズがABA復刻ユニフォームを発表",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeftSpQlG8V/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「Pacers, Spurs, Nuggets, Nets unveil ABA-inspired uniforms」",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-15T00:49:04+0000"
+ },
  "18124689802844332": {
   "article": "302",
   "auto": true,
@@ -3796,6 +3956,33 @@
   "template": "score",
   "timestamp": "2026-10-09T05:03:35+0000"
  },
+ "18146202235601478": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "457",
+  "auto": true,
+  "caption_len": 394,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケスラー「とにかく貪欲に」—— レイカーズ初陣で11得点9リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DefvNhSidjc/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Walker Kessler impresses in preseason debut for Lakers」",
+  "subject": [
+   "Walker Kessler"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-15T01:05:59+0000"
+ },
  "18149854045539124": {
   "article": "272",
   "auto": true,
@@ -3997,6 +4184,33 @@
   "permalink": "https://www.instagram.com/reel/CkDaNZhgWXx/",
   "product": "REELS",
   "timestamp": "2022-10-23T10:42:49+0000"
+ },
+ "18192238561405007": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "446",
+  "auto": true,
+  "caption_len": 343,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハリバートン、サンダー戦で24得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DedYAijDTCF/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Pacers vs. Thunder・2026年10月13日）",
+  "subject": [
+   "Tyrese Haliburton"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-14T03:04:46+0000"
  },
  "18192963388091717": {
   "auto": false,

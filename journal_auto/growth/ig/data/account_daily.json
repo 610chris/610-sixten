@@ -510,22 +510,37 @@
   "shares": 73,
   "total_interactions": 3115,
   "unfollows": 8,
-  "views": 129317,
+  "views": 129327,
   "website_clicks": 3
  },
  "2026-10-12": {
-  "accounts_engaged": 10000,
+  "accounts_engaged": 10737,
   "comments": 59,
-  "follows": 8,
-  "likes": 10149,
+  "follows": 33,
+  "likes": 10946,
+  "new_followers": 25,
+  "profile_views": 607,
+  "reach": 24129,
+  "saves": 611,
+  "shares": 271,
+  "total_interactions": 12187,
+  "unfollows": 7,
+  "views": 469092,
+  "website_clicks": 3
+ },
+ "2026-10-13": {
+  "accounts_engaged": 12804,
+  "comments": 81,
+  "follows": 25,
+  "likes": 12999,
   "new_followers": 0,
   "profile_views": 574,
-  "reach": 20703,
-  "saves": 555,
-  "shares": 251,
-  "total_interactions": 11294,
-  "unfollows": 3,
-  "views": 424437,
-  "website_clicks": 3
+  "reach": 1659,
+  "saves": 828,
+  "shares": 281,
+  "total_interactions": 14482,
+  "unfollows": 4,
+  "views": 572521,
+  "website_clicks": 7
  }
 }
