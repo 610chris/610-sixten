@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T10:54:28+09:00",
+  "updated": "2026-10-15T11:11:53+09:00",
   "items": [
     {
       "id": "134",
@@ -10454,6 +10454,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "CHIBA SKY WINGSが大網白里校で体験会開催中\n\n・千葉県大網白里市のSwishで小学生向け体験会を毎週水曜に実施\n・担当は現役3x3選手・遠藤涼真コーチ、初回無料\n・11月から本格スタートの予定\n\n💬 近くでバスケ教室探してる人いる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 株式会社SKYPORT（PR TIMES）\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "459",
+      "slug": "459-tatum-19-points-hornets-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "テイタム、ホーネッツ戦で19得点6アシスト",
+      "excerpt": "ボストン・セルティックスのジェイソン・テイタムは現地時間10月14日、プレシーズンのシャーロット・ホーネッツ戦に先発出場し、29分の出場でフィールドゴール17本中8本、3ポイント8本中3本を沈めて19得点6アシスト8リバウンドを記録した。セルティックスは114-93でホーネッツを下した。",
+      "points": [
+        "セルティックスが114-93で快勝",
+        "29分の出場で8/17 FG・3/8 3PT",
+        "8リバウンド・6アシスト・2スティール"
+      ],
+      "source": "ESPN ボックススコア（Celtics vs. Hornets・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/459-tatum-19-points-hornets-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "テイタムのプレシーズンの仕上がり、開幕に向けて順調だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. HORNETS",
+        "points": 19,
+        "stats": [
+          "8 REB",
+          "6 AST",
+          "2 STL",
+          "8/17 FG",
+          "3/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/459-1.jpg",
+        "https://sixten.jp/assets/ig/459-2.jpg",
+        "https://sixten.jp/assets/ig/459-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:11:20+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "テイタム、ホーネッツ戦で19得点6アシスト\n\n・セルティックスが114-93で快勝\n・29分の出場で8/17 FG・3/8 3PT\n・8リバウンド・6アシスト・2スティール\n\n💬 テイタムのプレシーズンの仕上がり、開幕に向けて順調だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Celtics vs. Hornets・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

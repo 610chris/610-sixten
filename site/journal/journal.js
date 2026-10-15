@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "459-tatum-19-points-hornets-preseason.html",
+    cat: "NBA",
+    title: "テイタム、ホーネッツ戦で19得点6アシスト —— プレシーズンでセルティックスが114-93で快勝",
+    excerpt: "ボストン・セルティックスのジェイソン・テイタムは現地時間10月14日、プレシーズンのシャーロット・ホーネッツ戦に先発出場し、29分の出場でフィールドゴール17本中8本、3ポイント8本中3本を沈めて19得点6アシスト8リバウンドを記録した。セルティックスは114-93でホーネッツを下した。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "458-chiba-sky-wings-oamishirasato-taiken.html",
     cat: "JAPAN",
     title: "CHIBA SKY WINGS、大網白里校で10月の体験会を実施中 —— 11月から本格スタートへ",
