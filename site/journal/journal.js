@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "460-porter-jr-27-points-heat-preseason.html",
+    cat: "NBA",
+    title: "ポーター・ジュニア、ヒート戦で27得点 —— プレシーズンでネッツが128-144で敗戦",
+    excerpt: "ブルックリン・ネッツのマイケル・ポーター・ジュニアは現地時間10月14日、プレシーズンのマイアミ・ヒート戦に出場し、27分の出場でフィールドゴール17本中9本、3ポイント8本中4本を沈めて27得点を記録した。ネッツは128-144でヒートに敗れた。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "459-tatum-19-points-hornets-preseason.html",
     cat: "NBA",
     title: "テイタム、ホーネッツ戦で19得点6アシスト —— プレシーズンでセルティックスが114-93で快勝",

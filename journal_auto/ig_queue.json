@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T11:11:53+09:00",
+  "updated": "2026-10-15T11:19:14+09:00",
   "items": [
     {
       "id": "134",
@@ -10501,6 +10501,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "テイタム、ホーネッツ戦で19得点6アシスト\n\n・セルティックスが114-93で快勝\n・29分の出場で8/17 FG・3/8 3PT\n・8リバウンド・6アシスト・2スティール\n\n💬 テイタムのプレシーズンの仕上がり、開幕に向けて順調だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Celtics vs. Hornets・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "460",
+      "slug": "460-porter-jr-27-points-heat-preseason",
+      "category": "NBA",
+      "date": "2026-10-15",
+      "headline": "ポーター・ジュニア、ヒート戦で27得点",
+      "excerpt": "ブルックリン・ネッツのマイケル・ポーター・ジュニアは現地時間10月14日、プレシーズンのマイアミ・ヒート戦に出場し、27分の出場でフィールドゴール17本中9本、3ポイント8本中4本を沈めて27得点を記録した。ネッツは128-144でヒートに敗れた。",
+      "points": [
+        "27分の出場でフィールドゴール9/17・3P4/8、自己最多級の27得点",
+        "チーム合計128得点のうち2割以上を1人で記録",
+        "ネッツは128-144でヒートに敗戦（プレシーズン）"
+      ],
+      "source": "ESPN ボックススコア（Nets vs. Heat・2026年10月14日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/460-porter-jr-27-points-heat-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Michael Porter Jr."
+      ],
+      "question": "このままいけばネッツの得点源になる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "MICHAEL PORTER JR.",
+        "opponent": "vs. HEAT",
+        "points": 27,
+        "stats": [
+          "1 REB",
+          "1 AST",
+          "9/17 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/460-1.jpg",
+        "https://sixten.jp/assets/ig/460-2.jpg",
+        "https://sixten.jp/assets/ig/460-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-15T11:18:40+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ポーター・ジュニア、ヒート戦で27得点\n\n・27分の出場でフィールドゴール9/17・3P4/8、自己最多級の27得点\n・チーム合計128得点のうち2割以上を1人で記録\n・ネッツは128-144でヒートに敗戦（プレシーズン）\n\n💬 このままいけばネッツの得点源になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nets vs. Heat・2026年10月14日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
