@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "472-nike-af1-iron-man.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low Patent「Iron Man」が11月1日発売 —— 品番IX8058-687、2013年モデルの再解釈",
+    excerpt: "ナイキは「Air Force 1 Low Patent ”Iron Man”」（品番IX8058-687）を2026年11月1日に発売する。グロッシーなパテントレザーにジムレッドを基調とした配色で、ソールには鮮やかなオレンジを採用。マーベル「アイアンマン」を思わせる一足で、2013年にも似たテーマのAir Force 1が発売されている。Sneaker Files、Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "471-jordan-tatum-5-houtoku-trial.html",
+    cat: "KICKS",
+    title: "Jordan Brand「TATUM 5」を高校生がひと足早く —— Alpenとのシューズトライアルを報徳学園で実施",
+    excerpt: "AlpenとJordan Brandは、兵庫県・報徳学園高校男子バスケットボール部を対象にシューズトライアルを実施した。選手たちが試したのはジェイソン・テイタムの最新シグネチャーモデル「TATUM 5」。特別コーチに青木康平氏を招き、シュートやフットワーク、ピック＆ロールなどのドリルを通じてシューズの機能を体感した。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.10.15",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "469-hachimura-16-points-nuggets-preseason.html",
     cat: "NBA",
     title: "八村塁、ナゲッツ戦で16得点5リバウンド —— プレシーズンでクリッパーズが122-110で快勝",
