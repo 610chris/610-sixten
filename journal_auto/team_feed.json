@@ -1,8 +1,57 @@
 {
- "updated_utc": "2026-10-14 22:34 UTC",
+ "updated_utc": "2026-10-15 00:48 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-funk-and-moore",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-funk-and-moore",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-funk-and-moore",
+   "title": "Utah Jazz Waive Funk and Moore",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-14T23:10:58Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 14, 2026) – The Utah Jazz have waived forwards Taylor Funk and Chance Moore.",
+   "facts": [
+    "SALT LAKE CITY (October 14, 2026) – The Utah Jazz have waived forwards Taylor Funk and Chance Moore.",
+    "About Taylor Funk Funk (6-8, 230, Utah State) appeared in 41 games for the San Diego Clippers in 2025-26, averaging 11.3 points, 4.4 rebounds, and 2.1 assists in 26.2 minutes per contest, also totaling six games with 20-…",
+    "A native of Lancaster, Pa., Funk played five collegiate seasons at Saint Joseph’s (2017-22) and finished his career at Utah State (2022-23).In his lone season at Utah State, he averaged 13.4 points, 5.5 rebounds, and 1.7…",
+    "He knocked down 219 three-point field goals for Utah State in 2022-23, which is the eighth-highest single-season total in school history.",
+    "About Chance Moore Moore (6-6, 210, West Virginia) played in 29 games last season for West Virginia, owning averages of 10.6 points on 53.1 percent from the field and 5.8 rebounds in 22.3 minutes per game.In his final co…",
+    "Bonaventure (2024-25), Missouri State (2022-24), and Arkansas (2021-22).",
+    "Bonaventure, he averaged 13.0 points, 6.5 rebounds, 1.1 assists, and 1.3 steals in 34.0 minutes per game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-marc-spears-discusses-darryn-peterson-keyonte-george-and-jazz-expectations",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-marc-spears-discusses-darryn-peterson-keyonte-george-and-jazz-expectations",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-marc-spears-discusses-darryn-peterson-keyonte-george-and-jazz-expectations",
+   "title": "Roundball Roundup: Marc Spears Discusses Darryn Peterson, Keyonte George, and Jazz Expectations",
+   "author": "JP Chunga",
+   "published_utc": "2026-10-14T23:09:41Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga caught up with Marc Spears (Andscape) to discuss Darryn Peterson, Keyonte George and Jaren Jackson Jr.",
+   "facts": [],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
