@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "490-hornets-waive-pat-connaughton.html",
+    cat: "NBA",
+    title: "ホーネッツ、ベテランのパット・コナートンを解雇 —— 開幕前のロースター整理、Shams Charania記者が一報",
+    excerpt: "シャーロット・ホーネッツが、ベテランのパット・コナートンを解雇する。ESPNのシャムズ・シャラニア記者が10月16日(現地時間)、複数の情報源の話として伝えた。レギュラーシーズン開幕を控えたロースター整理の一環とみられる。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "489-nike-ja-4-high-zombie.html",
     cat: "KICKS",
     title: "Nike Ja 4 High「Zombie」が10月31日発売 —— ジャ・モラント初のハイトップ仕様、品番IQ3864-600",
