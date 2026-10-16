@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "487-nba-docomo-dazn-launch.html",
+    cat: "NBA",
+    title: "「NBA docomo」、DAZN経由でも視聴可能に —— シーズンプラン16,500円・月間2,728円、レギュラーシーズン400試合を日本語実況で配信",
+    excerpt: "NTTドコモは16日、映像配信サービス「NBA docomo」を「DAZN」上でも加入・視聴できるようにした。シーズンプラン16,500円(税込)・月間プラン2,728円(税込)の2プランで、NBA2026-27シーズンのレギュラーシーズン400試合を日本語実況・解説付きで配信。レイカーズ・ウォリアーズ・サンダー・スパーズ・クリッパーズの5チームを中心に編成する。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "486-nba-seattle-expansion-mexico-city-leverage.html",
     cat: "NBA",
     title: "NBA拡張、シアトル復帰は「ロック」ではなくなった —— シルバー委員長がメキシコシティ案で揺さぶり、ウィンダーホースト記者が内幕",
