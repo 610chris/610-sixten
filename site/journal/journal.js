@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "492-nike-gt-cut-4-wemby-halloween.html",
+    cat: "KICKS",
+    title: "Nike Zoom GT Cut 4「Alien」がヴィクター・ウェンバヤマ仕様に —— ハロウィン企画の一足、品番IX5395-300",
+    excerpt: "ナイキは、ヴィクター・ウェンバヤマ（スパーズ）が着用する「Nike Zoom GT Cut 4」に、自身のニックネーム「エイリアン」をテーマにしたハロウィン仕様の新色「Alien」（品番IX5395-300）を投入する。ナイキ バスケットボール所属選手を横断するハロウィン企画の一足。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "491-air-jordan-12-unc-pe.html",
+    cat: "KICKS",
+    title: "Air Jordan 12 PE「UNC」にデニム仕立ての新色 —— マイケル・ジョーダンの母校仕様、大学バスケPEシーズン開幕の一足",
+    excerpt: "ノースカロライナ大学（UNC）バスケットボール部に、デニム素材を使った「Air Jordan 12」のプレーヤーエクスクルーシブ（PE）が用意された。Sneaker Newsによると、2026-27シーズンの大学バスケPE展開の開幕を飾る一足という。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "490-hornets-waive-pat-connaughton.html",
     cat: "NBA",
     title: "ホーネッツ、ベテランのパット・コナートンを解雇 —— 開幕前のロースター整理、Shams Charania記者が一報",
