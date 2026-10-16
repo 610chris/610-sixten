@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T05:53:37+09:00",
+  "updated": "2026-10-16T12:03:04+09:00",
   "items": [
     {
       "id": "134",
@@ -11257,6 +11257,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "マクシー「健康なエンビードは全てを変える」\n\n・エンビードが健康にキャンプ・プレシーズンを完遂\n・昨季は故障で38試合出場、今季は新戦力との連係構築が進む\n・レブロン・ブラウンとの連係もキャンプで積み重ね\n\n💬 エンビードが開幕から健康なら、76ersはどこまでいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（クリス・リム記者）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "479",
+      "slug": "479-barnes-23-points-knicks-preseason",
+      "category": "NBA",
+      "date": "2026-10-16",
+      "headline": "スコッティ・バーンズ、ニックス戦で23得点",
+      "excerpt": "トロント・ラプターズのスコッティ・バーンズは現地時間10月15日、プレシーズンのニューヨーク・ニックス戦に先発し、28分の出場でフィールドゴール15本中9本、3ポイント5本中4本を沈めて23得点を記録し、両チーム通じてこの日の試合最多得点者となった。ラプターズは120-122でニックスに惜敗した。",
+      "points": [
+        "28分の出場でFG15本中9本、両チーム最多の23得点",
+        "3P5本中4本の高確率、アシスト4本・ブロック4本",
+        "ラプターズは120-122でニックスに惜敗"
+      ],
+      "source": "ESPN ボックススコア（Raptors vs. Knicks）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/479-barnes-23-points-knicks-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Scottie Barnes"
+      ],
+      "question": "バーンズ、今季はさらに得点力アップする？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOTTIE BARNES",
+        "opponent": "vs. KNICKS",
+        "points": 23,
+        "stats": [
+          "4 AST",
+          "4 BLK",
+          "3 REB",
+          "9/15 FG",
+          "4/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/479-1.jpg",
+        "https://sixten.jp/assets/ig/479-2.jpg",
+        "https://sixten.jp/assets/ig/479-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-16T12:01:29+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "スコッティ・バーンズ、ニックス戦で23得点\n\n・28分の出場でFG15本中9本、両チーム最多の23得点\n・3P5本中4本の高確率、アシスト4本・ブロック4本\n・ラプターズは120-122でニックスに惜敗\n\n💬 バーンズ、今季はさらに得点力アップする？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Raptors vs. Knicks）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "480",
+      "slug": "480-jalen-williams-18-points-rockets-preseason",
+      "category": "NBA",
+      "date": "2026-10-16",
+      "headline": "ジェイレン・ウィリアムズ、ロケッツ戦で18得点",
+      "excerpt": "オクラホマシティ・サンダーのジェイレン・ウィリアムズは現地時間10月15日、プレシーズンのヒューストン・ロケッツ戦に先発し、25分の出場でフィールドゴール14本中7本、3ポイント5本中2本を沈めて18得点7リバウンドを記録し、両チーム通じてこの日の試合最多得点者となった。サンダーは89-116でロケッツに敗れた。",
+      "points": [
+        "25分の出場でFG14本中7本、両チーム最多の18得点",
+        "リバウンド7本もチーム最多",
+        "サンダーは89-116でロケッツに敗戦"
+      ],
+      "source": "ESPN ボックススコア（Thunder vs. Rockets）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/480-jalen-williams-18-points-rockets-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Williams"
+      ],
+      "question": "サンダーの連覇争い、開幕後も圏内？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN WILLIAMS",
+        "opponent": "vs. ROCKETS",
+        "points": 18,
+        "stats": [
+          "7 REB",
+          "7/14 FG",
+          "2/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/480-1.jpg",
+        "https://sixten.jp/assets/ig/480-2.jpg",
+        "https://sixten.jp/assets/ig/480-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-16T12:02:59+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ウィリアムズ、ロケッツ戦で18得点\n\n・25分の出場でFG14本中7本、両チーム最多の18得点\n・リバウンド7本もチーム最多\n・サンダーは89-116でロケッツに敗戦\n\n💬 サンダーの連覇争い、開幕後も圏内？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Thunder vs. Rockets）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
