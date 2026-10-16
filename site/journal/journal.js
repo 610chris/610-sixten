@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "483-akita-happinets-vpoint-partner.html",
+    cat: "JAPAN",
+    title: "Vポイントマーケティング、秋田ノーザンハピネッツとオフィシャルパートナー契約 —— ホームゲーム限定グッズやマスコット「ビッキー」のVキセカエも",
+    excerpt: "Vポイントマーケティング株式会社は、B.LEAGUE所属のプロバスケットボールクラブ「秋田ノーザンハピネッツ」を運営する秋田ノーザンハピネッツ株式会社とオフィシャルパートナー契約を締結したと発表した。2026-27シーズンはホームゲームでのVポイント限定グッズ交換や、マスコット「ビッキー」デザインのVキセカエを展開する。",
+    date: "2026.10.16",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "482-magic-anthony-black-extension-deadline.html",
     cat: "NBA",
     title: "マジックのアンソニー・ブラック、契約延長交渉は19日が期限 —— ぜいたく税で手詰まり、決裂ならトレード市場の注目株に",
