@@ -1,8 +1,33 @@
 {
- "updated_utc": "2026-10-16 01:37 UTC",
+ "updated_utc": "2026-10-16 06:19 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "roster",
+   "key": "https://www.nba.com/heat/news/heat-sign-ezra-ausar",
+   "url": "https://www.nba.com/heat/news/heat-sign-ezra-ausar",
+   "canonical_url": "https://heat.com/news/heat-sign-ezra-ausar",
+   "title": "HEAT SIGN EZRA AUSAR",
+   "author": "Miami HEAT",
+   "published_utc": "2026-10-16T02:15:00Z",
+   "tags": [
+    "Trending"
+   ],
+   "summary": "Your Miami HEAT announced today that they have signed forward/center Ezra Ausar and waived Ian Schieffelin. Per club policy, terms of the deal were not disclosed.",
+   "facts": [
+    "Your Miami HEAT announced today that they have signed forward/center Ezra Ausar and waived Ian Schieffelin.",
+    "Ausar appeared in three Summer League games with Miami and averaged 7.0 points, 4.7 rebounds and 1.00 steals while shooting 63.6 percent from the field.",
+    "He started in all 32 games at USC last season and averaged 14.8 points, 6.5 rebounds, 1.7 assists, 1.00 steals and 29.9 minutes while shooting 58.3 percent from the field.",
+    "Schieffelin appeared in three preseason games with the HEAT and averaged 7.7 points, 4.0 rebounds, 1.0 assists and 14.7 minutes.",
+    "He also appeared in five Summer League games with Miami and averaged 8.4 points and 3.6 rebounds."
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -1107,46 +1132,6 @@
     "UP NEXT In eight days, the regular season tips-off in Philadelphia against the 76ers with the home open coming two days later against the Brooklyn Nets on October 24."
    ],
    "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-119-san-antonio-spurs-109-three-takeaways-from-the-preseason-win",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-119-san-antonio-spurs-109-three-takeaways-from-the-preseason-win",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-119-san-antonio-spurs-109-three-takeaways-from-the-preseason-win",
-   "title": "Utah Jazz 119, San Antonio Spurs 109: Three Takeaways From the Preseason Win",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-13T04:06:12Z",
-   "tags": [
-    "Ace Bailey",
-    "Darryn Peterson",
-    "Isaiah Collier",
-    "Jaren Jackson Jr.",
-    "Jaxson Hayes",
-    "Keyonte George",
-    "Lauri Markkanen",
-    "Utah Jazz"
-   ],
-   "summary": "For the last time before the regular season kicks off, the Utah Jazz took the floor at the Delta Center as preseason preparation is in full swing.",
-   "facts": [
-    "The Jazz hosted the San Antonio Spurs Monday night in what became a comfortable 119-109 win for the home team.",
-    "Utah’s starting five was productive and active on both ends in the first half, while the team’s second unit was a key spark throughout all 48 minutes.",
-    "Despite only knocking down two 3-pointers in the first 12 minutes, Utah put up 33 points in the quarter, mainly a result of 20 points in the paint.",
-    "To counter that interior scoring, the Spurs hit 6 threes and kept pace with 26 points of their own.",
-    "Free throws became the name of the game in the second quarter, with a combined 38 attempts from the line between the two teams.",
-    "By the halftime buzzer, Utah held a slim 68-61 lead.",
-    "Darryn Peterson helped push Utah’s offense, as the rookie guard dropped 10 points and three assists in the third quarter alone.",
-    "Heading into the final 12 minutes, Utah held a 99-78 advantage."
-   ],
-   "quotes": [
-    "There were some really good moments defensively for our team. I’m proud of the way the team is competing. Their focus level has been really high throughout camp… I can see it in the improvements they'…",
-    "He’s an incredibly gifted athlete,",
-    "He has good instincts and the ability to close space. Gambling is the wrong term, but he’s doing it in the appropriate way right now (in terms of) picking his spots when shooting the gap.",
-    "Jaxson provides a lob threat for us and the team is beginning to understand the power of that,"
-   ]
   }
  ]
 }
