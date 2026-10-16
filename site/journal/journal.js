@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "494-cliff-hagan-dies-94.html",
+    cat: "NBA",
+    title: "クリフ・ハーガン氏が94歳で死去 —— ビル・ラッセル指名権との伝説のトレード、1958年王者の殿堂入りフォワード",
+    excerpt: "バスケットボール殿堂入りのクリフ・ハーガン氏が94歳で死去した。セントルイス・ホークス一筋のオールスターで、1956年にビル・ラッセルの指名権と引き換えにセルティックスからトレードされ、1958年のNBA王座に貢献した。ケンタッキー大学が現地時間10月16日に発表した。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "493-cam-christie-clippers-two-way.html",
+    cat: "NBA",
+    title: "キャム・クリスティー、ウェーバー通過後にクリッパーズへ復帰 —— ツーウェイ契約で合意、Shams Charania記者が一報",
+    excerpt: "ガードのキャム・クリスティーが、ウェーバー公示を通過したうえでロサンゼルス・クリッパーズに復帰する。ツーウェイ契約での合意という。ESPNのシャムズ・シャラニア記者が現地時間10月16日、複数の情報源の話として伝えた。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "492-nike-gt-cut-4-wemby-halloween.html",
     cat: "KICKS",
     title: "Nike Zoom GT Cut 4「Alien」がヴィクター・ウェンバヤマ仕様に —— ハロウィン企画の一足、品番IX5395-300",
