@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "489-nike-ja-4-high-zombie.html",
+    cat: "KICKS",
+    title: "Nike Ja 4 High「Zombie」が10月31日発売 —— ジャ・モラント初のハイトップ仕様、品番IQ3864-600",
+    excerpt: "ナイキは、ジャ・モラントのシグネチャーモデル「Nike Ja 4」の初のハイトップ仕様「Ja 4 High」を発表した。ハロウィン仕様の新色「Zombie」（品番IQ3864-600）で10月31日に発売予定。Sneaker Newsが公式画像を、Sneaker Bar Detroitが発売日を伝えた。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "488-nike-lebron-24-storm-drain-halloween.html",
+    cat: "KICKS",
+    title: "Nike LeBron 24「Storm Drain」はレブロン本人のペニーワイズ仮装がモチーフ —— ナイキ バスケ版ハロウィンコレクション、品番IX5103-001",
+    excerpt: "ナイキは、レブロン・ジェームズのシグネチャーモデル「LeBron 24」の新色「Storm Drain」（品番IX5103-001）を発表した。10人のナイキ バスケットボール所属選手それぞれにハロウィン仕様の新色とお揃いのマスクを展開する企画の一足で、レブロン本人が過去に扮したペニーワイズの仮装がモチーフ。Sneaker Newsが公式画像を伝えた。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "487-nba-docomo-dazn-launch.html",
     cat: "NBA",
     title: "「NBA docomo」、DAZN経由でも視聴可能に —— シーズンプラン16,500円・月間2,728円、レギュラーシーズン400試合を日本語実況で配信",
