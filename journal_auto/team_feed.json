@@ -1,8 +1,64 @@
 {
- "updated_utc": "2026-10-15 23:15 UTC",
+ "updated_utc": "2026-10-16 01:37 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-hawks-preview-marcus-sasser-ready-to-play-for-mavs-for-the-first-time",
+   "url": "https://www.nba.com/mavs/news/mavericks-hawks-preview-marcus-sasser-ready-to-play-for-mavs-for-the-first-time",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-hawks-preview-marcus-sasser-ready-to-play-for-mavs-for-the-first-time",
+   "title": "Mavericks-Hawks preview: Marcus Sasser ready to play for Mavs for the first time",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-16T00:39:30Z",
+   "tags": [
+    "dallas mavericks",
+    "Marcus Sasser",
+    "nba"
+   ],
+   "summary": "With several family members and friends expected to be in attendance, Marcus Sasser will make his Dallas Mavericks' debut on Friday night at American Airlines Center when his team plays host to the Atlanta Hawks.",
+   "facts": [
+    "With several family members and friends expected to be in attendance, Marcus Sasser will make his Dallas Mavericks' debut on Friday night at American Airlines Center when his team plays host to the Atlanta Hawks.",
+    "The Mavs acquired Sasser from the Detroit Pistons this past July 8 in a six-team trade.",
+    "The 6-1, 195-pound guard unfortunately missed the Mavs’ first three preseason games with left adductor tightness after he slipped during one of the team's practice sessions.",
+    "He was the Player of the Year in the American Athletic Conference in 2023, and also was a consensus first-team All-American that year.",
+    "The Memphis Grizzles selected Sasser with the No. 25th overall pick on the first round of the 2023 NBA Draft.",
+    "But on draft night they traded him to the Boston Celtics who – also on that same draft night – traded him to the Pistons.",
+    "In 166 games for the Pistons, Sasser averaged seven points and 2.7 assists in 15.8 minutes per game.",
+    "He is anxious to show Mavs fans what he brings to the table and how he can become a difference-maker on a team looking to advance to the playoffs for the first time since playing in the 2024 NBA Finals."
+   ],
+   "quotes": [
+    "It’s been up and down, but overall it’s been good,",
+    "My mama and family are really excited to see me out there. I’m going to have a good crowd out there for sure.",
+    "Just the intensity that I bring, the energy, the dog mentality,",
+    "On the defensive side changing the game, pushing the pace and being able to space the floor (and) play-make. Just being me."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/hunter-dickinson-pelicans-roster-moves-preseason-2026",
+   "url": "https://www.nba.com/pelicans/news/hunter-dickinson-pelicans-roster-moves-preseason-2026",
+   "canonical_url": "https://pelicans.com/news/hunter-dickinson-pelicans-roster-moves-preseason-2026",
+   "title": "New Orleans Pelicans sign Hunter Dickinson",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-15T23:15:26Z",
+   "tags": [],
+   "summary": "The New Orleans Pelicans announced today that the team has signed center Hunter Dickinson. Per team policy, terms of the deal were not disclosed.",
+   "facts": [
+    "Dickinson, 7-1, 271, appeared in five games for the Pelicans last season as a two-way player.",
+    "Dickinson appeared in 44 games with the Pelicans’ G League affiliate, the Birmingham Squadron, last season in which he averaged 17.6 points, 10.9 rebounds and 3.3 assists in 30.3 minutes per game.",
+    "A native of Alexandria, Virginia, Dickinson appeared in 161 games (156 starts) over five collegiate seasons between Michigan (three seasons) and Kansas (two seasons), averaging 17.4 points, 9.2 rebounds, 1.8 assists and …"
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -1090,34 +1146,6 @@
     "He’s an incredibly gifted athlete,",
     "He has good instincts and the ability to close space. Gambling is the wrong term, but he’s doing it in the appropriate way right now (in terms of) picking his spots when shooting the gap.",
     "Jaxson provides a lob threat for us and the team is beginning to understand the power of that,"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-continue-to-build-magic-together-20261012",
-   "url": "https://www.nba.com/magic/news/orlando-magic-walt-disney-world-continue-to-build-magic-together-20261012",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-walt-disney-world-continue-to-build-magic-together-20261012",
-   "title": "Orlando Magic and Walt Disney World Continue to Build Magic Together",
-   "author": "Dan Savage",
-   "published_utc": "2026-10-13T00:18:34Z",
-   "tags": [
-    "Global Partners",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Orlando Magic and Walt Disney World extend community sponsorship agreement and jersey branding; unveil re-imagined Disney Atrium",
-   "facts": [
-    "The team announced that Walt Disney World is extending its Champion of the Community (COTC) sponsorship, a partnership which began in 2010."
-   ],
-   "quotes": [
-    "The Magic are thrilled to extend our longstanding relationship with Walt Disney World,",
-    "As two Orlando-born organizations, this continues our 16-year COTC relationship putting the community at the heart of what we do. We’re honored to represent our great city and look forward to creating…",
-    "For years, Walt Disney World and the Orlando Magic have brought people together through shared experiences and a deep commitment to Central Florida,",
-    "The reimagined Walt Disney World Atrium builds on that partnership, creating a vibrant new welcome for fans and an experience that feels distinctly Orlando."
    ]
   }
  ]
