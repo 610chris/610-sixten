@@ -491,6 +491,33 @@
   "product": "REELS",
   "timestamp": "2022-04-12T02:23:31+0000"
  },
+ "17916712773528524": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "463",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、サンズ戦で19得点4ブロック",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def8tFWlf32/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Spurs vs. Suns・2026年10月14日）",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T03:03:35+0000"
+ },
  "17920447215443658": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -824,6 +851,33 @@
   "permalink": "https://www.instagram.com/reel/CkJYwTIAKEo/",
   "product": "REELS",
   "timestamp": "2022-10-25T18:25:21+0000"
+ },
+ "17938026267122023": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "464",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェレマイア・フィアーズ、マーベリックス戦で16得点5アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def825AjJeW/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Pelicans vs. Mavericks・2026年10月14日）",
+  "subject": [
+   "Jeremiah Fears"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T03:05:14+0000"
  },
  "17938232927451794": {
   "auto": false,
@@ -2105,6 +2159,34 @@
   "template": "score",
   "timestamp": "2026-10-13T03:57:20+0000"
  },
+ "18067134563789728": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "477",
+  "auto": true,
+  "caption_len": 378,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "GM調査でスパーズが優勝候補1位、ウェンバンヤマはMVP最有力",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeiOOsVjfZA/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（NBA.com GM調査）",
+  "subject": [
+   "Victor Wembanyama",
+   "Dylan Harper"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-16T00:15:20+0000"
+ },
  "18068955887782488": {
   "article": "332",
   "auto": true,
@@ -2230,6 +2312,33 @@
   "template": "news",
   "timestamp": "2026-10-14T22:10:35+0000"
  },
+ "18076893473448047": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "478",
+  "auto": true,
+  "caption_len": 333,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マクシー「健康なエンビードは全てを変える」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeiOZZoDsNu/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（クリス・リム記者）",
+  "subject": [
+   "Joel Embiid|Tyrese Maxey"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-16T00:17:00+0000"
+ },
  "18077881187402238": {
   "article": "274",
   "auto": true,
@@ -2294,6 +2403,60 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-05T03:00:39+0000"
+ },
+ "18079217978465203": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "460",
+  "auto": true,
+  "caption_len": 362,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポーター・ジュニア、ヒート戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def4BbbD35t/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Nets vs. Heat・2026年10月14日）",
+  "subject": [
+   "Michael Porter Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T02:23:00+0000"
+ },
+ "18082868636709984": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "461",
+  "auto": true,
+  "caption_len": 377,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャレン・デューレン、ティンバーウルブズ戦で24得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def8U91CJym/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Pistons vs. Timberwolves・2026年10月14日）",
+  "subject": [
+   "Jalen Duren"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T03:00:38+0000"
  },
  "18085986098294063": {
   "article": "352",
@@ -2725,6 +2888,33 @@
   "template": "news",
   "timestamp": "2026-10-10T01:05:47+0000"
  },
+ "18103323728346900": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "465",
+  "auto": true,
+  "caption_len": 355,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "トビ・ラワル、ペリカンズ戦で16得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def9CtNgV9l/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Mavericks vs. Pelicans・2026年10月14日）",
+  "subject": [
+   "Tobi Lawal"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T03:06:51+0000"
+ },
  "18104149136274611": {
   "article": "335",
   "auto": true,
@@ -3059,6 +3249,33 @@
   "template": "news",
   "timestamp": "2026-09-29T11:32:56+0000"
  },
+ "18112638686174166": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "462",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キャム・ジョーンズ、ブルズ戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def8hCsDUer/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Bucks vs. Bulls・2026年10月14日）",
+  "subject": [
+   "Kam Jones"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T03:02:16+0000"
+ },
  "18112668224125474": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -3086,6 +3303,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-10T12:55:06+0000"
+ },
+ "18112848539332820": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "469",
+  "auto": true,
+  "caption_len": 357,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、ナゲッツ戦で16得点5リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DegRSR4gTvw/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Nuggets vs. Clippers・2026年10月14日）",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T06:03:44+0000"
  },
  "18113385668014087": {
   "arms": {
@@ -3277,6 +3521,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-09-29T21:22:35+0000"
+ },
+ "18121272643943429": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "459",
+  "auto": true,
+  "caption_len": 367,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テイタム、ホーネッツ戦で19得点6アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def3RzOjWPc/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Celtics vs. Hornets・2026年10月14日）",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T02:16:23+0000"
  },
  "18121962475894237": {
   "article": "345",
@@ -4046,6 +4317,33 @@
   "product": "REELS",
   "timestamp": "2022-10-25T18:35:39+0000"
  },
+ "18151538374553714": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "470",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "トレボン・ブラジル、クリッパーズ戦で22得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DegReIADs8I/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Nuggets vs. Clippers・2026年10月14日）",
+  "subject": [
+   "Trevon Brazile"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T06:05:22+0000"
+ },
  "18160332118498974": {
   "article": "325",
   "auto": true,
@@ -4105,6 +4403,33 @@
   ],
   "template": "quote",
   "timestamp": "2026-09-29T11:12:49+0000"
+ },
+ "18177193867443972": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "473",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ESPNが選ぶ開幕前の「注目の10人」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Deg7HeqgE5f/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ヴィンセント・グッドウィル記者）",
+  "subject": [
+   "Zion Williamson|Kawhi Leonard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-15T12:09:17+0000"
  },
  "18179891341435156": {
   "arms": {
@@ -4627,6 +4952,62 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T03:46:09+0000"
+ },
+ "18385653802235379": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "474",
+  "auto": true,
+  "caption_len": 314,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス、ヒートでも“らしさ”全開 —— ESPNがプレシーズン総括",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Deg7urwEilf/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ベン・ゴリバー記者）",
+  "subject": [
+   "Giannis Antetokounmpo",
+   "Nikola Jokic",
+   "Tyrese Haliburton"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-15T12:14:38+0000"
+ },
+ "18387989518231867": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "466",
+  "auto": true,
+  "caption_len": 343,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポウラキダス、ペリカンズ戦で16得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Def9YuOiJVW/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Pelicans vs. Mavericks・2026年10月14日）",
+  "subject": [
+   "John Poulakidas"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-15T03:09:54+0000"
  },
  "18408731665089104": {
   "arms": {
