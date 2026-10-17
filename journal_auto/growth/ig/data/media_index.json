@@ -1732,6 +1732,33 @@
   "template": "news",
   "timestamp": "2026-10-05T08:00:54+0000"
  },
+ "18012843191987988": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "493",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キャム・クリスティーがクリッパーズへ復帰",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DekvA46keYQ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）のXポスト",
+  "subject": [
+   "Cam Christie"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-16T23:40:19+0000"
+ },
  "18013168478957826": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -2339,6 +2366,33 @@
   "template": "news",
   "timestamp": "2026-10-16T00:17:00+0000"
  },
+ "18077786579554741": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "480",
+  "auto": true,
+  "caption_len": 331,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ウィリアムズ、ロケッツ戦で18得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeiiNINjQGg/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Thunder vs. Rockets）",
+  "subject": [
+   "Jalen Williams"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-16T03:10:05+0000"
+ },
  "18077881187402238": {
   "article": "274",
   "auto": true,
@@ -2549,6 +2603,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-03T00:48:31+0000"
+ },
+ "18095403911149782": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "479",
+  "auto": true,
+  "caption_len": 362,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スコッティ・バーンズ、ニックス戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeiiCDkgeDz/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Raptors vs. Knicks）",
+  "subject": [
+   "Scottie Barnes"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-16T03:08:25+0000"
  },
  "18095938910123700": {
   "article": "276",
@@ -3428,6 +3509,33 @@
   "template": "news",
   "timestamp": "2026-10-01T20:06:03+0000"
  },
+ "18116001830043802": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "485",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、ルーキーのアデイ・マーラ 出場資格に「問題ない」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dekma9Ugs-P/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Marc Stein（The Stein Line）のXポスト",
+  "subject": [
+   "Aday Mara"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-16T22:25:11+0000"
+ },
  "18116547508821277": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -3477,6 +3585,31 @@
   ],
   "template": "news",
   "timestamp": "2026-10-04T00:28:53+0000"
+ },
+ "18117756809100578": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "487",
+  "auto": true,
+  "caption_len": 318,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "「NBA docomo」がDAZNでも視聴可能に",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dekml-9gkvK/",
+  "product": "REELS",
+  "route": "source",
+  "source": "株式会社NTTドコモ（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-16T22:26:42+0000"
  },
  "18119521814484210": {
   "article": "304",
@@ -3892,6 +4025,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-30T20:59:31+0000"
+ },
+ "18129788959746642": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "490",
+  "auto": true,
+  "caption_len": 315,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ホーネッツ、ベテランのパット・コナートンを解雇",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DekmyUqCdIO/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）のXポスト",
+  "subject": [
+   "Pat Connaughton"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-16T22:28:30+0000"
  },
  "18131599642675162": {
   "article": "330",
@@ -4700,6 +4860,33 @@
   "template": "news",
   "timestamp": "2026-09-30T14:08:33+0000"
  },
+ "18219288880349803": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "481",
+  "auto": true,
+  "caption_len": 396,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バトラー「仲間を落胆させた」—— ACLから復帰へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dejf5xPjJg7/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN（アンソニー・スレイター記者）",
+  "subject": [
+   "Jimmy Butler"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-16T12:09:12+0000"
+ },
  "18220589206329916": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5008,6 +5195,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-15T03:09:54+0000"
+ },
+ "18392580940162734": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "482",
+  "auto": true,
+  "caption_len": 342,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マジックのA.ブラック、契約延長は19日が期限",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DejgF9RkiS7/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ブライアン・ウィンダーホースト記者）",
+  "subject": [
+   "Anthony Black"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-16T12:10:51+0000"
  },
  "18408731665089104": {
   "arms": {
