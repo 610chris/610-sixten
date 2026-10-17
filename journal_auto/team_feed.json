@@ -1,8 +1,36 @@
 {
- "updated_utc": "2026-10-16 22:59 UTC",
+ "updated_utc": "2026-10-17 01:30 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-bucks-261016",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-bucks-261016",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-bucks-261016",
+   "title": "Halftime Rewind: Pacers 71, Bucks 56 (Preseason)",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-17T00:08:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Friday, Oct. 16 at 7:00 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Friday, Oct. 16 at 7:00 PM ET at Gainbridge Fieldhouse Halftime Rewind Playing their final tune-up before the start of the 2026-27 season, the Pacers looked impressive in the first half of Friday's preseason game against…",
+    "Andrew Nembhard scored seven points in a 30-second span minutes into Friday's contest to give the Pacers an early lead.",
+    "The Blue & Gold missed nine straight shots and committed three turnovers before Ivica Zubac ended the drought with a two-hand slam with 2:06 remaining in the opening quarter.",
+    "Obi Toppin knocked down a three on Indiana's next possession to tie the game at 21 and Nembhard followed with a runner to put the hosts back in front.",
+    "Pascal Siakam converted two free throws with 43.6 seconds remaining in the frame, Tyrese Haliburton buried a deep three in transition with 29.7 seconds left, and Ivica Zubac made one of two foul shots with 15.1 seconds t…",
+    "Siakam continued the run by scoring the first six points of the ensuing frame, drilling a 3-pointer and then converting an old-fashioned three-point play to push the lead to 14.",
+    "Siakam scored 13 of Indiana's first 19 points in the second quarter before Haliburton got in on the act.",
+    "The All-Star point guard first knocked down a jumper with 6:27 remaining in the second quarter."
+   ],
+   "quotes": []
+  },
   {
    "source": "MIL 公式（nba.com）",
    "team": "MIL",
