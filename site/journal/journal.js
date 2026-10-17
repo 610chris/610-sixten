@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "510-nike-air-force-1-low-lace-metallic-gold.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low「Lace Metallic Gold」が2026年秋発売 —— レザーをウーブン素材に変えたウィメンズ仕様、品番IX7038-121",
+    excerpt: "ナイキは「Air Force 1 Low」の新色「Lace Metallic Gold」(品番IX7038-121、価格120ドル)を2026年秋に発売する。定番のオールレザー仕様から一転、サイドパネルにテクスチャードファブリックを採用し、ゴールドレザーのアクセントとフローラルレース装飾を加えたウィメンズモデル。Hypebeastが公式画像を伝えた。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "509-murray-21-points-lakers-preseason.html",
     cat: "NBA",
     title: "ジャマール・マレー、レイカーズ戦で21得点 —— プレシーズンでナゲッツが121-106で快勝",
