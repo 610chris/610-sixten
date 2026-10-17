@@ -1,8 +1,79 @@
 {
- "updated_utc": "2026-10-17 17:31 UTC",
+ "updated_utc": "2026-10-17 19:41 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-convert-ingram-to-two-way-contract",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-convert-ingram-to-two-way-contract",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-convert-ingram-to-two-way-contract",
+   "title": "Utah Jazz Convert Ingram to Two-Way Contract",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-17T19:30:44Z",
+   "tags": [
+    "Harrison Ingram",
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have converted forward Harrison Ingram to a two-way contract. Per team policy, terms of the deal were not disclosed.",
+   "facts": [
+    "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have converted forward Harrison Ingram to a two-way contract.",
+    "About Harrison Ingram Ingram (6-5, 230, North Carolina) appeared in four games for the Jazz this preseason, averaging 4.8 points on 53.3 percent shooting and 2.2 rebounds in 7.5 minutes per contest.He spent the past two …",
+    "In 88 games with Austin, he averaged 14.3 points, 10.4 rebounds, 4.4 assists, and 1.3 steals in 33.3 minutes per game.",
+    "The 23-year-old played three collegiate seasons at Stanford (2021-23) and North Carolina (2023-24), appearing in 102 games (98 starts) and averaging 11.1 points, 7.2 rebounds, and 2.9 assists in 30.7 minutes per game.",
+    "Selected to the All-ACC Third Team while at North Carolina, Ingram was also named the 2021-22 Pac-12 Freshman of the Year in addition to receiving Pac-12 All-Freshman Team honors at Stanford.A native of Dallas, Ingram wo…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "POR 公式（nba.com）",
+   "team": "POR",
+   "team_ja": "トレイルブレイザーズ",
+   "team_id": 1610612757,
+   "kind": "roster",
+   "key": "https://www.nba.com/blazers/news/trail-blazerswaivejeremy-sochan",
+   "url": "https://www.nba.com/blazers/news/trail-blazerswaivejeremy-sochan",
+   "canonical_url": "https://blazers.com/news/trail-blazerswaivejeremy-sochan",
+   "title": "TRAIL BLAZERS WAIVE JEREMY SOCHAN",
+   "author": "Portland Trail Blazers",
+   "published_utc": "2026-10-17T18:45:14Z",
+   "tags": [],
+   "summary": "PORTLAND, Ore. (October 17, 2026) – The Portland Trail Blazers have waived forward Jeremy Sochan.",
+   "facts": [
+    "PORTLAND, Ore. (October 17, 2026) – The Portland Trail Blazers have waived forward Jeremy Sochan.",
+    "Portland’s roster stands at 17, including three two-way players."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-aidoo-and-bates",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-aidoo-and-bates",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-aidoo-and-bates",
+   "title": "Utah Jazz Waive Aidoo and Bates",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-17T18:30:23Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have waived center Jonas Aidoo and guard Tamar Bates.",
+   "facts": [
+    "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have waived center Jonas Aidoo and guard Tamar Bates.",
+    "About Jonas Aidoo Aidoo (6-11, 240, Arkansas) competed in seven Salt Lake City and Las Vegas Summer League competitions for the Jazz, averaging 9.1 points on 59.5 percent from the field, 8.9 rebounds, and 3.3 blocks in 1…",
+    "About Tamar Bates Bates (6-4, 195, Missouri) played in 13 games for the Grand Rapids Gold of the NBA G League last season, averaging 19.5 points on 55.6 percent from the field and 43.3 percent from beyond the arc, along …"
+   ],
+   "quotes": []
+  },
   {
    "source": "PHI 公式（nba.com）",
    "team": "PHI",
@@ -229,9 +300,9 @@
     "The Golden State Warriors finished their preseason slate with a 128-118 victory over the Portland Trail Blazers on Friday night at Chase Center.",
     "After a slow start, the Warriors gained the lead down the stretch in the first quarter and did not concede it for the rest of the contest with their largest advantage reaching 25 in the third quarter.",
     "Stephen Curry and Draymond Green orchestrated the offense as Curry led the team in scoring with 20 points and seven 3-pointers in 23 minutes while Green tallied a game-high 11 assists.",
-    "FINDING A GROOVE IN THE FIRST FRAME Yaxel Lendeborg opened up the scoring for the Warriors after they shoot 0-7 over the first four minutes of the game.",
+    "FINDING A GROOVE IN THE FIRST FRAME Yaxel Lendeborg opened up the scoring for the Warriors after they shot 0-7 over the first four minutes of the game.",
     "Down 10-2, the Dubs came back from a timeout with renewed energy, launching a 13-5 scoring run to tie it up before Portland called for a timeout of their own.",
-    "Sustaining their offensive pressure, the Warriors took a dominant nine points lead to end the first quarter with Georges Niang pacing the team with 13 points.",
+    "Sustaining their offensive pressure, the Warriors took a dominant nine point lead to end the first quarter with Georges Niang pacing the team with 13 points.",
     "The 20-year veteran continued shooting with flare in the second quarter, scoring a pair of 3-pointers just a minute apart.",
     "Horford finished the game 5-for-8 from the 3-point line with 15 points."
    ],
@@ -1506,39 +1577,6 @@
     "Bonaventure, he averaged 13.0 points, 6.5 rebounds, 1.1 assists, and 1.3 steals in 34.0 minutes per game."
    ],
    "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-preseason-wrap-up-261014",
-   "url": "https://www.nba.com/cavaliers/news/features-preseason-wrap-up-261014",
-   "canonical_url": "https://cavs.com/news/features-preseason-wrap-up-261014",
-   "title": "Cavaliers Preseason Wrap-Up",
-   "author": "clejgabriele",
-   "published_utc": "2026-10-14T18:24:50Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "And just like that, the Cavaliers preseason is over – falling to the Magic, 132-116, on Tuesday night in Orlando. The next time they suit up will be for next Thursday’s eagerly anticipated opener in Philadelphia.",
-   "facts": [
-    "And just like that, the Cavaliers preseason is over – falling to the Magic, 132-116, on Tuesday night in Orlando.",
-    "This season, when the Lakers and Nuggets wrap up on Friday night in L.A., the 2026-27 pretend schedule ends and the rubber hits the road four nights later for opening night.",
-    "Other than the opener against Boston on Oct. 8 when Jaylon Tyson started in place of James Harden, Kenny Atkinson went with his expected starting five (that included Watson at the 3) in the second two games.",
-    "Coming off an outstanding sophomore year, finishing fourth in the NBA in three-point shooting, Tyson looked solid in all three preseason outings – netting double-figures in each, averaging 13.0 points on 60 percent shoot…",
-    "James Harden logged the most minutes of any player (26) and was the only Cavalier to top the 20-point mark, scoring 24 points on 7-for-10 shooting, going 3-of-5 from deep and 7-of-9 from the stripe, adding six assists an…",
-    "He’s obviously got the great scoring ability, but he's just one of these guys, 99 percent of the time he's making the right decision.",
-    "That was Craig Porter Jr., who averaged 5.6 APG through three games, bolstered by his 10-assist effort in the opener against Boston.",
-    "Thomas – tabbed with the 34th overall pick out of Arkansas this past June – finished the preseason in style and made his own argument to see NBA action as a 20-year-old, scoring 14 of his team-high 16 points in the fourt…"
-   ],
-   "quotes": [
-    "(Harden) makes the game look so easy,",
-    "You don't really worry about who's out there with him, because he makes everybody better. It's the biggest compliment you can give someone. He’s obviously got the great scoring ability, but he's just …",
-    "It’s a challenge, it’s a lot different,",
-    "But I know how to play, I know, basketball, I know, the sport. I might be away from NBA, but I was never away from the game. I know what to do, what not to do, especially being the type of team that w…"
-   ]
   }
  ]
 }
