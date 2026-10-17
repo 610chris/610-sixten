@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "512-tacko-fall-76ers-two-way.html",
+    cat: "NBA",
+    title: "ターコ・フォール、76ersとツーウェイ契約に合意 —— フロントコート陣の負傷相次ぎ、キャンプ契約から昇格",
+    excerpt: "フィラデルフィア・76ersは現地時間10月17日、センターのターコ・フォール(身長231cm/7フィート6インチ)をツーウェイ契約に転換したと発表した。先月のエキシビット10契約(キャンプ契約)からの昇格で、フロントコート陣の負傷が相次いだことが背景にある。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "511-air-jordan-14-forest-green.html",
     cat: "KICKS",
     title: "Air Jordan 14「Forest Green」が10月31日発売 —— 品番487471-300、価格215ドル",
