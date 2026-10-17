@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T10:54:25+09:00",
+  "updated": "2026-10-17T10:58:11+09:00",
   "items": [
     {
       "id": "134",
@@ -11956,6 +11956,91 @@
       "ig_media_id": null,
       "error": null,
       "caption": "タイラー・ヒーロー、ペイサーズ戦で25得点\n\n・24分で25得点、両チーム最多得点\n・FG16本中10本・3P7本中5本の高確率\n・バックスが128-127の接戦を制す\n\n💬 ヒーロー、このままシーズンも好調続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "498",
+      "slug": "498-embiid-27-points-celtics-preseason",
+      "category": "NBA",
+      "date": "2026-10-17",
+      "headline": "ジョエル・エンビード、セルティックス戦で27得点",
+      "excerpt": "フィラデルフィア・セブンティシクサーズのジョエル・エンビードは現地時間10月16日、プレシーズンのボストン・セルティックス戦に先発し、29分の出場でフィールドゴール13本中7本、フリースロー13本中11本を沈めて27得点8リバウンド5アシストを記録し、両チーム通じてこの日の試合最多得点者となった。76ersは延長戦の末120-125でセルティックスに敗れた。",
+      "points": [
+        "29分出場で27得点8REB5AST",
+        "FT 13本中11本と高確率",
+        "76ersはOTの末120-125で敗戦"
+      ],
+      "source": "ESPN ボックススコア（76ers vs. Celtics）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/498-embiid-27-points-celtics-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Joel Embiid"
+      ],
+      "question": "レブロン・エンビード・マクシー・ブラウンが揃った76ers、優勝争いに食い込めると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JOEL EMBIID",
+        "opponent": "vs. CELTICS",
+        "points": 27,
+        "stats": [
+          "8 REB",
+          "5 AST",
+          "7/13 FG",
+          "2/7 3PT",
+          "11/13 FT"
+        ]
+      },
+      "images": [],
+      "state": "pending",
+      "created": "2026-10-17T10:58:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョエル・エンビード、セルティックス戦で27得点\n\n・29分出場で27得点8REB5AST\n・FT 13本中11本と高確率\n・76ersはOTの末120-125で敗戦\n\n💬 レブロン・エンビード・マクシー・ブラウンが揃った76ers、優勝争いに食い込めると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（76ers vs. Celtics）\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "499",
+      "slug": "499-malachi-smith-24-points-pistons-preseason",
+      "category": "NBA",
+      "date": "2026-10-17",
+      "headline": "マラカイ・スミス、ピストンズ戦で24得点",
+      "excerpt": "トロント・ラプターズのマラカイ・スミスは現地時間10月16日、プレシーズンのデトロイト・ピストンズ戦に出場し、33分でフィールドゴール17本中8本、3ポイント7本中4本を沈めて24得点7リバウンド3アシストを記録し、両チーム通じてこの日の試合最多得点者となった。ラプターズは125-129でピストンズに敗れた。",
+      "points": [
+        "33分出場で24得点7REB3AST",
+        "3P 7本中4本と好調",
+        "ラプターズは125-129で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Raptors vs. Pistons）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/499-malachi-smith-24-points-pistons-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Malachi Smith"
+      ],
+      "question": "ラプターズのロースター争い、スミスはどこまで食い込めそう？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "MALACHI SMITH",
+        "opponent": "vs. PISTONS",
+        "points": 24,
+        "stats": [
+          "7 REB",
+          "3 AST",
+          "8/17 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [],
+      "state": "pending",
+      "created": "2026-10-17T10:58:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マラカイ・スミス、ピストンズ戦で24得点\n\n・33分出場で24得点7REB3AST\n・3P 7本中4本と好調\n・ラプターズは125-129で敗戦\n\n💬 ラプターズのロースター争い、スミスはどこまで食い込めそう？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Raptors vs. Pistons）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
