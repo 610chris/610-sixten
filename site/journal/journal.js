@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "516-jazz-claim-tony-bradley-waivers.html",
+    cat: "NBA",
+    title: "ジャズがトニー・ブラッドリーをウェーバー公示から獲得 —— 2017年ドラフト28位指名球団に復帰",
+    excerpt: "ユタ・ジャズはセンターのトニー・ブラッドリーをウェーバー公示から獲得した。ESPNのシャムズ・シャラニア記者によれば、ブラッドリーは2017年のNBAドラフトでジャズから全体28位指名を受け、キャリア最初の3シーズンを過ごした球団への復帰となる。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "515-devin-carter-celtics-two-way.html",
     cat: "NBA",
     title: "セルティックスがデビン・カーターをツーウェイ契約に転換 —— 昨季キングスで新人シーズンを戦った23歳",
