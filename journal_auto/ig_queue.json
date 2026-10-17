@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:13:17+09:00",
+  "updated": "2026-10-17T14:08:04+09:00",
   "items": [
     {
       "id": "134",
@@ -12318,6 +12318,135 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サディック・ベイ、ウィザーズ戦で19得点\n\n・17分で19得点、両チーム通じて最多得点者\n・FG 7/11・3PT 3/5の高確率シュート\n・ペリカンズが107-106の接戦を制す\n\n💬 このプレシーズン、一番印象に残ったベンチ発の活躍は？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pelicans vs. Wizards・2026年10月16日）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "506",
+      "slug": "506-lillard-23-points-warriors-preseason",
+      "category": "NBA",
+      "date": "2026-10-17",
+      "headline": "デイミアン・リラード、ウォリアーズ戦で23得点",
+      "excerpt": "ポートランド・トレイルブレイザーズのデイミアン・リラードは現地時間10月16日、プレシーズンのゴールデンステート・ウォリアーズ戦に出場し、26分の出場でフィールドゴール10本中4本、フリースロー13本中13本を沈めて23得点3アシストを記録し、両チーム通じてこの日の試合最多得点者となった。トレイルブレイザーズは118-128でウォリアーズに敗れた。",
+      "points": [
+        "26分出場でFT13本全て成功",
+        "フィールドゴールは10本中4本",
+        "トレイルブレイザーズは118-128で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Trail Blazers vs. Warriors）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/506-lillard-23-points-warriors-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Damian Lillard"
+      ],
+      "question": "リラードのプレシーズン、評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DAMIAN LILLARD",
+        "opponent": "vs. WARRIORS",
+        "points": 23,
+        "stats": [
+          "3 AST",
+          "1 REB",
+          "4/10 FG",
+          "2/5 3PT",
+          "13/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/506-1.jpg",
+        "https://sixten.jp/assets/ig/506-2.jpg",
+        "https://sixten.jp/assets/ig/506-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-17T14:06:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デイミアン・リラード、ウォリアーズ戦で23得点\n\n・26分出場でFT13本全て成功\n・フィールドゴールは10本中4本\n・トレイルブレイザーズは118-128で敗戦\n\n💬 リラードのプレシーズン、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Trail Blazers vs. Warriors）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "507",
+      "slug": "507-markkanen-19-points-suns-preseason",
+      "category": "NBA",
+      "date": "2026-10-17",
+      "headline": "ラウリ・マルカネン、サンズ戦で19得点",
+      "excerpt": "ユタ・ジャズのラウリ・マルカネンは現地時間10月16日、プレシーズンのフィニックス・サンズ戦に出場し、27分の出場でフィールドゴール12本中5本、フリースロー6本中6本を沈めて19得点5リバウンドを記録し、両チーム通じてこの日の試合最多得点者となった。ジャズは119-116でサンズとの接戦を制した。",
+      "points": [
+        "27分出場でFT6本全て成功",
+        "リバウンド5本も記録",
+        "ジャズが119-116の接戦を制す"
+      ],
+      "source": "ESPN ボックススコア（Jazz vs. Suns）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/507-markkanen-19-points-suns-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Lauri Markkanen"
+      ],
+      "question": "ジャズ、今季はどこまで勝てる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LAURI MARKKANEN",
+        "opponent": "vs. SUNS",
+        "points": 19,
+        "stats": [
+          "5 REB",
+          "1 AST",
+          "5/12 FG",
+          "3/7 3PT",
+          "6/6 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/507-1.jpg",
+        "https://sixten.jp/assets/ig/507-2.jpg",
+        "https://sixten.jp/assets/ig/507-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-17T14:06:45+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ラウリ・マルカネン、サンズ戦で19得点\n\n・27分出場でFT6本全て成功\n・リバウンド5本も記録\n・ジャズが119-116の接戦を制す\n\n💬 ジャズ、今季はどこまで勝てる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Jazz vs. Suns）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "508",
+      "slug": "508-lebron-76ers-home-debut-chemistry",
+      "category": "NBA",
+      "date": "2026-10-17",
+      "headline": "レブロン「まだ完璧じゃない」—— 76ersホームデビュー",
+      "excerpt": "フィラデルフィア・76ersのレブロン・ジェームズは現地時間10月16日、プレシーズン最終戦のボストン・セルティックス戦(延長の末120-125で敗戦)で満員1万9746人の本拠地デビューを飾り、タイリース・マクシーからのロブパスを叩き込むダンクで会場を沸かせた。試合後は「まだ完璧じゃない」と連携構築の途中であることを語り、ジョエル・エンビードも新布陣について「誰も一歩下がる必要はない」と話した。",
+      "points": [
+        "満員1万9746人の前でマクシーとロブダンク",
+        "エンビードも27得点、犠牲は不要と発言",
+        "開幕戦は10月20日ニックス戦"
+      ],
+      "source": "ESPN（AP通信・クリス・リム記者）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/508-lebron-76ers-home-debut-chemistry.html",
+      "hero_path": "",
+      "subject": [
+        "LeBron James|Joel Embiid"
+      ],
+      "question": "この76ers、優勝候補だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/508-1.jpg",
+        "https://sixten.jp/assets/ig/508-2.jpg",
+        "https://sixten.jp/assets/ig/508-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-17T14:06:52+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "レブロン「まだ完璧じゃない」—— 76ersホームデビュー\n\n・満員1万9746人の前でマクシーとロブダンク\n・エンビードも27得点、犠牲は不要と発言\n・開幕戦は10月20日ニックス戦\n\n💬 この76ers、優勝候補だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（AP通信・クリス・リム記者）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
