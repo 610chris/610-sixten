@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "515-devin-carter-celtics-two-way.html",
+    cat: "NBA",
+    title: "セルティックスがデビン・カーターをツーウェイ契約に転換 —— 昨季キングスで新人シーズンを戦った23歳",
+    excerpt: "ボストン・セルティックスはガードのデビン・カーターをツーウェイ契約に転換した。HoopsHypeのマイケル・スコット記者によれば、カーターは昨季サクラメント・キングスで38試合に出場し、平均8.9得点3.3リバウンド2.7アシストを記録していた。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "514-spurs-team-options-castle-harper-bryant.html",
+    cat: "NBA",
+    title: "スパーズがキャッスル・ハーパー・ブライアントのチームオプションを行使 —— 3選手を2027-28シーズンまで確保",
+    excerpt: "サンアントニオ・スパーズはステフォン・キャッスル、ディラン・ハーパー、カーター・ブライアントの3選手について、2027-28シーズンのチームオプションを行使した。契約額はキャッスルが1267万ドル、ハーパーが1361万ドル、ブライアントが539万ドル。HoopsHypeのマイケル・スコット記者が伝えた。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "513-knicks-waive-bruce-brown-wiseman-roster.html",
+    cat: "NBA",
+    title: "ニックスがブルース・ブラウンをウェーバー —— ジェームズ・ワイズマンはバックアップセンターで開幕ロースター入りへ",
+    excerpt: "ニューヨーク・ニックスはブルース・ブラウンをウェーバー公示にかけた。ESPNのシャムズ・シャラニア記者によれば、センターのジェームズ・ワイズマンはバックアップとして開幕のレギュラーシーズン・ロースターに入る見通しだという。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "512-tacko-fall-76ers-two-way.html",
     cat: "NBA",
     title: "ターコ・フォール、76ersとツーウェイ契約に合意 —— フロントコート陣の負傷相次ぎ、キャンプ契約から昇格",
