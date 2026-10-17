@@ -934,7 +934,55 @@
    "held_reason": "辞書に無い: Tacko Fall（Wikipediaに届かない・exit 3）",
    "article_url": "https://sixten.jp/journal/512-tacko-fall-76ers-two-way.html",
    "created_utc": "2026-10-18T01:45:00Z"
+  },
+  {
+   "key": "https://www.reddit.com/r/nba/comments/1x8kxbd/charania_the_new_york_knicks_are_waiving_bruce/",
+   "reporter": "ShamsCharania",
+   "posted_utc": "2026-10-17T20:52:36+00:00",
+   "level": 1,
+   "text": "🚨🚨 速報 🚨🚨\n\nニックスがブルース・ブラウンをウェーバー！\nジェームズ・ワイズマンはバックアップセンターとして開幕ロースターに入る見通しだ。\n\nvia @shams（ESPN）",
+   "photo_subject": "Bruce Brown",
+   "status": "ready",
+   "held_reason": "",
+   "article_url": "",
+   "created_utc": "2026-10-17T21:06:30Z"
+  },
+  {
+   "key": "https://www.reddit.com/r/nba/comments/1x8i9g1/charania_the_washington_wizards_are_signing_reece/",
+   "reporter": "ShamsCharania",
+   "posted_utc": "2026-10-17T19:00:57+00:00",
+   "level": 1,
+   "text": "",
+   "photo_subject": "Reece Beekman",
+   "status": "held",
+   "held_reason": "辞書に無い: Reece Beekman（Wikipediaに届かない・exit 3）",
+   "article_url": "",
+   "created_utc": "2026-10-17T21:06:30Z"
+  },
+  {
+   "key": "https://www.reddit.com/r/nba/comments/1x8inl7/scotto_the_boston_celtics_are_converting_devin/",
+   "reporter": "MikeAScotto",
+   "posted_utc": "2026-10-17T19:16:59+00:00",
+   "level": 1,
+   "text": "🚨🚨 速報 🚨🚨\n\nデビン・カーターがセルティックスとツーウェイ契約で合意！\n昨季はキングスで平均8.9得点3.3リバウンド2.7アシストを記録していた。\n\nvia Michael Scotto（HoopsHype）",
+   "photo_subject": "Devin Carter",
+   "status": "ready",
+   "held_reason": "",
+   "article_url": "",
+   "created_utc": "2026-10-17T21:06:30Z"
+  },
+  {
+   "key": "https://www.reddit.com/r/nba/comments/1x8i7x7/scotto_the_san_antonio_spurs_exercised_their_team/",
+   "reporter": "MikeAScotto",
+   "posted_utc": "2026-10-17T18:59:25+00:00",
+   "level": 1,
+   "text": "🚨🚨 速報 🚨🚨\n\nスパーズがステフォン・キャッスル、ディラン・ハーパー、カーター・ブライアントの3選手のチームオプションを行使！\n2027-28シーズンの契約が確定し、金額はキャッスルが1267万ドル、ハーパーが1361万ドル、ブライアントが539万ドルとなる。\n\nvia Michael Scotto（HoopsHype）",
+   "photo_subject": "Stephon Castle",
+   "status": "ready",
+   "held_reason": "",
+   "article_url": "",
+   "created_utc": "2026-10-17T21:06:30Z"
   }
  ],
- "updated_utc": "2026-10-18T01:45:00Z"
+ "updated_utc": "2026-10-17T21:06:30Z"
 }
