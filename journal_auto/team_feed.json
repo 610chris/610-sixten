@@ -1,31 +1,33 @@
 {
- "updated_utc": "2026-10-17 06:06 UTC",
+ "updated_utc": "2026-10-17 14:23 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
   {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
    "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261016",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261016",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261016",
-   "title": "Warriors Wrap Up Preseason With A Win Against Portland",
-   "author": "gswgrizzo",
-   "published_utc": "2026-10-17T05:56:34Z",
-   "tags": [],
-   "summary": "The Golden State Warriors finished their preseason slate with a 128-118 victory over the Portland Trail Blazers on Friday night at Chase Center. After a slow start, the Warriors gained the lead down the stretch in the first quarter and did not concede it for the rest of the contest with their largest advantage reaching 25 in the third quarter. Stephen Curry and Draymond Green orchestrated the offe…",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hornets-in-preseason-finale-116-98",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hornets-in-preseason-finale-116-98",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-hornets-in-preseason-finale-116-98",
+   "title": "GRIZZLIES DEFEAT HORNETS IN PRESEASON FINALE, 116-98",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-10-17T13:37:20Z",
+   "tags": [
+    "Postgame Report"
+   ],
+   "summary": "MEMPHIS, Tenn. (Oct. 16, 2026) - The Memphis Grizzlies (3-1) defeated the Charlotte Hornets (1-3) 116-98 Friday at FedExForum in each team’s final preseason game. Cameron Boozer led the Grizzlies with 19 points and seven rebounds in 29 minutes, setting preseason highs in all three categories. Ty Jerome finished with 17 points, four rebounds, four assists and three steals in 22 minutes. Cedric Cowa…",
    "facts": [
-    "The Golden State Warriors finished their preseason slate with a 128-118 victory over the Portland Trail Blazers on Friday night at Chase Center.",
-    "After a slow start, the Warriors gained the lead down the stretch in the first quarter and did not concede it for the rest of the contest with their largest advantage reaching 25 in the third quarter.",
-    "Stephen Curry and Draymond Green orchestrated the offense as Curry led the team in scoring with 20 points and seven 3-pointers in 23 minutes while Green tallied a game-high 11 assists.",
-    "FINDING A GROOVE IN THE FIRST FRAME Yaxel Lendeborg opened up the scoring for the Warriors after they shoot 0-7 over the first four minutes of the game.",
-    "Down 10-2, the Dubs came back from a timeout with renewed energy, launching a 13-5 scoring run to tie it up before Portland called for a timeout of their own.",
-    "Sustaining their offensive pressure, the Warriors took a dominant nine points lead to end the first quarter with Georges Niang pacing the team with 13 points.",
-    "The 20-year veteran continued shooting with flare in the second quarter, scoring a pair of 3-pointers just a minute apart.",
-    "Horford finished the game 5-for-8 from the 3-point line with 15 points."
+    "MEMPHIS, Tenn. (Oct. 16, 2026) - The Memphis Grizzlies (3-1) defeated the Charlotte Hornets (1-3) 116-98 Friday at FedExForum in each team’s final preseason game.",
+    "Cameron Boozer led the Grizzlies with 19 points and seven rebounds in 29 minutes, setting preseason highs in all three categories.",
+    "Ty Jerome finished with 17 points, four rebounds, four assists and three steals in 22 minutes.",
+    "Cedric Coward added 13 points with five rebounds, four assists and two steals.",
+    "Quinten Post and Cam Spencer each tallied 11 points off the bench.",
+    "Hannes Steinbach tallied a double-double with 19 points and 10 rebounds in 28 minutes off the bench for the Hornets.",
+    "Brandon Miller and Christian Anderson both added 15 points.",
+    "Naz Reid finished with 12 points on 5-for-10 shooting from the field."
    ],
    "quotes": []
   },
@@ -65,6 +67,32 @@
     "I’m just happy for him, it was a long summer and offseason,",
     "He had some nice moments out there… his teammates were excited for him."
    ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261016",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261016",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261016",
+   "title": "Warriors Wrap Up Preseason With A Win Against Portland",
+   "author": "gswgrizzo",
+   "published_utc": "2026-10-17T04:36:00Z",
+   "tags": [],
+   "summary": "The Golden State Warriors finished their preseason slate with a 128-118 victory over the Portland Trail Blazers on Friday night at Chase Center. After a slow start, the Warriors gained the lead down the stretch in the first quarter and did not concede it for the rest of the contest with their largest advantage reaching 25 in the third quarter. Stephen Curry and Draymond Green orchestrated the offe…",
+   "facts": [
+    "The Golden State Warriors finished their preseason slate with a 128-118 victory over the Portland Trail Blazers on Friday night at Chase Center.",
+    "After a slow start, the Warriors gained the lead down the stretch in the first quarter and did not concede it for the rest of the contest with their largest advantage reaching 25 in the third quarter.",
+    "Stephen Curry and Draymond Green orchestrated the offense as Curry led the team in scoring with 20 points and seven 3-pointers in 23 minutes while Green tallied a game-high 11 assists.",
+    "FINDING A GROOVE IN THE FIRST FRAME Yaxel Lendeborg opened up the scoring for the Warriors after they shoot 0-7 over the first four minutes of the game.",
+    "Down 10-2, the Dubs came back from a timeout with renewed energy, launching a 13-5 scoring run to tie it up before Portland called for a timeout of their own.",
+    "Sustaining their offensive pressure, the Warriors took a dominant nine points lead to end the first quarter with Georges Niang pacing the team with 13 points.",
+    "The 20-year veteran continued shooting with flare in the second quarter, scoring a pair of 3-pointers just a minute apart.",
+    "Horford finished the game 5-for-8 from the 3-point line with 15 points."
+   ],
+   "quotes": []
   },
   {
    "source": "ORL 公式（nba.com）",
@@ -175,17 +203,19 @@
    "summary": "From the perspective of Dallas Mavericks coach Dusty May, the final score of Friday’s game against the Atlanta Hawks was insignificant in the grand scheme of things. May was more interested in his team smoothing out a few wrinkles before they open the regular season on Wednesday in Houston.",
    "facts": [
     "He was 8-of-20 from the field -- including 2-of-6 from behind the three-point line -- and left the game for good early in the fourth quarter.",
-    "Irving collected 18 points, five assists and two steals in 25 minutes.",
-    "He converted six of his 12 field goal attempts, was a solid 5-of-7 from downtown and did not play in the fourth quarter.",
-    "In finishing preseason play with a 1-3 record, the Mavs also got 18 points, five rebounds and four assists on 8-of-12 shooting from Zaccharie Risacher.",
+    "Some of those (misses) were against the (24-second) shot clock.",
+    "The nine-time All-Star converted six of his 12 field goal attempts, was a solid 5-of-7 from downtown and did not play in the fourth quarter.",
+    "Atlanta selected Risacher with the No. 1 overall pick of the 2024 NBA Draft, but gave up on him after just two seasons and traded him to the Mavs this past summer.",
     "Born in Dallas and a 2019 graduate of Red Oak High School, Sasser buried a three-pointer and drained a shot in the lane during a 33-second span shortly after he entered the game for the first time late in the opening qua…",
-    "Atlanta selected Risacher No. 1 overall in the 2024 NBA Draft, but gave up on him after just two seasons and traded him to the Mavs this past summer."
+    "The Hawks won the rebounding battle, 55-42, including a 17-12 advantage on the offensive boards.",
+    "Washington, though, struggled and finished with eight points and six rebounds, and was just 3-of-13 from the floor.",
+    "And they did a quality job spreading the ball as they wound up distributing 30 assists on their 40 made field goals."
    ],
    "quotes": [
     "I’ve been most impressed with how intentional both of them are to get on the same page, to talk about what the other one saw or what they’re thinking in certain scenarios,",
     "Just for them to not only care about what the other positions are in, but it’s going to bode well down the line for those guys because obviously that’s a heckuva one-two punch once we find our rhythm.",
-    "Sasser was playing well before he had the tweak,",
-    "He’s obviously a floor spacer with his shooting ability. He’s been a good decision-maker with the ball in his hands."
+    "I thought Coop played well,",
+    "He’s a competitor. Some of those (misses) were against the (24-second) shot clock. He’s getting us open looks (and) he’s attacking the pressure."
    ]
   },
   {
@@ -1365,67 +1395,6 @@
     "You don't really worry about who's out there with him, because he makes everybody better. It's the biggest compliment you can give someone. He’s obviously got the great scoring ability, but he's just …",
     "It’s a challenge, it’s a lot different,",
     "But I know how to play, I know, basketball, I know, the sport. I might be away from NBA, but I was never away from the game. I know what to do, what not to do, especially being the type of team that w…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-mavericks-10-14-26",
-   "url": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-mavericks-10-14-26",
-   "canonical_url": "https://pelicans.com/news/gameday-update-pelicans-at-mavericks-10-14-26",
-   "title": "Gameday update: Pelicans at Mavericks (10/14/26)",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-14T14:17:09Z",
-   "tags": [],
-   "summary": "NEW ORLEANS PELICANS (1-1 in preseason) AT DALLAS MAVERICKS (1-1)",
-   "facts": [
-    "NEW ORLEANS PELICANS (1-1 in preseason) AT DALLAS MAVERICKS (1-1) Overview It’s not very common for New Orleans to face a fellow Southwest Division club during the preseason – the Pelicans are already guaranteed to play …",
-    "Partly due to an injury DNP on Thursday at Miami by point guard Dejounte Murray (toe), New Orleans and first-year head coach Jamahl Mosley have relied on two different starting lineups in preseason, with the first-string…",
-    "Washington and No. 1 overall draftee A.J.",
-    "Dybantsa, along with winter 2026 trade pickups Trae Young and Anthony Davis.",
-    "Players to Watch PELICANS Jordan Poole No New Orleans player has logged enough minutes to produce gaudy individual statistics (Yves Missi’s 38 total minutes top the club), but Poole has been highly efficient in his two o…",
-    "Now in his second Pelicans season, Poole has made six of eight shots from the field and is 3/5 from three-point range.",
-    "Jeremiah Fears Like Poole, Fears is averaging 11.5 points in preseason and doing so efficiently, making half of his 14 shots from the field, as well as half of his eight three-point attempts.",
-    "The Pelicans were plus-17 with Fears on the floor on Oct. 6 vs."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/standing-in-front-and-showing-love-how-will-hardy-sets-the-tone-for-the-utah-jazz",
-   "url": "https://www.nba.com/jazz/news/standing-in-front-and-showing-love-how-will-hardy-sets-the-tone-for-the-utah-jazz",
-   "canonical_url": "https://utahjazz.com/news/standing-in-front-and-showing-love-how-will-hardy-sets-the-tone-for-the-utah-jazz",
-   "title": "Standing in Front and Showing Love: How Will Hardy Sets the Tone for the Utah Jazz",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-14T14:00:00Z",
-   "tags": [
-    "Keyonte George",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "That is what Utah Jazz head coach Will Hardy has written down on a piece of paper that sits on his desk at the team’s practice facility.",
-   "facts": [
-    "The noise that surrounds an NBA team during an 82-game season can get extremely loud at times, especially when losses pile up.",
-    "It takes a lot of restraint to not want to go back at people who say or write or tweet or comment.",
-    "With a young squad that has accumulated plenty of versatile talent, Utah is looking to make headway in the Western Conference during the 2026-27 campaign.",
-    "After learning on the fly in his first season as a head coach back in 2022-23, Hardy entered his second season at the helm for the Jazz with a new team mantra in mind.",
-    "Hardy emphasized as much when reflecting on the 2025-26 season.",
-    "Prior to the 2025-26 season kicking off, Hardy welcomed several members of Utah’s young core to his house for a burger making competition.",
-    "The 22-year-old took those messages to heart and transformed his approach to the game during last summer, working to both refine his skills and prioritize his mental health.",
-    "As a result of his work, George posted career highs across the board last season, averaging 23.6 points and 6.1 assists per game."
-   ],
-   "quotes": [
-    " (If) you lead from the front you have to do those things,",
-    "You have to walk the walk. But I also try to be honest with the team in different moments that I don't have it all figured out.",
-    " I just try to remind myself every day that that's my job,",
-    "Especially when it’s really noisy. It takes a lot of restraint to not want to go back at people who say or write or tweet or comment. But I’ll circle back to the people in the room I care about. I car…"
    ]
   }
  ]
