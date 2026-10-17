@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "497-herro-25-points-pacers-preseason.html",
+    cat: "NBA",
+    title: "タイラー・ヒーロー、ペイサーズ戦で25得点 —— プレシーズンでバックスが128-127の接戦を制す",
+    excerpt: "ミルウォーキー・バックスのタイラー・ヒーローが、プレシーズンのインディアナ・ペイサーズ戦で24分の出場で25得点を記録した。両チーム通じての最多得点者となり、バックスは128-127の接戦を制した。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "496-nuggets-strawther-knee-sprain.html",
     cat: "NBA",
     title: "ナゲッツのストローザー、左膝を負傷 —— プレシーズンのクリッパーズ戦で、6週間後に再評価",
