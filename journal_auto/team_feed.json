@@ -1,8 +1,178 @@
 {
- "updated_utc": "2026-10-17 19:41 UTC",
+ "updated_utc": "2026-10-17 22:37 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "roster",
+   "key": "https://www.nba.com/warriors/news/warriors-waive-tyler-burton-dalen-terry-alex-toohey-20261017",
+   "url": "https://www.nba.com/warriors/news/warriors-waive-tyler-burton-dalen-terry-alex-toohey-20261017",
+   "canonical_url": "https://warriors.com/news/warriors-waive-tyler-burton-dalen-terry-alex-toohey-20261017",
+   "title": "Warriors Waive Tyler Burton, Dalen Terry & Alex Toohey",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-17T22:24:05Z",
+   "tags": [],
+   "summary": "The Warriors have waived forward Tyler Burton, guard Dalen Terry and forward Alex Toohey, it was announced Saturday.",
+   "facts": [
+    "The Warriors have waived forward Tyler Burton, guard Dalen Terry and forward Alex Toohey, it was announced Saturday.",
+    "Burton, who signed with the Warriors on October 11, logged five minutes of action against the Portland Trail Blazers on Friday, October 1.",
+    "Terry appeared in five preseason games (one start) with the Warriors, averaging 6.4 points, 3.4 rebounds, 2.6 assists and 1.2 steals in 14.0 minutes per game.",
+    "Terry originally signed with Golden State on August 27.",
+    "Toohey, who signed with Golden State on September 9, appeared in four preseason games (all as a reserve) with the Warriors, averaging 2.5 points, 0.8 rebounds, 1.0 assists, 1.0 blocks in 8.1 minutes per game.",
+    "Golden State’s roster currently stands at 18 players.",
+    "The team’s Opening Night roster will be finalized by 2 p.m.",
+    "PDT on Monday, October 19."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "roster",
+   "key": "https://www.nba.com/mavs/news/mavericks-waive-seth-lundy-and-john-poulakidas",
+   "url": "https://www.nba.com/mavs/news/mavericks-waive-seth-lundy-and-john-poulakidas",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-waive-seth-lundy-and-john-poulakidas",
+   "title": "MAVERICKS WAIVE SETH LUNDY AND JOHN POULAKIDAS",
+   "author": "Dallas Mavericks",
+   "published_utc": "2026-10-17T21:10:00Z",
+   "tags": [],
+   "summary": "DALLAS (Oct. 17, 2026) – The Dallas Mavericks announced today that they have waived guards Seth Lundy and John Poulakidas.",
+   "facts": [
+    "DALLAS (Oct. 17, 2026) – The Dallas Mavericks announced today that they have waived guards Seth Lundy and John Poulakidas.",
+    "Lundy (6-4, 220) played in all four preseason games this season for Dallas, averaging 5.5 points (.466 FG%, .363 3FG%), 0.5 steals and 12.0 minutes.",
+    "Poulakidas (6-6, 205) averaged 7.0 points (.500 FG%, .455 3FG%, .800 FT), 1.3 rebounds and 14.0 minutes through three preseason games for the Mavericks."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "SAC 公式（nba.com）",
+   "team": "SAC",
+   "team_ja": "キングス",
+   "team_id": 1610612758,
+   "kind": "roster",
+   "key": "https://www.nba.com/kings/news/kings-waive-lakhin-newton-and-payton",
+   "url": "https://www.nba.com/kings/news/kings-waive-lakhin-newton-and-payton",
+   "canonical_url": "https://kings.com/news/kings-waive-lakhin-newton-and-payton",
+   "title": "Kings Waive Lakhin, Newton and Payton",
+   "author": "Offical Release",
+   "published_utc": "2026-10-17T21:02:51Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "The Sacramento Kings announced today that the team has waived Viktor Lakhin, Tristen Newton and Elfrid Payton.",
+   "facts": [
+    "The Sacramento Kings announced today that the team has waived Viktor Lakhin, Tristen Newton and Elfrid Payton.",
+    "The Kings roster now stands at 18."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIL 公式（nba.com）",
+   "team": "MIL",
+   "team_ja": "バックス",
+   "team_id": 1610612749,
+   "kind": "feature",
+   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-request-waivers-on-pete-nance-johni-broome-and-jake-stephens",
+   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-request-waivers-on-pete-nance-johni-broome-and-jake-stephens",
+   "canonical_url": "https://bucks.com/news/milwaukee-bucks-request-waivers-on-pete-nance-johni-broome-and-jake-stephens",
+   "title": "Milwaukee Bucks Request Waivers On Pete Nance, Johni Broome And Jake Stephens",
+   "author": "Milwaukee Bucks",
+   "published_utc": "2026-10-17T21:00:40Z",
+   "tags": [],
+   "summary": "MILWAUKEE (Oct. 17, 2026) – The Milwaukee Bucks have requested waivers on Pete Nance, Johni Broome and Jake Stephens.",
+   "facts": [
+    "MILWAUKEE (Oct. 17, 2026) – The Milwaukee Bucks have requested waivers on Pete Nance, Johni Broome and Jake Stephens.",
+    "Nance, a 6-9, 228-pound forward/center, appeared in four preseason games (1 start) with the Bucks this year and averaged 4.0 points and 3.3 rebounds in 13.0 minutes per game.",
+    "After originally signing with Milwaukee on a Two-Way contract in February of 2025, Nance has seen action in 53 games (7 starts) over two seasons with the team, averaging 5.2 points, 2.6 rebounds and 1.0 assist in 15.2 mi…",
+    "Broome signed with the Bucks on Oct. 6 and tallied four points and three rebounds in nine minutes of action in his lone preseason appearance on Oct. 14 against the Chicago Bulls.",
+    "After signing with Milwaukee on Sept. 17, Stephens appeared in two preseason games and averaged 1.5 points and 1.0 rebound in 5.3 minutes per game.",
+    "Milwaukee’s roster now stands at 18 players."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/kobe-bufkin-jalon-moore-pelicans-roster-moves-preseason-10-17-2026",
+   "url": "https://www.nba.com/pelicans/news/kobe-bufkin-jalon-moore-pelicans-roster-moves-preseason-10-17-2026",
+   "canonical_url": "https://pelicans.com/news/kobe-bufkin-jalon-moore-pelicans-roster-moves-preseason-10-17-2026",
+   "title": "New Orleans Pelicans waive Kobe Bufkin and Jalon Moore",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-17T21:00:00Z",
+   "tags": [],
+   "summary": "The New Orleans Pelicans announced today that the team has waived guard Kobe Bufkin and forward Jalon Moore.",
+   "facts": [
+    "The New Orleans Pelicans announced today that the team has waived guard Kobe Bufkin and forward Jalon Moore.",
+    "Bufkin, 6-4, 195, appeared in three games for the Pelicans during the preseason, averaging 5.0 points and 1.0 rebounds in 7.8 minutes per game.",
+    "Bufkin has played in 43 games (one start) across three NBA seasons with the Atlanta Hawks and Los Angeles Lakers, averaging 4.2 points, 1.6 rebounds and 1.3 assists in 10.2 minutes per game.",
+    "Moore, 6-7, 215, who suffered a torn Achilles tendon prior to the 2025 NBA Draft, played in three games for the Pelicans Summer League team in Las Vegas this past summer, averaging 6.0 points and 4.0 rebounds in 19.3 min…",
+    "New Orleans’ roster now stands at 18 players, including three two-way players."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "roster",
+   "key": "https://www.nba.com/timberwolves/news/timberwolves-waive-five-players",
+   "url": "https://www.nba.com/timberwolves/news/timberwolves-waive-five-players",
+   "canonical_url": "https://timberwolves.com/news/timberwolves-waive-five-players",
+   "title": "Timberwolves Waive Five Players",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-10-17T20:52:17Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "Minneapolis-St. Paul – The Minnesota Timberwolves today announced the team has waived guard Antonio Reeves and forwards Enrique Freeman, KJ Martin, Norchad Omier (Oh-MEER) and Drew Timme.",
+   "facts": [
+    "Paul – The Minnesota Timberwolves today announced the team has waived guard Antonio Reeves and forwards Enrique Freeman, KJ Martin, Norchad Omier (Oh-MEER) and Drew Timme.",
+    "Reeves, 6-5, has played in 54 games (six starts) throughout his NBA career, splitting time with the New Orleans Pelicans and Charlotte Hornetts.",
+    "Reeves was originally selected 47th overall by the Orlando Magic in the 2024 NBA Draft.",
+    "In two NBA seasons, Reeves has appeared in 54 regular-season games, averaging 6.1 points on 45.9% from the field and 1.3 rebounds per game.",
+    "Reeves appeared in four games for the Timberwolves this preseason, averaging 6.8 points on 70.6% shooting, including 42.9% from three, 1.8 rebounds and 1.0 steal in 12.9 minutes per game.",
+    "Freeman, 6-7, has appeared in 26 NBA games (one start) in two seasons with the Indiana Pacers and Timberwolves, owning career averages of 2.3 points on 44.4% shooting and 1.5 rebounds in 8.4 minutes per contest.",
+    "Freeman was selected by the Pacers with the 50th overall pick in the 2024 NBA Draft.",
+    "Last season, Freeman appeared in 39 games (all starts) with the Iowa Wolves, the NBA G League affiliate of the Timberwolves, where he averaged 16.5 points on 54.6% shooting, 8.8 rebounds and 2.4 assists in 33.2 minutes p…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "roster",
+   "key": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-cooper-flagg",
+   "url": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-cooper-flagg",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-exercise-team-option-on-cooper-flagg",
+   "title": "MAVERICKS EXERCISE TEAM OPTION ON COOPER FLAGG",
+   "author": "Dallas Mavericks",
+   "published_utc": "2026-10-17T20:45:00Z",
+   "tags": [],
+   "summary": "Dallas exercises third-year rookie scale team option on reigning Rookie of the Year",
+   "facts": [
+    "Dallas exercises third-year rookie scale team option on reigning Rookie of the Year DALLAS (Oct. 17, 2026) – The Dallas Mavericks announced today that they have exercised the thirdyear rookie scale option on forward/guar…",
+    "Flagg (6-9, 228) averaged 21.0 points, 6.7 rebounds, 4.5 assists, 1.2 steals, 0.9 blocks and 33.5 minutes per game in 70 games (all starts) last season en route to being named the 2025-26 Kia NBA Rookie of the Year.",
+    "At 19 years, 112 days, Flagg became the second-youngest player in NBA history to garner Rookie of the Year honors behind LeBron James (19 years, 106 days).",
+    "The Duke University product led the Mavericks in total points (1,473), rebounds (466), assists (316) and steals (84) in 2025-26.",
+    "Flagg averaged 22.6 points, 6.9 rebounds, 5.4 assists, 1.2 steals and 1.2 blocks after the All-Star break, finishing as the only player across the entire NBA to average at least 20.0 points, 6.0 rebounds, 5.0 assists, 1.…",
+    "Flagg (19 years, 103 days) became the youngest player in NBA history to score 50-plus points with his 51point performance against the Orlando Magic on April 3, breaking his own record for the most points by a teenager in…",
+    "Charlotte, Jan. 29).",
+    "He followed with a 45-point outing against the Los Angeles Lakers on April 5 to join Wilt Chamberlain as the only rookies in NBA history to total 96-plus points over any two-game span."
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -39,10 +209,14 @@
    "key": "https://www.nba.com/blazers/news/trail-blazerswaivejeremy-sochan",
    "url": "https://www.nba.com/blazers/news/trail-blazerswaivejeremy-sochan",
    "canonical_url": "https://blazers.com/news/trail-blazerswaivejeremy-sochan",
-   "title": "TRAIL BLAZERS WAIVE JEREMY SOCHAN",
+   "title": "Trail Blazers Waive Jeremy Sochan",
    "author": "Portland Trail Blazers",
    "published_utc": "2026-10-17T18:45:14Z",
-   "tags": [],
+   "tags": [
+    "Jeremy Sochan",
+    "news",
+    "StartingFive"
+   ],
    "summary": "PORTLAND, Ore. (October 17, 2026) – The Portland Trail Blazers have waived forward Jeremy Sochan.",
    "facts": [
     "PORTLAND, Ore. (October 17, 2026) – The Portland Trail Blazers have waived forward Jeremy Sochan.",
@@ -71,6 +245,25 @@
     "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have waived center Jonas Aidoo and guard Tamar Bates.",
     "About Jonas Aidoo Aidoo (6-11, 240, Arkansas) competed in seven Salt Lake City and Las Vegas Summer League competitions for the Jazz, averaging 9.1 points on 59.5 percent from the field, 8.9 rebounds, and 3.3 blocks in 1…",
     "About Tamar Bates Bates (6-4, 195, Missouri) played in 13 games for the Grand Rapids Gold of the NBA G League last season, averaging 19.5 points on 55.6 percent from the field and 43.3 percent from beyond the arc, along …"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/indiana-pacers-transactions-oct-17-2026",
+   "url": "https://www.nba.com/pacers/news/indiana-pacers-transactions-oct-17-2026",
+   "canonical_url": "https://pacers.com/news/indiana-pacers-transactions-oct-17-2026",
+   "title": "Indiana Pacers Transactions - Oct. 17, 2026",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-17T17:08:00Z",
+   "tags": [],
+   "summary": "INDIANAPOLIS – The Indiana Pacers announced Saturday the team waived James Johnson, Keba Keita, and Rienk Mast.",
+   "facts": [
+    "INDIANAPOLIS – The Indiana Pacers announced Saturday the team waived James Johnson, Keba Keita, and Rienk Mast."
    ],
    "quotes": []
   },
@@ -1532,50 +1725,6 @@
    ],
    "summary": "UtahJazz.com’s JP Chunga caught up with Marc Spears (Andscape) to discuss Darryn Peterson, Keyonte George and Jaren Jackson Jr.",
    "facts": [],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/warriors-statement-on-kristaps-porzingis-20261014",
-   "url": "https://www.nba.com/warriors/news/warriors-statement-on-kristaps-porzingis-20261014",
-   "canonical_url": "https://warriors.com/news/warriors-statement-on-kristaps-porzingis-20261014",
-   "title": "Warriors Statement on Kristaps Porzingis",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-14T20:40:49Z",
-   "tags": [],
-   "summary": "Golden State Warriors forward/center Kristaps Porziņģis, who missed training camp and the team’s first five (5) preseason games due to a health-related matter, returned to the Warriors’ practice facility yesterday and met with Warriors General Manager Mike Dunleavy and Vice President of Player Health & Performance Dr. Rick Celebrini. The specific contents of that meeting will remain private. Porzi…",
-   "facts": [
-    "Golden State Warriors forward/center Kristaps Porziņģis, who missed training camp and the team’s first five (5) preseason games due to a health-related matter, returned to the Warriors’ practice facility yesterday and me…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-chance-moore",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-chance-moore",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-chance-moore",
-   "title": "Utah Jazz Sign Chance Moore",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-14T20:03:16Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 14, 2026) – The Utah Jazz announced today that the team has signed forward Chance Moore. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "SALT LAKE CITY (October 14, 2026) – The Utah Jazz announced today that the team has signed forward Chance Moore.",
-    "About Chance Moore Moore (6-6, 210, West Virginia) played in 29 games last season for West Virginia, owning averages of 10.6 points on 53.1 percent from the field and 5.8 rebounds in 22.3 minutes per game.In his final co…",
-    "Bonaventure (2024-25), Missouri State (2022-24), and Arkansas (2021-22).",
-    "Bonaventure, he averaged 13.0 points, 6.5 rebounds, 1.1 assists, and 1.3 steals in 34.0 minutes per game."
-   ],
    "quotes": []
   }
  ]
