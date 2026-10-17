@@ -1,7 +1,55 @@
 {
- "updated_utc": "2026-10-17 16:27 UTC",
+ "updated_utc": "2026-10-17 20:59 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1x8kxbd/charania_the_new_york_knicks_are_waiving_bruce/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-17T20:52:36+00:00",
+   "text": "The New York Knicks are waiving Bruce Brown, sources tell ESPN. James Wiseman is set to make the Knicks regular season roster as a reserve center\n\nhttps://www.espn.com/contributor/shams-charania/502f1113f1029",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x8kxbd/charania_the_new_york_knicks_are_waiving_bruce/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/502f1113f1029"
+   ]
+  },
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1x8inl7/scotto_the_boston_celtics_are_converting_devin/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-17T19:16:59+00:00",
+   "text": "The Boston Celtics are converting Devin Carter to a two-way deal, league sources told HoopsHype. Carter averaged 8.9 points, 3.3 rebounds, and 2.7 assists in 18.4 minutes during 38 games for the Sacramento Kings last season",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x8inl7/scotto_the_boston_celtics_are_converting_devin/",
+   "links": []
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1x8i9g1/charania_the_washington_wizards_are_signing_reece/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-17T19:00:57+00:00",
+   "text": "The Washington Wizards are signing Reece Beekman to a two-way NBA deal, converting his exhibit 10 to the team’s final slot, sources tell ESPN\n\nhttps://www.espn.com/contributor/shams-charania",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x8i9g1/charania_the_washington_wizards_are_signing_reece/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1x8i7x7/scotto_the_san_antonio_spurs_exercised_their_team/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-17T18:59:25+00:00",
+   "text": "The San Antonio Spurs exercised their team options on Stephon Castle ($12.67 million), Dylan Harper ($13.61 million) and Carter Bryant ($5.39 million) for the 2027-28 season.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x8i7x7/scotto_the_san_antonio_spurs_exercised_their_team/",
+   "links": []
+  },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
