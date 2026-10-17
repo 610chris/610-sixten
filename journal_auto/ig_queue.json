@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:00:37+09:00",
+  "updated": "2026-10-17T12:13:17+09:00",
   "items": [
     {
       "id": "134",
@@ -12271,6 +12271,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "キャメロン・ブーザー、ホーネッツ戦で19得点\n\n・プレシーズンでホーネッツ戦に出場、29分で19得点7リバウンド\n・両チーム通じてこの日の試合最多得点者の1人に\n・グリズリーズは117-98でホーネッツに快勝\n\n💬 ブーザー、ルーキーシーズンどこまでいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Hornets vs. Grizzlies・2026年10月16日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "505",
+      "slug": "505-bey-19-points-wizards-preseason",
+      "category": "NBA",
+      "date": "2026-10-17",
+      "headline": "サディック・ベイ、ウィザーズ戦で19得点",
+      "excerpt": "ニューオーリンズ・ペリカンズのサディック・ベイが、プレシーズンのワシントン・ウィザーズ戦で17分の出場で19得点を記録した。両チーム通じての最多得点者となり、ペリカンズは107-106の接戦を制した。",
+      "points": [
+        "17分で19得点、両チーム通じて最多得点者",
+        "FG 7/11・3PT 3/5の高確率シュート",
+        "ペリカンズが107-106の接戦を制す"
+      ],
+      "source": "ESPN ボックススコア（Pelicans vs. Wizards・2026年10月16日）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/505-bey-19-points-wizards-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Saddiq Bey"
+      ],
+      "question": "このプレシーズン、一番印象に残ったベンチ発の活躍は？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SADDIQ BEY",
+        "opponent": "vs. WIZARDS",
+        "points": 19,
+        "stats": [
+          "6 REB",
+          "2 AST",
+          "2 STL",
+          "7/11 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/505-1.jpg",
+        "https://sixten.jp/assets/ig/505-2.jpg",
+        "https://sixten.jp/assets/ig/505-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-17T12:12:28+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "サディック・ベイ、ウィザーズ戦で19得点\n\n・17分で19得点、両チーム通じて最多得点者\n・FG 7/11・3PT 3/5の高確率シュート\n・ペリカンズが107-106の接戦を制す\n\n💬 このプレシーズン、一番印象に残ったベンチ発の活躍は？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pelicans vs. Wizards・2026年10月16日）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
