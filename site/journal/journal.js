@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "496-nuggets-strawther-knee-sprain.html",
+    cat: "NBA",
+    title: "ナゲッツのストローザー、左膝を負傷 —— プレシーズンのクリッパーズ戦で、6週間後に再評価",
+    excerpt: "デンバー・ナゲッツのジュリアン・ストローザーが、現地時間10月14日に行われたLAクリッパーズとのプレシーズンの試合中に左膝を負傷し、6週間後に再評価されることになった。ナゲッツは当面、このガード/フォワードを欠くことになる。ESPNが伝えた。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "495-banchero-24-points-heat-preseason.html",
     cat: "NBA",
     title: "パオロ・バンケロ、ヒート戦で24得点 —— プレシーズンでマジックが136-115で快勝",
