@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "511-air-jordan-14-forest-green.html",
+    cat: "KICKS",
+    title: "Air Jordan 14「Forest Green」が10月31日発売 —— 品番487471-300、価格215ドル",
+    excerpt: "ジョーダン ブランドは「Air Jordan 14」の新色「Forest Green」(品番487471-300)を2026年10月31日に発売する。価格は215ドル(米国価格)で、SNKRSおよび一部リテイラーで販売される。Nice Kicksが伝えた。",
+    date: "2026.10.17",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "510-nike-air-force-1-low-lace-metallic-gold.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low「Lace Metallic Gold」が2026年秋発売 —— レザーをウーブン素材に変えたウィメンズ仕様、品番IX7038-121",
