@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:36:53+09:00",
+  "updated": "2026-10-17T10:34:50+09:00",
   "items": [
     {
       "id": "134",
@@ -11829,6 +11829,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "クリフ・ハーガン氏が94歳で死去\n\n・セントルイス・ホークス一筋の5度のオールスター\n・1956年、ビル・ラッセル指名権との伝説のトレードでホークスへ\n・1958年、ラッセルのセルティックスを破り優勝\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Hagan, Basketball Hall of Famer and Kentucky hoops legend, dies at 94」\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "495",
+      "slug": "495-banchero-24-points-heat-preseason",
+      "category": "NBA",
+      "date": "2026-10-17",
+      "headline": "バンケロ、ヒート戦で24得点",
+      "excerpt": "オーランド・マジックのパオロ・バンケロは現地時間10月16日、プレシーズンのマイアミ・ヒート戦に先発し、27分の出場でフィールドゴール11本中5本、フリースロー16本中13本を沈めて24得点7リバウンド4アシストを記録し、両チーム通じてこの日の試合最多得点者となった。マジックは136-115でヒートに快勝した。",
+      "points": [
+        "24得点7リバウンド4アシスト、FT16本中13本",
+        "マジックは第1Qの劣勢から逆転、136-115で快勝",
+        "両チーム通じて試合最多得点"
+      ],
+      "source": "ESPN ボックススコア（Magic vs. Heat・2026年10月16日）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/495-banchero-24-points-heat-preseason.html",
+      "hero_path": "",
+      "subject": [
+        "Paolo Banchero"
+      ],
+      "question": "バンケロのこの試合、何点取れそう？次戦も期待？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PAOLO BANCHERO",
+        "opponent": "vs. HEAT",
+        "points": 24,
+        "stats": [
+          "7 REB",
+          "4 AST",
+          "5/11 FG",
+          "13/16 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/495-1.jpg",
+        "https://sixten.jp/assets/ig/495-2.jpg",
+        "https://sixten.jp/assets/ig/495-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-17T10:34:03+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バンケロ、ヒート戦で24得点\n\n・24得点7リバウンド4アシスト、FT16本中13本\n・マジックは第1Qの劣勢から逆転、136-115で快勝\n・両チーム通じて試合最多得点\n\n💬 バンケロのこの試合、何点取れそう？次戦も期待？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Magic vs. Heat・2026年10月16日）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
