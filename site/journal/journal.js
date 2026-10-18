@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "517-ben-simmons-torn-achilles-kings.html",
+    cat: "NBA",
+    title: "ベン・シモンズがアキレス腱を断裂 —— 今季絶望、キングスでの復帰は開幕直前に絶たれる",
+    excerpt: "サクラメント・キングスのベン・シモンズが現地時間10月18日の練習中にアキレス腱を断裂したとみられ、今季絶望的であることが分かった。ESPNが複数の関係者の話として伝えた。シモンズは2024-25シーズン以来のレギュラーシーズン出場を目指し、今夏キングスと1年350万ドルで契約していた。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "516-jazz-claim-tony-bradley-waivers.html",
     cat: "NBA",
     title: "ジャズがトニー・ブラッドリーをウェーバー公示から獲得 —— 2017年ドラフト28位指名球団に復帰",
