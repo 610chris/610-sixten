@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "518-oso-ighodaro-suns-extension.html",
+    cat: "NBA",
+    title: "サンズ、オソ・イゴダロと3年2900万ドルの契約延長に合意 —— 2030-31シーズンまで確保",
+    excerpt: "フェニックス・サンズはセンターのオソ・イゴダロと3年2900万ドルの契約延長に合意した。ESPNのシャムズ・シャラニア記者が、代理人のエリカ・ルイス氏（プリメラ・スポーツ）の話として伝えた。契約は2030-31シーズンまで。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "517-ben-simmons-torn-achilles-kings.html",
     cat: "NBA",
     title: "ベン・シモンズがアキレス腱を断裂 —— 今季絶望、キングスでの復帰は開幕直前に絶たれる",
