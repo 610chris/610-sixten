@@ -1,8 +1,61 @@
 {
- "updated_utc": "2026-10-17 22:37 UTC",
+ "updated_utc": "2026-10-18 00:15 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/the-personable-dusty-may-bringing-his-championship-pedigree-to-mavericks",
+   "url": "https://www.nba.com/mavs/news/the-personable-dusty-may-bringing-his-championship-pedigree-to-mavericks",
+   "canonical_url": "https://mavs.com/mavs/news/the-personable-dusty-may-bringing-his-championship-pedigree-to-mavericks",
+   "title": "The personable Dusty May bringing his championship pedigree to Mavericks",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-18T00:15:04Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "Dusty May is more than prepared to bring his outstanding championship pedigree to the NBA.",
+   "facts": [
+    "And as he gets his feet wet on the NBA level, he has high hopes of helping the Mavs win a championship to go with the one they won in 2011.",
+    "Brown won an NCAA championship with Kansas in 1988 and an NBA title with Detroit in 2004.",
+    "A nine-time All-Star, Irving won an NBA title with Cleveland in 2016, is one of the undisputed leaders of the Mavs, and has become very fond of May."
+   ],
+   "quotes": [
+    "I think we have a team that’s going to compete, I think we have a team that’s going to be extremely connected, and when our fans leave the building they’re going to be bigger fans because of how relat…",
+    "I know we’re going to work like crazy to chase a championship and hang a banner in our building.",
+    "The keys of winning are the same at every level – high school, college, NBA,",
+    "And that will be the biggest adjustment for myself -- just the amount of games and mental preparation and stamina that it’s going to take. But as far as one game or a seven-game series, you get better…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-claim-tony-bradley-off-waivers",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-claim-tony-bradley-off-waivers",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-claim-tony-bradley-off-waivers",
+   "title": "Utah Jazz Claim Tony Bradley Off Waivers",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-17T22:45:45Z",
+   "tags": [
+    "NBA",
+    "Tony Bradley",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 17, 2026) – The Utah Jazz announced today that the team has claimed center Tony Bradley off waivers.",
+   "facts": [
+    "SALT LAKE CITY (October 17, 2026) – The Utah Jazz announced today that the team has claimed center Tony Bradley off waivers.",
+    "About Tony Bradley Bradley (6-10, 248, North Carolina) is entering his ninth NBA season and has appeared in 234 career games with the Utah Jazz (2017-20), Philadelphia 76ers (2020-21), Oklahoma City Thunder (2020-21), Ch…"
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -1676,55 +1729,6 @@
     "Oweh sustained the injury during the Thunder’s preseason game versus the Indiana Pacers on Oct. 13.",
     "Oweh will miss the remainder of the 2026–27 season."
    ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-funk-and-moore",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-funk-and-moore",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-funk-and-moore",
-   "title": "Utah Jazz Waive Funk and Moore",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-14T23:10:58Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 14, 2026) – The Utah Jazz have waived forwards Taylor Funk and Chance Moore.",
-   "facts": [
-    "SALT LAKE CITY (October 14, 2026) – The Utah Jazz have waived forwards Taylor Funk and Chance Moore.",
-    "About Taylor Funk Funk (6-8, 230, Utah State) appeared in 41 games for the San Diego Clippers in 2025-26, averaging 11.3 points, 4.4 rebounds, and 2.1 assists in 26.2 minutes per contest, also totaling six games with 20-…",
-    "A native of Lancaster, Pa., Funk played five collegiate seasons at Saint Joseph’s (2017-22) and finished his career at Utah State (2022-23).In his lone season at Utah State, he averaged 13.4 points, 5.5 rebounds, and 1.7…",
-    "He knocked down 219 three-point field goals for Utah State in 2022-23, which is the eighth-highest single-season total in school history.",
-    "About Chance Moore Moore (6-6, 210, West Virginia) played in 29 games last season for West Virginia, owning averages of 10.6 points on 53.1 percent from the field and 5.8 rebounds in 22.3 minutes per game.In his final co…",
-    "Bonaventure (2024-25), Missouri State (2022-24), and Arkansas (2021-22).",
-    "Bonaventure, he averaged 13.0 points, 6.5 rebounds, 1.1 assists, and 1.3 steals in 34.0 minutes per game."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-marc-spears-discusses-darryn-peterson-keyonte-george-and-jazz-expectations",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-marc-spears-discusses-darryn-peterson-keyonte-george-and-jazz-expectations",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-marc-spears-discusses-darryn-peterson-keyonte-george-and-jazz-expectations",
-   "title": "Roundball Roundup: Marc Spears Discusses Darryn Peterson, Keyonte George, and Jazz Expectations",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-14T23:09:41Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga caught up with Marc Spears (Andscape) to discuss Darryn Peterson, Keyonte George and Jaren Jackson Jr.",
-   "facts": [],
    "quotes": []
   }
  ]
