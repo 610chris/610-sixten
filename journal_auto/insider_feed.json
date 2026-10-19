@@ -1,7 +1,59 @@
 {
- "updated_utc": "2026-10-19 13:50 UTC",
+ "updated_utc": "2026-10-19 19:31 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Jake Fischer（The Stein Line）",
+   "handle": "JakeLFischer",
+   "key": "https://www.reddit.com/r/nba/comments/1xa1kkz/fischer_a_name_ive_heard_the_kings_have_called/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-19T16:29:04+00:00",
+   "text": "The Kings are considering point guard reinforcements, sources say, after the sudden loss of Ben Simmons to a season-ending Achilles tear during practice on Sunday.\n\nAnother name I've heard the Kings have called about acquiring before today's roster cut-down deadline: Milwaukee guard Kevin Porter Jr.\n\nhttps://marcstein.substack.com/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xa1kkz/fischer_a_name_ive_heard_the_kings_have_called/",
+   "links": [
+    "https://marcstein.substack.com/"
+   ]
+  },
+  {
+   "reporter": "Brian Windhorst（ESPN）",
+   "handle": "WindhorstESPN",
+   "key": "https://www.reddit.com/r/nba/comments/1xa0vlo/windhorst_knueppel_miller_and_role_players_such/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-19T16:02:52+00:00",
+   "text": "From the ESPN season preview\n\nGrayson Allen did not play for the Hornets. Although this is a very minor slip-up, it’s an example of how the talking heads who spend several hours on air plus whatever written stuff they put out simply can’t closely follow the NBA and instead have to box score watch. Or in this case have an idea of who the Hornets were and look at their basketball reference page to pretend to understand them on some deeper level than the average fan.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xa0vlo/windhorst_knueppel_miller_and_role_players_such/",
+   "links": [
+    "https://www.espn.com/nba/story/_/id/49998634/2026-27-nba-season-preview-rankings-predictions"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1x9ybe4/charania_the_dallas_mavericks_are_waiving_veteran/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-19T14:25:29+00:00",
+   "text": "The Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9ybe4/charania_the_dallas_mavericks_are_waiving_veteran/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1x9yaz0/charania_the_dallas_mavericks_are_waiving_veteran/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-19T14:25:00+00:00",
+   "text": "Shams Charania:\n\nThe Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.\n\nThe Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9yaz0/charania_the_dallas_mavericks_are_waiving_veteran/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
   {
    "reporter": "Marc Stein（The Stein Line）",
    "handle": "TheSteinLine",
@@ -93,32 +145,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1x9ggx7/charania_just_in_sacramento_kings_guard_ben/",
    "links": [
     "https://www.espn.com/contributor/shams-charania/7e9f23aaad9e5"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1x8l7kd/charania_the_utah_jazz_have_claimed_center_tony/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-17T21:04:48+00:00",
-   "text": "The Utah Jazz have claimed center Tony Bradley off free agency waivers, sources tell ESPN. Bradley was the Jazz's No. 28 pick in 2017 and now returns where he spent his first 3 NBA seasons.\n\nhttps://www.espn.com/contributor/shams-charania/1d489d1b16008",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x8l7kd/charania_the_utah_jazz_have_claimed_center_tony/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/1d489d1b16008"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1x8kxbd/charania_the_new_york_knicks_are_waiving_bruce/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-17T20:52:36+00:00",
-   "text": "The New York Knicks are waiving Bruce Brown, sources tell ESPN. James Wiseman is set to make the Knicks regular season roster as a reserve center\n\nhttps://www.espn.com/contributor/shams-charania/502f1113f1029",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x8kxbd/charania_the_new_york_knicks_are_waiving_bruce/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/502f1113f1029"
    ]
   }
  ]
