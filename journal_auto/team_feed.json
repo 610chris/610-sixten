@@ -1,8 +1,79 @@
 {
- "updated_utc": "2026-10-18 14:08 UTC",
+ "updated_utc": "2026-10-19 00:26 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/physical-aggressive-rookie-johnson-set-to-make-some-things-happen",
+   "url": "https://www.nba.com/mavs/news/physical-aggressive-rookie-johnson-set-to-make-some-things-happen",
+   "canonical_url": "https://mavs.com/mavs/news/physical-aggressive-rookie-johnson-set-to-make-some-things-happen",
+   "title": "Physical, aggressive rookie Johnson set to 'make some things happen'",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-19T00:00:39Z",
+   "tags": [],
+   "summary": "Opening day in the NBA is a little like Christmas. Fans finally get to open the packages and see what they’re getting.",
+   "facts": [
+    "The Mavericks got him with the No. 9 overall pick in the June draft and with any rookie taken in the lottery, there’s always curiosity about what kind of player he’ll be.",
+    "It’s not like having a clear No. 1 overall pick – think Cooper Flagg or Victor Wembanyama – that you are certain is going to be a star.",
+    "However, the final preseason game on Friday gave a quick glimpse of what we can expect from the 6-9, 250-pound Johnson.",
+    "Just 15 seconds after he entered the game in the first quarter, Johnson bulled his way into the paint and grabbed a tough offensive rebound.",
+    "He sank the three-pointer that got the Mavericks within 22-19.",
+    "Johnson finished with seven rebounds in 14 minutes against the Hawks.",
+    "But he’s got a good sounding board to help him along in reigning rookie of the year Cooper Flagg, who is about 11 months younger than Johnson.",
+    "Johnson has been fighting a nagging injury in the preseason, which limited him to two games."
+   ],
+   "quotes": [
+    "Rez, like a lot of young guys, just needs game reps because of how aggressive he is to the ball,",
+    "And because of that, he’s going to make some things happen and also the extra possessions he’s going provide for us – the offensive rebounds, the loose basketballs – that and his defensive tenacity ar…",
+    "We want to be able to play him at both,",
+    "The keys to him playing the five is to impact the game with his energy and his physicality."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-preseason-takeaways-darryn-petersons-debut-ace-baileys-defense-and-more",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-preseason-takeaways-darryn-petersons-debut-ace-baileys-defense-and-more",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-preseason-takeaways-darryn-petersons-debut-ace-baileys-defense-and-more",
+   "title": "Utah Jazz Preseason Takeaways: Darryn Peterson’s Debut, Ace Bailey’s Defense, and More",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-18T19:40:42Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Isaiah Collier",
+    "Jaren Jackson Jr.",
+    "Jaxson Hayes",
+    "Josh Okogie",
+    "Keyonte George",
+    "Utah Jazz"
+   ],
+   "summary": "With the preseason now in the books for the Utah Jazz, all eyes turn to opening night.",
+   "facts": [
+    "Utah will have a few more days to get in final preparation before heading to Memphis to take on the Grizzlies on Oct. 21.",
+    "Although the Jazz only had a small four-game sample of preseason action, it did provide a glimpse into the 2026-27 squad.",
+    "Utah went 3-1 across those warmup contests, with both plenty of bright spots and learning opportunities to carry over into the real action come Wednesday.",
+    "A cold shooting night in Boulder, CO gave way to a 23-point outburst in Utah’s second preseason game, as Peterson used his body to embrace physicality and get to his spots on the floor.",
+    "In that second matchup against the Denver Nuggets, Peterson shot 9-of-12 inside the arc, with seven of those buckets coming from the mid-range.",
+    "During training camp, the 19-year-old revealed that it had been a 60-to-40 split in terms of his time spent with and without the ball in his hands, the majority of which came as an off-ball player.",
+    "Peterson finished with 14 points and five assists, continuing to use his craft and physicality to get to his spots on the floor.",
+    "Despite the shot not falling from deep during the four preseason games, the 19-year-old showcased his ability to contribute offensively within the flow of the system."
+   ],
+   "quotes": [
+    "Darryn is a really talented offensive player,",
+    "He’s a really sophisticated player in terms of his footwork and using his body to create separation. His ball-handling and using his body is going to be a weapon for him moving forward.",
+    "Darryn is starting to understand more and more that our games are long,",
+    "Scoring flurries can happen at different moments. Darryn’s willingness to make the read in front of him is going to allow him to play well."
+   ]
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -1258,260 +1329,6 @@
     "My mama and family are really excited to see me out there. I’m going to have a good crowd out there for sure.",
     "Just the intensity that I bring, the energy, the dog mentality,",
     "On the defensive side changing the game, pushing the pace and being able to space the floor (and) play-make. Just being me."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "roster",
-   "key": "https://www.nba.com/pelicans/news/hunter-dickinson-pelicans-roster-moves-preseason-2026",
-   "url": "https://www.nba.com/pelicans/news/hunter-dickinson-pelicans-roster-moves-preseason-2026",
-   "canonical_url": "https://pelicans.com/news/hunter-dickinson-pelicans-roster-moves-preseason-2026",
-   "title": "New Orleans Pelicans sign Hunter Dickinson",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-15T23:15:26Z",
-   "tags": [],
-   "summary": "The New Orleans Pelicans announced today that the team has signed center Hunter Dickinson. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "Dickinson, 7-1, 271, appeared in five games for the Pelicans last season as a two-way player.",
-    "Dickinson appeared in 44 games with the Pelicans’ G League affiliate, the Birmingham Squadron, last season in which he averaged 17.6 points, 10.9 rebounds and 3.3 assists in 30.3 minutes per game.",
-    "A native of Alexandria, Virginia, Dickinson appeared in 161 games (156 starts) over five collegiate seasons between Michigan (three seasons) and Kansas (two seasons), averaging 17.4 points, 9.2 rebounds, 1.8 assists and …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/irving-flagg-to-play-as-mavs-have-dress-rehearsal-game-against-hawks",
-   "url": "https://www.nba.com/mavs/news/irving-flagg-to-play-as-mavs-have-dress-rehearsal-game-against-hawks",
-   "canonical_url": "https://mavs.com/mavs/news/irving-flagg-to-play-as-mavs-have-dress-rehearsal-game-against-hawks",
-   "title": "Irving, Flagg to play in Mavs' dress rehearsal game against Hawks",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-15T22:17:47Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "Anyone curious about getting an up close and personal look at what the Dallas Mavericks will look like before the regular season starts next week might want to make plans to be inside American Airlines Center on Friday night.",
-   "facts": [
-    "Irving tore the anterior cruciate ligament in his left knee during a March 3, 2025 game against the Sacramento Kings and missed all of last season when Flagg was tearing up the NBA en route to winning the league’s presti…",
-    "Irving and Flagg both played in last Sunday’s preseason game in Macao, China, when the Mavs defeated the Houston Rockets, 132-115.",
-    "In his first game in over 19 months, Irving played 22 minutes and finished with 17 points and three assists, while Flagg played 25 minutes and collected 14 points, seven assists and two steals.",
-    "Also, the Mavs didn’t arrive back in Dallas until 2:30 a.m.",
-    "Monday after a 14-hour flight to complete a week in China while going 1-1 against the Rockets.",
-    "A little over two years after Atlanta selected Risacher with the No. 1 overall pick in the 2024 NBA Draft, the Hawks traded him to the Mavs this summer in a three-team deal which helped Atlanta acquire Ryan Nembhard and …"
-   ],
-   "quotes": [
-    "This will be the closest to a regular season game that we’ll play just based on availability,",
-    "Just to look like we have a good rhythm and flow to the game offensively, and then defensively that we’re connected and we’ll cover for each other. We’ve got some guys with great natural instincts, so…",
-    "It’s a small sample size, but any time those two guys are on the court we’re going to be a better basketball team just because they both have such high basketball IQs,",
-    "They’re both great passers, they’re scorers, they both defend and have great natural instincts defensively as well."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "roster",
-   "key": "https://www.nba.com/pelicans/news/active-disrupting-pelicans-defense-shows-positive-signs-progress-in-dallas-preseason-win",
-   "url": "https://www.nba.com/pelicans/news/active-disrupting-pelicans-defense-shows-positive-signs-progress-in-dallas-preseason-win",
-   "canonical_url": "https://pelicans.com/news/active-disrupting-pelicans-defense-shows-positive-signs-progress-in-dallas-preseason-win",
-   "title": "Active, disruptive Pelicans defense shows positive signs, progress in Dallas preseason win",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-15T19:43:32Z",
-   "tags": [],
-   "summary": "A disruptive defensive performance by New Orleans in Wednesday’s preseason win at Dallas featured numerous high-impact plays, including 14 steals and seven blocks, but the possessions that caused the biggest reaction from the visitor’s bench didn’t include an individual stat. En route to holding the Mavericks to a rough 18-point first quarter, the Pelicans’ defense quickly forced multiple shot-clo…",
-   "facts": [
-    "A disruptive defensive performance by New Orleans in Wednesday’s preseason win at Dallas featured numerous high-impact plays, including 14 steals and seven blocks, but the possessions that caused the biggest reaction fro…",
-    "En route to holding the Mavericks to a rough 18-point first quarter, the Pelicans’ defense quickly forced multiple shot-clock violations, preventing the hosts from even a chance to score within the allotted 24 seconds.",
-    "After allowing 110 and 128 points to Oklahoma City and Miami, respectively, while splitting two previous exhibition games, New Orleans (2-1 in preseason) clamped down significantly on Dallas, holding the Mavericks to 35 …",
-    "It’s perhaps the biggest key for the Pelicans in 2026-27 to make a jump in the Western Conference standings, after placing 29th and 23rd in the NBA on defense in consecutive non-playoff years.",
-    "Denver, the NBA’s top-ranked offense in 2025-26."
-   ],
-   "quotes": [
-    "I thought our guys were very connected; I think that’s a great word (to describe them),",
-    "They were communicating with one another, flying around, covering for one another, doing it without fouling. We had two or three shot-clock violations. That’s just their ability to sit down and take o…",
-    "It just shows that you’re locked in throughout the whole defensive possession,",
-    "They believe that’s what’s going to get you over the top,"
-   ]
-  },
-  {
-   "source": "SAC 公式（nba.com）",
-   "team": "SAC",
-   "team_ja": "キングス",
-   "team_id": 1610612758,
-   "kind": "roster",
-   "key": "https://www.nba.com/kings/news/sacramento-kings-convert-leaky-black-to-two-way-contract",
-   "url": "https://www.nba.com/kings/news/sacramento-kings-convert-leaky-black-to-two-way-contract",
-   "canonical_url": "https://kings.com/news/sacramento-kings-convert-leaky-black-to-two-way-contract",
-   "title": "Sacramento Kings Convert Leaky Black to Two-Way Contract",
-   "author": "Official Release",
-   "published_utc": "2026-10-15T17:46:37Z",
-   "tags": [
-    "Press Release",
-    "Two-Way Contracts"
-   ],
-   "summary": "The Sacramento Kings announced today that the team has converted forward Leaky Black to a two-way contract. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "The Sacramento Kings announced today that the team has converted forward Leaky Black to a two-way contract.",
-    "In two NBA seasons, Black (6-6, 209) has averaged 4.3 points, 3.0 rebounds and 1.1 assists in 17.5 minutes per game across 41 career games (12 starts) with the Charlotte Hornets (2023-24) and Washington Wizards (2025-26)…",
-    "During the 2025-26 season, he appeared in 24 regular season games for the Capital City Go-Go, Washington’s G League affiliate, averaging 9.9 points, 8.1 rebounds, 3.4 assists and 2.0 steals in 35.7 minutes per game.",
-    "Prior to his NBA career, Black played five seasons at the University of North Carolina (2018-23), averaging 5.5 points and 4.7 rebounds in 155 games."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/labaron-philons-confidence-and-basketball-iq-shine-in-preseason",
-   "url": "https://www.nba.com/sixers/news/labaron-philons-confidence-and-basketball-iq-shine-in-preseason",
-   "canonical_url": "https://sixers.com/news/labaron-philons-confidence-and-basketball-iq-shine-in-preseason",
-   "title": "Labaron Philon’s confidence and basketball IQ shine in preseason",
-   "author": "Owen Boyle",
-   "published_utc": "2026-10-15T17:21:06Z",
-   "tags": [
-    "Labaron Philon Jr."
-   ],
-   "summary": "Labaron Philon Jr. has already had his welcome-to-the-league moment, and he hasn’t even made his NBA debut.",
-   "facts": [
-    "It’s been a baptism by fire for the No. 22 overall pick in the 2026 NBA Draft.",
-    "He joined a team whose starting five has a combined 36 All-Star Game appearances and five NBA Finals MVP awards.",
-    "In his preseason debut against the New York Knicks on Oct. 5, Philon played 25 minutes, scoring six points and recording four assists.",
-    "Two days later, Philon delivered his best preseason performance, scoring 14 points and registering seven assists in 25 minutes off the bench against the Boston Celtics.",
-    "The 6-foot-4 guard shot 50% from 3-point range, making four of his eight attempts.",
-    "As a point guard, Philon’s experience running an NBA-style offense in his two years at Alabama under head coach Nate Oats has helped make the switch from college to the pros smoother for the 20-year-old.",
-    "A third-team All-American and first-team All-SEC selection, Philon scored at least 20 points in 21 games as a sophomore and finished 11th nationally in scoring.",
-    "Whether that is his routine in the training room or the questions he asks his teammates and coaches during practice or film sessions, the 20-year-old “loves to work.” With just one preseason game remaining before the reg…"
-   ],
-   "quotes": [
-    "The first play of training camp, LeBron was coming at me full speed, and I was backpedaling, and that’s when the moment really hit,",
-    "I was like, ‘Alright, it’s here now.’ But being able to stand my ground and knowing that I can compete against these guys at a high level, I can be more confident.",
-    "Tyrese, VJ, Jaylen, LeBron, all those guys giving me heads up and stuff like that, it’s been really great,",
-    "Being myself. That was a big thing for me coming in with all the great guys we’ve got around me. Being yourself and being able to be a young, confident player, that’s where I have grown the most."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "quotes",
-   "key": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season-1",
-   "url": "https://www.nba.com/magic/news/3-jalen-suggs-storylines-going-into-2026-27-season-1",
-   "canonical_url": "https://orlandomagic.com/news/3-jalen-suggs-storylines-going-into-2026-27-season-1",
-   "title": "3 Jalen Suggs Storylines Going Into 2026-27 Season",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-15T16:03:04Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "What Will His Shooting Percentages Look Like By Season’s End?",
-   "facts": [
-    "However, his pull-up 3-point percentage and efficiency around the basket slipped.",
-    "Perhaps the mark to really circle this season is Suggs’ 3-point percentage in transition.",
-    "Last year, that mark was at 31.1 percent, a 12-percent drop from the prior two years combined.",
-    "As a team in 2025-26, the Magic shot 34.5 percent from downtown in transition, which ranked 27th in the league.",
-    "Being able to knock down threes at a reasonably high clip while on the move after getting stops or forcing turnovers is something the best teams excelled at last season (Nuggets, Hawks, Thunder, Spurs, Celtics and Knicks…",
-    "In the 2023-24 season, a year in which Suggs appeared in 75 games, the Magic ranked second in scoring off turnovers.",
-    "Last year, they slipped down to 12th in this category.",
-    "Now it’s important to note that the number of points Orlando scored off turnovers in both these seasons was about the same (18.6 in 2023-24 and 18.5 in 2025-26)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "WAS 公式（nba.com）",
-   "team": "WAS",
-   "team_ja": "ウィザーズ",
-   "team_id": 1610612764,
-   "kind": "feature",
-   "key": "https://www.nba.com/wizards/news/wizards-announce-2026-27-home-opener-activations",
-   "url": "https://www.nba.com/wizards/news/wizards-announce-2026-27-home-opener-activations",
-   "canonical_url": "https://washingtonwizards.com/news/wizards-announce-2026-27-home-opener-activations",
-   "title": "WIZARDS ANNOUNCE 2026-27 HOME OPENER ACTIVATIONS",
-   "author": "admin",
-   "published_utc": "2026-10-15T15:01:52Z",
-   "tags": [],
-   "summary": "Waka Flocka Flame to Headline Home Opener Celebration on Oct. 21",
-   "facts": [
-    "Waka Flocka Flame to Headline Home Opener Celebration on Oct. 21 WASHINGTON, D.C. – The Washington Wizards announced the activations for the team’s home opener presented by Capital One on Wednesday, Oct. 21, at 7 p.m., w…",
-    "Giveaway Tipping off the first “Wizards Wednesdays,” a seven-night series presented by Capital One, the first 15,000 fans in attendance will receive a Wizards-branded rally towel.",
-    "Doors open at 5:30 p.m.",
-    "Additional giveaways throughout the season include: Nov. 16: “Ice” Trae Young bobblehead for the first 10,000 fans.",
-    "Dec. 12: A beanie designed by guard Tre Johnson for the first 10,000 fans.",
-    "Jan. 17: The first 10,000 fans will receive a cherry blossom City Edition-themed sweatshirt designed by second year forward Will Riley, courtesy of Ticketmaster.",
-    "March 6: AJ Dybantsa Rookie Edition bobblehead for the first 10,000 fans.",
-    "April 11: Wizards-branded fan appreciation T-shirt for the first 15,000 fans."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-bucks-261016",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-bucks-261016",
-   "canonical_url": "https://pacers.com/news/preview-pacers-bucks-261016",
-   "title": "Game Preview: Pacers vs Bucks (Preseason)",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-15T14:57:00Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Friday, Oct. 16 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Friday, Oct. 16 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview The Pacers close out their preseason slate on Friday, hosting the Milwaukee Bucks at Gainbridge Fieldhouse for the final exhibition game for both teams.",
-    "Indiana is coming off a 114-112 overtime loss on Tuesday night in Oklahoma City.",
-    "Playing just his second preseason game after a 16-month absence while rehabbing a torn Achilles, Pacers All-Star guard Tyrese Haliburton was brilliant on Tuesday.",
-    "Back on the same court where he sustained his injury in Game 7 of the 2025 NBA Finals, Haliburton erupted for 24 points in 17 minutes against the Thunder, going 9-for-14 from the field and 4-for-6 from 3-point range whil…",
-    "Zubac had 13 points on 6-of-7 shooting, 13 rebounds (five on the offensive glass), five assists, and three steals.",
-    "The Bucks will have a very look this year, as Milwaukee made the decision to trade two-time MVP Giannis Antetokounmpo (as well as veteran forward Bobby Portis) to Miami this summer.",
-    "They acquired one-time All-Star guard (and Wisconsin native) Tyler Herro from Miami along with a trio of young players in Jaime Jaquez Jr., Kel'el Ware, and Kasparas Jakucionis and a stash of draft picks.",
-    "Milwaukee used its own pick to draft Arizona guard Brayden Burries 10th overall and used the pick acquired from Miami to take Tennessee forward Nate Ament with the 13th overall selection."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "SAS 公式（nba.com）",
-   "team": "SAS",
-   "team_ja": "スパーズ",
-   "team_id": 1610612759,
-   "kind": "feature",
-   "key": "https://www.nba.com/spurs/news/san-antonio-spurs-launch-los-spurs-official-spanish-language-instagram-account",
-   "url": "https://www.nba.com/spurs/news/san-antonio-spurs-launch-los-spurs-official-spanish-language-instagram-account",
-   "canonical_url": "https://spurs.com/news/san-antonio-spurs-launch-los-spurs-official-spanish-language-instagram-account",
-   "title": "San Antonio Spurs Launch 'Los Spurs' Official Spanish-Language Instagram Account",
-   "author": "saslkaneb",
-   "published_utc": "2026-10-15T14:20:11Z",
-   "tags": [
-    "Featured",
-    "press-release"
-   ],
-   "summary": "SAN ANTONIO (Oct. 15, 2026) – The San Antonio Spurs today announced the launch of @LosSpurs, a dedicated Spanish-language Instagram account for the organization. The platform will serve as a digital space catered to Spanish-speaking Spurs fans, with curated content, storytelling and fan engagement efforts. Fans are encouraged to follow the @LosSpurs account to catch the latest news from the team, …",
-   "facts": [
-    "SAN ANTONIO (Oct. 15, 2026) – The San Antonio Spurs today announced the launch of @LosSpurs, a dedicated Spanish-language Instagram account for the organization.",
-    "For decades, the organization has invested in the Mexico region through games, court renovations, community initiatives and partnerships, reinforcing its role as “Mexico’s team.” The team has played seven games in the co…",
-    "The team’s @LesSpurs account, launched in 2025 to cater to French-speaking fans, is the most followed French NBA team account in the league.",
-    "About Spurs Sports & Entertainment Spurs Sports & Entertainment (SS&E) is a value-based and community-centric sports and entertainment company that provides premier live and global digital experiences for fans across a p…"
-   ],
-   "quotes": [
-    "Our Spanish-speaking fans are a big part of what makes the Spurs family so special, and we want them to feel connected to the team in the language they call their own,",
-    "Los Spurs gives us a new way to celebrate their passion, share stories that resonate with them and bring fans across San Antonio, Mexico and beyond closer to the Silver & Black."
    ]
   }
  ]
