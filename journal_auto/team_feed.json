@@ -1,8 +1,315 @@
 {
- "updated_utc": "2026-10-19 17:44 UTC",
+ "updated_utc": "2026-10-19 22:36 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "roster",
+   "key": "https://www.nba.com/sixers/news/philadelphia-76ers-exercise-third-year-rookie-scale-option-on-vj-edgecombe",
+   "url": "https://www.nba.com/sixers/news/philadelphia-76ers-exercise-third-year-rookie-scale-option-on-vj-edgecombe",
+   "canonical_url": "https://sixers.com/news/philadelphia-76ers-exercise-third-year-rookie-scale-option-on-vj-edgecombe",
+   "title": "PHILADELPHIA 76ERS EXERCISE THIRD-YEAR ROOKIE SCALE OPTION ON VJ EDGECOMBE",
+   "author": "76ers PR",
+   "published_utc": "2026-10-19T22:04:49Z",
+   "tags": [],
+   "summary": "2025-26 NBA ALL-ROOKIE FIRST TEAM SELECTION",
+   "facts": [
+    "2025-26 NBA ALL-ROOKIE FIRST TEAM SELECTION ONLY PLAYER FROM 2025 DRAFT CLASS TO TALLY AT LEAST 100 TRIPLES AND 100 STEALS DURING ROOKIE CAMPAIGN FIRST 76ERS ROOKIE TO PRODUCE AT LEAST 1,000 POINTS AND 125 THREE-POINTERS…",
+    "Originally selected with the third overall pick of the 2025 NBA Draft, Edgecombe, 21, started in 75 games during his rookie campaign, averaging 16.0 points on 43.8-percent shooting (35.4% 3FG), 5.6 rebounds, 4.2 assists,…",
+    "He was the only player from the 2025 draft class to have averaged 16.0 points and 4.0 assists while shooting at least 35-percent from beyond the arc, leading to a unanimous NBA All-Rookie First Team selection.",
+    "Edgecombe finished the 2025-26 season ranking top three amongst rookies in points (third – 1,199), field goals (third – 451), three-pointers (second – 149), steals (first – 107), and minutes played (first – 2,623).",
+    "The Bahamian native became the first 76ers rookie since Allen Iverson in 1996-97 to produce at least 1,000 points and 125 three-pointers.",
+    "He was the only rookie in 2025-26 – and just the third first-year player since 2010-11 – to tally at least 100 steals and 100 triples in a single season.",
+    "Named a 2026 Castrol Rising Star, Edgecombe captured the event’s Most Valuable Player award, joining Allen Iverson and Andre Iguodala as the only 76ers to ever do so.",
+    "He produced 18.9 points (45.5% FG), 5.8 rebounds, 4.3 assists, and 1.2 steals in 13 March contests en route to earning the first Rookie of the Month honor of his career."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261019-paul-george-embracing-beautiful-challenge-of-celtics-free-flowing-offense",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261019-paul-george-embracing-beautiful-challenge-of-celtics-free-flowing-offense",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20261019-paul-george-embracing-beautiful-challenge-of-celtics-free-flowing-offense",
+   "title": "Paul George Embracing 'Beautiful Challenge' of Celtics' Free-Flowing Offense",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-19T21:26:29Z",
+   "tags": [
+    "Practice",
+    "Preseason",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – After 16 NBA seasons, Paul George knows what it’s like to have an offense built around him. The six-time All-NBA wing is accustomed to having the ball in his hands, knowing where his shots are coming from and where his spots will be on the floor.",
+   "facts": [
+    "BOSTON – After 16 NBA seasons, Paul George knows what it’s like to have an offense built around him.",
+    "But as he prepares for his 17th season – and his first with the Celtics – he’s learning a different way to operate.",
+    "George racked up seven steals during his two preseason appearances, including five against his former Philadelphia 76ers team."
+   ],
+   "quotes": [
+    "It’s been a beautiful challenge, as I tell [Joe Mazzulla], of exploring how to be,",
+    "I’ve been so used to, in my career, having the ball in my hands and the offense running through me, knowing where my spots will be.",
+    "The beautiful thing within Joe’s offense is I could be anywhere, and there is, so to speak, no set play,",
+    "So it’s been fun. This is kind of how I always envisioned playing. So it’s just up to me to now try to figure it out."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/powells-mavericks-career-made-him-a-teammate-that-will-be-severely-missed",
+   "url": "https://www.nba.com/mavs/news/powells-mavericks-career-made-him-a-teammate-that-will-be-severely-missed",
+   "canonical_url": "https://mavs.com/mavs/news/powells-mavericks-career-made-him-a-teammate-that-will-be-severely-missed",
+   "title": "Powell's Mavericks' career made him a teammate that will be 'severely missed'",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-19T20:09:17Z",
+   "tags": [],
+   "summary": "Not even the most dedicated Mavericks fans knew who Dwight Powell was on Dec. 18, 2014.",
+   "facts": [
+    "Not even the most dedicated Mavericks fans knew who Dwight Powell was on Dec. 18, 2014.",
+    "The following day, Rajon Rondo got traded from the Boston Celtics to the Mavericks, and the unknown, 6-10 Canadian was the proverbial throw-in as part of a blockbuster trade.",
+    "The franchise on Monday waived the longest-tenured player on the roster – the only one who played with Dirk Nowitzki, Luka Doncic and Cooper Flagg.",
+    "He’s been with the Mavericks through some of their best moments like the NBA Finals in 2024.",
+    "They also waived John Poulakidas and Seth Lundy on Sunday.",
+    "They have two two-way players in Jett Howard and Tobi Lawal.",
+    "In his 12 seasons with the Mavericks (he played just five games with Boston before the trade happened), Howard averaged 6.5 points and 4.3 rebounds.",
+    "He played in 763 games with the Mavericks and is a fixture in the top 10 of many of the franchise’s all-time statistical categories (fourth in career field goal percentage at .606, fifth in games played, sixth in offensi…"
+   ],
+   "quotes": [
+    "He’ll be severely missed,",
+    "And he represented a lot here in the city of Dallas. I was in the hot tub. It’s a little heartbreaking. We’re going to miss him. But you got to add in the phrase, it’s just NBA business. But it’s alwa…",
+    "In my short stint here, his professionalism, his attitude – he exemplified everything that you’d want to a Maverick to be about,",
+    "So want to say thanks to him. He certainly had an impact on all of us. And the same thing, Seth Lundy and JP had an impact on our team. We’re better because they were here and you never know what the …"
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hornets-continuing-to-focus-on-physicality-as-preseason-wraps-up",
+   "url": "https://www.nba.com/hornets/news/hornets-continuing-to-focus-on-physicality-as-preseason-wraps-up",
+   "canonical_url": "https://hornets.com/news/hornets-continuing-to-focus-on-physicality-as-preseason-wraps-up",
+   "title": "Hornets Continuing To Focus On Physicality As Preseason Wraps Up",
+   "author": "Sam Perley",
+   "published_utc": "2026-10-19T20:08:57Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Playing with consistent physicality was an on-and-off issue for the Charlotte Hornets throughout their impressive 2025-26 season and ultimately something that caught up to them in the end.",
+   "facts": [
+    "Playing with consistent physicality was an on-and-off issue for the Charlotte Hornets throughout their impressive 2025-26 season and ultimately something that caught up to them in the end.",
+    "Less-physical teams could often find themselves on the wrong side of these numbers because their players are getting bumped off their spots, losing the battle for 50-50 balls, not finishing through contract or opposing b…"
+   ],
+   "quotes": [
+    "I think our guys are just way more aware of [the physicality] now,",
+    "We feel like more teams are playing us physical,",
+    "I think a lot of it comes down to a mindset, too,",
+    "Driving downhill, get to the point of attack and bump the defender before he touches me,"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/76ers-franchise-records-and-player-milestones-to-watch-in-2026-27",
+   "url": "https://www.nba.com/sixers/news/76ers-franchise-records-and-player-milestones-to-watch-in-2026-27",
+   "canonical_url": "https://sixers.com/news/76ers-franchise-records-and-player-milestones-to-watch-in-2026-27",
+   "title": "76ers Franchise Records and Player Milestones to Watch in 2026-27",
+   "author": "Owen Boyle",
+   "published_utc": "2026-10-19T19:19:51Z",
+   "tags": [],
+   "summary": "Some of the NBA’s greatest players have worn a Sixers uniform, setting franchise and league records along the way. From past legends such as Wilt Chamberlain and Allen Iverson to current stars Joel Embiid and Tyrese Maxey, the franchise has not only had elite talent in its ranks, but also players at or near the top of the NBA’s history books.",
+   "facts": [
+    "Here’s a list of team and league records, along with individual player milestones to keep an eye on during the 2026-27 season.",
+    "Franchise Records Field Goals 6.",
+    "Charles Barkley (5,025) 7.",
+    "Joel Embiid (4,458) Embiid is 166 field goals away from becoming seventh all-time in field goals made in franchise history.",
+    "He is 568 away from passing Charles Barkley for sixth all-time.",
+    "The center’s career high for field goals made (728) came during his MVP-winning campaign in 2022-23 when he played 66 games. 3-Point Field Goals 1.",
+    "Tyrese Maxey (916) 2.",
+    "Allen Iverson (885) 3."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-team-up-with-orange-county-public-schools-chick-fil-a-to-encourage-students-to-read-during-annual-pick-read-roll-event-20261019",
+   "url": "https://www.nba.com/magic/news/orlando-magic-team-up-with-orange-county-public-schools-chick-fil-a-to-encourage-students-to-read-during-annual-pick-read-roll-event-20261019",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-team-up-with-orange-county-public-schools-chick-fil-a-to-encourage-students-to-read-during-annual-pick-read-roll-event-20261019",
+   "title": "Orlando Magic Team Up With Orange County Public Schools & Chick-fil-A to Encourage Students to Read During Annual Pick, Read & Roll Event",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-19T19:13:02Z",
+   "tags": [
+    "Community",
+    "CommunityNews",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO - The Orlando Magic finished the preseason with a top three offense, largely because they “read” the game at a high level. They identified how the defense was playing them and attacked accordingly, which led to them getting up many open shots.",
+   "facts": [
+    "The Magic’s players got the opportunity to share this congruence with approximately 3,100 fourth graders from low-income, Title 1 Orange County Public Schools (OCPS) on Monday at the Kia Center during the seventh annual …",
+    "There were also around 150 high-performing fifth graders there getting recognized for their achievements.",
+    "Recently, the team announced $1.8 million in grants that will be distributed to the local community through the Magic’s charitable arm, the Orlando Magic Youth Foundation (OMYF), which assists at-risk youth in Central Fl…",
+    "This marks the 19th time the team has distributed at least $1 million to the community with the Magic granting nearly $33 million over the past 37 years to local nonprofits through OMYF.",
+    "Overall, the Magic give more than $3 million to the local community by way of sponsorships of events, donated tickets, autographed merchandise and grants and the team's community relations programs impact an estimated 10…",
+    "Over the last three seasons, the Magic are 82-48 at home in the regular season and playoffs combined.",
+    "That 63.1 home winning percentage is ninth best in the league in this span and fourth best in the Eastern Conference."
+   ],
+   "quotes": [
+    "It’s amazing, just to see the kind of effect we have on this community,",
+    "Just us showing up, having some fun with them, and leaving a lasting impression on them. It’s always fun seeing smiles on kids’ faces.",
+    "The community continues to grow, and I think obviously with what Orange County Public Schools does, it’s fantastic,",
+    "I’m so excited. That was amazing. That was so fun, just seeing how loud those kids were to see us,"
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "feature",
+   "key": "https://www.nba.com/heat/news/mini-plan-scouting-report-coup",
+   "url": "https://www.nba.com/heat/news/mini-plan-scouting-report-coup",
+   "canonical_url": "https://heat.com/news/mini-plan-scouting-report-coup",
+   "title": "Coup's Mini Plan Scouting Report",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-10-19T19:12:46Z",
+   "tags": [],
+   "summary": "With a two-time MVP in Giannis Antetokounmpo ready to make his debut, a new era of Miami HEAT basketball is about to begin. And with every era, there is a story to tell – a story that changes, evolves and surprises with each passing month.",
+   "facts": [
+    "You’ve got a little bit of everything here, from the No. 1 seed last season in Detroit, a true-blue contender in Oklahoma City, remade and refreshed Eastern Conference teams in Atlanta and Toronto, high lottery picks fro…",
+    "All that’s before getting to a Philadelphia team now featuring both LeBron James and Jaylen Brown, another of the league’s most fascinating stories, and of course the return of Tyler Herro, Jaime Jaquez Jr., Kel’el Ware …",
+    "LEARN MORE | BUY NOW No team is a better example for why you can’t look at last season’s win totals than the Indiana Pacers, winners of just 19 a year ago but now return Tyrese Haliburton and add center Ivica Zubac as th…",
+    "Minnesota added LaMelo Ball in a trade with Charlotte to create what could be one of the most dynamic offenses in the league, Denver and Los Angeles feature two perennial MVP candidates in Nikola Jokic and Luka Doncic, S…",
+    "LEARN MORE | BUY NOW Like Indiana, Memphis and Utah could both far surpass last season’s win totals, Memphis adding No. 3 pick Cameron Boozer while Utah brings in No. 2 pick Darryn Peterson after trading for Memphis’ Jar…",
+    "Another former Memphis All-Star, Ja Morant, is now in Portland where Damian Lillard makes his own return from injury to what was one of last season’s surprise teams, a list that also included the high-powered Charlotte H…",
+    "The New York Knicks just won their first title in over 50 years and this is their lone visit to Kaseya Center during the regular season, Chicago adds No. 4 pick Caleb Wilson and former HEAT All-Star Norm Powell to what c…",
+    "LEARN MORE | BUY NOW San Antonio’s visit to South Florida, coming off an incredible run to the NBA Finals behind Victor Wembanyama and young guards Stephon Castle and Dylan Harper, could be the game of the season, while …"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "feature",
+   "key": "https://www.nba.com/heat/news/half-season-scouting-report-coup",
+   "url": "https://www.nba.com/heat/news/half-season-scouting-report-coup",
+   "canonical_url": "https://heat.com/news/half-season-scouting-report-coup",
+   "title": "Coup's Half-Season Scouting Report",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-10-19T19:12:10Z",
+   "tags": [],
+   "summary": "With a two-time MVP in Giannis Antetokounmpo ready to make his debut, a new era of Miami HEAT basketball is about to begin. And with every era, there is a story to tell – a story that changes, evolves and surprises with each passing month.",
+   "facts": [
+    "After kicking things off with the first chance to see Antetokounmpo in a HEAT jersey at Kaseya Center on October 8, you open the season with a revamped Minnesota side that acquired LaMelo Ball from Charlotte to pair with…",
+    "The Detroit Pistons were the No. 1 seed a year ago and showing no signs of slowing down, the Cleveland Cavaliers are coming off an Eastern Conference Finals appearance and the Philadelphia 76ers have one of the most fasc…",
+    "This league is not the same as last year, with a huge influx of talent coming from the draft, lottery reform pushing teams to be as competitive as possible and plenty of stars returning from injury.",
+    "Washington (AJ Dybantsa), Chicago (Caleb Wilson) and Memphis (Cam Boozer) all have extremely promising young players, Portland gets Damian Lillard back and Indiana returns Tyrese Haliburton to an NBA Finals roster from t…",
+    "Then you’ve got a return game for all former HEAT players when Milwaukee comes to town, incredibly tough defenses that can tests Miami’s offense in Toronto and Orlando, a fresh-look Boston team and of course the San Anto…",
+    "Dallas brings in Rookie of the Year Cooper Flagg to Miami as Kyrie Irving returns from injury, Sacramento (Darius Acuff), Brooklyn (Mikel Brown Jr.) and Utah (No. 2 pick Darryn Peterson) all feature dynamic, exciting you…",
+    "There’s no shortage of present-day stars here, either, with Haliburton returning to Indiana, Kevin Durant still playing at an extremely high level for Houston and potential MVP candidates in Cade Cunningham (Detroit), Lu…",
+    "Oklahoma City remains one of the best teams in the league with Shai Gilgeous-Alexander coming off back-to-back MVP’s, Charlotte, Atlanta and Orlando round out what could be the most competitive Southeast Division slate o…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "SAC 公式（nba.com）",
+   "team": "SAC",
+   "team_ja": "キングス",
+   "team_id": 1610612758,
+   "kind": "roster",
+   "key": "https://www.nba.com/kings/news/sacramento-kings-waive-adam-flagler",
+   "url": "https://www.nba.com/kings/news/sacramento-kings-waive-adam-flagler",
+   "canonical_url": "https://kings.com/news/sacramento-kings-waive-adam-flagler",
+   "title": "Sacramento Kings Waive Adam Flagler",
+   "author": "Offical Release",
+   "published_utc": "2026-10-19T19:02:40Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "The Sacramento Kings announced today that the team has waived Adam Flagler.",
+   "facts": [
+    "The Sacramento Kings announced today that the team has waived Adam Flagler.",
+    "The Kings roster now stands at 16, including two two-way players."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-will-try-to-carry-over-preseason-progress-to-82-game-schedule",
+   "url": "https://www.nba.com/pelicans/news/pelicans-will-try-to-carry-over-preseason-progress-to-82-game-schedule",
+   "canonical_url": "https://pelicans.com/news/pelicans-will-try-to-carry-over-preseason-progress-to-82-game-schedule",
+   "title": "Pelicans will try to carry over preseason progress to 82-game schedule",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-19T18:40:42Z",
+   "tags": [],
+   "summary": "Roughly a decade ago, after a pair of poor-shooting performances in preseason, then-New Orleans forward Ryan Anderson began fielding probing questions from local media members about his October “slump.” Clearly amused, the amiable Anderson interrupted, good-naturedly pointing out to reporters, “Guys, let’s be real here, when the regular season starts, none of you are going to remember what I did i…",
+   "facts": [
+    "While it’s true that NBA preseason events tend to vanish from the radar when the games start counting for real, the Pelicans would benefit greatly if they’re able to carry over several exhibition-slate developments into …",
+    "New Orleans finished 3-1 in preseason, the first time the Pelicans posted a winning exhibition record since October 2022, when they were 4-1.",
+    "Beyond delivering a plus-.500 mark – featuring victories over Oklahoma City, Dallas and Washington – here are a handful of areas that need to be maintained or built upon when the 2026-27 campaign officially tips off Wedn…",
+    "A top priority for new head coach Jamahl Mosley, New Orleans finished fourth among the 30 NBA teams in defensive efficiency during preseason, allowing just 104.0 points per 100 possessions, looking significantly more agg…",
+    "That disruptiveness showed up in multiple areas, including that the Pelicans ranked second in steals per game (13.3) and eighth in blocks per game (5.5).",
+    "Off the bench, Bryce McGowens managed to tally eight steals in just 46 minutes of playing time.",
+    "The Pelicans notched an overall rebounding percentage of 49.2, meaning they seized slightly less than half of all available boards, but relative to last season, that’s an improvement.",
+    "New Orleans was 28th in defensive rebounding in 2025-26 and 20th overall (aided greatly by being No. 8 in offensive boards)."
+   ],
+   "quotes": [
+    "Guys, let’s be real here, when the regular season starts, none of you are going to remember what I did in preseason!",
+    "We were guarding (defensively). I think that’s most important. It was great to really see us guarding, everybody on the floor.",
+    "undoubtedly the (team) MVP of the preseason."
+   ]
+  },
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "roster",
+   "key": "https://www.nba.com/thunder/news/release-wallace-extension-261019",
+   "url": "https://www.nba.com/thunder/news/release-wallace-extension-261019",
+   "canonical_url": "https://okcthunder.com/news/release-wallace-extension-261019",
+   "title": "Thunder Signs Cason Wallace to Multi-Year Contract Extension",
+   "author": "okcthunder",
+   "published_utc": "2026-10-19T18:17:15Z",
+   "tags": [
+    "Cason Wallace"
+   ],
+   "summary": "OKLAHOMA CITY, October 19, 2026 – The Oklahoma City Thunder has signed guard Cason Wallace to a multi-year contract extension, it was announced today by Executive Vice President and General Manager Sam Presti. Per team policy, terms of the agreement were not released.",
+   "facts": [
+    "OKLAHOMA CITY, October 19, 2026 – The Oklahoma City Thunder has signed guard Cason Wallace to a multi-year contract extension, it was announced today by Executive Vice President and General Manager Sam Presti.",
+    "Wallace appeared in 77 games (58 starts) during his 2025-26 campaign and averaged career-highs of 8.6 points, 2.6 assists and 1.95 steals (third in NBA), while adding 3.1 rebounds in 26.6 minutes per game.",
+    "His 150 total steals and 339 deflections this past season both ranked first in the NBA.",
+    "The fourth-year guard was named to the 2025-26 NBA All-Defensive Second Team and has helped lead the Thunder to consecutive seasons with the top defensive rating in the NBA.",
+    "The Dallas, Texas native averaged 8.6 points, 3.8 rebounds, 2.4 assists and 2.13 steals in 24.9 minutes per contest during the 2026 NBA Playoffs.",
+    "Over the course of 227 career games (114 starts), the Kentucky product has averaged 7.9 points on 46.3% shooting, including 37.4% from three-point range, to go along with 2.9 rebounds, 2.2 assists and 1.52 steals in 24.7…"
+   ],
+   "quotes": []
+  },
   {
    "source": "PHX 公式（nba.com）",
    "team": "PHX",
@@ -467,7 +774,7 @@
     "A nine-time All-Star, Irving won an NBA title with Cleveland in 2016, is one of the undisputed leaders of the Mavs, and has become very fond of May."
    ],
    "quotes": [
-    "I think we have a team that’s going to compete, I think we have a team that’s going to be extremely connected, and when our fans leave the building they’re going to be bigger fans because of how relat…",
+    "I think we have a team that’s going to compete, I think we have a team that’s going to be extremely connected, and when our fans leave the building, they’re going to be bigger fans because of how rela…",
     "I know we’re going to work like crazy to chase a championship and hang a banner in our building.",
     "The keys of winning are the same at every level — high school, college, NBA,",
     "And that will be the biggest adjustment for myself — just the amount of games and mental preparation and stamina that it’s going to take. But as far as one game or a seven-game series, you get better …"
@@ -1335,115 +1642,6 @@
     "I think it helps tremendously because when that team does turn the corner, it amplifies everything,",
     "We saw that in San Diego, too. We worked on everything we could control outside of what was happening on the diamond. And when we actually started to play competitive, winning baseball, it just amplif…"
    ]
-  },
-  {
-   "source": "MIL 公式（nba.com）",
-   "team": "MIL",
-   "team_ja": "バックス",
-   "team_id": 1610612749,
-   "kind": "feature",
-   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-reveal-full-slate-of-events-and-promotions-to-tip-off-2026-27-season",
-   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-reveal-full-slate-of-events-and-promotions-to-tip-off-2026-27-season",
-   "canonical_url": "https://bucks.com/news/milwaukee-bucks-reveal-full-slate-of-events-and-promotions-to-tip-off-2026-27-season",
-   "title": "Milwaukee Bucks Reveal Full Slate Of Events And Promotions To Tip Off 2026-27 Season",
-   "author": "Milwaukee Bucks",
-   "published_utc": "2026-10-16T21:30:00Z",
-   "tags": [],
-   "summary": "MILWAUKEE (Oct. 16, 2026) – The Milwaukee Bucks are counting down to their 2026-27 season opener with new events and promotions during Tipoff Week, which gets underway tomorrow.",
-   "facts": [
-    "MILWAUKEE (Oct. 16, 2026) – The Milwaukee Bucks are counting down to their 2026-27 season opener with new events and promotions during Tipoff Week, which gets underway tomorrow.",
-    "The Bucks will open the 2026-27 season on the road at the Washington Wizards on Wednesday, Oct. 21, before hosting the Chicago Bulls in their home opener on Friday, Oct. 23, at 3 p.m.",
-    "Tipoff Week Fans are encouraged to celebrate the start of the 2026-27 season by wearing their favorite Bucks jersey on Monday, Oct. 19, for NBA Jersey Day.",
-    "Fans are invited to celebrate Tipoff Week at a Tipoff Watch Party, presented by Michelob ULTRA, on Wednesday, Oct. 21, at Tom’s Watch Bar in Deer District ahead of the Bucks’ season opener at the Washington Wizards.",
-    "Fans can celebrate the next great era of Bucks basketball with appearances from Bucks Entertainment, giveaways, trivia and more beginning at 6 p.m.",
-    "The Bucks will play their home opener on Friday, Oct. 23, at 3 p.m. against the Chicago Bulls at Fiserv Forum.",
-    "The first 10,000 fans will receive a custom poster featuring the 2026-27 season schedule, marking the first in a series of three poster giveaways this season.",
-    "Starting on Saturday, Oct. 17, Bango’s Lemonade Stand will visit select Pick ‘n Save and Metro Market locations to provide samples of Calypso lemonade to shoppers with appearances from Bango and the 414 Crew."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "roster",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-waive-pat-connaughton",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-waive-pat-connaughton",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-waive-pat-connaughton",
-   "title": "Charlotte Hornets Waive Pat Connaughton",
-   "author": "Hornets PR",
-   "published_utc": "2026-10-16T20:43:03Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "October 16, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has waived guard Pat Connaughton.",
-   "facts": [
-    "October 16, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has waived guard Pat Connaughton.",
-    "Connaughton averaged 2.6 points and 1.5 rebounds per game across 42 outings with Charlotte last season after he was acquired in a trade with the Milwaukee Bucks on July 6, 2026.",
-    "The Notre Dame alumnus was selected as one of the 12 finalists for the Twyman-Stokes Teammate of the Year Award following last season.",
-    "Originally selected by the Portland Trail Blazers with the 41st overall pick in the 2015 NBA Draft, Connaughton holds career averages of 5.8 points, 3.3 rebounds and 1.3 assists in 18.4 minutes per game, making 637 appea…",
-    "The Arlington, Ma., native won an NBA Championship with the Bucks in 2021."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/warriors-fan-guide-october-2026",
-   "url": "https://www.nba.com/warriors/news/warriors-fan-guide-october-2026",
-   "canonical_url": "https://warriors.com/news/warriors-fan-guide-october-2026",
-   "title": "Warriors Fan Guide: October 2026",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-16T20:34:38Z",
-   "tags": [
-    "2026-27 Schedule"
-   ],
-   "summary": "The Warriors begin their 2026-27 regular season by facing the Lakers in Los Angeles on Wednesday, Oct. 21, then host the Memphis Grizzlies for their home opener on Friday, Oct. 23. Following the home opener, the Dubs take on a three-game road trip before returning to Chase Center on Friday, Oct. 30, for their NBA Cup opener against the Los Angeles Lakers, the beginning of a six-game home stand.",
-   "facts": [
-    "The Warriors begin their 2026-27 regular season by facing the Lakers in Los Angeles on Wednesday, Oct. 21, then host the Memphis Grizzlies for their home opener on Friday, Oct. 23.",
-    "Following the home opener, the Dubs take on a three-game road trip before returning to Chase Center on Friday, Oct. 30, for their NBA Cup opener against the Los Angeles Lakers, the beginning of a six-game home stand.",
-    "LOTTERY PICKS SQUARE OFF IN HOME OPENER After defeating the Memphis Grizzlies to win the 2026 Summer League championship, No. 11 pick Yaxel Lendeborg is slated to play his first regular-season home game against them and …",
-    "Boozer won Naismith Player of the Year for the 2026 collegiate season, the award given to the best college basketball player.",
-    "Lendeborg has particularly expressed being extra motivated for matchups against Boozer, and both players will be competing for the Rookie of the Year and an All-Rookie Team selection. »Buy Tickets FIRST NBA CUP GAME HOST…",
-    "Curry and Doncic are two of the league’s brightest stars, ranking first and second respectively in jersey sales during the 2025-26 season.",
-    "Curry was selected as an All-Star for the 12th time in his career, and Doncic led the NBA in scoring (33.5 PPG) en route to his sixth First-Team All-NBA nod.",
-    "Curry ranked first in that category, receiving 50% of the votes, while Doncic was tied for third at 10%."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "roster",
-   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-leonard-miller-showing-promising-signs-other-preseason-thoughts",
-   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-leonard-miller-showing-promising-signs-other-preseason-thoughts",
-   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-leonard-miller-showing-promising-signs-other-preseason-thoughts",
-   "title": "Ask Sam Mailbag: Leonard Miller showing promising signs & other Preseason thoughts",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-16T18:38:13Z",
-   "tags": [
-    "Ask Sam mailbag",
-    "Sam Smith"
-   ],
-   "summary": "Guy Danilowitz: What are the odds Leonard Miller gets a well-deserved rotation spot to start the season? Or will he have to wait for an injury? I suppose given Claxton and Collins’ poor health that may be a moot point. Are they trying to get him an extension? Lock him up to a team friendly deal fair for him.",
-   "facts": [
-    "Or will he have to wait for an injury?",
-    "Are they trying to get him an extension?",
-    "Like when his Warriors beat the favored Jazz in a 90s playoff series using more mobile players like one time Bulls 6-foot-7 Rod Higgins starting against giant 7-foot-3 Mark Eaton.",
-    "Players like Brunson, Cunningham, Brown and now Tatum, Harden or Mitchell, Gilgeous-Alexander, Curry, Cooper Flagg, Jokić, and I now I see Orlando looking better doing so with 6--foot-9 Franz Wagner playing a point guard…",
-    "Not that Pippen was a major one, but once he took the ball with the proviso Jordan was the finisher, Pippen averaged about 20 per game and became a competent three-point threat.",
-    "And then when he returns Nic Claxton, an athletic five, works in with the Wilson/Buzelis/Miller speed, transition starting group with Powell as a closer for now until Wilson is truly ready.",
-    "Smith to 76ers for Labaron Philon, who they hardly need with their guards?",
-    "And the Bulls are hardly with this roster spending huge on by next year a 32-year-old big who prefers shooting threes."
-   ],
-   "quotes": []
   }
  ]
 }
