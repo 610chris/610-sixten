@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "524-durant-ishbia-suns-tenure-feud.html",
+    cat: "NBA",
+    title: "デュラント「俺のせいにするのか」—— サンズ時代の総括めぐりイシュビア会長と舌戦",
+    excerpt: "ヒューストン・ロケッツのケビン・デュラントは17日(現地時間)、フェニックス・サンズ在籍時代の総括をめぐり、サンズのオーナー、マット・イシュビアとSNS上で言い合いになった。イシュビアがCNBC Sportの番組でデュラント獲得を「学び」と振り返ったことに対し、デュラントは「#blameKD」とXで反論。イシュビアも「責めてはいない」と応じた。",
+    date: "2026.10.20",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "523-air-force-1-nightmare.html",
     cat: "KICKS",
     title: "Nike Air Force 1 '01「Nightmare」が登場 —— ブラックにジムレッドを効かせたハロウィン仕様の新色",
