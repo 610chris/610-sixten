@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "521-joshu-rydeen-home-game-physioflex.html",
+    cat: "JAPAN",
+    title: "JOSHU RYDEEN、11月7日に群馬県太田市でホームゲームを開催 —— 女子3x3の熱戦に車いすバスケ体験も",
+    excerpt: "群馬県太田市を拠点とする女子3x3バスケットボールチーム「JOSHU RYDEEN(上州ライディーン)」は、2026年11月7日(土)、太田市運動公園市民体育館で開催される「TOMOEYA Presents RBL WOMEN AUTUMN TOUR -PHYSIOFLEX GAME-」にホストチームとして出場する。当日は一般社団法人ぐんま車いすスポーツによる車いすバスケットボール体験・エキシビションゲームや、「リトル清原ものまね野球団」によるスペシャルショーも実施される。入場無料。",
+    date: "2026.10.19",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "520-cason-wallace-thunder-extension.html",
     cat: "NBA",
     title: "サンダー、ケイソン・ウォーレスと5年1億3900万ドルの契約延長に合意 —— ルーキー延長期限の前日に決着",
