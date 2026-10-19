@@ -1019,7 +1019,19 @@
       "held_reason": "",
       "article_url": "https://sixten.jp/journal/531-paul-george-celtics-offense.html",
       "created_utc": "2026-10-19T23:00:11Z"
+    },
+    {
+      "key": "https://www.reddit.com/r/nba/comments/1xa8skk/charania_the_milwaukee_bucks_have_waived_guard/",
+      "reporter": "ShamsCharania",
+      "posted_utc": "2026-10-19T20:54:42+00:00",
+      "level": 1,
+      "text": "",
+      "photo_subject": "Kevin Porter Jr.",
+      "status": "held",
+      "held_reason": "辞書に無い: Kevin Porter Jr.（Wikipediaに届かない・exit 3）",
+      "article_url": "",
+      "created_utc": "2026-10-19T23:06:21Z"
     }
   ],
-  "updated_utc": "2026-10-19T23:00:11Z"
+  "updated_utc": "2026-10-19T23:06:21Z"
 }
