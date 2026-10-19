@@ -3488,6 +3488,33 @@
   "template": "news",
   "timestamp": "2026-09-30T14:11:47+0000"
  },
+ "18108969740225222": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "518",
+  "auto": true,
+  "caption_len": 317,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンズ、イゴダロと3年29M$で延長合意",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dep393nDHm2/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）のXポスト",
+  "subject": [
+   "Oso Ighodaro"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-18T23:34:55+0000"
+ },
  "18109280315144730": {
   "article": "333",
   "auto": true,
@@ -3556,6 +3583,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-05T23:14:49+0000"
+ },
+ "18110738405461496": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "517",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ベン・シモンズがアキレス腱断裂 —— 今季絶望",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/Dep0HlUAHPj/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「NBA preseason buzz: Latest on trades, news and intel」",
+  "subject": [
+   "Ben Simmons"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-18T23:01:08+0000"
  },
  "18110990987522272": {
   "article": "331",
