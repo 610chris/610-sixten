@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sixten.jp/</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-10-18</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/</loc><lastmod>2026-10-19</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-10-19</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
   <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-10-18</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-10-17</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sixten.jp/journal/520-cason-wallace-thunder-extension.html</loc><lastmod>2026-10-19T12:01:53+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/519-yokohama-excellence-gifu-sweep.html</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/518-oso-ighodaro-suns-extension.html</loc><lastmod>2026-10-18</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/517-ben-simmons-torn-achilles-kings.html</loc><lastmod>2026-10-19T08:38:00+09:00</lastmod><priority>0.8</priority></url>

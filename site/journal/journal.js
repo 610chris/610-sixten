@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "520-cason-wallace-thunder-extension.html",
+    cat: "NBA",
+    title: "サンダー、ケイソン・ウォーレスと5年1億3900万ドルの契約延長に合意 —— ルーキー延長期限の前日に決着",
+    excerpt: "オクラホマシティ・サンダーは、オールディフェンス経験を持つガードのケイソン・ウォーレスと5年1億3900万ドルのルーキー契約延長に合意した。ESPNのシャムズ・シャラニア記者が現地時間10月18日、代理人の話として伝えた。合意はルーキー延長の申請期限(現地時間10月19日午後6時)の前日というタイミングになった。",
+    date: "2026.10.19",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "519-yokohama-excellence-gifu-sweep.html",
     cat: "JAPAN",
     title: "横浜エクセレンス、岐阜スゥープスに連勝 —— B.LEAGUE ONE第5節、長谷川比源がタラ負傷離脱の穴を埋める",
