@@ -1,8 +1,30 @@
 {
- "updated_utc": "2026-10-19 00:26 UTC",
+ "updated_utc": "2026-10-19 05:14 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "SAC 公式（nba.com）",
+   "team": "SAC",
+   "team_ja": "キングス",
+   "team_id": 1610612758,
+   "kind": "injury",
+   "key": "https://www.nba.com/kings/news/ben-simmons-medical-update",
+   "url": "https://www.nba.com/kings/news/ben-simmons-medical-update",
+   "canonical_url": "https://kings.com/news/ben-simmons-medical-update",
+   "title": "Ben Simmons Medical Update",
+   "author": "Offical Release",
+   "published_utc": "2026-10-19T02:13:56Z",
+   "tags": [
+    "Medical Update"
+   ],
+   "summary": "Sacramento Kings guard Ben Simmons was injured during a live drill in practice on Sunday, Oct. 18. An MRI revealed a torn right Achilles tendon. Simmons will undergo surgery. Further updates will be provided as appropriate.",
+   "facts": [
+    "Sacramento Kings guard Ben Simmons was injured during a live drill in practice on Sunday, Oct. 18.",
+    "Simmons will undergo surgery."
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -1270,66 +1292,6 @@
     "A native of Ajax, Ontario, Celestine appeared in two games with the Raptors at 2026 NBA Summer League in Las Vegas."
    ],
    "quotes": []
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "roster",
-   "key": "https://www.nba.com/heat/news/heat-sign-ezra-ausar",
-   "url": "https://www.nba.com/heat/news/heat-sign-ezra-ausar",
-   "canonical_url": "https://heat.com/news/heat-sign-ezra-ausar",
-   "title": "HEAT SIGN EZRA AUSAR",
-   "author": "Miami HEAT",
-   "published_utc": "2026-10-16T02:15:00Z",
-   "tags": [
-    "Trending"
-   ],
-   "summary": "Your Miami HEAT announced today that they have signed forward/center Ezra Ausar and waived Ian Schieffelin. Per club policy, terms of the deal were not disclosed.",
-   "facts": [
-    "Your Miami HEAT announced today that they have signed forward/center Ezra Ausar and waived Ian Schieffelin.",
-    "Ausar appeared in three Summer League games with Miami and averaged 7.0 points, 4.7 rebounds and 1.00 steals while shooting 63.6 percent from the field.",
-    "He started in all 32 games at USC last season and averaged 14.8 points, 6.5 rebounds, 1.7 assists, 1.00 steals and 29.9 minutes while shooting 58.3 percent from the field.",
-    "Schieffelin appeared in three preseason games with the HEAT and averaged 7.7 points, 4.0 rebounds, 1.0 assists and 14.7 minutes.",
-    "He also appeared in five Summer League games with Miami and averaged 8.4 points and 3.6 rebounds."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-hawks-preview-marcus-sasser-ready-to-play-for-mavs-for-the-first-time",
-   "url": "https://www.nba.com/mavs/news/mavericks-hawks-preview-marcus-sasser-ready-to-play-for-mavs-for-the-first-time",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-hawks-preview-marcus-sasser-ready-to-play-for-mavs-for-the-first-time",
-   "title": "Mavericks-Hawks preview: Marcus Sasser ready for his Dallas debut",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-16T00:39:30Z",
-   "tags": [
-    "dallas mavericks",
-    "Marcus Sasser",
-    "nba"
-   ],
-   "summary": "With several family members and friends expected to be in attendance, Marcus Sasser will make his Dallas Mavericks' debut on Friday night at American Airlines Center when his team plays host to the Atlanta Hawks.",
-   "facts": [
-    "With several family members and friends expected to be in attendance, Marcus Sasser will make his Dallas Mavericks' debut on Friday night at American Airlines Center when his team plays host to the Atlanta Hawks.",
-    "The Mavs acquired Sasser from the Detroit Pistons on July 8 in a six-team trade.",
-    "The 6-1, 195-pound guard unfortunately missed the Mavs’ first three preseason games with left adductor tightness after he slipped during one of the team's practice sessions.",
-    "He was the Player of the Year in the American Athletic Conference in 2023 and also was a consensus first-team All-American that year.",
-    "The Memphis Grizzles selected Sasser with the No. 25th overall pick on the first round of the 2023 NBA Draft.",
-    "But on draft night they traded him to the Boston Celtics who — also on that same draft night — traded him to the Pistons.",
-    "In 166 games for the Pistons, Sasser averaged seven points and 2.7 assists in 15.8 minutes per game.",
-    "He is eager to show Mavs fans what he brings to the table and how he can become a difference-maker on a team looking to advance to the playoffs for the first time since reaching the 2024 NBA Finals."
-   ],
-   "quotes": [
-    "It’s been up and down, but overall it’s been good,",
-    "My mama and family are really excited to see me out there. I’m going to have a good crowd out there for sure.",
-    "Just the intensity that I bring, the energy, the dog mentality,",
-    "On the defensive side changing the game, pushing the pace and being able to space the floor (and) play-make. Just being me."
-   ]
   }
  ]
 }
