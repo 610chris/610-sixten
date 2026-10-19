@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "523-air-force-1-nightmare.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 '01「Nightmare」が登場 —— ブラックにジムレッドを効かせたハロウィン仕様の新色",
+    excerpt: "ナイキは、「Air Force 1 '01」の新色「Nightmare」を発表した。ブラックレザーのアッパーに並ぶピンの間からジムレッドのディテールが覗く配色で、ミッドソール・アウトソールもブラックで統一している。発売日・価格は本稿執筆時点で明らかになっていない。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.10.19",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "522-air-jordan-12-fireside.html",
+    cat: "KICKS",
+    title: "Air Jordan 12「Fireside」が登場 —— ライトオールウッドブラウンにカカオワオを効かせた新色、品番CT8013-105",
+    excerpt: "ジョーダン ブランドは、「Air Jordan 12」の新色「Fireside」を発表した。ライトオールウッドブラウンのアッパーにカカオワオのオーバーレイを合わせ、放射状のステッチでオリジナルモデルのブザービーターを想起させるディテールを加えている。品番はCT8013-105（Nice Kicksが確認）で、2026年10月発売。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.10.19",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "521-joshu-rydeen-home-game-physioflex.html",
     cat: "JAPAN",
     title: "JOSHU RYDEEN、11月7日に群馬県太田市でホームゲームを開催 —— 女子3x3の熱戦に車いすバスケ体験も",
