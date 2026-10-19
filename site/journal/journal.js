@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "519-yokohama-excellence-gifu-sweep.html",
+    cat: "JAPAN",
+    title: "横浜エクセレンス、岐阜スゥープスに連勝 —— B.LEAGUE ONE第5節、長谷川比源がタラ負傷離脱の穴を埋める",
+    excerpt: "横浜エクセレンスはB.LEAGUE ONE 2026-27シーズン第5節のホーム開幕節で岐阜スゥープスと対戦し、96-86、111-67で連勝した。クーリバリ セリンムルタラが負傷離脱する中、横浜出身の長谷川比源がBリーグ入り2回目のダブルダブルで穴を埋めた。次回ホームは10月31日・11月1日の新潟アルビレックスBB戦。",
+    date: "2026.10.18",
+    thumb: "../assets/journal-519-hero.jpg?v=78387e9fef"
+  },
+  {
     href: "518-oso-ighodaro-suns-extension.html",
     cat: "NBA",
     title: "サンズ、オソ・イゴダロと3年2900万ドルの契約延長に合意 —— 2030-31シーズンまで確保",
