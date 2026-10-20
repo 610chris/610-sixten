@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "543-dybantsa-ankle-season-opener.html",
+    cat: "NBA",
+    title: "ウィザーズ1位指名ダイバンツァ、開幕戦を欠場 —— 左足首ねんざでプレシーズン終盤に負傷",
+    excerpt: "ワシントン・ウィザーズは現地時間10月21日、2026年ドラフト全体1位指名のAJ・ダイバンツァが左足首の負傷で開幕戦を欠場すると発表した。プレシーズン最終戦で負傷しブライアン・キーフHCが明らかにした。ESPNが報じた。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "542-spurs-wembanyama-finals-return.html",
     cat: "NBA",
     title: "スパーズ、ファイナル敗退の悔しさを糧に —— ウェンバンヤマ「保証されたものは何もない」で迎える新シーズン",
