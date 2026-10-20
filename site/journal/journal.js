@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "538-landry-shamet-serious-player-only.html",
+    cat: "KICKS",
+    title: "NBAガードのランドリー・シャメット、新興ブランド「Serious Player Only」とシューズ契約",
+    excerpt: "NBAガードのランドリー・シャメット(Landry Shamet)は、複数のシューズブランドを試した末に、新興ブランド「Serious Player Only」と複数年契約を結んだ。取り外し可能なインソールでクッションの量を調整できる点を評価しているという。Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.20",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "537-kobe-3-low-protro-jalen-brunson-pe.html",
+    cat: "KICKS",
+    title: "Nike Kobe 3 Low Protro「Jalen Brunson」PEが発売 —— ニックス優勝リング授与・バナー掲揚の夜にフットロッカー「Rings-N-Things」で",
+    excerpt: "ナイキは、ニューヨーク・ニックスのジェイレン・ブランソン(Jalen Brunson)によるプレーヤーエクスクルーシブ「Kobe 3 Low Protro」を、ニックスの優勝リング授与式とバナー掲揚に合わせ、現地時間10月20日にフットロッカーのポップアップ「Rings-N-Things」で発売した。Sneaker Newsが伝えた。",
+    date: "2026.10.20",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "536-lebron-msg-legacy-76ers-opener.html",
     cat: "NBA",
     title: "レブロン、76ers移籍後初のMSGへ —— ニックス優勝バナーの夜、キャリア通算28勝11敗の「聖地」で新章",
