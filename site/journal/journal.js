@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "536-lebron-msg-legacy-76ers-opener.html",
+    cat: "NBA",
+    title: "レブロン、76ers移籍後初のMSGへ —— ニックス優勝バナーの夜、キャリア通算28勝11敗の「聖地」で新章",
+    excerpt: "フィラデルフィア・76ersのレブロン・ジェームズ(LeBron James)は現地時間10月20日、ニューヨーク・ニックスの優勝バナー掲揚試合でマディソン・スクエア・ガーデンに登場する。プレーオフを含め同アリーナで通算28勝11敗、平均28得点7リバウンド7アシストを記録してきたジェームズにとって、76ers移籍後初めてとなるバスケの聖地でのプレーだ。ESPNのブライアン・ウィンドホースト記者が分析した。",
+    date: "2026.10.20",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "535-nike-kobe-dunk-low-protro-mamba-eterno.html",
     cat: "KICKS",
     title: "Nike Kobe Dunk Low Protro「Mamba Eterno」が10月30日発売 —— 品番IQ3922-001、Air Force 1 Lowも同コレクションに合流",
