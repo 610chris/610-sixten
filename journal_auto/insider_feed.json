@@ -1,7 +1,18 @@
 {
- "updated_utc": "2026-10-20 06:37 UTC",
+ "updated_utc": "2026-10-20 20:16 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xazbm8/charania_lebron_james_and_joel_embiid_are/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-20T18:01:09+00:00",
+   "text": "LeBron James and Joel Embiid are expected to be limited to 30 minutes per game for “the first few weeks of the season.”",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xazbm8/charania_lebron_james_and_joel_embiid_are/",
+   "links": []
+  },
   {
    "reporter": "Michael Scotto（HoopsHype）",
    "handle": "MikeAScotto",
@@ -102,112 +113,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1xa7sqt/macmahon_charlotte_just_didnt_believe_in_lamelo/",
    "links": [
     "https://basketnews.com/news-257513-true-reason-why-hornets-traded-lamelo-ball-emerges.html"
-   ]
-  },
-  {
-   "reporter": "Jake Fischer（The Stein Line）",
-   "handle": "JakeLFischer",
-   "key": "https://www.reddit.com/r/nba/comments/1xa1kkz/fischer_a_name_ive_heard_the_kings_have_called/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T16:29:04+00:00",
-   "text": "The Kings are considering point guard reinforcements, sources say, after the sudden loss of Ben Simmons to a season-ending Achilles tear during practice on Sunday.\n\nAnother name I've heard the Kings have called about acquiring before today's roster cut-down deadline: Milwaukee guard Kevin Porter Jr.\n\nhttps://marcstein.substack.com/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xa1kkz/fischer_a_name_ive_heard_the_kings_have_called/",
-   "links": [
-    "https://marcstein.substack.com/"
-   ]
-  },
-  {
-   "reporter": "Brian Windhorst（ESPN）",
-   "handle": "WindhorstESPN",
-   "key": "https://www.reddit.com/r/nba/comments/1xa0vlo/windhorst_knueppel_miller_and_role_players_such/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T16:02:52+00:00",
-   "text": "From the ESPN season preview\n\nGrayson Allen did not play for the Hornets. Although this is a very minor slip-up, it’s an example of how the talking heads who spend several hours on air plus whatever written stuff they put out simply can’t closely follow the NBA and instead have to box score watch. Or in this case have an idea of who the Hornets were and look at their basketball reference page to pretend to understand them on some deeper level than the average fan.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xa0vlo/windhorst_knueppel_miller_and_role_players_such/",
-   "links": [
-    "https://www.espn.com/nba/story/_/id/49998634/2026-27-nba-season-preview-rankings-predictions"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1x9ybe4/charania_the_dallas_mavericks_are_waiving_veteran/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T14:25:29+00:00",
-   "text": "The Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9ybe4/charania_the_dallas_mavericks_are_waiving_veteran/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1x9yaz0/charania_the_dallas_mavericks_are_waiving_veteran/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T14:25:00+00:00",
-   "text": "Shams Charania:\n\nThe Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.\n\nThe Dallas Mavericks are waiving veteran center Dwight Powell, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9yaz0/charania_the_dallas_mavericks_are_waiving_veteran/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania"
-   ]
-  },
-  {
-   "reporter": "Marc Stein（The Stein Line）",
-   "handle": "TheSteinLine",
-   "key": "https://www.reddit.com/r/nba/comments/1x9t3nj/stein_brandon_miller_could_be_the_next_player_to/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T10:19:34+00:00",
-   "text": "Brandon Miller is projected to be next in line to receive a new rookie-scale contract in the NBA.\n\nAccording to NBA insider Marc Stein, Miller is a \"top contender\" for a potential rookie extension ahead of Monday's deadline.\n\n\"League sources continue to pinpoint Charlotte's Brandon Miller as the top contender to join a club that, to this point, features only Wallace, San Antonio's Victor Wembanyama, Utah's Keyonte George, Golden State's Brandin Podziemski and twins Amen Thompson (Houston) and Ausar Thompson (Detroit),\" Stein wrote.\n\nThe No. 2 pick of the 2023 NBA Draft, Brandon Miller is currently eligible for a rookie-scale contract extension with the Charlotte Hornets.\n\nHe can land a new deal worth up to a maximum of $275 million over five years. Previously, it was revealed that Miller is seeking at least near these figures in his new Charlotte deal.\n\nMiller averaged 20.2 points, 4.9 rebounds, and 3.3 assists per game for the Hornets during the 2025-26 regular season. He and Kon Knueppel are expected to lead Charlotte's new era following the offseason trade of LaMelo Ball to the Minnesota Timberwolves.\n\nThe NBA rookie scale extension deadline hits at exactly 5:00 PM CT on Monday.\n\nSource: https://basketnews.com/news-257632-brandon-miller-gets-positive-update-on-potential-new-hornets-contract.html",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9t3nj/stein_brandon_miller_could_be_the_next_player_to/",
-   "links": [
-    "https://basketnews.com/news-257632-brandon-miller-gets-positive-update-on-potential-new-hornets-contract.html"
-   ]
-  },
-  {
-   "reporter": "Marc Stein（The Stein Line）",
-   "handle": "TheSteinLine",
-   "key": "https://www.reddit.com/r/nba/comments/1x9mjrq/stein_the_magic_and_anthony_black_are_not/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T03:41:24+00:00",
-   "text": "As The Stein Line first reported last Sunday, however, Orlando's Anthony Black is not expected to join that group after scant discussion between the sides to this point. The Magic remain big fans of the 22-year-old and don't want to trade him, league sources say, but Orlando also knows that its payroll can't withstand another pricey long-term deal with Paolo Banchero, Franz Wagner, Jalen Suggs and Desmond Bane all on long-term pacts and each of them making between $32.4 million (Suggs) and $41.8 million (Wagner) this season.\n\nWhich means Orlando might feel as though it's wisest to let Black go to restricted free agency next summer to give itself more time to map out how it wants to proceed with its main fivesome.\n\n\"This team will not be able to maintain this level of continuity next season,” Magic president of basketball operations Jeff Weltman said on Media Day on Sept. 28. “How that looks I don't know. We're all going to find out together.\"\n\nRegarding Black's potential extension specifically, Weltman added: \"You guys know that we're in a lot tighter quarters [financially] than we've been in years past. … We expect Anthony to have a great year. [Deals] don't always get done right now. Sometimes they get done later, so we'll see.\"\n\nhttps://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?r=1m9zg&utm\\_medium=ios",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9mjrq/stein_the_magic_and_anthony_black_are_not/",
-   "links": [
-    "https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?r=1m9zg&amp;utm%5C_medium=ios",
-    "https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?r=1m9zg&amp;utm\\_medium=ios"
-   ]
-  },
-  {
-   "reporter": "Marc Stein（The Stein Line）",
-   "handle": "TheSteinLine",
-   "key": "https://www.reddit.com/r/nba/comments/1x9mh1c/stein_theres_a_growing_expectation_among_rival/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T03:37:19+00:00",
-   "text": "Source: https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?r=nuq3a&utm\\_medium=ios\n\nThe Mavericks must finally decide on whether to keep or waive Mavs lifer Dwight Powell.\n\nRetaining Powell — barring a trade that creates some additional roster flexibility for Dallas — would necessitate the release of one Maverick holding a guaranteed contract. There's a growing expectation among rival teams that Moussa Cissé is the Dallas player in the greatest jeopardy.\n\nThe Stein Line has learned, however, that Cissé is a real candidate to be claimed off waived in the event he is let go. Chicago, sources say, has interest in the high-energy big man. I'm told Atlanta also has interest even though the Hawks don't currently have an open standard spot.\n\nIf Cissé were to be waived Monday and then clear waivers Wednesday, I'm also told that the 76ers and Lakers would have strong interest in signing him to a two-way deal even though neither team currently has a two-way opening. As we confirmed below Saturday, Cissé is not eligible to sign a two-way with Dallas if the Mavericks waive him and he clears waivers. The Mavericks matched a two-year, $4.7 million offer sheet from the Knicks in July to retain Cisse in restricted free agency. He would only be allowed to rejoin the Mavericks on a two-way in such circumstances if he had $91,000 or less in guaranteed money left on his contract.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9mh1c/stein_theres_a_growing_expectation_among_rival/",
-   "links": [
-    "https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?r=nuq3a&amp;utm%5C_medium=ios",
-    "https://marcstein.substack.com/p/more-of-the-latest-late-night-nba-a2b?r=nuq3a&amp;utm\\_medium=ios"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1x9l9dk/charania_just_in_oklahoma_city_thunder/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-19T02:32:23+00:00",
-   "text": "Shams Charania:\n\nJust in: Oklahoma City Thunder All-Defensive guard Cason Wallace has agreed to a five-year, $139 million rookie-scale contract extension, agents Jeff Schwartz, Max Lipsett and Marcus Monk of Excel Sports Management tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9l9dk/charania_just_in_oklahoma_city_thunder/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania"
    ]
   }
  ]
