@@ -289,6 +289,33 @@
   "template": "news",
   "timestamp": "2026-10-03T02:32:20+0000"
  },
+ "17902879224669795": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "531",
+  "auto": true,
+  "caption_len": 405,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポール・ジョージ「美しい挑戦」—— セルティックスの新オフェンスに適応中",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DesZa8clR4_/",
+  "product": "REELS",
+  "route": "library",
+  "source": "セルティックス公式サイト（nba.com/celtics）",
+  "subject": [
+   "Paul George"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T23:05:33+0000"
+ },
  "17903822925565509": {
   "article": "299",
   "auto": true,
@@ -571,6 +598,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-15T03:03:35+0000"
+ },
+ "17920393902244036": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "533",
+  "auto": true,
+  "caption_len": 348,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウルブズ、マクダニエルズと1年4000万ドルで延長合意",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dess0d8ggq1/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）のXポスト",
+  "subject": [
+   "Jaden McDaniels"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T01:55:18+0000"
  },
  "17920447215443658": {
   "arms": {
@@ -2104,6 +2158,60 @@
   "template": "news",
   "timestamp": "2026-10-08T04:09:15+0000"
  },
+ "18033467489907340": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "525",
+  "auto": true,
+  "caption_len": 313,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "マブス、ドワイト・パウエルを解雇 —— 12年の在籍に幕",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DesSi70ASJB/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（Associated Press）",
+  "subject": [
+   "Dwight Powell"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T22:05:38+0000"
+ },
+ "18034017836855201": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "529",
+  "auto": true,
+  "caption_len": 405,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レイカーズがダルトン・クネクトをウェーバー公示",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DesTpiujmhb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Lakers waive former first-round pick Dalton Knecht」",
+  "subject": [
+   "Dalton Knecht"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T22:15:08+0000"
+ },
  "18039122726845085": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -2180,6 +2288,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T03:11:48+0000"
+ },
+ "18045512462819493": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "524",
+  "auto": true,
+  "caption_len": 450,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "デュラント「俺のせいにするのか」—— イシュビア会長とサンズ時代で舌戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DerpIARD9bA/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Durant, Ishbia go back and forth over framing of Suns tenure」",
+  "subject": [
+   "Kevin Durant"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T16:03:39+0000"
  },
  "18051457276331512": {
   "auto": false,
@@ -2852,6 +2987,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-10T01:04:07+0000"
+ },
+ "18092810045661146": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "527",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランドン・ミラー、ホーネッツと5年209Mで延長合意",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DesS8B3leFX/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）",
+  "subject": [
+   "Brandon Miller"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T22:09:05+0000"
  },
  "18093380651346856": {
   "article": "347",
@@ -4283,6 +4445,33 @@
   "template": "news",
   "timestamp": "2026-10-03T00:50:11+0000"
  },
+ "18126027287481720": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "520",
+  "auto": true,
+  "caption_len": 355,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、ケイソン・ウォーレスと5年1.39億ドルで契約延長",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeqQDYQFFFE/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）のXポスト",
+  "subject": [
+   "Cason Wallace"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T03:05:23+0000"
+ },
  "18126545977850874": {
   "article": "275",
   "auto": true,
@@ -4677,6 +4866,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-12T04:11:01+0000"
+ },
+ "18138795754651008": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "532",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バックスがケビン・ポーター・ジュニアをウェーバー公示",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DesavhJjs6F/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（シャムズ・シャラニア記者のXポスト）",
+  "subject": [
+   "Kevin Porter Jr."
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T23:17:16+0000"
  },
  "18139234936621639": {
   "article": "337",
@@ -5452,6 +5668,33 @@
   "template": "news",
   "timestamp": "2026-10-10T12:56:46+0000"
  },
+ "18228211174326435": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "530",
+  "auto": true,
+  "caption_len": 356,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "76ers、VJ・エッジコムの3年目オプションを行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DesZOlGjA7z/",
+  "product": "REELS",
+  "route": "library",
+  "source": "76ers公式サイト（nba.com/sixers）",
+  "subject": [
+   "VJ Edgecombe"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T23:04:02+0000"
+ },
  "18235490149098791": {
   "auto": false,
   "caption_len": 85,
@@ -5789,6 +6032,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T13:02:34+0000"
+ },
+ "18436617688178881": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "526",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "カリー、右足首負傷も開幕戦出場へ",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DesSu7Ak_Cl/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Warriors expect Curry (ankle) to play in opener vs. Lakers」（Anthony Slater記者）",
+  "subject": [
+   "Stephen Curry"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-19T22:07:17+0000"
  },
  "18447959788123751": {
   "article": "273",
