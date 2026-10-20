@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "550-kobe-6-protro-brunson-ring-night.html",
+    cat: "KICKS",
+    title: "Nike Kobe 6 Protro「オールゴールド」のブランソンPE —— ニックス優勝リング授与式で着用",
+    excerpt: "ニューヨーク・ニックスのジェイレン・ブランソンに、オールゴールドの「Nike Kobe 6 Protro」プレーヤーエクスクルーシブ(PE)が用意された。現地時間10月20日にマディソン・スクエア・ガーデンで行われた優勝リング授与式・バナー掲揚の夜に合わせたもので、チームの優勝記念ユニフォームと色を揃えている。Sneaker Bar Detroit・Sneaker Newsが伝えた。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "549-paul-george-38-points-pistons.html",
     cat: "NBA",
     title: "ポール・ジョージ、ピストンズ戦で38得点 —— セルティックスは113-121で敗戦",
