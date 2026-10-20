@@ -1,8 +1,251 @@
 {
- "updated_utc": "2026-10-20 17:29 UTC",
+ "updated_utc": "2026-10-20 20:49 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261021",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261021",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261021",
+   "title": "Game Preview: Warriors at Lakers - 10/21/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-20T20:08:17Z",
+   "tags": [
+    "Game Preview"
+   ],
+   "summary": "WARRIORS VISIT LAKERS FOR SEASON OPENER ON WEDNESDAY The Warriors tip off their 2026-27 NBA season in Los Angeles on Wednesday, taking on Luka Doncic and the Lakers. Doncic led the league in scoring (33.5 PPG) in the 2025-26 season, but his supporting cast has been revamped after several starters signed elsewhere in free agency, including 22-time All-Star LeBron James (Philadelphia 76ers). Los Ang…",
+   "facts": [
+    "WARRIORS VISIT LAKERS FOR SEASON OPENER ON WEDNESDAY The Warriors tip off their 2026-27 NBA season in Los Angeles on Wednesday, taking on Luka Doncic and the Lakers.",
+    "Doncic led the league in scoring (33.5 PPG) in the 2025-26 season, but his supporting cast has been revamped after several starters signed elsewhere in free agency, including 22-time All-Star LeBron James (Philadelphia 7…",
+    "Reaves averaged 23.3 points and 5.5 assists in the 2025-26 season and the Lakers won 50+ games for the second consecutive season of Head Coach JJ Redick's tenure.",
+    "Lakers Key Additions: Walker Kessler (from Utah Jazz), Collin Sexton (from Chicago Bulls), Quinten Grimes (from Philadelphia 76ers), Sandro Mamukelashvili (from Toronto Raptors), Cameron Carr (from Baylor) Lakers Notable…",
+    "Golden State begins the year without Jimmy Butler III (ACL) and Moses Moody (ruptured left patellar tendon), who suffered injuries last season, and Kristaps Porziņģis missed all of the preseason with a health related mat…",
+    "However, the NBA's longest-tenured duo — Stephen Curry and Draymond Green — still lead the way as Curry enters his 18th season and Green begins Year 15.",
+    "INJURY & ROSTER NOTES GSW: TBD.",
+    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2025-26 season."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-seeking-relevance-as-season-two-of-the-coop-show-begins",
+   "url": "https://www.nba.com/mavs/news/mavericks-seeking-relevance-as-season-two-of-the-coop-show-begins",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-seeking-relevance-as-season-two-of-the-coop-show-begins",
+   "title": "Mavericks seeking relevance as season two of the Coop Show begins",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-20T20:07:43Z",
+   "tags": [],
+   "summary": "Maverick fans justifiably have a strong level of anticipation for a new season with new coach Dusty May, a new lottery pick in Morez Johnson Jr. and the return of future hall of famer Kyrie Irving.",
+   "facts": [
+    "Maverick fans justifiably have a strong level of anticipation for a new season with new coach Dusty May, a new lottery pick in Morez Johnson Jr. and the return of future hall of famer Kyrie Irving.",
+    "He put on about 20 pounds of muscle.",
+    "He shot 29.5 percent from beyond the arc as a rookie.",
+    "May was asked how much of practice zeroed in on Houston Tuesday and he said 80-to-85 percent of what the Mavericks did still was about addressing issues with themselves.",
+    "But that’s down from 90-to-95 percent previously."
+   ],
+   "quotes": [
+    "Our culture here is something we’ve been talking a lot about this offseason,",
+    "I’m just looking forward to changing the narrative and flipping the script back the right way. It’s not going to be easy. We have to take it.",
+    "Hopefully it’s the start of something special,",
+    "But Masai (Ujiri, the Mavericks’ first-year president) has shown he’s been a winner in this league and he knows how to build teams. We’ll see where the journey goes in the next couple years, but it sh…"
+   ]
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "roster",
+   "key": "https://www.nba.com/timberwolves/news/timberwolves-sign-jaden-mcdaniels-to-contract-extension",
+   "url": "https://www.nba.com/timberwolves/news/timberwolves-sign-jaden-mcdaniels-to-contract-extension",
+   "canonical_url": "https://timberwolves.com/news/timberwolves-sign-jaden-mcdaniels-to-contract-extension",
+   "title": "Timberwolves Sign Jaden McDaniels to Contract Extension",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-10-20T19:03:51Z",
+   "tags": [],
+   "summary": "Minneapolis/St. Paul – The Minnesota Timberwolves today announced the team has signed forward Jaden McDaniels to a contract extension. Per team policy, terms of the agreement were not released.",
+   "facts": [
+    "Paul – The Minnesota Timberwolves today announced the team has signed forward Jaden McDaniels to a contract extension.",
+    "One of the elite perimeter defenders in the league, McDaniels, 26, enters his seventh season in the NBA, playing all previous six years with Minnesota, appearing in 469 games (363 starts), holding career averages of 11.1…",
+    "Last season, McDaniels appeared in 73 games (all starts), averaging a career-high 14.8 points on 51.5% shooting, including a career-best 41.2% from three and a career-high 83.5% from the foul line, 4.2 rebounds and a car…",
+    "Last season, he tallied multiple steals and multiple blocks in nine games, the third most of any Western Conference player (Victor Wembanyama - 11, Alperen Sengun - 10).",
+    "McDaniels increased his three-point percentage from 33.0% during the 2024-25 season to 41.2% last season, the fourth-largest improvement (+8.2) in the NBA (min. 150 attempts each season) and the third-largest improvement…",
+    "In Minnesota’s 124-121 victory over the Portland Trail Blazers on Feb. 24, he finished with 29 points on 12-of-16 shooting, including 5-of-6 from three, six rebounds, three steals and a career-high-tying five blocks, bec…",
+    "The Federal Way, Wash. native has appeared in 49 career playoff games (43 starts) for the Wolves, the second-most in franchise history.",
+    "He holds career playoff averages of 13.6 points on 49.1% shooting, 4.7 rebounds and 1.5 assists in 32.0 minutes per game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/pelicans-thrilled-to-enter-2026-27-with-fully-healthy-roster-for-first-time-this-decade",
+   "url": "https://www.nba.com/pelicans/news/pelicans-thrilled-to-enter-2026-27-with-fully-healthy-roster-for-first-time-this-decade",
+   "canonical_url": "https://pelicans.com/news/pelicans-thrilled-to-enter-2026-27-with-fully-healthy-roster-for-first-time-this-decade",
+   "title": "Pelicans thrilled to enter 2026-27 with fully healthy roster for first time this decade",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-20T18:50:36Z",
+   "tags": [],
+   "summary": "Jamahl Mosley has only been in his current position as New Orleans head coach for five months, yet he seems to be acutely aware of the Pelicans’ recent history, particularly when it comes to injuries. During Tuesday’s final day of practice prior to Wednesday’s 2026-27 opener vs. Indiana, Mosley pointed out to his players that this will be the first time New Orleans has entered a regular season ful…",
+   "facts": [
+    "Jamahl Mosley has only been in his current position as New Orleans head coach for five months, yet he seems to be acutely aware of the Pelicans’ recent history, particularly when it comes to injuries.",
+    "During Tuesday’s final day of practice prior to Wednesday’s 2026-27 opener vs.",
+    "Indiana, Mosley pointed out to his players that this will be the first time New Orleans has entered a regular season fully healthy since 2018.",
+    "Here are some of the other most interesting digits related to each member of the club (alphabetical order within each position): GUARDS Jeremiah Fears: 50/50/77 The lottery pick’s ability to make a Year 2 leap could come…",
+    "Fears shot 50 percent from both the field and three-point range in preseason (while making 77 percent of his free throws), after he played in all 82 games as a rookie and posted shooting splits of 43/33/79.",
+    "AJ Johnson: 595 Johnson has played for three different NBA teams (Milwaukee, Washington, Dallas) in his two seasons, but rarely received a steady opportunity to contribute for any of them.",
+    "His 595 minutes with the Wizards two seasons ago – almost entirely during the final month of the 2024-25 campaign – represent his only consistent chance to show what he can do at this level.",
+    "Bennedict Mathurin: 16.2 Career scoring average over 263 games (just 110 of those being starts) for one of the league’s premier instant-offense reserves."
+   ],
+   "quotes": [
+    "To have that, it (requires) us having an unbelievable medical staff that’s doing their job, the (players) understanding the importance of recovery and taking care of your body. The other side of it is…",
+    "It’s really important for us. Health is really important in the NBA.",
+    "Injuries can only be controlled so much. It’s happened in the past. But for us to have a full roster going into Game 1, it’s a great feeling for us as a team."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/dallas-mavericks-announce-fan-experience-upgrades-for-2026-27-season",
+   "url": "https://www.nba.com/mavs/news/dallas-mavericks-announce-fan-experience-upgrades-for-2026-27-season",
+   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-announce-fan-experience-upgrades-for-2026-27-season",
+   "title": "DALLAS MAVERICKS ANNOUNCE FAN EXPERIENCE UPGRADES FOR 2026-27 SEASON",
+   "author": "Dallas Mavericks",
+   "published_utc": "2026-10-20T18:34:38Z",
+   "tags": [],
+   "summary": "New culinary offerings, craft cocktails and mocktails, Chase cardholder perks, expanded club spaces highlight fan experience enhancements",
+   "facts": [
+    "New culinary offerings, craft cocktails and mocktails, Chase cardholder perks, expanded club spaces highlight fan experience enhancements DALLAS (Oct. 16, 2026) – The Dallas Mavericks announced today a range of fan exper…",
+    "The Mavericks will open their 26th season at American Airlines Center at 7 p.m.",
+    "Saturday, Oct. 24, against the reigning Western Conference champion San Antonio Spurs, following road games against the Houston Rockets on Oct. 21 and Indiana Pacers on Oct. 23.",
+    "The rotating restaurant residency program will operate exclusively at Mavericks home games at the Dallas Table concession stand near Sec. 120 on the main Plaza Level, with expanded offerings in the arena’s VIP and club s…",
+    "Loro Asian Smokehouse & Bar | Oct. 24 – Nov. 9 | Sec. 120Avra | Nov. 18 – Dec. 14 | Sec. 120Monarch | March 2 – 11 | Sec. 120 Concessions – Expanding on the chef-inspired signature menu crafted in collaboration with Levy…",
+    "Available at El Taco Tex stands at Sec. 105 and 117.Big Tex Gelato Rita – House-made gelato infused with Patrón Silver tequila, Patrón Citrónge, fresh lime juice and agave syrup.",
+    "Available at the Platinum Level Gelato Bar; must be 21 or older to enjoy.Dubai Churros – Warm churros piped with rich dulce de leche and tossed in cinnamon sugar.",
+    "Available at El Taco Tex stands at Sec. 105 and 117.New offering from Zavala’s BBQ: Fajita Tacos – Linz Heritage Angus meats, smoked low and slow over post oak, then seared hot over post oak."
+   ],
+   "quotes": [
+    "It’s our responsibility to create an unforgettable experience for Dallas Mavericks fans every game, and with support from our partners at Levy Restaurants and 50 Eggs Hospitality, we’re pushing oursel…",
+    "This season, we’re continuing to bring standout Dallas-based and national restaurant partners into the arena, elevating concessions for younger fans and specialty item collectors, while also deepening…"
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "roster",
+   "key": "https://www.nba.com/bulls/news/bulls-exercise-team-options-on-matas-buzelis-and-noa-essengue",
+   "url": "https://www.nba.com/bulls/news/bulls-exercise-team-options-on-matas-buzelis-and-noa-essengue",
+   "canonical_url": "https://bulls.com/news/bulls-exercise-team-options-on-matas-buzelis-and-noa-essengue",
+   "title": "Bulls exercise Team Options on Matas Buzelis and Noa Essengue",
+   "author": "Bulls.com",
+   "published_utc": "2026-10-20T18:28:12Z",
+   "tags": [
+    "Transaction"
+   ],
+   "summary": "The Chicago Bulls announced today that the team has exercised the team options on forwards Matas Buzelis and Noa Essengue. Per team policy, terms of the deals were not disclosed.",
+   "facts": [
+    "Buzelis, 6-9, 209, appeared in 77 games (all starts) in the 2025-26 season and posted single-season career high averages of 16.3 points (.463 FG%, .349 3FG%), 5.8 rebounds, 2.1 assists and 1.5 blocks in 29.2 minutes.",
+    "The former 11th overall pick in the 2024 NBA Draft highlighted his 2025-26 campaign by becoming just the third player in NBA history to record at least 170 three-pointers made and 100-plus blocks in a single season, join…",
+    "Buzelis finished the season leading all second-year players in total points (1,252), while ranking tied for sixth in the league in rejections (116) and fifth in games of two-plus blocks (36).",
+    "The Hinsdale, Ill., native recorded a career-long streak of two-plus three-pointers made in 15-straight games (2/21/26 – 3/25/26), the second-longest such streak in Bulls history (Coby White – 17-straight), including a c…",
+    "Buzelis has appeared in 157 games (108 starts) and posted career averages of 12.4 points (.460 FG%, .353 3FG%), 4.6 rebounds, 1.5 assists and 1.2 blocks in 23.9 minutes across two seasons with the Bulls.",
+    "Buzelis is a three-time NBA Rising Stars Game selection and participated in the 2025 NBA Slam Dunk Contest.",
+    "Essengue, 6-9, 208, was drafted 12th overall by Chicago in the 2025 NBA Draft.",
+    "The Orléans, France native appeared in four games with the Windy City Bulls during the G League Tip-Off Tournament last season and posted averages of 23.0 points (.508 FG%), 8.5 rebounds and 2.3 assists and 1.0 steals in…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/kris-dunn-knows-how-to-fight-his-way-back",
+   "url": "https://www.nba.com/clippers/news/kris-dunn-knows-how-to-fight-his-way-back",
+   "canonical_url": "https://clippers.com/news/kris-dunn-knows-how-to-fight-his-way-back",
+   "title": "Kris Dunn Knows How to Fight His Way Back",
+   "author": "OHM YOUNGMISUK",
+   "published_utc": "2026-10-20T17:30:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Derrick Jones Jr.",
+    "Jeff Van Gundy",
+    "Kris Dunn",
+    "LA Clippers",
+    "Ohm Youngmisuk",
+    "Trent Redden",
+    "Ty Lue"
+   ],
+   "summary": "HONOLULU ⎯ Ominous rain clouds hovered above Honolulu for much of the day only to make way for sunny and clear skies by the time Kris Dunn takes a seat a few feet away from Waikiki beach.",
+   "facts": [
+    "The fifth overall pick in the 2016 draft fell out of the league by the start of the 2021 season before climbing his way back out of the G League and finding a home with the Clippers.",
+    "Last season, Dunn helped the Clippers somehow survive a 6-21 start to finish with a winning record for the 15th consecutive season and make the play-in tournament.",
+    "They understand that the Clippers, who also traded Kawhi Leonard to Toronto, aren’t being given much of a chance by prognosticators this season.",
+    "Since offseason workouts, Dunn has taken on the role of mentor for the Clippers’ fifth overall pick in the 2026 draft.",
+    "We put the top-5 away and we just build what we need to build on.",
+    "Dunn averaged career-highs of 13.4 points, 6.0 assists and 2.0 steals in Chicago in his second season.",
+    "But after three seasons with the Bulls, Dunn signed with the Hawks and was only able to play in four games due to injuries during the 2020-21 season.",
+    "Atlanta traded Dunn after one season to Boston, which then shipped the point guard to Memphis."
+   ],
+   "quotes": [
+    "Yeah, we talked about it,",
+    "We're the ones in the building. It's on us to go out there and take care of our job. Our job is to win games. The front office, the coaching staff, they never waver from that. And we're not going to w…",
+    "He's helped me all around on and off the court,",
+    "He believes in me a lot and he tells me that every day. I try to talk to him as much as I can. We have just a genuine relationship, so it's good to have him around and to learn from him. But he's taug…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-2026-27-season-against-the-memphis-grizzlies",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-2026-27-season-against-the-memphis-grizzlies",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-begin-2026-27-season-against-the-memphis-grizzlies",
+   "title": "Preview: Utah Jazz Begin 2026-27 Season Against the Memphis Grizzlies",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-20T17:30:00Z",
+   "tags": [
+    "Isaiah Collier",
+    "Jaren Jackson Jr.",
+    "Jaxson Hayes",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "After a long and eventful summer, the 2026-27 NBA regular season kicks off for the Utah Jazz Wednesday with a matchup against the Memphis Grizzlies. Utah used the preseason to iron out schemes and rotations, although the work will carry over into the regular season as the team hopes to make a jump in the Western Conference.",
+   "facts": [
+    "After a long and eventful summer, the 2026-27 NBA regular season kicks off for the Utah Jazz Wednesday with a matchup against the Memphis Grizzlies.",
+    "Utah’s re-tooled roster is headlined by the pairing of Jaren Jackson Jr. and Lauri Markkanen, with Keyonte George looking to build on his breakout 2025-26 campaign.",
+    "Jackson Jr. is slated to make his on-court return in Memphis following the trade between the two teams back in February.",
+    "Outside of adding Boozer, the Grizzlies traded Ja Morant to the Portland Trail Blazers (receiving Jerami Grant in return) and acquired Isaiah Stewart from the Detroit Pistons.",
+    "The return of Zach Edey will be a defining component of the Grizzlies’ season, as the young big man was a transformative force in his limited action last year.",
+    "In 11 games last season, Edey averaged 13.6 points, 11.1 rebounds, and 1.9 blocks per game, becoming a dominant two-way force for Tuomas Iisalo’s squad.",
+    "In Edey’s 283 minutes on the floor, Memphis was 27.8 points per 100 possessions better, with elite rebounding and rim protection driving much of that impact.",
+    "Boozer was an impressive rebounder in college last season (10.2 per game), which could create trouble for Utah as Will Hardy’s squad prepares to defend and rebound without Jusuf Nurkić."
+   ],
+   "quotes": [
+    "Rebounding defensively is going to be maybe the most pivotal thing for us the entire season,"
+   ]
+  },
   {
    "source": "CLE 公式（nba.com）",
    "team": "CLE",
@@ -1199,130 +1442,6 @@
     "Freeman, 6-7, has appeared in 26 NBA games (one start) in two seasons with the Indiana Pacers and Timberwolves, owning career averages of 2.3 points on 44.4% shooting and 1.5 rebounds in 8.4 minutes per contest.",
     "Freeman was selected by the Pacers with the 50th overall pick in the 2024 NBA Draft.",
     "Last season, Freeman appeared in 39 games (all starts) with the Iowa Wolves, the NBA G League affiliate of the Timberwolves, where he averaged 16.5 points on 54.6% shooting, 8.8 rebounds and 2.4 assists in 33.2 minutes p…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "roster",
-   "key": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-cooper-flagg",
-   "url": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-cooper-flagg",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-exercise-team-option-on-cooper-flagg",
-   "title": "MAVERICKS EXERCISE TEAM OPTION ON COOPER FLAGG",
-   "author": "Dallas Mavericks",
-   "published_utc": "2026-10-17T20:45:00Z",
-   "tags": [],
-   "summary": "Dallas exercises third-year rookie scale team option on reigning Rookie of the Year",
-   "facts": [
-    "Dallas exercises third-year rookie scale team option on reigning Rookie of the Year DALLAS (Oct. 17, 2026) – The Dallas Mavericks announced today that they have exercised the thirdyear rookie scale option on forward/guar…",
-    "Flagg (6-9, 228) averaged 21.0 points, 6.7 rebounds, 4.5 assists, 1.2 steals, 0.9 blocks and 33.5 minutes per game in 70 games (all starts) last season en route to being named the 2025-26 Kia NBA Rookie of the Year.",
-    "At 19 years, 112 days, Flagg became the second-youngest player in NBA history to garner Rookie of the Year honors behind LeBron James (19 years, 106 days).",
-    "The Duke University product led the Mavericks in total points (1,473), rebounds (466), assists (316) and steals (84) in 2025-26.",
-    "Flagg averaged 22.6 points, 6.9 rebounds, 5.4 assists, 1.2 steals and 1.2 blocks after the All-Star break, finishing as the only player across the entire NBA to average at least 20.0 points, 6.0 rebounds, 5.0 assists, 1.…",
-    "Flagg (19 years, 103 days) became the youngest player in NBA history to score 50-plus points with his 51point performance against the Orlando Magic on April 3, breaking his own record for the most points by a teenager in…",
-    "Charlotte, Jan. 29).",
-    "He followed with a 45-point outing against the Los Angeles Lakers on April 5 to join Wilt Chamberlain as the only rookies in NBA history to total 96-plus points over any two-game span."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-convert-ingram-to-two-way-contract",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-convert-ingram-to-two-way-contract",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-convert-ingram-to-two-way-contract",
-   "title": "Utah Jazz Convert Ingram to Two-Way Contract",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-17T19:30:44Z",
-   "tags": [
-    "Harrison Ingram",
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have converted forward Harrison Ingram to a two-way contract. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have converted forward Harrison Ingram to a two-way contract.",
-    "About Harrison Ingram Ingram (6-5, 230, North Carolina) appeared in four games for the Jazz this preseason, averaging 4.8 points on 53.3 percent shooting and 2.2 rebounds in 7.5 minutes per contest.He spent the past two …",
-    "In 88 games with Austin, he averaged 14.3 points, 10.4 rebounds, 4.4 assists, and 1.3 steals in 33.3 minutes per game.",
-    "The 23-year-old played three collegiate seasons at Stanford (2021-23) and North Carolina (2023-24), appearing in 102 games (98 starts) and averaging 11.1 points, 7.2 rebounds, and 2.9 assists in 30.7 minutes per game.",
-    "Selected to the All-ACC Third Team while at North Carolina, Ingram was also named the 2021-22 Pac-12 Freshman of the Year in addition to receiving Pac-12 All-Freshman Team honors at Stanford.A native of Dallas, Ingram wo…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "POR 公式（nba.com）",
-   "team": "POR",
-   "team_ja": "トレイルブレイザーズ",
-   "team_id": 1610612757,
-   "kind": "roster",
-   "key": "https://www.nba.com/blazers/news/trail-blazerswaivejeremy-sochan",
-   "url": "https://www.nba.com/blazers/news/trail-blazerswaivejeremy-sochan",
-   "canonical_url": "https://blazers.com/news/trail-blazerswaivejeremy-sochan",
-   "title": "Trail Blazers Waive Jeremy Sochan",
-   "author": "Portland Trail Blazers",
-   "published_utc": "2026-10-17T18:45:14Z",
-   "tags": [
-    "Jeremy Sochan",
-    "news",
-    "StartingFive"
-   ],
-   "summary": "PORTLAND, Ore. (October 17, 2026) – The Portland Trail Blazers have waived forward Jeremy Sochan.",
-   "facts": [
-    "PORTLAND, Ore. (October 17, 2026) – The Portland Trail Blazers have waived forward Jeremy Sochan.",
-    "Portland’s roster stands at 17, including three two-way players."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-aidoo-and-bates",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-aidoo-and-bates",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-aidoo-and-bates",
-   "title": "Utah Jazz Waive Aidoo and Bates",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-17T18:30:23Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have waived center Jonas Aidoo and guard Tamar Bates.",
-   "facts": [
-    "SALT LAKE CITY (October 17, 2026) – The Utah Jazz have waived center Jonas Aidoo and guard Tamar Bates.",
-    "About Jonas Aidoo Aidoo (6-11, 240, Arkansas) competed in seven Salt Lake City and Las Vegas Summer League competitions for the Jazz, averaging 9.1 points on 59.5 percent from the field, 8.9 rebounds, and 3.3 blocks in 1…",
-    "About Tamar Bates Bates (6-4, 195, Missouri) played in 13 games for the Grand Rapids Gold of the NBA G League last season, averaging 19.5 points on 55.6 percent from the field and 43.3 percent from beyond the arc, along …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "roster",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-waive-zach-cleveland",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-waive-zach-cleveland",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-waive-zach-cleveland",
-   "title": "Grizzlies Waive Zach Cleveland",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-17T17:30:00Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "Memphis, Tenn. – The Memphis Grizzlies today announced the team waived forward Zach Cleveland.",
-   "facts": [
-    "Memphis, Tenn. – The Memphis Grizzlies today announced the team waived forward Zach Cleveland.",
-    "Cleveland (6-7, 220), who signed with the Grizzlies on Oct. 12, was named the 2025-26 Conference USA Player of the Year after starting all 33 games and averaging 11.9 points, 7.6 rebounds, 6.8 assists, 1.3 steals and 1.3…",
-    "The 22-year-old Illinois native went unselected in the 2026 NBA Draft."
    ],
    "quotes": []
   }
