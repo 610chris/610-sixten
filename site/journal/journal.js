@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "534-gunma-crane-thunders-bpremier-license-2028.html",
+    cat: "JAPAN",
+    title: "群馬クレインサンダーズ、2028-29シーズンの「B.PREMIERライセンス」交付が決定 —— B.LEAGUE理事会で判定",
+    excerpt: "群馬クレインサンダーズは10月20日、B.LEAGUE理事会において2028-29シーズンの「B.PREMIERライセンス」交付が決定したと発表した。B.PREMIER初年度の今季に続き、最上位ディビジョンでの地位を2年先まで確保した形だ。",
+    date: "2026.10.20",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "533-jaden-mcdaniels-timberwolves-extension.html",
     cat: "NBA",
     title: "ティンバーウルブズ、ジェイデン・マクダニエルズと1年4000万ドルの契約延長に合意 —— 2029-30シーズンまで確保",
