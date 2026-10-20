@@ -1,8 +1,146 @@
 {
- "updated_utc": "2026-10-20 06:32 UTC",
+ "updated_utc": "2026-10-20 17:29 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "roster",
+   "key": "https://www.nba.com/cavaliers/news/releases-jaylon-tyson-261020",
+   "url": "https://www.nba.com/cavaliers/news/releases-jaylon-tyson-261020",
+   "canonical_url": "https://cavs.com/news/releases-jaylon-tyson-261020",
+   "title": "CAVALIERS EXERCISE FOURTH-YEAR TEAM OPTION ON JAYLON TYSON",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-20T15:57:51Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "CLEVELAND – The Cleveland Cavaliers have exercised their fourth-year team option on guard Jaylon Tyson, Cavaliers President of Basketball Operations Koby Altman announced today from Cleveland Clinic Courts.",
+   "facts": [
+    "Tyson (6-6, 224) appeared in 66 games (42 starts) last season for Cleveland and averaged career highs in every major statistical category, including points (13.2), rebounds (5.1), assists (2.2), steals (0.82), blocks (0.…",
+    "The 2026 Castrol Rising Star scored in double-digits in 46 outings, which includes a career-best 15 straight contests from Jan. 10-Feb. 9, and topped the 20-point mark on eight occasions.",
+    "In a win at Philadelphia on Jan. 16, 2026, Tyson posted a career-high 39 points (13-17 FG, 7-9 3FG, 6-6 FT).",
+    "He became just the third player in franchise history to score 39 points on 17 or fewer field goal attempts, joining Kevin Love (Feb. 6, 2017) and Roy Hinson (Jan. 28, 1986), as well as the eighth youngest Cavalier to tal…",
+    "In December last season (14 games), Tyson averaged 15.8 points and 6.7 rebounds while shooting a combined .553 (89-161) from the field and .444 (24-54) from beyond the arc.",
+    "From Dec. 1-5, 2025, he became just the third Cavalier ever to shoot .725 from the field over a three-game span on 37 attempts or more, joining LeBron James and Mark Price.",
+    "At Houston on Dec. 27, 2025, Tyson tallied 23 points and a career-high 15 rebounds, including eight offensive, which tied for the most by a Cavalier last season.",
+    "Selected with the 20th overall pick in the 2024 NBA Draft out of California, Tyson enters the 2026-27 season with career averages of 9.2 points (.481 FG%, .430 3FG%) and 3.8 rebounds in 19.7 minutes in 113 games (45 star…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-pelicans-261021",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-pelicans-261021",
+   "canonical_url": "https://pacers.com/news/preview-pacers-pelicans-261021",
+   "title": "Game Preview: Pacers at Pelicans",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-20T15:20:15Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Wednesday, Oct. 21 at 8:00 PM ET at Smoothie King Center",
+   "facts": [
+    "Wednesday, Oct. 21 at 8:00 PM ET at Smoothie King Center Game Preview The 2026-27 Pacers season officially tips off on Wednesday night in New Orleans, where Tyrese Haliburton and the Pacers will take on Zion Williamson a…",
+    "Haliburton missed the entire 2025-26 season after tearing his Achilles in Game 7 of the 2025 NBA Finals, but he is back on the court looking like his old self.",
+    "Haliburton played in three of four preseason games for Indiana, tallying 48 points and 15 assists while going 19-for-36 (52.8 percent) from the field and 8-for-15 (53.3 percent) from 3-point range.",
+    "He scored 24 points in just 17 minutes last Tuesday in Oklahoma City and followed that up with 17 points and six assists in 20 minutes in Friday's preseason finale against Milwaukee.",
+    "Indiana has a pair of All-Stars in Haliburton and Pascal Siakam along with much of the core from the team that captured the 2025 Eastern Conference crown, including Andrew Nembhard, Aaron Nesmith, Obi Toppin, T.J.",
+    "The Blue & Gold have also added some key pieces to that core group, headlined by 7-foot Croatian center Ivica Zubac.",
+    "Indiana acquired Zubac from the Clippers last year at the trade deadline, though injuries limited him to just five games last season.",
+    "The 11-year veteran has a career scoring average of 13.3 points per game and effectively replaces Bennedict Mathurin — who was part of the trade last February for Zubac — in the bench-scoring, sixth-man role on the India…"
+   ],
+   "quotes": [
+    "[I’m] just very grateful, very blessed to be in this position,",
+    "To be in year 11, and I mean Lou Williams, when you think about guys that come off the bench, him and Jamal Crawford, [Manu] Ginobili, are the guys you really think about. So to even be mentioned with…"
+   ]
+  },
+  {
+   "source": "ATL 公式（nba.com）",
+   "team": "ATL",
+   "team_ja": "ホークス",
+   "team_id": 1610612737,
+   "kind": "feature",
+   "key": "https://www.nba.com/hawks/news/atlanta-hawks-to-become-the-first-nba-team-to-stream-games-exclusively-on-prime-video",
+   "url": "https://www.nba.com/hawks/news/atlanta-hawks-to-become-the-first-nba-team-to-stream-games-exclusively-on-prime-video",
+   "canonical_url": "https://hawks.com/news/atlanta-hawks-to-become-the-first-nba-team-to-stream-games-exclusively-on-prime-video",
+   "title": "Atlanta Hawks to Become the First NBA Team to Stream Games Exclusively on Prime Video",
+   "author": "Atlanta Hawks",
+   "published_utc": "2026-10-20T15:10:48Z",
+   "tags": [
+    "Atlanta Hawks",
+    "prime video"
+   ],
+   "summary": "Fans in Hawks’ Regional Television Territory Will Be Able to Stream Games as Part of Their Prime Membership, Making Hawks Basketball More Accessible Than Ever",
+   "facts": [
+    "Fans in Hawks’ Regional Television Territory Will Be Able to Stream Games as Part of Their Prime Membership, Making Hawks Basketball More Accessible Than Ever The Atlanta Hawks today announced that Prime Video will serve…",
+    "All locally broadcast Hawks games are produced by industry-leading Raycom Sports and will be available to 100% of the Atlanta market and Gray Media stations throughout the state.",
+    "The Hawks begin the 2026-27 regular season on Wednesday, Oct. 21 at the Orlando Magic (7 p.m."
+   ],
+   "quotes": [
+    "We are committed to putting our fans first and maximizing accessibility throughout the state of Georgia and the Southeast.",
+    "Exclusively streaming the Atlanta Hawks as part of our growing local sports portfolio is another step forward in providing fans an easy, one-stop destination to watch the teams they love,",
+    "The Hawks have demonstrated a forward-thinking approach to reaching and engaging their fans and share the same commitment to innovation that drives our organization. Together, we’re making it easier t…"
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "injury",
+   "key": "https://www.nba.com/cavaliers/news/releases-naeqwan-tomlin-261020",
+   "url": "https://www.nba.com/cavaliers/news/releases-naeqwan-tomlin-261020",
+   "canonical_url": "https://cavs.com/news/releases-naeqwan-tomlin-261020",
+   "title": "Nae'Qwan Tomlin Status Update",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-20T14:14:21Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "Cleveland Cavaliers forward Nae’Qwan Tomlin was diagnosed with a lower back stress reaction following an evaluation by the Cavaliers medical team. An MRI administered at Cleveland Clinic Sports Medicine confirmed the injury. Tomlin will be re-evaluated in approximately three to four (3-4) weeks, and his status and return to basketball activities will be updated as appropriate. Tomlin was not avail…",
+   "facts": [
+    "An MRI administered at Cleveland Clinic Sports Medicine confirmed the injury.",
+    "Tomlin will be re-evaluated in approximately three to four (3-4) weeks, and his status and return to basketball activities will be updated as appropriate."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/jamahl-mosley-brings-personal-touch-in-year-1-as-pelicans-head-coach",
+   "url": "https://www.nba.com/pelicans/news/jamahl-mosley-brings-personal-touch-in-year-1-as-pelicans-head-coach",
+   "canonical_url": "https://pelicans.com/news/jamahl-mosley-brings-personal-touch-in-year-1-as-pelicans-head-coach",
+   "title": "Jamahl Mosley brings personal touch in Year 1 as Pelicans head coach",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-20T14:00:00Z",
+   "tags": [],
+   "summary": "More often than not, New Orleans guard Jordan Poole’s first assist of the day is a bounce pass to a 48-year-old, whose professional basketball career peaked in the early 2000s. It began as a simple interaction, then became a tradition: When eighth-year NBA veteran Poole walks onto the practice floor for the first time each morning, he dishes a ball to New Orleans first-year head coach Jamahl Mosle…",
+   "facts": [
+    "More often than not, New Orleans guard Jordan Poole’s first assist of the day is a bounce pass to a 48-year-old, whose professional basketball career peaked in the early 2000s.",
+    "Poole estimates that Mosley is shooting “probably 60 percent” on those attempts, smiling and noting that “if he doesn’t make the first one, he usually makes the second one.” The daily bounce pass is one example of the un…",
+    "A University of Colorado standout (1997-2001), Mosley was the Buffaloes’ second-leading scorer in his junior and senior years and played professionally overseas.",
+    "He joined the Denver Nuggets as an unpaid basketball operations staffer in the mid-2000s, not far removed from his playing days, able to hold his own on the court with NBA players.",
+    "Mosley also worked for longtime, highly-respected assistant coach Tim Grgurich, described by Rick Carlisle in 2018 as “basketball’s Yoda and the godfather of modern player development.” Two decades ago, NBA coaching staf…",
+    "Mosley visited Murphy and Herb Jones this summer in Los Angeles, working out with the duo from New Orleans’ excellent 2021 draft class."
+   ],
+   "quotes": [
+    "if he doesn’t make the first one, he usually makes the second one.",
+    "I love the game. I love to coach. I love to help,",
+    "I love to do whatever’s necessary to help these guys achieve their best. That’s our job as coaches, to teach and put (players) in the best position possible for them to be successful… As long as my bo…",
+    "These guys are getting bigger, faster and stronger, so I’ve got to play a little bit of token defense (trying to simulate an NBA-level defender as much as feasibly possible). The reality is I just lov…"
+   ]
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -93,7 +231,11 @@
    "title": "Irving realistic about the future, but pumped to return for a new season",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-19T22:54:25Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
    "summary": "Maybe there are NBA players who have re-assembled their image better than Kyrie Irving, but it's got to be a short list.",
    "facts": [
     "But on Monday, two days before the Mavericks open their 2026-27 NBA season at Houston, philosophical Kyrie gave thoughtful and interesting answers on a variety of topics that can be touchy if not handled properly.",
@@ -107,7 +249,7 @@
    ],
    "quotes": [
     "I love those guys, but I don’t share the same sentiments as them, necessarily,",
-    "But in terms of the NBA schedule, I think you got to really be in love with that, too. The weightlifting, unseen hours, getting ready to play at a high level. And also you have social media and gambli…",
+    "But in terms of the NBA schedule, I think you got to really be in love with that, too. The weightlifting, unseen hours, getting ready to play at a high level. And also, you have social media and gambl…",
     "I don’t say that as a negative thing,",
     "I’m really excited, looking forward to the opportunity to be in Houston, hear my name called out,"
    ]
@@ -180,22 +322,25 @@
    "title": "Powell's Mavericks' career made him a teammate that will be 'severely missed'",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-19T20:09:17Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
    "summary": "Not even the most dedicated Mavericks fans knew who Dwight Powell was on Dec. 18, 2014.",
    "facts": [
     "Not even the most dedicated Mavericks fans knew who Dwight Powell was on Dec. 18, 2014.",
     "The following day, Rajon Rondo got traded from the Boston Celtics to the Mavericks, and the unknown, 6-10 Canadian was the proverbial throw-in as part of a blockbuster trade.",
-    "The franchise on Monday waived the longest-tenured player on the roster – the only one who played with Dirk Nowitzki, Luka Doncic and Cooper Flagg.",
-    "He’s been with the Mavericks through some of their best moments like the NBA Finals in 2024.",
+    "The franchise on Monday waived the longest-tenured player on the roster — the only one who played with Dirk Nowitzki, Luka Doncic and Cooper Flagg.",
+    "He’s been with the Mavericks through some of their best moments, like the NBA Finals in 2024.",
     "They also waived John Poulakidas and Seth Lundy on Sunday.",
     "They have two two-way players in Jett Howard and Tobi Lawal.",
-    "In his 12 seasons with the Mavericks (he played just five games with Boston before the trade happened), Howard averaged 6.5 points and 4.3 rebounds.",
+    "In his 12 seasons with the Mavericks (he played just five games with Boston before the trade happened), Powell averaged 6.5 points and 4.3 rebounds.",
     "He played in 763 games with the Mavericks and is a fixture in the top 10 of many of the franchise’s all-time statistical categories (fourth in career field goal percentage at .606, fifth in games played, sixth in offensi…"
    ],
    "quotes": [
     "He’ll be severely missed,",
     "And he represented a lot here in the city of Dallas. I was in the hot tub. It’s a little heartbreaking. We’re going to miss him. But you got to add in the phrase, it’s just NBA business. But it’s alwa…",
-    "In my short stint here, his professionalism, his attitude – he exemplified everything that you’d want to a Maverick to be about,",
+    "In my short stint here, his professionalism, his attitude — he exemplified everything that you’d want a Maverick to be about,",
     "So want to say thanks to him. He certainly had an impact on all of us. And the same thing, Seth Lundy and JP had an impact on our team. We’re better because they were here and you never know what the …"
    ]
   },
@@ -1178,196 +1323,6 @@
     "Memphis, Tenn. – The Memphis Grizzlies today announced the team waived forward Zach Cleveland.",
     "Cleveland (6-7, 220), who signed with the Grizzlies on Oct. 12, was named the 2025-26 Conference USA Player of the Year after starting all 33 games and averaging 11.9 points, 7.6 rebounds, 6.8 assists, 1.3 steals and 1.3…",
     "The 22-year-old Illinois native went unselected in the 2026 NBA Draft."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/indiana-pacers-transactions-oct-17-2026",
-   "url": "https://www.nba.com/pacers/news/indiana-pacers-transactions-oct-17-2026",
-   "canonical_url": "https://pacers.com/news/indiana-pacers-transactions-oct-17-2026",
-   "title": "Indiana Pacers Transactions - Oct. 17, 2026",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-17T17:08:00Z",
-   "tags": [],
-   "summary": "INDIANAPOLIS – The Indiana Pacers announced Saturday the team waived James Johnson, Keba Keita, and Rienk Mast.",
-   "facts": [
-    "INDIANAPOLIS – The Indiana Pacers announced Saturday the team waived James Johnson, Keba Keita, and Rienk Mast."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "roster",
-   "key": "https://www.nba.com/sixers/news/philadelphia-76ers-convert-tacko-fall-to-two-way-contract",
-   "url": "https://www.nba.com/sixers/news/philadelphia-76ers-convert-tacko-fall-to-two-way-contract",
-   "canonical_url": "https://sixers.com/news/philadelphia-76ers-convert-tacko-fall-to-two-way-contract",
-   "title": "PHILADELPHIA 76ERS CONVERT TACKO FALL TO TWO-WAY CONTRACT",
-   "author": "76ers PR",
-   "published_utc": "2026-10-17T15:32:18Z",
-   "tags": [],
-   "summary": "PHILADELPHIA – October 17, 2026 - Philadelphia 76ers President of Basketball Operations Mike Gansey announced today that the team has converted Tacko Fall to a two-way contract. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "PHILADELPHIA – October 17, 2026 - Philadelphia 76ers President of Basketball Operations Mike Gansey announced today that the team has converted Tacko Fall to a two-way contract.",
-    "Fall produced averages of 11.2 points, 7.2 rebounds, and 2.1 blocks in 18.1 minutes over four international seasons with the Ningbo Rockets (2025-26), Nanjing Tongxi Monkey King (2024-25, 2023-24), New Zealand Breakers (…",
-    "The Senegal native has three seasons of NBA experience with the Cavaliers (2021-22) and Celtics (2019-21).",
-    "In 59 G League appearances, Fall averaged 13.8 points, 10.8 rebounds, and 2.8 blocks for the Cleveland Charge (2021-22) and Maine Celtics (2019-20).",
-    "Over four collegiate seasons at Central Florida (2015-19), he averaged 10.1 points, 7.7 rebounds, and 2.4 blocks per game and was named the 2017 AAC Defensive Player of the Year as a sophomore."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "roster",
-   "key": "https://www.nba.com/celtics/news/press-release-20261016-celtics-sign-payton-pritchard-to-contract-extension",
-   "url": "https://www.nba.com/celtics/news/press-release-20261016-celtics-sign-payton-pritchard-to-contract-extension",
-   "canonical_url": "https://celtics.com/news/press-release-20261016-celtics-sign-payton-pritchard-to-contract-extension",
-   "title": "Celtics Sign Payton Pritchard to Contract Extension",
-   "author": "Boston Celtics",
-   "published_utc": "2026-10-17T15:31:34Z",
-   "tags": [
-    "Preseason",
-    "Press Release"
-   ],
-   "summary": "BOSTON – The Boston Celtics announced today that they have signed 2024 NBA Champion and 2024-25 Kia NBA Sixth Man of the Year Payton Pritchard to a contract extension. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "BOSTON – The Boston Celtics announced today that they have signed 2024 NBA Champion and 2024-25 Kia NBA Sixth Man of the Year Payton Pritchard to a contract extension.",
-    "The 28-year-old tallied 27 20-point games last season, including six games with 30+ points, while shooting 46.4 percent from the field, 37.7 percent from 3-point range, and 89.0 percent from the free-throw line.",
-    "A key member of Boston's 2024 NBA Championship team, Pritchard has appeared in 426 career games (67 starts) across six seasons with the Celtics and has averaged 10.6 points, 3.0 rebounds, and 3.0 assists per game.",
-    "The 2024-25 Kia NBA Sixth Man of the Year recorded the most 3-point makes off the bench in a season in NBA history (246) during his award-winning campaign, surpassing the previous record of 218 set by Miami Heat guard Wa…",
-    "On March 5, 2025, vs.",
-    "Portland, Pritchard became the first player off the bench in NBA history to score 40+ points (43), grab 10+ rebounds (10), and have 5+ assists (5) with zero turnovers in a single game.",
-    "The Oregon native is tied for the third-most regular season games played (241) over the last three seasons.",
-    "Originally selected by Boston with the 26th overall pick in the 2020 NBA Draft, Pritchard played four collegiate seasons at the University of Oregon, where he earned consensus First Team All-America honors and was named …"
-   ],
-   "quotes": [
-    "Payton’s a very good player who has put in the time and added to his game each season that he’s been in Boston,",
-    "On top of that - he’s just a flat-out winner whose toughness, commitment to team, and work ethic are all elite. We’re thrilled that he’s chosen to extend with the C’s."
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "roster",
-   "key": "https://www.nba.com/heat/news/heat-waive-ausar-kelley-madsen-and-mbeng",
-   "url": "https://www.nba.com/heat/news/heat-waive-ausar-kelley-madsen-and-mbeng",
-   "canonical_url": "https://heat.com/news/heat-waive-ausar-kelley-madsen-and-mbeng",
-   "title": "HEAT WAIVE AUSAR, KELLEY, MADSEN AND MBENG",
-   "author": "Miami HEAT",
-   "published_utc": "2026-10-17T15:29:21Z",
-   "tags": [
-    "Trending"
-   ],
-   "summary": "Your Miami HEAT announced today that they have waived Ezra Ausar, Kylor Kelley, Gabe Madsen and Bez Mbeng.",
-   "facts": [
-    "Your Miami HEAT announced today that they have waived Ezra Ausar, Kylor Kelley, Gabe Madsen and Bez Mbeng.",
-    "Ausar, who was signed by the HEAT on October 15, did not appear in a preseason game with Miami.",
-    "He previously appeared in three Summer League games with the HEAT and averaged 7.0 points, 4.7 rebounds and 1.00 steals.",
-    "Kelley, who was signed by the HEAT on October 8, appeared in two preseason games with Miami totaling six points, two rebounds and a block.",
-    "Madsen, who was signed by the HEAT on October 8, appeared in one preseason game with Miami totaling 7:49 minutes of action.",
-    "Mbeng, who was claimed off waivers by the HEAT on September 22, appeared in three preseason games with Miami totaling 20 points, six assists, five rebounds and three steals.",
-    "The HEAT roster now stands at 14 and three Two-Way Contracts."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "TOR 公式（nba.com）",
-   "team": "TOR",
-   "team_ja": "ラプターズ",
-   "team_id": 1610612761,
-   "kind": "roster",
-   "key": "https://www.nba.com/raptors/news/raptors-convert-bittle-to-two-way-contract-waive-five",
-   "url": "https://www.nba.com/raptors/news/raptors-convert-bittle-to-two-way-contract-waive-five",
-   "canonical_url": "https://raptors.com/news/raptors-convert-bittle-to-two-way-contract-waive-five",
-   "title": "RAPTORS CONVERT BITTLE TO TWO-WAY CONTRACT, WAIVE FIVE",
-   "author": "torsskeen",
-   "published_utc": "2026-10-17T15:17:31Z",
-   "tags": [],
-   "summary": "The Toronto Raptors announced Saturday they have converted centre Nate Bittle to a two-way contract. Per team policy, financial terms of the deal were not disclosed. The Raptors have also waived guards Nimari Burnett, Jalen Celestine and Tyreke Key, forward Tyson Degenhart and centre Jamarion Sharp.",
-   "facts": [
-    "The Toronto Raptors announced Saturday they have converted centre Nate Bittle to a two-way contract.",
-    "The Raptors have also waived guards Nimari Burnett, Jalen Celestine and Tyreke Key, forward Tyson Degenhart and centre Jamarion Sharp.",
-    "Bittle, 7-foot, 250 pounds, averaged a team-high 16.8 points, 6.9 rebounds, 2.6 assists, 1.8 blocks (fifth in the Big Ten) and 31.1 minutes in 25 games (all starts) as a fifth-year senior at Oregon last season.",
-    "He shot .465 (145-312) from the field and scored in double figures in 23 games, including 20 or more points eight times.",
-    "A native of Central Point, Oregon, Bittle averaged 10.4 points, 5.6 rebounds, 1.4 assists, 1.5 blocks and 21.6 minutes in 116 career games (87 starts) across five seasons (2021-26) with the Ducks.",
-    "He earned All-Big Ten Third Team and All-Defensive Team honours and was one of five finalists for the Kareem Abdul-Jabbar Centre of the Year award as a senior (2024-25).",
-    "Toronto’s roster now stands at 14 with two two-way players.",
-    "Opening Day rosters must be submitted to the NBA by 5 p.m."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/bulls-close-out-preseason-with-high-flying-win-over-timberwolves",
-   "url": "https://www.nba.com/bulls/news/bulls-close-out-preseason-with-high-flying-win-over-timberwolves",
-   "canonical_url": "https://bulls.com/news/bulls-close-out-preseason-with-high-flying-win-over-timberwolves",
-   "title": "Bulls close out Preseason with high-flying win over Timberwolves",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-17T15:08:26Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith",
-    "Sam Smith recap"
-   ],
-   "summary": "Just over six minutes into Friday’s Bulls last preseason game, a 133-116 win over the Minnesota Timberpups, KJ Martin beat Buddy Hield along the left baseline when Martin as he attempted to finish a layup looked to the opposite baseline side up in the sky to see a bird, no, a plane, no, it was The Kid.",
-   "facts": [
-    "Just over six minutes into Friday’s Bulls last preseason game, a 133-116 win over the Minnesota Timberpups, KJ Martin beat Buddy Hield along the left baseline when Martin as he attempted to finish a layup looked to the o…",
-    "And then about 20 seconds later with Bulls guard Tre Jones inbounding, Wilson came streaking down the left wing to accept a bounce pass from Jones and up, up, up and away down for a two-hand slam bam and now scram.",
-    "Heck, even Ayo Dosunmu passed on his first return trip.",
-    "Wilson led the Bulls with 16 points and seven rebounds, Matas Buzelis had 14 and Josh Giddey and Leonard Miller each had 12.",
-    "Miller has been the eye opener of preseason, leading the team in scoring through the five games at 16.4 per game and also a team-best 6.4 rebounds.",
-    "The left-handed Miller has an awkward look to his game, which may be to his advantage as he continues to draw fouls and when bottled up on a drive early quickly made a slick interior bounce pass on the run for a Dailyn S…",
-    "It seems certain Miller has earned his way into the regular playing rotation, which Splitter said he’d like to maintain at nine or 10 for the regular season.",
-    "Splitter said all the injured big men other than Nic Claxton should be ready for the opener."
-   ],
-   "quotes": [
-    "I’m looking forward to competing, honestly,",
-    "I’m trying to work on being more physical and being in the right position,",
-    "The Bulls is the most important thing, but of course he is our future, a player who is going to be a star in this league,",
-    "I think it’s a mix, a balance (for him). Shoot in the right place, pass the ball, be off the ball, crash (and) go for the offensive rebound. Not like it’s the Caleb show every night."
-   ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hornets-in-preseason-finale-116-98",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-hornets-in-preseason-finale-116-98",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-hornets-in-preseason-finale-116-98",
-   "title": "GRIZZLIES DEFEAT HORNETS IN PRESEASON FINALE, 116-98",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-17T13:37:20Z",
-   "tags": [
-    "Postgame Report"
-   ],
-   "summary": "MEMPHIS, Tenn. (Oct. 16, 2026) - The Memphis Grizzlies (3-1) defeated the Charlotte Hornets (1-3) 116-98 Friday at FedExForum in each team’s final preseason game. Cameron Boozer led the Grizzlies with 19 points and seven rebounds in 29 minutes, setting preseason highs in all three categories. Ty Jerome finished with 17 points, four rebounds, four assists and three steals in 22 minutes. Cedric Cowa…",
-   "facts": [
-    "MEMPHIS, Tenn. (Oct. 16, 2026) - The Memphis Grizzlies (3-1) defeated the Charlotte Hornets (1-3) 116-98 Friday at FedExForum in each team’s final preseason game.",
-    "Cameron Boozer led the Grizzlies with 19 points and seven rebounds in 29 minutes, setting preseason highs in all three categories.",
-    "Ty Jerome finished with 17 points, four rebounds, four assists and three steals in 22 minutes.",
-    "Cedric Coward added 13 points with five rebounds, four assists and two steals.",
-    "Quinten Post and Cam Spencer each tallied 11 points off the bench.",
-    "Hannes Steinbach tallied a double-double with 19 points and 10 rebounds in 28 minutes off the bench for the Hornets.",
-    "Brandon Miller and Christian Anderson both added 15 points.",
-    "Naz Reid finished with 12 points on 5-for-10 shooting from the field."
    ],
    "quotes": []
   }
