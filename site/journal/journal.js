@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "539-nba-europe-tatum-2027-launch.html",
+    cat: "NBA",
+    title: "NBA副コミッショナー、「2027年10月開幕は変えない」—— ユーロリーグ抜きでも欧州進出路線を明言",
+    excerpt: "NBAのマーク・テイタム副コミッショナーが20日、2027年10月開幕予定の新リーグ「NBAヨーロッパ」の計画に変更はないと明言。ユーロリーグが統合提案を拒否した後も、史上最大規模という欧州投資方針を示した。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "538-landry-shamet-serious-player-only.html",
     cat: "KICKS",
     title: "NBAガードのランドリー・シャメット、新興ブランド「Serious Player Only」とシューズ契約",
