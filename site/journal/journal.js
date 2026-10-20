@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "546-nike-kobe-5-protro-eagles.html",
+    cat: "KICKS",
+    title: "Nike Kobe 5 Protro「Eagles」が2027年1月発売 —— 品番JF1792-300、コービーが愛したイーグルスを色に",
+    excerpt: "ナイキは、「Nike Kobe 5 Protro」の新色「Eagles」(品番JF1792-300)を2027年1月に発売する。Sneaker Bar Detroitが伝え、Sneaker Newsもクローズアップ画像を公開した。フィラデルフィア・イーグルスのファンだったコービー・ブライアントへのトリビュートカラーとなる。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "545-air-jordan-4-deep-royal-blue.html",
+    cat: "KICKS",
+    title: "Air Jordan 4「Deep Royal Blue」のファーストルックが公開 —— 品番IU4601-400、キッズ限定GS版は2027年春発売",
+    excerpt: "ジョーダン ブランドは、「Air Jordan 4」の新色「Deep Royal Blue」(品番IU4601-400)のファーストルック画像を公開した。Sneaker Newsが現地時間10月20日に伝えた。キッズ限定のGS版は2027年春発売が決まっている。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "544-cavaliers-jaylon-tyson-option.html",
     cat: "NBA",
     title: "キャバリアーズ、ジェイロン・タイソンの4年目チームオプションを行使 —— 新人超えの平均13.2得点、2027-28シーズンまで残留確定",
