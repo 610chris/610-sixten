@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-10-19 23:01 UTC",
+ "updated_utc": "2026-10-20 01:41 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xafbho/charania_minnesota_timberwolves_alldefense/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-20T01:38:48+00:00",
+   "text": "Shams Charania:\n\nMinnesota Timberwolves All-Defense forward Jaden McDaniels has agreed to a one-year, $40 million extension that will keep him under contract through the 2029-30 season, agents Nima Namakian of Innovate Sports and Bill Duffy of WME Basketball tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xafbho/charania_minnesota_timberwolves_alldefense/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania"
+   ]
+  },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
@@ -184,32 +197,6 @@
    "reddit_url": "https://www.reddit.com/r/nba/comments/1x9hdla/charania_phoenix_suns_center_oso_ighodaro_has/",
    "links": [
     "https://www.espn.com/contributor/shams-charania"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1x9giae/charania_just_in_sacramento_kings_guard_ben/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-18T22:37:14+00:00",
-   "text": "Source: https://www.espn.com/contributor/shams-charania\n\nJust in: Sacramento Kings guard Ben Simmons is believed to have sustained a torn Achilles tendon at practice Sunday, sources tell ESPN. A suspected season-ending injury for Simmons after rejuvenated and impressive training camp and preseason performances.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9giae/charania_just_in_sacramento_kings_guard_ben/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1x9ggx7/charania_just_in_sacramento_kings_guard_ben/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-18T22:35:24+00:00",
-   "text": "Just in: Sacramento Kings guard Ben Simmons is believed to have sustained a torn Achilles tendon at practice Sunday, sources tell ESPN. A suspected season-ending injury for Simmons after rejuvenated and impressive training camp and preseason performances\n\nUpdate from Shams: An MRI confirmed a season-ending torn right Achilles tendon for Ben Simmons. A devastating turn of events on the eve of his NBA return after rehabilitating from back surgeries.\n\nhttps://www.espn.com/contributor/shams-charania/7e9f23aaad9e5",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1x9ggx7/charania_just_in_sacramento_kings_guard_ben/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/7e9f23aaad9e5"
    ]
   }
  ]
