@@ -1,8 +1,96 @@
 {
- "updated_utc": "2026-10-19 22:36 UTC",
+ "updated_utc": "2026-10-20 01:14 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "roster",
+   "key": "https://www.nba.com/hornets/news/charlotte-hornets-sign-brandon-miller-to-contract-extension",
+   "url": "https://www.nba.com/hornets/news/charlotte-hornets-sign-brandon-miller-to-contract-extension",
+   "canonical_url": "https://hornets.com/news/charlotte-hornets-sign-brandon-miller-to-contract-extension",
+   "title": "Charlotte Hornets Sign Brandon Miller To Contract Extension",
+   "author": "Hornets PR",
+   "published_utc": "2026-10-20T00:24:10Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "October 19, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has signed guard Brandon Miller to a multiyear contract extension. Per team policy, the terms of the deal were not disclosed.",
+   "facts": [
+    "October 19, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has signed guard Brandon Miller to a multiyear contract extension.",
+    "Charlotte originally selected Miller with the 2nd overall pick in the 2023 NBA Draft.",
+    "In three seasons with the Hornets, Miller averages 19.0 points (43.1 FG%, 37.3 3P%, 86.3 FT%), 4.9 rebounds, 3.3 assists and 1.0 steals in 31.8 minutes per contest, compiling 166 career appearances (160 starts).",
+    "He was named First Team All-Rookie and finished third in Rookie of the Year voting in 2023-24 after winning three-straight Rookie of the Month awards from January-March 2024.",
+    "Last season, Miller claimed his first Eastern Conference Player of the Week award on Feb. 1, 2026, after averaging 26.3 points (51.6 FG%, 50.0 3P%, 100.0 FT%), 5.8 rebounds and 2.3 assists per game in four outings, becom…",
+    "The Antioch, Tenn., native averaged a team-leading 20.2 points per game (43.5 FG%, 38.3 3P%, 89.2 FT%) during the 2025-26 campaign over the course of 65 appearances (all starts).",
+    "He was one of 13 players in the NBA to average at least 3.0 3-pointers made per game last season and finished the year ranking ninth in the league in free throw percentage (89.2 FT%).",
+    "Miller also broke his own franchise record with 21-straight games with multiple 3-pointers made, ending the streak at 22 games, and led the Hornets with 18 25-point games on the season."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/sam-smiths-2026-27-season-predictions",
+   "url": "https://www.nba.com/bulls/news/sam-smiths-2026-27-season-predictions",
+   "canonical_url": "https://bulls.com/news/sam-smiths-2026-27-season-predictions",
+   "title": "Sam Smith's 2026-27 Season Predictions",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-19T23:00:27Z",
+   "tags": [],
+   "summary": "At least we know we won’t have to deal with celebrity row in June...",
+   "facts": [
+    "The NBA looks like it’s giving us a big hint on Tuesday while we deny any conspiracies involved when the 2026-27 season opens with the Celtics playing the Pistons followed by the 76ers against the Knicks.",
+    "If you have a parlay with those six you have a pretty good chance of emerging with the 2027 champion.",
+    "New York Knicks Yes, yes, we heard, it was 53 years.",
+    "Already Karl-Anthony Towns appears to be unhappy about merely having a $61 million player option for next season.",
+    "Knicks fans, meanwhile, only wanted him traded the first three months of last season.",
+    "That seemed to be another of those financial decisions despite even after Brown got himself into MVP conversation with Jayson Tatum out most of last season following Achilles surgery.",
+    "Tatum limped back seemingly a bit too soon and the Celtics gagged up a 3-1 first round lead to the 76ers, though exhausting Joel Embiid for the rest of the playoffs.",
+    "Philadelphia 76ers They’re the big story of the 2026-27 season even if no one maybe including LeBron believes they can win a championship with pretty much no one who’ll play defense."
+   ],
+   "quotes": [
+    "HE is hosting Saturday Night Live?"
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/irving-realistic-about-the-future-but-pumped-to-return-for-a-new-season",
+   "url": "https://www.nba.com/mavs/news/irving-realistic-about-the-future-but-pumped-to-return-for-a-new-season",
+   "canonical_url": "https://mavs.com/mavs/news/irving-realistic-about-the-future-but-pumped-to-return-for-a-new-season",
+   "title": "Irving realistic about the future, but pumped to return for a new season",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-19T22:54:25Z",
+   "tags": [],
+   "summary": "Maybe there are NBA players who have re-assembled their image better than Kyrie Irving, but it's got to be a short list.",
+   "facts": [
+    "But on Monday, two days before the Mavericks open their 2026-27 NBA season at Houston, philosophical Kyrie gave thoughtful and interesting answers on a variety of topics that can be touchy if not handled properly.",
+    "Nobody ever talked about it in 2011.",
+    "Basketball is the eternal flame, but I don’t see myself playing in the NBA at 42, 43.",
+    "When the Mavericks traded for him in 2023, he was thought to be too volatile to acquire by some teams.",
+    "Irving will be starting his 16th NBA season on Wednesday in Houston against Durant and the Rockets.",
+    "He’s coming back after 19 months on the shelf.",
+    "He suffered a torn anterior cruciate ligament in his left knee in March, 2025.",
+    "Irving wouldn’t be human if he didn’t have some nerves to overcome going into his first regular season action since that major injury."
+   ],
+   "quotes": [
+    "I love those guys, but I don’t share the same sentiments as them, necessarily,",
+    "But in terms of the NBA schedule, I think you got to really be in love with that, too. The weightlifting, unseen hours, getting ready to play at a high level. And also you have social media and gambli…",
+    "I don’t say that as a negative thing,",
+    "I’m really excited, looking forward to the opportunity to be in Houston, hear my name called out,"
+   ]
+  },
   {
    "source": "PHI 公式（nba.com）",
    "team": "PHI",
