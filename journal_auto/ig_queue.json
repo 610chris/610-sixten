@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T05:59:00+09:00",
+  "updated": "2026-10-21T06:58:44+09:00",
   "items": [
     {
       "id": "134",
@@ -13803,6 +13803,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブルズ、ブゼリス&エッセングのオプション行使\n\n・ブゼリスは2年目で平均16.3得点5.8リバウンド\n・3P170本+ブロック100本は史上3人目の快挙\n・エッセングはGリーグで平均23.0得点\n\n💬 ブゼリスとエッセング、今季ブレイクするのはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ブルズ公式サイト（nba.com/bulls）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "549",
+      "slug": "549-paul-george-38-points-pistons",
+      "category": "NBA",
+      "date": "2026-10-21",
+      "headline": "ポール・ジョージ、ピストンズ戦で38得点",
+      "excerpt": "ボストン・セルティックスのポール・ジョージは現地時間10月20日、デトロイト・ピストンズとのレギュラーシーズン戦に出場し、31分でフィールドゴール21本中12本(3ポイント12本中7本)、フリースロー8本中7本を沈めて38得点を記録した。両チーム通じてこの日の試合最多得点者となったが、セルティックスは113-121でピストンズに敗れた。",
+      "points": [
+        "31分出場でFG12/21、3P7/12、FT7/7",
+        "リバウンド5・アシスト3・スティール5",
+        "セルティックスは113-121で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/549-paul-george-38-points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Paul George"
+      ],
+      "question": "ジョージの38得点、ピストンズに勝っていたら快勝だった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PAUL GEORGE",
+        "opponent": "vs. PISTONS",
+        "points": 38,
+        "stats": [
+          "5 REB",
+          "5 STL",
+          "3 AST",
+          "12/21 FG",
+          "7/12 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/549-1.jpg",
+        "https://sixten.jp/assets/ig/549-2.jpg",
+        "https://sixten.jp/assets/ig/549-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-21T06:58:13+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ポール・ジョージ、ピストンズ戦で38得点\n\n・31分出場でFG12/21、3P7/12、FT7/7\n・リバウンド5・アシスト3・スティール5\n・セルティックスは113-121で敗戦\n\n💬 ジョージの38得点、ピストンズに勝っていたら快勝だった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
