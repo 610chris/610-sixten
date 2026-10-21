@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "564-magic-richardson-dasilva-options.html",
+    cat: "NBA",
+    title: "マジック、ジェイス・リチャードソンとトリスタン・ダ・シウバのチームオプションを行使 —— 2人とも2027-28シーズンまで残留確定",
+    excerpt: "オーランド・マジックは現地時間10月21日、ガードのジェイス・リチャードソンとフォワードのトリスタン・ダ・シウバについて、ルーキー・スケール契約に基づくチームオプションをそれぞれ行使したと発表した。契約条件は球団方針により非公表で、2人は2027-28シーズンまでマジックでプレーすることが確定した。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "563-adidas-ae3-lucid-pink.html",
     cat: "KICKS",
     title: "adidas Anthony Edwards 3「Lucid Pink」が登場 —— 品番KH8545、エドワーズの新バックコートでの開幕に合わせ新色投入",
