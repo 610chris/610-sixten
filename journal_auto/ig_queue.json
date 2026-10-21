@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T11:00:03+09:00",
+  "updated": "2026-10-21T11:09:40+09:00",
   "items": [
     {
       "id": "134",
@@ -14023,6 +14023,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ピストンズ、22点差の大逆転で開幕戦制す\n\n・3Qに22点のビハインドを負うも、4Qに23-0のランで逆転\n・デューレン22得点9リバウンド、カニングハム22得点8アシスト\n・1997-98年以降で開幕戦最大の逆転劇とESPNリサーチ\n\n💬 ピストンズのこの逆転劇、今季ブレイクの予感ある?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "555",
+      "slug": "555-maxey-28-points-knicks",
+      "category": "NBA",
+      "date": "2026-10-21",
+      "headline": "マクシー、ニックス戦で28得点",
+      "excerpt": "フィラデルフィア・76ersのタイリース・マクシーは現地時間10月20日、ニューヨーク・ニックスの優勝バナー掲揚試合に敵地で出場し、40分でフィールドゴール19本中9本(3ポイント9本中2本)、フリースロー9本中8本を沈めて28得点を記録した。両チーム通じてこの日の試合最多得点者となり、76ersは106-100でニックスに勝利した。",
+      "points": [
+        "40分でFG9/19・3PT2/9・FT8/9、アシスト5本",
+        "スティール3本・ブロック3本もチームトップ",
+        "76ersが優勝バナーの夜に106-100で勝利"
+      ],
+      "source": "ESPN ボックススコア（76ers vs. Knicks・2026年10月20日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/555-maxey-28-points-knicks.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Maxey"
+      ],
+      "question": "この強さ、76ersは今季プレーオフ上位争いに入れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYRESE MAXEY",
+        "opponent": "vs. KNICKS",
+        "points": 28,
+        "stats": [
+          "5 AST",
+          "4 REB",
+          "3 STL",
+          "3 BLK",
+          "9/19 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/555-1.jpg",
+        "https://sixten.jp/assets/ig/555-2.jpg",
+        "https://sixten.jp/assets/ig/555-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-21T11:09:16+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マクシー、ニックス戦で28得点\n\n・40分でFG9/19・3PT2/9・FT8/9、アシスト5本\n・スティール3本・ブロック3本もチームトップ\n・76ersが優勝バナーの夜に106-100で勝利\n\n💬 この強さ、76ersは今季プレーオフ上位争いに入れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（76ers vs. Knicks・2026年10月20日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
