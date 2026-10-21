@@ -1,8 +1,130 @@
 {
- "updated_utc": "2026-10-20 20:49 UTC",
+ "updated_utc": "2026-10-21 00:06 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-20261020-keys-bosdet",
+   "url": "https://www.nba.com/celtics/news/game-recap-20261020-keys-bosdet",
+   "canonical_url": "https://celtics.com/news/game-recap-20261020-keys-bosdet",
+   "title": "Keys to the Game: Pistons 121, Celtics 113",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-20T22:56:24Z",
+   "tags": [
+    "Game Recap",
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "The Celtics owned the first 28 minutes of their season opener in Detroit Tuesday afternoon. But the Pistons owned the final 20.",
+   "facts": [
+    "Key Moment The Celtics owned the first 28 minutes of their season opener in Detroit Tuesday afternoon.",
+    "But the Pistons owned the final 20.",
+    "After building a 22-point lead partway through the third quarter, Boston let its foot off the gas and allowed the Pistons to speed past for a 121-113 win.",
+    "The game saw a 35-point swing over a 17-minute span, as Detroit turned a 22-point deficit into a 13-point lead with a 62-27 run.",
+    "The Pistons got a major lift from a pair of unlikely heroes during the comeback, as Javonte Green and Duncan Robinson combined for 37 second-half points.",
+    "He knocked down five 3-pointers in the second half, while Robinson sank four of his own.",
+    "Those two helped propel Detroit all the way from 22 points down to 13 points ahead before the Pistons held on for the eight-point win.",
+    "Key Player Entering Tuesday, no Celtic had ever scored more than 30 points in his debut with the franchise."
+   ],
+   "quotes": [
+    "I feel like I'm getting my pop back."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-pacers-injury-report-game-preview-10-21-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-pacers-injury-report-game-preview-10-21-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-pacers-injury-report-game-preview-10-21-2026",
+   "title": "Pelicans vs. Pacers: Injury Report, Game Preview 10/21/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-20T21:58:21Z",
+   "tags": [],
+   "summary": "The Pelicans host the Indiana Pacers in their 2026-27 season opener on Wednesday at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network and Fox-8 (WVUE). Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans host the Indiana Pacers in their 2026-27 season opener on Wednesday at the Smoothie King Center at 7:00 pm CT.",
+    "The game will be broadcast on the Gulf Coast Sports and Entertainment Network and Fox-8 (WVUE).",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Pacers injury report, team news, tune in details, and gameday information: PELICANS VS PACERS INJURY UPDATE PELICANS INJURY REPORT Nothing to report PACERS INJURY REPORT Johnny Furphy OUT (right A…",
+    "McConnell OUT (right hamstring strain) Aaron Nesmith OUT (left hamstring strain) Braden Smith DOUBTFUL (G League two-way) Kobe Brown PROBABLE (G League two-way) Jalen Slawson PROBABLE (G League two-way) PELICANS VS PACER…",
+    "NEW ORLEANS PELICANS (0-0) Previous Game Lineup: October 16 preseason win vs.",
+    "Pacers Game Time, TV Channel, Radio & Location 📅 Game Time: Wednesday, Oct. 21 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pacers TV: DAZN📻 Pacer…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/2026-2027-denver-nuggets-season-preview",
+   "url": "https://www.nba.com/nuggets/news/2026-2027-denver-nuggets-season-preview",
+   "canonical_url": "https://nuggets.com/news/2026-2027-denver-nuggets-season-preview",
+   "title": "The 2026-27 Denver Nuggets season preview",
+   "author": "Matt Brooks",
+   "published_utc": "2026-10-20T21:54:00Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Aaron Gordon",
+    "Alpha Diallo",
+    "Cam Johnson",
+    "Christian Braun",
+    "DeMar DeRozan",
+    "Denver Nuggets",
+    "Jamal Murray"
+   ],
+   "summary": "The Denver Nuggets begin their season in Oklahoma City against the always-tough Thunder. Forty-eight hours later, they'll take on the New Orleans Pelicans for the home opener at Ball Arena. You can learn more about Denver's 2026-27 slate in our schedule-takeaways article from August.",
+   "facts": [
+    "You can learn more about Denver's 2026-27 slate in our schedule-takeaways article from August.",
+    "In 2023, Denver won its first-ever championship thanks to a tremendous first five: Nikola Jokić, Jamal Murray, Aaron Gordon, Kentavious Caldwell-Pope, and Michael Porter Jr.",
+    "The Nuggets' new nucleus was quite effective together last season, outscoring opponents by a whopping 13.5 points per 100 possessions over 360 total minutes.",
+    "Four of Denver's five starters (Jokić, Gordon, Johnson, and Braun) missed at least a month with an injury last season.",
+    "The remaining fifth starter, Murray, turned in his best season to date, earning All-Star and All-NBA honors by the end of 2025-26.",
+    "Braun was hampered for most of the year by an ankle injury he suffered during the first month of the season.",
+    "He told reporters on Media Day that he would be \"good to go\" in 2026-27, with no health restrictions.",
+    "This is his second season in Denver; he was acquired by the Nuggets via an offseason trade with the Brooklyn Nets in 2025."
+   ],
+   "quotes": [
+    " in 2026-27, with no health restrictions. ",
+    "Feel like I've grinded hard enough on it all summer and put myself in a good spot. So, I'm excited. I'm ready to go. Ankle is all good."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/jeremiah-fears-yves-missi-derik-queen-options-pelicans-roster-moves-10-20-2026",
+   "url": "https://www.nba.com/pelicans/news/jeremiah-fears-yves-missi-derik-queen-options-pelicans-roster-moves-10-20-2026",
+   "canonical_url": "https://pelicans.com/news/jeremiah-fears-yves-missi-derik-queen-options-pelicans-roster-moves-10-20-2026",
+   "title": "New Orleans Pelicans exercise options on Fears, Missi and Queen",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-20T21:00:00Z",
+   "tags": [],
+   "summary": "The New Orleans Pelicans announced today that the team has exercised a fourth-year option on center Yves Missi and third-year options on guard Jeremiah Fears and forward-center Derik Queen.",
+   "facts": [
+    "Missi, selected 21st overall in the 2024 NBA Draft, has appeared in 139 games (81 starts) for New Orleans, averaging 7.5 points, 7.1 rebounds and 1.4 blocks in 23.4 minutes per contest.",
+    "Missi has scored in double-figures 41 times and rebounded in double-figures 35 times, including 19 career double-doubles.",
+    "Fears, who was selected by New Orleans with the seventh overall pick in the 2025 NBA Draft out of Oklahoma, appeared in 82 games (49 starts) and averaged 14.3 points, 3.7 rebounds, 3.4 assists and 1.2 steals in 25.8 minu…",
+    "The Chicago native, who was one of two rookies to appear in all 82 regular season games during the 2025-26 season, scored in double-figures 59 times, including 17 20+point performances.",
+    "Queen, who was selected 13th overall in the 2025 NBA Draft out of Maryland, appeared in 81 games (48 starts) and averaged 11.7 points, 7.1 rebounds, 3.7 assists and 1.0 steals in 25.0 minutes per game.",
+    "The Baltimore native finished the season with 45 double-digit scoring games, including ten games with 20+points en route to Second Team All-Rookie honors.",
+    "Queen notched double-digit rebounds on 15 occasions and double-digit assists three times.",
+    "Queen was the only rookie and one of 22 NBA players to record multiple triple-doubles during the 2025-26 season."
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -24,7 +146,7 @@
     "Doncic led the league in scoring (33.5 PPG) in the 2025-26 season, but his supporting cast has been revamped after several starters signed elsewhere in free agency, including 22-time All-Star LeBron James (Philadelphia 7…",
     "Reaves averaged 23.3 points and 5.5 assists in the 2025-26 season and the Lakers won 50+ games for the second consecutive season of Head Coach JJ Redick's tenure.",
     "Lakers Key Additions: Walker Kessler (from Utah Jazz), Collin Sexton (from Chicago Bulls), Quinten Grimes (from Philadelphia 76ers), Sandro Mamukelashvili (from Toronto Raptors), Cameron Carr (from Baylor) Lakers Notable…",
-    "Golden State begins the year without Jimmy Butler III (ACL) and Moses Moody (ruptured left patellar tendon), who suffered injuries last season, and Kristaps Porziņģis missed all of the preseason with a health related mat…",
+    "Golden State begins the year without Jimmy Butler III (ACL) and Moses Moody (ruptured left patellar tendon), who suffered season-ending injuries last season, and Kristaps Porziņģis missed all of the preseason with a heal…",
     "However, the NBA's longest-tenured duo — Stephen Curry and Draymond Green — still lead the way as Curry enters his 18th season and Green begins Year 15.",
     "INJURY & ROSTER NOTES GSW: TBD.",
     "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2025-26 season."
@@ -58,6 +180,34 @@
     "Hopefully it’s the start of something special,",
     "But Masai (Ujiri, the Mavericks’ first-year president) has shown he’s been a winner in this league and he knows how to build teams. We’ll see where the journey goes in the next couple years, but it sh…"
    ]
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "roster",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-exercise-202728-contract-options-on-cedric-coward-and-zach-edey",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-exercise-202728-contract-options-on-cedric-coward-and-zach-edey",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-exercise-202728-contract-options-on-cedric-coward-and-zach-edey",
+   "title": "Grizzlies Exercise 2027–28 Contract Options on Cedric Coward and Zach Edey",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-10-20T19:45:00Z",
+   "tags": [
+    "Pressroom"
+   ],
+   "summary": "Memphis, Tenn. – The Memphis Grizzlies today announced the team exercised its 2027-28 rookie scale contract options on wing Cedric Coward and center Zach Edey.",
+   "facts": [
+    "Memphis, Tenn. – The Memphis Grizzlies today announced the team exercised its 2027-28 rookie scale contract options on wing Cedric Coward and center Zach Edey.",
+    "Coward (6-5 ¼, 213), who was acquired by the Grizzlies with the 11th overall pick in the 2025 NBA Draft, played 62 games (47 starts) as a rookie last season and averaged 13.6 points, 5.9 rebounds and 2.8 assists in 25.8 …",
+    "He was selected to the 2025-26 NBA All-Rookie First Team and the 2026 Rising Stars and finished fifth in the 2025-26 NBA Rookie of the Year voting.",
+    "The 23-year-old Fresno, Calif., native, who finished his collegiate career at Washington State, ranked sixth in scoring, fourth in rebounding, fifth in field goal percentage (.471) and second in free throw percentage (.8…",
+    "Edey (7-3 ¾, 299), who was selected by Memphis with the ninth overall pick in the 2024 NBA Draft, has appeared in 77 games (66 starts) in his first two seasons and has averaged 9.9 points, 8.7 rebounds, 1.0 assists and 1…",
+    "He was named to the 2024-25 NBA All-Rookie First Team and finished fifth in the 2024-25 NBA Rookie of the Year chase.",
+    "The 24-year-old Toronto native won all six major NCAA National Player of the Year honors as a junior and senior at Purdue, becoming the first player since Bill Walton in 1972 and 1973 to sweep all of the awards in consec…",
+    "He led the nation in total points and total rebounds as a senior while guiding the Boilermakers to the 2024 NCAA national championship game."
+   ],
+   "quotes": []
   },
   {
    "source": "MIN 公式（nba.com）",
@@ -238,9 +388,9 @@
     "Jackson Jr. is slated to make his on-court return in Memphis following the trade between the two teams back in February.",
     "Outside of adding Boozer, the Grizzlies traded Ja Morant to the Portland Trail Blazers (receiving Jerami Grant in return) and acquired Isaiah Stewart from the Detroit Pistons.",
     "The return of Zach Edey will be a defining component of the Grizzlies’ season, as the young big man was a transformative force in his limited action last year.",
+    "Jazz injury report: OUT - Trey Alexander (left knee; contusion), Tony Bradley (left quadriceps; strain), Blake Hinson (left hamstring; strain), Jusuf Nurkić (right foot; 2nd plantar plate tear) Grizzlies injury report: D…",
     "In 11 games last season, Edey averaged 13.6 points, 11.1 rebounds, and 1.9 blocks per game, becoming a dominant two-way force for Tuomas Iisalo’s squad.",
-    "In Edey’s 283 minutes on the floor, Memphis was 27.8 points per 100 possessions better, with elite rebounding and rim protection driving much of that impact.",
-    "Boozer was an impressive rebounder in college last season (10.2 per game), which could create trouble for Utah as Will Hardy’s squad prepares to defend and rebound without Jusuf Nurkić."
+    "In Edey’s 283 minutes on the floor, Memphis was 27.8 points per 100 possessions better, with elite rebounding and rim protection driving much of that impact."
    ],
    "quotes": [
     "Rebounding defensively is going to be maybe the most pivotal thing for us the entire season,"
@@ -1276,174 +1426,6 @@
     "The keys of winning are the same at every level — high school, college, NBA,",
     "And that will be the biggest adjustment for myself — just the amount of games and mental preparation and stamina that it’s going to take. But as far as one game or a seven-game series, you get better …"
    ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-claim-tony-bradley-off-waivers",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-claim-tony-bradley-off-waivers",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-claim-tony-bradley-off-waivers",
-   "title": "Utah Jazz Claim Tony Bradley Off Waivers",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-17T22:45:45Z",
-   "tags": [
-    "NBA",
-    "Tony Bradley",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 17, 2026) – The Utah Jazz announced today that the team has claimed center Tony Bradley off waivers.",
-   "facts": [
-    "SALT LAKE CITY (October 17, 2026) – The Utah Jazz announced today that the team has claimed center Tony Bradley off waivers.",
-    "About Tony Bradley Bradley (6-10, 248, North Carolina) is entering his ninth NBA season and has appeared in 234 career games with the Utah Jazz (2017-20), Philadelphia 76ers (2020-21), Oklahoma City Thunder (2020-21), Ch…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/warriors-waive-tyler-burton-dalen-terry-alex-toohey-20261017",
-   "url": "https://www.nba.com/warriors/news/warriors-waive-tyler-burton-dalen-terry-alex-toohey-20261017",
-   "canonical_url": "https://warriors.com/news/warriors-waive-tyler-burton-dalen-terry-alex-toohey-20261017",
-   "title": "Warriors Waive Tyler Burton, Dalen Terry & Alex Toohey",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-17T22:24:05Z",
-   "tags": [],
-   "summary": "The Warriors have waived forward Tyler Burton, guard Dalen Terry and forward Alex Toohey, it was announced Saturday.",
-   "facts": [
-    "The Warriors have waived forward Tyler Burton, guard Dalen Terry and forward Alex Toohey, it was announced Saturday.",
-    "Burton, who signed with the Warriors on October 11, logged five minutes of action against the Portland Trail Blazers on Friday, October 1.",
-    "Terry appeared in five preseason games (one start) with the Warriors, averaging 6.4 points, 3.4 rebounds, 2.6 assists and 1.2 steals in 14.0 minutes per game.",
-    "Terry originally signed with Golden State on August 27.",
-    "Toohey, who signed with Golden State on September 9, appeared in four preseason games (all as a reserve) with the Warriors, averaging 2.5 points, 0.8 rebounds, 1.0 assists, 1.0 blocks in 8.1 minutes per game.",
-    "Golden State’s roster currently stands at 18 players.",
-    "The team’s Opening Night roster will be finalized by 2 p.m.",
-    "PDT on Monday, October 19."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "roster",
-   "key": "https://www.nba.com/mavs/news/mavericks-waive-seth-lundy-and-john-poulakidas",
-   "url": "https://www.nba.com/mavs/news/mavericks-waive-seth-lundy-and-john-poulakidas",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-waive-seth-lundy-and-john-poulakidas",
-   "title": "MAVERICKS WAIVE SETH LUNDY AND JOHN POULAKIDAS",
-   "author": "Dallas Mavericks",
-   "published_utc": "2026-10-17T21:10:00Z",
-   "tags": [],
-   "summary": "DALLAS (Oct. 17, 2026) – The Dallas Mavericks announced today that they have waived guards Seth Lundy and John Poulakidas.",
-   "facts": [
-    "DALLAS (Oct. 17, 2026) – The Dallas Mavericks announced today that they have waived guards Seth Lundy and John Poulakidas.",
-    "Lundy (6-4, 220) played in all four preseason games this season for Dallas, averaging 5.5 points (.466 FG%, .363 3FG%), 0.5 steals and 12.0 minutes.",
-    "Poulakidas (6-6, 205) averaged 7.0 points (.500 FG%, .455 3FG%, .800 FT), 1.3 rebounds and 14.0 minutes through three preseason games for the Mavericks."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "SAC 公式（nba.com）",
-   "team": "SAC",
-   "team_ja": "キングス",
-   "team_id": 1610612758,
-   "kind": "roster",
-   "key": "https://www.nba.com/kings/news/kings-waive-lakhin-newton-and-payton",
-   "url": "https://www.nba.com/kings/news/kings-waive-lakhin-newton-and-payton",
-   "canonical_url": "https://kings.com/news/kings-waive-lakhin-newton-and-payton",
-   "title": "Kings Waive Lakhin, Newton and Payton",
-   "author": "Offical Release",
-   "published_utc": "2026-10-17T21:02:51Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "The Sacramento Kings announced today that the team has waived Viktor Lakhin, Tristen Newton and Elfrid Payton.",
-   "facts": [
-    "The Sacramento Kings announced today that the team has waived Viktor Lakhin, Tristen Newton and Elfrid Payton.",
-    "The Kings roster now stands at 18."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIL 公式（nba.com）",
-   "team": "MIL",
-   "team_ja": "バックス",
-   "team_id": 1610612749,
-   "kind": "feature",
-   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-request-waivers-on-pete-nance-johni-broome-and-jake-stephens",
-   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-request-waivers-on-pete-nance-johni-broome-and-jake-stephens",
-   "canonical_url": "https://bucks.com/news/milwaukee-bucks-request-waivers-on-pete-nance-johni-broome-and-jake-stephens",
-   "title": "Milwaukee Bucks Request Waivers On Pete Nance, Johni Broome And Jake Stephens",
-   "author": "Milwaukee Bucks",
-   "published_utc": "2026-10-17T21:00:40Z",
-   "tags": [],
-   "summary": "MILWAUKEE (Oct. 17, 2026) – The Milwaukee Bucks have requested waivers on Pete Nance, Johni Broome and Jake Stephens.",
-   "facts": [
-    "MILWAUKEE (Oct. 17, 2026) – The Milwaukee Bucks have requested waivers on Pete Nance, Johni Broome and Jake Stephens.",
-    "Nance, a 6-9, 228-pound forward/center, appeared in four preseason games (1 start) with the Bucks this year and averaged 4.0 points and 3.3 rebounds in 13.0 minutes per game.",
-    "After originally signing with Milwaukee on a Two-Way contract in February of 2025, Nance has seen action in 53 games (7 starts) over two seasons with the team, averaging 5.2 points, 2.6 rebounds and 1.0 assist in 15.2 mi…",
-    "Broome signed with the Bucks on Oct. 6 and tallied four points and three rebounds in nine minutes of action in his lone preseason appearance on Oct. 14 against the Chicago Bulls.",
-    "After signing with Milwaukee on Sept. 17, Stephens appeared in two preseason games and averaged 1.5 points and 1.0 rebound in 5.3 minutes per game.",
-    "Milwaukee’s roster now stands at 18 players."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "roster",
-   "key": "https://www.nba.com/pelicans/news/kobe-bufkin-jalon-moore-pelicans-roster-moves-preseason-10-17-2026",
-   "url": "https://www.nba.com/pelicans/news/kobe-bufkin-jalon-moore-pelicans-roster-moves-preseason-10-17-2026",
-   "canonical_url": "https://pelicans.com/news/kobe-bufkin-jalon-moore-pelicans-roster-moves-preseason-10-17-2026",
-   "title": "New Orleans Pelicans waive Kobe Bufkin and Jalon Moore",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-17T21:00:00Z",
-   "tags": [],
-   "summary": "The New Orleans Pelicans announced today that the team has waived guard Kobe Bufkin and forward Jalon Moore.",
-   "facts": [
-    "The New Orleans Pelicans announced today that the team has waived guard Kobe Bufkin and forward Jalon Moore.",
-    "Bufkin, 6-4, 195, appeared in three games for the Pelicans during the preseason, averaging 5.0 points and 1.0 rebounds in 7.8 minutes per game.",
-    "Bufkin has played in 43 games (one start) across three NBA seasons with the Atlanta Hawks and Los Angeles Lakers, averaging 4.2 points, 1.6 rebounds and 1.3 assists in 10.2 minutes per game.",
-    "Moore, 6-7, 215, who suffered a torn Achilles tendon prior to the 2025 NBA Draft, played in three games for the Pelicans Summer League team in Las Vegas this past summer, averaging 6.0 points and 4.0 rebounds in 19.3 min…",
-    "New Orleans’ roster now stands at 18 players, including three two-way players."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "roster",
-   "key": "https://www.nba.com/timberwolves/news/timberwolves-waive-five-players",
-   "url": "https://www.nba.com/timberwolves/news/timberwolves-waive-five-players",
-   "canonical_url": "https://timberwolves.com/news/timberwolves-waive-five-players",
-   "title": "Timberwolves Waive Five Players",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-10-17T20:52:17Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "Minneapolis-St. Paul – The Minnesota Timberwolves today announced the team has waived guard Antonio Reeves and forwards Enrique Freeman, KJ Martin, Norchad Omier (Oh-MEER) and Drew Timme.",
-   "facts": [
-    "Paul – The Minnesota Timberwolves today announced the team has waived guard Antonio Reeves and forwards Enrique Freeman, KJ Martin, Norchad Omier (Oh-MEER) and Drew Timme.",
-    "Reeves, 6-5, has played in 54 games (six starts) throughout his NBA career, splitting time with the New Orleans Pelicans and Charlotte Hornetts.",
-    "Reeves was originally selected 47th overall by the Orlando Magic in the 2024 NBA Draft.",
-    "In two NBA seasons, Reeves has appeared in 54 regular-season games, averaging 6.1 points on 45.9% from the field and 1.3 rebounds per game.",
-    "Reeves appeared in four games for the Timberwolves this preseason, averaging 6.8 points on 70.6% shooting, including 42.9% from three, 1.8 rebounds and 1.0 steal in 12.9 minutes per game.",
-    "Freeman, 6-7, has appeared in 26 NBA games (one start) in two seasons with the Indiana Pacers and Timberwolves, owning career averages of 2.3 points on 44.4% shooting and 1.5 rebounds in 8.4 minutes per contest.",
-    "Freeman was selected by the Pacers with the 50th overall pick in the 2024 NBA Draft.",
-    "Last season, Freeman appeared in 39 games (all starts) with the Iowa Wolves, the NBA G League affiliate of the Timberwolves, where he averaged 16.5 points on 54.6% shooting, 8.8 rebounds and 2.4 assists in 33.2 minutes p…"
-   ],
-   "quotes": []
   }
  ]
 }
