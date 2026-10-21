@@ -289,6 +289,33 @@
   "template": "news",
   "timestamp": "2026-10-03T02:32:20+0000"
  },
+ "17902348482604259": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "540",
+  "auto": true,
+  "caption_len": 369,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダーが開幕前評価で2年連続トップ —— ESPNシーズンプレビュー",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeuW3D-FJAc/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「2026-27 NBA season preview」",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T17:21:50+0000"
+ },
  "17902879224669795": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -338,6 +365,31 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T11:19:24+0000"
+ },
+ "17907532380593775": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "551",
+  "auto": true,
+  "caption_len": 332,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ペリカンズ、フィアーズ・ミッシ・クインのオプション一斉行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DevGZZGCkvS/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ペリカンズ公式サイト（nba.com/pelicans）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-21T00:17:11+0000"
  },
  "17908408719504087": {
   "article": "278",
@@ -1559,6 +1611,33 @@
   "permalink": "https://www.instagram.com/reel/CkF0uuYAAlX/",
   "product": "REELS",
   "timestamp": "2022-10-24T09:13:01+0000"
+ },
+ "17965719653983667": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "544",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キャバリアーズ、タイソンの4年目オプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeualYMGkIb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "キャバリアーズ公式サイト（nba.com/cavaliers）",
+  "subject": [
+   "Jaylon Tyson"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T17:54:25+0000"
  },
  "17965892710838665": {
   "auto": false,
@@ -3063,6 +3142,33 @@
   "template": "score",
   "timestamp": "2026-10-17T05:20:48+0000"
  },
+ "18095289416678632": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "549",
+  "auto": true,
+  "caption_len": 347,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポール・ジョージ、ピストンズ戦で38得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Deu3IP8ifYs/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Paul George"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-20T22:03:35+0000"
+ },
  "18095403911149782": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4151,6 +4257,33 @@
   "template": "news",
   "timestamp": "2026-10-16T22:26:42+0000"
  },
+ "18118364101999607": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "543",
+  "auto": true,
+  "caption_len": 382,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウィザーズ1位指名ダイバンツァ、開幕戦を欠場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeuX-7OASdc/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Wizards' AJ Dybantsa (ankle) to miss season opener」",
+  "subject": [
+   "AJ Dybantsa"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T17:31:28+0000"
+ },
  "18118657073012602": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4375,6 +4508,34 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:09:13+0000"
+ },
+ "18122746478486844": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "552",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "グリズリーズ、カワード・エデイの2027-28オプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DevGnkVmMVK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "グリズリーズ公式サイト（nba.com/grizzlies）",
+  "subject": [
+   "Cedric Coward",
+   "Zach Edey"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T00:19:04+0000"
  },
  "18123521362926693": {
   "arms": {
@@ -4700,6 +4861,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-16T22:28:30+0000"
+ },
+ "18130702628491874": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "536",
+  "auto": true,
+  "caption_len": 385,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン、76ers移籍後初のMSGへ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DetyZf1j-EM/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Windhorst: What Madison Square Garden means to LeBron James」",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T12:03:11+0000"
  },
  "18131599642675162": {
   "article": "330",
@@ -5787,6 +5975,34 @@
   "product": "REELS",
   "timestamp": "2022-04-12T04:37:15+0000"
  },
+ "18286713688288390": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "547",
+  "auto": true,
+  "caption_len": 367,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブルズ、ブゼリス&エッセングのオプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Deu27rEHx8X/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ブルズ公式サイト（nba.com/bulls）",
+  "subject": [
+   "Matas Buzelis",
+   "Noa Essengue"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T22:02:05+0000"
+ },
  "18286898389061250": {
   "auto": false,
   "caption_len": 33,
@@ -5922,6 +6138,60 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T03:46:09+0000"
+ },
+ "18382451392229998": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "542",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ「保証されたものは何もない」—— スパーズ、再びファイナルへ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeuXVm2CftM/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN特集記事",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T17:26:00+0000"
+ },
+ "18384400546236576": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "541",
+  "auto": true,
+  "caption_len": 328,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ニックス、優勝オフシーズンを満喫 —— パレード・タウンズ結婚・ブランソンSNL",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeuXJsbkRV3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN特集記事",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-20T17:24:21+0000"
  },
  "18385653802235379": {
   "arms": {
