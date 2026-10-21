@@ -107,6 +107,14 @@ const ARTICLES = [
     thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
   },
   {
+    href: "553-yokohama-excellence-bleague-one-2027-28.html",
+    cat: "JAPAN",
+    title: "横浜エクセレンス、2027-28シーズンもB.LEAGUE ONE参入決定 —— B.ONE仮入会基準を充足",
+    excerpt: "横浜エクセレンスは、公益社団法人ジャパン・プロフェッショナル・バスケットボールリーグ(B.LEAGUE)から2027-28シーズンのクラブライセンス判定結果を受け、「B.NEXT」ライセンス交付のうえB.ONE仮入会基準を充足していることが認められ、2027-28シーズンもB.LEAGUE ONE参入が決定した。クラブは2030-31シーズンのB.LEAGUE PREMIER参入を目標に掲げている。",
+    date: "2026.10.20",
+    thumb: "../assets/journal-553-hero.jpg?v=698416c6e3"
+  },
+  {
     href: "538-landry-shamet-serious-player-only.html",
     cat: "KICKS",
     title: "NBAガードのランドリー・シャメット、新興ブランド「Serious Player Only」とシューズ契約",
