@@ -1,7 +1,44 @@
 {
- "updated_utc": "2026-10-21 17:18 UTC",
+ "updated_utc": "2026-10-21 20:41 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xbypxr/charania_the_golden_state_warriors_are_actively/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-21T20:38:14+00:00",
+   "text": "The Golden State Warriors are actively discussing trades centered around Kristaps Porzingis: “[Golden State] can incentivize teams with draft picks, they have a pool of assets as well, potentially take on money in a deal for a ‘big name’ player.”",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xbypxr/charania_the_golden_state_warriors_are_actively/",
+   "links": []
+  },
+  {
+   "reporter": "Chris Haynes（NBA on Prime）",
+   "handle": "ChrisBHaynes",
+   "key": "https://www.reddit.com/r/nba/comments/1xbxggt/chris_haynes_the_portland_trail_blazers_are/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-21T19:50:21+00:00",
+   "text": "Chris Haynes:\n\nThe Portland Trail Blazers are starting Ja Morant in the backcourt alongside Damian Lillard to start off the 2026-27 season, league sources tell me.\n\nSource: https://www.threads.com/@chrisbhaynesnba/post/DexHMemgWee",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xbxggt/chris_haynes_the_portland_trail_blazers_are/",
+   "links": [
+    "https://www.threads.com/@chrisbhaynesnba/post/DexHMemgWee"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xbuykl/charania_golden_state_has_started_exploring_trade/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-21T18:18:43+00:00",
+   "text": "Golden State has started exploring trade routes for Kristaps Porzingis, who is now seriously contemplating his future in basketball as he deals with recurring symptoms from the autoimmune condition termed as POTS (postural orthostatic tachycardia syndrome), sources tell ESPN.\n\nSource: https://www.espn.com/contributor/shams-charania/852d3c91d8452",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xbuykl/charania_golden_state_has_started_exploring_trade/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/852d3c91d8452"
+   ]
+  },
   {
    "reporter": "Dave McMenamin（ESPN）",
    "handle": "mcten",
