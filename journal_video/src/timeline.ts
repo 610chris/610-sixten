@@ -17,12 +17,12 @@ export const OVERLAY_OPACITY = { from: 0.15, to: 0.55 } as const;
 /** ラベル: 0.2秒からフェードイン（0.4秒） */
 export const LABEL_IN = { start: 0.2, duration: 0.4 } as const;
 
-/** 見出し: 1.2秒からフェードイン＋下から少し上へスライド */
-export const HEADLINE_IN = { start: 1.2, duration: 0.6, slideY: 28 } as const;
+/** 見出し: 0.3秒からフェードイン＋下から少し上へスライド（2026-10-21 1.2→0.3 早める：画像だけの時間が長くスワイプされるため） */
+export const HEADLINE_IN = { start: 0.3, duration: 0.6, slideY: 28 } as const;
 
-/** 本文: 2.0秒から1行ずつ、0.55秒間隔 */
+/** 本文: 1.0秒から1行ずつ、0.55秒間隔（2026-10-21 2.0→1.0） */
 export const BODY_IN = {
-  start: 2.0,
+  start: 1.0,
   stagger: 0.55,
   duration: 0.5,
   slideY: 18,
@@ -59,7 +59,7 @@ export const DURATION_CLAMP = { min: 8, max: 30 } as const;
 
 /**
  * 尺の自動計算。
- * 尺 = 2.0（本文開始）+ 0.55 × 本文行数 + 0.8（間）+ 0.5（ワイプ）+ 3.0（余韻）
+ * 尺 = 1.0（本文開始）+ 0.55 × 本文行数 + 0.8（間）+ 0.5（ワイプ）+ 3.0（余韻）
  * 最低8秒・最大30秒でクランプする。
  */
 export const computeDurationInSeconds = (bodyLineCount: number): number => {
