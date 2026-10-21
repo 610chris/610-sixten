@@ -1,8 +1,38 @@
 {
- "updated_utc": "2026-10-21 05:14 UTC",
+ "updated_utc": "2026-10-21 10:32 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-rockets-preview-schedule-is-tough-but-may-ready-to-make-his-nba-debut",
+   "url": "https://www.nba.com/mavs/news/mavericks-rockets-preview-schedule-is-tough-but-may-ready-to-make-his-nba-debut",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-rockets-preview-schedule-is-tough-but-may-ready-to-make-his-nba-debut",
+   "title": "Mavericks-Rockets preview: Schedule is tough, but May ready to make his NBA debut",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-21T06:17:34Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "Don’t try to tell Dusty May the first eight games of the Dallas Mavericks’ schedule is akin to taking a long walk on a short plank. The Mavs’ coach doesn’t want to hear that.",
+   "facts": [
+    "The new-look Pacers return a healthy Tyrese Haliburton back after he missed the entire 2025-26 season when he tore his Achilles in Game 7 of the 2025 NBA Finals.",
+    "Irving averaged 24.7 points, shot 47.3 percent from the field, 40.1 percent from three-point land and made his ninth All-Star game appearance less than a month before suffering that dreadful season-ending injury. *The Ro…",
+    "Dallas Mavericks (0-0) at Houston Rockets (0-0) WHEN: Wednesday, Oct. 21 | 7:30 p.m.",
+    "WHERE: Toyota Center, Houston TV: WFAA, KFAA-29, MavsTV+ RADIO: 105.3 The Fan, 99.1 FM Zona MX (Spanish) WATCH PARTY: Happiest Hour, presented by Modelo | 7 p.m."
+   ],
+   "quotes": [
+    "Whenever we started turning the corner in college is when we scheduled more aggressively,",
+    "By us playing some of these teams in preseason, we learned the hard way about ourselves.",
+    "There were some things that were exposed, and that’s what you want,",
+    "So how do we respond? Can we make the adjustments? Can we fix it? Do we have the ability to fix it right away? I think it’s going to be a good thing if we can stay the course and stay healthy."
+   ]
+  },
   {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
