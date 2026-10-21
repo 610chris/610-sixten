@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "561-doncic-lakers-ad-championship-run.html",
+    cat: "NBA",
+    title: "ドンチッチ「特別なチームがある」—— 全面広告でファンへ協力要請、レイカーズが開幕戦へ",
+    excerpt: "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間10月21日、ロサンゼルス・タイムズに全面広告を掲載し「今夜、優勝への道を始める」とファンへ呼びかけた。レギュラーシーズン開幕戦(対ウォリアーズ)を控えてのメッセージで、ESPNが伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "560-doncic-lakers-5-questions.html",
     cat: "NBA",
     title: "ルカ・ドンチッチが背負う新時代のレイカーズ、残る5つの疑問 —— ESPNが開幕前夜に総括",
