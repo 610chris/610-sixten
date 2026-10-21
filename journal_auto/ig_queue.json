@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T11:09:40+09:00",
+  "updated": "2026-10-21T14:04:20+09:00",
   "items": [
     {
       "id": "134",
@@ -14070,6 +14070,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "マクシー、ニックス戦で28得点\n\n・40分でFG9/19・3PT2/9・FT8/9、アシスト5本\n・スティール3本・ブロック3本もチームトップ\n・76ersが優勝バナーの夜に106-100で勝利\n\n💬 この強さ、76ersは今季プレーオフ上位争いに入れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（76ers vs. Knicks・2026年10月20日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "556",
+      "slug": "556-sga-32-points-spurs-opener",
+      "category": "NBA",
+      "date": "2026-10-21",
+      "headline": "ギルジャス＝アレクサンダー、開幕戦でスパーズ戦32得点",
+      "excerpt": "オクラホマシティ・サンダーのシャイ・ギルジャス＝アレクサンダーは現地時間10月20日、2026-27シーズン開幕戦のサンアントニオ・スパーズ戦に36分出場し、フィールドゴール27本中13本(3ポイント7本中3本)、フリースロー4本中3本を沈めて32得点を記録した。両チーム通じてこの日の試合最多得点者となり、サンダーは116-104でスパーズを下して開幕戦を白星で飾った。",
+      "points": [
+        "サンダーが開幕戦でスパーズに116-104で勝利",
+        "ギルジャス＝アレクサンダーが36分で32得点・リバウンド6本・アシスト4本",
+        "スティール3本・ブロック3本と守備でも存在感"
+      ],
+      "source": "ESPN ボックススコア（Thunder vs. Spurs・2026年10月20日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/556-sga-32-points-spurs-opener.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "史上初の3連覇、サンダーは今季いける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. SPURS",
+        "points": 32,
+        "stats": [
+          "6 REB",
+          "4 AST",
+          "3 STL",
+          "3 BLK",
+          "13/27 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/556-1.jpg",
+        "https://sixten.jp/assets/ig/556-2.jpg",
+        "https://sixten.jp/assets/ig/556-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-21T14:03:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ギルジャス＝アレクサンダー、開幕戦でスパーズ戦32得点\n\n・サンダーが開幕戦でスパーズに116-104で勝利\n・ギルジャス＝アレクサンダーが36分で32得点・リバウンド6本・アシスト4本\n・スティール3本・ブロック3本と守備でも存在感\n\n💬 史上初の3連覇、サンダーは今季いける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Thunder vs. Spurs・2026年10月20日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
