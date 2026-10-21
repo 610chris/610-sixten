@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "557-cools-yokohama-bcorsairs-partnership.html",
+    cat: "JAPAN",
+    title: "Cools、横浜ビー・コルセアーズとオフィシャルパートナー（ゴールド）契約 —— 神奈川の住宅設備専門店が「ヨコハマをバスケの街に」を後押し",
+    excerpt: "住宅設備の販売・施工を手がける株式会社Cools(本社:神奈川県平塚市、代表取締役社長:重田淳平)は、B.LEAGUE PREMIER所属のプロバスケットボールチーム「横浜ビー・コルセアーズ」を運営する株式会社横浜ビーコルセアーズ(代表取締役社長:原毅人)と、2026年10月1日よりオフィシャルパートナー(ゴールド)契約を締結したと発表した。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-557-hero.jpg?v=50b0ed7ef2"
+  },
+  {
     href: "556-sga-32-points-spurs-opener.html",
     cat: "NBA",
     title: "ギルジャス＝アレクサンダー、スパーズ戦で32得点 —— サンダーが開幕戦を116-104で制す",
