@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "565-blazers-morant-lillard-backcourt-start.html",
+    cat: "NBA",
+    title: "ブレイザーズ、開幕からジャ・モラントをデイミアン・リラードとの新バックコートで先発起用 —— ヘインズ記者が報道",
+    excerpt: "ポートランド・トレイルブレイザーズは、2026-27シーズンの開幕にあたりジャ・モラントをデイミアン・リラードと組むバックコートで先発起用する。リーグ関係者の情報として、NBA on Primeのクリス・ヘインズ記者が現地時間10月21日に伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "564-magic-richardson-dasilva-options.html",
     cat: "NBA",
     title: "マジック、ジェイス・リチャードソンとトリスタン・ダ・シウバのチームオプションを行使 —— 2人とも2027-28シーズンまで残留確定",
