@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "560-doncic-lakers-5-questions.html",
+    cat: "NBA",
+    title: "ルカ・ドンチッチが背負う新時代のレイカーズ、残る5つの疑問 —— ESPNが開幕前夜に総括",
+    excerpt: "ESPNは21日（現地時間）、今夏レブロン・ジェームズが76ersへ移籍して迎える新体制のロサンゼルス・レイカーズについて、開幕を前に残る5つの疑問点を総括する特集記事を公開した。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "559-edwards-ball-timberwolves-chemistry.html",
+    cat: "NBA",
+    title: "アンソニー・エドワーズ×ラメロ・ボール、噛み合う新バックコート —— ESPN特集、ティンバーウルブズが取り戻した「笑顔」",
+    excerpt: "ESPNは21日（現地時間）、今夏ラメロ・ボールを獲得したミネソタ・ティンバーウルブズのバックコート改革を特集し、アンソニー・エドワーズとボールの間に新たな連係と「笑顔」が生まれていると伝えている。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "558-egozaru-ego-blaze-low.html",
     cat: "KICKS",
     title: "EGOZARU「EGO BLAZE LOW」が10月22日発売 —— 定番モデルをローカット化、軽量メッシュで足首の可動域アップ",
