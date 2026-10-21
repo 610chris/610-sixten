@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "558-egozaru-ego-blaze-low.html",
+    cat: "KICKS",
+    title: "EGOZARU「EGO BLAZE LOW」が10月22日発売 —— 定番モデルをローカット化、軽量メッシュで足首の可動域アップ",
+    excerpt: "バスケットボールブランド「EGOZARU」は、2024年発売の定番モデル「EGO BLAZE」をベースにしたローカットモデル「EGO BLAZE LOW」を2026年10月22日(木)に発売する。アッパーを再構築し、軽量化と足首の可動域向上を図った。",
+    date: "2026.10.21",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "557-cools-yokohama-bcorsairs-partnership.html",
     cat: "JAPAN",
     title: "Cools、横浜ビー・コルセアーズとオフィシャルパートナー（ゴールド）契約 —— 神奈川の住宅設備専門店が「ヨコハマをバスケの街に」を後押し",
