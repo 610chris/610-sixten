@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "567-adidas-superstar-halloween.html",
+    cat: "KICKS",
+    title: "adidas Superstar「Halloween」が10月23日発売 —— アンソニー・エドワーズのハロウィン限定カラー",
+    excerpt: "アディダスは、ミネソタ・ティンバーウルブズのアンソニー・エドワーズとのコラボモデル「adidas Superstar」の新色「Halloween」(品番KZ9164)を2026年10月23日に発売する。Sneaker Newsが伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "566-mavericks-walter-clayton-two-way.html",
     cat: "NBA",
     title: "ウォルター・クレイトンJr.、マーベリックスとツーウェイ契約で合意 —— グリズリーズでのウェーバー公示から新天地へ",
