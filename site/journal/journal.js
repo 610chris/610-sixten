@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "566-mavericks-walter-clayton-two-way.html",
+    cat: "NBA",
+    title: "ウォルター・クレイトンJr.、マーベリックスとツーウェイ契約で合意 —— グリズリーズでのウェーバー公示から新天地へ",
+    excerpt: "ダラス・マーベリックスは、2025年ドラフト全体18位指名のウォルター・クレイトンJr.とツーウェイ契約で合意した。ESPNのシャムズ・シャラニア記者が現地時間10月21日、複数の情報源の話として伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "565-blazers-morant-lillard-backcourt-start.html",
     cat: "NBA",
     title: "ブレイザーズ、開幕からジャ・モラントをデイミアン・リラードとの新バックコートで先発起用 —— ヘインズ記者が報道",
