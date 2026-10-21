@@ -1,8 +1,43 @@
 {
- "updated_utc": "2026-10-21 10:32 UTC",
+ "updated_utc": "2026-10-21 15:34 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/pistons-open-curtain-on-nba-season-with-a-bang-intent-on-closing-it-the-same-way",
+   "url": "https://www.nba.com/pistons/news/pistons-open-curtain-on-nba-season-with-a-bang-intent-on-closing-it-the-same-way",
+   "canonical_url": "https://pistons.com/news/pistons-open-curtain-on-nba-season-with-a-bang-intent-on-closing-it-the-same-way",
+   "title": "Pistons open curtain on NBA season with a bang, intent on closing it the same way",
+   "author": "Keith Langlois",
+   "published_utc": "2026-10-21T12:14:49Z",
+   "tags": [
+    "ausar thompson",
+    "Cade Cunningham",
+    "game recap"
+   ],
+   "summary": "The NBA entrusted the Pistons with the first game of the season, a national showcase matinee calculatedly scheduled to draw a prime-time audience in the fertile European market the league is determined to cultivate.",
+   "facts": [
+    "Bickerstaff to take over a team coming off a 14-68 season.",
+    "They recorded the NBA season’s first win, overcoming a 22-point second-half deficit to win 121-113 over Boston, but their goal is to notch the season’s final win next June.",
+    "The Pistons cut the deficit to three by late in the quarter, but the Celtics pushed it back to 12 with 10 minutes to play.",
+    "Over the final 9:36, the Pistons outscored Boston 37-17.",
+    "And over a stretch of 4:42 that started at the eight-minute mark, the Pistons overwhelmed Boston with a 23-0 run.",
+    "The Pistons scored on six of seven possessions to start that run – and scored 18 points on those six successful possessions.",
+    "Somebody asked Duren if, down 22, the Pistons were motivated by the fear of embarrassment on national TV in a much-anticipated opener.",
+    "The Pistons outscored Boston by 21 points with Green on the floor."
+   ],
+   "quotes": [
+    "I think basketball fans will do the same thing. Just got to get used to it,",
+    "To be able to get the excitement around opening day around the world is just another ingenious move by the league that continues to find ways to reach its fans and fans around the world.",
+    "These guys are relentless. They never say die. As long as there’s time on the clock, they believe they can win.",
+    "We’re not the team to hang our heads. We’ve seen the bottom, so we’re not afraid of it. And we fight. That’s the identity of our team. We’ve built everything we have off being gritty, being dawgs and …"
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -19,7 +54,7 @@
     "dallas mavericks",
     "nba"
    ],
-   "summary": "Don’t try to tell Dusty May the first eight games of the Dallas Mavericks’ schedule is akin to taking a long walk on a short plank. The Mavs’ coach doesn’t want to hear that.",
+   "summary": "HOUSTON -- Don’t try to tell Dusty May the first eight games of the Dallas Mavericks’ schedule is akin to taking a long walk on a short plank. The Mavs’ coach doesn’t want to hear that.",
    "facts": [
     "The new-look Pacers return a healthy Tyrese Haliburton back after he missed the entire 2025-26 season when he tore his Achilles in Game 7 of the 2025 NBA Finals.",
     "Irving averaged 24.7 points, shot 47.3 percent from the field, 40.1 percent from three-point land and made his ninth All-Star game appearance less than a month before suffering that dreadful season-ending injury. *The Ro…",
@@ -1499,36 +1534,6 @@
     "Darryn is starting to understand more and more that our games are long,",
     "Scoring flurries can happen at different moments. Darryn’s willingness to make the read in front of him is going to allow him to play well."
    ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "roster",
-   "key": "https://www.nba.com/celtics/news/press-release-20261018-celtics-convert-devin-carter-to-two-way-contract",
-   "url": "https://www.nba.com/celtics/news/press-release-20261018-celtics-convert-devin-carter-to-two-way-contract",
-   "canonical_url": "https://celtics.com/news/press-release-20261018-celtics-convert-devin-carter-to-two-way-contract",
-   "title": "Celtics Convert Devin Carter to Two-Way Contract",
-   "author": "Boston Celtics",
-   "published_utc": "2026-10-18T13:00:00Z",
-   "tags": [
-    "Devin Carter",
-    "Preseason",
-    "Press Release"
-   ],
-   "summary": "BOSTON – The Boston Celtics announced today that the team has converted guard Devin Carter to a two-way contract. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "BOSTON – The Boston Celtics announced today that the team has converted guard Devin Carter to a two-way contract.",
-    "Carter (6-2, 199) appeared in 38 games (12 starts) during the 2025-26 campaign, averaging 8.9 points, 3.3 rebounds, and 2.7 assists in 18.4 minutes of action.",
-    "In a win over Indiana on March 10, the 24-year-old finished with 24 points, including 22 points on 8-11 shooting from the field in the final quarter of play.",
-    "He was one of only seven players in the NBA this past season to score at least 22 points in a fourth quarter.",
-    "Selected by the Kings with the 13th overall pick in the 2024 NBA Draft, Carter has appeared in 74 games (12 starts) across two seasons, owning averages of 6.4 points, 2.7 rebounds, and 1.9 assists in 14.8 minutes.",
-    "He has seen action in 10 career NBA G League games (nine starts), notching averages of 24.9 points, 8.7 rebounds, 4.7 assists, 1.9 steals, and 1.0 block in 33.6 minutes.",
-    "Carter enjoyed a three-year collegiate career with one season at South Carolina (2021-22) and two seasons at Providence (2022-24), averaging 14.1 points, 5.9 rebounds, 2.7 assists, and 1.5 steals in 96 games (73 starts).",
-    "In his final season with the Friars, Carter appeared in 33 games (all starts), averaging career highs of 19.7 points, 8.7 rebounds, and 3.6 assists, en route to being named the 2024 BIG EAST Player of the Year."
-   ],
-   "quotes": []
   }
  ]
 }
