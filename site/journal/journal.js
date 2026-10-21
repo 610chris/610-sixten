@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "563-adidas-ae3-lucid-pink.html",
+    cat: "KICKS",
+    title: "adidas Anthony Edwards 3「Lucid Pink」が登場 —— 品番KH8545、エドワーズの新バックコートでの開幕に合わせ新色投入",
+    excerpt: "アディダスは、アンソニー・エドワーズの3代目シグネチャーシューズ「Anthony Edwards 3」の新色「Lucid Pink」を発売した。ラメロ・ボールとの新バックコートで臨む今季開幕に合わせたタイミングでの投入で、Sneaker Newsが伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "562-porzingis-trade-exploration-warriors.html",
+    cat: "NBA",
+    title: "ポルジンギス、トレード市場へ —— ウォリアーズが放出先の模索開始、本人は引退も視野に",
+    excerpt: "ゴールデンステート・ウォリアーズは、個人的な健康上の問題で無期限離脱中のクリスタプス・ポルジンギスについて、トレードでの放出先を探り始めた。本人はバスケットボール選手としてのキャリアを終える可能性も真剣に検討しているという。ESPNのシャムズ・シャラニア記者が伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "561-doncic-lakers-ad-championship-run.html",
     cat: "NBA",
     title: "ドンチッチ「特別なチームがある」—— 全面広告でファンへ協力要請、レイカーズが開幕戦へ",
