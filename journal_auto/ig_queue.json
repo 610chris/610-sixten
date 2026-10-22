@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T10:54:33+09:00",
+  "updated": "2026-10-22T11:08:59+09:00",
   "items": [
     {
       "id": "134",
@@ -14545,6 +14545,49 @@
       "ig_media_id": null,
       "error": null,
       "caption": "デイビス34得点、ウィザーズが開幕戦勝利\n\n・開幕戦のバックス戦に34分出場\n・FG11/20・FT11/14で34得点\n・リバウンド12本のダブルダブルでチーム勝利に貢献\n\n💬 ウィザーズ、デイビス軸でどこまで勝てる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Wizards vs. Bucks）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "569",
+      "slug": "569-banchero-35-points-hawks",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "パオロ・バンケロ、ホークス戦で35得点10アシスト",
+      "excerpt": "オーランド・マジックのパオロ・バンケロは現地時間10月21日、アトランタ・ホークス戦に41分出場し、フィールドゴール12本中10本(3ポイント4本中3本)、フリースロー16本中12本を沈めて35得点・10アシスト・7リバウンドを記録した。両チーム通じてこの日の試合最多得点者となったが、マジックは125-132でホークスに敗れた。",
+      "points": [
+        "41分出場でFG12本中10本",
+        "アシスト10本・リバウンド7本",
+        "マジックは125-132で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Magic vs. Hawks・2026年10月21日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/569-banchero-35-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Paolo Banchero"
+      ],
+      "question": "バンケロのこの出来、MVP候補に食い込む？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PAOLO BANCHERO",
+        "opponent": "vs. HAWKS",
+        "points": 35,
+        "stats": [
+          "10 AST",
+          "7 REB",
+          "10/12 FG",
+          "3/4 3PT",
+          "12/16 FT"
+        ]
+      },
+      "images": [],
+      "state": "pending",
+      "created": "2026-10-22T11:08:59+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "パオロ・バンケロ、ホークス戦で35得点10アシスト\n\n・41分出場でFG12本中10本\n・アシスト10本・リバウンド7本\n・マジックは125-132で敗戦\n\n💬 バンケロのこの出来、MVP候補に食い込む？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Magic vs. Hawks・2026年10月21日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
