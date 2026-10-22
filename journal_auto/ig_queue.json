@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:22:27+09:00",
+  "updated": "2026-10-22T11:36:31+09:00",
   "items": [
     {
       "id": "134",
@@ -14635,6 +14635,193 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジュリアス・ランドル、ホーネッツ戦で33得点\n\n・38分出場でFG18本中11本成功\n・7アシスト・8リバウンドも記録\n・ネッツは103-110で敗戦\n\n💬 ランドルのこの夜のプレー、何点ぐらい評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Hornets vs. Nets）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "571",
+      "slug": "571-edwards-45-points-heat",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "アンソニー・エドワーズ、ヒート戦で45得点",
+      "excerpt": "ミネソタ・ティンバーウルブズのアンソニー・エドワーズは現地時間10月21日、敵地でのマイアミ・ヒート戦に33分出場し、フィールドゴール29本中16本(3ポイント17本中9本)、フリースロー5本中4本を沈めて45得点・10リバウンド・3アシストを記録した。両チーム通じてこの日の試合最多得点者となり、ティンバーウルブズは131-106でヒートを下した。",
+      "points": [
+        "33分でFG16/29・3P9/17",
+        "リバウンド10・アシスト3",
+        "ティンバーウルブズが131-106で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/571-edwards-45-points-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Edwards"
+      ],
+      "question": "45得点のエドワーズ、今季はMVP争いに絡んでくると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY EDWARDS",
+        "opponent": "vs. HEAT",
+        "points": 45,
+        "stats": [
+          "10 REB",
+          "3 AST",
+          "2 STL",
+          "16/29 FG",
+          "9/17 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/571-1.jpg",
+        "https://sixten.jp/assets/ig/571-2.jpg",
+        "https://sixten.jp/assets/ig/571-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T11:36:19+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アンソニー・エドワーズ、ヒート戦で45得点\n\n・33分でFG16/29・3P9/17\n・リバウンド10・アシスト3\n・ティンバーウルブズが131-106で快勝\n\n💬 45得点のエドワーズ、今季はMVP争いに絡んでくると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "572",
+      "slug": "572-leonard-23-points-bulls",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "カワイ・レナード、ブルズ戦で23得点4スティール",
+      "excerpt": "トロント・ラプターズのカワイ・レナードは現地時間10月21日、本拠地でのシカゴ・ブルズ戦に24分出場し、フィールドゴール17本中5本(3ポイント6本中2本)、フリースロー11本中11本を沈めて23得点・4スティールを記録した。レナードはスコッティ・バーンズ、イマニュエル・クイックリーと並んで両チーム通じてこの日の試合最多得点となり、ラプターズは135-92でブルズに大勝した。",
+      "points": [
+        "24分でFT11/11全成功",
+        "スティール4・ブロック1",
+        "ラプターズが135-92で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/572-leonard-23-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Kawhi Leonard"
+      ],
+      "question": "レナード・バーンズ・クイックリー、23得点ハットトリックで一番活躍したのは誰？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KAWHI LEONARD",
+        "opponent": "vs. BULLS",
+        "points": 23,
+        "stats": [
+          "6 REB",
+          "4 STL",
+          "2 AST",
+          "5/17 FG",
+          "2/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/572-1.jpg",
+        "https://sixten.jp/assets/ig/572-2.jpg",
+        "https://sixten.jp/assets/ig/572-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T11:36:22+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カワイ・レナード、ブルズ戦で23得点4スティール\n\n・24分でFT11/11全成功\n・スティール4・ブロック1\n・ラプターズが135-92で大勝\n\n💬 レナード・バーンズ・クイックリー、23得点ハットトリックで一番活躍したのは誰？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "573",
+      "slug": "573-barnes-23-points-bulls",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "スコッティ・バーンズ、ブルズ戦で23得点5アシスト",
+      "excerpt": "トロント・ラプターズのスコッティ・バーンズは現地時間10月21日、本拠地でのシカゴ・ブルズ戦に26分出場し、フィールドゴール19本中8本(3ポイント3本中1本)、フリースロー6本中6本を沈めて23得点・5アシスト・6リバウンドを記録した。バーンズはカワイ・レナード、イマニュエル・クイックリーと並んで両チーム通じてこの日の試合最多得点となり、ラプターズは135-92でブルズに大勝した。",
+      "points": [
+        "26分でFT6/6全成功",
+        "プラスマイナス+29",
+        "ラプターズが135-92で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/573-barnes-23-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Scottie Barnes"
+      ],
+      "question": "バーンズの23得点5アシスト、やっぱりオールスター級だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOTTIE BARNES",
+        "opponent": "vs. BULLS",
+        "points": 23,
+        "stats": [
+          "6 REB",
+          "5 AST",
+          "8/19 FG",
+          "6/6 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/573-1.jpg",
+        "https://sixten.jp/assets/ig/573-2.jpg",
+        "https://sixten.jp/assets/ig/573-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T11:36:25+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "スコッティ・バーンズ、ブルズ戦で23得点5アシスト\n\n・26分でFT6/6全成功\n・プラスマイナス+29\n・ラプターズが135-92で大勝\n\n💬 バーンズの23得点5アシスト、やっぱりオールスター級だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "574",
+      "slug": "574-quickley-23-points-bulls",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "イマニュエル・クイックリー、ブルズ戦で23得点7アシスト",
+      "excerpt": "トロント・ラプターズのイマニュエル・クイックリーは現地時間10月21日、本拠地でのシカゴ・ブルズ戦に28分出場し、フィールドゴール13本中6本(3ポイント9本中4本)、フリースロー8本中7本を沈めて23得点・7アシスト・2スティールを記録した。クイックリーはカワイ・レナード、スコッティ・バーンズと並んで両チーム通じてこの日の試合最多得点となり、ラプターズは135-92でブルズに大勝した。",
+      "points": [
+        "28分でプラスマイナス+38",
+        "3P 9本中4本成功",
+        "ラプターズが135-92で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/574-quickley-23-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Immanuel Quickley"
+      ],
+      "question": "クイックリーの23得点7アシスト、ベンチ発で毎試合期待できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "IMMANUEL QUICKLEY",
+        "opponent": "vs. BULLS",
+        "points": 23,
+        "stats": [
+          "7 AST",
+          "4 REB",
+          "2 STL",
+          "6/13 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/574-1.jpg",
+        "https://sixten.jp/assets/ig/574-2.jpg",
+        "https://sixten.jp/assets/ig/574-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T11:36:28+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "イマニュエル・クイックリー、ブルズ戦で23得点7アシスト\n\n・28分でプラスマイナス+38\n・3P 9本中4本成功\n・ラプターズが135-92で大勝\n\n💬 クイックリーの23得点7アシスト、ベンチ発で毎試合期待できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
