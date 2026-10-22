@@ -1,8 +1,62 @@
 {
- "updated_utc": "2026-10-21 22:41 UTC",
+ "updated_utc": "2026-10-22 01:47 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-pelicans-261021",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-pelicans-261021",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-pelicans-261021",
+   "title": "Halftime Rewind: Pacers 56, Pelicans 66",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-22T01:15:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Wednesday, Oct. 21 at 8:00 PM ET at Smoothie King Center",
+   "facts": [
+    "Wednesday, Oct. 21 at 8:00 PM ET at Smoothie King Center Halftime Rewind Tyrese Haliburton made his official return on Wednesday night in New Orleans, but the Pacers headed to halftime trailing the Pelicans, 66-56.",
+    "Playing his first non-exhibition game in 486 days, Haliburton displayed little rust at the start of Wednesday's game.",
+    "The two-time All-Star scored seven of Indiana's first 17 points to propel the Pacers out to an early lead.",
+    "Haliburton had seven points on 3-of-5 shooting and three assists when he checked out for the first time with 4:01 remaining in the first quarter.",
+    "Former Pacers guard Bennedict Mathurin came off the New Orleans bench and tallied six points and two assists to help the hosts trim the margin down to two, but Indiana All-Star forward Pascal Siakam scored the final five…",
+    "The Pacers missed their first eight shots at the start of the second quarter, going scoreless for 4:31.",
+    "New Orleans capitalized, reeling off 12 unanswered points to surge ahead.",
+    "But Zion Williamson scored 10 points as New Orleans closed the half with a 16-5 run to take a 10-point lead into the intermission."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/some-perspective-about-new-mavericks-guard-clayton",
+   "url": "https://www.nba.com/mavs/news/some-perspective-about-new-mavericks-guard-clayton",
+   "canonical_url": "https://mavs.com/mavs/news/some-perspective-about-new-mavericks-guard-clayton",
+   "title": "Some perspective about new Mavericks' guard Clayton",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-22T01:00:50Z",
+   "tags": [],
+   "summary": "Walter Clayton has barely been in the NBA a year and he’s already had a career’s worth of initiation to what the league is like.",
+   "facts": [
+    "He has, in order, been traded as a future first-round pick, been a first-round draftee of Washington, traded to Utah on the same night he was drafted, traded again to Memphis in midseason and, finally, waived by the Griz…",
+    "They signed the 6-4 point guard to a two-way contract on Wednesday.",
+    "The franchise had an open two-way contract after waiving John Poulakidas over the weekend.",
+    "Clayton got waived by the Grizzlies on cut-down day and he had no shortage of suitors.",
+    "With the Mavericks, he’ll be able to play 50 games in the NBA, under rules of two-way contracts.",
+    "He started his college career at Iona, then transferred to Florida and helped the Gators win the national championship in 2025, when he averaged 18.3 points, 4.2 assists and 3.7 rebounds per game.",
+    "He was named the Final Four most outstanding player and had a key defensive play late in the Gators’ 65-63 win over Houston in the championship game.",
+    "For whatever reasons, Clayton has been a tradeable asset twice in his first NBA season."
+   ],
+   "quotes": []
+  },
   {
    "source": "CLE 公式（nba.com）",
    "team": "CLE",
@@ -304,11 +358,10 @@
     "Dusty May",
     "nba"
    ],
-   "summary": "HOUSTON -- Don’t try to tell Dusty May the first eight games of the Dallas Mavericks’ schedule is akin to taking a long walk on a short plank. The Mavs’ coach doesn’t want to hear that.",
+   "summary": "HOUSTON -- Don’t try to tell Dusty May the first eight games of the Dallas Mavericks’ schedule is akin to taking a long walk on a short plank. The Mavs’ coach doesn’t want to hear it.",
    "facts": [
-    "The new-look Pacers return a healthy Tyrese Haliburton back after he missed the entire 2025-26 season when he tore his Achilles in Game 7 of the 2025 NBA Finals.",
+    "The new-look Pacers return a healthy Tyrese Haliburton back after he missed the 2025-26 season when he tore his Achilles in Game 7 of the 2025 NBA Finals.",
     "Irving averaged 24.7 points, shot 47.3 percent from the field, 40.1 percent from three-point land and made his ninth All-Star game appearance less than a month before suffering that dreadful season-ending injury. *The Ro…",
-    "Dallas Mavericks (0-0) at Houston Rockets (0-0) WHEN: Wednesday, Oct. 21 | 7:30 p.m.",
     "WHERE: Toyota Center, Houston TV: WFAA, KFAA-29, MavsTV+ RADIO: 105.3 The Fan, 99.1 FM Zona MX (Spanish) WATCH PARTY: Happiest Hour, presented by Modelo | 7 p.m."
    ],
    "quotes": [
@@ -1734,41 +1787,6 @@
     "Simmons will undergo surgery."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/physical-aggressive-rookie-johnson-set-to-make-some-things-happen",
-   "url": "https://www.nba.com/mavs/news/physical-aggressive-rookie-johnson-set-to-make-some-things-happen",
-   "canonical_url": "https://mavs.com/mavs/news/physical-aggressive-rookie-johnson-set-to-make-some-things-happen",
-   "title": "Physical, aggressive rookie Johnson set to 'make some things happen'",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-19T00:00:39Z",
-   "tags": [
-    "dallas mavericks",
-    "Morez Johnson Jr.",
-    "nba"
-   ],
-   "summary": "Opening day in the NBA is a little like Christmas. Fans finally get to open the packages and see what they’re getting.",
-   "facts": [
-    "The Mavericks got him with the No. 9 overall pick in the June draft and with any rookie taken in the lottery, there’s always curiosity about what kind of player he’ll be.",
-    "It’s not like having a clear No. 1 overall pick — think Cooper Flagg or Victor Wembanyama — that you are certain is going to be a star.",
-    "However, the final preseason game on Friday gave a quick glimpse of what we can expect from the 6-9, 250-pound Johnson.",
-    "Just 15 seconds after he entered the game in the first quarter, Johnson bulled his way into the paint and grabbed a tough offensive rebound.",
-    "He sank the three-pointer that got the Mavericks within 22-19.",
-    "Johnson finished with seven rebounds in 14 minutes against the Hawks.",
-    "But he’s got a good sounding board to help him along in reigning rookie of the year Cooper Flagg, who is about 11 months younger than Johnson.",
-    "Johnson has been fighting a nagging injury in the preseason, which limited him to two games."
-   ],
-   "quotes": [
-    "Rez, like a lot of young guys, just needs game reps because of how aggressive he is to the ball,",
-    "And because of that, he’s going to make some things happen and also the extra possessions he’s going provide for us — the offensive rebounds, the loose basketballs — that and his defensive tenacity ar…",
-    "We want to be able to play him at both,",
-    "The keys to him playing the five is to impact the game with his energy and his physicality."
-   ]
   }
  ]
 }
