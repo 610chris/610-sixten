@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:36:31+09:00",
+  "updated": "2026-10-22T11:45:53+09:00",
   "items": [
     {
       "id": "134",
@@ -14822,6 +14822,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "イマニュエル・クイックリー、ブルズ戦で23得点7アシスト\n\n・28分でプラスマイナス+38\n・3P 9本中4本成功\n・ラプターズが135-92で大勝\n\n💬 クイックリーの23得点7アシスト、ベンチ発で毎試合期待できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "575",
+      "slug": "575-ty-jerome-45-points-jazz",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "タイ・ジェローム、ジャズ戦で45得点",
+      "excerpt": "メンフィス・グリズリーズのタイ・ジェロームは現地時間10月21日、本拠地でのユタ・ジャズ戦に32分出場し、フィールドゴール25本中17本(3ポイント10本中5本)、フリースロー7本中6本を沈めて45得点・7リバウンド・6アシストを記録した。両チーム通じてこの日の試合最多得点者となり、グリズリーズは123-103でジャズを下した。",
+      "points": [
+        "フィールドゴール25本中17本(68.0%)の高確率",
+        "7リバウンド・6アシストも記録",
+        "グリズリーズが123-103でジャズに快勝"
+      ],
+      "source": "ESPN ボックススコア（Jazz vs. Grizzlies・2026年10月21日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/575-ty-jerome-45-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Ty Jerome"
+      ],
+      "question": "45得点はシーズン最初の爆発、この後も続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TY JEROME",
+        "opponent": "vs. JAZZ",
+        "points": 45,
+        "stats": [
+          "7 REB",
+          "6 AST",
+          "17/25 FG",
+          "5/10 3PT",
+          "6/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/575-1.jpg",
+        "https://sixten.jp/assets/ig/575-2.jpg",
+        "https://sixten.jp/assets/ig/575-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T11:45:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タイ・ジェローム、ジャズ戦で45得点\n\n・フィールドゴール25本中17本(68.0%)の高確率\n・7リバウンド・6アシストも記録\n・グリズリーズが123-103でジャズに快勝\n\n💬 45得点はシーズン最初の爆発、この後も続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Jazz vs. Grizzlies・2026年10月21日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "576",
+      "slug": "576-siakam-30-points-pelicans",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "パスカル・シアカム、ペリカンズ戦で30得点",
+      "excerpt": "インディアナ・ペイサーズのパスカル・シアカムは現地時間10月21日、敵地でのニューオーリンズ・ペリカンズ戦に35分出場し、フィールドゴール23本中13本(3ポイント3本中1本)、フリースロー8本中3本を沈めて30得点・8リバウンドを記録した。両チーム通じてこの日の試合最多得点者となり、ペイサーズは123-120でペリカンズとの接戦を制した。",
+      "points": [
+        "フィールドゴール23本中13本(56.5%)で30得点",
+        "8リバウンドも記録",
+        "ペイサーズが123-120の接戦を制す"
+      ],
+      "source": "ESPN ボックススコア（Pacers vs. Pelicans・2026年10月21日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/576-siakam-30-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Pascal Siakam"
+      ],
+      "question": "ペイサーズのこの接戦、シアカム以外にも誰か目についた？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PASCAL SIAKAM",
+        "opponent": "vs. PELICANS",
+        "points": 30,
+        "stats": [
+          "8 REB",
+          "1 AST",
+          "13/23 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/576-1.jpg",
+        "https://sixten.jp/assets/ig/576-2.jpg",
+        "https://sixten.jp/assets/ig/576-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T11:45:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "パスカル・シアカム、ペリカンズ戦で30得点\n\n・フィールドゴール23本中13本(56.5%)で30得点\n・8リバウンドも記録\n・ペイサーズが123-120の接戦を制す\n\n💬 ペイサーズのこの接戦、シアカム以外にも誰か目についた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pacers vs. Pelicans・2026年10月21日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
