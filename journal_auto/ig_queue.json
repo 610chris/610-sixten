@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T12:13:30+09:00",
+  "updated": "2026-10-22T14:00:06+09:00",
   "items": [
     {
       "id": "134",
@@ -14961,6 +14961,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "クーパー・フラッグ、ロケッツ戦で32得点\n\n・33分出場、FG17本中10本・FT13本中11本\n・5リバウンド・2アシスト・3スティール\n・マーベリックスは110-128で敗戦\n\n💬 ロケッツに18点差で敗戦、このマーベリックス、今季どこまで巻き返せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Mavericks vs. Rockets・2026年10月21日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "578",
+      "slug": "578-doncic-28-points-warriors",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "ルカ・ドンチッチ、ウォリアーズ戦で28得点",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間10月21日、ゴールデンステート・ウォリアーズ戦に30分出場し、フィールドゴール18本中7本(3ポイント12本中5本)、フリースロー9本中9本を沈めて28得点・8リバウンド・7アシストを記録した。両チーム通じてこの日の試合最多得点者となり、レイカーズは127-105でウォリアーズを下した。",
+      "points": [
+        "レイカーズ本拠地でのウォリアーズ戦に30分出場",
+        "FG18本中7本・3P12本中5本・FT9本中9本",
+        "8リバウンド・7アシストでレイカーズが127-105で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/578-doncic-28-points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチ、今季はMVP争いに絡める？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. WARRIORS",
+        "points": 28,
+        "stats": [
+          "8 REB",
+          "7 AST",
+          "3 STL",
+          "7/18 FG",
+          "5/12 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/578-1.jpg",
+        "https://sixten.jp/assets/ig/578-2.jpg",
+        "https://sixten.jp/assets/ig/578-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T13:58:56+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ルカ・ドンチッチ、ウォリアーズ戦で28得点\n\n・レイカーズ本拠地でのウォリアーズ戦に30分出場\n・FG18本中7本・3P12本中5本・FT9本中9本\n・8リバウンド・7アシストでレイカーズが127-105で快勝\n\n💬 ドンチッチ、今季はMVP争いに絡める？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "579",
+      "slug": "579-lillard-25-points-suns",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "デイミアン・リラード、サンズ戦で25得点",
+      "excerpt": "ポートランド・トレイルブレイザーズのデイミアン・リラードは現地時間10月21日、フェニックス・サンズ戦に24分出場し、フィールドゴール12本中7本(3ポイント10本中6本)、フリースロー5本中5本を沈めて25得点・6アシスト・3リバウンドを記録した。両チーム通じてこの日の試合最多得点者となり、ブレイザーズは124-83でサンズに大勝した。",
+      "points": [
+        "ブレイザーズ本拠地でのサンズ戦に24分出場",
+        "FG12本中7本・3P10本中6本・FT5本中5本",
+        "6アシストでブレイザーズが124-83で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/579-lillard-25-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Damian Lillard"
+      ],
+      "question": "リラード、新バックコートでの開幕どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DAMIAN LILLARD",
+        "opponent": "vs. SUNS",
+        "points": 25,
+        "stats": [
+          "6 AST",
+          "3 REB",
+          "7/12 FG",
+          "6/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/579-1.jpg",
+        "https://sixten.jp/assets/ig/579-2.jpg",
+        "https://sixten.jp/assets/ig/579-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T13:58:56+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デイミアン・リラード、サンズ戦で25得点\n\n・ブレイザーズ本拠地でのサンズ戦に24分出場\n・FG12本中7本・3P10本中6本・FT5本中5本\n・6アシストでブレイザーズが124-83で大勝\n\n💬 リラード、新バックコートでの開幕どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
