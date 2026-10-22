@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "568-anthony-davis-34-points-wizards-opener.html",
+    cat: "NBA",
+    title: "アンソニー・デイビス、バックス戦で34得点 —— ウィザーズが開幕戦を128-116で制す",
+    excerpt: "ワシントン・ウィザーズのアンソニー・デイビスは現地時間10月21日、2026-27シーズン開幕戦のミルウォーキー・バックス戦に34分出場し、フィールドゴール20本中11本(3ポイント3本中1本)、フリースロー14本中11本を沈めて34得点を記録した。両チーム通じてこの日の試合最多得点者となり、ウィザーズは128-116でバックスを下して開幕戦を白星で飾った。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "567-adidas-superstar-halloween.html",
     cat: "KICKS",
     title: "adidas Superstar「Halloween」が10月23日発売 —— アンソニー・エドワーズのハロウィン限定カラー",
