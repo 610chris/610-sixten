@@ -123,6 +123,33 @@
   "template": "news",
   "timestamp": "2026-10-06T13:11:38+0000"
  },
+ "17884158930522861": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "565",
+  "auto": true,
+  "caption_len": 372,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブレイザーズ、開幕からモラント＆リラードの新バックコート",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DexgGKYjxXi/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Chris Haynes（NBA on Prime）のXポスト",
+  "subject": [
+   "Ja Morant|Damian Lillard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T22:40:14+0000"
+ },
  "17885254991554007": {
   "auto": false,
   "caption_len": 98,
@@ -650,6 +677,60 @@
   ],
   "template": "score",
   "timestamp": "2026-10-15T03:03:35+0000"
+ },
+ "17917077768527982": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "566",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クレイトンJr.、マーベリックスとツーウェイ契約",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DexgSYugDWk/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（シャムズ・シャラニア記者）",
+  "subject": [
+   "Walter Clayton Jr."
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T22:41:54+0000"
+ },
+ "17919743028451892": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "560",
+  "auto": true,
+  "caption_len": 376,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチが背負う新時代のレイカーズ、残る5つの疑問",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DewYziBklCW/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「The 5 biggest questions still facing Luka and the Lakers」",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T12:17:18+0000"
  },
  "17920393902244036": {
   "arms": {
@@ -3976,6 +4057,33 @@
   "template": "news",
   "timestamp": "2026-09-29T11:32:56+0000"
  },
+ "18112231288886642": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "562",
+  "auto": true,
+  "caption_len": 277,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ポルジンギス、トレード市場へ —— 本人は引退も視野に",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/Dexftrhl3lf/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Kristaps Porzingis"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T22:36:54+0000"
+ },
  "18112638686174166": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4182,6 +4290,33 @@
   "template": "news",
   "timestamp": "2026-10-16T22:25:11+0000"
  },
+ "18116540669597187": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "559",
+  "auto": true,
+  "caption_len": 427,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エドワーズ×ボールの新バックコート、滑り出しから噛み合う",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DewYncYk_F8/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「The Edwards-Ball partnership opens with chemistry and hope」",
+  "subject": [
+   "Anthony Edwards|LaMelo Ball"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T12:15:38+0000"
+ },
  "18116547508821277": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4208,6 +4343,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-12T12:07:58+0000"
+ },
+ "18117201529804060": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "555",
+  "auto": true,
+  "caption_len": 382,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マクシー、ニックス戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DevTvt1iGPV/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（76ers vs. Knicks・2026年10月20日）",
+  "subject": [
+   "Tyrese Maxey"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-21T02:13:39+0000"
  },
  "18117441415777105": {
   "article": "354",
@@ -5105,6 +5267,34 @@
   "template": "news",
   "timestamp": "2026-10-01T15:02:11+0000"
  },
+ "18139589959540058": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "554",
+  "auto": true,
+  "caption_len": 349,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ピストンズ、22点差の大逆転で開幕戦制す",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DevSn__DUlv/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Jalen Duren",
+   "Cade Cunningham"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T02:04:03+0000"
+ },
  "18142402606607890": {
   "article": "285",
   "auto": true,
@@ -5304,6 +5494,33 @@
   "template": "news",
   "timestamp": "2026-10-15T01:05:59+0000"
  },
+ "18148882789561101": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "556",
+  "auto": true,
+  "caption_len": 398,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ギルジャス＝アレクサンダー、開幕戦でスパーズ戦32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Devnokdkf9P/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Thunder vs. Spurs・2026年10月20日）",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-21T05:07:40+0000"
+ },
  "18149854045539124": {
   "article": "272",
   "auto": true,
@@ -5480,6 +5697,33 @@
   ],
   "template": "quote",
   "timestamp": "2026-09-29T11:12:49+0000"
+ },
+ "18177131926453034": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "561",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチ「特別なチームがある」—— 全面広告でファンへ協力要請",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dew5s-zCJmK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T17:04:40+0000"
  },
  "18177193867443972": {
   "arms": {
@@ -6088,6 +6332,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:15:54+0000"
+ },
+ "18351504148271611": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "564",
+  "auto": true,
+  "caption_len": 377,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マジック、リチャードソン&ダ・シウバのオプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dexf59Wjsae/",
+  "product": "REELS",
+  "route": "library",
+  "source": "マジック公式サイト（nba.com/magic）",
+  "subject": [
+   "Jase Richardson|Tristan da Silva"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-21T22:38:34+0000"
  },
  "18351826153217661": {
   "article": "342",
