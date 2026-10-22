@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:08:59+09:00",
+  "updated": "2026-10-22T11:22:27+09:00",
   "items": [
     {
       "id": "134",
@@ -14588,6 +14588,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "パオロ・バンケロ、ホークス戦で35得点10アシスト\n\n・41分出場でFG12本中10本\n・アシスト10本・リバウンド7本\n・マジックは125-132で敗戦\n\n💬 バンケロのこの出来、MVP候補に食い込む？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Magic vs. Hawks・2026年10月21日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "570",
+      "slug": "570-randle-33-points-hornets",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "ジュリアス・ランドル、ホーネッツ戦で33得点",
+      "excerpt": "ブルックリン・ネッツのジュリアス・ランドルは現地時間10月21日、本拠地でのシャーロット・ホーネッツ戦に38分出場し、フィールドゴール18本中11本(3ポイント5本中3本)、フリースロー11本中8本を沈めて33得点・7アシスト・8リバウンドを記録した。両チーム通じてこの日の試合最多得点者となったが、ネッツは103-110でホーネッツに敗れた。",
+      "points": [
+        "38分出場でFG18本中11本成功",
+        "7アシスト・8リバウンドも記録",
+        "ネッツは103-110で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Hornets vs. Nets）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/570-randle-33-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Julius Randle"
+      ],
+      "question": "ランドルのこの夜のプレー、何点ぐらい評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JULIUS RANDLE",
+        "opponent": "vs. HORNETS",
+        "points": 33,
+        "stats": [
+          "8 REB",
+          "7 AST",
+          "11/18 FG",
+          "3/5 3PT",
+          "8/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/570-1.jpg",
+        "https://sixten.jp/assets/ig/570-2.jpg",
+        "https://sixten.jp/assets/ig/570-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T11:21:24+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジュリアス・ランドル、ホーネッツ戦で33得点\n\n・38分出場でFG18本中11本成功\n・7アシスト・8リバウンドも記録\n・ネッツは103-110で敗戦\n\n💬 ランドルのこの夜のプレー、何点ぐらい評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Hornets vs. Nets）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
