@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "584-haliburton-return-pacers-opener.html",
+    cat: "NBA",
+    title: "タイリース・ハリバートン、400日越しの実戦復帰で涙 —— ペイサーズが開幕戦でペリカンズに123-120の接戦制す",
+    excerpt: "インディアナ・ペイサーズのタイリース・ハリバートンは現地時間10月21日、2025年NBAファイナルGame7で負った右アキレス腱断裂から約16カ月半ぶりに実戦復帰。23得点12アシストでペリカンズとの開幕戦を123-120で勝利に導いた。ESPN(Andscape)が伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "583-lebron-era-ends-lakers-warriors.html",
     cat: "NBA",
     title: "レイカーズ、開幕戦でウォリアーズに127-105 —— リーブスが語ったレブロンとの「最後の抱擁」",
