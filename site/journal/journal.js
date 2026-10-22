@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "583-lebron-era-ends-lakers-warriors.html",
+    cat: "NBA",
+    title: "レイカーズ、開幕戦でウォリアーズに127-105 —— リーブスが語ったレブロンとの「最後の抱擁」",
+    excerpt: "ロサンゼルス・レイカーズは現地時間10月21日の開幕戦でゴールデンステート・ウォリアーズを127-105で下したが、コートにレブロン・ジェームズの姿はなかった。オースティン・リーブスが明かした別れの夜と、新時代を担うルカ・ドンチッチの奮闘をESPNが伝えた。",
+    date: "2026.10.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "582-giannis-heat-debut-trust-quote.html",
     cat: "NBA",
     title: "ヤニス「お互いをもっと信じないと」—— ヒート公式戦デビューは35得点も開幕戦で大敗",
