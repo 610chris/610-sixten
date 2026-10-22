@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T11:45:53+09:00",
+  "updated": "2026-10-22T12:13:30+09:00",
   "items": [
     {
       "id": "134",
@@ -14914,6 +14914,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "パスカル・シアカム、ペリカンズ戦で30得点\n\n・フィールドゴール23本中13本(56.5%)で30得点\n・8リバウンドも記録\n・ペイサーズが123-120の接戦を制す\n\n💬 ペイサーズのこの接戦、シアカム以外にも誰か目についた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pacers vs. Pelicans・2026年10月21日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "577",
+      "slug": "577-flagg-32-points-rockets",
+      "category": "NBA",
+      "date": "2026-10-22",
+      "headline": "クーパー・フラッグ、ロケッツ戦で32得点",
+      "excerpt": "ダラス・マーベリックスのクーパー・フラッグは現地時間10月21日、敵地でのヒューストン・ロケッツ戦に33分出場し、フィールドゴール17本中10本(3ポイント4本中1本)、フリースロー13本中11本を沈めて32得点・5リバウンド・2アシストを記録した。両チーム通じてこの日の試合最多得点者となったが、マーベリックスは110-128でロケッツに敗れた。",
+      "points": [
+        "33分出場、FG17本中10本・FT13本中11本",
+        "5リバウンド・2アシスト・3スティール",
+        "マーベリックスは110-128で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Mavericks vs. Rockets・2026年10月21日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/577-flagg-32-points-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Cooper Flagg"
+      ],
+      "question": "ロケッツに18点差で敗戦、このマーベリックス、今季どこまで巻き返せる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "COOPER FLAGG",
+        "opponent": "vs. ROCKETS",
+        "points": 32,
+        "stats": [
+          "5 REB",
+          "3 STL",
+          "2 AST",
+          "10/17 FG",
+          "11/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/577-1.jpg",
+        "https://sixten.jp/assets/ig/577-2.jpg",
+        "https://sixten.jp/assets/ig/577-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-22T12:12:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "クーパー・フラッグ、ロケッツ戦で32得点\n\n・33分出場、FG17本中10本・FT13本中11本\n・5リバウンド・2アシスト・3スティール\n・マーベリックスは110-128で敗戦\n\n💬 ロケッツに18点差で敗戦、このマーベリックス、今季どこまで巻き返せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Mavericks vs. Rockets・2026年10月21日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
