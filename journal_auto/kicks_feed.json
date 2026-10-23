@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-22 22:21 UTC",
+ "updated_utc": "2026-10-23 01:32 UTC",
  "sources_ok": [
   "FLY BASKETBALL CULTURE MAGAZINE",
   "Sneaker News",
@@ -12,6 +12,74 @@
   "Sneaker Files"
  ],
  "posts": [
+  {
+   "source": "FLY BASKETBALL CULTURE MAGAZINE",
+   "tier": "A",
+   "lang": "ja",
+   "key": "https://flymag.jp/news/68455/",
+   "url": "https://flymag.jp/news/68455/",
+   "title": "New Balance「990」シリーズの最新作『Made in USA 990v7』が11月6日(金)登場！",
+   "published_utc": "2026-10-22T23:31:41Z",
+   "summary": "New Balanceが、40年以上にわたりカルチャーアイコンであり続けた「990」シリーズの最新モデル『Made in USA 990v7』を発表。11月6日(金)よりニューバランス公式オンラインストア、一部のニューバランスオフィシャルストアおよび取り扱い店にて発売される。 この発売に先駆け、ニューバランス原宿では10月23日(金)より試し履きイベントが行われる。 「未来からの記憶（Memories from the Future）」というデザイン哲学のもとで開発された990v7。シリーズを象徴するクラシックなデザインを継承しながら、プロポーション・レイヤリング・構造に細かなアップデートを加えることで、より洗練された現代的な印象へと進化させた。マラソンランナーからファッション愛好家まで、あらゆる人々に長年愛されてきた990の普遍的な魅力を最新の技術で再構築した一足に仕上がっている。 アッパーにはピッグスエード、通気性に優れたメッシュ、上質なレザーアクセント、シンセティックスエード製のスウェイバーを採用したプレミアムな仕様。ミッドソールには990v6で初採用されたFuelCellをさらにソフトに調整したフォームを搭載し、優れたクッション性と反発性を実現。ENCAPテクノロジー、象徴的なCRデバイス、新たに採用されたTPUミッドフットシャンクにより、安定性とスムーズな足運びをサポート",
+   "categories": []
+  },
+  {
+   "source": "Sneaker Bar Detroit",
+   "tier": "C",
+   "lang": "en",
+   "key": "https://sneakerbardetroit.com/nike-air-foamposite-pro-lsu-tigers-ix2091-700/",
+   "url": "https://sneakerbardetroit.com/nike-air-foamposite-pro-lsu-tigers-ix2091-700/",
+   "title": "Nike Air Foamposite Pro “LSU Tigers” Releases November 5th",
+   "published_utc": "2026-10-22T23:07:54Z",
+   "summary": "LSU is one of the schools getting its own Nike Air Foamposite Pro this November, with a design covered in tiger stripes. The shoe has a bright yellow Foamposite shell with black stripes running across it, while purple covers the ankle collar and inner lining. LSU logos are placed on the tongues and heels, with […] The post Nike Air Foamposite Pro “LSU Tigers” Releases November 5th appeared first on Sneaker Bar Detroit .",
+   "categories": [
+    "Nike",
+    "Nike Air Foamposite Pro"
+   ]
+  },
+  {
+   "source": "Sneaker Bar Detroit",
+   "tier": "C",
+   "lang": "en",
+   "key": "https://sneakerbardetroit.com/nike-air-foamposite-pro-ohio-state-ix2094-100/",
+   "url": "https://sneakerbardetroit.com/nike-air-foamposite-pro-ohio-state-ix2094-100/",
+   "title": "Nike Air Foamposite Pro “Ohio State” Releases November 5th",
+   "published_utc": "2026-10-22T23:04:15Z",
+   "summary": "Buckeye leaves cover the white shell of the upcoming Nike Air Foamposite Pro “Ohio State,” although the light grey pattern is pretty easy to miss at first. Metallic red Swooshes stand out against the mostly white upper, giving the shoe some color without taking away from the Ohio State details. The school’s official logo appears […] The post Nike Air Foamposite Pro “Ohio State” Releases November 5th appeared first on Sneaker Bar Detroit .",
+   "categories": [
+    "Nike",
+    "Nike Air Foamposite Pro"
+   ]
+  },
+  {
+   "source": "Sneaker Bar Detroit",
+   "tier": "C",
+   "lang": "en",
+   "key": "https://sneakerbardetroit.com/ucla-air-jordan-11-gamma-football-cleat-pe/",
+   "url": "https://sneakerbardetroit.com/ucla-air-jordan-11-gamma-football-cleat-pe/",
+   "title": "UCLA Football Reveals Air Jordan 11 “Gamma” Cleats",
+   "published_utc": "2026-10-22T23:00:59Z",
+   "summary": "UCLA Football is getting its own version of the Air Jordan 11 “Gamma,” made exclusively for the Bruins to wear on the field. The cleats come covered in glossy black patent material, with UCLA blue on the Jumpman logo, tongue, and heel. The team’s branding also appears on the tongue, where a scripted “UCLA” logo […] The post UCLA Football Reveals Air Jordan 11 “Gamma” Cleats appeared first on Sneaker Bar Detroit .",
+   "categories": [
+    "Air Jordans",
+    "Air Jordan 11",
+    "Air Jordan 11 Gamma"
+   ]
+  },
+  {
+   "source": "Sneaker Bar Detroit",
+   "tier": "C",
+   "lang": "en",
+   "key": "https://sneakerbardetroit.com/nike-sabrina-4-tcu-pe/",
+   "url": "https://sneakerbardetroit.com/nike-sabrina-4-tcu-pe/",
+   "title": "TCU Shares Their Nike Sabrina 4 PE",
+   "published_utc": "2026-10-22T22:23:29Z",
+   "summary": "TCU has its own Nike Sabrina 4 PE, giving the Horned Frogs a purple and black version of Sabrina Ionescu’s fourth signature basketball shoe. The TCU edition follows the Duke PE that surfaced earlier in the women’s college basketball season, with both schools receiving exclusive colorways. The front is mostly black, right down to the […] The post TCU Shares Their Nike Sabrina 4 PE appeared first on Sneaker Bar Detroit .",
+   "categories": [
+    "Nike",
+    "Nike Sabrina 4"
+   ]
+  },
   {
    "source": "Sneaker News",
    "tier": "B",
@@ -89,6 +157,22 @@
    ]
   },
   {
+   "source": "Nice Kicks",
+   "tier": "B",
+   "lang": "en",
+   "key": "https://www.nicekicks.com/nike-air-force-1-low-halloween-black-rat-2026/",
+   "url": "https://www.nicekicks.com/nike-air-force-1-low-halloween-black-rat-2026/",
+   "title": "Nike Air Force 1 Low “Halloween Black Rat”",
+   "published_utc": "2026-10-22T16:35:25Z",
+   "summary": "The Nike Air Force 1 Low “Halloween Black Rat” embraces New York City’s gritty character with a playful design inspired by one of its… The post Nike Air Force 1 Low “Halloween Black Rat” appeared first on Nice Kicks .",
+   "categories": [
+    "Nike",
+    "Nike Air Force 1",
+    "Release Dates",
+    "Sneaker Release Dates"
+   ]
+  },
+  {
    "source": "Sneaker Bar Detroit",
    "tier": "C",
    "lang": "en",
@@ -115,6 +199,22 @@
     "Nike",
     "Nike Kobe 10",
     "Nike Kobe 10 Protro"
+   ]
+  },
+  {
+   "source": "Nice Kicks",
+   "tier": "B",
+   "lang": "en",
+   "key": "https://www.nicekicks.com/nike-air-force-1-low-01-nightmare-ix0104-001/",
+   "url": "https://www.nicekicks.com/nike-air-force-1-low-01-nightmare-ix0104-001/",
+   "title": "Nike Air Force 1 Low ’01 “Nightmare”",
+   "published_utc": "2026-10-22T14:53:07Z",
+   "summary": "The Nike Air Force 1 Low “Nightmare” takes inspiration from the cult-classic horror film Hellraiser, bringing a sinister aesthetic to the iconic silhouette. A… The post Nike Air Force 1 Low ’01 “Nightmare” appeared first on Nice Kicks .",
+   "categories": [
+    "Nike",
+    "Nike Air Force 1",
+    "Release Dates",
+    "Sneaker Release Dates"
    ]
   },
   {
@@ -278,38 +378,6 @@
     "Nike",
     "Kevin Durant",
     "Nike KD 19"
-   ]
-  },
-  {
-   "source": "Sneaker Bar Detroit",
-   "tier": "C",
-   "lang": "en",
-   "key": "https://sneakerbardetroit.com/air-jordan-6-white-infrared-2026/",
-   "url": "https://sneakerbardetroit.com/air-jordan-6-white-infrared-2026/",
-   "title": "Air Jordan 6 “White Infrared” 2026 Retro Retailer Look",
-   "published_utc": "2026-10-21T21:00:52Z",
-   "summary": "The last time Jordan Brand brought back the Air Jordan 6 “White Infrared” was in 2014. Twelve years later, it’s finally on the calendar again for November 2026, and this release is expected to get much closer to the 1991 pair than the two retros before it. One of the biggest changes is the return […] The post Air Jordan 6 “White Infrared” 2026 Retro Retailer Look appeared first on Sneaker Bar Detroit .",
-   "categories": [
-    "Air Jordans",
-    "Air Jordan 6",
-    "Air Jordan 6 White Infrared"
-   ]
-  },
-  {
-   "source": "Sneaker Bar Detroit",
-   "tier": "C",
-   "lang": "en",
-   "key": "https://sneakerbardetroit.com/nike-basketball-signature-athletes-in-new-cities/",
-   "url": "https://sneakerbardetroit.com/nike-basketball-signature-athletes-in-new-cities/",
-   "title": "Nike Welcomes LeBron, Ja Morant And Giannis To New Cities",
-   "published_utc": "2026-10-21T20:23:43Z",
-   "summary": "Fans in Philadelphia can pick up the Nike LeBron 24 early as Nike Basketball welcomes LeBron James, Ja Morant, and Giannis Antetokounmpo to their new teams. The three offseason moves have prompted events in Philly, Portland, and Miami, with local artists and high school players involved. At 901 Market East, the LeBron pop-up carries Philadelphia-exclusive […] The post Nike Welcomes LeBron, Ja Morant And Giannis To New Cities appeared first on Sneaker Bar Detroit .",
-   "categories": [
-    "Nike",
-    "Giannis Antetokounmpo",
-    "Ja Morant",
-    "LeBron James",
-    "Nike LeBron 24"
    ]
   },
   {
@@ -600,23 +668,6 @@
    "summary": "Inspiration Behind the Haunting Jordan Brand has been leaning into holiday-themed releases for years, but the Halloween colorway concept has never had a more… The post Where To Buy the Air Jordan 5 “Halloween” appeared first on Nice Kicks .",
    "categories": [
     "Air Jordan 5",
-    "Air Jordan Release Dates",
-    "Air Jordans",
-    "Release Dates",
-    "Sneaker Release Dates"
-   ]
-  },
-  {
-   "source": "Nice Kicks",
-   "tier": "B",
-   "lang": "en",
-   "key": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
-   "url": "https://www.nicekicks.com/air-jordan-14-forest-green-487471-300/",
-   "title": "Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info",
-   "published_utc": "2026-10-17T13:54:13Z",
-   "summary": "The Air Jordan 14 “Forest Green” is expected to release on October 31, 2026, via SNKRS and select retailers for $215. Check out the… The post Air Jordan 14 “Forest Green” (487471-300) October 2026 Release Date & Info appeared first on Nice Kicks .",
-   "categories": [
-    "Air Jordan 14",
     "Air Jordan Release Dates",
     "Air Jordans",
     "Release Dates",
