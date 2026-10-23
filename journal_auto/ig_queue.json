@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T12:56:07+09:00",
+  "updated": "2026-10-23T13:55:25+09:00",
   "items": [
     {
       "id": "134",
@@ -15449,6 +15449,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "「NBA docomo DAY」11月3日に全5試合無料配信\n\n・11/3全5試合を無料配信・dアカウントで視聴可\n・八村塁のクリッパーズ×レナード復帰のラプターズ戦は特別番組\n・J-POP aoen颯太がNBA番組に初ゲスト出演\n\n💬 この無料配信、どの試合から見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: NTTドコモ プレスリリース（PR TIMES）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "590",
+      "slug": "590-jalen-williams-21-points-nuggets",
+      "category": "NBA",
+      "date": "2026-10-23",
+      "headline": "ジェイレン・ウィリアムズ、ナゲッツ戦で21得点",
+      "excerpt": "オクラホマシティ・サンダーのジェイレン・ウィリアムズは現地時間10月22日、本拠地でのデンバー・ナゲッツ戦に33分出場し、フィールドゴール15本中7本(3ポイント6本中2本)、フリースロー6本中5本を沈めて21得点・5リバウンド・3アシストを記録した。両チーム通じてこの日の試合最多得点者となり、サンダーは96-84でナゲッツを下した。",
+      "points": [
+        "33分出場でFG15本中7本・3P6本中2本",
+        "リバウンド5・アシスト3・TO1",
+        "サンダーが96-84でナゲッツに勝利"
+      ],
+      "source": "ESPN ボックススコア（Nuggets vs. Thunder・2026年10月22日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/590-jalen-williams-21-points-nuggets.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Williams"
+      ],
+      "question": "この低スコアの打ち合い、どっちの守備が光った？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN WILLIAMS",
+        "opponent": "vs. NUGGETS",
+        "points": 21,
+        "stats": [
+          "5 REB",
+          "3 AST",
+          "7/15 FG",
+          "2/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/590-1.jpg",
+        "https://sixten.jp/assets/ig/590-2.jpg",
+        "https://sixten.jp/assets/ig/590-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-23T13:54:40+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ウィリアムズ、ナゲッツ戦で21得点\n\n・33分出場でFG15本中7本・3P6本中2本\n・リバウンド5・アシスト3・TO1\n・サンダーが96-84でナゲッツに勝利\n\n💬 この低スコアの打ち合い、どっちの守備が光った？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nuggets vs. Thunder・2026年10月22日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

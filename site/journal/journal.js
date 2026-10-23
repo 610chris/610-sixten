@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "590-jalen-williams-21-points-nuggets.html",
+    cat: "NBA",
+    title: "ジェイレン・ウィリアムズ、ナゲッツ戦で21得点 —— サンダーが96-84で快勝",
+    excerpt: "オクラホマシティ・サンダーのジェイレン・ウィリアムズは現地時間10月22日、本拠地でのデンバー・ナゲッツ戦に33分出場し、フィールドゴール15本中7本(3ポイント6本中2本)、フリースロー6本中5本を沈めて21得点・5リバウンド・3アシストを記録した。両チーム通じてこの日の試合最多得点者となり、サンダーは96-84でナゲッツを下した。",
+    date: "2026.10.23",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "589-nba-docomo-day-free-streaming.html",
     cat: "NBA",
     title: "「NBA docomo DAY」11月3日に全5試合無料配信 —— 八村塁×レナード復帰の一戦にJ-POP aoen颯太がゲスト出演",
