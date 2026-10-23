@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "586-foamposite-pro-college-pack.html",
+    cat: "KICKS",
+    title: "Nike Air Foamposite Pro、LSU＆オハイオ州立カラーが11月5日発売 —— カレッジチーム仕様の新色2型",
+    excerpt: "Nike Air Foamposite Proのカレッジチームカラー2色、LSUタイガース仕様（品番IX2091-700）とオハイオ州立大学仕様（品番IX2094-100）が2026年11月5日に発売される。",
+    date: "2026.10.23",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "585-sga-presti-patience-bond.html",
     cat: "NBA",
     title: "「カメとウサギ」の絵本が始まりだった —— サンダーGMプレスティとシェイ・ギルジャス＝アレクサンダー、急がない再建の7年",
