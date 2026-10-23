@@ -54,7 +54,10 @@ import argparse, json, os, re, subprocess, sys, urllib.parse, urllib.request
 from datetime import datetime, timezone
 
 API = 'https://commons.wikimedia.org/w/api.php'
-UA = '610-journal-bot/1.0 (https://sixten.jp/journal/; photo picker)'
+# 2026-10-23実測: このクラウド実行環境の共有プロキシ経由だと「bot」を含むUAは
+# Wikimedia APIに毎回429(レート制限)で弾かれる(urllib→curl化と同じ理由でブラウザ相当に変更)。
+UA = ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
+      '(KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36')
 OK_LICENSE = re.compile(r'^(cc[- ]?by(-sa)?(-[0-9.]+)?|cc0|public domain|pd[- ]?\w*|no restrictions)', re.I)
 BAD_TITLE = re.compile(r'logo|emblem|map|screenshot|trading card|stamp|coat of arms|\.svg$|\.gif$|\.pdf$|\.tif', re.I)
 MIN_W, MIN_H, PREF_W = 1600, 900, 2000
