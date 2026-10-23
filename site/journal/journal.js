@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "600-thunder-sign-micah-peavy-two-way.html",
+    cat: "NBA",
+    title: "サンダー、マイカ・ピービーと2ウェイ契約で合意 —— グリズリーズのウェーバー公示から4日、ペリカンズ時代のドラフト40位がオクラホマシティへ",
+    excerpt: "オクラホマシティ・サンダーはマイカ・ピービーと2ウェイ契約で合意した。ESPNのシャムズ・チャラニア記者が伝えた。ピービーは10月19日にメンフィス・グリズリーズからウェーバー公示されていた(610既報)。",
+    date: "2026.10.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "599-kings-sign-sean-pedulla-two-way.html",
+    cat: "NBA",
+    title: "キングス、ショーン・ペデュラと2ウェイ契約で合意 —— 2025-26 Gリーグ新人王、代理人がESPNに伝える",
+    excerpt: "サクラメント・キングスはガードのショーン・ペデュラと2ウェイ契約で合意した。代理人ジョージ・S・ラングバーグ氏がESPNのシャムズ・チャラニア記者に伝えた。ペデュラは2025-26シーズンのNBA Gリーグ新人王だった。",
+    date: "2026.10.24",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "598-herro-34-points-bulls.html",
     cat: "NBA",
     title: "タイラー・ヒーロー、ブルズ戦で34得点 —— バックスは125-132で敗戦",
