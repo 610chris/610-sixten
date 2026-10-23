@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T03:31:31+09:00",
+  "updated": "2026-10-24T07:55:42+09:00",
   "items": [
     {
       "id": "134",
@@ -15736,6 +15736,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Air Jordan 41「Amethyst」公開\n\n・品番HV6474-002、メタリックパープル×黒メッシュ\n・ジョーダン ブランド「ジェムストーン」新色シリーズの一足\n・発売日・価格は現時点で未発表\n\n💬 このジェムストーンカラー、アリ？ナシ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News / Sneaker Bar Detroit\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "598",
+      "slug": "598-herro-34-points-bulls",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "ヒーロー、ブルズ戦で34得点",
+      "excerpt": "ミルウォーキー・バックスのタイラー・ヒーローは現地時間10月23日、本拠地Fiserv Forumでのシカゴ・ブルズ戦に32分出場し、フィールドゴール24本中12本(3ポイント10本中5本)、フリースロー7本中5本を沈めて34得点・4アシスト・5リバウンドを記録した。両チーム通じてこの日の試合最多得点者となったが、バックスは125-132でブルズに敗れた。",
+      "points": [
+        "32分出場でFG12/24・3P5/10",
+        "ターンオーバーわずか1本の効率的な34得点",
+        "バックスは第2Qの30-44が響き125-132で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Bucks vs. Bulls・2026年10月23日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/598-herro-34-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Tyler Herro"
+      ],
+      "question": "ヒーローのバックス、このまま東地区で上位狙える？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYLER HERRO",
+        "opponent": "vs. BULLS",
+        "points": 34,
+        "stats": [
+          "5 REB",
+          "4 AST",
+          "12/24 FG",
+          "5/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/598-1.jpg",
+        "https://sixten.jp/assets/ig/598-2.jpg",
+        "https://sixten.jp/assets/ig/598-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T07:54:34+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヒーロー、ブルズ戦で34得点\n\n・32分出場でFG12/24・3P5/10\n・ターンオーバーわずか1本の効率的な34得点\n・バックスは第2Qの30-44が響き125-132で敗戦\n\n💬 ヒーローのバックス、このまま東地区で上位狙える？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Bucks vs. Bulls・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
