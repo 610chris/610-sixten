@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "594-anta-kai-1-chief-hela-red.html",
+    cat: "KICKS",
+    title: "ANTA「Kai 1 Chief Hélà Red」が10月24日発売 —— カイリー・アービングのシグネチャー、2026年初のKai 1新色",
+    excerpt: "ANTAはカイリー・アービングのシグネチャーシューズ「Kai 1」の新色「Chief Hélà Red」（品番812631102M-1）を2026年10月24日に発売する。2026年のKai 1としては初の新色リリース。",
+    date: "2026.10.23",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "593-nike-air-force-1-philly.html",
+    cat: "KICKS",
+    title: "ナイキ「エア フォース 1 '01 Philly」発売 —— レブロン・ジェームズの76ers入りを祝う一足",
+    excerpt: "ナイキは「エア フォース 1 '01 Philly」（品番JW9694-100・140ドル）を発売した。レブロン・ジェームズのフィラデルフィア・76ers入りを記念し、チームカラーと地域性を落とし込んだ一足。SNKRSで販売中。",
+    date: "2026.10.23",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "592-nba-contract-talks-thunder-payroll.html",
     cat: "NBA",
     title: "「不満」はもう交渉カードにならない —— NBA球団がスター契約で強硬姿勢に、サンダーは来季4.5億ドル規模のぜいたく税負担へ",
