@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "597-air-jordan-41-amethyst.html",
+    cat: "KICKS",
+    title: "Air Jordan 41「Amethyst」公開 —— ジョーダン ブランド「ジェムストーン」新色シリーズの一足、品番HV6474-002",
+    excerpt: "ジョーダン ブランドはエア ジョーダン41の新色「アメジスト」（品番HV6474-002）を公開した。メタリックパープルの光沢パネルに黒メッシュのアッパーを組み合わせ、ブランドが展開する「ジェムストーン」カラーシリーズの一足となる。発売日・価格は現時点で未発表。",
+    date: "2026.10.24",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "596-air-jordan-6-white-infrared.html",
+    cat: "KICKS",
+    title: "Air Jordan 6「White Infrared」が11月7日発売 —— 1991年オリジナルの意匠に寄せた復刻、品番CT8529-105",
+    excerpt: "ナイキはエア ジョーダン6の人気カラー「ホワイト インフラレッド」（品番CT8529-105）を2026年11月7日、SNKRSと一部取扱店で発売する。前回の復刻から12年ぶり、1991年のオリジナルに近いディテールを採用した。",
+    date: "2026.10.24",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "595-knicks-sign-dalton-knecht-two-way.html",
     cat: "NBA",
     title: "ニックス、ダルトン・クネクトと2ウェイ契約で合意 —— レイカーズ解雇から数日、前王者の下で再起期す",
