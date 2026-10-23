@@ -1,8 +1,196 @@
 {
- "updated_utc": "2026-10-23 07:54 UTC",
+ "updated_utc": "2026-10-23 18:41 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "feature",
+   "key": "https://www.nba.com/timberwolves/news/kids-zone-family-timberwolves-game",
+   "url": "https://www.nba.com/timberwolves/news/kids-zone-family-timberwolves-game",
+   "canonical_url": "https://timberwolves.com/news/kids-zone-family-timberwolves-game",
+   "title": "The Kids Zone: A Family Stop At Your Next Timberwolves Game",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-10-23T17:55:16Z",
+   "tags": [
+    "Game Preview",
+    "Kids Zone"
+   ],
+   "summary": "Looking for a howlin’ good time for the little ones at a Timberwolves game?",
+   "facts": [
+    "Head to the Kids Zone near Section 220 on the concourse.",
+    "He’ll be there from 45 minutes before tip-off until 15 minutes before the game starts.",
+    "For a 7 PM game, that’s 6:15 to 6:45 PM.",
+    "Perfect for ages 3 and up, it gives young fans a chance to listen and explore without a phone or tablet.",
+    "Stop by Guest Services at Sections 116 or 216 for a special First Game Certificate to commemorate the day.",
+    "Where To Find The Kids Zone The Kids Zone is near Section 220 on the concourse and stays open throughout Timberwolves games."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-minnesota-timberwolves-game-preview-injury-report-20261023",
+   "url": "https://www.nba.com/magic/news/orlando-magic-minnesota-timberwolves-game-preview-injury-report-20261023",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-minnesota-timberwolves-game-preview-injury-report-20261023",
+   "title": "Orlando Magic vs. Minnesota Timberwolves: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-23T16:37:35Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO – The Orlando Magic are about to embark on their first road trip of their 2026-27 campaign.",
+   "facts": [
+    "ORLANDO – The Orlando Magic are about to embark on their first road trip of their 2026-27 campaign.",
+    "The Magic (0-1) look to record their first victory of the season when they host the Minnesota Timberwolves (1-0) on Friday at 7 p.m.",
+    "The Wolves fired off an NBA season-high 50 triples in their opener against the Miami Heat and knocked down a whopping 21 of them.",
+    "Four-time All-Star Anthony Edwards poured in a team-high nine of them on his way to a sensational 45-point night, while LaMelo Ball, acquired from the Charlotte Hornets this summer, knocked down five of his 13 attempts f…",
+    "Orlando was guilty of fouling a 3-point shooter on three occasions against Atlanta and committed 28 fouls overall.",
+    "Offensively, the Magic will look to build on an opening night showing where they tallied 125 points against one of the most aggressive defenses in the league.",
+    "In addition to superstar forward Paolo Banchero’s magnificent 35-point, seven-rebound, 10-assist outing, Franz Wagner and Wendell Carter Jr. each added 22 points.",
+    "As a unit, Orlando dished out 30 assists, the fourth most of any squad in its 2026-27 debut."
+   ],
+   "quotes": [
+    "Just trying to limit their threes,",
+    "In their last game, they got a lot up and hit a lot of threes. So, trying to manage that and make them take tough twos. Ant and LaMelo are going to try and get to their spots, so we have to try and li…",
+    "I loved his aggressiveness,",
+    "I thought he did a great job of really trying to put pressure on the defense, and I think he can be even better. But he did a great job in a lot of areas, and I thought he did a good job of drawing th…"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-preview-20261023-nyknos",
+   "url": "https://www.nba.com/celtics/news/game-preview-20261023-nyknos",
+   "canonical_url": "https://celtics.com/news/game-preview-20261023-nyknos",
+   "title": "10/23 Game Preview: Knicks at Celtics",
+   "author": "Boston Celtics",
+   "published_utc": "2026-10-23T15:13:22Z",
+   "tags": [
+    "Game Preview",
+    "Pregame",
+    "Regular Season"
+   ],
+   "summary": "Winning the franchise's first title in 53 years created a lasting bond among the members of the 2025-26 New York Knicks.",
+   "facts": [
+    "Provided by Field Level Media Winning the franchise's first title in 53 years created a lasting bond among the members of the 2025-26 New York Knicks.",
+    "The Knicks began their championship defense with a 106-100 loss to LeBron James, Jaylen Brown and the visiting Philadelphia 76ers.",
+    "The Celtics squandered a 22-point third-quarter lead in a 121-113 loss to the host Detroit Pistons.",
+    "Returning players and coaches received their championship rings before the banner commemorating the long-awaited title was raised to the rafters at Madison Square Garden.",
+    "The Knicks led by 10 points three times in the second quarter but fell behind for good when the 76ers ended the third quarter on an 11-0 run.",
+    "Jalen Brunson, whose finishing skills last spring turned him into an all-time Big Apple sporting icon, was 1 of 5 from the field in the fourth quarter, including a missed turnaround jumper with 3:46 left that would have …",
+    "The Knicks weren't haunted Tuesday by their decision to bring back everyone from last year's rotation except Robinson, who signed a three-year deal with the Celtics on July 6 after New York owner James Dolan made it clea…",
+    "Andre Drummond, Robinson's replacement as the backup to center Karl-Anthony Towns, posted a double-double (12 points, 14 rebounds) in 24 minutes while Towns battled foul trouble."
+   ],
+   "quotes": [
+    "I think it's good for us to, you know, kind of get knocked down off the mountain, humble ourselves, put our egos in check and see what's going to happen,",
+    "It doesn't really matter that I'm playing my former team,",
+    "It's more so just trying to bounce back from what happened two nights ago.",
+    "At the end of the day, we want to kick his (butt) like he probably wants to kick ours,"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-jazz-10-23-2026",
+   "url": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-jazz-10-23-2026",
+   "canonical_url": "https://pelicans.com/news/gameday-update-pelicans-at-jazz-10-23-2026",
+   "title": "Gameday update: Pelicans at Jazz (10/23/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-23T15:12:14Z",
+   "tags": [],
+   "summary": "NEW ORLEANS PELICANS (0-1) AT UTAH JAZZ (0-1)",
+   "facts": [
+    "NEW ORLEANS PELICANS (0-1) AT UTAH JAZZ (0-1) Overview Two Western Conference teams trying to bounce back from season-opening defeats meet in Salt Lake City, with Utah tipping off its 2026-27 home schedule against New Or…",
+    "Indiana before losing 123-120, while the Jazz were throttled in their visit to Memphis, 123-103.",
+    "Friday’s trip to Utah marks the first half of a challenging Mountain time zone, road back-to-back for New Orleans, which will face Denver in Ball Arena on Saturday, less than 24 hours later.",
+    "The Pelicans endured a lengthy stretch of difficulty when facing the Jazz on their home floor earlier this decade, but went 3-0 in the Delta Center over the previous two campaigns.",
+    "Players to Watch PELICANS Yves Missi The third-year center was everywhere Wednesday, playing one of the best all-around games of his pro career, posting 13 points, 14 rebounds, five assists and three blocks against the P…",
+    "He was an efficient 5/6 from the field and grabbed seven offensive rebounds, part of the Pelicans’ 15-9 advantage in O-boards.",
+    "Indiana by picking up three first-half fouls, finishing Wednesday with eight points on 2/10 shooting in just 21 minutes.",
+    "He and Dejounte Murray will match up against the talented and youthful backcourt of Keyonte George and 2026 No. 2 overall pick Darryn Peterson."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/sixers-win-home-opener-114-106-stun-cavs-with-historic-29-point-comeback",
+   "url": "https://www.nba.com/sixers/news/sixers-win-home-opener-114-106-stun-cavs-with-historic-29-point-comeback",
+   "canonical_url": "https://sixers.com/news/sixers-win-home-opener-114-106-stun-cavs-with-historic-29-point-comeback",
+   "title": "Sixers win home opener 114-106, stun Cavs with historic 29-point comeback",
+   "author": "Owen Boyle",
+   "published_utc": "2026-10-23T14:29:27Z",
+   "tags": [],
+   "summary": "It was a total team effort as the Philadelphia 76ers rallied from a 24-point halftime deficit to defeat the Cleveland Cavaliers 114-106. After trailing by as many as 29 points in the first half, the Sixers outscored the Cavaliers by 16 points in each of the final two quarters, completing the largest comeback in franchise history during the play-by-play era, which began in 1997-98.",
+   "facts": [
+    "It was a total team effort as the Philadelphia 76ers rallied from a 24-point halftime deficit to defeat the Cleveland Cavaliers 114-106.",
+    "After trailing by as many as 29 points in the first half, the Sixers outscored the Cavaliers by 16 points in each of the final two quarters, completing the largest comeback in franchise history during the play-by-play er…",
+    "Each scored in double figures, with Tyrese Maxey finishing with 32 points, Joel Embiid adding 24 and Jaylen Brown scoring 21.",
+    "LeBron James and VJ Edgecombe finished with 17 and 11 points, respectively.",
+    "They’re 48-minute games.",
+    "A 12-0 run in the first quarter turned an 11-11 tie into a 23-11 lead for the visitors.",
+    "The Cavaliers continued to pull away, outscoring the Sixers 69-45 in the first 24 minutes.",
+    "Donovan Mitchell scored 22 points in the first half, including 12 in the opening quarter, which ended with a buzzer-beater from the 30-year-old guard."
+   ],
+   "quotes": [
+    "That’s a wild way to win a game,",
+    "It was absolutely two halves that don’t resemble each other at all. They’re 48-minute games. We just talked about how we have to come out and make a physical improvement and an effort improvement and …",
+    "We all played basketball,",
+    "We play at a high level. Everybody had their moment. Rese had his moments, JB had his moments, Bron had his moments and I had my moments."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/ace-baileys-growth-on-defense-continues-to-stand-out-for-the-utah-jazz",
+   "url": "https://www.nba.com/jazz/news/ace-baileys-growth-on-defense-continues-to-stand-out-for-the-utah-jazz",
+   "canonical_url": "https://utahjazz.com/news/ace-baileys-growth-on-defense-continues-to-stand-out-for-the-utah-jazz",
+   "title": "Ace Bailey’s Growth on Defense Continues to Stand Out for the Utah Jazz",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-23T14:00:00Z",
+   "tags": [
+    "Ace Bailey",
+    "Jaren Jackson Jr.",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "That’s the phrase most often used when discussing Bailey’s start to the 2026-27 season—by Bailey himself and by those within the Utah Jazz organization.",
+   "facts": [
+    "That’s the phrase most often used when discussing Bailey’s start to the 2026-27 season—by Bailey himself and by those within the Utah Jazz organization.",
+    "In his 24 minutes on the floor, Utah's defensive rating was 108.8, an improvement of 15.7 points per 100 possessions over the team's defensive rating when Bailey was on the bench.",
+    "Bailey spent time running on the track and using stationary bikes to improve his conditioning, while adding 10 to 12 pounds of muscle to better handle more physical matchups.",
+    "Even if he comes off the bench, Bailey’s two-way impact can earn him significant minutes.",
+    "During his lone season at Rutgers, Bailey flashed impressive shot-blocking ability, and that has carried into the early stages of the 2026-27 season."
+   ],
+   "quotes": [
+    "Offense is going to come,",
+    "I’m not worried about the offensive end. … It’s just mainly focused on the defensive end, just being the two-way player we need.",
+    "It’s about him understanding what he does well,",
+    "His length, athleticism and ability to cover ground is a real strength. He’s working every day to be more solid on body position [and] communicating coverages early. It’s amazing how far some of these…"
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -12,7 +200,7 @@
    "key": "https://www.nba.com/mavs/news/mavericks-pacers-preview-mavs-hoping-to-right-the-ship-in-game-against-indiana",
    "url": "https://www.nba.com/mavs/news/mavericks-pacers-preview-mavs-hoping-to-right-the-ship-in-game-against-indiana",
    "canonical_url": "https://mavs.com/mavs/news/mavericks-pacers-preview-mavs-hoping-to-right-the-ship-in-game-against-indiana",
-   "title": "Mavericks-Pacers preview: Mavs hoping to right the ship in game against Indiana",
+   "title": "Mavericks-Pacers preview: Mavs hoping to right the ship against Indiana",
    "author": "Dwain Price",
    "published_utc": "2026-10-23T06:30:37Z",
    "tags": [
@@ -24,12 +212,12 @@
    "facts": [
     "INDIANAPOLIS – Although they may have looked the part, the Dallas Mavericks are not exactly shell-shocked after losing Wednesday’s regular season opener to the Houston Rockets, 128-110.",
     "In a marathon 82-game season, they know a loss in the season opener doesn’t determine the course of the remaining 81 games.",
-    "After the Mavs opened the season on Wednesday in Houston and obviously had some work to do following that 18-point loss, they had to take Thursday off to recoup because they have games on Friday in Indianapolis against t…",
-    "Teams do not formally work their players for four straight days. *Tyrese Haliburton scored 23 points and distributed 12 assists as the Indiana Pacers opened the regular season with Wednesday’s 123-120 road win in New Orl…",
-    "It was the first game for Haliburton since he tore his right Achillies tendon in the first quarter of Game 7 of the 2025 NBA Finals against the Oklahoma City Thunder. *Mavs guard Marcus Sasser already threw his name in t…",
+    "After the Mavs opened the season on Wednesday in Houston and obviously had some work to do following that 18-point loss, they had to take Thursday off to recoup because they have games on Friday in Indianapolis and on Sa…",
+    "It was the first game for Haliburton since he tore his right Achilles tendon in the first quarter of Game 7 of the 2025 NBA Finals. *Mavs guard Marcus Sasser already threw his name in the hat as an early candidate to win…",
     "In Wednesday’s game against Houston, Sasser finished with 17 points in just 24 minutes.",
-    "The Dallas native was 6-of-8 from the field, including a very impressive 4-of-5 from beyond the three-point arc. *Pascal Siakam led the way for the Pacers against New Orleans with 30 points, including scoring 12 points i…",
-    "Also for the Pacers, Obi Toppin poured in 20 points, Ivica Zubac finished with 16 points and 14 rebounds, and Andrew Nembhard added 18 points."
+    "The Dallas native was 6-of-8 from the field, including 4-of-5 from beyond the three-point arc. *Pascal Siakam led the way for the Pacers against New Orleans with 30 points, including scoring 12 points in a fourth quarter…",
+    "Also for the Pacers, Obi Toppin poured in 20 points, Ivica Zubac finished with 16 points and 14 rebounds, and Andrew Nembhard added 18 points.",
+    "Dallas Mavericks (0-1) at Indiana Pacers (1-0) WHEN: Friday, 6 p.m."
    ],
    "quotes": [
     "I thought we made some strides (against the Rockets) in areas that we struggled in, but just look at the film and figure out what’s the lowest hanging fruit and what can we fix in a 48-hour period,",
@@ -111,11 +299,11 @@
     "kyrie irving",
     "nba"
    ],
-   "summary": "INDIANAPOLIS – When he was an assistant coach with the Brooklyn Nets during the 2020-21 season, Ime Udoka used to watch a certain point guard in practice and in games constantly wrecking any defense opposing coaches dared to put in front of him.",
+   "summary": "INDIANAPOLIS – When he was an assistant coach with the Brooklyn Nets during the 2020-21 season, Ime Udoka used to watch a certain point guard in practice and in games constantly wrecking any defense opposing coaches put in front of him.",
    "facts": [
-    "INDIANAPOLIS – When he was an assistant coach with the Brooklyn Nets during the 2020-21 season, Ime Udoka used to watch a certain point guard in practice and in games constantly wrecking any defense opposing coaches dare…",
-    "And not only did Udoka have the 6-7 Amen Thompson guarding the 6-2 Irving, plenty Rockets went out of their way to assist Thompson to deal with a Kyrie Irving who is still one of the most explosive scorers and impactful …",
-    "That played a crucial role in Irving getting off just nine field goal attempts – he made six of them – and scoring only 15 points in 24 minutes during the Mavs’ 128-110 loss to the Rockets.",
+    "INDIANAPOLIS – When he was an assistant coach with the Brooklyn Nets during the 2020-21 season, Ime Udoka used to watch a certain point guard in practice and in games constantly wrecking any defense opposing coaches put …",
+    "And not only did Udoka have 6-7 Amen Thompson guarding the 6-2 Irving, plenty of Rockets went out of their way to assist Thompson to deal with Irving, still one of the most explosive scorers and impactful players in the …",
+    "That played a crucial role in Irving getting off just nine field goal attempts — he made six of them — and scoring only 15 points in 24 minutes during the Mavs’ 128-110 loss to the Rockets.",
     "I appreciate him looking out for me, but it is a great thing that I’ve got my 19-year old co-pilot over there helping me make sure I’m getting going.",
     "That season Irving averaged 26.9 points and converted 50.6 percent of his field goals, 40.2 percent of his three-point shots and made 92.2 percent of his free throws while earning a spot on the All-Star team.",
     "I’m used to playing 12 minutes through, or 11 minutes, 10 minutes through, and I’ve got to do a better job just adjusting to what our game plan is and just getting other guys involved."
@@ -124,7 +312,7 @@
     "He’s one of the elite scorers,",
     "He’s a guy you really have to pay attention to and you want to make it hard on him early especially, and not let him get into that rhythm.",
     "It’s just the adjustment period.",
-    "There were times were mentally I was out there, and I just had to settle and ground myself like I’m really back into an NBA game and back into the flow of things,"
+    "There were times where mentally I was out there, and I just had to settle and ground myself like I’m really back into an NBA game and back into the flow of things,"
    ]
   },
   {
@@ -1552,275 +1740,6 @@
     "To have that, it (requires) us having an unbelievable medical staff that’s doing their job, the (players) understanding the importance of recovery and taking care of your body. The other side of it is…",
     "It’s really important for us. Health is really important in the NBA.",
     "Injuries can only be controlled so much. It’s happened in the past. But for us to have a full roster going into Game 1, it’s a great feeling for us as a team."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/dallas-mavericks-announce-fan-experience-upgrades-for-2026-27-season",
-   "url": "https://www.nba.com/mavs/news/dallas-mavericks-announce-fan-experience-upgrades-for-2026-27-season",
-   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-announce-fan-experience-upgrades-for-2026-27-season",
-   "title": "DALLAS MAVERICKS ANNOUNCE FAN EXPERIENCE UPGRADES FOR 2026-27 SEASON",
-   "author": "Dallas Mavericks",
-   "published_utc": "2026-10-20T18:34:38Z",
-   "tags": [],
-   "summary": "New culinary offerings, craft cocktails and mocktails, Chase cardholder perks, expanded club spaces highlight fan experience enhancements",
-   "facts": [
-    "New culinary offerings, craft cocktails and mocktails, Chase cardholder perks, expanded club spaces highlight fan experience enhancements DALLAS (Oct. 16, 2026) – The Dallas Mavericks announced today a range of fan exper…",
-    "The Mavericks will open their 26th season at American Airlines Center at 7 p.m.",
-    "Saturday, Oct. 24, against the reigning Western Conference champion San Antonio Spurs, following road games against the Houston Rockets on Oct. 21 and Indiana Pacers on Oct. 23.",
-    "The rotating restaurant residency program will operate exclusively at Mavericks home games at the Dallas Table concession stand near Sec. 120 on the main Plaza Level, with expanded offerings in the arena’s VIP and club s…",
-    "Loro Asian Smokehouse & Bar | Oct. 24 – Nov. 9 | Sec. 120Avra | Nov. 18 – Dec. 14 | Sec. 120Monarch | March 2 – 11 | Sec. 120 Concessions – Expanding on the chef-inspired signature menu crafted in collaboration with Levy…",
-    "Available at El Taco Tex stands at Sec. 105 and 117.Big Tex Gelato Rita – House-made gelato infused with Patrón Silver tequila, Patrón Citrónge, fresh lime juice and agave syrup.",
-    "Available at the Platinum Level Gelato Bar; must be 21 or older to enjoy.Dubai Churros – Warm churros piped with rich dulce de leche and tossed in cinnamon sugar.",
-    "Available at El Taco Tex stands at Sec. 105 and 117.New offering from Zavala’s BBQ: Fajita Tacos – Linz Heritage Angus meats, smoked low and slow over post oak, then seared hot over post oak."
-   ],
-   "quotes": [
-    "It’s our responsibility to create an unforgettable experience for Dallas Mavericks fans every game, and with support from our partners at Levy Restaurants and 50 Eggs Hospitality, we’re pushing oursel…",
-    "This season, we’re continuing to bring standout Dallas-based and national restaurant partners into the arena, elevating concessions for younger fans and specialty item collectors, while also deepening…"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "roster",
-   "key": "https://www.nba.com/bulls/news/bulls-exercise-team-options-on-matas-buzelis-and-noa-essengue",
-   "url": "https://www.nba.com/bulls/news/bulls-exercise-team-options-on-matas-buzelis-and-noa-essengue",
-   "canonical_url": "https://bulls.com/news/bulls-exercise-team-options-on-matas-buzelis-and-noa-essengue",
-   "title": "Bulls exercise Team Options on Matas Buzelis and Noa Essengue",
-   "author": "Bulls.com",
-   "published_utc": "2026-10-20T18:28:12Z",
-   "tags": [
-    "Transaction"
-   ],
-   "summary": "The Chicago Bulls announced today that the team has exercised the team options on forwards Matas Buzelis and Noa Essengue. Per team policy, terms of the deals were not disclosed.",
-   "facts": [
-    "Buzelis, 6-9, 209, appeared in 77 games (all starts) in the 2025-26 season and posted single-season career high averages of 16.3 points (.463 FG%, .349 3FG%), 5.8 rebounds, 2.1 assists and 1.5 blocks in 29.2 minutes.",
-    "The former 11th overall pick in the 2024 NBA Draft highlighted his 2025-26 campaign by becoming just the third player in NBA history to record at least 170 three-pointers made and 100-plus blocks in a single season, join…",
-    "Buzelis finished the season leading all second-year players in total points (1,252), while ranking tied for sixth in the league in rejections (116) and fifth in games of two-plus blocks (36).",
-    "The Hinsdale, Ill., native recorded a career-long streak of two-plus three-pointers made in 15-straight games (2/21/26 – 3/25/26), the second-longest such streak in Bulls history (Coby White – 17-straight), including a c…",
-    "Buzelis has appeared in 157 games (108 starts) and posted career averages of 12.4 points (.460 FG%, .353 3FG%), 4.6 rebounds, 1.5 assists and 1.2 blocks in 23.9 minutes across two seasons with the Bulls.",
-    "Buzelis is a three-time NBA Rising Stars Game selection and participated in the 2025 NBA Slam Dunk Contest.",
-    "Essengue, 6-9, 208, was drafted 12th overall by Chicago in the 2025 NBA Draft.",
-    "The Orléans, France native appeared in four games with the Windy City Bulls during the G League Tip-Off Tournament last season and posted averages of 23.0 points (.508 FG%), 8.5 rebounds and 2.3 assists and 1.0 steals in…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/kris-dunn-knows-how-to-fight-his-way-back",
-   "url": "https://www.nba.com/clippers/news/kris-dunn-knows-how-to-fight-his-way-back",
-   "canonical_url": "https://clippers.com/news/kris-dunn-knows-how-to-fight-his-way-back",
-   "title": "Kris Dunn Knows How to Fight His Way Back",
-   "author": "OHM YOUNGMISUK",
-   "published_utc": "2026-10-20T17:30:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Derrick Jones Jr.",
-    "Jeff Van Gundy",
-    "Kris Dunn",
-    "LA Clippers",
-    "Ohm Youngmisuk",
-    "Trent Redden",
-    "Ty Lue"
-   ],
-   "summary": "HONOLULU ⎯ Ominous rain clouds hovered above Honolulu for much of the day only to make way for sunny and clear skies by the time Kris Dunn takes a seat a few feet away from Waikiki beach.",
-   "facts": [
-    "The fifth overall pick in the 2016 draft fell out of the league by the start of the 2021 season before climbing his way back out of the G League and finding a home with the Clippers.",
-    "Last season, Dunn helped the Clippers somehow survive a 6-21 start to finish with a winning record for the 15th consecutive season and make the play-in tournament.",
-    "They understand that the Clippers, who also traded Kawhi Leonard to Toronto, aren’t being given much of a chance by prognosticators this season.",
-    "Since offseason workouts, Dunn has taken on the role of mentor for the Clippers’ fifth overall pick in the 2026 draft.",
-    "We put the top-5 away and we just build what we need to build on.",
-    "Dunn averaged career-highs of 13.4 points, 6.0 assists and 2.0 steals in Chicago in his second season.",
-    "But after three seasons with the Bulls, Dunn signed with the Hawks and was only able to play in four games due to injuries during the 2020-21 season.",
-    "Atlanta traded Dunn after one season to Boston, which then shipped the point guard to Memphis."
-   ],
-   "quotes": [
-    "Yeah, we talked about it,",
-    "We're the ones in the building. It's on us to go out there and take care of our job. Our job is to win games. The front office, the coaching staff, they never waver from that. And we're not going to w…",
-    "He's helped me all around on and off the court,",
-    "He believes in me a lot and he tells me that every day. I try to talk to him as much as I can. We have just a genuine relationship, so it's good to have him around and to learn from him. But he's taug…"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-2026-27-season-against-the-memphis-grizzlies",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-2026-27-season-against-the-memphis-grizzlies",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-begin-2026-27-season-against-the-memphis-grizzlies",
-   "title": "Preview: Utah Jazz Begin 2026-27 Season Against the Memphis Grizzlies",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-20T17:30:00Z",
-   "tags": [
-    "Isaiah Collier",
-    "Jaren Jackson Jr.",
-    "Jaxson Hayes",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "After a long and eventful summer, the 2026-27 NBA regular season kicks off for the Utah Jazz Wednesday with a matchup against the Memphis Grizzlies. Utah used the preseason to iron out schemes and rotations, although the work will carry over into the regular season as the team hopes to make a jump in the Western Conference.",
-   "facts": [
-    "After a long and eventful summer, the 2026-27 NBA regular season kicks off for the Utah Jazz Wednesday with a matchup against the Memphis Grizzlies.",
-    "Utah’s re-tooled roster is headlined by the pairing of Jaren Jackson Jr. and Lauri Markkanen, with Keyonte George looking to build on his breakout 2025-26 campaign.",
-    "Jackson Jr. is slated to make his on-court return in Memphis following the trade between the two teams back in February.",
-    "Outside of adding Boozer, the Grizzlies traded Ja Morant to the Portland Trail Blazers (receiving Jerami Grant in return) and acquired Isaiah Stewart from the Detroit Pistons.",
-    "The return of Zach Edey will be a defining component of the Grizzlies’ season, as the young big man was a transformative force in his limited action last year.",
-    "Jazz injury report: OUT - Trey Alexander (left knee; contusion), Tony Bradley (left quadriceps; strain), Blake Hinson (left hamstring; strain), Jusuf Nurkić (right foot; 2nd plantar plate tear) Grizzlies injury report: D…",
-    "In 11 games last season, Edey averaged 13.6 points, 11.1 rebounds, and 1.9 blocks per game, becoming a dominant two-way force for Tuomas Iisalo’s squad.",
-    "In Edey’s 283 minutes on the floor, Memphis was 27.8 points per 100 possessions better, with elite rebounding and rim protection driving much of that impact."
-   ],
-   "quotes": [
-    "Rebounding defensively is going to be maybe the most pivotal thing for us the entire season,"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "roster",
-   "key": "https://www.nba.com/cavaliers/news/releases-jaylon-tyson-261020",
-   "url": "https://www.nba.com/cavaliers/news/releases-jaylon-tyson-261020",
-   "canonical_url": "https://cavs.com/news/releases-jaylon-tyson-261020",
-   "title": "CAVALIERS EXERCISE FOURTH-YEAR TEAM OPTION ON JAYLON TYSON",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-20T15:57:51Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "CLEVELAND – The Cleveland Cavaliers have exercised their fourth-year team option on guard Jaylon Tyson, Cavaliers President of Basketball Operations Koby Altman announced today from Cleveland Clinic Courts.",
-   "facts": [
-    "Tyson (6-6, 224) appeared in 66 games (42 starts) last season for Cleveland and averaged career highs in every major statistical category, including points (13.2), rebounds (5.1), assists (2.2), steals (0.82), blocks (0.…",
-    "The 2026 Castrol Rising Star scored in double-digits in 46 outings, which includes a career-best 15 straight contests from Jan. 10-Feb. 9, and topped the 20-point mark on eight occasions.",
-    "In a win at Philadelphia on Jan. 16, 2026, Tyson posted a career-high 39 points (13-17 FG, 7-9 3FG, 6-6 FT).",
-    "He became just the third player in franchise history to score 39 points on 17 or fewer field goal attempts, joining Kevin Love (Feb. 6, 2017) and Roy Hinson (Jan. 28, 1986), as well as the eighth youngest Cavalier to tal…",
-    "In December last season (14 games), Tyson averaged 15.8 points and 6.7 rebounds while shooting a combined .553 (89-161) from the field and .444 (24-54) from beyond the arc.",
-    "From Dec. 1-5, 2025, he became just the third Cavalier ever to shoot .725 from the field over a three-game span on 37 attempts or more, joining LeBron James and Mark Price.",
-    "At Houston on Dec. 27, 2025, Tyson tallied 23 points and a career-high 15 rebounds, including eight offensive, which tied for the most by a Cavalier last season.",
-    "Selected with the 20th overall pick in the 2024 NBA Draft out of California, Tyson enters the 2026-27 season with career averages of 9.2 points (.481 FG%, .430 3FG%) and 3.8 rebounds in 19.7 minutes in 113 games (45 star…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-pelicans-261021",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-pelicans-261021",
-   "canonical_url": "https://pacers.com/news/preview-pacers-pelicans-261021",
-   "title": "Game Preview: Pacers at Pelicans",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-20T15:20:15Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Wednesday, Oct. 21 at 8:00 PM ET at Smoothie King Center",
-   "facts": [
-    "Wednesday, Oct. 21 at 8:00 PM ET at Smoothie King Center Game Preview The 2026-27 Pacers season officially tips off on Wednesday night in New Orleans, where Tyrese Haliburton and the Pacers will take on Zion Williamson a…",
-    "Haliburton missed the entire 2025-26 season after tearing his Achilles in Game 7 of the 2025 NBA Finals, but he is back on the court looking like his old self.",
-    "Haliburton played in three of four preseason games for Indiana, tallying 48 points and 15 assists while going 19-for-36 (52.8 percent) from the field and 8-for-15 (53.3 percent) from 3-point range.",
-    "He scored 24 points in just 17 minutes last Tuesday in Oklahoma City and followed that up with 17 points and six assists in 20 minutes in Friday's preseason finale against Milwaukee.",
-    "Indiana has a pair of All-Stars in Haliburton and Pascal Siakam along with much of the core from the team that captured the 2025 Eastern Conference crown, including Andrew Nembhard, Aaron Nesmith, Obi Toppin, T.J.",
-    "The Blue & Gold have also added some key pieces to that core group, headlined by 7-foot Croatian center Ivica Zubac.",
-    "Indiana acquired Zubac from the Clippers last year at the trade deadline, though injuries limited him to just five games last season.",
-    "The 11-year veteran has a career scoring average of 13.3 points per game and effectively replaces Bennedict Mathurin — who was part of the trade last February for Zubac — in the bench-scoring, sixth-man role on the India…"
-   ],
-   "quotes": [
-    "[I’m] just very grateful, very blessed to be in this position,",
-    "To be in year 11, and I mean Lou Williams, when you think about guys that come off the bench, him and Jamal Crawford, [Manu] Ginobili, are the guys you really think about. So to even be mentioned with…"
-   ]
-  },
-  {
-   "source": "ATL 公式（nba.com）",
-   "team": "ATL",
-   "team_ja": "ホークス",
-   "team_id": 1610612737,
-   "kind": "feature",
-   "key": "https://www.nba.com/hawks/news/atlanta-hawks-to-become-the-first-nba-team-to-stream-games-exclusively-on-prime-video",
-   "url": "https://www.nba.com/hawks/news/atlanta-hawks-to-become-the-first-nba-team-to-stream-games-exclusively-on-prime-video",
-   "canonical_url": "https://hawks.com/news/atlanta-hawks-to-become-the-first-nba-team-to-stream-games-exclusively-on-prime-video",
-   "title": "Atlanta Hawks to Become the First NBA Team to Stream Games Exclusively on Prime Video",
-   "author": "Atlanta Hawks",
-   "published_utc": "2026-10-20T15:10:48Z",
-   "tags": [
-    "Atlanta Hawks",
-    "prime video"
-   ],
-   "summary": "Fans in Hawks’ Regional Television Territory Will Be Able to Stream Games as Part of Their Prime Membership, Making Hawks Basketball More Accessible Than Ever",
-   "facts": [
-    "Fans in Hawks’ Regional Television Territory Will Be Able to Stream Games as Part of Their Prime Membership, Making Hawks Basketball More Accessible Than Ever The Atlanta Hawks today announced that Prime Video will serve…",
-    "All locally broadcast Hawks games are produced by industry-leading Raycom Sports and will be available to 100% of the Atlanta market and Gray Media stations throughout the state.",
-    "The Hawks begin the 2026-27 regular season on Wednesday, Oct. 21 at the Orlando Magic (7 p.m."
-   ],
-   "quotes": [
-    "We are committed to putting our fans first and maximizing accessibility throughout the state of Georgia and the Southeast.",
-    "Exclusively streaming the Atlanta Hawks as part of our growing local sports portfolio is another step forward in providing fans an easy, one-stop destination to watch the teams they love,",
-    "The Hawks have demonstrated a forward-thinking approach to reaching and engaging their fans and share the same commitment to innovation that drives our organization. Together, we’re making it easier t…"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "injury",
-   "key": "https://www.nba.com/cavaliers/news/releases-naeqwan-tomlin-261020",
-   "url": "https://www.nba.com/cavaliers/news/releases-naeqwan-tomlin-261020",
-   "canonical_url": "https://cavs.com/news/releases-naeqwan-tomlin-261020",
-   "title": "Nae'Qwan Tomlin Status Update",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-20T14:14:21Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "Cleveland Cavaliers forward Nae’Qwan Tomlin was diagnosed with a lower back stress reaction following an evaluation by the Cavaliers medical team. An MRI administered at Cleveland Clinic Sports Medicine confirmed the injury. Tomlin will be re-evaluated in approximately three to four (3-4) weeks, and his status and return to basketball activities will be updated as appropriate. Tomlin was not avail…",
-   "facts": [
-    "An MRI administered at Cleveland Clinic Sports Medicine confirmed the injury.",
-    "Tomlin will be re-evaluated in approximately three to four (3-4) weeks, and his status and return to basketball activities will be updated as appropriate."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "roster",
-   "key": "https://www.nba.com/pelicans/news/jamahl-mosley-brings-personal-touch-in-year-1-as-pelicans-head-coach",
-   "url": "https://www.nba.com/pelicans/news/jamahl-mosley-brings-personal-touch-in-year-1-as-pelicans-head-coach",
-   "canonical_url": "https://pelicans.com/news/jamahl-mosley-brings-personal-touch-in-year-1-as-pelicans-head-coach",
-   "title": "Jamahl Mosley brings personal touch in Year 1 as Pelicans head coach",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-20T14:00:00Z",
-   "tags": [],
-   "summary": "More often than not, New Orleans guard Jordan Poole’s first assist of the day is a bounce pass to a 48-year-old, whose professional basketball career peaked in the early 2000s. It began as a simple interaction, then became a tradition: When eighth-year NBA veteran Poole walks onto the practice floor for the first time each morning, he dishes a ball to New Orleans first-year head coach Jamahl Mosle…",
-   "facts": [
-    "More often than not, New Orleans guard Jordan Poole’s first assist of the day is a bounce pass to a 48-year-old, whose professional basketball career peaked in the early 2000s.",
-    "Poole estimates that Mosley is shooting “probably 60 percent” on those attempts, smiling and noting that “if he doesn’t make the first one, he usually makes the second one.” The daily bounce pass is one example of the un…",
-    "A University of Colorado standout (1997-2001), Mosley was the Buffaloes’ second-leading scorer in his junior and senior years and played professionally overseas.",
-    "He joined the Denver Nuggets as an unpaid basketball operations staffer in the mid-2000s, not far removed from his playing days, able to hold his own on the court with NBA players.",
-    "Mosley also worked for longtime, highly-respected assistant coach Tim Grgurich, described by Rick Carlisle in 2018 as “basketball’s Yoda and the godfather of modern player development.” Two decades ago, NBA coaching staf…",
-    "Mosley visited Murphy and Herb Jones this summer in Los Angeles, working out with the duo from New Orleans’ excellent 2021 draft class."
-   ],
-   "quotes": [
-    "if he doesn’t make the first one, he usually makes the second one.",
-    "I love the game. I love to coach. I love to help,",
-    "I love to do whatever’s necessary to help these guys achieve their best. That’s our job as coaches, to teach and put (players) in the best position possible for them to be successful… As long as my bo…",
-    "These guys are getting bigger, faster and stronger, so I’ve got to play a little bit of token defense (trying to simulate an NBA-level defender as much as feasibly possible). The reality is I just lov…"
    ]
   }
  ]
