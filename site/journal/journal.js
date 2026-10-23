@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "589-nba-docomo-day-free-streaming.html",
+    cat: "NBA",
+    title: "「NBA docomo DAY」11月3日に全5試合無料配信 —— 八村塁×レナード復帰の一戦にJ-POP aoen颯太がゲスト出演",
+    excerpt: "NTTドコモは23日、映像配信サービス「NBA docomo」のイベント「NBA docomo DAY」を11月3日に開催すると発表した。当日配信の全5試合を無料配信し、八村塁のクリッパーズとカワイ・レナードが7年ぶりに復帰したラプターズの一戦は特別番組として実況中継、7人組J-POPグループaoenの颯太がスペシャルゲスト出演する。渋谷キャストでの無料パブリックビューイングも実施。",
+    date: "2026.10.23",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "588-maxey-32-points-cavaliers.html",
     cat: "NBA",
     title: "タイリース・マクシー、キャバリアーズ戦で32得点 —— 76ersが114-106で逆転勝利",
