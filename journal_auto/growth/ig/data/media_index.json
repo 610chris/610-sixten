@@ -38,6 +38,33 @@
   "product": "REELS",
   "timestamp": "2022-10-25T07:32:01+0000"
  },
+ "17871658587645588": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "581",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダリアス・ガーランド、キングス戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeyNxOigstt/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darius Garland"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T05:19:26+0000"
+ },
  "17874463604734987": {
   "auto": false,
   "caption_len": 76,
@@ -393,6 +420,33 @@
   "template": "news",
   "timestamp": "2026-09-29T11:19:24+0000"
  },
+ "17907198648597992": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "582",
+  "auto": true,
+  "caption_len": 375,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス「お互いをもっと信じないと」—— ヒート公式戦デビューは35得点も開幕戦で大敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeyOY2lClba/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-22T05:24:46+0000"
+ },
  "17907532380593775": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -417,6 +471,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-21T00:17:11+0000"
+ },
+ "17907730437596657": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "585",
+  "auto": true,
+  "caption_len": 398,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダーGMプレスティ「ウサギとカメ」の絵本でSGAに賭けた7年",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DezIldviD2N/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「The tortoise and the Thunder」（ティム・マクマホン記者）",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-22T13:53:16+0000"
  },
  "17908408719504087": {
   "article": "278",
@@ -548,6 +629,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-09T16:31:02+0000"
+ },
+ "17912602206490217": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "569",
+  "auto": true,
+  "caption_len": 341,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "パオロ・バンケロ、ホークス戦で35得点10アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex4VRTApbb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Magic vs. Hawks・2026年10月21日）",
+  "subject": [
+   "Paolo Banchero"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T02:11:59+0000"
  },
  "17913351006499090": {
   "arms": {
@@ -986,6 +1094,33 @@
   "permalink": "https://www.instagram.com/reel/CkCgS8Gg2kM/",
   "product": "REELS",
   "timestamp": "2022-10-23T02:16:38+0000"
+ },
+ "17929514577180061": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "574",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "イマニュエル・クイックリー、ブルズ戦で23得点7アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex9HH_DlX8/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Immanuel Quickley"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T02:53:48+0000"
  },
  "17932521938395611": {
   "auto": false,
@@ -1588,6 +1723,33 @@
   "template": "news",
   "timestamp": "2026-10-17T05:18:35+0000"
  },
+ "17955148065039776": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "578",
+  "auto": true,
+  "caption_len": 352,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ルカ・ドンチッチ、ウォリアーズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeyMNY_j-Vx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T05:05:43+0000"
+ },
  "17956811557667461": {
   "auto": false,
   "caption_len": 85,
@@ -1980,6 +2142,33 @@
   "template": "news",
   "timestamp": "2026-10-02T10:03:37+0000"
  },
+ "17993820360058027": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "572",
+  "auto": true,
+  "caption_len": 340,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、ブルズ戦で23得点4スティール",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex8voJFTDC/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T02:50:36+0000"
+ },
  "17994235317021682": {
   "article": "301",
   "auto": true,
@@ -2002,6 +2191,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T11:22:59+0000"
+ },
+ "17998860173822976": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "580",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、キングス戦で10得点8リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeyNkL6mfXa/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T05:17:35+0000"
  },
  "18001285127809028": {
   "article": "359",
@@ -2036,6 +2252,33 @@
   "permalink": "https://www.instagram.com/reel/CcO_tgTAPEV/",
   "product": "REELS",
   "timestamp": "2022-04-12T02:30:50+0000"
+ },
+ "18008794401003820": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "570",
+  "auto": true,
+  "caption_len": 330,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジュリアス・ランドル、ホーネッツ戦で33得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex6cookWGx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Hornets vs. Nets）",
+  "subject": [
+   "Julius Randle"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T02:30:30+0000"
  },
  "18008828612992259": {
   "arms": {
@@ -2215,6 +2458,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T03:51:45+0000"
+ },
+ "18018443825950028": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "579",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デイミアン・リラード、サンズ戦で25得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DeyMZkYD-bq/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Damian Lillard"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T05:07:22+0000"
  },
  "18018678778356954": {
   "auto": false,
@@ -2475,6 +2745,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T16:03:39+0000"
+ },
+ "18048591191819865": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "568",
+  "auto": true,
+  "caption_len": 358,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デイビス34得点、ウィザーズが開幕戦勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex24YtE231/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Wizards vs. Bucks）",
+  "subject": [
+   "Anthony Davis"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T01:59:21+0000"
  },
  "18051457276331512": {
   "auto": false,
@@ -3023,6 +3320,33 @@
   "template": "score",
   "timestamp": "2026-10-15T02:23:00+0000"
  },
+ "18081318725711831": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "576",
+  "auto": true,
+  "caption_len": 371,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "パスカル・シアカム、ペリカンズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex-mQTCbUs/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Pacers vs. Pelicans・2026年10月21日）",
+  "subject": [
+   "Pascal Siakam"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T03:06:41+0000"
+ },
  "18082868636709984": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -3174,6 +3498,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T22:09:05+0000"
+ },
+ "18093177926468364": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "584",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハリバートン、400日ぶり復帰で涙 —— ペイサーズ開幕戦制す",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DezIUldCv1x/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN(Andscape)",
+  "subject": [
+   "Tyrese Haliburton"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-22T13:50:57+0000"
  },
  "18093380651346856": {
   "article": "347",
@@ -4215,6 +4566,33 @@
   "template": "news",
   "timestamp": "2026-10-06T01:10:51+0000"
  },
+ "18113665151116933": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "583",
+  "auto": true,
+  "caption_len": 441,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レイカーズ、開幕戦でウォリアーズに127-105 —— リーブス「最後の抱擁」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DezC92okrsM/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Why Warriors-Lakers was the quiet end of an incredible NBA era」",
+  "subject": [
+   "Luka Doncic|LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-22T13:04:10+0000"
+ },
  "18113685329175542": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -4747,6 +5125,33 @@
   "template": "news",
   "timestamp": "2026-09-29T11:24:40+0000"
  },
+ "18124757123514625": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "573",
+  "auto": true,
+  "caption_len": 329,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スコッティ・バーンズ、ブルズ戦で23得点5アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex873Jlb2R/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Scottie Barnes"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T02:52:05+0000"
+ },
  "18126002959855321": {
   "article": "348",
   "auto": true,
@@ -4997,6 +5402,33 @@
   "template": "news",
   "timestamp": "2026-09-30T20:59:31+0000"
  },
+ "18129730042836617": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "577",
+  "auto": true,
+  "caption_len": 371,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クーパー・フラッグ、ロケッツ戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex_2j9AKFI/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Mavericks vs. Rockets・2026年10月21日）",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T03:17:44+0000"
+ },
  "18129788959746642": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -5189,6 +5621,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T03:09:50+0000"
+ },
+ "18134838751775567": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "575",
+  "auto": true,
+  "caption_len": 371,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイ・ジェローム、ジャズ戦で45得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex-U9yj1ZC/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Jazz vs. Grizzlies・2026年10月21日）",
+  "subject": [
+   "Ty Jerome"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T03:04:20+0000"
  },
  "18134942386657725": {
   "arms": {
@@ -5671,6 +6130,33 @@
   "permalink": "https://www.instagram.com/reel/CcPONzxge_7/",
   "product": "REELS",
   "timestamp": "2022-04-12T04:37:27+0000"
+ },
+ "18165355519491420": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "571",
+  "auto": true,
+  "caption_len": 322,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アンソニー・エドワーズ、ヒート戦で45得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dex8kchj4lN/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Anthony Edwards"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-22T02:48:55+0000"
  },
  "18165423790466799": {
   "article": "295",
