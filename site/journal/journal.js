@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "595-knicks-sign-dalton-knecht-two-way.html",
+    cat: "NBA",
+    title: "ニックス、ダルトン・クネクトと2ウェイ契約で合意 —— レイカーズ解雇から数日、前王者の下で再起期す",
+    excerpt: "ニューヨーク・ニックスは現地時間10月23日、レイカーズにウェーバー公示されていたダルトン・クネクトと2ウェイ契約で合意した。本人の代理人がESPNのシャムズ・チャラニア記者に伝えた。クリーブランド、サクラメント、ミネソタも関心を示していたという。",
+    date: "2026.10.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "594-anta-kai-1-chief-hela-red.html",
     cat: "KICKS",
     title: "ANTA「Kai 1 Chief Hélà Red」が10月24日発売 —— カイリー・アービングのシグネチャー、2026年初のKai 1新色",
