@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T10:58:57+09:00",
+  "updated": "2026-10-23T11:07:51+09:00",
   "items": [
     {
       "id": "134",
@@ -15320,6 +15320,100 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Nike Air Foamposite Pro「LSU」「オハイオ州立」11/5発売\n\n・LSUタイガース仕様は品番IX2091-700\n・オハイオ州立仕様は品番IX2094-100\n・2026年11月5日に発売\n\n💬 LSU、オハイオ州立、どっちが好き？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker Bar Detroit\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "587",
+      "slug": "587-mitchell-32-points-76ers",
+      "category": "NBA",
+      "date": "2026-10-23",
+      "headline": "ミッチェル32得点も76ers戦で逆転負け",
+      "excerpt": "クリーブランド・キャバリアーズのドノバン・ミッチェルは現地時間10月22日、敵地フィラデルフィアのXfinity Mobile Arenaでの76ers戦に35分出場し、フィールドゴール19本中11本(3ポイント4本中2本)、フリースロー11本中8本を沈めて32得点・10リバウンド・3アシストを記録した。両チーム通じてこの日の試合最多得点者(タイ)となったが、キャバリアーズは前半の大量リードを守れず106-114で逆転負けを喫した。",
+      "points": [
+        "32得点・10リバウンド・3アシスト",
+        "前半69-45の24点リードを守れず",
+        "最終106-114でキャバリアーズ逆転負け"
+      ],
+      "source": "ESPN ボックススコア（Cavaliers vs. 76ers・2026年10月22日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/587-mitchell-32-points-76ers.html",
+      "hero_path": "",
+      "subject": [
+        "Donovan Mitchell"
+      ],
+      "question": "前半24点リードを守れなかったキャバリアーズ、修正できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DONOVAN MITCHELL",
+        "opponent": "vs. 76ERS",
+        "points": 32,
+        "stats": [
+          "10 REB",
+          "3 AST",
+          "2 STL",
+          "11/19 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/587-1.jpg",
+        "https://sixten.jp/assets/ig/587-2.jpg",
+        "https://sixten.jp/assets/ig/587-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-23T11:07:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ミッチェル32得点も76ers戦で逆転負け\n\n・32得点・10リバウンド・3アシスト\n・前半69-45の24点リードを守れず\n・最終106-114でキャバリアーズ逆転負け\n\n💬 前半24点リードを守れなかったキャバリアーズ、修正できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Cavaliers vs. 76ers・2026年10月22日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "588",
+      "slug": "588-maxey-32-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-10-23",
+      "headline": "マクシー32得点、76ersが逆転勝利",
+      "excerpt": "フィラデルフィア・76ersのタイリース・マクシーは現地時間10月22日、本拠地Xfinity Mobile Arenaでのクリーブランド・キャバリアーズ戦に42分出場し、フィールドゴール23本中12本(3ポイント7本中2本)、フリースロー8本中6本を沈めて32得点・6アシストを記録した。両チーム通じてこの日の試合最多得点者(タイ)となり、76ersは前半のビハインドを跳ね返して114-106で勝利した。",
+      "points": [
+        "32得点・6アシスト・+19",
+        "前半45-69のビハインドを跳ね返す",
+        "最終114-106で76ers勝利"
+      ],
+      "source": "ESPN ボックススコア（Cavaliers vs. 76ers・2026年10月22日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/588-maxey-32-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Maxey"
+      ],
+      "question": "この逆転劇、76ersの今季を象徴する一戦だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYRESE MAXEY",
+        "opponent": "vs. CAVALIERS",
+        "points": 32,
+        "stats": [
+          "6 AST",
+          "3 REB",
+          "2 STL",
+          "12/23 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/588-1.jpg",
+        "https://sixten.jp/assets/ig/588-2.jpg",
+        "https://sixten.jp/assets/ig/588-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-23T11:07:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マクシー32得点、76ersが逆転勝利\n\n・32得点・6アシスト・+19\n・前半45-69のビハインドを跳ね返す\n・最終114-106で76ers勝利\n\n💬 この逆転劇、76ersの今季を象徴する一戦だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Cavaliers vs. 76ers・2026年10月22日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

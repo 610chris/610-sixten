@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "588-maxey-32-points-cavaliers.html",
+    cat: "NBA",
+    title: "タイリース・マクシー、キャバリアーズ戦で32得点 —— 76ersが114-106で逆転勝利",
+    excerpt: "フィラデルフィア・76ersのタイリース・マクシーは現地時間10月22日、本拠地Xfinity Mobile Arenaでのクリーブランド・キャバリアーズ戦に42分出場し、フィールドゴール23本中12本(3ポイント7本中2本)、フリースロー8本中6本を沈めて32得点・6アシストを記録した。両チーム通じてこの日の試合最多得点者(タイ)となり、76ersは前半のビハインドを跳ね返して114-106で勝利した。",
+    date: "2026.10.23",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "587-mitchell-32-points-76ers.html",
+    cat: "NBA",
+    title: "ドノバン・ミッチェル、76ers戦で32得点 —— キャバリアーズが106-114で逆転負け",
+    excerpt: "クリーブランド・キャバリアーズのドノバン・ミッチェルは現地時間10月22日、敵地フィラデルフィアのXfinity Mobile Arenaでの76ers戦に35分出場し、フィールドゴール19本中11本(3ポイント4本中2本)、フリースロー11本中8本を沈めて32得点・10リバウンド・3アシストを記録した。両チーム通じてこの日の試合最多得点者(タイ)となったが、キャバリアーズは前半の大量リードを守れず106-114で逆転負けを喫した。",
+    date: "2026.10.23",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "586-foamposite-pro-college-pack.html",
     cat: "KICKS",
     title: "Nike Air Foamposite Pro、LSU＆オハイオ州立カラーが11月5日発売 —— カレッジチーム仕様の新色2型",
