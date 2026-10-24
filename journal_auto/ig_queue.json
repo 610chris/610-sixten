@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:02:12+09:00",
+  "updated": "2026-10-24T11:15:09+09:00",
   "items": [
     {
       "id": "134",
@@ -16121,6 +16121,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "フラッグ、ペイサーズ戦で左肩負傷退場\n\n・第1Q終盤にネスミスのファウルで左肩負傷\n・前半のみで14得点6アシスト5リバウンド\n・マーベリックスは121-105で快勝\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "607",
+      "slug": "607-wiggins-19-points-hornets",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "ウィギンス、ホーネッツ戦で19得点",
+      "excerpt": "アトランタ・ホークスのアーロン・ウィギンスは現地時間10月23日、シャーロットのスペクトラム・センターでのシャーロット・ホーネッツ戦に22分出場し、フィールドゴール9本中7本を沈めて19得点・2スティールを記録した。チームメートのジェイレン・ジョンソン(19得点)と並び両チーム通じてこの日の試合最多得点者となり、ホークスは128-81でホーネッツに大勝した。",
+      "points": [
+        "22分で19得点、FG9本中7本と高確率",
+        "3P5本中3本・2スティールも記録",
+        "ホークスは128-81でホーネッツに大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/607-wiggins-19-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Aaron Wiggins"
+      ],
+      "question": "この大勝、一番の功労者は誰だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AARON WIGGINS",
+        "opponent": "vs. HORNETS",
+        "points": 19,
+        "stats": [
+          "2 STL",
+          "1 REB",
+          "1 AST",
+          "7/9 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/607-1.jpg",
+        "https://sixten.jp/assets/ig/607-2.jpg",
+        "https://sixten.jp/assets/ig/607-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T11:12:33+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウィギンス、ホーネッツ戦で19得点\n\n・22分で19得点、FG9本中7本と高確率\n・3P5本中3本・2スティールも記録\n・ホークスは128-81でホーネッツに大勝\n\n💬 この大勝、一番の功労者は誰だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
