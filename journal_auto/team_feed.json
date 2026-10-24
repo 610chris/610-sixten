@@ -1,8 +1,27 @@
 {
- "updated_utc": "2026-10-24 21:08 UTC",
+ "updated_utc": "2026-10-24 23:39 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/yves-missi-medical-update-102426",
+   "url": "https://www.nba.com/pelicans/news/yves-missi-medical-update-102426",
+   "canonical_url": "https://pelicans.com/news/yves-missi-medical-update-102426",
+   "title": "Yves Missi Medical Update",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-24T21:42:31Z",
+   "tags": [],
+   "summary": "The New Orleans Pelicans announced today that center Yves Missi has been diagnosed with a left knee bone bruise. An MRI confirmed the injury, which occurred as a result of a left knee hyperextension during the second quarter of last night’s game against the Utah Jazz. Further updates will be provided as appropriate.",
+   "facts": [
+    "An MRI confirmed the injury, which occurred as a result of a left knee hyperextension during the second quarter of last night’s game against the Utah Jazz."
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -29,9 +48,9 @@
     "Seven players finished in double-figures for Will Hardy’s squad, led by Jaren Jackson Jr. (24 points and 10 rebounds).",
     "Off the bench, Jaxson Hayes thrived on both ends of the floor, earning the close and finishing with 17 points and five rebounds on 7-of-8 shooting from the field.",
     "As a team, Utah dished out 31 assists.",
+    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jusuf Nurkić (Right Foot; 2nd Plantar Plate Tear) Lakers injury report: OUT - Cameron Carr (Right Oblique Strain), Adou…",
     "Kessler leads a new-look Lakers squad The Lakers were one of the most active teams during the offseason, with the sign-and-trade for Kessler serving as the team’s prized additions.",
-    "Kessler has dominated during the opening week of the season, averaging 24 points, 8.5 rebounds, and four blocks per game on 84.6 percent shooting from the field.",
-    "In the season-opening loss to the Grizzlies, ball security struggles and an inability to crash the offensive glass sunk the Jazz, as they ended up with 18 fewer shot attempts on the night."
+    "Kessler has dominated during the opening week of the season, averaging 24 points, 8.5 rebounds, and four blocks per game on 84.6 percent shooting from the field."
    ],
    "quotes": []
   },
@@ -202,7 +221,7 @@
    "key": "https://www.nba.com/mavs/news/mavericks-spurs-preview-flaggs-injury-adds-intrigue-to-home-opener",
    "url": "https://www.nba.com/mavs/news/mavericks-spurs-preview-flaggs-injury-adds-intrigue-to-home-opener",
    "canonical_url": "https://mavs.com/mavs/news/mavericks-spurs-preview-flaggs-injury-adds-intrigue-to-home-opener",
-   "title": "Mavericks-Spurs preview: Flagg's injury adds intrigue to home opener",
+   "title": "Mavericks-Spurs preview: Flagg's injury, Irving's absence adds intrigue to home opener",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-24T12:51:31Z",
    "tags": [],
@@ -213,9 +232,9 @@
     "He had a team-best 24 points in the 121-105 win at Indiana Friday night.",
     "He’s already playing on a minutes restriction as he returns from knee surgery and nearly 19 months between games.",
     "Those 24 points came in just 25 minutes of playing time.",
-    "Flagg suffered a left shoulder injury on Friday and left the game against the Pacers before halftime.",
-    "The amazing part of Flagg’s game was that in just 17 minutes of playing time, the Mavericks were an astonishing plus-34 when he was on the court.",
-    "Aldama has been recovering from knee surgery in March."
+    "Flagg had an MRI on his left shoulder that was injured Friday at Indiana.",
+    "The exam revealed a shoulder sprain and he was ruled out for the home opener.",
+    "The amazing part of Flagg’s game against the Pacers was that in just 17 minutes of playing time, the Mavericks were an astonishing plus-34 when he was on the court."
    ],
    "quotes": [
     "It (was) a long summer in that sense. But I’m working every day and feeling better every day, so I’m excited to get back out there."
@@ -1946,58 +1965,6 @@
     "He started his college career at Iona, then transferred to Florida and helped the Gators win the national championship in 2025, when he averaged 18.3 points, 4.2 assists and 3.7 rebounds per game.",
     "He was named the Final Four most outstanding player and had a key defensive play late in the Gators’ 65-63 win over Houston in the championship game.",
     "For whatever reasons, Clayton has been a tradeable asset twice in his first NBA season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-season-opener-261021",
-   "url": "https://www.nba.com/cavaliers/news/features-season-opener-261021",
-   "canonical_url": "https://cavs.com/news/features-season-opener-261021",
-   "title": "What to Watch for on Wednesday in Cleveland's Season Opener",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-21T22:39:21Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "OK, the NBA’s already rolling, with two heavyweight brawls on Tuesday night and a heavy 11-game slate on Wednesday. But the Wine & Gold don’t hit the hardwood until Thursday night in the City of Brotherly Love, following a nine-day spread between competitive contests.",
-   "facts": [
-    "OK, the NBA’s already rolling, with two heavyweight brawls on Tuesday night and a heavy 11-game slate on Wednesday.",
-    "The NBA hasn’t had a repeat champ since the 2018 Warriors, so for the last eight seasons a team that said: ‘We’ll get ‘em next year’ was right.",
-    "For the Cavaliers – who were victims of said Warriors back in 2018 – it’s a fresh start following their first run back to the Conference Finals since that season.",
-    "And they don’t get to wade into the deep end to start the 2026-27 campaign.",
-    "They tip off against the league’s most active offseason team in its home opener – with Jaylen Brown and LeBron James in the revamped starting lineup for the Philadelphia 76ers.",
-    "James and Brown quietly stuffed the stat sheet and Tyrese Maxey led everyone with 28 points.",
-    "Kenny Atkinson will send out some newcomers of his own on Thursday night, as Cleveland tips off the 56th season in franchise history looking to finish what they started last spring.",
-    "Here are a few things to look for when the ball goes up at 7:00 p.m. in Philly on Wednesday night … Peyton Watson’s Debut – The key acquisition of the offseason makes his Cavaliers debut on Thursday night after spending …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "roster",
-   "key": "https://www.nba.com/mavs/news/mavericks-sign-walter-clayton-jr-to-two-way-contract",
-   "url": "https://www.nba.com/mavs/news/mavericks-sign-walter-clayton-jr-to-two-way-contract",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-sign-walter-clayton-jr-to-two-way-contract",
-   "title": "Mavericks Sign Walter Clayton Jr. to Two-Way Contract",
-   "author": "Dallas Mavericks",
-   "published_utc": "2026-10-21T21:51:14Z",
-   "tags": [],
-   "summary": "DALLAS (Oct. 21, 2026) – The Dallas Mavericks announced today that they have signed guard Walter Clayton Jr. to a Two-Way contract. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "DALLAS (Oct. 21, 2026) – The Dallas Mavericks announced today that they have signed guard Walter Clayton Jr. to a Two-Way contract.",
-    "Clayton Jr. (6-4, 195) averaged 7.8 points, 2.0 rebounds, 4.0 assists and 20.4 minutes per game in 69 games (six starts) as a rookie for the Utah Jazz and Memphis Grizzlies last season.",
-    "The 23-year-old notched a career-high 20 points twice last year, including a 20-point, nine-assist game against the Oklahoma City Thunder on Dec. 7.",
-    "The Lake Wales, Florida native was selected with the 18th overall pick in the 2025 NBA Draft after his senior season at the University of Florida, where he led the Gators to the NCAA National Championship in 2025.",
-    "In his final season at Florida, he averaged 18.3 points, 3.7 rebounds, 4.2 assists and 1.2 steals per game en route to earning NCAA Final Four Most Outstanding Player, Consensus First Team All-American, All-SEC First Tea…",
-    "Clayton will wear jersey No. 1 for the Mavericks. ###"
    ],
    "quotes": []
   }
