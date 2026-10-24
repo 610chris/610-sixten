@@ -1,8 +1,89 @@
 {
- "updated_utc": "2026-10-24 18:20 UTC",
+ "updated_utc": "2026-10-24 21:08 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-continue-homestand-against-los-angeles-lakers-2",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-continue-homestand-against-los-angeles-lakers-2",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-continue-homestand-against-los-angeles-lakers-2",
+   "title": "Preview: Utah Jazz Continue Homestand Against Los Angeles Lakers",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-24T20:04:04Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Jaren Jackson Jr.",
+    "Keyonte George",
+    "Utah Jazz"
+   ],
+   "summary": "After kicking off the 2026-27 season on the road, the Utah Jazz will be able to get comfortable at home and spend the rest of October playing at the Delta Center.",
+   "facts": [
+    "After kicking off the 2026-27 season on the road, the Utah Jazz will be able to get comfortable at home and spend the rest of October playing at the Delta Center.",
+    "Utah bounced back in the home opener Friday night, securing a dramatic 120-119 victory over the New Orleans Pelicans.",
+    "Seven players finished in double-figures for Will Hardy’s squad, led by Jaren Jackson Jr. (24 points and 10 rebounds).",
+    "Off the bench, Jaxson Hayes thrived on both ends of the floor, earning the close and finishing with 17 points and five rebounds on 7-of-8 shooting from the field.",
+    "As a team, Utah dished out 31 assists.",
+    "Kessler leads a new-look Lakers squad The Lakers were one of the most active teams during the offseason, with the sign-and-trade for Kessler serving as the team’s prized additions.",
+    "Kessler has dominated during the opening week of the season, averaging 24 points, 8.5 rebounds, and four blocks per game on 84.6 percent shooting from the field.",
+    "In the season-opening loss to the Grizzlies, ball security struggles and an inability to crash the offensive glass sunk the Jazz, as they ended up with 18 fewer shot attempts on the night."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-nuggets-10-24-2026",
+   "url": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-nuggets-10-24-2026",
+   "canonical_url": "https://pelicans.com/news/behind-the-numbers-pelicans-at-nuggets-10-24-2026",
+   "title": "Behind the Numbers: Pelicans at Nuggets (10/24/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-24T19:36:53Z",
+   "tags": [],
+   "summary": "A look at three key numbers related to Saturday’s game in Ball Arena between New Orleans and Denver (8 p.m. Central, GCSEN on TV; WWL on radio):",
+   "facts": [
+    "A look at three key numbers related to Saturday’s game in Ball Arena between New Orleans and Denver (8 p.m.",
+    "Central, GCSEN on TV; WWL on radio): 8: New Orleans rank in offensive efficiency among the 30 NBA teams – through an extremely small sample size of two games – by scoring 115.5 points per 100 possessions (via NBA.com).",
+    "The Pelicans have a top-10 offense at this early stage of the regular season despite a couple negative factors, including ranking 28th in assist percentage (50.0, ahead of only Phoenix and Cleveland – both have only play…",
+    "They’ve also shot a below-average 32.1 percent from three-point range, which is a lower accuracy rate than even last season, when the squad ranked 24th at 34.7 percent.",
+    "On the plus side, New Orleans is leading the NBA in free-throw percentage (89.1, going 57/64) and is fifth in points in the paint per game (56.0).",
+    "At the other end of the floor, the Pelicans are an early 21st in defensive efficiency (117.4).",
+    "Add it up and it’s equaled an 0-2 start, but by a total of just four points – 123-120 vs.",
+    "Indiana, then 120-119 at Utah. 7.3, 3.7: Yves Missi offensive rebounds per 36 minutes, then blocks per 36 minutes through his two games, both ranking in the top six of all players who’ve logged at least as many minutes a…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-at-nuggets-injury-report-game-preview-10-24-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-at-nuggets-injury-report-game-preview-10-24-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-at-nuggets-injury-report-game-preview-10-24-2026",
+   "title": "Pelicans at Nuggets: Injury Report, Game Preview 10/24/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-24T19:12:28Z",
+   "tags": [],
+   "summary": "The Pelicans travel to Denver to face the Nuggets on Saturday at the Ball Arena at 8:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans travel to Denver to face the Nuggets on Saturday at the Ball Arena at 8:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Nuggets injury report, team news, tune in details, and gameday information: PELICANS VS NUGGETS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Malik Dia OUT …",
+    "OUT (G League two-way) Julian Reese PROBABLE (G League two-way) NUGGETS INJURY REPORT Cam Johnson OUT (right ankle sprain) Spencer Jones OUT (bilateral hamstring injury management) Julian Strawther OUT (left knee sprain)…",
+    "Nuggets Game Time, TV Channel, Radio & Location 📅 Game Time: Saturday, Oct. 24 at 8:00 pm CT🏟️ Location: Ball Arena in Denver, CO🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Nuggets TV: ALT/KTVD/ALT+📻 Nuggets Ra…"
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -883,7 +964,7 @@
    "facts": [
     "It was a strong first half, jumping out to a 29-point second quarter lead but scoring just 37 points in the second half.",
     "Donovan Mitchell scored 22 of his game-high 32 in the first half.",
-    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT Nets: -Tyler Bilodeau - Shoulder - OUT KE…"
+    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - Two-Way - OUT Nets: -T…"
    ],
    "quotes": []
   },
@@ -1917,116 +1998,6 @@
     "The Lake Wales, Florida native was selected with the 18th overall pick in the 2025 NBA Draft after his senior season at the University of Florida, where he led the Gators to the NCAA National Championship in 2025.",
     "In his final season at Florida, he averaged 18.3 points, 3.7 rebounds, 4.2 assists and 1.2 steals per game en route to earning NCAA Final Four Most Outstanding Player, Consensus First Team All-American, All-SEC First Tea…",
     "Clayton will wear jersey No. 1 for the Mavericks. ###"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/the-offseason-chronicles",
-   "url": "https://www.nba.com/mavs/news/the-offseason-chronicles",
-   "canonical_url": "",
-   "title": "The Offseason Chronicles",
-   "author": "Lauren Wyatt",
-   "published_utc": "2026-10-21T21:03:47Z",
-   "tags": [
-    "dallas mavericks"
-   ],
-   "summary": "Everyone loves to snoop a little. Come on in and see what we've been up to while you were away.",
-   "facts": [
-    "Coop took home NBA All-Rookie First Team honors and was named Kia NBA Rookie of the Year after a record-setting rookie campaign that included becoming the youngest player in NBA history to score 50 points in a game.",
-    "The architect behind the Toronto Raptors' 2019 NBA championship settled down south and wasted no time establishing his vision for the Mavericks.",
-    "The pair's history dates back more than a decade to their days scouting in the same small gyms around the world, but Schmitz's own path to Dallas is worth a quick detour: from ESPN analyst to Portland Trail Blazers assis…",
-    "Fast forward to June 23.",
-    "Dusty May, fresh off leading Michigan to the 2026 NCAA National Championship, was making the jump to the pros.",
-    "Just four and a half hours before the start of the 2026 NBA Draft, May was announced as the new head coach of the Dallas Mavericks.",
-    "From there, Ujiri, Schmitz and Co. went to work, trading up on draft night to grab Spanish guard Sergio De Larrea and revamping the roster through a myriad of moves, most notably adding 2024 No.1 pick Zaccharie Risacher,…",
-    "A few storylines worth keeping an eye on as the season gets underway: Kyrie's return - After missing all of last season recovering from a torn ACL, Kyrie Irving entered camp with no restrictions and officially returns to…"
-   ],
-   "quotes": [
-    "A Charlie Brown Christmas",
-    "Confessions of a Concession",
-    " said the Cocktail Well, too bad. You're a drink and you have no say. So, we have mocktails now! Plus, there's the slew of upgraded signature cocktails rolled out last season, along with classic beer,…"
-   ]
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-kings-261021",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-kings-261021",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-kings-261021",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Kings",
-   "author": "LAClippers",
-   "published_utc": "2026-10-21T21:00:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Brandon Ingram",
-    "Broadcast Information",
-    "Darius Garland",
-    "Game Previews",
-    "Injury Report",
-    "Keaton Wagler",
-    "Key Matchup"
-   ],
-   "summary": "1. Since the beginning of the 2010-11 season, the Clippers have gone 45-16 (.738) against the Kings. The 45 wins are tied for the most by any NBA team against a single opponent over that span (Heat, 45 vs. Hornets).",
-   "facts": [
-    "SACRAMENTO KINGS FIVE THINGS TO KNOW 1.",
-    "Since the beginning of the 2010-11 season, the Clippers have gone 45-16 (.738) against the Kings.",
-    "The 45 wins are tied for the most by any NBA team against a single opponent over that span (Heat, 45 vs.",
-    "In the 32 games following last season’s trade deadline, the Clippers averaged 2.5 more steals per game than their opponent.",
-    "That was the largest differential in the NBA over that span (February 6 through end of season). 3.",
-    "Darius Garland has made a three in all 19 games to begin his Clippers career.",
-    "The only players in franchise history to make a three in their first 20 or more games with the team are Landry Shamet (22), Jamal Crawford (20) and JJ Redick (20). 4.",
-    "Clippers’ newcomer Brandon Ingram has at least 15 points and a made three in 17 straight games against the Kings."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/warriors-statement-on-kristaps-porzingis-20261021",
-   "url": "https://www.nba.com/warriors/news/warriors-statement-on-kristaps-porzingis-20261021",
-   "canonical_url": "https://warriors.com/news/warriors-statement-on-kristaps-porzingis-20261021",
-   "title": "Warriors Statement On Kristaps Porzingis - 10/21/26",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-21T20:44:53Z",
-   "tags": [],
-   "summary": "In response to today’s media report regarding Kristaps Porziņģis, we are not going to comment on trade speculation or reports regarding his health-related matter or future. As noted last week, conversations between the Warriors, Kristaps and his representatives will remain private. We are not anticipating Kristaps being around the team in the immediate future. We’ll provide additional updates when…",
-   "facts": [
-    "In response to today’s media report regarding Kristaps Porziņģis, we are not going to comment on trade speculation or reports regarding his health-related matter or future."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-blake-hinson",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-blake-hinson",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-blake-hinson",
-   "title": "Utah Jazz Waive Blake Hinson",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-21T20:00:12Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 21, 2026) – The Utah Jazz have waived forward Blake Hinson.",
-   "facts": [
-    "SALT LAKE CITY (October 21, 2026) – The Utah Jazz have waived forward Blake Hinson.",
-    "About Blake Hinson Hinson (6-8, 230, Pittsburgh) appeared in 14 games (three starts) for the Jazz in 2025-26, averaging 11.9 points, 2.4 rebounds and 1.1 assists in 20.4 minutes per game.He also has G League experience w…",
-    "As a senior, he averaged 18.5 points and 4.4 rebounds in 33.6 minutes per game, shooting 42.1 percent from three-point range, and earned 2023-24 All-ACC First Team honors."
    ],
    "quotes": []
   }
