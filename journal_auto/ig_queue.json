@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T14:13:32+09:00",
+  "updated": "2026-10-24T14:26:05+09:00",
   "items": [
     {
       "id": "134",
@@ -16483,6 +16483,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "リーブス、クリッパーズ戦で28得点9アシスト\n\n・FG10/13(76.9%)\n・アシスト9・スティール2\n・レイカーズが125-117で地元ダービー制す\n\n💬 この地元ダービー、来シーズンどっちが上？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Lakers vs. Clippers・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "615",
+      "slug": "615-jackson-24-points-pelicans",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "ジャクソンJr.、ペリカンズ戦で24得点10リバウンド",
+      "excerpt": "ユタ・ジャズのジェイレン・ジャクソン・ジュニアは現地時間10月23日、本拠地ソルトレイクシティでのペリカンズ戦に33分出場し、フィールドゴール15本中7本(3ポイント4本中2本)、フリースロー10本中8本を沈めて24得点・10リバウンド・3ブロックを記録した。両チーム通じてこの日の試合最多得点者となり、ジャズは第3Qの逆転を第4Qで跳ね返して120-119でペリカンズを下した。",
+      "points": [
+        "33分出場でFG15本中7本・FT10本中8本成功",
+        "24得点・10リバウンド・3ブロックを記録",
+        "ジャズは第3Qの逆転を第4Qで跳ね返し120-119で勝利"
+      ],
+      "source": "ESPN ボックススコア（Jazz vs. Pelicans・2026年10月23日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/615-jackson-24-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Jaren Jackson Jr."
+      ],
+      "question": "ジャズ、このまま西地区で上位食い込める？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAREN JACKSON JR.",
+        "opponent": "vs. PELICANS",
+        "points": 24,
+        "stats": [
+          "10 REB",
+          "3 AST",
+          "3 BLK",
+          "7/15 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/615-1.jpg",
+        "https://sixten.jp/assets/ig/615-2.jpg",
+        "https://sixten.jp/assets/ig/615-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T14:25:01+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジャクソンJr.、ペリカンズ戦で24得点10リバウンド\n\n・33分出場でFG15本中7本・FT10本中8本成功\n・24得点・10リバウンド・3ブロックを記録\n・ジャズは第3Qの逆転を第4Qで跳ね返し120-119で勝利\n\n💬 ジャズ、このまま西地区で上位食い込める？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Jazz vs. Pelicans・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
