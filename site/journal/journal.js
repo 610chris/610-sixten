@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "619-adidas-harden-vol-10-ruei.html",
+    cat: "KICKS",
+    title: "Ray Asian Boy x adidas ハーデン Vol. 10 PE「RUEI」が10月26日発売 —— adidas CONFIRMEDアプリ限定",
+    excerpt: "adidasは、ジェームズ・ハーデンのシグネチャーモデル「ハーデン Vol. 10」のPE(プレイヤーエディション)、Ray Asian Boyとのコラボレーション「RUEI」を10月26日に発売する。adidas CONFIRMEDアプリでの限定販売となる。Nice Kicksが報じた。",
+    date: "2026.10.24",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "618-nike-air-force-1-square-toe.html",
+    cat: "KICKS",
+    title: "ナイキ「エア フォース 1 ロー スクエアトゥ」トリプルホワイト／トリプルブラックが11月6日発売 —— 定番シルエットのトゥを角型に変更",
+    excerpt: "ナイキは、定番モデル「エア フォース 1 ロー」のトゥの形状を変えた新バリエーション「スクエアトゥ」から、2色「トリプルホワイト」（品番JF7766-100）と「トリプルブラック」（品番JF7766-001）を11月6日に発売する。Sneaker Bar Detroitが報じた。",
+    date: "2026.10.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "617-giannis-spoelstra-heat-0-2-start.html",
     cat: "NBA",
     title: "アデトクンボ「僕らは間違いなくショックを受けた」—— ヒート0-2発進、スポールストラ「たどり着く」",
