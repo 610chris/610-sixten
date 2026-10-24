@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "620-banchero-ankle-injury-timberwolves.html",
+    cat: "NBA",
+    title: "パオロ・バンケロ、「軽度」の足首捻挫で数週間離脱へ —— ティンバーウルブズ戦の第3Qで負傷、マジックは93-115で敗戦",
+    excerpt: "オーランド・マジックのパオロ・バンケロは現地時間10月23日、本拠地キア・センターでのティンバーウルブズ戦の第3Qで足首を負傷し、第4Qを欠場した。ESPNのShams Charania記者によると診断は「軽度の高位足首捻挫」で、数週間の離脱が見込まれるという。マジックは93-115で敗戦した。",
+    date: "2026.10.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "619-adidas-harden-vol-10-ruei.html",
     cat: "KICKS",
     title: "Ray Asian Boy x adidas ハーデン Vol. 10 PE「RUEI」が10月26日発売 —— adidas CONFIRMEDアプリ限定",
