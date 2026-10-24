@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "621-lebron-sciatica-bucks.html",
+    cat: "NBA",
+    title: "レブロン・ジェームズ、バックス戦を欠場へ —— 坐骨神経痛の管理で76ers加入後初の欠場",
+    excerpt: "フィラデルフィア・76ersのレブロン・ジェームズは現地時間10月24日、坐骨神経痛による腰の痛みを管理するため、本拠地でのミルウォーキー・バックス戦を欠場する。76ersが発表した。ジェームズは昨季も坐骨神経痛で開幕14試合を欠場しており、76ers加入後では今季初の欠場となる。ESPNが報じた。",
+    date: "2026.10.25",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "620-banchero-ankle-injury-timberwolves.html",
     cat: "NBA",
     title: "パオロ・バンケロ、「軽度」の足首捻挫で数週間離脱へ —— ティンバーウルブズ戦の第3Qで負傷、マジックは93-115で敗戦",
