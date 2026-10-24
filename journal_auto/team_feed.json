@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-24 06:24 UTC",
+ "updated_utc": "2026-10-24 11:32 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
@@ -85,11 +85,11 @@
    "tags": [
     "Game Recap"
    ],
-   "summary": "The Golden State Warriors fell 111-108 to the Memphis Grizzlies in their home opener at Chase Center on Friday night. The game was a back and forth battle that came down to a crucial last minute. Five players scored in double figures as Stephen Curry paced the offense with 24 points. Yaxel Lendeborg had a strong outing, recording his first ever double-double with 18 points and a team-high 12 rebou…",
+   "summary": "The Golden State Warriors fell 111-108 to the Memphis Grizzlies in their home opener at Chase Center on Friday night. The game was a back and forth battle that came down to a crucial last minute. Five players scored in double figures as Stephen Curry paced the offense with 24 points. Yaxel Lendeborg had a strong outing, recording his first ever double-double with 18 points and a team-high 13 rebou…",
    "facts": [
     "The Golden State Warriors fell 111-108 to the Memphis Grizzlies in their home opener at Chase Center on Friday night.",
     "Five players scored in double figures as Stephen Curry paced the offense with 24 points.",
-    "Yaxel Lendeborg had a strong outing, recording his first ever double-double with 18 points and a team-high 12 rebounds.",
+    "Yaxel Lendeborg had a strong outing, recording his first ever double-double with 18 points and a team-high 13 rebounds.",
     "FINDING THEIR FLOW IN THE FIRST The Dubs could not gain the lead for the first six minutes of the opening frame with the deficit reaching eight before back-to-back triples from Draymond Green and Gary Payton II launched …",
     "After going out early in the quarter, Brandin Podziemski returned to the court with one minute left and made an instant impact.",
     "Podziemski earned a steal against his former teammate Quinten Post before sinking the 3-pointer on the other end.",
@@ -113,7 +113,8 @@
    "tags": [
     "Coups Takeaways",
     "CoupWords",
-    "News"
+    "News",
+    "Trending"
    ],
    "summary": "1. Two games are only two games, but this is not the way the HEAT, or any team, would have wanted to open the season.",
    "facts": [
@@ -174,13 +175,49 @@
    ],
    "summary": "INDIANAPOLIS – Dusty May has enjoyed some very memorable moments in the city of Indianapolis over a short period of time.",
    "facts": [
-    "And on Friday, May captured his first win as an NBA coach as the Dallas Mavericks powered their way to a 121-105 victory over the Indiana Pacers at Gainbridge Fieldhouse."
+    "And on Friday, May captured his first win as an NBA coach as the Dallas Mavericks powered their way to a 121-105 victory over the Indiana Pacers at Gainbridge Fieldhouse.",
+    "And six of those games were decided by 20 or more points."
    ],
    "quotes": [
     "They’re the reason why I’m here. I’m very grateful for that experience, but a lot’s happened. Every day I’m learning so much about myself and trying to be the best I can be.",
     "Dusty’s an amazing coach and one of the best coaches in the world,",
     "I see a lot of similarities. They’re disruptive, they’re long, they’re athletic, they play free, and he empowers his best players. They’re going to be very good.",
     "I’ve had the luxury of playing for a lot of head coaches, but each one of them are very unique in terms of their approach,"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261023-tatum-made-the-clutch-shots-but-queta-made-his-favorite",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261023-tatum-made-the-clutch-shots-but-queta-made-his-favorite",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261023-tatum-made-the-clutch-shots-but-queta-made-his-favorite",
+   "title": "Tatum Made the Clutch Shots, but Queta Made His Favorite",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-24T03:59:00Z",
+   "tags": [
+    "Postgame",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – Jayson Tatum made the biggest shots of Friday night’s 107-103 win over the New York Knicks. But his favorite bucket belonged to Neemias Queta.",
+   "facts": [
+    "BOSTON – Jayson Tatum made the biggest shots of Friday night’s 107-103 win over the New York Knicks.",
+    "Tatum buried three straight clutch shots to help put away the defending champs, yet afterward, it was Queta’s corner 3-pointer late in the third quarter that had him smiling most.",
+    "That left Queta wide open in the left corner, where Tatum flipped him the ball and watched the Celtics’ center confidently rise and bury a three to put Boston ahead 78-71.",
+    "The big man knocked down a jump floater from 10 feet, finished a cutting dunk through the lane and converted a driving layup.",
+    "He also made frequent trips to the free-throw line, going 6-of-9 from the stripe on his way to 15 points, six rebounds, and a game-high three blocks off the bench.",
+    "But it was the 3-pointer that stood out most.",
+    "Queta entered Friday night with just one 3-pointer to his name in 186 career regular-season games.",
+    "After beginning his NBA career 0-for-10 from beyond the arc, Queta has now connected on his last two attempts dating back to that regular-season finale."
+   ],
+   "quotes": [
+    "Neem has worked on being a threat around the 3-point line,",
+    "He works on that every single day. And to me, that was that was my favorite part of the game, kicking it out to him in a big moment, seeing him shoot it with confidence. I was so [expletive] happy tha…",
+    "I think the preparation started with just getting spot shots during the summer, working on different forms, speeds, arches, and just getting a better feel for my shot,",
+    "I feel like we're gonna see a little bit more of my shot just off of the positioning we're gonna have, and just the comfortability I have in it too."
    ]
   },
   {
@@ -325,21 +362,22 @@
     "dallas mavericks",
     "nba"
    ],
-   "summary": "INDIANAPOLIS – No one would blame the Dallas Mavericks if they stood up and took a respectful bow following Friday’s hard-fought 121-105 victory over the Indiana Pacers at Gainbridge Fieldhouse.",
+   "summary": "INDIANAPOLIS – Dusty May registered his first victory as an NBA head coach when the Dallas Mavericks defeated the Indiana Pacers, 121-105, on Friday night at Gainbridge Fieldhouse. But the mood surrounding May’s emotional moment was subdued because of what happened to Cooper Flagg.",
    "facts": [
-    "INDIANAPOLIS – No one would blame the Dallas Mavericks if they stood up and took a respectful bow following Friday’s hard-fought 121-105 victory over the Indiana Pacers at Gainbridge Fieldhouse.",
-    "Bogged down and trailing the Houston Rockets by 32 points at halftime two nights ago, the Mavs made amends as they led the Pacers by 34 points at halftime and squared their record at 1-1 entering Saturday’s home opener a…",
+    "INDIANAPOLIS – Dusty May registered his first victory as an NBA head coach when the Dallas Mavericks defeated the Indiana Pacers, 121-105, on Friday night at Gainbridge Fieldhouse.",
     "In the aftermath, Nesmith was issued a Flagrant 1 and technical foul, and Mavs forward Naji Marshall was also handed a technical foul.",
-    "In the meantime, the Mavs were nursing a massive 77-43 lead at intermission after leading by as much as 37 points (77-40) late in the first half..",
-    "Washington collected 20 points, 13 rebounds and three blocked shots, Max Christie scored 16 points, Naji Marshall had 15 points, six assists and three steals, and Zaccaharie Risacher added 11 points, six rebounds and thr…",
-    "Flagg played just 17 minutes and finished with 14 points, five, rebounds, six assists and three steals.",
-    "Whatever frustrations the Mavs had during their 18-point loss to the Rockets, they apparently shoved that aside and took it out on the Pacers.",
-    "The Mavs were up by as many as 19 points in the first quarter before settling for a 44-27 lead after the first quarter ended."
+    "Washington, who finished with 20 points, 13 rebounds and three blocks.",
+    "It was a complete 180-degree performance by the Mavs.",
+    "In the first half against the Rockets, the Mavs scored just 38 points and trailed by 32 points.",
+    "In the first quarter against the Pacers, the Mavs scored a whopping 44 points and led by 34 points (77-43) at halftime.",
+    "And the Pacers (1-1) never really made any serious threats thereafter.",
+    "However, he only played 25 minutes – he was on a minutes restriction – because he fouled out for the first time in his 781-game NBA career with 4:23 remaining and the Mavs nursing a 112-99 lead."
    ],
    "quotes": [
-    "He will be evaluated in the next couple of days. Nesmith’s a great guy, a heckuva player. I’ve known him since high school. ",
-    "I thought we had a great team effort,",
-    "They’re the reason why I’m here. I’m very grateful for that experience, but a lot’s happened. Every day I’m learning so much about myself and trying to be the best I can be."
+    "He will be evaluated in the next couple of days,",
+    "Nesmith’s a great guy, a heckuva player. I’ve known him since high school. ",
+    "I thought it was a bad foul,",
+    "You hate seeing plays like that happen in all of basketball. But it’s a part of the game and we’re always going to protect our players."
    ]
   },
   {
@@ -457,6 +495,40 @@
     "Pedulla was named the 2025-26 Kia NBA G League Rookie of the Year."
    ],
    "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/bulls-rally-to-beat-bucks-132-125-for-first-win-of-the-season",
+   "url": "https://www.nba.com/bulls/news/bulls-rally-to-beat-bucks-132-125-for-first-win-of-the-season",
+   "canonical_url": "https://bulls.com/news/bulls-rally-to-beat-bucks-132-125-for-first-win-of-the-season",
+   "title": "Bulls rally to beat Bucks 132-125 for first win of the season",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-23T20:51:50Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "See, see, that’s what we’ve been talking about.",
+   "facts": [
+    "Bulls rookie — yes, we can officially now start adding sensation — Caleb Wilson, unfazed by the moment, scored 21 points with four clutch free throws, a crucial defensive rebound and steal in the last 76 seconds to lead …",
+    "Whatever this Bucks roster is, they launched an ugly 46 threes.",
+    "Which may have baited the Bulls into trying to match with 45, the Bulls a solid 27 percent on threes.",
+    "And when it did, Norman Powell, with a team-high 25 points and nine of nine from the line, carried the Bulls through some ugly opening stretches again when they trailed by 15 after the first quarter.",
+    "Jalen Smith had another workman-like effort with 14 points and 13 rebounds starting at center.",
+    "Lanky Leonard Miller off the bench with 19 points was his “big man” replacement with the Bucks so called bigs mostly perimeter shooters.",
+    "The Bulls got double-digits from each Buddy Hield and Isaac Okoro, and most significantly 11 points, eight assists and two steals, including a deciding one late that led to one of Wilson’s set of free throws, from Tre Jo…",
+    "Every reserve led by Jones at plus-24 for the game had a plus rating."
+   ],
+   "quotes": [
+    "I always feel toward the end of the game I’m going to do the right thing,",
+    "I love those moments because they show who you really are. I feel like one of the things for me is proving myself right. Like if I want to be the guy, I have to be able to show up and make free throws…",
+    "I got a (bottled water) shower, yeah,",
+    "Thought they had a better night than the rest of the guys and I wanted to finish with them."
+   ]
   },
   {
    "source": "NYK 公式（nba.com）",
