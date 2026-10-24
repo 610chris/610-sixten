@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:56:33+09:00",
+  "updated": "2026-10-24T14:13:32+09:00",
   "items": [
     {
       "id": "134",
@@ -16214,6 +16214,275 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ヤニス・アデトクンボ、ピストンズ戦で36得点\n\n・33分出場でFG26本中15本(57.7%)、12リバウンド・5アシスト\n・オフェンスリバウンド6本と強度の高いプレーを継続\n・ヒートは111-128でピストンズに敗戦\n\n💬 アデトクンボ、このシーズンどこまで数字を伸ばす？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Heat vs. Pistons・2026年10月23日）\n写真: バックス時代・2022年NBAオールスターでのヤニス・アデトクンボ。撮影: Erik Drost / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "609",
+      "slug": "609-yves-missi-knee-injury-jazz",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "イブ・ミッシ、ジャズ戦で左膝負傷退場",
+      "excerpt": "ニューオーリンズ・ペリカンズのイブ・ミッシは現地時間10月23日、敵地でのユタ・ジャズ戦の第2Q、ザイオン・ウィリアムソンのシュートがブロックされた後の着地でミッシの左脚に乗り込む形となり、左膝を負傷して途中退場した。左脚に体重をかけられずロッカールームへ運ばれ、試合には戻らなかった。ペリカンズは119-120でジャズに惜敗し、ミッシは24日に再検査を受ける。",
+      "points": [
+        "ウィリアムソンの着地に巻き込まれ左膝負傷",
+        "左脚に体重かけられず途中退場",
+        "ペリカンズは119-120で惜敗、24日に再検査"
+      ],
+      "source": "ESPN「Pelicans center Yves Missi helped off court vs. Jazz with leg injury」",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/609-yves-missi-knee-injury-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Yves Missi"
+      ],
+      "question": "",
+      "no_question": true,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/609-1.jpg",
+        "https://sixten.jp/assets/ig/609-2.jpg",
+        "https://sixten.jp/assets/ig/609-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T14:11:18+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "イブ・ミッシ、ジャズ戦で左膝負傷退場\n\n・ウィリアムソンの着地に巻き込まれ左膝負傷\n・左脚に体重かけられず途中退場\n・ペリカンズは119-120で惜敗、24日に再検査\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Pelicans center Yves Missi helped off court vs. Jazz with leg injury」\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "610",
+      "slug": "610-hachimura-16-points-lakers",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "八村塁、レイカーズ戦で16得点6リバウンド",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁は現地時間10月23日、クロスタウンのレイカーズ戦に33分出場し、フィールドゴール14本中5本(3ポイント6本中3本)、フリースロー4本中3本を沈めて16得点・6リバウンド・2スティールを記録した。クリッパーズは第3Qに突き放されて117-125でレイカーズに敗れた。",
+      "points": [
+        "33分出場、FG5/14・3P3/6",
+        "リバウンド6・スティール2",
+        "クリッパーズは117-125で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Lakers vs. Clippers・2026年10月23日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/610-hachimura-16-points-lakers.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "この地元ダービー、来シーズンどっちが上？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. LAKERS",
+        "points": 16,
+        "stats": [
+          "6 REB",
+          "2 STL",
+          "1 AST",
+          "5/14 FG",
+          "3/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/610-1.jpg",
+        "https://sixten.jp/assets/ig/610-2.jpg",
+        "https://sixten.jp/assets/ig/610-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T14:11:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、レイカーズ戦で16得点6リバウンド\n\n・33分出場、FG5/14・3P3/6\n・リバウンド6・スティール2\n・クリッパーズは117-125で敗戦\n\n💬 この地元ダービー、来シーズンどっちが上？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Lakers vs. Clippers・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "611",
+      "slug": "611-acuff-33-points-blazers",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "エイカフ・ジュニア、33得点もキングス敗戦",
+      "excerpt": "サクラメント・キングスのダリアス・エイカフ・ジュニアは現地時間10月23日、本拠地でのポートランド・トレイルブレイザーズ戦に37分出場し、フィールドゴール26本中10本(3ポイント11本中2本)、フリースロー12本中11本を沈めて33得点・4アシストを記録した。両チーム通じてこの日の試合最多得点者となったが、キングスは第3Qに突き放されて120-128で敗れた。",
+      "points": [
+        "37分出場、FT12本中11本",
+        "アシスト4、ターンオーバー3",
+        "キングスは120-128でブレイザーズに敗戦"
+      ],
+      "source": "ESPN ボックススコア（Trail Blazers vs. Kings・2026年10月23日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/611-acuff-33-points-blazers.html",
+      "hero_path": "",
+      "subject": [
+        "Darius Acuff Jr."
+      ],
+      "question": "33得点でも負け、どこが課題だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DARIUS ACUFF JR.",
+        "opponent": "vs. TRAIL BLAZERS",
+        "points": 33,
+        "stats": [
+          "4 AST",
+          "2 REB",
+          "10/26 FG",
+          "2/11 3PT",
+          "11/12 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/611-1.jpg",
+        "https://sixten.jp/assets/ig/611-2.jpg",
+        "https://sixten.jp/assets/ig/611-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T14:11:33+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "エイカフ・ジュニア、33得点もキングス敗戦\n\n・37分出場、FT12本中11本\n・アシスト4、ターンオーバー3\n・キングスは120-128でブレイザーズに敗戦\n\n💬 33得点でも負け、どこが課題だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Trail Blazers vs. Kings・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "612",
+      "slug": "612-sengun-29-points-spurs",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "シェングン、スパーズ戦で29得点",
+      "excerpt": "ヒューストン・ロケッツのアルペラン・シェングンは現地時間10月23日、敵地サンアントニオでのスパーズ戦に36分出場し、フィールドゴール20本中10本(3ポイント4本中2本)、フリースロー8本中7本を沈めて29得点・7リバウンド・7アシストを記録した。両チーム通じてこの日の試合最多得点者となり、ロケッツは114-110でスパーズを下した。",
+      "points": [
+        "FG10/20・FT7/8",
+        "リバウンド7・アシスト7",
+        "ロケッツが114-110で勝利"
+      ],
+      "source": "ESPN ボックススコア（Rockets vs. Spurs・2026年10月23日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/612-sengun-29-points-spurs.html",
+      "hero_path": "",
+      "subject": [
+        "Alperen Sengun"
+      ],
+      "question": "シェングン、今季はMVP争いに入ってくる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ALPEREN SENGUN",
+        "opponent": "vs. SPURS",
+        "points": 29,
+        "stats": [
+          "7 REB",
+          "7 AST",
+          "10/20 FG",
+          "2/4 3PT",
+          "7/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/612-1.jpg",
+        "https://sixten.jp/assets/ig/612-2.jpg",
+        "https://sixten.jp/assets/ig/612-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T14:11:39+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シェングン、スパーズ戦で29得点\n\n・FG10/20・FT7/8\n・リバウンド7・アシスト7\n・ロケッツが114-110で勝利\n\n💬 シェングン、今季はMVP争いに入ってくる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Rockets vs. Spurs・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "613",
+      "slug": "613-jerome-28-points-warriors",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "タイ・ジェローム、ウォリアーズ戦で28得点",
+      "excerpt": "メンフィス・グリズリーズのタイ・ジェロームは現地時間10月23日、敵地サンフランシスコでのウォリアーズ戦に32分出場し、フィールドゴール22本中11本(3ポイント5本中3本)、フリースロー5本中3本を沈めて28得点・5アシストを記録した。両チーム通じてこの日の試合最多得点者となり、グリズリーズは111-108でウォリアーズを下した。",
+      "points": [
+        "FG11/22・3P3/5",
+        "アシスト5",
+        "グリズリーズが111-108で逆転勝利"
+      ],
+      "source": "ESPN ボックススコア（Grizzlies vs. Warriors・2026年10月23日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/613-jerome-28-points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Ty Jerome"
+      ],
+      "question": "ジェローム、このまま先発定着する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TY JEROME",
+        "opponent": "vs. WARRIORS",
+        "points": 28,
+        "stats": [
+          "5 AST",
+          "2 REB",
+          "11/22 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/613-1.jpg",
+        "https://sixten.jp/assets/ig/613-2.jpg",
+        "https://sixten.jp/assets/ig/613-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T14:11:51+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タイ・ジェローム、ウォリアーズ戦で28得点\n\n・FG11/22・3P3/5\n・アシスト5\n・グリズリーズが111-108で逆転勝利\n\n💬 ジェローム、このまま先発定着する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Grizzlies vs. Warriors・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "614",
+      "slug": "614-reaves-28-points-clippers",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "リーブス、クリッパーズ戦で28得点9アシスト",
+      "excerpt": "ロサンゼルス・レイカーズのオースティン・リーブスは現地時間10月23日、クロスタウンのクリッパーズ戦に38分出場し、フィールドゴール13本中10本(3ポイント5本中3本)、フリースロー6本中5本を沈めて28得点・9アシスト・2スティールを記録した。レイカーズは第3Qに突き放して125-117でクリッパーズを下した。",
+      "points": [
+        "FG10/13(76.9%)",
+        "アシスト9・スティール2",
+        "レイカーズが125-117で地元ダービー制す"
+      ],
+      "source": "ESPN ボックススコア（Lakers vs. Clippers・2026年10月23日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/614-reaves-28-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Austin Reaves"
+      ],
+      "question": "この地元ダービー、来シーズンどっちが上？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AUSTIN REAVES",
+        "opponent": "vs. CLIPPERS",
+        "points": 28,
+        "stats": [
+          "9 AST",
+          "2 REB",
+          "2 STL",
+          "10/13 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/614-1.jpg",
+        "https://sixten.jp/assets/ig/614-2.jpg",
+        "https://sixten.jp/assets/ig/614-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T14:11:58+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "リーブス、クリッパーズ戦で28得点9アシスト\n\n・FG10/13(76.9%)\n・アシスト9・スティール2\n・レイカーズが125-117で地元ダービー制す\n\n💬 この地元ダービー、来シーズンどっちが上？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Lakers vs. Clippers・2026年10月23日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
