@@ -1,8 +1,117 @@
 {
- "updated_utc": "2026-10-24 14:50 UTC",
+ "updated_utc": "2026-10-24 18:20 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "injury",
+   "key": "https://www.nba.com/magic/news/paolo-banchero-injury-update-low-grade-high-ankle-sprain-20261024",
+   "url": "https://www.nba.com/magic/news/paolo-banchero-injury-update-low-grade-high-ankle-sprain-20261024",
+   "canonical_url": "https://orlandomagic.com/news/paolo-banchero-injury-update-low-grade-high-ankle-sprain-20261024",
+   "title": "Paolo Banchero Injury Update",
+   "author": "Official Release",
+   "published_utc": "2026-10-24T16:58:48Z",
+   "tags": [
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Orlando Magic forward Paolo Banchero underwent an MRI, which has confirmed a low-grade right high ankle sprain.",
+   "facts": [
+    "Orlando Magic forward Paolo Banchero underwent an MRI, which has confirmed a low-grade right high ankle sprain.",
+    "Banchero suffered the injury during the first half of last night’s game vs."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-kobe-bufkin-to-two-way-contract",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-kobe-bufkin-to-two-way-contract",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-kobe-bufkin-to-two-way-contract",
+   "title": "Utah Jazz Sign Kobe Bufkin to Two-Way Contract",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-24T16:30:24Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 24, 2026) – The Utah Jazz announced today that the team has signed guard Kobe Bufkin to a two-way contract. Per team policy, terms of the deal were not disclosed.",
+   "facts": [
+    "SALT LAKE CITY (October 24, 2026) – The Utah Jazz announced today that the team has signed guard Kobe Bufkin to a two-way contract.",
+    "About Kobe Bufkin Bufkin (6-4, 195, Michigan) has three seasons of NBA experience with the Atlanta Hawks (2023-25) and the Los Angeles Lakers (2025-26), appearing in 43 NBA games.",
+    "Last season, he appeared in 24 games for the Lakers' G League affiliate, the South Bay Lakers, averaging 24.8 points on 50.8 percent shooting from the field and 42.3 percent from three-point range, along with 4.2 assists…",
+    "He earned 2025-26 All-G League Second Team honors.Drafted 15th overall by Atlanta in the 2023 NBA Draft, Bufkin played two collegiate seasons at Michigan.",
+    "As a sophomore, he averaged 14.0 points, 4.5 rebounds, 2.9 assists, and 1.3 steals in 33 games (all starts).He was named to the 2022-23 All-Big Ten Third Team following his final season at Michigan.A native of Grand Rapi…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-host-pelicans-for-home-opener",
+   "url": "https://www.nba.com/nuggets/news/nuggets-host-pelicans-for-home-opener",
+   "canonical_url": "https://nuggets.com/news/nuggets-host-pelicans-for-home-opener",
+   "title": "Nuggets host Pelicans for home opener",
+   "author": "Matt Brooks",
+   "published_utc": "2026-10-24T16:17:18Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "Denver: Spencer Jones — QUESTIONABLE (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain)",
+   "facts": [
+    "INJURY REPORT Denver: Spencer Jones — QUESTIONABLE (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) Oklahoma City: Otega Oweh — OUT (Right Achilles Tendon Repair/Surgery) Thomas Sorber — …",
+    "There, they'll face the New Orleans Pelicans, who have started the season 0-2 following losses to the Indiana Pacers and the Utah Jazz.",
+    "Denver is 0-1 to begin the season after falling to the Oklahoma City Thunder, 96-84, in their season opener.",
+    "They had issues scoring the basketball in the second half of Thursday's game, putting up just 28 total points in the final two quarters before the third-stringers checked in during garbage time.",
+    "Granted, the Nuggets are already dealing with some injuries.",
+    "Cam Johnson sprained his ankle in the first half of Thursday's game and is listed as \"out\" against the Pelicans.",
+    "Spencer Jones is sidelined with a hamstring injury, which he sustained during training camp.",
+    "Julian Strawther's knee injury is more long-term; he'll be evaluated in six weeks after a nasty fall in Denver's second-to-last preseason game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-nets-261025",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-nets-261025",
+   "canonical_url": "https://pacers.com/news/preview-pacers-nets-261025",
+   "title": "Game Preview: Pacers at Nets",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-10-24T15:40:49Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Sunday, Oct. 25 at 6:00 PM ET at Barclays Center",
+   "facts": [
+    "Sunday, Oct. 25 at 6:00 PM ET at Barclays Center Game Preview The Pacers take their 1-1 season record to Brooklyn on Sunday where they face-off with Julius Randle and the Nets.",
+    "After allowing 66 first half points to New Orleans in their season opener, the Pacers allowed 77 points in Friday’s first half against the Mavericks.",
+    "Tyrese Haliburton notched 18 points, six rebounds, and seven assists in his return to Gainbridge Fieldhouse, and Ivica Zubac had nine points and 11 rebounds in 23 minutes.",
+    "The Pacers scored just 10 fast break points against the Mavericks – partly due to Dallas’ 50 percent shooting night – and will aim to get back into a groove pace-wise in Brooklyn.",
+    "Brooklyn plays the Cavaliers in Cleveland on Saturday, and will return to Barclays Center to clash with the Pacers on Sunday.",
+    "Julius Randle and Michael Porter Jr. lead the Nets offense, and combined to score 59 points in their season opener against the Charlotte Hornets.",
+    "Brooklyn finished the 2025-26 season with a 20-62 record, and traded center Nic Claxton for Randle in the offseason.",
+    "Probable Starters Pacers: G - Tyrese Haliburton, G - Andrew Nembhard, F - Jarace Walker, F - Pascal Siakam, C - Ivica Zubac Nets: G - Egor Demin, G - Keon Ellis, F - Michael Porter Jr., F - Julius Randle, C - Day’Ron Sha…"
+   ],
+   "quotes": [
+    "It just simply comes down to an attitude and a disposition,",
+    "And two straight games we haven't had it the way we need to have it in the first half...It's not okay, and we all we all own it. Every single one of us. Start with me. I didn't have these guys ready t…"
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -1920,92 +2029,6 @@
     "As a senior, he averaged 18.5 points and 4.4 rebounds in 33.6 minutes per game, shooting 42.1 percent from three-point range, and earned 2023-24 All-ACC First Team honors."
    ],
    "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "roster",
-   "key": "https://www.nba.com/magic/news/orlando-magic-exercise-team-options-on-jase-richardson-and-tristan-da-silva-20261021",
-   "url": "https://www.nba.com/magic/news/orlando-magic-exercise-team-options-on-jase-richardson-and-tristan-da-silva-20261021",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-exercise-team-options-on-jase-richardson-and-tristan-da-silva-20261021",
-   "title": "Orlando Magic Exercise Team Options on Jase Richardson and Tristan da Silva",
-   "author": "Official Release",
-   "published_utc": "2026-10-21T17:24:49Z",
-   "tags": [
-    "Team News"
-   ],
-   "summary": "ORLANDO - The Orlando Magic have exercised their third-year team option on guard Jase Richardson, as well as their fourth-year team option on forward Tristan da Silva, President of Basketball Operations Jeff Weltman announced today. Per team policy, terms of the deals are not disclosed. Both players are now signed through the 2027-28 season.",
-   "facts": [
-    "Both players are now signed through the 2027-28 season.",
-    "He scored in double figures seven times and 20+ points once, including a career-high 20 points on Jan. 6 @ Washington.",
-    "Richardson appeared in 36 games during his freshman season (2024-25) at Michigan State University, averaging 12.1 ppg., 3.3 rpg. and 1.9 apg. in 25.3 minpg., while shooting .493 (144-292) from the field, .412 (47-114) fr…",
-    "He was named to the 2024-25 All-Big Ten Third Team, earned Big Ten All-Freshman Team honors and was a NCAA South Regional All-Tournament selection.",
-    "Richardson wears #11 with the Orlando Magic.",
-    "He scored in double figures 38 times and 20+ points five times, including a career-high 26 points on Mar. 12 vs.",
-    "Da Silva also played in seven playoff games, averaging 4.1 ppg. and 2.9 rpg. in 15.3 minpg Originally selected in the first round (18th overall) of the 2024 NBA Draft by Orlando, da Silva has played in 151 career NBA reg…",
-    "He has also played in nine career playoff outings, averaging 3.2 ppg. and 2.7 rpg. in 12.4 minpg Da Silva played in 124 career games (98 starts) during four seasons (2020-24) at the University of Colorado, averaging 11.7…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "feature",
-   "key": "https://www.nba.com/heat/news/dorsia-and-the-miami-heat-announce-the-dorsia-club-at-kaseya-center",
-   "url": "https://www.nba.com/heat/news/dorsia-and-the-miami-heat-announce-the-dorsia-club-at-kaseya-center",
-   "canonical_url": "https://heat.com/news/dorsia-and-the-miami-heat-announce-the-dorsia-club-at-kaseya-center",
-   "title": "Dorsia and The Miami HEAT Announce The Dorsia Club at Kaseya Center",
-   "author": "Miami HEAT",
-   "published_utc": "2026-10-21T16:55:00Z",
-   "tags": [
-    "Trending"
-   ],
-   "summary": "Dorsia, the global hospitality platform and technology company, today announced a new five-year partnership with the Miami HEAT, introducing The Dorsia Club at Kaseya Center. As the Official Hospitality Technology Partner of the Miami HEAT, Dorsia will bring its world-class curation and global restaurant network to the arena’s most exclusive lounge, further elevating the premium hospitality experi…",
-   "facts": [
-    "As the Official Hospitality Technology Partner of the Miami HEAT, Dorsia will bring its world-class curation and global restaurant network to the arena’s most exclusive lounge, further elevating the premium hospitality e…",
-    "Miami Heat games will now join Dorsia’s curated global inventory alongside experiences such as Desert Nights at Zenyara in Coachella Valley, Art Basel Paris, events surrounding Formula 1 in Monaco and Mexico City, and so…"
-   ],
-   "quotes": [
-    "The experience at Kaseya Center is an important part of what makes a Miami HEAT game special,",
-    "Dorsia's world-renowned curation brings exciting new hospitality collaborations and memorable moments to our fans. We're proud to introduce The Dorsia Club, the first of its kind, and look forward to …",
-    "Miami has been home to Dorsia since day one, and there are few things that bring this city together quite like the HEAT,",
-    "We've always believed that great hospitality is about more than getting someone through the door. It's about what happens once they're inside. That's what makes this partnership exciting for us—the op…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-shootaround-update-pacers-provide-great-test-to-open-2026-27",
-   "url": "https://www.nba.com/pelicans/news/pelicans-shootaround-update-pacers-provide-great-test-to-open-2026-27",
-   "canonical_url": "https://pelicans.com/news/pelicans-shootaround-update-pacers-provide-great-test-to-open-2026-27",
-   "title": "Pelicans shootaround update: Pacers provide 'great test' to open 2026-27",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-21T16:46:04Z",
-   "tags": [],
-   "summary": "Indiana is coming off a 19-win season, the worst campaign in the storied franchise’s NBA history, but don’t be deceived: The Pacers’ current roster is nearly identical to the one that almost pulled off a stunning upset over Oklahoma City in the 2025 Finals. That’s part of the challenge for New Orleans, when the Pelicans host their 2026-27 season opener Wednesday (7 p.m., Fox 8-WVUE, GCSEN on TV; W…",
-   "facts": [
-    "Indiana is coming off a 19-win season, the worst campaign in the storied franchise’s NBA history, but don’t be deceived: The Pacers’ current roster is nearly identical to the one that almost pulled off a stunning upset o…",
-    "That’s part of the challenge for New Orleans, when the Pelicans host their 2026-27 season opener Wednesday (7 p.m., Fox 8-WVUE, GCSEN on TV; WWL on radio).",
-    "Like Indiana, New Orleans is fielding a similar roster to last season, with all seven Pelicans players who logged 1,000-plus minutes in 2025-26 returning.",
-    "Pascal Siakam (24.0 ppg last season) is Indiana’s top scorer, while PG Tyrese Haliburton is one of the league’s premier passers, spearheading an attack that features constant ball movement.",
-    "Nembhard provided numerous momentous plays during Indiana’s consecutive deep playoff runs in 2024 and 2025.",
-    "In the clutch: Haliburton authored one of the best-ever runs of postseason clutch shooting in the spring of 2025, but while playing without him last season, the Pacers went just 11-24 in clutch games.",
-    "That was the NBA’s third-worst mark (the Pelicans were 12-30, ahead of only Brooklyn’s 8-26 record).",
-    "Three-point attack: During his last season of 2024-25, Haliburton led the Pacers with 218 three-pointers made, followed by Myles Turner, who's now with Milwaukee."
-   ],
-   "quotes": [
-    "(For the Pelicans, this matchup represents) the ability to go against a very well-coached team, a very talented team, a deep team, a team that’s very well together.",
-    "They’re a real fast-paced team, so being able to keep up with their pace, while being physical, I think that will be the challenge for us,",
-    "that’s what you’ll see (Wednesday), how well they gel together – and how well we have (done the same).",
-    "If you love basketball, no. I love basketball, so I’m just excited to get on the court, excited to play, and ready to show the real thing."
-   ]
   }
  ]
 }
