@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:15:09+09:00",
+  "updated": "2026-10-24T11:56:33+09:00",
   "items": [
     {
       "id": "134",
@@ -16168,6 +16168,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ウィギンス、ホーネッツ戦で19得点\n\n・22分で19得点、FG9本中7本と高確率\n・3P5本中3本・2スティールも記録\n・ホークスは128-81でホーネッツに大勝\n\n💬 この大勝、一番の功労者は誰だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "608",
+      "slug": "608-giannis-36-points-pistons",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "ヤニス・アデトクンボ、ピストンズ戦で36得点",
+      "excerpt": "マイアミ・ヒートのヤニス・アデトクンボは現地時間10月23日、本拠地Kaseya Centerでのデトロイト・ピストンズ戦に33分出場し、フィールドゴール26本中15本(3ポイント3本中1本)、フリースロー8本中5本を沈めて36得点・12リバウンド・5アシストを記録した。両チーム通じてこの日の試合最多得点者となったが、ヒートは111-128でピストンズに敗れた。",
+      "points": [
+        "33分出場でFG26本中15本(57.7%)、12リバウンド・5アシスト",
+        "オフェンスリバウンド6本と強度の高いプレーを継続",
+        "ヒートは111-128でピストンズに敗戦"
+      ],
+      "source": "ESPN ボックススコア（Heat vs. Pistons・2026年10月23日）",
+      "photo_credit": "バックス時代・2022年NBAオールスターでのヤニス・アデトクンボ。撮影: Erik Drost / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/608-giannis-36-points-pistons.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-608-hero.jpg",
+      "subject": [
+        "Giannis Antetokounmpo"
+      ],
+      "question": "アデトクンボ、このシーズンどこまで数字を伸ばす？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "GIANNIS ANTETOKOUNMPO",
+        "opponent": "vs. PISTONS",
+        "points": 36,
+        "stats": [
+          "12 REB",
+          "5 AST",
+          "2 STL",
+          "15/26 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/608-1.jpg",
+        "https://sixten.jp/assets/ig/608-2.jpg",
+        "https://sixten.jp/assets/ig/608-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T11:55:51+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤニス・アデトクンボ、ピストンズ戦で36得点\n\n・33分出場でFG26本中15本(57.7%)、12リバウンド・5アシスト\n・オフェンスリバウンド6本と強度の高いプレーを継続\n・ヒートは111-128でピストンズに敗戦\n\n💬 アデトクンボ、このシーズンどこまで数字を伸ばす？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Heat vs. Pistons・2026年10月23日）\n写真: バックス時代・2022年NBAオールスターでのヤニス・アデトクンボ。撮影: Erik Drost / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

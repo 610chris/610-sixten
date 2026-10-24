@@ -9,6 +9,15 @@
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
     <item>
+      <title>ヤニス・アデトクンボ、ピストンズ戦で36得点 —— ヒートは111-128で敗戦</title>
+      <link>https://sixten.jp/journal/608-giannis-36-points-pistons.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/608-giannis-36-points-pistons.html</guid>
+      <pubDate>Sat, 24 Oct 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>マイアミ・ヒートのヤニス・アデトクンボは現地時間10月23日、本拠地Kaseya Centerでのデトロイト・ピストンズ戦に33分出場し、フィールドゴール26本中15本(3ポイント3本中1本)、フリースロー8本中5本を沈めて36得点・12リバウンド・5アシストを記録した。両チーム通じてこの日の試合最多得点者となったが、ヒートは111-128でピストンズに敗れた。</description>
+      <enclosure url="https://sixten.jp/assets/journal-608-hero.jpg?v=924b454993" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>アーロン・ウィギンス、ホーネッツ戦で19得点 —— ホークスが128-81で大勝</title>
       <link>https://sixten.jp/journal/607-wiggins-19-points-hornets.html</link>
       <guid isPermaLink="true">https://sixten.jp/journal/607-wiggins-19-points-hornets.html</guid>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ポートランド・トレイルブレイザーズのデイミアン・リラードは現地時間10月21日、本拠地でのフェニックス・サンズ戦に24分出場し、フィールドゴール12本中7本(3ポイント10本中6本)、フリースロー5本中5本を沈めて25得点・6アシスト・3リバウンドを記録した。両チーム通じてこの日の試合最多得点者となり、ブレイザーズは124-83でサンズに大勝した。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>ルカ・ドンチッチ、ウォリアーズ戦で28得点 —— レイカーズが127-105で快勝</title>
-      <link>https://sixten.jp/journal/578-doncic-28-points-warriors.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/578-doncic-28-points-warriors.html</guid>
-      <pubDate>Thu, 22 Oct 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間10月21日、本拠地でのゴールデンステート・ウォリアーズ戦に30分出場し、フィールドゴール18本中7本(3ポイント12本中5本)、フリースロー9本中9本を沈めて28得点・8リバウンド・7アシストを記録した。両チーム通じてこの日の試合最多得点者となり、レイカーズは127-105でウォリアーズを下した。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-02.jpg?v=6d15bae6e8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
