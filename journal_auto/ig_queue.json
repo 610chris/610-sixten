@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:32:41+09:00",
+  "updated": "2026-10-24T11:02:12+09:00",
   "items": [
     {
       "id": "134",
@@ -15852,6 +15852,275 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サンダー、マイカ・ピービーと2ウェイ契約で合意\n\n・オクラホマシティ・サンダーがマイカ・ピービーと2ウェイ契約で合意\n・グリズリーズのウェーバー公示からわずか4日\n・ペリカンズ時代は2025年ドラフト全体40位指名\n\n💬 ピービー、サンダーでNBA定着できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Shams Charania（ESPN）のXポスト\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "601",
+      "slug": "601-tatum-36-points-knicks",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "テイタム、ニックス戦で36得点",
+      "excerpt": "ボストン・セルティックスのジェイソン・テイタムは現地時間10月23日、本拠地TDガーデンでのニューヨーク・ニックス戦に37分出場し、フィールドゴール26本中14本(3ポイント10本中3本)、フリースロー5本中5本を沈めて36得点・9リバウンド・7アシストを記録した。両チーム通じてこの日の試合最多得点者となり、セルティックスは107-103でニックスを下した。",
+      "points": [
+        "37分で26本中14本、36得点",
+        "9リバウンド7アシストも記録",
+        "セルティックスが107-103で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/601-tatum-36-points-knicks.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "テイタムのこの36得点、セルティックスは今季どこまで行ける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. KNICKS",
+        "points": 36,
+        "stats": [
+          "9 REB",
+          "7 AST",
+          "3 STL",
+          "14/26 FG",
+          "3/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/601-1.jpg",
+        "https://sixten.jp/assets/ig/601-2.jpg",
+        "https://sixten.jp/assets/ig/601-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T10:59:31+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "テイタム、ニックス戦で36得点\n\n・37分で26本中14本、36得点\n・9リバウンド7アシストも記録\n・セルティックスが107-103で勝利\n\n💬 テイタムのこの36得点、セルティックスは今季どこまで行ける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "602",
+      "slug": "602-barnes-28-points-wizards",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "バーンズ、ウィザーズ戦で28得点14リバウンド",
+      "excerpt": "トロント・ラプターズのスコッティ・バーンズは現地時間10月23日、ワシントンのキャピタル・ワン・アリーナでのワシントン・ウィザーズ戦に37分出場し、フィールドゴール26本中12本を沈めて28得点・14リバウンド・5アシストを記録した。両チーム通じてこの日の試合最多得点者となり、ラプターズは112-102でウィザーズを下した。",
+      "points": [
+        "37分で26本中12本、28得点14リバウンド",
+        "ターンオーバーは8本",
+        "ラプターズが112-102で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/602-barnes-28-points-wizards.html",
+      "hero_path": "",
+      "subject": [
+        "Scottie Barnes"
+      ],
+      "question": "バーンズの28得点14リバウンド、MVPレースに入ってくる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOTTIE BARNES",
+        "opponent": "vs. WIZARDS",
+        "points": 28,
+        "stats": [
+          "14 REB",
+          "5 AST",
+          "2 STL",
+          "2 BLK",
+          "12/26 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/602-1.jpg",
+        "https://sixten.jp/assets/ig/602-2.jpg",
+        "https://sixten.jp/assets/ig/602-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T11:02:09+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バーンズ、ウィザーズ戦で28得点14リバウンド\n\n・37分で26本中12本、28得点14リバウンド\n・ターンオーバーは8本\n・ラプターズが112-102で勝利\n\n💬 バーンズの28得点14リバウンド、MVPレースに入ってくる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "603",
+      "slug": "603-irving-24-points-pacers",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "アービング、ペイサーズ戦で24得点",
+      "excerpt": "ダラス・マーベリックスのカイリー・アービングは現地時間10月23日、インディアナポリスのゲインブリッジ・フィールドハウスでのインディアナ・ペイサーズ戦に25分出場し、フィールドゴール15本中8本(3ポイント10本中5本)を沈めて24得点を記録した。両チーム通じてこの日の試合最多得点者となり、マーベリックスは121-105でペイサーズに快勝した。",
+      "points": [
+        "25分で15本中8本、24得点",
+        "3ポイントは10本中5本",
+        "マーベリックスが121-105で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/603-irving-24-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Kyrie Irving"
+      ],
+      "question": "アービングのこの24得点、マーベリックスは今季プレーオフ進出できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KYRIE IRVING",
+        "opponent": "vs. PACERS",
+        "points": 24,
+        "stats": [
+          "3 AST",
+          "1 REB",
+          "8/15 FG",
+          "5/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/603-1.jpg",
+        "https://sixten.jp/assets/ig/603-2.jpg",
+        "https://sixten.jp/assets/ig/603-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T11:02:10+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アービング、ペイサーズ戦で24得点\n\n・25分で15本中8本、24得点\n・3ポイントは10本中5本\n・マーベリックスが121-105で快勝\n\n💬 アービングのこの24得点、マーベリックスは今季プレーオフ進出できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "604",
+      "slug": "604-carter-jr-20-points-timberwolves",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "カーター・ジュニア、Tウルブズ戦で20得点",
+      "excerpt": "オーランド・マジックのウェンデル・カーター・ジュニアは現地時間10月23日、本拠地キア・センターでのミネソタ・ティンバーウルブズ戦に29分出場し、フィールドゴール9本中8本を沈めて20得点・9リバウンド・2ブロックを記録した。両チーム通じてこの日の試合最多得点者となったが、マジックは93-115でティンバーウルブズに敗れた。",
+      "points": [
+        "29分で9本中8本、20得点9リバウンド",
+        "2ブロックも記録",
+        "マジックは93-115で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/604-carter-jr-20-points-timberwolves.html",
+      "hero_path": "",
+      "subject": [
+        "Wendell Carter Jr.",
+        "Wendell Carter"
+      ],
+      "question": "カーター・ジュニアの9本中8本、マジックの白星はいつ見られる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "WENDELL CARTER JR.",
+        "opponent": "vs. TIMBERWOLVES",
+        "points": 20,
+        "stats": [
+          "9 REB",
+          "2 BLK",
+          "1 AST",
+          "8/9 FG",
+          "3/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/604-1.jpg",
+        "https://sixten.jp/assets/ig/604-2.jpg",
+        "https://sixten.jp/assets/ig/604-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T11:02:10+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カーター・ジュニア、Tウルブズ戦で20得点\n\n・29分で9本中8本、20得点9リバウンド\n・2ブロックも記録\n・マジックは93-115で敗戦\n\n💬 カーター・ジュニアの9本中8本、マジックの白星はいつ見られる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "605",
+      "slug": "605-jalen-johnson-19-points-hornets",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "ジョンソン、ホーネッツ戦で19得点7リバウンド8アシスト",
+      "excerpt": "アトランタ・ホークスのジェイレン・ジョンソンは現地時間10月23日、シャーロットのスペクトラム・センターでのシャーロット・ホーネッツ戦に29分出場し、フィールドゴール16本中9本を沈めて19得点・7リバウンド・8アシスト・3スティールを記録した。チームメートのアーロン・ウィギンス(19得点)と並び両チーム通じてこの日の試合最多得点者となり、ホークスは128-81でホーネッツに大勝した。",
+      "points": [
+        "29分で16本中9本、19得点7リバウンド8アシスト",
+        "ウィギンスも同じ19得点で援護",
+        "ホークスが128-81で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/605-jalen-johnson-19-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Johnson"
+      ],
+      "question": "ジョンソンとウィギンス、どっちの活躍が目立った？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN JOHNSON",
+        "opponent": "vs. HORNETS",
+        "points": 19,
+        "stats": [
+          "8 AST",
+          "7 REB",
+          "3 STL",
+          "9/16 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/605-1.jpg",
+        "https://sixten.jp/assets/ig/605-2.jpg",
+        "https://sixten.jp/assets/ig/605-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T11:02:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョンソン、ホーネッツ戦で19得点7リバウンド8アシスト\n\n・29分で16本中9本、19得点7リバウンド8アシスト\n・ウィギンスも同じ19得点で援護\n・ホークスが128-81で大勝\n\n💬 ジョンソンとウィギンス、どっちの活躍が目立った？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "606",
+      "slug": "606-cooper-flagg-shoulder-injury-pacers",
+      "category": "NBA",
+      "date": "2026-10-24",
+      "headline": "フラッグ、ペイサーズ戦で左肩負傷退場",
+      "excerpt": "ダラス・マーベリックスのクーパー・フラッグは現地時間10月23日のインディアナ・ペイサーズ戦で、第1Q終盤にインディアナのエイロン・ネスミスから受けたハードファウルで左肩を負傷し、前半のみで出場を終えた。ESPNによると、フラッグはブレイクアウェイのダンクに向かう場面で背後からファウルを受け、バスケット下で肩から転倒したという。",
+      "points": [
+        "第1Q終盤にネスミスのファウルで左肩負傷",
+        "前半のみで14得点6アシスト5リバウンド",
+        "マーベリックスは121-105で快勝"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/606-cooper-flagg-shoulder-injury-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Cooper Flagg"
+      ],
+      "question": "",
+      "no_question": true,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/606-1.jpg",
+        "https://sixten.jp/assets/ig/606-2.jpg",
+        "https://sixten.jp/assets/ig/606-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-24T11:02:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "フラッグ、ペイサーズ戦で左肩負傷退場\n\n・第1Q終盤にネスミスのファウルで左肩負傷\n・前半のみで14得点6アシスト5リバウンド\n・マーベリックスは121-105で快勝\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
