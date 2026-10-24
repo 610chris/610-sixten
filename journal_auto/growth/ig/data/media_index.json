@@ -2432,6 +2432,33 @@
   "template": "score",
   "timestamp": "2026-10-13T02:02:50+0000"
  },
+ "18014921195966665": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "599",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キングス、ショーン・ペデュラと2ウェイ契約で合意",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De2xjqfD8Ir/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）のXポスト",
+  "subject": [
+   "Sean Pedulla"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-23T23:49:12+0000"
+ },
  "18016175150954179": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2745,6 +2772,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T16:03:39+0000"
+ },
+ "18048306218815923": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "595",
+  "auto": true,
+  "caption_len": 403,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ニックス、ダルトン・クネクトと2ウェイ契約で合意",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De18gihE_Gw/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Ex-Laker Knecht goes coast-to-coast, joins Knicks on two-way」（Dave McMenamin記者）",
+  "subject": [
+   "Dalton Knecht"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-23T16:05:47+0000"
  },
  "18048591191819865": {
   "arms": {
@@ -4851,6 +4905,33 @@
   "template": "score",
   "timestamp": "2026-10-17T01:40:00+0000"
  },
+ "18118909025064893": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "587",
+  "auto": true,
+  "caption_len": 353,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミッチェル32得点も76ers戦で逆転負け",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De0c-BRAVcJ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Cavaliers vs. 76ers・2026年10月22日）",
+  "subject": [
+   "Donovan Mitchell"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-23T02:10:39+0000"
+ },
  "18119521814484210": {
   "article": "304",
   "auto": true,
@@ -5506,6 +5587,33 @@
   "template": "news",
   "timestamp": "2026-10-01T00:04:21+0000"
  },
+ "18132134434690332": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "590",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ウィリアムズ、ナゲッツ戦で21得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De0wYKyFZ7n/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Nuggets vs. Thunder・2026年10月22日）",
+  "subject": [
+   "Jalen Williams"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-23T05:00:10+0000"
+ },
  "18132730498674339": {
   "article": "282",
   "auto": true,
@@ -5594,6 +5702,33 @@
   "permalink": "https://www.instagram.com/reel/CUPlzwGgvVN/",
   "product": "REELS",
   "timestamp": "2021-09-25T11:52:53+0000"
+ },
+ "18134261500738881": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "589",
+  "auto": true,
+  "caption_len": 355,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "「NBA docomo DAY」11月3日に全5試合無料配信",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De0pugAFHhc/",
+  "product": "REELS",
+  "route": "library",
+  "source": "NTTドコモ プレスリリース（PR TIMES）",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-23T04:02:00+0000"
  },
  "18134786542740940": {
   "arms": {
@@ -5871,6 +6006,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-10T16:09:54+0000"
+ },
+ "18146108296600372": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "591",
+  "auto": true,
+  "caption_len": 329,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ギルジャス＝アレクサンダーのNBA記録20得点ストリークが途絶える",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De03WOWEUlg/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-23T06:01:08+0000"
  },
  "18146126653590325": {
   "arms": {
@@ -6265,6 +6427,33 @@
   "template": "score",
   "timestamp": "2026-10-10T12:14:51+0000"
  },
+ "18181938025433072": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "588",
+  "auto": true,
+  "caption_len": 362,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マクシー32得点、76ersが逆転勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De0dKiBCC1W/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Cavaliers vs. 76ers・2026年10月22日）",
+  "subject": [
+   "Tyrese Maxey"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-23T02:12:20+0000"
+ },
  "18185621797416091": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -6612,6 +6801,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T23:04:02+0000"
+ },
+ "18231337861322988": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "592",
+  "auto": true,
+  "caption_len": 433,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、来季4.5億ドル規模のぜいたく税へ —— NBA契約交渉に異変",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De1r468FOYu/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「NBA opening week intel」（ブライアン・ウィンダーホースト、ティム・マクマホン記者）",
+  "subject": [
+   "Karl-Anthony Towns|Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-23T13:40:06+0000"
  },
  "18235490149098791": {
   "auto": false,
@@ -7059,6 +7275,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T13:02:34+0000"
+ },
+ "18413762383092885": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "598",
+  "auto": true,
+  "caption_len": 369,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヒーロー、ブルズ戦で34得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De2uQ8NFaJm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Bucks vs. Bulls・2026年10月23日）",
+  "subject": [
+   "Tyler Herro"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-23T23:20:17+0000"
  },
  "18436617688178881": {
   "arms": {

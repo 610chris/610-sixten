@@ -1,10 +1,10 @@
 {
  "age": {
-  "13-17": 882,
-  "18-24": 1433,
-  "25-34": 1135,
-  "35-44": 878,
-  "45-54": 461,
+  "13-17": 880,
+  "18-24": 1435,
+  "25-34": 1136,
+  "35-44": 879,
+  "45-54": 462,
   "55-64": 71,
   "65+": 18
  },
@@ -12,7 +12,7 @@
   "Adachi-ku, Tokyo": 34,
   "Chiba-shi, Chiba Prefecture": 42,
   "Edogawa-ku, Tokyo": 33,
-  "Fujisawa-shi, Kanagawa Prefecture": 21,
+  "Fujisawa-shi, Kanagawa Prefecture": 22,
   "Fukuoka-shi, Fukuoka Prefecture": 63,
   "Funabashi-shi, Chiba Prefecture": 31,
   "Hachioji, Tokyo": 25,
@@ -22,9 +22,9 @@
   "Kashiwa-shi, Chiba Prefecture": 38,
   "Katsushika-ku, Tokyo": 22,
   "Kawaguchi-shi, Saitama Prefecture": 27,
-  "Kawasaki-shi, Kanagawa Prefecture": 87,
+  "Kawasaki-shi, Kanagawa Prefecture": 88,
   "Kita-ku, Tokyo": 25,
-  "Kitakyushu-shi, Fukuoka Prefecture": 26,
+  "Kitakyushu-shi, Fukuoka Prefecture": 27,
   "Kobe-shi, Hyōgo Prefecture": 47,
   "Koto-ku, Tokyo": 34,
   "Kumamoto-shi, Kumamoto Prefecture": 29,
@@ -45,7 +45,7 @@
   "Sakai-shi, Osaka Prefecture": 24,
   "Sapporo-shi, Hokkaido": 93,
   "Sendai, Miyagi Prefecture": 35,
-  "Setagaya-ku, Tokyo": 93,
+  "Setagaya-ku, Tokyo": 94,
   "Shibuya-ku, Tokyo": 43,
   "Shinagawa-ku, Tokyo": 22,
   "Shinjuku-ku, Tokyo": 26,
@@ -75,7 +75,7 @@
   "IN": 3,
   "IR": 1,
   "IT": 3,
-  "JP": 4715,
+  "JP": 4718,
   "KE": 1,
   "KR": 2,
   "ML": 1,
@@ -101,11 +101,11 @@
   "VN": 1,
   "ZA": 1
  },
- "fetched_at": "2026-10-23T10:43:41+09:00",
+ "fetched_at": "2026-10-24T10:46:45+09:00",
  "gender": {
   "F": 186,
-  "M": 2552,
-  "U": 2140
+  "M": 2554,
+  "U": 2141
  },
  "timeframe": "this_month"
 }
