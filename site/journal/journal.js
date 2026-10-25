@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "635-doncic-52-points-jazz.html",
+    cat: "NBA",
+    title: "ルカ・ドンチッチ、ジャズ戦で52得点 —— レイカーズが132-123で勝利",
+    excerpt: "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間10月25日、敵地でのユタ・ジャズ戦に38分出場し、52得点・8リバウンド・10アシストを記録した。両チーム通じてこの日の試合最多得点者となり、レイカーズは132-123で勝利した。",
+    date: "2026.10.26",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "634-leonard-knee-swelling-wolves.html",
     cat: "NBA",
     title: "カワイ・レナード、ティンバーウルブズ戦を欠場 —— 左膝の腫れ、ラプターズ復帰後初の欠場",

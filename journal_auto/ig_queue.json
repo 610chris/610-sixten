@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T07:42:35+09:00",
+  "updated": "2026-10-26T08:57:51+09:00",
   "items": [
     {
       "id": "134",
@@ -17291,6 +17291,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カワイ・レナード、ウォルブズ戦を欠場 —— 左膝の腫れ\n\n・トロント・ラプターズのカワイ・レナードが左膝の腫れで欠場\n・今季出場2試合は平均19.5得点・7.5リバウンド・3.5スティール\n・これまでは右膝の故障歴、今回は左膝で新たな不安材料\n\n💬 レナードの今季出場数、何試合いけると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "635",
+      "slug": "635-doncic-52-points-jazz",
+      "category": "NBA",
+      "date": "2026-10-26",
+      "headline": "ドンチッチが52得点、レイカーズがジャズに勝利",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間10月25日、敵地でのユタ・ジャズ戦に38分出場し、52得点・8リバウンド・10アシストを記録した。両チーム通じてこの日の試合最多得点者となり、レイカーズは132-123で勝利した。",
+      "points": [
+        "30本中17本・成功率57%の高確率で52得点",
+        "リバウンド8・アシスト10も記録",
+        "レイカーズが132-123でジャズに勝利"
+      ],
+      "source": "ESPN ボックススコア（Jazz vs. Lakers・2026年10月25日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/635-doncic-52-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチの52得点、今季ベストゲーム？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. JAZZ",
+        "points": 52,
+        "stats": [
+          "10 AST",
+          "8 REB",
+          "2 STL",
+          "17/30 FG",
+          "8/18 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/635-1.jpg",
+        "https://sixten.jp/assets/ig/635-2.jpg",
+        "https://sixten.jp/assets/ig/635-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T08:56:58+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドンチッチが52得点、レイカーズがジャズに勝利\n\n・30本中17本・成功率57%の高確率で52得点\n・リバウンド8・アシスト10も記録\n・レイカーズが132-123でジャズに勝利\n\n💬 ドンチッチの52得点、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Jazz vs. Lakers・2026年10月25日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
