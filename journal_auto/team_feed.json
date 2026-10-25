@@ -1,8 +1,57 @@
 {
- "updated_utc": "2026-10-24 23:39 UTC",
+ "updated_utc": "2026-10-25 01:37 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/features-jarrett-allen-rookie-tales-261024",
+   "url": "https://www.nba.com/cavaliers/news/features-jarrett-allen-rookie-tales-261024",
+   "canonical_url": "https://cavs.com/news/features-jarrett-allen-rookie-tales-261024",
+   "title": "Rookie Tales: Jarrett Allen",
+   "author": "clejgabriele",
+   "published_utc": "2026-10-25T01:32:59Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "Feel free to check the stats yourself, but as far as Cavs.com is concerned, Jarrett Allen is, pound-for-pound, the nicest dude in the NBA.",
+   "facts": [
+    "The Brooklyn Nets – who the Cavs welcomed on Saturday – knew how nice J.A. was, but they traded him to Cleveland anyway.",
+    "That four-team deal took place back on January 16 – with the Wine & Gold acquiring Allen in a four-team trade, essentially dealing Dante Exum, a 2022 first rounder (who turned out to be MarJon Beauchamp) and a 2024 secon…",
+    "And all J.A. has done since his arrival is climb into the franchise’s top 10 in blocks (8th, 434), offensive boards (1,177), defensive boards (2,689) and overall rebounds (3,866).",
+    "He’s one double-double away from 250 for his career.",
+    "And at .653, the 28-year-old big man has the highest shooting percentage in Cavaliers team history.",
+    "Before Jarrett brought his talents to Cleveland, he played his first three-and-a-half pro seasons with the Nets after being drafted with the 22nd overall pick in 2017 out of Texas.",
+    "J.A. was good as a rookie – averaging in 8.2 points and 5.4 rebounds in 70 appearances – but the Nets were woeful, winning just 28 games and pulling up last in the Atlantic Division.",
+    "Now a 10-year veteran, Allen took a moment to look back on the ups and downs of his freshman year with Kenny Atkinson’s Nets in today’s installment of Rookie Tales … What was Kenny Atkinson like back when you were a rook…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "roster",
+   "key": "https://www.nba.com/thunder/news/peavy-261024",
+   "url": "https://www.nba.com/thunder/news/peavy-261024",
+   "canonical_url": "https://okcthunder.com/news/peavy-261024",
+   "title": "Thunder Signs Micah Peavy to Two-Way Contract",
+   "author": "okcthunder",
+   "published_utc": "2026-10-25T00:05:20Z",
+   "tags": [],
+   "summary": "OKLAHOMA CITY, Oct. 24, 2026 – The Oklahoma City Thunder has signed guard Micah Peavy to a Two-Way Contract, it was announced today by Executive Vice President and General Manager Sam Presti. Per team policy, terms of the agreement were not released.",
+   "facts": [
+    "Text to come OKLAHOMA CITY, Oct. 24, 2026 – The Oklahoma City Thunder has signed guard Micah Peavy to a Two-Way Contract, it was announced today by Executive Vice President and General Manager Sam Presti.",
+    "Peavy (6-7, 215) appeared in 61 games (four starts) last season with the New Orleans Pelicans and averaged 4.3 points, 1.9 rebounds and 1.0 assist in 15.0 minutes of action.",
+    "The Houston, Texas native was originally selected 40th overall in the 2025 NBA Draft by the Washington Wizards."
+   ],
+   "quotes": []
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -1878,95 +1927,6 @@
     " — Haliburton on his emotions ",
     " — Pacers head coach Rick Carlisle on Haliburton's return "
    ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pacers-123-pelicans-120-dejounte-murray-23-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/pacers-123-pelicans-120-dejounte-murray-23-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/pacers-123-pelicans-120-dejounte-murray-23-points-postgame-wrap",
-   "title": "Pacers 123, Pelicans 120: Dejounte Murray 23 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-22T01:37:13Z",
-   "tags": [],
-   "summary": "After a hard-fought battle for four quarters Wednesday, New Orleans had two chances to force overtime in its season opener, but misfired on a pair of three-point attempts in the final seconds, allowing Indiana and the returning-from-injury Tyrese Haliburton to prevail. With the Pacers up 123-120, center Ivica Zubac then missed two free throws, before Trey Murphy’s 90-foot heave just before the buz…",
-   "facts": [
-    "After a hard-fought battle for four quarters Wednesday, New Orleans had two chances to force overtime in its season opener, but misfired on a pair of three-point attempts in the final seconds, allowing Indiana and the re…",
-    "With the Pacers up 123-120, center Ivica Zubac then missed two free throws, before Trey Murphy’s 90-foot heave just before the buzzer was a bit left, bouncing off the backboard at the buzzer.",
-    "In his first game back after more than a year sidelined by an Achilles injury, Haliburton and his teammates gave New Orleans a glimpse of the fourth-quarter execution that nearly vaulted Indiana to an NBA championship 16…",
-    "The Pelicans took a six-point lead into the final 12 minutes, but the Pacers got hot behind Haliburton (23 points, 12 assists) and some critical shot-making by Pascal Siakam (30 points), outscoring their hosts 37-28 in t…",
-    "Indiana's contesting defense and finished with a team-best 23 points.",
-    "Zion Williamson added 22 points, highlighted by him sinking a pair of threes late in the second quarter, including a deep bomb from the left wing at the halftime buzzer.",
-    "The latter trey made it 66-56 in favor of the hosts, but the Pacers won the second half 67-54.",
-    "BY THE NUMBERS 52.2, 42.7: Indiana shooting percentage from the field, then New Orleans shooting percentage from the field, probably the biggest determining factor in Wednesday’s outcome."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/caleb-wilson-scores-16-in-nba-debut-bulls-blown-out-by-raptors-in-season-opener",
-   "url": "https://www.nba.com/bulls/news/caleb-wilson-scores-16-in-nba-debut-bulls-blown-out-by-raptors-in-season-opener",
-   "canonical_url": "https://bulls.com/news/caleb-wilson-scores-16-in-nba-debut-bulls-blown-out-by-raptors-in-season-opener",
-   "title": "Caleb Wilson scores 16 in NBA debut, Bulls blown out by Raptors in Season Opener",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-22T01:15:53Z",
-   "tags": [
-    "Sam Smith"
-   ],
-   "summary": "So... is that what rebuilding looks like?",
-   "facts": [
-    "We sure hope not, because the Bulls opened their 2026-27 season on Wednesday in Toronto, in one of those \"not as close as the final score\" games, lost 135-92 and more resembled Napoleon at the Battle of Waterloo.",
-    "The Raptors with a late first quarter burst of three pointers raced to a 43-23 first quarter lead, up to 29 midway through the second, 30 a few minutes into the second half and 48 points somewhere in the fourth quarter b…",
-    "I can’t expect myself to go out there and go for 30.",
-    "Not that Wilson, whose first pro bucket was a fast break score from Josh Giddey with the Bulls trailing by 13 in the first quarter, deserved blame as much as this was a line of cars following one another over a cliff int…",
-    "Buzelis led the Bulls with 17 points, but just three points through three quarters in a modest 14 minutes.",
-    "Jalen Smith and Norman Powell each had 15 points with about the most effectiveness on the team along with Tre Jones, who added 13 points.",
-    "Smith starting at center with Zach Collins returning on a minutes restriction was an effective garbage man type, retrieving loose balls under the basket and taking advantage of Raptor defensive aggressiveness to slip ins…",
-    "The veteran bucket getter Powell took it upon himself to try to rescue the offense with 11 second quarter points, drawing several fouls during the slightest Bulls offensive spurt of the game."
-   ],
-   "quotes": [
-    "not as close as the final score",
-    "And then depression set in.",
-    "Hell of a first game to play,",
-    "The atmosphere was crazy and, of course, you have the nerves,"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/some-perspective-about-new-mavericks-guard-clayton",
-   "url": "https://www.nba.com/mavs/news/some-perspective-about-new-mavericks-guard-clayton",
-   "canonical_url": "https://mavs.com/mavs/news/some-perspective-about-new-mavericks-guard-clayton",
-   "title": "Some perspective about new Mavericks' guard Clayton",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-22T01:00:50Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "Walter Clayton Jr."
-   ],
-   "summary": "Walter Clayton has barely been in the NBA a year and he’s already had a career’s worth of initiation to what the league is like.",
-   "facts": [
-    "He has, in order, been traded as a future first-round pick, been a first-round draftee of Washington, traded to Utah on the same night he was drafted, traded again to Memphis in midseason and, finally, waived by the Griz…",
-    "They signed the 6-4 point guard to a two-way contract on Wednesday.",
-    "The franchise had an open two-way contract after waiving John Poulakidas over the weekend.",
-    "Clayton got waived by the Grizzlies on cut-down day and he had no shortage of suitors.",
-    "With the Mavericks, he’ll be able to play 50 games in the NBA, under rules of two-way contracts.",
-    "He started his college career at Iona, then transferred to Florida and helped the Gators win the national championship in 2025, when he averaged 18.3 points, 4.2 assists and 3.7 rebounds per game.",
-    "He was named the Final Four most outstanding player and had a key defensive play late in the Gators’ 65-63 win over Houston in the championship game.",
-    "For whatever reasons, Clayton has been a tradeable asset twice in his first NBA season."
-   ],
-   "quotes": []
   }
  ]
 }
