@@ -1,8 +1,75 @@
 {
- "updated_utc": "2026-10-25 19:55 UTC",
+ "updated_utc": "2026-10-25 22:47 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261025-easts-best-put-celtics-to-the-test-right-away",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261025-easts-best-put-celtics-to-the-test-right-away",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20261025-easts-best-put-celtics-to-the-test-right-away",
+   "title": "East’s Best Put Celtics to the Test Right Away",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-25T20:04:22Z",
+   "tags": [
+    "Practice",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – The Celtics opened their season with about as tough of a test as they could have drawn. Their first two matchups came against the reigning Eastern Conference regular-season champion Pistons and the defending NBA champion Knicks – two juggernauts that presented two distinctly different challenges for a Celtics group in the beginning stage of establishing its identity.",
+   "facts": [
+    "Boston came away with a split, falling in Detroit before returning home to take down New York at TD Garden.",
+    "But two games into an 82-game season, the results only tell so much of the story.",
+    "Ultimately, the game swung when Javonte Green and Duncan Robinson caught fire in the second half, combining for 37 points after halftime to help Detroit turn the game around.",
+    "Boston executed when it mattered most, with Jayson Tatum delivering four clutch baskets down the stretch to help the Celtics secure a 107-103 win in their home opener.",
+    "The Celtics will have zero days to prepare for Brooklyn on Tuesday, when they’ll play the second night of their first back-to-back of the season, and the first of six back-to-backs over a 36-day span."
+   ],
+   "quotes": [
+    "I think each team gave us a different challenge,",
+    "It’s just something where we have to find our identity, find who we want to be and continue to grow in that aspect.",
+    "We've been working on these types of environments the whole summer,",
+    "Been drilling a lot of late-game scenarios … I think we’re getting a good feel of how to attack these certain moments and how to maximize opportunity. We’re doing a really good job of managing the mom…"
+   ]
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-thunder-261025",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-thunder-261025",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-thunder-261025",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Thunder",
+   "author": "LAClippers",
+   "published_utc": "2026-10-25T20:00:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Brook Lopez",
+    "Darius Garland",
+    "Game Previews",
+    "Injury Report",
+    "Keaton Wagler",
+    "Key Matchup"
+   ],
+   "summary": "1. The Clippers are allowing 111.3 points per game following a loss under Tyronn Lue (since 2020-21). That is the fifth fewest in the NBA over this span.",
+   "facts": [
+    "OKLAHOMA CITY THUNDER FIVE THINGS TO KNOW 1.",
+    "The Clippers are allowing 111.3 points per game following a loss under Tyronn Lue (since 2020-21).",
+    "That is the fifth fewest in the NBA over this span. 2.",
+    "Brook Lopez scored 22 points off the bench on Friday, becoming the oldest player in Clippers history to score at least 20 points in a game (38y, 205d).",
+    "There are only three NBA players older than Lopez to play in a game this season: LeBron James, Al Horford and Steph Curry. 3.",
+    "The Clippers have made 30 three-pointers through two games this season.",
+    "The only season in franchise history where they had more through two games was 2020-21 (33). 4.",
+    "Darius Garland has scored at least 25 points and recorded a steal in both games this season."
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -28,6 +95,7 @@
     "The 6-foot-10 forward was shooting 69.6 percent from the field and 50 percent from 3-point range.",
     "On opening night against Atlanta, P5 notched 35 points, seven rebounds and 10 assists.",
     "Following their title run, the Knicks have dropped their first two outings of the season with close defeats at the hands of the Philadelphia 76ers and Boston Celtics.",
+    "Banchero (right low-grade high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery) and Noah Penda (right partially torn hamstring) are out for Orlando.",
     "KEY STATS: One of the surprising stats from Orlando’s first two tilts is that the team is currently last in the league in points off turnovers (12.5 per contest) – albeit from an extremely small sample size."
    ],
    "quotes": [
@@ -145,36 +213,6 @@
     "NEXT FOR NEW ORLEANS A long, late-night return flight from Colorado before a day off Sunday."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/1030594",
-   "url": "https://www.nba.com/mavs/news/1030594",
-   "canonical_url": "https://mavs.com/mavs/news/1030594",
-   "title": "Mavs cautious as Kyrie Irving sat out back end of back-to-back against Spurs",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-25T03:39:42Z",
-   "tags": [
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "When the Dallas Mavericks opened the regular season last Wednesday against the Houston Rockets, it was the first regular season game for guard Kyrie Irving in nearly 600 days.",
-   "facts": [
-    "When the Dallas Mavericks opened the regular season last Wednesday against the Houston Rockets, it was the first regular season game for guard Kyrie Irving in nearly 600 days.",
-    "Irving underwent surgery last year after suffering a torn anterior cruciate ligament in his left knee during a March 3, 2025 game against the Sacramento Kings.",
-    "Donovan also was the head coach of the Oklahoma City Thunder (2015-20) and Chicago Bulls (2020-26) before landing with the Spurs as the top assistant under head coach Mitch Johnson.",
-    "And the Spurs opened the season with a 116-104 loss to Oklahoma City and a 114-110 loss to Houston before bouncing back and upending the Mavs – they were without the injured Cooper Flagg and Kyrie Irving -- 122-106, on S…"
-   ],
-   "quotes": [
-    "It was more of he’s ready to play in Indiana and let’s play that and let’s not make any decisions in advance,",
-    "It was several conversations and there wasn’t one thing that tilted one way or another.",
-    "The decision was made when he was ready to go in Indy on Friday, so play Friday.,",
-    "I don’t want to speak for Kai,"
-   ]
   },
   {
    "source": "CHI 公式（nba.com）",
@@ -1559,168 +1597,6 @@
     "Rookie Trevon Brazile was another standout for the reserves, ripping down a whopping 12 rebounds in his Nuggets debut."
    ],
    "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hornets-officially-lock-in-brandon-miller-as-core-part-of-their-future",
-   "url": "https://www.nba.com/hornets/news/hornets-officially-lock-in-brandon-miller-as-core-part-of-their-future",
-   "canonical_url": "https://hornets.com/news/hornets-officially-lock-in-brandon-miller-as-core-part-of-their-future",
-   "title": "Hornets Officially Lock In Brandon Miller As Core Part Of Their Future",
-   "author": "Sam Perley",
-   "published_utc": "2026-10-22T22:31:49Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "There’s no doubt that the Charlotte Hornets are a better basketball team with their now fourth year forward Brandon Miller on the floor – a 42-24 record in games he’s played in since the start of last season is a pretty good indicator of his value to the organization. Of course, that’s why it was so important for the Hornets’ front office to hammer out a rookie-scale extension with Miller before t…",
-   "facts": [
-    "There’s no doubt that the Charlotte Hornets are a better basketball team with their now fourth year forward Brandon Miller on the floor – a 42-24 record in games he’s played in since the start of last season is a pretty …",
-    "Of course, that’s why it was so important for the Hornets’ front office to hammer out a rookie-scale extension with Miller before the deadline to do so arrived this past Monday evening at 6 PM ET.",
-    "Last season, after missing most of the first month with a shoulder injury, he eventually settled back into the starting lineup and played in all but one of the Hornets’ final 60 games, during which he posted 20.5 points …"
-   ],
-   "quotes": [
-    "Everybody knows how talented of a player [Brandon] is, but I do want to paint a behind-the-scenes picture that I don’t think the public gets to see all the time,",
-    "His work ethic, his drive, his determination, his desire to elevate and be the best version of himself is something that we really appreciate and take seriously… He’s an inspiration not only for what …",
-    "I tip my hat off to JP (Peterson) every day and of course, Charles, I appreciate [him] for believing in me and trusting me to be who I am today,",
-    "Another thanks I can give out is to all my teammates, of course. My last thanks go to of course, my parents. Just the sacrifices that they’ve made. My brother and sister, everything they’ve done for m…"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/rockets-threw-everything-and-the-kitchen-sink-in-an-effort-to-slow-down-kyrie-irving",
-   "url": "https://www.nba.com/mavs/news/rockets-threw-everything-and-the-kitchen-sink-in-an-effort-to-slow-down-kyrie-irving",
-   "canonical_url": "https://mavs.com/mavs/news/rockets-threw-everything-and-the-kitchen-sink-in-an-effort-to-slow-down-kyrie-irving",
-   "title": "Rockets threw everything -- and the kitchen sink -- in an effort to slow down Kyrie Irving",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-22T21:43:10Z",
-   "tags": [
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "INDIANAPOLIS – When he was an assistant coach with the Brooklyn Nets during the 2020-21 season, Ime Udoka used to watch a certain point guard in practice and in games constantly wrecking any defense opposing coaches put in front of him.",
-   "facts": [
-    "INDIANAPOLIS – When he was an assistant coach with the Brooklyn Nets during the 2020-21 season, Ime Udoka used to watch a certain point guard in practice and in games constantly wrecking any defense opposing coaches put …",
-    "And not only did Udoka have 6-7 Amen Thompson guarding the 6-2 Irving, plenty of Rockets went out of their way to assist Thompson to deal with Irving, still one of the most explosive scorers and impactful players in the …",
-    "That played a crucial role in Irving getting off just nine field goal attempts — he made six of them — and scoring only 15 points in 24 minutes during the Mavs’ 128-110 loss to the Rockets.",
-    "I appreciate him looking out for me, but it is a great thing that I’ve got my 19-year old co-pilot over there helping me make sure I’m getting going.",
-    "That season Irving averaged 26.9 points and converted 50.6 percent of his field goals, 40.2 percent of his three-point shots and made 92.2 percent of his free throws while earning a spot on the All-Star team.",
-    "I’m used to playing 12 minutes through, or 11 minutes, 10 minutes through, and I’ve got to do a better job just adjusting to what our game plan is and just getting other guys involved."
-   ],
-   "quotes": [
-    "He’s one of the elite scorers,",
-    "He’s a guy you really have to pay attention to and you want to make it hard on him early especially, and not let him get into that rhythm.",
-    "It’s just the adjustment period.",
-    "There were times where mentally I was out there, and I just had to settle and ground myself like I’m really back into an NBA game and back into the flow of things,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-host-new-orleans-pelicans-in-2026-27-home-opener",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-host-new-orleans-pelicans-in-2026-27-home-opener",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-host-new-orleans-pelicans-in-2026-27-home-opener",
-   "title": "Preview: Utah Jazz Host New Orleans Pelicans in 2026-27 Home Opener",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-22T20:43:50Z",
-   "tags": [
-    "Ace Bailey",
-    "Keyonte George",
-    "Svi Mykhailiuk",
-    "Utah Jazz"
-   ],
-   "summary": "For the Utah Jazz, a 123-103 defeat on the road against the Memphis Grizzlies to open the season didn’t match the anticipation and excitement heading into opening night, but allows Will Hardy’s squad to get valuable film to study as the games come fast and furious moving forward.",
-   "facts": [
-    "For the Utah Jazz, a 123-103 defeat on the road against the Memphis Grizzlies to open the season didn’t match the anticipation and excitement heading into opening night, but allows Will Hardy’s squad to get valuable film…",
-    "Utah struggled mightily in the possession game against the Grizzlies, with 18 turnovers and a 55-38 disadvantage on the boards helping Memphis attempt 18 more shots by the end of the night.",
-    "With Ty Jerome on a heater (career-high 45 points on 17-of-25 shooting from the field) and the Grizzlies taking advantage of transition opportunities (23 fast break points), it wasn’t a recipe for success on Utah’s end.",
-    "Keyonte George was efficient as the team’s leading scorer (22 points on 7-of-12 shooting), while Ace Bailey and Svi Mykhailiuk led the second unit.",
-    "The Jazz now return home to host the New Orleans Pelicans Friday night, another Western Conference squad that features young talent in significant roles.",
-    "New Orleans fell 123-120 to the Indiana Pacers on opening night in a close game that saw the Pelicans hold a 10-point lead at one point.",
-    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jusuf Nurkić (right foot; 2nd plantar plate tear) QUESTIONABLE - Tony Bradley (left quadriceps; strain) Here are three …",
-    "Memphis grabbed 15 offensive rebounds in the comfortable win, outpacing Utah’s success on the offensive glass (five rebounds)."
-   ],
-   "quotes": [
-    "I thought 18 turnovers were a result of not moving the ball and making simple plays,",
-    "It felt like tonight we over dribbled and played in a crowd, and it put us in some really bad spots."
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/press-release-20261022-boston-celtics-to-face-new-york-knicks-for-home-opener-presented-by-td",
-   "url": "https://www.nba.com/celtics/news/press-release-20261022-boston-celtics-to-face-new-york-knicks-for-home-opener-presented-by-td",
-   "canonical_url": "https://celtics.com/news/press-release-20261022-boston-celtics-to-face-new-york-knicks-for-home-opener-presented-by-td",
-   "title": "Boston Celtics to Face New York Knicks for Home Opener Presented by TD",
-   "author": "Boston Celtics",
-   "published_utc": "2026-10-22T20:36:00Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "BOSTON – The Boston Celtics will return to the parquet on October 23 as they host the New York Knicks in their 2026-27 Home Opener, presented by TD, in front of a full-capacity crowd at TD Garden. Entering his fifth season as head coach, Joe Mazzulla leads a Celtics team featuring six-time NBA All-Star Jayson Tatum, alongside offseason additions NBA All-Star and four-time NBA Sportsmanship Award r…",
-   "facts": [
-    "BOSTON – The Boston Celtics will return to the parquet on October 23 as they host the New York Knicks in their 2026-27 Home Opener, presented by TD, in front of a full-capacity crowd at TD Garden.",
-    "Entering his fifth season as head coach, Joe Mazzulla leads a Celtics team featuring six-time NBA All-Star Jayson Tatum, alongside offseason additions NBA All-Star and four-time NBA Sportsmanship Award recipient Mike Con…",
-    "Returning players include Luka Garza, Hugo González, Ron Harper Jr., Sam Hauser, Payton Pritchard, Neemias Queta, Baylor Scheierman, Jordan Walsh, Derrick White, and AmariWilliams (two-way).",
-    "The evening will also mark the TD Garden regular season debuts of the Celtics’ 2026 draft class, Chris Cenac Jr. and Dillon Mitchell (two-way), as well as newly acquired guard Devin Carter (two-way).",
-    "Fans can also enjoy poster-making stations courtesy of TD on Levels 4 and 7 throughout the game.",
-    "The 2026-27 ‘Heroes Among Us’ program is presented by IBEW Local 103, NECA Boston, 98.5 The Sports Hub, and NBC Sports Boston.",
-    "Entering its 30th season, the program recognizes individuals who have made an overwhelming impact in their community.",
-    "The Celtics' apparel line, 46 Reserve, will also drop its seasonal collection on October 23."
-   ],
-   "quotes": [
-    "We’re excited for the start of the new season and a new chapter of Celtics basketball,",
-    "We have a lot of confidence in this group and the work our players, coaches, and staff have put in to prepare for the year ahead. The expectations that come with being part of the Boston Celtics never…"
-   ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-set-example-of-what-we-want-to-be-while-seeking-to-build-on-debut-win",
-   "url": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-set-example-of-what-we-want-to-be-while-seeking-to-build-on-debut-win",
-   "canonical_url": "https://grizzlies.com/news/mikecheck-grizzlies-set-example-of-what-we-want-to-be-while-seeking-to-build-on-debut-win",
-   "title": "MikeCheck: Grizzlies set ‘example of what we want to be’ while seeking to build on debut win",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-22T20:23:07Z",
-   "tags": [
-    "Grind City Media",
-    "Michael Wallace",
-    "MikeCheck"
-   ],
-   "summary": "Takeaways from historic season-opening victory",
-   "facts": [
-    "Here are my two takeaways from Wednesday’s 123-103 thumping of the Jazz and a lookahead to Friday’s matchup at Golden State to open a four-game trip.",
-    "Jerome's Binge Watch The Grizzlies work out on practice courts that have a designated 4-point line, which is a full step beyond the NBA’s normal 3-point arc.",
-    "The 35-footer was one of the rare misses during a team-leading performance in which Jerome shot 17-for-25 from the field, 5-of-10 on threes and notched a career-high 45 points along with seven rebounds and six assists in…",
-    "It represented the most points scored by a Grizzlies player during a season opener in franchise history, surpassing the 44-point outburst from former point guard Ja Morant in 2020.",
-    "The 20-point win was also the largest margin of victory for a season opener in franchise history.",
-    "Even as the Grizzlies remain a work in progress largely retooling around first, second and third-year players, the 29-year-old Jerome is a proven veteran capable of providing a big scoring punch.",
-    "This season, he has taken over the starting role at point guard and entered Wednesday’s opener coming off an impressive preseason in which he led Memphis in scoring and shot 47.4-percent on threes.",
-    "While Jerome’s scoring set the tone against Utah, the Grizzlies collectively controlled the game on both ends after trailing 31-29 after the first quarter."
-   ],
-   "quotes": [
-    "And improve collectively.",
-    "That one was a little far,",
-    "I say this all the time, man: the game kind of tells you what to do,",
-    "So those shots (that were available) are shots that I shoot every day, maybe besides that last one. But if teams are going to play us like that, I’m confident in those shots."
-   ]
   }
  ]
 }
