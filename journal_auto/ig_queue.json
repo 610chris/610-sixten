@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:14:57+09:00",
+  "updated": "2026-10-25T13:57:32+09:00",
   "items": [
     {
       "id": "134",
@@ -17139,6 +17139,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "マレー42得点、ナゲッツがOTで141-135の接戦制す\n\n・マレー43分出場で42得点・6アシスト\n・ヨキッチも35得点15リバウンド10アシストのトリプルダブル\n・ナゲッツがOTで141-135、ペリカンズは開幕3連敗\n\n💬 マレーとヨキッチ、どっちが今季のナゲッツの軸？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nuggets vs. Pelicans）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "631",
+      "slug": "631-booker-43-points-warriors",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "ブッカーが43得点、サンズがウォリアーズに勝利",
+      "excerpt": "フィニックス・サンズのデビン・ブッカーは現地時間10月24日、本拠地でのゴールデンステート・ウォリアーズ戦に36分出場し、43得点・7リバウンド・7アシストを記録した。両チーム通じてこの日の試合最多得点者となり、サンズは131-122で勝利した。",
+      "points": [
+        "25本中17本・68%の高確率で43得点",
+        "サンズは5選手が2桁得点",
+        "ウォリアーズは主力5人欠くも粘り、131-122"
+      ],
+      "source": "ESPN ボックススコア（Suns vs. Warriors・2026年10月24日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/631-booker-43-points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Devin Booker"
+      ],
+      "question": "ブッカーのこの43得点、今季ベストゲーム候補？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DEVIN BOOKER",
+        "opponent": "vs. WARRIORS",
+        "points": 43,
+        "stats": [
+          "7 REB",
+          "7 AST",
+          "17/25 FG",
+          "2/7 3PT",
+          "7/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/631-1.jpg",
+        "https://sixten.jp/assets/ig/631-2.jpg",
+        "https://sixten.jp/assets/ig/631-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T13:56:58+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブッカーが43得点、サンズがウォリアーズに勝利\n\n・25本中17本・68%の高確率で43得点\n・サンズは5選手が2桁得点\n・ウォリアーズは主力5人欠くも粘り、131-122\n\n💬 ブッカーのこの43得点、今季ベストゲーム候補？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Suns vs. Warriors・2026年10月24日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
