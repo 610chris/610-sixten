@@ -1,8 +1,42 @@
 {
- "updated_utc": "2026-10-25 17:12 UTC",
+ "updated_utc": "2026-10-25 19:55 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-new-york-knicks-game-preview-injury-report-20261025",
+   "url": "https://www.nba.com/magic/news/orlando-magic-new-york-knicks-game-preview-injury-report-20261025",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-new-york-knicks-game-preview-injury-report-20261025",
+   "title": "Orlando Magic at New York Knicks: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-25T18:15:37Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "NEW YORK – In the NBA, it’s not a matter of if adversity will strike, but just a matter of when.",
+   "facts": [
+    "Amidst navigating through a challenging opening schedule while adjusting to a new coaching staff, Orlando was hit with a significant injury blow on Saturday when the team announced that superstar forward Paolo Banchero s…",
+    "The Magic (0-2) will attempt to battle through the early season adversity and record their first win of the 2026-27 campaign when they square off with the Knicks (0-2) on Sunday at 7 p.m.",
+    "The 6-foot-10 forward was shooting 69.6 percent from the field and 50 percent from 3-point range.",
+    "On opening night against Atlanta, P5 notched 35 points, seven rebounds and 10 assists.",
+    "Following their title run, the Knicks have dropped their first two outings of the season with close defeats at the hands of the Philadelphia 76ers and Boston Celtics.",
+    "KEY STATS: One of the surprising stats from Orlando’s first two tilts is that the team is currently last in the league in points off turnovers (12.5 per contest) – albeit from an extremely small sample size."
+   ],
+   "quotes": [
+    "Anytime anybody goes out, the next guy has to be ready,",
+    "Tonight, with these guys – the defending champs – you know you’re going to have to be very ready to start the game. And then, you’re going to have to sustain it throughout.",
+    "It starts with Jalen Brunson, who’s an All-NBA player and Finals MVP, who’s got a diversified skillset and can make shots from three levels,",
+    "We’ll see how the shooting slot goes and see how my body feels after shootaround. And then, go from there."
+   ]
+  },
   {
    "source": "PHI 公式（nba.com）",
    "team": "PHI",
@@ -1687,80 +1721,6 @@
     "I say this all the time, man: the game kind of tells you what to do,",
     "So those shots (that were available) are shots that I shoot every day, maybe besides that last one. But if teams are going to play us like that, I’m confident in those shots."
    ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-at-jazz-injury-report-game-preview-10-23-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-at-jazz-injury-report-game-preview-10-23-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-at-jazz-injury-report-game-preview-10-23-2026",
-   "title": "Pelicans at Jazz: Injury Report, Game Preview 10/23/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-22T19:29:41Z",
-   "tags": [],
-   "summary": "The Pelicans travel to Utah to face the Jazz on Friday at the Delta Center at 8:30 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans travel to Utah to face the Jazz on Friday at the Delta Center at 8:30 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Jazz injury report, team news, tune in details, and gameday information: PELICANS VS JAZZ INJURY UPDATE PELICANS INJURY REPORT Nothing to report JAZZ INJURY REPORT Trey Alexander OUT (G League two…",
-    "Jazz Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Oct. 23 at 8:30 pm CT🏟️ Location: Delta Center in Salt Lake City, UT🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Jazz TV: Jazz+, KJZZ 14📻 Jazz Ra…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/2026-27-76ers-theme-nights-and-fan-favorite-gameday-activations",
-   "url": "https://www.nba.com/sixers/news/2026-27-76ers-theme-nights-and-fan-favorite-gameday-activations",
-   "canonical_url": "https://sixers.com/news/2026-27-76ers-theme-nights-and-fan-favorite-gameday-activations",
-   "title": "2026-27 76ers Theme Nights and Fan-Favorite Gameday Activations",
-   "author": "Owen Boyle",
-   "published_utc": "2026-10-22T18:52:18Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers started the 2026-27 season with a thrilling 106-100 win over the reigning NBA champion New York Knicks at Madison Square Garden on Tuesday night. Tyrese Maxey led all scorers with 28 points, while Jaylen Brown and LeBron James impressed offensively and defensively in their 76ers debuts. The 76ers had 28 assists, 24 fast-break points, 10 blocks and eight steals, and recorded …",
-   "facts": [
-    "The Philadelphia 76ers started the 2026-27 season with a thrilling 106-100 win over the reigning NBA champion New York Knicks at Madison Square Garden on Tuesday night.",
-    "Tyrese Maxey led all scorers with 28 points, while Jaylen Brown and LeBron James impressed offensively and defensively in their 76ers debuts.",
-    "The 76ers had 28 assists, 24 fast-break points, 10 blocks and eight steals, and recorded a 31-point third quarter in the come-from-behind victory.",
-    "After spoiling the party in the Big Apple, the 1-0 76ers return to Xfinity Mobile Arena for a highly anticipated Eastern Conference battle with the Cleveland Cavaliers, as the team plays its first of 41 home games in Sou…",
-    "With a new season come new theme nights and partners, along with the return of many fan-favorite activations.",
-    "The festivities at Xfinity Mobile Arena get started with Opening Night presented by Independence Blue Cross against the Cavaliers on Thursday, Oct. 22 at 7 p.m.",
-    "ET on ESPN and 97.5 The Fanatic.",
-    "The design also spotlights “Throw the Ball Up,” a phrase coined by Jaylen Brown after being acquired by the 76ers in an offseason trade."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-preview-20261023",
-   "url": "https://www.nba.com/warriors/news/gameday-preview-20261023",
-   "canonical_url": "https://warriors.com/news/gameday-preview-20261023",
-   "title": "Game Preview: Warriors vs. Grizzlies - 10/23/26",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-22T18:43:55Z",
-   "tags": [],
-   "summary": "WARRIORS HOST GRIZZLIES FOR FRIDAY'S HOME OPENER The Warriors host the Memphis Grizzlies for their home opener at Chase Center on Friday. Friday’s game is a rematch of the 2026 Summer League championship game in which No. 11 pick Yaxel Lendeborg led the Dubs to a title over No. 3 pick Cameron Boozer. Lendeborg had 12 points on 5-for-11 shooting in his NBA debut, while Boozer scored just seven poin…",
-   "facts": [
-    "Friday’s game is a rematch of the 2026 Summer League championship game in which No. 11 pick Yaxel Lendeborg led the Dubs to a title over No. 3 pick Cameron Boozer.",
-    "Lendeborg had 12 points on 5-for-11 shooting in his NBA debut, while Boozer scored just seven points on 2-for-15 shooting.",
-    "However, the Grizzlies are 1-0 after Ty Jerome scored 45 points in a 20-point win over the Utah Jazz, while the Warriors are 0-1 after Stephen Curry scored a team-high 23 points in a 22-point loss to the Los Angeles Lake…",
-    "BUY TICKETS LAST TIME OUT The Warriors trailed by as many as 35 points in their 127-105 season-opening loss to the Los Angeles Lakers at Crypto.com Arena on Wednesday.",
-    "Stephen Curry led the Warriors with 23 points in 21 minutes, while three Lakers eclipsed 20 points.",
-    "Luka Doncic led all scorers with 28 points and five 3-pointers, including a half-court buzzer-beater at the end of the first half.",
-    "Walker Kessler scored 26 points in his Laker debut and shot a perfect 12-for-12 from the field, becoming the first Laker since Shaquille O’Neal in 2003 with 10 dunks in a game.",
-    "Austin Reaves added 23 points for Los Angeles, shooting a perfect 10-for-10 from the foul line. »Full Story INJURY & ROSTER NOTES GSW: Brandin Podziemski (Bilateral Low Back Soreness) is probable."
-   ],
-   "quotes": []
   }
  ]
 }
