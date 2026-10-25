@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 25 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>ジェイレン・デューレン、右ハムストリング肉離れで最低2週間離脱 —— ヒート戦の前半で負傷、5年2億ドル契約から早くも試練</title>
+      <link>https://sixten.jp/journal/632-duren-hamstring-strain-pistons.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/632-duren-hamstring-strain-pistons.html</guid>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>デトロイト・ピストンズのジェイレン・デューレンは現地時間10月23日、本拠地でのマイアミ・ヒート戦の前半で右ハムストリングを負傷し、10分の出場で途中退場した。球団は現地時間10月25日、最低2週間の離脱になると発表した。デューレンは今オフ、5年2億ドルの契約延長で揉めた末にサインしたばかりだった。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>デビン・ブッカー、ウォリアーズ戦で43得点 —— サンズが131-122で勝利</title>
       <link>https://sixten.jp/journal/631-booker-43-points-warriors.html</link>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ダラス・マーベリックスのカイリー・アービングは現地時間10月23日、インディアナポリスのゲインブリッジ・フィールドハウスでのインディアナ・ペイサーズ戦に25分出場し、フィールドゴール15本中8本(3ポイント10本中5本)を沈めて24得点を記録した。両チーム通じてこの日の試合最多得点者となり、マーベリックスは121-105でペイサーズに快勝した。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>スコッティ・バーンズ、ウィザーズ戦で28得点14リバウンド —— ラプターズが112-102で勝利</title>
-      <link>https://sixten.jp/journal/602-barnes-28-points-wizards.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/602-barnes-28-points-wizards.html</guid>
-      <pubDate>Sat, 24 Oct 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>トロント・ラプターズのスコッティ・バーンズは現地時間10月23日、ワシントンのキャピタル・ワン・アリーナでのワシントン・ウィザーズ戦に37分出場し、フィールドゴール26本中12本を沈めて28得点・14リバウンド・5アシストを記録した。両チーム通じてこの日の試合最多得点者となり、ラプターズは112-102でウィザーズを下した。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-02.jpg?v=6d15bae6e8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
