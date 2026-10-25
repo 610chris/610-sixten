@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T12:05:30+09:00",
+  "updated": "2026-10-25T12:14:06+09:00",
   "items": [
     {
       "id": "134",
@@ -17045,6 +17045,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "レブロン、76ersでアシスト役に専念\n\n・レブロンはアシスト役、マクシーが中心\n・ケスラーはレイカーズ初陣でシュート12本全成功\n・ESPNが開幕週の新加入組を分析\n\n💬 76ersとレイカーズ、開幕週で良かったのはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（ベン・ゴリバー記者）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "629",
+      "slug": "629-johnson-26-points-rockets",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "ジェイレン・ジョンソン、ロケッツ戦で26得点16アシスト",
+      "excerpt": "アトランタ・ホークスのジェイレン・ジョンソンは現地時間10月24日、本拠地でのヒューストン・ロケッツ戦に38分出場し、26得点・9リバウンド・16アシスト・2スティールを記録した。両チーム通じてこの日の試合最多得点者となったが、ホークスは114-121でロケッツに敗れた。",
+      "points": [
+        "38分出場でFG19本中8本・26得点",
+        "リバウンド9・アシストはチーム最多16・スティール2",
+        "ホークスは114-121でロケッツに敗戦"
+      ],
+      "source": "ESPN ボックススコア（Hawks vs. Rockets・2026年10月24日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/629-johnson-26-points-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Johnson"
+      ],
+      "question": "ジョンソンの16アシスト、今季のキャリアハイ更新は近い？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN JOHNSON",
+        "opponent": "vs. ROCKETS",
+        "points": 26,
+        "stats": [
+          "16 AST",
+          "9 REB",
+          "2 STL",
+          "8/19 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/629-1.jpg",
+        "https://sixten.jp/assets/ig/629-2.jpg",
+        "https://sixten.jp/assets/ig/629-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T12:13:24+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ジョンソン、ロケッツ戦で26得点16アシスト\n\n・38分出場でFG19本中8本・26得点\n・リバウンド9・アシストはチーム最多16・スティール2\n・ホークスは114-121でロケッツに敗戦\n\n💬 ジョンソンの16アシスト、今季のキャリアハイ更新は近い？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Hawks vs. Rockets・2026年10月24日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
