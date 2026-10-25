@@ -284,6 +284,33 @@
   "template": "score",
   "timestamp": "2026-10-12T23:10:52+0000"
  },
+ "17897365152420943": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "609",
+  "auto": true,
+  "caption_len": 342,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "イブ・ミッシ、ジャズ戦で左膝負傷退場",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/De3XXgaD-iR/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Pelicans center Yves Missi helped off court vs. Jazz with leg injury」",
+  "subject": [
+   "Yves Missi"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-24T05:19:24+0000"
+ },
  "17897827167672483": {
   "article": "336",
   "auto": true,
@@ -446,6 +473,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-22T05:24:46+0000"
+ },
+ "17907383634569867": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "601",
+  "auto": true,
+  "caption_len": 309,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テイタム、ニックス戦で36得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3BpTJD94C/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T02:09:39+0000"
  },
  "17907532380593775": {
   "arms": {
@@ -758,6 +812,33 @@
   "permalink": "https://www.instagram.com/reel/CcO-z30A2rt/",
   "product": "REELS",
   "timestamp": "2022-04-12T02:23:31+0000"
+ },
+ "17916425283464225": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "606",
+  "auto": true,
+  "caption_len": 271,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "フラッグ、ペイサーズ戦で左肩負傷退場",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/De3CxRJgpMi/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-24T02:19:31+0000"
  },
  "17916712773528524": {
   "arms": {
@@ -1944,6 +2025,33 @@
   "product": "REELS",
   "timestamp": "2022-10-25T18:12:48+0000"
  },
+ "17974895535162639": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "614",
+  "auto": true,
+  "caption_len": 358,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "リーブス、クリッパーズ戦で28得点9アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3YadkESkg/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Lakers vs. Clippers・2026年10月23日）",
+  "subject": [
+   "Austin Reaves"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T05:28:28+0000"
+ },
  "17976476788785052": {
   "auto": false,
   "caption_len": 85,
@@ -2513,6 +2621,33 @@
   "template": "score",
   "timestamp": "2026-10-22T05:07:22+0000"
  },
+ "18018508529843446": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "615",
+  "auto": true,
+  "caption_len": 370,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャクソンJr.、ペリカンズ戦で24得点10リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3Ytm0lSk1/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Jazz vs. Pelicans・2026年10月23日）",
+  "subject": [
+   "Jaren Jackson Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T05:31:11+0000"
+ },
  "18018678778356954": {
   "auto": false,
   "caption_len": 85,
@@ -2553,6 +2688,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-07T14:54:34+0000"
+ },
+ "18025935158916486": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "616",
+  "auto": true,
+  "caption_len": 361,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テイタム「ブラウンとの確執はない」—— 開幕戦36得点の夜",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De34KR_Cf2n/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "quote",
+  "timestamp": "2026-10-24T10:05:58+0000"
  },
  "18026400979417562": {
   "auto": false,
@@ -3151,6 +3313,33 @@
   "template": "score",
   "timestamp": "2026-10-11T06:00:37+0000"
  },
+ "18071659805602320": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "617",
+  "auto": true,
+  "caption_len": 333,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アデトクンボ「僕らはショックを受けた」—— ヒート0-2発進",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De34WtyE5lY/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "quote",
+  "timestamp": "2026-10-24T10:07:40+0000"
+ },
  "18072716108733261": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -3373,6 +3562,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-15T02:23:00+0000"
+ },
+ "18080481728722750": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "610",
+  "auto": true,
+  "caption_len": 361,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、レイカーズ戦で16得点6リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3XjqajTlD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Lakers vs. Clippers・2026年10月23日）",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T05:21:05+0000"
  },
  "18081318725711831": {
   "arms": {
@@ -4167,6 +4383,33 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:14:32+0000"
  },
+ "18106597109350933": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "613",
+  "auto": true,
+  "caption_len": 348,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイ・ジェローム、ウォリアーズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3YItWG6GO/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Grizzlies vs. Warriors・2026年10月23日）",
+  "subject": [
+   "Ty Jerome"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T05:25:58+0000"
+ },
  "18107936777256136": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4695,6 +4938,33 @@
   "template": "news",
   "timestamp": "2026-10-01T20:06:03+0000"
  },
+ "18115731602125674": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "608",
+  "auto": true,
+  "caption_len": 374,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス・アデトクンボ、ピストンズ戦で36得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3HUfojK1F/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Heat vs. Pistons・2026年10月23日）",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T02:59:03+0000"
+ },
  "18116001830043802": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4955,6 +5225,33 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:28:33+0000"
  },
+ "18120112393978206": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "622",
+  "auto": true,
+  "caption_len": 379,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランドン・ミラー、ヒート戦で34得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5eanXjoKE/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Hornets vs. Heat・2026年10月24日）",
+  "subject": [
+   "Brandon Miller"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-25T00:59:30+0000"
+ },
  "18120177775947494": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4981,6 +5278,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T02:02:51+0000"
+ },
+ "18120311032980028": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "607",
+  "auto": true,
+  "caption_len": 329,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウィギンス、ホーネッツ戦で19得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3DE94gJ6U/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Aaron Wiggins"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T02:22:00+0000"
  },
  "18120339962004848": {
   "article": "290",
@@ -5587,6 +5911,33 @@
   "template": "news",
   "timestamp": "2026-10-01T00:04:21+0000"
  },
+ "18131862880829007": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "621",
+  "auto": true,
+  "caption_len": 348,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "レブロン・ジェームズ、バックス戦を欠場へ",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/De5Y_4AjSIQ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「76ers' LeBron James to sit vs. Bucks in 1st of back-to-back」",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-25T00:12:10+0000"
+ },
  "18132134434690332": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5613,6 +5964,34 @@
   ],
   "template": "score",
   "timestamp": "2026-10-23T05:00:10+0000"
+ },
+ "18132523831682441": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "604",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カーター・ジュニア、Tウルブズ戦で20得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3CX6fFPYy/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Wendell Carter Jr.",
+   "Wendell Carter"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T02:15:59+0000"
  },
  "18132730498674339": {
   "article": "282",
@@ -5811,6 +6190,33 @@
   "template": "news",
   "timestamp": "2026-10-12T04:11:01+0000"
  },
+ "18137476879680591": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "620",
+  "auto": true,
+  "caption_len": 356,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "バンケロ、軽度の足首捻挫で数週間離脱へ",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/De4oMawlBJM/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Sources: Magic's Banchero out multiple weeks with low-grade high ankle sprain」",
+  "subject": [
+   "Paolo Banchero"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-24T17:05:42+0000"
+ },
  "18138795754651008": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5889,6 +6295,33 @@
   "template": "news",
   "timestamp": "2026-10-21T02:04:03+0000"
  },
+ "18141379165627346": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "603",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アービング、ペイサーズ戦で24得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3CLn0igzf/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Kyrie Irving"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T02:14:19+0000"
+ },
  "18142402606607890": {
   "article": "285",
   "auto": true,
@@ -5912,6 +6345,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:12:30+0000"
+ },
+ "18142680781611458": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "602",
+  "auto": true,
+  "caption_len": 338,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バーンズ、ウィザーズ戦で28得点14リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3B4__kV2V/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Scottie Barnes"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T02:11:39+0000"
  },
  "18143186260504979": {
   "article": "277",
@@ -6346,6 +6806,33 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:12:49+0000"
  },
+ "18169955518464571": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "605",
+  "auto": true,
+  "caption_len": 324,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジョンソン、ホーネッツ戦で19得点7リバウンド8アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3CkkWghYB/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jalen Johnson"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T02:17:40+0000"
+ },
  "18177131926453034": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -6653,6 +7140,33 @@
   "template": "news",
   "timestamp": "2026-10-10T12:59:06+0000"
  },
+ "18201673246380822": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "611",
+  "auto": true,
+  "caption_len": 352,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エイカフ・ジュニア、33得点もキングス敗戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3Xv6YiZXc/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Trail Blazers vs. Kings・2026年10月23日）",
+  "subject": [
+   "Darius Acuff Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T05:22:44+0000"
+ },
  "18205033258374116": {
   "article": "326",
   "auto": true,
@@ -6801,6 +7315,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T23:04:02+0000"
+ },
+ "18229835749330711": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "612",
+  "auto": true,
+  "caption_len": 351,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "シェングン、スパーズ戦で29得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De3X77JD6Yv/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Rockets vs. Spurs・2026年10月23日）",
+  "subject": [
+   "Alperen Sengun"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-24T05:24:23+0000"
  },
  "18231337861322988": {
   "arms": {
