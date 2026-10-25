@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T09:56:34+09:00",
+  "updated": "2026-10-25T12:05:30+09:00",
   "items": [
     {
       "id": "134",
@@ -16789,6 +16789,262 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブランドン・ミラー、ヒート戦で34得点\n\n・29本中10本・3P10本中3本・FT12本中11本で34得点\n・7リバウンド・4アシスト・1ブロック\n・ホーネッツが115-110で勝利、2勝1敗に\n\n💬 ミラーのこの34得点、今季ブレイクの予感ある？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Hornets vs. Heat・2026年10月24日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "623",
+      "slug": "623-wilson-30-points-wizards",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "ケイレブ・ウィルソン、ウィザーズ戦で30得点",
+      "excerpt": "シカゴ・ブルズのケイレブ・ウィルソンは現地時間10月24日、本拠地でのワシントン・ウィザーズ戦に38分出場し、フィールドゴール24本中10本、フリースロー11本中9本を沈めて30得点・15リバウンド・3アシスト・2スティール・1ブロックを記録した。両チーム通じてこの日の試合最多得点者となったが、ブルズは120-124でウィザーズに敗れた。",
+      "points": [
+        "30得点15リバウンド3アシスト",
+        "ブルズは第3Qに20点差をつけられる",
+        "120-124で敗戦、2-2に後退"
+      ],
+      "source": "ESPN ボックススコア（Bulls vs. Wizards）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/623-wilson-30-points-wizards.html",
+      "hero_path": "",
+      "subject": [
+        "Caleb Wilson"
+      ],
+      "question": "ウィルソンのこの30得点、評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "CALEB WILSON",
+        "opponent": "vs. WIZARDS",
+        "points": 30,
+        "stats": [
+          "15 REB",
+          "3 AST",
+          "2 STL",
+          "10/24 FG",
+          "9/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/623-1.jpg",
+        "https://sixten.jp/assets/ig/623-2.jpg",
+        "https://sixten.jp/assets/ig/623-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T12:00:03+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ケイレブ・ウィルソン、ウィザーズ戦で30得点\n\n・30得点15リバウンド3アシスト\n・ブルズは第3Qに20点差をつけられる\n・120-124で敗戦、2-2に後退\n\n💬 ウィルソンのこの30得点、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Bulls vs. Wizards）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "624",
+      "slug": "624-porter-jr-28-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "マイケル・ポーター・ジュニア、キャバリアーズ戦で28得点",
+      "excerpt": "ブルックリン・ネッツのマイケル・ポーター・ジュニアは現地時間10月24日、アウェイでのクリーブランド・キャバリアーズ戦に33分出場し、フィールドゴール18本中10本、フリースロー4本中4本を沈めて28得点・9リバウンド・4スティールを記録した。両チーム通じてこの日の試合最多得点者となったが、ネッツは121-125でキャバリアーズに敗れた。",
+      "points": [
+        "28得点9リバウンド4スティール",
+        "前半14点差を追いつけず",
+        "121-125で敗戦"
+      ],
+      "source": "ESPN ボックススコア（Nets vs. Cavaliers）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/624-porter-jr-28-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "Michael Porter Jr."
+      ],
+      "question": "ネッツ、第4Qの41得点は収穫？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "MICHAEL PORTER JR.",
+        "opponent": "vs. CAVALIERS",
+        "points": 28,
+        "stats": [
+          "9 REB",
+          "4 STL",
+          "1 AST",
+          "10/18 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/624-1.jpg",
+        "https://sixten.jp/assets/ig/624-2.jpg",
+        "https://sixten.jp/assets/ig/624-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T12:00:03+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マイケル・ポーター・ジュニア、キャバリアーズ戦で28得点\n\n・28得点9リバウンド4スティール\n・前半14点差を追いつけず\n・121-125で敗戦\n\n💬 ネッツ、第4Qの41得点は収穫？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nets vs. Cavaliers）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "625",
+      "slug": "625-embiid-triple-double-bucks",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "ジョエル・エンビード、バックス戦でトリプルダブル",
+      "excerpt": "フィラデルフィア・76ersのジョエル・エンビードは現地時間10月24日、本拠地でのミルウォーキー・バックス戦に36分出場し、フィールドゴール20本中8本、フリースロー14本中12本を沈めて28得点・11リバウンド・10アシストのトリプルダブルを記録した。76ersは127-116でバックスを下し、無敗を継続した。",
+      "points": [
+        "28得点11リバウンド10アシスト",
+        "76ersは127-116で無敗継続",
+        "レブロン欠場でもエンビードが司令塔"
+      ],
+      "source": "ESPN ボックススコア（76ers vs. Bucks）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/625-embiid-triple-double-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "Joel Embiid"
+      ],
+      "question": "エンビードとレブロン、今季の76ersどこまで行ける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JOEL EMBIID",
+        "opponent": "vs. BUCKS",
+        "points": 28,
+        "stats": [
+          "11 REB",
+          "10 AST",
+          "8/20 FG",
+          "12/14 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/625-1.jpg",
+        "https://sixten.jp/assets/ig/625-2.jpg",
+        "https://sixten.jp/assets/ig/625-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T12:00:03+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョエル・エンビード、バックス戦でトリプルダブル\n\n・28得点11リバウンド10アシスト\n・76ersは127-116で無敗継続\n・レブロン欠場でもエンビードが司令塔\n\n💬 エンビードとレブロン、今季の76ersどこまで行ける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（76ers vs. Bucks）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "626",
+      "slug": "626-wembanyama-23-points-mavericks",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "ウェンバンヤマ、マーベリックス戦で23得点4ブロック",
+      "excerpt": "サンアントニオ・スパーズのビクター・ウェンバンヤマは現地時間10月24日、アウェイでのダラス・マーベリックス戦に29分出場し、フィールドゴール18本中9本、フリースロー5本中3本を沈めて23得点・7リバウンド・4ブロックを記録した。スパーズは122-106でマーベリックスを下した。",
+      "points": [
+        "23得点7リバウンド4ブロック",
+        "プラスマイナスチーム最高+32",
+        "スパーズが122-106で勝利"
+      ],
+      "source": "ESPN ボックススコア（Spurs vs. Mavericks）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/626-wembanyama-23-points-mavericks.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "ウェンバンヤマの守備力、リーグ最強だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. MAVERICKS",
+        "points": 23,
+        "stats": [
+          "7 REB",
+          "4 BLK",
+          "2 AST",
+          "9/18 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/626-1.jpg",
+        "https://sixten.jp/assets/ig/626-2.jpg",
+        "https://sixten.jp/assets/ig/626-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T12:00:03+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマ、マーベリックス戦で23得点4ブロック\n\n・23得点7リバウンド4ブロック\n・プラスマイナスチーム最高+32\n・スパーズが122-106で勝利\n\n💬 ウェンバンヤマの守備力、リーグ最強だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Spurs vs. Mavericks）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "627",
+      "slug": "627-flagg-shoulder-sprain-home-opener",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "クーパー・フラッグ、左肩「軽度」捻挫でホームオープナー欠場",
+      "excerpt": "ダラス・マーベリックスのクーパー・フラッグは現地時間10月24日朝のMRI検査で左肩の軽度の捻挫と判明し、同日本拠地で行われたサンアントニオ・スパーズ戦を欠場した。来週再評価される予定。ESPNが報じた。",
+      "points": [
+        "ペイサーズ戦のネスミスのファウルで負傷",
+        "MRIで左肩の軽度捻挫と判明",
+        "来週再評価、スパーズ戦は欠場"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/627-flagg-shoulder-sprain-home-opener.html",
+      "hero_path": "",
+      "subject": [
+        "Cooper Flagg"
+      ],
+      "question": "フラッグ、どれくらいで復帰できると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/627-1.jpg",
+        "https://sixten.jp/assets/ig/627-2.jpg",
+        "https://sixten.jp/assets/ig/627-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T12:05:27+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "クーパー・フラッグ、左肩「軽度」捻挫でホームオープナー欠場\n\n・ペイサーズ戦のネスミスのファウルで負傷\n・MRIで左肩の軽度捻挫と判明\n・来週再評価、スパーズ戦は欠場\n\n💬 フラッグ、どれくらいで復帰できると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "628",
+      "slug": "628-lebron-kessler-season-debuts-espn",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "レブロン、76ersでアシスト役に専念",
+      "excerpt": "ESPNは開幕週に新天地へ加入した主力選手たちの立ち上がりを分析。76ersのレブロン・ジェームズは得点を抑えてアシスト役に回り、レイカーズのウォーカー・ケスラーはレギュラーシーズン初出場でシュート12本全てを成功させた。ESPNのベン・ゴリバー記者が報じた。",
+      "points": [
+        "レブロンはアシスト役、マクシーが中心",
+        "ケスラーはレイカーズ初陣でシュート12本全成功",
+        "ESPNが開幕週の新加入組を分析"
+      ],
+      "source": "ESPN（ベン・ゴリバー記者）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/628-lebron-kessler-season-debuts-espn.html",
+      "hero_path": "",
+      "subject": [
+        "LeBron James|Walker Kessler"
+      ],
+      "question": "76ersとレイカーズ、開幕週で良かったのはどっち？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/628-1.jpg",
+        "https://sixten.jp/assets/ig/628-2.jpg",
+        "https://sixten.jp/assets/ig/628-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T12:05:27+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "レブロン、76ersでアシスト役に専念\n\n・レブロンはアシスト役、マクシーが中心\n・ケスラーはレイカーズ初陣でシュート12本全成功\n・ESPNが開幕週の新加入組を分析\n\n💬 76ersとレイカーズ、開幕週で良かったのはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（ベン・ゴリバー記者）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
