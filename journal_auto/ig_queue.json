@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T12:14:06+09:00",
+  "updated": "2026-10-25T13:14:57+09:00",
   "items": [
     {
       "id": "134",
@@ -17092,6 +17092,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジェイレン・ジョンソン、ロケッツ戦で26得点16アシスト\n\n・38分出場でFG19本中8本・26得点\n・リバウンド9・アシストはチーム最多16・スティール2\n・ホークスは114-121でロケッツに敗戦\n\n💬 ジョンソンの16アシスト、今季のキャリアハイ更新は近い？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Hawks vs. Rockets・2026年10月24日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "630",
+      "slug": "630-murray-42-points-pelicans",
+      "category": "NBA",
+      "date": "2026-10-25",
+      "headline": "マレー42得点、ナゲッツがOTで141-135の接戦制す",
+      "excerpt": "デンバー・ナゲッツのジャマール・マレーは現地時間10月24日、本拠地ボール・アリーナでのニューオーリンズ・ペリカンズ戦に43分出場し、42得点・3リバウンド・6アシストを記録した。両チーム通じてこの日の試合最多得点者となり、ナゲッツはオーバータイムにもつれる接戦を141-135で制した。",
+      "points": [
+        "マレー43分出場で42得点・6アシスト",
+        "ヨキッチも35得点15リバウンド10アシストのトリプルダブル",
+        "ナゲッツがOTで141-135、ペリカンズは開幕3連敗"
+      ],
+      "source": "ESPN ボックススコア（Nuggets vs. Pelicans）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/630-murray-42-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Jamal Murray"
+      ],
+      "question": "マレーとヨキッチ、どっちが今季のナゲッツの軸？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMAL MURRAY",
+        "opponent": "vs. PELICANS",
+        "points": 42,
+        "stats": [
+          "6 AST",
+          "3 REB",
+          "12/25 FG",
+          "8/16 3PT",
+          "10/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/630-1.jpg",
+        "https://sixten.jp/assets/ig/630-2.jpg",
+        "https://sixten.jp/assets/ig/630-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-25T13:14:40+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マレー42得点、ナゲッツがOTで141-135の接戦制す\n\n・マレー43分出場で42得点・6アシスト\n・ヨキッチも35得点15リバウンド10アシストのトリプルダブル\n・ナゲッツがOTで141-135、ペリカンズは開幕3連敗\n\n💬 マレーとヨキッチ、どっちが今季のナゲッツの軸？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Nuggets vs. Pelicans）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
