@@ -1,8 +1,34 @@
 {
- "updated_utc": "2026-10-25 06:48 UTC",
+ "updated_utc": "2026-10-25 17:12 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026",
+   "canonical_url": "https://sixers.com/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026",
+   "title": "Sixers vs. Pistons: Game Preview, Injury Report and How to Watch 10/25/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-10-25T13:16:50Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (3-0) play the second half of a back-to-back Sunday against the Detroit Pistons (2-0) at Xfinity Mobile Arena. Tipoff is scheduled for 7:30 p.m. EDT.",
+   "facts": [
+    "The Philadelphia 76ers (3-0) play the second half of a back-to-back Sunday against the Detroit Pistons (2-0) at Xfinity Mobile Arena.",
+    "Tipoff is scheduled for 7:30 p.m.",
+    "The Sixers defeated the Milwaukee Bucks on Saturday, 127-116, marking the 21st season in franchise history in which they have started 3-0.",
+    "Joel Embiid recorded his first triple-double of the season and the 10th of his career with 28 points, 11 rebounds and 10 assists.",
+    "Jaylen Brown and Tyrese Maxey scored 27 and 26 points, respectively, while VJ Edgecombe added a double-double with 17 points and a career-high-tying 13 rebounds.",
+    "Philadelphia’s 127 points, 19 3-pointers and 14 steals against Milwaukee all represent season highs.",
+    "Detroit is coming off a 128-111 road win over the Miami Heat on Friday.",
+    "Pistons newcomer John Collins scored a team-high 23 points, while former Sixer Paul Reed notched a double-double off the bench with 19 points and 11 rebounds."
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -117,6 +143,40 @@
    ]
   },
   {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/caleb-wilson-scores-30-as-bulls-fall-to-wizards-in-home-opener",
+   "url": "https://www.nba.com/bulls/news/caleb-wilson-scores-30-as-bulls-fall-to-wizards-in-home-opener",
+   "canonical_url": "https://bulls.com/news/caleb-wilson-scores-30-as-bulls-fall-to-wizards-in-home-opener",
+   "title": "Caleb Wilson scores 30 as Bulls fall to Wizards in Home Opener",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-25T03:33:38Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "For one shining moment on Saturday night, the Bulls in their 2026-27 home opener just about had themselves the shiniest of moments.",
+   "facts": [
+    "For one shining moment on Saturday night, the Bulls in their 2026-27 home opener just about had themselves the shiniest of moments.",
+    "Trailing by 21 points with 10 minutes left in the game after being doubled up 40-20 in the third quarter by the visiting Washington Wizards, the Bulls still seemed to be doubling down on what wasn’t working.",
+    "And the Bulls still trailed by 14 points with just over two minutes left, the arena emptying if not the Bulls’ belief.",
+    "That’s when Trae Young forgot he’d probably never blocked the shot of a guard and tried to against Norman Powell 28 feet from the rim.",
+    "Five Bulls plays later (either three-point makes or three-point plays) in five straight possessions amidst not so much Washington wizardry, and the Bulls, believe or not, were one shot away from a tie following a Matas B…",
+    "The Bulls on yet another brutal three-point shooting night even got another three from Powell with 3.4 seconds left.",
+    "Though only just close enough for a 124-120 Bulls loss and a 1-2 start to the new season.",
+    "And so going against 20 some feet of centers in Anthony Davis, Alex Sarr and Deandre Ayton proved too much to overcome as Washington won the boards despite the Bulls scrappiness, had a dozen offensive rebounds often for …"
+   ],
+   "quotes": [
+    "It’s good to know the character of the guys we have on the team,",
+    "We put ourselves in that position ourselves,",
+    "So I wouldn’t say I’d give... a moral victory, but I feel like it shows we have fight.",
+    "Why is the NBA so mad at the Bulls?"
+   ]
+  },
+  {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
    "team_ja": "マーベリックス",
@@ -193,7 +253,8 @@
    "tags": [
     "Coups Takeaways",
     "CoupWords",
-    "News"
+    "News",
+    "Trending"
    ],
    "summary": "1. This is not the start to the season anyone wanted, but at least this time we saw an extended glimpse of what this HEAT group could be.",
    "facts": [
@@ -1698,174 +1759,6 @@
     "Luka Doncic led all scorers with 28 points and five 3-pointers, including a half-court buzzer-beater at the end of the first half.",
     "Walker Kessler scored 26 points in his Laker debut and shot a perfect 12-for-12 from the field, becoming the first Laker since Shaquille O’Neal in 2003 with 10 dunks in a game.",
     "Austin Reaves added 23 points for Los Angeles, shooting a perfect 10-for-10 from the foul line. »Full Story INJURY & ROSTER NOTES GSW: Brandin Podziemski (Bilateral Low Back Soreness) is probable."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-take-on-thunder-in-2026-27-season-opener",
-   "url": "https://www.nba.com/nuggets/news/nuggets-take-on-thunder-in-2026-27-season-opener",
-   "canonical_url": "https://nuggets.com/news/nuggets-take-on-thunder-in-2026-27-season-opener",
-   "title": "Nuggets take on Thunder in 2026-27 season opener",
-   "author": "Matt Brooks",
-   "published_utc": "2026-10-22T16:23:42Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The 2026-27 NBA season is officially underway for your Denver Nuggets.",
-   "facts": [
-    "The 2026-27 NBA season is officially underway for your Denver Nuggets.",
-    "INJURY REPORT Denver: Spencer Jones — QUESTIONABLE (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) Oklahoma City: Otega Oweh — OUT (Right Achilles Tendon Repair/Surgery) Thomas Sorber — …",
-    "The two Western Conference heavyweights also met in the second round of the 2025 postseason; that series went a full seven games and was a total classic.",
-    "Last season, Denver led the NBA in offensive efficiency with a ridiculous 121.2 offensive rating.",
-    "Oklahoma City, meanwhile, was the NBA's best defensive team and limited opponents to just 106.5 points per possession.",
-    "The Thunder kicked off their season on Tuesday and thoroughly defeated the San Antonio Spurs, 116-104, the latter of whom represented the Western Conference in the 2026 NBA Finals.",
-    "Oklahoma City shot a whopping 45 percent from three-point land in San Antonio, while two-time MVP Shai Gilgeous-Alexander led the team with 32 points on 13-of-27 shooting.",
-    "TUNE-IN: Thursday, October 22, 7:30 p.m."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-mavericks-261023",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-mavericks-261023",
-   "canonical_url": "https://pacers.com/news/preview-pacers-mavericks-261023",
-   "title": "Game Preview: Pacers vs Mavericks",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-10-22T14:43:00Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Friday, Oct. 23 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Friday, Oct. 23 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview The 2026-27 Pacers season is officially underway after Indiana grabbed a down-to-the-wire win in New Orleans on Wednesday, 123-120, and returns to Gainb…",
-    "Pascal Siakam led all scorers with 30 points and eight rebounds in New Orleans, Ivica Zubac recorded his first double-double in Blue and Gold with 16 points and 15 rebounds, and Tyrese Haliburton returned to the court af…",
-    "Haliburton also notched a double-double as he scored 23 points and dished out 12 assists in the win over the Pelicans.",
-    "Flagg averaged 21 points, 6.7 rebounds, and 4.5 assists in 70 games for the Mavericks last season.",
-    "Dallas finished the season with a 26-56 record after battling injuries to key players.",
-    "Dallas lost its season opener to the Houston Rockets on Wednesday,128-110, but Flagg did not disappoint.",
-    "The second year forward scored 32 points on 10-for-17 shooting in Houston, and was 11-for-13 from the free throw line.",
-    "The Mavericks also roster Kyrie Irving, who returns this season following a torn ACL that cost him the entire 2025-26 season."
-   ],
-   "quotes": [
-    "Tyrese played extremely well,",
-    "First time he's played over 30 minutes in 16 and a half months...He made huge plays throughout the game, but particularly down the stretch...That kind of competitive presence, leadership, and belief i…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/jamal-mashburn-profile-new-orleans-basketball-25-seasons",
-   "url": "https://www.nba.com/pelicans/news/jamal-mashburn-profile-new-orleans-basketball-25-seasons",
-   "canonical_url": "https://pelicans.com/news/jamal-mashburn-profile-new-orleans-basketball-25-seasons",
-   "title": "Jamal Mashburn personified ready-to-win status of New Orleans' first team | 25 On the Court",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-22T14:17:46Z",
-   "tags": [
-    "25th season"
-   ],
-   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago. We begin with the local debut of an experienced squad that relocated from North Carolina to the Gulf South.",
-   "facts": [
-    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
-    "Entering his 10th season as a pro in 2002-03, forward Jamal Mashburn epitomized an accomplished roster that was coming off consecutive trips to the Eastern Conference semifinals in Charlotte, under venerable head coach P…",
-    "Memphis, he matched his career high with 50 points, including the game-winning bucket, a putback with one second remaining in overtime.",
-    "Brown, David Wesley, Baron Davis and Jamaal Magloire, Mashburn led the Hornets to a 47-35 record, the East’s No. 5 seed and a Round 1 playoff date vs.",
-    "Allen Iverson and Philadelphia (the 76ers prevailed 4-2).",
-    "Symbolic of their ready-to-win-now status, Mashburn and company tipped off a new era in the Gulf South by reeling off 11 straight home wins in what was then known as “New Orleans Arena.” That remains tied for the longest…",
-    "Season overview (in 25 words or less) The NBA’s return to NOLA was a genuine success.",
-    "The Hornets became the city’s first-ever playoff qualifier – the Jazz were shut out from 1974-79."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/follow-up-vs-hawks-what-went-well-areas-to-improve-20261022",
-   "url": "https://www.nba.com/magic/news/follow-up-vs-hawks-what-went-well-areas-to-improve-20261022",
-   "canonical_url": "https://orlandomagic.com/news/follow-up-vs-hawks-what-went-well-areas-to-improve-20261022",
-   "title": "Follow-Up vs. Hawks: What Went Well & Areas to Improve",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-22T13:01:34Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Paolo Banchero’s shooting (both inside and outside), his foul drawing, and his facilitating were all at A+ level. He made 10 of his 12 floor shots overall, three of his four from beyond the arc, and 12 of his 16 free throws, while also dishing out 10 assists. He made several outstanding reads when he got into the paint and saw a double team, which led to several open 3-point attempts for his teamm…",
-   "facts": [
-    "He made 10 of his 12 floor shots overall, three of his four from beyond the arc, and 12 of his 16 free throws, while also dishing out 10 assists.",
-    "He made several outstanding reads when he got into the paint and saw a double team, which led to several open 3-point attempts for his teammates.",
-    "Banchero, based on tracking data, saw a double team 23 percent of the time he touched the ball and his 109 total touches were the most in the league in either Tuesday or Wednesday’s opening night games.",
-    "The Magic, as a team, ended up with 30 assists.",
-    "Data shows the Magic totaled 14 deflections.",
-    "He made four of his 10 3-point attempts.",
-    "The Magic got to the free throw line a ton (went 30-of-39 from stripe).",
-    "This is a category they are expected to rank high in again this season with how often Banchero initiates contact and draws fouls and with how physical they can be near the basket."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-cavaliers-home-opener-game-preview-injury-report-and-how-to-watch-10-22-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-cavaliers-home-opener-game-preview-injury-report-and-how-to-watch-10-22-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-cavaliers-home-opener-game-preview-injury-report-and-how-to-watch-10-22-2026",
-   "title": "Sixers vs. Cavaliers: Home Opener Game Preview, Injury Report and How to Watch 10/22/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-10-22T12:28:27Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (1-0) are set to face the Cleveland Cavaliers (0-0) on Thursday in the home opener presented by Independence Blue Cross. Tipoff is scheduled for 7 p.m. EDT at Xfinity Mobile Arena.",
-   "facts": [
-    "The Philadelphia 76ers (1-0) are set to face the Cleveland Cavaliers (0-0) on Thursday in the home opener presented by Independence Blue Cross.",
-    "Tipoff is scheduled for 7 p.m.",
-    "Philadelphia opened the season with a 106-100 win Tuesday against the defending champion New York Knicks at Madison Square Garden.",
-    "Tyrese Maxey led all scorers with 28 points as LeBron James and Jaylen Brown made their 76ers debuts.",
-    "The Cavaliers will play their season opener after acquiring wing Peyton Watson from Denver in a five-team trade that sent out Max Strus and Dennis Schröder.",
-    "Here are the RAV4 Things to Know ahead of Thursday’s home opener: Tonight’s Giveaway All fans in attendance Thursday will receive an exclusive Opening Night T-shirt, courtesy of Independence Blue Cross.",
-    "Lockdown Defense The Sixers held the Knicks to 42 points on 15-for-46 (.326) shooting in the second half Tuesday.",
-    "Injury Report 76ers Dean Wade (left ankle sprain) – QuestionableDominick Barlow (low back stress reaction) – OutTacko Fall (left quadriceps strain) – OutAriel Hukporti (right Achilles tendon rupture/tear) – Out Cavaliers…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-clephi-262022",
-   "url": "https://www.nba.com/cavaliers/news/preview-clephi-262022",
-   "canonical_url": "https://cavs.com/news/preview-clephi-262022",
-   "title": "Cavs at 76ers | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-22T11:39:18Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "In the first game of the 82-game slate, the Cavs start in PA against the new-look Philadelphia 76ers. Philly is coming off an opening night win in New York against the Knicks.",
-   "facts": [
-    "In the first game of the 82-game slate, the Cavs start in PA against the new-look Philadelphia 76ers.",
-    "Last season, Cleveland swept the season series against the Sixers, winning both games at home and both on the road - highlighted by Jaylon Tyson's 39-point outing in Philly in January.",
-    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -Jarrett Allen - Knee - QUESTIONABLE -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT 76er…"
    ],
    "quotes": []
   }
