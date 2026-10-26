@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "652-new-balance-kawhi-v-oxford-blue.html",
+    cat: "KICKS",
+    title: "New Balance Kawhi 5「Oxford Blue」が発表 —— ドレスシャツ発想の新色、カワイ・レナードの最新シグネチャーに追加",
+    excerpt: "ニューバランスは、カワイ・レナードのシグネチャーシューズ最新作「Kawhi 5」の新色「Oxford Blue」を発表した。ドレスシャツを思わせるモノトーンのデザインで、2026年のホリデーシーズンに160ドルで発売予定。Sneaker News、Hypebeastが伝えた。",
+    date: "2026.10.26",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "651-nba-breakout-tiers-2026-27.html",
     cat: "NBA",
     title: "ウェンバンヤマ、ドンチッチ、フラッグ…… ESPNが選ぶ2026-27ブレイクアウト候補30人を6段階ティアで解説",
