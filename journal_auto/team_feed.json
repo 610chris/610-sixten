@@ -1,8 +1,172 @@
 {
- "updated_utc": "2026-10-26 14:32 UTC",
+ "updated_utc": "2026-10-26 20:07 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/tyrese-maxey-named-eastern-conference-player-of-the-week-2",
+   "url": "https://www.nba.com/sixers/news/tyrese-maxey-named-eastern-conference-player-of-the-week-2",
+   "canonical_url": "https://sixers.com/news/tyrese-maxey-named-eastern-conference-player-of-the-week-2",
+   "title": "TYRESE MAXEY NAMED EASTERN CONFERENCE PLAYER OF THE WEEK",
+   "author": "76ers PR",
+   "published_utc": "2026-10-26T19:38:21Z",
+   "tags": [
+    "Tyrese Maxey"
+   ],
+   "summary": "LED ALL EASTERN CONFERENCE PLAYERS WITH 28.8 POINTS PER GAME",
+   "facts": [
+    "LED ALL EASTERN CONFERENCE PLAYERS WITH 28.8 POINTS PER GAME ONLY PLAYER IN THE NBA TO AVERAGE AT LEAST 25 POINTS, TWO STEALS, AND ONE BLOCK PER GAME EARNS FIRST WEEKLY HONOR OF THE SEASON AND FIFTH OF HIS CAREER PHILADE…",
+    "In four games against New York, Cleveland, Milwaukee, and Detroit, Maxey produced 28.8 points on 46.6-percent shooting, 4.8 assists, 4.0 rebounds, 2.0 steals, and 1.0 blocked shot en route to a 3-1 record for the 76ers.",
+    "The seventh-year pro has tallied at least 20 points in all four contests, including a season-high 32 points (12-23 FG) against the Cavaliers on Oct. 22.",
+    "Maxey, a two-time NBA All-Star, ranked first atop the league in total points scored (115) and field goals (41), while leading all Eastern Conference competitors in points per game.",
+    "The Texas native was the only player in the NBA to average at least 25 points, two steals, and one block per game.",
+    "He finished the first week of action as one of four players to average at least 28 points, four assists, and four rebounds.",
+    "This is the fifth career weekly honor for Maxey, who was named Eastern Conference Player of the Week twice in 2025-26."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/mikecheck-off-to-3-0-start-grizzlies-being-smart-with-edeys-process-amid-early-progress",
+   "url": "https://www.nba.com/grizzlies/news/mikecheck-off-to-3-0-start-grizzlies-being-smart-with-edeys-process-amid-early-progress",
+   "canonical_url": "https://grizzlies.com/news/mikecheck-off-to-3-0-start-grizzlies-being-smart-with-edeys-process-amid-early-progress",
+   "title": "MikeCheck: Off to 3-0 start, Grizzlies ‘being smart’ with Edey’s process amid early progress",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-10-26T19:30:07Z",
+   "tags": [
+    "Michael Wallace",
+    "MikeCheck",
+    "Pressroom"
+   ],
+   "summary": "Franchise center expected back Monday vs Jazz",
+   "facts": [
+    "Franchise center expected back Monday vs Jazz SALT LAKE CITY – Among the most encouraging developments during the Grizzlies’ unbeaten start to the season has been Zach Edey’s rapid progress in his healthy return to actio…",
+    "The 7-foot-4 center sat out Sunday’s 123-112 victory over the Kings for recovery management as Memphis improved to 3-0 for the first time since the 2017-18 season.",
+    "The Grizzlies will remain strategic with Edey’s availability throughout his return from the offseason ankle and elbow surgeries he underwent ahead of his third NBA season.",
+    "Monday’s game at Utah completes the first of 14 back-to-back sets Memphis will play this season.",
+    "In those cases, when a team has games on consecutive nights, players who recently rehabbed from injuries typically are sidelined for one of the contests as part of recovery management.",
+    "He followed with a dominant closing stretch to help the Grizzlies rally from a 12-point deficit in the final three minutes for a 111-108 win Friday at Golden State.",
+    "In that game, Edey grabbed 10 rebounds and had two blocks – including a game-sealing rejection of a Steph Curry 3-point attempt – in 22 minutes.",
+    "The Grizzlies outscored the Warriors by 25 points when Edey was on the court."
+   ],
+   "quotes": [
+    "It’s a testament to him and all the people that have been working with him to have him in this spot right now,",
+    "We just have to be smart to make sure we reap the benefits when he’s on the court. And when our key rebounder and defensive anchor is not there, it’s a great opportunity for other guys to also step up…",
+    "I’m feeling good and just trying to build to get my conditioning and everything to where I want it,",
+    "We’re attacking everything the right way."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-ace-bailey-keyonte-george-lukas-52-and-west-tiers",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-ace-bailey-keyonte-george-lukas-52-and-west-tiers",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-ace-bailey-keyonte-george-lukas-52-and-west-tiers",
+   "title": "Roundball Roundup: Ace Bailey, Keyonte George, Luka's 52, and West Tiers",
+   "author": "JP Chunga",
+   "published_utc": "2026-10-26T18:49:53Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Luka Doncic’s masterclass (4:00), Ace Bailey’s start (12:10), Keyonte George’s consistency (17:30), and Western Conference tiers (31:55).",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Luka Doncic’s masterclass (4:00), Ace Bailey’s start (12:10), Keyonte George’s consistency (17:30), and Western Conference tiers (31:55)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "injury",
+   "key": "https://www.nba.com/magic/news/jalen-suggs-injury-update-mild-right-knee-bone-bruise-release-20261026",
+   "url": "https://www.nba.com/magic/news/jalen-suggs-injury-update-mild-right-knee-bone-bruise-release-20261026",
+   "canonical_url": "https://orlandomagic.com/news/jalen-suggs-injury-update-mild-right-knee-bone-bruise-release-20261026",
+   "title": "Jalen Suggs Injury Update",
+   "author": "Official Release",
+   "published_utc": "2026-10-26T18:45:43Z",
+   "tags": [
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Orlando Magic guard Jalen Suggs underwent an MRI which revealed a mild right knee bone bruise.",
+   "facts": [
+    "Suggs suffered the injury during the fourth quarter of last night’s game at New York."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/10-26-2026-suns-at-thunder-game-preview",
+   "url": "https://www.nba.com/suns/news/10-26-2026-suns-at-thunder-game-preview",
+   "canonical_url": "https://suns.com/news/10-26-2026-suns-at-thunder-game-preview",
+   "title": "10/26/2026 Suns at Thunder Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-10-26T17:52:08Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Monday, October 26, 2026Time: 5:00 p.m. MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Trail Blazers: Association Edition (White)",
+   "facts": [
+    "Game Info Date: Monday, October 26, 2026Time: 5:00 p.m.",
+    "MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Trail Blazers: Association Edition (White) Series Notes The Suns …",
+    "Golden State on Oct. 24Currently 20 points away from reaching 8,000 in his NBA career1-of-3 players from his NBA Draft class (2018) to record 7,000 points and 3,000 rebounds in their career (Luka Dončić and Deandre Ayton…",
+    "Orlando on Feb. 21#15 – Devin BookerLAST GAME: Put up a game-high 43 points (15-of-23 FG) while adding 7 rebounds and 7 assistsHis 43 points against Golden State on Oct. 24 were the most by a Sun in a home opener in fran…",
+    "Booker tallied 40+ points against the Warriors for the first time in his career.",
+    "He added 7 rebounds and 7 assists for his fourth career 40+ point, 7+ rebound and 7+ assist game.",
+    "Booker has 20+ points in 11 straight games, the longest active streak in the NBA.Making his home debut, MILES BRIDGES tallied 16 points and 7 rebounds.",
+    "Bridges is now 20 points away from 8,000 in his career.LUKE KENNARD made his Suns debut against Golden State, ending with 11 points (4-of-6 FG, 3-of-5 3FG)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-host-warriors-for-third-game-of-2026-27",
+   "url": "https://www.nba.com/nuggets/news/nuggets-host-warriors-for-third-game-of-2026-27",
+   "canonical_url": "https://nuggets.com/news/nuggets-host-warriors-for-third-game-of-2026-27",
+   "title": "Nuggets host Warriors for third game of 2026-27",
+   "author": "Matt Brooks",
+   "published_utc": "2026-10-26T16:23:03Z",
+   "tags": [
+    "2025-26 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets host the Golden State Warriors for their third game of the season.",
+   "facts": [
+    "INJURY REPORT Denver: Alpha Diallo — DOUBTFUL (Right Wrist Sprain/Personal Reasons) Johnson, Cameron — DOUBTFUL (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Lef…",
+    "Denver, meanwhile, is 1-1 following Saturday's thrilling comeback against the New Orleans Pelicans.",
+    "The Nuggets were down by as many as 22 points in the second half, but they rallied back behind Jamal Murray's 42-point performance.",
+    "Rookie Trevon Brazile was a standout in his second NBA game, as he put up 17 points, 9 rebounds, and 2 blocks in 28 minutes off the bench.",
+    "This was the Nuggets' sixth 22-point second-half comeback in franchise history.",
+    "Julian Strawther (left knee) and Spencer Jones (hamstring) are still recovering from preseason injuries.",
+    "TUNE-IN: Monday, October 26, 8:00 p.m.",
+    "MT; Altitude TV and NBC; Altitude+ and Peacock; Altitude Sports Radio 92.5 FM and TICO Sports"
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -268,23 +432,28 @@
    "title": "Mavericks-Heat preview: Both teams look to turn around disappointing starts",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-25T23:43:06Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "Morez Johnson Jr.",
+    "nba",
+    "Sergio De Larrea"
+   ],
    "summary": "MIAMI – OK, let’s get an honest show of hands from anybody who thought Giannis Antetokounmpo would start 0-3 as a member of the Miami Heat.",
    "facts": [
     "MIAMI – OK, let’s get an honest show of hands from anybody who thought Giannis Antetokounmpo would start 0-3 as a member of the Miami Heat.",
     "The Greek Freak, Bam Adebayo and Klay Thompson all have started the first three games for Miami and the losses have come at home by 25 points against Minnesota, by 17 against Detroit and on the road at Charlotte by five …",
-    "In de Larrea, the Mavericks got a full package of what the 6-5 Spaniard can do in Saturday’s loss to the Spurs at American Airlines Center.",
-    "Forced into being the primary ballhandler with Kyrie Irving sitting out, de Larrea had a team-best 21 points, hit 9-of-15 shots and nailed three of his four three-point tries.",
-    "Suffice it to say that if de Larrea shot like that all the time, there’s no way he would have slipped to the No. 25 pick in the draft.",
-    "Considering he won’t turn 21 until Dec. 4, de Larrea has oodles of potential and that’s what made him one of the most attractive European players in the draft.",
-    "The down side is that de Larrea had four turnovers in his 33 minutes against the Spurs.",
+    "In De Larrea, the Mavericks got a full package of what the 6-5 Spaniard can do in Saturday’s loss to the Spurs at American Airlines Center.",
+    "Forced into being the primary ball handler with Kyrie Irving sitting out, De Larrea had a team-best 21 points, hit 9-of-15 shots and nailed three of his four three-point tries.",
+    "Suffice it to say that if De Larrea shot like that all the time, there’s no way he would have slipped to the No. 25 pick in the draft.",
+    "Considering he won’t turn 21 until Dec. 4, De Larrea has oodles of potential and that’s what made him one of the most attractive European players in the draft.",
+    "The down side is that De Larrea had four turnovers in his 33 minutes against the Spurs.",
     "As for the rugged, 6-9 Johnson, much higher expectations come with the No. 9 overall pick."
    ],
    "quotes": [
-    "When you think of his growth and development, you factor in how important those reps are for him as he gets stronger and his body adapts to the speed and athleticism of the game – invaluable,",
+    "When you think of his growth and development, you factor in how important those reps are for him as he gets stronger and his body adapts to the speed and athleticism of the game — invaluable,",
     "Numerous great learning lessons from that.",
     "It’s a pleasure to play with him,",
-    "He gives 100 percent every day and bringing all the energy to the team. I’m very happy to have him."
+    "He gives 100 percent every day and brings all the energy to the team. I’m very happy to have him."
    ]
   },
   {
@@ -568,14 +737,19 @@
    "title": "With stars sidelined, Mavericks fade late in loss to Spurs",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-25T02:30:14Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "Marcus Sasser",
+    "nba",
+    "Sergio De Larrea"
+   ],
    "summary": "Plenty of things conspired against the Mavericks on Saturday night at their regular-season home opener.",
    "facts": [
     "Most distressing was the injury-related absences of Cooper Flagg and Kyrie Irving.",
     "But it was also hard to fathom that the defending Western Conference champion San Antonio Spurs would start the season 0-3.",
     "But the Spurs eventually solved the short-staffed Mavericks and scored a 122-106 victory at American Airlines Center.",
     "Both teams left the building with 1-2 records.",
-    "They rallied in the third quarter from a 77-63 deficit and took a lead at 85-84 when rookie Sergio de Larrea, who was superb in relief of Irving as the primary point guard with 21 points, nailed a baseline jumper.",
+    "They rallied in the third quarter from a 77-63 deficit and took a lead at 85-84 when rookie Sergio De Larrea, who was superb in relief of Irving as the primary point guard with 21 points, nailed a baseline jumper.",
     "But the Spurs gathered themselves, went on a 16-6 blitz bridging the third and fourth quarters to go up 100-91 and cruised to the finish line, going up 112-96 with five minutes remaining.",
     "The Spurs rode their young core of Wembanyama, Stephon Castle and Dylan Harper, each of whom topped 19 points, as did relative graybeard De'Aaron Fox.",
     "The Mavericks’ fade down the stretch might have been predictable, given they were playing the second night of back-to-back games after winning in Indiana 24 hours earlier."
@@ -863,9 +1037,9 @@
     "2026-27 Denver Nuggets",
     "Denver Nuggets"
    ],
-   "summary": "Denver: Spencer Jones — QUESTIONABLE (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain)",
+   "summary": "Denver: Alpha Diallo — OUT (Right Wrist Sprain/Personal Reasons) Johnson, Cameron —OUT (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain)",
    "facts": [
-    "INJURY REPORT Denver: Spencer Jones — QUESTIONABLE (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) Oklahoma City: Otega Oweh — OUT (Right Achilles Tendon Repair/Surgery) Thomas Sorber — …",
+    "Denver: Alpha Diallo — OUT (Right Wrist Sprain/Personal Reasons) Johnson, Cameron —OUT (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) The first …",
     "There, they'll face the New Orleans Pelicans, who have started the season 0-2 following losses to the Indiana Pacers and the Utah Jazz.",
     "Denver is 0-1 to begin the season after falling to the Oklahoma City Thunder, 96-84, in their season opener.",
     "They had issues scoring the basketball in the second half of Thursday's game, putting up just 28 total points in the final two quarters before the third-stringers checked in during garbage time.",
@@ -919,7 +1093,12 @@
    "title": "Mavericks-Spurs preview: Flagg's injury, Irving's absence adds intrigue to home opener",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-24T12:51:31Z",
-   "tags": [],
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
    "summary": "It’s the Mavericks’ home opener on Saturday night, even if it seems like a lot of the season has already transpired.",
    "facts": [
     "Going 1-1 on the road against two teams that have championship aspirations is a wonderful way to start the season.",
@@ -1160,6 +1339,7 @@
    "published_utc": "2026-10-24T04:03:58Z",
    "tags": [
     "dallas mavericks",
+    "Dusty May",
     "nba"
    ],
    "summary": "INDIANAPOLIS – Dusty May has enjoyed some very memorable moments in the city of Indianapolis over a short period of time.",
@@ -1348,7 +1528,9 @@
    "author": "Dwain Price",
    "published_utc": "2026-10-24T01:58:38Z",
    "tags": [
+    "Cooper Flagg",
     "dallas mavericks",
+    "kyrie irving",
     "nba"
    ],
    "summary": "INDIANAPOLIS – Dusty May registered his first victory as an NBA head coach as the Dallas Mavericks defeated the Indiana Pacers, 121-105, on Friday night at Gainbridge Fieldhouse. But the mood surrounding May’s emotional moment was subdued because of what happened to Cooper Flagg.",
@@ -1545,237 +1727,6 @@
     "Josh Hart scored 26 points on 66.7-percent shooting, three assists, one rebound and one steal.",
     "Karl-Anthony Towns collected 16 points on 50.0-percent shooting, 12 rebounds, four assists and two steals.",
     "Jayson Tatum led Boston with 24 points, 13 rebounds, eight assists, one steal and one block."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-76ers-game-notes-october-20-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-76ers-game-notes-october-20-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-76ers-game-notes-october-20-2026",
-   "title": "Knicks vs 76ers Game Notes | October 20, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-10-23T20:00:50Z",
-   "tags": [
-    "Game Notes"
-   ],
-   "summary": "October 20, 2026 7:00 PM ET | Madison Square Garden (New York, NY) | Game 1; Home Game 1",
-   "facts": [
-    "October 20, 2026 7:00 PM ET | Madison Square Garden (New York, NY) | Game 1; Home Game 1 TV: NBC/Peacock/MSG Networks; Radio: SiriusXM This Day in Knicks History October 20,1970: Walt Frazier records his 13th career trip…",
-    "PHI: Philadelphia (2/11/26) – The New York Knicks defeated the Philadelphia 76ers, 138-89, marking the largest road win in franchise history.",
-    "Jose Alvarado led New York with a season-high 26 points on 61.5-percent shooting, a season-high five steals, four assists and three rebounds off the bench.",
-    "Mikal Bridges scored 22 points on 60.0-percent shooting, six assists, five rebounds and two steals.",
-    "Karl-Anthony Towns collected 21 points on 61.5-percent shooting, 11 rebounds, five assists, one steal and one block.",
-    "Tyrese Maxey led Philadelphia with 32 points, two rebounds, two assists and one steal.",
-    "Dominick Barlow had 13 points on 60.0-percent shooting, four rebounds, two steals, one assist and one block.",
-    "VJ Edgecombe added 14 points, four rebounds, two assists and one block."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-261023",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-261023",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-261023",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Lakers",
-   "author": "LAClippers",
-   "published_utc": "2026-10-23T20:00:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Broadcast Information",
-    "Brook Lopez",
-    "Darius Garland",
-    "Game Previews",
-    "Injury Report",
-    "Keaton Wagler",
-    "Key Matchup"
-   ],
-   "summary": "1. The Clippers have made over half of their field goals in two straight visits to the Lakers. The Clippers have done that twice before against the Lakers, extending the streak to three games only once before (three straight 1992 – 1993, two straight April – December 1989). 2. Darius Garland became the fifth Clipper to put up at least 30 points with at least four assists in a season opener in the …",
-   "facts": [
-    "LOS ANGELES LAKERS FIVE THINGS TO KNOW 1.",
-    "The Clippers have done that twice before against the Lakers, extending the streak to three games only once before (three straight 1992 – 1993, two straight April – December 1989). 2.",
-    "Darius Garland became the fifth Clipper to put up at least 30 points with at least four assists in a season opener in the last 40 seasons (since 1987-88), joining Kawhi Leonard (19-20), Blake Griffin (15-16), Sam Cassell…",
-    "The Clippers’ 25-point win over the Kings was their second largest in a season opener in team history after a 30-point win over the SuperSonics in 2004-05.",
-    "The last time they started a season with two straight wins was in 2022-23, which included a game versus the Lakers. 4.",
-    "Brook Lopez opened the season with a double-double off the bench, the second Clipper with a double-double in a season opener without starting (James Singleton in 2005-06).",
-    "Lopez had one double-double in 75 games last season. 5.",
-    "Wagler needs to make just one three to have the most through the first two career games by any Clippers player. 26-27 OPPONENT COMPARISON"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-memphis-recap-opening-week-observations",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-memphis-recap-opening-week-observations",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-memphis-recap-opening-week-observations",
-   "title": "Roundball Roundup: Memphis Recap + Opening Week Observations",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-23T19:13:43Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz’s loss in Memphis, standouts, and previewed the first couple games of the homestand.",
-   "facts": [],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "feature",
-   "key": "https://www.nba.com/timberwolves/news/kids-zone-family-timberwolves-game",
-   "url": "https://www.nba.com/timberwolves/news/kids-zone-family-timberwolves-game",
-   "canonical_url": "https://timberwolves.com/news/kids-zone-family-timberwolves-game",
-   "title": "The Kids Zone: A Family Stop At Your Next Timberwolves Game",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-10-23T17:55:16Z",
-   "tags": [
-    "Game Preview",
-    "Kids Zone"
-   ],
-   "summary": "Looking for a howlin’ good time for the little ones at a Timberwolves game?",
-   "facts": [
-    "Head to the Kids Zone near Section 220 on the concourse.",
-    "He’ll be there from 45 minutes before tip-off until 15 minutes before the game starts.",
-    "For a 7 PM game, that’s 6:15 to 6:45 PM.",
-    "Perfect for ages 3 and up, it gives young fans a chance to listen and explore without a phone or tablet.",
-    "Stop by Guest Services at Sections 116 or 216 for a special First Game Certificate to commemorate the day.",
-    "Where To Find The Kids Zone The Kids Zone is near Section 220 on the concourse and stays open throughout Timberwolves games."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-bkncle-261024",
-   "url": "https://www.nba.com/cavaliers/news/preview-bkncle-261024",
-   "canonical_url": "https://cavs.com/news/preview-bkncle-261024",
-   "title": "Cavs vs Nets | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-23T17:09:42Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "Cleveland's first home game of the season is tonight when hosting the Brooklyn Nets. Both the Cavs and Nets are looking for a first win of the season.",
-   "facts": [
-    "It was a strong first half, jumping out to a 29-point second quarter lead but scoring just 37 points in the second half.",
-    "Donovan Mitchell scored 22 of his game-high 32 in the first half.",
-    "HOW THE TEAMS STACK UP (2025-26 REGULAR SEASON STATS) PLAYERS TO WATCH (2025-26 REGULAR SEASON STATS) INJURY REPORT Cavs: -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - Two-Way - OUT Nets: -T…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-minnesota-timberwolves-game-preview-injury-report-20261023",
-   "url": "https://www.nba.com/magic/news/orlando-magic-minnesota-timberwolves-game-preview-injury-report-20261023",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-minnesota-timberwolves-game-preview-injury-report-20261023",
-   "title": "Orlando Magic vs. Minnesota Timberwolves: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-10-23T16:37:35Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO – The Orlando Magic are about to embark on their first road trip of their 2026-27 campaign.",
-   "facts": [
-    "ORLANDO – The Orlando Magic are about to embark on their first road trip of their 2026-27 campaign.",
-    "The Magic (0-1) look to record their first victory of the season when they host the Minnesota Timberwolves (1-0) on Friday at 7 p.m.",
-    "The Wolves fired off an NBA season-high 50 triples in their opener against the Miami Heat and knocked down a whopping 21 of them.",
-    "Four-time All-Star Anthony Edwards poured in a team-high nine of them on his way to a sensational 45-point night, while LaMelo Ball, acquired from the Charlotte Hornets this summer, knocked down five of his 13 attempts f…",
-    "Orlando was guilty of fouling a 3-point shooter on three occasions against Atlanta and committed 28 fouls overall.",
-    "Offensively, the Magic will look to build on an opening night showing where they tallied 125 points against one of the most aggressive defenses in the league.",
-    "In addition to superstar forward Paolo Banchero’s magnificent 35-point, seven-rebound, 10-assist outing, Franz Wagner and Wendell Carter Jr. each added 22 points.",
-    "As a unit, Orlando dished out 30 assists, the fourth most of any squad in its 2026-27 debut."
-   ],
-   "quotes": [
-    "Just trying to limit their threes,",
-    "In their last game, they got a lot up and hit a lot of threes. So, trying to manage that and make them take tough twos. Ant and LaMelo are going to try and get to their spots, so we have to try and li…",
-    "I loved his aggressiveness,",
-    "I thought he did a great job of really trying to put pressure on the defense, and I think he can be even better. But he did a great job in a lot of areas, and I thought he did a good job of drawing th…"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-preview-20261023-nyknos",
-   "url": "https://www.nba.com/celtics/news/game-preview-20261023-nyknos",
-   "canonical_url": "https://celtics.com/news/game-preview-20261023-nyknos",
-   "title": "10/23 Game Preview: Knicks at Celtics",
-   "author": "Boston Celtics",
-   "published_utc": "2026-10-23T15:13:22Z",
-   "tags": [
-    "Game Preview",
-    "Pregame",
-    "Regular Season"
-   ],
-   "summary": "Winning the franchise's first title in 53 years created a lasting bond among the members of the 2025-26 New York Knicks.",
-   "facts": [
-    "Provided by Field Level Media Winning the franchise's first title in 53 years created a lasting bond among the members of the 2025-26 New York Knicks.",
-    "The Knicks began their championship defense with a 106-100 loss to LeBron James, Jaylen Brown and the visiting Philadelphia 76ers.",
-    "The Celtics squandered a 22-point third-quarter lead in a 121-113 loss to the host Detroit Pistons.",
-    "Returning players and coaches received their championship rings before the banner commemorating the long-awaited title was raised to the rafters at Madison Square Garden.",
-    "The Knicks led by 10 points three times in the second quarter but fell behind for good when the 76ers ended the third quarter on an 11-0 run.",
-    "Jalen Brunson, whose finishing skills last spring turned him into an all-time Big Apple sporting icon, was 1 of 5 from the field in the fourth quarter, including a missed turnaround jumper with 3:46 left that would have …",
-    "The Knicks weren't haunted Tuesday by their decision to bring back everyone from last year's rotation except Robinson, who signed a three-year deal with the Celtics on July 6 after New York owner James Dolan made it clea…",
-    "Andre Drummond, Robinson's replacement as the backup to center Karl-Anthony Towns, posted a double-double (12 points, 14 rebounds) in 24 minutes while Towns battled foul trouble."
-   ],
-   "quotes": [
-    "I think it's good for us to, you know, kind of get knocked down off the mountain, humble ourselves, put our egos in check and see what's going to happen,",
-    "It doesn't really matter that I'm playing my former team,",
-    "It's more so just trying to bounce back from what happened two nights ago.",
-    "At the end of the day, we want to kick his (butt) like he probably wants to kick ours,"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-jazz-10-23-2026",
-   "url": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-jazz-10-23-2026",
-   "canonical_url": "https://pelicans.com/news/gameday-update-pelicans-at-jazz-10-23-2026",
-   "title": "Gameday update: Pelicans at Jazz (10/23/2026)",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-23T15:12:14Z",
-   "tags": [],
-   "summary": "NEW ORLEANS PELICANS (0-1) AT UTAH JAZZ (0-1)",
-   "facts": [
-    "NEW ORLEANS PELICANS (0-1) AT UTAH JAZZ (0-1) Overview Two Western Conference teams trying to bounce back from season-opening defeats meet in Salt Lake City, with Utah tipping off its 2026-27 home schedule against New Or…",
-    "Indiana before losing 123-120, while the Jazz were throttled in their visit to Memphis, 123-103.",
-    "Friday’s trip to Utah marks the first half of a challenging Mountain time zone, road back-to-back for New Orleans, which will face Denver in Ball Arena on Saturday, less than 24 hours later.",
-    "The Pelicans endured a lengthy stretch of difficulty when facing the Jazz on their home floor earlier this decade, but went 3-0 in the Delta Center over the previous two campaigns.",
-    "Players to Watch PELICANS Yves Missi The third-year center was everywhere Wednesday, playing one of the best all-around games of his pro career, posting 13 points, 14 rebounds, five assists and three blocks against the P…",
-    "He was an efficient 5/6 from the field and grabbed seven offensive rebounds, part of the Pelicans’ 15-9 advantage in O-boards.",
-    "Indiana by picking up three first-half fouls, finishing Wednesday with eight points on 2/10 shooting in just 21 minutes.",
-    "He and Dejounte Murray will match up against the talented and youthful backcourt of Keyonte George and 2026 No. 2 overall pick Darryn Peterson."
    ],
    "quotes": []
   }
