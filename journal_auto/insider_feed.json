@@ -1,28 +1,19 @@
 {
- "updated_utc": "2026-10-26 00:06 UTC",
+ "updated_utc": "2026-10-26 04:37 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
    "reporter": "Michael Scotto（HoopsHype）",
    "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1xff5vp/scotto_kawhi_leonard_is_out_tonight_for_the/",
+   "key": "https://www.reddit.com/r/nba/comments/1xfjdgq/scotto_indiana_pacers_center_ivica_zubac_got_an/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-10-25T22:03:10+00:00",
-   "text": "Kawhi Leonard is out tonight for the Toronto Raptors with left knee swelling.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xff5vp/scotto_kawhi_leonard_is_out_tonight_for_the/",
-   "links": []
-  },
-  {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1xf4ar1/scotto_detroit_pistons_say_center_jalen_duren/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-25T14:49:03+00:00",
-   "text": "Detroit Pistons say center Jalen Duren suffered a right hamstring strain and will be re-evaluated in two weeks.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xf4ar1/scotto_detroit_pistons_say_center_jalen_duren/",
-   "links": []
+   "posted_utc": "2026-10-26T01:11:47+00:00",
+   "text": "Scotto articles: https://www.hoopshype.com/staff/84455328007/michael-scotto/\n\nIndiana Pacers center Ivica Zubac got an x-ray on his left ankle, which came back negative, coach Rick Carlisle told me postgame. Carlisle said Zubac’s ankle is swollen and it’s unlikely he’ll play tomorrow night against the Milwaukee Bucks. Zubac left the arena on crutches.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xfjdgq/scotto_indiana_pacers_center_ivica_zubac_got_an/",
+   "links": [
+    "https://www.hoopshype.com/staff/84455328007/michael-scotto/"
+   ]
   }
  ]
 }
