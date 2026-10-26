@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "649-alpen-wleague-sponsor.html",
+    cat: "JAPAN",
+    title: "アルペン、W LEAGUEとオフィシャルスポンサー契約 —— B.LEAGUEに続き男女トップリーグを初めて同時サポート",
+    excerpt: "スポーツ用品販売の株式会社アルペンは、女子バスケットボール国内最高峰リーグ「W LEAGUE」運営団体とオフィシャルスポンサー契約を締結したと発表した。男子B.LEAGUEへの支援に続き、男女のトップリーグを初めて同時にサポートする。",
+    date: "2026.10.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "648-brunson-knicks-0-3-start.html",
     cat: "NBA",
     title: "ブランソン「全部、俺の責任だ」—— ニックスは開幕3連敗、前王者としては2011-12マブス以来の不振",
