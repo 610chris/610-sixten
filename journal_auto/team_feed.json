@@ -1,8 +1,100 @@
 {
- "updated_utc": "2026-10-26 01:37 UTC",
+ "updated_utc": "2026-10-26 06:55 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261026",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261026",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261026",
+   "title": "Game Preview: Warriors at Nuggets - 10/26/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-26T04:28:33Z",
+   "tags": [
+    "Game Preview"
+   ],
+   "summary": "WARRIORS VISIT NUGGETS ON MONDAY The Warriors continue their three-game road trip, visiting the Denver Nuggets at Ball Arena on Monday. The Dubs are 0-3 and face a 1-1 Nuggets squad that overcame a 23-point deficit to earn their first win in overtime against the New Orleans Pelicans. Golden State will get veteran reinforcements back in the lineup, headlined by Stephen Curry and Draymond Green, who…",
+   "facts": [
+    "The Dubs are 0-3 and face a 1-1 Nuggets squad that overcame a 23-point deficit to earn their first win in overtime against the New Orleans Pelicans.",
+    "LAST TIME OUT Yaxel Lendeborg recorded 26 points, nine rebounds, five assists, and six 3-pointers in the Warriors’ 131-122 loss to the Phoenix Suns at Mortgage Matchup Center on Saturday.",
+    "The short-handed Warriors stayed competitive despite Devin Booker exploding for 43 points, seven rebounds, and seven assists.",
+    "De’Anthony Melton scored 25 points in 26 minutes off the bench, Brandon Williams scored 20 points and added five assists as the starting point guard in place of Stephen Curry, and Graham Ike recorded his first career dou…",
+    "The Warriors made 17 3-pointers, shooting 43.6% from three but were outscored by 20 points, 27-7, in transition. »Full Story INJURY & ROSTER NOTES GSW: TBD.",
+    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season.",
+    "COMPELLING NOTE: Warriors: Yaxel Lendeborg etched his name in franchise history against the Phoenix Suns on Saturday, becoming the first Warriors rookie with 26 points, nine rebounds and five assists in a game since Step…",
+    "He became the first Warriors rookie since Chris Webber in 1994 to have consecutive games with at least 18 points nine rebounds, and five assists."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-overcome-10-point-fourth-quarter-deficit-to-take-down-defending-champs-20261025",
+   "url": "https://www.nba.com/magic/news/orlando-magic-overcome-10-point-fourth-quarter-deficit-to-take-down-defending-champs-20261025",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-overcome-10-point-fourth-quarter-deficit-to-take-down-defending-champs-20261025",
+   "title": "Orlando Magic Overcome 10-Point Fourth-Quarter Deficit to Take Down Defending Champs",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-26T02:10:09Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Franz Wagner has a history of coming up big in big moments. Last season in the playoffs, he made a pair of clutch shots late in Game 3 of the Orlando Magic’s first round series against the Detroit Pistons. He did the same thing in Game 3 of the prior year’s postseason against the Boston Celtics. He also made a game winner in L.A. against the Lakers in 2024, as well as one in Chicago against the Bu…",
+   "facts": [
+    "Last season in the playoffs, he made a pair of clutch shots late in Game 3 of the Orlando Magic’s first round series against the Detroit Pistons.",
+    "He did the same thing in Game 3 of the prior year’s postseason against the Boston Celtics.",
+    "He also made a game winner in L.A. against the Lakers in 2024, as well as one in Chicago against the Bulls in 2023.",
+    "The 6-foot-10 German forward scored 21 of his 23 points in the fourth quarter and finished one assist shy of a triple-double with a career-high 13 rebounds and nine assists, as the Magic overcame a 10-point deficit in th…",
+    "Playing in his first game of the year after missing the first two as well as all of the preseason while recovering from an ankle sprain, Anthony Black came off the bench and had 18 points and five assists.",
+    "The 6-foot-7 guard made five of his seven threes.",
+    "Bane, who finished with 22 points, sank four of his nine 3-point attempts and da Silva, who had 19 points, connected on five of his nine tries.",
+    "Although happy to have pulled out this win, thoughts afterwards were with Jalen Suggs, who appeared to injure his right knee without any contact while going up for a layup with just over two minutes left in the fourth."
+   ],
+   "quotes": [
+    "I thought his aggressiveness was great,",
+    "I thought he did a great job of really attacking and then making good decisions. Early it felt like he was trying to probe and find avenues to attack. In the fourth quarter, he saw space, took the spa…",
+    "Solid, (but) definitely got some stuff I need to clean up on the defensive end,",
+    "It’s been a while since I played five on five. Coach is doing a good job telling me when I am messing up and I am going to get that cleaned up for the next game."
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-bucks-261026",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-bucks-261026",
+   "canonical_url": "https://pacers.com/news/preview-pacers-bucks-261026",
+   "title": "Game Preview: Pacers at Bucks",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-26T01:44:00Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Monday, Oct. 26 at 8:00 PM ET at Fiserv Forum",
+   "facts": [
+    "Monday, Oct. 26 at 8:00 PM ET at Fiserv Forum Game Preview After picking up their second straight road win on Sunday night in Brooklyn, the Pacers (2-1) will head to Milwaukee to take on the Bucks (0-3) on the second nig…",
+    "The Blue & Gold bounced back from a 121-105 loss to Dallas in their home opener on Friday with a convincing 136-109 victory over the Nets.",
+    "Tyrese Haliburton recorded his second double-double of the season with a team-high 24 points and 10 assists, while Pascal Siakam added 21 points and five other Pacers reached double figures.",
+    "Starting center Ivica Zubac sprained his left ankle in the first quarter and did not return.",
+    "Jay Huff and Larry Nance Jr. manned the center position in his absence, with Huff tallying 14 points on 5-of-6 shooting (2-of-3 from 3-point range) and three blocks and Nance registering six points and six boards.",
+    "Three players acquired in the trade with the Heat currently lead the Bucks in scoring.",
+    "Tyler Herro is averaging 23.7 points and 5.3 assists, Jaime Jaquez Jr. is averaging 20.7 points and 8.7 rebounds, and backup big man Kel'el Ware is averaging 12.3 points and 6.7 boards.",
+    "Turner has averaged 7.7 points, 4.3 rebounds, and 2.3 blocks over the first three games."
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -31,6 +123,39 @@
     "The Grizzlies coughed it up on 21.1 percent of their possessions through their first two games, the second-highest rate in the league."
    ],
    "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-nets-261025",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-nets-261025",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-nets-261025",
+   "title": "Game Rewind: Pacers 136, Nets 109",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-10-26T01:27:09Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Sunday, Oct. 25 at 6:00 PM ET at Barclays Center",
+   "facts": [
+    "Sunday, Oct. 25 at 6:00 PM ET at Barclays Center Game Recap Indiana’s season continued on Sunday in Brooklyn as the Pacers routed the Nets, 136-109.",
+    "Indiana committed eight turnovers in the first quarter as they settled into the rhythm of the game in Brooklyn, and the Nets led by two points after the first, 26-24.",
+    "The Pacers went on to score 41 points in the second quarter – a season-high for points in a quarter – and took a nine-point advantage into halftime, 65-56.",
+    "Pascal Siakam led the way for the Blue and Gold with 10 points in the frame, and shot a perfect 3-for-3 from the floor.",
+    "His versatility on both ends of the floor was a necessity for Indiana after Ivica Zubac went down with an ankle injury early in the game.",
+    "Zubac sustained a left ankle sprain early in the first quarter after landing awkwardly on Kelly Oubre Jr.’s foot while chasing a rebound.",
+    "He exited to the Pacers’ locker room and did not return.",
+    "Jay Huff slotted into the starting lineup for the second half with Zubac sidelined due to injury."
+   ],
+   "quotes": [
+    "We had some turnovers in the first half that were a bit uncharacteristic,",
+    "So we just got better organized and were able to get some shots down and get some stops, and it gave us some momentum at halftime, which we needed.",
+    "I think there's a statement to be read there,",
+    "And that is that he's back. He's back, and I don't know, that's the first off two feet dunk I think I've seen him have in the NBA, so that's a very strong statement, and it was a momentum play too."
+   ]
   },
   {
    "source": "NYK 公式（nba.com）",
@@ -127,39 +252,6 @@
     "Numerous great learning lessons from that.",
     "It’s a pleasure to play with him,",
     "He gives 100 percent every day and bringing all the energy to the team. I’m very happy to have him."
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/game-rewind-pacers-136-nets-109",
-   "url": "https://www.nba.com/pacers/news/game-rewind-pacers-136-nets-109",
-   "canonical_url": "https://pacers.com/news/game-rewind-pacers-136-nets-109",
-   "title": "Game Rewind: Pacers 136, Nets 109",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-10-25T23:27:09Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Sunday, Oct. 25 at 6:00 PM ET at Barclays Center",
-   "facts": [
-    "Sunday, Oct. 25 at 6:00 PM ET at Barclays Center Game Recap Indiana’s season continued on Sunday in Brooklyn as the Pacers routed the Nets, 136-109.",
-    "Indiana committed eight turnovers in the first quarter as they settled into the rhythm of the game in Brooklyn, and the Nets led by two points after the first, 26-24.",
-    "The Pacers went on to score 41 points in the second quarter – a season-high for points in a quarter – and took a nine-point advantage into halftime, 65-56.",
-    "Pascal Siakam led the way for the Blue and Gold with 10 points in the frame, and shot a perfect 3-for-3 from the floor.",
-    "His versatility on both ends of the floor was a necessity for Indiana after Ivica Zubac went down with an ankle injury early in the game.",
-    "Zubac sustained a left ankle sprain early in the first quarter after landing awkwardly on Kelly Oubre Jr.’s foot while chasing a rebound.",
-    "He exited to the Pacers’ locker room and did not return.",
-    "Jay Huff slotted into the starting lineup for the second half with Zubac sidelined due to injury."
-   ],
-   "quotes": [
-    "We had some turnovers in the first half that were a bit uncharacteristic,",
-    "So we just got better organized and were able to get some shots down and get some stops, and it gave us some momentum at halftime, which we needed.",
-    "I think there's a statement to be read there,",
-    "And that is that he's back. He's back, and I don't know, that's the first off two feet dunk I think I've seen him have in the NBA, so that's a very strong statement, and it was a momentum play too."
    ]
   },
   {
@@ -1693,69 +1785,6 @@
     "It’s about him understanding what he does well,",
     "His length, athleticism and ability to cover ground is a real strength. He’s working every day to be more solid on body position [and] communicating coverages early. It’s amazing how far some of these…"
    ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-pacers-preview-mavs-hoping-to-right-the-ship-in-game-against-indiana",
-   "url": "https://www.nba.com/mavs/news/mavericks-pacers-preview-mavs-hoping-to-right-the-ship-in-game-against-indiana",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-pacers-preview-mavs-hoping-to-right-the-ship-in-game-against-indiana",
-   "title": "Mavericks-Pacers preview: Mavs hoping to right the ship against Indiana",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-23T06:30:37Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "Dusty May",
-    "nba"
-   ],
-   "summary": "INDIANAPOLIS – Although they may have looked the part, the Dallas Mavericks are not exactly shell-shocked after losing Wednesday’s regular season opener to the Houston Rockets, 128-110.",
-   "facts": [
-    "INDIANAPOLIS – Although they may have looked the part, the Dallas Mavericks are not exactly shell-shocked after losing Wednesday’s regular season opener to the Houston Rockets, 128-110.",
-    "In a marathon 82-game season, they know a loss in the season opener doesn’t determine the course of the remaining 81 games.",
-    "After the Mavs opened the season on Wednesday in Houston and obviously had some work to do following that 18-point loss, they had to take Thursday off to recoup because they have games on Friday in Indianapolis and on Sa…",
-    "It was the first game for Haliburton since he tore his right Achilles tendon in the first quarter of Game 7 of the 2025 NBA Finals. *Mavs guard Marcus Sasser already threw his name in the hat as an early candidate to win…",
-    "In Wednesday’s game against Houston, Sasser finished with 17 points in just 24 minutes.",
-    "The Dallas native was 6-of-8 from the field, including 4-of-5 from beyond the three-point arc. *Pascal Siakam led the way for the Pacers against New Orleans with 30 points, including scoring 12 points in a fourth quarter…",
-    "Also for the Pacers, Obi Toppin poured in 20 points, Ivica Zubac finished with 16 points and 14 rebounds, and Andrew Nembhard added 18 points.",
-    "Dallas Mavericks (0-1) at Indiana Pacers (1-0) WHEN: Friday, 6 p.m."
-   ],
-   "quotes": [
-    "I thought we made some strides (against the Rockets) in areas that we struggled in, but just look at the film and figure out what’s the lowest hanging fruit and what can we fix in a 48-hour period,",
-    "These extra possessions, they steamroll on you. If we just clean up a few things I think we’ll make a significant jump.",
-    "One of our priorities in training camp was to fix the transition defense,",
-    "We had three or four guys back and we were just assuming one guy was going to match up with (Rockets forward) Jabari (Smith Jr.) or whoever."
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-lose-to-thunder-in-season-opener",
-   "url": "https://www.nba.com/nuggets/news/nuggets-lose-to-thunder-in-season-opener",
-   "canonical_url": "https://nuggets.com/news/nuggets-lose-to-thunder-in-season-opener",
-   "title": "Nuggets lose to Thunder in season opener",
-   "author": "Matt Brooks",
-   "published_utc": "2026-10-23T04:50:54Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets lost to the Oklahoma City Thunder, 96-84, in their first game of the 2026-27 season.",
-   "facts": [
-    "The Denver Nuggets lost to the Oklahoma City Thunder, 96-84, in their first game of the 2026-27 season.",
-    "Collectively, they shot 38 percent from the field, 27 percent from three-point range, and 64 percent from the free-throw line.",
-    "Aaron Gordon led Denver in the scoring department with 20 points on 6-of-9 shooting and 3-of-4 from distance.",
-    "He added 6 rebounds, 2 steals, and 1 block as well.",
-    "Off the bench, DeMar DeRozan contributed 13 points on 5-of-9 shooting.",
-    "Rookie Trevon Brazile was another standout for the reserves, ripping down a whopping 12 rebounds in his Nuggets debut."
-   ],
-   "quotes": []
   }
  ]
 }
