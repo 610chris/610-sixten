@@ -2,9 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sixten.jp/</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-10-26</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-10-21</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-10-24</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sixten.jp/journal/637-haliburton-24-points-nets.html</loc><lastmod>2026-10-26T10:02:21+09:00</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sixten.jp/journal/636-yokohama-excellence-kagawa-split.html</loc><lastmod>2026-10-26T10:02:21+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/635-doncic-52-points-jazz.html</loc><lastmod>2026-10-26T08:56:30+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/634-leonard-knee-swelling-wolves.html</loc><lastmod>2026-10-26T07:45:00+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/633-embiid-plantar-fasciitis-pistons.html</loc><lastmod>2026-10-26T06:10:00+09:00</lastmod><priority>0.8</priority></url>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:57:51+09:00",
+  "updated": "2026-10-26T10:01:46+09:00",
   "items": [
     {
       "id": "134",
@@ -17338,6 +17338,86 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ドンチッチが52得点、レイカーズがジャズに勝利\n\n・30本中17本・成功率57%の高確率で52得点\n・リバウンド8・アシスト10も記録\n・レイカーズが132-123でジャズに勝利\n\n💬 ドンチッチの52得点、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Jazz vs. Lakers・2026年10月25日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "636",
+      "slug": "636-yokohama-excellence-kagawa-split",
+      "category": "JAPAN",
+      "date": "2026-10-26",
+      "headline": "横浜エクセレンス、香川戦は1勝1敗",
+      "excerpt": "横浜エクセレンスはB.LEAGUE ONE 2026-27シーズン第6節で香川ファイブアローズと対戦し、第1戦は83-86で敗れたが、第2戦は111-92で快勝し1勝1敗で終えた。河合竜児ヘッドコーチは第1戦の敗因を「緩んだ状態で試合に入ってしまったこと」と振り返った。次回ホームは10月31日・11月1日の新潟アルビレックスBB戦。",
+      "points": [
+        "第1戦は83-86で敗戦",
+        "第2戦は111-92で快勝",
+        "次節は10/31・11/1 新潟戦"
+      ],
+      "source": "横浜エクセレンス（PR TIMES）",
+      "photo_credit": "プレスリリースより（横浜エクセレンス／PR TIMES）",
+      "url": "https://sixten.jp/journal/636-yokohama-excellence-kagawa-split.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-636-hero.jpg",
+      "subject": [],
+      "question": "横浜エクセレンス、今季は何勝できる?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/636-1.jpg",
+        "https://sixten.jp/assets/ig/636-2.jpg",
+        "https://sixten.jp/assets/ig/636-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T10:01:13+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "横浜エクセレンス、香川戦は1勝1敗\n\n・第1戦は83-86で敗戦\n・第2戦は111-92で快勝\n・次節は10/31・11/1 新潟戦\n\n💬 横浜エクセレンス、今季は何勝できる?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 横浜エクセレンス（PR TIMES）\n写真: プレスリリースより（横浜エクセレンス／PR TIMES）\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "637",
+      "slug": "637-haliburton-24-points-nets",
+      "category": "NBA",
+      "date": "2026-10-26",
+      "headline": "ハリバートン24得点10アシストでペイサーズ快勝",
+      "excerpt": "インディアナ・ペイサーズのタイリース・ハリバートンは現地時間10月25日、ブルックリン・ネッツ戦に31分出場し、24得点・10アシスト・4リバウンド・2スティールのダブルダブルを記録した。両チーム通じてこの日の試合最多得点者となり、ペイサーズは136-109でネッツに快勝した。",
+      "points": [
+        "24得点・10アシストのダブルダブル",
+        "ペイサーズが136-109で快勝",
+        "シアカムも21得点で援護"
+      ],
+      "source": "ESPN ボックススコア（Pacers vs. Nets）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/637-haliburton-24-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Haliburton"
+      ],
+      "question": "ハリバートンのこの活躍、MVP級だと思う?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYRESE HALIBURTON",
+        "opponent": "vs. NETS",
+        "points": 24,
+        "stats": [
+          "10 AST",
+          "4 REB",
+          "2 STL",
+          "8/13 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/637-1.jpg",
+        "https://sixten.jp/assets/ig/637-2.jpg",
+        "https://sixten.jp/assets/ig/637-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T10:01:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ハリバートン24得点10アシストでペイサーズ快勝\n\n・24得点・10アシストのダブルダブル\n・ペイサーズが136-109で快勝\n・シアカムも21得点で援護\n\n💬 ハリバートンのこの活躍、MVP級だと思う?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pacers vs. Nets）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
