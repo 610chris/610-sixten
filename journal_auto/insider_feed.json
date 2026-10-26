@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-10-26 16:53 UTC",
+ "updated_utc": "2026-10-26 21:15 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xg5byk/charania_orlando_magic_guard_jalen_suggs_has_been/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-26T18:40:42+00:00",
+   "text": "Orlando Magic guard Jalen Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, sources tell ESPN. Suggs avoided any other major structural damage.\n\nhttps://www.espn.com/contributor/shams-charania/e5a8bb1b0e046",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xg5byk/charania_orlando_magic_guard_jalen_suggs_has_been/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/e5a8bb1b0e046"
+   ]
+  },
   {
    "reporter": "Brian Windhorst（ESPN）",
    "handle": "WindhorstESPN",
@@ -14,19 +27,6 @@
    "links": [
     "https://www.espn.com/nba/story/%5C_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals",
     "https://www.espn.com/nba/story/\\_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
-   ]
-  },
-  {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1xfjdgq/scotto_indiana_pacers_center_ivica_zubac_got_an/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-26T01:11:47+00:00",
-   "text": "Scotto articles: https://www.hoopshype.com/staff/84455328007/michael-scotto/\n\nIndiana Pacers center Ivica Zubac got an x-ray on his left ankle, which came back negative, coach Rick Carlisle told me postgame. Carlisle said Zubac’s ankle is swollen and it’s unlikely he’ll play tomorrow night against the Milwaukee Bucks. Zubac left the arena on crutches.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xfjdgq/scotto_indiana_pacers_center_ivica_zubac_got_an/",
-   "links": [
-    "https://www.hoopshype.com/staff/84455328007/michael-scotto/"
    ]
   }
  ]
