@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "656-jalen-williams-cason-wallace-surgery-thunder.html",
+    cat: "NBA",
+    title: "サンダーのジェイレン・ウィリアムズとケイソン・ウォレス、ともに手術へ —— プレスティGM発表、今季復帰は不透明",
+    excerpt: "オクラホマシティ・サンダーは現地時間10月26日、スターターのジェイレン・ウィリアムズとケイソン・ウォレスがともに手術を受け長期離脱すると発表した。サム・プレスティGMによると、ウィリアムズは左足首の脱臼と腓骨骨折、ウォレスは左肩の関節唇断裂。ESPNが報じた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "654-new-balance-kawhi-v-slate-grey.html",
     cat: "KICKS",
     title: "New Balance Kawhi 5「Slate Grey」が11月発売へ —— カワイ・レナードの最新シグネチャーにグレー新色",
