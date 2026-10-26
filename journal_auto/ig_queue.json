@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T11:16:00+09:00",
+  "updated": "2026-10-26T11:21:37+09:00",
   "items": [
     {
       "id": "134",
@@ -17706,6 +17706,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サッグス、ニックス戦で右膝負傷 —— 途中退場\n\n・第4Q終盤、速攻のレイアップ中に右膝を負傷\n・味方の助けを借りてコートを後に、詳細は未発表\n・マジックは111-102で勝利、サッグスはここ2年故障が相次ぐ\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Magic's Jalen Suggs helped off floor with apparent knee injury」\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "645",
+      "slug": "645-maxey-29-points-pistons",
+      "category": "NBA",
+      "date": "2026-10-26",
+      "headline": "マクシー、ピストンズ戦で29得点",
+      "excerpt": "フィラデルフィア・76ersのタイリース・マクシーは現地時間10月25日、本拠地でのデトロイト・ピストンズ戦に34分出場し、フィールドゴール24本中11本を沈めて29得点・5リバウンド・4アシストを記録した。チーム最多得点者となったが、76ersは93-106でピストンズに敗れた。",
+      "points": [
+        "34分出場でFG11/24、3PT1/5、FT6/7",
+        "リバウンド5・アシスト4・スティール3",
+        "76ersはピストンズに93-106で敗戦"
+      ],
+      "source": "ESPN ボックススコア（76ers vs. Pistons）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/645-maxey-29-points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Maxey"
+      ],
+      "question": "マクシーのこの試合、何点なら予想通りだった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYRESE MAXEY",
+        "opponent": "vs. PISTONS",
+        "points": 29,
+        "stats": [
+          "5 REB",
+          "4 AST",
+          "3 STL",
+          "11/24 FG",
+          "6/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/645-1.jpg",
+        "https://sixten.jp/assets/ig/645-2.jpg",
+        "https://sixten.jp/assets/ig/645-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T11:20:55+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マクシー、ピストンズ戦で29得点\n\n・34分出場でFG11/24、3PT1/5、FT6/7\n・リバウンド5・アシスト4・スティール3\n・76ersはピストンズに93-106で敗戦\n\n💬 マクシーのこの試合、何点なら予想通りだった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（76ers vs. Pistons）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
