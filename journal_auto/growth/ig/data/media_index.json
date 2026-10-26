@@ -711,6 +711,33 @@
   "template": "score",
   "timestamp": "2026-10-22T02:11:59+0000"
  },
+ "17912626461552890": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "633",
+  "auto": true,
+  "caption_len": 383,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エンビード、本人の訴え届かずピストンズ戦欠場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De7z6kZAphx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Sixers overrule Embiid, sit center with plantar fasciitis management」",
+  "subject": [
+   "Joel Embiid"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-25T22:45:38+0000"
+ },
  "17913351006499090": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -1025,6 +1052,33 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:34:52+0000"
  },
+ "17922552399442917": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "631",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブッカーが43得点、サンズがウォリアーズに勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De56At6IOUu/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Suns vs. Warriors・2026年10月24日）",
+  "subject": [
+   "Devin Booker"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-25T05:00:40+0000"
+ },
  "17922787979048659": {
   "auto": false,
   "caption_len": 16,
@@ -1162,6 +1216,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-01T20:07:43+0000"
+ },
+ "17927484768428852": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "630",
+  "auto": true,
+  "caption_len": 365,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マレー42得点、ナゲッツがOTで141-135の接戦制す",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De51MB9kxEg/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Nuggets vs. Pelicans）",
+  "subject": [
+   "Jamal Murray"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-25T04:18:25+0000"
  },
  "17928096062546937": {
   "auto": false,
@@ -1831,6 +1912,33 @@
   "template": "score",
   "timestamp": "2026-10-22T05:05:43+0000"
  },
+ "17956230858257471": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "623",
+  "auto": true,
+  "caption_len": 351,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケイレブ・ウィルソン、ウィザーズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5tpplDkNy/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Bulls vs. Wizards）",
+  "subject": [
+   "Caleb Wilson"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-25T03:12:30+0000"
+ },
  "17956811557667461": {
   "auto": false,
   "caption_len": 85,
@@ -2128,6 +2236,33 @@
   "template": "news",
   "timestamp": "2026-09-29T19:54:34+0000"
  },
+ "17982118040912267": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "635",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチが52得点、レイカーズがジャズに勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De78d-SmLz5/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Jazz vs. Lakers・2026年10月25日）",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T00:00:24+0000"
+ },
  "17982491611657371": {
   "auto": false,
   "caption_len": 76,
@@ -2299,6 +2434,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T11:22:59+0000"
+ },
+ "17996056778844131": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "627",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クーパー・フラッグ、左肩「軽度」捻挫でホームオープナー欠場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5uZLqEmf6/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-25T03:19:07+0000"
  },
  "17998860173822976": {
   "arms": {
@@ -2620,6 +2782,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-22T05:07:22+0000"
+ },
+ "18018484133745479": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "637",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハリバートン24得点10アシストでペイサーズ快勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8D_DOgrfI/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Pacers vs. Nets）",
+  "subject": [
+   "Tyrese Haliburton"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T01:06:12+0000"
  },
  "18018508529843446": {
   "arms": {
@@ -3741,6 +3930,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-10T01:04:07+0000"
+ },
+ "18091483556238901": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "629",
+  "auto": true,
+  "caption_len": 389,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ジョンソン、ロケッツ戦で26得点16アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5u7xZEipo/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Hawks vs. Rockets・2026年10月24日）",
+  "subject": [
+   "Jalen Johnson"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-25T03:23:49+0000"
  },
  "18092810045661146": {
   "arms": {
@@ -5121,6 +5337,33 @@
   "template": "news",
   "timestamp": "2026-10-16T22:26:42+0000"
  },
+ "18117822778805330": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "626",
+  "auto": true,
+  "caption_len": 328,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、マーベリックス戦で23得点4ブロック",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5uM2GFQYB/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Spurs vs. Mavericks）",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-25T03:17:26+0000"
+ },
  "18118364101999607": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -6418,6 +6661,33 @@
   ],
   "template": "quote",
   "timestamp": "2026-09-29T11:36:35+0000"
+ },
+ "18143357623525175": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "625",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジョエル・エンビード、バックス戦でトリプルダブル",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5uBo9jHCE/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（76ers vs. Bucks）",
+  "subject": [
+   "Joel Embiid"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-25T03:15:44+0000"
  },
  "18143731342586778": {
   "article": "353",
@@ -7763,6 +8033,33 @@
   "template": "score",
   "timestamp": "2026-10-15T03:09:54+0000"
  },
+ "18390792175227118": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "632",
+  "auto": true,
+  "caption_len": 442,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ピストンズのデューレン、ハムストリング肉離れで2週間以上離脱",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De7Fh1kjzTD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Pistons lose $200M man Duren for at least two weeks with hamstring strain」",
+  "subject": [
+   "Jalen Duren"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-25T16:00:31+0000"
+ },
  "18392580940162734": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -7816,6 +8113,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T13:02:34+0000"
+ },
+ "18411113992089806": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "628",
+  "auto": true,
+  "caption_len": 340,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン、76ersでアシスト役に専念",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5ulqij-Za/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ベン・ゴリバー記者）",
+  "subject": [
+   "LeBron James|Walker Kessler"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-25T03:20:48+0000"
  },
  "18413762383092885": {
   "arms": {
@@ -7974,6 +8298,33 @@
   "template": "news",
   "timestamp": "2026-09-30T15:59:45+0000"
  },
+ "18638282713000145": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "634",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、ウォルブズ戦を欠場 —— 左膝の腫れ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De70FRvEgGd/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-25T22:47:07+0000"
+ },
  "18639136969061556": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -8000,5 +8351,32 @@
   ],
   "template": "news",
   "timestamp": "2026-10-10T13:02:25+0000"
+ },
+ "18649964548047729": {
+  "arms": {
+   "ig-2026-10-follow-cta": "B",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "624",
+  "auto": true,
+  "caption_len": 323,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": true,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マイケル・ポーター・ジュニア、キャバリアーズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De5t1J5jD41/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Nets vs. Cavaliers）",
+  "subject": [
+   "Michael Porter Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-10-25T03:14:12+0000"
  }
 }
