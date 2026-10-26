@@ -72,10 +72,30 @@ KICKS_LIBRARY_TEAMS = {"SKICKS"}  # 靴写真のアカウント（選手記事�
 HEADSHOT = re.compile(r"cdn\.nba\.com/headshots|/headshots/", re.I)
 W, H = 1080, 1920
 # 2026-10-26 クリス指示「怪我のニュースだよ。舐めてんの」「ニュースの内容によって BGM なんて雰囲気変えなきゃいけねえだろ」。
-# 重いニュース（怪我・欠場・訃報・不祥事）は明るいBGMで作らない。静かな曲 audio/bgm_serious.mp3 が置かれるまでは動画を作らない
+# 重いニュース（怪我・欠場・訃報・不祥事）は明るいBGMで作らない。静かな曲 audio/bgm_serious.mp3（Artlist: Musical Mandalas - Ion Fields の冒頭35秒）を使う
 HEAVY = re.compile(r"怪我|ケガ|負傷|故障|欠場|離脱|手術|骨折|捻挫|肉離れ|断裂|靭帯|脳震盪|ストレッチャー|途中退場|全治|"
-                   r"死去|逝去|訃報|亡くな|追悼|逮捕|起訴|処分|出場停止|罰金|暴行|事故|病気|闘病")
+                   r"重傷|脱臼|絶望|退場|"
+                   r"死去|逝去|訃報|亡くな|追悼|逮捕|起訴|捜査|処分|出場停止|罰金|暴行|事故|病気|闘病")
 BGM_SERIOUS = "audio/bgm_serious.mp3"
+# 同日「手術」「欠場」の判定見直し: 本文まで見ると得点・契約記事が本文の1語（「断裂から復帰した〜」）で重い扱いになり、
+# 「手術から完全復帰」のような前向きな見出しも止めていた。判定は見出しだけで行い、
+# 「〜から」（手術から・負傷から）や復帰・出場へ・前進・問題なし があれば前向きとして外す。
+# ただし 絶望・欠場・退場・無期限 などが同じ見出しにあれば重いまま（「無期限離脱も施設には復帰へ」は重い）。
+RECOVER_FROM = re.compile(r"(?:怪我|ケガ|負傷|故障|離脱|手術|骨折|捻挫|肉離れ|断裂|ACL|アキレス腱)から")
+RECOVER = re.compile(r"復帰|出場へ|出場可能|前進|問題なし|完治|回復")
+STILL_HEAVY = re.compile(r"絶望|欠場|退場|無期限|離脱|延期|見送|再発|悪化|再評価|重傷|死去|逝去|訃報|逮捕|起訴|処分")
+
+
+def heavy_news(headline):
+    """重いニュースなら当たった語を返す（前向きな見出し・重い語なしは None）。"""
+    m = HEAVY.search(headline)
+    if not m:
+        return None
+    if RECOVER_FROM.search(headline) or RECOVER.search(headline):
+        rest = RECOVER_FROM.sub("", headline)
+        if not STILL_HEAVY.search(rest):
+            return None
+    return m.group(0)
 # 同日「ルカ・ドンチッチの52点のやつ、なんで文字入ってるや画像使ってんの」。リーグの各国版・メディア系の
 # アカウントは写真に見出し文字を焼き込んだ加工画像が多いので、ライブラリから使わない（Mac 側の OCR で
 # text=false と確かめた写真だけは使う）
@@ -1037,9 +1057,11 @@ def build(aid, used=None):
     # 選手記事は ライブラリ（選手タグ付き）→ ESPN の本人写真 → ネタ元 の順（ネタ元の写真は主役が写っているとは
     # 限らない＝362で八村が写っていない写真になった）。KICKS の靴記事は靴そのものの画像だけ。
     # Commons(CC)・汎用フォールバック・CCのヒーロー/ぼかしは使わない。何も取れなければ動画を作らない（NoPhoto）。
-    heavy = HEAVY.search(" ".join([item.get("headline", ""), item.get("excerpt", "")] + list(item.get("points") or [])))
+    heavy = heavy_news(item.get("headline", ""))
     if heavy and not os.path.exists(os.path.join(VIDEO, "public", BGM_SERIOUS)):
-        raise HeavyNews(f"重いニュース（{heavy.group(0)}）。静かなBGM {BGM_SERIOUS} が無いので作らない")
+        raise HeavyNews(f"重いニュース（{heavy}）。静かなBGM {BGM_SERIOUS} が無いので作らない")
+    if heavy:
+        log(f"  重いニュース（{heavy}）→ 静かなBGM {BGM_SERIOUS}")
     kicks = item.get("category") == "KICKS"
     SUBJECT[:] = [] if kicks else names
     got = route_override(aid)
