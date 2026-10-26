@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "654-new-balance-kawhi-v-slate-grey.html",
+    cat: "KICKS",
+    title: "New Balance Kawhi 5「Slate Grey」が11月発売へ —— カワイ・レナードの最新シグネチャーにグレー新色",
+    excerpt: "ニューバランスは、トロント・ラプターズのカワイ・レナードのシグネチャーシューズ最新作「Kawhi 5」に新色「Slate Grey」を投入する。グレーを基調にホワイトとオフホワイトを差した配色で、2026年11月の発売が見込まれている。Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "653-nike-ja-4-code-red.html",
+    cat: "KICKS",
+    title: "Nike Ja 4「Code Red」が11月発売 —— ジャ・モラント4代目シグネチャー、ロートップにレッド新色",
+    excerpt: "ナイキは、ジャ・モラントの4代目シグネチャーモデル「Nike Ja 4」の新色「Code Red」を発表した。品番IM4135-603で、2026年11月の発売が予定されている。ハイトップ仕様「Ja 4 High」のハロウィン新色「Zombie」に続き、レギュラーのロートップ型にレッドを基調とした配色を投入する。Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "652-new-balance-kawhi-v-oxford-blue.html",
     cat: "KICKS",
     title: "New Balance Kawhi 5「Oxford Blue」が発表 —— ドレスシャツ発想の新色、カワイ・レナードの最新シグネチャーに追加",
