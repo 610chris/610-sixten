@@ -71,6 +71,28 @@ KICKS_LIBRARY_TEAMS = {"SKICKS"}  # 靴写真のアカウント（選手記事�
 # NBA.com の選手顔写真（headshot）は背景に使わない（2026-09-29 クリス「あの種類の画像は2度と使うな」）
 HEADSHOT = re.compile(r"cdn\.nba\.com/headshots|/headshots/", re.I)
 W, H = 1080, 1920
+# 2026-10-26 クリス指示「怪我のニュースだよ。舐めてんの」「ニュースの内容によって BGM なんて雰囲気変えなきゃいけねえだろ」。
+# 重いニュース（怪我・欠場・訃報・不祥事）は明るいBGMで作らない。静かな曲 audio/bgm_serious.mp3 が置かれるまでは動画を作らない
+HEAVY = re.compile(r"怪我|ケガ|負傷|故障|欠場|離脱|手術|骨折|捻挫|肉離れ|断裂|靭帯|脳震盪|ストレッチャー|途中退場|全治|"
+                   r"死去|逝去|訃報|亡くな|追悼|逮捕|起訴|処分|出場停止|罰金|暴行|事故|病気|闘病")
+BGM_SERIOUS = "audio/bgm_serious.mp3"
+# 同日「ルカ・ドンチッチの52点のやつ、なんで文字入ってるや画像使ってんの」。リーグの各国版・メディア系の
+# アカウントは写真に見出し文字を焼き込んだ加工画像が多いので、ライブラリから使わない（Mac 側の OCR で
+# text=false と確かめた写真だけは使う）
+OVERLAY_ACCOUNTS = re.compile(r"^(nba\w*|slam\w*|bleacherreport|houseofhighlights|espn\w*|@)", re.I)
+# 同日「ジェレン・ブラウンソンのやつとか、ミカル・ブリッジズだぞ」。IGのタグは写真の隅の人にも付くので、
+# 背景の中心にする一番大きい顔が記事の主役本人か、ESPN の選手顔写真と照合して確かめる（顔写真は照合に
+# 使うだけで背景には出さない）。本人と確認できない写真は使わない
+SFACE = os.path.join(HERE, "models", "face_recognition_sface_2021dec.onnx")
+SFACE_URL = "https://github.com/opencv/opencv_zoo/raw/main/models/face_recognition_sface/face_recognition_sface_2021dec.onnx"
+FACE_TH = 0.363          # SFace 推奨のコサイン類似度（~/.claude/scripts/nba_photo_library/reclassify.py と同じ）
+SUBJECT = []             # build() が記事の主役の名前を入れる。空なら照合しない（KICKS の靴写真など）
+# チーム公式の写真にも「76 First 1/2 Snaps PRESENTED BY parx」のような焼き込み文字がある（同日 645 マクシー）。
+# Mac 側（publish_photolib.py）が全写真を OCR して索引の "ocr" に [x, y, w, h, 文字]（写真に対する比率）を載せる。
+# 切り抜いた範囲の上下の端にある文字・見出し風のフレーズ（2語以上で大きめ）があれば使わない。
+# ユニフォームの胸の文字・背番号は画面の中ほどにあるので当たらない
+OVERLAY_EDGE = 0.10      # 切り抜き後の上下この割合に文字があれば焼き込みとみなす
+OVERLAY_PHRASE_H = 0.016  # 2語以上のフレーズはこの高さ（写真比）以上なら場所を問わず焼き込みとみなす
 FACE_Y = 0.30            # 顔の中心を仕上がりの上から何割に置くか
 MIN_CROP_H = 1600        # ②④: 縦に切る高さ（元画像px）の下限。これ未満は拡大で眠くなる
 MIN_CROP_H_HERO = 1200   # ①: 記事と同じ写真は多少粗くても優先する
@@ -271,7 +293,93 @@ def find_item(aid):
     raise SystemExit(f"ig_queue.json に {aid} が無い")
 
 
-def portrait_from(data, min_crop_h, focus_x=None, face_y=FACE_Y, face_max=None):
+_FACE = {}
+
+
+def _face_models():
+    if "det" not in _FACE:
+        import cv2
+        from pick_commons_photo import YUNET
+        if not os.path.exists(SFACE):
+            os.makedirs(os.path.dirname(SFACE), exist_ok=True)
+            with open(SFACE, "wb") as f:
+                f.write(http_get(SFACE_URL, 120))
+        _FACE["det"] = cv2.FaceDetectorYN.create(YUNET, "", (320, 320), 0.8, 0.3, 5000)
+        _FACE["rec"] = cv2.FaceRecognizerSF.create(SFACE, "")
+    return _FACE["det"], _FACE["rec"]
+
+
+def _face_feats(im):
+    """PIL → [(顔の幅px, 特徴量)] 大きい順"""
+    import cv2, numpy as np
+    det, rec = _face_models()
+    s = min(1.0, 1600 / max(im.size))
+    if s < 1.0:
+        im = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
+    arr = np.ascontiguousarray(np.asarray(im.convert("RGB"))[:, :, ::-1])
+    det.setInputSize((arr.shape[1], arr.shape[0]))
+    _, rows = det.detect(arr)
+    out = []
+    for r in rows if rows is not None else []:
+        if r[2] < 40:
+            continue
+        f = rec.feature(rec.alignCrop(arr, r)).flatten().astype("float32")
+        out.append((float(r[2]), f / (float(np.linalg.norm(f)) + 1e-9)))
+    return sorted(out, key=lambda t: -t[0])
+
+
+def ref_feat(name):
+    """選手名 → ESPN 選手顔写真の特徴量（照合専用・画像は保存しない）。取れなければ None"""
+    key = "ref:" + norm_name(name)
+    if key not in _FACE:
+        _FACE[key] = None
+        try:
+            pid = espn_athlete_id(name)
+            if pid:
+                data = http_get(f"https://a.espncdn.com/i/headshots/nba/players/full/{pid}.png", 30)
+                im = Image.open(io.BytesIO(data))
+                if im.mode in ("RGBA", "LA", "P"):
+                    im = im.convert("RGBA")
+                    bg = Image.new("RGB", im.size, "white")
+                    bg.paste(im, mask=im.split()[3])
+                    im = bg
+                fs = _face_feats(im)
+                _FACE[key] = fs[0][1] if fs else None
+        except Exception as e:
+            log(f"    照合用の顔写真が取れない {name}: {e}")
+    return _FACE[key]
+
+
+def subject_check(im, names):
+    """写真の一番大きい顔が names の誰かと一致するか → (OK?, 説明)"""
+    try:
+        fs = _face_feats(im)
+        if not fs:
+            return False, "本人確認: 顔なし"
+        refs = [(n, ref_feat(n)) for n in split_names(names)[:3]]
+        refs = [(n, r) for n, r in refs if r is not None]
+        if not refs:
+            return False, "本人確認: 照合用の顔写真なし"
+        n, sim = max(((n, float(fs[0][1] @ r)) for n, r in refs), key=lambda t: t[1])
+        return sim >= FACE_TH, f"本人確認 {n} {sim:.2f}"
+    except Exception as e:
+        return False, f"本人確認できない: {e}"
+
+
+def overlay_text(ocr, box):
+    """ocr: 索引の [[x, y, w, h, 文字], ...]（写真比）・box: 切り抜き範囲（写真比 x0, y0, x1, y1）→ 焼き込み文字 or None"""
+    x0, y0, x1, y1 = box
+    for x, y, w, h, t in ocr:
+        if x + w <= x0 or x >= x1 or y + h <= y0 or y >= y1:
+            continue
+        cy = (y + h / 2 - y0) / (y1 - y0)
+        words = re.findall(r"[A-Za-z]{2,}", t)
+        if cy < OVERLAY_EDGE or cy > 1 - OVERLAY_EDGE or (len(words) >= 2 and h >= OVERLAY_PHRASE_H):
+            return t
+    return None
+
+
+def portrait_from(data, min_crop_h, focus_x=None, face_y=FACE_Y, face_max=None, ocr=None):
     """写真を顔基準で 9:16 に切る。条件を満たさなければ (None, 理由)。
     focus_x を渡すと、横の中心はその位置に固定する（顔検出は縦位置にだけ使う）。
     face_y: 顔の中心を仕上がりの上から何割に置くか。
@@ -304,7 +412,15 @@ def portrait_from(data, min_crop_h, focus_x=None, face_y=FACE_Y, face_max=None):
             return None, "顔の位置が取れない"
         if (fy - y) / ch > face_max:
             return None, f"顔を上に寄せきれない（上から{(fy - y) / ch * 100:.0f}%）"
+    if ocr:
+        t = overlay_text(ocr, (x / sw, y / sh, (x + cw) / sw, (y + ch) / sh))
+        if t:
+            return None, f"文字入り「{t}」"
     out = im.crop((round(x), round(y), round(x + cw), round(y + ch))).resize((W, H), Image.LANCZOS)
+    if SUBJECT:
+        ok, why = subject_check(out, SUBJECT)
+        if not ok:
+            return None, why
     return out, f"元{sw}x{sh}→切り抜き{cw:.0f}x{ch:.0f}（顔 上から{(fy - y) / ch * 100:.0f}%）"
 
 
@@ -526,6 +642,10 @@ def route_library(names, item, used=None, face_y=FACE_Y, face_max=None):
     for e in lib:
         if HEADSHOT.search(e.get("url", "")) or HEADSHOT.search(e.get("source_url", "")):
             continue
+        if e.get("text") or (OVERLAY_ACCOUNTS.search(e.get("credit") or "") and e.get("text") is not False):
+            continue
+        if "ocr" not in e and e.get("team") not in KICKS_LIBRARY_TEAMS:
+            continue  # 文字の有無を確かめていない写真は使わない
         ps = {norm_name(p) for p in e.get("players") or []}
         rank = next((i for i, n in enumerate(want) if n in ps), None)
         if rank is None:
@@ -547,7 +667,7 @@ def route_library(names, item, used=None, face_y=FACE_Y, face_max=None):
             data = http_get(e["url"], 60)
             # 複数人の写真は顔の並びの中央で切る（一番大きい顔＝主役とは限らない）
             fx = group_focus_x(data) if len(e.get("players") or []) > 1 else None
-            img, how = portrait_from(data, MIN_CROP_H_SOURCE, fx, face_y, face_max)
+            img, how = portrait_from(data, MIN_CROP_H_SOURCE, fx, face_y, face_max, e.get("ocr"))
         except Exception as ex:
             log(f"    取得失敗 {e['key']}: {ex}")
             continue
@@ -803,6 +923,10 @@ class NoPhoto(Exception):
     """権利フリー以外で記事に合う写真が見つからない（＝フリー画像で出さず、動画は作らない）"""
 
 
+class HeavyNews(NoPhoto):
+    """重いニュースで静かなBGMが無い。NoPhoto と同じく記録して飛ばす（投稿しない）"""
+
+
 def route_generic_fallback(item):
     """記事が汎用イメージ写真を使っている（＝記事専用のヒーローが無い）場合。
 
@@ -913,7 +1037,11 @@ def build(aid, used=None):
     # 選手記事は ライブラリ（選手タグ付き）→ ESPN の本人写真 → ネタ元 の順（ネタ元の写真は主役が写っているとは
     # 限らない＝362で八村が写っていない写真になった）。KICKS の靴記事は靴そのものの画像だけ。
     # Commons(CC)・汎用フォールバック・CCのヒーロー/ぼかしは使わない。何も取れなければ動画を作らない（NoPhoto）。
+    heavy = HEAVY.search(" ".join([item.get("headline", ""), item.get("excerpt", "")] + list(item.get("points") or [])))
+    if heavy and not os.path.exists(os.path.join(VIDEO, "public", BGM_SERIOUS)):
+        raise HeavyNews(f"重いニュース（{heavy.group(0)}）。静かなBGM {BGM_SERIOUS} が無いので作らない")
     kicks = item.get("category") == "KICKS"
+    SUBJECT[:] = [] if kicks else names
     got = route_override(aid)
     if not got and kicks:
         got = route_kicks(item, used)
@@ -954,7 +1082,7 @@ def build(aid, used=None):
             "credit": credit,
         }
         props.update(TEXT_OVERRIDES.get(aid, {}))
-    bgm =BGM.get(props.get("template", "news"), BGM["news"])
+    bgm = BGM_SERIOUS if heavy else BGM.get(props.get("template", "news"), BGM["news"])
     if not os.path.exists(os.path.join(VIDEO, "public", bgm)):
         raise RuntimeError(f"BGM が無い（BGMなしでは書き出さない）: journal_video/public/{bgm}")
     props.update({"bgm": bgm, "_article": item["url"], "_route": route})
