@@ -1,8 +1,41 @@
 {
- "updated_utc": "2026-10-26 06:55 UTC",
+ "updated_utc": "2026-10-26 14:32 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-knicks-20261025",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-knicks-20261025",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-knicks-20261025",
+   "title": "Magic Four-Point Play: Follow-Up at Knicks",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-26T11:43:38Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Magic Generating Best 3-Point Looks in League?",
+   "facts": [
+    "Magic Generating Best 3-Point Looks in League?",
+    "Last season, 38.7 percent of the Magic’s shots came from 3-point range.",
+    "That ranked 24th in the league.",
+    "So far this season – and yes, it’s only three games – 47.1 percent of their shots have come from beyond the arc, third highest.",
+    "Only the Charlotte Hornets and Portland Trail Blazers have higher 3-point attempt percentages.",
+    "But what’s more important is that the majority of Orlando’s 3-point shots are coming off kickouts, which, based on data, typically results in more efficient long distance shooting percentages.",
+    "On Sunday in a win over the defending-champion New York Knicks, tracking data shows that 22 of the Magic’s 42 3-point attempts came off spray-outs (both from paint and non-paint) and they made 12 of them.",
+    "After the first quarter, they went 9-of-17 from 3-point range off spray-outs."
+   ],
+   "quotes": [
+    "It's big time for us. We had a tough, tough start to the season. Obviously, a lot of new things for our team. Obviously, they are the defending champions. I'm sure the Knicks looked at this game notic…"
+   ]
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -318,6 +351,30 @@
     "The Clippers have made 30 three-pointers through two games this season.",
     "The only season in franchise history where they had more through two games was 2020-21 (33). 4.",
     "Darius Garland has scored at least 25 points and recorded a steal in both games this season."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-mincle-261026",
+   "url": "https://www.nba.com/cavaliers/news/preview-mincle-261026",
+   "canonical_url": "https://cavs.com/news/preview-mincle-261026",
+   "title": "Cavs vs Timberwolves | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-25T19:43:11Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "In the third game of the season, the Cavs play a Western Conference team for the first time this season in the Minnesota Timberwolves. The new-look T-Wolves hosted Toronto on Sunday evening.",
+   "facts": [
+    "GAME INFORMATION LAST TIME OUT The Cavs got a win in the home opener, a 125-121 win over the Brooklyn Nets on Saturday night.",
+    "Three Cavs scored 20-plus points, led by Donovan Mitchell's 22.",
+    "Jarrett Allen scored 21 and Evan Mobley doubled-up with 20 points and 10 rebounds.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - Two-Way - OUT Timberwolves: -TBD - Back-to-Back KEEP UP WITH THE ACTION Follow along…"
    ],
    "quotes": []
   },
@@ -1721,70 +1778,6 @@
     "He and Dejounte Murray will match up against the talented and youthful backcourt of Keyonte George and 2026 No. 2 overall pick Darryn Peterson."
    ],
    "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/sixers-win-home-opener-114-106-stun-cavs-with-historic-29-point-comeback",
-   "url": "https://www.nba.com/sixers/news/sixers-win-home-opener-114-106-stun-cavs-with-historic-29-point-comeback",
-   "canonical_url": "https://sixers.com/news/sixers-win-home-opener-114-106-stun-cavs-with-historic-29-point-comeback",
-   "title": "Sixers win home opener 114-106, stun Cavs with historic 29-point comeback",
-   "author": "Owen Boyle",
-   "published_utc": "2026-10-23T14:29:27Z",
-   "tags": [],
-   "summary": "It was a total team effort as the Philadelphia 76ers rallied from a 24-point halftime deficit to defeat the Cleveland Cavaliers 114-106. After trailing by as many as 29 points in the first half, the Sixers outscored the Cavaliers by 16 points in each of the final two quarters, completing the largest comeback in franchise history during the play-by-play era, which began in 1997-98.",
-   "facts": [
-    "It was a total team effort as the Philadelphia 76ers rallied from a 24-point halftime deficit to defeat the Cleveland Cavaliers 114-106.",
-    "After trailing by as many as 29 points in the first half, the Sixers outscored the Cavaliers by 16 points in each of the final two quarters, completing the largest comeback in franchise history during the play-by-play er…",
-    "Each scored in double figures, with Tyrese Maxey finishing with 32 points, Joel Embiid adding 24 and Jaylen Brown scoring 21.",
-    "LeBron James and VJ Edgecombe finished with 17 and 11 points, respectively.",
-    "They’re 48-minute games.",
-    "A 12-0 run in the first quarter turned an 11-11 tie into a 23-11 lead for the visitors.",
-    "The Cavaliers continued to pull away, outscoring the Sixers 69-45 in the first 24 minutes.",
-    "Donovan Mitchell scored 22 points in the first half, including 12 in the opening quarter, which ended with a buzzer-beater from the 30-year-old guard."
-   ],
-   "quotes": [
-    "That’s a wild way to win a game,",
-    "It was absolutely two halves that don’t resemble each other at all. They’re 48-minute games. We just talked about how we have to come out and make a physical improvement and an effort improvement and …",
-    "We all played basketball,",
-    "We play at a high level. Everybody had their moment. Rese had his moments, JB had his moments, Bron had his moments and I had my moments."
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/ace-baileys-growth-on-defense-continues-to-stand-out-for-the-utah-jazz",
-   "url": "https://www.nba.com/jazz/news/ace-baileys-growth-on-defense-continues-to-stand-out-for-the-utah-jazz",
-   "canonical_url": "https://utahjazz.com/news/ace-baileys-growth-on-defense-continues-to-stand-out-for-the-utah-jazz",
-   "title": "Ace Bailey’s Growth on Defense Continues to Stand Out for the Utah Jazz",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-23T14:00:00Z",
-   "tags": [
-    "Ace Bailey",
-    "Jaren Jackson Jr.",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "That’s the phrase most often used when discussing Bailey’s start to the 2026-27 season—by Bailey himself and by those within the Utah Jazz organization.",
-   "facts": [
-    "That’s the phrase most often used when discussing Bailey’s start to the 2026-27 season—by Bailey himself and by those within the Utah Jazz organization.",
-    "In his 24 minutes on the floor, Utah's defensive rating was 108.8, an improvement of 15.7 points per 100 possessions over the team's defensive rating when Bailey was on the bench.",
-    "Bailey spent time running on the track and using stationary bikes to improve his conditioning, while adding 10 to 12 pounds of muscle to better handle more physical matchups.",
-    "Even if he comes off the bench, Bailey’s two-way impact can earn him significant minutes.",
-    "During his lone season at Rutgers, Bailey flashed impressive shot-blocking ability, and that has carried into the early stages of the 2026-27 season."
-   ],
-   "quotes": [
-    "Offense is going to come,",
-    "I’m not worried about the offensive end. … It’s just mainly focused on the defensive end, just being the two-way player we need.",
-    "It’s about him understanding what he does well,",
-    "His length, athleticism and ability to cover ground is a real strength. He’s working every day to be more solid on body position [and] communicating coverages early. It’s amazing how far some of these…"
-   ]
   }
  ]
 }
