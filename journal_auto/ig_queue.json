@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T10:01:46+09:00",
+  "updated": "2026-10-26T10:43:40+09:00",
   "items": [
     {
       "id": "134",
@@ -17418,6 +17418,97 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ハリバートン24得点10アシストでペイサーズ快勝\n\n・24得点・10アシストのダブルダブル\n・ペイサーズが136-109で快勝\n・シアカムも21得点で援護\n\n💬 ハリバートンのこの活躍、MVP級だと思う?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pacers vs. Nets）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "638",
+      "slug": "638-hachimura-5-points-thunder",
+      "category": "NBA",
+      "date": "2026-10-26",
+      "headline": "八村塁、サンダー戦で5得点 —— クリッパーズ敗戦",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁は現地時間10月25日、敵地でのオクラホマシティ・サンダー戦に29分出場し、5得点・4リバウンドを記録した。クリッパーズは101-108でサンダーに敗れ、今季1勝2敗(敵地0-2)となった。",
+      "points": [
+        "八村は29分出場、FG11本中2本の5得点",
+        "クリッパーズは101-108で敗れ1勝2敗",
+        "ギルジャス＝アレクサンダーが34得点でサンダーをけん引"
+      ],
+      "source": "ESPN ボックススコア（Clippers vs. Thunder・2026年10月25日）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/638-hachimura-5-points-thunder.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "八村、次戦でシュート確率は戻る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. THUNDER",
+        "points": 5,
+        "stats": [
+          "4 REB",
+          "2/11 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/638-1.jpg",
+        "https://sixten.jp/assets/ig/638-2.jpg",
+        "https://sixten.jp/assets/ig/638-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T10:42:51+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、サンダー戦で5得点 —— クリッパーズ敗戦\n\n・八村は29分出場、FG11本中2本の5得点\n・クリッパーズは101-108で敗れ1勝2敗\n・ギルジャス＝アレクサンダーが34得点でサンダーをけん引\n\n💬 八村、次戦でシュート確率は戻る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Clippers vs. Thunder・2026年10月25日）\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "639",
+      "slug": "639-gilgeous-alexander-34-points-clippers",
+      "category": "NBA",
+      "date": "2026-10-26",
+      "headline": "SGA、クリッパーズ戦で34得点 —— サンダー開幕3連勝",
+      "excerpt": "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダーは現地時間10月25日、本拠地でのロサンゼルス・クリッパーズ戦に36分出場し、34得点・6リバウンド・5アシスト・2スティールを記録した。両チーム通じてこの日の試合最多得点者となり、サンダーは108-101でクリッパーズに勝利し開幕3連勝とした。",
+      "points": [
+        "SGAはFG26本中13本で34得点6リバウンド5アシスト",
+        "サンダーが108-101で勝利し開幕3連勝",
+        "八村塁は5得点、クリッパーズは1勝2敗"
+      ],
+      "source": "ESPN ボックススコア（Clippers vs. Thunder・2026年10月25日）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/639-gilgeous-alexander-34-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "サンダーの開幕ダッシュ、どこまで続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. CLIPPERS",
+        "points": 34,
+        "stats": [
+          "6 REB",
+          "5 AST",
+          "2 STL",
+          "13/26 FG",
+          "7/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/639-1.jpg",
+        "https://sixten.jp/assets/ig/639-2.jpg",
+        "https://sixten.jp/assets/ig/639-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T10:43:40+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "SGA、クリッパーズ戦で34得点 —— サンダー開幕3連勝\n\n・SGAはFG26本中13本で34得点6リバウンド5アシスト\n・サンダーが108-101で勝利し開幕3連勝\n・八村塁は5得点、クリッパーズは1勝2敗\n\n💬 サンダーの開幕ダッシュ、どこまで続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Clippers vs. Thunder・2026年10月25日）\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
