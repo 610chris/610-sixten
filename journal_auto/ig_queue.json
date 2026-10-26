@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T10:43:40+09:00",
+  "updated": "2026-10-26T10:52:39+09:00",
   "items": [
     {
       "id": "134",
@@ -17509,6 +17509,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "SGA、クリッパーズ戦で34得点 —— サンダー開幕3連勝\n\n・SGAはFG26本中13本で34得点6リバウンド5アシスト\n・サンダーが108-101で勝利し開幕3連勝\n・八村塁は5得点、クリッパーズは1勝2敗\n\n💬 サンダーの開幕ダッシュ、どこまで続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Clippers vs. Thunder・2026年10月25日）\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "640",
+      "slug": "640-brunson-28-points-magic",
+      "category": "NBA",
+      "date": "2026-10-26",
+      "headline": "ブランソン、マジック戦で28得点",
+      "excerpt": "ニューヨーク・ニックスのジェイレン・ブランソンは現地時間10月25日、オーランド・マジック戦に32分出場し、フィールドゴール28本中12本を沈めて28得点・4アシスト・2スティールを記録した。両チーム通じてこの日の試合最多得点者となったが、ニックスは第4Qに27-40と失速し102-111でマジックに敗れた。",
+      "points": [
+        "FG28本中12本で28得点・4アシスト",
+        "ニックスは第4Qに27-40で失速",
+        "最終102-111でマジックに敗戦"
+      ],
+      "source": "ESPN ボックススコア（Knicks vs. Magic・2026年10月25日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/640-brunson-28-points-magic.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Brunson"
+      ],
+      "question": "この敗戦、ニックスの守備が課題？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN BRUNSON",
+        "opponent": "vs. MAGIC",
+        "points": 28,
+        "stats": [
+          "4 AST",
+          "3 REB",
+          "2 STL",
+          "12/28 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/640-1.jpg",
+        "https://sixten.jp/assets/ig/640-2.jpg",
+        "https://sixten.jp/assets/ig/640-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T10:52:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブランソン、マジック戦で28得点\n\n・FG28本中12本で28得点・4アシスト\n・ニックスは第4Qに27-40で失速\n・最終102-111でマジックに敗戦\n\n💬 この敗戦、ニックスの守備が課題？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Knicks vs. Magic・2026年10月25日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "641",
+      "slug": "641-edwards-26-points-raptors",
+      "category": "NBA",
+      "date": "2026-10-26",
+      "headline": "エドワーズ、ラプターズ戦で26得点",
+      "excerpt": "ミネソタ・ティンバーウルブズのアンソニー・エドワーズは現地時間10月25日、トロント・ラプターズ戦に28分出場し、フィールドゴール18本中10本を沈めて26得点・3アシストを記録した。両チーム通じてこの日の試合最多得点者となり、ティンバーウルブズは117-94でラプターズに快勝した。",
+      "points": [
+        "FG18本中10本で26得点",
+        "第3Qの35-15で突き放す",
+        "ティンバーウルブズが117-94で快勝"
+      ],
+      "source": "ESPN ボックススコア（Timberwolves vs. Raptors・2026年10月25日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/641-edwards-26-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Edwards"
+      ],
+      "question": "エドワーズ、今季のMVP争いに入る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY EDWARDS",
+        "opponent": "vs. RAPTORS",
+        "points": 26,
+        "stats": [
+          "3 AST",
+          "1 REB",
+          "10/18 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/641-1.jpg",
+        "https://sixten.jp/assets/ig/641-2.jpg",
+        "https://sixten.jp/assets/ig/641-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-26T10:52:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "エドワーズ、ラプターズ戦で26得点\n\n・FG18本中10本で26得点\n・第3Qの35-15で突き放す\n・ティンバーウルブズが117-94で快勝\n\n💬 エドワーズ、今季のMVP争いに入る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Timberwolves vs. Raptors・2026年10月25日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
