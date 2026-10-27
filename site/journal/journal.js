@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "680-hornets-muggsy-bogues-retire-jersey.html",
+    cat: "NBA",
+    title: "ホーネッツ、マグジー・ボーグスの背番号1を永久欠番へ —— NBA史上最も小さい男、2月11日に栄誉",
+    excerpt: "シャーロット・ホーネッツは、身長160cmでNBA史上最も小さい選手として知られるマグジー・ボーグスの背番号1を2026年2月11日に永久欠番にすると発表した。ボーグスは球団のアシスト・スティール・出場時間の歴代最多記録保持者。ホーネッツ史上3人目の永久欠番となる。ESPNが伝えた。",
+    date: "2026.10.28",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "679-converse-shai-001-flare.html",
     cat: "KICKS",
     title: "Converse SHAI 001「Flare」が10月29日発売 —— シャイ・ギルジャス＝アレクサンダー、コンバース在籍時モデルに新色",
