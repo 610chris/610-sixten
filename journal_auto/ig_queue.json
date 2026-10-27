@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T12:56:04+09:00",
+  "updated": "2026-10-27T13:55:25+09:00",
   "items": [
     {
       "id": "134",
@@ -18606,6 +18606,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジョージ、グリズリーズ戦で26得点\n\n・26得点・6アシスト\n・FT 8/9の高確率\n・ジャズは105-110で敗戦\n\n💬 ジョージの26得点、チームの援護は足りてた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Jazz vs. Grizzlies・2026年10月26日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "668",
+      "slug": "668-lendeborg-31-points-nuggets",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "レンデボーグ、ナゲッツ戦で31得点12リバウンド",
+      "excerpt": "ゴールデンステート・ウォリアーズのヤクセル・レンデボーグは現地時間10月26日、敵地でのデンバー・ナゲッツ戦に31分出場し、31得点・12リバウンド・6アシストを記録した。両チーム通じて最多得点者となり、ウォリアーズは134-114でナゲッツに快勝した。",
+      "points": [
+        "FG9/19・FT12/13で31得点を記録",
+        "リバウンド12・アシスト6のオールラウンドな活躍",
+        "ウォリアーズは134-114でナゲッツに快勝"
+      ],
+      "source": "ESPN ボックススコア(Warriors vs. Nuggets・2026年10月26日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/668-lendeborg-31-points-nuggets.html",
+      "hero_path": "",
+      "subject": [
+        "Yaxel Lendeborg"
+      ],
+      "question": "レンデボーグ、このままウォリアーズの主力に定着する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "YAXEL LENDEBORG",
+        "opponent": "vs. NUGGETS",
+        "points": 31,
+        "stats": [
+          "12 REB",
+          "6 AST",
+          "9/19 FG",
+          "12/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/668-1.jpg",
+        "https://sixten.jp/assets/ig/668-2.jpg",
+        "https://sixten.jp/assets/ig/668-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T13:55:09+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "レンデボーグ、ナゲッツ戦で31得点12リバウンド\n\n・FG9/19・FT12/13で31得点を記録\n・リバウンド12・アシスト6のオールラウンドな活躍\n・ウォリアーズは134-114でナゲッツに快勝\n\n💬 レンデボーグ、このままウォリアーズの主力に定着する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Warriors vs. Nuggets・2026年10月26日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
