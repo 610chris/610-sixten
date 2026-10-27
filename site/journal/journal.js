@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "674-seahorses-mikawa-booster-book.html",
+    cat: "JAPAN",
+    title: "シーホース三河公認ブック「BOOSTER'S 2026-27」11月4日発売 —— 西田優大の覚悟、安齋竜三HC×須田侑太郎の師弟対談も",
+    excerpt: "株式会社東京ニュース通信社は、B.LEAGUEプレミア・シーホース三河の公認ブック「BOOSTER'S 2026-27」を11月4日に発売する。2026-27シーズンのロスター12選手の名鑑に加え、キャプテン西田優大の特集や安齋竜三HCと須田侑太郎の師弟対談などを収録する。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "673-meleek-thomas-nba-debut-cavaliers.html",
     cat: "NBA",
     title: "ミーリック・トーマス、NBAデビューで16得点 —— キャバリアーズが127-125のOTでウルブズに勝利",
