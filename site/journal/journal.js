@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "662-antetokounmpo-29-points-mavericks.html",
+    cat: "NBA",
+    title: "ヤニス・アデトクンボ、マブス戦で29得点15リバウンド11アシスト —— ヒートは109-113で敗戦",
+    excerpt: "マイアミ・ヒートのヤニス・アデトクンボは現地時間10月26日、敵地でのダラス・マブス戦に39分出場し、29得点・リバウンド15・アシスト11を記録した。ヒートは109-113の4点差でマブスに敗れた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "661-flagg-29-points-heat.html",
     cat: "NBA",
     title: "クーパー・フラッグ、ヒート戦で29得点11アシスト5スティール —— マブスが113-109で勝利",

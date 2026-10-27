@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:20:18+09:00",
+  "updated": "2026-10-27T11:21:35+09:00",
   "items": [
     {
       "id": "134",
@@ -18328,6 +18328,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "クーパー・フラッグ、ヒート戦で29得点11アシスト\n\n・29得点・11アシスト・リバウンド6\n・スティール5・ブロック2\n・マブスが113-109で勝利\n\n💬 フラッグのオールラウンドぶり、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "662",
+      "slug": "662-antetokounmpo-29-points-mavericks",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "ヤニス・アデトクンボ、マブス戦で29得点15リバウンド11アシスト",
+      "excerpt": "マイアミ・ヒートのヤニス・アデトクンボは現地時間10月26日、敵地でのダラス・マブス戦に39分出場し、29得点・リバウンド15・アシスト11を記録した。ヒートは109-113の4点差でマブスに敗れた。",
+      "points": [
+        "29得点・リバウンド15",
+        "アシスト11・あと4つでトリプルダブル",
+        "ヒートは109-113で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/662-antetokounmpo-29-points-mavericks.html",
+      "hero_path": "",
+      "subject": [
+        "Giannis Antetokounmpo"
+      ],
+      "question": "ヤニスのオールラウンドな29得点、評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "GIANNIS ANTETOKOUNMPO",
+        "opponent": "vs. MAVERICKS",
+        "points": 29,
+        "stats": [
+          "15 REB",
+          "11 AST",
+          "12/23 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/662-1.jpg",
+        "https://sixten.jp/assets/ig/662-2.jpg",
+        "https://sixten.jp/assets/ig/662-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T11:21:34+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤニス・アデトクンボ、マブス戦で29得点15リバウンド11アシスト\n\n・29得点・リバウンド15\n・アシスト11・あと4つでトリプルダブル\n・ヒートは109-113で敗戦\n\n💬 ヤニスのオールラウンドな29得点、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
