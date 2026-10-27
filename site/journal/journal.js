@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "683-new-balance-maxey-v1-red-rock.html",
+    cat: "KICKS",
+    title: "New Balance Maxey v1「Red Rock」が登場 —— タイリース・マクシーの76ersカラー、品番UMAX59K",
+    excerpt: "New Balance Basketballは、タイリース・マクシー（フィラデルフィア・76ers）のシグネチャーモデル「New Balance Maxey v1」に、チームカラーのレッドを基調にした新色「Red Rock」（品番UMAX59K）を投入する。Sneaker Newsが伝えた。",
+    date: "2026.10.28",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "682-air-jordan-10-red-steel-retro.html",
+    cat: "KICKS",
+    title: "Air Jordan 10「Red Steel」が2027年3月20日に復刻 —— 2005年以来の再登場、品番HJ6779-100",
+    excerpt: "ジョーダン ブランドは、2005年の発売以来市場から姿を消していた「Air Jordan 10」の人気カラー「Red Steel」を2027年3月20日に復刻発売する。品番はHJ6779-100で、当時の配色をほぼそのまま再現しているという。Sneaker NewsとSneaker Bar Detroitが伝えた。",
+    date: "2026.10.28",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "681-jazz-jackson-torn-mcl-markkanen-wrist.html",
     cat: "NBA",
     title: "ジャズのジャクソンJr.、右膝MCL断裂で6〜8週間離脱 —— マルカネンは手首の捻挫と判明",
