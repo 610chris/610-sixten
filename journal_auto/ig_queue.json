@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:17:47+09:00",
+  "updated": "2026-10-27T11:20:18+09:00",
   "items": [
     {
       "id": "134",
@@ -18281,6 +18281,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "アンソニー・エドワーズ、キャバリアーズ戦で47得点\n\n・47得点・FG19/33（57.6%）\n・リバウンド4・アシスト4・ブロック2\n・ティンバーウルブズは125-127で惜敗\n\n💬 エドワーズの47得点、今季ベストゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "661",
+      "slug": "661-flagg-29-points-heat",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "クーパー・フラッグ、ヒート戦で29得点11アシスト",
+      "excerpt": "ダラス・マブスのクーパー・フラッグは現地時間10月26日、本拠地でのマイアミ・ヒート戦に40分出場し、29得点・11アシスト・リバウンド6・スティール5・ブロック2を記録した。マブスは113-109でヒートに勝利した。",
+      "points": [
+        "29得点・11アシスト・リバウンド6",
+        "スティール5・ブロック2",
+        "マブスが113-109で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/661-flagg-29-points-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Cooper Flagg"
+      ],
+      "question": "フラッグのオールラウンドぶり、どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "COOPER FLAGG",
+        "opponent": "vs. HEAT",
+        "points": 29,
+        "stats": [
+          "11 AST",
+          "6 REB",
+          "5 STL",
+          "2 BLK",
+          "12/23 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/661-1.jpg",
+        "https://sixten.jp/assets/ig/661-2.jpg",
+        "https://sixten.jp/assets/ig/661-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T11:20:18+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "クーパー・フラッグ、ヒート戦で29得点11アシスト\n\n・29得点・11アシスト・リバウンド6\n・スティール5・ブロック2\n・マブスが113-109で勝利\n\n💬 フラッグのオールラウンドぶり、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
