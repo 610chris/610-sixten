@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:32:56+09:00",
+  "updated": "2026-10-27T11:34:42+09:00",
   "items": [
     {
       "id": "134",
@@ -18467,6 +18467,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "エイジェイ・ミッチェル、サンズ戦で30得点 —— 主力4人欠くサンダーが勝利\n\n・25分の出場で30得点\n・フリースローは10本中9本(90.0%)\n・主力4人欠くサンダーが125-114で勝利\n\n💬 主力4人抜きでも勝利、サンダーのベンチ層をどう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Thunder vs. Suns・2026年10月26日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "665",
+      "slug": "665-herro-23-points-pacers",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "タイラー・ヒーロー、ペイサーズ戦で23得点10リバウンド7アシスト",
+      "excerpt": "ミルウォーキー・バックスのタイラー・ヒーローは現地時間10月26日、本拠地でのインディアナ・ペイサーズ戦に32分出場し、23得点・10リバウンド・7アシストを記録した。両チーム通じて最多得点者となり、バックスは110-102でペイサーズに勝利した。",
+      "points": [
+        "32分出場で23得点10リバウンド7アシスト",
+        "フィールドゴールは14本中7本(50.0%)",
+        "バックスが110-102でペイサーズに勝利"
+      ],
+      "source": "ESPN ボックススコア（Bucks vs. Pacers・2026年10月26日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/665-herro-23-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Tyler Herro"
+      ],
+      "question": "23得点10リバウンド7アシスト、トリプルダブルに近いこの活躍どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYLER HERRO",
+        "opponent": "vs. PACERS",
+        "points": 23,
+        "stats": [
+          "10 REB",
+          "7 AST",
+          "7/14 FG",
+          "3/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/665-1.jpg",
+        "https://sixten.jp/assets/ig/665-2.jpg",
+        "https://sixten.jp/assets/ig/665-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T11:34:41+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タイラー・ヒーロー、ペイサーズ戦で23得点10リバウンド7アシスト\n\n・32分出場で23得点10リバウンド7アシスト\n・フィールドゴールは14本中7本(50.0%)\n・バックスが110-102でペイサーズに勝利\n\n💬 23得点10リバウンド7アシスト、トリプルダブルに近いこの活躍どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Bucks vs. Pacers・2026年10月26日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
