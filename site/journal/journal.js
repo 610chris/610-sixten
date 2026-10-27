@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "684-edwards-knee-procedure-two-months.html",
+    cat: "NBA",
+    title: "ティンバーウルブズのアンソニー・エドワーズ、右膝の関節鏡手術で最大2カ月離脱へ —— キャバリアーズ戦で47得点を記録した直後",
+    excerpt: "ミネソタ・ティンバーウルブズのアンソニー・エドワーズは、右膝の関節鏡による外科的処置を受けることになり、最大2カ月の離脱が見込まれる。26日のキャバリアーズ戦で47得点を記録した直後の発表で、ESPNのシャムズ・チャラニア記者が関係者の話として伝えた。",
+    date: "2026.10.28",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "683-new-balance-maxey-v1-red-rock.html",
     cat: "KICKS",
     title: "New Balance Maxey v1「Red Rock」が登場 —— タイリース・マクシーの76ersカラー、品番UMAX59K",
