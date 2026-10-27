@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "679-converse-shai-001-flare.html",
+    cat: "KICKS",
+    title: "Converse SHAI 001「Flare」が10月29日発売 —— シャイ・ギルジャス＝アレクサンダー、コンバース在籍時モデルに新色",
+    excerpt: "コンバースは、シャイ・ギルジャス＝アレクサンダーの初代シグネチャーモデル「Converse SHAI 001」の新色「Flare」（品番A23933C）を10月29日に発売する。ギルジャス＝アレクサンダーはすでにナイキ・バスケットボールへシグネチャー契約を移しているが、コンバース在籍時のモデルも新色展開が続いている。Sneaker Newsが伝えた。",
+    date: "2026.10.28",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "678-leonard-knee-weeks-out.html",
     cat: "NBA",
     title: "カワイ・レナード、左膝の腫れで数週間離脱の見通し —— MRIに構造的損傷なし、1週間後に再評価",
