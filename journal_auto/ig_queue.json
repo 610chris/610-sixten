@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:21:35+09:00",
+  "updated": "2026-10-27T11:22:48+09:00",
   "items": [
     {
       "id": "134",
@@ -18374,6 +18374,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ヤニス・アデトクンボ、マブス戦で29得点15リバウンド11アシスト\n\n・29得点・リバウンド15\n・アシスト11・あと4つでトリプルダブル\n・ヒートは109-113で敗戦\n\n💬 ヤニスのオールラウンドな29得点、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "663",
+      "slug": "663-pritchard-28-points-bulls",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "ペイトン・プリチャード、ブルズ戦で28得点",
+      "excerpt": "ボストン・セルティックスのペイトン・プリチャードは現地時間10月26日、本拠地でのシカゴ・ブルズ戦に22分出場し、フィールドゴール16本中10本(3ポイント10本中7本)を沈めて28得点を記録した。セルティックスは134-99の35点差でブルズに快勝した。",
+      "points": [
+        "28得点・FG10/16（62.5%）",
+        "3PT7/10（70%）",
+        "セルティックスが134-99で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/663-pritchard-28-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Payton Pritchard"
+      ],
+      "question": "プリチャードの3P成功率70%、来季も続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PAYTON PRITCHARD",
+        "opponent": "vs. BULLS",
+        "points": 28,
+        "stats": [
+          "4 AST",
+          "2 STL",
+          "1 REB",
+          "10/16 FG",
+          "7/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/663-1.jpg",
+        "https://sixten.jp/assets/ig/663-2.jpg",
+        "https://sixten.jp/assets/ig/663-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T11:22:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ペイトン・プリチャード、ブルズ戦で28得点\n\n・28得点・FG10/16（62.5%）\n・3PT7/10（70%）\n・セルティックスが134-99で快勝\n\n💬 プリチャードの3P成功率70%、来季も続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
