@@ -1,8 +1,183 @@
 {
- "updated_utc": "2026-10-27 16:50 UTC",
+ "updated_utc": "2026-10-27 21:27 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261029",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261029",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261029",
+   "title": "Game Preview: Warriors at Timberwolves - 10/28/26",
+   "author": "gswgrizzo",
+   "published_utc": "2026-10-27T21:15:58Z",
+   "tags": [
+    "Game Preview"
+   ],
+   "summary": "WARRIORS FACE TIMBERWOLVES ON WEDNESDAY The Warriors wrap up their three-game road trip when they play the Minnesota Timberwolves on Wednesday night. Golden State is 1-3 taking on a 3-1 Minnesota team after their first loss of the regular season against the Cleveland Cavaliers in overtime.",
+   "facts": [
+    "Golden State is 1-3 taking on a 3-1 Minnesota team after their first loss of the regular season against the Cleveland Cavaliers in overtime.",
+    "LAST TIME OUT The Golden State Warriors defeated the Denver Nuggets 134-114 on Monday night at Ball Arena, earning their first win of the regular season.",
+    "Stephen Curry led a momentum shifting third quarter, scoring a perfect 6-for-6 from the field and tallying 17 points in the frame to carry the Warriors to a double-digit advantage over the Nuggets.",
+    "Yaxel Lendeborg had 31 points, marking the second-most points through a player's first four career games in franchise history, trailing only Wilt Chamberlain (150 points). >>Full Story INJURY & ROSTER NOTES GSW: TBD.",
+    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season.",
+    "COMPELLING NOTE Warriors: Yaxel Lendeborg continues to make history as he had his second consecutive game scoring over 25 points and marking his second career double-double.",
+    "His performance marks the first Warriors rookie since Chris Webber in 1993 to score in double figures in each of his first four NBA games.",
+    "Timberwolves: Anthony Edwards' recorded 47 points in a game for the seventh time five-year career in the Timberwolves 127-125 overtime loss against the Cavaliers on Monday, Oct. 26."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "injury",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-injury-updates",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-injury-updates",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-injury-updates",
+   "title": "Utah Jazz Injury Updates",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-27T20:00:54Z",
+   "tags": [
+    "Jaren Jackson Jr.",
+    "Lauri Markkanen",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (October 27, 2026) – The following is a medical update on Utah Jazz forward/center Jaren Jackson Jr. and forward Lauri Markkanen.",
+   "facts": [
+    "SALT LAKE CITY (October 27, 2026) – The following is a medical update on Utah Jazz forward/center Jaren Jackson Jr. and forward Lauri Markkanen.",
+    "Jackson Jr. sustained a torn MCL in his right knee during Utah’s game against Memphis on Oct. 26.",
+    "He will be re-evaluated in six weeks.",
+    "Markkanen sustained a right wrist sprain in the game against the Grizzlies."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-nuggets-injury-report-game-preview-10-28-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-nuggets-injury-report-game-preview-10-28-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-nuggets-injury-report-game-preview-10-28-2026",
+   "title": "Pelicans vs. Nuggets: Injury Report, Game Preview 10/28/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-27T19:25:29Z",
+   "tags": [],
+   "summary": "The Pelicans return home to host the Denver Nuggets on Wednesday at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans return home to host the Denver Nuggets on Wednesday at the Smoothie King Center at 7:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Nuggets injury report, team news, tune in details, and gameday information: PELICANS VS NUGGETS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole P…",
+    "DOUBTFUL (G League two-way) Julian Reese PROBABLE (G League two-way) NUGGETS INJURY REPORT TBD PELICANS VS NUGGETS: HEAD-TO-HEAD STATS 2026-2027 NBA Season Opponent Matchup Stats PELICANS VS NUGGETS STARTING LINEUPS DENV…",
+    "Golden State Warriors Bryce Hopkins, Aaron Gordon, Nikola Jokić, Christian Braun, Jamal Murray NEW ORLEANS PELICANS (0-3) Previous Game Lineup: October 24 loss at Denver Nuggets Trey Murphy III, Zion Williamson, DeAndre …",
+    "Nuggets Game Time, TV Channel, Radio & Location 📅 Game Time: Wednesday, Oct. 28 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Nuggets TV: ALT/KTVD/…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/charlotte-hornets-to-retire-jersey-of-franchise-legend-muggsy-bogues",
+   "url": "https://www.nba.com/hornets/news/charlotte-hornets-to-retire-jersey-of-franchise-legend-muggsy-bogues",
+   "canonical_url": "https://hornets.com/news/charlotte-hornets-to-retire-jersey-of-franchise-legend-muggsy-bogues",
+   "title": "Charlotte Hornets To Retire Jersey Of Franchise Legend Muggsy Bogues",
+   "author": "Hornets PR",
+   "published_utc": "2026-10-27T18:49:05Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "October 27, 2026 — The Charlotte Hornets announced today that the organization will retire Muggsy Bogues’ No. 1 jersey during a halftime ceremony at the team’s game against the Milwaukee Bucks on Thursday, February 11, 2027 at Spectrum Center. Bogues will become the third player in franchise history to have his jersey retired, joining Bobby Phills (No. 13) and Dell Curry (No. 30).",
+   "facts": [
+    "October 27, 2026 — The Charlotte Hornets announced today that the organization will retire Muggsy Bogues’ No. 1 jersey during a halftime ceremony at the team’s game against the Milwaukee Bucks on Thursday, February 11, 2…",
+    "Bogues will become the third player in franchise history to have his jersey retired, joining Bobby Phills (No. 13) and Dell Curry (No. 30).",
+    "An original member of the Hornets, Bogues has spent more than 20 years with the organization as a player and ambassador.",
+    "The honor recognizes his accomplishments during 10 seasons with the team and his enduring impact on the organization, his steadfast commitment and continued service to the Charlotte community and his contributions to the…",
+    "Selected by Charlotte in the 1988 NBA Expansion Draft, Bogues established himself as one of the most accomplished and respected players in franchise history, playing in 632 games in 10 seasons (1988-89 – 1997-98) with th…",
+    "He retired as the team’s all-time leader in assists (5,557), assists per game (8.8), steals (1,067) and minutes played (19,768), and continues to rank among the top 10 in numerous Hornets statistical categories, includin…",
+    "Bogues finished in the top seven in the NBA in assists in six-straight seasons (1989-95) and in the top 10 in steals in three of those seasons (1989-90, 1991-92, 1992-93).",
+    "His 10.7 assists per game in 1989–90 remain the highest single-season average in team history."
+   ],
+   "quotes": [
+    "Honoring the players who helped build this franchise is an important part of our commitment to Hornets history,",
+    "Charlotte has been home to me and my family for so many years, and the support I’ve received from Hornets fans has meant everything to me,",
+    "To have my number retired alongside Bobby and Dell is an incredible honor. I’m grateful to Rick and Gabe, the organization, my teammates and coaches, and everyone who has been part of this journey. I …"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-relying-on-center-depth-with-starter-yves-missi-sidelined",
+   "url": "https://www.nba.com/pelicans/news/pelicans-relying-on-center-depth-with-starter-yves-missi-sidelined",
+   "canonical_url": "https://pelicans.com/news/pelicans-relying-on-center-depth-with-starter-yves-missi-sidelined",
+   "title": "Pelicans relying on center depth with starter Yves Missi sidelined",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-27T18:16:50Z",
+   "tags": [],
+   "summary": "From Oklahoma City to Orlando and several other locations on the map, injuries have already been a significant and unfortunate development early in the 2026-27 NBA season. New Orleans was unable to make it to halftime of its second game before seeing a starter be sidelined, but at least in the Pelicans’ case, the player did not sustain a season-ending or longer-term ailment.",
+   "facts": [
+    "From Oklahoma City to Orlando and several other locations on the map, injuries have already been a significant and unfortunate development early in the 2026-27 NBA season.",
+    "He did not return to the game.",
+    "The injury was diagnosed as a left knee bone bruise, occurring during a hyperextension.",
+    "With no timetable to return determined yet, New Orleans must improvise at the center position, with head coach Jamahl Mosley describing how to fill in for Missi as “by committee.” Against Utah, second-year big Derik Quee…",
+    "In another example of the team’s versatility at the “five” position, in Saturday’s overtime loss at Denver, 19th-year veteran DeAndre Jordan drew the starting assignment, matched up against Nuggets perennial MVP candidat…",
+    "Jordan held up well in what was also his first official action of 2026-27, nearly notching a double-double (nine points, nine rebounds) in only 20 minutes.",
+    "Queen is an excellent passer and rebounding at a high level through the season’s first three games, averaging 8.3 boards in only 24 minutes per outing.",
+    "Missi, who was off to an excellent start to Year 3 of his NBA career, did some light shooting Tuesday after practice, but for now, Mosley will toggle between frontcourt combinations, potentially dependent on the opponent…"
+   ],
+   "quotes": [
+    "Obviously with Yves being out, our rotations change quite a bit,",
+    "It’s next man up – myself, Karlo, DQ, Zion at times, we’ve got to hold down the fort until (Missi) comes back.",
+    "There’s versatility, in each one of those guys,",
+    "Being able to have those options at any given moment in the game is key for us."
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261027",
+   "url": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261027",
+   "canonical_url": "https://cavs.com/news/features-meleek-thomas-261027",
+   "title": "Meleek Thomas' Special NBA Debut",
+   "author": "clejgabriele",
+   "published_utc": "2026-10-27T17:48:30Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "When James Harden made his NBA debut, Meleek Thomas was three years, two months, and 23 days old.",
+   "facts": [
+    "When James Harden made his NBA debut, Meleek Thomas was three years, two months, and 23 days old.",
+    "Now age 37, two months and a day, Harden finished with 19 points, a game-high nine assists, five boards and a pair of steals in the 789th win of his career – a 127-125 overtime thriller over the Timberwolves.",
+    "Neither was Donovan Mitchell, who led the Cavs with 26 points, or Peyton Watson, who led both teams with four blocks, or Evan Mobley, who went 4-of-5 from deep and whose three late bombs keyed the victory.",
+    "Monday’s spotlight shone brightest on the Wine & Gold’s youngest player – Meleek Thomas, making his career debut in dramatic fashion, leading all reserves with 16 points in 19 electric minutes off the bench, going 6-of-1…",
+    "If there’s one word that’s been used to describe the 20-year-old rookie through his brief tenure in Cleveland, it is “confident.” Anyone who’s watched him over the summer leading up to Monday’s debut knew that he’d let i…",
+    "The Pittsburgh native officially took the floor for the first time when he checked in with 5:53 remaining in the first quarter, missed his first three-point attempt less than two minutes later and didn’t miss another one…",
+    "And I told him the best part of his game wasn't even the 16 points.",
+    "In this year’s NBA Summer League session in Las Vegas, Thomas led everyone in scoring (27.3 PPG) and field goal attempts (20.5) and was second overall in field goals makes (10.3)."
+   ],
+   "quotes": [
+    "Confidence really don't come for nobody else,",
+    "You got it or you don’t. Either you got heart, you got dawg, or you don’t. And I got everything that I need. It's just a matter of time before everything is shown. So, yeah, if I'm open, it's going up…",
+    "It's very rare to ride the coattails of a rookie going into a half like that,",
+    "Fearless, right? Just trying to find ways to impact the game at the highest level. And I told him the best part of his game wasn't even the 16 points. It was the energy. So, credit to him for staying …"
+   ]
+  },
   {
    "source": "NYK 公式（nba.com）",
    "team": "NYK",
@@ -447,7 +622,12 @@
    "title": "Flagg's game-clinching drive proves he's a 'bad dude,' powers Mavericks by Heat",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-27T02:10:48Z",
-   "tags": [],
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
    "summary": "MIAMI – With all the celebrities and star power they have here in south Florida, they didn’t have anything on Cooper Flagg Monday night.",
    "facts": [
     "Flagg returned after a one-game absence for a sore left shoulder and lit up the scoreboard on a star-studded night at Kaseya Center.",
@@ -1450,110 +1630,6 @@
    "summary": "The New Orleans Pelicans announced today that center Yves Missi has been diagnosed with a left knee bone bruise. An MRI confirmed the injury, which occurred as a result of a left knee hyperextension during the second quarter of last night’s game against the Utah Jazz. Further updates will be provided as appropriate.",
    "facts": [
     "An MRI confirmed the injury, which occurred as a result of a left knee hyperextension during the second quarter of last night’s game against the Utah Jazz."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-continue-homestand-against-los-angeles-lakers-2",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-continue-homestand-against-los-angeles-lakers-2",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-continue-homestand-against-los-angeles-lakers-2",
-   "title": "Preview: Utah Jazz Continue Homestand Against Los Angeles Lakers",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-24T20:04:04Z",
-   "tags": [
-    "Ace Bailey",
-    "Darryn Peterson",
-    "Jaren Jackson Jr.",
-    "Keyonte George",
-    "Utah Jazz"
-   ],
-   "summary": "After kicking off the 2026-27 season on the road, the Utah Jazz will be able to get comfortable at home and spend the rest of October playing at the Delta Center.",
-   "facts": [
-    "After kicking off the 2026-27 season on the road, the Utah Jazz will be able to get comfortable at home and spend the rest of October playing at the Delta Center.",
-    "Utah bounced back in the home opener Friday night, securing a dramatic 120-119 victory over the New Orleans Pelicans.",
-    "Seven players finished in double-figures for Will Hardy’s squad, led by Jaren Jackson Jr. (24 points and 10 rebounds).",
-    "Off the bench, Jaxson Hayes thrived on both ends of the floor, earning the close and finishing with 17 points and five rebounds on 7-of-8 shooting from the field.",
-    "As a team, Utah dished out 31 assists.",
-    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jusuf Nurkić (Right Foot; 2nd Plantar Plate Tear) Lakers injury report: OUT - Cameron Carr (Right Oblique Strain), Adou…",
-    "Kessler leads a new-look Lakers squad The Lakers were one of the most active teams during the offseason, with the sign-and-trade for Kessler serving as the team’s prized additions.",
-    "Kessler has dominated during the opening week of the season, averaging 24 points, 8.5 rebounds, and four blocks per game on 84.6 percent shooting from the field."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-nuggets-10-24-2026",
-   "url": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-nuggets-10-24-2026",
-   "canonical_url": "https://pelicans.com/news/behind-the-numbers-pelicans-at-nuggets-10-24-2026",
-   "title": "Behind the Numbers: Pelicans at Nuggets (10/24/2026)",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-24T19:36:53Z",
-   "tags": [],
-   "summary": "A look at three key numbers related to Saturday’s game in Ball Arena between New Orleans and Denver (8 p.m. Central, GCSEN on TV; WWL on radio):",
-   "facts": [
-    "A look at three key numbers related to Saturday’s game in Ball Arena between New Orleans and Denver (8 p.m.",
-    "Central, GCSEN on TV; WWL on radio): 8: New Orleans rank in offensive efficiency among the 30 NBA teams – through an extremely small sample size of two games – by scoring 115.5 points per 100 possessions (via NBA.com).",
-    "The Pelicans have a top-10 offense at this early stage of the regular season despite a couple negative factors, including ranking 28th in assist percentage (50.0, ahead of only Phoenix and Cleveland – both have only play…",
-    "They’ve also shot a below-average 32.1 percent from three-point range, which is a lower accuracy rate than even last season, when the squad ranked 24th at 34.7 percent.",
-    "On the plus side, New Orleans is leading the NBA in free-throw percentage (89.1, going 57/64) and is fifth in points in the paint per game (56.0).",
-    "At the other end of the floor, the Pelicans are an early 21st in defensive efficiency (117.4).",
-    "Add it up and it’s equaled an 0-2 start, but by a total of just four points – 123-120 vs.",
-    "Indiana, then 120-119 at Utah. 7.3, 3.7: Yves Missi offensive rebounds per 36 minutes, then blocks per 36 minutes through his two games, both ranking in the top six of all players who’ve logged at least as many minutes a…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-at-nuggets-injury-report-game-preview-10-24-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-at-nuggets-injury-report-game-preview-10-24-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-at-nuggets-injury-report-game-preview-10-24-2026",
-   "title": "Pelicans at Nuggets: Injury Report, Game Preview 10/24/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-24T19:12:28Z",
-   "tags": [],
-   "summary": "The Pelicans travel to Denver to face the Nuggets on Saturday at the Ball Arena at 8:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans travel to Denver to face the Nuggets on Saturday at the Ball Arena at 8:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Nuggets injury report, team news, tune in details, and gameday information: PELICANS VS NUGGETS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Malik Dia OUT …",
-    "OUT (G League two-way) Julian Reese PROBABLE (G League two-way) NUGGETS INJURY REPORT Cam Johnson OUT (right ankle sprain) Spencer Jones OUT (bilateral hamstring injury management) Julian Strawther OUT (left knee sprain)…",
-    "Nuggets Game Time, TV Channel, Radio & Location 📅 Game Time: Saturday, Oct. 24 at 8:00 pm CT🏟️ Location: Ball Arena in Denver, CO🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Nuggets TV: ALT/KTVD/ALT+📻 Nuggets Ra…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "injury",
-   "key": "https://www.nba.com/magic/news/paolo-banchero-injury-update-low-grade-high-ankle-sprain-20261024",
-   "url": "https://www.nba.com/magic/news/paolo-banchero-injury-update-low-grade-high-ankle-sprain-20261024",
-   "canonical_url": "https://orlandomagic.com/news/paolo-banchero-injury-update-low-grade-high-ankle-sprain-20261024",
-   "title": "Paolo Banchero Injury Update",
-   "author": "Official Release",
-   "published_utc": "2026-10-24T16:58:48Z",
-   "tags": [
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Orlando Magic forward Paolo Banchero underwent an MRI, which has confirmed a low-grade right high ankle sprain.",
-   "facts": [
-    "Orlando Magic forward Paolo Banchero underwent an MRI, which has confirmed a low-grade right high ankle sprain.",
-    "Banchero suffered the injury during the first half of last night’s game vs."
    ],
    "quotes": []
   }
