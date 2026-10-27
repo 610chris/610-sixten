@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "678-leonard-knee-weeks-out.html",
+    cat: "NBA",
+    title: "カワイ・レナード、左膝の腫れで数週間離脱の見通し —— MRIに構造的損傷なし、1週間後に再評価",
+    excerpt: "ESPNのシャムズ・シャラニア記者が一報。トロント・ラプターズのカワイ・レナードは左膝の腫れにより今後数週間の離脱が見込まれている。MRI検査で構造的な損傷は見つからなかったが、チームは1週間後に状態を再評価するとしている。",
+    date: "2026.10.28",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "677-bam-adebayo-scapegoat-heat-0-4.html",
     cat: "NBA",
     title: "バム・アデバヨ「外野は自分をスケープゴートにしたがる」—— ヒート開幕4連敗、ヤニスとの新体制は手探り",
