@@ -1,56 +1,18 @@
 {
- "updated_utc": "2026-10-27 00:31 UTC",
+ "updated_utc": "2026-10-27 16:03 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1xgbqnw/scotto_sam_presti_on_whether_hed_call_russell/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-26T22:48:00+00:00",
-   "text": "Sam Presti on whether he'd call Russell Westbrook out of retirement with Jalen Williams and Cason Wallace out: \"I haven't thought about anything relative to the roster spot... We have a tremendous challenge in front of us, but this is what we do and what we signed up for.\"",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xgbqnw/scotto_sam_presti_on_whether_hed_call_russell/",
-   "links": []
-  },
-  {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1xgakfr/charania_breaking_oklahoma_citys_jalen_williams/",
+   "key": "https://www.reddit.com/r/nba/comments/1xgvkox/charania_torontos_kawhi_leonard_is_expected_to/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-10-26T21:59:21+00:00",
-   "text": "BREAKING: Oklahoma City's Jalen Williams has a dislocated left ankle and fractured fibula; Cason Wallace has a torn labrum in his left shoulder. Both will undergo surgery and be sidelined for several months -- most, if not the entire season.\n\nSource: https://www.espn.com/contributor/shams-charania/eb04c89ac9d2b",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xgakfr/charania_breaking_oklahoma_citys_jalen_williams/",
+   "posted_utc": "2026-10-27T15:27:25+00:00",
+   "text": "Shams Charania:\n\nToronto's Kawhi Leonard is expected to miss a period of weeks due to swelling in his left knee, sources tell ESPN. MRI on Leonard's knee showed no structural damage, but sides will use the shorter term to ramp him back up after the stoppages during the offseason.\n\nhttps://www.espn.com/contributor/shams-charania",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xgvkox/charania_torontos_kawhi_leonard_is_expected_to/",
    "links": [
-    "https://www.espn.com/contributor/shams-charania/eb04c89ac9d2b"
-   ]
-  },
-  {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1xg5byk/charania_orlando_magic_guard_jalen_suggs_has_been/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-26T18:40:42+00:00",
-   "text": "Orlando Magic guard Jalen Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluated in two weeks, sources tell ESPN. Suggs avoided any other major structural damage.\n\nhttps://www.espn.com/contributor/shams-charania/e5a8bb1b0e046",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xg5byk/charania_orlando_magic_guard_jalen_suggs_has_been/",
-   "links": [
-    "https://www.espn.com/contributor/shams-charania/e5a8bb1b0e046"
-   ]
-  },
-  {
-   "reporter": "Brian Windhorst（ESPN）",
-   "handle": "WindhorstESPN",
-   "key": "https://www.reddit.com/r/nba/comments/1xfz09s/windhorst_okc_can_apply_for_a_14_million_disabled/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-10-26T14:52:40+00:00",
-   "text": "Source: https://www.espn.com/nba/story/\\_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals\n\n\"I guess I should put my Bobby Marks' hat on just because what you want in a podcast is you want analysis of this beyond just a visceral response. The Thunder have the ability to apply for a disabled player exception. But let's be honest here, they cannot replace him.\"\n\n\"They'll replace him with what they have on their roster with Ajay Mitchell. He becomes a very important piece right now and the fact that they had to trade away multiple wings over the summer -- Aaron Wiggins and Lu Dort ... It comes into play for sure, but his means Ajay Mitchell will have to have a big season and now Cason Wallace, who was just rewarded with a huge contract, those guys will be needed. And you also could see some opportunities for Bennett Stirtz, who actually I think got his first uh NBA basket tonight. So there's probably no team that could withstand an injury like this other than the Thunder.\n\n\"They can apply for a disabled player exception, which they will certainly get. They will get, I believe, the full mid-level exception that they can use up to the mid-level exception, which is like, $14-ish million that they can use to to sign a player or trade for a player. They can only trade for a player with that exception who's got one year left on his contract.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xfz09s/windhorst_okc_can_apply_for_a_14_million_disabled/",
-   "links": [
-    "https://www.espn.com/nba/story/%5C_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals",
-    "https://www.espn.com/nba/story/\\_/id/50028196/2026-27-nba-buzz-latest-live-updates-news-intel-trades-deals"
+    "https://www.espn.com/contributor/shams-charania"
    ]
   }
  ]
