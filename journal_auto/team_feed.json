@@ -1,8 +1,281 @@
 {
- "updated_utc": "2026-10-27 00:03 UTC",
+ "updated_utc": "2026-10-27 05:31 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mays-rise-no-surprise-to-heat-coach-spoelstra",
+   "url": "https://www.nba.com/mavs/news/mays-rise-no-surprise-to-heat-coach-spoelstra",
+   "canonical_url": "https://mavs.com/mavs/news/mays-rise-no-surprise-to-heat-coach-spoelstra",
+   "title": "May's rise no surprise to Heat coach Spoelstra",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-27T05:05:17Z",
+   "tags": [],
+   "summary": "MIAMI – Dusty May has a lot of history in south Florida.",
+   "facts": [
+    "About 45 minutes up the road from Miami’s Kaseya Center in Boca Raton, Fla., May led the Florida Atlantic University Owls to the 2023 Final Four in stunning fashion.",
+    "They then made the NCAA tournament again the following season before May left FAU for Michigan, where he would win the 2026 NCAA championship.",
+    "I came down and probably watched 50 practices or workouts in the offseason.",
+    "It’s really a credit to his communication skills and he’s relentless as a learner.” Asked if he could envision going through the NBA battles for 19 seasons like Spoelstra, May said: “I think we’re all wired differently.",
+    "But in the first half, they suffered another blow in the health department when rookie point guard Sergio De Larrea went down with what was later diagnosed as a right knee strain.",
+    "This comes after De Larrea had his best game of the season on Saturday with 21 points against San Antonio.",
+    "The 6-8 forward hauled down eight rebounds in 30 minutes off the bench and the Mavericks were plus-nine when Risacher was on the court."
+   ],
+   "quotes": [
+    "I would list it, but we have a game at 7:30,",
+    "A lot of what we do have been things we’ve stolen from them. We’re well aware of how great their staff is.",
+    "He’s a heck of a coach. No doubt about it. He can have success like he had and stay in college, but the way that he coaches I think is also built for the NBA. It’s really a credit to his communication…",
+    "Obviously, they have their way of doing it here. Hopefully I can hang on like they have and be as successful as they have. That’s obviously the gold standard. My path was just a little bit different."
+   ]
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-lose-to-warriors-at-home",
+   "url": "https://www.nba.com/nuggets/news/nuggets-lose-to-warriors-at-home",
+   "canonical_url": "https://nuggets.com/news/nuggets-lose-to-warriors-at-home",
+   "title": "Nuggets lose to Warriors at home",
+   "author": "Matt Brooks",
+   "published_utc": "2026-10-27T04:54:58Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets lost to the Golden State Warriors, 134-114, on Monday night. They're now 1-2 to start the season.",
+   "facts": [
+    "The Denver Nuggets lost to the Golden State Warriors, 134-114, on Monday night.",
+    "They're now 1-2 to start the season.",
+    "Nikola Jokić had a near triple-double with 19 points, seven rebounds, and 11 assists.",
+    "Rookie Bryce Hopkins had the best game of his young NBA career, totaling 13 points on 5-of-9 shooting, three rebounds, and one assist.",
+    "Off the bench, DeMar DeRozan put up 21 points on 7-of-15 shooting, 2-of-5 from three-point range, and 5-of-5 from the free-throw line."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261026",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261026",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261026",
+   "title": "Stephen Curry and Yaxel Lendeborg Combine for 55 Points, Leading Warriors to First Regular Season Win",
+   "author": "gswgrizzo",
+   "published_utc": "2026-10-27T04:30:00Z",
+   "tags": [],
+   "summary": "The Golden State Warriors defeated the Denver Nuggets 134-114 on Monday night at Ball Arena, earning their first win of the regular season. Stephen Curry led a momentum shifting third quarter, scoring 17 points in the frame and carrying the Warriors to a double-digit advantage over the Nuggets. Yaxel Lendeborg had 31 points, marking the second-most points through a player's first four career games…",
+   "facts": [
+    "The Golden State Warriors defeated the Denver Nuggets 134-114 on Monday night at Ball Arena, earning their first win of the regular season.",
+    "Stephen Curry led a momentum shifting third quarter, scoring 17 points in the frame and carrying the Warriors to a double-digit advantage over the Nuggets.",
+    "Yaxel Lendeborg had 31 points, marking the second-most points through a player's first four career games in franchise history, trailing only Wilt Chamberlain (150 points).",
+    "LENDEBORG'S 31-POINT PERFORMANCE Continuing his impressive start to his NBA career, Yaxel Lendeborg got to work quickly in the first quarter.",
+    "Two possessions later, he earned the hoop and harm against Nikola Jokić for a 3-point play.",
+    "With 31 points, 12 rebounds and 6 assists, he becomes the first rookie since Larry Bird in 1979 to tally 70+ PTS, 30+ REB, 15+ AST in their first four career games.",
+    "This is his second consecutive game with more than 25 points and his second career double-double.",
+    "Lendeborg's performance also marks the first Warriors rookie since Chris Webber in 1993 to score in double figures in each of his first four career games."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-comeback-attempt-falls-short-in-loss-to-grizzlies-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-comeback-attempt-falls-short-in-loss-to-grizzlies-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-comeback-attempt-falls-short-in-loss-to-grizzlies-key-takeaways",
+   "title": "Utah Jazz Comeback Attempt Falls Short in Loss to Grizzlies: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-27T04:29:42Z",
+   "tags": [
+    "Ace Bailey",
+    "Jaren Jackson Jr.",
+    "Keyonte George",
+    "Lauri Markkanen",
+    "Mo Bamba",
+    "Utah Jazz"
+   ],
+   "summary": "Adversity hits every NBA team over the course of a regular season.",
+   "facts": [
+    "For the Utah Jazz, absences in the frontcourt have been a theme to start the 2026-27 campaign, with the injury report getting longer during Monday’s 110-105 loss to the Memphis Grizzlies.",
+    "Despite the best efforts of Keyonte George (26 points, six assists), Ace Bailey (17 points, 10 rebounds) and some of Utah’s deeper reserves like Mo Bamba, cold 3-point shooting and inconsistencies on the defensive end hu…",
+    "The Jazz only mustered 21 points over the first 12 minutes, connecting on 33 percent from the field.",
+    "While Utah only connected on 1-of-9 from beyond the arc, Memphis knocked down four 3-pointers and got 15 points off the bench to gain control of the game.",
+    "After one, the Grizzlies held a 30-21 lead.",
+    "Midway through the frame, Markkanen exited and went to the locker room with a wrist injury.",
+    "The momentum didn’t shift in the opening minutes of the second quarter, as Memphis extended its lead to 14 points.",
+    "Utah suffered another blow when Jackson Jr. left the game with an apparent leg injury, creating opportunities for Kyle Filipowski and Bamba."
+   ],
+   "quotes": [
+    "I’m so proud of the group and the way they fought,",
+    "The competitiveness of the team and how they came together… it speaks to the character of the group.",
+    "I think we understand the depth that we have,",
+    "(Lauri and Jaren) set the standard for us, but it was about the next man up. All camp, we’ve seen what everybody on this team is about, what they added to their game, and what they had. Our focus and …"
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-heat-dallas-clutch-lost-antetokounmpo-triple-double-flagg",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-heat-dallas-clutch-lost-antetokounmpo-triple-double-flagg",
+   "canonical_url": "https://heat.com/news/coups-takeaways-heat-dallas-clutch-lost-antetokounmpo-triple-double-flagg",
+   "title": "Coup’s Takeaways: HEAT Drop Clutch Game As Flagg Closes Out For Dallas",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-10-27T03:31:10Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. After the first three games of the season, all the Miami HEAT needed out of this one was to get on the board and take a step forward along the way – and create something real to build off of in the process.",
+   "facts": [
+    "Dallas wasn’t quite blazing from three, but they led 17-11 at the first timeout all the same, getting consistent good looks in the process.",
+    "Antetokounmpo returned for the final three of the first, as appears to be the standard sub pattern when no foul trouble is involved, and capped off the period with a three up top and a charge taken on the other end, Miam…",
+    "Flagg eventually got Dallas’ offense a little more on track, running plenty of pick-and-roll up top, and recent pickup Walter Clayton Jr. – a recent two-way signing after being waived by Memphis before opening night – of…",
+    "Dallas up, 53-52 at the break, both teams struggling with Offensive Ratings below 105.",
+    "Takeover mode continued, a top arc three – Miami up to 44 percent from the arc – then a driving and-one down the right slot.",
+    "That look bought Dallas enough stops to keep it tight, a few fouls in the bonus the difference for Miami to close the quarter as they took a slight edge, 84-83, into the fourth after Irving dropped in a double-contested …",
+    "Dallas ball, 20.4 seconds left, and Flagg (29 points on 23 shots, 11 assists) drove middle for an incredible finish to make it four points with 10 seconds to go.",
+    "Bobbled ball for Miami in the paint and Dallas takes it, 113-109, Miami still in search of their first win. 2."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261026-chibos",
+   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261026-chibos",
+   "canonical_url": "https://celtics.com/news/game-recap-keys-20261026-chibos",
+   "title": "Keys to the Game: Celtics 134, Bulls 99",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-27T03:29:36Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "It took the Celtics only nine minutes to turn a seven-point lead into a 31-point advantage Monday night.",
+   "facts": [
+    "Key Moment It took the Celtics only nine minutes to turn a seven-point lead into a 31-point advantage Monday night.",
+    "Boston stampeded the Bulls in the third quarter, riding a Payton Pritchard heater all the way to a 134-99 win at TD Garden.",
+    "Pritchard poured in a career-high-tying 19 points in the frame while shooting a perfect 5-for-5 from deep, helping turn a 66-59 Celtics advantage into a commanding 104-73 lead by the end of the quarter.",
+    "Boston played the final 7:31 of the third without Tatum and outscored Chicago 36-11 during that stretch.",
+    "Pritchard, Paul George and Sam Hauser combined for 35 points in the quarter as the Celtics completely broke the game open.",
+    "The lead ballooned to as many as 40 points in the fourth before Boston settled for the 35-point victory.",
+    "Payton Pritchard erupted for a game-high 28 points off the bench in just 21 minutes, shooting 10-of-16 from the field and 7-of-10 from 3-point range.",
+    "He averaged one triple for every three minutes he spent on the court and finished plus-22 while also handing out four assists."
+   ],
+   "quotes": [
+    "I don’t really consider any of his shots heat checks, because that’s who he is and that’s when he’s at his best."
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/miller-posts-new-career-high-hornets-withstand-wizards-late-rally",
+   "url": "https://www.nba.com/hornets/news/miller-posts-new-career-high-hornets-withstand-wizards-late-rally",
+   "canonical_url": "https://hornets.com/news/miller-posts-new-career-high-hornets-withstand-wizards-late-rally",
+   "title": "Miller Posts New Career High, Hornets Withstand Wizards’ Late Rally",
+   "author": "Sam Perley",
+   "published_utc": "2026-10-27T02:40:45Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "For the second straight game, the Charlotte Hornets buckled down in clutch time and held off a late opposing run, resulting in a 110-103 home win over the Washington Wizards on Monday night.",
+   "facts": [
+    "For the second straight game, the Charlotte Hornets buckled down in clutch time and held off a late opposing run, resulting in a 110-103 home win over the Washington Wizards on Monday night.",
+    "Top Performers: Brandon Miller used all three levels to finish with a career-high 39 points on 15-of-28 shooting, five three-pointers, six rebounds, three steals and two blocks in 36 minutes (+16).",
+    "In the process, Miller also became the second-fastest player in NBA history to reach 500 career made 3-pointers (170 games), trailing only Duncan Robinson (152).",
+    "After shooting just 1-of-8 in the first three frames, Naz Reid erupted in the fourth for 16 points (18 total) to go along with 12 overall rebounds.",
+    "Moussa Diabate set the tone early with 11 points and a game-high 17 rebounds (a career-high 11 offensive), three assists and three blocks.",
+    "Anthony Davis led the Washington charge with 29 points on 11-of-22 shooting, 10 rebounds and three 3-pointers in the defeat, which ended Davis’ 10-game head-to-head winning streak against the Hornets (first loss since Ma…",
+    "Trae Young also double-doubled with 22 points on 10-of-20 shooting and 10 assists, while Kyshawn George added 20 points, as well.",
+    "Turning Point: After Washington sliced a once 14-point deficit down to four with 7:45 remaining in the fourth, the Hornets returned serve with a 12-2 spurt over the ensuing two-and-a-half minutes to retake a 98-84 lead."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-bucks-261026",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-bucks-261026",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-bucks-261026",
+   "title": "Game Rewind: Pacers 102, Bucks 110",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-27T02:34:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Monday, Oct. 26 at 8:00 PM ET at Fiserv Forum",
+   "facts": [
+    "Monday, Oct. 26 at 8:00 PM ET at Fiserv Forum Game Recap The Pacers suffered their first road loss of the season on Monday night in Milwaukee, falling to the Bucks on the second night of a back-to-back, 110-102.",
+    "Indiana (2-2) was undermanned and without two starters, but still led by 11 at halftime.",
+    "But the Bucks (1-3) outscored the Blue & Gold 60-41 in the second half to come away with the victory.",
+    "Tyrese Haliburton led Indiana with 22 points, six rebounds, and nine assists in the loss, while All-Star forward Pascal Siakam added 20 points, 13 boards, and six assists.",
+    "Tyler Herro had 23 points, 10 boards, and seven assists to lead the Bucks to their first victory in the post-Giannis Antetokounmpo era.",
+    "Milwaukee traded the two-time MVP to Miami this summer for a package that included Wisconsin native Herro.",
+    "Zubacdid not dress after spraining his left ankle in the first quarter of Sunday's win in Brooklyn, while guard Andrew Nembhard was unavailable due to next stiffness.",
+    "Obi Toppin scored eight points off the bench for Indiana to keep the Pacers within striking distance.Haliburton's layup just before the first quarter buzzer trimmed Milwaukee's lead to 31-29."
+   ],
+   "quotes": [
+    "Didn't play well enough and didn't get enough rebounds to get anything going. We had some pretty good looks that didn't go down, but it wasn't simply a case of make or miss. We've got to retrieve the …",
+    "We needed better energy in the second half. We had the advantage of playing a team on a back-to-back last night and tonight we were the ones that needed to find a way [on the second night of a back-to…"
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/flagg-outduels-antetokounmpo-as-mavericks-take-gut-check-victory-over-heat",
+   "url": "https://www.nba.com/mavs/news/flagg-outduels-antetokounmpo-as-mavericks-take-gut-check-victory-over-heat",
+   "canonical_url": "https://mavs.com/mavs/news/flagg-outduels-antetokounmpo-as-mavericks-take-gut-check-victory-over-heat",
+   "title": "Flagg's game-clinching drive proves he's a 'bad dude,' powers Mavericks by Heat",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-27T02:10:48Z",
+   "tags": [],
+   "summary": "MIAMI – With all the celebrities and star power they have here in south Florida, they didn’t have anything on Cooper Flagg Monday night.",
+   "facts": [
+    "Flagg returned after a one-game absence for a sore left shoulder and lit up the scoreboard on a star-studded night at Kaseya Center.",
+    "The second-year star cut through the lane for a twisting, lefthanded layup with 10 seconds left for the clinching points as the Mavericks sent the Greek Freak and the Miami Heat to their fourth consecutive loss to open t…",
+    "The Mavericks, now 2-2 as they traverse a challenging opening schedule to the season, got 29 points, 11 assists and six rebounds from Flagg.",
+    "Antetokounmpo was strong throughout with 29 points, 15 rebounds and 11 assists.",
+    "Flagg and Clayton then combined for seven points as the Mavericks opened up a 104-97 lead with 4:52 left.",
+    "Kyrie Irving had 18 points, six rebounds and six assists.",
+    "Clayton added 15 points, four assists and four steals in 17 minutes.",
+    "The Mavericks were plus-22 when Clayton was on the floor."
+   ],
+   "quotes": [
+    "We were struggling to find different ways to get him in space,",
+    "He just needed a crease and that’s a bad dude to get in the paint like that and finish. ",
+    "It was everybody getting set,",
+    "Waiting a second. I was sped up on the other two (when he was called for a pair of charges), getting downhill and not waiting on guys to get in the position."
+   ]
+  },
   {
    "source": "SAC 公式（nba.com）",
    "team": "SAC",
@@ -1297,391 +1570,6 @@
     "Suns: Devin Booker is one of the NBA’s longest-tenured active players with one franchise, beginning his 11th season with the Phoenix Suns."
    ],
    "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-120-new-orleans-pelicans-119-key-takeaways",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-120-new-orleans-pelicans-119-key-takeaways",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-120-new-orleans-pelicans-119-key-takeaways",
-   "title": "Utah Jazz 120, New Orleans Pelicans 119: Key Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-24T05:05:19Z",
-   "tags": [
-    "Darryn Peterson",
-    "Jaren Jackson Jr.",
-    "Jaxson Hayes",
-    "Keyonte George",
-    "Lauri Markkanen",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "For the first time in the 2026-27 season, it was a buckle up night at the Delta Center.",
-   "facts": [
-    "For the first time in the 2026-27 season, it was a buckle up night at the Delta Center.",
-    "In a physical game that swung back and forth, the Jazz escaped with a dramatic 120-119 win.",
-    "Neither team relied on 3-point shooting (a combined 4-of-16) to generate offense, instead focusing on getting downhill.",
-    "The Jazz scored 22 points in the paint during the first 12 minutes of action, while New Orleans had 14 points in the key to go along with six points from the charity stripe.",
-    "Jordan Poole led all scorers with nine points off the bench in the first frame, but the Jazz held a slim 31-28 advantage after one.",
-    "The Jazz used a 9-2 run in the opening minutes of the second frame to create a 10-point lead.",
-    "However, Utah did push the advantage back up to 10 (62-52) by the halftime break.",
-    "Utah’s lead grew to 15 early in the third quarter, with activity on the defensive end helping to keep the Pelicans offense at bay."
-   ],
-   "quotes": [
-    "It’s more satisfying to learn from a win,",
-    "I’m proud of the group for digging in. I thought our fans were incredible tonight, which is no shock for us.",
-    "The NBA is a game of runs,",
-    "The team recalibrated after they (New Orleans) made their run."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261023",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261023",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261023",
-   "title": "Warriors Fall to Grizzlies in Home Opener",
-   "author": "gswgrizzo",
-   "published_utc": "2026-10-24T04:50:00Z",
-   "tags": [
-    "Game Recap"
-   ],
-   "summary": "The Golden State Warriors fell 111-108 to the Memphis Grizzlies in their home opener at Chase Center on Friday night. The game was a back and forth battle that came down to a crucial last minute. Five players scored in double figures as Stephen Curry paced the offense with 24 points. Yaxel Lendeborg had a strong outing, recording his first ever double-double with 18 points and a team-high 13 rebou…",
-   "facts": [
-    "The Golden State Warriors fell 111-108 to the Memphis Grizzlies in their home opener at Chase Center on Friday night.",
-    "Five players scored in double figures as Stephen Curry paced the offense with 24 points.",
-    "Yaxel Lendeborg had a strong outing, recording his first ever double-double with 18 points and a team-high 13 rebounds.",
-    "FINDING THEIR FLOW IN THE FIRST The Dubs could not gain the lead for the first six minutes of the opening frame with the deficit reaching eight before back-to-back triples from Draymond Green and Gary Payton II launched …",
-    "After going out early in the quarter, Brandin Podziemski returned to the court with one minute left and made an instant impact.",
-    "Podziemski earned a steal against his former teammate Quinten Post before sinking the 3-pointer on the other end.",
-    "NECK-AND-NECK FINISH The first frame and start of the second held 12 lead changes between the two teams before Memphis gained momentum at the nine minute mark of the second quarter and stretched their advantage to a high…",
-    "Golden State came back to steal the lead with two minute left in the third quarter, fueled by a 19-4 run that carried them into the fourth quarter."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-pistons-shooting-heat-cold-cunningham-antetokounmpo-adebayo",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-pistons-shooting-heat-cold-cunningham-antetokounmpo-adebayo",
-   "canonical_url": "https://heat.com/news/coups-takeaways-pistons-shooting-heat-cold-cunningham-antetokounmpo-adebayo",
-   "title": "Coup’s Takeaways: Pistons Shooting Sets Early Pace As HEAT Fall To 0-2",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-10-24T04:19:47Z",
-   "tags": [
-    "Coups Takeaways",
-    "CoupWords",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. Two games are only two games, but this is not the way the HEAT, or any team, would have wanted to open the season.",
-   "facts": [
-    "Usual starters for Miami, but a weird start, Miami missing their threes and Detroit making everything, John Collins and Duncan Robinson helping to push the Pistons out an 11-0 advantage.",
-    "Giannis Antetokounmpo eventually stopped the bleeding with a drive into the chest of Jalen Duren, but Detroit was in their flow, the lead pushed all the way out to 17-2.",
-    "Only a super tough, nearly double-clutch Robinson three kept Detroit ahead by double digits going into the break, the arc differential another lopsided affair, with Detroit making half their threes, Miami under 30 percen…",
-    "No Duren for Detroit to start the second half, questionable to return with a leg injury, but while Antetokounmpo moved smaller defenders out of his way for a couple of rim conversions, Detroit kept hitting threes, anothe…",
-    "By the time Robinson hit an open triple in transition – a push off another missed three for the HEAT – the deficit was all the way out to 21, Detroit’s largest lead of the night.",
-    "A nice moment of interplay between Adebayo and Antetokounmpo, Adebayo getting a catch on the move and quickly finding a cutting Antetokounmpo for a dunk, offered a glimpse of how the pair could work together, and an Andr…",
-    "Problem is, you need stops for a comeback, and soon enough a few Miami misses meant Detroit was back up by 20, an opportunity missed against Detroit’s all-bench group.",
-    "Pistons up, 103-80, going into the fourth, little going consistently right for the HEAT even before considering the massive shooting disparity from outside."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/jazz-120-pelicans-119-zion-williamson-23-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/jazz-120-pelicans-119-zion-williamson-23-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/jazz-120-pelicans-119-zion-williamson-23-points-postgame-wrap",
-   "title": "Jazz 120, Pelicans 119: Zion Williamson 23 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-24T04:15:03Z",
-   "tags": [],
-   "summary": "For a second straight time to open the season, New Orleans had a chance to tie or win a game in the final seconds of regulation, but couldn’t convert a crucial shot. After a three-point Wednesday home loss to Indiana, on Friday the Pelicans trailed by a point as time ticked down at Utah. Dejounte Murray’s pull-up mid-range jumper misfired just before the final buzzer, allowing the Jazz to pull out…",
-   "facts": [
-    "Utah led by as many as 15 points earlier, but New Orleans used a 38-24 third quarter to enter the final 12 minutes in front on the scoreboard.",
-    "Murray gave the Pelicans a lead at 119-118 with 1:01 remaining on a reverse layup, before Jazz rookie lottery pick Darryn Peterson sank two throws at 0:50.",
-    "Zion Williamson was at the center of a close call that went to replay challenge 15 seconds later, a Williamson drive into the paint that was ruled an offensive foul and remained that way after it was reviewed by official…",
-    "New Orleans was thrilled to enter 2026-27 fully healthy, but didn’t make it to halftime of the season’s second game before losing a player to a game-ending injury.",
-    "Starting center Yves Missi exited with a knee injury in the second quarter, after a fallen Williamson accidentally rolled into Missi’s leg under the basket.",
-    "BY THE NUMBERS 8/26: New Orleans three-point shooting Friday.",
-    "The Pelicans are just 18/59 through a pair of games, a costly rate of 30.5 percent.",
-    "The Jazz shot 13/35 (37 percent)."
-   ],
-   "quotes": [
-    "We’ve got to make sure we’re cleaning up the glass,"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/dusty-may-has-enjoyed-some-very-memorable-moments-in-indianapolis",
-   "url": "https://www.nba.com/mavs/news/dusty-may-has-enjoyed-some-very-memorable-moments-in-indianapolis",
-   "canonical_url": "https://mavs.com/mavs/news/dusty-may-has-enjoyed-some-very-memorable-moments-in-indianapolis",
-   "title": "Dusty May has enjoyed some memorable moments in Indianapolis",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-24T04:03:58Z",
-   "tags": [
-    "dallas mavericks",
-    "Dusty May",
-    "nba"
-   ],
-   "summary": "INDIANAPOLIS – Dusty May has enjoyed some very memorable moments in the city of Indianapolis over a short period of time.",
-   "facts": [
-    "And on Friday, May got his first win as an NBA coach as the Dallas Mavericks powered their way to a 121-105 victory over the Indiana Pacers at Gainbridge Fieldhouse.",
-    "And six of those games were decided by 20 or more points."
-   ],
-   "quotes": [
-    "They’re the reason why I’m here. I’m very grateful for that experience, but a lot’s happened. Every day I’m learning so much about myself and trying to be the best I can be.",
-    "Dusty’s an amazing coach and one of the best coaches in the world,",
-    "I see a lot of similarities. They’re disruptive, they’re long, they’re athletic, they play free, and he empowers his best players. They’re going to be very good.",
-    "I’ve had the luxury of playing for a lot of head coaches, but each one of them are very unique in terms of their approach,"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-post-20261023-tatum-made-the-clutch-shots-but-queta-made-his-favorite",
-   "url": "https://www.nba.com/celtics/news/sidebar-post-20261023-tatum-made-the-clutch-shots-but-queta-made-his-favorite",
-   "canonical_url": "https://celtics.com/news/sidebar-post-20261023-tatum-made-the-clutch-shots-but-queta-made-his-favorite",
-   "title": "Tatum Made the Clutch Shots, but Queta Made His Favorite",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-24T03:59:00Z",
-   "tags": [
-    "Postgame",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "BOSTON – Jayson Tatum made the biggest shots of Friday night’s 107-103 win over the New York Knicks. But his favorite bucket belonged to Neemias Queta.",
-   "facts": [
-    "BOSTON – Jayson Tatum made the biggest shots of Friday night’s 107-103 win over the New York Knicks.",
-    "Tatum buried three straight clutch shots to help put away the defending champs, yet afterward, it was Queta’s corner 3-pointer late in the third quarter that had him smiling most.",
-    "That left Queta wide open in the left corner, where Tatum flipped him the ball and watched the Celtics’ center confidently rise and bury a three to put Boston ahead 78-71.",
-    "The big man knocked down a jump floater from 10 feet, finished a cutting dunk through the lane and converted a driving layup.",
-    "He also made frequent trips to the free-throw line, going 6-of-9 from the stripe on his way to 15 points, six rebounds, and a game-high three blocks off the bench.",
-    "But it was the 3-pointer that stood out most.",
-    "Queta entered Friday night with just one 3-pointer to his name in 186 career regular-season games.",
-    "After beginning his NBA career 0-for-10 from beyond the arc, Queta has now connected on his last two attempts dating back to that regular-season finale."
-   ],
-   "quotes": [
-    "Neem has worked on being a threat around the 3-point line,",
-    "He works on that every single day. And to me, that was that was my favorite part of the game, kicking it out to him in a big moment, seeing him shoot it with confidence. I was so [expletive] happy tha…",
-    "I think the preparation started with just getting spot shots during the summer, working on different forms, speeds, arches, and just getting a better feel for my shot,",
-    "I feel like we're gonna see a little bit more of my shot just off of the positioning we're gonna have, and just the comfortability I have in it too."
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/gamerecap-20261023-keys-nykbos",
-   "url": "https://www.nba.com/celtics/news/gamerecap-20261023-keys-nykbos",
-   "canonical_url": "https://celtics.com/news/gamerecap-20261023-keys-nykbos",
-   "title": "Keys to the Game: Celtics 107, Knicks 103",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-24T03:51:46Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "Jalen Brunson was Mr. Clutch for New York all season long last year. But on Friday night, Jayson Tatum grabbed that torch",
-   "facts": [
-    "But on Friday night, Jayson Tatum grabbed that torch Tatum buried three straight jumpers in crunch time to secure a 107-103 home-opening win against the defending champs.",
-    "Brunson made it a one-point game when he sank a mid-range shot with 1:41 remaining, but Tatum answered 13 seconds later, drilling a long two to make it 101-98 Celtics.",
-    "Tatum drew an offensive foul on Karl-Anthony Towns before coming right back down and sinking an 18-footer.",
-    "OG Anunoby got two points back from the free-throw line, but Tatum had one more answer: a dagger three with 30 seconds remaining that put Boston back up by six.",
-    "Miles McBride made things interesting with a triple to cut it to three with 13.9 seconds left, but Pritchard sank the game-sealing free throw to finish off the four-point win.",
-    "Tatum piled up 36 points in 37 minutes, shooting 14-of-26 from the field.",
-    "After scoring 13 points in Boston's season opener in Detroit, Tatum looked like his usual self in every facet Friday night.",
-    "Box Score Nuggets Jayson Tatum scored 36 points, 14 more than any other player in the game.Karl-Anthony Towns was the next-highest scorer with 22 points.Three Knicks – Towns, OG Anunoby and Josh Hart – logged double-digi…"
-   ],
-   "quotes": [
-    "I live for trying to make big plays and igniting the crowd."
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/pacers-fans-welcome-back-haliburton-with-heartfelt-reception",
-   "url": "https://www.nba.com/pacers/news/pacers-fans-welcome-back-haliburton-with-heartfelt-reception",
-   "canonical_url": "https://pacers.com/news/pacers-fans-welcome-back-haliburton-with-heartfelt-reception",
-   "title": "Pacers Fans Welcome Back Haliburton with Heartfelt Reception",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-24T02:48:00Z",
-   "tags": [],
-   "summary": "Ever since the schedule came out in August, Pacers fans have circled Oct. 23 on their calendars, counting down the days until they could see Tyrese Haliburton back on the court at Gainbridge Fieldhouse for the first time since the 2025 NBA Finals.",
-   "facts": [
-    "Ever since the schedule came out in August, Pacers fans have circled Oct. 23 on their calendars, counting down the days until they could see Tyrese Haliburton back on the court at Gainbridge Fieldhouse for the first time…",
-    "A raucous sea of gold greeted Indiana's returning star with multiple extended ovations prior to his first regular season home game, the culmination of a 16-month journey to rehab and return from a torn Achilles tendon.",
-    "The sellout crowd — all clad in \"Gold Out\" t-shirts — greeted many players with a loud ovation, especially the beloved remaining members of the 2025 Eastern Conference champion roster.",
-    "The Pacers couldn't stop the Mavs in the first quarter, giving up 44 points to a Dallas team that went 8-for-13 from 3-point range.",
-    "Indiana then couldn't score for large swaths of the second quarter, going 5:34 without a point at one stretch and committing nine turnovers to only seven made field goals in the frame.",
-    "The Blue & Gold trailed by as many as 37 points in the first half and 77-43 at halftime.",
-    "The sellout crowd stayed in their seats well into the fourth quarter, still belting out a wholehearted \"DE-FENSE\" chant, getting on the officials for calls they didn't like, and clapping along to \"Hit the Road Jack\" when…",
-    "Haliburton finished with a respectable stat line of 18 points on 8-of-17 shooting, six rebounds, seven assists, and two blocks in 32 minutes."
-   ],
-   "quotes": [
-    "Obviously I’ve spoken at length about what this place means to me and what the fans mean to me. I think there was a lot of people who were really excited about tonight, me being back in Gainbridge.",
-    "It means a lot to be back out there,",
-    "I didn't think I was going to cry,",
-    " Haliburton's emotional journey continued at Friday's home opener. As is customary for the first home game of the regular season, the Pacers introduced the entire roster instead of just the starters b…"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-go-cold-from-3-point-range-in-loss-to-minnesota-timberwolves-20261023",
-   "url": "https://www.nba.com/magic/news/orlando-magic-go-cold-from-3-point-range-in-loss-to-minnesota-timberwolves-20261023",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-go-cold-from-3-point-range-in-loss-to-minnesota-timberwolves-20261023",
-   "title": "Orlando Magic Go Cold From 3-Point Range in Loss to Minnesota Timberwolves",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-24T02:37:57Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO - Holding Anthony Edwards and LaMelo Ball to a combined 9-for-36 field goal shooting, normally, would be enough to come out on top when playing the Minnesota Timberwolves.",
-   "facts": [
-    "ORLANDO - Holding Anthony Edwards and LaMelo Ball to a combined 9-for-36 field goal shooting, normally, would be enough to come out on top when playing the Minnesota Timberwolves.",
-    "Despite making things awfully tough on Minnesota’s dynamic backcourt duo, the Magic’s main Achilles’ heel from the last few seasons prevented them from hanging with the Wolves in a 115-93 defeat at Kia Center.",
-    "The Magic made just eight of their 39 3-point attempts (20.5 percent).",
-    "That was the team’s fourth worst 3-point percentage all time when attempting at least 39 threes.",
-    "Desmond Bane and Tristan da Silva, widely considered their best perimeter shooters, combined to make just two of their 11 attempts.",
-    "Franz Wagner went 1-of-6, Paolo Banchero went 0-of-2 and Jalen Suggs went 1-of-4.",
-    "Tonight, we shot 20 (percent).",
-    "He finished with 14 points, six rebounds and five assists."
-   ],
-   "quotes": [
-    "Get to our spots quicker, so that we can continue to drive, create lanes for each other, continue to make the right kickouts and when we get the shots, like we did tonight, shoot them with confidence …",
-    "That’s the game. Tonight, we shot 20 (percent). The whole preseason, all through (training) camp and even the first game, we shot it really well. It's just the game of basketball."
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hawks-put-on-defensive-showcase-to-spoil-hornets-home-opener",
-   "url": "https://www.nba.com/hornets/news/hawks-put-on-defensive-showcase-to-spoil-hornets-home-opener",
-   "canonical_url": "https://hornets.com/news/hawks-put-on-defensive-showcase-to-spoil-hornets-home-opener",
-   "title": "Hawks Put On Defensive Showcase To Spoil Hornets’ Home Opener",
-   "author": "Sam Perley",
-   "published_utc": "2026-10-24T02:21:44Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "The buzz for the Charlotte Hornets’ 2026-27 home opener wore off rather quickly on Friday night, as the Atlanta Hawks blitzed them soon after tipoff and dealt the hosts a 128-81 blowout loss at Spectrum Center.",
-   "facts": [
-    "The buzz for the Charlotte Hornets’ 2026-27 home opener wore off rather quickly on Friday night, as the Atlanta Hawks blitzed them soon after tipoff and dealt the hosts a 128-81 blowout loss at Spectrum Center.",
-    "Top Performers: Naz Reid was one of only three Charlotte players to score in double figures, finishing with 17 points on 7-of-16 shooting, three 3-pointers and six rebounds in 25 minutes.",
-    "Grayson Allen and Tidjane Salaün both tallied 11 points off the bench.",
-    "Brandon Miller had a rough six-point showing on just 2-of-14 shooting (1-of-11 from 3-point range) in 23 minutes.",
-    "All-Star Jalen Johnson and reserve Aaron Wiggins each scored a team-high 19 points for the victorious Hawks, with the former also tacking on seven rebounds and a game-high eight assists.",
-    "Dyson Daniels added 11 points on 5-of-10 shooting, nine rebounds and used his exceptional defensive prowess to swipe a near-career-high seven steals, four coming in the third quarter.",
-    "Turning Point: Atlanta flipped a switch with a 20-3 run midway through the first quarter, setting up a 33-20 lead through the opening 12 minutes of action.",
-    "The Hornets played a bit more composed in the ensuing frame, but the game got away from them for good after conceding a 12-0 run into the break that put the Hawks ahead, 68-43."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/flagg-suffered-left-shoulder-soreness-during-mavs-121-105-victory-over-pacers",
-   "url": "https://www.nba.com/mavs/news/flagg-suffered-left-shoulder-soreness-during-mavs-121-105-victory-over-pacers",
-   "canonical_url": "https://mavs.com/mavs/news/flagg-suffered-left-shoulder-soreness-during-mavs-121-105-victory-over-pacers",
-   "title": "Flagg suffers left shoulder soreness during Mavs' 121-105 victory over Pacers",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-24T01:58:38Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "INDIANAPOLIS – Dusty May registered his first victory as an NBA head coach as the Dallas Mavericks defeated the Indiana Pacers, 121-105, on Friday night at Gainbridge Fieldhouse. But the mood surrounding May’s emotional moment was subdued because of what happened to Cooper Flagg.",
-   "facts": [
-    "INDIANAPOLIS – Dusty May registered his first victory as an NBA head coach as the Dallas Mavericks defeated the Indiana Pacers, 121-105, on Friday night at Gainbridge Fieldhouse.",
-    "In the aftermath, Nesmith was issued a Flagrant 1 and technical foul, and Mavs forward Naji Marshall was also handed a technical foul.",
-    "Washington, who finished with 20 points, 13 rebounds and three blocks.",
-    "It was a complete 180-degree performance by the Mavs.",
-    "In the first half against the Rockets, the Mavs scored just 38 points and trailed by 32 points.",
-    "In the first quarter against the Pacers, the Mavs scored a whopping 44 points and led by 34 points (77-43) at halftime.",
-    "And the Pacers (1-1) never really made any serious threats thereafter.",
-    "However, he only played 25 minutes – he was on a minutes restriction – because he fouled out for the first time in his 781-game NBA career with 4:23 remaining and the Mavs nursing a 112-99 lead."
-   ],
-   "quotes": [
-    "He will be evaluated in the next couple of days,",
-    "Nesmith’s a great guy, a heckuva player. I’ve known him since high school. ",
-    "I thought it was a bad foul,",
-    "You hate seeing plays like that happen in all of basketball. But it’s a part of the game and we’re always going to protect our players."
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-mavericks-261023",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-mavericks-261023",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-mavericks-261023",
-   "title": "Game Rewind: Pacers 105, Mavericks 121",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-10-24T01:54:00Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Friday, Oct. 23 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Friday, Oct. 23 at 7:00 PM ET at Gainbridge Fieldhouse Game Recap The Pacers were back home in Indiana on Friday as they hosted the Mavericks on opening night in Gainbridge Fieldhouse.",
-    "A last-second Haliburton lay-in at the third quarter buzzer cut the Mavericks’ lead to 22 heading into the fourth quarter, 98-76, after Dallas led by as many as 37 points in the first half.",
-    "Indiana cut the lead down to 16 points in the second half, but ultimately fell to the Mavericks, 121-105.",
-    "Indiana’s defense slipped early as Cooper Flagg notched 12 points in the opening frame, and Dallas shot 67 percent from the field.",
-    "The Mavericks took a 17-point advantage into the second quarter, 44-27.",
-    "Dallas went on a 15-0 run in the middle of the period, and the Pacers found themselves trailing by as many as 37 points before halftime.",
-    "Indiana committed 13 first-half turnovers that led to 22 Mavericks points.",
-    "Nembhard and Siakam each scored 11 points in the first half to lead the Pacers, while Kyrie Irving notched 13 points and Flagg recorded a game-high 14 points for Dallas."
-   ],
-   "quotes": [
-    "It was one of the best crowds I've ever seen here for a regular season game,",
-    "...But a great crowd doesn't guarantee anything if you don't compete the way you need to compete.",
-    "We just need everybody to be playing like Slawson,",
-    "It just simply comes down to an attitude and a disposition. And two straight games we haven't had it the way we need to have it in the first half...It's not okay, and we all we all own it. You know, e…"
-   ]
   }
  ]
 }
