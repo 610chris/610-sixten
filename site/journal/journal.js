@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "676-lakers-sale-walter-kushner-iger.html",
+    cat: "NBA",
+    title: "ウォルター氏、わずか10カ月でレイカーズを“転売” —— カシュナー氏＆アイガー氏が125億ドルで買収合意、バス家の対立は法廷闘争へ",
+    excerpt: "ESPNのラモーナ・シェルバーン記者が特集で詳報。レイカーズの支配株主マーク・ウォルター氏は、わずか10カ月の保有で球団をジョシュ・カシュナー氏とボブ・アイガー氏の投資グループに125億ドル評価で売却することに米国時間8月11日夜合意した。バス家に残る株式の売却をめぐる対立は法廷闘争に発展し、12月8日に審理が予定されている。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "675-nike-dunk-low-basketball-charm.html",
     cat: "KICKS",
     title: "Nike Dunk Low「Basketball Charm」が登場 —— 着脱式バスケットボール型チャーム付き新色、品番JA3772-658",
