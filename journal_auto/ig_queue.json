@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:22:48+09:00",
+  "updated": "2026-10-27T11:32:56+09:00",
   "items": [
     {
       "id": "134",
@@ -18421,6 +18421,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ペイトン・プリチャード、ブルズ戦で28得点\n\n・28得点・FG10/16（62.5%）\n・3PT7/10（70%）\n・セルティックスが134-99で快勝\n\n💬 プリチャードの3P成功率70%、来季も続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "664",
+      "slug": "664-mitchell-30-points-suns",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "エイジェイ・ミッチェル、サンズ戦で30得点 —— 主力4人欠くサンダーが勝利",
+      "excerpt": "オクラホマシティ・サンダーのエイジェイ・ミッチェルは現地時間10月26日、本拠地でのフィニックス・サンズ戦に25分出場し、フィールドゴール16本中10本・フリースロー10本中9本を沈めて30得点を記録した。ジェイレン・ウィリアムズ、ケイソン・ウォレス、チェット・ホルムグレン、アレックス・カルーソを欠くサンダーは125-114でサンズに勝利した。",
+      "points": [
+        "25分の出場で30得点",
+        "フリースローは10本中9本(90.0%)",
+        "主力4人欠くサンダーが125-114で勝利"
+      ],
+      "source": "ESPN ボックススコア（Thunder vs. Suns・2026年10月26日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/664-mitchell-30-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Ajay Mitchell"
+      ],
+      "question": "主力4人抜きでも勝利、サンダーのベンチ層をどう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AJAY MITCHELL",
+        "opponent": "vs. SUNS",
+        "points": 30,
+        "stats": [
+          "5 AST",
+          "2 REB",
+          "10/16 FG",
+          "9/10 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/664-1.jpg",
+        "https://sixten.jp/assets/ig/664-2.jpg",
+        "https://sixten.jp/assets/ig/664-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T11:32:53+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "エイジェイ・ミッチェル、サンズ戦で30得点 —— 主力4人欠くサンダーが勝利\n\n・25分の出場で30得点\n・フリースローは10本中9本(90.0%)\n・主力4人欠くサンダーが125-114で勝利\n\n💬 主力4人抜きでも勝利、サンダーのベンチ層をどう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Thunder vs. Suns・2026年10月26日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
