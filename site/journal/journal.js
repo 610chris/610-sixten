@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "681-jazz-jackson-torn-mcl-markkanen-wrist.html",
+    cat: "NBA",
+    title: "ジャズのジャクソンJr.、右膝MCL断裂で6〜8週間離脱 —— マルカネンは手首の捻挫と判明",
+    excerpt: "ユタ・ジャズのジャレン・ジャクソンJr.は右膝のMCL(内側側副靭帯)断裂と判明し、6〜8週間の離脱が見込まれる。ラウリ・マルカネンはMRIで右手首の捻挫と判明した。ESPNのティム・マクマホン、シャムズ・チャラニア両記者が関係者の話として伝えた。",
+    date: "2026.10.28",
+    thumb: "../assets/journal-681-hero.jpg?v=e3dff30df6"
+  },
+  {
     href: "680-hornets-muggsy-bogues-retire-jersey.html",
     cat: "NBA",
     title: "ホーネッツ、マグジー・ボーグスの背番号1を永久欠番へ —— NBA史上最も小さい男、2月11日に栄誉",
