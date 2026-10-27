@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "669-nike-af1-gtx-thunder-blue.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low GORE-TEX「Thunder Blue」発表 —— Vibramソール搭載の冬仕様、価格150ドル",
+    excerpt: "ナイキは、定番モデル「Air Force 1 Low」の防水GORE-TEXラインに新色「Thunder Blue」を追加発表した。品番HV5953-400、価格150ドルで2026年秋発売予定。Hypebeastが伝えた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "668-lendeborg-31-points-nuggets.html",
     cat: "NBA",
     title: "ヤクセル・レンデボーグ、ナゲッツ戦で31得点12リバウンド6アシスト —— ウォリアーズが134-114で快勝",
