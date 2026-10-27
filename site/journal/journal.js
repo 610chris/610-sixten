@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "657-ben-sheppard-surgery-pacers.html",
+    cat: "NBA",
+    title: "パーサーズのベン・シェパード、膝の半月板損傷で手術へ —— カーライルHC発表、開幕戦以降は出場なし",
+    excerpt: "インディアナ・パーサーズは現地時間10月26日、ベン・シェパードが膝の半月板損傷の手術を28日に受けると発表した。リック・カーライルHCがバックス戦前の会見で明らかにした。シェパードは開幕戦の勝利以降、一度も出場していない。ESPNが報じた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "656-jalen-williams-cason-wallace-surgery-thunder.html",
     cat: "NBA",
     title: "サンダーのジェイレン・ウィリアムズとケイソン・ウォレス、ともに手術へ —— プレスティGM発表、今季復帰は不透明",
