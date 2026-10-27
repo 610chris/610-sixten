@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "673-meleek-thomas-nba-debut-cavaliers.html",
+    cat: "NBA",
+    title: "ミーリック・トーマス、NBAデビューで16得点 —— キャバリアーズが127-125のOTでウルブズに勝利",
+    excerpt: "クリーブランド・キャバリアーズのルーキー、ミーリック・トーマスは現地時間10月26日のミネソタ・ティンバーウルブズ戦でNBAデビューを果たし、19分の出場で16得点を記録。キャバリアーズは127-125のオーバータイムで勝利した。ESPNが伝えた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "672-markkanen-jackson-injuries-jazz-grizzlies.html",
+    cat: "NBA",
+    title: "マルカネンとジャクソンJr.、前半で相次ぎ負傷退場 —— ジャズがグリズリーズに105-110で敗戦",
+    excerpt: "ユタ・ジャズのラウリ・マルカネン（右手首）とジャレン・ジャクソンJr.（右膝）は現地時間10月26日のメンフィス・グリズリーズ戦で前半のうちに相次いで負傷退場した。ジャズは105-110で敗戦。2人とも27日にMRI検査を受ける。ESPNが伝えた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "671-jaylen-brown-denies-trade-demand-celtics.html",
+    cat: "NBA",
+    title: "ブラウン陣営、セルティックスへの「トレード要求」報道を否定 —— 「100%嘘」",
+    excerpt: "フィラデルフィア・76ersのジェイレン・ブラウンの代理人は現地時間10月26日、ブラウンがボストン・セルティックス在籍時にトレードを要求した、あるいは要求リストを突きつけたとする報道を「100%嘘」と否定した。ESPNが伝えた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "670-fanatics-game-used-ball-photo-panel-vol2.html",
+    cat: "NBA",
+    title: "NBA実使用ボール入りフォトパネル第2弾、ファナティクスが発売 —— ブランソン・カリー・ウェンバンヤマが登場",
+    excerpt: "ファナティクス・ジャパンは、NBAの試合で実際に使用されたゲームボールの一部を封入した額装フォトパネルの第2弾を10月29日正午よりNBA Store Japanで発売する。ジェイレン・ブランソン、ステフィン・カリー、ヴィクター・ウェンバンヤマの3選手がラインナップ、各選手世界250点限定。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "669-nike-af1-gtx-thunder-blue.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low GORE-TEX「Thunder Blue」発表 —— Vibramソール搭載の冬仕様、価格150ドル",
