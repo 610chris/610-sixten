@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:34:42+09:00",
+  "updated": "2026-10-27T12:56:04+09:00",
   "items": [
     {
       "id": "134",
@@ -18513,6 +18513,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "タイラー・ヒーロー、ペイサーズ戦で23得点10リバウンド7アシスト\n\n・32分出場で23得点10リバウンド7アシスト\n・フィールドゴールは14本中7本(50.0%)\n・バックスが110-102でペイサーズに勝利\n\n💬 23得点10リバウンド7アシスト、トリプルダブルに近いこの活躍どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Bucks vs. Pacers・2026年10月26日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "666",
+      "slug": "666-sengun-29-points-hawks",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "シェングン、ホークス戦で29得点9reb9ast",
+      "excerpt": "ヒューストン・ロケッツのアルペラン・シェングンは現地時間10月26日、本拠地でのアトランタ・ホークス戦に37分出場し、29得点・9リバウンド・9アシスト・スティール6を記録した。両チーム通じて最多得点者となり、ロケッツは120-110でホークスに勝利した。",
+      "points": [
+        "29得点・9リバウンド・9アシスト",
+        "スティール6・FG73.3%の高効率",
+        "ロケッツが120-110で勝利"
+      ],
+      "source": "ESPN ボックススコア(Rockets vs. Hawks・2026年10月26日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/666-sengun-29-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Alperen Sengun"
+      ],
+      "question": "シェングン、MVPレースに入ってくる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ALPEREN SENGUN",
+        "opponent": "vs. HAWKS",
+        "points": 29,
+        "stats": [
+          "9 REB",
+          "9 AST",
+          "6 STL",
+          "11/15 FG",
+          "6/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/666-1.jpg",
+        "https://sixten.jp/assets/ig/666-2.jpg",
+        "https://sixten.jp/assets/ig/666-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T12:55:07+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シェングン、ホークス戦で29得点9reb9ast\n\n・29得点・9リバウンド・9アシスト\n・スティール6・FG73.3%の高効率\n・ロケッツが120-110で勝利\n\n💬 シェングン、MVPレースに入ってくる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Rockets vs. Hawks・2026年10月26日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "667",
+      "slug": "667-george-26-points-grizzlies",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "ジョージ、グリズリーズ戦で26得点",
+      "excerpt": "ユタ・ジャズのキヨンテ・ジョージは現地時間10月26日、敵地でのメンフィス・グリズリーズ戦に33分出場し、26得点・6アシストを記録した。両チーム通じて最多得点者となったが、ジャズは105-110の5点差でグリズリーズに敗れた。",
+      "points": [
+        "26得点・6アシスト",
+        "FT 8/9の高確率",
+        "ジャズは105-110で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Jazz vs. Grizzlies・2026年10月26日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/667-george-26-points-grizzlies.html",
+      "hero_path": "",
+      "subject": [
+        "Keyonte George"
+      ],
+      "question": "ジョージの26得点、チームの援護は足りてた？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KEYONTE GEORGE",
+        "opponent": "vs. GRIZZLIES",
+        "points": 26,
+        "stats": [
+          "6 AST",
+          "3 REB",
+          "9/17 FG",
+          "8/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/667-1.jpg",
+        "https://sixten.jp/assets/ig/667-2.jpg",
+        "https://sixten.jp/assets/ig/667-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T12:55:14+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョージ、グリズリーズ戦で26得点\n\n・26得点・6アシスト\n・FT 8/9の高確率\n・ジャズは105-110で敗戦\n\n💬 ジョージの26得点、チームの援護は足りてた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Jazz vs. Grizzlies・2026年10月26日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
