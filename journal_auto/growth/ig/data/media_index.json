@@ -1585,6 +1585,33 @@
   "product": "REELS",
   "timestamp": "2022-11-02T05:05:59+0000"
  },
+ "17940915768381620": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "650",
+  "auto": true,
+  "caption_len": 341,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ペイトン・プリチャード、NBA屈指の「アイソ・キング」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De9VwQmkuTW/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Payton Pritchard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-26T13:00:34+0000"
+ },
  "17942143940242591": {
   "auto": false,
   "caption_len": 76,
@@ -1965,6 +1992,33 @@
   "product": "REELS",
   "timestamp": "2022-10-30T09:59:13+0000"
  },
+ "17958597450259378": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "640",
+  "auto": true,
+  "caption_len": 345,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランソン、マジック戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8JsBWCpHG/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Knicks vs. Magic・2026年10月25日）",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T01:56:05+0000"
+ },
  "17958625773229207": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2199,6 +2253,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-12T22:00:34+0000"
+ },
+ "17978837484148980": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "656",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダーのJ・ウィリアムズとC・ウォレス、ともに手術へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-bCkQiozS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（Tim MacMahon記者）",
+  "subject": [
+   "Jalen Williams|Cason Wallace"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-26T23:06:11+0000"
  },
  "17979752872733450": {
   "auto": false,
@@ -3453,6 +3534,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-16T00:15:20+0000"
+ },
+ "18068266337784180": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "639",
+  "auto": true,
+  "caption_len": 361,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "SGA、クリッパーズ戦で34得点 —— サンダー開幕3連勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8JAZFkp-t/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Clippers vs. Thunder・2026年10月25日）",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T01:50:17+0000"
  },
  "18068955887782488": {
   "article": "332",
@@ -4797,6 +4905,33 @@
   "template": "news",
   "timestamp": "2026-10-05T23:14:49+0000"
  },
+ "18110436938521744": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "645",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マクシー、ピストンズ戦で29得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8NC0xEW9L/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（76ers vs. Pistons）",
+  "subject": [
+   "Tyrese Maxey"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T02:25:26+0000"
+ },
  "18110738405461496": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5445,6 +5580,37 @@
   "template": "score",
   "timestamp": "2026-10-23T02:10:39+0000"
  },
+ "18118966733098038": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "651",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ESPNが選ぶ2026-27ブレイクアウト候補30人",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De9V9gnDo34/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Victor Wembanyama",
+   "Luka Doncic",
+   "Cade Cunningham",
+   "Anthony Edwards",
+   "Tyrese Maxey"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-26T13:02:28+0000"
+ },
  "18119521814484210": {
   "article": "304",
   "auto": true,
@@ -5891,6 +6057,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-05T09:18:48+0000"
+ },
+ "18126685612675301": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "641",
+  "auto": true,
+  "caption_len": 353,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エドワーズ、ラプターズ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8J4J6jVC3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Timberwolves vs. Raptors・2026年10月25日）",
+  "subject": [
+   "Anthony Edwards"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T01:57:46+0000"
  },
  "18127029214851839": {
   "article": "349",
@@ -6710,6 +6903,33 @@
   "template": "news",
   "timestamp": "2026-10-03T17:32:47+0000"
  },
+ "18143882890523452": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "646",
+  "auto": true,
+  "caption_len": 363,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ザック・ラヴィン、グリズリーズ戦で37得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8XxiDikl9/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Kings vs. Grizzlies・2026年10月25日）",
+  "subject": [
+   "Zach LaVine"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T03:59:08+0000"
+ },
  "18145619362530502": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -7022,6 +7242,33 @@
   "permalink": "https://www.instagram.com/reel/CcPONzxge_7/",
   "product": "REELS",
   "timestamp": "2022-04-12T04:37:27+0000"
+ },
+ "18165101155492888": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "647",
+  "auto": true,
+  "caption_len": 328,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン「センターは望んでいない」—— 76ers今季初黒星",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8mKsFj2y2/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-26T06:04:57+0000"
  },
  "18165355519491420": {
   "arms": {
@@ -7409,6 +7656,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-10T12:59:06+0000"
+ },
+ "18200694358340997": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "643",
+  "auto": true,
+  "caption_len": 430,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヨキッチ「ブーイングしたファンは、もう来なくていい」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8LpNNirqy/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Nikola Jokic rallies Nuggets from 23 down, says booing fans 'not welcome anymore'」",
+  "subject": [
+   "Nikola Jokic"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-26T02:13:29+0000"
  },
  "18201673246380822": {
   "arms": {
@@ -8168,6 +8442,33 @@
   "template": "score",
   "timestamp": "2026-10-23T23:20:17+0000"
  },
+ "18432234145147065": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "638",
+  "auto": true,
+  "caption_len": 355,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、サンダー戦で5得点 —— クリッパーズ敗戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8I0NUCM0e/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Clippers vs. Thunder・2026年10月25日）",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-26T01:48:27+0000"
+ },
  "18436617688178881": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -8218,6 +8519,33 @@
   "template": "news",
   "timestamp": "2026-09-29T18:41:43+0000"
  },
+ "18449400775127259": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "648",
+  "auto": true,
+  "caption_len": 320,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランソン「全部、俺の責任だ」—— ニックス開幕3連敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De8maA9D2xS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-26T06:06:55+0000"
+ },
  "18465127744140971": {
   "auto": false,
   "caption_len": 382,
@@ -8251,6 +8579,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-09-30T15:58:14+0000"
+ },
+ "18476759590184202": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "658",
+  "auto": true,
+  "caption_len": 323,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミラーがウィザーズ戦で39得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-u3flDFTd/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Brandon Miller"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T01:59:28+0000"
  },
  "18585613618069347": {
   "article": "289",
