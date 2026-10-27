@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:58:53+09:00",
+  "updated": "2026-10-27T10:55:47+09:00",
   "items": [
     {
       "id": "134",
@@ -18152,6 +18152,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "パーサーズのベン・シェパード、膝の手術へ\n\n・開幕戦の勝利以降、一度も出場なし\n・26日に膝の半月板損傷の手術を発表\n・昨季は65試合で平均7.1得点\n\n💬 パーサーズのバックコート、このまま踏ん張れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "658",
+      "slug": "658-miller-39-points-wizards",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "ミラーがウィザーズ戦で39得点",
+      "excerpt": "シャーロット・ホーネッツのブランドン・ミラーは現地時間10月26日、本拠地でのワシントン・ウィザーズ戦に36分出場し、フィールドゴール28本中15本(3ポイント10本中5本)を沈めて39得点を記録した。両チーム通じて最多得点者となり、ホーネッツは110-103でウィザーズに勝利した。",
+      "points": [
+        "28本中15本・50%超の3P成功率で39得点",
+        "リバウンド6・スティール3・ブロック2も記録",
+        "ホーネッツが110-103で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/658-miller-39-points-wizards.html",
+      "hero_path": "",
+      "subject": [
+        "Brandon Miller"
+      ],
+      "question": "ミラーのこのペース、今季どこまで続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BRANDON MILLER",
+        "opponent": "vs. WIZARDS",
+        "points": 39,
+        "stats": [
+          "6 REB",
+          "3 STL",
+          "2 BLK",
+          "1 AST",
+          "15/28 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/658-1.jpg",
+        "https://sixten.jp/assets/ig/658-2.jpg",
+        "https://sixten.jp/assets/ig/658-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T10:54:56+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ミラーがウィザーズ戦で39得点\n\n・28本中15本・50%超の3P成功率で39得点\n・リバウンド6・スティール3・ブロック2も記録\n・ホーネッツが110-103で勝利\n\n💬 ミラーのこのペース、今季どこまで続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
