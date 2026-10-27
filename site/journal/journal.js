@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "675-nike-dunk-low-basketball-charm.html",
+    cat: "KICKS",
+    title: "Nike Dunk Low「Basketball Charm」が登場 —— 着脱式バスケットボール型チャーム付き新色、品番JA3772-658",
+    excerpt: "ナイキは、定番モデル「Dunk Low」のウィメンズ新色「Basketball Charm」(品番JA3772-658)を発表した。靴ひもに取り外し可能な金属製のバスケットボール型チャームを取り付けた一足で、2026年秋冬シーズン中の発売を予定している。HYPEBEAST JPが伝えた。",
+    date: "2026.10.27",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "674-seahorses-mikawa-booster-book.html",
     cat: "JAPAN",
     title: "シーホース三河公認ブック「BOOSTER'S 2026-27」11月4日発売 —— 西田優大の覚悟、安齋竜三HC×須田侑太郎の師弟対談も",
