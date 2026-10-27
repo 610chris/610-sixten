@@ -1,5 +1,5 @@
 {
- "updated_utc": "2026-10-27 05:31 UTC",
+ "updated_utc": "2026-10-27 10:54 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
@@ -124,6 +124,39 @@
    ]
   },
   {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sideabar-post-20261026-pritchards-third-quarter-heater-ignites-celtics-past-bulls",
+   "url": "https://www.nba.com/celtics/news/sideabar-post-20261026-pritchards-third-quarter-heater-ignites-celtics-past-bulls",
+   "canonical_url": "https://celtics.com/news/sideabar-post-20261026-pritchards-third-quarter-heater-ignites-celtics-past-bulls",
+   "title": "Pritchard's Third-Quarter Barrage Pushes Celtics Past Bulls",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-27T03:59:00Z",
+   "tags": [
+    "Postgame",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "Payton Pritchard caught fire Monday night. Just don’t call it a heat check.",
+   "facts": [
+    "The Celtics guard erupted for 19 points during the third quarter of Boston’s 134-99 win over Chicago, drilling all five of his 3-point attempts in the frame, including three on three straight possessions late in the quar…",
+    "Those 19 points tied a career high for Pritchard in a quarter, while he became the eighth Celtic to knock down at least five threes without a miss in a single frame.",
+    "He opened with 17 points off the bench in Detroit before scoring four points against New York in the home opener.",
+    "He had shot 38.7 percent from the field and 31.5 percent from 3-point range across 23 career October games.",
+    "He hasn’t shot below 44.2 percent from the field or 38.2 percent from three in any other month.",
+    "He’s shooting 50 percent from the field and 55.6 percent from beyond the arc."
+   ],
+   "quotes": [
+    "Not really actually because I work on those shots,",
+    "So it doesn’t really feel like a bad shot. Obviously it’s not if it goes in.",
+    "I don’t really consider those heat checks for him just because he’s that good of an offensive player,",
+    "It’s about how I attack. Am I touching the paint? Am I pushing the pace? Stuff like that. Controllables,"
+   ]
+  },
+  {
    "source": "MIA 公式（nba.com）",
    "team": "MIA",
    "team_ja": "ヒート",
@@ -243,6 +276,40 @@
    "quotes": [
     "Didn't play well enough and didn't get enough rebounds to get anything going. We had some pretty good looks that didn't go down, but it wasn't simply a case of make or miss. We've got to retrieve the …",
     "We needed better energy in the second half. We had the advantage of playing a team on a back-to-back last night and tonight we were the ones that needed to find a way [on the second night of a back-to…"
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/bulls-blitzed-by-celtics-hot-shooting-fall-134-99-in-rough-showing",
+   "url": "https://www.nba.com/bulls/news/bulls-blitzed-by-celtics-hot-shooting-fall-134-99-in-rough-showing",
+   "canonical_url": "https://bulls.com/news/bulls-blitzed-by-celtics-hot-shooting-fall-134-99-in-rough-showing",
+   "title": "Bulls blitzed by Celtics' hot shooting, fall 134-99 in rough showing",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-27T02:16:39Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "About a mile north of North Station and the TD Garden, home of the Boston Celtics, is the famed Bunker Hill, where one of the first major battles of the American Revolution was fought. And where as kids we all learned how the brave patriot militias were instructed not to fire “until you see the whites of their eyes.”",
+   "facts": [
+    "The result was another Bulls third quarter rout and 134-99 Boston victory.",
+    "The Bulls record dropped to 1-3 in the opener of this early season schedule crucible in which the Bulls with Monday’s Boston game play 10 of the league’s best teams consecutively in the next two weeks.",
+    "Those third quarters were very bad to say the least (40-20 against Washington on Saturday).",
+    "Bulls rookie star Caleb Wilson finished with 17 points, had a couple of blocks and a steal.",
+    "Super stuff for a 20-year-old rookie with a half season of college experience.",
+    "Though Wilson may already have spoiled us averaging almost 23 points per game entering Monday.",
+    "But Wilson clanked up another rough one of five on threes, five of 28 thus far for about 18 percent.",
+    "Norman Powell led with 20 points, four of seven threes and four steals, and Matas Buzelis and Josh Giddey each added 11 points."
+   ],
+   "quotes": [
+    "until you see the whites of their eyes.",
+    "This is their game, right?",
+    "It’s the third quarters that are kind of killing us, and that’s just where we’ve got to get better,",
+    "Every team coming out of training camp feels good about themselves,"
    ]
   },
   {
@@ -1540,34 +1607,6 @@
     "The starting lineup combined to score 105 points, led by 32 from Tyrese Maxey, 24 from Joel Embiid and 21 from Jaylen Brown.",
     "James notched a double-double with 17 points and 10 rebounds.",
     "Milwaukee traded franchise legend and two-time MVP Giannis Antetokounmpo, along with Bobby Portis, to Miami on July 6 for five draft picks and four Heat players."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-preview-20261024",
-   "url": "https://www.nba.com/warriors/news/gameday-preview-20261024",
-   "canonical_url": "https://warriors.com/news/gameday-preview-20261024",
-   "title": "Game Preview: Warriors at Suns - 10/24/26",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-24T06:17:42Z",
-   "tags": [
-    "Game Preview"
-   ],
-   "summary": "WARRIORS FACE PHOENIX ON SECOND NIGHT OF BACK-TO-BACK The Warriors head to Phoenix on Saturday to battle the Suns on the second night of a back-to-back. The Suns look to bounce back after a 41-point opening-night loss to the Portland Trail Blazers. Phoenix eliminated the Warriors in the Play-In Tournament last season and added athletic forward Miles Bridges in the offseason.",
-   "facts": [
-    "The Suns look to bounce back after a 41-point opening-night loss to the Portland Trail Blazers.",
-    "LAST TIME OUT The Golden State Warriors fell 111-108 to the Memphis Grizzlies in their home opener at Chase Center on Friday night.",
-    "Five players scored in double figures as Stephen Curry paced the offense with 24 points.",
-    "Yaxel Lendeborg had a strong outing, recording his first ever double-double with 18 points and a team-high 12 rebounds. »Full Story INJURY & ROSTER NOTES GSW: TBD.",
-    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season.",
-    "COMPELLING NOTE: Warriors: Yaxel Lendeborg recorded his first career double-double on Friday, scoring 18 points and grabbing a team-high 12 rebounds.",
-    "Lendeborg becomes the first Warriors rookie to put up those numbers in a game since Chris Webber on March 1, 1994.",
-    "Suns: Devin Booker is one of the NBA’s longest-tenured active players with one franchise, beginning his 11th season with the Phoenix Suns."
    ],
    "quotes": []
   }
