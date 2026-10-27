@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:06:51+09:00",
+  "updated": "2026-10-27T11:17:47+09:00",
   "items": [
     {
       "id": "134",
@@ -18234,6 +18234,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サンダー、カルーソも右足首負傷 —— 主力4人が同時に不在\n\n・カルーソが右足首捻挫で欠場、ホルムグレンも膝の炎症で欠場\n・ウィリアムズ・ウォレスは前日に手術発表済み\n・代役のミッチェル・マケインが得点をカバー\n\n💬 この主力大量離脱、サンダーの連覇に響く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Suddenly thin Thunder lose Caruso to ankle sprain」\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "660",
+      "slug": "660-edwards-47-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-10-27",
+      "headline": "アンソニー・エドワーズ、キャバリアーズ戦で47得点",
+      "excerpt": "ミネソタ・ティンバーウルブズのアンソニー・エドワーズは現地時間10月26日、敵地でのクリーブランド・キャバリアーズ戦に41分出場し、フィールドゴール33本中19本(3ポイント15本中5本)を沈めて47得点を記録した。両チーム通じて最多得点者となったが、ティンバーウルブズは125-127の2点差でキャバリアーズに敗れた。",
+      "points": [
+        "47得点・FG19/33（57.6%）",
+        "リバウンド4・アシスト4・ブロック2",
+        "ティンバーウルブズは125-127で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/660-edwards-47-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Edwards"
+      ],
+      "question": "エドワーズの47得点、今季ベストゲームだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY EDWARDS",
+        "opponent": "vs. CAVALIERS",
+        "points": 47,
+        "stats": [
+          "4 REB",
+          "4 AST",
+          "2 BLK",
+          "19/33 FG",
+          "5/15 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/660-1.jpg",
+        "https://sixten.jp/assets/ig/660-2.jpg",
+        "https://sixten.jp/assets/ig/660-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-27T11:16:13+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アンソニー・エドワーズ、キャバリアーズ戦で47得点\n\n・47得点・FG19/33（57.6%）\n・リバウンド4・アシスト4・ブロック2\n・ティンバーウルブズは125-127で惜敗\n\n💬 エドワーズの47得点、今季ベストゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
