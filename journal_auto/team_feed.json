@@ -1,8 +1,39 @@
 {
- "updated_utc": "2026-10-28 00:42 UTC",
+ "updated_utc": "2026-10-28 07:20 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261027-bknbos",
+   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261027-bknbos",
+   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261027-bknbos",
+   "title": "Keys to the Game: Celtics 125, Nets 124 (OT)",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-28T04:34:21Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "It’s never a good idea to give the Celtics an extra chance to win at the end of a game. Especially when Jayson Tatum is on the floor.",
+   "facts": [
+    "The Nets had possession with 6.1 seconds remaining while holding onto a one-point lead.",
+    "Paul George grabbed the rebound and immediately called timeout with 2.3 seconds remaining.",
+    "Tatum backpedaled, turned and ran toward the scorer’s table with his index finger pointed toward the rafters before being mobbed by his teammates as they celebrated a thrilling 125-124 win on the second night of a back-t…",
+    "The superstar wing poured in 40 points while shooting 10-of-20 from the field and a career-best 18-of-22 from the free-throw line.",
+    "It marked the 30th 40-point game of his career, second in franchise history only to Larry Bird’s 47.",
+    "Tatum also grabbed five rebounds and handed out a game-high eight assists, all while playing 42 minutes without committing a single turnover.",
+    "Box Score Nuggets Jayson Tatum led the game in both points (40) and assists (eight).Tatum played 42 minutes without committing a turnover.Paul George logged 20 points, seven rebounds, seven assists and two steals.Both te…"
+   ],
+   "quotes": [
+    "We got the ball to the MVP, and he took us home."
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -1472,249 +1503,6 @@
     "Philadelphia’s 127 points, 19 3-pointers and 14 steals against Milwaukee all represent season highs.",
     "Detroit is coming off a 128-111 road win over the Miami Heat on Friday.",
     "Pistons newcomer John Collins scored a team-high 23 points, while former Sixer Paul Reed notched a double-double off the bench with 19 points and 11 rebounds."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261024",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261024",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261024",
-   "title": "Yaxel Lendeborg Stuffs Stat Sheet in Warriors Loss to Suns",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-25T04:43:03Z",
-   "tags": [
-    "Game Recap"
-   ],
-   "summary": "Yaxel Lendeborg recorded 26 points, nine rebounds, five assists, and six 3-pointers in the Warriors’ 131-122 loss to the Phoenix Suns at Mortgage Matchup Center on Saturday. The short-handed Warriors stayed competitive despite Devin Booker exploding for 43 points, seven rebounds, and seven assists. De’Anthony Melton scored 25 points in 26 minutes off the bench, Brandon Williams scored 20 points an…",
-   "facts": [
-    "Yaxel Lendeborg recorded 26 points, nine rebounds, five assists, and six 3-pointers in the Warriors’ 131-122 loss to the Phoenix Suns at Mortgage Matchup Center on Saturday.",
-    "The short-handed Warriors stayed competitive despite Devin Booker exploding for 43 points, seven rebounds, and seven assists.",
-    "De’Anthony Melton scored 25 points in 26 minutes off the bench, Brandon Williams scored 20 points and added five assists as the starting point guard in place of Stephen Curry, and Graham Ike recorded his first career dou…",
-    "The Warriors made 17 3-pointers, shooting 43.6% from three but were outscored by 20 points, 27-7, in transition.",
-    "Lendeborg hit two early 3-pointers and assisted on a Brandon Williams corner 3-pointer that gave the Warriors an early 11-4 lead.",
-    "Ike also set the tone on the offensive glass, grabbing two of the Warriors' seven offensive rebounds in the quarter — those seven offensive rebounds led to 10 second-chance points.",
-    "The rookies led the eight Warriors who scored in the opening quarter, as Golden State outscored Phoenix 25-22.",
-    "MELTON CATCHES FIRE IN THIRD QUARTER De’Anthony Melton struggled offensively in the preseason and was scoreless in 21 minutes during the regular-season opener in Los Angeles."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-defeat-pelicans-home-opener",
-   "url": "https://www.nba.com/nuggets/news/nuggets-defeat-pelicans-home-opener",
-   "canonical_url": "https://nuggets.com/news/nuggets-defeat-pelicans-home-opener",
-   "title": "Nuggets defeat Pelicans in home opener",
-   "author": "Matt Brooks",
-   "published_utc": "2026-10-25T04:29:26Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "What a start to a new season at Ball Arena!",
-   "facts": [
-    "The Denver Nuggets took down the New Orleans Pelicans, 141-135, in an overtime thriller.",
-    "The Nuggets found themselves down by as many as 22 points in the second half, but they rallied back in the fourth quarter behind a tremendous bench stint.",
-    "This was the sixth 22-point second-half comeback in franchise history.",
-    "Jamal Murray led Denver in the scoring department with 42 points on 12-of-25 shooting, 8-of-16 from three-point range, and 10-of-13 from the free-throw line.",
-    "He also dished out 6 assists.",
-    "Nikola Jokić recorded his first triple-double of the season with 35 points on 12-of-23 shooting from the field, 15 rebounds, and 10 assists.",
-    "He also tallied 2 steals and 3 blocks.",
-    "This was the 199th triple-double of Jokić's career, and he's just 10 triple-doubles behind the NBA's all-time leader, Russell Westbrook."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/nuggets-141-pelicans-135-ot-trey-murphy-26-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/nuggets-141-pelicans-135-ot-trey-murphy-26-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/nuggets-141-pelicans-135-ot-trey-murphy-26-points-postgame-wrap",
-   "title": "Nuggets 141, Pelicans 135 (OT): Trey Murphy 26 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-25T04:07:36Z",
-   "tags": [],
-   "summary": "New Orleans has lost three straight heartbreaking games to open the regular season. The third of those was by far the most gut-wrenching.",
-   "facts": [
-    "The Pelicans led by 19 points entering the fourth quarter Saturday in Denver, and still were up 118-102 deep into the period, before the Nuggets went on a critical 12-1 run.",
-    "New Orleans later regained a 124-116 edge on Saddiq Bey free throws with only 1:37 remaining, yet Denver still managed to force overtime, taking advantage of a series of Pelicans turnovers in the final minute.",
-    "Despite six New Orleans players notching double-digit scoring, topped by Trey Murphy’s 26 points on a hot shooting night, the Pelicans were still denied a victory.",
-    "BY THE NUMBERS 38, 35, 35: New Orleans points in the first three quarters, respectively.",
-    "Unfortunately for the Pelicans, they only managed to score five baskets in the final 17 minutes (fourth period plus OT).",
-    "Denver won extra time by a 15-9 margin, with Derik Queen dropping in the only NOLA field goal. 11/38: Pelicans three-point shooting, a stunning final rate of 29 percent, given that they were red-hot in the first half.",
-    "The makes dried up from there, though, with Murphy’s fourth-quarter triple marking the only three ball in the second half (or OT). 23-12: New Orleans edge in fast-break points.",
-    "NEXT FOR NEW ORLEANS A long, late-night return flight from Colorado before a day off Sunday."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/caleb-wilson-scores-30-as-bulls-fall-to-wizards-in-home-opener",
-   "url": "https://www.nba.com/bulls/news/caleb-wilson-scores-30-as-bulls-fall-to-wizards-in-home-opener",
-   "canonical_url": "https://bulls.com/news/caleb-wilson-scores-30-as-bulls-fall-to-wizards-in-home-opener",
-   "title": "Caleb Wilson scores 30 as Bulls fall to Wizards in Home Opener",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-25T03:33:38Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "For one shining moment on Saturday night, the Bulls in their 2026-27 home opener just about had themselves the shiniest of moments.",
-   "facts": [
-    "For one shining moment on Saturday night, the Bulls in their 2026-27 home opener just about had themselves the shiniest of moments.",
-    "Trailing by 21 points with 10 minutes left in the game after being doubled up 40-20 in the third quarter by the visiting Washington Wizards, the Bulls still seemed to be doubling down on what wasn’t working.",
-    "And the Bulls still trailed by 14 points with just over two minutes left, the arena emptying if not the Bulls’ belief.",
-    "That’s when Trae Young forgot he’d probably never blocked the shot of a guard and tried to against Norman Powell 28 feet from the rim.",
-    "Five Bulls plays later (either three-point makes or three-point plays) in five straight possessions amidst not so much Washington wizardry, and the Bulls, believe or not, were one shot away from a tie following a Matas B…",
-    "The Bulls on yet another brutal three-point shooting night even got another three from Powell with 3.4 seconds left.",
-    "Though only just close enough for a 124-120 Bulls loss and a 1-2 start to the new season.",
-    "And so going against 20 some feet of centers in Anthony Davis, Alex Sarr and Deandre Ayton proved too much to overcome as Washington won the boards despite the Bulls scrappiness, had a dozen offensive rebounds often for …"
-   ],
-   "quotes": [
-    "It’s good to know the character of the guys we have on the team,",
-    "We put ourselves in that position ourselves,",
-    "So I wouldn’t say I’d give... a moral victory, but I feel like it shows we have fight.",
-    "Why is the NBA so mad at the Bulls?"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/with-stars-sidelined-mavericks-fade-late-in-loss-to-spurs",
-   "url": "https://www.nba.com/mavs/news/with-stars-sidelined-mavericks-fade-late-in-loss-to-spurs",
-   "canonical_url": "https://mavs.com/mavs/news/with-stars-sidelined-mavericks-fade-late-in-loss-to-spurs",
-   "title": "With stars sidelined, Mavericks fade late in loss to Spurs",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-25T02:30:14Z",
-   "tags": [
-    "dallas mavericks",
-    "Marcus Sasser",
-    "nba",
-    "Sergio De Larrea"
-   ],
-   "summary": "Plenty of things conspired against the Mavericks on Saturday night at their regular-season home opener.",
-   "facts": [
-    "Most distressing was the injury-related absences of Cooper Flagg and Kyrie Irving.",
-    "But it was also hard to fathom that the defending Western Conference champion San Antonio Spurs would start the season 0-3.",
-    "But the Spurs eventually solved the short-staffed Mavericks and scored a 122-106 victory at American Airlines Center.",
-    "Both teams left the building with 1-2 records.",
-    "They rallied in the third quarter from a 77-63 deficit and took a lead at 85-84 when rookie Sergio De Larrea, who was superb in relief of Irving as the primary point guard with 21 points, nailed a baseline jumper.",
-    "But the Spurs gathered themselves, went on a 16-6 blitz bridging the third and fourth quarters to go up 100-91 and cruised to the finish line, going up 112-96 with five minutes remaining.",
-    "The Spurs rode their young core of Wembanyama, Stephon Castle and Dylan Harper, each of whom topped 19 points, as did relative graybeard De'Aaron Fox.",
-    "The Mavericks’ fade down the stretch might have been predictable, given they were playing the second night of back-to-back games after winning in Indiana 24 hours earlier."
-   ],
-   "quotes": [
-    "We competed at a high level,",
-    "At one point, I felt we kind of had them out of rhythm. They just didn’t look themselves. And I thought the offensive rebounds ignited their run. And that’s the trade-off in the zone. It’s tough to ha…",
-    "In hindsight, I wish we could have gotten to a point where he could have gotten catches and not have to initiate the offense and (face) Castle’s pressure. I thought he was great. His defense is improv…",
-    "The best scenario for us is to have multiple handlers,"
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hornets-turn-the-page-quickly-stay-connected-to-beat-heat",
-   "url": "https://www.nba.com/hornets/news/hornets-turn-the-page-quickly-stay-connected-to-beat-heat",
-   "canonical_url": "https://hornets.com/news/hornets-turn-the-page-quickly-stay-connected-to-beat-heat",
-   "title": "Hornets Turn The Page Quickly, Stay Connected To Beat Heat",
-   "author": "Sam Perley",
-   "published_utc": "2026-10-25T02:04:07Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "A little less than twenty-four hours after a brutal loss to Atlanta in their home opener, the Charlotte Hornets responded in impressive fashion with a hard-fought 115-110 victory over the Miami Heat on Saturday night at Spectrum Center.",
-   "facts": [
-    "A little less than twenty-four hours after a brutal loss to Atlanta in their home opener, the Charlotte Hornets responded in impressive fashion with a hard-fought 115-110 victory over the Miami Heat on Saturday night at …",
-    "Top Performers: Brandon Miller matched the third-highest single-game scoring output of his career, finishing with 34 points on 10-of-29 shooting, a career-high 11 made free throws, seven rebounds, four assists and a game…",
-    "In total, Charlotte had four players – Miller, Dennis Schröder (25), Naz Reid (23) and Grayson Allen (20) – all score 20-or-more points for just the third time since the start of last season.",
-    "Davion Mitchell led Miami with a team-high 22 points – 15 in the fourth quarter – on 8-of-13 shooting and a game-high 10 assists in the loss, as Miami sealed its first 0-3 start since the 2007-08 campaign.",
-    "Bam Adebayo added 20 points, while two-time NBA MVP Giannis Antetokounmpo struggled to the tune of only 14 points on 4-of-11 shooting and six rebounds in 25 minutes before fouling out in the fourth quarter.",
-    "Turning Point: Five points clear of the Heat early in the third quarter, Charlotte ripped off a 15-0 run in just over three minutes to quickly take an 83-63 lead by the 7:19 mark.",
-    "The Hornets maintained their sizable advantage (96-75) heading into the fourth, but Miami stormed back in emphatic with a 29-8 surge to tie the game at 104-104 with 3:45 to go.",
-    "Charlotte’s momentum swinger came about 25 seconds later in the form of an Allen four-point play as the shot clock expired."
-   ],
-   "quotes": [
-    "I’m proud of the group from the beginning of the game to the end of the game. I thought today we were going to learn a lot about ourselves after coming off a loss like that (on Friday), getting booed …"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-comeback-falls-short-charlotte-adebayo-miller-mitchell-antetokounmpo",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-comeback-falls-short-charlotte-adebayo-miller-mitchell-antetokounmpo",
-   "canonical_url": "https://heat.com/news/coups-takeaways-comeback-falls-short-charlotte-adebayo-miller-mitchell-antetokounmpo",
-   "title": "Coup’s Takeaways: Spirited Comeback Falls Short As HEAT Drop Clutch Game In Charlotte",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-10-25T01:45:18Z",
-   "tags": [
-    "Coups Takeaways",
-    "CoupWords",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. This is not the start to the season anyone wanted, but at least this time we saw an extended glimpse of what this HEAT group could be.",
-   "facts": [
-    "Usual starters, and another odd opening stretch with Miami on a tough back-to-back, playing on the road at 6 pm the night after an 8 pm home game.",
-    "Again, before you could blink Miami was in a hole, Bam Adebayo scoring on the first touch of the game but the Hornets immediately went on a 9-0 run in response.",
-    "This time, Miami had a rapid response, Klay Thompson getting going – a contested look and a clean one off an Adebayo triple – with a 10-0 run of their own, Davion Mitchell pressuring rookie Christian Anderson in the back…",
-    "All tied up at 31 through one, with Giannis Antetokounmpo picking up his third foul early in the second on an overturned call.",
-    "Hornets up, 66-58, at the break, Miami again on the wrong side of the arc percentages, 5-of-15 while Charlotte hit 10-of-22, including 6-of-7 from Schroder and Naz Reid.",
-    "The make-or-miss was one thing, but Charlotte also had nine offensive boards and 16 second-chance points, to that point another off night for the defensive rebounding – widely, and still, expected to be a strength for th…",
-    "A tipped entry going to Antetokounmpo went the other way for a deep Grayson Allen three in transition, and suddenly the deficit was 20, the Hornets up to 13-of-26 from deep.",
-    "Miami was able to string some stops together from there, a creeping comeback initiated as an Adebayo wing three brought it back to 15."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-jarrett-allen-rookie-tales-261024",
-   "url": "https://www.nba.com/cavaliers/news/features-jarrett-allen-rookie-tales-261024",
-   "canonical_url": "https://cavs.com/news/features-jarrett-allen-rookie-tales-261024",
-   "title": "Rookie Tales: Jarrett Allen",
-   "author": "clejgabriele",
-   "published_utc": "2026-10-25T01:32:59Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "Feel free to check the stats yourself, but as far as Cavs.com is concerned, Jarrett Allen is, pound-for-pound, the nicest dude in the NBA.",
-   "facts": [
-    "The Brooklyn Nets – who the Cavs welcomed on Saturday – knew how nice J.A. was, but they traded him to Cleveland anyway.",
-    "That four-team deal took place back on January 16 – with the Wine & Gold acquiring Allen in a four-team trade, essentially dealing Dante Exum, a 2022 first rounder (who turned out to be MarJon Beauchamp) and a 2024 secon…",
-    "And all J.A. has done since his arrival is climb into the franchise’s top 10 in blocks (8th, 434), offensive boards (1,177), defensive boards (2,689) and overall rebounds (3,866).",
-    "He’s one double-double away from 250 for his career.",
-    "And at .653, the 28-year-old big man has the highest shooting percentage in Cavaliers team history.",
-    "Before Jarrett brought his talents to Cleveland, he played his first three-and-a-half pro seasons with the Nets after being drafted with the 22nd overall pick in 2017 out of Texas.",
-    "J.A. was good as a rookie – averaging in 8.2 points and 5.4 rebounds in 70 appearances – but the Nets were woeful, winning just 28 games and pulling up last in the Atlantic Division.",
-    "Now a 10-year veteran, Allen took a moment to look back on the ups and downs of his freshman year with Kenny Atkinson’s Nets in today’s installment of Rookie Tales … What was Kenny Atkinson like back when you were a rook…"
    ],
    "quotes": []
   }
