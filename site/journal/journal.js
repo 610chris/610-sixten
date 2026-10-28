@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "693-mavericks-ceo-welts-retires-casson.html",
+    cat: "NBA",
+    title: "マーベリックスCEOリック・ウェルツが退任へ —— 後任はチームプレジデントのキャソン、新アリーナ計画は継続",
+    excerpt: "ダラス・マーベリックスは、CEOのリック・ウェルツが2度目の退任をすると発表した。後任にはチームプレジデントのイーサン・キャソンが就く。ウェルツは北ダラスの新アリーナ計画を主導するため2024年に加入していた。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "692-haliburton-hamstring-injury.html",
+    cat: "NBA",
+    title: "タイリース・ハリバートン、左ハムストリングを負傷 —— 復帰直後のペイサーズに暗雲、離脱期間は未定",
+    excerpt: "ESPNのシャムズ・シャラニア記者が一報。インディアナ・ペイサーズのタイリース・ハリバートンは左ハムストリングを負傷し、しばらく欠場する見通しとなった。アキレス腱断裂からの復帰直後での離脱で、期間は現時点で未定。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "691-dybantsa-return-nba-debut-cavaliers.html",
     cat: "NBA",
     title: "ウィザーズ1位指名ダイバンツァ、負傷から復帰 —— 28日のキャバリアーズ戦でNBAデビューへ",
