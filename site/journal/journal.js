@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "691-dybantsa-return-nba-debut-cavaliers.html",
+    cat: "NBA",
+    title: "ウィザーズ1位指名ダイバンツァ、負傷から復帰 —— 28日のキャバリアーズ戦でNBAデビューへ",
+    excerpt: "ワシントン・ウィザーズは、2026年ドラフト全体1位指名のAJ・ダイバンツァを現地10月28日のキャバリアーズ戦に向けて「出場可能」にアップグレードしたと発表した。プレシーズン終盤の左足首負傷で開幕から4試合を欠場しており、今シーズン初出場となる。ESPNが報じた。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "690-nike-kobe-mamba-vs-diamondback-pack.html",
     cat: "KICKS",
     title: "Nike Kobe「Mamba Vs. Diamondback」が始動 —— 2027年NBAオールスターに合わせた全4モデル",
