@@ -1,8 +1,124 @@
 {
- "updated_utc": "2026-10-28 07:20 UTC",
+ "updated_utc": "2026-10-28 14:27 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-play-pelicans-road",
+   "url": "https://www.nba.com/nuggets/news/nuggets-play-pelicans-road",
+   "canonical_url": "https://nuggets.com/news/nuggets-play-pelicans-road",
+   "title": "Nuggets play Pelicans on the road",
+   "author": "Matt Brooks",
+   "published_utc": "2026-10-28T14:17:45Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets hit the road for a game against the New Orleans Pelicans.",
+   "facts": [
+    "INJURY REPORT Denver: Alpha Diallo — OUT (Personal Reasons) Johnson, Cameron — DOUBTFUL (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) New Orlea…",
+    "They hosted the Pelicans in their home opener and won, 141-135, in an overtime thriller.",
+    "Jamal Murray had a 40-point night, but the story of the game was rookie Trevon Brazile, who put up 17 points and 9 rebounds in just his second NBA game.",
+    "Behind Brazile, Murray, and Nikola Jokić's first triple-double of the season, Denver rallied back from a 22-point second-half deficit, tied for the largest second-half home comeback in franchise history.",
+    "The Nuggets then lost to the Golden State Warriors, putting them at 1-2 to begin the season.",
+    "TUNE-IN: Wednesday, October 28, 6:00 p.m.",
+    "MT; Altitude TV 2 on KTVD; Altitude+; Altitude Sports Radio 950 AM"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "roster",
+   "key": "https://www.nba.com/timberwolves/news/timberwolves-sign-enrique-freeman-to-two-way-contract",
+   "url": "https://www.nba.com/timberwolves/news/timberwolves-sign-enrique-freeman-to-two-way-contract",
+   "canonical_url": "https://timberwolves.com/news/timberwolves-sign-enrique-freeman-to-two-way-contract",
+   "title": "Timberwolves Sign Enrique Freeman to Two-Way Contract",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-10-28T13:53:48Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "Minneapolis/St. Paul –The Minnesota Timberwolves today announced the team has signed forward Enrique Freeman to a two-way contract. Per team policy, terms of the agreement were not released.",
+   "facts": [
+    "Paul –The Minnesota Timberwolves today announced the team has signed forward Enrique Freeman to a two-way contract.",
+    "Freeman, 6-7, appeared in four games for the Timberwolves during the 2025-26 season, totaling 13 points, 10 rebounds, two assists, two steals and three blocks.",
+    "Originally a second-round pick (No. 50 overall) by the Indiana Pacers in 2024 NBA Draft, Freeman saw action in 22 games (one start) for the Pacers during the 2024-25 campaign, averaging 2.1 points on 43.2% shooting and 1…",
+    "Freeman also spent time with the Iowa Wolves (2025-26), the NBA G League affiliate of the Timberwolves and the Indiana Mad Ants, the NBA G League affiliate of the Pacers (2024-25).",
+    "In 55 career games (all starts), Freeman averaged 16.6 points on 54.4% shooting, 9.1 rebounds, 2.6 assists and one block in an average of 33.3 minutes per game.",
+    "The Cleveland native appeared in 132 games (122 starts) in five seasons at the University of Akron, owning career collegiate averaging 14.0 points on 62.7% shooting, including 35.0% from three, 10.6 rebounds, 1.3 assists…",
+    "Following his senior season, Freeman was named 2024 MAC Player of the year.",
+    "The forward finished his collegiate career ranked first in rebounds (1,405), second in blocks (188) and third in points (1,843) in school history."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-at-pacers-game-preview-injury-report-and-how-to-watch-10-28-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-at-pacers-game-preview-injury-report-and-how-to-watch-10-28-2026",
+   "canonical_url": "https://sixers.com/news/sixers-at-pacers-game-preview-injury-report-and-how-to-watch-10-28-2026",
+   "title": "Sixers at Pacers: Game Preview, Injury Report and How to Watch 10/28/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-10-28T12:38:04Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (3-1) travel to face the Indiana Pacers (2-2) on Wednesday. Tipoff is scheduled for 7 p.m. EDT at Gainbridge Fieldhouse.",
+   "facts": [
+    "The Philadelphia 76ers (3-1) travel to face the Indiana Pacers (2-2) on Wednesday.",
+    "Tipoff is scheduled for 7 p.m.",
+    "The Sixers fell, 106-93, to first-place Detroit on Sunday despite Tyrese Maxey scoring 18 of his game-high 29 points in the fourth quarter.",
+    "The Pacers suffered a 110-102 setback to Milwaukee on Monday, with Tyrese Haliburton tallying 22 points, six rebounds and nine assists.",
+    "Pascal Siakam notched a double-double in the loss with 20 points and 13 rebounds.",
+    "Here are the RAV4 Things to Know ahead of Wednesday’s game: Hot Start Reigning Eastern Conference Player of the Week Tyrese Maxey leads the conference and ranks fourth in the NBA in scoring at 28.8 points per game.",
+    "On the Run Indiana (19.5) and Philadelphia (19.3) rank fifth and tied for sixth in the league, respectively, in fast-break points per game.",
+    "Maxey leads all players at 7.5 fast-break points per game, while LeBron James is fourth at 6.0."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261027-me-derrick-white-taken-aback-by-mvp-chants",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261027-me-derrick-white-taken-aback-by-mvp-chants",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261027-me-derrick-white-taken-aback-by-mvp-chants",
+   "title": "‘Me?’ Derrick White Taken Aback by ‘MVP’ Chants",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-28T05:00:00Z",
+   "tags": [
+    "Postgame",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – Jayson Tatum put together an MVP-caliber performance Tuesday night, pouring in 40 points, dishing out eight assists and ultimately calling game with an overtime buzzer-beater. But late in Boston’s 125-124 overtime win over the Brooklyn Nets, it was Derrick White who unexpectedly received the MVP treatment from the TD Garden crowd.",
+   "facts": [
+    "BOSTON – Jayson Tatum put together an MVP-caliber performance Tuesday night, pouring in 40 points, dishing out eight assists and ultimately calling game with an overtime buzzer-beater.",
+    "But late in Boston’s 125-124 overtime win over the Brooklyn Nets, it was Derrick White who unexpectedly received the MVP treatment from the TD Garden crowd.",
+    "The first round of MVP chants came with 33 seconds remaining in the fourth quarter, after White cut toward the basket, took a feed from Tatum and finished a go-ahead and-one dunk.",
+    "He was fouled again with 13.3 seconds remaining and headed back to the line for two more attempts.",
+    "White furrowed his brow, looked around and questioned, “Me?” He then shook his head in disbelief before calmly knocking down both free throws to give Boston a 116-111 lead.",
+    "He didn’t have his best shooting night, going 5-for-15 from the field, but he found other ways to impact winning.",
+    "That included the type of hustle plays Tatum was referring to, as the 6-foot-4 guard pulled down a game-high three offensive rebounds."
+   ],
+   "quotes": [
+    "I didn’t know if they were talking about JT because he passed it to me, and that makes more sense than me getting it.",
+    "The second time I was really confused,",
+    "You know, I got a lot of love for our fans, and I appreciate it, but I was a little confused.",
+    "It is special, something that you don’t want to take for granted,"
+   ]
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -214,6 +330,30 @@
    "quotes": []
   },
   {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-wascle-261028",
+   "url": "https://www.nba.com/cavaliers/news/preview-wascle-261028",
+   "canonical_url": "https://cavs.com/news/preview-wascle-261028",
+   "title": "Cavs vs Wizards | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-27T19:42:14Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "To wrap-up the three-game homestand, the Cavs host the Washington Wizards in the first of three meetings between the two this season. The new-look Wizards sit at 2-2 on the young season.",
+   "facts": [
+    "The new-look Wizards sit at 2-2 on the young season.",
+    "The story of the night was rookie Meleek Thomas who made his NBA debut to the tune of 16 points in 19 minutes, making four of his five three point attempts.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - Two-Way - OUT Wizards: -Justin Champagnie - Foot - OUT -AJ Dybantsa - Ankle - QUESTI…",
+    "UP NEXT Cleveland's first back-to-back wraps-up tomorrow night when taking on the Hawks in Atlanta at 8PM ET."
+   ],
+   "quotes": []
+  },
+  {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
    "team_ja": "ペリカンズ",
@@ -231,7 +371,7 @@
     "The Pelicans return home to host the Denver Nuggets on Wednesday at the Smoothie King Center at 7:00 pm CT.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
     "Get the latest Pelicans-Nuggets injury report, team news, tune in details, and gameday information: PELICANS VS NUGGETS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole P…",
-    "DOUBTFUL (G League two-way) Julian Reese PROBABLE (G League two-way) NUGGETS INJURY REPORT Alpha Diallo OUT (personal reasons) Spencer Jones OUT (hamstring) Julian Strawther OUT (left knee sprain) Cameron Johnson DOUBTFU…",
+    "DOUBTFUL (G League two-way) Julian Reese PROBABLE (G League two-way) NUGGETS INJURY REPORT Alpha Diallo OUT (personal reasons) Spencer Jones OUT (bilateral hamstring injury management) Julian Strawther OUT (left knee spr…",
     "Golden State Warriors Bryce Hopkins, Aaron Gordon, Nikola Jokić, Christian Braun, Jamal Murray NEW ORLEANS PELICANS (0-3) Previous Game Lineup: October 24 loss at Denver Nuggets Trey Murphy III, Zion Williamson, DeAndre …",
     "Nuggets Game Time, TV Channel, Radio & Location 📅 Game Time: Wednesday, Oct. 28 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Nuggets TV: ALT/KTVD/…"
    ],
@@ -1479,32 +1619,6 @@
     "It starts with Jalen Brunson, who’s an All-NBA player and Finals MVP, who’s got a diversified skillset and can make shots from three levels,",
     "We’ll see how the shooting slot goes and see how my body feels after shootaround. And then, go from there."
    ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-pistons-game-preview-injury-report-and-how-to-watch-10-25-2026",
-   "title": "Sixers vs. Pistons: Game Preview, Injury Report and How to Watch 10/25/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-10-25T13:16:50Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (3-0) play the second half of a back-to-back Sunday against the Detroit Pistons (2-0) at Xfinity Mobile Arena. Tipoff is scheduled for 7:30 p.m. EDT.",
-   "facts": [
-    "The Philadelphia 76ers (3-0) play the second half of a back-to-back Sunday against the Detroit Pistons (2-0) at Xfinity Mobile Arena.",
-    "Tipoff is scheduled for 7:30 p.m.",
-    "The Sixers defeated the Milwaukee Bucks on Saturday, 127-116, marking the 21st season in franchise history in which they have started 3-0.",
-    "Joel Embiid recorded his first triple-double of the season and the 10th of his career with 28 points, 11 rebounds and 10 assists.",
-    "Jaylen Brown and Tyrese Maxey scored 27 and 26 points, respectively, while VJ Edgecombe added a double-double with 17 points and a career-high-tying 13 rebounds.",
-    "Philadelphia’s 127 points, 19 3-pointers and 14 steals against Milwaukee all represent season highs.",
-    "Detroit is coming off a 128-111 road win over the Miami Heat on Friday.",
-    "Pistons newcomer John Collins scored a team-high 23 points, while former Sixer Paul Reed notched a double-double off the bench with 19 points and 11 rebounds."
-   ],
-   "quotes": []
   }
  ]
 }
