@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:37:01+09:00",
+  "updated": "2026-10-28T11:56:14+09:00",
   "items": [
     {
       "id": "134",
@@ -19278,6 +19278,51 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ウェンバンヤマ、キングス戦で29得点10REB5BLK\n\n・スパーズが130-103で快勝\n・FG14/21・27分で29得点\n・10リバウンド・5ブロックの両面で活躍\n\n💬 27分で29点10REB5BLK、今季のDPOY候補はウェンビー?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Spurs vs. Kings・2026年10月27日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "687",
+      "slug": "687-towns-27-points-20-rebounds-pistons",
+      "category": "NBA",
+      "date": "2026-10-28",
+      "headline": "KAT、ピストンズ戦で27得点20リバウンド",
+      "excerpt": "ニューヨーク・ニックスのカール-アンソニー・タウンズは現地時間10月27日、デトロイト・ピストンズ戦に33分出場し、27得点・20リバウンド(オフェンス8)を記録した。両チーム通じて最多得点者となり、ニックスは111-97でピストンズに勝利した。",
+      "points": [
+        "ニックスが111-97でピストンズに勝利",
+        "タウンズは27得点・20リバウンド(オフェンス8)",
+        "FG12/21、両チーム通じて最多得点"
+      ],
+      "source": "ESPN ボックススコア(Knicks vs. Pistons・2026年10月27日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/687-towns-27-points-20-rebounds-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Karl-Anthony Towns"
+      ],
+      "question": "タウンズの20リバウンド、今季ベストだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KARL-ANTHONY TOWNS",
+        "opponent": "vs. PISTONS",
+        "points": 27,
+        "stats": [
+          "20 REB",
+          "8 OREB",
+          "12/21 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/687-1.jpg",
+        "https://sixten.jp/assets/ig/687-2.jpg",
+        "https://sixten.jp/assets/ig/687-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-28T11:55:42+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "KAT、ピストンズ戦で27得点20リバウンド\n\n・ニックスが111-97でピストンズに勝利\n・タウンズは27得点・20リバウンド(オフェンス8)\n・FG12/21、両チーム通じて最多得点\n\n💬 タウンズの20リバウンド、今季ベストだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Knicks vs. Pistons・2026年10月27日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
