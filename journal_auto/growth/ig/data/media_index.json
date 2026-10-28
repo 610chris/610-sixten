@@ -1284,6 +1284,33 @@
   "template": "score",
   "timestamp": "2026-10-22T02:53:48+0000"
  },
+ "17932416837164150": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "684",
+  "auto": true,
+  "caption_len": 409,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウルブズのエドワーズ、右膝手術で最大2カ月離脱",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfBGL3bjWix/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Sources: Wolves' Edwards to miss up to 2 months after knee procedure」",
+  "subject": [
+   "Anthony Edwards"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T00:01:41+0000"
+ },
  "17932521938395611": {
   "auto": false,
   "caption_len": 0,
@@ -1390,6 +1417,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-14T02:03:49+0000"
+ },
+ "17937714774399823": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "667",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジョージ、グリズリーズ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-832djlae/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Jazz vs. Grizzlies・2026年10月26日)",
+  "subject": [
+   "Keyonte George"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T04:01:50+0000"
  },
  "17937764534320203": {
   "auto": false,
@@ -1663,6 +1717,33 @@
   "permalink": "https://www.instagram.com/reel/CkINrDAgmva/",
   "product": "REELS",
   "timestamp": "2022-10-25T07:29:26+0000"
+ },
+ "17944210653091814": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "662",
+  "auto": true,
+  "caption_len": 330,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス・アデトクンボ、マブス戦で29得点15リバウンド11アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-0GcmCdnS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T02:45:12+0000"
  },
  "17944303054815657": {
   "auto": false,
@@ -2226,6 +2307,33 @@
   "permalink": "https://www.instagram.com/reel/CkF1FEqAcO0/",
   "product": "REELS",
   "timestamp": "2022-10-24T09:15:51+0000"
+ },
+ "17977991526150205": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "664",
+  "auto": true,
+  "caption_len": 357,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エイジェイ・ミッチェル、サンズ戦で30得点 —— 主力4人欠くサンダーが勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-0nLlDbHo/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア（Thunder vs. Suns・2026年10月26日）",
+  "subject": [
+   "Ajay Mitchell"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T02:49:39+0000"
  },
  "17978190540067518": {
   "arms": {
@@ -3074,6 +3182,33 @@
   "template": "news",
   "timestamp": "2026-10-19T22:05:38+0000"
  },
+ "18033944417675741": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "673",
+  "auto": true,
+  "caption_len": 328,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミーリック・トーマス、NBAデビューで16得点の衝撃",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De_L2yvja_A/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Meleek Thomas"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-27T06:12:45+0000"
+ },
  "18034017836855201": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -3664,6 +3799,33 @@
   "template": "news",
   "timestamp": "2026-10-12T09:08:41+0000"
  },
+ "18073001711764391": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "665",
+  "auto": true,
+  "caption_len": 390,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイラー・ヒーロー、ペイサーズ戦で23得点10リバウンド7アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-0zyIAv1S/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Bucks vs. Pacers・2026年10月26日）",
+  "subject": [
+   "Tyler Herro"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T02:51:20+0000"
+ },
  "18073427768560264": {
   "article": "329",
   "auto": true,
@@ -3833,6 +3995,31 @@
   "template": "news",
   "timestamp": "2026-10-05T03:00:39+0000"
  },
+ "18078737792426198": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "674",
+  "auto": true,
+  "caption_len": 359,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "シーホース三河公認ブック『BOOSTER'S 2026-27』11月4日発売",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De_mdl3jO9c/",
+  "product": "REELS",
+  "route": "source",
+  "source": "株式会社東京ニュース通信社プレスリリース（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-27T10:05:05+0000"
+ },
  "18079217978465203": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -3963,6 +4150,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-03T06:45:03+0000"
+ },
+ "18088463615306964": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "677",
+  "auto": true,
+  "caption_len": 328,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バム・アデバヨ「外野はスケープゴートにしたがる」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfAP-zknCQ1/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Bam Adebayo|Giannis Antetokounmpo"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-27T16:08:03+0000"
  },
  "18089191391273945": {
   "arms": {
@@ -4397,6 +4611,33 @@
   "template": "news",
   "timestamp": "2026-10-14T04:58:33+0000"
  },
+ "18099546443095034": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "671",
+  "auto": true,
+  "caption_len": 337,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブラウン陣営、トレード要求報道を否定「10000%嘘」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De_LfDxgVn0/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN",
+  "subject": [
+   "Jaylen Brown"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-27T06:09:20+0000"
+ },
  "18099558254066049": {
   "article": "271",
   "auto": true,
@@ -4785,6 +5026,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-08T01:47:34+0000"
+ },
+ "18108454163216509": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "661",
+  "auto": true,
+  "caption_len": 320,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クーパー・フラッグ、ヒート戦で29得点11アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-z6rCAJ1F/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T02:43:33+0000"
  },
  "18108570026247827": {
   "article": "320",
@@ -5267,6 +5535,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-07T01:25:27+0000"
+ },
+ "18114505472616681": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "668",
+  "auto": true,
+  "caption_len": 394,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レンデボーグ、ナゲッツ戦で31得点12リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De_DT2DlGQ6/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Warriors vs. Nuggets・2026年10月26日)",
+  "subject": [
+   "Yaxel Lendeborg"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T04:58:06+0000"
  },
  "18115034726061426": {
   "article": "338",
@@ -6374,6 +6669,33 @@
   "template": "news",
   "timestamp": "2026-10-25T00:12:10+0000"
  },
+ "18132069358764541": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "678",
+  "auto": true,
+  "caption_len": 323,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、左膝の腫れで数週間離脱の見通し",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfARu6KlYo2/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（Shams Charania記者ほか）",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-27T16:23:20+0000"
+ },
  "18132134434690332": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -6781,6 +7103,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:12:30+0000"
+ },
+ "18142491175614444": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "660",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アンソニー・エドワーズ、キャバリアーズ戦で47得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-zuP6FOy-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Anthony Edwards"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T02:41:52+0000"
  },
  "18142680781611458": {
   "arms": {
@@ -7208,6 +7557,34 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T02:01:11+0000"
+ },
+ "18159327550515477": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "681",
+  "auto": true,
+  "caption_len": 393,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャズのジャクソンJr.、右膝MCL断裂で6〜8週間離脱",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfBF_w-jmcD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Sources: Jazz's Jackson (knee) out 6-8 weeks; Markkanen also hurt」",
+  "subject": [
+   "Jaren Jackson Jr.",
+   "Lauri Markkanen"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T00:00:01+0000"
  },
  "18160332118498974": {
   "article": "325",
@@ -7657,6 +8034,33 @@
   "template": "news",
   "timestamp": "2026-10-10T12:59:06+0000"
  },
+ "18200358139378805": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "659",
+  "auto": true,
+  "caption_len": 373,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、カルーソも右足首負傷 —— 主力4人が同時に不在",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-zG2tAQ9D/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「Suddenly thin Thunder lose Caruso to ankle sprain」",
+  "subject": [
+   "Alex Caruso"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-27T02:36:29+0000"
+ },
  "18200694358340997": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -7759,6 +8163,33 @@
   "permalink": "https://www.instagram.com/reel/CawMpr-ACVY/",
   "product": "REELS",
   "timestamp": "2022-03-06T06:56:40+0000"
+ },
+ "18211337980317261": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "666",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "シェングン、ホークス戦で29得点9reb9ast",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-8sH_AVMe/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Rockets vs. Hawks・2026年10月26日)",
+  "subject": [
+   "Alperen Sengun"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T04:00:09+0000"
  },
  "18216903118356239": {
   "article": "318",
@@ -8170,6 +8601,33 @@
   "template": "news",
   "timestamp": "2026-10-02T04:05:18+0000"
  },
+ "18358936951221671": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "663",
+  "auto": true,
+  "caption_len": 299,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ペイトン・プリチャード、ブルズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De-0ZRZibnm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Payton Pritchard"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-27T02:48:00+0000"
+ },
  "18375283660241494": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -8196,6 +8654,35 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T03:46:09+0000"
+ },
+ "18375313312211155": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "670",
+  "auto": true,
+  "caption_len": 343,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "NBA実使用ボール入りフォトパネル第2弾が発売",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/De_LSY1FFE-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ファナティクス・ジャパン合同会社",
+  "subject": [
+   "Stephen Curry",
+   "Jalen Brunson",
+   "Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-27T06:07:48+0000"
  },
  "18382451392229998": {
   "arms": {
@@ -8468,6 +8955,34 @@
   ],
   "template": "score",
   "timestamp": "2026-10-26T01:48:27+0000"
+ },
+ "18433720204144725": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "672",
+  "auto": true,
+  "caption_len": 274,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "マルカネンとジャクソンJr.が同時負傷 —— ジャズ敗戦",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/De_LqVnCAMb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Lauri Markkanen",
+   "Jaren Jackson Jr."
+  ],
+  "template": "news",
+  "timestamp": "2026-10-27T06:11:02+0000"
  },
  "18436617688178881": {
   "arms": {
