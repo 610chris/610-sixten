@@ -1,8 +1,203 @@
 {
- "updated_utc": "2026-10-28 14:27 UTC",
+ "updated_utc": "2026-10-28 19:50 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MIL 公式（nba.com）",
+   "team": "MIL",
+   "team_ja": "バックス",
+   "team_id": 1610612749,
+   "kind": "feature",
+   "key": "https://www.nba.com/bucks/news/statement-from-the-milwaukee-bucks-2",
+   "url": "https://www.nba.com/bucks/news/statement-from-the-milwaukee-bucks-2",
+   "canonical_url": "https://bucks.com/news/statement-from-the-milwaukee-bucks-2",
+   "title": "Statement From The Milwaukee Bucks",
+   "author": "Milwaukee Bucks",
+   "published_utc": "2026-10-28T18:39:12Z",
+   "tags": [],
+   "summary": "MILWAUKEE (Oct. 28, 2026) – As we work to provide a positive experience tonight for fans attending the Bucks game and those planning to watch the Brewers in the World Series at Deer District, the Brewers game will be shown on the big screen in The Deer Garden and will not be shown on the Deer District plaza screen.",
+   "facts": [
+    "MILWAUKEE (Oct. 28, 2026) – As we work to provide a positive experience tonight for fans attending the Bucks game and those planning to watch the Brewers in the World Series at Deer District, the Brewers game will be sho…",
+    "The turnout on the plaza for Game 4 last night was tremendous, and we were thrilled to see so many fans supporting the Brewers."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "WAS 公式（nba.com）",
+   "team": "WAS",
+   "team_ja": "ウィザーズ",
+   "team_id": 1610612764,
+   "kind": "injury",
+   "key": "https://www.nba.com/wizards/news/justin-champagnie-injury-update",
+   "url": "https://www.nba.com/wizards/news/justin-champagnie-injury-update",
+   "canonical_url": "https://washingtonwizards.com/news/justin-champagnie-injury-update",
+   "title": "JUSTIN CHAMPAGNIE INJURY UPDATE",
+   "author": "admin",
+   "published_utc": "2026-10-28T18:36:07Z",
+   "tags": [],
+   "summary": "WASHINGTON, D.C. – The Washington Wizards announced today that forward Justin Champagnie underwent a surgical procedure to repair a fracture in his right foot, which was sustained during the first quarter of Monday’s game against the Charlotte Hornets. The procedure was performed by Dr. Martin J. O’Malley at the Hospital for Special Surgery (HSS) in New York. Updates will be provided as appropriat…",
+   "facts": [
+    "WASHINGTON, D.C. – The Washington Wizards announced today that forward Justin Champagnie underwent a surgical procedure to repair a fracture in his right foot, which was sustained during the first quarter of Monday’s gam…",
+    "O’Malley at the Hospital for Special Surgery (HSS) in New York."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "feature",
+   "key": "https://www.nba.com/knicks/news/knicks-vs-bulls-game-notes-october-28-2026",
+   "url": "https://www.nba.com/knicks/news/knicks-vs-bulls-game-notes-october-28-2026",
+   "canonical_url": "https://knicks.com/news/knicks-vs-bulls-game-notes-october-28-2026",
+   "title": "Knicks vs Bulls Game Notes | October 28, 2026",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-10-28T17:57:01Z",
+   "tags": [
+    "Game Notes",
+    "Orlando Magic"
+   ],
+   "summary": "October 28, 2026 8:00 PM ET | United Center (Chicago, IL) | Game 5; Away Game 2",
+   "facts": [
+    "October 28, 2026 8:00 PM ET | United Center (Chicago, IL) | Game 5; Away Game 2 TV: MSG Networks; Radio: SiriusXM This Day in Knicks History October 28, 1967: Walt Frazier makes his Knicks debut in 111-98 loss to Detroit…",
+    "Clyde scores two points, grabs eight rebounds and dishes out seven assists over 34 minutes.",
+    "October 28, 2019: Bobby Portis pours in 28 points against his former team, as the Knicks stormed back to defeat the Chicago Bulls 105-98 at the Garden for their first victory of the season.",
+    "RJ Barrett recorded a career-high 15 rebounds in his 4th NBA game.",
+    "CHI: New York (4/3/26) -- The New York Knicks defeated the Chicago Bulls, 136-96.",
+    "OG Anunoby led New York with 31 points on 60.0-percent shooting, eight rebounds, two assists and one block.",
+    "Mitchell Robinson collected 17 points on 100.0-percent shooting, 11 rebounds, two steals and one block.",
+    "Jalen Brunson registered 17 points, 10 assists and one rebound."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261028",
+   "url": "https://www.nba.com/magic/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261028",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261028",
+   "title": "Orlando Magic at Toronto Raptors: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-28T17:44:52Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "TORONTO – The Orlando Magic tipped off their first road trip of the 2026-27 campaign in the right fashion.",
+   "facts": [
+    "TORONTO – The Orlando Magic tipped off their first road trip of the 2026-27 campaign in the right fashion.",
+    "In the final minutes of that outing, guard Jalen Suggs went down with a right knee injury and will be out at least the next couple of weeks.",
+    "After losing star forward Paolo Banchero to an ankle injury just one matchup earlier, the Magic’s depth will now be put to the test.",
+    "Orlando (1-2) will look to once again overcome adversity when it visits the Toronto Raptors (2-1) on Wednesday at 7:30 p.m.",
+    "In New York, Franz Wagner, Desmond Bane, Tristan da Silva, and Anthony Black, who was making his season debut, did the heavy offensive lifting to lead Orlando to a 111-102 triumph.",
+    "Seven-time All-Star Kawhi Leonard is expected to miss at least a few weeks due to knee swelling.",
+    "They currently possess the NBA’s top defensive rating (97.8), have the most steals (14.0) per outing and are scoring the second most points off turnovers (25.7) per tilt.",
+    "Per Sportradar, the Raptors are averaging over 16 more shot attempts from the field than their opponents, the fourth largest advantage through three games by any team over the past 20 years."
+   ],
+   "quotes": [
+    "We have to come in with the mindset of being the aggressor (and) not being chased after,",
+    "Just try to be aggressive, limit our turnovers and play fast.",
+    "That’s 25 (points) from Paolo and 16 or 17 from J Suggs off of the table offensively. So, I feel like guys just have to step up. Step up, take shots when they’re open, stay confident (and) stick to th…",
+    "They’re turning teams over. And then, rebounding. Those are the two things. That’s how they get most of their second chance looks or their easy looks in transition. And then, crash the offensive board…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/post-malone-to-headline-new-years-eve-festival-as-smith-entertainment-group-brings-a-blockbuster-winter-weekend-to-utah",
+   "url": "https://www.nba.com/jazz/news/post-malone-to-headline-new-years-eve-festival-as-smith-entertainment-group-brings-a-blockbuster-winter-weekend-to-utah",
+   "canonical_url": "https://utahjazz.com/news/post-malone-to-headline-new-years-eve-festival-as-smith-entertainment-group-brings-a-blockbuster-winter-weekend-to-utah",
+   "title": "Post Malone to Headline New Year’s Eve Festival as Smith Entertainment Group Brings a Blockbuster Winter Weekend to Utah",
+   "author": "utajorth",
+   "published_utc": "2026-10-28T17:36:04Z",
+   "tags": [],
+   "summary": "SEG teams up with Palm Tree Crew for a New Year’s Eve Festival featuring Post Malone and special guest Alesso, as Winter Weekend brings four days of sports and entertainment to Utah",
+   "facts": [
+    "SEG teams up with Palm Tree Crew for a New Year’s Eve Festival featuring Post Malone and special guest Alesso, as Winter Weekend brings four days of sports and entertainment to Utah SALT LAKE CITY (October 28, 2026) – On…",
+    "Winter Weekend kicks into high gear on Dec. 31 with the 2027 Discover NHL Winter Classic, as the Utah Mammoth face the Colorado Avalanche at Rice-Eccles Stadium at 4 p.m.",
+    "The Utah Jazz welcome the New York Knicks on Dec. 30 and the Boston Celtics on Jan. 1, while the Mammoth return to the Delta Center to face the Vancouver Canucks on Jan. 2.",
+    "To make the celebration accessible to more fans, more than 6,000 tickets will be available for less than $125.",
+    "Fans can now sign-up to join the ticket presale, which begins Oct. 29 at 10 A.M.",
+    "Tickets go on sale on Oct. 30 at 10 A.M.",
+    "Youth and Family Experiences Ahead of the Winter Classic, Gretzky Hockey School will hold a camp for players ages 6–14 at the Select Health Ice Center from Dec. 27–30, combining on-ice skill development with off-ice cond…",
+    "The Utah Mammoth Winter Cup begins Jan. 1 at the Select Health Ice Center, bringing together 10U A through 16U AA youth and girls teams for a multi-day tournament."
+   ],
+   "quotes": [
+    "We wanted to create a weekend unlike anything Utah has experienced before,"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-shootaround-update-new-orleans-begins-lengthy-home-heavy-span-with-denver-rematch",
+   "url": "https://www.nba.com/pelicans/news/pelicans-shootaround-update-new-orleans-begins-lengthy-home-heavy-span-with-denver-rematch",
+   "canonical_url": "https://pelicans.com/news/pelicans-shootaround-update-new-orleans-begins-lengthy-home-heavy-span-with-denver-rematch",
+   "title": "Pelicans shootaround update: New Orleans begins lengthy home-heavy span with Denver rematch",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-28T16:49:35Z",
+   "tags": [],
+   "summary": "As the only NBA team that did not have a game on its schedule Sunday, Monday or Tuesday, New Orleans used that unusually lengthy hiatus to watch video from the first week of games, with particular focus on Saturday’s 141-135 overtime loss to Denver, the Pelicans’ same opponent Wednesday (7 p.m., GCSEN on TV; WWL on radio). After morning shootaround, Zion Williamson indicated that the break from ga…",
+   "facts": [
+    "As the only NBA team that did not have a game on its schedule Sunday, Monday or Tuesday, New Orleans used that unusually lengthy hiatus to watch video from the first week of games, with particular focus on Saturday’s 141…",
+    "After morning shootaround, Zion Williamson indicated that the break from games was valuable on at least a couple fronts for New Orleans (0-3).",
+    "The Pelicans totaled 33 assists Saturday in Ball Arena, but only two of those were in the fourth period (none in OT).",
+    "Tonight tips off a three-game homestand, but there is also a two-gamer next week, as well as five straight dates in the Blender from Nov. 11-18.",
+    "Golden State) Go-to guy: Jamal Murray and Nikola Jokic lead Denver with identical scoring averages of 22.3 points through three games, but Murray’s big performance occurred vs.",
+    "New Orleans, a 42-point night highlighted by 8/16 three-point shooting.",
+    "Murray tallied six and 19 points in Nuggets losses to Oklahoma City and Golden State, respectively.",
+    "On the rise: Speaking of impact against the Pelicans, rookie second-round pick Trevon Brazile registered 17 points, nine rebounds and two blocks Saturday."
+   ],
+   "quotes": [
+    "Watching the film definitely helped,",
+    "because we broke down everything, small details, what led us to be in that position when we were playing well, what worked for us. It was a great film session.",
+    "They executed when they needed to execute. For us, especially myself, I had three crucial turnovers. When we watched the film, we could’ve played smarter basketball.",
+    "When we were moving the ball, we saw a lot of success,"
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/dallas-mavericks-announce-leadership-transition",
+   "url": "https://www.nba.com/mavs/news/dallas-mavericks-announce-leadership-transition",
+   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-announce-leadership-transition",
+   "title": "Dallas Mavericks Announce Leadership Transition",
+   "author": "Gabe Flores",
+   "published_utc": "2026-10-28T15:00:58Z",
+   "tags": [],
+   "summary": "DALLAS – (Oct. 28, 2026) – The Dallas Mavericks announced today that Chief Executive Officer Rick Welts will retire from his role at the end of 2026 with President Ethan Casson succeeding him as Chief Executive Officer and Alternate Governor. Casson joined the organization in 2025, and his appointment ensures continuity as the Mavericks enter their next phase of growth.",
+   "facts": [
+    "DALLAS – (Oct. 28, 2026) – The Dallas Mavericks announced today that Chief Executive Officer Rick Welts will retire from his role at the end of 2026 with President Ethan Casson succeeding him as Chief Executive Officer a…",
+    "Casson joined the organization in 2025, and his appointment ensures continuity as the Mavericks enter their next phase of growth.",
+    "Welts, 73, a member of the Naismith Memorial Basketball Hall of Fame and one of the most respected executives in professional sports, joined the Mavericks in 2025.",
+    "Under his leadership, the Timberwolves were named a finalist for Sports Business Journal’s 2024 Sports Team of the Year, while the organization received the NBA’s prestigious 2023-24 Inclusion Leadership Award in recogni…",
+    "Prior to his time in Minnesota, Casson served as Chief Operating Officer of the San Francisco 49ers, where he played a key role in the development of Levi’s Stadium.",
+    "During his tenure, he secured a groundbreaking 20-year, $220 million naming rights partnership with Levi Strauss & Co., one of the largest naming rights agreements in NFL history.",
+    "The project earned numerous industry accolades, including the Sports Business Journal’s 2015 Sports Facility of the Year award.",
+    "We’ve spent the last 15 months working closely together to build a foundation for the future, and I am excited to carry that work forward alongside our talented team."
+   ],
+   "quotes": [
+    "Rick joined the Mavericks at an important moment for our organization, and his leadership, judgment and experience have been invaluable,",
+    "He has helped strengthen our leadership team, advance our long-term vision and position the organization for continued success. Just as importantly, Rick and Ethan have built a strong partnership that…",
+    "When Ethan joined the Mavericks, we knew we were adding an accomplished leader who could help us build for the long term,",
+    "Watching Rick and Ethan work together has only reinforced our confidence that Ethan is the right person to lead the Mavericks into this next chapter."
+   ]
+  },
   {
    "source": "DEN 公式（nba.com）",
    "team": "DEN",
@@ -159,7 +354,7 @@
    "key": "https://www.nba.com/mavs/news/mavericks-thunder-preview-risacher-has-been-filling-up-the-stat-sheet-so-far-this-season",
    "url": "https://www.nba.com/mavs/news/mavericks-thunder-preview-risacher-has-been-filling-up-the-stat-sheet-so-far-this-season",
    "canonical_url": "https://mavs.com/mavs/news/mavericks-thunder-preview-risacher-has-been-filling-up-the-stat-sheet-so-far-this-season",
-   "title": "Mavericks-Thunder preview: Risacher has been filling up the stat sheet so far this season",
+   "title": "Mavericks-Thunder preview: Risacher filling up the stat sheet so far this season",
    "author": "Dwain Price",
    "published_utc": "2026-10-27T22:40:56Z",
    "tags": [
@@ -169,18 +364,18 @@
    ],
    "summary": "When it comes to the overall performance turned in by Zaccharie Risacher so far this season, Dallas Mavericks coach Dusty May isn’t overly concerned with how many shots his third-year forward has made or missed.",
    "facts": [
-    "That was the case again during Monday’s massive 113-109 road win over the Miami Heat when Risacher was only 2-of-13 from the field and scored six points, but he also collected eight rebounds, a game-high tying three bloc…",
-    "That directedly turned into a four-point swing and a key basket from Cooper Flagg which padded the Mavs’ lead to 103-100.",
+    "That was the case during Monday’s massive 113-109 road win over the Miami Heat when Risacher was only 2-of-13 from the field and scored six points, but also collected eight rebounds, a game-high tying three blocks and a …",
     "In addition, he buried a much-needed three-pointer early in the fourth quarter which chopped a 93-86 Miami lead down to 93-89.",
-    "Atlanta shipped Risacher and a Top 55 protected 2027 second-round pick to the Mavs this past summer in a three-team trade that required Dallas sending seldom-used point guard Ryan Nembhard to Atlanta and a 2027 second-ro…",
+    "Atlanta shipped Risacher and a Top 55 protected 2027 second-round pick to the Mavs this summer in a three-team trade that required Dallas sending point guard Ryan Nembhard to Atlanta and a 2027 second-round pick to the O…",
     "In 142 games for the Hawks, Risacher averaged 11.1 points and 3.7 rebounds while playing less than half-a-game -- 23.6 minutes.",
-    "The Mavs saw the long-range potential in the 21-year Spanish-born French player, which is why president and alternate governor Masai Ujiri reached out and made this pivotal move.",
-    "The eight-year forward is averaging 15.5 ppg and a team-high 7.5 rpg in a team-high 35 mpg.",
-    "And although he’s just 6-7, Washington found himself guarding San Antonio’s Victor Wembanyama (7-4) and Miami’s Giannis Antetokounmpo (6-11) during the past two games whenever the Mavs rolled out their small lineup."
+    "The Mavs saw the long-range potential in the 21-year Spanish-born French player, which is why president and alternate governor Masai Ujiri reached out and made the move.",
+    "Meanwhile, Santi Aldama (right knee surgery) and Tarik Biberovic (right heel bursitis) are listed as doubtful, and Derick Lively II (right foot surgery) and Sergio De Larrea (right knee sprain) will not play on Wednesday…",
+    "But the Thunder’s unblemished record has taken a back seat to the gruesome injury forward Jalen Williams suffered during Saturday’s 108-101 win over the Los Angeles Clippers.",
+    "Williams left that game on a stretcher after he suffered a fractured left fibula and a dislocated left ankle when he drove hard to the basket and fell after colliding with the Clippers’ Kris Dunn and Derrick Jones Jr. *P…"
    ],
    "quotes": [
     "However many missed shots he had, he had twice as many loose plays and blocks and steals and rebounds,",
-    "But those are valued in our program and within our team.",
+    "And the ones that don’t show up (in the stat sheet) where he just gets a hand on it, where it’s maybe coming to (Heat center/forward) Bam (Adebayo) or (Heat forward) Giannis (Antetokounmpo) -- where h…",
     "I wanted Zacch to keep shooting (against the Heat) when he’s open, and most importantly his teammates did, too,",
     "Actually, I heard (guard) Kyrie (Irving) say he’s playing so hard I want him to keep shooting it. He’s playing so hard we appreciate that so much that we’re never going to tell him to stop shooting it…"
    ]
@@ -1163,10 +1358,10 @@
    "tags": [
     "2026-27"
    ],
-   "summary": "Date: Monday, October 26, 2026Time: 5:00 p.m. MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Trail Blazers: Association Edition (White)",
+   "summary": "Date: Monday, October 26, 2026Time: 5:00 p.m. MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Thunder: Association Edition (White)",
    "facts": [
     "Game Info Date: Monday, October 26, 2026Time: 5:00 p.m.",
-    "MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Trail Blazers: Association Edition (White) Series Notes The Suns …",
+    "MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Thunder: Association Edition (White) Series Notes The Suns beat t…",
     "Golden State on Oct. 24Currently 20 points away from reaching 8,000 in his NBA career1-of-3 players from his NBA Draft class (2018) to record 7,000 points and 3,000 rebounds in their career (Luka Dončić and Deandre Ayton…",
     "Orlando on Feb. 21#15 – Devin BookerLAST GAME: Put up a game-high 43 points (15-of-23 FG) while adding 7 rebounds and 7 assistsHis 43 points against Golden State on Oct. 24 were the most by a Sun in a home opener in fran…",
     "Booker tallied 40+ points against the Warriors for the first time in his career.",
@@ -1560,65 +1755,6 @@
     "Darius Garland has scored at least 25 points and recorded a steal in both games this season."
    ],
    "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-mincle-261026",
-   "url": "https://www.nba.com/cavaliers/news/preview-mincle-261026",
-   "canonical_url": "https://cavs.com/news/preview-mincle-261026",
-   "title": "Cavs vs Timberwolves | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-25T19:43:11Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "In the third game of the season, the Cavs play a Western Conference team for the first time this season in the Minnesota Timberwolves. The new-look T-Wolves hosted Toronto on Sunday evening.",
-   "facts": [
-    "GAME INFORMATION LAST TIME OUT The Cavs got a win in the home opener, a 125-121 win over the Brooklyn Nets on Saturday night.",
-    "Three Cavs scored 20-plus points, led by Donovan Mitchell's 22.",
-    "Jarrett Allen scored 21 and Evan Mobley doubled-up with 20 points and 10 rebounds.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - Two-Way - OUT Timberwolves: -TBD - Back-to-Back KEEP UP WITH THE ACTION Follow along…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-new-york-knicks-game-preview-injury-report-20261025",
-   "url": "https://www.nba.com/magic/news/orlando-magic-new-york-knicks-game-preview-injury-report-20261025",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-new-york-knicks-game-preview-injury-report-20261025",
-   "title": "Orlando Magic at New York Knicks: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-10-25T18:15:37Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "NEW YORK – In the NBA, it’s not a matter of if adversity will strike, but just a matter of when.",
-   "facts": [
-    "Amidst navigating through a challenging opening schedule while adjusting to a new coaching staff, Orlando was hit with a significant injury blow on Saturday when the team announced that superstar forward Paolo Banchero s…",
-    "The Magic (0-2) will attempt to battle through the early season adversity and record their first win of the 2026-27 campaign when they square off with the Knicks (0-2) on Sunday at 7 p.m.",
-    "The 6-foot-10 forward was shooting 69.6 percent from the field and 50 percent from 3-point range.",
-    "On opening night against Atlanta, P5 notched 35 points, seven rebounds and 10 assists.",
-    "Following their title run, the Knicks have dropped their first two outings of the season with close defeats at the hands of the Philadelphia 76ers and Boston Celtics.",
-    "Banchero (right low-grade high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery) and Noah Penda (right partially torn hamstring) are out for Orlando.",
-    "KEY STATS: One of the surprising stats from Orlando’s first two tilts is that the team is currently last in the league in points off turnovers (12.5 per contest) – albeit from an extremely small sample size."
-   ],
-   "quotes": [
-    "Anytime anybody goes out, the next guy has to be ready,",
-    "Tonight, with these guys – the defending champs – you know you’re going to have to be very ready to start the game. And then, you’re going to have to sustain it throughout.",
-    "It starts with Jalen Brunson, who’s an All-NBA player and Finals MVP, who’s got a diversified skillset and can make shots from three levels,",
-    "We’ll see how the shooting slot goes and see how my body feels after shootaround. And then, go from there."
-   ]
   }
  ]
 }
