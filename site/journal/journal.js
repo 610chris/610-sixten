@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "690-nike-kobe-mamba-vs-diamondback-pack.html",
+    cat: "KICKS",
+    title: "Nike Kobe「Mamba Vs. Diamondback」が始動 —— 2027年NBAオールスターに合わせた全4モデル",
+    excerpt: "ナイキとコービー・ブランドは、2027年NBAオールスターウィークエンドに合わせた特別コレクション「Mamba Vs. Diamondback」を計画している。ブラックマンバを砂漠の世界観で描く4モデル構成のパックで、Sneaker Newsが伝えた。具体的なモデルや発売日は本稿執筆時点で明らかにされていない。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "689-porzingis-not-with-team-warriors.html",
     cat: "NBA",
     title: "ポルジンギス、公式ステータスが「チーム非同行」に —— ウォリアーズ内部は復帰にほぼ絶望、契約の行方は不透明",
