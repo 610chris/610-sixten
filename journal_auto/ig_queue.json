@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:58:54+09:00",
+  "updated": "2026-10-29T12:55:44+09:00",
   "items": [
     {
       "id": "134",
@@ -20100,6 +20100,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カリー、ティンバーウルブズ戦で44得点\n\n・FG11/27・3PT6/16で44得点\n・フリースロー16本全て成功\n・ウォリアーズが119-114で勝利\n\n💬 カリーのこの44得点、今季ベストゲーム級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Warriors vs. Timberwolves・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "707",
+      "slug": "707-wembanyama-36-points-jazz",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "ウェンバンヤマ、ジャズ戦で36得点14リバウンド",
+      "excerpt": "サンアントニオ・スパーズのビクター・ウェンバンヤマは現地時間10月28日、ユタ・ジャズ戦に39分出場し、36得点・リバウンド14・アシスト5・スティール2・ブロック2を記録した。両チーム通じて最多得点者となり、スパーズは117-111でジャズに勝利した。",
+      "points": [
+        "FG14/25・3PT4/10で36得点",
+        "14リバウンド・2スティール・2ブロック",
+        "スパーズが117-111で勝利"
+      ],
+      "source": "ESPN ボックススコア(Spurs vs. Jazz・2026年10月28日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/707-wembanyama-36-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "ウェンバンヤマのこの36得点14リバウンド、MVP級？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. JAZZ",
+        "points": 36,
+        "stats": [
+          "14 REB",
+          "5 AST",
+          "2 STL",
+          "2 BLK",
+          "14/25 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/707-1.jpg",
+        "https://sixten.jp/assets/ig/707-2.jpg",
+        "https://sixten.jp/assets/ig/707-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T12:54:15+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマ、ジャズ戦で36得点14リバウンド\n\n・FG14/25・3PT4/10で36得点\n・14リバウンド・2スティール・2ブロック\n・スパーズが117-111で勝利\n\n💬 ウェンバンヤマのこの36得点14リバウンド、MVP級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Spurs vs. Jazz・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
