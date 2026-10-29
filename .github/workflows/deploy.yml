@@ -21,13 +21,22 @@ jobs:
       - name: Build SEO artifacts
         run: python3 journal_auto/build_seo.py
       - run: npm install -g surge
+      # 配信用コピー(2026-10-29): Surge無料プランの容量上限(実測で428.9MB成功/430.5MB失敗)を超えて
+      # 10/27から全デプロイが「Application too large」で止まったため、配信不要なものを外したコピーを送る。
+      # ファイル自体はリポジトリに残す(削除しない)。
+      #   assets/ig/ … 停止中の ig_post.py(カルーセル投稿・2026-09-29停止)専用の画像。サイト内のどこからも参照なし。
+      #                リール自動投稿は GitHub Releases の動画URLを使うので影響なし。ig_post.py を再開する時はこの除外を外す。
+      - name: Build deploy copy (exclude unserved assets)
+        run: |
+          rsync -a --delete --exclude '/assets/ig/' site/ _deploy/
+          du -sh site _deploy
       - name: Deploy 610-sixten.surge.sh
-        run: surge ./site 610-sixten.surge.sh
+        run: surge ./_deploy 610-sixten.surge.sh
         env:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
       - name: Deploy sixten.jp
-        run: surge ./site sixten.jp
+        run: surge ./_deploy sixten.jp
         env:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
