@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "718-clippers-blake-wesley-hardship.html",
+    cat: "NBA",
+    title: "クリッパーズ、ブレイク・ウェスリーと10日間契約 —— ハードシップ例外で元スパーズ・ブレイザーズのガードを補強",
+    excerpt: "ロサンゼルス・クリッパーズは、元スパーズ・ブレイザーズのガード、ブレイク・ウェスリーと負傷者救済（ハードシップ）例外を使った10日間契約を結ぶ。ESPNのシャムズ・シャラニア記者が現地時間29日、関係者の話として伝えた。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "717-blazers-clingan-yang-hansen-option.html",
     cat: "NBA",
     title: "ブレイザーズ、クリンガンとヤン・ハンセンの契約オプションを行使 —— 新人ビッグマン2人を2027-28シーズンまで確保",
