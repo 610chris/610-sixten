@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:18:01+09:00",
+  "updated": "2026-10-29T11:27:31+09:00",
   "items": [
     {
       "id": "134",
@@ -19913,6 +19913,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "バーンズ、マジック戦で28得点6リバウンド\n\n・ラプターズが129-99で快勝\n・FG11/17で28得点\n・スティール3・ブロック3の守備\n\n💬 バーンズの守備、今季はDPOY争いに入る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Raptors vs. Magic・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "703",
+      "slug": "703-zion-williamson-25-points-nuggets",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "ザイオン・ウィリアムソン、ナゲッツ戦で25得点",
+      "excerpt": "ニューオーリンズ・ペリカンズのザイオン・ウィリアムソンは現地時間10月28日、デンバー・ナゲッツ戦に32分出場し、25得点・5リバウンド・2アシスト・スティール3を記録した。両チーム通じて最多得点者となったが、ペリカンズは91-104でナゲッツに敗れた。",
+      "points": [
+        "FG10/14、71.4%の高効率で25得点",
+        "リバウンド5・アシスト2・スティール3",
+        "ペリカンズは91-104でナゲッツに敗戦"
+      ],
+      "source": "ESPN ボックススコア(Pelicans vs. Nuggets・2026年10月28日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/703-zion-williamson-25-points-nuggets.html",
+      "hero_path": "",
+      "subject": [
+        "Zion Williamson"
+      ],
+      "question": "この効率の高さ、次は勝利につながる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ZION WILLIAMSON",
+        "opponent": "vs. NUGGETS",
+        "points": 25,
+        "stats": [
+          "5 REB",
+          "3 STL",
+          "2 AST",
+          "10/14 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/703-1.jpg",
+        "https://sixten.jp/assets/ig/703-2.jpg",
+        "https://sixten.jp/assets/ig/703-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T11:27:07+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ザイオン・ウィリアムソン、ナゲッツ戦で25得点\n\n・FG10/14、71.4%の高効率で25得点\n・リバウンド5・アシスト2・スティール3\n・ペリカンズは91-104でナゲッツに敗戦\n\n💬 この効率の高さ、次は勝利につながる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Pelicans vs. Nuggets・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
