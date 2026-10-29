@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "715-adidas-ae3-with-love.html",
+    cat: "KICKS",
+    title: "adidas Anthony Edwards 3「With Love」が11月6日発売 —— 品番KH8540、地元ジョージア州にちなんだピーチカラー",
+    excerpt: "アディダスは、アンソニー・エドワーズの3代目シグネチャーシューズ「Anthony Edwards 3」の新色「With Love」(品番KH8540)を2026年11月6日に発売する。地元ジョージア州にちなんだピーチカラーで、Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "713-off-the-glass.html",
     cat: "CULTURE",
     title: "代々木公園の路地裏に、バスケ好きの大人のためのバーラウンジ「OFF THE GLASS」 —— NBA開幕に合わせビューイングイベント、11月6日はクリスがゲスト出演",
