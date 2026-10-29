@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sixten.jp/</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-10-29</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sixten.jp/journal/710-seahorses-mikawa-u18-championship.html</loc><lastmod>2026-10-29T13:30:18+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/709-ajay-mitchell-29-points-mavericks.html</loc><lastmod>2026-10-29T13:25:00+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/708-jokic-200th-triple-double.html</loc><lastmod>2026-10-29T13:09:32+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/707-wembanyama-36-points-jazz.html</loc><lastmod>2026-10-29T12:50:00+09:00</lastmod><priority>0.8</priority></url>

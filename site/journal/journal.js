@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "710-seahorses-mikawa-u18-championship.html",
+    cat: "JAPAN",
+    title: "シーホース三河U18、「B.LEAGUE U18 CHAMPIONSHIP 2026」出場 —— 初戦は11月21日、徳島ガンバロウズU18と対戦",
+    excerpt: "シーホース三河U18は、全国43チームが参加する「インフロニア B.LEAGUE U18 CHAMPIONSHIP 2026」(11月21日〜25日・日環アリーナ栃木)に出場する。初戦は11月21日13時30分から徳島ガンバロウズU18と対戦。上位4チームは2027年の国際大会「B.LEAGUE U18 INTERNATIONAL CUP」出場権を獲得する。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "709-ajay-mitchell-29-points-mavericks.html",
     cat: "NBA",
     title: "エイジェイ・ミッチェル、マーベリックス戦で29得点 —— サンダーは96-120で敗戦",
