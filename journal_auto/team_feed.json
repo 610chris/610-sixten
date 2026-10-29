@@ -1,8 +1,167 @@
 {
- "updated_utc": "2026-10-29 06:23 UTC",
+ "updated_utc": "2026-10-29 13:39 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/press-release-20261029-boston-childrens-hospital-announces-historic-gift-led-by-owners-of-the-boston-celtics-organization",
+   "url": "https://www.nba.com/celtics/news/press-release-20261029-boston-childrens-hospital-announces-historic-gift-led-by-owners-of-the-boston-celtics-organization",
+   "canonical_url": "https://celtics.com/news/press-release-20261029-boston-childrens-hospital-announces-historic-gift-led-by-owners-of-the-boston-celtics-organization",
+   "title": "Boston Children's Hospital Announces Historic Gift Led by Owners of the Boston Celtics Organization",
+   "author": "Boston Celtics",
+   "published_utc": "2026-10-29T13:32:17Z",
+   "tags": [
+    "Boston Children's Hospital",
+    "Press Release"
+   ],
+   "summary": "BOSTON, MA — Boston Children's Hospital today announced a historic gift of more than $200 million from the Boston Celtics ownership group and the Boston Celtics, in association with the Boston Celtics Shamrock Foundation.",
+   "facts": [
+    "BOSTON, MA — Boston Children's Hospital today announced a historic gift of more than $200 million from the Boston Celtics ownership group and the Boston Celtics, in association with the Boston Celtics Shamrock Foundation…",
+    "Home to the world’s largest research enterprise based at a pediatric medical center, Boston Children’s has led the way in life-changing pediatric innovation since its founding in 1869.",
+    "Today, 3,000 researchers and scientific staff, including 15 members of the National Academy of Sciences, 37 members of the National Academy of Medicine and 13 Howard Hughes Medical Investigators across ~1M square feet of…",
+    "Founded as a 20-bed hospital for children, Boston Children’s is now a 491-bed comprehensive center for pediatric and adolescent health care.",
+    "With nine satellite locations and the Martha Elliot Health Center, Boston Children’s also provides 24/7 pediatric care at five hospitals including Beverly Hospital, Winchester Hospital, St.",
+    "Boston Children’s also includes: Affiliation with Franciscan Children’s Hospital, including 112 beds and 700+ employees; Boston Children’s Primary Care Alliance, a robust network of 33 pediatric practices serving patient…"
+   ],
+   "quotes": [
+    "While the size of this gift is unprecedented for Boston Children’s Hospital, its significance will ultimately be measured not by the record it sets, but by the lives it will save,",
+    "The Celtics have historically been defined by the concept that true legacy is more than what happens on the court,",
+    "Boston Children’s and the Celtics share a belief that it takes every single one of us to achieve our most ambitious goals. This gift is our commitment to the next generation in Boston and far beyond. …",
+    "I’ve had the privilege of seeing firsthand the extraordinary work being done at Boston Children’s Hospital and the difference it makes for patients and families,"
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-heat-261030",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-heat-261030",
+   "canonical_url": "https://pacers.com/news/preview-pacers-heat-261030",
+   "title": "Game Preview: Pacers at Heat (NBA Cup)",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-10-29T13:30:00Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center",
+   "facts": [
+    "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center Game Preview The Pacers end their October slate of games in Miami on Friday as they travel to play the Heat.",
+    "After Wednesday’s 114-109 loss to the Philadelphia 76ers, Indiana is 2-3 this season.",
+    "They’ll meet a 1-4 Heat team as both teams look to bolster their win columns.",
+    "The Knicks, Cavaliers, 76ers, and Heat make up Indiana's group — East Group B.",
+    "McConnell remain sidelined due to hamstring injuries – and will rely on Andrew Nembhard’s playmaking at the point guard position while his teammates rehab their respective injuries.",
+    "Nembhard recorded his first double-double of the season on Wednesday as he notched 18 points and 14 assists.",
+    "Antetokounmpo recorded 24 points and 18 rebounds in the win, and Adebayo notched 24 points as well.",
+    "Probable Starters Pacers: G - Andrew Nembhard, G - Aaron Nesmith, F - Kelly Oubre Jr., F - Pascal Siakam, C - Jay Huff Heat: G - Davion Mitchell, G - Klay Thompson, F - Andrew Wiggins, F - Giannis Antetokounmpo, C - Bam …"
+   ],
+   "quotes": [
+    "Just continued to put us in position to be successful…His force downhill, he’s got to keep that going. And also today he had to guard [Tyrese] Maxey. He has a lot on him and I think he’s handling it w…"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/baron-davis-profile-new-orleans-basketball-25-seasons",
+   "url": "https://www.nba.com/pelicans/news/baron-davis-profile-new-orleans-basketball-25-seasons",
+   "canonical_url": "https://pelicans.com/news/baron-davis-profile-new-orleans-basketball-25-seasons",
+   "title": "All-Star Baron Davis led New Orleans to second straight playoff berth | 25 On The Court",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-29T13:00:00Z",
+   "tags": [
+    "25th season"
+   ],
+   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+   "facts": [
+    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+    "Davis averaged a career-best 22.9 points and league-leading 2.4 steals in 2003-04, spearheading the Hornets to a fifth straight playoff appearance by a familiar core group of contributors.",
+    "Unfortunately for New Orleans, a series of critical injuries (star forward Jamal Mashburn only played 19 games in what would be his final NBA season) contributed to a late-season slump (9-14 after March 1).",
+    "That set up a postseason matchup with an on-the-rise Miami squad that went on to win its first championship just two years later in 2006.",
+    "Season overview (in 25 words or less) In head coach Tim Floyd’s lone season, the Hornets finished 41-41, then lost a hard-fought, seven-game playoff battle to rookie Dwyane Wade and the Heat.",
+    "NBA time capsule In one of the greatest Finals upsets ever, Detroit shocked the Hall of Fame-laden Lakers 4-1. … LeBron James made a smashing debut with Cleveland straight out of high school, but fellow rookie Carmelo An…",
+    "Anthony had led Syracuse to the ’03 NCAA title in New Orleans, with the Superdome hosting the Final Four."
+   ],
+   "quotes": [
+    "a powerful, explosive and highly entertaining score-first point guard who combined the physical build of a football player with elite streetball-style handles."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-raptors-20261029",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-raptors-20261029",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-raptors-20261029",
+   "title": "Magic Four-Point Play: Follow-Up at Raptors",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-29T11:52:18Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Magic Unable to Prevent Raptors From Doing What They Do Best",
+   "facts": [
+    "Orlando committed 20 turnovers for 20 Toronto points.",
+    "Orlando is now averaging 18.0 turnovers per contest through four games, tied for third most in the league.",
+    "Up and Down Perimeter Shooting Continues The other thing Toronto does exceptionally well is guard the 3-point line.",
+    "Currently, the Raptors are giving up the fourth fewest 3-point attempts per 100 possessions and their opponent quantified shot quality (QSQ) from beyond the arc ranks eighth.",
+    "The Magic went 10-for-35 from downtown in Wednesday’s game (28.6 percent).",
+    "For the season, they are shooting 31.4 percent from 3-point range.",
+    "Tristan da Silva Continues to Shine Early in Season One of the bright spots for the Magic in Wednesday’s loss was da Silva, who racked up 20 points on 8-of-10 overall shooting and 4-of-5 3-point shooting.",
+    "Through four games, he’s averaging 14.5 points on 51.2 percent shooting from the field and 45.2 percent shooting from beyond the arc."
+   ],
+   "quotes": [
+    "Just the trust that the coaches have put in me (and) the trust I’m getting from my teammates (who are) looking for me and making sure I get the looks when I’m open. It’s really a credit to them for fi…"
+   ]
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/all-the-ingredients-add-up-to-a-most-pistons-basketball-win-over-charlotte",
+   "url": "https://www.nba.com/pistons/news/all-the-ingredients-add-up-to-a-most-pistons-basketball-win-over-charlotte",
+   "canonical_url": "https://pistons.com/news/all-the-ingredients-add-up-to-a-most-pistons-basketball-win-over-charlotte",
+   "title": "All the ingredients add up to a most ‘Pistons basketball’ win over Charlotte",
+   "author": "Keith Langlois",
+   "published_utc": "2026-10-29T11:35:19Z",
+   "tags": [
+    "ausar thompson",
+    "Cade Cunningham",
+    "game recap"
+   ],
+   "summary": "It’s not that J.B. Bickerstaff gritted his teeth when he saw the Pistons win their first three games, all against NBA heavyweights, by going bombs away from the 3-point line.",
+   "facts": [
+    "Bickerstaff gritted his teeth when he saw the Pistons win their first three games, all against NBA heavyweights, by going bombs away from the 3-point line.",
+    "The Pistons, who shot 41 percent from three over their first three games and averaged 15.7 triples, made 13 baskets, only four of them 3-pointers, and had 15 fouls called on them.",
+    "It took a Daniss Jenkins banked running 3-pointer from 35 feet at the buzzer to get them to 44 points and within seven of Charlotte.",
+    "Yeah, the 3-pointers started falling again – they hit 6 of 12 in a quarter they won 32-19 to grab the game by the throat – but it’s not coincidence or luck, more the natural order of things.",
+    "As confident as they are of Paul Reed’s ability to take on all of Isaiah Stewart’s role as Duren’s backup and even of Reed’s capacity to keep them afloat as the starter, they miss the sheer size and physical force Duren …",
+    "They also need Isaiah Joe, a 3-point arsonist counted on to help the Pistons sustain their depth advantage that carried them to 60 wins last season.",
+    "You could build a worthy title contender from the NBA’s injured list just a week into the season – Jalen Williams, Anthony Edwards, Tyrese Haliburton, Jaren Jackson, Kawhi Leonard, Paolo Banchero, Jalen Suggs, Jimmy Butl…",
+    "Miller scored 21 points in the first half, 10 in the second on 5 of 13 shooting with Thompson suffocating him."
+   ],
+   "quotes": [
+    "You start making shots and you feel like you can just hang on to that,",
+    "It’s not our identity. New season, early in the year, making the threes is like a new toy we’re playing with and trying to figure it out.",
+    "We got familiar with ourselves again,",
+    "Defensively, I thought we were elite, which translated to some easy opportunities on the offensive end. That’s where we get our mojo. When it’s gritty, when it’s nasty, that’s where our guys thrive. E…"
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -19,22 +178,22 @@
     "dallas mavericks",
     "nba"
    ],
-   "summary": "With no Jalen Williams, Chet Holmgren, Cason Wallace and Alex Caruso to contend with, the Dallas Mavericks knew they had a leg up on Oklahoma City going into Wednesday’s game against the Thunder.",
+   "summary": "With four of their top six players sidelined due to injuries, it’s safe to say the Oklahoma City Thunder were seriously compromised when they played the Dallas Mavericks on Wednesday night. But the Mavs did what teams do to an opponent that’s compromised.",
    "facts": [
-    "Because the Thunder were dealing with a suitcase full of injuries involving four of their top six players, the Mavs took advantage of a prime-time opportunity and slipped in and carved out a 120-96 victory at American Ai…",
-    "It was the second straight win for the Mavs, who moved to 3-2 on the season entering Friday’s home game against the Houston Rockets.",
-    "Cooper Flagg led the Mavs with 26 points, five rebounds and eight assists, P.",
-    "Washington collected 18 points and nine rebounds, Kyrie Irving scored 15 points, and Zaccharie Risacher had 13 points and six rebounds.",
-    "Also for the Mavs, Max Christie tallied 11 points, and Morez Johosn Jr., Marcus Sasser and Caleb Martin contributed 10 points apiece.",
-    "Ajay Mitchell (29 points), Shai Gilgeous-Alexander (21 points), Isaiah Hartenstein (10 points, 14 rebounds) and Jared McCain (10 points) led the way for OKC, who made just five of their 32 shots from beyond the three-poi…",
-    "It was Irving’s first regular season game at AAC since he tore the anterior cruciate ligament in his left knee during a March 3, 2025 game against the Sacramento Kings, which led to him missing over 19 months.",
-    "They padded that lead to 115-93 with 3:25 remaining in the game following a jumper, a basket inside the paint, and another jumper – all from Washington ."
+    "With four of their top six players sidelined due to injuries, it’s safe to say the Oklahoma City Thunder were seriously compromised when they played the Dallas Mavericks on Wednesday night.",
+    "With Cooper Flagg leading a parade of eight Dallas players who scored 10 or more points, the Mavs exploded for a very convincing 120-96 triumph at American Airlines Center over the short-handed Thunder.",
+    "In running their record to 3-2, this is the first time the Mavs have been above .500 since they were 32-31 way back on March 5, 2025.",
+    "However, that mattered not to the Mavs, who put the defensive clamps on the Thunder, holding them to just 5-of-32 shooting from three-point land and outscoring them in fastbreak points, 17-0.",
+    "And the 18,111 fans at AAC loved every minute of it.",
+    "He worked very well in unison with Kyrie Irving, who poured in 11 of his 15 points in the first quarter.",
+    "The table-setting by Flagg and Irving set the tone for what turned into a very long night for the Thunder, who shot just 41.4 percent from the floor.",
+    "Gilgeous-Alexander finished with 21 points on 7-of-19 shots, and was just 1-of-6 from behind the three-point line."
    ],
    "quotes": [
-    "His rehab, his planning, he’s meticulous as anyone in the NBA as far as the day-to-day process,",
-    "The thing that I’ve been easily blown a lot with – you don’t know what to expect when you have these guys – is the grace that he’s coached these younger guys with has been something that I haven’t see…",
-    "They’ve obviously focused on the right things with him,",
-    "He’s just such a unique player. I think his conditioning is the thing that’s really jumped out. Man, he’s just so much fun to be around. He’s got such a good heart. I can’t imagine how much better he …"
+    "I thought we had a great team effort,",
+    "I think we’re definitely developing some winning habits along the way against an organization that’s become a standard.",
+    "I thought we had good defensive balance,",
+    "But still, if you can hold a team to zero fastbreak points that means that we were getting set. And I think honestly when we can get our defense set it’s tough to score on."
    ]
   },
   {
@@ -106,6 +265,39 @@
    ]
   },
   {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/late-bulls-rally-comes-up-short-against-defending-champion-knicks",
+   "url": "https://www.nba.com/bulls/news/late-bulls-rally-comes-up-short-against-defending-champion-knicks",
+   "canonical_url": "https://bulls.com/news/late-bulls-rally-comes-up-short-against-defending-champion-knicks",
+   "title": "Late Bulls rally comes up short against defending champion Knicks",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-29T03:30:15Z",
+   "tags": [
+    "Sam Smith"
+   ],
+   "summary": "That Jalen Brunson, the guy we once knew as a hoops crazy rugrat hanging around the Advocate Center with his assistant coaching father, Rick from Tom Thibodeau’s staff, the kid who dragged suburban Stevenson High School to a state basketball championship, yeah, how do we get one of those?",
+   "facts": [
+    "Because the Bulls don’t have one and the New York Knicks do, the Knicks overcame a 19-point third quarter deficit and then in the United Center withstood a fourth quarter Bulls charge with 38 points from Brunson to defea…",
+    "Not quite yet, and neither did Dallas when they drafted Brunson in the second round in 2018.",
+    "Or even the Knicks when they reeled in free agent Brunson in 2022.",
+    "And carry your team through those difficult times like Wednesday when Brunson scored 14 fourth-quarter points in seven minutes, dropping in three of four threes, including a crushing ankle breaker on Norman Powell with a…",
+    "The Bulls impressively got within 130-127 following clutch threes from Josh Giddey and Jalen Smith.",
+    "But Powell with a Bulls-best 30 points was one shot short, his attempt to tie with 10 seconds left failing.",
+    "Though it could be warming up as rookie Wilson continued his extraordinary start to the season at just 20 years old, scoring 20 points with six rebounds, four assists, two steals and a block, again drawing a legendary co…",
+    "Now the only Bull along with Michael Jordan to average at least 20 points in his first five NBA games."
+   ],
+   "quotes": [
+    "We were focused for a longer period of time throughout the game, which is good, but the game still has 48 minutes, and that last quarter tonight wasn’t good enough,",
+    "That is a championship team over there, so not getting discouraged,",
+    "Glad we were able to compete, but (we also) see the level we have to be at each and every single night to give ourselves a chance to win in this league. The late game deep three, I wanted to give us a…",
+    "I feel like we took a step,"
+   ]
+  },
+  {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
    "team_ja": "マーベリックス",
@@ -142,9 +334,9 @@
    "team_ja": "ペイサーズ",
    "team_id": 1610612754,
    "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261026",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261026",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-76ers-261026",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261028",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261028",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-76ers-261028",
    "title": "Game Rewind: Pacers 109, 76ers 114",
    "author": "Wheat Hotchkiss",
    "published_utc": "2026-10-29T02:54:00Z",
@@ -1853,39 +2045,6 @@
     "MT; Altitude TV and NBC; Altitude+ and Peacock; Altitude Sports Radio 92.5 FM and TICO Sports"
    ],
    "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-knicks-20261025",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-knicks-20261025",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-knicks-20261025",
-   "title": "Magic Four-Point Play: Follow-Up at Knicks",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-26T11:43:38Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Magic Generating Best 3-Point Looks in League?",
-   "facts": [
-    "Magic Generating Best 3-Point Looks in League?",
-    "Last season, 38.7 percent of the Magic’s shots came from 3-point range.",
-    "That ranked 24th in the league.",
-    "So far this season – and yes, it’s only three games – 47.1 percent of their shots have come from beyond the arc, third highest.",
-    "Only the Charlotte Hornets and Portland Trail Blazers have higher 3-point attempt percentages.",
-    "But what’s more important is that the majority of Orlando’s 3-point shots are coming off kickouts, which, based on data, typically results in more efficient long distance shooting percentages.",
-    "On Sunday in a win over the defending-champion New York Knicks, tracking data shows that 22 of the Magic’s 42 3-point attempts came off spray-outs (both from paint and non-paint) and they made 12 of them.",
-    "After the first quarter, they went 9-of-17 from 3-point range off spray-outs."
-   ],
-   "quotes": [
-    "It's big time for us. We had a tough, tough start to the season. Obviously, a lot of new things for our team. Obviously, they are the defending champions. I'm sure the Knicks looked at this game notic…"
-   ]
   }
  ]
 }
