@@ -1,8 +1,257 @@
 {
- "updated_utc": "2026-10-29 13:39 UTC",
+ "updated_utc": "2026-10-29 19:11 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "injury",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-baileys-hot-start-impact-of-injuries-and-more",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-baileys-hot-start-impact-of-injuries-and-more",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-mailbag-ace-baileys-hot-start-impact-of-injuries-and-more",
+   "title": "Utah Jazz Mailbag: Ace Bailey’s Hot Start, Impact of Injuries, And More",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-29T19:05:12Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Jaren Jackson Jr.",
+    "Jaxson Hayes",
+    "Josh Green",
+    "Josh Okogie",
+    "Keyonte George",
+    "Lauri Markkanen"
+   ],
+   "summary": "After waiting all summer for real action, fans are understandably chomping at the bit to analyze and react to the first few games of a new campaign. For the Utah Jazz, a 1-4 start has created some interesting trends and takeaways, with the caveat being that the sample size is simply too small to accept anything as truly sustainable for all 82 games.",
+   "facts": [
+    "For the Utah Jazz, a 1-4 start has created some interesting trends and takeaways, with the caveat being that the sample size is simply too small to accept anything as truly sustainable for all 82 games.",
+    "The injuries to Utah’s frontcourt (most notably the 6-to-8 week absence for Jaren Jackson Jr.) has forced Jazz head coach Will Hardy to adjust the rotation and experiment with different lineup combinations.",
+    "Markkanen is day-to-day with a right wrist sprain, which will create opportunities for some of Utah’s other wings and big men.",
+    "Meanwhile, Keyonte George has thrived out of the gates, averaging 24.4 points and 6.8 assists per game on 49.4-percent shooting from the field and 41.2 percent from deep.",
+    "There will likely be several different starting lineups in the coming games and weeks, as Hayes and Markkanen work their way back from their injuries.",
+    "Although Utah’s rotation has downsized as a result of the injuries, there will still be quality size in a Bailey, Markkanen, and Hayes frontcourt as Utah awaits the returns of Jusuf Nurkić and Jackson Jr.",
+    "Against San Antonio, Bailey had 19 points, six rebounds, and one block, with his inside scoring (8-of-12 inside the arc) fueling his success.",
+    "With his effective pursuit of the ball and length, the 20-year-old has flashed impressive rebounding to start the season, which the Jazz will certainly need to sustain as they navigate this stretch without several big me…"
+   ],
+   "quotes": [
+    "He’s really carrying out his role,",
+    "He’s trying to contribute to winning on both sides of the ball. He has to be a cutter and crasher when the ball doesn’t find him. It’s dirty work and he’s embraced doing that over and over again.",
+    "You have to earn ‘not being hunted’,",
+    "Young guards get hunted in our league. He needs to stand tall and hold his space. I’m super proud of the charge late in the game (against New Orleans)."
+   ]
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "injury",
+   "key": "https://www.nba.com/timberwolves/news/anthony-edwards-injury-update-7",
+   "url": "https://www.nba.com/timberwolves/news/anthony-edwards-injury-update-7",
+   "canonical_url": "https://timberwolves.com/news/anthony-edwards-injury-update-7",
+   "title": "Anthony Edwards Injury Update",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-10-29T18:11:33Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "Minneapolis/St. Paul – The Minnesota Timberwolves today announced the following injury update on guard Anthony Edwards:",
+   "facts": [
+    "Paul – The Minnesota Timberwolves today announced the following injury update on guard Anthony Edwards: Edwards underwent a successful right knee arthroscopic procedure for debridement today by Dr.",
+    "He is expected to make a full recovery and further updates of his progress will be provided when available.",
+    "In four games this season (all starts), Edwards is averaging 33.3 points on 48.1% shooting, 4.8 rebounds, 3.5 assists and 2.0 steals in 33.8 minutes per game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "POR 公式（nba.com）",
+   "team": "POR",
+   "team_ja": "トレイルブレイザーズ",
+   "team_id": 1610612757,
+   "kind": "roster",
+   "key": "https://www.nba.com/blazers/news/trail-blazers-exercise-team-option-on-contracts-of-donovan-clingan-yang-hansen",
+   "url": "https://www.nba.com/blazers/news/trail-blazers-exercise-team-option-on-contracts-of-donovan-clingan-yang-hansen",
+   "canonical_url": "https://blazers.com/news/trail-blazers-exercise-team-option-on-contracts-of-donovan-clingan-yang-hansen",
+   "title": "Trail Blazers Exercise Team Option On Contracts Of Donovan Clingan, Yang Hansen",
+   "author": "Portland Trail Blazers",
+   "published_utc": "2026-10-29T17:06:25Z",
+   "tags": [
+    "Donovan Clingan",
+    "Yang Hansen"
+   ],
+   "summary": "PORTLAND, Ore. (October 29, 2026) – The Portland Trail Blazers have exercised the 2027-28 team option on the contracts of centers Donovan Clingan and Yang Hansen, General Manager Joe Cronin announced today.",
+   "facts": [
+    "PORTLAND, Ore. (October 29, 2026) – The Portland Trail Blazers have exercised the 2027-28 team option on the contracts of centers Donovan Clingan and Yang Hansen, General Manager Joe Cronin announced today.",
+    "Currently in his fourth season, Clingan has appeared in 147 games (117 starts) for Portland, averaging 9.5 points, 9.8 rebounds and 1.7 blocks in 23.7 minutes per game.",
+    "A 2026 NBA Rising Stars selection, Clingan is coming off a 2025-26 season in which he averaged 12.1 points, 11.6 rebounds and 1.7 blocks per game.",
+    "As a second-year player, he led the NBA in offensive rebounds per game (4.5) and contested shots/game (13.4) while ranking second in second chance points per game (4.4), third in total rebounds per game (11.6) and fifth …",
+    "Clingan also grabbed a franchise record 347 offensive rebounds in 2025-26—second most offensive rebounds in a season over the past five seasons in the NBA.",
+    "Competing in his second season with Portland after being selected in the 2025 NBA Draft, Yang is averaging 2.3 points, 1.6 rebounds and 0.5 assists in 7.1 minutes per game across 44 contests (one start).",
+    "The Zibo, China, native also competed in 19 games (all starts) with the G League’s Rip City Remix in 2025-26, averaging 16.8 points, 9.1 rebounds, 3.3 assists and 1.5 blocks in 30.8 minutes per game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BKN 公式（nba.com）",
+   "team": "BKN",
+   "team_ja": "ネッツ",
+   "team_id": 1610612751,
+   "kind": "roster",
+   "key": "https://www.nba.com/nets/news/brooklyn-nets-exercise-third-year-options-on-five-players",
+   "url": "https://www.nba.com/nets/news/brooklyn-nets-exercise-third-year-options-on-five-players",
+   "canonical_url": "https://brooklynnets.com/news/brooklyn-nets-exercise-third-year-options-on-five-players",
+   "title": "Brooklyn Nets Exercise Third-Year Options on Five Players",
+   "author": "Brooklyn Nets",
+   "published_utc": "2026-10-29T17:04:15Z",
+   "tags": [],
+   "summary": "BROOKLYN – The Brooklyn Nets have exercised the third-year team options on guard Egor Dëmin, guard/forward Drake Powell, guard Ben Saraf, guard Nolan Traore and forward Danny Wolf.",
+   "facts": [
+    "Through four games (all starts) this season, the Russian-born sophomore has posted 7.8 points, 2.3 rebounds, 2.8 assists and 1.0 steals in 21.8 minutes per game.",
+    "Dëmin was named a 2026 Castrol Rising Star in his rookie season and won the event on Team Vince Carter.",
+    "He showed his shooting prowess by setting Nets rookie records with seven 3-pointers made in a game on Dec. 29 against Golden State and a 38.5 percent overall 3-point percentage.",
+    "Dëmin also turned in 124 3-pointers, which ranked as the fifth-most through any player's first 52 career games in NBA history.",
+    "This offseason, he was named to the 2026 All-Summer League Second Team after averaging 21.0 points, 4.3 assists and 2.3 steals in 25.3 minutes per contest across three games in Las Vegas.",
+    "Brooklyn selected Dëmin eighth overall in the 2025 NBA Draft after he played one season at Brigham Young University.",
+    "He set the franchise rookie record by shooting 89.6 percent from the free-throw line and led all qualified NBA players with a 91.9 defensive rating in December 2025.",
+    "Across five games in the NBA G League with the Long Island Nets, he averaged 11.8 points, 5.0 rebounds, 3.0 assists and 1.6 steals in 29.2 minutes per game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-kings-injury-report-game-preview-10-29-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-kings-injury-report-game-preview-10-29-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-kings-injury-report-game-preview-10-29-2026",
+   "title": "Pelicans vs. Kings: Injury Report, Game Preview 10/29/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-29T16:40:26Z",
+   "tags": [],
+   "summary": "On the second half of a back-to-back, the Pelicans host the Sacramento Kings on Thursday at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "On the second half of a back-to-back, the Pelicans host the Sacramento Kings on Thursday at the Smoothie King Center at 7:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Kings injury report, team news, tune in details, and gameday information: PELICANS VS KINGS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole DOUBT…",
+    "QUESTIONABLE (G League two-way) Julian Reese PROBABLE (G League two-way) KINGS INJURY REPORT Dylan Cardwell OUT (left calf strain) Keegan Murray OUT (left ankle capsulitis) Maxime Raynaud OUT (right patella sublaxation) …",
+    "NEW ORLEANS PELICANS (0-4) Previous Game Lineup: October 28 loss vs.",
+    "Kings Game Time, TV Channel, Radio & Location 📅 Game Time: Thursday, Oct. 29 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Kings TV: NBCSCA/PCK-SAC…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/gameday-update-kings-at-pelicans-10-29-2026",
+   "url": "https://www.nba.com/pelicans/news/gameday-update-kings-at-pelicans-10-29-2026",
+   "canonical_url": "https://pelicans.com/news/gameday-update-kings-at-pelicans-10-29-2026",
+   "title": "Gameday update: Kings at Pelicans (10/29/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-29T16:20:42Z",
+   "tags": [],
+   "summary": "SACRAMENTO KINGS (0-4) AT NEW ORLEANS PELICANS (0-4)",
+   "facts": [
+    "SACRAMENTO KINGS (0-4) AT NEW ORLEANS PELICANS (0-4) Overview In Sacramento’s lone visit to New Orleans last season, the Pelicans surged to a comfortable 120-94 win, their largest margin of victory in 2025-26.",
+    "Brooklyn (0-4) is the only other NBA club that has not registered a win through the first week-plus of 2026-27.",
+    "New Orleans was very competitive in each of its first three losses, dropping those by a combined 10 points (including a six-point overtime defeat), before Denver posted a relatively secure 104-91 win in the Smoothie King…",
+    "Meanwhile, all of Sacramento’s defeats have come by a margin of at least eight points, with the Kings’ first and fourth losses being decided well before the final buzzer (25- and 27-point defeats on the road against the …",
+    "Players to Watch KINGS Zach LaVine The NBA’s eighth-leading scorer (27.3 ppg), LaVine’s name sits between Giannis Antetokounmpo (27.6) and Shai Gilgeous-Alexander (26.0) on that lofty list of point producers, racking up …",
+    "He was also one of the 16,334 in attendance Wednesday, watching from a baseline seat as the Pelicans hosted the Nuggets.",
+    "The seventh overall pick from the 2026 draft has put up some big offensive numbers (21.5 ppg, 4.8 apg) in an extremely high-volume role (team-high 23.3 attempts a game from the field, third in NBA behind only Anthony Edw…",
+    "Like many rookie PGs, the Arkansas product must improve his efficiency (34/21/79 shooting splits)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-atlcle-261029",
+   "url": "https://www.nba.com/cavaliers/news/preview-atlcle-261029",
+   "canonical_url": "https://cavs.com/news/preview-atlcle-261029",
+   "title": "Cavs at Hawks | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-29T15:04:27Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "In the second night of a home-road back-to-back, the Cavs are in Georgia to take on the Atlanta Hawks. Like Cleveland, the Hawks are also on a back-to-back, falling to the Heat at home last night.",
+   "facts": [
+    "GAME INFORMATION LAST TIME OUT The Cavs went 3-0 on the early-season homestand, picking up a win over the Wizards just last night.",
+    "Evan Mobley led the way with 24 points and 12 rebounds while hitting five threes.",
+    "Peyton Watson had his best game of the season, scoring 22, grabbing six boards, and hitting a team-high nine field goals.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -TBD - Back-to-Back Hawks: -TBD - Back-to-Back KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @SerenaWinters throughout the game t…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/dallas-mavericks-to-honor-don-nelson-nov-18-against-golden-state-warriors",
+   "url": "https://www.nba.com/mavs/news/dallas-mavericks-to-honor-don-nelson-nov-18-against-golden-state-warriors",
+   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-to-honor-don-nelson-nov-18-against-golden-state-warriors",
+   "title": "Dallas Mavericks to Honor Don Nelson Nov. 18 Against Golden State Warriors",
+   "author": "Dallas Mavericks",
+   "published_utc": "2026-10-29T14:00:00Z",
+   "tags": [],
+   "summary": "DALLAS (Oct. 29, 2026) – The Dallas Mavericks will celebrate the life and legacy of Naismith Basketball Hall of Famer and former head coach Don Nelson on Wednesday, Nov. 18, when the Mavericks host the Golden State Warriors at American Airlines Center. The nationally televised game will air on ESPN, locally on KFAA29, MavsTV+, 105.3 The Fan and ZonaMX 99.1. The evening will celebrate Nelson’s sing…",
+   "facts": [
+    "DALLAS (Oct. 29, 2026) – The Dallas Mavericks will celebrate the life and legacy of Naismith Basketball Hall of Famer and former head coach Don Nelson on Wednesday, Nov. 18, when the Mavericks host the Golden State Warri…",
+    "The nationally televised game will air on ESPN, locally on KFAA29, MavsTV+, 105.3 The Fan and ZonaMX 99.1.",
+    "The evening will celebrate Nelson’s singular impact on the Mavericks organization, the Dallas community and the game of basketball, bringing together family, friends, former players and others whose lives and careers wer…",
+    "As head coach, he compiled a 339-251 record and led Dallas to four consecutive playoff appearances and four straight seasons with at least 50 wins from 2000-01 through 2003-04.",
+    "As the second all-time winningest coach in NBA history, Nelson recorded 1,335 regular-season victories during a 31-season career that included stops in Milwaukee, Golden State, New York and Dallas.",
+    "He was a three-time NBA Coach of the Year, inducted into the Naismith Memorial Basketball Hall of Fame in 2012 and named one of the 15 greatest coaches in NBA history as part of the league’s 75th Anniversary celebration.",
+    "In Dallas, his tenure also became synonymous with the emergence of Dirk Nowitzki, Steve Nash and Michael Finley and the franchise’s return to sustained postseason success.",
+    "HONORING NELLIE The Nov. 18 celebration will feature special in-arena tributes, storytelling highlighting Nelson’s Mavericks legacy and contributions from family, former players, coaches and friends."
+   ],
+   "quotes": [
+    "Don Nelson helped change the trajectory of the Dallas Mavericks and left an imprint on this organization that remains part of who we are today,",
+    "But Nellie’s impact went well beyond wins and losses. He had an unmistakable personality, formed relationships that lasted decades and helped create one of the most memorable eras in Mavericks history…"
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/releases-nba-cup-261029",
+   "url": "https://www.nba.com/cavaliers/news/releases-nba-cup-261029",
+   "canonical_url": "https://cavs.com/news/releases-nba-cup-261029",
+   "title": "Cleveland Cavaliers to Host Cavs Cup presented by Kenda Tires",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-29T13:56:48Z",
+   "tags": [
+    "2026 NBA Cup",
+    "2026-27 Season"
+   ],
+   "summary": "CLEVELAND – The Cleveland Cavaliers are preparing to host two home games for the Cavs Cup presented by Kenda Tires, part of the Emirates NBA Cup, the league’s in-season tournament. The annual Emirates NBA Cup begins Friday, October 30, and tips off for the Cavaliers on Friday, November 6 at 7:30 p.m. when they host the Philadelphia 76ers at Rocket Arena. The Cavaliers compete in Group East B with …",
+   "facts": [
+    "The annual Emirates NBA Cup begins Friday, October 30, and tips off for the Cavaliers on Friday, November 6 at 7:30 p.m. when they host the Philadelphia 76ers at Rocket Arena.",
+    "The Cavaliers compete in Group East B with the New York Knicks, Philadelphia 76ers, Miami Heat and Indiana Pacers.",
+    "The team will also host the Indiana Pacers for Cavs Cup on Friday, November 20 at 7:30 p.m.",
+    "THE HOME COURT DESIGN The Cavs will debut a dedicated Cavs Cup-branded court when they host the Philadelphia 76ers, and it will be used for all Cavs Cup home games at Rocket Arena during the 2026-27 NBA season.",
+    "When the Cavs host the Indiana Pacers on Friday, November 20, several Cavaliers partners will have prominent placement on the hardwood, including the logo of Cleveland-Cliffs on the left and right baselines and Kia on th…",
+    "The 3-1 MINI PLAN TICKET PACKAGE Bring the energy for Cavs Cup presented by Kenda Tires!",
+    "The 3-1 Mini Plan, which pays homage to the Cavs 2016 NBA Championship run, is a four-game ticket package.",
+    "It includes the Emirates NBA Cup TBD game in December against an opponent to be determined, plus three matchups featuring players and teams the Cavs faced on their way to the 2016 NBA Finals."
+   ],
+   "quotes": []
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -171,18 +420,18 @@
    "key": "https://www.nba.com/mavs/news/flagg-led-the-way-as-mavs-overpowered-depleted-thunder-120-96",
    "url": "https://www.nba.com/mavs/news/flagg-led-the-way-as-mavs-overpowered-depleted-thunder-120-96",
    "canonical_url": "https://mavs.com/mavs/news/flagg-led-the-way-as-mavs-overpowered-depleted-thunder-120-96",
-   "title": "Flagg led the way as Mavs overpowered depleted Thunder, 120-96",
+   "title": "Flagg leads the way as Mavs overpower depleted Thunder, 120-96",
    "author": "Dwain Price",
    "published_utc": "2026-10-29T04:39:18Z",
    "tags": [
     "dallas mavericks",
     "nba"
    ],
-   "summary": "With four of their top six players sidelined due to injuries, it’s safe to say the Oklahoma City Thunder were seriously compromised when they played the Dallas Mavericks on Wednesday night. But the Mavs did what teams do to an opponent that’s compromised.",
+   "summary": "With four of their top six players sidelined due to injuries, the Oklahoma City Thunder were seriously compromised against the Dallas Mavericks on Wednesday night. And the Mavs did what teams do to an opponent that’s compromised.",
    "facts": [
-    "With four of their top six players sidelined due to injuries, it’s safe to say the Oklahoma City Thunder were seriously compromised when they played the Dallas Mavericks on Wednesday night.",
-    "With Cooper Flagg leading a parade of eight Dallas players who scored 10 or more points, the Mavs exploded for a very convincing 120-96 triumph at American Airlines Center over the short-handed Thunder.",
-    "In running their record to 3-2, this is the first time the Mavs have been above .500 since they were 32-31 way back on March 5, 2025.",
+    "With four of their top six players sidelined due to injuries, the Oklahoma City Thunder were seriously compromised against the Dallas Mavericks on Wednesday night.",
+    "With Cooper Flagg leading a parade of eight Dallas players with 10 or more points, the Mavs exploded for a convincing 120-96 triumph at American Airlines Center over the shorthanded Thunder.",
+    "At 3-2, this is the first time the Mavs have been above .500 since they were 32-31 on March 5, 2025.",
     "However, that mattered not to the Mavs, who put the defensive clamps on the Thunder, holding them to just 5-of-32 shooting from three-point land and outscoring them in fastbreak points, 17-0.",
     "And the 18,111 fans at AAC loved every minute of it.",
     "He worked very well in unison with Kyrie Irving, who poured in 11 of his 15 points in the first quarter.",
@@ -1943,108 +2192,6 @@
     "I’m feeling good and just trying to build to get my conditioning and everything to where I want it,",
     "We’re attacking everything the right way."
    ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-ace-bailey-keyonte-george-lukas-52-and-west-tiers",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-ace-bailey-keyonte-george-lukas-52-and-west-tiers",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-ace-bailey-keyonte-george-lukas-52-and-west-tiers",
-   "title": "Roundball Roundup: Ace Bailey, Keyonte George, Luka's 52, and West Tiers",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-26T18:49:53Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Luka Doncic’s masterclass (4:00), Ace Bailey’s start (12:10), Keyonte George’s consistency (17:30), and Western Conference tiers (31:55).",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Luka Doncic’s masterclass (4:00), Ace Bailey’s start (12:10), Keyonte George’s consistency (17:30), and Western Conference tiers (31:55)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "injury",
-   "key": "https://www.nba.com/magic/news/jalen-suggs-injury-update-mild-right-knee-bone-bruise-release-20261026",
-   "url": "https://www.nba.com/magic/news/jalen-suggs-injury-update-mild-right-knee-bone-bruise-release-20261026",
-   "canonical_url": "https://orlandomagic.com/news/jalen-suggs-injury-update-mild-right-knee-bone-bruise-release-20261026",
-   "title": "Jalen Suggs Injury Update",
-   "author": "Official Release",
-   "published_utc": "2026-10-26T18:45:43Z",
-   "tags": [
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Orlando Magic guard Jalen Suggs underwent an MRI which revealed a mild right knee bone bruise.",
-   "facts": [
-    "Suggs suffered the injury during the fourth quarter of last night’s game at New York."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "feature",
-   "key": "https://www.nba.com/suns/news/10-26-2026-suns-at-thunder-game-preview",
-   "url": "https://www.nba.com/suns/news/10-26-2026-suns-at-thunder-game-preview",
-   "canonical_url": "https://suns.com/news/10-26-2026-suns-at-thunder-game-preview",
-   "title": "10/26/2026 Suns at Thunder Game Preview",
-   "author": "Phoenix Suns",
-   "published_utc": "2026-10-26T17:52:08Z",
-   "tags": [
-    "2026-27"
-   ],
-   "summary": "Date: Monday, October 26, 2026Time: 5:00 p.m. MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Thunder: Association Edition (White)",
-   "facts": [
-    "Game Info Date: Monday, October 26, 2026Time: 5:00 p.m.",
-    "MSTLocation: Paycom CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Thunder: Association Edition (White) Series Notes The Suns beat t…",
-    "Golden State on Oct. 24Currently 20 points away from reaching 8,000 in his NBA career1-of-3 players from his NBA Draft class (2018) to record 7,000 points and 3,000 rebounds in their career (Luka Dončić and Deandre Ayton…",
-    "Orlando on Feb. 21#15 – Devin BookerLAST GAME: Put up a game-high 43 points (15-of-23 FG) while adding 7 rebounds and 7 assistsHis 43 points against Golden State on Oct. 24 were the most by a Sun in a home opener in fran…",
-    "Booker tallied 40+ points against the Warriors for the first time in his career.",
-    "He added 7 rebounds and 7 assists for his fourth career 40+ point, 7+ rebound and 7+ assist game.",
-    "Booker has 20+ points in 11 straight games, the longest active streak in the NBA.Making his home debut, MILES BRIDGES tallied 16 points and 7 rebounds.",
-    "Bridges is now 20 points away from 8,000 in his career.LUKE KENNARD made his Suns debut against Golden State, ending with 11 points (4-of-6 FG, 3-of-5 3FG)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-host-warriors-for-third-game-of-2026-27",
-   "url": "https://www.nba.com/nuggets/news/nuggets-host-warriors-for-third-game-of-2026-27",
-   "canonical_url": "https://nuggets.com/news/nuggets-host-warriors-for-third-game-of-2026-27",
-   "title": "Nuggets host Warriors for third game of 2026-27",
-   "author": "Matt Brooks",
-   "published_utc": "2026-10-26T16:23:03Z",
-   "tags": [
-    "2025-26 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets host the Golden State Warriors for their third game of the season.",
-   "facts": [
-    "INJURY REPORT Denver: Alpha Diallo — DOUBTFUL (Right Wrist Sprain/Personal Reasons) Johnson, Cameron — DOUBTFUL (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Lef…",
-    "Denver, meanwhile, is 1-1 following Saturday's thrilling comeback against the New Orleans Pelicans.",
-    "The Nuggets were down by as many as 22 points in the second half, but they rallied back behind Jamal Murray's 42-point performance.",
-    "Rookie Trevon Brazile was a standout in his second NBA game, as he put up 17 points, 9 rebounds, and 2 blocks in 28 minutes off the bench.",
-    "This was the Nuggets' sixth 22-point second-half comeback in franchise history.",
-    "Julian Strawther (left knee) and Spencer Jones (hamstring) are still recovering from preseason injuries.",
-    "TUNE-IN: Monday, October 26, 8:00 p.m.",
-    "MT; Altitude TV and NBC; Altitude+ and Peacock; Altitude Sports Radio 92.5 FM and TICO Sports"
-   ],
-   "quotes": []
   }
  ]
 }
