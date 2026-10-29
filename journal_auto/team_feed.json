@@ -1,8 +1,91 @@
 {
- "updated_utc": "2026-10-28 19:50 UTC",
+ "updated_utc": "2026-10-29 00:21 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "injury",
+   "key": "https://www.nba.com/thunder/news/medical-update-261028",
+   "url": "https://www.nba.com/thunder/news/medical-update-261028",
+   "canonical_url": "https://okcthunder.com/news/medical-update-261028",
+   "title": "Thunder Medical Update",
+   "author": "okcthunder",
+   "published_utc": "2026-10-28T23:17:46Z",
+   "tags": [
+    "Jalen Williams"
+   ],
+   "summary": "OKLAHOMA CITY, Oct. 28, 2026 – Oklahoma City Thunder guard/forward Jalen Williams underwent a successful procedure today to address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.",
+   "facts": [
+    "OKLAHOMA CITY, Oct. 28, 2026 – Oklahoma City Thunder guard/forward Jalen Williams underwent a successful procedure today to address a fractured left fibula and reconstruction of ankle ligaments following a fracture and d…",
+    "The surgery was performed by Dr.",
+    "Martin O’Malley at Hospital for Special Surgery in New York City with Thunder medical personnel present.",
+    "Williams will be re-evaluated prior to the end of the 2026-27 regular season."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "roster",
+   "key": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-zaccharie-risacher",
+   "url": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-zaccharie-risacher",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-exercise-team-option-on-zaccharie-risacher",
+   "title": "Mavericks Exercise Team Option on Zaccharie Risacher",
+   "author": "Dallas Mavericks",
+   "published_utc": "2026-10-28T21:35:30Z",
+   "tags": [],
+   "summary": "DALLAS (Oct. 28, 2026) – The Dallas Mavericks announced today that they have exercised their fourth-year team option on forward/guard Zaccharie Risacher for the 2027-28 season.",
+   "facts": [
+    "DALLAS (Oct. 28, 2026) – The Dallas Mavericks announced today that they have exercised their fourth-year team option on forward/guard Zaccharie Risacher for the 2027-28 season.",
+    "Risacher (6-9, 203) holds career averages of 11.1 points (.453 FG%, .355 3FG%), 3.8 rebounds, 1.2 assists and 23.7 minutes through 146 games (120 starts) with the Atlanta Hawks and Mavericks.",
+    "The 21-year-old is averaging 8.0 points, 6.0 rebounds, 1.5 assists, 2.0 steals and 2.0 blocks through his first four games with Dallas.",
+    "He recorded five steals against the Houston Rockets on Oct. 21, setting the franchise record for most steals in a Maverick debut.",
+    "Risacher is also tied for the second-most combined steals and blocks in the league this season with 16 (eight steals, eight blocks).",
+    "In his time with Atlanta, Risacher reached 1,000 career points at 20 years, 210 days old, becoming the fourth-youngest player in Hawks history to reach the milestone, and he earned All-Rookie First Team honors after his …"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-10-28-26",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-10-28-26",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-10-28-26",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Lakers",
+   "author": "LAClippers",
+   "published_utc": "2026-10-28T20:25:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Brook Lopez",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Darius Garland",
+    "Game Previews",
+    "Injury Report"
+   ],
+   "summary": "1. From their first season in 1970 -71 through the 2011 -12 season, the Clippers went 49 -143 (.255) against the Lakers, their second -worst record vs. any team (Spurs, .207). Since 2012 -13, the Clippers are 40 -16 (.714) against the Lakers, the best by any team vs. LAL in that time. 2. The Clippers’ bench is averaging 47.7 points per game so far this season, second in the NBA, and sho oting 50.5…",
+   "facts": [
+    "LOS ANGELES LAKERS FIVE THINGS TO KNOW 1.",
+    "From their first season in 1970 -71 through the 2011 -12 season, the Clippers went 49 -143 (.255) against the Lakers, their second -worst record vs. any team (Spurs, .207).",
+    "Since 2012 -13, the Clippers are 40 -16 (.714) against the Lakers, the best by any team vs.",
+    "LAL in that time. 2.",
+    "The Clippers’ bench is averaging 47.7 points per game so far this season, second in the NBA, and sho oting 50.5% from the floor, best in the NBA.",
+    "The bench unit is led by Brook Lopez, averaging 18.0 PPG, the first Clippers reserve with as many PPG through three games since Lou Williams and Montrezl Harrell each did so in 2019 -20. 3.",
+    "Darius Garland is the fourth player in Clippers history with at least 70 points and 20 assists through three games of a season.",
+    "He joins James Harden (2024 -25), Kawhi Leonard (2019 -20) and Chris Paul (2013 -14). 4."
+   ],
+   "quotes": []
+  },
   {
    "source": "MIL 公式（nba.com）",
    "team": "MIL",
@@ -369,7 +452,7 @@
     "Atlanta shipped Risacher and a Top 55 protected 2027 second-round pick to the Mavs this summer in a three-team trade that required Dallas sending point guard Ryan Nembhard to Atlanta and a 2027 second-round pick to the O…",
     "In 142 games for the Hawks, Risacher averaged 11.1 points and 3.7 rebounds while playing less than half-a-game -- 23.6 minutes.",
     "The Mavs saw the long-range potential in the 21-year Spanish-born French player, which is why president and alternate governor Masai Ujiri reached out and made the move.",
-    "Meanwhile, Santi Aldama (right knee surgery) and Tarik Biberovic (right heel bursitis) are listed as doubtful, and Derick Lively II (right foot surgery) and Sergio De Larrea (right knee sprain) will not play on Wednesday…",
+    "Also, Santi Aldama (right knee surgery), Tarik Biberovic (right heel bursitis), Derick Lively II (right foot surgery) and Sergio De Larrea (right knee sprain) will not play on Wednesday). *Oklahoma City is one of only fo…",
     "But the Thunder’s unblemished record has taken a back seat to the gruesome injury forward Jalen Williams suffered during Saturday’s 108-101 win over the Los Angeles Clippers.",
     "Williams left that game on a stretcher after he suffered a fractured left fibula and a dislocated left ankle when he drove hard to the basket and fell after colliding with the Clippers’ Kris Dunn and Derrick Jones Jr. *P…"
    ],
@@ -1652,109 +1735,6 @@
     "These experiences are great for our team,",
     "The learning curve and the execution is where we need to continue to raise our focus."
    ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-heat-preview-both-teams-look-to-turn-around-disappointing-starts",
-   "url": "https://www.nba.com/mavs/news/mavericks-heat-preview-both-teams-look-to-turn-around-disappointing-starts",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-heat-preview-both-teams-look-to-turn-around-disappointing-starts",
-   "title": "Mavericks-Heat preview: Both teams look to turn around disappointing starts",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-25T23:43:06Z",
-   "tags": [
-    "dallas mavericks",
-    "Morez Johnson Jr.",
-    "nba",
-    "Sergio De Larrea"
-   ],
-   "summary": "MIAMI – OK, let’s get an honest show of hands from anybody who thought Giannis Antetokounmpo would start 0-3 as a member of the Miami Heat.",
-   "facts": [
-    "MIAMI – OK, let’s get an honest show of hands from anybody who thought Giannis Antetokounmpo would start 0-3 as a member of the Miami Heat.",
-    "The Greek Freak, Bam Adebayo and Klay Thompson all have started the first three games for Miami and the losses have come at home by 25 points against Minnesota, by 17 against Detroit and on the road at Charlotte by five …",
-    "In De Larrea, the Mavericks got a full package of what the 6-5 Spaniard can do in Saturday’s loss to the Spurs at American Airlines Center.",
-    "Forced into being the primary ball handler with Kyrie Irving sitting out, De Larrea had a team-best 21 points, hit 9-of-15 shots and nailed three of his four three-point tries.",
-    "Suffice it to say that if De Larrea shot like that all the time, there’s no way he would have slipped to the No. 25 pick in the draft.",
-    "Considering he won’t turn 21 until Dec. 4, De Larrea has oodles of potential and that’s what made him one of the most attractive European players in the draft.",
-    "The down side is that De Larrea had four turnovers in his 33 minutes against the Spurs.",
-    "As for the rugged, 6-9 Johnson, much higher expectations come with the No. 9 overall pick."
-   ],
-   "quotes": [
-    "When you think of his growth and development, you factor in how important those reps are for him as he gets stronger and his body adapts to the speed and athleticism of the game — invaluable,",
-    "Numerous great learning lessons from that.",
-    "It’s a pleasure to play with him,",
-    "He gives 100 percent every day and brings all the energy to the team. I’m very happy to have him."
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261025-easts-best-put-celtics-to-the-test-right-away",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261025-easts-best-put-celtics-to-the-test-right-away",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20261025-easts-best-put-celtics-to-the-test-right-away",
-   "title": "East’s Best Put Celtics to the Test Right Away",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-25T20:04:22Z",
-   "tags": [
-    "Practice",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "BOSTON – The Celtics opened their season with about as tough of a test as they could have drawn. Their first two matchups came against the reigning Eastern Conference regular-season champion Pistons and the defending NBA champion Knicks – two juggernauts that presented two distinctly different challenges for a Celtics group in the beginning stage of establishing its identity.",
-   "facts": [
-    "Boston came away with a split, falling in Detroit before returning home to take down New York at TD Garden.",
-    "But two games into an 82-game season, the results only tell so much of the story.",
-    "Ultimately, the game swung when Javonte Green and Duncan Robinson caught fire in the second half, combining for 37 points after halftime to help Detroit turn the game around.",
-    "Boston executed when it mattered most, with Jayson Tatum delivering four clutch baskets down the stretch to help the Celtics secure a 107-103 win in their home opener.",
-    "The Celtics will have zero days to prepare for Brooklyn on Tuesday, when they’ll play the second night of their first back-to-back of the season, and the first of six back-to-backs over a 36-day span."
-   ],
-   "quotes": [
-    "I think each team gave us a different challenge,",
-    "It’s just something where we have to find our identity, find who we want to be and continue to grow in that aspect.",
-    "We've been working on these types of environments the whole summer,",
-    "Been drilling a lot of late-game scenarios … I think we’re getting a good feel of how to attack these certain moments and how to maximize opportunity. We’re doing a really good job of managing the mom…"
-   ]
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-thunder-261025",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-thunder-261025",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-thunder-261025",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Thunder",
-   "author": "LAClippers",
-   "published_utc": "2026-10-25T20:00:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Broadcast Information",
-    "Brook Lopez",
-    "Darius Garland",
-    "Game Previews",
-    "Injury Report",
-    "Keaton Wagler",
-    "Key Matchup"
-   ],
-   "summary": "1. The Clippers are allowing 111.3 points per game following a loss under Tyronn Lue (since 2020-21). That is the fifth fewest in the NBA over this span.",
-   "facts": [
-    "OKLAHOMA CITY THUNDER FIVE THINGS TO KNOW 1.",
-    "The Clippers are allowing 111.3 points per game following a loss under Tyronn Lue (since 2020-21).",
-    "That is the fifth fewest in the NBA over this span. 2.",
-    "Brook Lopez scored 22 points off the bench on Friday, becoming the oldest player in Clippers history to score at least 20 points in a game (38y, 205d).",
-    "There are only three NBA players older than Lopez to play in a game this season: LeBron James, Al Horford and Steph Curry. 3.",
-    "The Clippers have made 30 three-pointers through two games this season.",
-    "The only season in franchise history where they had more through two games was 2020-21 (33). 4.",
-    "Darius Garland has scored at least 25 points and recorded a steal in both games this season."
-   ],
-   "quotes": []
   }
  ]
 }
