@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>ウィザーズのジャスティン・シャンペニー、右足骨折の手術を受け無期限離脱</title>
+      <link>https://sixten.jp/journal/716-champagnie-foot-surgery-wizards.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/716-champagnie-foot-surgery-wizards.html</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>ワシントン・ウィザーズは、ジャスティン・シャンペニーが右足の骨折を修復する外科手術を受けたと発表した。チームは無期限の離脱になるとしている。ESPNのマーク・スタイン記者が現地時間28日、球団の発表として伝えた。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>adidas Anthony Edwards 3「With Love」が11月6日発売 —— 品番KH8540、地元ジョージア州にちなんだピーチカラー</title>
       <link>https://sixten.jp/journal/715-adidas-ae3-with-love.html</link>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>サンアントニオ・スパーズのビクター・ウェンバンヤマは現地時間10月27日、サクラメント・キングス戦に27分出場し、29得点・10リバウンド・5ブロックを記録した。両チーム通じて最多得点者となり、スパーズは130-103でキングスに快勝した。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>ジェイソン・テイタム、ネッツ戦で40得点8アシスト —— セルティックスが125-124で辛勝</title>
-      <link>https://sixten.jp/journal/685-tatum-40-points-nets.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/685-tatum-40-points-nets.html</guid>
-      <pubDate>Wed, 28 Oct 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>ボストン・セルティックスのジェイソン・テイタムは現地時間10月27日、ブルックリン・ネッツ戦に42分出場し、40得点・8アシスト・5リバウンドを記録した。両チーム通じて最多得点者となり、セルティックスは125-124の1点差でネッツを振り切った。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-02.jpg?v=6d15bae6e8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

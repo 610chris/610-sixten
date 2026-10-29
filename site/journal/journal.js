@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "716-champagnie-foot-surgery-wizards.html",
+    cat: "NBA",
+    title: "ウィザーズのジャスティン・シャンペニー、右足骨折の手術を受け無期限離脱",
+    excerpt: "ワシントン・ウィザーズは、ジャスティン・シャンペニーが右足の骨折を修復する外科手術を受けたと発表した。チームは無期限の離脱になるとしている。ESPNのマーク・スタイン記者が現地時間28日、球団の発表として伝えた。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "715-adidas-ae3-with-love.html",
     cat: "KICKS",
     title: "adidas Anthony Edwards 3「With Love」が11月6日発売 —— 品番KH8540、地元ジョージア州にちなんだピーチカラー",
