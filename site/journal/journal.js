@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "721-nike-sabrina-4-grey-fog.html",
+    cat: "KICKS",
+    title: "Nike Sabrina 4「Grey Fog」が登場 —— 品番II0402-102、サブリナ・イオネスクの4代目シグネチャーに新色",
+    excerpt: "ナイキは、サブリナ・イオネスクの4代目シグネチャーシューズ「Sabrina 4」の新色「Grey Fog」（品番II0402-102）を発表した。控えめなグレー基調の配色で、Sneaker Newsが伝えた。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "720-foamposite-pro-tcu-horned-frogs.html",
+    cat: "KICKS",
+    title: "Nike Air Foamposite Pro「TCU Horned Frogs」の公式画像が登場 —— 品番IX2092-500、大学カラー展開の最新色",
+    excerpt: "Nike Air Foamposite Proのカレッジチームカラー最新作「TCU Horned Frogs」（品番IX2092-500）が公式画像で登場。TCUのスクールカラーであるパープルを基調にしたデザインで、Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "719-hornets-naz-reid-benched-standards.html",
+    cat: "NBA",
+    title: "ホーネッツ、ネイズ・リードを前半で下げ後半出場なし —— リーHC「チームの基準に届かなかった」",
+    excerpt: "シャーロット・ホーネッツは現地時間28日のピストンズ戦、今季加入のネイズ・リードを前半で下げ後半は出場させなかった。チャールズ・リーHCは試合後「前半、チームの基準に届かなかった」と説明。ホーネッツは89-97で敗れた。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "718-clippers-blake-wesley-hardship.html",
     cat: "NBA",
     title: "クリッパーズ、ブレイク・ウェスリーと10日間契約 —— ハードシップ例外で元スパーズ・ブレイザーズのガードを補強",
