@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T10:11:07+09:00",
+  "updated": "2026-10-29T10:57:03+09:00",
   "items": [
     {
       "id": "134",
@@ -19599,6 +19599,191 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Nike GT Uptempo、2027年発売へ\n\n・ディラン・ハーパー(スパーズ)が試合で初着用\n・GT Force・GT Flightに続くGTシリーズ新モデル\n・品番IR2018-002、メタリックシルバー/ブラック\n\n💬 この新色、履いてみたい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News / Sneaker Bar Detroit\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "696",
+      "slug": "696-brandon-miller-31-points-pistons",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "ブランドン・ミラー、ピストンズ戦で31得点",
+      "excerpt": "シャーロット・ホーネッツのブランドン・ミラーは現地時間10月28日、デトロイト・ピストンズ戦に38分出場し、31得点・12リバウンド・3アシストを記録した。両チーム通じて最多得点者となったが、ホーネッツは89-97でピストンズに敗れた。",
+      "points": [
+        "ホーネッツは89-97で敗戦",
+        "FG12/26・3P3/10で31得点",
+        "リバウンド12・スティール2"
+      ],
+      "source": "ESPN ボックススコア(Hornets vs. Pistons・2026年10月28日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/696-brandon-miller-31-points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Brandon Miller"
+      ],
+      "question": "31得点でも敗戦、ホーネッツに何が足りない？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BRANDON MILLER",
+        "opponent": "vs. PISTONS",
+        "points": 31,
+        "stats": [
+          "12 REB",
+          "3 AST",
+          "2 STL",
+          "12/26 FG",
+          "3/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/696-1.jpg",
+        "https://sixten.jp/assets/ig/696-2.jpg",
+        "https://sixten.jp/assets/ig/696-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T10:55:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブランドン・ミラー、ピストンズ戦で31得点\n\n・ホーネッツは89-97で敗戦\n・FG12/26・3P3/10で31得点\n・リバウンド12・スティール2\n\n💬 31得点でも敗戦、ホーネッツに何が足りない？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Hornets vs. Pistons・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "697",
+      "slug": "697-giannis-antetokounmpo-24-points-hawks",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "アデトクンボ、ホークス戦で24得点18リバウンド",
+      "excerpt": "マイアミ・ヒートのヤニス・アデトクンボは現地時間10月28日、アトランタ・ホークス戦に31分出場し、24得点・18リバウンド・3アシストを記録した。両チーム通じて最多得点者の一人となり、ヒートは129-117でホークスに快勝した。",
+      "points": [
+        "ヒートが129-117で快勝",
+        "FG11/18で24得点",
+        "リバウンド18・アシスト3"
+      ],
+      "source": "ESPN ボックススコア(Heat vs. Hawks・2026年10月28日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/697-giannis-antetokounmpo-24-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Giannis Antetokounmpo"
+      ],
+      "question": "24得点18リバウンド、このペース通期で続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "GIANNIS ANTETOKOUNMPO",
+        "opponent": "vs. HAWKS",
+        "points": 24,
+        "stats": [
+          "18 REB",
+          "3 AST",
+          "11/18 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/697-1.jpg",
+        "https://sixten.jp/assets/ig/697-2.jpg",
+        "https://sixten.jp/assets/ig/697-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T10:55:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アデトクンボ、ホークス戦で24得点18リバウンド\n\n・ヒートが129-117で快勝\n・FG11/18で24得点\n・リバウンド18・アシスト3\n\n💬 24得点18リバウンド、このペース通期で続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Heat vs. Hawks・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "698",
+      "slug": "698-bam-adebayo-24-points-hawks",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "アデバヨ、ホークス戦で24得点9リバウンド",
+      "excerpt": "マイアミ・ヒートのバム・アデバヨは現地時間10月28日、アトランタ・ホークス戦に33分出場し、24得点・9リバウンド・3スティールを記録した。両チーム通じて最多得点者の一人となり、ヒートは129-117でホークスに快勝した。",
+      "points": [
+        "ヒートが129-117で快勝",
+        "FT8/9で24得点",
+        "プラスマイナス+22"
+      ],
+      "source": "ESPN ボックススコア(Heat vs. Hawks・2026年10月28日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/698-bam-adebayo-24-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Bam Adebayo"
+      ],
+      "question": "アデトクンボと並ぶ24得点、どっちがMVP級？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BAM ADEBAYO",
+        "opponent": "vs. HAWKS",
+        "points": 24,
+        "stats": [
+          "9 REB",
+          "3 AST",
+          "3 STL",
+          "8/16 FG",
+          "8/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/698-1.jpg",
+        "https://sixten.jp/assets/ig/698-2.jpg",
+        "https://sixten.jp/assets/ig/698-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T10:55:36+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アデバヨ、ホークス戦で24得点9リバウンド\n\n・ヒートが129-117で快勝\n・FT8/9で24得点\n・プラスマイナス+22\n\n💬 アデトクンボと並ぶ24得点、どっちがMVP級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Heat vs. Hawks・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "699",
+      "slug": "699-evan-mobley-24-points-wizards",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "モーブリー、ウィザーズ戦で24得点12リバウンド",
+      "excerpt": "クリーブランド・キャバリアーズのエバン・モーブリーは現地時間10月28日、ワシントン・ウィザーズ戦に32分出場し、24得点・12リバウンド・2アシストを記録した。両チーム通じて最多得点者となり、キャバリアーズは121-111でウィザーズに勝利した。",
+      "points": [
+        "キャバリアーズが121-111で勝利",
+        "3P5/6の高確率で24得点",
+        "リバウンド12・アシスト2"
+      ],
+      "source": "ESPN ボックススコア(Cavaliers vs. Wizards・2026年10月28日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/699-evan-mobley-24-points-wizards.html",
+      "hero_path": "",
+      "subject": [
+        "Evan Mobley"
+      ],
+      "question": "モーブリーの外角シュート、今季も続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "EVAN MOBLEY",
+        "opponent": "vs. WIZARDS",
+        "points": 24,
+        "stats": [
+          "12 REB",
+          "2 AST",
+          "8/12 FG",
+          "5/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/699-1.jpg",
+        "https://sixten.jp/assets/ig/699-2.jpg",
+        "https://sixten.jp/assets/ig/699-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T10:55:36+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "モーブリー、ウィザーズ戦で24得点12リバウンド\n\n・キャバリアーズが121-111で勝利\n・3P5/6の高確率で24得点\n・リバウンド12・アシスト2\n\n💬 モーブリーの外角シュート、今季も続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Cavaliers vs. Wizards・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "699-evan-mobley-24-points-wizards.html",
+    cat: "NBA",
+    title: "エバン・モーブリー、ウィザーズ戦で24得点12リバウンド —— キャバリアーズが121-111で勝利",
+    excerpt: "クリーブランド・キャバリアーズのエバン・モーブリーは現地時間10月28日、ワシントン・ウィザーズ戦に32分出場し、24得点・12リバウンド・2アシストを記録した。両チーム通じて最多得点者となり、キャバリアーズは121-111でウィザーズに勝利した。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "698-bam-adebayo-24-points-hawks.html",
+    cat: "NBA",
+    title: "バム・アデバヨ、ホークス戦で24得点9リバウンド —— ヒートが129-117で快勝",
+    excerpt: "マイアミ・ヒートのバム・アデバヨは現地時間10月28日、アトランタ・ホークス戦に33分出場し、24得点・9リバウンド・3スティールを記録した。両チーム通じて最多得点者の一人となり、ヒートは129-117でホークスに快勝した。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "697-giannis-antetokounmpo-24-points-hawks.html",
+    cat: "NBA",
+    title: "ヤニス・アデトクンボ、ホークス戦で24得点18リバウンド —— ヒートが129-117で快勝",
+    excerpt: "マイアミ・ヒートのヤニス・アデトクンボは現地時間10月28日、アトランタ・ホークス戦に31分出場し、24得点・18リバウンド・3アシストを記録した。両チーム通じて最多得点者の一人となり、ヒートは129-117でホークスに快勝した。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "696-brandon-miller-31-points-pistons.html",
+    cat: "NBA",
+    title: "ブランドン・ミラー、ピストンズ戦で31得点12リバウンド —— ホーネッツは89-97で敗戦",
+    excerpt: "シャーロット・ホーネッツのブランドン・ミラーは現地時間10月28日、デトロイト・ピストンズ戦に38分出場し、31得点・12リバウンド・3アシストを記録した。両チーム通じて最多得点者となったが、ホーネッツは89-97でピストンズに敗れた。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "695-nike-gt-uptempo-dylan-harper.html",
     cat: "KICKS",
     title: "Nike GT Uptempo、ディラン・ハーパーが試合で初披露 —— 2027年発売、GT Force・GT Flightに続く新モデル",
