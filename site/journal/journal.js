@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "712-charles-bassey-injury-journey-warriors.html",
+    cat: "NBA",
+    title: "チャールズ・バッシー「長く、過酷な道のりだった」—— 幾度もの大怪我を越え、ウォリアーズで迎えた26歳の誕生日",
+    excerpt: "ナイジェリア出身のウォリアーズ センター、チャールズ・バッシーは26歳の誕生日に公開された球団の動画で、大学時代からの度重なる大怪我を越えてNBA6年目を迎えた自身の道のりを振り返った。ESPNが報じた。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "711-grimes-23-points-clippers.html",
     cat: "NBA",
     title: "クエンティン・グライムズ、クリッパーズ戦で23得点 —— レイカーズが103-87で勝利",
