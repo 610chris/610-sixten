@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "704-vanvleet-24-points-bucks.html",
+    cat: "NBA",
+    title: "フレッド・ヴァンブリート、バックス戦で24得点5アシスト —— ロケッツが132-100で大勝",
+    excerpt: "ヒューストン・ロケッツのフレッド・ヴァンブリートは現地時間10月28日、ミルウォーキー・バックス戦に29分出場し、24得点・リバウンド6・アシスト5を記録した。両チーム通じて最多得点者となり、ロケッツは132-100でバックスに大勝した。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "703-zion-williamson-25-points-nuggets.html",
     cat: "NBA",
     title: "ザイオン・ウィリアムソン、ナゲッツ戦で25得点 —— ペリカンズは91-104で敗戦",

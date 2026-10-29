@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:27:31+09:00",
+  "updated": "2026-10-29T11:38:06+09:00",
   "items": [
     {
       "id": "134",
@@ -19959,6 +19959,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ザイオン・ウィリアムソン、ナゲッツ戦で25得点\n\n・FG10/14、71.4%の高効率で25得点\n・リバウンド5・アシスト2・スティール3\n・ペリカンズは91-104でナゲッツに敗戦\n\n💬 この効率の高さ、次は勝利につながる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Pelicans vs. Nuggets・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "704",
+      "slug": "704-vanvleet-24-points-bucks",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "フレッド・ヴァンブリート、バックス戦で24得点5アシスト",
+      "excerpt": "ヒューストン・ロケッツのフレッド・ヴァンブリートは現地時間10月28日、ミルウォーキー・バックス戦に29分出場し、24得点・リバウンド6・アシスト5を記録した。両チーム通じて最多得点者となり、ロケッツは132-100でバックスに大勝した。",
+      "points": [
+        "24得点・リバウンド6・アシスト5",
+        "3PT 9本中4本と高精度",
+        "ロケッツが132-100で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/704-vanvleet-24-points-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "Fred VanVleet"
+      ],
+      "question": "ロケッツ、この勢いで何勝いける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "FRED VANVLEET",
+        "opponent": "vs. BUCKS",
+        "points": 24,
+        "stats": [
+          "6 REB",
+          "5 AST",
+          "2 STL",
+          "7/14 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/704-1.jpg",
+        "https://sixten.jp/assets/ig/704-2.jpg",
+        "https://sixten.jp/assets/ig/704-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T11:38:02+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "フレッド・ヴァンブリート、バックス戦で24得点5アシスト\n\n・24得点・リバウンド6・アシスト5\n・3PT 9本中4本と高精度\n・ロケッツが132-100で大勝\n\n💬 ロケッツ、この勢いで何勝いける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
