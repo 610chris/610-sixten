@@ -1,7 +1,20 @@
 {
- "updated_utc": "2026-10-28 21:23 UTC",
+ "updated_utc": "2026-10-29 01:05 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xi14mm/charania_indianas_tyrese_haliburton_will_miss_at/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-10-28T21:28:08+00:00",
+   "text": "Indiana's Tyrese Haliburton will miss at least two weeks with the left hamstring strain.\n\nhttps://www.espn.com/contributor/shams-charania/e609724a59b01",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xi14mm/charania_indianas_tyrese_haliburton_will_miss_at/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/e609724a59b01"
+   ]
+  },
   {
    "reporter": "Marc Stein（The Stein Line）",
    "handle": "TheSteinLine",
