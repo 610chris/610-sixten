@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "713-off-the-glass.html",
+    cat: "CULTURE",
+    title: "代々木公園の路地裏に、バスケ好きの大人のためのバーラウンジ「OFF THE GLASS」 —— NBA開幕に合わせビューイングイベント、11月6日はクリスがゲスト出演",
+    excerpt: "東京・渋谷区富ヶ谷、代々木公園エリアの路地裏に、バスケットボールを愛する大人たちのためのバーラウンジ「OFF THE GLASS（オフ・ザ・グラス）」がオープンした。NBA新シーズンの開幕に合わせ、少人数限定のビューイングイベント「TIP-OFF EXCLUSIVE VIEWING」を開催している。11月6日（金）には、バスケ動画クリエイターのクリスがゲストとして登場する。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-713-hero.jpg?v=a3364db9b1"
+  },
+  {
     href: "712-charles-bassey-injury-journey-warriors.html",
     cat: "NBA",
     title: "チャールズ・バッシー「長く、過酷な道のりだった」—— 幾度もの大怪我を越え、ウォリアーズで迎えた26歳の誕生日",
