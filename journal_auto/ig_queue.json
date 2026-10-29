@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T11:38:06+09:00",
+  "updated": "2026-10-29T11:49:42+09:00",
   "items": [
     {
       "id": "134",
@@ -20006,6 +20006,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "フレッド・ヴァンブリート、バックス戦で24得点5アシスト\n\n・24得点・リバウンド6・アシスト5\n・3PT 9本中4本と高精度\n・ロケッツが132-100で大勝\n\n💬 ロケッツ、この勢いで何勝いける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "705",
+      "slug": "705-brunson-38-points-bulls",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "ジェイレン・ブランソン、ブルズ戦で38得点7アシスト",
+      "excerpt": "ニューヨーク・ニックスのジェイレン・ブランソンは現地時間10月28日、シカゴ・ブルズ戦に35分出場し、38得点・リバウンド1・アシスト7を記録した。両チーム通じて最多得点者となり、ニックスは133-127でブルズに勝利した。",
+      "points": [
+        "38得点・リバウンド1・アシスト7",
+        "3PT 10本中6本と高精度",
+        "ニックスが133-127で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/705-brunson-38-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Brunson"
+      ],
+      "question": "ブランソン、今季このままMVP争いに食い込める？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN BRUNSON",
+        "opponent": "vs. BULLS",
+        "points": 38,
+        "stats": [
+          "7 AST",
+          "2 STL",
+          "1 REB",
+          "13/25 FG",
+          "6/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/705-1.jpg",
+        "https://sixten.jp/assets/ig/705-2.jpg",
+        "https://sixten.jp/assets/ig/705-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T11:49:10+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ブランソン、ブルズ戦で38得点7アシスト\n\n・38得点・リバウンド1・アシスト7\n・3PT 10本中6本と高精度\n・ニックスが133-127で勝利\n\n💬 ブランソン、今季このままMVP争いに食い込める？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
