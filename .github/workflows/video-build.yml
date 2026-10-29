@@ -62,30 +62,7 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "true" ]; then FORCE="--force"; fi
           python3 journal_auto/video_build.py ${{ github.event.inputs.ids }} $FORCE
 
-      # 記事ページ用の軽量版だけを commit する（2026-09-20）。
-      # これが push されると deploy.yml が走り、build_seo.py が記事末尾に <video> を差し込んで
-      # sixten.jp へ公開する＝新しい記事の動画も手を触れずに記事へ載る。
-      # 自己ループはしない: この workflow のトリガーは journal_auto/ig_queue.json の push だけで、
-      # ここで触るのは site/assets/journal/video/ のみ。video_status.json は従来どおり Release 側。
-      - name: Commit web copies
-        if: ${{ github.event_name != 'schedule' }}
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          if [ -z "$(git status --porcelain site/assets/journal/video)" ]; then
-            echo "記事ページに追加する動画はない"
-            exit 0
-          fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add site/assets/journal/video
-          git commit -m "journal: 記事ページ用の縦型動画を追加（自動）"
-          git pull --rebase --autostash origin main
-          git push origin HEAD:main
-          # GITHUB_TOKEN で push したコミットは他の workflow を起動しない（再帰防止の仕様）。
-          # deploy.yml が走らないと記事に <video> が入らないので、ここから明示的に起動する
-          # （workflow_dispatch は GITHUB_TOKEN でも起動できる例外・2026-09-20 実測で確認）。
-          gh workflow run deploy.yml --ref main
+      # 記事ページ用の軽量版の commit（2026-09-20〜）は 2026-10-29 に廃止。記事には動画を載せない。
       - name: Post reels
         # 動画が一部失敗しても、できた分は投稿する
         if: ${{ !cancelled() && github.event.inputs.post != 'false' }}

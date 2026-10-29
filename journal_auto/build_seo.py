@@ -194,58 +194,15 @@ def rel_card(a: dict) -> str:
     )
 
 
-VIDEO_DIR = SITE / "assets" / "journal" / "video"
-VIDEO_NOTE = "この記事の要点を8秒の縦型動画にまとめています。"
-
-
 def article_video(a: dict) -> str:
-    """記事の縦型ニュース動画ブロック（2026-09-20）
+    """記事の縦型ニュース動画ブロック → 2026-10-29 廃止（常に空文字）
 
-    site/assets/journal/video/NNN.mp4 があれば記事末尾に置く。無ければ空文字＝マーカー間が空になり
-    ブロックは自動で消える。動画は journal_auto/video_build.py が Release「videos」に上げた原寸
-    （1080x1920）を web 用に 720x1280 へ落としたもの。Release の生URLを直接貼らないのは、GitHub が
-    Release アセットを application/octet-stream + attachment で返すため iOS Safari が再生しないから
-    （2026-09-20 実測: Chrome は再生できるが Safari は不可）。サイト自身から配信すれば
-    Content-Type: video/mp4 になり、surge も Range(206) に対応している。
-
-    style に height:auto / aspect-ratio:9/16 / object-fit:cover を入れている理由（2026-09-20 実測）:
-    width:100% だけだと height="1280" 属性がそのまま px として効き、iPhone 幅で 300x1280 の
-    黒い箱になって上下に 370px ずつ黒帯が出ていた。さらに poster は記事のヒーロー画像（16:9 の横長）
-    なので、cover で箱に合わせて切らないと箱の中央に小さく浮く。動画自体は 9:16 なので cover でも
-    切られない。ポスター用の縦画像を別に作るとリポジトリが太るため、この 3 プロパティで解決している。
+    記事末尾に置いていた8秒動画はリール動画の軽量版で、1本ずつ site/assets/journal/video/ に
+    積み上がって Surge の容量上限(450MB)を圧迫したため、記事には載せないことにした（クリス判断）。
+    空文字を返すと ARTICLE-VIDEO マーカー間が空になり、既存記事からも次のビルドで消える。
+    リール投稿は Release「videos」の動画を使うので影響なし。
     """
-    vid = VIDEO_DIR / f"{a['href'][:3]}.mp4"
-    if not vid.exists():
-        return ""
-    url = f"{BASE}/assets/journal/video/{vid.name}"
-    poster = a.get("abs_thumb")
-    ld = {
-        "@context": "https://schema.org",
-        "@type": "VideoObject",
-        "name": a["title"],
-        "description": VIDEO_NOTE,
-        "contentUrl": url,
-        "uploadDate": a.get("published") or a["iso"],
-        "duration": "PT8S",
-    }
-    if poster:
-        ld["thumbnailUrl"] = poster
-    poster_attr = f' poster="{esc(poster)}"' if poster else ""
-    return (
-        '  <aside class="article-video" style="margin-top:56px;padding-top:28px;'
-        'border-top:1px solid var(--line)">\n'
-        '    <div style="font-family:var(--font-display);font-size:13px;letter-spacing:0.3em;'
-        'color:var(--accent);margin-bottom:14px">VIDEO</div>\n'
-        f'    <video src="{url}"{poster_attr} controls preload="none" '
-        'playsinline width="720" height="1280" '
-        'style="width:100%;max-width:300px;height:auto;aspect-ratio:9/16;object-fit:cover;'
-        'display:block;border-radius:4px;background:#000">'
-        f'<a href="{url}">{esc(a["title"])}の動画</a></video>\n'
-        f'    <p style="margin-top:10px;font-size:12px;letter-spacing:0.05em;color:var(--muted)">'
-        f'{esc(VIDEO_NOTE)}</p>\n'
-        '  </aside>\n'
-        '  <script type="application/ld+json">' + json.dumps(ld, ensure_ascii=False) + "</script>"
-    )
+    return ""
 
 
 def between(text: str, start: str, end: str, inner: str) -> str:
