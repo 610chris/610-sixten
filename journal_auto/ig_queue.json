@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T13:30:14+09:00",
+  "updated": "2026-10-29T14:58:36+09:00",
   "items": [
     {
       "id": "134",
@@ -20262,6 +20262,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "シーホース三河U18、全国大会出場決定\n\n・11月21日〜25日・日環アリーナ栃木で開催\n・全国43チームが参加するトーナメント\n・初戦は徳島ガンバロウズU18と対戦\n\n💬 シーホース三河U18、どこまで勝ち上がる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: シーホース三河（PR TIMES）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "711",
+      "slug": "711-grimes-23-points-clippers",
+      "category": "NBA",
+      "date": "2026-10-29",
+      "headline": "グライムズ、クリッパーズ戦で23得点",
+      "excerpt": "レイカーズのクエンティン・グライムズは現地時間10月28日、ロサンゼルス・クリッパーズ戦に38分出場し、23得点・アシスト5・スティール4を記録した。両チーム通じてこの日の最多得点者となり、レイカーズは103-87でクリッパーズに勝利した。",
+      "points": [
+        "FG7/15・FT9/11で23得点",
+        "アシスト5・スティール4",
+        "レイカーズが103-87で勝利"
+      ],
+      "source": "ESPN ボックススコア(Lakers vs. Clippers・2026年10月28日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/711-grimes-23-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Quentin Grimes"
+      ],
+      "question": "この試合、レイカーズとクリッパーズどっちが強い？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "QUENTIN GRIMES",
+        "opponent": "vs. CLIPPERS",
+        "points": 23,
+        "stats": [
+          "5 AST",
+          "4 STL",
+          "3 REB",
+          "7/15 FG",
+          "9/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/711-1.jpg",
+        "https://sixten.jp/assets/ig/711-2.jpg",
+        "https://sixten.jp/assets/ig/711-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-29T14:58:05+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "グライムズ、クリッパーズ戦で23得点\n\n・FG7/15・FT9/11で23得点\n・アシスト5・スティール4\n・レイカーズが103-87で勝利\n\n💬 この試合、レイカーズとクリッパーズどっちが強い？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Lakers vs. Clippers・2026年10月28日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

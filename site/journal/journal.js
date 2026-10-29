@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "711-grimes-23-points-clippers.html",
+    cat: "NBA",
+    title: "クエンティン・グライムズ、クリッパーズ戦で23得点 —— レイカーズが103-87で勝利",
+    excerpt: "レイカーズのクエンティン・グライムズは現地時間10月28日、ロサンゼルス・クリッパーズ戦に38分出場し、23得点・アシスト5・スティール4を記録した。両チーム通じてこの日の最多得点者となり、レイカーズは103-87でクリッパーズに勝利した。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "710-seahorses-mikawa-u18-championship.html",
     cat: "JAPAN",
     title: "シーホース三河U18、「B.LEAGUE U18 CHAMPIONSHIP 2026」出場 —— 初戦は11月21日、徳島ガンバロウズU18と対戦",
