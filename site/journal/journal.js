@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "695-nike-gt-uptempo-dylan-harper.html",
+    cat: "KICKS",
+    title: "Nike GT Uptempo、ディラン・ハーパーが試合で初披露 —— 2027年発売、GT Force・GT Flightに続く新モデル",
+    excerpt: "ナイキの新作バスケットボールシューズ「Nike GT Uptempo」を、サンアントニオ・スパーズのディラン・ハーパーが試合でいち早く着用した。2027年発売予定で、既存の「GT Force」「GT Flight」と並ぶ\"Greater Than\"シリーズの新モデルになる。",
+    date: "2026.10.29",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "694-mavericks-risacher-option.html",
     cat: "NBA",
     title: "マーベリックス、ザカリー・リザシェイの2027-28年オプションを行使 —— ルーキー契約4年目、1740万ドルの保障サラリーに",
