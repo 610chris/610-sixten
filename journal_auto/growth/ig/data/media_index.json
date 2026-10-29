@@ -177,6 +177,33 @@
   "template": "news",
   "timestamp": "2026-10-21T22:40:14+0000"
  },
+ "17884706232526289": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "702",
+  "auto": true,
+  "caption_len": 323,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バーンズ、マジック戦で28得点6リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD7Fk1Ejsw/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Raptors vs. Magic・2026年10月28日)",
+  "subject": [
+   "Scottie Barnes"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:22:26+0000"
+ },
  "17885254991554007": {
   "auto": false,
   "caption_len": 98,
@@ -256,6 +283,33 @@
   "permalink": "https://www.instagram.com/reel/CkNQtBOgpQp/",
   "product": "REELS",
   "timestamp": "2022-10-27T06:31:56+0000"
+ },
+ "17892625983454058": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "688",
+  "auto": true,
+  "caption_len": 367,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチ、ブレイザーズ戦で41得点9アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfB1u2FD5ij/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Lakers vs. Trail Blazers・2026年10月27日)",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T06:57:04+0000"
  },
  "17896044342416852": {
   "arms": {
@@ -764,6 +818,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-17T23:10:20+0000"
+ },
+ "17913699579509885": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "696",
+  "auto": true,
+  "caption_len": 331,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランドン・ミラー、ピストンズ戦で31得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD5B6fjSJM/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Hornets vs. Pistons・2026年10月28日)",
+  "subject": [
+   "Brandon Miller"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:04:23+0000"
  },
  "17914523025463929": {
   "article": "346",
@@ -1993,6 +2074,33 @@
   "template": "news",
   "timestamp": "2026-10-17T05:18:35+0000"
  },
+ "17954148375277317": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "689",
+  "auto": true,
+  "caption_len": 409,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポルジンギス、公式ステータスが「チーム非同行」に",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfCZLVmEmiS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Warriors' options with Kristaps Porzingis: Biggest questions」",
+  "subject": [
+   "Kristaps Porzingis"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T12:06:53+0000"
+ },
  "17955148065039776": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2574,6 +2682,33 @@
   "template": "news",
   "timestamp": "2026-10-02T10:03:37+0000"
  },
+ "17992955847100313": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "699",
+  "auto": true,
+  "caption_len": 348,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "モーブリー、ウィザーズ戦で24得点12リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD5q8mkchH/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Cavaliers vs. Wizards・2026年10月28日)",
+  "subject": [
+   "Evan Mobley"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:09:54+0000"
+ },
  "17993820360058027": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2624,6 +2759,33 @@
   "template": "news",
   "timestamp": "2026-09-29T11:22:59+0000"
  },
+ "17994373767060012": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "694",
+  "auto": true,
+  "caption_len": 389,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マーベリックス、リザシェイの2027-28オプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfDkc4TCsCr/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Mavericks exercise 2027-28 option on Zaccharie Risacher deal」",
+  "subject": [
+   "Zaccharie Risacher"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T23:04:42+0000"
+ },
  "17996056778844131": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2650,6 +2812,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-25T03:19:07+0000"
+ },
+ "17996306954842259": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "691",
+  "auto": true,
+  "caption_len": 395,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウィザーズ1位指名ダイバンツァ、負傷から復帰",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfC7iOtjW-u/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Wizards upgrade No. 1 pick AJ Dybantsa to available vs. Cavs」",
+  "subject": [
+   "AJ Dybantsa"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T17:06:57+0000"
  },
  "17998860173822976": {
   "arms": {
@@ -5351,6 +5540,33 @@
   "template": "news",
   "timestamp": "2026-10-21T22:36:54+0000"
  },
+ "18112608908228107": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "685",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テイタム、ネッツ戦で40得点8アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfBYhhqkavI/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Celtics vs. Nets・2026年10月27日)",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T02:41:56+0000"
+ },
  "18112638686174166": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -5611,6 +5827,33 @@
   "template": "score",
   "timestamp": "2026-10-24T02:59:03+0000"
  },
+ "18115999097143536": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "703",
+  "auto": true,
+  "caption_len": 368,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ザイオン・ウィリアムソン、ナゲッツ戦で25得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD8LhnAb2s/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Pelicans vs. Nuggets・2026年10月28日)",
+  "subject": [
+   "Zion Williamson"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:31:54+0000"
+ },
  "18116001830043802": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -5793,6 +6036,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-25T03:17:26+0000"
+ },
+ "18117882725100473": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "701",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マクシー、ペイサーズ戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD6tlbiCrX/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Tyrese Maxey"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:19:08+0000"
  },
  "18118364101999607": {
   "arms": {
@@ -6211,6 +6481,33 @@
   "template": "news",
   "timestamp": "2026-10-15T00:49:04+0000"
  },
+ "18123993560285531": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "692",
+  "auto": true,
+  "caption_len": 288,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ハリバートン、左ハムストリング負傷で離脱へ",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfDkKjOkWFN/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN（Shams Charania記者ほか）",
+  "subject": [
+   "Tyrese Haliburton"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T23:02:09+0000"
+ },
  "18124689802844332": {
   "article": "302",
   "auto": true,
@@ -6460,6 +6757,33 @@
   "permalink": "https://www.instagram.com/reel/CS07IzVABfM/",
   "product": "REELS",
   "timestamp": "2021-08-21T06:51:02+0000"
+ },
+ "18128239513882191": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "686",
+  "auto": true,
+  "caption_len": 345,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、キングス戦で29得点10REB5BLK",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfBYt9iHEs-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Spurs vs. Kings・2026年10月27日)",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-28T02:43:37+0000"
  },
  "18128306654505242": {
   "arms": {
@@ -6775,6 +7099,33 @@
   "template": "news",
   "timestamp": "2026-09-29T21:07:29+0000"
  },
+ "18132777922811215": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "697",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アデトクンボ、ホークス戦で24得点18リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD5ShZFtR3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Heat vs. Hawks・2026年10月28日)",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:06:44+0000"
+ },
  "18132939031763909": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -7001,6 +7352,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T23:17:16+0000"
+ },
+ "18139155592631587": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "700",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダイバンツァ、NBAデビューで19得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD6g-ZASRx/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN",
+  "subject": [
+   "AJ Dybantsa"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-29T02:17:26+0000"
  },
  "18139234936621639": {
   "article": "337",
@@ -7619,6 +7997,33 @@
   "permalink": "https://www.instagram.com/reel/CcPONzxge_7/",
   "product": "REELS",
   "timestamp": "2022-04-12T04:37:27+0000"
+ },
+ "18161476801499965": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "698",
+  "auto": true,
+  "caption_len": 316,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アデバヨ、ホークス戦で24得点9リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD5e8BDAp3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Heat vs. Hawks・2026年10月28日)",
+  "subject": [
+   "Bam Adebayo"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:08:25+0000"
  },
  "18165101155492888": {
   "arms": {
@@ -8550,6 +8955,33 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:15:54+0000"
+ },
+ "18344408587252538": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "687",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "KAT、ピストンズ戦で27得点20リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfBagqwiVQx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Knicks vs. Pistons・2026年10月27日)",
+  "subject": [
+   "Karl-Anthony Towns"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-28T02:59:19+0000"
  },
  "18351504148271611": {
   "arms": {
