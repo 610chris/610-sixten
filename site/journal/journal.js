@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "729-thunder-sign-agbaji.html",
+    cat: "NBA",
+    title: "サンダー、オチャイ・アバジと契約へ —— ウィリアムズとウォレスの大怪我でロスター枠を補強",
+    excerpt: "ESPNのシャムズ・シャラニア記者によると、オクラホマシティ・サンダーはジェイレン・ウィリアムズとケイソン・ウォレスの大怪我で空いたロスター枠を埋めるため、オチャイ・アバジ(26)と契約する。アバジは2022年ドラフト14位指名で、今月ニックスから戦力外となっていた。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "730-nike-air-force-1-harajuku-atmoscon.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 '01「Harajuku」がatmosconに登場 —— atmos創作ディレクターによる原宿の地図をレーザーで刻んだ限定カスタム",
+    excerpt: "東京の老舗スニーカーショップatmosは、自社主催のスニーカーイベント「atmoscon」向けに、Nike Air Force 1 '01をベースにした限定カスタム「Harajuku」を発表した。真っ白なアッパーに原宿エリアの地図をレーザーで刻み込んだデザインで、atmosconで50足限定を販売した10年前の企画の後継にあたる。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "731-nike-sabrina-4-cork.html",
+    cat: "KICKS",
+    title: "Nike Sabrina 4「Cork」が11月発売へ —— 品番II0402-004、コルク素材を使ったサブリナ・イオネスクの新色",
+    excerpt: "ナイキは、サブリナ・イオネスクの4代目シグネチャーシューズ「Sabrina 4」の新色「Cork」（品番II0402-004）を発表した。コルク素材を使った配色が特徴で、11月発売予定。Sneaker Newsが伝えた。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "732-marvelous-glp-second-cohort.html",
+    cat: "JAPAN",
+    title: "女子バスケの米国挑戦支援「MARVELOUS GLP」第2期生募集開始 —— 馬瓜エブリン選手が全面協力",
+    excerpt: "スポヲタ株式会社は、日本の女子バスケットボール選手の米国大学進学を支援する育成プロジェクト「MARVELOUS GLP」の第2期生募集を開始したと発表した。東京五輪銀メダリストの馬瓜エブリン選手がアンバサダーを務め、高校2・3年生を対象に約5名を選抜する。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "728-thunder-500-million-problem.html",
     cat: "NBA",
     title: "サンダー、主力2人の大怪我で浮上した「5億ドル問題」—— GMプレスティの次の一手に球界が注目",
