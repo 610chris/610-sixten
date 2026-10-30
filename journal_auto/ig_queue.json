@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T05:35:56+09:00",
+  "updated": "2026-10-30T11:56:26+09:00",
   "items": [
     {
       "id": "134",
@@ -20587,6 +20587,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Nike Sabrina 4「Grey Fog」登場\n\n・品番II0402-102\n・グレー基調の控えめなカラー\n・イオネスクの4代目シグネチャー\n\n💬 Sabrina 4、このカラー着る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "722",
+      "slug": "722-acuff-34-points-pelicans",
+      "category": "NBA",
+      "date": "2026-10-30",
+      "headline": "ダリアス・エイカフ・ジュニア、ペリカンズ戦で34得点14アシスト",
+      "excerpt": "サクラメント・キングスのダリアス・エイカフ・ジュニアは現地時間10月29日、ニューオーリンズ・ペリカンズ戦に41分出場し、34得点・14アシスト・リバウンド6を記録した。両チーム通じてこの日の最多得点者となったが、キングスは120-132でペリカンズに敗れた。",
+      "points": [
+        "34得点・14アシスト・リバウンド6",
+        "FG 13/26・3PT 3/11・FT 5/5",
+        "キングスは120-132で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/722-acuff-34-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Darius Acuff Jr."
+      ],
+      "question": "エイカフ、このままブレイクアウトシーズンいける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DARIUS ACUFF JR.",
+        "opponent": "vs. PELICANS",
+        "points": 34,
+        "stats": [
+          "14 AST",
+          "6 REB",
+          "13/26 FG",
+          "3/11 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/722-1.jpg",
+        "https://sixten.jp/assets/ig/722-2.jpg",
+        "https://sixten.jp/assets/ig/722-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-30T11:55:42+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ダリアス・エイカフ・ジュニア、ペリカンズ戦で34得点14アシスト\n\n・34得点・14アシスト・リバウンド6\n・FG 13/26・3PT 3/11・FT 5/5\n・キングスは120-132で敗戦\n\n💬 エイカフ、このままブレイクアウトシーズンいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "723",
+      "slug": "723-okongwu-29-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-10-30",
+      "headline": "オニエカ・オコング、キャバリアーズ戦で29得点12リバウンド",
+      "excerpt": "アトランタ・ホークスのオニエカ・オコングは現地時間10月29日、クリーブランド・キャバリアーズ戦に33分出場し、29得点・リバウンド12を記録した。両チーム通じてこの日の最多得点者となり、ホークスは114-111でキャバリアーズに勝利した。",
+      "points": [
+        "29得点・リバウンド12",
+        "FG 11/17・3PT 4/6・FT 3/4",
+        "ホークスが114-111で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/723-okongwu-29-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "Onyeka Okongwu"
+      ],
+      "question": "この勝利でホークス、今季どこまで行けると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ONYEKA OKONGWU",
+        "opponent": "vs. CAVALIERS",
+        "points": 29,
+        "stats": [
+          "12 REB",
+          "2 AST",
+          "11/17 FG",
+          "4/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/723-1.jpg",
+        "https://sixten.jp/assets/ig/723-2.jpg",
+        "https://sixten.jp/assets/ig/723-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-30T11:56:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "オニエカ・オコング、キャバリアーズ戦で29得点12リバウンド\n\n・29得点・リバウンド12\n・FG 11/17・3PT 4/6・FT 3/4\n・ホークスが114-111で勝利\n\n💬 この勝利でホークス、今季どこまで行けると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
