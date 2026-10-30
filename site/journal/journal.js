@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "727-nike-dunk-low-union-natural-selection.html",
+    cat: "KICKS",
+    title: "Nike Dunk Low「Natural Selection」が登場 —— UNIONとの新コラボ、ヒールを折り畳める2WAY仕様で3色展開",
+    excerpt: "『UNION』と〈Nike〉が再びタッグを組み、Dunk Lowの新作コレクション「Natural Selection」を発表した。「Hide」「Fatigue」「Eclipse」の3色展開で、ヒールを折り畳んでスリッポン風にも履ける2WAY仕様が特徴。価格130ドルで10月30日発売。Hypebeast・HYPEBEAST JPが伝えた。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "726-morant-hamstring-injury-grizzlies.html",
     cat: "NBA",
     title: "ジャ・モラント、古巣グリズリーズ戦で左ハムストリング負傷退場 —— トレイルブレイザーズは移籍後初黒星",
