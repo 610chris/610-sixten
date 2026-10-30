@@ -1,8 +1,32 @@
 {
- "updated_utc": "2026-10-29 23:33 UTC",
+ "updated_utc": "2026-10-30 02:52 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-132-kings-120-jeremiah-fears-22-8-13-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/pelicans-132-kings-120-jeremiah-fears-22-8-13-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/pelicans-132-kings-120-jeremiah-fears-22-8-13-postgame-wrap",
+   "title": "Pelicans 132, Kings 120: Jeremiah Fears 22-8-13 | Postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-10-30T02:30:42Z",
+   "tags": [],
+   "summary": "A new rotation featuring some new faces led to a new outcome for New Orleans on Thursday, resulting in its first victory of 2026-27. With head coach Jamahl Mosley making two changes to his starting lineup, inserting Herb Jones and Karlo Matkovic, while also using reserves Bryce McGowens and Trendon Watford much more extensively, a very balanced effort by the Pelicans carried them to a win over Sac…",
+   "facts": [
+    "A new rotation featuring some new faces led to a new outcome for New Orleans on Thursday, resulting in its first victory of 2026-27.",
+    "Matkovic, McGowens and Watford had logged a combined 38 minutes through the first four games, with Matkovic accounting for nearly all (35) of those.",
+    "BY THE NUMBERS +27: Plus-minus for Jones, who again proved to be a major difference-maker for his team in his season-high 32 minutes, even if it doesn’t always show up in other individual statistics.",
+    "That plus-minus hovered around +40 prior to the Kings making a late push. 39: New Orleans point totals in each of the middle quarters.",
+    "A 78-58 advantage turned a six-point deficit through one period into a 14-point lead.",
+    "KINGS A Dec. 13 stop in Sacramento’s Golden 1 Center is the second meeting of the season series, as well as the first night of a California back-to-back for New Orleans (Dec. 14 at Lakers)."
+   ],
+   "quotes": []
+  },
   {
    "source": "NYK 公式（nba.com）",
    "team": "NYK",
@@ -2053,136 +2077,6 @@
    ],
    "quotes": [
     "I don’t really consider any of his shots heat checks, because that’s who he is and that’s when he’s at his best."
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/miller-posts-new-career-high-hornets-withstand-wizards-late-rally",
-   "url": "https://www.nba.com/hornets/news/miller-posts-new-career-high-hornets-withstand-wizards-late-rally",
-   "canonical_url": "https://hornets.com/news/miller-posts-new-career-high-hornets-withstand-wizards-late-rally",
-   "title": "Miller Posts New Career High, Hornets Withstand Wizards’ Late Rally",
-   "author": "Sam Perley",
-   "published_utc": "2026-10-27T02:40:45Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "For the second straight game, the Charlotte Hornets buckled down in clutch time and held off a late opposing run, resulting in a 110-103 home win over the Washington Wizards on Monday night.",
-   "facts": [
-    "For the second straight game, the Charlotte Hornets buckled down in clutch time and held off a late opposing run, resulting in a 110-103 home win over the Washington Wizards on Monday night.",
-    "Top Performers: Brandon Miller used all three levels to finish with a career-high 39 points on 15-of-28 shooting, five three-pointers, six rebounds, three steals and two blocks in 36 minutes (+16).",
-    "In the process, Miller also became the second-fastest player in NBA history to reach 500 career made 3-pointers (170 games), trailing only Duncan Robinson (152).",
-    "After shooting just 1-of-8 in the first three frames, Naz Reid erupted in the fourth for 16 points (18 total) to go along with 12 overall rebounds.",
-    "Moussa Diabate set the tone early with 11 points and a game-high 17 rebounds (a career-high 11 offensive), three assists and three blocks.",
-    "Anthony Davis led the Washington charge with 29 points on 11-of-22 shooting, 10 rebounds and three 3-pointers in the defeat, which ended Davis’ 10-game head-to-head winning streak against the Hornets (first loss since Ma…",
-    "Trae Young also double-doubled with 22 points on 10-of-20 shooting and 10 assists, while Kyshawn George added 20 points, as well.",
-    "Turning Point: After Washington sliced a once 14-point deficit down to four with 7:45 remaining in the fourth, the Hornets returned serve with a 12-2 spurt over the ensuing two-and-a-half minutes to retake a 98-84 lead."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-bucks-261026",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-bucks-261026",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-bucks-261026",
-   "title": "Game Rewind: Pacers 102, Bucks 110",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-27T02:34:00Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Monday, Oct. 26 at 8:00 PM ET at Fiserv Forum",
-   "facts": [
-    "Monday, Oct. 26 at 8:00 PM ET at Fiserv Forum Game Recap The Pacers suffered their first road loss of the season on Monday night in Milwaukee, falling to the Bucks on the second night of a back-to-back, 110-102.",
-    "Indiana (2-2) was undermanned and without two starters, but still led by 11 at halftime.",
-    "But the Bucks (1-3) outscored the Blue & Gold 60-41 in the second half to come away with the victory.",
-    "Tyrese Haliburton led Indiana with 22 points, six rebounds, and nine assists in the loss, while All-Star forward Pascal Siakam added 20 points, 13 boards, and six assists.",
-    "Tyler Herro had 23 points, 10 boards, and seven assists to lead the Bucks to their first victory in the post-Giannis Antetokounmpo era.",
-    "Milwaukee traded the two-time MVP to Miami this summer for a package that included Wisconsin native Herro.",
-    "Zubacdid not dress after spraining his left ankle in the first quarter of Sunday's win in Brooklyn, while guard Andrew Nembhard was unavailable due to next stiffness.",
-    "Obi Toppin scored eight points off the bench for Indiana to keep the Pacers within striking distance.Haliburton's layup just before the first quarter buzzer trimmed Milwaukee's lead to 31-29."
-   ],
-   "quotes": [
-    "Didn't play well enough and didn't get enough rebounds to get anything going. We had some pretty good looks that didn't go down, but it wasn't simply a case of make or miss. We've got to retrieve the …",
-    "We needed better energy in the second half. We had the advantage of playing a team on a back-to-back last night and tonight we were the ones that needed to find a way [on the second night of a back-to…"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/bulls-blitzed-by-celtics-hot-shooting-fall-134-99-in-rough-showing",
-   "url": "https://www.nba.com/bulls/news/bulls-blitzed-by-celtics-hot-shooting-fall-134-99-in-rough-showing",
-   "canonical_url": "https://bulls.com/news/bulls-blitzed-by-celtics-hot-shooting-fall-134-99-in-rough-showing",
-   "title": "Bulls blitzed by Celtics' hot shooting, fall 134-99 in rough showing",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-27T02:16:39Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "About a mile north of North Station and the TD Garden, home of the Boston Celtics, is the famed Bunker Hill, where one of the first major battles of the American Revolution was fought. And where as kids we all learned how the brave patriot militias were instructed not to fire “until you see the whites of their eyes.”",
-   "facts": [
-    "The result was another Bulls third quarter rout and 134-99 Boston victory.",
-    "The Bulls record dropped to 1-3 in the opener of this early season schedule crucible in which the Bulls with Monday’s Boston game play 10 of the league’s best teams consecutively in the next two weeks.",
-    "Those third quarters were very bad to say the least (40-20 against Washington on Saturday).",
-    "Bulls rookie star Caleb Wilson finished with 17 points, had a couple of blocks and a steal.",
-    "Super stuff for a 20-year-old rookie with a half season of college experience.",
-    "Though Wilson may already have spoiled us averaging almost 23 points per game entering Monday.",
-    "But Wilson clanked up another rough one of five on threes, five of 28 thus far for about 18 percent.",
-    "Norman Powell led with 20 points, four of seven threes and four steals, and Matas Buzelis and Josh Giddey each added 11 points."
-   ],
-   "quotes": [
-    "until you see the whites of their eyes.",
-    "This is their game, right?",
-    "It’s the third quarters that are kind of killing us, and that’s just where we’ve got to get better,",
-    "Every team coming out of training camp feels good about themselves,"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/flagg-outduels-antetokounmpo-as-mavericks-take-gut-check-victory-over-heat",
-   "url": "https://www.nba.com/mavs/news/flagg-outduels-antetokounmpo-as-mavericks-take-gut-check-victory-over-heat",
-   "canonical_url": "https://mavs.com/mavs/news/flagg-outduels-antetokounmpo-as-mavericks-take-gut-check-victory-over-heat",
-   "title": "Flagg's game-clinching drive proves he's a 'bad dude,' powers Mavericks by Heat",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-27T02:10:48Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "MIAMI – With all the celebrities and star power they have here in south Florida, they didn’t have anything on Cooper Flagg Monday night.",
-   "facts": [
-    "Flagg returned after a one-game absence for a sore left shoulder and lit up the scoreboard on a star-studded night at Kaseya Center.",
-    "The second-year star cut through the lane for a twisting, lefthanded layup with 10 seconds left for the clinching points as the Mavericks sent the Greek Freak and the Miami Heat to their fourth consecutive loss to open t…",
-    "The Mavericks, now 2-2 as they traverse a challenging opening schedule to the season, got 29 points, 11 assists and six rebounds from Flagg.",
-    "Antetokounmpo was strong throughout with 29 points, 15 rebounds and 11 assists.",
-    "Flagg and Clayton then combined for seven points as the Mavericks opened up a 104-97 lead with 4:52 left.",
-    "Kyrie Irving had 18 points, six rebounds and six assists.",
-    "Clayton added 15 points, four assists and four steals in 17 minutes.",
-    "The Mavericks were plus-22 when Clayton was on the floor."
-   ],
-   "quotes": [
-    "We were struggling to find different ways to get him in space,",
-    "He just needed a crease and that’s a bad dude to get in the paint like that and finish. ",
-    "It was everybody getting set,",
-    "Waiting a second. I was sped up on the other two (when he was called for a pair of charges), getting downhill and not waiting on guys to get in the position."
    ]
   }
  ]
