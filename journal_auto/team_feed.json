@@ -1,8 +1,115 @@
 {
- "updated_utc": "2026-10-30 02:52 UTC",
+ "updated_utc": "2026-10-30 16:48 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-play-suns-in-first-emirates-nba-cup-game",
+   "url": "https://www.nba.com/nuggets/news/nuggets-play-suns-in-first-emirates-nba-cup-game",
+   "canonical_url": "https://nuggets.com/news/nuggets-play-suns-in-first-emirates-nba-cup-game",
+   "title": "Nuggets play Suns in first Emirates NBA Cup game",
+   "author": "Matt Brooks",
+   "published_utc": "2026-10-30T16:25:51Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets begin their 2026 Emirates NBA Cup journey in Phoenix.",
+   "facts": [
+    "The Denver Nuggets begin their 2026 Emirates NBA Cup journey in Phoenix.",
+    "INJURY REPORT Denver: Alpha Diallo — QUESTIONABLE (Personal Reasons) Cameron Johnson — QUESTIONABLE (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprai…",
+    "All 30 teams will compete for the NBA Cup trophy, with a winner crowned at the Hinkle Fieldhouse in Indianapolis, Indiana, on December 11th.",
+    "That includes Friday's showdown with the Suns, who have started the season at 1-2.",
+    "The Nuggets, meanwhile, are hoping to go above .500 for the first time this season, sitting at 2-2.",
+    "It remains to be seen if they'll actually suit up for the game against the Suns, but this injury update certainly indicates they're trending in the right direction.",
+    "TUNE-IN: Friday, October 30, 8:00 p.m.",
+    "MT; Altitude TV; Altitude+; Altitude Sports Radio 92.5 FM"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "feature",
+   "key": "https://www.nba.com/timberwolves/news/minnesota-timberwolves-introduce-pack-deals-to-make-games-more-accessible-for-fans",
+   "url": "https://www.nba.com/timberwolves/news/minnesota-timberwolves-introduce-pack-deals-to-make-games-more-accessible-for-fans",
+   "canonical_url": "https://timberwolves.com/news/minnesota-timberwolves-introduce-pack-deals-to-make-games-more-accessible-for-fans",
+   "title": "Minnesota Timberwolves Introduce “Pack Deals” to Make Games More Accessible for Fans",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-10-30T15:57:08Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "New ticket program will offer tickets to select home games throughout the season",
+   "facts": [
+    "Tickets will be offered at a special price of $20 with no fees while supplies last."
+   ],
+   "quotes": [
+    "We’re always looking for new ways to expand access to Timberwolves games and create more opportunities for fans to experience NBA basketball in person,",
+    "Pack Deals is about making that experience more accessible and ensuring more fans have the opportunity to come together, support our team and be part of the excitement at Target Center."
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-vs-knicks-nba-cup-game-preview-injury-report-and-how-to-watch-10-30-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-vs-knicks-nba-cup-game-preview-injury-report-and-how-to-watch-10-30-2026",
+   "canonical_url": "https://sixers.com/news/sixers-vs-knicks-nba-cup-game-preview-injury-report-and-how-to-watch-10-30-2026",
+   "title": "Sixers vs. Knicks: NBA Cup Game Preview, Injury Report and How to Watch 10/30/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-10-30T12:34:09Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (4-1) are set to host the New York Knicks (2-3) Friday in their first Emirates NBA Cup group-play game. Tipoff is scheduled for 7:30 p.m. EDT at Xfinity Mobile Arena.",
+   "facts": [
+    "The Philadelphia 76ers (4-1) are set to host the New York Knicks (2-3) Friday in their first Emirates NBA Cup group-play game.",
+    "Tipoff is scheduled for 7:30 p.m.",
+    "The Sixers, who withstood a 17-0 run to begin the third quarter, earned a 114-109 road victory over the Indiana Pacers on Wednesday.",
+    "Tyrese Maxey scored 17 of his game-high 27 points in the fourth quarter.",
+    "Maxey leads the NBA in fourth-quarter scoring with 55 points (11.0 per game) and ranks second in total points with 142.",
+    "Philadelphia recorded four 20-point scorers (Maxey, Joel Embiid, Jaylen Brown and Anfernee Simons) and three double-doubles (Embiid, Brown and LeBron James) in the same game for the first time since Oct. 31, 2009, at New…",
+    "In a 133-127 comeback victory over the Bulls on Wednesday, Jalen Brunson led the way with a season-high 38 points.",
+    "Karl-Anthony Towns posted 27 points and 20 rebounds Tuesday against the Pistons."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/pistons-open-2026-nba-cup-play-tonight-in-brooklyn",
+   "url": "https://www.nba.com/pistons/news/pistons-open-2026-nba-cup-play-tonight-in-brooklyn",
+   "canonical_url": "https://pistons.com/news/pistons-open-2026-nba-cup-play-tonight-in-brooklyn",
+   "title": "Pistons Open 2026 NBA Cup Play Tonight in Brooklyn",
+   "author": "Pistons.com",
+   "published_utc": "2026-10-30T12:14:31Z",
+   "tags": [
+    "Cade Cunningham"
+   ],
+   "summary": "The Detroit Pistons begin their 2026 NBA Cup schedule Friday in Brooklyn, opening a four-game group-stage slate in hopes of raising the in-season tournament trophy at Hinkle Fieldhouse in Indianapolis at the Championship Game on Friday, Dec. 11.",
+   "facts": [
+    "The Detroit Pistons begin their 2026 NBA Cup schedule Friday in Brooklyn, opening a four-game group-stage slate in hopes of raising the in-season tournament trophy at Hinkle Fieldhouse in Indianapolis at the Championship…",
+    "How the Pistons finished last year Detroit finished third in East Group B with a 2-2 record in the 2025 NBA Cup, missing out on the knockout rounds in the final game of group play.",
+    "The Pistons opened with victories over the Brooklyn Nets and Philadelphia 76ers before falling to the Boston Celtics, setting up a win-or-go home meeting with the Orlando Magic.",
+    "Despite a 39-point triple-double from All-NBA guard Cade Cunningham, the Pistons lost to the Orlando Magic, 112-109, and were eliminated from contention, finishing with a 2-2 record.",
+    "Breaking down East Group A This year, Detroit will compete in East Group A and have plenty of recent history with their group stage opponents which includes last year’s group stage opponent, the Brooklyn Nets, first-roun…",
+    "Brooklyn finished 1-3 in NBA Cup play and will look to improve in the second year of the tournament.Toronto Raptors (Nov. 20): Toronto went undefeated in group play last season and returns as a team capable of making ano…",
+    "Toronto is off to a 3-1 start in the young NBA season, and their matchup with Detroit on Nov. 20 could prove to be one of the group's defining games.Orlando Magic (Nov. 24): Another team that saw NBA Cup success going 4-…",
+    "Not only did the Magic defeat the Pistons in the final Group B match last season to solidify themselves a spot in the quarterfinals, the Magic pushed Detroit to a Game 7 in the first round of the NBA Playoffs, nearly eli…"
+   ],
+   "quotes": []
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -19,13 +126,18 @@
    "summary": "A new rotation featuring some new faces led to a new outcome for New Orleans on Thursday, resulting in its first victory of 2026-27. With head coach Jamahl Mosley making two changes to his starting lineup, inserting Herb Jones and Karlo Matkovic, while also using reserves Bryce McGowens and Trendon Watford much more extensively, a very balanced effort by the Pelicans carried them to a win over Sac…",
    "facts": [
     "A new rotation featuring some new faces led to a new outcome for New Orleans on Thursday, resulting in its first victory of 2026-27.",
+    "Led by a near-triple-double from Jeremiah Fears (22 points, eight rebounds, career-high 13 assists, career-high four blocks) and double-digit scoring nights from a total of seven New Orleans players, the hosts staved off…",
     "Matkovic, McGowens and Watford had logged a combined 38 minutes through the first four games, with Matkovic accounting for nearly all (35) of those.",
+    "Against the Kings, Matkovic (12 points, three steals) took over the starting center role from DeAndre Jordan and made key plays at both ends of the floor.",
+    "Off the bench, Saddiq Bey and Bennedict Mathurin delivered 10 points apiece.",
     "BY THE NUMBERS +27: Plus-minus for Jones, who again proved to be a major difference-maker for his team in his season-high 32 minutes, even if it doesn’t always show up in other individual statistics.",
-    "That plus-minus hovered around +40 prior to the Kings making a late push. 39: New Orleans point totals in each of the middle quarters.",
-    "A 78-58 advantage turned a six-point deficit through one period into a 14-point lead.",
-    "KINGS A Dec. 13 stop in Sacramento’s Golden 1 Center is the second meeting of the season series, as well as the first night of a California back-to-back for New Orleans (Dec. 14 at Lakers)."
+    "That Jones plus-minus hovered around +40 prior to the Kings making a late push. 39: New Orleans point totals in each of the middle quarters.",
+    "A 78-58 advantage turned a six-point deficit through one period into a 14-point lead. 25: Sacramento turnovers, leading to 40 New Orleans points."
    ],
-   "quotes": []
+   "quotes": [
+    "I'm more proud of the fact that we got 32 assists,",
+    "We relied on our defense to ignite our offense."
+   ]
   },
   {
    "source": "NYK 公式（nba.com）",
@@ -45,7 +157,7 @@
    ],
    "summary": "October 30, 2026 7:30 PM ET | XFinity Mobile Arena (Philadelphia, PA) | Game 6; Away Game 3",
    "facts": [
-    "October 30, 2026 7:30 PM ET | XFinity Mobile Arena (Philadelphia, PA) | Game 6; Away Game 3 TV: MSG Networks; Radio: SiriusXM This Day in Knicks History October 30, 1946: Knicks head to Toronto where two days later they …",
+    "October 30, 2026 7:30 PM ET | XFinity Mobile Arena (Philadelphia, PA) | Game 6; Away Game 3 TV: Prime; Radio: SiriusXM This Day in Knicks History October 30, 1946: Knicks head to Toronto where two days later they will pl…",
     "October 30, 1954: Knicks open the 1954-55 campaign with a 94-83 win over Minneapolis at the Garden.",
     "Carl Braun leads the way with 26 points.",
     "It is the Knicks first game with the 24-second shot clock.",
@@ -132,7 +244,7 @@
    "tags": [
     "Game Preview"
    ],
-   "summary": "WARRIORS HOST LAKERS FOR NBA CUP OPENER ON FRIDAY The Warriors begin group play in the Emirates NBA Cup on Friday, hosting Luka Doncic and the Los Angeles Lakers. The Lakers started the season 3-0, including a 22-point win over the Warriors on opening night. Dubs rookie Yaxel Lendebrog is slated for his second chance to defend Doncic after an entertaining matchup at Crypto.com Arena.",
+   "summary": "WARRIORS HOST LAKERS FOR NBA CUP OPENER ON FRIDAY The Warriors begin group play in the Emirates NBA Cup on Friday, hosting Luka Doncic and the Los Angeles Lakers. The Lakers started the season 3-0, including a 22-point win over the Warriors on opening night. Dubs rookie Yaxel Lendeborg is slated for his second chance to defend Doncic after an entertaining matchup at Crypto.com Arena.",
    "facts": [
     "The Lakers started the season 3-0, including a 22-point win over the Warriors on opening night.",
     "For more information on the 2026 NBA Cup, visit https://www.nba.com/warriors/nba-cup.",
@@ -1288,7 +1400,7 @@
    ],
    "summary": "The Denver Nuggets hit the road for a game against the New Orleans Pelicans.",
    "facts": [
-    "INJURY REPORT Denver: Alpha Diallo — OUT (Personal Reasons) Johnson, Cameron — DOUBTFUL (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) New Orlea…",
+    "INJURY REPORT Denver: Alpha Diallo — OUT (Personal Reasons) Cameron Johnson — DOUBTFUL (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) New Orlean…",
     "They hosted the Pelicans in their home opener and won, 141-135, in an overtime thriller.",
     "Jamal Murray had a 40-point night, but the story of the game was rookie Trevon Brazile, who put up 17 points and 9 rebounds in just his second NBA game.",
     "Behind Brazile, Murray, and Nikola Jokić's first triple-double of the season, Denver rallied back from a 22-point second-half deficit, tied for the largest second-half home comeback in franchise history.",
@@ -1739,344 +1851,6 @@
     "You got it or you don’t. Either you got heart, you got dawg, or you don’t. And I got everything that I need. It's just a matter of time before everything is shown. So, yeah, if I'm open, it's going up…",
     "It's very rare to ride the coattails of a rookie going into a half like that,",
     "Fearless, right? Just trying to find ways to impact the game at the highest level. And I told him the best part of his game wasn't even the 16 points. It was the energy. So, credit to him for staying …"
-   ]
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-pistons-game-notes-october-27-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-pistons-game-notes-october-27-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-pistons-game-notes-october-27-2026",
-   "title": "Knicks vs Pistons Game Notes | October 27, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-10-27T15:44:14Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "October 27, 2026 8:00 PM ET | Madison Square (New York, NY) | Game 4; Home Game 3",
-   "facts": [
-    "October 27, 2026 8:00 PM ET | Madison Square (New York, NY) | Game 4; Home Game 3 TV: Peacock/NBC/MSG Networks; Radio: SiriusXM This Day in Knicks History October 27, 1984: Knicks open the 1984-85 season with a 137-118 w…",
-    "The 137 points are the most in franchise history on opening night.",
-    "Bernard King scores 34 points to lead the way.",
-    "DET: New York (2/19/26) – The New York Knicks were defeated by the Detroit Pistons, 126-111.",
-    "Jalen Brunson led New York with 33 points on 60.0-percent shooting, eight assists, six rebounds and two steals.",
-    "Karl-Anthony Towns recorded 21 points on 50.0-percent shooting, 11 rebounds, four assists and one steal.",
-    "Landry Shamet added 15 points, two rebounds, two assists and one block off the bench.",
-    "Cade Cunningham led Detroit with 42 points on 50.0-percent shooting, 13 assists, eight rebounds, two blocks and one steal."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-76ers-261028",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-76ers-261028",
-   "canonical_url": "https://pacers.com/news/preview-pacers-76ers-261028",
-   "title": "Game Preview: Pacers vs 76ers",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-27T15:31:00Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Wednesday, Oct. 28 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Wednesday, Oct. 28 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview After splitting a back-to-back set in Brooklyn and Milwaukee, the Pacers (2-2) return to Gainbridge Fieldhouse to host the new-look Philadelphia 76er…",
-    "The Pacers rolled to a 136-109 win on Sunday against the Nets, but then squandered an 11-point halftime lead in Monday's 110-102 loss to the Bucks.",
-    "Injuries had an impact on the latter result, as starting center Ivica Zubac missed Monday's game after spraining his ankle in the first quarter on Sunday in Brooklyn and starting guard Andrew Nembhard did not play in Mil…",
-    "McConnell, Ben Sheppard, and Johnny Furphy, while starting wing Aaron Nesmith is on a minutes restriction as he works his way back from a hamstring strain.",
-    "While the injury list is longer than the Pacers would like, the good news is that Tyrese Haliburton is healthy and looking like his old self.",
-    "Haliburton missed 16 months after tearing his Achilles in Game 7 of the 2025 NBA Finals, but has been outstanding to start the season, averaging 21.8 points and 9.5 assists over his first four games while shooting 51.6 p…",
-    "Siakam has scored 20 or more points in every game so far this season and is averaging a team-leading 23.5 points per game to go along with 7.8 rebounds and 4.0 assists.",
-    "The Sixers made the biggest moves of the offseason, acquiring five-time All-Star Jaylen Brown in a trade with Boston and then signing 41-year-old LeBron James in free agency."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "feature",
-   "key": "https://www.nba.com/timberwolves/news/directv-and-dazn-bring-minnesota-timberwolves-to-directv-and-directv-for-business-customers-in-nba-team-territories",
-   "url": "https://www.nba.com/timberwolves/news/directv-and-dazn-bring-minnesota-timberwolves-to-directv-and-directv-for-business-customers-in-nba-team-territories",
-   "canonical_url": "https://timberwolves.com/news/directv-and-dazn-bring-minnesota-timberwolves-to-directv-and-directv-for-business-customers-in-nba-team-territories",
-   "title": "DIRECTV and DAZN Bring Minnesota Timberwolves to DIRECTV and DIRECTV for Business Customers in NBA Team Territories",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-10-27T13:50:00Z",
-   "tags": [],
-   "summary": "Minnesota Timberwolves local games are available on DIRECTV channel 668 (streaming and satellite).",
-   "facts": [
-    "Minnesota Timberwolves local games are available on DIRECTV channel 668 (streaming and satellite).",
-    "These DAZN telecasts will be available to DIRECTV customers who subscribe to the Choice or higher packages and to U-verse TV customers who subscribe to the U200 or higher package.",
-    "DIRECTV has recently obtained regional or local rights to provide 76 of the 81 U.S.-based NHL, NBA, or MLB franchises to their local fans, including multi-year agreements for 28 of the 29 U.S.-based basketball teams."
-   ],
-   "quotes": [
-    "Our goal is to bring together more of the live sports that local fans enjoy most, all in one place, with greater choice, flexibility, and control over how they watch and what they pay,",
-    "DIRECTV has earned its reputation as a sports leader through decades of investment and innovation, and we’re committed to building on that leadership to benefit all sports fans.",
-    "We’ve built an extensive roster of NBA team media rights in the U.S., and partnerships like this one with DIRECTV are one of the ways we get games in front of the widest possible audience,",
-    "Local games for the Cavaliers, Grizzlies, Pacers, Spurs, and Timberwolves are now available on DAZN, DIRECTV, and at bars and restaurants across each of the teams’ five local markets. We’re excited to…"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/claytons-homecoming-breakout-against-heat-signals-his-arrival-with-mavericks",
-   "url": "https://www.nba.com/mavs/news/claytons-homecoming-breakout-against-heat-signals-his-arrival-with-mavericks",
-   "canonical_url": "https://mavs.com/mavs/news/claytons-homecoming-breakout-against-heat-signals-his-arrival-with-mavericks",
-   "title": "Clayton's homecoming breakout against Heat signals his arrival with Mavericks",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-27T11:21:44Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "Walter Clayton Jr."
-   ],
-   "summary": "A lot of NBA players have a history with each other. Some grew up playing AAU ball against (or with) each other. Others had battles in college.",
-   "facts": [
-    "Clayton and the Florida Gators won the NCAA championship in 2025.",
-    "Flagg went on to become the No. 1 overall pick by the Mavericks in the 2025 draft.",
-    "Clayton was taken 18th overall and split time in his first season between Utah and Memphis before landing in Dallas last week on a two-way contract.",
-    "No matter what happens, Clayton will always have the 2025 Final Four to hold over Flagg.",
-    "On Monday, with backup point guard Sergio De Larrea sidelined with a knee injury suffered in the second quarter against Miami, Clayton came alive with 15 points, four assists and four rebounds.",
-    "He hit 6-of-7 shots, including both his three-pointers.",
-    "The Mavericks were plus-22 in the 17 minutes Clayton was on the floor.",
-    "But for him to step up tonight, 6-of-7 from the field, I thought his intensity and plus-22, for him to go out there and play really hard and unselfish basketball is a really big step for our team."
-   ],
-   "quotes": [
-    "He said something about it should have been them in the title game getting a shot at it. But it was a great game between them and Houston.",
-    "After shootaround (Monday morning), he was playing with the guys in the stay-ready game. So a little bit of a double-header for him.",
-    "I’m from Florida, so it always feels good to be back, get a little sunshine, get a little rain, too,",
-    "It feels good to be back. We have our 10, 15 minutes of sprinkle, then it’ll stop."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mays-rise-no-surprise-to-heat-coach-spoelstra",
-   "url": "https://www.nba.com/mavs/news/mays-rise-no-surprise-to-heat-coach-spoelstra",
-   "canonical_url": "https://mavs.com/mavs/news/mays-rise-no-surprise-to-heat-coach-spoelstra",
-   "title": "May's rise no surprise to Heat coach Spoelstra",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-27T05:05:17Z",
-   "tags": [
-    "dallas mavericks",
-    "Dusty May",
-    "nba",
-    "Zaccharie Risacher"
-   ],
-   "summary": "MIAMI – Dusty May has a lot of history in south Florida.",
-   "facts": [
-    "About 45 minutes up the road from Miami’s Kaseya Center in Boca Raton, Fla., May led the Florida Atlantic University Owls to the 2023 Final Four in stunning fashion.",
-    "They then made the NCAA tournament again the following season before May left FAU for Michigan, where he would win the 2026 NCAA championship.",
-    "I came down and probably watched 50 practices or workouts in the offseason.",
-    "It’s really a credit to his communication skills and he’s relentless as a learner.” Asked if he could envision going through the NBA battles for 19 seasons like Spoelstra, May said: “I think we’re all wired differently.",
-    "But in the first half, they suffered another blow in the health department when rookie point guard Sergio De Larrea went down with what was later diagnosed as a right knee strain.",
-    "This comes after De Larrea had his best game of the season on Saturday with 21 points against San Antonio.",
-    "The 6-8 forward hauled down eight rebounds in 30 minutes off the bench and the Mavericks were plus-nine when Risacher was on the court."
-   ],
-   "quotes": [
-    "I would list it, but we have a game at 7:30,",
-    "A lot of what we do have been things we’ve stolen from them. We’re well aware of how great their staff is.",
-    "He’s a heck of a coach. No doubt about it. He can have success like he had and stay in college, but the way that he coaches I think is also built for the NBA. It’s really a credit to his communication…",
-    "Obviously, they have their way of doing it here. Hopefully I can hang on like they have and be as successful as they have. That’s obviously the gold standard. My path was just a little bit different."
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-lose-to-warriors-at-home",
-   "url": "https://www.nba.com/nuggets/news/nuggets-lose-to-warriors-at-home",
-   "canonical_url": "https://nuggets.com/news/nuggets-lose-to-warriors-at-home",
-   "title": "Nuggets lose to Warriors at home",
-   "author": "Matt Brooks",
-   "published_utc": "2026-10-27T04:54:58Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets lost to the Golden State Warriors, 134-114, on Monday night. They're now 1-2 to start the season.",
-   "facts": [
-    "The Denver Nuggets lost to the Golden State Warriors, 134-114, on Monday night.",
-    "They're now 1-2 to start the season.",
-    "Nikola Jokić had a near triple-double with 19 points, seven rebounds, and 11 assists.",
-    "Rookie Bryce Hopkins had the best game of his young NBA career, totaling 13 points on 5-of-9 shooting, three rebounds, and one assist.",
-    "Off the bench, DeMar DeRozan put up 21 points on 7-of-15 shooting, 2-of-5 from three-point range, and 5-of-5 from the free-throw line."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261026",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261026",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261026",
-   "title": "Stephen Curry and Yaxel Lendeborg Combine for 55 Points, Leading Warriors to First Regular Season Win",
-   "author": "gswgrizzo",
-   "published_utc": "2026-10-27T04:30:00Z",
-   "tags": [],
-   "summary": "The Golden State Warriors defeated the Denver Nuggets 134-114 on Monday night at Ball Arena, earning their first win of the regular season. Stephen Curry led a momentum shifting third quarter, scoring 17 points in the frame and carrying the Warriors to a double-digit advantage over the Nuggets. Yaxel Lendeborg had 31 points, marking the second-most points through a player's first four career games…",
-   "facts": [
-    "The Golden State Warriors defeated the Denver Nuggets 134-114 on Monday night at Ball Arena, earning their first win of the regular season.",
-    "Stephen Curry led a momentum shifting third quarter, scoring 17 points in the frame and carrying the Warriors to a double-digit advantage over the Nuggets.",
-    "Yaxel Lendeborg had 31 points, marking the second-most points through a player's first four career games in franchise history, trailing only Wilt Chamberlain (150 points).",
-    "LENDEBORG'S 31-POINT PERFORMANCE Continuing his impressive start to his NBA career, Yaxel Lendeborg got to work quickly in the first quarter.",
-    "Two possessions later, he earned the hoop and harm against Nikola Jokić for a 3-point play.",
-    "With 31 points, 12 rebounds and 6 assists, he becomes the first rookie since Larry Bird in 1979 to tally 70+ PTS, 30+ REB, 15+ AST in their first four career games.",
-    "This is his second consecutive game with more than 25 points and his second career double-double.",
-    "Lendeborg's performance also marks the first Warriors rookie since Chris Webber in 1993 to score in double figures in each of his first four career games."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-comeback-attempt-falls-short-in-loss-to-grizzlies-key-takeaways",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-comeback-attempt-falls-short-in-loss-to-grizzlies-key-takeaways",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-comeback-attempt-falls-short-in-loss-to-grizzlies-key-takeaways",
-   "title": "Utah Jazz Comeback Attempt Falls Short in Loss to Grizzlies: Key Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-27T04:29:42Z",
-   "tags": [
-    "Ace Bailey",
-    "Jaren Jackson Jr.",
-    "Keyonte George",
-    "Lauri Markkanen",
-    "Mo Bamba",
-    "Utah Jazz"
-   ],
-   "summary": "Adversity hits every NBA team over the course of a regular season.",
-   "facts": [
-    "For the Utah Jazz, absences in the frontcourt have been a theme to start the 2026-27 campaign, with the injury report getting longer during Monday’s 110-105 loss to the Memphis Grizzlies.",
-    "Despite the best efforts of Keyonte George (26 points, six assists), Ace Bailey (17 points, 10 rebounds) and some of Utah’s deeper reserves like Mo Bamba, cold 3-point shooting and inconsistencies on the defensive end hu…",
-    "The Jazz only mustered 21 points over the first 12 minutes, connecting on 33 percent from the field.",
-    "While Utah only connected on 1-of-9 from beyond the arc, Memphis knocked down four 3-pointers and got 15 points off the bench to gain control of the game.",
-    "After one, the Grizzlies held a 30-21 lead.",
-    "Midway through the frame, Markkanen exited and went to the locker room with a wrist injury.",
-    "The momentum didn’t shift in the opening minutes of the second quarter, as Memphis extended its lead to 14 points.",
-    "Utah suffered another blow when Jackson Jr. left the game with an apparent leg injury, creating opportunities for Kyle Filipowski and Bamba."
-   ],
-   "quotes": [
-    "I’m so proud of the group and the way they fought,",
-    "The competitiveness of the team and how they came together… it speaks to the character of the group.",
-    "I think we understand the depth that we have,",
-    "(Lauri and Jaren) set the standard for us, but it was about the next man up. All camp, we’ve seen what everybody on this team is about, what they added to their game, and what they had. Our focus and …"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sideabar-post-20261026-pritchards-third-quarter-heater-ignites-celtics-past-bulls",
-   "url": "https://www.nba.com/celtics/news/sideabar-post-20261026-pritchards-third-quarter-heater-ignites-celtics-past-bulls",
-   "canonical_url": "https://celtics.com/news/sideabar-post-20261026-pritchards-third-quarter-heater-ignites-celtics-past-bulls",
-   "title": "Pritchard's Third-Quarter Barrage Pushes Celtics Past Bulls",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-27T03:59:00Z",
-   "tags": [
-    "Postgame",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "Payton Pritchard caught fire Monday night. Just don’t call it a heat check.",
-   "facts": [
-    "The Celtics guard erupted for 19 points during the third quarter of Boston’s 134-99 win over Chicago, drilling all five of his 3-point attempts in the frame, including three on three straight possessions late in the quar…",
-    "Those 19 points tied a career high for Pritchard in a quarter, while he became the eighth Celtic to knock down at least five threes without a miss in a single frame.",
-    "He opened with 17 points off the bench in Detroit before scoring four points against New York in the home opener.",
-    "He had shot 38.7 percent from the field and 31.5 percent from 3-point range across 23 career October games.",
-    "He hasn’t shot below 44.2 percent from the field or 38.2 percent from three in any other month.",
-    "He’s shooting 50 percent from the field and 55.6 percent from beyond the arc."
-   ],
-   "quotes": [
-    "Not really actually because I work on those shots,",
-    "So it doesn’t really feel like a bad shot. Obviously it’s not if it goes in.",
-    "I don’t really consider those heat checks for him just because he’s that good of an offensive player,",
-    "It’s about how I attack. Am I touching the paint? Am I pushing the pace? Stuff like that. Controllables,"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-heat-dallas-clutch-lost-antetokounmpo-triple-double-flagg",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-heat-dallas-clutch-lost-antetokounmpo-triple-double-flagg",
-   "canonical_url": "https://heat.com/news/coups-takeaways-heat-dallas-clutch-lost-antetokounmpo-triple-double-flagg",
-   "title": "Coup’s Takeaways: HEAT Drop Clutch Game As Flagg Closes Out For Dallas",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-10-27T03:31:10Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. After the first three games of the season, all the Miami HEAT needed out of this one was to get on the board and take a step forward along the way – and create something real to build off of in the process.",
-   "facts": [
-    "Dallas wasn’t quite blazing from three, but they led 17-11 at the first timeout all the same, getting consistent good looks in the process.",
-    "Antetokounmpo returned for the final three of the first, as appears to be the standard sub pattern when no foul trouble is involved, and capped off the period with a three up top and a charge taken on the other end, Miam…",
-    "Flagg eventually got Dallas’ offense a little more on track, running plenty of pick-and-roll up top, and recent pickup Walter Clayton Jr. – a recent two-way signing after being waived by Memphis before opening night – of…",
-    "Dallas up, 53-52 at the break, both teams struggling with Offensive Ratings below 105.",
-    "Takeover mode continued, a top arc three – Miami up to 44 percent from the arc – then a driving and-one down the right slot.",
-    "That look bought Dallas enough stops to keep it tight, a few fouls in the bonus the difference for Miami to close the quarter as they took a slight edge, 84-83, into the fourth after Irving dropped in a double-contested …",
-    "Dallas ball, 20.4 seconds left, and Flagg (29 points on 23 shots, 11 assists) drove middle for an incredible finish to make it four points with 10 seconds to go.",
-    "Bobbled ball for Miami in the paint and Dallas takes it, 113-109, Miami still in search of their first win. 2."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261026-chibos",
-   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261026-chibos",
-   "canonical_url": "https://celtics.com/news/game-recap-keys-20261026-chibos",
-   "title": "Keys to the Game: Celtics 134, Bulls 99",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-27T03:29:36Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "It took the Celtics only nine minutes to turn a seven-point lead into a 31-point advantage Monday night.",
-   "facts": [
-    "Key Moment It took the Celtics only nine minutes to turn a seven-point lead into a 31-point advantage Monday night.",
-    "Boston stampeded the Bulls in the third quarter, riding a Payton Pritchard heater all the way to a 134-99 win at TD Garden.",
-    "Pritchard poured in a career-high-tying 19 points in the frame while shooting a perfect 5-for-5 from deep, helping turn a 66-59 Celtics advantage into a commanding 104-73 lead by the end of the quarter.",
-    "Boston played the final 7:31 of the third without Tatum and outscored Chicago 36-11 during that stretch.",
-    "Pritchard, Paul George and Sam Hauser combined for 35 points in the quarter as the Celtics completely broke the game open.",
-    "The lead ballooned to as many as 40 points in the fourth before Boston settled for the 35-point victory.",
-    "Payton Pritchard erupted for a game-high 28 points off the bench in just 21 minutes, shooting 10-of-16 from the field and 7-of-10 from 3-point range.",
-    "He averaged one triple for every three minutes he spent on the court and finished plus-22 while also handing out four assists."
-   ],
-   "quotes": [
-    "I don’t really consider any of his shots heat checks, because that’s who he is and that’s when he’s at his best."
    ]
   }
  ]
