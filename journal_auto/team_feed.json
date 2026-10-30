@@ -1,8 +1,287 @@
 {
- "updated_utc": "2026-10-30 16:48 UTC",
+ "updated_utc": "2026-10-30 21:40 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-young-players-stepping-up-road-trip-looming",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-young-players-stepping-up-road-trip-looming",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-young-players-stepping-up-road-trip-looming",
+   "title": "Roundball Roundup: Young Players Stepping Up + Road Trip Looming",
+   "author": "JP Chunga",
+   "published_utc": "2026-10-30T21:15:04Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the young players stepping up with the Jazz’s injury woes, upcoming road trip objectives, and injuries around the league.",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the young players stepping up with the Jazz’s injury woes, upcoming road trip objectives, and injuries around the league."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-homestand-against-portland-trail-blazers",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-homestand-against-portland-trail-blazers",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-homestand-against-portland-trail-blazers",
+   "title": "Preview: Utah Jazz End Homestand Against Portland Trail Blazers",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-30T19:15:07Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Keyonte George",
+    "Utah Jazz"
+   ],
+   "summary": "As they’ve had to navigate through a plethora of frontcourt injuries during the opening week of the season, the Utah Jazz have been able to enjoy an extended stay at home in the Delta Center.",
+   "facts": [
+    "As they’ve had to navigate through a plethora of frontcourt injuries during the opening week of the season, the Utah Jazz have been able to enjoy an extended stay at home in the Delta Center.",
+    "The Jazz have gone 1-3 so far during the homestand, with a home-opening win against the New Orleans Pelicans last Friday prior to losses to the Los Angeles Lakers, Memphis Grizzlies, and San Antonio Spurs.",
+    "The most recent game against San Antonio showcased Utah’s fight, as the Jazz battled the reigning Western Conference champions for 53 minutes, eventually falling 117-111 in overtime.",
+    "Keyonte George had 31 points to lead Utah, while Ace Bailey (19 points, six rebounds) and Darryn Peterson (18 points) found success in supporting roles.",
+    "Ball security struggles (19 turnovers) continued to persist for the Jazz, who fell behind in the possession game by the end of the night.",
+    "Even after a shooting regression against the Grizzlies Thursday night (12-of-49 from three), the Trail Blazers still topped the league in offensive rating as of Friday morning.",
+    "Morant suffered a hamstring injury in that Thursday night loss, which will have the former All-Star out for several weeks.",
+    "Keeping Portland off the glass Rebounding has been a key point of emphasis for Utah in the early going this season, especially following the injuries to Lauri Markkanen, Jaren Jackson Jr., and Jusuf Nurkić."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "HOU 公式（nba.com）",
+   "team": "HOU",
+   "team_ja": "ロケッツ",
+   "team_id": 1610612745,
+   "kind": "roster",
+   "key": "https://www.nba.com/rockets/news/rockets-exercise-fourth-year-team-option-for-reed-sheppard",
+   "url": "https://www.nba.com/rockets/news/rockets-exercise-fourth-year-team-option-for-reed-sheppard",
+   "canonical_url": "https://rockets.com/news/rockets-exercise-fourth-year-team-option-for-reed-sheppard",
+   "title": "Rockets Exercise Fourth-Year Team Option for Reed Sheppard",
+   "author": "houhjoshi",
+   "published_utc": "2026-10-30T19:08:23Z",
+   "tags": [],
+   "summary": "HOUSTON – The Houston Rockets today announced they exercised their fourth-year option for guard Reed Sheppard.",
+   "facts": [
+    "Sheppard was the third overall pick by Houston in the 2024 NBA Draft.",
+    "He appeared in all 82 games with 21 starts last season, while averaging 13.5 points, 3.4 assists, 2.9 rebounds, 1.49 steals and 2.8 3-pointers made in 26.2 minutes per game.",
+    "Last season, Sheppard joined Tyrese Maxey and Ausar Thompson as the only players to have recorded at least 120 steals and 50 blocks.",
+    "Sheppard also had the fifth-highest scoring increase (+9.1 ppg) of any player from 2024-25 to 2025-26."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/glendale-park-basketball-court",
+   "url": "https://www.nba.com/mavs/news/glendale-park-basketball-court",
+   "canonical_url": "",
+   "title": "Mavs, JPMorganChase Refurbish South Dallas’ Glendale Park Basketball Court",
+   "author": "Lauren Wyatt",
+   "published_utc": "2026-10-30T18:47:18Z",
+   "tags": [
+    "dallas mavericks",
+    "Tobi Lawal"
+   ],
+   "summary": "The Superblock’s Glendale Park was the latest canvas for a Dallas Mavericks basketball court refurbishment.",
+   "facts": [
+    "On Thursday, the Mavs, JPMorganChase and Dallas community leaders gathered to cut the ribbon on the new court at the 63-acre park along Ledbetter Drive in South Dallas.",
+    "We have District 4, which is north of Ledbetter, and District 3, which is south of Ledbetter.",
+    "Growing up in London, Lawal had more access to soccer facilities than basketball courts and didn’t start playing basketball until he was 16 years old.",
+    "Deputy Mayor Pro Tem Maxie Johnson announced a $6.5 million investment from the City of Dallas at Thursday’s ceremony to build a new aquatic center at the park."
+   ],
+   "quotes": [
+    "Glendale Park is a unique park in our park system,",
+    "In keeping with our theme of bringing communities together, this type of investment actually brings two different council districts together to provide an amenity that all residents will be able to en…",
+    "This is our home, so partnering with the Dallas Mavericks and doing this right here in South Dallas, in Oak Cliff, is so important to us because we believe it’s important to give back to the communiti…",
+    "This court is tough – if I had this when I was younger, I might have started basketball earlier,"
+   ]
+  },
+  {
+   "source": "POR 公式（nba.com）",
+   "team": "POR",
+   "team_ja": "トレイルブレイザーズ",
+   "team_id": 1610612757,
+   "kind": "injury",
+   "key": "https://www.nba.com/blazers/news/ja-morant-injury-update",
+   "url": "https://www.nba.com/blazers/news/ja-morant-injury-update",
+   "canonical_url": "https://blazers.com/news/ja-morant-injury-update",
+   "title": "Ja Morant Injury Update",
+   "author": "Portland Trail Blazers",
+   "published_utc": "2026-10-30T18:36:59Z",
+   "tags": [
+    "Ja Morant"
+   ],
+   "summary": "PORTLAND, Ore. (October 30, 2026) – Trail Blazers guard Ja Morant sustained a left hamstring injury during last night’s game against the Memphis Grizzlies. Imaging revealed a grade two left hamstring strain.",
+   "facts": [
+    "PORTLAND, Ore. (October 30, 2026) – Trail Blazers guard Ja Morant sustained a left hamstring injury during last night’s game against the Memphis Grizzlies.",
+    "Imaging revealed a grade two left hamstring strain.",
+    "Morant will be re-evaluated in four weeks."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-timberwolves-10-30-26",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-timberwolves-10-30-26",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-timberwolves-10-30-26",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Timberwolves",
+   "author": "LAClippers",
+   "published_utc": "2026-10-30T18:30:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Anthony Edwards",
+    "Broadcast Information",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Darius Garland",
+    "Game Previews",
+    "Injury Report"
+   ],
+   "summary": "Last Matchup: 03/11/2026 | LAC 153 - MIN 128 | K.Leonard: 45 PTS - A.Edwards: 36 PTSThe Clippers scored 153 points in their last matchup against the Timberwolves, the most points that either team has scored in series history. It is tied for the Clippers’ second-most points in a regular-season game all-time.Keaton Wagler scored 21 points off the bench against the Lakers, becoming the first Clippers…",
+   "facts": [
+    "MINNESOTA TIMBERWOLVES FIVE THINGS TO KNOW Last Matchup: 03/11/2026 | LAC 153 - MIN 128 | K.Leonard: 45 PTS - A.Edwards: 36 PTSThe Clippers scored 153 points in their last matchup against the Timberwolves, the most point…",
+    "It is tied for the Clippers’ second-most points in a regular-season game all-time.Keaton Wagler scored 21 points off the bench against the Lakers, becoming the first Clippers rookie to score 20+ off the bench since Brand…",
+    "Since the start of last season, the Clippers have had 13 such games; only Minnesota and Golden State have more, with 14 each.The Clippers have scored an NBA-high 43.0% of their points from the bench this season.",
+    "Their reserves have also accounted for 46.3% of the team’s rebounds, the NBA’s second-highest rate.BONUS: Darius Garland averages 21.7 points in his career against Minnesota, his second-highest average against any oppone…",
+    "His career-high 51 points came against the Timberwolves on November 13, 2022. 26-27 OPPONENT COMPARISON"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/2026-27-boom-transactions",
+   "url": "https://www.nba.com/pacers/news/2026-27-boom-transactions",
+   "canonical_url": "https://pacers.com/news/2026-27-boom-transactions",
+   "title": "2026-27 Boom Transactions",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-10-30T18:01:47Z",
+   "tags": [
+    "Noblesville Boom"
+   ],
+   "summary": "This page will house all transactions involving the Indiana Pacers and their G League affiliate, the Noblesville Boom. Each time a player from the Pacers roster is assigned to or recalled from the Boom is listed below along with a list of players currently on assignment with the Boom. Please note that players under two-way contracts do not have to be formally assigned or recalled.",
+   "facts": [
+    "Please note that players under two-way contracts do not have to be formally assigned or recalled.",
+    "McConnell PLAYERS UNDER TWO-WAY CONTRACT: Kobe Brown, Jalen Slawson, Braden Smith Oct. 30, 2026: Pacers assign Johnny Furphy and T.J."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "quotes",
+   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-early-impressions-of-the-new-look-2026-27-bulls",
+   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-early-impressions-of-the-new-look-2026-27-bulls",
+   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-early-impressions-of-the-new-look-2026-27-bulls",
+   "title": "Ask Sam Mailbag: Early impressions of the new-look 2026-27 Bulls",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-30T17:53:20Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "Alexia Frank: I know this is a rebuilding year and I’m willing to be patient, but I’d be lying if I said I wasn’t feeling a little deflated already. And not just because the Milwaukee Brewers just won the World Series. Losing to the Knicks at home stung; though I appreciated the effort. Even this early in the season, I can already see a difference between this regime and the previous one. I apprec…",
+   "facts": [
+    "But then the NBA still makes you play 82 games until you can get to the next hurdle, which is the draft.",
+    "It seems like they’ve been smart in setting themselves up well with short and expiring contracts that make it easier to make trades, move on from players and acquire draft picks.",
+    "Like 80 guys on injury report; supposedly 15 to 20 percent of the league.",
+    "NBA teams rarely scrimmage for concerns over, ironically, injury, which I assert with little certainty — actually no medical information or training or much observation, actually — leads to more injuries because of the s…",
+    "You can’t go from resting to 100 miles an hour in the game and not expect some grinding of the gears.",
+    "But there’s a price to pay, and it’s probably this ongoing proliferation of injuries that further determines the champion being the one who has the most guys standing.",
+    "We’ve always been told injuries, risk and luck are all part of the equation.",
+    "Here's my idea: Each team is allowed 8 three-point attempts per period for quarters 1-3 (after 8 attempts, players can still shoot from deep, but it only counts for 2)."
+   ],
+   "quotes": [
+    "take what the defense gives you."
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261029-boston-childrens-patients-step-inside-celtics-world-on-historic-day",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261029-boston-childrens-patients-step-inside-celtics-world-on-historic-day",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20261029-boston-childrens-patients-step-inside-celtics-world-on-historic-day",
+   "title": "Boston Children’s Patients Step Inside Celtics’ World on Historic Day",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-30T17:48:56Z",
+   "tags": [
+    "Boston Children's Hospital",
+    "Practice",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – Four former Boston Children’s Hospital patients had an opportunity of a lifetime Thursday morning: a front-row seat to Celtics practice at the Auerbach Center.",
+   "facts": [
+    "Earlier Thursday, the Celtics announced a gift of more than $200 million to Boston Children’s Hospital on behalf of the Celtics ownership group in association with the Celtics and the Shamrock Foundation."
+   ],
+   "quotes": [
+    "I'm big in the community. I'm big into helping other people,",
+    "So I'm glad that they're here. I'm glad they have smiles on their faces and they're happy to be here.",
+    "To have those families with us and be able to see that our impact is so much beyond basketball, it's always great to do that,",
+    "So we’re happy to have them."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261030",
+   "url": "https://www.nba.com/magic/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261030",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261030",
+   "title": "Orlando Magic at Toronto Raptors: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-10-30T16:51:30Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Orlando Tips Off Emirates NBA Cup 2026 Action in Toronto",
+   "facts": [
+    "Orlando Tips Off Emirates NBA Cup 2026 Action in Toronto TORONTO – The Orlando Magic are hoping their second tilt in Toronto looks different than their first.",
+    "And no, they’re not just talking about the aesthetics of the Raptors’ Emirates NBA Cup 2026 court.",
+    "The Magic (1-3) will attempt to bounce back in Toronto when they square off with the Raptors (3-1) for the second straight time on Friday at 7:30 p.m.",
+    "The Raptors currently possess the NBA’s top defensive rating (97.9), have the most steals (14.3) per outing and are scoring the second most points off turnovers (24.3) per game.",
+    "The Magic went 5-1 in in-season tournament action in 2025, with their lone loss coming at the hands of the eventual champions, the New York Knicks, in the semifinals in Las Vegas.",
+    "Those two teams would meet again in the 2026 NBA Finals.",
+    "IN AND OUT: Paolo Banchero (right low-grade high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery), Noah Penda (right partially torn hamstring) and Jalen Suggs (righ…",
+    "For Toronto, Nate Bittle (right foot avulsion fracture) and Kawhi Leonard (left knee effusion / swelling) are out."
+   ],
+   "quotes": [
+    "We have to play more intense, anyway,",
+    "So, (the fact that it’s a cup game) should just add to the fire.",
+    "It’s about improving on our performance from the last game and getting better with our principles,",
+    "And like I said, playing a lot harder."
+   ]
+  },
   {
    "source": "DEN 公式（nba.com）",
    "team": "DEN",
@@ -204,10 +483,10 @@
    "team_ja": "マーベリックス",
    "team_id": 1610612742,
    "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-surprising-start",
-   "url": "https://www.nba.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-surprising-start",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-surprising-start",
-   "title": "Mavericks-Rockets preview: 'Winning habits' have keyed solid (surprising?) start",
+   "key": "https://www.nba.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-start",
+   "url": "https://www.nba.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-start",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-start",
+   "title": "Mavericks-Rockets preview: 'Winning habits' have keyed solid start",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-29T21:00:57Z",
    "tags": [],
@@ -228,6 +507,25 @@
     "He and P.J., two holdover guys on the front line, have been phenomenal.",
     "We have great depth. And that’s a challenge at times, but it’s a great challenge because there are several guys on our team that deserved more minutes but they just didn’t get them. We’ve got to prior…"
    ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "feature",
+   "key": "https://www.nba.com/heat/news/my-future-my-voice-my-vote",
+   "url": "https://www.nba.com/heat/news/my-future-my-voice-my-vote",
+   "canonical_url": "https://heat.com/news/my-future-my-voice-my-vote",
+   "title": "My Future. My Voice. My Vote.",
+   "author": "Miami HEAT",
+   "published_utc": "2026-10-29T20:30:00Z",
+   "tags": [
+    "community recap"
+   ],
+   "summary": "Earlier today, the Miami HEAT hosted its My Future. My Voice. My Vote. civic engagement event at Miami-Dade College’s Kendall Campus, bringing together hundreds of first-time student voters from across Miami-Dade County to participate in the democratic process. In collaboration with the Miami-Dade County Office of the Supervisor of Elections, Miami-Dade County Public Schools, and Miami-Dade Colleg…",
+   "facts": [],
+   "quotes": []
   },
   {
    "source": "GSW 公式（nba.com）",
@@ -1271,7 +1569,6 @@
    "tags": [
     "Game Day",
     "Game Preview",
-    "Latest News",
     "Team News"
    ],
    "summary": "TORONTO – The Orlando Magic tipped off their first road trip of the 2026-27 campaign in the right fashion.",
@@ -1319,6 +1616,34 @@
    "quotes": [
     "We wanted to create a weekend unlike anything Utah has experienced before,"
    ]
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/10-30-2026-suns-vs-nuggets-game-preview",
+   "url": "https://www.nba.com/suns/news/10-30-2026-suns-vs-nuggets-game-preview",
+   "canonical_url": "https://suns.com/news/10-30-2026-suns-vs-nuggets-game-preview",
+   "title": "10/30/2026 Suns vs Nuggets Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-10-28T17:00:00Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Friday, October 30, 2026Time: 7:00 p.m. MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Statement Edition (Black) | Nuggets: Association Edition (White)",
+   "facts": [
+    "Game Info Date: Friday, October 30, 2026Time: 7:00 p.m.",
+    "MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Statement Edition (Black) | Nuggets: Association Edition (White) Series Notes T…",
+    "Johnson appeared 200 times, averaging 10.7 points and shooting 39.6 from three-point rangeNuggets guard Tyus Jones spent the 2024-25 season with the Suns, appearing 81 times (58 starts) and putting up 10.2 points and 5.3…",
+    "Orlando on Feb. 21#15 – Devin BookerLAST GAME: Recorded a game-high 7 assists at Oklahoma City His 43 points against Golden State on Oct. 24 were the most by a Sun in a home opener in franchise history, surpassing Charle…",
+    "JALEN GREEN topped the Suns with 20 points, his 175th time tallying 20+ points in an NBA contest.In his third consecutive start, KHAMAN MALUACH posted 12 points and seven rebounds.",
+    "Maluach recorded one block and now has a rejection in each of the first three games this season.MILES BRIDGES totaled 17 points and a team-best eight rebounds.",
+    "Bridges is currently three points away from 8,000 in his career.DILLON BROOKS put up 19 points, 5 rebounds, 5 assists and 3 steals.",
+    "He now has consecutive 15+ point, 5+ assist games in the same season for the second time in his career and the first since his rookie 2017-18 campaign.Phoenix won the offensive rebounding battle, 14-12, and outscored the…"
+   ],
+   "quotes": []
   },
   {
    "source": "NOP 公式（nba.com）",
@@ -1653,205 +1978,6 @@
     "Defending in the paint In their rematch against Memphis, Utah found more success defending down low, holding the Grizzlies to 34 points in the paint, which included just two during the final quarter."
    ],
    "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-preview-20261028",
-   "url": "https://www.nba.com/warriors/news/gameday-preview-20261028",
-   "canonical_url": "https://warriors.com/news/gameday-preview-20261028",
-   "title": "Game Preview: Warriors at Timberwolves - 10/28/26",
-   "author": "gswgrizzo",
-   "published_utc": "2026-10-27T21:15:58Z",
-   "tags": [
-    "Game Preview"
-   ],
-   "summary": "WARRIORS FACE TIMBERWOLVES ON WEDNESDAY The Warriors wrap up their three-game road trip when they play the Minnesota Timberwolves on Wednesday night. Golden State is 1-3 taking on a 3-1 Minnesota team after their first loss of the regular season against the Cleveland Cavaliers in overtime.",
-   "facts": [
-    "Golden State is 1-3 taking on a 3-1 Minnesota team after their first loss of the regular season against the Cleveland Cavaliers in overtime.",
-    "LAST TIME OUT The Golden State Warriors defeated the Denver Nuggets 134-114 on Monday night at Ball Arena, earning their first win of the regular season.",
-    "Stephen Curry led a momentum shifting third quarter, scoring a perfect 6-for-6 from the field and tallying 17 points in the frame to carry the Warriors to a double-digit advantage over the Nuggets.",
-    "Yaxel Lendeborg had 31 points, marking the second-most points through a player's first four career games in franchise history, trailing only Wilt Chamberlain (150 points). >>Full Story INJURY & ROSTER NOTES GSW: Jimmy Bu…",
-    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season.",
-    "COMPELLING NOTE Warriors: Yaxel Lendeborg continues to make history as he had his second consecutive game scoring over 25 points and his second career double-double in the Dubs Monday night win.",
-    "His performance marks the first Warriors rookie since Chris Webber in 1993 to score in double figures in each of his first four NBA games.",
-    "Timberwolves: Anthony Edwards' recorded 47 points in a game for the seventh time five-year career in the Timberwolves 127-125 overtime loss against the Cavaliers on Monday."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "injury",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-injury-updates",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-injury-updates",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-injury-updates",
-   "title": "Utah Jazz Injury Updates",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-27T20:00:54Z",
-   "tags": [
-    "Jaren Jackson Jr.",
-    "Lauri Markkanen",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (October 27, 2026) – The following is a medical update on Utah Jazz forward/center Jaren Jackson Jr. and forward Lauri Markkanen.",
-   "facts": [
-    "SALT LAKE CITY (October 27, 2026) – The following is a medical update on Utah Jazz forward/center Jaren Jackson Jr. and forward Lauri Markkanen.",
-    "Jackson Jr. sustained a torn MCL in his right knee during Utah’s game against Memphis on Oct. 26.",
-    "He will be re-evaluated in six weeks.",
-    "Markkanen sustained a right wrist sprain in the game against the Grizzlies."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-wascle-261028",
-   "url": "https://www.nba.com/cavaliers/news/preview-wascle-261028",
-   "canonical_url": "https://cavs.com/news/preview-wascle-261028",
-   "title": "Cavs vs Wizards | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-27T19:42:14Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "To wrap-up the three-game homestand, the Cavs host the Washington Wizards in the first of three meetings between the two this season. The new-look Wizards sit at 2-2 on the young season.",
-   "facts": [
-    "The new-look Wizards sit at 2-2 on the young season.",
-    "The story of the night was rookie Meleek Thomas who made his NBA debut to the tune of 16 points in 19 minutes, making four of his five three point attempts.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Khalifa Diop - Knee - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - Two-Way - OUT Wizards: -Justin Champagnie - Foot - OUT -AJ Dybantsa - Ankle - QUESTI…",
-    "UP NEXT Cleveland's first back-to-back wraps-up tomorrow night when taking on the Hawks in Atlanta at 8PM ET."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-nuggets-injury-report-game-preview-10-28-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-nuggets-injury-report-game-preview-10-28-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-nuggets-injury-report-game-preview-10-28-2026",
-   "title": "Pelicans vs. Nuggets: Injury Report, Game Preview 10/28/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-27T19:25:29Z",
-   "tags": [],
-   "summary": "The Pelicans return home to host the Denver Nuggets on Wednesday at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans return home to host the Denver Nuggets on Wednesday at the Smoothie King Center at 7:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Nuggets injury report, team news, tune in details, and gameday information: PELICANS VS NUGGETS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole P…",
-    "DOUBTFUL (G League two-way) Julian Reese PROBABLE (G League two-way) NUGGETS INJURY REPORT Alpha Diallo OUT (personal reasons) Spencer Jones OUT (bilateral hamstring injury management) Julian Strawther OUT (left knee spr…",
-    "Golden State Warriors Bryce Hopkins, Aaron Gordon, Nikola Jokić, Christian Braun, Jamal Murray NEW ORLEANS PELICANS (0-3) Previous Game Lineup: October 24 loss at Denver Nuggets Trey Murphy III, Zion Williamson, DeAndre …",
-    "Nuggets Game Time, TV Channel, Radio & Location 📅 Game Time: Wednesday, Oct. 28 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Nuggets TV: ALT/KTVD/…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-to-retire-jersey-of-franchise-legend-muggsy-bogues",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-to-retire-jersey-of-franchise-legend-muggsy-bogues",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-to-retire-jersey-of-franchise-legend-muggsy-bogues",
-   "title": "Charlotte Hornets To Retire Jersey Of Franchise Legend Muggsy Bogues",
-   "author": "Hornets PR",
-   "published_utc": "2026-10-27T18:49:05Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "October 27, 2026 — The Charlotte Hornets announced today that the organization will retire Muggsy Bogues’ No. 1 jersey during a halftime ceremony at the team’s game against the Milwaukee Bucks on Thursday, February 11, 2027 at Spectrum Center. Bogues will become the third player in franchise history to have his jersey retired, joining Bobby Phills (No. 13) and Dell Curry (No. 30).",
-   "facts": [
-    "October 27, 2026 — The Charlotte Hornets announced today that the organization will retire Muggsy Bogues’ No. 1 jersey during a halftime ceremony at the team’s game against the Milwaukee Bucks on Thursday, February 11, 2…",
-    "Bogues will become the third player in franchise history to have his jersey retired, joining Bobby Phills (No. 13) and Dell Curry (No. 30).",
-    "An original member of the Hornets, Bogues has spent more than 20 years with the organization as a player and ambassador.",
-    "The honor recognizes his accomplishments during 10 seasons with the team and his enduring impact on the organization, his steadfast commitment and continued service to the Charlotte community and his contributions to the…",
-    "Selected by Charlotte in the 1988 NBA Expansion Draft, Bogues established himself as one of the most accomplished and respected players in franchise history, playing in 632 games in 10 seasons (1988-89 – 1997-98) with th…",
-    "He retired as the team’s all-time leader in assists (5,557), assists per game (8.8), steals (1,067) and minutes played (19,768), and continues to rank among the top 10 in numerous Hornets statistical categories, includin…",
-    "Bogues finished in the top seven in the NBA in assists in six-straight seasons (1989-95) and in the top 10 in steals in three of those seasons (1989-90, 1991-92, 1992-93).",
-    "His 10.7 assists per game in 1989–90 remain the highest single-season average in team history."
-   ],
-   "quotes": [
-    "Honoring the players who helped build this franchise is an important part of our commitment to Hornets history,",
-    "Charlotte has been home to me and my family for so many years, and the support I’ve received from Hornets fans has meant everything to me,",
-    "To have my number retired alongside Bobby and Dell is an incredible honor. I’m grateful to Rick and Gabe, the organization, my teammates and coaches, and everyone who has been part of this journey. I …"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-relying-on-center-depth-with-starter-yves-missi-sidelined",
-   "url": "https://www.nba.com/pelicans/news/pelicans-relying-on-center-depth-with-starter-yves-missi-sidelined",
-   "canonical_url": "https://pelicans.com/news/pelicans-relying-on-center-depth-with-starter-yves-missi-sidelined",
-   "title": "Pelicans relying on center depth with starter Yves Missi sidelined",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-27T18:16:50Z",
-   "tags": [],
-   "summary": "From Oklahoma City to Orlando and several other locations on the map, injuries have already been a significant and unfortunate development early in the 2026-27 NBA season. New Orleans was unable to make it to halftime of its second game before seeing a starter be sidelined, but at least in the Pelicans’ case, the player did not sustain a season-ending or longer-term ailment.",
-   "facts": [
-    "From Oklahoma City to Orlando and several other locations on the map, injuries have already been a significant and unfortunate development early in the 2026-27 NBA season.",
-    "He did not return to the game.",
-    "The injury was diagnosed as a left knee bone bruise, occurring during a hyperextension.",
-    "With no timetable to return determined yet, New Orleans must improvise at the center position, with head coach Jamahl Mosley describing how to fill in for Missi as “by committee.” Against Utah, second-year big Derik Quee…",
-    "In another example of the team’s versatility at the “five” position, in Saturday’s overtime loss at Denver, 19th-year veteran DeAndre Jordan drew the starting assignment, matched up against Nuggets perennial MVP candidat…",
-    "Jordan held up well in what was also his first official action of 2026-27, nearly notching a double-double (nine points, nine rebounds) in only 20 minutes.",
-    "Queen is an excellent passer and rebounding at a high level through the season’s first three games, averaging 8.3 boards in only 24 minutes per outing.",
-    "Missi, who was off to an excellent start to Year 3 of his NBA career, did some light shooting Tuesday after practice, but for now, Mosley will toggle between frontcourt combinations, potentially dependent on the opponent…"
-   ],
-   "quotes": [
-    "Obviously with Yves being out, our rotations change quite a bit,",
-    "It’s next man up – myself, Karlo, DQ, Zion at times, we’ve got to hold down the fort until (Missi) comes back.",
-    "There’s versatility, in each one of those guys,",
-    "Being able to have those options at any given moment in the game is key for us."
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261027",
-   "url": "https://www.nba.com/cavaliers/news/features-meleek-thomas-261027",
-   "canonical_url": "https://cavs.com/news/features-meleek-thomas-261027",
-   "title": "Meleek Thomas' Special NBA Debut",
-   "author": "clejgabriele",
-   "published_utc": "2026-10-27T17:48:30Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "When James Harden made his NBA debut, Meleek Thomas was three years, two months, and 23 days old.",
-   "facts": [
-    "When James Harden made his NBA debut, Meleek Thomas was three years, two months, and 23 days old.",
-    "Now age 37, two months and a day, Harden finished with 19 points, a game-high nine assists, five boards and a pair of steals in the 789th win of his career – a 127-125 overtime thriller over the Timberwolves.",
-    "Neither was Donovan Mitchell, who led the Cavs with 26 points, or Peyton Watson, who led both teams with four blocks, or Evan Mobley, who went 4-of-5 from deep and whose three late bombs keyed the victory.",
-    "Monday’s spotlight shone brightest on the Wine & Gold’s youngest player – Meleek Thomas, making his career debut in dramatic fashion, leading all reserves with 16 points in 19 electric minutes off the bench, going 6-of-1…",
-    "If there’s one word that’s been used to describe the 20-year-old rookie through his brief tenure in Cleveland, it is “confident.” Anyone who’s watched him over the summer leading up to Monday’s debut knew that he’d let i…",
-    "The Pittsburgh native officially took the floor for the first time when he checked in with 5:53 remaining in the first quarter, missed his first three-point attempt less than two minutes later and didn’t miss another one…",
-    "And I told him the best part of his game wasn't even the 16 points.",
-    "In this year’s NBA Summer League session in Las Vegas, Thomas led everyone in scoring (27.3 PPG) and field goal attempts (20.5) and was second overall in field goals makes (10.3)."
-   ],
-   "quotes": [
-    "Confidence really don't come for nobody else,",
-    "You got it or you don’t. Either you got heart, you got dawg, or you don’t. And I got everything that I need. It's just a matter of time before everything is shown. So, yeah, if I'm open, it's going up…",
-    "It's very rare to ride the coattails of a rookie going into a half like that,",
-    "Fearless, right? Just trying to find ways to impact the game at the highest level. And I told him the best part of his game wasn't even the 16 points. It was the energy. So, credit to him for staying …"
-   ]
   }
  ]
 }
