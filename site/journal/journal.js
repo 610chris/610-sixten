@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "734-knicks-dadiet-option.html",
+    cat: "NBA",
+    title: "ニックス、パコメ・ダディエの4年目オプションを行使せず —— 537万ドル、来夏に制限なしFAへ",
+    excerpt: "ニューヨーク・ニックスは、フォワードのパコメ・ダディエの2027-28シーズン分となる4年目チームオプション(537万ドル)を行使しない方針。ESPNのシャムズ・チャラニア記者が報じた。来夏、ダディエは制限なしフリーエージェントになる見通し。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "733-rockets-reed-sheppard-option.html",
     cat: "NBA",
     title: "ロケッツ、リード・シェパードの4年目オプションを行使 —— ドラフト3位指名のガード、2年目に大幅成長",
