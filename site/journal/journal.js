@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "728-thunder-500-million-problem.html",
+    cat: "NBA",
+    title: "サンダー、主力2人の大怪我で浮上した「5億ドル問題」—— GMプレスティの次の一手に球界が注目",
+    excerpt: "ESPNのブライアン・ウィンダーホースト記者とティム・マクマホン記者によると、オクラホマシティ・サンダーはジェイレン・ウィリアムズ(左腓骨骨折・足首脱臼)とケイソン・ウォレス(肩関節唇断裂)の大怪我を受け、今季の戦い方とリーグ最高クラスに膨らむ将来の給与総額をどう両立させるか、球界内で活発な観測が飛び交っている。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "727-nike-dunk-low-union-natural-selection.html",
     cat: "KICKS",
     title: "Nike Dunk Low「Natural Selection」が登場 —— UNIONとの新コラボ、ヒールを折り畳める2WAY仕様で3色展開",
