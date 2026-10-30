@@ -177,6 +177,33 @@
   "template": "news",
   "timestamp": "2026-10-21T22:40:14+0000"
  },
+ "17884526433529238": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "707",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、ジャズ戦で36得点14リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfEGQj6AdGm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Spurs vs. Jazz・2026年10月28日)",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T04:00:03+0000"
+ },
  "17884706232526289": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -283,6 +310,33 @@
   "permalink": "https://www.instagram.com/reel/CkNQtBOgpQp/",
   "product": "REELS",
   "timestamp": "2022-10-27T06:31:56+0000"
+ },
+ "17891428659619301": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "712",
+  "auto": true,
+  "caption_len": 384,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バッシー「長く、過酷な道のりだった」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfFK_HgD6Bg/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN",
+  "subject": [
+   "Charles Bassey"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-29T14:00:37+0000"
  },
  "17892625983454058": {
   "arms": {
@@ -2248,6 +2302,33 @@
   "product": "REELS",
   "timestamp": "2022-10-21T00:28:35+0000"
  },
+ "17959634916266574": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "719",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ホーネッツ、リードを前半で下げ後半出場なし",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfGcShAkUzk/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Hornets bench Reid at half for not meeting 'our standards'」",
+  "subject": [
+   "Naz Reid"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-30T01:50:49+0000"
+ },
  "17960183594076983": {
   "auto": false,
   "caption_len": 76,
@@ -2362,6 +2443,33 @@
   "permalink": "https://www.instagram.com/reel/CkCzATygXZK/",
   "product": "REELS",
   "timestamp": "2022-10-23T05:00:55+0000"
+ },
+ "17972459727153879": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "704",
+  "auto": true,
+  "caption_len": 304,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "フレッド・ヴァンブリート、バックス戦で24得点5アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD9fSrk43v/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Fred VanVleet"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:43:27+0000"
  },
  "17972979922866909": {
   "auto": false,
@@ -3133,6 +3241,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T03:51:45+0000"
+ },
+ "18017697056956993": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "705",
+  "auto": true,
+  "caption_len": 305,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ブランソン、ブルズ戦で38得点7アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfD-nvIiuJm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T02:53:17+0000"
  },
  "18018443825950028": {
   "arms": {
@@ -4702,6 +4837,33 @@
   "template": "news",
   "timestamp": "2026-10-08T04:10:56+0000"
  },
+ "18098039258556645": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "709",
+  "auto": true,
+  "caption_len": 328,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミッチェル、マーベリックス戦で29得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfEI-ACFDQf/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Thunder vs. Mavericks・2026年10月28日)",
+  "subject": [
+   "Ajay Mitchell"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T04:23:33+0000"
+ },
  "18098228732455484": {
   "article": "321",
   "auto": true,
@@ -5799,6 +5961,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-01T20:06:03+0000"
+ },
+ "18115429301138558": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "717",
+  "auto": true,
+  "caption_len": 346,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブレイザーズ、クリンガン&ヤン・ハンセンのオプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfGcCaAjAnb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ポートランド・トレイルブレイザーズ公式サイト",
+  "subject": [
+   "Donovan Clingan|Yang Hansen"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-30T01:48:50+0000"
  },
  "18115731602125674": {
   "arms": {
@@ -9033,6 +9222,33 @@
   "template": "news",
   "timestamp": "2026-10-02T04:05:18+0000"
  },
+ "18357885442168260": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "711",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "グライムズ、クリッパーズ戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfEUK_2EbaS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Lakers vs. Clippers・2026年10月28日)",
+  "subject": [
+   "Quentin Grimes"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-29T06:01:31+0000"
+ },
  "18358936951221671": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -9279,6 +9495,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-16T12:10:51+0000"
+ },
+ "18395927491166107": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "708",
+  "auto": true,
+  "caption_len": 410,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヨキッチ、史上2人目の通算200回目トリプルダブル",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfEH8BsFV1k/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Nikola Jokic records 200th career triple-double in Nuggets' win over Pelicans」",
+  "subject": [
+   "Nikola Jokic"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-29T04:14:43+0000"
  },
  "18408731665089104": {
   "arms": {
