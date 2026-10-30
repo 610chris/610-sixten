@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "724-fukui-blowinds-atom-cup.html",
+    cat: "JAPAN",
+    title: "アトム、福井ブローウィンズ冠試合「ATOM CUP」開催 —— 2日間で7,125人来場、チョンディー・ブラウンJr.と川島聖那がMIPに",
+    excerpt: "福井ブローウィンズのスポンサー企業・株式会社アトムは、冠試合「ATOM CUP」を2026年10月24日・25日にセーレン・ドリームアリーナ（福井県営体育館）で実施したと発表した。対戦相手はさいたまブロンコスで、2日間合計7,125人が来場。両日のMIPにはチョンディー・ブラウンJr.選手と川島聖那選手が選ばれた。",
+    date: "2026.10.30",
+    thumb: "../assets/journal-724-hero.jpg?v=12b6e6ea47"
+  },
+  {
     href: "723-okongwu-29-points-cavaliers.html",
     cat: "NBA",
     title: "オニエカ・オコング、キャバリアーズ戦で29得点12リバウンド —— ホークスが114-111で勝利",

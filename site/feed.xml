@@ -9,6 +9,15 @@
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
     <item>
+      <title>アトム、福井ブローウィンズ冠試合「ATOM CUP」開催 —— 2日間で7,125人来場、チョンディー・ブラウンJr.と川島聖那がMIPに</title>
+      <link>https://sixten.jp/journal/724-fukui-blowinds-atom-cup.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/724-fukui-blowinds-atom-cup.html</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0900</pubDate>
+      <category>JAPAN</category>
+      <description>福井ブローウィンズのスポンサー企業・株式会社アトムは、冠試合「ATOM CUP」を2026年10月24日・25日にセーレン・ドリームアリーナ（福井県営体育館）で実施したと発表した。対戦相手はさいたまブロンコスで、2日間合計7,125人が来場。両日のMIPにはチョンディー・ブラウンJr.選手と川島聖那選手が選ばれた。</description>
+      <enclosure url="https://sixten.jp/assets/journal-724-hero.jpg?v=12b6e6ea47" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>オニエカ・オコング、キャバリアーズ戦で29得点12リバウンド —— ホークスが114-111で勝利</title>
       <link>https://sixten.jp/journal/723-okongwu-29-points-cavaliers.html</link>
       <guid isPermaLink="true">https://sixten.jp/journal/723-okongwu-29-points-cavaliers.html</guid>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ダラス・マーベリックスは、フォワードのザカリー・リザシェイのルーキー契約における4年目チームオプションを行使したと発表した。2027-28シーズンの1740万ドルの給与が保障される。リザシェイは2024年ドラフト全体1位でホークスから加入した。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>マーベリックスCEOリック・ウェルツが退任へ —— 後任はチームプレジデントのキャソン、新アリーナ計画は継続</title>
-      <link>https://sixten.jp/journal/693-mavericks-ceo-welts-retires-casson.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/693-mavericks-ceo-welts-retires-casson.html</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>ダラス・マーベリックスは、CEOのリック・ウェルツが2度目の退任をすると発表した。後任にはチームプレジデントのイーサン・キャソンが就く。ウェルツは北ダラスの新アリーナ計画を主導するため2024年に加入していた。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
