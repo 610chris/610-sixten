@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "736-jaylen-brown-patellar-tendinopathy-76ers.html",
+    cat: "NBA",
+    title: "76ersのジェイレン・ブラウン、左膝蓋腱炎と診断 —— ニックス戦のNBAカップ出場を欠場",
+    excerpt: "フィラデルフィア・76ersのジェイレン・ブラウンが左膝蓋腱炎と診断された。マーク・スタイン記者(The Stein Line)が伝えた。76ersはニューヨーク・ニックスとのNBAカップ戦でブラウンを欠場させると発表、ニック・ナース監督が会見で明らかにした。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "735-lakers-sale-finalize-terms.html",
     cat: "NBA",
     title: "ウォルター氏とカシュナー氏、レイカーズ売却の全条件固まる —— 125億ドル評価、調印は最終段階へ",
