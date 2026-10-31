@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:50:52+09:00",
+  "updated": "2026-10-31T14:06:45+09:00",
   "items": [
     {
       "id": "134",
@@ -21737,6 +21737,100 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カイリー・アービング、ロケッツ戦で35得点9アシスト\n\n・FG12/19・3P5/8・FT6/6で35得点\n・アシスト9でマーベリックス116-111の勝利に貢献\n・ACL復帰後約3週間でのシーズンベスト級の一戦\n\n💬 アービング、今季はMVP級の仕上がりになる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Mavericks vs. Rockets・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "751",
+      "slug": "751-jamal-murray-39-points-nuggets",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "ジャマール・マレー、サンズ戦で39得点",
+      "excerpt": "デンバー・ナゲッツのジャマール・マレーは現地時間10月30日、フェニックス・サンズ戦に37分出場し、39得点・リバウンド8・アシスト5を記録した。両チーム通じてこの日の最多得点者となり、ナゲッツは127-120でサンズに勝利した。",
+      "points": [
+        "FG10/18・3PT7/9・FT12/15で39得点",
+        "リバウンド8・アシスト5も記録",
+        "ナゲッツが127-120でサンズに勝利"
+      ],
+      "source": "ESPN ボックススコア(Nuggets vs. Suns)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/751-jamal-murray-39-points-nuggets.html",
+      "hero_path": "",
+      "subject": [
+        "Jamal Murray"
+      ],
+      "question": "ナゲッツ、このまま西地区トップ争いに加われる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMAL MURRAY",
+        "opponent": "vs. SUNS",
+        "points": 39,
+        "stats": [
+          "8 REB",
+          "5 AST",
+          "10/18 FG",
+          "7/9 3PT",
+          "12/15 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/751-1.jpg",
+        "https://sixten.jp/assets/ig/751-2.jpg",
+        "https://sixten.jp/assets/ig/751-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T14:05:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジャマール・マレー、サンズ戦で39得点\n\n・FG10/18・3PT7/9・FT12/15で39得点\n・リバウンド8・アシスト5も記録\n・ナゲッツが127-120でサンズに勝利\n\n💬 ナゲッツ、このまま西地区トップ争いに加われる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Nuggets vs. Suns)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "752",
+      "slug": "752-luka-doncic-37-points-lakers",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "ルカ・ドンチッチ、ウォリアーズ戦で37得点",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間10月30日、ゴールデンステート・ウォリアーズ戦に37分出場し、37得点・リバウンド7・アシスト5を記録した。両チーム通じてこの日の最多得点者となったが、レイカーズは95-112でウォリアーズに敗れた。",
+      "points": [
+        "FG12/27・3PT6/16・FT7/8で37得点",
+        "リバウンド7・アシスト5も記録",
+        "レイカーズは95-112でウォリアーズに敗戦"
+      ],
+      "source": "ESPN ボックススコア(Lakers vs. Warriors)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/752-luka-doncic-37-points-lakers.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチ37得点でも完敗…レイカーズ、何が足りない？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. WARRIORS",
+        "points": 37,
+        "stats": [
+          "7 REB",
+          "5 AST",
+          "2 BLK",
+          "12/27 FG",
+          "6/16 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/752-1.jpg",
+        "https://sixten.jp/assets/ig/752-2.jpg",
+        "https://sixten.jp/assets/ig/752-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T14:05:53+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ルカ・ドンチッチ、ウォリアーズ戦で37得点\n\n・FG12/27・3PT6/16・FT7/8で37得点\n・リバウンド7・アシスト5も記録\n・レイカーズは95-112でウォリアーズに敗戦\n\n💬 ドンチッチ37得点でも完敗…レイカーズ、何が足りない？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Lakers vs. Warriors)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
