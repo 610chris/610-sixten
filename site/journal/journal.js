@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "748-nike-ja-4-unseen.html",
+    cat: "KICKS",
+    title: "Nike Ja 4「Unseen」が11月13日発売へ —— 品番IM4135-700、ジャ・モラントの新色",
+    excerpt: "ナイキは、ジャ・モラントの4代目シグネチャーシューズ「Ja 4」の新色「Unseen」（品番IM4135-700）を発表した。「GT Cut 'Black Volt'」「GT Future 'Volt'」と同じ黒とヴォルトの配色を共有し、11月13日に発売予定。Sneaker Bar Detroitが伝えた。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "747-nike-giannis-freak-8-origin-story.html",
+    cat: "KICKS",
+    title: "Nike Giannis Freak 8「Origin Story」に軍服役の記憶 —— 品番IV4378-200、ヤニス・アデトクンボの新色",
+    excerpt: "ナイキは、ヤニス・アデトクンボの8代目シグネチャーシューズ「Giannis Freak 8」の新色「Origin Story」（品番IV4378-200）を発表した。ギリシャでは兵役がNBA選手であっても義務であり、アデトクンボ自身の軍服役の記憶をデザインに重ねたモデルだという。Sneaker Newsが伝えた。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "746-lamelo-ball-24-points-timberwolves.html",
     cat: "NBA",
     title: "ラメロ・ボール、クリッパーズ戦で24得点7アシスト —— ティンバーウルブズが127-101で勝利",
