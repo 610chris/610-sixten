@@ -1,8 +1,164 @@
 {
- "updated_utc": "2026-10-31 01:45 UTC",
+ "updated_utc": "2026-10-31 08:49 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261030-pritchard-answers-mazzullas-challenge-with-absolute-best-version-of-himself",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261030-pritchard-answers-mazzullas-challenge-with-absolute-best-version-of-himself",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261030-pritchard-answers-mazzullas-challenge-with-absolute-best-version-of-himself",
+   "title": "Pritchard Answers Mazzulla’s Challenge With ‘Absolute Best Version’ of Himself",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-31T05:26:56Z",
+   "tags": [
+    "Postgame",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – Joe Mazzulla had a challenge for Payton Pritchard heading into Friday night’s NBA Cup opener against Chicago: to be more aggressive defensively, on the glass, and with his all-around hustle.",
+   "facts": [
+    "The Celtics guard poured in a season-high 30 points off the bench while adding three rebounds, three assists, two steals and a collection of hustle plays that helped propel Boston to a 125-111 win over the Bulls.",
+    "Paul George launched a transition 3-pointer with Pritchard crashing toward the basket alongside Chicago’s Matas Buzelis.",
+    "On Boston’s ensuing defensive possession, Derrick White collected the 500th steal of his career, drove to the basket, and kicked out to Pritchard, who buried a 3-pointer to put the Celtics ahead 63-35 with 6:39 remaining…",
+    "Pritchard, who already had 18 points, headed toward the bench flexing and exchanging high-fives with his teammates.",
+    "Pritchard only shot 3-for-10 from long range; however, he was lethal inside the arc where he shot 6-of-8 and added a career-best 9-for-9 from the free-throw line."
+   ],
+   "quotes": [
+    "I feel like the first four games my defensive activity and my rebounding have been poor ... so challenging me to step up in those areas. I think the hug was for me doing that and him being thankful [I…",
+    "I think Payton’s a guy that gets better every year, and I think the sky’s the limit for him,",
+    "I think he hasn’t completely tapped into the player that he can become, and that’s just being complete on both ends of the floor and not being defined by one thing. I think in tonight’s game, you saw …",
+    "Now, it takes a ton of energy, and you’re not going to be able to do that every single night, but the sky’s the limit for him, and as we continue to grow as a team, and he continues to grow as a playe…"
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261030",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261030",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261030",
+   "title": "Warriors Overcome 25-Point Deficit in Victory Over Lakers to Open NBA Cup",
+   "author": "gswgrizzo",
+   "published_utc": "2026-10-31T05:10:00Z",
+   "tags": [
+    "Game Recap"
+   ],
+   "summary": "The Golden State Warriors complete a 25-point comeback to defeat the the Los Angeles Lakers 112-95 in the first game of the Emirates NBA Cup on Friday night at Chase Center. After making only five field goals in the first frame, a crucial second quarter brought the Warriors back into play. This win marks the largest margin of victory 17 after trailing by 25+ since 1997-98 when play by play was off…",
+   "facts": [
+    "The Golden State Warriors complete a 25-point comeback to defeat the the Los Angeles Lakers 112-95 in the first game of the Emirates NBA Cup on Friday night at Chase Center.",
+    "This win marks the largest margin of victory 17 after trailing by 25+ since 1997-98 when play by play was officially recorded.",
+    "The Dubs shot 47.8% from the 3-point line with 22 total with Stephen Curry draining a game-high eight.",
+    "With his 31-point performance Curry passes Dominique Wilkins for 18th most points scored in NBA history.",
+    "CURRY MOVES UP TO IN NBA HISTORY Stephen Curry's 31 points tonight added to his total of 26,643 in his career, moving him past Dominique Wilkins (26,668) for 18th most points scored in NBA history.",
+    "Curry was dialed in from long distance, scoring a season-high eight 3-pointers, marking the 94th time in his career he has had eight or more 3-pointers.",
+    "SLOW START STRONG FINISH IN THE FIRST HALF After Brandin Podziemski scored the first bucket of the game, the Lakers launched a 17-5 scoring run in the opening minutes and continued to extend their lead.",
+    "The Warriors made just five field goals in the opening frame, battling a 20 point deficit."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-get-first-emirates-nba-cup-win-over-suns",
+   "url": "https://www.nba.com/nuggets/news/nuggets-get-first-emirates-nba-cup-win-over-suns",
+   "canonical_url": "https://nuggets.com/news/nuggets-get-first-emirates-nba-cup-win-over-suns",
+   "title": "Nuggets get first Emirates NBA Cup win over Suns",
+   "author": "Matt Brooks",
+   "published_utc": "2026-10-31T04:59:30Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets got their first win of the Emirates NBA Cup and defeated the Phoenix Suns, 127-120. They're now tied with the Dallas Mavericks for the best record in Western Conference Group A at 1-0.",
+   "facts": [
+    "The Denver Nuggets got their first win of the Emirates NBA Cup and defeated the Phoenix Suns, 127-120.",
+    "They're now tied with the Dallas Mavericks for the best record in Western Conference Group A at 1-0.",
+    "Given that Friday's game also counted toward the regular season standings, the Nuggets are now 3-2 to begin the year.",
+    "Denver will now face the Houston Rockets on November 20th, the Dallas Mavericks on November 24th, and the Utah Jazz on November 27th to wrap up the NBA Cup Group Stage.",
+    "Let's start with Braun, who not only knocked down a career-best seven threes, but also notched a new career high in points with 31.",
+    "As for Murray, he scored a team-high 39 points, fueled by 7-of-9 shooting from distance.",
+    "Jamal has scored 39 or more points twice in his first five games.",
+    "Collectively, the Nuggets were incredibly efficient from the field, scoring on 52.5 percent of their shots and 54.1 percent of their three-pointers."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/ime-udoka-described-irving-as-the-best-offensive-player-ive-seen-one-on-one",
+   "url": "https://www.nba.com/mavs/news/ime-udoka-described-irving-as-the-best-offensive-player-ive-seen-one-on-one",
+   "canonical_url": "https://mavs.com/mavs/news/ime-udoka-described-irving-as-the-best-offensive-player-ive-seen-one-on-one",
+   "title": "Ime Udoka described Irving as 'the best offensive player I've seen one-on-one'",
+   "author": "Dwain Price",
+   "published_utc": "2026-10-31T03:57:04Z",
+   "tags": [
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
+   "summary": "During the 2020-21 season, Kyrie Irving and Ime Udoka were both working for the Brooklyn Nets. At the time, Irving was the Nets’ superstar guard and Udoka was one of the team’s assistant coaches.",
+   "facts": [
+    "During the 2020-21 season, Kyrie Irving and Ime Udoka were both working for the Brooklyn Nets.",
+    "Irving poured in 16 of his game-high 35 points in the fourth quarter as the Mavs won their third straight game, edging the Rockets, 116-111, before a boisterous crowd of 18,832.",
+    "In tallying almost have of the 40 points the Mavs scored in the fourth quarter, Irving was money in the bank.",
+    "The Rockets had some success in that season opener, winning 128-110.",
+    "Irving wound up 12-of-19 from the field, 5-of-8 from three-point land, 6-of-6 from the charity stripe and also distributed nine assists.",
+    "In last week’s121-105 win over Indiana, Washington had 20 points, 13 rebounds and three blocks.",
+    "And in Monday’s 113-109 victory over Miami he finished with 20 points, nine rebounds and two steals.",
+    "Lively played just seven games last season and hasn’t played since undergoing right foot surgery in December."
+   ],
+   "quotes": [
+    "That he’s the best offensive player I’ve seen one-on-one,",
+    "Talked about it quite a bit.",
+    "The things he would do in practice and in games on a daily basis, they start not to surprise you,",
+    "Him, Kevin (Durant) and James (Harden) after practice would go through their routine and I’m not surprised they’re where they’re at skill wise and success wise."
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261030-chibos",
+   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261030-chibos",
+   "canonical_url": "https://celtics.com/news/game-recap-keys-20261030-chibos",
+   "title": "Keys to the Game: Celtics 125, Bulls 111",
+   "author": "Taylor Snow",
+   "published_utc": "2026-10-31T03:40:29Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "For the second time this week, the Celtics stampeded the Bulls out of the gate. And for the second time this week, they ran away with a win over Chicago at TD Garden.",
+   "facts": [
+    "Boston poured in a season-high 44 points in the opening quarter Friday night, setting the tone for a 125-111 victory in its first NBA Cup game of the season.",
+    "After falling behind 9-6 in the opening minutes, the Celtics erupted on a 38-16 run to close the frame.",
+    "Four different Celtics scored at least eight points during the quarter, led by Payton Pritchard’s 10 points on perfect 4-for-4 shooting in less than six minutes.",
+    "The lead continued to balloon from there, reaching as many as 32 points before the Celtics carried a 78-49 advantage into halftime.",
+    "Chicago made a couple of pushes after the break, but never trimmed the deficit below 14 as Boston cruised to its second win over the Bulls in five days.",
+    "After pouring in 28 points while shooting 7-of-10 from deep in Boston’s first matchup with Chicago, Pritchard upped his scoring total to a season-high 30 points Friday night, giving him 58 across the two games.",
+    "Pritchard scored 21 of his 30 points on 2-pointers and free throws, knocking down 6-of-8 shots from inside the arc while going a career-best 9-of-9 at the foul line.",
+    "He added three 3-pointers on 10 attempts."
+   ],
+   "quotes": [
+    "I like pushing him, I like coaching him, and I love him like a brother."
+   ]
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -12,22 +168,152 @@
    "key": "https://www.nba.com/pacers/news/rewind-pacers-heat-261030",
    "url": "https://www.nba.com/pacers/news/rewind-pacers-heat-261030",
    "canonical_url": "https://pacers.com/news/rewind-pacers-heat-261030",
-   "title": "Halftime Rewind: Pacers 61, Heat 68 (NBA Cup)",
+   "title": "Game Rewind: Pacers 125, Heat 145 (NBA Cup)",
    "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-10-31T01:26:00Z",
+   "published_utc": "2026-10-31T03:26:04Z",
    "tags": [
     "2026-27 Game Rewind"
    ],
    "summary": "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center",
    "facts": [
-    "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center Halftime Rewind NBA Cup group play commenced on Friday, and Indiana opened its slate against Giannis Antetokounmpo and the Miami Heat.",
-    "The Heat came into the matchup with a 1-4 record, hungry to get back in the win column, but the Pacers settled in early on the road.",
-    "Miami answered, and led the Pacers, 68-61, at the halftime break.",
+    "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center Game Recap NBA Cup group play commenced on Friday, and Indiana opened its slate against Giannis Antetokounmpo and the Miami Heat.",
+    "The Heat came into the matchup with a 1-4 record, hungry to get back in the win column, and defeated the Pacers, 145-125.",
     "Indiana was severely undermanned – the Pacers had just 11 players available after Obi Toppin was a late scratch with back soreness.",
     "Jay Huff scored a team-high 10 points in the first quarter.",
     "He was a perfect 4-for-4 from the field, and knocked in two 3-pointers in the opening 12 minutes.",
     "The Pacers have struggled from deep to open the season, but the 3-pointer was there for the Blue and Gold in the first half.",
-    "Andrew Nembhard was just 1-for-7 from 3-point range against the 76ers, but he opened Friday’s game with four triples in five tries."
+    "Andrew Nembhard was just 1-for-7 from 3-point range against the 76ers, but he opened Friday’s game with four triples in five tries.",
+    "He closed the half with a team-high 17 points and five assists."
+   ],
+   "quotes": [
+    "That's going to be the strength of their team, and that's going to be the challenge we have playing them…You're trying to disrupt it a little bit. We went zone a couple times, and then we doubled a co…",
+    "Our division is tough. I don't know who won the Philly-New York game, but someone lost, right? And so we still have a chance, and it's going to come down to the point differential. So we understand it…",
+    "We went to the finals of this thing the first year, and there was nothing easy about that. And so you know, if you're going to have an opportunity, everything matters. Every possession matters. Every …"
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-klay-thompson-scorches-pacers-nba-cup-antetokounmpo-adebayo",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-klay-thompson-scorches-pacers-nba-cup-antetokounmpo-adebayo",
+   "canonical_url": "https://heat.com/news/coups-takeaways-klay-thompson-scorches-pacers-nba-cup-antetokounmpo-adebayo",
+   "title": "Coup’s Takeaways: Klay Thompson Scorches Pacers For NBA Cup Victory",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-10-31T02:59:11Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. It’s the beginning of NBA Cup season, and that means it’s time to bring point differential into the equation – and it was most definitely part of the equation tonight – as a tiebreaker that always seems to come into play once the group rounds are done with.",
+   "facts": [
+    "Miami is in a tough group, though they weren’t exactly facing the full-strength Indiana Pacers tonight – a team otherwise expected to return to contention but missing all of Tyrese Haliburton, Ivica Zubac, T.J.",
+    "An early lead for Miami went sideways as Indiana dropped in one triple after another, the Pacers scoring 42 in the first quarter for a six-point lead, shooting 6-of-12 from the arc.",
+    "The bench units ran off a 16-0 run, eventually pushing Miami to a 68-61 lead, 36 points in the paint – Antetokounmpo with 17 points on 7-of-8 shooting and Adebayo with 15 on 6-of-8 – and a cool 130.8 Offensive Rating.",
+    "Quick timeout for Indiana less than two minutes in, the HEAT already up 14.",
+    "Miami’s offense may have been rolling at this point – Thompson having his best game of the first weeks with three more threes in the third to put him at 5-of-9 – but their defense was alive and well, working Indiana deep…",
+    "Lead up to 21 on Thompson’s back-to-back threes, and Ryan Conwell got some minutes soon after that, not much movement from there until Thompson hit his sixth and seventh threes to cause another Indiana timeout.",
+    "Little bit of a run from the Pacers after that, Jarace Walker hitting a couple from deep – the Pacers back up to 48 percent from three – and forcing a turnover to bring the gap back to 15 by the end of the period.",
+    "Back to a 25-point lead, back to thinking about margin of victory with Larsson (18 points on 5-of-5 shooting) capping off the competitive portion of the evening with a driving two-handed dunk over Pascal Siakam."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-the-more-physical-team-in-nba-cup-victory-over-toronto-raptors-20261030",
+   "url": "https://www.nba.com/magic/news/orlando-magic-the-more-physical-team-in-nba-cup-victory-over-toronto-raptors-20261030",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-the-more-physical-team-in-nba-cup-victory-over-toronto-raptors-20261030",
+   "title": "Orlando Magic the More Physical Team in NBA Cup Victory Over Toronto Raptors",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-31T02:54:25Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "The Orlando Magic knew after Wednesday’s loss against the Toronto Raptors that they needed to be more physical and take care of the ball better in Friday’s rematch.",
+   "facts": [
+    "Not only did they check those boxes, but they also shot it extremely well from 3-point range – all of which carried them to a 121-114 victory in NBA Cup group play.",
+    "The Magic cut their turnovers down from 20 in Wednesday’s contest to 13 in Friday’s game, and then they knocked down 25 of their 29 free throws (86 percent) and 18 of their 34 3-pointers (53 percent).",
+    "Although Jase Richardson had only four points, the Magic outscored the Raptors by 26 when the 6-foot-1 point guard was on the floor.",
+    "Orlando also withstood a spectacular game from Scottie Barnes, who racked up a career-best 41 points on 19-of-34 floor shooting.",
+    "Toronto’s next best scorer was Immanuel Quickley, who had 17 points.",
+    "After the Raptors took a two-point lead with 8 1/2 minutes remaining in the fourth quarter, the Magic responded with a 21-12 run to end the game.",
+    "That was largely because Toronto only committed 11 turnovers and it pulled down 15 offensive rebounds.",
+    "However, the reason that ultimately didn’t matter was because Orlando attempted and made 14 more free throws and knocked down six more 3-pointers."
+   ],
+   "quotes": [
+    "Terrible performance the last game. They out-physicalled us and we were a way more intense team than the other night,",
+    "Big-time response from us and onto the next one.",
+    "We just doubled down on the things we’ve done all training camp, all through September,",
+    "Things we’ve talked about defensively. Offensively, we didn’t panic. Tristan (da Silva) made big shots. Franz obviously making plays. Everybody all the way up and down the roster. Very pleased and som…"
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-hand-rockets-their-first-loss-behind-monster-efforts-from-flagg-irving",
+   "url": "https://www.nba.com/mavs/news/mavericks-hand-rockets-their-first-loss-behind-monster-efforts-from-flagg-irving",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-hand-rockets-their-first-loss-behind-monster-efforts-from-flagg-irving",
+   "title": "Mavericks deal Rockets their first loss with monster efforts from Flagg, Irving",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-31T02:45:38Z",
+   "tags": [],
+   "summary": "For the second game in a row, the Mavericks welcomed an undefeated team to American Airlines Center. And just like they did on Wednesday against Oklahoma City, the Mavericks planted the first loss of the season on the Houston Rockets Friday night.",
+   "facts": [
+    "With Kyrie Irving busting loose in the second half and Cooper Flagg making timely plays in the clutch, the Mavericks notched a gutsy comeback win, 116-111 over the Rockets, who had opened the season with five consecutive…",
+    "Irving finished with 35 points and Flagg was right behind him with 33 points.",
+    "Gafford had eight in the final frame on his way to 18 points overall to go with seven rebounds.",
+    "To watch Irving and Flagg combine for 68 points, though, was the highlight of this night.",
+    "Remember, this is a team that didn't win its fourth game last season until it already had lost 10.",
+    "He seemed to make every bucket for the Rockets, but he was offset often by Gafford, rebounded an Irving miss and his putback was goaltended by Clint Capela for a 107-102 Mavs’ lead.",
+    "The Rockets got within 107-105 and the Mavericks suffered a turnover, but an offensive foul was called on Houston's Amen Thompson.",
+    "When Durant made two free throws with 7.9 seconds left, the Mavericks' lead was a tenuous 111-110."
+   ],
+   "quotes": [
+    "What a problem when you’re in a pickle when two guys like that have it going,",
+    "You just kind of rotate putting the ball in each other’s hands. And they both trust their teammates.",
+    "Our two guys, they just made play after play,",
+    "But so many other possessions jump out – Gafford’s blocks at the rim, P.J.’s rebounds in traffic late, I think he had three in the last three minutes and we needed all of them."
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/offense-cant-get-rolling-hornets-drop-nba-cup-opener-in-washington",
+   "url": "https://www.nba.com/hornets/news/offense-cant-get-rolling-hornets-drop-nba-cup-opener-in-washington",
+   "canonical_url": "https://hornets.com/news/offense-cant-get-rolling-hornets-drop-nba-cup-opener-in-washington",
+   "title": "Offense Can’t Get Rolling, Hornets Drop NBA Cup Opener In Washington",
+   "author": "Sam Perley",
+   "published_utc": "2026-10-31T02:16:15Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Putting up points has been a work in progress for the Charlotte Hornets so far this season and their 95-79 road loss to the Washington Wizards on Friday night was the latest such example.",
+   "facts": [
+    "Putting up points has been a work in progress for the Charlotte Hornets so far this season and their 95-79 road loss to the Washington Wizards on Friday night was the latest such example.",
+    "Top Performers: Brandon Miller led the visitors with a team-high 19 points on 7-of-24 shooting and seven rebounds, while also draining three 3-pointers to move into eighth place on the franchise’s all-time leaderboard (n…",
+    "Naz Reid (12 points, 11 rebounds) and Moussa Diabate (10 points, 12 rebounds) both notched double-doubles.",
+    "Anthony Davis posted game highs in both points (25 on 8-of-18 shooting) and rebounds (13) in the victory, while Trae Young was on triple-double watch with 21 points on 4-of-9 shooting, seven rebounds, a game-high nine as…",
+    "Rookie top overall pick AJ Dybantsa, who missed Monday’s game in Charlotte with an ankle sprain, tallied 17 points on 5-of-11 shooting and eight rebounds in his first regular season NBA home game.",
+    "Turning Point: Already up five at the break, Washington opened the third quarter on a 13-2 run to stretch its lead to 16 by the 6:53 mark.",
+    "As the Hornets’ offense remained stagnant with a few too many short possessions and errant 3-point attempts, the Wizards continued to inch further ahead and eventually entered the fourth holding a 20-point advantage.",
+    "Charlotte ended up with its lowest point total since March of 2019 and saw its five-game winning streak over Washington come to an end."
    ],
    "quotes": []
   },
@@ -1890,71 +2176,6 @@
     "Maxey leads all players at 7.5 fast-break points per game, while LeBron James is fourth at 6.0."
    ],
    "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-post-20261027-me-derrick-white-taken-aback-by-mvp-chants",
-   "url": "https://www.nba.com/celtics/news/sidebar-post-20261027-me-derrick-white-taken-aback-by-mvp-chants",
-   "canonical_url": "https://celtics.com/news/sidebar-post-20261027-me-derrick-white-taken-aback-by-mvp-chants",
-   "title": "‘Me?’ Derrick White Taken Aback by ‘MVP’ Chants",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-28T05:00:00Z",
-   "tags": [
-    "Postgame",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "BOSTON – Jayson Tatum put together an MVP-caliber performance Tuesday night, pouring in 40 points, dishing out eight assists and ultimately calling game with an overtime buzzer-beater. But late in Boston’s 125-124 overtime win over the Brooklyn Nets, it was Derrick White who unexpectedly received the MVP treatment from the TD Garden crowd.",
-   "facts": [
-    "BOSTON – Jayson Tatum put together an MVP-caliber performance Tuesday night, pouring in 40 points, dishing out eight assists and ultimately calling game with an overtime buzzer-beater.",
-    "But late in Boston’s 125-124 overtime win over the Brooklyn Nets, it was Derrick White who unexpectedly received the MVP treatment from the TD Garden crowd.",
-    "The first round of MVP chants came with 33 seconds remaining in the fourth quarter, after White cut toward the basket, took a feed from Tatum and finished a go-ahead and-one dunk.",
-    "He was fouled again with 13.3 seconds remaining and headed back to the line for two more attempts.",
-    "White furrowed his brow, looked around and questioned, “Me?” He then shook his head in disbelief before calmly knocking down both free throws to give Boston a 116-111 lead.",
-    "He didn’t have his best shooting night, going 5-for-15 from the field, but he found other ways to impact winning.",
-    "That included the type of hustle plays Tatum was referring to, as the 6-foot-4 guard pulled down a game-high three offensive rebounds."
-   ],
-   "quotes": [
-    "I didn’t know if they were talking about JT because he passed it to me, and that makes more sense than me getting it.",
-    "The second time I was really confused,",
-    "You know, I got a lot of love for our fans, and I appreciate it, but I was a little confused.",
-    "It is special, something that you don’t want to take for granted,"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261027-bknbos",
-   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261027-bknbos",
-   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261027-bknbos",
-   "title": "Keys to the Game: Celtics 125, Nets 124 (OT)",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-28T04:34:21Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "It’s never a good idea to give the Celtics an extra chance to win at the end of a game. Especially when Jayson Tatum is on the floor.",
-   "facts": [
-    "The Nets had possession with 6.1 seconds remaining while holding onto a one-point lead.",
-    "Paul George grabbed the rebound and immediately called timeout with 2.3 seconds remaining.",
-    "Tatum backpedaled, turned and ran toward the scorer’s table with his index finger pointed toward the rafters before being mobbed by his teammates as they celebrated a thrilling 125-124 win on the second night of a back-t…",
-    "The superstar wing poured in 40 points while shooting 10-of-20 from the field and a career-best 18-of-22 from the free-throw line.",
-    "It marked the 30th 40-point game of his career, second in franchise history only to Larry Bird’s 47.",
-    "Tatum also grabbed five rebounds and handed out a game-high eight assists, all while playing 42 minutes without committing a single turnover.",
-    "Box Score Nuggets Jayson Tatum led the game in both points (40) and assists (eight).Tatum played 42 minutes without committing a turnover.Paul George logged 20 points, seven rebounds, seven assists and two steals.Both te…"
-   ],
-   "quotes": [
-    "We got the ball to the MVP, and he took us home."
-   ]
   }
  ]
 }
