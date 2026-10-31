@@ -1,8 +1,130 @@
 {
- "updated_utc": "2026-10-31 19:31 UTC",
+ "updated_utc": "2026-10-31 22:47 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261101",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261101",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261101",
+   "title": "Game Preview: Warriors vs. Clippers - 11/1/26",
+   "author": "gswgrizzo",
+   "published_utc": "2026-10-31T22:40:12Z",
+   "tags": [
+    "Game Preview"
+   ],
+   "summary": "WARRIORS HOST CLIPPERS ON SUNDAY EVENING The Golden State Warriors will take on the Los Angeles Clippers in the first of a back-to-back games at Chase Center on Sunday, November 1 (5:30 p.m.; WATCH: NBCSBA). The Warriors enter this matchup with a 3-3 record and fresh off their first NBA Cup win over the Los Angeles Lakers on Friday night. They will face a 1-4 Clippers team looking to break their f…",
+   "facts": [
+    "WARRIORS HOST CLIPPERS ON SUNDAY EVENING The Golden State Warriors will take on the Los Angeles Clippers in the first of a back-to-back games at Chase Center on Sunday, November 1 (5:30 p.m.; WATCH: NBCSBA).",
+    "The Warriors enter this matchup with a 3-3 record and fresh off their first NBA Cup win over the Los Angeles Lakers on Friday night.",
+    "They will face a 1-4 Clippers team looking to break their four-game losing streak.",
+    "BUY TICKETS LAST TIME OUT The Golden State Warriors completed a 25-point comeback to defeat the the Los Angeles Lakers 112-95 in the first game of the Emirates NBA Cup on Friday night at Chase Center.",
+    "This win marks the largest margin of victory 17 after trailing by 25+ since 1997-98 when play by play was officially recorded.",
+    "The Dubs shot 47.8% from the 3-point line with 22 total with Stephen Curry draining a game-high eight.",
+    "With his 31-point performance Curry passes Dominique Wilkins for 18th most points scored in NBA history. »Full Story INJURY & ROSTER NOTES GSW: TBD.",
+    "Darius Garland leads the team's offense with 22.0 PPG and 6.2 APG."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/offensive-struggles-sink-utah-jazz-in-loss-to-trail-blazers-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/offensive-struggles-sink-utah-jazz-in-loss-to-trail-blazers-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/offensive-struggles-sink-utah-jazz-in-loss-to-trail-blazers-key-takeaways",
+   "title": "Offensive Struggles Sink Utah Jazz in Loss to Trail Blazers: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-10-31T22:19:42Z",
+   "tags": [
+    "Darryn Peterson",
+    "Lauri Markkanen",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "For the Utah Jazz, Saturday’s Halloween matinee against the Portland Trail Blazers possessed more tricks than treats.",
+   "facts": [
+    "A frigid night on the offensive end that also included a lack of ball security sunk the home team in a 112-90 loss to the visiting Trail Blazers.",
+    "Utah failed to make shots (37 percent from the field), avoid turnovers (20), or keep Portland off the free-throw line (41 attempts), with the loss ending the team’s five-game homestand.",
+    "Despite the return of Lauri Markkanen to the lineup, the Jazz couldn’t find a rhythm against a physical Portland squad.",
+    "While Utah shot 3-of-14 from the field, Portland connected on just 2-of-9, resulting in 15 combined points after five minutes.",
+    "The Trail Blazers created a slight lead during this stretch as a result of several trips to the free-throw line and timely shot-making from Damian Lillard (11 points in the frame).",
+    "After beginning the game 3-of-17 from the field with five turnovers, the Jazz found themselves down 16 after Portland went on a 17-0 run midway through the quarter.",
+    "A mini flurry from the second unit (10 points) helped chip away at the deficit, but Utah still went into the second quarter down 27-18.",
+    "A quick 11-1 run from the Trail Blazers to begin the second quarter pushed their lead up to 19 as Utah’s shooting slump carried over from the opening frame."
+   ],
+   "quotes": [
+    "I thought we guarded well enough to win the game,",
+    "Offensively, our ability to be solid with the ball is continuing to haunt us… I thought we gave into the physicality.",
+    "I thought their physicality bothered us,",
+    "Our screening has to improve… We didn’t handle their pressure well. Those 48 minutes of offense aren’t up to our standard."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/flagg-irving-tag-team-shines-but-the-best-is-yet-to-come-they-say",
+   "url": "https://www.nba.com/mavs/news/flagg-irving-tag-team-shines-but-the-best-is-yet-to-come-they-say",
+   "canonical_url": "https://mavs.com/mavs/news/flagg-irving-tag-team-shines-but-the-best-is-yet-to-come-they-say",
+   "title": "Flagg-Irving tag team shines, but the best is yet to come, they say",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-10-31T20:37:16Z",
+   "tags": [],
+   "summary": "If you wondered what a perfect tag team looks like, Kyrie Irving and Cooper Flagg showed you on Friday night.",
+   "facts": [
+    "Rarely in Mavericks’ history have two elite players looked so comfortable, so compatible, as the grizzled veteran and plucky teenager did in the 116-111 win over the Houston Rockets.",
+    "The Irving-Flagg consortium pinned 68 points in handing the Rockets their first loss of the season.",
+    "Confident to the of five Flagg points in the final 100 seconds of play when the game was on the line.",
+    "And before you start to come with the obvious concern about Flagg being 19 years old and Irving being 34, they’ve already heard it and disregarded it.",
+    "The Mavericks are 4-2 despite a torturous schedule to start the season.",
+    "May said he wanted to give the 6-6 forward a few extra days to get his conditioning back before Monday’s game against Sacramento.",
+    "Irving, by the way, made all six of his free throws against the Rockets and now has made 55 in a row dating back to before his knee injury."
+   ],
+   "quotes": [
+    "One of them would screen the other one, one of them would cut to get some attention (off) the other one,",
+    "For one guy to do it over and over and over, it’s taxing. For those guys to be able to share that load and have two guys who are closers like they are, that makes you feel very confident going into cl…",
+    "It’s not a perfect formula and we’re still working out a lot of the kinks and figuring out how we can help each other best,",
+    "There’s a lot of moments when we realize we can help each other more. There’s been a lot of learning experiences. But there’s more and more we can do and alleviate some pressure and make it easier for…"
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-nets-261101",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-nets-261101",
+   "canonical_url": "https://pacers.com/news/preview-pacers-nets-261101",
+   "title": "Game Preview: Pacers vs Nets",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-10-31T20:10:13Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse Game Preview The Pacers (2-4) are back in Gainbridge Fieldhouse on Sunday as they host the Brooklyn Nets (0-5) in a matinee matchup.",
+    "The Pacers haven’t fared well either, and bring a 2-4 record into Sunday’s meeting.",
+    "Indiana has been severely undermanned all week – the Pacers had just 12 available players on Wednesday against Philadelphia, and just 11 players on Friday in Miami.",
+    "Quenton Jackson and Andrew Nembhard alleviated some guard issues on Friday as they dropped a pair of 20-point games despite the loss to the Heat.",
+    "Jackson had a team-high 24 points, and Nembhard notched his first 20-point game of the season with 22 points and nine assists.",
+    "Julius Randle and Michael Porter Jr. are the leaders of Brooklyn’s offense as each average north of 20 points per game.",
+    "Porter is attempting over eight 3-pointers per game this season, and is knocking them down at a 40 percent clip.",
+    "The Pacers found their own rhythm from deep on Friday after struggling from 3-point range to open the season."
+   ],
+   "quotes": []
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -252,7 +374,7 @@
    "key": "https://www.nba.com/mavs/news/ime-udoka-described-irving-as-the-best-offensive-player-ive-seen-one-on-one",
    "url": "https://www.nba.com/mavs/news/ime-udoka-described-irving-as-the-best-offensive-player-ive-seen-one-on-one",
    "canonical_url": "https://mavs.com/mavs/news/ime-udoka-described-irving-as-the-best-offensive-player-ive-seen-one-on-one",
-   "title": "Ime Udoka described Irving as 'the best offensive player I've seen one-on-one'",
+   "title": "Ime Udoka: Irving is 'the best offensive player I've seen one-on-one'",
    "author": "Dwain Price",
    "published_utc": "2026-10-31T03:57:04Z",
    "tags": [
@@ -1987,65 +2109,6 @@
     "The surgery was performed by Dr.",
     "Martin O’Malley at Hospital for Special Surgery in New York City with Thunder medical personnel present.",
     "Williams will be re-evaluated prior to the end of the 2026-27 regular season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "roster",
-   "key": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-zaccharie-risacher",
-   "url": "https://www.nba.com/mavs/news/mavericks-exercise-team-option-on-zaccharie-risacher",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-exercise-team-option-on-zaccharie-risacher",
-   "title": "Mavericks Exercise Team Option on Zaccharie Risacher",
-   "author": "Dallas Mavericks",
-   "published_utc": "2026-10-28T21:35:30Z",
-   "tags": [],
-   "summary": "DALLAS (Oct. 28, 2026) – The Dallas Mavericks announced today that they have exercised their fourth-year team option on forward/guard Zaccharie Risacher for the 2027-28 season.",
-   "facts": [
-    "DALLAS (Oct. 28, 2026) – The Dallas Mavericks announced today that they have exercised their fourth-year team option on forward/guard Zaccharie Risacher for the 2027-28 season.",
-    "Risacher (6-9, 203) holds career averages of 11.1 points (.453 FG%, .355 3FG%), 3.8 rebounds, 1.2 assists and 23.7 minutes through 146 games (120 starts) with the Atlanta Hawks and Mavericks.",
-    "The 21-year-old is averaging 8.0 points, 6.0 rebounds, 1.5 assists, 2.0 steals and 2.0 blocks through his first four games with Dallas.",
-    "He recorded five steals against the Houston Rockets on Oct. 21, setting the franchise record for most steals in a Maverick debut.",
-    "Risacher is also tied for the second-most combined steals and blocks in the league this season with 16 (eight steals, eight blocks).",
-    "In his time with Atlanta, Risacher reached 1,000 career points at 20 years, 210 days old, becoming the fourth-youngest player in Hawks history to reach the milestone, and he earned All-Rookie First Team honors after his …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-10-28-26",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-10-28-26",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-lakers-10-28-26",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Lakers",
-   "author": "LAClippers",
-   "published_utc": "2026-10-28T20:25:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Broadcast Information",
-    "Brook Lopez",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Darius Garland",
-    "Game Previews",
-    "Injury Report"
-   ],
-   "summary": "1. From their first season in 1970 -71 through the 2011 -12 season, the Clippers went 49 -143 (.255) against the Lakers, their second -worst record vs. any team (Spurs, .207). Since 2012 -13, the Clippers are 40 -16 (.714) against the Lakers, the best by any team vs. LAL in that time. 2. The Clippers’ bench is averaging 47.7 points per game so far this season, second in the NBA, and sho oting 50.5…",
-   "facts": [
-    "LOS ANGELES LAKERS FIVE THINGS TO KNOW 1.",
-    "From their first season in 1970 -71 through the 2011 -12 season, the Clippers went 49 -143 (.255) against the Lakers, their second -worst record vs. any team (Spurs, .207).",
-    "Since 2012 -13, the Clippers are 40 -16 (.714) against the Lakers, the best by any team vs.",
-    "LAL in that time. 2.",
-    "The Clippers’ bench is averaging 47.7 points per game so far this season, second in the NBA, and sho oting 50.5% from the floor, best in the NBA.",
-    "The bench unit is led by Brook Lopez, averaging 18.0 PPG, the first Clippers reserve with as many PPG through three games since Lou Williams and Montrezl Harrell each did so in 2019 -20. 3.",
-    "Darius Garland is the fourth player in Clippers history with at least 70 points and 20 assists through three games of a season.",
-    "He joins James Harden (2024 -25), Kawhi Leonard (2019 -20) and Chris Paul (2013 -14). 4."
    ],
    "quotes": []
   }
