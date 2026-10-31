@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:57:24+09:00",
+  "updated": "2026-10-31T11:03:14+09:00",
   "items": [
     {
       "id": "134",
@@ -21251,6 +21251,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "AD、ホーネッツ戦で25得点13リバウンド\n\n・FG 8/18・FT 9/10で25得点\n・リバウンド13、+/-は+13\n・ウィザーズが95-79で勝利\n\n💬 デイビスのこの試合の成績、何点が一番効いた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Wizards vs. Hornets・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "740",
+      "slug": "740-cade-cunningham-20-points-pistons",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "ケード・カニンガムがネッツ戦で20得点",
+      "excerpt": "デトロイト・ピストンズのケード・カニンガムは現地時間10月30日、ブルックリン・ネッツ戦に28分出場し、20得点・アシスト4を記録した。両チーム通じてこの日の最多得点者となり、ピストンズは110-94でネッツに勝利した。",
+      "points": [
+        "6/15 FG・7/7 FTで20得点",
+        "アシスト4、ピストンズは試合を通じて優位に",
+        "110-94でネッツに勝利"
+      ],
+      "source": "ESPN ボックススコア(Pistons vs. Nets・2026年10月30日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/740-cade-cunningham-20-points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Cade Cunningham"
+      ],
+      "question": "ピストンズ、このままプレーオフ争いに残れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "CADE CUNNINGHAM",
+        "opponent": "vs. NETS",
+        "points": 20,
+        "stats": [
+          "5 REB",
+          "4 AST",
+          "6/15 FG",
+          "7/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/740-1.jpg",
+        "https://sixten.jp/assets/ig/740-2.jpg",
+        "https://sixten.jp/assets/ig/740-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T11:02:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ケード・カニンガムがネッツ戦で20得点\n\n・6/15 FG・7/7 FTで20得点\n・アシスト4、ピストンズは試合を通じて優位に\n・110-94でネッツに勝利\n\n💬 ピストンズ、このままプレーオフ争いに残れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Pistons vs. Nets・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

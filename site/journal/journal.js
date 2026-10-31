@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "740-cade-cunningham-20-points-pistons.html",
+    cat: "NBA",
+    title: "ケード・カニンガム、ネッツ戦で20得点4アシスト —— ピストンズが110-94で勝利",
+    excerpt: "デトロイト・ピストンズのケード・カニンガムは現地時間10月30日、ブルックリン・ネッツ戦に28分出場し、20得点・アシスト4を記録した。両チーム通じてこの日の最多得点者となり、ピストンズは110-94でネッツに勝利した。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "739-anthony-davis-25-points-hornets.html",
     cat: "NBA",
     title: "アンソニー・デイビス、ホーネッツ戦で25得点13リバウンド —— ウィザーズが95-79で勝利",
