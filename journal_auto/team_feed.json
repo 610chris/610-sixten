@@ -1,8 +1,110 @@
 {
- "updated_utc": "2026-10-30 21:40 UTC",
+ "updated_utc": "2026-10-31 01:45 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-heat-261030",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-heat-261030",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-heat-261030",
+   "title": "Halftime Rewind: Pacers 61, Heat 68 (NBA Cup)",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-10-31T01:26:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center",
+   "facts": [
+    "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center Halftime Rewind NBA Cup group play commenced on Friday, and Indiana opened its slate against Giannis Antetokounmpo and the Miami Heat.",
+    "The Heat came into the matchup with a 1-4 record, hungry to get back in the win column, but the Pacers settled in early on the road.",
+    "Miami answered, and led the Pacers, 68-61, at the halftime break.",
+    "Indiana was severely undermanned – the Pacers had just 11 players available after Obi Toppin was a late scratch with back soreness.",
+    "Jay Huff scored a team-high 10 points in the first quarter.",
+    "He was a perfect 4-for-4 from the field, and knocked in two 3-pointers in the opening 12 minutes.",
+    "The Pacers have struggled from deep to open the season, but the 3-pointer was there for the Blue and Gold in the first half.",
+    "Andrew Nembhard was just 1-for-7 from 3-point range against the 76ers, but he opened Friday’s game with four triples in five tries."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "injury",
+   "key": "https://www.nba.com/thunder/news/medical-update-261030",
+   "url": "https://www.nba.com/thunder/news/medical-update-261030",
+   "canonical_url": "https://okcthunder.com/news/medical-update-261030",
+   "title": "Thunder Medical Update",
+   "author": "okcthunder",
+   "published_utc": "2026-10-31T00:58:30Z",
+   "tags": [],
+   "summary": "OKLAHOMA CITY, Oct. 30, 2026 – The Oklahoma City Thunder provided the following medical updates today:",
+   "facts": [
+    "OKLAHOMA CITY, Oct. 30, 2026 – The Oklahoma City Thunder provided the following medical updates today: Chet Holmgren experienced mild discomfort in his right knee on October 25.",
+    "The treatment was successful and Holmgren is expected to make a full recovery and return to play in 8-to-10 weeks.",
+    "The surgery was performed by Dr.",
+    "Wallace will be re-evaluated prior to the end of the 2026-27 regular season."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/warriors-fan-guide-november-2026",
+   "url": "https://www.nba.com/warriors/news/warriors-fan-guide-november-2026",
+   "canonical_url": "https://warriors.com/news/warriors-fan-guide-november-2026",
+   "title": "Warriors Fan Guide: November 2026",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-10-30T23:32:37Z",
+   "tags": [
+    "2026-27 Schedule"
+   ],
+   "summary": "The Warriors begin November with a five-game home stand from Nov. 1-9 and have three more home games around Thanksgiving, hosting the Boston Celtics on Nov. 22, the Sacramento Kings for an NBA Cup game on Nov. 25, and the Los Angeles Clippers on Nov. 29. After losing their first three games, the Dubs responded with back-to-back wins, as Stephen Curry became the 5th player age 38 or older to score …",
+   "facts": [
+    "The Warriors begin November with a five-game home stand from Nov. 1-9 and have three more home games around Thanksgiving, hosting the Boston Celtics on Nov. 22, the Sacramento Kings for an NBA Cup game on Nov. 25, and th…",
+    "After losing their first three games, the Dubs responded with back-to-back wins, as Stephen Curry became the 5th player age 38 or older to score 44 points in a game and No. 11 pick Yaxel Lendeborg scored the most points …",
+    "SIZZLING NEW ADDITIONS IN SOUTH BEACH The Miami Heat added some high-profile NBA champions this offseason, acquiring two-time MVP Giannis Antetokounmpo from the Milwaukee Bucks and signing former Warriors Splash Brother …",
+    "The Heat also have former Warriors forward and 2022 NBA champion Andrew Wiggins.",
+    "Their longest-tenured player, Bam Adebayo, recorded the second-highest-scoring game in league history, scoring 83 points on March 10, 2026.",
+    "The star-studded Heat will make their lone regular-season appearance at Chase Center on Nov. 5. »Buy Tickets TATUM’S TERRIFIC TENURE IN BOSTON CONTINUES Six-time All-Star and 2025 champion Jayson Tatum is back, starting …",
+    "Tatum has already had some signature moments for the Celtics this season, scoring 36 points in 37 minutes in a win against the defending champion New York Knicks and scoring 40 points with a game-winning shot in an overt…",
+    "Tatum and the Celtics visit the Bay just once during the regular season, on Nov. 22. »Buy Tickets TWO STANDOUT ROOKIES HIGHLIGHT NBA CUP DUEL Kings No. 7 pick Darius Acuff Jr. and Warriors No. 11 pick Yaxel Lendeborg ran…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-hawks-injury-report-game-preview-10-31-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-hawks-injury-report-game-preview-10-31-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-hawks-injury-report-game-preview-10-31-2026",
+   "title": "Pelicans vs. Hawks: Injury Report, Game Preview 10/31/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-10-30T21:42:39Z",
+   "tags": [],
+   "summary": "The Pelicans host the Atlanta Hawks on Halloween Night at the Smoothie King Center at 6:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans host the Atlanta Hawks on Halloween Night at the Smoothie King Center at 6:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Hawks injury report, team news, tune in details, and gameday information: PELICANS VS HAWKS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole OUT (…",
+    "QUESTIONABLE (G League two-way) HAWKS INJURY REPORT TBA PELICANS VS HAWKS: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS HAWKS STARTING LINEUPS ATLANTA HAWKS (3-3) Previous Game Lineup: Octob…",
+    "Cleveland Cavaliers Dyson Daniels, Jalen Johnson, Onyeka Okongwu, Nickeil Alexander-Walker, CJ McCollum NEW ORLEANS PELICANS (1-4) Previous Game Lineup: October 29 win vs.",
+    "Hawks Game Time, TV Channel, Radio & Location 📅 Game Time: Saturday, Oct. 31 at 6:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Coast …"
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -53,7 +155,7 @@
     "Ball security struggles (19 turnovers) continued to persist for the Jazz, who fell behind in the possession game by the end of the night.",
     "Even after a shooting regression against the Grizzlies Thursday night (12-of-49 from three), the Trail Blazers still topped the league in offensive rating as of Friday morning.",
     "Morant suffered a hamstring injury in that Thursday night loss, which will have the former All-Star out for several weeks.",
-    "Keeping Portland off the glass Rebounding has been a key point of emphasis for Utah in the early going this season, especially following the injuries to Lauri Markkanen, Jaren Jackson Jr., and Jusuf Nurkić."
+    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate…"
    ],
    "quotes": []
   },
@@ -1853,131 +1955,6 @@
    "quotes": [
     "We got the ball to the MVP, and he took us home."
    ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-thunder-preview-risacher-has-been-filling-up-the-stat-sheet-so-far-this-season",
-   "url": "https://www.nba.com/mavs/news/mavericks-thunder-preview-risacher-has-been-filling-up-the-stat-sheet-so-far-this-season",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-thunder-preview-risacher-has-been-filling-up-the-stat-sheet-so-far-this-season",
-   "title": "Mavericks-Thunder preview: Risacher filling up the stat sheet so far this season",
-   "author": "Dwain Price",
-   "published_utc": "2026-10-27T22:40:56Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "Zaccharie Risacher"
-   ],
-   "summary": "When it comes to the overall performance turned in by Zaccharie Risacher so far this season, Dallas Mavericks coach Dusty May isn’t overly concerned with how many shots his third-year forward has made or missed.",
-   "facts": [
-    "That was the case during Monday’s massive 113-109 road win over the Miami Heat when Risacher was only 2-of-13 from the field and scored six points, but also collected eight rebounds, a game-high tying three blocks and a …",
-    "In addition, he buried a much-needed three-pointer early in the fourth quarter which chopped a 93-86 Miami lead down to 93-89.",
-    "Atlanta shipped Risacher and a Top 55 protected 2027 second-round pick to the Mavs this summer in a three-team trade that required Dallas sending point guard Ryan Nembhard to Atlanta and a 2027 second-round pick to the O…",
-    "In 142 games for the Hawks, Risacher averaged 11.1 points and 3.7 rebounds while playing less than half-a-game -- 23.6 minutes.",
-    "The Mavs saw the long-range potential in the 21-year Spanish-born French player, which is why president and alternate governor Masai Ujiri reached out and made the move.",
-    "Also, Santi Aldama (right knee surgery), Tarik Biberovic (right heel bursitis), Derick Lively II (right foot surgery) and Sergio De Larrea (right knee sprain) will not play on Wednesday). *Oklahoma City is one of only fo…",
-    "But the Thunder’s unblemished record has taken a back seat to the gruesome injury forward Jalen Williams suffered during Saturday’s 108-101 win over the Los Angeles Clippers.",
-    "Williams left that game on a stretcher after he suffered a fractured left fibula and a dislocated left ankle when he drove hard to the basket and fell after colliding with the Clippers’ Kris Dunn and Derrick Jones Jr. *P…"
-   ],
-   "quotes": [
-    "However many missed shots he had, he had twice as many loose plays and blocks and steals and rebounds,",
-    "And the ones that don’t show up (in the stat sheet) where he just gets a hand on it, where it’s maybe coming to (Heat center/forward) Bam (Adebayo) or (Heat forward) Giannis (Antetokounmpo) -- where h…",
-    "I wanted Zacch to keep shooting (against the Heat) when he’s open, and most importantly his teammates did, too,",
-    "Actually, I heard (guard) Kyrie (Irving) say he’s playing so hard I want him to keep shooting it. He’s playing so hard we appreciate that so much that we’re never going to tell him to stop shooting it…"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "injury",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-emergency-injury-podcast-with-lauren-green",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-emergency-injury-podcast-with-lauren-green",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-emergency-injury-podcast-with-lauren-green",
-   "title": "Roundball Roundup: Emergency Injury Podcast with Lauren Green",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-27T22:40:36Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jaren Jackson Jr. and Lauren Markkanen injury news with Jazz sideline reporter Lauren Green.",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jaren Jackson Jr. and Lauren Markkanen injury news with Jazz sideline reporter Lauren Green."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/osceola-magic-feature-many-new-faces-but-winning-culture-remains-a-core-pillar-20261027",
-   "url": "https://www.nba.com/magic/news/osceola-magic-feature-many-new-faces-but-winning-culture-remains-a-core-pillar-20261027",
-   "canonical_url": "https://orlandomagic.com/news/osceola-magic-feature-many-new-faces-but-winning-culture-remains-a-core-pillar-20261027",
-   "title": "Osceola Magic Feature Many New Faces, But Winning Culture Remains a Core Pillar",
-   "author": "Josh Cohen",
-   "published_utc": "2026-10-27T22:33:08Z",
-   "tags": [
-    "Josh Cohen",
-    "Latest News",
-    "Osceola Magic",
-    "Team News"
-   ],
-   "summary": "ORLANDO - A gritty, versatile, defensive-oriented, high-character team with a few dynamic scorers and playmakers mixed in.",
-   "facts": [
-    "That’s essentially how the 2026-27 Osceola Magic are being described from within, including by lead architect Kevin Tiller II, who’s now in his fifth season as general manager of the Magic’s G League squad.",
-    "Over the last three seasons combined, they’ve won a G League-most 70 regular season games.",
-    "In 2025, they reached the G League Finals and last year made a return to the Eastern Conference Finals.",
-    "Burrell, a New Jersey native who played professionally for various teams in Germany, Poland and France before retiring as a player in 2016, has been coaching in the NBA and G League since 2019.",
-    "Both spent training camp and the preseason with the parent club on Exhibit 10 contracts earlier this month and they each have plenty of NBA experience.",
-    "Branham, the 20th overall pick in the 2022 NBA Draft out of Ohio State, played three seasons with the San Antonio Spurs and last year was with the Washington Wizards.",
-    "He’s appeared in 216 NBA games with averages of 8.0 points, 2.0 rebounds and 1.6 assists.",
-    "A three-level scorer at 6-foot-5, 180 pounds, Branham believes his most significant areas of growth since last season ended are shooting the 3-ball with more consistency and being a more vocal leader."
-   ],
-   "quotes": [
-    "That’s something Orlando preaches, and we follow the same thing. Obviously, you have to score to keep you in games. But for us, we feel like defense will allow us to have an advantage, especially in t…",
-    "We are going to play both sides of the ball,",
-    "We have an emphasis on defending, but we have a lot of offensive talent. We are putting in a style of play that is based on unselfishness on the offensive end and that’s based on grit on the defensive…",
-    "I’m excited about this great group of guys that we have,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-host-san-antonio-spurs-2",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-host-san-antonio-spurs-2",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-host-san-antonio-spurs-2",
-   "title": "Preview: Utah Jazz Host San Antonio Spurs",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-27T22:19:44Z",
-   "tags": [
-    "Ace Bailey",
-    "Keyonte George",
-    "Mo Bamba",
-    "Utah Jazz"
-   ],
-   "summary": "The first week of the 2026-27 NBA season has already tested the Utah Jazz.",
-   "facts": [
-    "The first week of the 2026-27 NBA season has already tested the Utah Jazz.",
-    "Entering the new campaign with Jusuf Nurkić sidelined, Utah has seen Jaxson Hayes, Lauri Markkanen, and Jaren Jackson Jr. join him on the injury report.",
-    "The Jazz wrapped up their back-to-back set on Monday with a 110-105 loss to the Memphis Grizzlies.",
-    "Jackson Jr. will be re-evaluated in six weeks after suffering a torn MCL in his right knee, while Markkanen is day-to-day with a right wrist sprain.",
-    "George (26 points, six assists) had another productive night as the leader of the offense, while Bailey (17 points, 10 rebounds, 3 blocks) and Bamba (14 points, seven rebounds, four blocks) had standout moments on both e…",
-    "Ultimately, Memphis’ advantage from deep (16 made threes to 10 for the Jazz) sunk Utah.",
-    "Jazz Injury Report: OUT - Trey Alexander (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate…",
-    "Defending in the paint In their rematch against Memphis, Utah found more success defending down low, holding the Grizzlies to 34 points in the paint, which included just two during the final quarter."
-   ],
-   "quotes": []
   }
  ]
 }
