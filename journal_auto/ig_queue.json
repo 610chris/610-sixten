@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:03:14+09:00",
+  "updated": "2026-10-31T11:11:04+09:00",
   "items": [
     {
       "id": "134",
@@ -21297,6 +21297,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ケード・カニンガムがネッツ戦で20得点\n\n・6/15 FG・7/7 FTで20得点\n・アシスト4、ピストンズは試合を通じて優位に\n・110-94でネッツに勝利\n\n💬 ピストンズ、このままプレーオフ争いに残れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Pistons vs. Nets・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "741",
+      "slug": "741-tyrese-maxey-27-points-76ers",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "マクシー、ニックス戦で27得点4アシスト",
+      "excerpt": "フィラデルフィア・76ersのタイレス・マクシーは現地時間10月30日、ニューヨーク・ニックス戦に38分出場し、27得点・アシスト4を記録した。両チーム通じてこの日の最多得点者となり、76ersは98-93でニックスに勝利した。",
+      "points": [
+        "FG10/19・3PT3/8で27得点",
+        "アシスト4、ターンオーバーは2のみ",
+        "76ersが98-93でニックスに勝利"
+      ],
+      "source": "ESPN ボックススコア(76ers vs. Knicks・2026年10月30日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/741-tyrese-maxey-27-points-76ers.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Maxey"
+      ],
+      "question": "マクシーとサイモンズ、今季好調なのはどっち？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYRESE MAXEY",
+        "opponent": "vs. KNICKS",
+        "points": 27,
+        "stats": [
+          "4 REB",
+          "4 AST",
+          "10/19 FG",
+          "3/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/741-1.jpg",
+        "https://sixten.jp/assets/ig/741-2.jpg",
+        "https://sixten.jp/assets/ig/741-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T11:10:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マクシー、ニックス戦で27得点4アシスト\n\n・FG10/19・3PT3/8で27得点\n・アシスト4、ターンオーバーは2のみ\n・76ersが98-93でニックスに勝利\n\n💬 マクシーとサイモンズ、今季好調なのはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(76ers vs. Knicks・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

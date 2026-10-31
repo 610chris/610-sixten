@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "741-tyrese-maxey-27-points-76ers.html",
+    cat: "NBA",
+    title: "タイレス・マクシー、ニックス戦で27得点4アシスト —— 76ersが98-93で勝利",
+    excerpt: "フィラデルフィア・76ersのタイレス・マクシーは現地時間10月30日、ニューヨーク・ニックス戦に38分出場し、27得点・アシスト4を記録した。両チーム通じてこの日の最多得点者となり、76ersは98-93でニックスに勝利した。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "740-cade-cunningham-20-points-pistons.html",
     cat: "NBA",
     title: "ケード・カニンガム、ネッツ戦で20得点4アシスト —— ピストンズが110-94で勝利",
