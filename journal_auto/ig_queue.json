@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:11:04+09:00",
+  "updated": "2026-10-31T11:20:19+09:00",
   "items": [
     {
       "id": "134",
@@ -21343,6 +21343,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "マクシー、ニックス戦で27得点4アシスト\n\n・FG10/19・3PT3/8で27得点\n・アシスト4、ターンオーバーは2のみ\n・76ersが98-93でニックスに勝利\n\n💬 マクシーとサイモンズ、今季好調なのはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(76ers vs. Knicks・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "742",
+      "slug": "742-scottie-barnes-41-points-raptors",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "スコッティ・バーンズ、マジック戦で41得点",
+      "excerpt": "トロント・ラプターズのスコッティ・バーンズは現地時間10月30日、オーランド・マジック戦に39分出場し、41得点・リバウンド5・アシスト5を記録した。両チーム通じてこの日の最多得点者となったが、ラプターズは114-121でマジックに敗れた。",
+      "points": [
+        "39分出場でFG19/34・41得点5リバウンド5アシスト",
+        "両チーム通じてこの日の最多得点者に",
+        "ラプターズは114-121でマジックに敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/742-scottie-barnes-41-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Scottie Barnes"
+      ],
+      "question": "41得点でも敗戦、ラプターズの現状をどう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOTTIE BARNES",
+        "opponent": "vs. MAGIC",
+        "points": 41,
+        "stats": [
+          "5 REB",
+          "5 AST",
+          "2 STL",
+          "19/34 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/742-1.jpg",
+        "https://sixten.jp/assets/ig/742-2.jpg",
+        "https://sixten.jp/assets/ig/742-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T11:20:01+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "スコッティ・バーンズ、マジック戦で41得点\n\n・39分出場でFG19/34・41得点5リバウンド5アシスト\n・両チーム通じてこの日の最多得点者に\n・ラプターズは114-121でマジックに敗戦\n\n💬 41得点でも敗戦、ラプターズの現状をどう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "743",
+      "slug": "743-payton-pritchard-30-points-celtics",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "ペイトン・プリチャード、ブルズ戦で30得点",
+      "excerpt": "ボストン・セルティックスのペイトン・プリチャードは現地時間10月30日、シカゴ・ブルズ戦に35分出場し、30得点・リバウンド3・アシスト3を記録した。両チーム通じてこの日の最多得点者となり、セルティックスは125-111でブルズに勝利した。",
+      "points": [
+        "35分出場でFT9/9完璧・30得点3リバウンド3アシスト",
+        "両チーム通じてこの日の最多得点者に",
+        "セルティックスが125-111でブルズに勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/743-payton-pritchard-30-points-celtics.html",
+      "hero_path": "",
+      "subject": [
+        "Payton Pritchard"
+      ],
+      "question": "プリチャードの今季の活躍、どこまで伸びる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PAYTON PRITCHARD",
+        "opponent": "vs. BULLS",
+        "points": 30,
+        "stats": [
+          "3 REB",
+          "3 AST",
+          "2 STL",
+          "9/17 FG",
+          "3/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/743-1.jpg",
+        "https://sixten.jp/assets/ig/743-2.jpg",
+        "https://sixten.jp/assets/ig/743-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T11:20:01+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ペイトン・プリチャード、ブルズ戦で30得点\n\n・35分出場でFT9/9完璧・30得点3リバウンド3アシスト\n・両チーム通じてこの日の最多得点者に\n・セルティックスが125-111でブルズに勝利\n\n💬 プリチャードの今季の活躍、どこまで伸びる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

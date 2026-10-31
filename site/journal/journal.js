@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "743-payton-pritchard-30-points-celtics.html",
+    cat: "NBA",
+    title: "ペイトン・プリチャード、ブルズ戦で30得点 —— セルティックスが125-111で勝利",
+    excerpt: "ボストン・セルティックスのペイトン・プリチャードは現地時間10月30日、シカゴ・ブルズ戦に35分出場し、30得点・リバウンド3・アシスト3を記録した。両チーム通じてこの日の最多得点者となり、セルティックスは125-111でブルズに勝利した。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "742-scottie-barnes-41-points-raptors.html",
+    cat: "NBA",
+    title: "スコッティ・バーンズ、マジック戦で41得点 —— ラプターズは114-121で敗戦",
+    excerpt: "トロント・ラプターズのスコッティ・バーンズは現地時間10月30日、オーランド・マジック戦に39分出場し、41得点・リバウンド5・アシスト5を記録した。両チーム通じてこの日の最多得点者となったが、ラプターズは114-121でマジックに敗れた。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "741-tyrese-maxey-27-points-76ers.html",
     cat: "NBA",
     title: "タイレス・マクシー、ニックス戦で27得点4アシスト —— 76ersが98-93で勝利",
