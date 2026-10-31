@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "739-anthony-davis-25-points-hornets.html",
+    cat: "NBA",
+    title: "アンソニー・デイビス、ホーネッツ戦で25得点13リバウンド —— ウィザーズが95-79で勝利",
+    excerpt: "ワシントン・ウィザーズのアンソニー・デイビスは現地時間10月30日、シャーロット・ホーネッツ戦に34分出場し、25得点・リバウンド13を記録した。両チーム通じてこの日の最多得点者となり、ウィザーズは95-79でホーネッツに勝利した。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "738-durant-oklahoma-standard-interview.html",
+    cat: "NBA",
+    title: "デュラント「サンダーの卒業生であることに本当に感謝している」—— OKC時代と2025年優勝を語る",
+    excerpt: "ケビン・デュラントがESPNのドキュメンタリー企画のインタビューで、2008〜2016年のサンダー時代と、自分たちが果たせなかった優勝を2025年に成し遂げたチームへの思いを語った。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "737-thunder-holmgren-knee-injury.html",
     cat: "NBA",
     title: "サンダー、チェット・ホルムグレンが右膝蓋腱の一部断裂で治療 —— 8〜10週間の離脱へ",

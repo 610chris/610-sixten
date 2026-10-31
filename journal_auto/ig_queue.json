@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T10:13:26+09:00",
+  "updated": "2026-10-31T10:57:24+09:00",
   "items": [
     {
       "id": "134",
@@ -21170,6 +21170,87 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サンダー、ホルムグレンが右膝蓋腱断裂で8〜10週離脱\n\n・右膝蓋腱の一部断裂で治療、復帰まで8〜10週間\n・ウィリアムズ、ウォレスに続く主力の離脱\n・開幕早々に3人が同時に戦列外へ\n\n💬 サンダー、この主力離脱ラッシュでも優勝争いに残れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Thunder say Chet Holmgren out 8-10 weeks after knee procedure」\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "738",
+      "slug": "738-durant-oklahoma-standard-interview",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "デュラント「サンダーの卒業生であることに本当に感謝」",
+      "excerpt": "ケビン・デュラントがESPNのドキュメンタリー企画のインタビューで、2008〜2016年のサンダー時代と、自分たちが果たせなかった優勝を2025年に成し遂げたチームへの思いを語った。",
+      "points": [
+        "ESPNのドキュメンタリー企画でOKC時代を回顧",
+        "2008〜2016年の8シーズン、2012年ファイナル敗退を経験",
+        "自分たちが届かなかった優勝を2025年に成し遂げたチームに誇り"
+      ],
+      "source": "ESPN「Kevin Durant reflects on his eight seasons with the Oklahoma City Thunder」",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/738-durant-oklahoma-standard-interview.html",
+      "hero_path": "",
+      "subject": [
+        "Kevin Durant"
+      ],
+      "question": "デュラントのサンダー時代、一番印象に残ってる瞬間は？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/738-1.jpg",
+        "https://sixten.jp/assets/ig/738-2.jpg",
+        "https://sixten.jp/assets/ig/738-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T10:53:55+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デュラント「サンダーの卒業生であることに本当に感謝」\n\n・ESPNのドキュメンタリー企画でOKC時代を回顧\n・2008〜2016年の8シーズン、2012年ファイナル敗退を経験\n・自分たちが届かなかった優勝を2025年に成し遂げたチームに誇り\n\n💬 デュラントのサンダー時代、一番印象に残ってる瞬間は？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Kevin Durant reflects on his eight seasons with the Oklahoma City Thunder」\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "739",
+      "slug": "739-anthony-davis-25-points-hornets",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "AD、ホーネッツ戦で25得点13リバウンド",
+      "excerpt": "ワシントン・ウィザーズのアンソニー・デイビスは現地時間10月30日、シャーロット・ホーネッツ戦に34分出場し、25得点・リバウンド13を記録した。両チーム通じてこの日の最多得点者となり、ウィザーズは95-79でホーネッツに勝利した。",
+      "points": [
+        "FG 8/18・FT 9/10で25得点",
+        "リバウンド13、+/-は+13",
+        "ウィザーズが95-79で勝利"
+      ],
+      "source": "ESPN ボックススコア(Wizards vs. Hornets・2026年10月30日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/739-anthony-davis-25-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Davis"
+      ],
+      "question": "デイビスのこの試合の成績、何点が一番効いた？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY DAVIS",
+        "opponent": "vs. HORNETS",
+        "points": 25,
+        "stats": [
+          "13 REB",
+          "1 AST",
+          "8/18 FG",
+          "9/10 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/739-1.jpg",
+        "https://sixten.jp/assets/ig/739-2.jpg",
+        "https://sixten.jp/assets/ig/739-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T10:57:21+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "AD、ホーネッツ戦で25得点13リバウンド\n\n・FG 8/18・FT 9/10で25得点\n・リバウンド13、+/-は+13\n・ウィザーズが95-79で勝利\n\n💬 デイビスのこの試合の成績、何点が一番効いた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Wizards vs. Hornets・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
