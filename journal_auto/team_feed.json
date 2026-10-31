@@ -1,8 +1,133 @@
 {
- "updated_utc": "2026-10-31 08:49 UTC",
+ "updated_utc": "2026-10-31 15:28 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-raptors-nba-cup-20261031",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-raptors-nba-cup-20261031",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-raptors-nba-cup-20261031",
+   "title": "Magic Four-Point Play: Follow-Up at Raptors (NBA Cup)",
+   "author": "Josh Cohen",
+   "published_utc": "2026-10-31T12:46:21Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "So far this season, the Magic have taken 21 shots in the final eight minutes of the fourth quarter when the score differential was within five. They’ve made 13 of them, which is 61.9 percent. Among the 19 teams who have attempted at least 10 shots in these time and score circumstances, that’s the second-best mark. In the NBA Cup game on Friday at Toronto, Orlando went 6-for-8 from the field in the…",
+   "facts": [
+    "Magic Showing Poise in Crunch Time So far this season, the Magic have taken 21 shots in the final eight minutes of the fourth quarter when the score differential was within five.",
+    "They’ve made 13 of them, which is 61.9 percent.",
+    "Among the 19 teams who have attempted at least 10 shots in these time and score circumstances, that’s the second-best mark.",
+    "In the NBA Cup game on Friday at Toronto, Orlando went 6-for-8 from the field in the last eight minutes while the score was within five.",
+    "In that time, Franz Wagner made a driving layup and floater; Jamal Cain also hit a floater; Anthony Black and Tristan da Silva each made 3-pointers; and Wendell Carter Jr. connected on a dunk off a drop-off pass from Jas…",
+    "Paint Touches Leading to Great 3-Point Looks The Magic are generating quality perimeter shots because of their ball movement, spacing, and execution.",
+    "Tracking data shows that they have taken the second most 3-pointers per 100 possessions when the ball has touched the paint.",
+    "Even more impressive is that Orlando is shooting a league-best 59 percent from beyond the arc directly off kickouts from the paint."
+   ],
+   "quotes": [
+    "Big-time response. I thought we executed our coverages. Our intensity was way better. Great energy, even through their runs, especially there in the fourth. We showed great poise I thought. Everybody …"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026",
+   "canonical_url": "https://sixers.com/news/sixers-at-hornets-game-preview-injury-report-and-how-to-watch-10-31-2026",
+   "title": "Sixers at Hornets: Game Preview, Injury Report and How to Watch 10/31/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-10-31T12:40:15Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (5-1) and Charlotte Hornets (3-3) will both be playing the second night of a back-to-back when they meet Saturday evening in Charlotte. Tipoff is scheduled for 6 p.m. EDT at Spectrum Center.",
+   "facts": [
+    "The Philadelphia 76ers (5-1) and Charlotte Hornets (3-3) will both be playing the second night of a back-to-back when they meet Saturday evening in Charlotte.",
+    "Tipoff is scheduled for 6 p.m.",
+    "For Philadelphia, it was a 98-93 Emirates NBA Cup victory over the defending champion New York Knicks on Friday at home.",
+    "Tyrese Maxey scored 18 of his game-high 27 points in the first half, while Anfernee Simons scored 18 of his bench-high 21 points in the second half.",
+    "LeBron James recorded his first 20-point game as a 76er to go with nine rebounds and eight assists.",
+    "Charlotte lost 95-79 to the Washington Wizards on Friday in the nation’s capital.",
+    "Kon Knueppel (hamstring) and Coby White (calf) have yet to make their season debuts for the Hornets because of injury, though Knueppel recently completed a rehab assignment with the G League’s Greensboro Swarm.",
+    "The Hornets traded LaMelo Ball to Minnesota and Miles Bridges to Phoenix in the offseason, adding Naz Reid, Grayson Allen and Royce O’Neale in those deals."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/lebron-simons-lift-sixers-to-98-93-nba-cup-win-over-reigning-champion-knicks",
+   "url": "https://www.nba.com/sixers/news/lebron-simons-lift-sixers-to-98-93-nba-cup-win-over-reigning-champion-knicks",
+   "canonical_url": "https://sixers.com/news/lebron-simons-lift-sixers-to-98-93-nba-cup-win-over-reigning-champion-knicks",
+   "title": "LeBron, Simons lift Sixers to 98-93 NBA Cup win over reigning champion Knicks",
+   "author": "phinwilson",
+   "published_utc": "2026-10-31T12:35:22Z",
+   "tags": [],
+   "summary": "After Jalen Brunson put the New York Knicks (2-4) ahead with less than two minutes remaining, the 76ers (5-1) went on a 9-3 run to close out an emphatic 98-93 Emirates NBA Cup win over the in-season tournament’s reigning champions.",
+   "facts": [
+    "After Jalen Brunson put the New York Knicks (2-4) ahead with less than two minutes remaining, the 76ers (5-1) went on a 9-3 run to close out an emphatic 98-93 Emirates NBA Cup win over the in-season tournament’s reigning…",
+    "Despite leading for most of the night, the Sixers found themselves down by one with 1:32 remaining in the fourth quarter.",
+    "Brunson, a Villanova alum who grew up in South Jersey, silenced the South Philly crowd for just 22 seconds.",
+    "A 12-foot fadeaway jump shot by LeBron James gave the Sixers the lead, and they never looked back.",
+    "The rally continued with a VJ Edgecombe 3-pointer and a James tip-in to all but seal the victory.",
+    "The team shot 49% from the field, 35% from 3-point range and 75% from the free throw line.",
+    "The team improved to 5-1 in league play, 3-1 at home, 2-0 against the Knicks and 1-0 in NBA Cup Group Play.",
+    "Quest for the Cup The Sixers' quest for the Emirates NBA Cup began Friday night in South Philly, as they beat last year's NBA Cup champions to open Group Play with a 1-0 record."
+   ],
+   "quotes": [
+    "If you get into a possession game with them late, they've made an art of pulling those out,",
+    "It was very important that we answered immediately; it was a pretty good shot and a pretty quick answer to take the lead back. That’s always huge momentum-wise.",
+    "We’ve been in some close games this year, and we’ve actually prevailed; teams have made runs, teams have gotten up on us, we’ve gotten up on teams, and they’ve come back, and we’ve kept our cool; it’s…",
+    "We’re going to try to continue that trait going forward for the rest of the season."
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/bulls-struggle-to-keep-up-with-celtics-in-nba-cup-opener-fall-125-111",
+   "url": "https://www.nba.com/bulls/news/bulls-struggle-to-keep-up-with-celtics-in-nba-cup-opener-fall-125-111",
+   "canonical_url": "https://bulls.com/news/bulls-struggle-to-keep-up-with-celtics-in-nba-cup-opener-fall-125-111",
+   "title": "Bulls struggle to keep up with Celtics in NBA Cup opener, fall 125-111",
+   "author": "Sam Smith",
+   "published_utc": "2026-10-31T10:28:16Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith",
+    "Sam Smith recap"
+   ],
+   "summary": "It just didn’t seem like the Boston Celtics—even their star, Jayson Tatum—had any way of keeping up with Bulls rookie sensation Caleb Wilson Friday night in the opening night of the NBA Cup tournament.",
+   "facts": [
+    "Now if the Bulls hadn’t trailed in the first half by 32 points, 29 at halftime after giving up 78 first half points in a 125-111 Bulls loss to the Celtics.",
+    "And it hasn’t worked out well for these developing Bulls, now 1-5 heading for road games in Philadelphia and New York next week.",
+    "And again superior talent and Celtics experience after losing to the same team in Boston by 35 points earlier this week.",
+    "There are six such five-team clusters with six winners and the best two records among second place finishers being scheduled in an eight-team tournament—again counting as regular season games—until a final game that is a…",
+    "There is prize money for the quarter finalists and about $600,000 per player for the winning team players.",
+    "With point differential the tiebreaker, the Bulls perhaps managed some dignity Friday finishing the game trailing by 14 points.",
+    "Though this once again seemed a longtime foregone conclusion as Boston bolted ahead by 22 points and 19 at the end of the first quarter (the Bulls did lead 9-6).",
+    "And then piled on to a 78-46 lead late in the second quarter after a hide-your-eyes game defining sequence with the Bulls trailing by 20 points after a Matas Buzelis one hand tip dunk off a Norman Powell miss midway thro…"
+   ],
+   "quotes": [
+    "I’ve never been a loser, so I’m going to try my best to make sure that doesn’t happen, and I’m not ever going to accept being a loser,",
+    "My job (is) to be a leader on this team and it’s all going to start with me. I feel like it’s unacceptable to be looking like we are….unacceptable to be losing like we are and laying down that early i…",
+    "Boston is one of the best teams in the league off the ball,",
+    "It's impressive how they play all those flare situations. It's really difficult to be aware of the flares that are coming."
+   ]
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -385,7 +510,7 @@
     "The Pelicans host the Atlanta Hawks on Halloween Night at the Smoothie King Center at 6:00 pm CT.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
     "Get the latest Pelicans-Hawks injury report, team news, tune in details, and gameday information: PELICANS VS HAWKS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole OUT (…",
-    "QUESTIONABLE (G League two-way) HAWKS INJURY REPORT TBA PELICANS VS HAWKS: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS HAWKS STARTING LINEUPS ATLANTA HAWKS (3-3) Previous Game Lineup: Octob…",
+    "QUESTIONABLE (G League two-way) HAWKS INJURY REPORT Mouhamed Gueye OUT (left foot fracture) Henri Veesaar OUT (right ACL tear) RayJ Dennis DOUBTFUL (G League two-way) Zuby Ejiofor DOUBTFUL (G League on assignment) Keshon…",
     "Cleveland Cavaliers Dyson Daniels, Jalen Johnson, Onyeka Okongwu, Nickeil Alexander-Walker, CJ McCollum NEW ORLEANS PELICANS (1-4) Previous Game Lineup: October 29 win vs.",
     "Hawks Game Time, TV Channel, Radio & Location 📅 Game Time: Saturday, Oct. 31 at 6:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Coast …"
    ],
@@ -722,6 +847,30 @@
     "We’re always looking for new ways to expand access to Timberwolves games and create more opportunities for fans to experience NBA basketball in person,",
     "Pack Deals is about making that experience more accessible and ensuring more fans have the opportunity to come together, support our team and be part of the excitement at Target Center."
    ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-clemil-261031",
+   "url": "https://www.nba.com/cavaliers/news/preview-clemil-261031",
+   "canonical_url": "https://cavs.com/news/preview-clemil-261031",
+   "title": "Cavs at Bucks | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-10-30T14:30:26Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "The Cavs wrap-up a brief two-game road trip tonight with some Halloween hoops against the Milwaukee Bucks. This is the first of four meetings between the two teams this season (Jan. 15 at MIL; Feb. 16 & 16 in CLE).",
+   "facts": [
+    "This is the first of four meetings between the two teams this season (Jan. 15 at MIL; Feb. 16 & 16 in CLE).",
+    "GAME INFORMATION LAST TIME OUT Cleveland ran out to a 15-point lead in the first quarter but fell off the pace in the middle of the game, trailing by 11 at one point in the second half.",
+    "The end of the fourth was close, but Donovan Mitchell's game-tying three drew iron as the Cavs dropped to 0-2 on the road this season.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Meleek Thomas - Foot - QUESTIONABLE -Khalifa Diop - Foot - OUT -Jaylon Tyson - Ankle - OUT -Nae'Qwan Tomlin - Back - OUT Bucks: -TBD KEEP UP WITH THE ACTION Fo…"
+   ],
+   "quotes": []
   },
   {
    "source": "PHI 公式（nba.com）",
@@ -2063,119 +2212,6 @@
     "They executed when they needed to execute. For us, especially myself, I had three crucial turnovers. When we watched the film, we could’ve played smarter basketball.",
     "When we were moving the ball, we saw a lot of success,"
    ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/dallas-mavericks-announce-leadership-transition",
-   "url": "https://www.nba.com/mavs/news/dallas-mavericks-announce-leadership-transition",
-   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-announce-leadership-transition",
-   "title": "Dallas Mavericks Announce Leadership Transition",
-   "author": "Gabe Flores",
-   "published_utc": "2026-10-28T15:00:58Z",
-   "tags": [],
-   "summary": "DALLAS – (Oct. 28, 2026) – The Dallas Mavericks announced today that Chief Executive Officer Rick Welts will retire from his role at the end of 2026 with President Ethan Casson succeeding him as Chief Executive Officer and Alternate Governor. Casson joined the organization in 2025, and his appointment ensures continuity as the Mavericks enter their next phase of growth.",
-   "facts": [
-    "DALLAS – (Oct. 28, 2026) – The Dallas Mavericks announced today that Chief Executive Officer Rick Welts will retire from his role at the end of 2026 with President Ethan Casson succeeding him as Chief Executive Officer a…",
-    "Casson joined the organization in 2025, and his appointment ensures continuity as the Mavericks enter their next phase of growth.",
-    "Welts, 73, a member of the Naismith Memorial Basketball Hall of Fame and one of the most respected executives in professional sports, joined the Mavericks in 2025.",
-    "Under his leadership, the Timberwolves were named a finalist for Sports Business Journal’s 2024 Sports Team of the Year, while the organization received the NBA’s prestigious 2023-24 Inclusion Leadership Award in recogni…",
-    "Prior to his time in Minnesota, Casson served as Chief Operating Officer of the San Francisco 49ers, where he played a key role in the development of Levi’s Stadium.",
-    "During his tenure, he secured a groundbreaking 20-year, $220 million naming rights partnership with Levi Strauss & Co., one of the largest naming rights agreements in NFL history.",
-    "The project earned numerous industry accolades, including the Sports Business Journal’s 2015 Sports Facility of the Year award.",
-    "We’ve spent the last 15 months working closely together to build a foundation for the future, and I am excited to carry that work forward alongside our talented team."
-   ],
-   "quotes": [
-    "Rick joined the Mavericks at an important moment for our organization, and his leadership, judgment and experience have been invaluable,",
-    "He has helped strengthen our leadership team, advance our long-term vision and position the organization for continued success. Just as importantly, Rick and Ethan have built a strong partnership that…",
-    "When Ethan joined the Mavericks, we knew we were adding an accomplished leader who could help us build for the long term,",
-    "Watching Rick and Ethan work together has only reinforced our confidence that Ethan is the right person to lead the Mavericks into this next chapter."
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-play-pelicans-road",
-   "url": "https://www.nba.com/nuggets/news/nuggets-play-pelicans-road",
-   "canonical_url": "https://nuggets.com/news/nuggets-play-pelicans-road",
-   "title": "Nuggets play Pelicans on the road",
-   "author": "Matt Brooks",
-   "published_utc": "2026-10-28T14:17:45Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets hit the road for a game against the New Orleans Pelicans.",
-   "facts": [
-    "INJURY REPORT Denver: Alpha Diallo — OUT (Personal Reasons) Cameron Johnson — DOUBTFUL (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) New Orlean…",
-    "They hosted the Pelicans in their home opener and won, 141-135, in an overtime thriller.",
-    "Jamal Murray had a 40-point night, but the story of the game was rookie Trevon Brazile, who put up 17 points and 9 rebounds in just his second NBA game.",
-    "Behind Brazile, Murray, and Nikola Jokić's first triple-double of the season, Denver rallied back from a 22-point second-half deficit, tied for the largest second-half home comeback in franchise history.",
-    "The Nuggets then lost to the Golden State Warriors, putting them at 1-2 to begin the season.",
-    "TUNE-IN: Wednesday, October 28, 6:00 p.m.",
-    "MT; Altitude TV 2 on KTVD; Altitude+; Altitude Sports Radio 950 AM"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "roster",
-   "key": "https://www.nba.com/timberwolves/news/timberwolves-sign-enrique-freeman-to-two-way-contract",
-   "url": "https://www.nba.com/timberwolves/news/timberwolves-sign-enrique-freeman-to-two-way-contract",
-   "canonical_url": "https://timberwolves.com/news/timberwolves-sign-enrique-freeman-to-two-way-contract",
-   "title": "Timberwolves Sign Enrique Freeman to Two-Way Contract",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-10-28T13:53:48Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "Minneapolis/St. Paul –The Minnesota Timberwolves today announced the team has signed forward Enrique Freeman to a two-way contract. Per team policy, terms of the agreement were not released.",
-   "facts": [
-    "Paul –The Minnesota Timberwolves today announced the team has signed forward Enrique Freeman to a two-way contract.",
-    "Freeman, 6-7, appeared in four games for the Timberwolves during the 2025-26 season, totaling 13 points, 10 rebounds, two assists, two steals and three blocks.",
-    "Originally a second-round pick (No. 50 overall) by the Indiana Pacers in 2024 NBA Draft, Freeman saw action in 22 games (one start) for the Pacers during the 2024-25 campaign, averaging 2.1 points on 43.2% shooting and 1…",
-    "Freeman also spent time with the Iowa Wolves (2025-26), the NBA G League affiliate of the Timberwolves and the Indiana Mad Ants, the NBA G League affiliate of the Pacers (2024-25).",
-    "In 55 career games (all starts), Freeman averaged 16.6 points on 54.4% shooting, 9.1 rebounds, 2.6 assists and one block in an average of 33.3 minutes per game.",
-    "The Cleveland native appeared in 132 games (122 starts) in five seasons at the University of Akron, owning career collegiate averaging 14.0 points on 62.7% shooting, including 35.0% from three, 10.6 rebounds, 1.3 assists…",
-    "Following his senior season, Freeman was named 2024 MAC Player of the year.",
-    "The forward finished his collegiate career ranked first in rebounds (1,405), second in blocks (188) and third in points (1,843) in school history."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-at-pacers-game-preview-injury-report-and-how-to-watch-10-28-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-at-pacers-game-preview-injury-report-and-how-to-watch-10-28-2026",
-   "canonical_url": "https://sixers.com/news/sixers-at-pacers-game-preview-injury-report-and-how-to-watch-10-28-2026",
-   "title": "Sixers at Pacers: Game Preview, Injury Report and How to Watch 10/28/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-10-28T12:38:04Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (3-1) travel to face the Indiana Pacers (2-2) on Wednesday. Tipoff is scheduled for 7 p.m. EDT at Gainbridge Fieldhouse.",
-   "facts": [
-    "The Philadelphia 76ers (3-1) travel to face the Indiana Pacers (2-2) on Wednesday.",
-    "Tipoff is scheduled for 7 p.m.",
-    "The Sixers fell, 106-93, to first-place Detroit on Sunday despite Tyrese Maxey scoring 18 of his game-high 29 points in the fourth quarter.",
-    "The Pacers suffered a 110-102 setback to Milwaukee on Monday, with Tyrese Haliburton tallying 22 points, six rebounds and nine assists.",
-    "Pascal Siakam notched a double-double in the loss with 20 points and 13 rebounds.",
-    "Here are the RAV4 Things to Know ahead of Wednesday’s game: Hot Start Reigning Eastern Conference Player of the Week Tyrese Maxey leads the conference and ranks fourth in the NBA in scoring at 28.8 points per game.",
-    "On the Run Indiana (19.5) and Philadelphia (19.3) rank fifth and tied for sixth in the league, respectively, in fast-break points per game.",
-    "Maxey leads all players at 7.5 fast-break points per game, while LeBron James is fourth at 6.0."
-   ],
-   "quotes": []
   }
  ]
 }
