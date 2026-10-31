@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:43:58+09:00",
+  "updated": "2026-10-31T11:50:52+09:00",
   "items": [
     {
       "id": "134",
@@ -21690,6 +21690,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ヤニス、ペイサーズ戦で31得点17リバウンド10アシスト\n\n・FG13/18・72.2%で31得点\n・リバウンド17・アシスト10、トリプルダブルに迫る\n・ヒートが145-125で快勝\n\n💬 ヤニス、今季トリプルダブル何回いく？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Heat vs. Pacers・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "750",
+      "slug": "750-kyrie-irving-35-points-mavericks",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "カイリー・アービング、ロケッツ戦で35得点9アシスト",
+      "excerpt": "ダラス・マーベリックスのカイリー・アービングは現地時間10月30日、ヒューストン・ロケッツ戦に35分出場し、35得点・アシスト9を記録した。両チーム通じてこの日の試合最多得点者となり、マーベリックスは116-111でロケッツに勝利した。",
+      "points": [
+        "FG12/19・3P5/8・FT6/6で35得点",
+        "アシスト9でマーベリックス116-111の勝利に貢献",
+        "ACL復帰後約3週間でのシーズンベスト級の一戦"
+      ],
+      "source": "ESPN ボックススコア(Mavericks vs. Rockets・2026年10月30日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/750-kyrie-irving-35-points-mavericks.html",
+      "hero_path": "",
+      "subject": [
+        "Kyrie Irving"
+      ],
+      "question": "アービング、今季はMVP級の仕上がりになる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KYRIE IRVING",
+        "opponent": "vs. ROCKETS",
+        "points": 35,
+        "stats": [
+          "9 AST",
+          "4 REB",
+          "12/19 FG",
+          "5/8 3PT",
+          "6/6 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/750-1.jpg",
+        "https://sixten.jp/assets/ig/750-2.jpg",
+        "https://sixten.jp/assets/ig/750-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T11:50:14+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カイリー・アービング、ロケッツ戦で35得点9アシスト\n\n・FG12/19・3P5/8・FT6/6で35得点\n・アシスト9でマーベリックス116-111の勝利に貢献\n・ACL復帰後約3週間でのシーズンベスト級の一戦\n\n💬 アービング、今季はMVP級の仕上がりになる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Mavericks vs. Rockets・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
