@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "737-thunder-holmgren-knee-injury.html",
+    cat: "NBA",
+    title: "サンダー、チェット・ホルムグレンが右膝蓋腱の一部断裂で治療 —— 8〜10週間の離脱へ",
+    excerpt: "オクラホマシティ・サンダーのチェット・ホルムグレンが右膝蓋腱の一部断裂で治療を受け、復帰まで8〜10週間を要するとチームが発表した。ESPNが伝えた。ウィリアムズ、ウォレスに続く主力の離脱で、サンダーは開幕早々に大きな戦力ダウンを強いられている。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "736-jaylen-brown-patellar-tendinopathy-76ers.html",
     cat: "NBA",
     title: "76ersのジェイレン・ブラウン、左膝蓋腱炎と診断 —— ニックス戦のNBAカップ出場を欠場",
