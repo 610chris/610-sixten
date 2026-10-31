@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "754-thunder-agbaji-signing-called-off.html",
+    cat: "NBA",
+    title: "サンダー、オチャイ・アバジとの契約を撤回 —— ホルムグレン離脱でロスター枠を再検討",
+    excerpt: "ESPNのシャムズ・シャラニア記者によると、オクラホマシティ・サンダーはフリーエージェントのオチャイ・アバジとの契約を撤回した。チェット・ホルムグレンが2カ月超の離脱となったことを受け、空いたロスター枠の使い方を一度見直す方針という。",
+    date: "2026.11.01",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "753-lebron-76ers-best-game-knicks.html",
     cat: "NBA",
     title: "レブロン「24年も続くなんて、分からなかった」—— 76ersで自己初の20得点ゲーム、ナース監督「間違いなくベストゲーム」",
