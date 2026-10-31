@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T11:41:35+09:00",
+  "updated": "2026-10-31T11:43:58+09:00",
   "items": [
     {
       "id": "134",
@@ -21645,6 +21645,51 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Nike Ja 4「Unseen」が11月13日発売\n\n・品番IM4135-700、ジャ・モラントの4代目シグネチャー新色\n・黒とヴォルトの配色、立体的なダイヤモンド柄\n・GT Cut・GT Futureと同じカラーテーマで同時展開\n\n💬 このバッシュ、買う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker Bar Detroit\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "749",
+      "slug": "749-giannis-31-points-17-rebounds-10-assists-heat",
+      "category": "NBA",
+      "date": "2026-10-31",
+      "headline": "ヤニス、ペイサーズ戦で31得点17リバウンド10アシスト",
+      "excerpt": "マイアミ・ヒートのヤニス・アデトクンボは現地時間10月30日、インディアナ・ペイサーズ戦に31分出場し、31得点・リバウンド17・アシスト10のトリプルダブルに迫る成績を記録した。ヒートは145-125でペイサーズに快勝した。",
+      "points": [
+        "FG13/18・72.2%で31得点",
+        "リバウンド17・アシスト10、トリプルダブルに迫る",
+        "ヒートが145-125で快勝"
+      ],
+      "source": "ESPN ボックススコア(Heat vs. Pacers・2026年10月30日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/749-giannis-31-points-17-rebounds-10-assists-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Giannis Antetokounmpo"
+      ],
+      "question": "ヤニス、今季トリプルダブル何回いく？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "GIANNIS ANTETOKOUNMPO",
+        "opponent": "vs. PACERS",
+        "points": 31,
+        "stats": [
+          "17 REB",
+          "10 AST",
+          "13/18 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/749-1.jpg",
+        "https://sixten.jp/assets/ig/749-2.jpg",
+        "https://sixten.jp/assets/ig/749-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-10-31T11:43:58+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤニス、ペイサーズ戦で31得点17リバウンド10アシスト\n\n・FG13/18・72.2%で31得点\n・リバウンド17・アシスト10、トリプルダブルに迫る\n・ヒートが145-125で快勝\n\n💬 ヤニス、今季トリプルダブル何回いく？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Heat vs. Pacers・2026年10月30日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

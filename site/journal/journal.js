@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "749-giannis-31-points-17-rebounds-10-assists-heat.html",
+    cat: "NBA",
+    title: "ヤニス・アデトクンボ、ペイサーズ戦で31得点17リバウンド10アシスト —— ヒートが145-125で快勝",
+    excerpt: "マイアミ・ヒートのヤニス・アデトクンボは現地時間10月30日、インディアナ・ペイサーズ戦に31分出場し、31得点・リバウンド17・アシスト10のトリプルダブルに迫る成績を記録した。ヒートは145-125でペイサーズに快勝した。",
+    date: "2026.10.31",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "748-nike-ja-4-unseen.html",
     cat: "KICKS",
     title: "Nike Ja 4「Unseen」が11月13日発売へ —— 品番IM4135-700、ジャ・モラントの新色",
