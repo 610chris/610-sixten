@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T04:22:15+09:00",
+  "updated": "2026-11-01T06:57:24+09:00",
   "items": [
     {
       "id": "134",
@@ -21901,6 +21901,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サンダー、アバジとの契約を撤回\n\n・ホルムグレンが2カ月超の離脱\n・空いたロスター枠を再検討\n・アバジとの契約は進めない方針\n\n💬 この枠、誰で埋めるのが正解だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Shams Charania（ESPN）\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "755",
+      "slug": "755-deni-avdija-24-points-trail-blazers",
+      "category": "NBA",
+      "date": "2026-11-01",
+      "headline": "デニ・アヴディア、ジャズ戦で24得点",
+      "excerpt": "ポートランド・トレイルブレイザーズのデニ・アヴディアは現地時間10月31日、ユタ・ジャズ戦に30分出場し、24得点・リバウンド5・アシスト2を記録した。両チーム通じてこの日の最多得点者となり、トレイルブレイザーズは112-90でジャズに快勝した。",
+      "points": [
+        "FG6/12・3PT2/4・FT10/13で効率よく24得点",
+        "プラスマイナス+32でチーム最高",
+        "トレイルブレイザーズが112-90で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/755-deni-avdija-24-points-trail-blazers.html",
+      "hero_path": "",
+      "subject": [
+        "Deni Avdija"
+      ],
+      "question": "アヴディア、このままオールスター級の数字残せる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DENI AVDIJA",
+        "opponent": "vs. JAZZ",
+        "points": 24,
+        "stats": [
+          "5 REB",
+          "2 AST",
+          "6/12 FG",
+          "2/4 3PT",
+          "10/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/755-1.jpg",
+        "https://sixten.jp/assets/ig/755-2.jpg",
+        "https://sixten.jp/assets/ig/755-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-01T06:56:32+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デニ・アヴディア、ジャズ戦で24得点\n\n・FG6/12・3PT2/4・FT10/13で効率よく24得点\n・プラスマイナス+32でチーム最高\n・トレイルブレイザーズが112-90で快勝\n\n💬 アヴディア、このままオールスター級の数字残せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

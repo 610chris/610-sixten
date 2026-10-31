@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "755-deni-avdija-24-points-trail-blazers.html",
+    cat: "NBA",
+    title: "デニ・アヴディア、ジャズ戦で24得点 —— トレイルブレイザーズが112-90で快勝",
+    excerpt: "ポートランド・トレイルブレイザーズのデニ・アヴディアは現地時間10月31日、ユタ・ジャズ戦に30分出場し、24得点・リバウンド5・アシスト2を記録した。両チーム通じてこの日の最多得点者となり、トレイルブレイザーズは112-90でジャズに快勝した。",
+    date: "2026.11.01",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "754-thunder-agbaji-signing-called-off.html",
     cat: "NBA",
     title: "サンダー、オチャイ・アバジとの契約を撤回 —— ホルムグレン離脱でロスター枠を再検討",
