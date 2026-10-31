@@ -1,0 +1,11 @@
+{
+ "decided_by": "ig-2026-10-content-mix-observe",
+ "decided_at": "2026-10-31 11:38",
+ "daily_cap": {
+  "KICKS": null,
+  "JAPAN": null
+ },
+ "no_person_cap": null,
+ "reason": "NBA 220本 中央値596 / KICKS 10本 中央値540（NBAの0.91倍） / JAPAN 1本で少なすぎ→上限なし / 人物の効果は判定できず/差なし",
+ "note": "report.py が観察実験の判定で自動で書いた。消す・null にすると上限なしに戻る"
+}

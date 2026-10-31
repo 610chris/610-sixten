@@ -231,6 +231,33 @@
   "template": "score",
   "timestamp": "2026-10-29T02:22:26+0000"
  },
+ "17885193285522582": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "728",
+  "auto": true,
+  "caption_len": 415,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、主力2人の大怪我で浮上した「5億ドル問題」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfHpfrPCT6W/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Thunder's $500 million problem」(Brian Windhorst / Tim MacMahon)",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-30T13:05:41+0000"
+ },
  "17885254991554007": {
   "auto": false,
   "caption_len": 98,
@@ -311,6 +338,33 @@
   "product": "REELS",
   "timestamp": "2022-10-27T06:31:56+0000"
  },
+ "17891286987618942": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "741",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マクシー、ニックス戦で27得点4アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfJD633Dhde/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(76ers vs. Knicks・2026年10月30日)",
+  "subject": [
+   "Tyrese Maxey"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-31T02:15:46+0000"
+ },
  "17891428659619301": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -337,6 +391,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-29T14:00:37+0000"
+ },
+ "17892508122453017": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "742",
+  "auto": true,
+  "caption_len": 319,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スコッティ・バーンズ、マジック戦で41得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfJFIWIgu-1/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Scottie Barnes"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-31T02:26:22+0000"
  },
  "17892625983454058": {
   "arms": {
@@ -2075,6 +2156,33 @@
   "template": "news",
   "timestamp": "2026-09-29T19:56:16+0000"
  },
+ "17951622483300353": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "743",
+  "auto": true,
+  "caption_len": 318,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ペイトン・プリチャード、ブルズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfJFVg5FZNU/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Payton Pritchard"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-31T02:27:52+0000"
+ },
  "17951829814874041": {
   "auto": false,
   "caption_len": 0,
@@ -3560,6 +3668,33 @@
   "template": "news",
   "timestamp": "2026-10-19T22:15:08+0000"
  },
+ "18036651836913172": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "725",
+  "auto": true,
+  "caption_len": 354,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デニ・アヴディア、グリズリーズ戦で24得点9リバウンド7アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfGx0ckk9Qq/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Deni Avdija"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-30T04:59:10+0000"
+ },
  "18039122726845085": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4529,6 +4664,33 @@
   "template": "news",
   "timestamp": "2026-10-17T01:48:35+0000"
  },
+ "18089794103276481": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "726",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャ・モラント、古巣グリズリーズ戦で左ハムストリング負傷退場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfG5MColi-X/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Ja Morant"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-30T06:03:24+0000"
+ },
  "18089995268441934": {
   "article": "317",
   "auto": true,
@@ -4678,6 +4840,33 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-03T00:48:31+0000"
+ },
+ "18093568229690327": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "723",
+  "auto": true,
+  "caption_len": 312,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "オニエカ・オコング、キャバリアーズ戦で29得点12リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfGkamOjKix/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Onyeka Okongwu"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-30T03:02:04+0000"
  },
  "18094481249247231": {
   "arms": {
@@ -4935,6 +5124,33 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:30:25+0000"
  },
+ "18098573609119817": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "739",
+  "auto": true,
+  "caption_len": 337,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "AD、ホーネッツ戦で25得点13リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfJCeUMEjgE/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Wizards vs. Hornets・2026年10月30日)",
+  "subject": [
+   "Anthony Davis"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-31T02:03:09+0000"
+ },
  "18099434201310563": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -5127,6 +5343,31 @@
   "template": "score",
   "timestamp": "2026-10-13T02:05:01+0000"
  },
+ "18101974442640457": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "724",
+  "auto": true,
+  "caption_len": 365,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アトム、福井ブローウィンズ冠試合「ATOM CUP」開催",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfGq4OnADDV/",
+  "product": "REELS",
+  "route": "source",
+  "source": "株式会社アトムプレスリリース（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-30T03:58:30+0000"
+ },
  "18102321803238144": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5178,6 +5419,31 @@
   ],
   "template": "score",
   "timestamp": "2026-10-15T03:06:51+0000"
+ },
+ "18103775009383925": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "735",
+  "auto": true,
+  "caption_len": 438,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レイカーズ売却、全条件で合意 —— 調印も最終段階へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfItwz0mAtD/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「Sources: Mark Walter, Josh Kushner finalize all terms of $12.5B Lakers sale」",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-10-30T23:02:10+0000"
  },
  "18104149136274611": {
   "article": "335",
@@ -5326,6 +5592,33 @@
   "template": "score",
   "timestamp": "2026-10-24T05:25:58+0000"
  },
+ "18106907636371209": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "740",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケード・カニンガムがネッツ戦で20得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfJC-VVktSv/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Pistons vs. Nets・2026年10月30日)",
+  "subject": [
+   "Cade Cunningham"
+  ],
+  "template": "score",
+  "timestamp": "2026-10-31T02:07:20+0000"
+ },
  "18107936777256136": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -5352,6 +5645,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T03:05:04+0000"
+ },
+ "18108235286111349": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "733",
+  "auto": true,
+  "caption_len": 319,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ロケッツ、リード・シェパードの4年目オプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfInOBWkZBX/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ヒューストン・ロケッツ公式サイト",
+  "subject": [
+   "Reed Sheppard"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-30T22:04:52+0000"
  },
  "18108397078933856": {
   "arms": {
@@ -6174,6 +6494,33 @@
   "template": "news",
   "timestamp": "2026-10-04T00:28:53+0000"
  },
+ "18117714872013298": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "722",
+  "auto": true,
+  "caption_len": 349,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダリアス・エイカフ・ジュニア、ペリカンズ戦で34得点14アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfGkNlAja4r/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darius Acuff Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-10-30T03:00:18+0000"
+ },
  "18117756809100578": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -6490,6 +6837,33 @@
   "template": "news",
   "timestamp": "2026-09-29T21:22:35+0000"
  },
+ "18121169159059628": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "738",
+  "auto": true,
+  "caption_len": 441,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デュラント「サンダーの卒業生であることに本当に感謝」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfJCOHrD5vJ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Kevin Durant reflects on his eight seasons with the Oklahoma City Thunder」",
+  "subject": [
+   "Kevin Durant"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-31T02:00:58+0000"
+ },
  "18121272643943429": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -6516,6 +6890,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-15T02:16:23+0000"
+ },
+ "18121372910057098": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "729",
+  "auto": true,
+  "caption_len": 322,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、オチャイ・アバジと契約へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfInBoojs8c/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）",
+  "subject": [
+   "Ochai Agbaji"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-30T22:03:21+0000"
  },
  "18121962475894237": {
   "article": "345",
@@ -9332,6 +9733,33 @@
   "template": "news",
   "timestamp": "2026-10-27T06:07:48+0000"
  },
+ "18376270747241936": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "737",
+  "auto": true,
+  "caption_len": 395,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、ホルムグレンが右膝蓋腱断裂で8〜10週離脱",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfI9GiPAPYk/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Thunder say Chet Holmgren out 8-10 weeks after knee procedure」",
+  "subject": [
+   "Chet Holmgren"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-31T01:16:13+0000"
+ },
  "18382451392229998": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9923,5 +10351,32 @@
   ],
   "template": "score",
   "timestamp": "2026-10-25T03:14:12+0000"
+ },
+ "18652261195061925": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "736",
+  "auto": true,
+  "caption_len": 295,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "76ersのJ.ブラウン、左膝蓋腱炎と診断",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfI0sCOim5o/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "マーク・スタイン記者（The Stein Line）/ ESPN",
+  "subject": [
+   "Jaylen Brown"
+  ],
+  "template": "news",
+  "timestamp": "2026-10-31T00:02:41+0000"
  }
 }

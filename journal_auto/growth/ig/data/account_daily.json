@@ -690,7 +690,7 @@
   "shares": 56,
   "total_interactions": 4663,
   "unfollows": 8,
-  "views": 161413,
+  "views": 161414,
   "website_clicks": 2
  },
  "2026-10-24": {
@@ -735,7 +735,7 @@
   "shares": 93,
   "total_interactions": 2048,
   "unfollows": 5,
-  "views": 80205,
+  "views": 80206,
   "website_clicks": 4
  },
  "2026-10-27": {
@@ -750,22 +750,37 @@
   "shares": 237,
   "total_interactions": 6992,
   "unfollows": 7,
-  "views": 225180,
+  "views": 225188,
   "website_clicks": 4
  },
  "2026-10-28": {
-  "accounts_engaged": 6156,
-  "comments": 34,
-  "follows": 37,
-  "likes": 6276,
-  "new_followers": 0,
-  "profile_views": 401,
-  "reach": 2373,
-  "saves": 382,
-  "shares": 185,
-  "total_interactions": 7080,
-  "unfollows": 5,
-  "views": 230209,
+  "accounts_engaged": 6261,
+  "comments": 35,
+  "follows": 43,
+  "likes": 6462,
+  "new_followers": 6,
+  "profile_views": 433,
+  "reach": 3543,
+  "saves": 391,
+  "shares": 191,
+  "total_interactions": 7289,
+  "unfollows": 7,
+  "views": 239029,
   "website_clicks": 1
+ },
+ "2026-10-29": {
+  "accounts_engaged": 1833,
+  "comments": 6,
+  "follows": 6,
+  "likes": 2101,
+  "new_followers": 0,
+  "profile_views": 248,
+  "reach": 5723,
+  "saves": 108,
+  "shares": 83,
+  "total_interactions": 2399,
+  "unfollows": 2,
+  "views": 91441,
+  "website_clicks": 0
  }
 }
