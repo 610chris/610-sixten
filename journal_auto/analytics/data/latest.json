@@ -1,91 +1,87 @@
 {
-  "month": "2026-09",
-  "pageviews": 762,
-  "users": 433,
-  "sessions": 502,
-  "avg_engagement_sec": 26.8,
-  "engagement_rate": 36.3,
+  "month": "2026-10",
+  "pageviews": 2401,
+  "users": 1932,
+  "sessions": 2117,
+  "avg_engagement_sec": 23.2,
+  "engagement_rate": 41.0,
   "top_articles": [
     {
-      "path": "/journal/280-clippers-ingram-partial-achilles-tear.html",
-      "title": "クリッパーズ、イングラムのアキレス腱部分断裂を発表 —— かかとの手術後に判明、開幕に間に合わず | 610バスケットボールジャーナル",
+      "path": "/journal/438-clippers-waive-kawamura.html",
+      "title": "クリッパーズ、河村勇輝をウェイブ —— Michael Scotto記者（HoopsHype）が報道 | 610バスケットボールジャーナル",
+      "pageviews": 189
+    },
+    {
+      "path": "/journal/321-nba-push-off-officiating.html",
+      "title": "NBA、プッシュオフ厳格化へ新指針「4つのF」—— ジョーダンの伝説のシュートも新基準では反則にならず | 610バスケットボールジャーナル",
+      "pageviews": 164
+    },
+    {
+      "path": "/journal/514-spurs-team-options-castle-harper-bryant.html",
+      "title": "スパーズがキャッスル・ハーパー・ブライアントのチームオプションを行使 —— 3選手を2027-28シーズンまで確保 | 610バスケットボールジャーナル",
+      "pageviews": 116
+    },
+    {
+      "path": "/journal/324-nike-caitlin-1-halloween.html",
+      "title": "Nike Caitlin 1「Halloween」10月23日発売 —— グロー・イン・ザ・ダークのアウトソール、品番JA4290-001 | 610バスケットボールジャーナル",
       "pageviews": 101
     },
     {
-      "path": "/index.html",
-      "title": "610 — sixten（シックステン）｜バスケットボール × カルチャーのメディアエージェンシー",
-      "pageviews": 73
-    },
-    {
-      "path": "/journal/257-grizzlies-waive-dangelo-russell.html",
-      "title": "グリズリーズ、ラッセルをウェイバー —— ロースター整理の一環、開幕前の新天地探しが可能に | 610バスケットボールジャーナル",
-      "pageviews": 58
-    },
-    {
-      "path": "/",
-      "title": "610 — sixten（シックステン）｜バスケットボール × カルチャーのメディアエージェンシー",
-      "pageviews": 44
-    },
-    {
-      "path": "/journal/214-nike-ja-4-phantom.html",
-      "title": "Nike Ja 4「Phantom」が10月発売 —— ジャ・モラント4代目シグネチャー、白ベースの新色 | 610バスケットボールジャーナル",
-      "pageviews": 43
-    },
-    {
-      "path": "/media/starting5ive.html",
-      "title": "STARTING 5IVE｜5人のNBAクリエイターのバスケ雑談チャンネル | 610 — sixten",
-      "pageviews": 41
-    },
-    {
-      "path": "/journal/index.html",
-      "title": "610バスケットボールジャーナル（610 JOURNAL）｜NBA・Bリーグ・バスケのニュースと読みもの",
-      "pageviews": 28
-    },
-    {
-      "path": "/work/nihon-tengus/",
-      "title": "NIHON TENGUS | 日本テングス オフィシャルサイト",
-      "pageviews": 28
+      "path": "/journal/656-jalen-williams-cason-wallace-surgery-thunder.html",
+      "title": "サンダーのジェイレン・ウィリアムズとケイソン・ウォレス、ともに手術へ —— プレスティGM発表、今季復帰は不透明 | 610バスケットボールジャーナル",
+      "pageviews": 96
     },
     {
       "path": "/journal/",
       "title": "610バスケットボールジャーナル（610 JOURNAL）｜NBA・Bリーグ・バスケのニュースと読みもの",
-      "pageviews": 22
+      "pageviews": 84
     },
     {
-      "path": "/media/chris-basketball-diary.html",
-      "title": "クリスのバスケ日記｜NBA・バスケの動画メディア | 610 — sixten",
-      "pageviews": 16
+      "path": "/journal/616-tatum-denies-beef-jaylen-brown.html",
+      "title": "テイタム「ブラウンとの確執はない」—— 開幕戦36得点の夜、「キャップ」論争に自ら反論 | 610バスケットボールジャーナル",
+      "pageviews": 75
+    },
+    {
+      "path": "/journal/363-nike-lebron-24-stars.html",
+      "title": "Nike LeBron 24「Stars」が11月17日発売 —— 歴代最軽量とされる最新シグネチャー、\"本番\"カラーが登場 | 610バスケットボールジャーナル",
+      "pageviews": 72
+    },
+    {
+      "path": "/journal/index.html",
+      "title": "610バスケットボールジャーナル（610 JOURNAL）｜NBA・Bリーグ・バスケのニュースと読みもの",
+      "pageviews": 71
+    },
+    {
+      "path": "/",
+      "title": "610 — sixten（シックステン）｜バスケットボール × カルチャーのメディアエージェンシー",
+      "pageviews": 56
     }
   ],
   "channels": [
     {
-      "channel": "Referral",
-      "sessions": 201
+      "channel": "Organic Search",
+      "sessions": 1139
     },
     {
-      "channel": "Organic Search",
-      "sessions": 195
+      "channel": "Referral",
+      "sessions": 737
     },
     {
       "channel": "Direct",
-      "sessions": 44
+      "sessions": 151
     },
     {
       "channel": "Organic Social",
-      "sessions": 29
-    },
-    {
-      "channel": "Cross-network",
-      "sessions": 21
+      "sessions": 68
     },
     {
       "channel": "Unassigned",
-      "sessions": 20
+      "sessions": 12
     },
     {
       "channel": "AI Assistant",
-      "sessions": 2
+      "sessions": 7
     }
   ],
-  "updated_at": "2026-10-01 00:24"
+  "updated_at": "2026-11-01 05:28"
 }
