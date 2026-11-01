@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T11:36:21+09:00",
+  "updated": "2026-11-01T11:47:48+09:00",
   "items": [
     {
       "id": "134",
@@ -22088,6 +22088,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "モブリー、バックス戦で27得点 —— キャバリアーズが快勝\n\n・FG11/16・3PT3/5で27得点\n・リバウンド5・アシスト3、TOゼロで+/-は+6\n・第2Qで48得点の猛攻、136-111でバックスに快勝\n\n💬 モブリーのこの日の27得点、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Cavaliers vs. Bucks・2026年10月31日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "759",
+      "slug": "759-wembanyama-43-points-timberwolves",
+      "category": "NBA",
+      "date": "2026-11-01",
+      "headline": "ウェンバンヤマ、ティンバーウルブズ戦で43得点6ブロック",
+      "excerpt": "サンアントニオ・スパーズのビクター・ウェンバンヤマは現地時間10月31日、ミネソタ・ティンバーウルブズ戦に34分出場し、43得点・リバウンド7・ブロック6を記録した。両チーム通じてこの日の最多得点者となり、スパーズは121-111でティンバーウルブズに勝利した。",
+      "points": [
+        "FG17/34・3PT3/8・BLK6で43得点",
+        "スパーズは121-111でティンバーウルブズに勝利",
+        "フォックス22得点・ハーパー25得点も好調"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/759-wembanyama-43-points-timberwolves.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "ウェンバンヤマの43得点、今季ベストゲームだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. TIMBERWOLVES",
+        "points": 43,
+        "stats": [
+          "7 REB",
+          "6 BLK",
+          "4 AST",
+          "17/34 FG",
+          "3/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/759-1.jpg",
+        "https://sixten.jp/assets/ig/759-2.jpg",
+        "https://sixten.jp/assets/ig/759-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-01T11:47:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマ、ティンバーウルブズ戦で43得点6ブロック\n\n・FG17/34・3PT3/8・BLK6で43得点\n・スパーズは121-111でティンバーウルブズに勝利\n・フォックス22得点・ハーパー25得点も好調\n\n💬 ウェンバンヤマの43得点、今季ベストゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "760",
+      "slug": "760-darius-acuff-38-points-grizzlies",
+      "category": "NBA",
+      "date": "2026-11-01",
+      "headline": "エイカフ・ジュニア、グリズリーズ戦で38得点",
+      "excerpt": "サクラメント・キングスのダリアス・エイカフ・ジュニアは現地時間10月31日、メンフィス・グリズリーズ戦に37分出場し、38得点・リバウンド5・アシスト5を記録した。両チーム通じてこの日の最多得点者となったが、キングスは105-136でグリズリーズに大敗した。",
+      "points": [
+        "FG12/25・3PT9/14で38得点",
+        "キングスは105-136でグリズリーズに大敗",
+        "ブーザー27得点・スチュワート24得点がグリズリーズを牽引"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/760-darius-acuff-38-points-grizzlies.html",
+      "hero_path": "",
+      "subject": [
+        "Darius Acuff Jr."
+      ],
+      "question": "大敗の中での38得点、評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DARIUS ACUFF JR.",
+        "opponent": "vs. GRIZZLIES",
+        "points": 38,
+        "stats": [
+          "5 REB",
+          "5 AST",
+          "12/25 FG",
+          "9/14 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/760-1.jpg",
+        "https://sixten.jp/assets/ig/760-2.jpg",
+        "https://sixten.jp/assets/ig/760-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-01T11:47:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "エイカフ・ジュニア、グリズリーズ戦で38得点\n\n・FG12/25・3PT9/14で38得点\n・キングスは105-136でグリズリーズに大敗\n・ブーザー27得点・スチュワート24得点がグリズリーズを牽引\n\n💬 大敗の中での38得点、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
