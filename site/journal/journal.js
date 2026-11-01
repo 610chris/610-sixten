@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "762-jabari-smith-30-points-thunder.html",
+    cat: "NBA",
+    title: "ジャバリ・スミス・ジュニア、サンダー戦で30得点 —— ロケッツが119-98で快勝",
+    excerpt: "ヒューストン・ロケッツのジャバリ・スミス・ジュニアは現地時間10月31日、オクラホマシティ・サンダー戦に33分出場し、30得点・リバウンド9・アシスト5を記録した。両チーム通じてこの日の最多得点者となり、ロケッツは119-98でサンダーに快勝した。",
+    date: "2026.11.01",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "761-gunma-crane-thunders-osaka-evessa-93-60.html",
+    cat: "JAPAN",
+    title: "群馬クレインサンダーズ、大阪エヴェッサに93-60で快勝 —— 淺野ケニーがキャリアハイ17得点",
+    excerpt: "群馬クレインサンダーズは10月31日、本拠地オープンハウスアリーナ太田でのB.LEAGUE PREMIER 2026-27シーズンの一戦で大阪エヴェッサと対戦し、93-60で快勝した。淺野ケニーがキャリアハイとなる17得点を記録した。",
+    date: "2026.11.01",
+    thumb: "../assets/journal-761-hero.jpg?v=8e92e27aec"
+  },
+  {
     href: "760-darius-acuff-38-points-grizzlies.html",
     cat: "NBA",
     title: "ダリアス・エイカフ・ジュニア、グリズリーズ戦で38得点 —— キングスは105-136で大敗",
