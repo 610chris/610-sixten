@@ -1,8 +1,118 @@
 {
- "updated_utc": "2026-11-01 16:22 UTC",
+ "updated_utc": "2026-11-01 20:47 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-warriors-11-01-26",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-warriors-11-01-26",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-warriors-11-01-26",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Warriors",
+   "author": "LAClippers",
+   "published_utc": "2026-11-01T20:30:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Darius Garland",
+    "Game Previews",
+    "Golden State Warriors",
+    "Injury Report"
+   ],
+   "summary": "Last Matchup: 04/12/2026 | LAC 115 - GSW 110 | B.Mathurin: 20 PTS - S.Curry: 24 PTSIncluding the playoffs, this will be the 43rd all-time meeting between Steve Kerr and Ty Lue as head coaches. Lue trails 21-22 in the series, however, he has won 10 of their last 11 meetings against Kerr.The Clippers are shooting 39.2% from three this season, which ranks second in the NBA. Their improvement of 2.4% …",
+   "facts": [
+    "GOLDEN STATE WARRIORS FIVE THINGS TO KNOW Last Matchup: 04/12/2026 | LAC 115 - GSW 110 | B.Mathurin: 20 PTS - S.Curry: 24 PTSIncluding the playoffs, this will be the 43rd all-time meeting between Steve Kerr and Ty Lue as…",
+    "Lue trails 21-22 in the series, however, he has won 10 of their last 11 meetings against Kerr.The Clippers are shooting 39.2% from three this season, which ranks second in the NBA.",
+    "Their improvement of 2.4% over last season (36.8%) is the fourth-largest jump in the league so far this season.Isaiah Jackson has 16 stocks (steals + blocks) and is shooting 60.0% from the field this season.",
+    "Since the Clippers moved to LA in 1984, the only other Clippers to reach those marks through five games of a season are Montrezl Harrell (2018-19) and DeAndre Jordan (three times).Darius Garland currently leads the Clipp…",
+    "He is one of five players that currently leads their team in all three categories, joining Jalen Brunson, Luka Doncic and Keyonte George.BONUS: Keaton Wagler has come off the bench and scored at least 10 points to go wit…",
+    "That is tied for the second-longest streak to begin a career in NBA history, trailing only Walt Williams’ nine-game streak (1992). 26-27 OPPONENT COMPARISON"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "roster",
+   "key": "https://www.nba.com/hornets/news/charlotte-hornets-exercise-team-options-on-knueppel-and-mcneeley",
+   "url": "https://www.nba.com/hornets/news/charlotte-hornets-exercise-team-options-on-knueppel-and-mcneeley",
+   "canonical_url": "https://hornets.com/news/charlotte-hornets-exercise-team-options-on-knueppel-and-mcneeley",
+   "title": "Charlotte Hornets Exercise Team Options On Knueppel And Mcneeley",
+   "author": "Hornets PR",
+   "published_utc": "2026-11-01T19:04:15Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "November 1, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has exercised its third-year team options on the contracts of forward Kon Knueppel and forward Liam McNeeley.",
+   "facts": [
+    "November 1, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has exercised its third-year team options on the contracts of forward Kon Knueppel and forward Liam McNe…",
+    "Knueppel, the fourth overall pick in the 2025 NBA Draft, became the first rookie in NBA history to lead the league in 3-pointers made (273) last season.",
+    "The Duke University product led all rookies in 20-point games (36) and won four-straight Eastern Conference Rookie of the Month awards, culminating in a runner-up finish in Rookie of the Year voting and a unanimous First…",
+    "He averaged 18.5 points (47.5 FG%, 42.5 3P%, 86.3 FT%), 5.3 rebounds and 3.4 assists in 31.5 minutes per contest across 81 appearances (80 starts) in his rookie season.",
+    "The Hornets acquired McNeeley in a draft-night trade for the 29th overall pick in the 2025 NBA Draft.",
+    "The second-year forward averages 4.0 points (38.0 FG%, 38.1 3P%, 83.7 FT%) and 2.4 rebounds in 11.4 minutes per game, totaling 34 appearances for Charlotte.",
+    "McNeeley was named All-Summer League following his performance at 2026 NBA Summer League in Las Vegas."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "WAS 公式（nba.com）",
+   "team": "WAS",
+   "team_ja": "ウィザーズ",
+   "team_id": 1610612764,
+   "kind": "roster",
+   "key": "https://www.nba.com/wizards/news/wizards-exercise-team-options-2",
+   "url": "https://www.nba.com/wizards/news/wizards-exercise-team-options-2",
+   "canonical_url": "https://washingtonwizards.com/news/wizards-exercise-team-options-2",
+   "title": "WIZARDS EXERCISE TEAM OPTIONS",
+   "author": "admin",
+   "published_utc": "2026-11-01T18:30:39Z",
+   "tags": [],
+   "summary": "WASHINGTON, D.C. – The Washington Wizards announced today the team has exercised the fourth-year rookie scale team option on guard Bub Carrington, forward Kyshawn George, and forward/center Alex Sarr. The team also exercised the third-year rookie scale team options on guard Tre Johnson and forward Will Riley.",
+   "facts": [
+    "Carrington, a two-time NBA Rising Stars selection, is averaging 10.1 points, 3.7 rebounds, and 4.5 assists per game while shooting .376 from three.",
+    "He has played in all 170 games of his three-year tenure, and owns the second-longest streak of appearances to start a career in team history (Wes Unseld, 238).",
+    "George was one of only four players in the NBA age 22 or younger to record at least 14.0+ points, 5.0+ rebounds, 4.0+ assists and 1.0+ steals per game during the 2025-26 season and earned NBA Rising Stars honors.",
+    "He is averaging 11.4 points, 4.6 rebounds, and 3.4 assists through 122 games in his career.",
+    "Johnson averaged 12.2 points, 2.8 rebounds, and 2.0 assists per game while shooting .358 from three during his rookie campaign, earning a 2026 NBA Rising Stars selection.",
+    "Through 65 games in his two-year career, he has knocked down multiple (2+) three-pointers in 37 games, including 18 contests with three-or-more threes made.",
+    "Riley averaged 10.3 points, 2.9 rebounds, and 2.0 assists in his first season, including 17.4 points per game on .450 shooting from the field over the final 16 games of the campaign.",
+    "He topped 30+ points in two straight contests on April 4 and 5, becoming the first Wizards rookie to do so since Calbert Cheaney in 1994."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ATL 公式（nba.com）",
+   "team": "ATL",
+   "team_ja": "ホークス",
+   "team_id": 1610612737,
+   "kind": "roster",
+   "key": "https://www.nba.com/hawks/news/atlanta-hawks-exercise-third-year-contract-option-for-asa-newell",
+   "url": "https://www.nba.com/hawks/news/atlanta-hawks-exercise-third-year-contract-option-for-asa-newell",
+   "canonical_url": "https://hawks.com/news/atlanta-hawks-exercise-third-year-contract-option-for-asa-newell",
+   "title": "Atlanta Hawks Exercise Third-Year Contract Option for Asa Newell",
+   "author": "Atlanta Hawks",
+   "published_utc": "2026-11-01T18:22:47Z",
+   "tags": [],
+   "summary": "The Atlanta Hawks have exercised the third-year contract option for Asa Newell, the team announced today.",
+   "facts": [
+    "The Atlanta Hawks have exercised the third-year contract option for Asa Newell, the team announced today.",
+    "Newell has seen action in 47 games (two starts) across two seasons with the Hawks, averaging 5.2 points and 2.2 rebounds in 11.2 minutes (.533 FG%).",
+    "The second-year forward became the sixth-youngest Hawk in franchise history to record a double-double when he tallied 12 points, 10 rebounds (seven offensive) and one assist on Oct. 25, 2025, against Oklahoma City (20 ye…",
+    "The University of Georgia product appeared in 15 games (14 starts) with the College Park Skyhawks of the NBA G League during the 2025-26 campaign, averaging 22.5 points, 7.8 rebounds, 2.1 assists and 1.5 blocks in 32.5 m…",
+    "Newell, originally drafted by the New Orleans Pelicans with the 23rd overall pick of the 2025 NBA Draft, had his draft rights acquired by the Hawks on June 25, 2025."
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -509,6 +619,7 @@
    "author": "Madie Chandler-Donahue",
    "published_utc": "2026-10-31T03:26:04Z",
    "tags": [
+    "2026 NBA Cup",
     "2026-27 Game Rewind"
    ],
    "summary": "Friday, Oct. 30 at 8:00 PM ET at Kaseya Center",
@@ -1257,229 +1368,6 @@
     "He and P.J., two holdover guys on the front line, have been phenomenal.",
     "We have great depth. And that’s a challenge at times, but it’s a great challenge because there are several guys on our team that deserved more minutes but they just didn’t get them. We’ve got to prior…"
    ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "feature",
-   "key": "https://www.nba.com/heat/news/my-future-my-voice-my-vote",
-   "url": "https://www.nba.com/heat/news/my-future-my-voice-my-vote",
-   "canonical_url": "https://heat.com/news/my-future-my-voice-my-vote",
-   "title": "My Future. My Voice. My Vote.",
-   "author": "Miami HEAT",
-   "published_utc": "2026-10-29T20:30:00Z",
-   "tags": [
-    "community recap"
-   ],
-   "summary": "Earlier today, the Miami HEAT hosted its My Future. My Voice. My Vote. civic engagement event at Miami-Dade College’s Kendall Campus, bringing together hundreds of first-time student voters from across Miami-Dade County to participate in the democratic process. In collaboration with the Miami-Dade County Office of the Supervisor of Elections, Miami-Dade County Public Schools, and Miami-Dade Colleg…",
-   "facts": [],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-preview-20261030",
-   "url": "https://www.nba.com/warriors/news/gameday-preview-20261030",
-   "canonical_url": "https://warriors.com/news/gameday-preview-20261030",
-   "title": "Game Preview: Warriors vs. Lakers - 10/30/26",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-29T19:55:23Z",
-   "tags": [
-    "Game Preview"
-   ],
-   "summary": "WARRIORS HOST LAKERS FOR NBA CUP OPENER ON FRIDAY The Warriors begin group play in the Emirates NBA Cup on Friday, hosting Luka Doncic and the Los Angeles Lakers. The Lakers started the season 3-0, including a 22-point win over the Warriors on opening night. Dubs rookie Yaxel Lendeborg is slated for his second chance to defend Doncic after an entertaining matchup at Crypto.com Arena.",
-   "facts": [
-    "The Lakers started the season 3-0, including a 22-point win over the Warriors on opening night.",
-    "For more information on the 2026 NBA Cup, visit https://www.nba.com/warriors/nba-cup.",
-    "LAST TIME OUT Stephen Curry scored a season-high 44 points in the Warriors’ 119-114 victory over the Minnesota Timberwolves at Target Center on Wednesday.",
-    "Curry recorded the 76th 40-point game of his career, the third most among active players.",
-    "Fifteen of those 40-point games have come after he turned 35, tying LeBron James for the most 40-point games since turning that age in NBA history.",
-    "Curry shot a perfect 16-for-16 from the free throw line, tied for his most made free throws without a miss.",
-    "Yaxel Lendeborg, the NBA’s highest-scoring rookie, added 26 points, becoming the first Warriors rookie since Curry to record at least 25 points in three straight games. »Full Story INJURY & ROSTER NOTES GSW: TBD.",
-    "Team Notes COMPELLING NOTE: Warriors: The Warriors have played some thrilling Cup games over the years, including Stephen Curry hitting a game-winning shot in the first-ever Cup game in Oklahoma City, a win over Klay Tho…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "injury",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-baileys-hot-start-impact-of-injuries-and-more",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-baileys-hot-start-impact-of-injuries-and-more",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-mailbag-ace-baileys-hot-start-impact-of-injuries-and-more",
-   "title": "Utah Jazz Mailbag: Ace Bailey’s Hot Start, Impact of Injuries, And More",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-29T19:05:12Z",
-   "tags": [
-    "Ace Bailey",
-    "Darryn Peterson",
-    "Jaren Jackson Jr.",
-    "Jaxson Hayes",
-    "Josh Green",
-    "Josh Okogie",
-    "Keyonte George",
-    "Lauri Markkanen"
-   ],
-   "summary": "After waiting all summer for real action, fans are understandably chomping at the bit to analyze and react to the first few games of a new campaign. For the Utah Jazz, a 1-4 start has created some interesting trends and takeaways, with the caveat being that the sample size is simply too small to accept anything as truly sustainable for all 82 games.",
-   "facts": [
-    "For the Utah Jazz, a 1-4 start has created some interesting trends and takeaways, with the caveat being that the sample size is simply too small to accept anything as truly sustainable for all 82 games.",
-    "The injuries to Utah’s frontcourt (most notably the 6-to-8 week absence for Jaren Jackson Jr.) has forced Jazz head coach Will Hardy to adjust the rotation and experiment with different lineup combinations.",
-    "Markkanen is day-to-day with a right wrist sprain, which will create opportunities for some of Utah’s other wings and big men.",
-    "Meanwhile, Keyonte George has thrived out of the gates, averaging 24.4 points and 6.8 assists per game on 49.4-percent shooting from the field and 41.2 percent from deep.",
-    "There will likely be several different starting lineups in the coming games and weeks, as Hayes and Markkanen work their way back from their injuries.",
-    "Although Utah’s rotation has downsized as a result of the injuries, there will still be quality size in a Bailey, Markkanen, and Hayes frontcourt as Utah awaits the returns of Jusuf Nurkić and Jackson Jr.",
-    "Against San Antonio, Bailey had 19 points, six rebounds, and one block, with his inside scoring (8-of-12 inside the arc) fueling his success.",
-    "With his effective pursuit of the ball and length, the 20-year-old has flashed impressive rebounding to start the season, which the Jazz will certainly need to sustain as they navigate this stretch without several big me…"
-   ],
-   "quotes": [
-    "He’s really carrying out his role,",
-    "He’s trying to contribute to winning on both sides of the ball. He has to be a cutter and crasher when the ball doesn’t find him. It’s dirty work and he’s embraced doing that over and over again.",
-    "You have to earn ‘not being hunted’,",
-    "Young guards get hunted in our league. He needs to stand tall and hold his space. I’m super proud of the charge late in the game (against New Orleans)."
-   ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-embrace-bonds-but-more-focused-on-building-on-successful-road-trip",
-   "url": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-embrace-bonds-but-more-focused-on-building-on-successful-road-trip",
-   "canonical_url": "https://grizzlies.com/news/mikecheck-grizzlies-embrace-bonds-but-more-focused-on-building-on-successful-road-trip",
-   "title": "MikeCheck: Grizzlies embrace bonds, but ‘more focused’ on building on successful road trip",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-10-29T19:00:00Z",
-   "tags": [
-    "Grind City Media",
-    "Michael Wallace",
-    "MikeCheck"
-   ],
-   "summary": "Battle of NBA unbeatens caps Grizz 4-game trek",
-   "facts": [
-    "Battle of NBA unbeatens caps Grizz 4-game trek PORTLAND – There’s no getting around the obvious.",
-    "As Morant’s seven-year career in Memphis was winding toward the July trade to Portland, no teammate was closer to the biggest star in franchise history than Pippen Jr. at the time.",
-    "The Grizzlies (4-0) are committed to setting emotions aside and focusing on the business at hand as they look to sweep their first road trip of four or more games since 2013.",
-    "Both teams have found early success, with the Blazers notching only their second 3-0 start in the last 15 seasons.",
-    "The Grizzlies and Blazers executed one of the more compelling trades of the offseason when Memphis dealt the two-time NBA All-Star in Morant to Portland.",
-    "The Grizzlies pivoted to a rebuild after limited playoff success over three straight injury-plagued seasons.",
-    "Memphis had already traded fellow All-Star Jaren Jackson Jr. in February to Utah and parted with productive guard Desmond Bane the previous summer in a 2025 deal with Orlando.",
-    "In return, the Grizzlies received a total of seven first-round draft picks for Jackson Jr. and Bane."
-   ],
-   "quotes": [
-    "He helped me jumpstart my career, gave me a lot of wisdom and everything,",
-    "I’m honestly looking forward to it.",
-    "We hang out over the summers. He watches our games. I watch his games. He’s always sending me texts during (our) games, and I’m texting him as well (during his). It’s bigger than basketball with me an…",
-    "Let’s say I’m more focused on how we’re playing against the Blazers, and (Morant’s) a big part of what they do,"
-   ]
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "injury",
-   "key": "https://www.nba.com/timberwolves/news/anthony-edwards-injury-update-7",
-   "url": "https://www.nba.com/timberwolves/news/anthony-edwards-injury-update-7",
-   "canonical_url": "https://timberwolves.com/news/anthony-edwards-injury-update-7",
-   "title": "Anthony Edwards Injury Update",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-10-29T18:11:33Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "Minneapolis/St. Paul – The Minnesota Timberwolves today announced the following injury update on guard Anthony Edwards:",
-   "facts": [
-    "Paul – The Minnesota Timberwolves today announced the following injury update on guard Anthony Edwards: Edwards underwent a successful right knee arthroscopic procedure for debridement today by Dr.",
-    "He is expected to make a full recovery and further updates of his progress will be provided when available.",
-    "In four games this season (all starts), Edwards is averaging 33.3 points on 48.1% shooting, 4.8 rebounds, 3.5 assists and 2.0 steals in 33.8 minutes per game."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "POR 公式（nba.com）",
-   "team": "POR",
-   "team_ja": "トレイルブレイザーズ",
-   "team_id": 1610612757,
-   "kind": "roster",
-   "key": "https://www.nba.com/blazers/news/trail-blazers-exercise-team-option-on-contracts-of-donovan-clingan-yang-hansen",
-   "url": "https://www.nba.com/blazers/news/trail-blazers-exercise-team-option-on-contracts-of-donovan-clingan-yang-hansen",
-   "canonical_url": "https://blazers.com/news/trail-blazers-exercise-team-option-on-contracts-of-donovan-clingan-yang-hansen",
-   "title": "Trail Blazers Exercise Team Option On Contracts Of Donovan Clingan, Yang Hansen",
-   "author": "Portland Trail Blazers",
-   "published_utc": "2026-10-29T17:06:25Z",
-   "tags": [
-    "Donovan Clingan",
-    "Yang Hansen"
-   ],
-   "summary": "PORTLAND, Ore. (October 29, 2026) – The Portland Trail Blazers have exercised the 2027-28 team option on the contracts of centers Donovan Clingan and Yang Hansen, General Manager Joe Cronin announced today.",
-   "facts": [
-    "PORTLAND, Ore. (October 29, 2026) – The Portland Trail Blazers have exercised the 2027-28 team option on the contracts of centers Donovan Clingan and Yang Hansen, General Manager Joe Cronin announced today.",
-    "Currently in his fourth season, Clingan has appeared in 147 games (117 starts) for Portland, averaging 9.5 points, 9.8 rebounds and 1.7 blocks in 23.7 minutes per game.",
-    "A 2026 NBA Rising Stars selection, Clingan is coming off a 2025-26 season in which he averaged 12.1 points, 11.6 rebounds and 1.7 blocks per game.",
-    "As a second-year player, he led the NBA in offensive rebounds per game (4.5) and contested shots/game (13.4) while ranking second in second chance points per game (4.4), third in total rebounds per game (11.6) and fifth …",
-    "Clingan also grabbed a franchise record 347 offensive rebounds in 2025-26—second most offensive rebounds in a season over the past five seasons in the NBA.",
-    "Competing in his second season with Portland after being selected in the 2025 NBA Draft, Yang is averaging 2.3 points, 1.6 rebounds and 0.5 assists in 7.1 minutes per game across 44 contests (one start).",
-    "The Zibo, China, native also competed in 19 games (all starts) with the G League’s Rip City Remix in 2025-26, averaging 16.8 points, 9.1 rebounds, 3.3 assists and 1.5 blocks in 30.8 minutes per game."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BKN 公式（nba.com）",
-   "team": "BKN",
-   "team_ja": "ネッツ",
-   "team_id": 1610612751,
-   "kind": "roster",
-   "key": "https://www.nba.com/nets/news/brooklyn-nets-exercise-third-year-options-on-five-players",
-   "url": "https://www.nba.com/nets/news/brooklyn-nets-exercise-third-year-options-on-five-players",
-   "canonical_url": "https://brooklynnets.com/news/brooklyn-nets-exercise-third-year-options-on-five-players",
-   "title": "Brooklyn Nets Exercise Third-Year Options on Five Players",
-   "author": "Brooklyn Nets",
-   "published_utc": "2026-10-29T17:04:15Z",
-   "tags": [],
-   "summary": "BROOKLYN – The Brooklyn Nets have exercised the third-year team options on guard Egor Dëmin, guard/forward Drake Powell, guard Ben Saraf, guard Nolan Traore and forward Danny Wolf.",
-   "facts": [
-    "Through four games (all starts) this season, the Russian-born sophomore has posted 7.8 points, 2.3 rebounds, 2.8 assists and 1.0 steals in 21.8 minutes per game.",
-    "Dëmin was named a 2026 Castrol Rising Star in his rookie season and won the event on Team Vince Carter.",
-    "He showed his shooting prowess by setting Nets rookie records with seven 3-pointers made in a game on Dec. 29 against Golden State and a 38.5 percent overall 3-point percentage.",
-    "Dëmin also turned in 124 3-pointers, which ranked as the fifth-most through any player's first 52 career games in NBA history.",
-    "This offseason, he was named to the 2026 All-Summer League Second Team after averaging 21.0 points, 4.3 assists and 2.3 steals in 25.3 minutes per contest across three games in Las Vegas.",
-    "Brooklyn selected Dëmin eighth overall in the 2025 NBA Draft after he played one season at Brigham Young University.",
-    "He set the franchise rookie record by shooting 89.6 percent from the free-throw line and led all qualified NBA players with a 91.9 defensive rating in December 2025.",
-    "Across five games in the NBA G League with the Long Island Nets, he averaged 11.8 points, 5.0 rebounds, 3.0 assists and 1.6 steals in 29.2 minutes per game."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-kings-injury-report-game-preview-10-29-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-kings-injury-report-game-preview-10-29-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-kings-injury-report-game-preview-10-29-2026",
-   "title": "Pelicans vs. Kings: Injury Report, Game Preview 10/29/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-29T16:40:26Z",
-   "tags": [],
-   "summary": "On the second half of a back-to-back, the Pelicans host the Sacramento Kings on Thursday at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "On the second half of a back-to-back, the Pelicans host the Sacramento Kings on Thursday at the Smoothie King Center at 7:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Kings injury report, team news, tune in details, and gameday information: PELICANS VS KINGS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole DOUBT…",
-    "QUESTIONABLE (G League two-way) Julian Reese PROBABLE (G League two-way) KINGS INJURY REPORT Dylan Cardwell OUT (left calf strain) Keegan Murray OUT (left ankle capsulitis) Maxime Raynaud OUT (right patella sublaxation) …",
-    "NEW ORLEANS PELICANS (0-4) Previous Game Lineup: October 28 loss vs.",
-    "Kings Game Time, TV Channel, Radio & Location 📅 Game Time: Thursday, Oct. 29 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Kings TV: NBCSCA/PCK-SAC…"
-   ],
-   "quotes": []
   }
  ]
 }
