@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T10:56:14+09:00",
+  "updated": "2026-11-01T11:36:21+09:00",
   "items": [
     {
       "id": "134",
@@ -22042,6 +22042,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サディーク・ベイ、ホークス戦で25得点\n\n・26分出場でFG9/13・25得点\n・リバウンド6・スティール4\n・ペリカンズが121-99で大勝\n\n💬 ベイの25得点、今季のベストゲーム?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Pelicans vs. Hawks・2026年10月31日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "758",
+      "slug": "758-evan-mobley-27-points-bucks",
+      "category": "NBA",
+      "date": "2026-11-01",
+      "headline": "モブリー、バックス戦で27得点 —— キャバリアーズが快勝",
+      "excerpt": "クリーブランド・キャバリアーズのエヴァン・モブリーは現地時間10月31日、敵地ミルウォーキー・バックス戦に25分出場し、27得点・リバウンド5・アシスト3を記録した。両チーム通じてこの日の最多得点者となり、キャバリアーズは136-111でバックスに快勝した。",
+      "points": [
+        "FG11/16・3PT3/5で27得点",
+        "リバウンド5・アシスト3、TOゼロで+/-は+6",
+        "第2Qで48得点の猛攻、136-111でバックスに快勝"
+      ],
+      "source": "ESPN ボックススコア(Cavaliers vs. Bucks・2026年10月31日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/758-evan-mobley-27-points-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "Evan Mobley"
+      ],
+      "question": "モブリーのこの日の27得点、今季ベストゲーム？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "EVAN MOBLEY",
+        "opponent": "vs. BUCKS",
+        "points": 27,
+        "stats": [
+          "5 REB",
+          "3 AST",
+          "11/16 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/758-1.jpg",
+        "https://sixten.jp/assets/ig/758-2.jpg",
+        "https://sixten.jp/assets/ig/758-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-01T11:35:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "モブリー、バックス戦で27得点 —— キャバリアーズが快勝\n\n・FG11/16・3PT3/5で27得点\n・リバウンド5・アシスト3、TOゼロで+/-は+6\n・第2Qで48得点の猛攻、136-111でバックスに快勝\n\n💬 モブリーのこの日の27得点、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Cavaliers vs. Bucks・2026年10月31日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
