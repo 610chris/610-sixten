@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:57:24+09:00",
+  "updated": "2026-11-01T09:54:19+09:00",
   "items": [
     {
       "id": "134",
@@ -21948,6 +21948,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "デニ・アヴディア、ジャズ戦で24得点\n\n・FG6/12・3PT2/4・FT10/13で効率よく24得点\n・プラスマイナス+32でチーム最高\n・トレイルブレイザーズが112-90で快勝\n\n💬 アヴディア、このままオールスター級の数字残せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "756",
+      "slug": "756-maxey-38-points-hornets",
+      "category": "NBA",
+      "date": "2026-11-01",
+      "headline": "マクシー、ホーネッツ戦で38得点",
+      "excerpt": "フィラデルフィア・76ersのタイリース・マクシーは現地時間10月31日、シャーロット・ホーネッツ戦に38分出場し、38得点・リバウンド4・アシスト4を記録した。両チーム通じてこの日の最多得点者となり、76ersは第1クォーターの10点ビハインドから逆転して109-104でホーネッツを下した。",
+      "points": [
+        "23本中13本で38得点、効率の高いスコアリング",
+        "76ersは第1Qの10点ビハインドから逆転",
+        "76ersが109-104でホーネッツに勝利"
+      ],
+      "source": "ESPN ボックススコア(76ers vs. Hornets)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/756-maxey-38-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Maxey"
+      ],
+      "question": "この試合、MVPはマクシー？それともサイモンズ？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYRESE MAXEY",
+        "opponent": "vs. HORNETS",
+        "points": 38,
+        "stats": [
+          "4 REB",
+          "4 AST",
+          "2 STL",
+          "13/23 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/756-1.jpg",
+        "https://sixten.jp/assets/ig/756-2.jpg",
+        "https://sixten.jp/assets/ig/756-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-01T09:53:53+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マクシー、ホーネッツ戦で38得点\n\n・23本中13本で38得点、効率の高いスコアリング\n・76ersは第1Qの10点ビハインドから逆転\n・76ersが109-104でホーネッツに勝利\n\n💬 この試合、MVPはマクシー？それともサイモンズ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(76ers vs. Hornets)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
