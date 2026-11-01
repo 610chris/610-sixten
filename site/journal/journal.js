@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "763-nba-overreactions-giannis-heat-thunder-jerome.html",
+    cat: "NBA",
+    title: "ヒートは2008年以来の最低ペース？ サンダーの優勝戦線は終わった？ —— ESPN記者2人が開幕序盤の「過剰反応」を検証",
+    excerpt: "ESPNのザック・クラム記者とベン・ゴリバー記者は10月29日(現地時間)、2026-27シーズン開幕1週目に飛び交った「過剰反応」10項目について検証する企画を公開した。ヤニス・アデトクンボを迎えたヒートの苦しい立ち上がり、主力2人を失ったサンダーの優勝戦線、タイ・ジェロームのオールスター入りの可能性を取り上げている。",
+    date: "2026.11.01",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "762-jabari-smith-30-points-thunder.html",
     cat: "NBA",
     title: "ジャバリ・スミス・ジュニア、サンダー戦で30得点 —— ロケッツが119-98で快勝",
