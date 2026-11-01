@@ -1,8 +1,34 @@
 {
- "updated_utc": "2026-10-31 22:47 UTC",
+ "updated_utc": "2026-11-01 02:30 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-121-hawks-99-saddiq-bey-25-points-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/pelicans-121-hawks-99-saddiq-bey-25-points-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/pelicans-121-hawks-99-saddiq-bey-25-points-postgame-wrap",
+   "title": "Pelicans 121, Hawks 99: Saddiq Bey 25 points | Postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-01T01:39:35Z",
+   "tags": [],
+   "summary": "New Orleans has figured out at least one way to fix its early-season issues in close games: Avoid playing in them. For a second straight game Saturday, the Pelicans built a big lead and kept the opposition from seriously threatening in the fourth quarter, wrapping up a homestand with a pair of wins, following an 0-4 season start.",
+   "facts": [
+    "For a second straight game Saturday, the Pelicans built a big lead and kept the opposition from seriously threatening in the fourth quarter, wrapping up a homestand with a pair of wins, following an 0-4 season start.",
+    "New head coach Jamahl Mosley’s vision to make New Orleans a more aggressive defensive club is beginning to yield dividends, with the Pelicans coming up with 18 steals Thursday – their most in 10 years – then 15 more stea…",
+    "The hosts jumped on the Hawks with a 35-18 first quarter and outhustled their guests for a vast majority of the Halloween matchup.",
+    "Former Atlanta forward Saddiq Bey provided New Orleans with valuable scoring punch off the bench, netting 25 points in 26 minutes, also recording four steals, one shy of his career high.",
+    "Jeremiah Fears authored a second straight excellent outing, with 20 points and seven assists.",
+    "Mosley used a starting lineup featuring Herb Jones and Karlo Matkovic for a second straight win, after neither were in the first unit during the 0-4 start.",
+    "BY THE NUMBERS 8/46: Atlanta three-point shooting, a severely damaging performance that equals 17 percent accuracy.",
+    "On the other end of the floor, New Orleans took a minimal number of treys at 7/17."
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -2001,114 +2027,6 @@
     "Turning Point: Charlotte’s seven-point halftime lead quickly evaporated in the third quarter, as Detroit came out firing and nailed six 3-pointers to win the frame, 32-19, and snatch a six-point advantage heading into th…",
     "The Hornets would regroup and eventually got themselves back to within three (82-79) with 7:13 remaining on the game clock but missed their next five field-goal attempts, allowing the Pistons to slowly pull away for the …",
     "Buzzworthy Takeaways Detroit’s hard-nosed, aggressive defense meant the Hornets needed to play physical for all 48 minutes to give themselves a chance."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/nuggets-104-pelicans-91-zion-williamson-25-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/nuggets-104-pelicans-91-zion-williamson-25-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/nuggets-104-pelicans-91-zion-williamson-25-points-postgame-wrap",
-   "title": "Nuggets 104, Pelicans 91: Zion Williamson 25 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-29T02:24:53Z",
-   "tags": [],
-   "summary": "After not being able to hold a big lead Saturday against Denver, New Orleans attempted to return the favor in Wednesday’s rematch. The Pelicans methodically cut into a Nuggets lead that was as many as 22 points in the first half, threatening to take their own edge in the final minutes, but Denver had enough answers to prevail again.",
-   "facts": [
-    "After not being able to hold a big lead Saturday against Denver, New Orleans attempted to return the favor in Wednesday’s rematch.",
-    "The Pelicans methodically cut into a Nuggets lead that was as many as 22 points in the first half, threatening to take their own edge in the final minutes, but Denver had enough answers to prevail again.",
-    "Zion Williamson (game-high 25 points) helped keep the hosts within striking distance by scoring 18 first-half points, making it a 12-point game, before the Pelicans got within a couple possessions on the scoreboard in th…",
-    "Nights of 20-plus points from Jamal Murray and Nikola Jokic – along with some back-breaking perimeter shooting from role players – secured the road win for the Nuggets.",
-    "After Williamson the next-highest scorers for New Orleans were second-year pros Derik Queen and Jeremiah Fears, with 11 points apiece.",
-    "Queen posted a double-double by also grabbing 12 rebounds.",
-    "BY THE NUMBERS 7/30: New Orleans three-point shooting (23 percent).",
-    "The Pelicans were held well under the century mark in points in a rough shooting game overall (41 percent from field, 16/22 on free throws). +16: Pelicans reserve big Karlo Matkovic's plus-minus in his 18 minutes of acti…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-adebayo-antetokounmpo-dominate-paint-first-win-hawks",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-adebayo-antetokounmpo-dominate-paint-first-win-hawks",
-   "canonical_url": "https://heat.com/news/coups-takeaways-adebayo-antetokounmpo-dominate-paint-first-win-hawks",
-   "title": "Coup’s Takeaways: HEAT Dominate Paint, Hold Off Persistent Hawks For First Win Off Season",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-10-29T02:00:39Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. That’s a bit more like what we all thought this would look like, and a little unlike what we expected, too.",
-   "facts": [
-    "You can’t dig yourself out of a 0-4 start to the season in one night, but it can feel like more than just one game when you look like this.",
-    "HEAT up, 69-56, at the break, with 40 points in the paint to their name – just a bit below their season average through four games – and 25 rim attempts, which would have been the third most for any team in the league la…",
-    "Toss in some runouts off steals, Atlanta forcing some passes into the middle, solid shooting and a 44 percent offensive rebound rate and they were firmly in control.",
-    "Not a high-volume night for Miami at the arc, but Andrew Wiggins balanced things out, 4-of-5 from three to keep the advantage in double digits, with an and-one fading jumper just before a shot clock buzzer just for good …",
-    "HEAT up 18 before it shrunk back to 12 at the end of the period.",
-    "Still just a 10 point game, Hawks rookie Kingston Flemmings giving Atlanta a boost with pace and shotmaking.",
-    "Atlanta kept pushing, Miami kept pushing back, the Hawks missing an opportunity to get it back under five as Antetokounmpo took a miss the other way, on a feed from Mitchell, for a 1-on-3 dunk.",
-    "As Adebayo grabbed the rebound that made him Miami’s All-Time leading board man, passing Udonis Haslem for a record a long time coming, Miami wrapped things for their first win of the season, 129-117. 2."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAL 公式（nba.com）",
-   "team": "LAL",
-   "team_ja": "レイカーズ",
-   "team_id": 1610612747,
-   "kind": "roster",
-   "key": "https://www.nba.com/lakers/news/los-angeles-lakers-sign-center-lawson-lovering-to-two-way-contract",
-   "url": "https://www.nba.com/lakers/news/los-angeles-lakers-sign-center-lawson-lovering-to-two-way-contract",
-   "canonical_url": "https://lakers.com/news/los-angeles-lakers-sign-center-lawson-lovering-to-two-way-contract",
-   "title": "Los Angeles Lakers Sign Center Lawson Lovering to Two-Way Contract",
-   "author": "lalnkioski",
-   "published_utc": "2026-10-29T00:55:52Z",
-   "tags": [
-    "App Media Feed",
-    "Players",
-    "Releases",
-    "Team News"
-   ],
-   "summary": "The Los Angeles Lakers have signed center Lawson Lovering to a two-way contract. In a corresponding move, the team waived two-way forward AK Okereke.",
-   "facts": [
-    "The Los Angeles Lakers have signed center Lawson Lovering to a two-way contract.",
-    "In a corresponding move, the team waived two-way forward AK Okereke.",
-    "Lovering (7-0, 245) appeared in 30 games (26 starts) for the Memphis Hustle in the NBA G League last season, averaging 7.7 points, 7.1 rebounds, 1.3 assists and 1.3 blocks in 27.1 minutes per game, while shooting 59.2 pe…",
-    "Over four collegiate seasons at Utah (2023-25) and Colorado (2021-23), Lovering appeared in 113 games (86 starts) and averaged 5.7 points, 4.3 rebounds and 1.6 assists in 19.8 minutes.",
-    "Okereke signed a two-way contract with the Lakers on July 5."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "OKC 公式（nba.com）",
-   "team": "OKC",
-   "team_ja": "サンダー",
-   "team_id": 1610612760,
-   "kind": "injury",
-   "key": "https://www.nba.com/thunder/news/medical-update-261028",
-   "url": "https://www.nba.com/thunder/news/medical-update-261028",
-   "canonical_url": "https://okcthunder.com/news/medical-update-261028",
-   "title": "Thunder Medical Update",
-   "author": "okcthunder",
-   "published_utc": "2026-10-28T23:17:46Z",
-   "tags": [
-    "Jalen Williams"
-   ],
-   "summary": "OKLAHOMA CITY, Oct. 28, 2026 – Oklahoma City Thunder guard/forward Jalen Williams underwent a successful procedure today to address a fractured left fibula and reconstruction of ankle ligaments following a fracture and dislocation.",
-   "facts": [
-    "OKLAHOMA CITY, Oct. 28, 2026 – Oklahoma City Thunder guard/forward Jalen Williams underwent a successful procedure today to address a fractured left fibula and reconstruction of ankle ligaments following a fracture and d…",
-    "The surgery was performed by Dr.",
-    "Martin O’Malley at Hospital for Special Surgery in New York City with Thunder medical personnel present.",
-    "Williams will be re-evaluated prior to the end of the 2026-27 regular season."
    ],
    "quotes": []
   }
