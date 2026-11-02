@@ -1,8 +1,184 @@
 {
- "updated_utc": "2026-11-01 20:47 UTC",
+ "updated_utc": "2026-11-02 00:59 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-nets-261101",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-nets-261101",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-nets-261101",
+   "title": "Instant Rewind: Pacers 90, Nets 98",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-02T00:54:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse Instant Rewind Shooting struggles and slow starts lingered as the Pacers opened their November slate of games by hosting the Brooklyn Nets on Sunday.",
+    "Indiana couldn’t find its offensive groove, and fell to the Nets, 98-90.",
+    "Both teams seemed lethargic to start – by the seven-minute mark of the first quarter, the score was just 9-7 in favor of the Nets, and each team was shooting 3-for-10 from the field.",
+    "The Pacers, however, opened the game shooting 2-for-11 from 3-point range.",
+    "Indiana trailed after one, 20-19.",
+    "Brooklyn’s 20 points in the first quarter is the strongest defensive quarter Indiana has recorded this season, but the 19 points scored by the Pacers in the same frame also marked Indiana’s worst offensive quarter this s…",
+    "Quenton Jackson connected on a 3-pointer with just over four minutes to play and gave the Pacers some life.",
+    "Porter Jr.’s layup to beat the second quarter buzzer gave the Nets a three-point advantage at the half, 43-40."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "feature",
+   "key": "https://www.nba.com/thunder/news/options-mccain-sorber-261101",
+   "url": "https://www.nba.com/thunder/news/options-mccain-sorber-261101",
+   "canonical_url": "https://okcthunder.com/news/options-mccain-sorber-261101",
+   "title": "Thunder Exercises Options on McCain and Sorber",
+   "author": "okcthunder",
+   "published_utc": "2026-11-02T00:35:55Z",
+   "tags": [
+    "Jared McCain",
+    "Thomas Sorber"
+   ],
+   "summary": "OKLAHOMA CITY, Nov. 1, 2026 – The Oklahoma City Thunder exercised its fourth-year contract option on guard Jared McCain and its third-year contract option on forward/center Thomas Sorber, it was announced today by Executive Vice President and General Manager Sam Presti.",
+   "facts": [
+    "OKLAHOMA CITY, Nov. 1, 2026 – The Oklahoma City Thunder exercised its fourth-year contract option on guard Jared McCain and its third-year contract option on forward/center Thomas Sorber, it was announced today by Execut…",
+    "McCain has appeared in 96 career NBA games (14 starts) and averaged 10.2 points, 2.2 rebounds and 1.7 assists in 19.8 minutes per game.",
+    "The Duke product was originally selected 16th overall in the 2024 NBA Draft and was acquired by Oklahoma City from the Philadelphia 76ers on Feb. 4, 2026.",
+    "Sorber was selected 15th overall in the 2025 NBA Draft after one season at Georgetown University where he was named a unanimous 2024-25 Big East All-Freshman team selection and also received All-Big East Third Team honor…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-come-up-short-against-boston-celtics-20261101",
+   "url": "https://www.nba.com/magic/news/orlando-magic-come-up-short-against-boston-celtics-20261101",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-come-up-short-against-boston-celtics-20261101",
+   "title": "Orlando Magic Come Up Short Against Boston Celtics",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-01T23:42:27Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO - What makes the Boston Celtics such a good team, aside from Jayson Tatum’s incredible scoring ability, is they protect the ball at a high level, force opponents into a lot of turnovers, and prevent opponents from scoring much around the basket.",
+   "facts": [
+    "Those were among the biggest factors in the Orlando Magic’s 108-97 loss with the C’s in town on Sunday afternoon.",
+    "The Magic were only able to force Boston into 13 turnovers (12 if you subtract the C’s letting the shot clock expire near the end of the game); they turned it over themselves 18 times, which led to 21 Celtics points; and…",
+    "The six-time NBA All-Star erupted for 32 points, and he hit two clutch shots late in the fourth quarter to help Boston pull away.",
+    "Anthony Black and Tristan da Silva each scored 23 points to lead the Magic, Desmond Bane recorded 19 points and Franz Wagner, although he shot just 5-of-20 from the field, filled up the stat sheet with 14 points, six reb…",
+    "What kept Orlando in the game was its 3-point shooting – many generated off sharp ball movement and paint kickouts – and its defense on the perimeter (Celtics only shot 27 percent from downtown).",
+    "Paul George chipped in with 17 points, six rebounds and eight assists for Boston, which improved to 5-1 on the season, while Derrick White and Luka Garza each had 12 points.",
+    "The Magic will look to bounce back on Monday when they host the Washington Wizards at 7:30 p.m."
+   ],
+   "quotes": [
+    "When you see that crowd, being able to make that right play to your teammate is really important and credit them,",
+    "They force turnovers. They are aggressive to go for steals. There are a number of times when you have to be really strong with the ball and then play through contact when you do get it. We can do a be…",
+    "Can’t lose two in a row, especially at home. We know we have to come out and play a better game. Clean up the turnovers. Clean up the rebounds. And then just continuing to play hard. We know we are go…"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261101-bosorl",
+   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261101-bosorl",
+   "canonical_url": "https://celtics.com/news/game-recap-keys-20261101-bosorl",
+   "title": "Keys to the Game: Celtics 108, Magic 97",
+   "author": "Marc D'Amico",
+   "published_utc": "2026-11-01T23:27:03Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "The Orlando Magic were riding a wave of momentum and had a chance to take a lead with just under 11 minutes to go in regulation. Not only did they fail to capitalize on a simple opportunity in transition, but they then allowed a worst-case scenario at the other end.",
+   "facts": [
+    "Key Moment The Orlando Magic were riding a wave of momentum and had a chance to take a lead with just under 11 minutes to go in regulation.",
+    "First, Payton Pritchard, who is 6-foot-2, went right through Orlando’s starting center, 6-foot-10 Wendell Carter Jr., for an and-one layup nine seconds after the Magic’s turnover.",
+    "Then, after forcing yet another turnover out of Orlando, Luka Garza drained a corner 3 to double Boston’s lead up to six points.",
+    "Garza’s 3-pointer sank through the net with 9:50 left in the game, just 56 seconds after Wager missed that go-ahead layup attempt in transition.",
+    "The Celtics maintained control for the rest of the day before closing out a 108-97 win for their fifth consecutive victory.",
+    "Sunday afternoon was the latest evidence, as the longtime star stuffed the stat sheet with an impressive line of 17 points, eight assists, six rebounds, two steals and two blocked shots.",
+    "He has been a consistent contributor on offense and has now dished out at least seven assists in three consecutive games for the first time since April of 2017.",
+    "Box Score Nuggets Jayson Tatum shot 15-for-17 from the free-throw line, matching the entire Magic team in made free throws.Paul George (eight) and Tatum (seven) each dished out at least seven assists.George finished the …"
+   ],
+   "quotes": [
+    "His awareness on the defensive end and his activity with his hands is just like next-level. He just always has awareness for the ball, deflections. He just makes it easier on the rest of us, even this…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-road-trip-against-san-antonio-spurs",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-road-trip-against-san-antonio-spurs",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-begin-road-trip-against-san-antonio-spurs",
+   "title": "Preview: Utah Jazz Begin Road Trip Against San Antonio Spurs",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-01T22:47:12Z",
+   "tags": [
+    "Lauri Markkanen",
+    "Utah Jazz"
+   ],
+   "summary": "After an extended stay at home, the Utah Jazz are hitting the road to begin November.",
+   "facts": [
+    "Utah battled through several injuries and absences during a five-game homestand at the Delta Center, which saw the team go 1-4.",
+    "Utah went 11-of-40 from deep, turned it over 20 times, and put the Trail Blazers at the charity stripe for 41 attempts.",
+    "Lauri Markkanen struggled in his return (13 points, 3-of-14 shooting), and Utah’s otherwise stingy defense (Portland shot under 41 percent from the field and totaled just 26 points in the paint) wasn’t enough to keep the…",
+    "A few nights ago, the shorthanded Jazz nearly pulled off an overtime upset against San Antonio, ultimately falling 117-111.",
+    "In that game, Utah’s young trio of Keyonte George (31 points), Ace Bailey (19 points), and Darryn Peterson (18 points) led the way as the team’s frontcourt absences piled up.",
+    "After an 0-2 start to begin the new season, the Spurs have found their footing over the last week and won four consecutive games.",
+    "Although newcomer Tobias Harris has yet to take the floor for San Antonio and there are still areas of the game for Mitch Johnson’s squad to improve in, the Spurs rank in the top 10 in both offensive and defensive rating…",
+    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate…"
+   ],
+   "quotes": [
+    "Offensively, our ability to be solid with the ball is continuing to haunt us,",
+    "I thought we gave into the physicality… We’ve got to play in straight lines, can’t dance with the ball, and when we have the advantage, we can’t give it back."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-grizzlies-injury-report-game-preview-11-2-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-grizzlies-injury-report-game-preview-11-2-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-grizzlies-injury-report-game-preview-11-2-2026",
+   "title": "Pelicans vs. Grizzlies: Injury Report, Game Preview 11/2/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-11-01T21:50:56Z",
+   "tags": [],
+   "summary": "The Pelicans travel to Memphis to battle the Grizzlies at the FedEx Forum at 7:00 pm CT on Monday. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans travel to Memphis to battle the Grizzlies at the FedEx Forum at 7:00 pm CT on Monday.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Grizzlies injury report, team news, tune in details, and gameday information: PELICANS VS GRIZZLIES INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poo…",
+    "DOUBTFUL (G League two-way) GRIZZLIES INJURY REPORT Scotty Pippen Jr.",
+    "DOUBTFUL (low back soreness) Quinten Post QUESTIONABLE (right ankle sprain) PELICANS VS GRIZZLIES: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS GRIZZLIES STARTING LINEUPS MEMPHIS GRIZZLIES (…",
+    "Sacramento Kings Jaylen Wells, Cameron Boozer, Zach Edey, Cedric Coward, Cam Spencer NEW ORLEANS PELICANS (2-4) Previous Game Lineup: October 31 win vs.",
+    "Grizzlies Game Time, TV Channel, Radio & Location 📅 Game Time: Monday, Nov. 2 at 7:00 pm CT🏟️ Location: FedExForum in Memphis, TN🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Grizzlies TV: ABC24/DAZN-MEM📻 Grizzli…"
+   ],
+   "quotes": []
+  },
   {
    "source": "LAC 公式（nba.com）",
    "team": "LAC",
@@ -1277,96 +1453,6 @@
    "quotes": [
     "I'm more proud of the fact that we got 32 assists,",
     "We relied on our defense to ignite our offense."
-   ]
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-76ers-game-notes-october-30-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-76ers-game-notes-october-30-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-76ers-game-notes-october-30-2026",
-   "title": "Knicks vs 76ers Game Notes | October 30, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-10-29T22:32:49Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "October 30, 2026 7:30 PM ET | XFinity Mobile Arena (Philadelphia, PA) | Game 6; Away Game 3",
-   "facts": [
-    "October 30, 2026 7:30 PM ET | XFinity Mobile Arena (Philadelphia, PA) | Game 6; Away Game 3 TV: Prime; Radio: SiriusXM This Day in Knicks History October 30, 1946: Knicks head to Toronto where two days later they will pl…",
-    "October 30, 1954: Knicks open the 1954-55 campaign with a 94-83 win over Minneapolis at the Garden.",
-    "Carl Braun leads the way with 26 points.",
-    "It is the Knicks first game with the 24-second shot clock.",
-    "PHI: New York (10/20/26) – The New York Knicks were defeated by the Philadelphia 76ers, 106-100.",
-    "Karl-Anthony Towns led New York with 19 points on 66.7-percent shooting, 12 rebounds, two blocks, one assist and one steal.",
-    "Jalen Brunson added 21 points, five rebounds, and three assists.",
-    "Andre Drummond came off the bench and recorded 12 points, 14 rebounds, four assists, two blocks and one steal."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/altitude-and-viewlift-announce-record-season-growth-and-platform-upgrades-as-nhl-and-nba-seasons-get-underway",
-   "url": "https://www.nba.com/nuggets/news/altitude-and-viewlift-announce-record-season-growth-and-platform-upgrades-as-nhl-and-nba-seasons-get-underway",
-   "canonical_url": "https://nuggets.com/news/altitude-and-viewlift-announce-record-season-growth-and-platform-upgrades-as-nhl-and-nba-seasons-get-underway",
-   "title": "Altitude+ and ViewLift Announce Record Season Growth and Platform Upgrades as NHL and NBA Seasons Get Underway",
-   "author": "Nuggets.com",
-   "published_utc": "2026-10-29T21:05:01Z",
-   "tags": [
-    "Altitude Plus",
-    "Denver Nuggets"
-   ],
-   "summary": "NEW YORK and DENVER — October 27, 2026 — Altitude+, the official direct-to-consumer streaming home for the Colorado Avalanche and Denver Nuggets, opened the 2026–27 NHL and NBA seasons on the back of its strongest year yet. Powered by ViewLift, a leading provider of digital and media solutions for sports, news and entertainment organizations, Altitude+ closed out the 2025–26 seasons with major gai…",
-   "facts": [
-    "NEW YORK and DENVER — October 27, 2026 — Altitude+, the official direct-to-consumer streaming home for the Colorado Avalanche and Denver Nuggets, opened the 2026–27 NHL and NBA seasons on the back of its strongest year y…",
-    "Powered by ViewLift, a leading provider of digital and media solutions for sports, news and entertainment organizations, Altitude+ closed out the 2025–26 seasons with major gains, driven by a wave of fan-focused feature …",
-    "A Season of Fan-Focused Upgrades Altitude+ used the 2025–26 season to significantly expand what Avalanche and Nuggets fans can do on the platform.",
-    "Standout 2025–26 Performance Compared to the 2024–25 season, Altitude+ saw: +63% growth in registered users+186% growth in total views+105% growth in TVE subscribers “The growth we saw on Altitude+ this past season shows…"
-   ],
-   "quotes": [
-    "The growth we saw on Altitude+ this past season shows just how much appetite there is for a platform built around Avalanche and Nuggets fans specifically,",
-    "Features like multiview and spoiler control came directly from what fans told us they wanted, and as the season gets underway, we’re continuing to build the platform around that same feedback.",
-    "Altitude+ is exactly what we set out to build with KSE Media Ventures: a platform that keeps evolving around what fans actually want,",
-    "The numbers speak for themselves, and we’re excited to keep scaling that experience this season."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-start",
-   "url": "https://www.nba.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-start",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-rockets-preview-winning-habits-have-keyed-solid-start",
-   "title": "Mavericks-Rockets preview: 'Winning habits' have keyed solid start",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-10-29T21:00:57Z",
-   "tags": [],
-   "summary": "Remember all those gloom-and-doom predictions about the Mavericks’ opening eight-game stretch of the schedule that features seven opponents that fashion themselves as true title contenders?",
-   "facts": [
-    "And here they are with a 3-2 record against elite competition and a chance to shove it in the faces of all the naysayers.",
-    "So far, it’s been a wonderful, fun journey for new coach Dusty May, who doesn’t need to be reminded that the sailing through 82 games is not always going to be smooth like this.",
-    "First, Irving has returned with a purpose.",
-    "He played for the first time at American Airlines Center since his knee injury on March 3, 2025, and Wednesday’s game was vintage Irving.",
-    "He did a little bit of everything to help blow the game open with 15 points, four assists, two rebounds, two steals and two blocked shots.",
-    "The Mavericks were plus-25 when he was on the floor, best on the team.",
-    "Irving has averaged 18 points per game.",
-    "And he’s shot the ball well, hitting 49 percent from the field."
-   ],
-   "quotes": [
-    "We’ve obviously improved. But there are steps that teams have to go through to learn how to win and be confident they’re going to win. We’re definitely developing some winning habits along the way.",
-    "I can’t say enough good things about the way Gaff is playing right now,",
-    "He and P.J., two holdover guys on the front line, have been phenomenal.",
-    "We have great depth. And that’s a challenge at times, but it’s a great challenge because there are several guys on our team that deserved more minutes but they just didn’t get them. We’ve got to prior…"
    ]
   }
  ]
