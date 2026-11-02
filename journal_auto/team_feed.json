@@ -1,8 +1,389 @@
 {
- "updated_utc": "2026-11-02 08:12 UTC",
+ "updated_utc": "2026-11-02 18:48 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261102",
+   "url": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261102",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-washington-wizards-game-preview-injury-report-20261102",
+   "title": "Orlando Magic vs. Washington Wizards: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-02T18:26:13Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO – The Orlando Magic are eager to respond after suffering a tough home loss just over 24 hours ago.",
+   "facts": [
+    "ORLANDO – The Orlando Magic are eager to respond after suffering a tough home loss just over 24 hours ago.",
+    "Now, despite the quick turnaround, the Magic (2-4) will attempt to limit those self-inflicted errors and bounce back against the Washington Wizards (3-3) on Monday at 7:30 p.m.",
+    "On the second night of a back-to-back, Anthony Black will be sidelined due to right ankle injury management.",
+    "Black missed the preseason and the first two games of the regular season due to an ankle injury.",
+    "In wins, Orlando is committing 14.5 turnovers, leading to 14.0 points per contest.",
+    "In defeats, its giveaway number balloons to 18.5, and points off of those turnovers jumps to 20.8 per game.",
+    "Teams are shooting just 41.8 percent from the floor against the Wizards, the second lowest mark in the NBA, and a mere 28.7 percent from 3-points range, the lowest in the league.",
+    "Offensively, Washington is led by a pair of perennial All-Stars in Anthony Davis and Trae Young, who are both scoring over 20 points per game."
+   ],
+   "quotes": [
+    "When you have a home-home back-to-back, you try to get as much rest as you can (after the first game), you meet at the (Kia Center on Monday) to go through what the other team is looking to do, how we…",
+    "And then, based on who we have, use the best combinations that we can and then look to go get them.",
+    "It’s definitely a combination of things,",
+    "I think when you see that crowd being able to make the right play to your teammate is really important … There's a number of times where you have to be really strong with the ball, and then play throu…"
+   ]
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-host-trail-blazers-monday-2",
+   "url": "https://www.nba.com/nuggets/news/nuggets-host-trail-blazers-monday-2",
+   "canonical_url": "https://nuggets.com/news/nuggets-host-trail-blazers-monday-2",
+   "title": "Nuggets host Trail Blazers on Monday",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-02T17:21:27Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets host the Portland Trail Blazers on Monday.",
+   "facts": [
+    "INJURY REPORT Denver: Alpha Diallo — QUESTIONABLE (Personal Reasons) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) Portland: Jayson Kent — OUT (G League Two-Way Ass…",
+    "They're coming off a successful road trip that brought their overall record to 3-2.",
+    "Christian Braun scored a career-high 31 points on a career-best seven three-pointers.",
+    "Jamal Murray also had a huge outing, putting up 39 points on 7-of-9 shooting from three-point range and eight rebounds.",
+    "Portland has had a strong start to the year at 4-1.",
+    "TUNE-IN: Monday, November, 7:00 p.m.",
+    "MT; Altitude TV 2 on KTVD; Altitude+; Altitude Sports Radio 950 AM"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
+   "url": "https://www.nba.com/grizzlies/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
+   "canonical_url": "https://grizzlies.com/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
+   "title": "Grizzles Remain NBA's Only Unbeaten Team, Start Four-Game Home Stand With 136-105 Win Over Kings",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-02T17:04:50Z",
+   "tags": [
+    "Postgame Report"
+   ],
+   "summary": "MEMPHIS, TENN. (Oct. 31, 2026) - The Memphis Grizzlies (6-0) defeated the Sacramento Kings (0-6) 136-105 on Saturday at FedExForum. Memphis recorded their first 6-0 start to a season since the 2014-15 campaign and remain the only undefeated team in the NBA. Cameron Boozer led the Grizzlies in scoring with a career-high 27 points with nine rebounds in 26 minutes. Isaiah Stewart tallied a season-hig…",
+   "facts": [
+    "MEMPHIS, TENN. (Oct. 31, 2026) - The Memphis Grizzlies (6-0) defeated the Sacramento Kings (0-6) 136-105 on Saturday at FedExForum.",
+    "Memphis recorded their first 6-0 start to a season since the 2014-15 campaign and remain the only undefeated team in the NBA.",
+    "Cameron Boozer led the Grizzlies in scoring with a career-high 27 points with nine rebounds in 26 minutes.",
+    "Isaiah Stewart tallied a season-high 24 points on 8-of-9 shooting off the bench and tied the third-highest scoring game of his career.",
+    "GG Jackson scored a season-high 21 points on 5-of-5 shooting from 3-point range in 21 minutes off the bench.",
+    "Cam Spencer recorded his first double-double of the season with 10 points and a career-high tying 13 assists with zero turnovers.",
+    "Jerami Grant added 14 points on 5-of-10 shooting from the field and two blocks in 23 minutes off the bench.",
+    "After Sacramento scored the first seven points of the game, Memphis countered with a 23- 4 run."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-trail-blazers-to-sweep-road-trip-behind-cameron-boozers-first-career-triple-double",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-trail-blazers-to-sweep-road-trip-behind-cameron-boozers-first-career-triple-double",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-trail-blazers-to-sweep-road-trip-behind-cameron-boozers-first-career-triple-double",
+   "title": "Grizzlies Defeat Trail Blazers To Sweep Road Trip Behind Cameron Boozer's First Career Triple-Double",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-02T17:01:40Z",
+   "tags": [
+    "Postgame Report"
+   ],
+   "summary": "PORTLAND, Oregon (Oct. 29, 2026) - The Memphis Grizzlies (5-0) defeated the Portland Trail Blazers (3-1) 124-103 on Thursday to sweep their four-game road trip. Memphis has started 5-0 for the first time since the 2014-15 season. Cameron Boozer recorded his first career triple-double, becoming the second youngest player in NBA history to achieve the feat at 19 years, 103 days old. Boozer finished …",
+   "facts": [
+    "PORTLAND, Oregon (Oct. 29, 2026) - The Memphis Grizzlies (5-0) defeated the Portland Trail Blazers (3-1) 124-103 on Thursday to sweep their four-game road trip.",
+    "Memphis has started 5-0 for the first time since the 2014-15 season.",
+    "Cameron Boozer recorded his first career triple-double, becoming the second youngest player in NBA history to achieve the feat at 19 years, 103 days old.",
+    "Boozer finished with 18 points, 11 rebounds and 12 assists in 28 minutes and shot 6-for-10 from the field and 4-for- 5 from 3-point range.",
+    "Cedric Coward tallied 17 points on 7-for-14 shooting from the field with eight rebounds, four assists and three steals in 27 minutes.",
+    "Isaiah Stewart finished with 18 points on 7-for- 10 shooting from the field in 16 minutes off the bench.",
+    "Zach Edey added 13 points and seven rebounds in 18 minutes.",
+    "Deni Avdija led the Trail Blazers in scoring with 24 points on 8-for-16 shooting from the field with nine rebounds and seven assists in 32 minutes."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-jazz-110-105-win-fourth-straight-to-start-season",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-jazz-110-105-win-fourth-straight-to-start-season",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-jazz-110-105-win-fourth-straight-to-start-season",
+   "title": "Grizzlies Defeat Jazz 110-105, Win Fourth Straight To Start Season",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-02T16:57:28Z",
+   "tags": [
+    "Postgame Report"
+   ],
+   "summary": "SALT LAKE CITY, Utah (Oct. 26, 2026) - The Memphis Grizzlies (4-0) defeated the Utah Jazz (1-3) 110-105, Monday at Delta Center. The Grizzlies begin the season 4-0 for the second time in franchise history. Cedric Coward recorded his second consecutive double-double with a team-high 16 points and 11 rebounds. Coward shot 6-for-12 from the field and 4-for-4 from 3-point range. Ty Jerome tallied 15 p…",
+   "facts": [
+    "SALT LAKE CITY, Utah (Oct. 26, 2026) - The Memphis Grizzlies (4-0) defeated the Utah Jazz (1-3) 110-105, Monday at Delta Center.",
+    "The Grizzlies begin the season 4-0 for the second time in franchise history.",
+    "Cedric Coward recorded his second consecutive double-double with a team-high 16 points and 11 rebounds.",
+    "Coward shot 6-for-12 from the field and 4-for-4 from 3-point range.",
+    "Ty Jerome tallied 15 points with a team-high eight assists in 30 minutes and Jaylen Wells added 14 points on 5-for-9 shooting.",
+    "Cameron Boozer finished with 13 points, seven rebounds, four assists and one block in 31 minutes.",
+    "Jerami Grant added 13 points in 23 minutes off the bench and Quinten Post added 12 points in 13 minutes off the bench.",
+    "Keyonte George led the Jazz in scoring with 26 points on 9-for-17 shooting from the field."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/rival-report-unbeaten-grizzlies-present-big-test-for-aggressive-pelicans",
+   "url": "https://www.nba.com/pelicans/news/rival-report-unbeaten-grizzlies-present-big-test-for-aggressive-pelicans",
+   "canonical_url": "https://pelicans.com/news/rival-report-unbeaten-grizzlies-present-big-test-for-aggressive-pelicans",
+   "title": "Rival Report: Unbeaten Grizzlies present big test for aggressive Pelicans",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-02T15:55:05Z",
+   "tags": [],
+   "summary": "The formula that resulted in New Orleans turning an 0-4 start into consecutive wins Thursday and Saturday seemed crystal clear: Intensity and aggressiveness at both ends of the floor, resulting in paint dominance on offense, combined with disruptive defense that’s generating an avalanche of turnovers.",
+   "facts": [
+    "The formula that resulted in New Orleans turning an 0-4 start into consecutive wins Thursday and Saturday seemed crystal clear: Intensity and aggressiveness at both ends of the floor, resulting in paint dominance on offe…",
+    "The Pelicans totaled 146 points in the paint over their home victories against Sacramento and Atlanta, adding to a league-best average of 62.7 paint points (Victor Wembanyama-led San Antonio is next at 55.7).",
+    "On defense, the Kings and Hawks committed 44 turnovers, a chunk of those resulting in New Orleans’ 53 fast-break points.",
+    "Those easy buckets also factored into the Pelicans shooting 60 and 57 percent from the field, respectively.",
+    "Memphis (6-0) enters the Southwest Division clash in a groove on both sides of the ball, ranked third in offense and second on defense, pounding Sacramento in its most recent game Saturday, by a 136-105 margin.",
+    "To learn more about Memphis’ perfect start to 2026-27, we checked in with Grizzlies writer Michael Wallace, a senior editor and analyst for Grind City Media.",
+    "They used a 17-2 closing run to beat the Warriors, a 17-6 closing spurt to get past the Kings, a clutch finish from Ty Jerome to outlast the Kings and a 66-45 onslaught in the second half to sprint past the Blazers … all…",
+    "Pelicans.com: What aspect of the Grizzlies’ start was the most expected by you, based on what you projected entering 2026-27?"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ATL 公式（nba.com）",
+   "team": "ATL",
+   "team_ja": "ホークス",
+   "team_id": 1610612737,
+   "kind": "feature",
+   "key": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup",
+   "url": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup",
+   "canonical_url": "https://hawks.com/news/hawks-announce-star-studded-georgia-entertainment-lineup",
+   "title": "Hawks Announce Star-Studded Georgia Entertainment Lineup",
+   "author": "atlarehmann",
+   "published_utc": "2026-11-02T15:34:38Z",
+   "tags": [
+    "Atlanta Hawks"
+   ],
+   "summary": "Georgia-Natives Bubba Sparxxx, Lil Baby, and Yacht Rock Revue to Headline Halftime Performances Next Month;",
+   "facts": [
+    "Showcasing the rich and diverse musical roots of the Peach State, Georgia’s own Bubba Sparxxx, multi-platinum hip-hop superstar Lil Baby, and the acclaimed Yacht Rock Revue will headline halftime performances across the …",
+    "On Friday, Nov. 6, Georgia-native Bubba Sparxxx is set to perform at halftime during the first Hawks Cup Night presented by Harrah’s Cherokee Casinos against the Washington Wizards.",
+    "To continue the lineup, GRAMMY® Award-winning artist Lil Baby will perform halftime presented by Jack Daniels on Saturday, Nov. 7 as the team takes on the Brooklyn Nets, bringing his generational star power and explosive…",
+    "With more than 30 billion global streams, the superstar has cemented his dominance.",
+    "Celebrated for chart-topping 2000s staples like “Don’t Mess with My Man” and “Laundromat,” the beloved songstress will bring her signature vocal grace and rich Southern soul to set the tone for the night ahead.",
+    "For the third consecutive November home matchup on Monday, Nov. 9, acclaimed group Yacht Rock Revue will headline halftime when the Hawks host the Los Angeles Lakers, presented by Emory Healthcare.",
+    "Formed in Atlanta and hailed by Rolling Stone as the “world’s premier soft-rock party band,” the celebrated hometown powerhouse seamlessly blends sun-drenched ’70s and ’80s hits with standout tracks.",
+    "For higher savings, exclusive events, playoffs priority, and more, join the Hawks Family today with Membership packages starting at only 8 games."
+   ],
+   "quotes": [
+    "There is truly nothing like performing in front of your hometown team,",
+    "Georgia made me who I am, and stepping onto that court to rock with Hawks fans is a special moment, and I can’t wait to bring the energy.",
+    "Atlanta has shaped my sound and the energy I bring to the stage, so getting to share that with Hawks fans means a lot,",
+    "Atlanta is who I am, and I can’t wait to give the crowd an unforgettable show."
+   ]
+  },
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "feature",
+   "key": "https://www.nba.com/knicks/news/knicks-vs-nets-game-notes-november-2-2026",
+   "url": "https://www.nba.com/knicks/news/knicks-vs-nets-game-notes-november-2-2026",
+   "canonical_url": "https://knicks.com/news/knicks-vs-nets-game-notes-november-2-2026",
+   "title": "Knicks vs Nets Game Notes | November 2, 2026",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-11-02T15:28:48Z",
+   "tags": [
+    "Game Notes",
+    "Orlando Magic"
+   ],
+   "summary": "November 2, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 7; Home Game 4",
+   "facts": [
+    "November 2, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 7; Home Game 4 TV: MSG Networks; Radio: SiriusXM This Day in Knicks History November 2, 1990: Knicks open the 1990-91 campaign with a 134-130 (OT)…",
+    "Patrick Ewing leads the way with 38 points and 12 rebounds.",
+    "The victory was the Knicks first opening night win since 1984.",
+    "November 2, 2015: Carmelo Anthony becomes the 33rd player in NBA history to eclipse 21,000 career points.",
+    "BKN: Brooklyn (3/20/26) – The New York Knicks defeated the Brooklyn Nets, 93-92.",
+    "Karl-Anthony Towns led New York with 26 points, 15 rebounds, one assist and one steal.",
+    "Jalen Brunson scored 17 points, eight assists, five rebounds and two steals.",
+    "OG Anunoby recorded in 16 points on 53.8-percent shooting, three rebounds, two steals, one assist and one block."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/penn-medicine-philadelphia-76ers-assists-for-safe-communities-program-returns-for-third-season-supporting-local-organizations-in-greater-philadelphia",
+   "url": "https://www.nba.com/sixers/news/penn-medicine-philadelphia-76ers-assists-for-safe-communities-program-returns-for-third-season-supporting-local-organizations-in-greater-philadelphia",
+   "canonical_url": "https://sixers.com/news/penn-medicine-philadelphia-76ers-assists-for-safe-communities-program-returns-for-third-season-supporting-local-organizations-in-greater-philadelphia",
+   "title": "PENN MEDICINE, PHILADELPHIA 76ERS ‘ASSISTS FOR SAFE COMMUNITIES’ PROGRAM RETURNS FOR THIRD SEASON, SUPPORTING LOCAL ORGANIZATIONS IN GREATER PHILADELPHIA",
+   "author": "76ers PR",
+   "published_utc": "2026-11-02T14:45:00Z",
+   "tags": [],
+   "summary": "PHILADELPHIA—Dimes will be turned into dollars again this season as Penn Medicine and the Philadelphia 76ers continue to support local grassroots organizations through donations tied to on-court assists. For the third year in a row, the Assists for Safe Communities program will facilitate the donation of $76 for every pass by a 76er that leads to points. Today, the program announced the six new re…",
+   "facts": [
+    "PHILADELPHIA—Dimes will be turned into dollars again this season as Penn Medicine and the Philadelphia 76ers continue to support local grassroots organizations through donations tied to on-court assists.",
+    "For the third year in a row, the Assists for Safe Communities program will facilitate the donation of $76 for every pass by a 76er that leads to points.",
+    "Today, the program announced the six new recipient organizations for the 2026-27 season.",
+    "As I Plant the Seed—A North Philadelphia group offering multiple services to families including mental health support, educational programs, and job skills training 5 Shorts Project of CultureTrust Greater Philadelphia—A…",
+    "For example, participants in Free All Minds Academy, a beneficiary organization from the 2025-26 class, were able to attend a panel with Sixers star VJ Edgecombe and Rodney Babb, a violence recovery specialist at Penn Me…",
+    "Since becoming partners in 2022, Penn Medicine and the 76ers have collaborated on community-boosting efforts such as the promotion of physical activity, support of neighborhood safety efforts, and contributions to revita…"
+   ],
+   "quotes": [
+    "It’s always exciting to welcome a new cohort of organizations because we know how impactful this program has been – not only in terms of the financial support awarded, but also in elevating their miss…",
+    "The work that’s done by these committed groups, supported by Assists for Safe Communities, is crucially important to the health and well-being of our region.",
+    "Together with Penn Medicine, we are proud to continue growing this our Assists for Safe Communities program and advancing awareness around violence prevention,",
+    "Now in its third year, we have seen firsthand how this initiative has expanded its reach and created meaningful impact throughout our communities. We are excited to welcome this new group of recipient…"
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/features-cle-okc-261102",
+   "url": "https://www.nba.com/cavaliers/news/features-cle-okc-261102",
+   "canonical_url": "https://cavs.com/news/features-cle-okc-261102",
+   "title": "Previewing the Cavs-Thunder Mini Series",
+   "author": "clejgabriele",
+   "published_utc": "2026-11-02T14:24:08Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "If there can be something as a “huge week” this early in an NBA season, you’re looking at one over the next six days. (With a three-game roadie against the Hornets, Knicks and Heat on the other side.)",
+   "facts": [
+    "If there can be something as a “huge week” this early in an NBA season, you’re looking at one over the next six days. (With a three-game roadie against the Hornets, Knicks and Heat on the other side.) On Saturday night i…",
+    "Jarrett Allen notched his second double-double of the season and Evan Mobley stayed red-hot from beyond the arc, going 3-of-5 from deep.",
+    "The 6th-year man from Southern Cal – who’s piled up three double-doubles and three 20-point games – is now shooting .577 from three-point range this year, ranking him 6th in the league, just behind his teammate, rookie M…",
+    "Sure, at 4-2 heading into November's first game, you could say things are going pretty well in CavalierLand.",
+    "Like the Cavaliers, the Thunder wrapped up the month of October with a 4-2 mark, but the two teams are in distinctly different mindsets coming into Monday’s matchup.",
+    "Aside from forward Nae’Qwan Tomlin (still out with a back injury) and now Jaylon Tyson (out with an ankle sprain), the Wine & Gold have started the season at full strength.",
+    "Chet Holmgren is out 8-10 weeks with a patellar tendon tear, Cason Wallace just underwent left shoulder surgery and could miss the remainder of the regular season, Jalen Williams went under the knife last Wednesday to ad…",
+    "Alex Caruso injured his ankle on Friday night and is expected to miss some time as well."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "feature",
+   "key": "https://www.nba.com/timberwolves/news/andres-guzmans-timberwolves-artist-series-noche-latina",
+   "url": "https://www.nba.com/timberwolves/news/andres-guzmans-timberwolves-artist-series-noche-latina",
+   "canonical_url": "https://timberwolves.com/news/andres-guzmans-timberwolves-artist-series-noche-latina",
+   "title": "Behind The Design: Andrés Guzmán’s Timberwolves Artist Series T-Shirt For Noche Latina",
+   "author": "Ananth Pandian",
+   "published_utc": "2026-11-02T13:30:41Z",
+   "tags": [
+    "Artist Series",
+    "Game Preview",
+    "Noche Latina"
+   ],
+   "summary": "The Timberwolves Artist Series, presented by Wings Credit Union, tips off on Monday, Nov. 2 for Noche Latina when the Wolves host the Milwaukee Bucks. The first 2026-27 Artist Series drop features a t-shirt designed by Minneapolis-based artist and illustrator Andrés Guzmán, whose work combines traditional ink techniques with digital illustration.",
+   "facts": [
+    "The Timberwolves Artist Series, presented by Wings Credit Union, tips off on Monday, Nov. 2 for Noche Latina when the Wolves host the Milwaukee Bucks.",
+    "The first 2026-27 Artist Series drop features a t-shirt designed by Minneapolis-based artist and illustrator Andrés Guzmán, whose work combines traditional ink techniques with digital illustration.",
+    "His limited-edition Timberwolves Artist Series t-shirt takes inspiration from the classic animal shirts of the '90s, featuring wolves, a moonlit forest and a purple color palette that adds to the nostalgic look.",
+    "A '90s Throwback For his Timberwolves Artist Series debut, Guzmán looked beyond traditional basketball imagery, drawing inspiration from an unexpected piece of '90s fashion.",
+    "The shirt will be available at The Team Store, a Fanatics Experience, outside Section 136 while supplies last."
+   ],
+   "quotes": [
+    " Why Purple? Purple isn't usually a traditional Timberwolves color, but it's one Guzmán has long associated with Minneapolis. Guzmán: ",
+    " Inspired By Nature The flowers in the foreground came directly from Guzmán's own photos of plants he's spotted around Minneapolis. Guzmán: ",
+    " Seeing It On Game Night Our 2026-27 Noche Latina celebration will mark Guzmán's first-ever Wolves game. He's looking forward to experiencing Timberwolves basketball in person and seeing fans wearing …"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-vs-bulls-game-preview-injury-report-and-how-to-watch-11-2-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-vs-bulls-game-preview-injury-report-and-how-to-watch-11-2-2026",
+   "canonical_url": "https://sixers.com/news/sixers-vs-bulls-game-preview-injury-report-and-how-to-watch-11-2-2026",
+   "title": "Sixers vs. Bulls: Game Preview, Injury Report and How to Watch 11/2/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-02T13:09:32Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (6-1) will host the Chicago Bulls (1-5) on Monday before beginning a three-game road trip later this week. Tipoff is scheduled for 7:30 p.m. EST at Xfinity Mobile Arena.",
+   "facts": [
+    "The Philadelphia 76ers (6-1) will host the Chicago Bulls (1-5) on Monday before beginning a three-game road trip later this week.",
+    "Tipoff is scheduled for 7:30 p.m.",
+    "The Sixers defeated the Charlotte Hornets, 109-104, on the road Saturday, less than 24 hours after Friday’s Emirates NBA Cup win over the New York Knicks.",
+    "In both victories, VJ Edgecombe made a 3-pointer with just over 30 seconds remaining to put the Sixers ahead by four.",
+    "The Hornets went up 101-94 with 3:41 remaining in the fourth quarter before the Sixers closed the game on a 15-3 run.",
+    "In the absence of LeBron James and Joel Embiid on the second night of a back-to-back, Tyrese Maxey scored a season-high 38 points.",
+    "Anfernee Simons added 19 points off the bench, while Jaylen Brown returned to the lineup with 16.",
+    "Dean Wade recorded a career-high 10 assists."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-celtics-20261102",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-celtics-20261102",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-vs-celtics-20261102",
+   "title": "Magic Four-Point Play: Follow-Up vs. Celtics",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-02T13:08:30Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "In the Orlando Magic’s six games combined, their opponent has taken 52 more floor shots than them. That net field goal attempt mark ranks 29th. Turnovers and rebounding have been big factors in that. In Sunday’s loss, the Magic committed 18 turnovers, which led to 21 Celtics points, and Boston scored 15 second chance points off its 14 offensive rebounds. Another reason for the shot volume gap so f…",
+   "facts": [
+    "Possession Battle Continues to Be Key In the Orlando Magic’s six games combined, their opponent has taken 52 more floor shots than them.",
+    "That net field goal attempt mark ranks 29th.",
+    "In Sunday’s loss, the Magic committed 18 turnovers, which led to 21 Celtics points, and Boston scored 15 second chance points off its 14 offensive rebounds.",
+    "They are averaging just 9.4 transition shots per 100 possessions, which ranks 28th.",
+    "Last season, they averaged 13.2.",
+    "Magic Continue to Generate Great 3-Point Shots The big improvement for the Magic so far this season has been their 3-point shot quality.",
+    "Currently, Orlando ranks No. 1 in the league in 3-point attempts per 100 possessions off kickouts (from paint and non-paint).",
+    "It’s made 39.4 percent of those shots."
+   ],
+   "quotes": []
+  },
   {
    "source": "PHX 公式（nba.com）",
    "team": "PHX",
@@ -68,23 +449,23 @@
    "key": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
    "url": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
    "canonical_url": "https://mavs.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
-   "title": "Mavericks-Kings preview: Mavs face a very different challenge in the winless Kings",
+   "title": "Mavericks-Kings preview: It's a different challenge against winless Kings",
    "author": "Dwain Price",
    "published_utc": "2026-11-02T04:50:47Z",
    "tags": [
     "dallas mavericks",
     "nba"
    ],
-   "summary": "It’s obviously extremely early in this 82-game marathon of an NBA season. But when the Dallas Mavericks host the Sacramento Kings on Monday night, they’ll be dealing with something they haven’t dealt with all season.",
+   "summary": "It’s obviously extremely early in this 82-game marathon of an NBA season. But when the Dallas Mavericks host the Sacramento Kings on Monday night, they’ll be dealing with something they haven’t dealt with so far.",
    "facts": [
     "It’s obviously extremely early in this 82-game marathon of an NBA season.",
     "And Zach LaVine being a Team USA guy is capable of putting 50 or 60 (points) on you.",
     "Zach LaVine is 16th in scoring at 23.5 ppg and also is shooting 49.5 percent from the field.",
-    "Kings center Domantas Sabonis averages 16 ppg and is first in the league in rebounds (15.8) and second in field goal accuracy (69.1 percent).",
-    "Also for Sacramento, De’Andre Hunter is averaging 14 ppg and Precious Achiuwa averages 12.5 ppg. *This is the finale of a three-game home stand for the Mavs before they play in San Antonio on Wednesday.",
+    "Kings center Domantas Sabonis averages 16 ppg and is first in the league in rebounds (15.8) and second in field goal accuracy (69.1 percent). *This is the finale of a three-game home stand for the Mavs before they play i…",
     "Dallas opened the home stand last week with wins over Oklahoma City (120-96) and Houston (116-111).",
-    "The last time the Mavs swept a home stand that consisted of at least three games occurred from April 4-7, 2024 when they beat Atlanta (109-95), Golden State (108-106) and Houston (147-136 in overtime). *Except for the 12…",
-    "That includes losses to the Los Angeles Clippers (121-96), Memphis Grizzlies (123-112), San Antonio Spurs (130-103), New Orleans Pelicans (132-120) and again to the Grizzlies (136-105)."
+    "The last time the Mavs swept a home stand that consisted of at least three games was April 4-7, 2024, when they beat Atlanta (109-95), Golden State (108-106) and Houston (147-136 in overtime). *Except for the 128-120 los…",
+    "Sacramento Kings (0-6) vs.",
+    "Dallas Mavericks (4-2) WHEN: Monday, 7 p.m."
    ],
    "quotes": [
     "Each game there are different challenges, and this will be the first game that we’re favored -- that we’re supposed to win,",
@@ -163,7 +544,7 @@
    "key": "https://www.nba.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
    "url": "https://www.nba.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
    "canonical_url": "https://mavs.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
-   "title": "Daniel Gafford noted the NBA deserves a show-stopping entertainer like Kyrie Irving",
+   "title": "Gafford a big fan of a show-stopping entertainer like Irving",
    "author": "Dwain Price",
    "published_utc": "2026-11-02T01:16:20Z",
    "tags": [
@@ -171,20 +552,20 @@
     "Daniel Gafford",
     "nba"
    ],
-   "summary": "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of this past Friday game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
+   "summary": "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of Friday's game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
    "facts": [
-    "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of this past Friday game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
-    "Back then, Gafford had only been with the Dallas Mavericks for less than two months following a mid-season trade with the Washington Wizards.",
+    "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of Friday's game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
+    "Back then, Gafford had only been with the Dallas Mavericks for less than two months following a trade with the Washington Wizards.",
     "Irving, meanwhile, put on an extraordinary clinic in that late-season game against the Rockets as he poured in a season-high 48 points, with 25 of them coming in the fourth quarter and overtime as the Mavs escaped with a…",
-    "Fast forward to this past Friday and Irving was just as electric against the Mavs’ Interstate-45 rivals.",
-    "This time Irving dazzled and poured in 16 of his season-high 35 points in the fourth quarter as the Mavs prevailed, 116-111, over the Rockets.",
+    "Fast forward to Friday and Irving was just as electric against the Mavs’ Interstate-45 rivals.",
+    "This time Irving poured in 16 of his season-high 35 points in the fourth quarter as the Mavs prevailed, 116-111, over the Rockets.",
     "The eight-year veteran scored a season-high 18 points on 6-of-7 shots against the Rockets.",
     "He currently is tied for fourth in the NBA in blocks with two per game, and also averages 8.5 points and seven rebounds.",
-    "The other star player, Cooper Flagg, tallied 33 points and pulled down nine rebounds."
+    "Flagg, meanwhile, tallied 33 points and pulled down nine rebounds."
    ],
    "quotes": [
     "It reminded me of that (April 7, 2024) game a lot,",
-    "I’m just like, man this is like déjà vu. It’s all over again.",
+    "I’m just like, man this is like déjà vu.",
     "The game deserves a guy like him,",
     "Seeing him out for (19 months). That’s too long for a guy like Kyrie."
    ]
@@ -339,6 +720,31 @@
     "Offensively, our ability to be solid with the ball is continuing to haunt us,",
     "I thought we gave into the physicality… We’ve got to play in straight lines, can’t dance with the ball, and when we have the advantage, we can’t give it back."
    ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-okccle-261102",
+   "url": "https://www.nba.com/cavaliers/news/preview-okccle-261102",
+   "canonical_url": "https://cavs.com/news/preview-okccle-261102",
+   "title": "Cavs vs Thunder | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-01T22:21:59Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "Cleveland and the Oklahoma City Thunder will play two straight games against each other in a home-and-home series. OKC has been hit by the injury bug in the early going and sit at 4-2 through their first six games.",
+   "facts": [
+    "OKC has been hit by the injury bug in the early going and sit at 4-2 through their first six games.",
+    "GAME INFORMATION LAST TIME OUT The Wine & Gold bounced back in a big way, grabbing a 25 point win over the Bucks in Milwaukee on Halloween night; the Cavs led by as many as 35 at one point.",
+    "Evan Mobley (27 points) and Jarrett Allen (25 points) led the way in the win, as Allen doubled-up with 11 rebounds.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Khalifa Diop - G League (on assignment) - OUT -Jaylon Tyson - Ankle - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - G League (Two-Way) - OUT -Peyton Wat…",
+    "UP NEXT It'll be the Cavs and Thunder again on Wednesday, this time in Oklahoma City, before a big weekend back-to-back at home against the 76ers and Knicks."
+   ],
+   "quotes": []
   },
   {
    "source": "NOP 公式（nba.com）",
@@ -615,12 +1021,17 @@
    "title": "Flagg-Irving tag team shines, but the best is yet to come, they say",
    "author": "Eddie Sefko",
    "published_utc": "2026-10-31T20:37:16Z",
-   "tags": [],
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
    "summary": "If you wondered what a perfect tag team looks like, Kyrie Irving and Cooper Flagg showed you on Friday night.",
    "facts": [
     "Rarely in Mavericks’ history have two elite players looked so comfortable, so compatible, as the grizzled veteran and plucky teenager did in the 116-111 win over the Houston Rockets.",
     "The Irving-Flagg consortium pinned 68 points in handing the Rockets their first loss of the season.",
-    "Confident to the of five Flagg points in the final 100 seconds of play when the game was on the line.",
+    "Confident to the tune of five Flagg points in the final 100 seconds of play when the game was on the line.",
     "And before you start to come with the obvious concern about Flagg being 19 years old and Irving being 34, they’ve already heard it and disregarded it.",
     "The Mavericks are 4-2 despite a torturous schedule to start the season.",
     "May said he wanted to give the 6-6 forward a few extra days to get his conditioning back before Monday’s game against Sacramento.",
@@ -922,7 +1333,7 @@
    "facts": [
     "During the 2020-21 season, Kyrie Irving and Ime Udoka were both working for the Brooklyn Nets.",
     "Irving poured in 16 of his game-high 35 points in the fourth quarter as the Mavs won their third straight game, edging the Rockets, 116-111, before a boisterous crowd of 18,832.",
-    "In tallying almost have of the 40 points the Mavs scored in the fourth quarter, Irving was money in the bank.",
+    "In tallying almost half of the 40 points the Mavs scored in the fourth quarter, Irving was money in the bank.",
     "The Rockets had some success in that season opener, winning 128-110.",
     "Irving wound up 12-of-19 from the field, 5-of-8 from three-point land, 6-of-6 from the charity stripe and also distributed nine assists.",
     "In last week’s121-105 win over Indiana, Washington had 20 points, 13 rebounds and three blocks.",
@@ -1274,341 +1685,6 @@
     "He appeared in all 82 games with 21 starts last season, while averaging 13.5 points, 3.4 assists, 2.9 rebounds, 1.49 steals and 2.8 3-pointers made in 26.2 minutes per game.",
     "Last season, Sheppard joined Tyrese Maxey and Ausar Thompson as the only players to have recorded at least 120 steals and 50 blocks.",
     "Sheppard also had the fifth-highest scoring increase (+9.1 ppg) of any player from 2024-25 to 2025-26."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/glendale-park-basketball-court",
-   "url": "https://www.nba.com/mavs/news/glendale-park-basketball-court",
-   "canonical_url": "",
-   "title": "Mavs, JPMorganChase Refurbish South Dallas’ Glendale Park Basketball Court",
-   "author": "Lauren Wyatt",
-   "published_utc": "2026-10-30T18:47:18Z",
-   "tags": [
-    "dallas mavericks",
-    "Tobi Lawal"
-   ],
-   "summary": "The Superblock’s Glendale Park was the latest canvas for a Dallas Mavericks basketball court refurbishment.",
-   "facts": [
-    "On Thursday, the Mavs, JPMorganChase and Dallas community leaders gathered to cut the ribbon on the new court at the 63-acre park along Ledbetter Drive in South Dallas.",
-    "We have District 4, which is north of Ledbetter, and District 3, which is south of Ledbetter.",
-    "Growing up in London, Lawal had more access to soccer facilities than basketball courts and didn’t start playing basketball until he was 16 years old.",
-    "Deputy Mayor Pro Tem Maxie Johnson announced a $6.5 million investment from the City of Dallas at Thursday’s ceremony to build a new aquatic center at the park."
-   ],
-   "quotes": [
-    "Glendale Park is a unique park in our park system,",
-    "In keeping with our theme of bringing communities together, this type of investment actually brings two different council districts together to provide an amenity that all residents will be able to en…",
-    "This is our home, so partnering with the Dallas Mavericks and doing this right here in South Dallas, in Oak Cliff, is so important to us because we believe it’s important to give back to the communiti…",
-    "This court is tough – if I had this when I was younger, I might have started basketball earlier,"
-   ]
-  },
-  {
-   "source": "POR 公式（nba.com）",
-   "team": "POR",
-   "team_ja": "トレイルブレイザーズ",
-   "team_id": 1610612757,
-   "kind": "injury",
-   "key": "https://www.nba.com/blazers/news/ja-morant-injury-update",
-   "url": "https://www.nba.com/blazers/news/ja-morant-injury-update",
-   "canonical_url": "https://blazers.com/news/ja-morant-injury-update",
-   "title": "Ja Morant Injury Update",
-   "author": "Portland Trail Blazers",
-   "published_utc": "2026-10-30T18:36:59Z",
-   "tags": [
-    "Ja Morant"
-   ],
-   "summary": "PORTLAND, Ore. (October 30, 2026) – Trail Blazers guard Ja Morant sustained a left hamstring injury during last night’s game against the Memphis Grizzlies. Imaging revealed a grade two left hamstring strain.",
-   "facts": [
-    "PORTLAND, Ore. (October 30, 2026) – Trail Blazers guard Ja Morant sustained a left hamstring injury during last night’s game against the Memphis Grizzlies.",
-    "Imaging revealed a grade two left hamstring strain.",
-    "Morant will be re-evaluated in four weeks."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-timberwolves-10-30-26",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-timberwolves-10-30-26",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-timberwolves-10-30-26",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Timberwolves",
-   "author": "LAClippers",
-   "published_utc": "2026-10-30T18:30:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Anthony Edwards",
-    "Broadcast Information",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Darius Garland",
-    "Game Previews",
-    "Injury Report"
-   ],
-   "summary": "Last Matchup: 03/11/2026 | LAC 153 - MIN 128 | K.Leonard: 45 PTS - A.Edwards: 36 PTSThe Clippers scored 153 points in their last matchup against the Timberwolves, the most points that either team has scored in series history. It is tied for the Clippers’ second-most points in a regular-season game all-time.Keaton Wagler scored 21 points off the bench against the Lakers, becoming the first Clippers…",
-   "facts": [
-    "MINNESOTA TIMBERWOLVES FIVE THINGS TO KNOW Last Matchup: 03/11/2026 | LAC 153 - MIN 128 | K.Leonard: 45 PTS - A.Edwards: 36 PTSThe Clippers scored 153 points in their last matchup against the Timberwolves, the most point…",
-    "It is tied for the Clippers’ second-most points in a regular-season game all-time.Keaton Wagler scored 21 points off the bench against the Lakers, becoming the first Clippers rookie to score 20+ off the bench since Brand…",
-    "Since the start of last season, the Clippers have had 13 such games; only Minnesota and Golden State have more, with 14 each.The Clippers have scored an NBA-high 43.0% of their points from the bench this season.",
-    "Their reserves have also accounted for 46.3% of the team’s rebounds, the NBA’s second-highest rate.BONUS: Darius Garland averages 21.7 points in his career against Minnesota, his second-highest average against any oppone…",
-    "His career-high 51 points came against the Timberwolves on November 13, 2022. 26-27 OPPONENT COMPARISON"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/2026-27-boom-transactions",
-   "url": "https://www.nba.com/pacers/news/2026-27-boom-transactions",
-   "canonical_url": "https://pacers.com/news/2026-27-boom-transactions",
-   "title": "2026-27 Boom Transactions",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-10-30T18:01:47Z",
-   "tags": [
-    "Noblesville Boom"
-   ],
-   "summary": "This page will house all transactions involving the Indiana Pacers and their G League affiliate, the Noblesville Boom. Each time a player from the Pacers roster is assigned to or recalled from the Boom is listed below along with a list of players currently on assignment with the Boom. Please note that players under two-way contracts do not have to be formally assigned or recalled.",
-   "facts": [
-    "Please note that players under two-way contracts do not have to be formally assigned or recalled.",
-    "CURRENTLY ON ASSIGNMENT WITH BOOM: None PLAYERS UNDER TWO-WAY CONTRACT: Kobe Brown, Jalen Slawson, Braden Smith Oct. 31, 2026: Pacers recall Johnny Furphy and T.J.",
-    "Oct. 30, 2026: Pacers assign Johnny Furphy and T.J."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "quotes",
-   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-early-impressions-of-the-new-look-2026-27-bulls",
-   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-early-impressions-of-the-new-look-2026-27-bulls",
-   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-early-impressions-of-the-new-look-2026-27-bulls",
-   "title": "Ask Sam Mailbag: Early impressions of the new-look 2026-27 Bulls",
-   "author": "Sam Smith",
-   "published_utc": "2026-10-30T17:53:20Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "Alexia Frank: I know this is a rebuilding year and I’m willing to be patient, but I’d be lying if I said I wasn’t feeling a little deflated already. And not just because the Milwaukee Brewers just won the World Series. Losing to the Knicks at home stung; though I appreciated the effort. Even this early in the season, I can already see a difference between this regime and the previous one. I apprec…",
-   "facts": [
-    "But then the NBA still makes you play 82 games until you can get to the next hurdle, which is the draft.",
-    "It seems like they’ve been smart in setting themselves up well with short and expiring contracts that make it easier to make trades, move on from players and acquire draft picks.",
-    "Like 80 guys on injury report; supposedly 15 to 20 percent of the league.",
-    "NBA teams rarely scrimmage for concerns over, ironically, injury, which I assert with little certainty — actually no medical information or training or much observation, actually — leads to more injuries because of the s…",
-    "You can’t go from resting to 100 miles an hour in the game and not expect some grinding of the gears.",
-    "But there’s a price to pay, and it’s probably this ongoing proliferation of injuries that further determines the champion being the one who has the most guys standing.",
-    "We’ve always been told injuries, risk and luck are all part of the equation.",
-    "Here's my idea: Each team is allowed 8 three-point attempts per period for quarters 1-3 (after 8 attempts, players can still shoot from deep, but it only counts for 2)."
-   ],
-   "quotes": [
-    "take what the defense gives you."
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261029-boston-childrens-patients-step-inside-celtics-world-on-historic-day",
-   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261029-boston-childrens-patients-step-inside-celtics-world-on-historic-day",
-   "canonical_url": "https://celtics.com/news/sidebar-prac-20261029-boston-childrens-patients-step-inside-celtics-world-on-historic-day",
-   "title": "Boston Children’s Patients Step Inside Celtics’ World on Historic Day",
-   "author": "Taylor Snow",
-   "published_utc": "2026-10-30T17:48:56Z",
-   "tags": [
-    "Boston Children's Hospital",
-    "Practice",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "BOSTON – Four former Boston Children’s Hospital patients had an opportunity of a lifetime Thursday morning: a front-row seat to Celtics practice at the Auerbach Center.",
-   "facts": [
-    "Earlier Thursday, the Celtics announced a gift of more than $200 million to Boston Children’s Hospital on behalf of the Celtics ownership group in association with the Celtics and the Shamrock Foundation."
-   ],
-   "quotes": [
-    "I'm big in the community. I'm big into helping other people,",
-    "So I'm glad that they're here. I'm glad they have smiles on their faces and they're happy to be here.",
-    "To have those families with us and be able to see that our impact is so much beyond basketball, it's always great to do that,",
-    "So we’re happy to have them."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261030",
-   "url": "https://www.nba.com/magic/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261030",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-toronto-raptors-game-preview-injury-report-20261030",
-   "title": "Orlando Magic at Toronto Raptors: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-10-30T16:51:30Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Orlando Tips Off Emirates NBA Cup 2026 Action in Toronto",
-   "facts": [
-    "Orlando Tips Off Emirates NBA Cup 2026 Action in Toronto TORONTO – The Orlando Magic are hoping their second tilt in Toronto looks different than their first.",
-    "And no, they’re not just talking about the aesthetics of the Raptors’ Emirates NBA Cup 2026 court.",
-    "The Magic (1-3) will attempt to bounce back in Toronto when they square off with the Raptors (3-1) for the second straight time on Friday at 7:30 p.m.",
-    "The Raptors currently possess the NBA’s top defensive rating (97.9), have the most steals (14.3) per outing and are scoring the second most points off turnovers (24.3) per game.",
-    "The Magic went 5-1 in in-season tournament action in 2025, with their lone loss coming at the hands of the eventual champions, the New York Knicks, in the semifinals in Las Vegas.",
-    "Those two teams would meet again in the 2026 NBA Finals.",
-    "IN AND OUT: Paolo Banchero (right low-grade high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery), Noah Penda (right partially torn hamstring) and Jalen Suggs (righ…",
-    "For Toronto, Nate Bittle (right foot avulsion fracture) and Kawhi Leonard (left knee effusion / swelling) are out."
-   ],
-   "quotes": [
-    "We have to play more intense, anyway,",
-    "So, (the fact that it’s a cup game) should just add to the fire.",
-    "It’s about improving on our performance from the last game and getting better with our principles,",
-    "And like I said, playing a lot harder."
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-play-suns-in-first-emirates-nba-cup-game",
-   "url": "https://www.nba.com/nuggets/news/nuggets-play-suns-in-first-emirates-nba-cup-game",
-   "canonical_url": "https://nuggets.com/news/nuggets-play-suns-in-first-emirates-nba-cup-game",
-   "title": "Nuggets play Suns in first Emirates NBA Cup game",
-   "author": "Matt Brooks",
-   "published_utc": "2026-10-30T16:25:51Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets begin their 2026 Emirates NBA Cup journey in Phoenix.",
-   "facts": [
-    "The Denver Nuggets begin their 2026 Emirates NBA Cup journey in Phoenix.",
-    "INJURY REPORT Denver: Alpha Diallo — QUESTIONABLE (Personal Reasons) Cameron Johnson — QUESTIONABLE (Right Ankle Sprain) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprai…",
-    "All 30 teams will compete for the NBA Cup trophy, with a winner crowned at the Hinkle Fieldhouse in Indianapolis, Indiana, on December 11th.",
-    "That includes Friday's showdown with the Suns, who have started the season at 1-2.",
-    "The Nuggets, meanwhile, are hoping to go above .500 for the first time this season, sitting at 2-2.",
-    "It remains to be seen if they'll actually suit up for the game against the Suns, but this injury update certainly indicates they're trending in the right direction.",
-    "TUNE-IN: Friday, October 30, 8:00 p.m.",
-    "MT; Altitude TV; Altitude+; Altitude Sports Radio 92.5 FM"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "feature",
-   "key": "https://www.nba.com/timberwolves/news/minnesota-timberwolves-introduce-pack-deals-to-make-games-more-accessible-for-fans",
-   "url": "https://www.nba.com/timberwolves/news/minnesota-timberwolves-introduce-pack-deals-to-make-games-more-accessible-for-fans",
-   "canonical_url": "https://timberwolves.com/news/minnesota-timberwolves-introduce-pack-deals-to-make-games-more-accessible-for-fans",
-   "title": "Minnesota Timberwolves Introduce “Pack Deals” to Make Games More Accessible for Fans",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-10-30T15:57:08Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "New ticket program will offer tickets to select home games throughout the season",
-   "facts": [
-    "Tickets will be offered at a special price of $20 with no fees while supplies last."
-   ],
-   "quotes": [
-    "We’re always looking for new ways to expand access to Timberwolves games and create more opportunities for fans to experience NBA basketball in person,",
-    "Pack Deals is about making that experience more accessible and ensuring more fans have the opportunity to come together, support our team and be part of the excitement at Target Center."
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-clemil-261031",
-   "url": "https://www.nba.com/cavaliers/news/preview-clemil-261031",
-   "canonical_url": "https://cavs.com/news/preview-clemil-261031",
-   "title": "Cavs at Bucks | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-10-30T14:30:26Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "The Cavs wrap-up a brief two-game road trip tonight with some Halloween hoops against the Milwaukee Bucks. This is the first of four meetings between the two teams this season (Jan. 15 at MIL; Feb. 16 & 16 in CLE).",
-   "facts": [
-    "This is the first of four meetings between the two teams this season (Jan. 15 at MIL; Feb. 16 & 16 in CLE).",
-    "GAME INFORMATION LAST TIME OUT Cleveland ran out to a 15-point lead in the first quarter but fell off the pace in the middle of the game, trailing by 11 at one point in the second half.",
-    "The end of the fourth was close, but Donovan Mitchell's game-tying three drew iron as the Cavs dropped to 0-2 on the road this season.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Meleek Thomas - Foot - QUESTIONABLE -Khalifa Diop - Foot - OUT -Jaylon Tyson - Ankle - OUT -Nae'Qwan Tomlin - Back - OUT Bucks: -TBD KEEP UP WITH THE ACTION Fo…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-knicks-nba-cup-game-preview-injury-report-and-how-to-watch-10-30-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-knicks-nba-cup-game-preview-injury-report-and-how-to-watch-10-30-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-knicks-nba-cup-game-preview-injury-report-and-how-to-watch-10-30-2026",
-   "title": "Sixers vs. Knicks: NBA Cup Game Preview, Injury Report and How to Watch 10/30/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-10-30T12:34:09Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (4-1) are set to host the New York Knicks (2-3) Friday in their first Emirates NBA Cup group-play game. Tipoff is scheduled for 7:30 p.m. EDT at Xfinity Mobile Arena.",
-   "facts": [
-    "The Philadelphia 76ers (4-1) are set to host the New York Knicks (2-3) Friday in their first Emirates NBA Cup group-play game.",
-    "Tipoff is scheduled for 7:30 p.m.",
-    "The Sixers, who withstood a 17-0 run to begin the third quarter, earned a 114-109 road victory over the Indiana Pacers on Wednesday.",
-    "Tyrese Maxey scored 17 of his game-high 27 points in the fourth quarter.",
-    "Maxey leads the NBA in fourth-quarter scoring with 55 points (11.0 per game) and ranks second in total points with 142.",
-    "Philadelphia recorded four 20-point scorers (Maxey, Joel Embiid, Jaylen Brown and Anfernee Simons) and three double-doubles (Embiid, Brown and LeBron James) in the same game for the first time since Oct. 31, 2009, at New…",
-    "In a 133-127 comeback victory over the Bulls on Wednesday, Jalen Brunson led the way with a season-high 38 points.",
-    "Karl-Anthony Towns posted 27 points and 20 rebounds Tuesday against the Pistons."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/pistons-open-2026-nba-cup-play-tonight-in-brooklyn",
-   "url": "https://www.nba.com/pistons/news/pistons-open-2026-nba-cup-play-tonight-in-brooklyn",
-   "canonical_url": "https://pistons.com/news/pistons-open-2026-nba-cup-play-tonight-in-brooklyn",
-   "title": "Pistons Open 2026 NBA Cup Play Tonight in Brooklyn",
-   "author": "Pistons.com",
-   "published_utc": "2026-10-30T12:14:31Z",
-   "tags": [
-    "Cade Cunningham"
-   ],
-   "summary": "The Detroit Pistons begin their 2026 NBA Cup schedule Friday in Brooklyn, opening a four-game group-stage slate in hopes of raising the in-season tournament trophy at Hinkle Fieldhouse in Indianapolis at the Championship Game on Friday, Dec. 11.",
-   "facts": [
-    "The Detroit Pistons begin their 2026 NBA Cup schedule Friday in Brooklyn, opening a four-game group-stage slate in hopes of raising the in-season tournament trophy at Hinkle Fieldhouse in Indianapolis at the Championship…",
-    "How the Pistons finished last year Detroit finished third in East Group B with a 2-2 record in the 2025 NBA Cup, missing out on the knockout rounds in the final game of group play.",
-    "The Pistons opened with victories over the Brooklyn Nets and Philadelphia 76ers before falling to the Boston Celtics, setting up a win-or-go home meeting with the Orlando Magic.",
-    "Despite a 39-point triple-double from All-NBA guard Cade Cunningham, the Pistons lost to the Orlando Magic, 112-109, and were eliminated from contention, finishing with a 2-2 record.",
-    "Breaking down East Group A This year, Detroit will compete in East Group A and have plenty of recent history with their group stage opponents which includes last year’s group stage opponent, the Brooklyn Nets, first-roun…",
-    "Brooklyn finished 1-3 in NBA Cup play and will look to improve in the second year of the tournament.Toronto Raptors (Nov. 20): Toronto went undefeated in group play last season and returns as a team capable of making ano…",
-    "Toronto is off to a 3-1 start in the young NBA season, and their matchup with Detroit on Nov. 20 could prove to be one of the group's defining games.Orlando Magic (Nov. 24): Another team that saw NBA Cup success going 4-…",
-    "Not only did the Magic defeat the Pistons in the final Group B match last season to solidify themselves a spot in the quarterfinals, the Magic pushed Detroit to a Game 7 in the first round of the NBA Playoffs, nearly eli…"
    ],
    "quotes": []
   }
