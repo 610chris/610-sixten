@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T08:58:57+09:00",
+  "updated": "2026-11-02T10:04:44+09:00",
   "items": [
     {
       "id": "134",
@@ -22445,6 +22445,165 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジェイソン・テイタム、マジック戦で32得点\n\n・セルティックスが108-97でマジックに勝利\n・テイタムはFG8/19・FT15/17で32得点\n・アシスト7・リバウンド4、第4Qに31点で突き放す\n\n💬 テイタムとジョージ、今季のセルティックスのエースはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "768",
+      "slug": "768-porter-jr-23-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-02",
+      "headline": "MPJ、ペイサーズ戦で23得点9リバウンド",
+      "excerpt": "ブルックリン・ネッツのマイケル・ポーター・ジュニアは現地時間11月1日、インディアナ・ペイサーズ戦に36分出場し、23得点・リバウンド9・アシスト3を記録した。アンドリュー・ネムハードと並ぶこの日の最多得点となり、ネッツは98-90でペイサーズに勝利した。",
+      "points": [
+        "FG7/16・3PT3/10・FT6/9で23得点",
+        "リバウンド9でチーム最多",
+        "ネッツが98-90で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/768-porter-jr-23-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Michael Porter Jr."
+      ],
+      "question": "MPJとネムハード、同じ23点でもどっちの貢献が大きかった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "MICHAEL PORTER JR.",
+        "opponent": "vs. PACERS",
+        "points": 23,
+        "stats": [
+          "9 REB",
+          "3 AST",
+          "7/16 FG",
+          "3/10 3PT",
+          "6/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/768-1.jpg",
+        "https://sixten.jp/assets/ig/768-2.jpg",
+        "https://sixten.jp/assets/ig/768-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T09:58:39+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "MPJ、ペイサーズ戦で23得点9リバウンド\n\n・FG7/16・3PT3/10・FT6/9で23得点\n・リバウンド9でチーム最多\n・ネッツが98-90で勝利\n\n💬 MPJとネムハード、同じ23点でもどっちの貢献が大きかった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "769",
+      "slug": "769-nembhard-23-points-nets",
+      "category": "NBA",
+      "date": "2026-11-02",
+      "headline": "ネムハード、ネッツ戦で23得点",
+      "excerpt": "インディアナ・ペイサーズのアンドリュー・ネムハードは現地時間11月1日、ブルックリン・ネッツ戦に35分出場し、23得点・アシスト4・リバウンド3を記録した。マイケル・ポーター・ジュニアと並ぶこの日の最多得点となったが、ペイサーズは90-98でネッツに敗れた。",
+      "points": [
+        "FG7/19・3PT4/10・FT5/6で23得点",
+        "アシスト4・リバウンド3",
+        "ペイサーズは90-98で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/769-nembhard-23-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Andrew Nembhard"
+      ],
+      "question": "ペイサーズ、この敗戦をどう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANDREW NEMBHARD",
+        "opponent": "vs. NETS",
+        "points": 23,
+        "stats": [
+          "4 AST",
+          "3 REB",
+          "7/19 FG",
+          "4/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/769-1.jpg",
+        "https://sixten.jp/assets/ig/769-2.jpg",
+        "https://sixten.jp/assets/ig/769-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T09:59:15+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ネムハード、ネッツ戦で23得点\n\n・FG7/19・3PT4/10・FT5/6で23得点\n・アシスト4・リバウンド3\n・ペイサーズは90-98で敗戦\n\n💬 ペイサーズ、この敗戦をどう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "771",
+      "slug": "771-gunma-crane-thunders-osaka-evessa-102-60",
+      "category": "JAPAN",
+      "date": "2026-11-02",
+      "headline": "群馬、大阪に102-60で2連勝",
+      "excerpt": "群馬クレインサンダーズは現地時間11月1日、本拠地オープンハウスアリーナ太田でのB.LEAGUE PREMIER 2026-27シーズンの一戦で大阪エヴェッサと対戦し、102-60で快勝した。前日の93-60に続く連勝で、ロスター11人全員が得点。谷口大智の3Pでジャストの100点に到達し、チームで恒例の「ドーナツ」ポーズが出た。",
+      "points": [
+        "前日の93-60に続く42点差の快勝",
+        "出場11人全員が得点",
+        "谷口大智の3Pでジャスト100点「ドーナツ」達成"
+      ],
+      "source": "群馬クレインサンダーズ公式(PR TIMES)",
+      "photo_credit": "プレスリリースより(PR TIMES)",
+      "url": "https://sixten.jp/journal/771-gunma-crane-thunders-osaka-evessa-102-60.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-771-hero.jpg",
+      "subject": [],
+      "question": "群馬の次戦、三河・名古屋D相手にどこまで通用する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/771-1.jpg",
+        "https://sixten.jp/assets/ig/771-2.jpg",
+        "https://sixten.jp/assets/ig/771-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T10:04:42+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "群馬、大阪に102-60で2連勝\n\n・前日の93-60に続く42点差の快勝\n・出場11人全員が得点\n・谷口大智の3Pでジャスト100点「ドーナツ」達成\n\n💬 群馬の次戦、三河・名古屋D相手にどこまで通用する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 群馬クレインサンダーズ公式(PR TIMES)\n写真: プレスリリースより(PR TIMES)\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "772",
+      "slug": "772-yokohama-excellence-niigata-split",
+      "category": "JAPAN",
+      "date": "2026-11-02",
+      "headline": "横浜EX、新潟戦は1勝1敗",
+      "excerpt": "横浜エクセレンスは10月31日・11月1日、本拠地でB.LEAGUE ONE 2026-27第7節の新潟アルビレックスBBと連戦した。西山達哉の引退セレモニーを控えた第1戦は77-83で落としたが、第2戦はトレイ・ボイドⅢらの活躍で90-75と立て直した。",
+      "points": [
+        "西山達哉引退試合は77-83で敗戦",
+        "第2戦はラインナップ変更で90-75",
+        "トレイ・ボイドⅢらが奮起"
+      ],
+      "source": "横浜エクセレンス公式(PR TIMES)",
+      "photo_credit": "プレスリリースより(PR TIMES)",
+      "url": "https://sixten.jp/journal/772-yokohama-excellence-niigata-split.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-772-hero.jpg",
+      "subject": [],
+      "question": "",
+      "no_question": true,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/772-1.jpg",
+        "https://sixten.jp/assets/ig/772-2.jpg",
+        "https://sixten.jp/assets/ig/772-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T10:04:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "横浜EX、新潟戦は1勝1敗\n\n・西山達哉引退試合は77-83で敗戦\n・第2戦はラインナップ変更で90-75\n・トレイ・ボイドⅢらが奮起\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 横浜エクセレンス公式(PR TIMES)\n写真: プレスリリースより(PR TIMES)\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
     }
   ]
 }
