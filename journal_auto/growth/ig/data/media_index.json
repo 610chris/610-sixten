@@ -833,6 +833,30 @@
   "template": "score",
   "timestamp": "2026-10-12T03:59:49+0000"
  },
+ "17910039108326089": {
+  "arms": {
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "772",
+  "auto": true,
+  "caption_len": 250,
+  "caption_lines": 13,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "横浜EX、新潟戦は1勝1敗",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfOG0pbEVTG/",
+  "product": "REELS",
+  "route": "source",
+  "source": "横浜エクセレンス公式(PR TIMES)",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-02T01:17:23+0000"
+ },
  "17910388265645839": {
   "auto": false,
   "caption_len": 85,
@@ -1190,6 +1214,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-21T22:41:54+0000"
+ },
+ "17917458546469138": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "758",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "モブリー、バックス戦で27得点 —— キャバリアーズが快勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfLrnjsCMId/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Cavaliers vs. Bucks・2026年10月31日)",
+  "subject": [
+   "Evan Mobley"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-01T02:41:09+0000"
  },
  "17919743028451892": {
   "arms": {
@@ -2425,6 +2476,30 @@
   "template": "score",
   "timestamp": "2026-10-25T03:12:30+0000"
  },
+ "17956495995268486": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "771",
+  "auto": true,
+  "caption_len": 322,
+  "caption_lines": 17,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "群馬、大阪に102-60で2連勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfOGj7dCoqV/",
+  "product": "REELS",
+  "route": "source",
+  "source": "群馬クレインサンダーズ公式(PR TIMES)",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-02T01:15:04+0000"
+ },
  "17956811557667461": {
   "auto": false,
   "caption_len": 85,
@@ -2753,6 +2828,33 @@
   ],
   "template": "score",
   "timestamp": "2026-10-24T05:28:28+0000"
+ },
+ "17976228072170523": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "759",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、ティンバーウルブズ戦で43得点6ブロック",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfLssbdDBXb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-01T02:50:35+0000"
  },
  "17976476788785052": {
   "auto": false,
@@ -4668,6 +4770,32 @@
   "template": "news",
   "timestamp": "2026-10-27T10:05:05+0000"
  },
+ "18078742619460635": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "766",
+  "auto": true,
+  "caption_len": 362,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ホーネッツ、カニップル&マクニーリーのオプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfN-dkzDOmA/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ホーネッツ公式サイト（nba.com/hornets）",
+  "subject": [
+   "Kon Knueppel|Liam McNeeley"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-02T00:04:17+0000"
+ },
  "18079217978465203": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4954,6 +5082,32 @@
   ],
   "template": "score",
   "timestamp": "2026-10-25T03:23:49+0000"
+ },
+ "18092664290216698": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "773",
+  "auto": true,
+  "caption_len": 383,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、マケイン&ソーバーの契約オプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfOHLJXgqHf/",
+  "product": "REELS",
+  "route": "library",
+  "source": "サンダー公式サイト（nba.com/thunder）",
+  "subject": [
+   "Jared McCain|Thomas Sorber"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-02T01:20:15+0000"
  },
  "18092810045661146": {
   "arms": {
@@ -5532,6 +5686,32 @@
   "template": "score",
   "timestamp": "2026-10-13T02:05:01+0000"
  },
+ "18101420555388118": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "767",
+  "auto": true,
+  "caption_len": 349,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイソン・テイタム、マジック戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfN-pckDfGb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-02T00:05:56+0000"
+ },
  "18101974442640457": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -5581,6 +5761,31 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-10T01:05:47+0000"
+ },
+ "18102373976541758": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "761",
+  "auto": true,
+  "caption_len": 308,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "群馬クレインサンダーズ、大阪エヴェッサに93-60で快勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfLtLWkiTLC/",
+  "product": "REELS",
+  "route": "source",
+  "source": "群馬クレインサンダーズ公式(PR TIMES)",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-01T02:54:48+0000"
  },
  "18103323728346900": {
   "arms": {
@@ -6114,6 +6319,33 @@
   "template": "news",
   "timestamp": "2026-10-18T23:01:08+0000"
  },
+ "18110935669928503": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "762",
+  "auto": true,
+  "caption_len": 332,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャバリ・スミス・ジュニア、サンダー戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfLtXUbnUk3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jabari Smith Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-01T02:56:28+0000"
+ },
  "18110990987522272": {
   "article": "331",
   "auto": true,
@@ -6136,6 +6368,32 @@
   ],
   "template": "news",
   "timestamp": "2026-10-01T04:59:35+0000"
+ },
+ "18111340982191281": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "768",
+  "auto": true,
+  "caption_len": 313,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "MPJ、ペイサーズ戦で23得点9リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfOGGOfFNM4/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Michael Porter Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-02T01:10:54+0000"
  },
  "18111639566174859": {
   "article": "300",
@@ -8796,6 +9054,33 @@
   "template": "score",
   "timestamp": "2026-10-15T06:05:22+0000"
  },
+ "18152765788558260": {
+  "arms": {
+   "ig-2026-10-follow-cta": "A",
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "760",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エイカフ・ジュニア、グリズリーズ戦で38得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfLs4vGAaQy/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darius Acuff Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-01T02:52:16+0000"
+ },
  "18156896953515649": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -9556,6 +9841,32 @@
   "template": "news",
   "timestamp": "2026-10-10T12:56:46+0000"
  },
+ "18223133608342643": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "769",
+  "auto": true,
+  "caption_len": 309,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ネムハード、ネッツ戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfOGX0ulBH0/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Andrew Nembhard"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-02T01:13:25+0000"
+ },
  "18228211174326435": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9636,6 +9947,32 @@
   ],
   "template": "news",
   "timestamp": "2026-10-23T13:40:06+0000"
+ },
+ "18232033642328783": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "764",
+  "auto": true,
+  "caption_len": 331,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ホークス、エイサ・ニューエルの3年目オプション行使",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfN-RTnincJ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ホークス公式サイト（nba.com/hawks）",
+  "subject": [
+   "Asa Newell"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-02T00:02:27+0000"
  },
  "18235490149098791": {
   "auto": false,
