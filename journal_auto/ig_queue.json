@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T06:00:53+09:00",
+  "updated": "2026-11-02T08:58:57+09:00",
   "items": [
     {
       "id": "134",
@@ -22398,6 +22398,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ホーネッツ、カニップル&マクニーリーのオプション行使\n\n・カニップルは新人史上初の3Pシュート王(273本)\n・マクニーリーは2025年ドラフト指名権トレードで加入\n・2人とも2027-28シーズンまで残留確定\n\n💬 カニップル、2年目はどこまで得点を伸ばす？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ホーネッツ公式サイト（nba.com/hornets）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "767",
+      "slug": "767-tatum-32-points-magic",
+      "category": "NBA",
+      "date": "2026-11-02",
+      "headline": "ジェイソン・テイタム、マジック戦で32得点",
+      "excerpt": "ボストン・セルティックスのジェイソン・テイタムは現地時間11月1日、オーランド・マジック戦に34分出場し、32得点・アシスト7・リバウンド4を記録した。両チーム通じてこの日の最多得点者となり、セルティックスは108-97でマジックに勝利した。",
+      "points": [
+        "セルティックスが108-97でマジックに勝利",
+        "テイタムはFG8/19・FT15/17で32得点",
+        "アシスト7・リバウンド4、第4Qに31点で突き放す"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/767-tatum-32-points-magic.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "テイタムとジョージ、今季のセルティックスのエースはどっち？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. MAGIC",
+        "points": 32,
+        "stats": [
+          "7 AST",
+          "4 REB",
+          "2 BLK",
+          "8/19 FG",
+          "15/17 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/767-1.jpg",
+        "https://sixten.jp/assets/ig/767-2.jpg",
+        "https://sixten.jp/assets/ig/767-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T08:57:40+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイソン・テイタム、マジック戦で32得点\n\n・セルティックスが108-97でマジックに勝利\n・テイタムはFG8/19・FT15/17で32得点\n・アシスト7・リバウンド4、第4Qに31点で突き放す\n\n💬 テイタムとジョージ、今季のセルティックスのエースはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
