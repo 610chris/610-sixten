@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T11:42:47+09:00",
+  "updated": "2026-11-02T13:57:47+09:00",
   "items": [
     {
       "id": "134",
@@ -22674,6 +22674,144 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サンダー、トピッチの来季オプション不行使 —— 闘病の3年で10試合\n\n・2024年ドラフト12位、来季740万ドルのオプションを見送り\n・ドラフト前の膝負傷、昨季は精巣がんの診断で長期離脱\n・今夏は背中の手術、復帰の時期は未定\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Thunder decline option for oft-injured ex-lottery pick Nikola Topic」\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "775",
+      "slug": "775-hachimura-24-points-warriors",
+      "category": "NBA",
+      "date": "2026-11-02",
+      "headline": "八村塁、ウォリアーズ戦で24得点",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁は現地時間11月1日、敵地ゴールデンステート・ウォリアーズ戦に30分出場し、フィールドゴール16本中10本・3ポイント7本中4本を沈めて24得点、リバウンド7を記録した。チーム最多得点となったが、クリッパーズは112-124でウォリアーズに敗れた。",
+      "points": [
+        "FG16本中10本・3PT7本中4本で高確率の24得点",
+        "リバウンド7、チーム最多得点",
+        "クリッパーズは112-124でウォリアーズに敗戦"
+      ],
+      "source": "ESPN ボックススコア(Clippers vs. Warriors・2026年11月1日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/775-hachimura-24-points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "クリッパーズ、八村の24得点をどう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. WARRIORS",
+        "points": 24,
+        "stats": [
+          "7 REB",
+          "10/16 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/775-1.jpg",
+        "https://sixten.jp/assets/ig/775-2.jpg",
+        "https://sixten.jp/assets/ig/775-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T13:56:08+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、ウォリアーズ戦で24得点\n\n・FG16本中10本・3PT7本中4本で高確率の24得点\n・リバウンド7、チーム最多得点\n・クリッパーズは112-124でウォリアーズに敗戦\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Clippers vs. Warriors・2026年11月1日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "776",
+      "slug": "776-doncic-45-points-raptors",
+      "category": "NBA",
+      "date": "2026-11-02",
+      "headline": "ルカ・ドンチッチ、ラプターズ戦で45得点15リバウンド",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間11月1日、本拠地でのトロント・ラプターズ戦に35分出場し、フィールドゴール23本中12本・3ポイント12本中8本・フリースロー13本中13本を沈めて45得点、リバウンド15・アシスト6・スティール5を記録した。両チーム通じてこの日の最多得点で、レイカーズは131-125でラプターズを下した。",
+      "points": [
+        "FG23本中12本・3PT8本・FT13本全て成功で45得点",
+        "リバウンド15・アシスト6・スティール5",
+        "レイカーズは22点差を守り131-125で勝利"
+      ],
+      "source": "ESPN ボックススコア(Raptors vs. Lakers・2026年11月1日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/776-doncic-45-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチのこの45得点、今季ベストゲーム？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. RAPTORS",
+        "points": 45,
+        "stats": [
+          "15 REB",
+          "6 AST",
+          "5 STL",
+          "12/23 FG",
+          "8/12 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/776-1.jpg",
+        "https://sixten.jp/assets/ig/776-2.jpg",
+        "https://sixten.jp/assets/ig/776-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T13:57:41+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ルカ・ドンチッチ、ラプターズ戦で45得点15リバウンド\n\n・FG23本中12本・3PT8本・FT13本全て成功で45得点\n・リバウンド15・アシスト6・スティール5\n・レイカーズは22点差を守り131-125で勝利\n\n💬 ドンチッチのこの45得点、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Raptors vs. Lakers・2026年11月1日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "777",
+      "slug": "777-lendeborg-37-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-02",
+      "headline": "ヤクセル・レンデボーグ、クリッパーズ戦で37得点",
+      "excerpt": "ゴールデンステート・ウォリアーズのヤクセル・レンデボーグは現地時間11月1日、本拠地でのロサンゼルス・クリッパーズ戦に34分出場し、フィールドゴール19本中13本・3ポイント11本中6本・フリースロー6本中5本を沈めて37得点、アシスト6を記録した。両チーム通じてこの日の最多得点で、ウォリアーズは124-112でクリッパーズを下した。",
+      "points": [
+        "FG19本中13本・3PT6本で高確率の37得点",
+        "アシスト6、プラスマイナス+6",
+        "ウォリアーズは第2Qの逆転で124-112で勝利"
+      ],
+      "source": "ESPN ボックススコア(Clippers vs. Warriors・2026年11月1日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/777-lendeborg-37-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Yaxel Lendeborg"
+      ],
+      "question": "レンデボーグのこの37点、ブレイクアウトゲームだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "YAXEL LENDEBORG",
+        "opponent": "vs. CLIPPERS",
+        "points": 37,
+        "stats": [
+          "6 AST",
+          "4 REB",
+          "13/19 FG",
+          "6/11 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/777-1.jpg",
+        "https://sixten.jp/assets/ig/777-2.jpg",
+        "https://sixten.jp/assets/ig/777-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-02T13:57:41+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤクセル・レンデボーグ、クリッパーズ戦で37得点\n\n・FG19本中13本・3PT6本で高確率の37得点\n・アシスト6、プラスマイナス+6\n・ウォリアーズは第2Qの逆転で124-112で勝利\n\n💬 レンデボーグのこの37点、ブレイクアウトゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Clippers vs. Warriors・2026年11月1日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
