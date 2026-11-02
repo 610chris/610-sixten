@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "781-air-jordan-3-knicks.html",
+    cat: "KICKS",
+    title: "Air Jordan 3「Knicks」が12月発売へ —— 品番JU1525-148、優勝パレードを経ての正式発表",
+    excerpt: "ジョーダン ブランドの「Air Jordan 3」に、ニューヨーク・ニックスのチームカラーをまとった「Knicks」(品番JU1525-148)が登場する。2026年6月の予約受付開始・優勝記念イベントでの先行展開を経て、公式画像が公開され12月発売が見込まれている。Sneaker News/Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.02",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "780-thunder-retire-westbrook-no0.html",
     cat: "NBA",
     title: "サンダー、ラッセル・ウェストブルックの背番号0を永久引退へ —— 2027年2月7日に式典、球団2人目の永久欠番に",
