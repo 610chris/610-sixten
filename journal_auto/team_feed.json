@@ -1,8 +1,126 @@
 {
- "updated_utc": "2026-11-02 00:59 UTC",
+ "updated_utc": "2026-11-02 08:12 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/11-02-2026-suns-at-warriors-game-preview",
+   "url": "https://www.nba.com/suns/news/11-02-2026-suns-at-warriors-game-preview",
+   "canonical_url": "https://suns.com/news/11-02-2026-suns-at-warriors-game-preview",
+   "title": "11/02/2026 Suns at Warriors Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-11-02T08:07:41Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Monday, November 2, 2026Time: 8:00 p.m. MSTLocation: Chase CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Warriors: Icon Edition (Blue)",
+   "facts": [
+    "Game Info Date: Monday, November 2, 2026Time: 8:00 p.m.",
+    "MSTLocation: Chase CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Warriors: Icon Edition (Blue) Series Notes The Suns won thei…",
+    "Key Connections Suns guard Pat Spencer spent his first three NBA seasons with the Warriors before heading to Phoenix, averaging 5.2 points and 2.6 assists across 111 gamesWarriors guard De'Anthony Melton played his first…",
+    "Denver, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles BridgesLAST GAME…",
+    "NuggetsSurpassed 8,000 career points against Denver on Oct. 301-of-2 players from his NBA Draft class (2018) to record 8,000 points and 3,000 rebounds in their career (Luka Dončić)#10– Khaman MaluachLAST GAME: Ended with…",
+    "Denver on Oct. 30Became the second youngest opening night starter in franchise history (Oct. 21 @ POR)Named to 2026 All-Summer League Second Team after leading the league in rebounding (12.8 per game) and averaging 19.5 …",
+    "DenverJoined Devin Booker as the third Suns duo in franchise history to post consecutive 30+ point games in the same contests in 2025-26Hit the first game-winner of his career, a three-point buzzer beater in double overt…",
+    "Orlando on Feb. 21#15 – Devin BookerLAST GAME: Put up 20 points, 5 assists and 2 steals vs."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/game-preview-warriors-vs-suns-11-2-26",
+   "url": "https://www.nba.com/warriors/news/game-preview-warriors-vs-suns-11-2-26",
+   "canonical_url": "https://warriors.com/news/game-preview-warriors-vs-suns-11-2-26",
+   "title": "Game Preview: Warriors vs. Suns - 11/2/26",
+   "author": "gswgrizzo",
+   "published_utc": "2026-11-02T06:25:00Z",
+   "tags": [
+    "Game Preview"
+   ],
+   "summary": "WARRIORS FACE SUNS ON MONDAY NIGHT The Golden State Warriors will host the Phoenix Suns to close out the second of back-to-back games at Chase Center on Monday, November 2 (7 p.m.; WATCH: NBCSBA). The Warriors enter this matchup after defeating the Los Angeles Clippers on Sunday night, marking their fourth consecutive win. The Suns are coming off of two losses as their last win was when these two …",
+   "facts": [
+    "WARRIORS FACE SUNS ON MONDAY NIGHT The Golden State Warriors will host the Phoenix Suns to close out the second of back-to-back games at Chase Center on Monday, November 2 (7 p.m.; WATCH: NBCSBA).",
+    "The Suns are coming off of two losses as their last win was when these two team's first faced of this season on Oct. 24 at Mortgage Matchup Center.",
+    "BUY TICKETS LAST TIME OUT Yaxel Lendeborg scored a career-high 37 points in the Golden State Warriors 124-112 victory over the Los Angeles Clippers on Sunday night at Chase Center in the first of back-to-back games.",
+    "The rookie drained six 3-pointers in his second 30-point performance in just his seventh game of his career.",
+    "The Warriors had four players reach double figures in scoring while tallying 22 total 3-pointers and a season-high 32 assists as a team.",
+    "Their largest lead reached 22 points in Golden State's fourth consecutive win.",
+    "INJURY & ROSTER NOTES GSW: TBD.",
+    "Team Notes COMPELLING NOTE: Warriors: The Warriors four game win-streak just seven games into the 2026-27 season matches their longest winning streak of the 2025-26 season (January 13-19, 2026)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
+   "url": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
+   "title": "Mavericks-Kings preview: Mavs face a very different challenge in the winless Kings",
+   "author": "Dwain Price",
+   "published_utc": "2026-11-02T04:50:47Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "It’s obviously extremely early in this 82-game marathon of an NBA season. But when the Dallas Mavericks host the Sacramento Kings on Monday night, they’ll be dealing with something they haven’t dealt with all season.",
+   "facts": [
+    "It’s obviously extremely early in this 82-game marathon of an NBA season.",
+    "And Zach LaVine being a Team USA guy is capable of putting 50 or 60 (points) on you.",
+    "Zach LaVine is 16th in scoring at 23.5 ppg and also is shooting 49.5 percent from the field.",
+    "Kings center Domantas Sabonis averages 16 ppg and is first in the league in rebounds (15.8) and second in field goal accuracy (69.1 percent).",
+    "Also for Sacramento, De’Andre Hunter is averaging 14 ppg and Precious Achiuwa averages 12.5 ppg. *This is the finale of a three-game home stand for the Mavs before they play in San Antonio on Wednesday.",
+    "Dallas opened the home stand last week with wins over Oklahoma City (120-96) and Houston (116-111).",
+    "The last time the Mavs swept a home stand that consisted of at least three games occurred from April 4-7, 2024 when they beat Atlanta (109-95), Golden State (108-106) and Houston (147-136 in overtime). *Except for the 12…",
+    "That includes losses to the Los Angeles Clippers (121-96), Memphis Grizzlies (123-112), San Antonio Spurs (130-103), New Orleans Pelicans (132-120) and again to the Grizzlies (136-105)."
+   ],
+   "quotes": [
+    "Each game there are different challenges, and this will be the first game that we’re favored -- that we’re supposed to win,",
+    "That’s a new puzzle for us to put together.",
+    "Every game is a different challenge,",
+    "(Kings rookie guard Darius) Acuff (Jr.) obviously is, I think, the most productive rookie right now as far as points per game and usage rate. And then obviously De’Andre Hunter, and Precious Achiuwa r…"
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261101",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261101",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261101",
+   "title": "Lendeborg Explodes for 34 Points in Warriors' Win Over the Clippers",
+   "author": "gswgrizzo",
+   "published_utc": "2026-11-02T04:40:24Z",
+   "tags": [
+    "Game Recap"
+   ],
+   "summary": "Yaxel Lendeborg scored a career-high 37 points in the Golden State Warriors 124-112 victory over the Los Angeles Clippers on Sunday night at Chase Center in the first of back-to-back games. The rookie drained six 3-pointers in his second 30-point performance in just his seventh game of his career. The Warriors had four players reach double figures in scoring while tallying 22 total 3-pointers and …",
+   "facts": [
+    "Yaxel Lendeborg scored a career-high 37 points in the Golden State Warriors 124-112 victory over the Los Angeles Clippers on Sunday night at Chase Center in the first of back-to-back games.",
+    "The rookie drained six 3-pointers in his second 30-point performance in just his seventh game of his career.",
+    "The Warriors had four players reach double figures in scoring while tallying 22 total 3-pointers and a season-high 32 assists as a team.",
+    "Their largest lead reached 22 points in Golden State's fourth consecutive win.",
+    "SECOND QUARTER SHIFT The Warriors trailed for the majority of the first quarter with the Clippers lead reaching 11 at the end of the frame.",
+    "Bouncing back after the break, Golden State launched a 26-6 scoring run to come from behind and take a five point lead at halftime.",
+    "Lendeborg powered the offense with 14 points on 5-for-6 shooting from the field with a pair of 3-pointers in the quarter.",
+    "LENDEBORG LIGHTS UP FROM LONG DISTANCE Yaxel Lendeborg was electric from the 3-point line on Sunday night, making six triples on 11 attempts."
+   ],
+   "quotes": []
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -12,15 +130,15 @@
    "key": "https://www.nba.com/pacers/news/rewind-pacers-nets-261101",
    "url": "https://www.nba.com/pacers/news/rewind-pacers-nets-261101",
    "canonical_url": "https://pacers.com/news/rewind-pacers-nets-261101",
-   "title": "Instant Rewind: Pacers 90, Nets 98",
+   "title": "Game Rewind: Pacers 90, Nets 98",
    "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-02T00:54:00Z",
+   "published_utc": "2026-11-02T01:33:00Z",
    "tags": [
     "2026-27 Game Rewind"
    ],
    "summary": "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse",
    "facts": [
-    "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse Instant Rewind Shooting struggles and slow starts lingered as the Pacers opened their November slate of games by hosting the Brooklyn Nets on Sunday.",
+    "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse Game Recap Shooting struggles and slow starts lingered as the Pacers opened their November slate of games by hosting the Brooklyn Nets on Sunday.",
     "Indiana couldn’t find its offensive groove, and fell to the Nets, 98-90.",
     "Both teams seemed lethargic to start – by the seven-minute mark of the first quarter, the score was just 9-7 in favor of the Nets, and each team was shooting 3-for-10 from the field.",
     "The Pacers, however, opened the game shooting 2-for-11 from 3-point range.",
@@ -28,6 +146,74 @@
     "Brooklyn’s 20 points in the first quarter is the strongest defensive quarter Indiana has recorded this season, but the 19 points scored by the Pacers in the same frame also marked Indiana’s worst offensive quarter this s…",
     "Quenton Jackson connected on a 3-pointer with just over four minutes to play and gave the Pacers some life.",
     "Porter Jr.’s layup to beat the second quarter buzzer gave the Nets a three-point advantage at the half, 43-40."
+   ],
+   "quotes": [
+    "We're just asking our guys to go hard, to be unselfish, to be aggressive, [and] to shoot the shots that are there,",
+    "And look, we had some guys step in tonight and do some good things.",
+    "We’re missing a lot of guys. That makes it hard…I thought we had quite a few good looks that just happened to not go down. From a process standpoint, you’ve just got to keep letting them fly.",
+    "There’s a lot of challenges right now, but that’s what this whole thing is about…It’s the NBA. Stuff is hard. We’ve all just got to work even harder at finding answers, finding ways."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
+   "url": "https://www.nba.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
+   "canonical_url": "https://mavs.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
+   "title": "Daniel Gafford noted the NBA deserves a show-stopping entertainer like Kyrie Irving",
+   "author": "Dwain Price",
+   "published_utc": "2026-11-02T01:16:20Z",
+   "tags": [
+    "dallas mavericks",
+    "Daniel Gafford",
+    "nba"
+   ],
+   "summary": "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of this past Friday game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
+   "facts": [
+    "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of this past Friday game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
+    "Back then, Gafford had only been with the Dallas Mavericks for less than two months following a mid-season trade with the Washington Wizards.",
+    "Irving, meanwhile, put on an extraordinary clinic in that late-season game against the Rockets as he poured in a season-high 48 points, with 25 of them coming in the fourth quarter and overtime as the Mavs escaped with a…",
+    "Fast forward to this past Friday and Irving was just as electric against the Mavs’ Interstate-45 rivals.",
+    "This time Irving dazzled and poured in 16 of his season-high 35 points in the fourth quarter as the Mavs prevailed, 116-111, over the Rockets.",
+    "The eight-year veteran scored a season-high 18 points on 6-of-7 shots against the Rockets.",
+    "He currently is tied for fourth in the NBA in blocks with two per game, and also averages 8.5 points and seven rebounds.",
+    "The other star player, Cooper Flagg, tallied 33 points and pulled down nine rebounds."
+   ],
+   "quotes": [
+    "It reminded me of that (April 7, 2024) game a lot,",
+    "I’m just like, man this is like déjà vu. It’s all over again.",
+    "The game deserves a guy like him,",
+    "Seeing him out for (19 months). That’s too long for a guy like Kyrie."
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-hawks-261102",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-hawks-261102",
+   "canonical_url": "https://pacers.com/news/preview-pacers-hawks-261102",
+   "title": "Game Preview: Pacers vs Hawks",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-02T01:01:00Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse Game Preview The Pacers (2-5) will look to snap a four-game skid on Monday when they host the Atlanta Hawks (3-4) on the second night of a back-to-back.",
+    "Indiana is coming off a 98-90 loss to Brooklyn on Sunday night.",
+    "The Pacers struggled mightily offensively against the previously winless Nets, scoring just 40 points on 32.4 percent shooting in the first half.",
+    "Andrew Nembhard led Indiana with 23 points in the loss, with 15 of them coming in the fourth quarter.",
+    "All-Star forward Pascal Siakam added 17 points, but no one else scored more than 12 for the Blue & Gold.",
+    "The Pacers are undermanned, with six players out due to injury on Sunday, including starters Tyrese Haliburton and Ivica Zubac.",
+    "The only injured Pacer who could possibly return on Monday is reserve forward Obi Toppin, who has missed the past two games with a sore lower back.",
+    "The Hawks are also scuffling, having dropped four of five contests after starting the season 2-0."
    ],
    "quotes": []
   },
@@ -1425,35 +1611,6 @@
     "Not only did the Magic defeat the Pistons in the final Group B match last season to solidify themselves a spot in the quarterfinals, the Magic pushed Detroit to a Game 7 in the first round of the NBA Playoffs, nearly eli…"
    ],
    "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-132-kings-120-jeremiah-fears-22-8-13-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/pelicans-132-kings-120-jeremiah-fears-22-8-13-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/pelicans-132-kings-120-jeremiah-fears-22-8-13-postgame-wrap",
-   "title": "Pelicans 132, Kings 120: Jeremiah Fears 22-8-13 | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-10-30T02:30:42Z",
-   "tags": [],
-   "summary": "A new rotation featuring some new faces led to a new outcome for New Orleans on Thursday, resulting in its first victory of 2026-27. With head coach Jamahl Mosley making two changes to his starting lineup, inserting Herb Jones and Karlo Matkovic, while also using reserves Bryce McGowens and Trendon Watford much more extensively, a very balanced effort by the Pelicans carried them to a win over Sac…",
-   "facts": [
-    "A new rotation featuring some new faces led to a new outcome for New Orleans on Thursday, resulting in its first victory of 2026-27.",
-    "Led by a near-triple-double from Jeremiah Fears (22 points, eight rebounds, career-high 13 assists, career-high four blocks) and double-digit scoring nights from a total of seven New Orleans players, the hosts staved off…",
-    "Matkovic, McGowens and Watford had logged a combined 38 minutes through the first four games, with Matkovic accounting for nearly all (35) of those.",
-    "Against the Kings, Matkovic (12 points, three steals) took over the starting center role from DeAndre Jordan and made key plays at both ends of the floor.",
-    "Off the bench, Saddiq Bey and Bennedict Mathurin delivered 10 points apiece.",
-    "BY THE NUMBERS +27: Plus-minus for Jones, who again proved to be a major difference-maker for his team in his season-high 32 minutes, even if it doesn’t always show up in other individual statistics.",
-    "That Jones plus-minus hovered around +40 prior to the Kings making a late push. 39: New Orleans point totals in each of the middle quarters.",
-    "A 78-58 advantage turned a six-point deficit through one period into a 14-point lead. 25: Sacramento turnovers, leading to 40 New Orleans points."
-   ],
-   "quotes": [
-    "I'm more proud of the fact that we got 32 assists,",
-    "We relied on our defense to ignite our offense."
-   ]
   }
  ]
 }
