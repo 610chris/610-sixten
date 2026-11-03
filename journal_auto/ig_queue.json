@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:22:24+09:00",
+  "updated": "2026-11-03T12:24:43+09:00",
   "items": [
     {
       "id": "134",
@@ -23313,6 +23313,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "タイリース・マクシー、ブルズ戦で26得点\n\n・FG15本中10本・アシスト11のダブルダブル\n・76ersが126-107で勝利、先発5人が二桁得点\n・レブロン・エンビード・ブラウンら新戦力とともに活躍\n\n💬 レブロン・エンビード・ブラウン・マクシーの76ers、今季どこまで勝ち上がる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(76ers vs. Bulls・2026年11月2日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "791",
+      "slug": "791-cunningham-33-points-hornets",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "カニングハムが33得点 —— ピストンズ33点差の大勝",
+      "excerpt": "デトロイト・ピストンズのケイド・カニングハム(Cade Cunningham)は現地時間11月2日、敵地でのシャーロット・ホーネッツ戦に27分出場し、フィールドゴール20本中13本・3ポイント7本中4本・フリースロー4本中3本を沈めて33得点、アシスト7・スティール5を記録した。両チーム通じてこの日の最多得点で、ピストンズは124-91でホーネッツを下した。",
+      "points": [
+        "ホーネッツ戦で27分出場、33得点",
+        "アシスト7・スティール5",
+        "ピストンズが124-91で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/791-cunningham-33-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Cade Cunningham"
+      ],
+      "question": "ピストンズ、今季は本物の強さ？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "CADE CUNNINGHAM",
+        "opponent": "vs. HORNETS",
+        "points": 33,
+        "stats": [
+          "7 AST",
+          "5 REB",
+          "5 STL",
+          "13/20 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/791-1.jpg",
+        "https://sixten.jp/assets/ig/791-2.jpg",
+        "https://sixten.jp/assets/ig/791-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T12:24:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カニングハムが33得点 —— ピストンズ33点差の大勝\n\n・ホーネッツ戦で27分出場、33得点\n・アシスト7・スティール5\n・ピストンズが124-91で勝利\n\n💬 ピストンズ、今季は本物の強さ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
