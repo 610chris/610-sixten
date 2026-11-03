@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "807-nike-gt-cut-4-n7.html",
+    cat: "KICKS",
+    title: "Nike GT Cut 4「N7」が11月7日発売 —— 先住民コミュニティ支援プログラムの新色、品番IV5677-300",
+    excerpt: "ナイキは、バスケットボールシューズ「Nike GT Cut 4」の新色「N7」を2026年11月7日に発売する。ネイティブ・アメリカンと先住民コミュニティのスポーツ参加を支援するナイキの「N7」プログラムに連なる一足で、アーティストのスティーブン・ポール・ジャッド氏がデザインを手がけた。品番はIV5677-300。Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "806-thunder-sign-dalen-terry.html",
     cat: "NBA",
     title: "サンダー、ダレン・テリーと2年契約で合意 —— アバジ撤回後のロスター枠を補強",
