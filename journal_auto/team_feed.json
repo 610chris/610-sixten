@@ -1,8 +1,231 @@
 {
- "updated_utc": "2026-11-02 18:48 UTC",
+ "updated_utc": "2026-11-03 01:45 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-hawks-261102",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-hawks-261102",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-hawks-261102",
+   "title": "Halftime Rewind: Pacers 56, Hawks 68",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-03T01:33:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse Halftime Rewind Playing with just available players on the second night of a back-to-back, the Pacers hung tough with the Atlanta Hawks over the opening two quarters …",
+    "The undermanned Pacers got off to a good start offensively, converting nine of their first 12 shots.",
+    "The Pacers actually led 15-14 and were tied 20-20 with Atlanta before the Hawks pulled ahead with a 12-3 run.",
+    "Indiana shot 54.5 percent in the opening quarter, with Jay Huff scoring eight points and Quenton Jackson adding seven.",
+    "But Atlanta went 7-for-10 from 3-point range and led 37-29 after one.",
+    "The Hawks' hot shooting carried over into the second quarter, as Corey Kispert knocked down back-to-back threes to stretch the visitors lead to 14.",
+    "The Pacers clawed back thanks to Braden Smith and Huff, as Smith fed Huff for three straight Indiana baskets, the last of which resulted in a three-point play that cut the deficit to 48-43.",
+    "That would be the closest Indiana got before halftime, as the Hawks built the margin back up to 12 points by the break."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ATL 公式（nba.com）",
+   "team": "ATL",
+   "team_ja": "ホークス",
+   "team_id": 1610612737,
+   "kind": "feature",
+   "key": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup-across-first-3-november-home-matchups",
+   "url": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup-across-first-3-november-home-matchups",
+   "canonical_url": "https://hawks.com/news/hawks-announce-star-studded-georgia-entertainment-lineup-across-first-3-november-home-matchups",
+   "title": "Hawks Announce Star-Studded Georgia Entertainment Lineup Across First 3 November Home Matchups",
+   "author": "Atlanta Hawks",
+   "published_utc": "2026-11-03T00:06:35Z",
+   "tags": [
+    "Atlanta Hawks"
+   ],
+   "summary": "Georgia-Natives Bubba Sparxxx, Lil Baby, and Yacht Rock Revue to Headline Halftime Performances Next Month; Special Pop-Up Performances Expected For Those in Attendance; Fans Can Purchase Tickets at Hawks.com/Tickets",
+   "facts": [
+    "Showcasing the rich and diverse musical roots of the Peach State, Georgia’s own Bubba Sparxxx, multi-platinum hip-hop superstar Lil Baby, and the acclaimed Yacht Rock Revue will headline halftime performances across the …",
+    "On Friday, Nov. 6, Georgia-native Bubba Sparxxx is set to perform at halftime during the first Hawks Cup Night presented by Harrah’s Cherokee Casinos against the Washington Wizards.",
+    "To continue the lineup, GRAMMY® Award-winning artist Lil Baby will perform halftime presented by Jack Daniels on Saturday, Nov. 7 as the team takes on the Brooklyn Nets, bringing his generational star power and explosive…",
+    "With more than 30 billion global streams, the superstar has cemented his dominance.",
+    "Celebrated for chart-topping 2000s staples like “Don’t Mess with My Man” and “Laundromat,” the beloved songstress will bring her signature vocal grace and rich Southern soul to set the tone for the night ahead.",
+    "For the third-consecutive November home matchup on Monday, Nov. 9, acclaimed group Yacht Rock Revue will headline halftime when the Hawks host the Los Angeles Lakers, presented by Emory Healthcare.",
+    "Formed in Atlanta and hailed by Rolling Stone as the “world’s premier soft-rock party band,” the celebrated hometown powerhouse seamlessly blends sun-drenched ’70s and ’80s hits with standout tracks.",
+    "For higher savings, exclusive events, playoffs priority, and more, join the Hawks Family today with Membership packages starting at only 8 games."
+   ],
+   "quotes": [
+    "There is truly nothing like performing in front of your hometown team,",
+    "Georgia made me who I am, and stepping onto that court to rock with Hawks fans is a special moment, and I can’t wait to bring the energy.",
+    "Atlanta has shaped my sound and the energy I bring to the stage, so getting to share that with Hawks fans means a lot,",
+    "Atlanta is who I am, and I can’t wait to give the crowd an unforgettable show."
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-misc-20261102-jayson-tatum-earns-14th-career-player-of-the-week-award",
+   "url": "https://www.nba.com/celtics/news/sidebar-misc-20261102-jayson-tatum-earns-14th-career-player-of-the-week-award",
+   "canonical_url": "https://celtics.com/news/sidebar-misc-20261102-jayson-tatum-earns-14th-career-player-of-the-week-award",
+   "title": "Jayson Tatum Earns 14th Career Player of the Week Award",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-02T21:01:54Z",
+   "tags": [
+    "Player of the Week",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "Jayson Tatum didn’t waste much time making his mark on the new season. Less than two weeks in, the Celtics superstar already has already earned his first leaguewide recognition after being named Eastern Conference Player of the Week for his dominant four-game run from Oct. 26 through Nov. 1.",
+   "facts": [
+    "Less than two weeks in, the Celtics superstar already has already earned his first leaguewide recognition after being named Eastern Conference Player of the Week for his dominant four-game run from Oct. 26 through Nov. 1…",
+    "Tatum led Boston to four straight wins while averaging 30.3 points, 5.8 rebounds, and 7.0 assists, highlighted by a 40-point overtime thriller against Brooklyn.",
+    "The honor is the 14th of his career, putting him behind only Paul Pierce (17) and Larry Bird (15) for the most Player of the Week awards in Celtics history.",
+    "Excluding the season he missed due to injury, this is the fourth straight season in which he has earned Player of the Week honors within the first two weeks of the schedule.",
+    "Over the four-game stretch, Tatum totaled 121 points and 28 assists while knocking down 46 of his 55 free-throw attempts.",
+    "He scored at least 23 points and handed out at least six assists in every game, helping Boston sweep a week that included two wins over Chicago and victories against Brooklyn and Orlando.",
+    "Here’s how he got it done: Oct. 26 vs.",
+    "In just 28 minutes, he finished with 23 points, seven rebounds, six assists, and one steal as Boston rolled to a 35-point victory over Chicago."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-raptors-11-2-26",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-raptors-11-2-26",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-raptors-11-2-26",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Raptors",
+   "author": "LAClippers",
+   "published_utc": "2026-11-02T20:00:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Brandon Ingram",
+    "Broadcast Information",
+    "Brook Lopez",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Darius Garland",
+    "Game Previews"
+   ],
+   "summary": "Last Matchup: 03/25/2026 | LAC 119 - TOR 94 | K.Leonard: 27 PTS - B.Ingram: 18 PTSThe Clippers are 11-3 (.786) against the Raptors since the start of 2019-20, second best by any team vs. Toronto in that span (Celtics: 23-4, .852). LA has won the last four home games vs. Toronto, tied for its longest home win streak in the series (also four from 2011-14).The Clippers’ bench is averaging 45.0 points…",
+   "facts": [
+    "TORONTO RAPTORS FIVE THINGS TO KNOW Last Matchup: 03/25/2026 | LAC 119 - TOR 94 | K.Leonard: 27 PTS - B.Ingram: 18 PTSThe Clippers are 11-3 (.786) against the Raptors since the start of 2019-20, second best by any team v…",
+    "Toronto in that span (Celtics: 23-4, .852).",
+    "Toronto, tied for its longest home win streak in the series (also four from 2011-14).The Clippers’ bench is averaging 45.0 points per game this season, fifth best in the NBA.",
+    "LA’s bench has scored at least 40 points in all six games this season, the team’s third-longest streak to start a season all-time (18 in 2018-19; seven in 2019-20).Darius Garland is the fourth Clippers player all-time to…",
+    "He joins James Harden (2024-25, 2025-26), Kawhi Leonard (2020-21), and Chris Paul (2013-14).The Clippers are allowing 11.3 second-chance points per game so far this season, tied for second fewest in the NBA (Trail Blazer…",
+    "The Raptors are averaging 20.8 second-chance points per game offensively, second most in the NBA (Knicks: 21.0).BONUS: Brook Lopez has averaged 17.1 points per game in 47 career games against the Raptors, his highest sco…",
+    "Toronto. 26-27 OPPONENT COMPARISON"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "feature",
+   "key": "https://www.nba.com/thunder/news/westbrook-261102",
+   "url": "https://www.nba.com/thunder/news/westbrook-261102",
+   "canonical_url": "https://okcthunder.com/news/westbrook-261102",
+   "title": "Thunder Set to Retire Russell Westbrook's No. 0",
+   "author": "okcthunder",
+   "published_utc": "2026-11-02T19:17:15Z",
+   "tags": [],
+   "summary": "OKLAHOMA CITY, Nov. 2, 2026 – The Oklahoma City Thunder announced today that the team will retire Russell Westbrook’s No. 0 on Sunday, Feb. 7 when the Thunder hosts the New York Knicks at Paycom Center.",
+   "facts": [
+    "OKLAHOMA CITY, Nov. 2, 2026 – The Oklahoma City Thunder announced today that the team will retire Russell Westbrook’s No. 0 on Sunday, Feb. 7 when the Thunder hosts the New York Knicks at Paycom Center.",
+    "Westbrook announced his retirement this past August after 18 seasons in the NBA, 11 of which were spent with the Thunder franchise.",
+    "His No. 0 will be the second number retired by the Thunder.",
+    "During that span, the Thunder reached the NBA Finals in 2012, made the playoffs nine times (third most in NBA) and made four Western Conference Finals appearances (second most in NBA).",
+    "Westbrook was named the NBA Most Valuable Player for the 2016-17 season after averaging a league-best 31.6 points, 10.7 rebounds (10th in the NBA), 10.4 assists (third in the NBA) and 1.63 steals in 34.6 minutes per game…",
+    "His 42 triple-doubles during the 2016-17 season are an NBA record and his 209 career triple-doubles mark the most in NBA history.",
+    "The UCLA product was named a member of the NBA 75th Anniversary Team in 2021.",
+    "He is a two-time NBA scoring champion (2014-15, 2016-17) and led the league in assists in three separate seasons (2017-18, 2018-19, 2020-21)."
+   ],
+   "quotes": [
+    "We are incredibly proud to retire Russell’s number. Russell made a lasting mark on the city and state during his time with the team, and his involvement in the community has endured long after,",
+    "We are deeply grateful for his genuine care for the people of Oklahoma, and he will always be considered a member of the Oklahoma City community.",
+    "Many players make an impact but only great players leave a legacy. Russell Westbrook’s legacy was built both on the court and in the community,",
+    "His mindset was relentless, his commitment deep. For all those reasons, Oklahomans consider him one of their own and his number will be raised to the rafters, in Oklahoma City forever."
+   ]
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/mikecheck-boosted-by-nbas-top-bench-grizzlies-pursue-best-start-in-franchise-history",
+   "url": "https://www.nba.com/grizzlies/news/mikecheck-boosted-by-nbas-top-bench-grizzlies-pursue-best-start-in-franchise-history",
+   "canonical_url": "https://grizzlies.com/news/mikecheck-boosted-by-nbas-top-bench-grizzlies-pursue-best-start-in-franchise-history",
+   "title": "MikeCheck: Boosted by NBA’s top bench, Grizzlies pursue best start in franchise history",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-02T19:15:08Z",
+   "tags": [
+    "Grind City Media",
+    "Michael Wallace",
+    "MikeCheck"
+   ],
+   "summary": "MEMPHIS – Considering the way the bench has been rolling so far this season, Cam Spencer could have taken it as a demotion of sorts.",
+   "facts": [
+    "Balance, depth fuel 6-0 record MEMPHIS – Considering the way the bench has been rolling so far this season, Cam Spencer could have taken it as a demotion of sorts.",
+    "On a night when Spencer, the Grizzlies’ usual backup point guard, was summoned to the starting lineup as an injury replacement, the reserves he left behind erupted for a season-high 81 bench points in that Halloween vict…",
+    "A victory Monday at FedExForum would give Memphis its best start in franchise history at 7-0.",
+    "To accomplish that feat, the Grizzlies will likely need another boost from a bench averaging 49 points, shooting 42-percent on 3-pointers and leading the NBA in blocks.",
+    "The Pelicans rank second in bench scoring at 46.8 points per game.",
+    "Spencer started at point guard in Saturday’s 136-105 win and matched his career high of 13 assists without a turnover.",
+    "He participated in Sunday’s limited team practice and was not listed on the injury report ahead of Monday’s game.",
+    "Stewart was acquired from Detroit in June and Post was signed away from Golden State in July restricted free agency to bolster the frontcourt."
+   ],
+   "quotes": [
+    "The bench came in and did their job. They’re calling it the bench mob. It’s a fun group to be a part of. But you’re going to be in and out. Sometimes starting. Sometimes off the bench. As long as the …",
+    "What our guys have done a tremendous job with is no matter who plays or when they play, they bring that focus, that effort, that commitment to each other,",
+    "That’s really what makes any good team go. That allows us to make runs throughout the game at different times, which is really a necessity. The more guys we can have stay in rhythm makes it easier for…",
+    "Juices get flowing and that’s what you want,"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-preview-20261102-boshou",
+   "url": "https://www.nba.com/celtics/news/game-preview-20261102-boshou",
+   "canonical_url": "https://celtics.com/news/game-preview-20261102-boshou",
+   "title": "11/2 Game Preview: Celtics at Rockets",
+   "author": "Boston Celtics",
+   "published_utc": "2026-11-02T18:53:33Z",
+   "tags": [
+    "Game Preview",
+    "Pregame",
+    "Regular Season"
+   ],
+   "summary": "The Houston Rockets entered this season planning to avoid playing veteran guard Fred VanVleet during both games of back-to-backs, which prompted the offseason signing of veteran Marcus Smart.",
+   "facts": [
+    "Smart excelled in his first start with the Rockets on Saturday, scoring 24 points and making seven 3-pointers in a 119-98 win over the Oklahoma City Thunder.",
+    "With VanVleet watching as part of his injury management protocol, Smart provided an early spark with 12 first-quarter points.",
+    "Boston missed 32 of 44 3-pointers, yet remained committed to their defensive approach, an undertaking that yielded their fifth consecutive win.",
+    "Acquired from the Philadelphia 76ers during the offseason, George delivered another well-rounded effort against the Magic by posting 17 points, six rebounds, eight assists, two steals and two blocks.",
+    "The 36-year-old George has long been renowned for his ability to contribute on both ends of the court, a skill set that made him an attractive target for the Celtics."
+   ],
+   "quotes": [
+    "It's the reason he's here and the reason we made him a target of ours,",
+    "If any injury goes down, you can easily plug him into the lineup. He's a very competent starter, a guy that started most of his career but has also come off the bench and is just as effective. ",
+    " Serving in the dual role of trusted reserve and spot starter fits Smart's skillset. The Rockets remain hopeful that VanVleet will maintain optimal health this season, but they know they have a viable…",
+    "We've got a long season, and things happen, things that are out of your control. You can't worry about that. Next man up, and you've got to be ready for the opportunity that presents itself."
+   ]
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -68,90 +291,6 @@
    "quotes": []
   },
   {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
-   "url": "https://www.nba.com/grizzlies/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
-   "canonical_url": "https://grizzlies.com/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
-   "title": "Grizzles Remain NBA's Only Unbeaten Team, Start Four-Game Home Stand With 136-105 Win Over Kings",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-02T17:04:50Z",
-   "tags": [
-    "Postgame Report"
-   ],
-   "summary": "MEMPHIS, TENN. (Oct. 31, 2026) - The Memphis Grizzlies (6-0) defeated the Sacramento Kings (0-6) 136-105 on Saturday at FedExForum. Memphis recorded their first 6-0 start to a season since the 2014-15 campaign and remain the only undefeated team in the NBA. Cameron Boozer led the Grizzlies in scoring with a career-high 27 points with nine rebounds in 26 minutes. Isaiah Stewart tallied a season-hig…",
-   "facts": [
-    "MEMPHIS, TENN. (Oct. 31, 2026) - The Memphis Grizzlies (6-0) defeated the Sacramento Kings (0-6) 136-105 on Saturday at FedExForum.",
-    "Memphis recorded their first 6-0 start to a season since the 2014-15 campaign and remain the only undefeated team in the NBA.",
-    "Cameron Boozer led the Grizzlies in scoring with a career-high 27 points with nine rebounds in 26 minutes.",
-    "Isaiah Stewart tallied a season-high 24 points on 8-of-9 shooting off the bench and tied the third-highest scoring game of his career.",
-    "GG Jackson scored a season-high 21 points on 5-of-5 shooting from 3-point range in 21 minutes off the bench.",
-    "Cam Spencer recorded his first double-double of the season with 10 points and a career-high tying 13 assists with zero turnovers.",
-    "Jerami Grant added 14 points on 5-of-10 shooting from the field and two blocks in 23 minutes off the bench.",
-    "After Sacramento scored the first seven points of the game, Memphis countered with a 23- 4 run."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-trail-blazers-to-sweep-road-trip-behind-cameron-boozers-first-career-triple-double",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-trail-blazers-to-sweep-road-trip-behind-cameron-boozers-first-career-triple-double",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-trail-blazers-to-sweep-road-trip-behind-cameron-boozers-first-career-triple-double",
-   "title": "Grizzlies Defeat Trail Blazers To Sweep Road Trip Behind Cameron Boozer's First Career Triple-Double",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-02T17:01:40Z",
-   "tags": [
-    "Postgame Report"
-   ],
-   "summary": "PORTLAND, Oregon (Oct. 29, 2026) - The Memphis Grizzlies (5-0) defeated the Portland Trail Blazers (3-1) 124-103 on Thursday to sweep their four-game road trip. Memphis has started 5-0 for the first time since the 2014-15 season. Cameron Boozer recorded his first career triple-double, becoming the second youngest player in NBA history to achieve the feat at 19 years, 103 days old. Boozer finished …",
-   "facts": [
-    "PORTLAND, Oregon (Oct. 29, 2026) - The Memphis Grizzlies (5-0) defeated the Portland Trail Blazers (3-1) 124-103 on Thursday to sweep their four-game road trip.",
-    "Memphis has started 5-0 for the first time since the 2014-15 season.",
-    "Cameron Boozer recorded his first career triple-double, becoming the second youngest player in NBA history to achieve the feat at 19 years, 103 days old.",
-    "Boozer finished with 18 points, 11 rebounds and 12 assists in 28 minutes and shot 6-for-10 from the field and 4-for- 5 from 3-point range.",
-    "Cedric Coward tallied 17 points on 7-for-14 shooting from the field with eight rebounds, four assists and three steals in 27 minutes.",
-    "Isaiah Stewart finished with 18 points on 7-for- 10 shooting from the field in 16 minutes off the bench.",
-    "Zach Edey added 13 points and seven rebounds in 18 minutes.",
-    "Deni Avdija led the Trail Blazers in scoring with 24 points on 8-for-16 shooting from the field with nine rebounds and seven assists in 32 minutes."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-jazz-110-105-win-fourth-straight-to-start-season",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-jazz-110-105-win-fourth-straight-to-start-season",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-jazz-110-105-win-fourth-straight-to-start-season",
-   "title": "Grizzlies Defeat Jazz 110-105, Win Fourth Straight To Start Season",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-02T16:57:28Z",
-   "tags": [
-    "Postgame Report"
-   ],
-   "summary": "SALT LAKE CITY, Utah (Oct. 26, 2026) - The Memphis Grizzlies (4-0) defeated the Utah Jazz (1-3) 110-105, Monday at Delta Center. The Grizzlies begin the season 4-0 for the second time in franchise history. Cedric Coward recorded his second consecutive double-double with a team-high 16 points and 11 rebounds. Coward shot 6-for-12 from the field and 4-for-4 from 3-point range. Ty Jerome tallied 15 p…",
-   "facts": [
-    "SALT LAKE CITY, Utah (Oct. 26, 2026) - The Memphis Grizzlies (4-0) defeated the Utah Jazz (1-3) 110-105, Monday at Delta Center.",
-    "The Grizzlies begin the season 4-0 for the second time in franchise history.",
-    "Cedric Coward recorded his second consecutive double-double with a team-high 16 points and 11 rebounds.",
-    "Coward shot 6-for-12 from the field and 4-for-4 from 3-point range.",
-    "Ty Jerome tallied 15 points with a team-high eight assists in 30 minutes and Jaylen Wells added 14 points on 5-for-9 shooting.",
-    "Cameron Boozer finished with 13 points, seven rebounds, four assists and one block in 31 minutes.",
-    "Jerami Grant added 13 points in 23 minutes off the bench and Quinten Post added 12 points in 13 minutes off the bench.",
-    "Keyonte George led the Jazz in scoring with 26 points on 9-for-17 shooting from the field."
-   ],
-   "quotes": []
-  },
-  {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
    "team_ja": "ペリカンズ",
@@ -176,39 +315,6 @@
     "Pelicans.com: What aspect of the Grizzlies’ start was the most expected by you, based on what you projected entering 2026-27?"
    ],
    "quotes": []
-  },
-  {
-   "source": "ATL 公式（nba.com）",
-   "team": "ATL",
-   "team_ja": "ホークス",
-   "team_id": 1610612737,
-   "kind": "feature",
-   "key": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup",
-   "url": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup",
-   "canonical_url": "https://hawks.com/news/hawks-announce-star-studded-georgia-entertainment-lineup",
-   "title": "Hawks Announce Star-Studded Georgia Entertainment Lineup",
-   "author": "atlarehmann",
-   "published_utc": "2026-11-02T15:34:38Z",
-   "tags": [
-    "Atlanta Hawks"
-   ],
-   "summary": "Georgia-Natives Bubba Sparxxx, Lil Baby, and Yacht Rock Revue to Headline Halftime Performances Next Month;",
-   "facts": [
-    "Showcasing the rich and diverse musical roots of the Peach State, Georgia’s own Bubba Sparxxx, multi-platinum hip-hop superstar Lil Baby, and the acclaimed Yacht Rock Revue will headline halftime performances across the …",
-    "On Friday, Nov. 6, Georgia-native Bubba Sparxxx is set to perform at halftime during the first Hawks Cup Night presented by Harrah’s Cherokee Casinos against the Washington Wizards.",
-    "To continue the lineup, GRAMMY® Award-winning artist Lil Baby will perform halftime presented by Jack Daniels on Saturday, Nov. 7 as the team takes on the Brooklyn Nets, bringing his generational star power and explosive…",
-    "With more than 30 billion global streams, the superstar has cemented his dominance.",
-    "Celebrated for chart-topping 2000s staples like “Don’t Mess with My Man” and “Laundromat,” the beloved songstress will bring her signature vocal grace and rich Southern soul to set the tone for the night ahead.",
-    "For the third consecutive November home matchup on Monday, Nov. 9, acclaimed group Yacht Rock Revue will headline halftime when the Hawks host the Los Angeles Lakers, presented by Emory Healthcare.",
-    "Formed in Atlanta and hailed by Rolling Stone as the “world’s premier soft-rock party band,” the celebrated hometown powerhouse seamlessly blends sun-drenched ’70s and ’80s hits with standout tracks.",
-    "For higher savings, exclusive events, playoffs priority, and more, join the Hawks Family today with Membership packages starting at only 8 games."
-   ],
-   "quotes": [
-    "There is truly nothing like performing in front of your hometown team,",
-    "Georgia made me who I am, and stepping onto that court to rock with Hawks fans is a special moment, and I can’t wait to bring the energy.",
-    "Atlanta has shaped my sound and the energy I bring to the stage, so getting to share that with Hawks fans means a lot,",
-    "Atlanta is who I am, and I can’t wait to give the crowd an unforgettable show."
-   ]
   },
   {
    "source": "NYK 公式（nba.com）",
@@ -418,9 +524,9 @@
    "team_ja": "ウォリアーズ",
    "team_id": 1610612744,
    "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/game-preview-warriors-vs-suns-11-2-26",
-   "url": "https://www.nba.com/warriors/news/game-preview-warriors-vs-suns-11-2-26",
-   "canonical_url": "https://warriors.com/news/game-preview-warriors-vs-suns-11-2-26",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261102",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261102",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261102",
    "title": "Game Preview: Warriors vs. Suns - 11/2/26",
    "author": "gswgrizzo",
    "published_utc": "2026-11-02T06:25:00Z",
@@ -449,7 +555,7 @@
    "key": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
    "url": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
    "canonical_url": "https://mavs.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
-   "title": "Mavericks-Kings preview: It's a different challenge against winless Kings",
+   "title": "Mavericks-Kings preview: It's a different challenge against a winless team",
    "author": "Dwain Price",
    "published_utc": "2026-11-02T04:50:47Z",
    "tags": [
@@ -483,7 +589,7 @@
    "key": "https://www.nba.com/warriors/news/gameday-recap-20261101",
    "url": "https://www.nba.com/warriors/news/gameday-recap-20261101",
    "canonical_url": "https://warriors.com/news/gameday-recap-20261101",
-   "title": "Lendeborg Explodes for 34 Points in Warriors' Win Over the Clippers",
+   "title": "Lendeborg Explodes for 37 Points in Warriors' Win Over the Clippers",
    "author": "gswgrizzo",
    "published_utc": "2026-11-02T04:40:24Z",
    "tags": [
@@ -764,7 +870,7 @@
     "The Pelicans travel to Memphis to battle the Grizzlies at the FedEx Forum at 7:00 pm CT on Monday.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
     "Get the latest Pelicans-Grizzlies injury report, team news, tune in details, and gameday information: PELICANS VS GRIZZLIES INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poo…",
-    "DOUBTFUL (G League two-way) GRIZZLIES INJURY REPORT Scotty Pippen Jr.",
+    "OUT (G League two-way) GRIZZLIES INJURY REPORT Scotty Pippen Jr.",
     "DOUBTFUL (low back soreness) Quinten Post QUESTIONABLE (right ankle sprain) PELICANS VS GRIZZLIES: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS GRIZZLIES STARTING LINEUPS MEMPHIS GRIZZLIES (…",
     "Sacramento Kings Jaylen Wells, Cameron Boozer, Zach Edey, Cedric Coward, Cam Spencer NEW ORLEANS PELICANS (2-4) Previous Game Lineup: October 31 win vs.",
     "Grizzlies Game Time, TV Channel, Radio & Location 📅 Game Time: Monday, Nov. 2 at 7:00 pm CT🏟️ Location: FedExForum in Memphis, TN🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Grizzlies TV: ABC24/DAZN-MEM📻 Grizzli…"
@@ -916,6 +1022,35 @@
     "We did a great job on both ends of the floor (in our last win) of being connected, sharing the ball and trusting each other,",
     "I’m very pleased with the way we played."
    ]
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
+   "url": "https://www.nba.com/grizzlies/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
+   "canonical_url": "https://grizzlies.com/news/grizzles-remain-nbas-only-unbeaten-team-start-four-game-home-stand-with-136-105-win-over-kings",
+   "title": "Grizzles Remain NBA's Only Unbeaten Team, Start Four-Game Home Stand With 136-105 Win Over Kings",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-01T04:55:50Z",
+   "tags": [
+    "Postgame Report",
+    "Pressroom"
+   ],
+   "summary": "MEMPHIS, TENN. (Oct. 31, 2026) - The Memphis Grizzlies (6-0) defeated the Sacramento Kings (0-6) 136-105 on Saturday at FedExForum. Memphis recorded their first 6-0 start to a season since the 2014-15 campaign and remain the only undefeated team in the NBA. Cameron Boozer led the Grizzlies in scoring with a career-high 27 points with nine rebounds in 26 minutes. Isaiah Stewart tallied a season-hig…",
+   "facts": [
+    "MEMPHIS, TENN. (Oct. 31, 2026) - The Memphis Grizzlies (6-0) defeated the Sacramento Kings (0-6) 136-105 on Saturday at FedExForum.",
+    "Memphis recorded their first 6-0 start to a season since the 2014-15 campaign and remain the only undefeated team in the NBA.",
+    "Cameron Boozer led the Grizzlies in scoring with a career-high 27 points with nine rebounds in 26 minutes.",
+    "Isaiah Stewart tallied a season-high 24 points on 8-of-9 shooting off the bench and tied the third-highest scoring game of his career.",
+    "GG Jackson scored a season-high 21 points on 5-of-5 shooting from 3-point range in 21 minutes off the bench.",
+    "Cam Spencer recorded his first double-double of the season with 10 points and a career-high tying 13 assists with zero turnovers.",
+    "Jerami Grant added 14 points on 5-of-10 shooting from the field and two blocks in 23 minutes off the bench.",
+    "After Sacramento scored the first seven points of the game, Memphis countered with a 23- 4 run."
+   ],
+   "quotes": []
   },
   {
    "source": "NOP 公式（nba.com）",
@@ -1535,156 +1670,6 @@
     "Turning Point: Already up five at the break, Washington opened the third quarter on a 13-2 run to stretch its lead to 16 by the 6:53 mark.",
     "As the Hornets’ offense remained stagnant with a few too many short possessions and errant 3-point attempts, the Wizards continued to inch further ahead and eventually entered the fourth holding a 20-point advantage.",
     "Charlotte ended up with its lowest point total since March of 2019 and saw its five-game winning streak over Washington come to an end."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "OKC 公式（nba.com）",
-   "team": "OKC",
-   "team_ja": "サンダー",
-   "team_id": 1610612760,
-   "kind": "injury",
-   "key": "https://www.nba.com/thunder/news/medical-update-261030",
-   "url": "https://www.nba.com/thunder/news/medical-update-261030",
-   "canonical_url": "https://okcthunder.com/news/medical-update-261030",
-   "title": "Thunder Medical Update",
-   "author": "okcthunder",
-   "published_utc": "2026-10-31T00:58:30Z",
-   "tags": [],
-   "summary": "OKLAHOMA CITY, Oct. 30, 2026 – The Oklahoma City Thunder provided the following medical updates today:",
-   "facts": [
-    "OKLAHOMA CITY, Oct. 30, 2026 – The Oklahoma City Thunder provided the following medical updates today: Chet Holmgren experienced mild discomfort in his right knee on October 25.",
-    "The treatment was successful and Holmgren is expected to make a full recovery and return to play in 8-to-10 weeks.",
-    "The surgery was performed by Dr.",
-    "Wallace will be re-evaluated prior to the end of the 2026-27 regular season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/warriors-fan-guide-november-2026",
-   "url": "https://www.nba.com/warriors/news/warriors-fan-guide-november-2026",
-   "canonical_url": "https://warriors.com/news/warriors-fan-guide-november-2026",
-   "title": "Warriors Fan Guide: November 2026",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-10-30T23:32:37Z",
-   "tags": [
-    "2026-27 Schedule"
-   ],
-   "summary": "The Warriors begin November with a five-game home stand from Nov. 1-9 and have three more home games around Thanksgiving, hosting the Boston Celtics on Nov. 22, the Sacramento Kings for an NBA Cup game on Nov. 25, and the Los Angeles Clippers on Nov. 29. After losing their first three games, the Dubs responded with back-to-back wins, as Stephen Curry became the 5th player age 38 or older to score …",
-   "facts": [
-    "The Warriors begin November with a five-game home stand from Nov. 1-9 and have three more home games around Thanksgiving, hosting the Boston Celtics on Nov. 22, the Sacramento Kings for an NBA Cup game on Nov. 25, and th…",
-    "After losing their first three games, the Dubs responded with back-to-back wins, as Stephen Curry became the 5th player age 38 or older to score 44 points in a game and No. 11 pick Yaxel Lendeborg scored the most points …",
-    "SIZZLING NEW ADDITIONS IN SOUTH BEACH The Miami Heat added some high-profile NBA champions this offseason, acquiring two-time MVP Giannis Antetokounmpo from the Milwaukee Bucks and signing former Warriors Splash Brother …",
-    "The Heat also have former Warriors forward and 2022 NBA champion Andrew Wiggins.",
-    "Their longest-tenured player, Bam Adebayo, recorded the second-highest-scoring game in league history, scoring 83 points on March 10, 2026.",
-    "The star-studded Heat will make their lone regular-season appearance at Chase Center on Nov. 5. »Buy Tickets TATUM’S TERRIFIC TENURE IN BOSTON CONTINUES Six-time All-Star and 2025 champion Jayson Tatum is back, starting …",
-    "Tatum has already had some signature moments for the Celtics this season, scoring 36 points in 37 minutes in a win against the defending champion New York Knicks and scoring 40 points with a game-winning shot in an overt…",
-    "Tatum and the Celtics visit the Bay just once during the regular season, on Nov. 22. »Buy Tickets TWO STANDOUT ROOKIES HIGHLIGHT NBA CUP DUEL Kings No. 7 pick Darius Acuff Jr. and Warriors No. 11 pick Yaxel Lendeborg ran…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-hawks-injury-report-game-preview-10-31-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-hawks-injury-report-game-preview-10-31-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-hawks-injury-report-game-preview-10-31-2026",
-   "title": "Pelicans vs. Hawks: Injury Report, Game Preview 10/31/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-10-30T21:42:39Z",
-   "tags": [],
-   "summary": "The Pelicans host the Atlanta Hawks on Halloween Night at the Smoothie King Center at 6:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans host the Atlanta Hawks on Halloween Night at the Smoothie King Center at 6:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Hawks injury report, team news, tune in details, and gameday information: PELICANS VS HAWKS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poole OUT (…",
-    "QUESTIONABLE (G League two-way) HAWKS INJURY REPORT Mouhamed Gueye OUT (left foot fracture) Henri Veesaar OUT (right ACL tear) RayJ Dennis DOUBTFUL (G League two-way) Zuby Ejiofor DOUBTFUL (G League on assignment) Keshon…",
-    "Cleveland Cavaliers Dyson Daniels, Jalen Johnson, Onyeka Okongwu, Nickeil Alexander-Walker, CJ McCollum NEW ORLEANS PELICANS (1-4) Previous Game Lineup: October 29 win vs.",
-    "Hawks Game Time, TV Channel, Radio & Location 📅 Game Time: Saturday, Oct. 31 at 6:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Coast …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-young-players-stepping-up-road-trip-looming",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-young-players-stepping-up-road-trip-looming",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-young-players-stepping-up-road-trip-looming",
-   "title": "Roundball Roundup: Young Players Stepping Up + Road Trip Looming",
-   "author": "JP Chunga",
-   "published_utc": "2026-10-30T21:15:04Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the young players stepping up with the Jazz’s injury woes, upcoming road trip objectives, and injuries around the league.",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the young players stepping up with the Jazz’s injury woes, upcoming road trip objectives, and injuries around the league."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-homestand-against-portland-trail-blazers",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-homestand-against-portland-trail-blazers",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-homestand-against-portland-trail-blazers",
-   "title": "Preview: Utah Jazz End Homestand Against Portland Trail Blazers",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-10-30T19:15:07Z",
-   "tags": [
-    "Ace Bailey",
-    "Darryn Peterson",
-    "Keyonte George",
-    "Utah Jazz"
-   ],
-   "summary": "As they’ve had to navigate through a plethora of frontcourt injuries during the opening week of the season, the Utah Jazz have been able to enjoy an extended stay at home in the Delta Center.",
-   "facts": [
-    "As they’ve had to navigate through a plethora of frontcourt injuries during the opening week of the season, the Utah Jazz have been able to enjoy an extended stay at home in the Delta Center.",
-    "The Jazz have gone 1-3 so far during the homestand, with a home-opening win against the New Orleans Pelicans last Friday prior to losses to the Los Angeles Lakers, Memphis Grizzlies, and San Antonio Spurs.",
-    "The most recent game against San Antonio showcased Utah’s fight, as the Jazz battled the reigning Western Conference champions for 53 minutes, eventually falling 117-111 in overtime.",
-    "Keyonte George had 31 points to lead Utah, while Ace Bailey (19 points, six rebounds) and Darryn Peterson (18 points) found success in supporting roles.",
-    "Ball security struggles (19 turnovers) continued to persist for the Jazz, who fell behind in the possession game by the end of the night.",
-    "Even after a shooting regression against the Grizzlies Thursday night (12-of-49 from three), the Trail Blazers still topped the league in offensive rating as of Friday morning.",
-    "Morant suffered a hamstring injury in that Thursday night loss, which will have the former All-Star out for several weeks.",
-    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "HOU 公式（nba.com）",
-   "team": "HOU",
-   "team_ja": "ロケッツ",
-   "team_id": 1610612745,
-   "kind": "roster",
-   "key": "https://www.nba.com/rockets/news/rockets-exercise-fourth-year-team-option-for-reed-sheppard",
-   "url": "https://www.nba.com/rockets/news/rockets-exercise-fourth-year-team-option-for-reed-sheppard",
-   "canonical_url": "https://rockets.com/news/rockets-exercise-fourth-year-team-option-for-reed-sheppard",
-   "title": "Rockets Exercise Fourth-Year Team Option for Reed Sheppard",
-   "author": "houhjoshi",
-   "published_utc": "2026-10-30T19:08:23Z",
-   "tags": [],
-   "summary": "HOUSTON – The Houston Rockets today announced they exercised their fourth-year option for guard Reed Sheppard.",
-   "facts": [
-    "Sheppard was the third overall pick by Houston in the 2024 NBA Draft.",
-    "He appeared in all 82 games with 21 starts last season, while averaging 13.5 points, 3.4 assists, 2.9 rebounds, 1.49 steals and 2.8 3-pointers made in 26.2 minutes per game.",
-    "Last season, Sheppard joined Tyrese Maxey and Ausar Thompson as the only players to have recorded at least 120 steals and 50 blocks.",
-    "Sheppard also had the fifth-highest scoring increase (+9.1 ppg) of any player from 2024-25 to 2025-26."
    ],
    "quotes": []
   }
