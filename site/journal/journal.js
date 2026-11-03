@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "803-lebron-wine-sip-76ers.html",
+    cat: "NBA",
+    title: "レブロン「悪くなかったよ」—— ファンの赤ワインを一口、76ersは126-107で7勝1敗",
+    excerpt: "フィラデルフィア・76ersのレブロン・ジェームズ(LeBron James)は現地時間11月2日、本拠地でのシカゴ・ブルズ戦の第3クォーター中にルーズボールを追ってファンと接触し、ファンが持っていた赤ワインを思わず一口飲んだ。「肘にかかった分がどれくらいの価値か確かめたくて。悪くなかったよ」と笑って振り返った。76ersは126-107で快勝し、7勝1敗とした。ESPNが伝えた。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "802-giannis-luka-goat-praise.html",
+    cat: "NBA",
+    title: "ヤニス「今じゃない、オールタイムだ」—— 42得点ドンチッチへ最大級の評価、ヒートは138-117で敗戦",
+    excerpt: "マイアミ・ヒートのヤニス・アデトクンボ(Giannis Antetokounmpo)は現地時間11月2日、ロサンゼルス・レイカーズに138-117で敗れた試合後、42得点を記録したルカ・ドンチッチ(Luka Doncic)について「今の話じゃない。オールタイムで考えてもトップクラスにいるはずだ」と最大級の評価を口にした。ESPNが伝えた。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-802-hero.jpg?v=90f28cdb98"
+  },
+  {
     href: "801-quickley-27-points-clippers.html",
     cat: "NBA",
     title: "イマニュエル・クイックリー、クリッパーズ戦で27得点 —— ラプターズが125-118で逆転勝利",
