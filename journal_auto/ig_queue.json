@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:37:22+09:00",
+  "updated": "2026-11-03T12:46:48+09:00",
   "items": [
     {
       "id": "134",
@@ -23442,6 +23442,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ラメロ・ボール、バックス戦で34得点\n\n・ティンバーウルブズが112-100で勝利\n・ボールはFG12/21・3PT6/13で34得点\n・アヨ・ドスンムは19得点12リバウンド8アシスト\n\n💬 ボールの34得点、今季の自己ベストはどこまで伸びる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Timberwolves vs. Bucks)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "794",
+      "slug": "794-darius-acuff-25-points-mavericks",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "ダリアス・エイカフ・ジュニア、マーベリックス戦で25得点",
+      "excerpt": "サクラメント・キングスのダリアス・エイカフ・ジュニアは現地時間11月2日、敵地でのダラス・マーベリックス戦に37分出場し、フィールドゴール21本中10本・3ポイント8本中2本を沈めて25得点、アシスト6を記録した。両チーム通じてこの日の最多得点で、キングスは115-100でマーベリックスを下した。",
+      "points": [
+        "FG10/21・3P2/8で25得点",
+        "アシスト6はチーム最多",
+        "キングスが115-100で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/794-darius-acuff-25-points-mavericks.html",
+      "hero_path": "",
+      "subject": [
+        "Darius Acuff Jr."
+      ],
+      "question": "アカフのこの成長スピード、どこまで伸びる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DARIUS ACUFF JR.",
+        "opponent": "vs. MAVERICKS",
+        "points": 25,
+        "stats": [
+          "6 AST",
+          "5 REB",
+          "10/21 FG",
+          "2/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/794-1.jpg",
+        "https://sixten.jp/assets/ig/794-2.jpg",
+        "https://sixten.jp/assets/ig/794-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T12:46:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ダリアス・エイカフ・ジュニア、マーベリックス戦で25得点\n\n・FG10/21・3P2/8で25得点\n・アシスト6はチーム最多\n・キングスが115-100で勝利\n\n💬 アカフのこの成長スピード、どこまで伸びる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
