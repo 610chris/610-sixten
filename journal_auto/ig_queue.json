@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T15:00:03+09:00",
+  "updated": "2026-11-03T15:09:16+09:00",
   "items": [
     {
       "id": "134",
@@ -23769,6 +23769,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ステフィン・カリー、サンズ戦で34得点\n\n・FG 9/21・3PT 5/13・FT 11/12で34得点\n・リバウンド6・アシスト7も記録\n・ウォリアーズは116-113でサンズを下す\n\n💬 カリーのこの一戦、今季ベストゲーム級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Warriors vs. Suns・2026年11月2日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "801",
+      "slug": "801-quickley-27-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "イマニュエル・クイックリーがクリッパーズ戦で27得点",
+      "excerpt": "トロント・ラプターズのイマニュエル・クイックリー(Immanuel Quickley)は現地時間11月2日、敵地でのLAクリッパーズ戦に38分出場し、フィールドゴール13本中8本・3ポイント4本中1本・フリースロー11本中10本を沈めて27得点、アシスト2・スティール1を記録した。両チーム通じてこの日の最多得点で、ラプターズは13点差を背負った第4クォーターに47得点を奪う猛攻で逆転し、125-118でクリッパーズを下した。",
+      "points": [
+        "27得点・FG8/13・FT10/11",
+        "ラプターズが第4Q47得点の猛攻",
+        "13点差を逆転し125-118で勝利"
+      ],
+      "source": "ESPN ボックススコア(Raptors vs. Clippers・2026年11月2日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/801-quickley-27-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Immanuel Quickley"
+      ],
+      "question": "ラプターズの第4Qの逆転、どう見た?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "IMMANUEL QUICKLEY",
+        "opponent": "vs. CLIPPERS",
+        "points": 27,
+        "stats": [
+          "4 REB",
+          "2 AST",
+          "8/13 FG",
+          "10/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/801-1.jpg",
+        "https://sixten.jp/assets/ig/801-2.jpg",
+        "https://sixten.jp/assets/ig/801-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T15:08:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "イマニュエル・クイックリーがクリッパーズ戦で27得点\n\n・27得点・FG8/13・FT10/11\n・ラプターズが第4Q47得点の猛攻\n・13点差を逆転し125-118で勝利\n\n💬 ラプターズの第4Qの逆転、どう見た?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Raptors vs. Clippers・2026年11月2日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
