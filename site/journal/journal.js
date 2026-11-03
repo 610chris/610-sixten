@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "782-hornets-coby-white-returns-knueppel-close.html",
+    cat: "NBA",
+    title: "ホーネッツのコービー・ホワイト、今季初出場へ —— カニップルの復帰も「目前」とリーHC",
+    excerpt: "シャーロット・ホーネッツは現地時間11月2日、ふくらはぎ負傷から復帰するコービー・ホワイトが今季初出場を果たすと発表。チャールズ・リーHCはハムストリングを負傷中のコン・カニップルの復帰も「目前」と述べた。カニップルは昨季3P数リーグ1位、新人王投票2位の実力者。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "781-air-jordan-3-knicks.html",
     cat: "KICKS",
     title: "Air Jordan 3「Knicks」が12月発売へ —— 品番JU1525-148、優勝パレードを経ての正式発表",
