@@ -1005,6 +1005,32 @@
   "template": "news",
   "timestamp": "2026-10-17T23:10:20+0000"
  },
+ "17913574131560612": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "775",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、ウォリアーズ戦で24得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfOgmSiDKTF/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Clippers vs. Warriors・2026年11月1日)",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-02T05:02:32+0000"
+ },
  "17913699579509885": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -1974,6 +2000,32 @@
   "template": "news",
   "timestamp": "2026-10-05T23:20:10+0000"
  },
+ "17940846054392867": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "787",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダーに迫る「5億ドル問題」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ54kmmEmq/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（Brian Windhorst・Tim MacMahon）",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T03:22:02+0000"
+ },
  "17940890540515753": {
   "auto": false,
   "caption_len": 85,
@@ -2476,6 +2528,32 @@
   "template": "score",
   "timestamp": "2026-10-25T03:12:30+0000"
  },
+ "17956278441326747": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "783",
+  "auto": true,
+  "caption_len": 381,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ギルジャス＝アレクサンダー、キャバリアーズ戦で43得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ3be5ink3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Thunder vs. Cavaliers・2026年11月2日)",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:00:38+0000"
+ },
  "17956495995268486": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -2748,6 +2826,32 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:19:16+0000"
+ },
+ "17966041623240230": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "790",
+  "auto": true,
+  "caption_len": 411,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイリース・マクシー、ブルズ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ6eq-CJAM/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(76ers vs. Bulls・2026年11月2日)",
+  "subject": [
+   "Tyrese Maxey"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:27:12+0000"
  },
  "17968700104782540": {
   "auto": false,
@@ -5083,6 +5187,32 @@
   "template": "score",
   "timestamp": "2026-10-25T03:23:49+0000"
  },
+ "18092363690226722": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "794",
+  "auto": true,
+  "caption_len": 309,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダリアス・エイカフ・ジュニア、マーベリックス戦で25得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ9CnDEb4U/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darius Acuff Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:49:28+0000"
+ },
  "18092664290216698": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -5493,6 +5623,34 @@
   ],
   "template": "score",
   "timestamp": "2026-10-31T02:03:09+0000"
+ },
+ "18099395903404121": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "778",
+  "auto": true,
+  "caption_len": 433,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー・スパーズ・ニックスの『3強』、優勝争いで後退",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfPYxL8FKzY/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「How NBA title, MVP race has become wide open in two weeks」",
+  "subject": [
+   "Victor Wembanyama",
+   "Shai Gilgeous-Alexander",
+   "Nikola Jokic"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-02T13:13:15+0000"
  },
  "18099434201310563": {
   "arms": {
@@ -6013,6 +6171,32 @@
   "template": "score",
   "timestamp": "2026-10-31T02:07:20+0000"
  },
+ "18107429756340379": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "776",
+  "auto": true,
+  "caption_len": 388,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ルカ・ドンチッチ、ラプターズ戦で45得点15リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfOgyCAgBLu/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Raptors vs. Lakers・2026年11月1日)",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-02T05:04:03+0000"
+ },
  "18107936777256136": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -6039,6 +6223,32 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T03:05:04+0000"
+ },
+ "18108021437459002": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "782",
+  "auto": true,
+  "caption_len": 380,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ホーネッツのホワイト、今季初出場へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQpjYQDB4V/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「White returns for Hornets, Knueppel 'right around the corner'」",
+  "subject": [
+   "Coby White|Kon Knueppel"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T00:59:20+0000"
  },
  "18108235286111349": {
   "arms": {
@@ -6318,6 +6528,32 @@
   ],
   "template": "news",
   "timestamp": "2026-10-18T23:01:08+0000"
+ },
+ "18110850814901748": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "791",
+  "auto": true,
+  "caption_len": 332,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カニングハムが33得点 —— ピストンズ33点差の大勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ6vhQDGly/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Cade Cunningham"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:29:32+0000"
  },
  "18110935669928503": {
   "arms": {
@@ -6707,6 +6943,33 @@
   ],
   "template": "news",
   "timestamp": "2026-10-07T01:25:27+0000"
+ },
+ "18114065303178044": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "779",
+  "auto": true,
+  "caption_len": 379,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャズ、エース・ベイリーの契約オプション行使 —— コリアーは来夏UFAへ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQpYHMlLbR/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Michael Scotto（HoopsHype）のXポスト",
+  "subject": [
+   "Ace Bailey",
+   "Isaiah Collier"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T00:57:38+0000"
  },
  "18114505472616681": {
   "arms": {
@@ -8443,6 +8706,32 @@
   ],
   "template": "score",
   "timestamp": "2026-10-31T02:54:39+0000"
+ },
+ "18137249137731951": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "793",
+  "auto": true,
+  "caption_len": 369,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ラメロ・ボール、バックス戦で34得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ76vmgH-u/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Timberwolves vs. Bucks)",
+  "subject": [
+   "LaMelo Ball"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T03:39:49+0000"
  },
  "18137476879680591": {
   "arms": {
@@ -10207,6 +10496,32 @@
   "template": "score",
   "timestamp": "2026-10-28T02:59:19+0000"
  },
+ "18345337639287279": {
+  "arms": {
+   "ig-2026-10-share-cta": "na"
+  },
+  "article": "774",
+  "auto": true,
+  "caption_len": 363,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "サンダー、トピッチの来季オプション不行使 —— 闘病の3年で10試合",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfORD-lkmxd/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Thunder decline option for oft-injured ex-lottery pick Nikola Topic」",
+  "subject": [
+   "Nikola Topic"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-02T02:46:42+0000"
+ },
  "18351504148271611": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -10256,6 +10571,32 @@
   ],
   "template": "news",
   "timestamp": "2026-10-02T04:05:18+0000"
+ },
+ "18352596793266364": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "786",
+  "auto": true,
+  "caption_len": 324,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウィザーズのデイビスが27得点9リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ5sGkDbCh/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Anthony Davis"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:20:19+0000"
  },
  "18357885442168260": {
   "arms": {
@@ -10666,6 +11007,32 @@
   "template": "score",
   "timestamp": "2026-10-23T23:20:17+0000"
  },
+ "18414679519092119": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "795",
+  "auto": true,
+  "caption_len": 373,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイ・ジェローム、ペリカンズ戦で自己最多40得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ9oElCgJp/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Grizzlies vs. Pelicans・2026年11月2日)",
+  "subject": [
+   "Ty Jerome"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:54:43+0000"
+ },
  "18432234145147065": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -10797,6 +11164,58 @@
   ],
   "template": "news",
   "timestamp": "2026-10-26T06:06:55+0000"
+ },
+ "18449899396124633": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "789",
+  "auto": true,
+  "caption_len": 376,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アレクサンダー＝ウォーカー、ペイサーズ戦で34得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ6R1rjdxx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Hawks vs. Pacers・2026年11月2日)",
+  "subject": [
+   "Nickeil Alexander-Walker"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:25:31+0000"
+ },
+ "18451621858130777": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "792",
+  "auto": true,
+  "caption_len": 332,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ランドリー・シャメットが22得点 —— ニックスが103-90で勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ7f9ICAYS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPNボックススコア",
+  "subject": [
+   "Landry Shamet"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T03:36:08+0000"
  },
  "18465127744140971": {
   "auto": false,
