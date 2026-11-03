@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "808-mavericks-dumont-controlling-owner.html",
+    cat: "NBA",
+    title: "マーベリックス、デュモン家が株式69%の支配株主に —— アデルソン家の保有株を買収、新アリーナ計画は継続",
+    excerpt: "ダラス・マーベリックスは、シヴァン・デュモンとパトリック・デュモンがミリアム・アデルソンの保有株を先月買収し、デュモン家がフランチャイズの69%を握る支配株主になった。パトリックは「ダラスへの長期投資」と語り、新アリーナ計画は継続する。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "807-nike-gt-cut-4-n7.html",
     cat: "KICKS",
     title: "Nike GT Cut 4「N7」が11月7日発売 —— 先住民コミュニティ支援プログラムの新色、品番IV5677-300",
