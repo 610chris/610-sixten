@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "785-adidas-harden-vol-11.html",
+    cat: "KICKS",
+    title: "adidas Harden Vol. 11 が12月発売へ —— ジェームズ・ハーデンの11代目シグネチャー",
+    excerpt: "adidasは、ジェームズ・ハーデン(クリーブランド・キャバリアーズ)とのシグネチャーシューズ11作目となる「adidas Harden Vol. 11」を2026年12月に発売する予定だ。詳細な仕様・価格・品番は執筆時点で未発表。Sneaker Newsが伝えた。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "784-nike-ja-4-blur.html",
+    cat: "KICKS",
+    title: "Nike Ja 4「Blur」が11月24日発売 —— ジャ・モラント4代目シグネチャーにグラデーション新色",
+    excerpt: "ナイキは、ジャ・モラント(メンフィス・グリズリーズ)の4代目シグネチャーモデル「Nike Ja 4」に新色「Blur」を投入し、11月24日に発売する。トゥの水色が紫と暗いグレーへ滲むグラデーション配色で、品番はIM4135-501。Sneaker NewsとSneaker Bar Detroitが伝えた。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "783-sga-43-points-cavaliers.html",
     cat: "NBA",
     title: "シェイ・ギルジャス＝アレクサンダー、キャバリアーズ戦で43得点 —— サンダーが117-112で勝利",
