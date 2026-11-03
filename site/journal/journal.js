@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "788-nike-gt-future-volt.html",
+    cat: "KICKS",
+    title: "Nike GT Future「Volt」が登場 —— 品番FZ5590-701、ランニングシューズ譲りの蛍光イエロー",
+    excerpt: "Nike Basketballのパフォーマンスライン「Nike GT Future」に、陸上・ランニングシューズを思わせる蛍光イエロー(Volt)とブラックを組み合わせた新色(品番FZ5590-701)が登場した。Sneaker Newsが伝えた。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "787-thunder-500-million-payroll-problem.html",
+    cat: "NBA",
+    title: "サンダーに迫る「5億ドル問題」—— ジェイレン・ウィリアムズとウォーレスの負傷、ESPN記者2人がトレード市場での選択肢を分析",
+    excerpt: "ESPNのブライアン・ウィンドホルスト記者とティム・マクマホン記者は、ジェイレン・ウィリアムズ(左腓骨骨折・足首脱臼)とケイソン・ウォーレス(肩関節唇断裂)が離脱したオクラホマシティ・サンダーの編成上の選択肢を分析した。チームの総年俸(ラグジュアリータックス込み)が2027-28シーズンに5億ドルを超える見通しの中、サム・プレスティGMがトレード市場で動くかどうかに各チーム幹部の見方が割れている。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "786-anthony-davis-27-points-magic.html",
+    cat: "NBA",
+    title: "アンソニー・デイビス、マジック戦で27得点9リバウンド —— ウィザーズが103-94で勝利",
+    excerpt: "ワシントン・ウィザーズのアンソニー・デイビスは現地時間11月2日、敵地でのオーランド・マジック戦に34分出場し、フィールドゴール17本中12本を沈めて27得点、リバウンド9・スティール4を記録した。両チーム通じてこの日の最多得点で、ウィザーズは103-94でマジックを下した。",
+    date: "2026.11.03",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "785-adidas-harden-vol-11.html",
     cat: "KICKS",
     title: "adidas Harden Vol. 11 が12月発売へ —— ジェームズ・ハーデンの11代目シグネチャー",

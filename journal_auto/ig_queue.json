@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:03:29+09:00",
+  "updated": "2026-11-03T12:16:23+09:00",
   "items": [
     {
       "id": "134",
@@ -23105,6 +23105,120 @@
       "ig_media_id": null,
       "error": null,
       "caption": "adidas Harden Vol. 11 が12月発売へ\n\n・ジェームズ・ハーデンの11代目シグネチャー\n・詳細仕様は追って発表予定\n・前作Vol. 10は10月に発売済み\n\n💬 adidas Harden、歴代で一番好きなモデルは？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "786",
+      "slug": "786-anthony-davis-27-points-magic",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "ウィザーズのデイビスが27得点9リバウンド",
+      "excerpt": "ワシントン・ウィザーズのアンソニー・デイビスは現地時間11月2日、敵地でのオーランド・マジック戦に34分出場し、フィールドゴール17本中12本を沈めて27得点、リバウンド9・スティール4を記録した。両チーム通じてこの日の最多得点で、ウィザーズは103-94でマジックを下した。",
+      "points": [
+        "FG12/17の高確率で27得点",
+        "リバウンド9・スティール4",
+        "ウィザーズが103-94で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/786-anthony-davis-27-points-magic.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Davis"
+      ],
+      "question": "デイビス加入のウィザーズ、プレーオフ争いに食い込める？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY DAVIS",
+        "opponent": "vs. MAGIC",
+        "points": 27,
+        "stats": [
+          "9 REB",
+          "3 STL",
+          "1 AST",
+          "12/17 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/786-1.jpg",
+        "https://sixten.jp/assets/ig/786-2.jpg",
+        "https://sixten.jp/assets/ig/786-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T12:16:19+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウィザーズのデイビスが27得点9リバウンド\n\n・FG12/17の高確率で27得点\n・リバウンド9・スティール4\n・ウィザーズが103-94で勝利\n\n💬 デイビス加入のウィザーズ、プレーオフ争いに食い込める？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "787",
+      "slug": "787-thunder-500-million-payroll-problem",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "サンダーに迫る「5億ドル問題」",
+      "excerpt": "ESPNのブライアン・ウィンドホルスト記者とティム・マクマホン記者は、ジェイレン・ウィリアムズ(左腓骨骨折・足首脱臼)とケイソン・ウォーレス(肩関節唇断裂)が離脱したオクラホマシティ・サンダーの編成上の選択肢を分析した。チームの総年俸(ラグジュアリータックス込み)が2027-28シーズンに5億ドルを超える見通しの中、サム・プレスティGMがトレード市場で動くかどうかに各チーム幹部の見方が割れている。",
+      "points": [
+        "J・ウィリアムズとウォーレスが長期離脱",
+        "総年俸は27-28シーズンに5億ドル超え見通し",
+        "ペリカンズのジョーンズ・マーフィーがトレード候補に"
+      ],
+      "source": "ESPN（Brian Windhorst・Tim MacMahon）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/787-thunder-500-million-payroll-problem.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "サンダー、このままシーズンを乗り切れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/787-1.jpg",
+        "https://sixten.jp/assets/ig/787-2.jpg",
+        "https://sixten.jp/assets/ig/787-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T12:16:19+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "サンダーに迫る「5億ドル問題」\n\n・J・ウィリアムズとウォーレスが長期離脱\n・総年俸は27-28シーズンに5億ドル超え見通し\n・ペリカンズのジョーンズ・マーフィーがトレード候補に\n\n💬 サンダー、このままシーズンを乗り切れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（Brian Windhorst・Tim MacMahon）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "788",
+      "slug": "788-nike-gt-future-volt",
+      "category": "KICKS",
+      "date": "2026-11-03",
+      "headline": "Nike GT Future「Volt」が登場",
+      "excerpt": "Nike Basketballのパフォーマンスライン「Nike GT Future」に、陸上・ランニングシューズを思わせる蛍光イエロー(Volt)とブラックを組み合わせた新色(品番FZ5590-701)が登場した。Sneaker Newsが伝えた。",
+      "points": [
+        "品番FZ5590-701",
+        "蛍光イエローとブラックの配色",
+        "ランニングシューズ譲りのカラーリング"
+      ],
+      "source": "Sneaker News",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/788-nike-gt-future-volt.html",
+      "hero_path": "",
+      "subject": [],
+      "question": "このNike GT Future「Volt」、気になる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/788-1.jpg",
+        "https://sixten.jp/assets/ig/788-2.jpg",
+        "https://sixten.jp/assets/ig/788-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T12:16:20+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "Nike GT Future「Volt」が登場\n\n・品番FZ5590-701\n・蛍光イエローとブラックの配色\n・ランニングシューズ譲りのカラーリング\n\n💬 このNike GT Future「Volt」、気になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
     }
   ]
 }
