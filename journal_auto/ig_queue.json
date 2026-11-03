@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T14:54:08+09:00",
+  "updated": "2026-11-03T15:00:03+09:00",
   "items": [
     {
       "id": "134",
@@ -23722,6 +23722,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ルカ・ドンチッチ、ヒート戦で42得点\n\n・FG 14/24・3PT 6/15・FT 8/10で42得点\n・リバウンド7・アシスト13も記録\n・レイカーズは本拠地で138-117の快勝\n\n💬 この快勝、プレーオフでも続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Lakers vs. Heat・2026年11月2日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "800",
+      "slug": "800-stephen-curry-34-points-suns",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "ステフィン・カリー、サンズ戦で34得点",
+      "excerpt": "ゴールデンステート・ウォリアーズのステフィン・カリー(Stephen Curry)は現地時間11月2日、本拠地でのフェニックス・サンズ戦に33分出場し、フィールドゴール21本中9本・3ポイント13本中5本・フリースロー12本中11本を沈めて34得点、リバウンド6・アシスト7を記録した。両チーム通じてこの日の最多得点で、ウォリアーズは116-113でサンズを下した。",
+      "points": [
+        "FG 9/21・3PT 5/13・FT 11/12で34得点",
+        "リバウンド6・アシスト7も記録",
+        "ウォリアーズは116-113でサンズを下す"
+      ],
+      "source": "ESPN ボックススコア(Warriors vs. Suns・2026年11月2日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/800-stephen-curry-34-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Stephen Curry"
+      ],
+      "question": "カリーのこの一戦、今季ベストゲーム級？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "STEPHEN CURRY",
+        "opponent": "vs. SUNS",
+        "points": 34,
+        "stats": [
+          "7 AST",
+          "6 REB",
+          "9/21 FG",
+          "5/13 3PT",
+          "11/12 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/800-1.jpg",
+        "https://sixten.jp/assets/ig/800-2.jpg",
+        "https://sixten.jp/assets/ig/800-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T14:59:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ステフィン・カリー、サンズ戦で34得点\n\n・FG 9/21・3PT 5/13・FT 11/12で34得点\n・リバウンド6・アシスト7も記録\n・ウォリアーズは116-113でサンズを下す\n\n💬 カリーのこの一戦、今季ベストゲーム級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Warriors vs. Suns・2026年11月2日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
