@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T12:24:43+09:00",
+  "updated": "2026-11-03T12:31:34+09:00",
   "items": [
     {
       "id": "134",
@@ -23360,6 +23360,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カニングハムが33得点 —— ピストンズ33点差の大勝\n\n・ホーネッツ戦で27分出場、33得点\n・アシスト7・スティール5\n・ピストンズが124-91で勝利\n\n💬 ピストンズ、今季は本物の強さ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "792",
+      "slug": "792-landry-shamet-22-points-nets",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "ランドリー・シャメットが22得点 —— ニックスが103-90で勝利",
+      "excerpt": "ニューヨーク・ニックスのランドリー・シャメットは現地時間11月2日、ホームでのブルックリン・ネッツ戦に30分出場し、フィールドゴール8本中6本・3ポイント6本中4本を沈めて22得点を記録した。両チーム通じてこの日の最多得点で、ニックスは103-90でネッツを下した。",
+      "points": [
+        "FG 6/8・3P 4/6で22得点",
+        "ターンオーバー0の堅実なプレー",
+        "ニックスが103-90でネッツに勝利"
+      ],
+      "source": "ESPNボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/792-landry-shamet-22-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Landry Shamet"
+      ],
+      "question": "ニックス、東地区首位をこのまま守れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LANDRY SHAMET",
+        "opponent": "vs. NETS",
+        "points": 22,
+        "stats": [
+          "1 REB",
+          "1 AST",
+          "6/8 FG",
+          "4/6 3PT",
+          "6/6 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/792-1.jpg",
+        "https://sixten.jp/assets/ig/792-2.jpg",
+        "https://sixten.jp/assets/ig/792-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T12:31:28+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ランドリー・シャメットが22得点 —— ニックスが103-90で勝利\n\n・FG 6/8・3P 4/6で22得点\n・ターンオーバー0の堅実なプレー\n・ニックスが103-90でネッツに勝利\n\n💬 ニックス、東地区首位をこのまま守れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPNボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
