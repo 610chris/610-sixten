@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T13:59:49+09:00",
+  "updated": "2026-11-03T14:54:08+09:00",
   "items": [
     {
       "id": "134",
@@ -23675,6 +23675,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジャマール・マレー、ブレイザーズ戦で35得点\n\n・FG 10/19・3PT 4/9・FT 11/11で35得点\n・リバウンド5・アシスト6も記録\n・ナゲッツは本拠地で110-118の敗戦\n\n💬 この悔しい敗戦、立て直せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Nuggets vs. Trail Blazers・2026年11月2日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "799",
+      "slug": "799-luka-doncic-42-points-heat",
+      "category": "NBA",
+      "date": "2026-11-03",
+      "headline": "ルカ・ドンチッチ、ヒート戦で42得点",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチ(Luka Doncic)は現地時間11月2日、本拠地でのマイアミ・ヒート戦に36分出場し、フィールドゴール24本中14本・3ポイント15本中6本・フリースロー10本中8本を沈めて42得点、リバウンド7・アシスト13を記録した。両チーム通じてこの日の最多得点で、レイカーズは138-117でヒートに快勝した。",
+      "points": [
+        "FG 14/24・3PT 6/15・FT 8/10で42得点",
+        "リバウンド7・アシスト13も記録",
+        "レイカーズは本拠地で138-117の快勝"
+      ],
+      "source": "ESPN ボックススコア(Lakers vs. Heat・2026年11月2日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/799-luka-doncic-42-points-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "この快勝、プレーオフでも続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. HEAT",
+        "points": 42,
+        "stats": [
+          "13 AST",
+          "7 REB",
+          "14/24 FG",
+          "6/15 3PT",
+          "8/10 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/799-1.jpg",
+        "https://sixten.jp/assets/ig/799-2.jpg",
+        "https://sixten.jp/assets/ig/799-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-03T14:53:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ルカ・ドンチッチ、ヒート戦で42得点\n\n・FG 14/24・3PT 6/15・FT 8/10で42得点\n・リバウンド7・アシスト13も記録\n・レイカーズは本拠地で138-117の快勝\n\n💬 この快勝、プレーオフでも続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Lakers vs. Heat・2026年11月2日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
