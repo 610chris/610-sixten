@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "820-nike-zoom-hyperflight-safari.html",
+    cat: "KICKS",
+    title: "Nike Zoom Hyperflight「Safari」が2026年ホリデー発売へ —— 品番IZ2573-010、バスケアーカイブの再始動",
+    excerpt: "ナイキは、バスケットボールのパフォーマンスアーカイブから「Nike Zoom Hyperflight」を新色「Safari」で復活させる。スペックル柄のモールドアッパーにオレンジの差し色、半透明のアウトソールを組み合わせた一足。品番はIZ2573-010、価格170ドル(米国)、2026年ホリデーシーズンにナイキ・一部取扱店で発売予定。Hypebeastが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "819-nike-air-bakin-high-sp-varsity-royal.html",
+    cat: "KICKS",
+    title: "Nike Air Bakin HIGH SP「Varsity Royal & Black」が登場 —— 90年代バスケアーカイブの一足、2度目の復刻",
+    excerpt: "ナイキは、1990年代後半のバスケットボールシューズ「Air Bakin」のアーカイブから、新色「Air Bakin HIGH SP」の「Varsity Royal & Black」を発表した。ボリューム感のあるハイカットシルエットに、バーシティロイヤルとブラックのリブ仕様アッパーを組み合わせ、かかとにMax Air・前足部にAirを搭載する。発売日・価格は本稿執筆時点で非公表。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "818-bleague-allstar-2027-fan-vote.html",
+    cat: "JAPAN",
+    title: "「B.LEAGUE ALL-STAR GAME 2027」ファン投票スタート —— 舞台は愛知・名古屋、『B.LEAGUE CARD』でスタメン5人に投票",
+    excerpt: "株式会社VOLZは11月4日、公式デジタルトレーディングカードサービス『B.LEAGUE CARD』で「りそなグループ B.LEAGUE ALL-STAR GAME 2027」のファン投票を開始したと発表した。2027年の開催地は愛知・名古屋。「B.BLACK」「B.WHITE」それぞれに理想のスタメン5人を編成して投票でき、1日1票の無料投票に加え、カードパックを引くことで最大3票まで増やせる。投票期間は11月8日23:59まで。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "817-devin-vassell-spurs-consistent.html",
     cat: "NBA",
     title: "デビン・バッセルが「最も安定した男」—— ウェンバンヤマ・フォックスら主役級が並ぶスパーズを支える派手さ抜きの存在感",
