@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "823-air-jordan-1-high-og-starfall.html",
+    cat: "KICKS",
+    title: "Air Jordan 1 High OG「Starfall」が中国限定で登場 —— スウッシュのステッチ輪郭とウイングロゴ移動、複数手法を重ねた一足",
+    excerpt: "ジョーダン ブランドは、Air Jordan 1 High OGの新色「Starfall」(品番IZ5845-011)を2026年11月、中国限定で発売する。レザーのスウッシュをステッチの輪郭線に置き換え、パンチングの位置をずらし、ウイングロゴを襟元のキャンバスパッチへ移すなど、複数の手法を重ねた一足。Sneaker News・Sneaker Bar Detroitなどが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "822-air-jordan-15-17-low-black-pack.html",
+    cat: "KICKS",
+    title: "Air Jordan 15 / Air Jordan 17 Low「Black Pack」が11月7日発売 —— ブラックアウト4モデルコレクション",
+    excerpt: "ジョーダン ブランドは、Air Jordan 15とAir Jordan 17 Lowを含む「Black Pack」を2026年11月7日に発売する。黒を基調にしたカラーアウトの4モデルコレクションで、Air Jordan 15は240ドル、Air Jordan 17 Lowは245ドル(いずれも米国価格)。Sneaker Newsなどが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "821-porzingis-warriors-withhold-pay.html",
     cat: "NBA",
     title: "ポルジンギス、ウォリアーズが今季分2000万ドルの支払いを停止 —— 2月11日までトレード模索継続、本人は引退に傾く",
