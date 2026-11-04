@@ -1,43 +1,45 @@
-/* ハレルヤ個人ページのオープニング（2026-11-04）
-   本物の木目のコート（ニス光沢・照明の映り込み）を床すれすれに流す → カメラが上がって俯瞰
-   → 床にマーカーで作戦が書かれていく → 本物のボールがその通りにドリブル→パス→レイアップでリングへ → HALLELUJAH
+/* ハレルヤ個人ページのオープニング（2026-11-04 初版 → 2026-11-05 作り直し）
+   ミネソタ風の配色（ターゲット・センターのコア・コート: 木の地＋ミッドナイトブルーのペイント/外周/センターサークル＋白ライン。ロゴ・文字なし）
+   床すれすれを流す → 俯瞰 → 床にマーカーで作戦図（ホーンズからのピック＆ロール）
+   → その図の通りに 5対5（ウルブス開幕戦の先発 #5 #0 #3 #30 #27 と相手5人）が動く → ゴベアがロールしてアリウープ → HALLELUJAH
    演出はすべて時刻 t の純関数。?introt=秒 でその瞬間を確認できる */
-import { runIntro, prog, easeOut, easeIn, easeInOut, rand, loadTex } from './core.js';
+import { runIntro, prog, easeOut, easeInOut, rand, loadTex } from './core.js';
 import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 
-const DUR = 5.2;
-const T_UP = 1.1;     // カメラが上がり始める
-const T_TOP = 2.3;    // 俯瞰に着く
-const T_PASS = 2.75;  // パス
-const T_SHOT = 3.15;  // レイアップ
-const T_IN = 3.55;    // リングを通る
-const T_NAME = 3.6;   // 名前
-const TEAL = '#2bb3ad', PINK = '#ff4f9a';
+const DUR = 5.7;
+const T_UP = 1.1;      // カメラが上がり始める
+const T_TOP = 2.3;     // 俯瞰に着く
+const T_SCR = 2.45;    // ゴベアがスクリーンに上がる
+const T_DRV = 2.78;    // エドワーズがスクリーンを使ってドライブ
+const T_PASS = 3.32;   // ロールするゴベアへロブパス
+const T_CATCH = 3.6;   // キャッチ
+const T_IN = 3.86;     // ダンク（リングを通る）
+const T_NAME = 3.95;   // 名前
+const NAVY = '#0c2340', LAKE = '#236192', GREEN = '#78be20', CHALK = '#f6f2ea', CORAL = '#ff6b5a';
 
 /* 床の大きさ（m）: コートは 15×14 の半面。外側に余白 */
 const FW = 19, FD = 16;
-const BASE_Z = -7, RIM = { x: 0, y: 3.05, z: -7 + 1.575 };
+const RIM = { x: 0, y: 3.05, z: -7 + 1.575 };
 
 runIntro({ key: 'hallelujah', duration: DUR, gl: true, setup });
 
 /* m → 床テクスチャの px（キャンバス上端 = 奥 z=-8） */
 const toPx = (W, H) => (x, z) => [(x + FW / 2) / FW * W, (z + FD / 2) / FD * H];
 
-/* 木目のコート（メープル材の板・継ぎ目・木目・塗装ライン・ペイントエリア） */
+/* 木目のコート（メープル材の板・継ぎ目・木目）＋ミッドナイトブルーの塗り分け＋白ライン */
 function courtCanvas(R) {
   const W = 2048, H = Math.round(2048 * FD / FW);
   const c = document.createElement('canvas'); c.width = W; c.height = H;
   const g = c.getContext('2d');
   const P = toPx(W, H), m = W / FW;
   const bw = 0.11 * m; // 板の幅
-  for (let x = 0, i = 0; x < W; x += bw, i++) {
+  for (let x = 0; x < W; x += bw) {
     let y = -R() * 2.5 * m;
     while (y < H) {
       const len = (1.6 + R() * 2.4) * m;
-      const h = 31 + R() * 6, s = 42 + R() * 16, l = 58 + R() * 11;
+      const h = 33 + R() * 6, s = 40 + R() * 14, l = 62 + R() * 10;
       g.fillStyle = `hsl(${h},${s}%,${l}%)`;
       g.fillRect(x, y, bw + 1, len);
-      // 木目（板の向きに沿って細い線が揺れながら走る）
       for (let k = 0; k < 7; k++) {
         const gx = x + R() * bw, amp = 0.6 + R() * 2.2, f = 0.004 + R() * 0.01, ph = R() * 6.28;
         g.strokeStyle = `hsla(${h - 4},${s + 10}%,${l - 18 - R() * 10}%,${0.12 + R() * 0.2})`;
@@ -46,52 +48,45 @@ function courtCanvas(R) {
         for (let yy = y; yy <= y + len; yy += 10) { const xx = gx + Math.sin(yy * f + ph) * amp; yy === y ? g.moveTo(xx, yy) : g.lineTo(xx, yy); }
         g.stroke();
       }
-      // 節（たまに）
       if (R() < 0.08) { g.fillStyle = `hsla(${h - 6},60%,${l - 30}%,.35)`; g.beginPath(); g.ellipse(x + bw / 2, y + R() * len, bw * 0.18, bw * 0.5, 0, 0, 6.28); g.fill(); }
-      g.fillStyle = 'rgba(70,40,15,.35)'; g.fillRect(x, y, bw, 1.2); // 継ぎ目
+      g.fillStyle = 'rgba(70,40,15,.35)'; g.fillRect(x, y, bw, 1.2);
       y += len;
     }
-    g.fillStyle = 'rgba(70,40,15,.28)'; g.fillRect(x, 0, 1, H); // 板と板のすき間
+    g.fillStyle = 'rgba(70,40,15,.28)'; g.fillRect(x, 0, 1, H);
   }
-  // コートの外は少し濃いステイン
+  const paint = 'rgba(12,35,64,.93)'; // ミッドナイトブルー（木目がうっすら透ける塗装）
+  // コートの外周（サイドライン・ベースラインの外）はミッドナイトブルーの太い帯
   const [cx0, cz0] = P(-7.5, -7), [cx1, cz1] = P(7.5, 7);
-  g.fillStyle = 'rgba(90,40,10,.38)';
+  g.fillStyle = paint;
   g.fillRect(0, 0, W, cz0); g.fillRect(0, cz1, W, H - cz1); g.fillRect(0, cz0, cx0, cz1 - cz0); g.fillRect(cx1, cz0, W - cx1, cz1 - cz0);
-  // ペイントエリア（ティール）
+  // ペイントエリア（ミッドナイトブルー）
   const [kx0, kz0] = P(-2.45, -7), [kx1, kz1] = P(2.45, -7 + 5.8);
-  g.fillStyle = 'rgba(18,110,106,.78)'; g.fillRect(kx0, kz0, kx1 - kx0, kz1 - kz0);
+  g.fillRect(kx0, kz0, kx1 - kx0, kz1 - kz0);
+  // センターサークル（ミッドナイトブルーの円・ロゴなし）
+  { const [px, py] = P(0, 7); g.beginPath(); g.arc(px, py, 1.8 * m, Math.PI, Math.PI * 2); g.closePath(); g.fill(); }
   // ライン（白・5cm）
   g.strokeStyle = 'rgba(250,248,240,.95)'; g.lineWidth = 0.05 * m; g.lineCap = 'butt';
   const line = (pts) => { g.beginPath(); pts.forEach(([x, z], i) => { const [px, py] = P(x, z); i ? g.lineTo(px, py) : g.moveTo(px, py); }); g.stroke(); };
   const arc = (x, z, r, a0, a1) => { const [px, py] = P(x, z); g.beginPath(); g.arc(px, py, r * m, a0, a1); g.stroke(); };
   g.strokeRect(cx0, cz0, cx1 - cx0, cz1 - cz0);
   g.strokeRect(kx0, kz0, kx1 - kx0, kz1 - kz0);
-  arc(0, -7 + 5.8, 1.8, 0, Math.PI);                       // フリースローサークル（外側）
+  arc(0, -7 + 5.8, 1.8, 0, Math.PI);
   g.setLineDash([0.3 * m, 0.25 * m]); arc(0, -7 + 5.8, 1.8, Math.PI, Math.PI * 2); g.setLineDash([]);
-  arc(RIM.x, RIM.z, 1.25, 0, Math.PI);                     // 制限区域
-  // 3P（コーナーは直線・サイドから0.9m）
+  arc(RIM.x, RIM.z, 1.25, 0, Math.PI);
   const zc = RIM.z + Math.sqrt(6.75 * 6.75 - 6.6 * 6.6);
   line([[-6.6, -7], [-6.6, zc]]); line([[6.6, -7], [6.6, zc]]);
   const [rx, rz] = P(RIM.x, RIM.z); g.beginPath(); g.arc(rx, rz, 6.75 * m, Math.atan2(zc - RIM.z, 6.6), Math.atan2(zc - RIM.z, -6.6)); g.stroke();
-  arc(0, 7, 1.8, Math.PI, Math.PI * 2);                    // センターサークル（半分）
-  // コート中央寄りに薄くロゴ文字（S5のティール）
+  arc(0, 7, 1.8, Math.PI, Math.PI * 2);
+  // コート中央寄りに薄く S5 の文字（ミッドナイトブルー）
   g.save(); const [lx, lz] = P(0, 4.6); g.translate(lx, lz);
   g.font = `${0.62 * m}px "Archivo Black", sans-serif`; g.textAlign = 'center'; g.textBaseline = 'middle';
-  g.fillStyle = 'rgba(18,110,106,.55)'; g.fillText('STARTING 5IVE', 0, 0); g.restore();
+  g.fillStyle = 'rgba(12,35,64,.42)'; g.fillText('STARTING 5IVE', 0, 0); g.restore();
   return c;
 }
 
-/* 作戦（m 座標）: 1番がドリブルで右ウイングへ／2番が左からカールでゴール下へ／パス→レイアップ */
-const PLAY = {
-  o1: [[0, 0.6], [1.2, -0.3], [2.4, -1.2], [3.3, -2.0]],
-  o2: [[-5.6, -2.4], [-4.0, -2.0], [-2.4, -3.2], [-1.1, -4.4], [-0.35, -5.0]],
-  o3: [[5.9, -6.2]],
-  x1: [[0.1, -0.4], [2.6, -2.6]],
-  x2: [[-4.9, -3.0], [-1.6, -4.0]],
-  x3: [[5.2, -5.7], [4.6, -5.0]],
-};
+/* ---------- 作戦: ホーンズ → ピック＆ロール（m 座標・x=左右 / z=奥がゴール） ---------- */
 const lerp = (a, b, k) => a + (b - a) * k;
-function along(pts, k) { // 折れ線上の位置（長さで等分）
+function along(pts, k) {
   if (pts.length === 1) return pts[0];
   const seg = []; let L = 0;
   for (let i = 1; i < pts.length; i++) { const d = Math.hypot(pts[i][0] - pts[i - 1][0], pts[i][1] - pts[i - 1][1]); seg.push(d); L += d; }
@@ -99,7 +94,7 @@ function along(pts, k) { // 折れ線上の位置（長さで等分）
   for (let i = 0; i < seg.length; i++) { if (s <= seg[i] || i === seg.length - 1) { const f = seg[i] ? Math.min(1, s / seg[i]) : 0; return [lerp(pts[i][0], pts[i + 1][0], f), lerp(pts[i][1], pts[i + 1][1], f)]; } s -= seg[i]; }
   return pts[pts.length - 1];
 }
-function smooth(pts, n = 40) { // なめらかな曲線に（Catmull-Rom）
+function smooth(pts, n = 40) { // Catmull-Rom
   if (pts.length < 3) { const o = []; for (let i = 0; i <= n; i++) o.push(along(pts, i / n)); return o; }
   const o = [], P = [pts[0], ...pts, pts[pts.length - 1]];
   for (let i = 1; i < P.length - 2; i++) for (let j = 0; j < n / (pts.length - 1); j++) {
@@ -109,15 +104,45 @@ function smooth(pts, n = 40) { // なめらかな曲線に（Catmull-Rom）
   }
   o.push(pts[pts.length - 1]); return o;
 }
-const O1 = smooth(PLAY.o1), O2 = smooth(PLAY.o2);
+
+/* 動きの区間 [開始, 終了, 折れ線]。区間の外は直前の位置で止まる */
+const SCREEN = [0.66, 1.3];
+const MOVES = {
+  // オフェンス（ホーンズの並び: 1番トップ・両エルボーにビッグ・両コーナー）
+  edw: [[T_DRV, T_PASS + 0.05, [[0, 2.35], [1.15, 2.05], [2.05, 1.0], [2.5, -0.55]]]],
+  gob: [[T_SCR, T_DRV - 0.02, [[2.45, -1.2], [1.7, 0.2], SCREEN]], [T_DRV + 0.14, T_CATCH, [SCREEN, [1.25, 0.1], [0.95, -2.3], [0.42, -4.3]]], [T_CATCH, T_IN - 0.06, [[0.42, -4.3], [0.16, -4.95]]]],
+  ran: [[T_SCR + 0.05, T_DRV + 0.25, [[-2.45, -1.2], [-2.85, 0.3], [-3.15, 1.95]]]],
+  div: [[T_DRV + 0.2, T_PASS + 0.1, [[6.95, -6.2], [6.9, -5.55]]]],
+  mcd: [[T_DRV + 0.3, T_PASS + 0.15, [[-6.95, -6.2], [-6.95, -5.7]]]],
+  // ディフェンス
+  x5: [[T_DRV, T_DRV + 0.24, [[0, 1.4], [0.42, 1.55]]], [T_DRV + 0.36, T_PASS + 0.25, [[0.42, 1.55], [0.85, 2.1], [1.75, 1.15], [2.05, -0.2]]]],
+  x27: [[T_SCR + 0.05, T_DRV + 0.05, [[1.9, -2.1], [1.15, -0.25]]], [T_DRV + 0.12, T_PASS, [[1.15, -0.25], [1.85, -0.7]]], [T_PASS + 0.05, T_IN - 0.05, [[1.85, -0.7], [1.05, -2.9], [0.78, -4.25]]]],
+  x30: [[T_SCR + 0.1, T_DRV + 0.3, [[-1.9, -2.1], [-2.4, -0.3], [-2.55, 1.25]]]],
+  x0: [[T_DRV + 0.15, T_PASS + 0.1, [[5.9, -5.6], [5.45, -5.05]]]],
+  x3: [[T_PASS - 0.05, T_IN - 0.02, [[-5.9, -5.6], [-3.1, -5.1], [-0.75, -4.75]]]],
+};
+const SMOOTHED = Object.fromEntries(Object.entries(MOVES).map(([k, segs]) => [k, segs.map(([a, b, pts]) => [a, b, smooth(pts)])]));
+function posOf(key, t) {
+  const segs = SMOOTHED[key]; let p = segs[0][2][0];
+  for (const [a, b, pts] of segs) { if (t < a) return p; p = along(pts, easeInOut(prog(t, a, b))); }
+  return p;
+}
+/* 背番号は 2025-26 開幕戦（10/22 @POR）の先発 = NBA公式スコアシート */
+const OFF = [
+  { key: 'edw', num: '5', h: 1.93 }, { key: 'div', num: '0', h: 1.93 }, { key: 'mcd', num: '3', h: 2.06 },
+  { key: 'ran', num: '30', h: 2.03 }, { key: 'gob', num: '27', h: 2.16 },
+];
+const DEF = [
+  { key: 'x5', man: 'edw', h: 1.95 }, { key: 'x0', man: 'div', h: 1.96 }, { key: 'x3', man: 'mcd', h: 2.01 },
+  { key: 'x30', man: 'ran', h: 2.05 }, { key: 'x27', man: 'gob', h: 2.12 },
+];
 
 async function setup(ctx) {
   const THREE = ctx.THREE;
   const { renderer, el, lay } = ctx;
   const R = rand(5150);
   const base = new URL('../../assets/s5/intro/', import.meta.url).href;
-  try { await Promise.race([document.fonts.load('400 60px "Archivo Black"', 'HALLELUJAH'), new Promise((r) => setTimeout(r, 900))]); } catch (e) { /* 代わりの書体 */ }
-  // ボールの質感はバンバと共通の画像。遅ければ単色で代用（演出全体は止めない）
+  try { await Promise.race([document.fonts.load('400 60px "Archivo Black"', 'HALLELUJAH 0123579'), new Promise((r) => setTimeout(r, 900))]); } catch (e) { /* 代わりの書体 */ }
   const ballTex = await Promise.race([
     Promise.all([loadTex(THREE, base + 'ball_albedo.webp'), loadTex(THREE, base + 'ball_normal.webp', false), loadTex(THREE, base + 'ball_rough.webp', false)]).catch(() => null),
     new Promise((r) => setTimeout(() => r(null), 1400)),
@@ -130,7 +155,7 @@ async function setup(ctx) {
     .hl3-name{position:absolute;left:0;right:0;top:50%;transform:translateY(-50%);text-align:center;color:#f6f2ea}
     .hl3-name b{display:block;font-family:"Archivo Black",sans-serif;font-weight:400;font-size:min(10.5vw,19vh);white-space:nowrap;line-height:.9;letter-spacing:.02em;text-shadow:0 .04em 0 rgba(0,0,0,.35),0 0 .5em rgba(0,0,0,.55)}
     .hl3-name i{display:inline-block;font-style:normal}
-    .hl3-name span{display:block;margin-top:1.4vh;font-family:"Archivo Black",sans-serif;font-size:max(11px,min(1.7vw,2.4vh));letter-spacing:.34em;color:${TEAL};opacity:0}`;
+    .hl3-name span{display:block;margin-top:1.4vh;font-family:"Archivo Black",sans-serif;font-size:max(11px,min(1.7vw,2.4vh));letter-spacing:.34em;color:${GREEN};opacity:0}`;
   el.appendChild(st);
   const flash = lay.querySelector('.hl3-flash'), name = lay.querySelector('.hl3-name'), chars = [...name.querySelectorAll('i')], sub = name.querySelector('span');
 
@@ -138,15 +163,14 @@ async function setup(ctx) {
   renderer.shadowMap.type = THREE.PCFSoftShadowMap;
   renderer.toneMappingExposure = 1.0;
   const scene = new THREE.Scene();
-  scene.background = new THREE.Color(0x07080a);
-  scene.fog = new THREE.Fog(0x07080a, 11, 26);
+  scene.background = new THREE.Color(0x05070b);
+  scene.fog = new THREE.Fog(0x05070b, 11, 26);
   const pmrem = new THREE.PMREMGenerator(renderer);
   scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.03).texture;
   scene.environmentIntensity = 0.55;
-  const camera = new THREE.PerspectiveCamera(38, 1, 0.05, 80);
+  const camera = new THREE.PerspectiveCamera(38, 1, 0.05, 90);
 
-  /* 照明: アリーナの天井灯（床のニスに映る）＋ボールの影を落とす光 */
-  scene.add(new THREE.HemisphereLight(0xfff2dd, 0x2a1a0c, 0.35));
+  scene.add(new THREE.HemisphereLight(0xfff2dd, 0x2a1a0c, 0.4));
   const sun = new THREE.DirectionalLight(0xfff4e2, 2.3);
   sun.position.set(2.5, 12, 3); sun.target.position.set(0, 0, -2.5);
   sun.castShadow = true; sun.shadow.mapSize.set(1024, 1024); sun.shadow.radius = 4; sun.shadow.bias = -0.0005;
@@ -192,45 +216,51 @@ async function setup(ctx) {
       prev = last; last = [px, py];
     }
     ig.stroke(); ig.setLineDash([]);
-    if (k >= 1 && prev && opt.arrow) { // 矢印
+    if (k >= 1 && prev && opt.arrow) {
       const a = Math.atan2(last[1] - prev[1], last[0] - prev[0]), s = 0.34 * im;
       ig.beginPath(); ig.moveTo(last[0] - Math.cos(a - 0.5) * s, last[1] - Math.sin(a - 0.5) * s); ig.lineTo(last[0], last[1]); ig.lineTo(last[0] - Math.cos(a + 0.5) * s, last[1] - Math.sin(a + 0.5) * s); ig.stroke();
     }
-    if (k >= 1 && prev && opt.screen) { const a = Math.atan2(last[1] - prev[1], last[0] - prev[0]) + Math.PI / 2, s = 0.3 * im; ig.beginPath(); ig.moveTo(last[0] - Math.cos(a) * s, last[1] - Math.sin(a) * s); ig.lineTo(last[0] + Math.cos(a) * s, last[1] + Math.sin(a) * s); ig.stroke(); }
+    if (k >= 1 && prev && opt.screen) { const a = Math.atan2(last[1] - prev[1], last[0] - prev[0]) + Math.PI / 2, s = 0.32 * im; ig.beginPath(); ig.moveTo(last[0] - Math.cos(a) * s, last[1] - Math.sin(a) * s); ig.lineTo(last[0] + Math.cos(a) * s, last[1] + Math.sin(a) * s); ig.stroke(); }
     ig.restore();
   }
+  // 作戦図の O は人の足元より少し手前（カメラ側）にずらし、背番号のラベルが人に隠れないようにする
+  const LBL = 0.62;
   function piece([x, z], kind, label, k) {
     if (k <= 0) return;
-    const [px, py] = IP(x, z), r = 0.36 * im;
-    ig.save(); ig.globalAlpha = Math.min(1, k * 1.5); ig.lineWidth = 0.09 * im; ig.lineCap = 'round';
+    const [px, py] = IP(x, z + (kind === 'o' ? LBL : 0)), r = 0.34 * im;
+    ig.save(); ig.globalAlpha = Math.min(1, k * 1.5); ig.lineWidth = 0.08 * im; ig.lineCap = 'round';
     if (kind === 'o') {
-      ig.strokeStyle = TEAL; ig.shadowColor = TEAL; ig.shadowBlur = 0.1 * im; ig.fillStyle = 'rgba(8,24,23,.55)';
+      ig.strokeStyle = GREEN; ig.shadowColor = GREEN; ig.shadowBlur = 0.1 * im; ig.fillStyle = 'rgba(6,16,30,.6)';
       ig.beginPath(); ig.arc(px, py, r, -Math.PI / 2, -Math.PI / 2 + 6.283 * Math.min(1, k * 1.3)); ig.fill(); ig.stroke();
-      ig.fillStyle = '#eafffd'; ig.shadowBlur = 0; ig.font = `${0.42 * im}px "Archivo Black", sans-serif`; ig.textAlign = 'center'; ig.textBaseline = 'middle'; ig.fillText(label, px, py + 0.02 * im);
+      ig.fillStyle = '#f2ffe6'; ig.shadowBlur = 0; ig.font = `${(label.length > 1 ? 0.34 : 0.42) * im}px "Archivo Black", sans-serif`; ig.textAlign = 'center'; ig.textBaseline = 'middle'; ig.fillText(label, px, py + 0.02 * im);
     } else {
-      ig.strokeStyle = PINK; ig.shadowColor = PINK; ig.shadowBlur = 0.1 * im; const s = r * 0.75 * Math.min(1, k * 1.4);
+      ig.strokeStyle = CORAL; ig.shadowColor = CORAL; ig.shadowBlur = 0.1 * im; const s = r * 0.62 * Math.min(1, k * 1.4);
       ig.beginPath(); ig.moveTo(px - s, py - s); ig.lineTo(px + s, py + s); ig.moveTo(px + s, py - s); ig.lineTo(px - s, py + s); ig.stroke();
     }
     ig.restore();
   }
+  const M = MOVES;
+  const P_SCR = smooth(M.gob[0][2]), P_ROLL = smooth(M.gob[1][2].concat([[0.16, -4.95]])), P_DRV = smooth(M.edw[0][2]), P_POP = smooth(M.ran[0][2]);
+  const P_PASS = smooth([[2.5, -0.55], [1.6, -2.6], [0.42, -4.3]]);
   let lastKey = '';
   function drawInk(t) {
-    const kD = easeInOut(prog(t, 1.45, T_PASS)), kC = easeInOut(prog(t, 1.65, T_PASS + 0.1)), kP = prog(t, T_PASS, T_SHOT - 0.05), kS = prog(t, 2.2, 2.6);
-    const kPc = prog(t, 1.05, 1.55), fade = 1 - 0.55 * prog(t, T_NAME, T_NAME + 0.5);
-    const key = [kD, kC, kP, kS, kPc, fade].map((v) => v.toFixed(3)).join();
+    const kPc = prog(t, 1.0, 1.5), kS = easeInOut(prog(t, 1.5, 1.8)), kD = easeInOut(prog(t, 1.72, 2.1)), kR = easeInOut(prog(t, 1.95, 2.3)), kO = easeInOut(prog(t, 1.85, 2.15)), kP = prog(t, 2.2, 2.45);
+    const fade = 1 - 0.6 * prog(t, T_NAME, T_NAME + 0.5);
+    const key = [kPc, kS, kD, kR, kO, kP, fade].map((v) => v.toFixed(3)).join();
     if (key === lastKey) return; lastKey = key;
     ig.clearRect(0, 0, ink.width, ink.height);
-    ig.globalAlpha = 1; inkM.opacity = fade;
-    stroke(O1, kD, TEAL, { zig: true, arrow: true, seed: 3, w: 0.09 });
-    stroke(O2, kC, PINK, { arrow: true, seed: 7 });
-    stroke(smooth([[5.9, -6.2], [5.2, -4.9], [4.4, -3.9]]), kS, '#f6f2ea', { screen: true, seed: 11, w: 0.09 });
-    stroke(smooth([PLAY.o1[3], PLAY.o2[4]]), kP, '#f6f2ea', { dash: true, arrow: true, seed: 5, w: 0.08 });
-    piece(along(PLAY.o1, kD), 'o', '1', kPc); piece(along(PLAY.o2, kC), 'o', '2', kPc); piece(along(smooth([[5.9, -6.2], [5.2, -4.9], [4.4, -3.9]]), kS), 'o', '3', kPc);
-    piece(along(PLAY.x1, kD), 'x', '', kPc - 0.1); piece(along(PLAY.x2, kC), 'x', '', kPc - 0.15); piece(along(PLAY.x3, kS), 'x', '', kPc - 0.2);
+    inkM.opacity = fade;
+    stroke(P_SCR, kS, CHALK, { screen: true, seed: 11, w: 0.09 });
+    stroke(P_DRV, kD, GREEN, { zig: true, arrow: true, seed: 3, w: 0.09 });
+    stroke(P_POP, kO, '#5aa7e0', { arrow: true, seed: 9, w: 0.08 });
+    stroke(P_ROLL, kR, GREEN, { arrow: true, seed: 7, w: 0.09 });
+    stroke(P_PASS, kP, CHALK, { dash: true, arrow: true, seed: 5, w: 0.08 });
+    OFF.forEach((o, i) => piece(SMOOTHED[o.key][0][2][0], 'o', o.num, kPc - i * 0.06));
+    DEF.forEach((d, i) => piece(SMOOTHED[d.key][0][2][0], 'x', '', kPc - 0.15 - i * 0.05));
     inkT.needsUpdate = true;
   }
 
-  /* ゴール（ボード・リング・ネット） */
+  /* ゴール */
   const hoop = new THREE.Group(); scene.add(hoop);
   const glass = new THREE.Mesh(new THREE.BoxGeometry(1.8, 1.05, 0.03), new THREE.MeshPhysicalMaterial({ color: 0xdfeff0, transparent: true, opacity: 0.16, roughness: 0.05, metalness: 0, clearcoat: 1 }));
   glass.position.set(0, 2.9 + 0.525, -7 + 1.2); hoop.add(glass);
@@ -249,54 +279,154 @@ async function setup(ctx) {
   pole.position.set(0, 1.8, -8.4); pole.castShadow = true; hoop.add(pole);
   const brace = new THREE.Mesh(new THREE.BoxGeometry(0.12, 0.12, 2.6), pole.material); brace.position.set(0, 3.3, -7.1); hoop.add(brace);
 
+  /* ---------- 選手（シンプルな立体の人形・ユニフォームだけ色と番号） ---------- */
+  function jerseyTex(num, body, side, trim) {
+    const c = document.createElement('canvas'); c.width = 512; c.height = 256;
+    const g = c.getContext('2d');
+    g.fillStyle = body; g.fillRect(0, 0, 512, 256);
+    g.fillStyle = side; for (const u of [0.25, 0.75]) g.fillRect(u * 512 - 26, 40, 52, 216); // 脇のパネル
+    g.fillStyle = trim; g.fillRect(0, 0, 512, 14); g.fillRect(0, 242, 512, 14);               // 襟ぐり・裾のパイピング
+    if (num) {
+      g.font = `${num.length > 1 ? 118 : 138}px "Archivo Black", sans-serif`; g.textAlign = 'center'; g.textBaseline = 'middle';
+      g.lineJoin = 'round'; g.lineWidth = 14; g.strokeStyle = side; g.fillStyle = '#ffffff';
+      for (const cx of [0, 256, 512]) { g.strokeText(num, cx, 140); g.fillText(num, cx, 140); } // 前と背中（u=0 と 0.5）
+    }
+    const t = new THREE.CanvasTexture(c); t.colorSpace = THREE.SRGBColorSpace; t.anisotropy = 8; return t;
+  }
+  const G = {
+    leg: new THREE.CapsuleGeometry(0.075, 0.66, 4, 10), arm: new THREE.CapsuleGeometry(0.055, 0.5, 4, 10),
+    torso: new THREE.CylinderGeometry(0.235, 0.2, 0.62, 28, 1, false), shorts: new THREE.CylinderGeometry(0.2, 0.2, 0.3, 24),
+    head: new THREE.SphereGeometry(0.115, 24, 16), neck: new THREE.CylinderGeometry(0.055, 0.06, 0.1, 12), shoe: new THREE.BoxGeometry(0.11, 0.07, 0.27),
+  };
+  const skinM = new THREE.MeshPhysicalMaterial({ color: 0x8d939b, roughness: 0.45, metalness: 0.05, clearcoat: 0.4, clearcoatRoughness: 0.3 }); // マネキン調（人種を描かない）
+  function makePlayer(team, num, h) {
+    const off = team === 'o';
+    const jM = new THREE.MeshStandardMaterial({ map: jerseyTex(num, off ? NAVY : '#7a2026', off ? LAKE : '#b9b4ab', off ? GREEN : '#f0ece4'), roughness: 0.7 });
+    const sM = new THREE.MeshStandardMaterial({ color: off ? NAVY : '#7a2026', roughness: 0.72 });
+    const shoeM = new THREE.MeshStandardMaterial({ color: off ? 0x9be04a : 0xefefea, roughness: 0.5 });
+    const root = new THREE.Group(), body = new THREE.Group(); root.add(body);
+    const add = (geo, mat, x, y, z, parent = body) => { const m = new THREE.Mesh(geo, mat); m.position.set(x, y, z); m.castShadow = true; parent.add(m); return m; };
+    const legs = [-1, 1].map((s) => { const p = new THREE.Group(); p.position.set(0.1 * s, 0.86, 0); body.add(p); add(G.leg, skinM, 0, -0.42, 0, p); add(G.shoe, shoeM, 0, -0.82, -0.04, p); return p; });
+    add(G.shorts, sM, 0, 0.88, 0);
+    const torso = add(G.torso, jM, 0, 1.33, 0); torso.scale.set(1.18, 1, 0.78);
+    add(G.neck, skinM, 0, 1.68, 0); add(G.head, skinM, 0, 1.8, 0);
+    const arms = [-1, 1].map((s) => { const p = new THREE.Group(); p.position.set(0.3 * s, 1.58, 0); body.add(p); add(G.arm, skinM, 0, -0.3, 0, p); return p; });
+    root.scale.setScalar(h / 1.95);
+    scene.add(root);
+    return { root, body, legs, arms };
+  }
+  const players = {};
+  OFF.forEach((o) => { players[o.key] = { ...o, team: 'o', fig: makePlayer('o', o.num, o.h) }; });
+  DEF.forEach((d) => { players[d.key] = { ...d, team: 'x', fig: makePlayer('x', '', d.h) }; });
+
+  const yawTo = (from, to) => Math.atan2(-(to[0] - from[0]), -(to[1] - from[1]));
+  function pose(t) {
+    for (const k in players) {
+      const p = players[k], f = p.fig, [x, z] = posOf(k, t);
+      const a = posOf(k, t - 0.03), b = posOf(k, t + 0.03), sp = Math.hypot(b[0] - a[0], b[1] - a[1]) / 0.06;
+      // 向き: オフェンスはゴール（スクリーン中のゴベアは相手、ドライブ中のエドワーズは進行方向）／ディフェンスはマーク相手
+      let look = [RIM.x, RIM.z];
+      if (p.team === 'x') look = k === 'x3' && t > T_PASS ? posOf('gob', t) : posOf(p.man, t);
+      if (k === 'gob' && t > T_SCR && t < T_DRV + 0.14) look = posOf('x5', t);
+      if (k === 'edw' && t > T_DRV + 0.1 && t < T_PASS) look = [b[0] + (b[0] - a[0]) * 20, b[1] + (b[1] - a[1]) * 20];
+      f.root.position.set(x, 0, z);
+      f.root.rotation.y = yawTo([x, z], look);
+      // 歩き・走り（脚と腕を振る）。止まっている時は小さく構える
+      const run = Math.min(1, sp / 3.5), ph = t * (8 + sp * 1.5) + (k.length * 1.7);
+      const sw = Math.sin(ph) * 0.75 * run;
+      const stance = p.team === 'x' ? 1 : 0.35;
+      f.legs[0].rotation.x = sw; f.legs[1].rotation.x = -sw;
+      f.legs[0].rotation.z = -0.1 * stance * (1 - run); f.legs[1].rotation.z = 0.1 * stance * (1 - run);
+      f.arms[0].rotation.x = -sw * 0.8; f.arms[1].rotation.x = sw * 0.8;
+      let armOut = p.team === 'x' ? 0.55 * (1 - run * 0.6) : 0.12;
+      let armUp = 0, jump = 0, crouch = (1 - run) * 0.05 * stance + Math.abs(Math.sin(ph)) * 0.04 * run;
+      // ボール持ちの右腕（ドリブル）
+      if (k === 'edw' && t < T_PASS + 0.05) f.arms[1].rotation.x = -0.5 + 0.25 * Math.sin(t * 16);
+      if (k === 'edw' && t >= T_PASS - 0.06 && t < T_PASS + 0.3) { const q = Math.sin(prog(t, T_PASS - 0.06, T_PASS + 0.3) * Math.PI); f.arms[0].rotation.x = f.arms[1].rotation.x = -2.2 * q; }
+      // ゴベア: キャッチ→跳んでダンク
+      if (k === 'gob') {
+        const up = prog(t, T_CATCH - 0.1, T_CATCH + 0.05);
+        if (t > T_CATCH - 0.1) armUp = up;
+        const jk = prog(t, T_CATCH + 0.02, T_IN + 0.32);
+        jump = Math.sin(jk * Math.PI) * 0.78;
+        if (t > T_IN + 0.32) armUp = 1 - prog(t, T_IN + 0.32, T_IN + 0.7);
+      }
+      // 手を上げて飛び込むヘルプ（3番のマーク・ゴベアのマーク）
+      if ((k === 'x3' || k === 'x27') && t > T_CATCH - 0.05) { armUp = prog(t, T_CATCH - 0.05, T_CATCH + 0.15) * 0.85; jump = Math.sin(prog(t, T_CATCH + 0.02, T_IN + 0.2) * Math.PI) * (k === 'x3' ? 0.45 : 0.3); }
+      // スクリーンに当たった5番のマークは一瞬止まって弾かれる
+      if (k === 'x5') { const hit = Math.max(0, 1 - Math.abs(t - (T_DRV + 0.27)) / 0.12); f.root.rotation.z = 0.12 * hit; f.root.position.x -= 0.08 * hit; }
+      if (armUp > 0) { f.arms[0].rotation.x = f.arms[1].rotation.x = -2.9 * armUp; armOut *= 1 - armUp; }
+      f.arms[0].rotation.z = -armOut; f.arms[1].rotation.z = armOut;
+      f.body.position.y = jump - crouch;
+      f.legs[0].rotation.x += jump > 0.05 ? 0.25 : 0; f.legs[1].rotation.x -= jump > 0.05 ? 0.35 : 0;
+    }
+  }
+
   /* ボール */
-  const BR = 0.12;
+  const BR = 0.135; // 実寸より少し大きく（俯瞰でも見えるように）
   const ballM = ballTex
     ? new THREE.MeshStandardMaterial({ map: ballTex[0], normalMap: ballTex[1], roughnessMap: ballTex[2], roughness: 1, metalness: 0 })
     : new THREE.MeshStandardMaterial({ color: 0xd4561c, roughness: 0.75 });
   const ball = new THREE.Mesh(new THREE.SphereGeometry(BR, 48, 32), ballM); ball.castShadow = true; scene.add(ball);
 
-  function ballAt(t) { // 位置 [x,y,z] と回転量
-    const d0 = 1.45, d1 = T_PASS;
-    if (t < d1) { // ドリブル（1番の線に沿って弾む）
-      const k = easeInOut(prog(t, d0, d1)); const [x, z] = along(PLAY.o1, k);
-      const ph = Math.max(0, t - 0.2) * 5.2;
-      return [x + 0.35, BR + Math.abs(Math.sin(ph * Math.PI)) * 0.85, z, k * 6];
+  // 体の右手側（向きに対して）の床の位置
+  function handSide(key, t, side = 0.32, fwd = 0.22) {
+    const [x, z] = posOf(key, t), yaw = players[key].fig.root.rotation.y;
+    const fx = -Math.sin(yaw), fz = -Math.cos(yaw), rx = Math.cos(yaw), rz = -Math.sin(yaw);
+    return [x + fx * fwd + rx * side, z + fz * fwd + rz * side];
+  }
+  function ballAt(t) {
+    if (t < T_PASS) { // エドワーズのドリブル（その場→ドライブ）
+      const [x, z] = handSide('edw', t), ph = t * (t < T_DRV ? 2.4 : 3.2);
+      return [x, BR + Math.abs(Math.sin(ph * Math.PI)) * 0.82, z, t * 3];
     }
-    const A = [PLAY.o1[3][0] + 0.35, 1.1, PLAY.o1[3][1]], B = [PLAY.o2[4][0] + 0.3, 1.25, PLAY.o2[4][1] + 0.1];
-    if (t < T_SHOT) { const k = prog(t, d1, T_SHOT); return [lerp(A[0], B[0], k), lerp(A[1], B[1], k) + Math.sin(k * Math.PI) * 0.6, lerp(A[2], B[2], k), 6 + k * 4]; }
-    if (t < T_IN) { const k = prog(t, T_SHOT, T_IN); return [lerp(B[0], RIM.x, k), lerp(B[1], RIM.y + 0.05, k) + Math.sin(k * Math.PI) * 1.2, lerp(B[2], RIM.z + 0.02, k), 10 + k * 3]; }
+    const A = handSide('edw', T_PASS, 0.15, 0.35);
+    const g = posOf('gob', T_CATCH), hy = 2.16 / 1.95 * 2.35;
+    if (t < T_CATCH) { // 浮かせたロブ（ディフェンスの頭の上）
+      const k = prog(t, T_PASS, T_CATCH);
+      return [lerp(A[0], g[0], k), lerp(1.75, hy, k) + Math.sin(k * Math.PI) * 1.0, lerp(A[1], g[1] - 0.15, k), 6 + k * 4];
+    }
+    if (t < T_IN) { // 空中でつかんでリングへ叩き込む
+      const k = easeInOut(prog(t, T_CATCH, T_IN));
+      const jy = Math.sin(prog(t, T_CATCH + 0.02, T_IN + 0.32) * Math.PI) * 0.78;
+      return [lerp(g[0], RIM.x, k), lerp(hy, RIM.y + 0.32, k) + jy * (1 - k), lerp(g[1] - 0.15, RIM.z + 0.02, k), 10 + k * 2];
+    }
     const k = t - T_IN; // リングを抜けて床へ
-    const y = RIM.y + 0.05 - 4.9 * k * k;
-    if (y > BR) return [RIM.x, y, RIM.z + 0.02 + k * 0.4, 13 + k * 2];
-    const tl = Math.sqrt((RIM.y + 0.05 - BR) / 4.9), kk = k - tl;
-    return [RIM.x, BR + Math.abs(Math.sin(kk * 4.5)) * 1.2 * Math.exp(-kk * 2.5), RIM.z + 0.02 + k * 0.4, 13 + k * 2];
+    const y0 = RIM.y + 0.32, y = y0 - 5 * k * k - 3 * k;
+    if (y > BR) return [RIM.x, y, RIM.z + 0.02 + k * 0.5, 12 + k * 2];
+    const tl = (-3 + Math.sqrt(9 + 20 * (y0 - BR))) / 10, kk = k - tl;
+    return [RIM.x, BR + Math.abs(Math.sin(kk * 4.5)) * 1.0 * Math.exp(-kk * 2.5), RIM.z + 0.02 + k * 0.5, 12 + k * 2];
   }
 
-  let aspect = 1;
-  function resize() { aspect = innerWidth / innerHeight; camera.aspect = aspect; camera.updateProjectionMatrix(); }
+  let aspect = 1, nar = false;
+  function resize() {
+    aspect = innerWidth / innerHeight; nar = aspect < 0.8;
+    camera.aspect = aspect; camera.fov = nar ? 54 : 38; camera.updateProjectionMatrix();
+    scene.fog.near = nar ? 22 : 13; scene.fog.far = nar ? 44 : 30;
+  }
   resize();
   const v3 = (a) => new THREE.Vector3(a[0], a[1], a[2]);
   function render(t) {
-    /* カメラ: 床すれすれを横に流す → 上がって俯瞰 → リングへ少し寄る */
-    const nar = aspect < 0.8; // 縦長（スマホ）は少し引く
-    const low = [lerp(4.6, 1.8, easeInOut(prog(t, 0, T_UP))), 0.32, lerp(2.2, 0.6, easeInOut(prog(t, 0, T_UP)))];
-    const top = nar ? [0, 15.5, 4.2] : [0, 10.2, 3.4];
-    const end = nar ? [0, 12.5, 2.2] : [0, 8.6, 1.8];
-    const up = easeInOut(prog(t, T_UP, T_TOP)), push = easeInOut(prog(t, T_SHOT - 0.3, DUR));
+    /* カメラ: 床すれすれを横に流す → 上がって俯瞰 → リングへ少し寄る
+       縦長（スマホ）は俯瞰をサイドライン側から撮る（コートの横幅15mを画面の縦に入れる） */
+    const lk = easeInOut(prog(t, 0, T_UP));
+    const low = [lerp(6.6, 4.5, lk), 0.36, lerp(3.8, 2.5, lk)];
+    const top = nar ? [8.4, 19.6, -1.9] : [0, 15.0, 6.6];
+    const end = nar ? [6.6, 14.0, -3.4] : [0, 10.8, 3.2];
+    const up = easeInOut(prog(t, T_UP, T_TOP)), push = easeInOut(prog(t, T_CATCH - 0.45, DUR));
     const cp = v3(low).lerp(v3(top), up).lerp(v3(end), push);
-    const lowL = [lerp(-1.5, -0.5, easeInOut(prog(t, 0, T_UP))), 0.15, -3.2];
-    const topL = nar ? [0, 0, -2.9] : [0, 0, -2.6];
-    const endL = [0, 0.6, -3.8];
+    const lowL = nar ? [lerp(1.2, 0.6, lk), 0.9, -2.6] : [lerp(-1.2, -0.2, lk), 0.9, -3.2];
+    const topL = nar ? [0, 0, -1.9] : [0, 0, -2.05];
+    const endL = nar ? [0, 0.8, -4.0] : [0, 0.6, -3.7];
     const cl = v3(lowL).lerp(v3(topL), up).lerp(v3(endL), push);
     camera.position.copy(cp); camera.lookAt(cl);
 
+    pose(t);
     const [bx, by, bz, rot] = ballAt(t);
     ball.position.set(bx, by, bz); ball.rotation.set(rot * 2.2, rot * 0.7, rot * 0.4);
-    ball.visible = t > 1.0;
-    // ネット: ボールが通る瞬間に揺れる
     const sw = Math.max(0, 1 - Math.abs(t - T_IN - 0.06) * 5);
     net.scale.set(1 - 0.15 * sw, 1 + 0.25 * sw, 1 - 0.15 * sw);
+    rim.position.y = RIM.y - 0.03 * Math.max(0, 1 - Math.abs(t - T_IN) / 0.12); // ダンクでリングがしなる
 
     drawInk(t);
     renderer.render(scene, camera);

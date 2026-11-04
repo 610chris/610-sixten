@@ -1,112 +1,281 @@
-/* バンバ個人ページ専用（media/starting5ive/bamba.html だけで読む・2026-11-04）
-   共通の .s5-pf-* / .s5-* は brand-fx.css。ここは bb- 接頭辞の追加部品だけ。 */
+/* バンバ個人ページ専用（media/starting5ive/bamba.html だけで読む）
+   2026-11-05 作り直し: オープニング（js/intro/bamba.js「バスケは酸素」）の世界観に寄せる。
+   - ボールのオレンジ＋革のシボ＋黒い溝の線
+   - 章ごとに、オープニングの「拍ごとに切り替わる背景色」（teal / navy / wine / cyan / amber / green）へ
+   - 書体: Zen Kaku Gothic New 900（オープニングの極太）＋ Archivo Black（英字）
+   - 場内ビジョン・MCコール調（ティッカー／スコアボード／CALL 番号）
+   STARTING 5IVE 共通の見た目（.s5-*）には寄せない。ここは bb- 接頭辞だけで完結させる。 */
 
-/* ---------- HERO ---------- */
-.bb-top { background: radial-gradient(900px circle at 85% 0%, rgba(43, 179, 173, 0.14), transparent 60%); }
-.bb-ph { position: relative; }
-.bb-ph-tag { position: absolute; left: 0; bottom: 0; padding: 8px 14px; background: #2bb3ad; color: #0a0a0a; font-family: var(--font-display); font-size: 13px; letter-spacing: 0.22em; }
-.s5-pf-body h1 small { word-break: break-word; }
-.bb-headline { margin-top: 18px; font-family: var(--font-display); font-size: clamp(30px, 4.6vw, 48px); line-height: 1.1; letter-spacing: 0.06em; color: #2bb3ad; }
-.bb-top .s5-pf-body .role { margin-top: 8px; }
-
-.bb-nba-badge { display: inline-flex; align-items: center; gap: 14px; margin-top: 18px; padding: 10px 18px 10px 12px; border: 1px solid var(--line); background: var(--bg-card); transition: border-color 0.25s; max-width: 100%; }
-.bb-nba-badge:hover { border-color: #2bb3ad; }
-.bb-nba-badge img { flex: none; width: auto; height: 46px; padding: 4px 6px; background: #fff; }
-.bb-nba-badge b { display: block; font-family: var(--font-display); font-weight: 400; font-size: 12px; letter-spacing: 0.18em; color: #2bb3ad; }
-.bb-nba-badge span { font-size: 14px; font-weight: 700; line-height: 1.5; }
-
-.bb-stats { list-style: none; margin: 26px 0 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border: 1px solid var(--line); background: var(--line); gap: 1px; }
-.bb-stats li { padding: 16px 14px; background: var(--bg-card); min-width: 0; }
-.bb-stats strong { display: block; font-family: var(--font-display); font-weight: 400; font-size: clamp(24px, 2.6vw, 32px); line-height: 1; letter-spacing: 0.02em; white-space: nowrap; }
-.bb-stats strong small { margin-left: 2px; font-family: var(--font-body, "Noto Sans JP", sans-serif); font-size: 0.42em; font-weight: 900; }
-.bb-stats span { display: block; margin-top: 8px; font-size: 11px; color: var(--muted); letter-spacing: 0.04em; }
-
-.bb-sns { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
-.bb-sns a { padding: 9px 16px; border: 1px solid var(--line); border-radius: 999px; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.16em; transition: border-color 0.2s, background 0.2s, color 0.2s; }
-.bb-sns a:hover { border-color: var(--text); background: var(--text); color: #0a0a0a; }
-.bb-sns a.yt { border-color: #ff0033; }
-.bb-sns a.yt:hover { background: #ff0033; color: #fff; }
-
-/* ---------- 01 SPORTS MC ---------- */
-.bb-mc { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 14px; }
-.bb-mc-card { min-width: 0; padding: 28px 24px; border: 1px solid var(--line); background: var(--bg-card); }
-.bb-mc-card.main { background: linear-gradient(140deg, rgba(43, 179, 173, 0.22), rgba(43, 179, 173, 0.04) 70%), var(--bg-card); border-color: rgba(43, 179, 173, 0.5); }
-.bb-mc-card .k { display: block; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.22em; color: #2bb3ad; }
-.bb-mc-card h3 { margin-top: 12px; font-size: clamp(18px, 1.8vw, 22px); font-weight: 900; line-height: 1.45; }
-.bb-mc-card p { margin-top: 12px; font-size: 14px; line-height: 1.85; opacity: 0.88; }
-
-.bb-profile { margin-top: 40px; display: grid; grid-template-columns: 1.1fr 1fr; gap: 40px; align-items: start; }
-.bb-h3 { font-family: var(--font-display); font-weight: 400; font-size: 13px; letter-spacing: 0.24em; color: var(--muted); }
-.bb-story p { margin-top: 14px; font-size: 15px; line-height: 1.95; }
-.bb-dl { margin: 0; border-top: 1px solid var(--line); }
-.bb-dl div { display: grid; grid-template-columns: 7.5em 1fr; gap: 12px; padding: 13px 0; border-bottom: 1px solid var(--line); font-size: 14px; line-height: 1.7; }
-.bb-dl dt { color: var(--muted); }
-.bb-dl dd { margin: 0; min-width: 0; }
-.bb-dl a { color: #2bb3ad; font-weight: 700; }
-
-/* ---------- 02 NBA ---------- */
-.bb-nba { display: grid; grid-template-columns: auto 1fr; gap: 32px; align-items: center; padding: 32px; border: 1px solid var(--line); background: linear-gradient(120deg, rgba(29, 66, 138, 0.28), rgba(200, 16, 46, 0.14) 80%), var(--bg-card); }
-.bb-nba-logo { display: grid; place-items: center; width: 112px; height: 168px; background: #fff; }
-.bb-nba-logo img { width: auto; height: 136px; }
-.bb-nba-txt .k { display: block; font-family: var(--font-display); font-size: 13px; letter-spacing: 0.22em; color: #2bb3ad; }
-.bb-nba-txt p { margin-top: 12px; font-size: 15px; line-height: 1.9; }
-#nba .s5-ch + .bb-nba + .s5-sub { margin-top: 56px; }
-
-.bb-feature { display: grid; grid-template-columns: 56% 1fr; gap: 0; border: 1px solid var(--line); background: var(--bg-card); }
-.bb-feature .yt-lite { border: 0; }
-.bb-feature-txt { display: grid; gap: 12px; align-content: center; padding: 28px 32px; min-width: 0; }
-.bb-feature-txt .date { font-family: var(--font-display); font-size: 13px; letter-spacing: 0.2em; color: #2bb3ad; }
-.bb-feature-txt strong { font-size: 17px; font-weight: 900; line-height: 1.6; }
-.bb-feature-txt p { margin: 0; font-size: 14px; line-height: 1.85; opacity: 0.88; }
-
-/* ---------- 03 YOUTUBE ---------- */
-.bb-lead { margin: 26px 0 28px; max-width: 760px; font-size: 15px; line-height: 1.9; }
-
-/* ---------- 04 PERSON（人物像・2024-07-21 メンバー紹介回より） ---------- */
-#person .s5-ch + .bb-feature + .s5-sub { margin-top: 56px; }
-.bb-feature img, .bb-pp img { max-width: 100%; height: auto; }
-.bb-pp { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
-.bb-pp-card { min-width: 0; padding: 26px 24px; border: 1px solid var(--line); background: var(--bg-card); }
-.bb-pp-card.wide { grid-column: 1 / -1; border-left: 3px solid #2bb3ad; }
-.bb-pp-card .k { display: block; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.22em; color: #2bb3ad; }
-.bb-pp-card h3 { margin-top: 10px; font-size: clamp(17px, 1.7vw, 20px); font-weight: 900; line-height: 1.5; }
-.bb-pp-card p { margin-top: 10px; font-size: 14px; line-height: 1.9; opacity: 0.9; }
-.bb-quote { margin: 28px 0 0; padding: 24px 28px; border-left: 3px solid #2bb3ad; background: rgba(43, 179, 173, 0.08); }
-.bb-quote p { font-family: "Zen Old Mincho", serif; font-size: clamp(17px, 1.9vw, 21px); line-height: 1.8; }
-.bb-quote cite { display: block; margin-top: 12px; font-style: normal; font-size: 12px; color: var(--muted); }
-#person .bb-lead { margin: 18px 0 0; }
-.bb-vision { padding: 32px; border: 1px solid rgba(43, 179, 173, 0.5); background: linear-gradient(140deg, rgba(43, 179, 173, 0.18), rgba(43, 179, 173, 0.03) 70%), var(--bg-card); }
-.bb-vision p { font-size: 15px; line-height: 1.95; }
-.bb-vision .bb-vision-main { margin-bottom: 14px; font-size: clamp(19px, 2.2vw, 26px); font-weight: 900; line-height: 1.55; }
-.bb-vision .bb-vision-note { margin-top: 12px; font-size: 12px; color: var(--muted); }
-.bb-dl dd a { margin-left: 8px; font-size: 13px; }
-
-/* ---------- 06 WORK ---------- */
-.bb-direct { margin: 26px auto 0; max-width: 560px; padding: 20px 24px; border: 1px solid #2bb3ad; background: rgba(43, 179, 173, 0.1); }
-.bb-direct strong { display: block; font-size: 17px; font-weight: 900; color: #2bb3ad; }
-.bb-direct p { margin-top: 8px; font-size: 15px; line-height: 1.8; font-weight: 700; }
-
-/* ---------- レスポンシブ ---------- */
-@media (max-width: 1000px) {
-  .bb-mc { grid-template-columns: 1fr 1fr; }
-  .bb-mc-card.main { grid-column: 1 / -1; }
-  .bb-profile { grid-template-columns: 1fr; gap: 28px; }
-  .bb-feature { grid-template-columns: 1fr; }
+.bb-page {
+  --bb-ball: #e2621b;
+  --bb-ball-d: #a8420c;
+  --bb-ink: #120c08;
+  --bb-teal: #2bb3ad;
+  --bb-jp: "Zen Kaku Gothic New", "Noto Sans JP", sans-serif;
+  --bb-en: "Archivo Black", "Noto Sans JP", sans-serif;
+  background: #050505;
 }
-@media (min-width: 900px) and (max-width: 1180px) {
-  .bb-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.bb { overflow-x: clip; }
+.bb h2, .bb h3, .bb strong, .bb-vision-main, .bb-quote p { word-break: auto-phrase; }
+.bb .nw { white-space: nowrap; }
+.bb-call .nw, .bb-cue .nw { white-space: normal; }
+
+/* 革のシボ（細かい粒）と溝の線（SVG）*/
+.bb-hero, .bb-c-ball, .bb-card.big, .bb-ph-ball {
+  background-color: var(--bb-ball);
+  background-image:
+    radial-gradient(rgba(0, 0, 0, 0.17) 1.1px, transparent 1.7px),
+    radial-gradient(rgba(255, 255, 255, 0.13) 1px, transparent 1.6px),
+    radial-gradient(120% 90% at 30% 20%, #f2843a 0%, var(--bb-ball) 45%, var(--bb-ball-d) 100%);
+  background-size: 6px 6px, 6px 6px, 100% 100%;
+  background-position: 0 0, 3px 3px, 0 0;
+}
+
+/* ================= HERO ================= */
+.bb-hero { position: relative; overflow: hidden; padding: 64px 0 0; color: #fff; }
+.bb-hero::before {
+  content: ""; position: absolute; inset: -6% -10%; pointer-events: none; opacity: 0.55;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 1000' preserveAspectRatio='none' fill='none' stroke='%23140a04' stroke-width='12'%3E%3Cpath d='M520 0C470 330 470 670 520 1000'/%3E%3Cpath d='M0 560C330 500 670 500 1000 560'/%3E%3Cpath d='M130 0C330 250 330 750 130 1000'/%3E%3Cpath d='M900 0C690 250 690 750 900 1000'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
+}
+.bb-ticker { position: relative; z-index: 2; overflow: hidden; background: #0b0b0b; border-bottom: 3px solid var(--bb-ink); }
+.bb-ticker-in { display: flex; width: max-content; animation: bbTicker 38s linear infinite; }
+.bb-ticker span { flex: none; padding: 10px 26px; font-family: var(--bb-en); font-size: 13px; letter-spacing: 0.22em; color: var(--bb-teal); white-space: nowrap; }
+.bb-ticker span::after { content: "●"; margin-left: 52px; color: var(--bb-ball); font-size: 9px; vertical-align: 2px; }
+@keyframes bbTicker { to { transform: translateX(-50%); } }
+
+.bb-hero-back { position: absolute; left: 50%; bottom: -0.2em; transform: translateX(-50%); font-family: var(--bb-en); font-size: min(30vw, 400px); line-height: 1; letter-spacing: -0.02em; color: rgba(255, 255, 255, 0.13); white-space: nowrap; pointer-events: none; }
+.bb-hero-in { position: relative; z-index: 1; padding: 22px 0 clamp(70px, 8vw, 110px); }
+.bb-crumb { font-size: 12px; font-weight: 700; color: rgba(18, 12, 8, 0.8); letter-spacing: 0.04em; }
+.bb-crumb a { color: var(--bb-ink); text-decoration: underline; text-underline-offset: 3px; }
+.bb-hero-grid { margin-top: clamp(22px, 3vw, 40px); display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr); gap: clamp(28px, 4vw, 56px); align-items: center; }
+.bb-hero-txt { min-width: 0; }
+
+.bb-call { display: inline-flex; align-items: center; gap: 10px; padding: 8px 14px; background: var(--bb-ink); color: #fff; font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.18em; line-height: 1.4; transform: skew(-6deg); max-width: 100%; }
+.bb-mic { flex: none; width: 10px; height: 10px; border-radius: 50%; background: #ff3b3b; box-shadow: 0 0 0 4px rgba(255, 59, 59, 0.3); animation: bbLive 1.4s ease-in-out infinite; }
+@keyframes bbLive { 50% { box-shadow: 0 0 0 8px rgba(255, 59, 59, 0); } }
+
+.bb-name { margin-top: 18px; line-height: 1; }
+.bb-name .ja { display: block; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(72px, 11vw, 148px); letter-spacing: 0.01em; color: #fff; text-shadow: 0 0.05em 0 #1a6f6b, 0 0 0.45em rgba(43, 179, 173, 0.45); }
+.bb-name .en { display: block; margin-top: 14px; font-family: var(--bb-en); font-weight: 400; font-size: clamp(14px, 1.6vw, 18px); letter-spacing: 0.5em; color: var(--bb-ink); }
+
+.bb-oxygen { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 6px 10px; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(36px, 5.4vw, 70px); line-height: 1.1; }
+.bb-oxygen span { display: inline-block; padding: 0.08em 0.22em 0.14em; background: var(--bb-ink); color: #fff; transform: rotate(-2deg); text-shadow: 0 0.05em 0 #1a6f6b, 0 0 0.4em rgba(43, 179, 173, 0.6); }
+.bb-oxygen span + span { background: var(--bb-teal); color: var(--bb-ink); text-shadow: none; transform: rotate(1.5deg); }
+
+.bb-roles { margin-top: 26px; display: grid; gap: 4px; color: var(--bb-ink); }
+.bb-roles b { font-family: var(--bb-jp); font-weight: 900; font-size: clamp(22px, 2.4vw, 30px); line-height: 1.3; }
+.bb-roles span { font-size: 15px; font-weight: 700; line-height: 1.6; }
+
+.bb-cta { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 16px; align-items: stretch; }
+.bb-yt-btn { display: inline-flex; align-items: center; gap: 16px; padding: 16px 26px 16px 18px; max-width: 100%; background: #fff; color: var(--bb-ink); border: 3px solid var(--bb-ink); border-radius: 16px; box-shadow: 7px 7px 0 var(--bb-ink); transition: transform 0.15s, box-shadow 0.15s; }
+.bb-yt-btn:hover { transform: translate(-2px, -2px); box-shadow: 9px 9px 0 var(--bb-ink); }
+.bb-yt-btn:active { transform: translate(4px, 4px); box-shadow: 3px 3px 0 var(--bb-ink); }
+.bb-yt-btn .ic, .bb-channel .ic { position: relative; flex: none; width: 52px; height: 36px; border-radius: 10px; background: #ff0033; }
+.bb-yt-btn .ic::before, .bb-channel .ic::before { content: ""; position: absolute; left: 21px; top: 10px; border-left: 15px solid #fff; border-top: 8px solid transparent; border-bottom: 8px solid transparent; }
+.bb-yt-btn .tx { min-width: 0; display: grid; gap: 2px; }
+.bb-yt-btn b { font-family: var(--bb-jp); font-weight: 900; font-size: clamp(18px, 1.9vw, 22px); line-height: 1.3; }
+.bb-yt-btn small { font-size: 12px; font-weight: 700; color: #555; line-height: 1.4; }
+
+.bb-nba-badge { display: inline-flex; align-items: center; gap: 12px; padding: 10px 18px 10px 10px; max-width: 100%; background: var(--bb-ink); color: #fff; border: 3px solid var(--bb-ink); border-radius: 16px; transition: transform 0.15s; }
+.bb-nba-badge:hover { transform: translateY(-2px); }
+.bb-nba-badge img { flex: none; width: auto; height: 46px; padding: 4px 6px; background: #fff; border-radius: 6px; }
+.bb-nba-badge span { min-width: 0; font-size: 13px; font-weight: 700; line-height: 1.5; }
+.bb-nba-badge b { display: block; font-family: var(--bb-en); font-weight: 400; font-size: 11px; letter-spacing: 0.16em; color: var(--bb-teal); }
+
+.bb-hero-ph { position: relative; margin: 0; justify-self: center; width: min(100%, 460px); aspect-ratio: 1; }
+.bb-ph-ball { position: absolute; inset: 0; border-radius: 50%; border: 6px solid var(--bb-ink); transform: translate(9%, 7%); }
+.bb-ph-ball::before { content: ""; position: absolute; inset: 0; border-radius: 50%; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='%23120c08' stroke-width='2.4'%3E%3Cpath d='M50 0V100'/%3E%3Cpath d='M0 50H100'/%3E%3Cpath d='M16 10C34 30 34 70 16 90'/%3E%3Cpath d='M84 10C66 30 66 70 84 90'/%3E%3C/svg%3E") center / 100% 100% no-repeat; }
+.bb-hero-ph img { position: relative; display: block; width: 100%; height: 100%; object-fit: cover; object-position: 45% 35%; border-radius: 50%; border: 8px solid var(--bb-ink); background: #111; }
+.bb-ph-tag { position: absolute; left: -2%; bottom: 8%; padding: 8px 16px; background: var(--bb-teal); color: var(--bb-ink); border: 3px solid var(--bb-ink); font-family: var(--bb-en); font-size: 14px; letter-spacing: 0.2em; transform: rotate(-6deg); }
+
+/* ================= SCOREBOARD（場内ビジョン）================= */
+.bb-board { position: relative; padding: 44px 0 50px; color: #fff; background: #0a0a0a radial-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1.5px) 0 0 / 5px 5px; border-top: 4px solid var(--bb-ink); }
+.bb-board-h { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; }
+.bb-board-h span { font-family: var(--bb-en); font-size: 15px; letter-spacing: 0.3em; color: var(--bb-teal); }
+.bb-board-h small { font-size: 12px; color: #aaa; letter-spacing: 0.06em; }
+.bb-stats { list-style: none; margin: 18px 0 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.bb-stats li { min-width: 0; padding: 20px 18px 18px; background: #121212; border: 2px solid #262626; border-radius: 10px; box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.6); }
+.bb-stats strong { display: block; font-family: var(--bb-en); font-weight: 400; font-size: clamp(32px, 4vw, 54px); line-height: 1; color: #ffb020; text-shadow: 0 0 18px rgba(255, 176, 32, 0.45); white-space: nowrap; }
+.bb-stats strong small { margin-left: 3px; font-family: var(--bb-jp); font-weight: 900; font-size: 0.4em; color: #fff; text-shadow: none; }
+.bb-stats span { display: block; margin-top: 10px; font-size: 12px; font-weight: 700; color: #ddd; letter-spacing: 0.04em; }
+.bb-sns { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
+.bb-sns a { padding: 9px 18px; border: 2px solid #fff; border-radius: 999px; font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.16em; color: #fff; transition: background 0.2s, color 0.2s; }
+.bb-sns a:hover { background: #fff; color: #0a0a0a; }
+.bb-sns a.yt { background: #ff0033; border-color: #ff0033; }
+.bb-sns a.yt:hover { background: #fff; color: #ff0033; border-color: #fff; }
+
+/* ================= 章（拍ごとに背景色が切り替わる）================= */
+.bb-sec { --c: #0d7f78; --c2: #073e3a; position: relative; overflow: hidden; margin-top: -4vw; padding: calc(4vw + clamp(64px, 8vw, 110px)) 0 clamp(80px, 9vw, 120px); color: #fff; background: radial-gradient(120% 95% at 50% 25%, var(--c) 0%, var(--c2) 100%); clip-path: polygon(0 4vw, 100% 0, 100% 100%, 0 100%); }
+.bb-sec::before { content: ""; position: absolute; right: -14%; top: -6%; width: min(80vw, 760px); aspect-ratio: 1; pointer-events: none; opacity: 0.1; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='%23fff' stroke-width='1.2'%3E%3Ccircle cx='50' cy='50' r='49'/%3E%3Cpath d='M50 1V99'/%3E%3Cpath d='M1 50H99'/%3E%3Cpath d='M16 10C34 30 34 70 16 90'/%3E%3Cpath d='M84 10C66 30 66 70 84 90'/%3E%3C/svg%3E") center / contain no-repeat; }
+.bb-sec > .wrap { position: relative; z-index: 1; }
+.bb-c-teal  { --c: #12908a; --c2: #0a3f3c; }
+.bb-c-navy  { --c: #3a35a8; --c2: #16134a; }
+.bb-c-red   { --c: #c8174a; --c2: #5e0a22; }
+.bb-c-cyan  { --c: #0f87ab; --c2: #083c50; }
+.bb-c-amber { --c: #d27a0a; --c2: #6a3504; }
+.bb-c-green { --c: #1b8a48; --c2: #0b3a1d; }
+.bb-c-dark  { --c: #10302e; --c2: #050505; }
+.bb-c-ball  { --c: var(--bb-ball); --c2: var(--bb-ball-d); }
+.bb-sec.bb-c-ball::before { opacity: 0.35; filter: invert(1); }
+
+.bb-head { margin-bottom: clamp(30px, 4vw, 48px); }
+.bb-cue { display: inline-flex; align-items: center; gap: 10px; padding: 7px 14px; background: var(--bb-ink); color: #fff; font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.18em; transform: skew(-6deg); max-width: 100%; }
+.bb-cue::before { content: ""; flex: none; width: 8px; height: 8px; border-radius: 50%; background: #ff3b3b; }
+.bb-head h2 { margin-top: 18px; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(36px, 6vw, 80px); line-height: 1.1; letter-spacing: 0.01em; color: #fff; text-shadow: 0 0.06em 0 rgba(0, 0, 0, 0.35); }
+
+.bb-tag { display: inline-block; padding: 5px 12px; background: #fff; color: var(--c); font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.2em; }
+.bb-sub { margin: clamp(48px, 6vw, 72px) 0 18px; display: flex; align-items: center; gap: 12px; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(22px, 2.6vw, 30px); line-height: 1.3; }
+.bb-sub::before { content: ""; flex: none; width: 30px; height: 8px; background: var(--bb-ball); border: 2px solid var(--bb-ink); }
+
+/* 白いステッカー風カード（太い黒線＋ずらした影）*/
+.bb-card, .bb-nba, .bb-event, .bb-feature, .bb-dl, .bb-list li, .bb-channel, .bb-vid, .bb-vision, .bb-work {
+  background: #fff; color: #1a140f; border: 3px solid var(--bb-ink); border-radius: 16px; box-shadow: 7px 7px 0 rgba(0, 0, 0, 0.85);
+}
+.bb-cards { display: grid; gap: 20px; }
+.bb-cards-3 { grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr) minmax(0, 1fr); }
+.bb-cards-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.bb-cards-2 + .bb-quote, .bb-feature + .bb-cards { margin-top: 28px; }
+.bb-card { min-width: 0; padding: 26px 24px; }
+.bb-card.wide { grid-column: 1 / -1; }
+.bb-card .k { display: block; font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.2em; color: var(--c); }
+.bb-card h3 { margin-top: 10px; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(19px, 1.9vw, 24px); line-height: 1.4; }
+.bb-card p { margin-top: 12px; font-size: 14.5px; line-height: 1.9; color: #2e2620; }
+.bb-card.big { color: #fff; }
+.bb-card.big .k { color: var(--bb-ink); }
+.bb-card.big h3 { font-size: clamp(22px, 2.3vw, 30px); text-shadow: 0 0.05em 0 rgba(0, 0, 0, 0.3); }
+.bb-card.big p { color: #fff; font-weight: 700; }
+
+/* 01 PROFILE */
+.bb-profile { margin-top: clamp(40px, 5vw, 60px); display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: clamp(28px, 4vw, 48px); align-items: start; }
+.bb-story p { margin-top: 16px; font-size: 16px; line-height: 2; }
+.bb-story b { font-family: var(--bb-jp); font-weight: 900; font-size: 1.25em; color: #ffd24a; }
+.bb-dl { margin: 0; padding: 8px 22px; }
+.bb-dl div { display: grid; grid-template-columns: 7em minmax(0, 1fr); gap: 12px; padding: 12px 0; border-bottom: 2px dashed #e4dcd4; font-size: 14px; line-height: 1.7; }
+.bb-dl div:last-child { border-bottom: 0; }
+.bb-dl dt { font-weight: 900; color: var(--c); }
+.bb-dl dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.bb-dl dd.hot { font-family: var(--bb-jp); font-weight: 900; font-size: 17px; color: var(--bb-ball-d); }
+.bb-dl a { margin-left: 6px; color: var(--c); font-weight: 700; }
+
+/* 02 NBA */
+.bb-nba { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 28px; align-items: center; padding: 26px 30px; }
+.bb-nba-logo { display: grid; place-items: center; width: 104px; height: 156px; background: #fff; border: 3px solid var(--bb-ink); border-radius: 10px; }
+.bb-nba-logo img { width: auto; height: 126px; }
+.bb-nba-txt .k { display: block; font-family: var(--bb-en); font-size: 13px; letter-spacing: 0.2em; color: #c8102e; }
+.bb-nba-txt p { margin-top: 10px; font-size: 15px; line-height: 1.9; }
+
+.bb-event { margin: 0; display: grid; grid-template-columns: minmax(0, 56%) minmax(0, 1fr); overflow: hidden; }
+.bb-event .ph img { display: block; width: 100%; height: 100%; object-fit: cover; aspect-ratio: 3 / 2; }
+.bb-event .body { padding: 26px 28px; display: grid; gap: 10px; align-content: center; min-width: 0; }
+.bb-event .date, .bb-feature-txt .date { font-family: var(--bb-en); font-size: 13px; letter-spacing: 0.18em; color: var(--c); }
+.bb-event strong { font-family: var(--bb-en); font-weight: 400; font-size: clamp(18px, 1.9vw, 24px); line-height: 1.25; }
+.bb-event p { font-size: 14px; line-height: 1.85; }
+.bb-event dl { margin: 4px 0 0; }
+.bb-event dl div { display: grid; grid-template-columns: 6em minmax(0, 1fr); gap: 10px; padding: 8px 0; border-top: 2px dashed #e4dcd4; font-size: 13px; line-height: 1.7; }
+.bb-event dt { font-weight: 900; color: var(--c); }
+.bb-event dd { margin: 0; }
+
+.bb-feature { display: grid; grid-template-columns: minmax(0, 56%) minmax(0, 1fr); overflow: hidden; }
+.bb-feature .yt-lite, .bb-vid .yt-lite { border: 0; border-radius: 0; }
+.bb-feature-txt { display: grid; gap: 10px; align-content: center; padding: 24px 28px; min-width: 0; }
+.bb-feature-txt strong { font-family: var(--bb-jp); font-weight: 900; font-size: 18px; line-height: 1.55; }
+.bb-feature-txt p { margin: 0; font-size: 14px; line-height: 1.85; color: #2e2620; }
+
+.bb-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+.bb-list li { position: relative; padding: 18px 22px 18px 54px; font-size: 15px; line-height: 1.85; }
+.bb-list li::before { content: ""; position: absolute; left: 20px; top: 24px; width: 18px; height: 18px; border-radius: 50%; border: 2px solid var(--bb-ink); background: var(--bb-ball) radial-gradient(rgba(0, 0, 0, 0.2) 0.8px, transparent 1.2px) 0 0 / 4px 4px; }
+.bb-list a { margin-left: 6px; color: var(--c); font-weight: 900; }
+
+/* 03 YOUTUBE */
+.bb-channel { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 22px; padding: 22px 26px; transition: transform 0.15s, box-shadow 0.15s; }
+.bb-channel:hover { transform: translate(-2px, -2px); box-shadow: 9px 9px 0 rgba(0, 0, 0, 0.85); }
+.bb-channel .ic { width: 64px; height: 44px; border-radius: 12px; }
+.bb-channel .ic::before { left: 25px; top: 12px; border-left-width: 18px; border-top-width: 10px; border-bottom-width: 10px; }
+.bb-channel .tx { flex: 1 1 260px; min-width: 0; display: grid; gap: 4px; }
+.bb-channel strong { font-family: var(--bb-jp); font-weight: 900; font-size: clamp(22px, 2.6vw, 30px); line-height: 1.2; }
+.bb-channel small { font-size: 13px; font-weight: 700; color: #555; line-height: 1.6; }
+.bb-channel .go { padding: 12px 22px; border-radius: 999px; background: #ff0033; color: #fff; font-weight: 900; font-size: 15px; white-space: nowrap; }
+.bb-lead { margin: 28px 0 30px; max-width: 780px; font-size: 16px; line-height: 2; font-weight: 500; }
+.bb-vids { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+.bb-vid { min-width: 0; overflow: hidden; display: flex; flex-direction: column; }
+.bb-vid .t { margin: 0; padding: 12px 14px 0; font-size: 14px; font-weight: 700; line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.bb-vid .v { display: block; margin-top: auto; padding: 8px 14px 14px; font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.04em; color: var(--c); }
+.bb-note { margin-top: 18px; font-size: 12px; line-height: 1.7; color: rgba(255, 255, 255, 0.85); }
+
+/* 04 PERSON */
+.bb-quote { position: relative; margin: 32px 0 0; padding: 34px 34px 28px 34px; background: var(--bb-ink); color: #fff; border: 3px solid var(--bb-ink); border-radius: 16px; box-shadow: 7px 7px 0 rgba(0, 0, 0, 0.5); }
+.bb-quote::before { content: "\201C"; position: absolute; left: 18px; top: -30px; font-family: var(--bb-en); font-size: 96px; line-height: 1; color: var(--bb-teal); }
+.bb-quote p { font-family: var(--bb-jp); font-weight: 900; font-size: clamp(19px, 2.3vw, 27px); line-height: 1.65; }
+.bb-quote cite { display: block; margin-top: 12px; font-style: normal; font-size: 12px; color: #bbb; }
+#person .bb-lead { margin: 22px 0 0; }
+
+/* 05 BEYOND */
+.bb-vision { margin-top: 36px; padding: 30px 32px; }
+.bb-vision .bb-tag { background: var(--bb-ink); color: #fff; }
+.bb-vision p { margin-top: 14px; font-size: 15px; line-height: 1.95; color: #2e2620; }
+.bb-vision .bb-vision-main { margin-top: 18px; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(22px, 3vw, 36px); line-height: 1.45; color: var(--c2); }
+.bb-vision .bb-vision-note { font-size: 12px; color: #777; }
+
+/* 07 WORK（ボール地）*/
+.bb-sec.bb-c-ball { background-color: var(--bb-ball); }
+.bb-c-ball .bb-head h2 { text-shadow: 0 0.05em 0 #1a6f6b, 0 0 0.45em rgba(43, 179, 173, 0.45); }
+.bb-work { max-width: 880px; margin-inline: auto; padding: clamp(26px, 4vw, 44px); text-align: center; }
+.bb-work-lead { font-size: 16px; line-height: 1.95; font-weight: 500; }
+.bb-offer { list-style: none; margin: 24px 0 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
+.bb-offer li { padding: 8px 16px; border: 2px solid var(--bb-ink); border-radius: 999px; font-size: 14px; font-weight: 900; }
+.bb-mail { display: inline-block; margin-top: 28px; padding: 18px 30px; max-width: 100%; background: var(--bb-ink); color: #fff; border-radius: 999px; font-family: var(--bb-en); font-size: clamp(15px, 2vw, 21px); letter-spacing: 0.02em; overflow-wrap: anywhere; box-shadow: 6px 6px 0 var(--bb-teal); transition: transform 0.15s, box-shadow 0.15s; }
+.bb-mail:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--bb-teal); }
+.bb-work .bb-note { color: #555; }
+.bb-work .bb-note a { color: var(--bb-ball-d); font-weight: 700; text-decoration: underline; }
+
+/* MEMBERS */
+.bb-others { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; }
+.bb-others a { display: block; overflow: hidden; background: #111; border: 3px solid #fff; border-radius: 16px; transition: transform 0.2s; }
+.bb-others a:hover { transform: translateY(-4px) rotate(-1deg); }
+.bb-others img { display: block; width: 100%; height: auto; aspect-ratio: 640 / 600; object-fit: cover; }
+.bb-others span { display: block; padding: 12px 14px 14px; font-family: var(--bb-jp); font-weight: 900; font-size: 18px; line-height: 1.3; }
+.bb-others small { display: block; margin-top: 4px; font-family: var(--bb-en); font-size: 11px; letter-spacing: 0.2em; color: var(--bb-teal); }
+
+.bb-back { margin: 0; background: #050505; }
+
+/* ================= レスポンシブ ================= */
+@media (max-width: 1000px) {
+  .bb-hero-grid { grid-template-columns: 1fr; }
+  .bb-hero-ph { width: min(78%, 380px); margin-top: 8px; }
+  .bb-cards-3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .bb-cards-3 .big { grid-column: 1 / -1; }
+  .bb-profile { grid-template-columns: 1fr; }
+  .bb-event, .bb-feature { grid-template-columns: 1fr; }
+  .bb-vids { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 760px) {
   .bb-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .bb-mc { grid-template-columns: 1fr; }
-  .bb-nba { grid-template-columns: 1fr; justify-items: start; gap: 20px; padding: 24px 20px; }
-  .bb-nba-logo { width: 84px; height: 124px; }
-  .bb-nba-logo img { height: 100px; }
-  .bb-feature-txt { padding: 22px 20px; }
-  .bb-dl div { grid-template-columns: 6.5em 1fr; }
-  .bb-pp { grid-template-columns: 1fr; }
-  .bb-pp-card { padding: 22px 20px; }
-  .bb-quote { padding: 20px 18px; }
+  .bb-cards-3, .bb-cards-2 { grid-template-columns: 1fr; }
+  .bb-card { padding: 22px 20px; }
+  .bb-nba { grid-template-columns: 1fr; justify-items: start; gap: 18px; padding: 22px 20px; }
+  .bb-nba-logo { width: 80px; height: 120px; }
+  .bb-nba-logo img { height: 96px; }
+  .bb-event .body, .bb-feature-txt { padding: 20px; }
+  .bb-dl { padding: 6px 18px; }
+  .bb-dl div { grid-template-columns: 6em minmax(0, 1fr); gap: 10px; }
+  .bb-quote { padding: 30px 20px 22px; }
   .bb-vision { padding: 24px 20px; }
-  .bb-direct { padding: 18px 16px; }
+  .bb-others { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .bb-list li { padding: 16px 18px 16px 46px; font-size: 14.5px; }
+  .bb-list li::before { left: 16px; top: 21px; }
+}
+@media (max-width: 520px) {
+  .bb-vids { grid-template-columns: 1fr; }
+  .bb-yt-btn { width: 100%; padding: 14px 16px; gap: 12px; }
+  .bb-nba-badge { width: 100%; }
+  .bb-call, .bb-cue { font-size: 10.5px; letter-spacing: 0.12em; }
+  .bb-stats li { padding: 16px 14px 14px; }
+  .bb-stats strong { font-size: 30px; }
+  .bb-channel { padding: 18px; }
+  .bb-channel .go { width: 100%; text-align: center; }
+  .bb-mail { padding: 16px 20px; }
+  .bb-card, .bb-nba, .bb-event, .bb-feature, .bb-dl, .bb-list li, .bb-channel, .bb-vid, .bb-vision, .bb-work { box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.85); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .bb-ticker-in, .bb-mic { animation: none; }
 }
