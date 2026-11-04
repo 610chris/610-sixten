@@ -31,8 +31,9 @@
 <link rel="stylesheet" href="../../css/brand-fx.css">
 <link rel="stylesheet" href="../../css/s5-nicholas.css">
 <script>if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('fx')</script>
-<!-- オープニング（パック開封）: 動きを減らす設定の人には出さない・1セッション1回だけ。消えるのは CSS だけで完結（JSなしでも約3.4秒） -->
-<script>try{if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!sessionStorage.getItem('nkIntroSeen'))document.documentElement.classList.add('nk-intro-on')}catch(e){}</script>
+<link rel="stylesheet" href="../../css/s5-intro.css">
+<script>try{if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&(!sessionStorage.getItem('s5IntroSeen:nicholas')||/[?&]introt?=/.test(location.search)))document.documentElement.classList.add('s5-intro-on')}catch(e){}</script>
+<script type="importmap">{"imports":{"three":"../../js/vendor/three.module.min.js"}}</script>
 <!-- ga4:start build_seo.py が自動生成。手で編集しない -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D2CX26H018"></script>
 <script>
@@ -63,14 +64,8 @@ gtag('config', 'G-D2CX26H018');
   </div>
 </header>
 
-<div class="nk-intro" id="nk-intro" role="presentation" aria-hidden="true">
-  <div class="rays"></div>
-  <div class="nk-stage">
-    <div class="nk-card"><div class="face back"></div><div class="face"><span class="ovr"><b>NBA</b><small>YOUTUBER</small></span><img src="../../assets/s5/member-nicholas.jpg" alt="" width="640" height="600"><span class="nm"><b>NICHOLAS</b><small>STARTING 5IVE</small></span></div></div>
-    <div class="nk-pack"><div class="half l"><span class="lbl"><b>NICHOLAS</b><small>STARTING 5IVE PACK</small></span></div><div class="half r"><span class="lbl"><b>NICHOLAS</b><small>STARTING 5IVE PACK</small></span></div></div>
-  </div>
-  <span class="hint">TAP TO SKIP</span>
-</div>
+<!-- オープニング（js/intro/nicholas.js・初回だけ・タップでスキップ） -->
+<div class="s5-intro" id="s5-intro" aria-hidden="true"><canvas></canvas><div class="lay"></div><div class="vig"></div><div class="grain"></div><span class="ld"></span><span class="hint">TAP TO SKIP</span></div>
 
 <!-- STARTING 5IVE メンバー個人ページ（2026-11-04 作り込み・登録者数と再生回数は 2026年11月時点） -->
 <section class="brand-section s5-pf-top">
@@ -300,6 +295,6 @@ document.querySelectorAll('.yt-lite').forEach(b => b.addEventListener('click', (
 </script>
 <script src="../../js/brand-fx.js" defer></script>
 <script src="../../js/phrase-wrap.js" defer></script>
-<script src="../../js/s5-nicholas.js" defer></script>
+<script type="module" src="../../js/intro/nicholas.js"></script>
 </body>
 </html>

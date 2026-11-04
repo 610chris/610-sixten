@@ -1,49 +1,6 @@
 /* STARTING 5IVE メンバー個人ページ: ニコラス（nicholas.html 専用・brand-fx.css の後に読む・2026-11-04） */
 :root { --nk-gold: #e9c46a; --nk-gold-2: #b8862b; }
 
-/* ===== オープニング: NBA 2K のパック開封風（CSSだけで約3秒で消える・JSはスキップと後始末だけ） ===== */
-.nk-intro { display: none; }
-.nk-intro-on .nk-intro {
-  display: grid; place-items: center; position: fixed; inset: 0; z-index: 9999;
-  background: radial-gradient(900px circle at 50% 45%, #1d1a12, #050505 70%);
-  perspective: 1100px; cursor: pointer; overflow: hidden;
-  animation: nkOut 0.45s ease 2.9s forwards;
-}
-.nk-intro-on { overflow: hidden; }
-.nk-intro.skip { animation: nkOut 0.25s ease forwards; }
-@keyframes nkOut { to { opacity: 0; visibility: hidden; } }
-.nk-intro .rays { position: absolute; inset: -50%; background: repeating-conic-gradient(from 0deg, rgba(233, 196, 106, 0.16) 0deg 6deg, transparent 6deg 18deg); opacity: 0; animation: nkRays 3s ease 1.05s forwards; }
-@keyframes nkRays { 0% { opacity: 0; transform: rotate(0deg) scale(0.6); } 30% { opacity: 1; } 100% { opacity: 0.6; transform: rotate(40deg) scale(1); } }
-.nk-stage { position: relative; width: 230px; height: 322px; transform-style: preserve-3d; }
-/* パック（左右に裂けて開く） */
-.nk-pack { position: absolute; inset: -14px; transform-style: preserve-3d; animation: nkPackIn 0.7s cubic-bezier(.2, .9, .3, 1.2) both; }
-@keyframes nkPackIn { from { transform: translateY(60px) rotateX(35deg) rotateY(-25deg) scale(0.7); opacity: 0; } to { transform: none; opacity: 1; } }
-.nk-pack .half { position: absolute; top: 0; bottom: 0; width: 50%; overflow: hidden; background: linear-gradient(160deg, #2a2a2a, #0c0c0c 55%, #1b1b1b); border: 2px solid var(--nk-gold); box-shadow: 0 30px 80px rgba(0, 0, 0, 0.7); }
-.nk-pack .half::after { content: ''; position: absolute; inset: 0; background: linear-gradient(115deg, transparent 30%, rgba(255, 255, 255, 0.22) 45%, transparent 60%); background-size: 250% 100%; animation: nkShine 0.9s ease 0.35s both; }
-@keyframes nkShine { from { background-position: 120% 0; } to { background-position: -60% 0; } }
-.nk-pack .l { left: 0; border-right: 0; border-radius: 10px 0 0 10px; transform-origin: left center; animation: nkTearL 0.55s ease-in 1s forwards; }
-.nk-pack .r { right: 0; border-left: 0; border-radius: 0 10px 10px 0; transform-origin: right center; animation: nkTearR 0.55s ease-in 1s forwards; }
-@keyframes nkTearL { to { transform: translateX(-160px) rotateY(-70deg) rotateZ(-8deg); opacity: 0; } }
-@keyframes nkTearR { to { transform: translateX(160px) rotateY(70deg) rotateZ(8deg); opacity: 0; } }
-.nk-pack .lbl { position: absolute; top: 50%; width: 200%; transform: translateY(-50%); text-align: center; font-family: var(--font-display); color: var(--nk-gold); line-height: 1.1; }
-.nk-pack .l .lbl { left: 0; }
-.nk-pack .r .lbl { right: 0; }
-.nk-pack .lbl b { display: block; font-size: 30px; letter-spacing: 0.08em; }
-.nk-pack .lbl small { display: block; margin-top: 10px; font-size: 11px; letter-spacing: 0.36em; color: #fff; }
-/* 中から出てくるカード（回転して表を向く） */
-.nk-card { position: absolute; inset: 0; transform-style: preserve-3d; opacity: 0; animation: nkCard 1.5s cubic-bezier(.2, .8, .2, 1) 1.15s forwards; }
-@keyframes nkCard { 0% { opacity: 0; transform: translateZ(-200px) rotateY(180deg) scale(0.6); } 25% { opacity: 1; } 70% { transform: translateZ(40px) rotateY(-10deg) scale(1.06); } 100% { opacity: 1; transform: rotateY(0) scale(1); } }
-.nk-card .face { position: absolute; inset: 0; border-radius: 12px; overflow: hidden; backface-visibility: hidden; border: 3px solid var(--nk-gold); background: linear-gradient(160deg, #3a2f12, #0c0c0c 60%); box-shadow: 0 0 60px rgba(233, 196, 106, 0.45); }
-.nk-card .back { transform: rotateY(180deg); background: repeating-linear-gradient(45deg, #1a1a1a 0 10px, #222 10px 20px); }
-.nk-card .face img { position: absolute; left: 0; right: 0; bottom: 64px; width: 100%; height: calc(100% - 64px); object-fit: cover; object-position: center top; }
-.nk-card .ovr { position: absolute; top: 12px; left: 14px; z-index: 1; font-family: var(--font-display); color: var(--nk-gold); line-height: 1; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8); }
-.nk-card .ovr b { display: block; font-size: 34px; }
-.nk-card .ovr small { font-size: 10px; letter-spacing: 0.2em; }
-.nk-card .nm { position: absolute; left: 0; right: 0; bottom: 0; height: 64px; display: grid; place-content: center; text-align: center; background: linear-gradient(180deg, #e9c46a, #b8862b); color: #0a0a0a; font-family: var(--font-display); line-height: 1.15; }
-.nk-card .nm b { font-size: 22px; letter-spacing: 0.1em; }
-.nk-card .nm small { font-size: 9px; letter-spacing: 0.3em; }
-.nk-intro .hint { position: absolute; bottom: 28px; left: 0; right: 0; text-align: center; font-family: var(--font-display); font-size: 11px; letter-spacing: 0.3em; color: rgba(255, 255, 255, 0.45); }
-
 /* ===== ヒーロー: 公式バッジ・2チャンネル ===== */
 .nk-badges { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 6px; }
 .nk-badge { display: inline-flex; align-items: center; gap: 12px; padding: 8px 16px 8px 8px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-card); font-size: 12px; line-height: 1.5; transition: border-color 0.2s; }
@@ -118,4 +75,3 @@
   .nk-time li { grid-template-columns: minmax(0, 1fr); padding-left: 24px; }
   .nk-vids.three { grid-template-columns: minmax(0, 1fr); }
 }
-@media (prefers-reduced-motion: reduce) { .nk-intro { display: none !important; } }
