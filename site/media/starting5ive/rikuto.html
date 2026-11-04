@@ -40,8 +40,14 @@ gtag('js', new Date());
 gtag('config', 'G-D2CX26H018');
 </script>
 <!-- ga4:end -->
+<link rel="stylesheet" href="../../css/s5-intro.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&text=RIKUTOAF&display=block">
+<script>try{if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&(!sessionStorage.getItem('s5IntroSeen:rikuto')||/[?&]introt?=/.test(location.search)))document.documentElement.classList.add('s5-intro-on')}catch(e){}</script>
 </head>
 <body class="s5-pf-page">
+<!-- オープニング（js/intro/rikuto.js・初回だけ・タップでスキップ） -->
+<div class="s5-intro" id="s5-intro" aria-hidden="true"><canvas></canvas><div class="lay"></div><div class="vig"></div><div class="grain"></div><span class="ld"></span><span class="hint">TAP TO SKIP</span></div>
+
 
 <!-- ナビ: 旧610マークは使わず、新ロゴの SIXTEN ワードマークだけ（2026-11-04） -->
 <header class="nav">
@@ -325,6 +331,7 @@ gtag('config', 'G-D2CX26H018');
   <a href="../starting5ive.html">← BACK TO STARTING 5IVE</a>
 </div>
 
+<p class="rk-src rk-intro-credit" style="max-width:1200px;margin:24px auto 0;padding:0 20px;font-size:11px;opacity:.6">オープニングの写真: Wikimedia Commons より <a href="https://commons.wikimedia.org/wiki/File:Madison_Square_Garden_1968.jpeg" target="_blank" rel="noopener">マディソン・スクエア・ガーデン（1968年）</a>（Unknown authorUnknown author／Public domain）、<a href="https://commons.wikimedia.org/wiki/File:Willis_Reed_1972_publicity_photo.jpg" target="_blank" rel="noopener">ウィリス・リード（1972年）</a>（New York Knicks／Public domain）、<a href="https://commons.wikimedia.org/wiki/File:Walt_Frazier_1977.jpeg" target="_blank" rel="noopener">ウォルト・フレイジャー（1977年）</a>（George Gojkovich／Public domain）、<a href="https://commons.wikimedia.org/wiki/File:1988_NBA_Playoffs_-_New_York_Knicks_vs._Boston_Celtics,_Games_1_and_2.jpg" target="_blank" rel="noopener">1988年プレーオフ ニックス対セルティックス</a>（National Basketball Association／Public domain）、<a href="https://commons.wikimedia.org/wiki/File:Times_Square,_NYC_at_night_-_August_2025.jpg" target="_blank" rel="noopener">タイムズスクエア</a>（Nielsoncaetanosalmeron／CC BY 4.0）、<a href="https://commons.wikimedia.org/wiki/File:Carmelo_Anthony_March_2013.jpg" target="_blank" rel="noopener">カーメロ・アンソニー（2013年）</a>（作者不明／CC BY-SA 3.0）、<a href="https://commons.wikimedia.org/wiki/File:Jeremy_Lin_driving_and_dishing_vs_Kings.jpg" target="_blank" rel="noopener">ジェレミー・リン（2012年）</a>（sukhchander／CC BY 2.0）、<a href="https://commons.wikimedia.org/wiki/File:Knicks_Game_(3230107705).jpg" target="_blank" rel="noopener">MSGのニックス戦</a>（Paul Hudson from United Kingdom／CC BY 2.0）、<a href="https://commons.wikimedia.org/wiki/File:Jalen_Brunson_-_52977333593.jpg" target="_blank" rel="noopener">ジェイレン・ブランソン</a>（Erik Drost／CC BY 2.0）、<a href="https://commons.wikimedia.org/wiki/File:2026_NBA_Champions_New_York_Knicks_City_Hall_Ceremony_01.png" target="_blank" rel="noopener">2026年 ニックス優勝セレモニー（ニューヨーク市庁舎）</a>（Unknown authorUnknown author／CC BY 4.0）。</p>
 <footer>
   <!-- footer-media: 610のメディア一覧（starting5ive.html と同じ） -->
   <nav class="wrap footer-media" aria-label="610のメディア">
@@ -372,5 +379,6 @@ document.querySelectorAll('.yt-lite').forEach(b => b.addEventListener('click', (
 </script>
 <script src="../../js/brand-fx.js" defer></script>
 <script src="../../js/phrase-wrap.js" defer></script>
+<script type="module" src="../../js/intro/rikuto.js"></script>
 </body>
 </html>
