@@ -1,0 +1,121 @@
+/* STARTING 5IVE メンバー個人ページ: ニコラス（nicholas.html 専用・brand-fx.css の後に読む・2026-11-04） */
+:root { --nk-gold: #e9c46a; --nk-gold-2: #b8862b; }
+
+/* ===== オープニング: NBA 2K のパック開封風（CSSだけで約3秒で消える・JSはスキップと後始末だけ） ===== */
+.nk-intro { display: none; }
+.nk-intro-on .nk-intro {
+  display: grid; place-items: center; position: fixed; inset: 0; z-index: 9999;
+  background: radial-gradient(900px circle at 50% 45%, #1d1a12, #050505 70%);
+  perspective: 1100px; cursor: pointer; overflow: hidden;
+  animation: nkOut 0.45s ease 2.9s forwards;
+}
+.nk-intro-on { overflow: hidden; }
+.nk-intro.skip { animation: nkOut 0.25s ease forwards; }
+@keyframes nkOut { to { opacity: 0; visibility: hidden; } }
+.nk-intro .rays { position: absolute; inset: -50%; background: repeating-conic-gradient(from 0deg, rgba(233, 196, 106, 0.16) 0deg 6deg, transparent 6deg 18deg); opacity: 0; animation: nkRays 3s ease 1.05s forwards; }
+@keyframes nkRays { 0% { opacity: 0; transform: rotate(0deg) scale(0.6); } 30% { opacity: 1; } 100% { opacity: 0.6; transform: rotate(40deg) scale(1); } }
+.nk-stage { position: relative; width: 230px; height: 322px; transform-style: preserve-3d; }
+/* パック（左右に裂けて開く） */
+.nk-pack { position: absolute; inset: -14px; transform-style: preserve-3d; animation: nkPackIn 0.7s cubic-bezier(.2, .9, .3, 1.2) both; }
+@keyframes nkPackIn { from { transform: translateY(60px) rotateX(35deg) rotateY(-25deg) scale(0.7); opacity: 0; } to { transform: none; opacity: 1; } }
+.nk-pack .half { position: absolute; top: 0; bottom: 0; width: 50%; overflow: hidden; background: linear-gradient(160deg, #2a2a2a, #0c0c0c 55%, #1b1b1b); border: 2px solid var(--nk-gold); box-shadow: 0 30px 80px rgba(0, 0, 0, 0.7); }
+.nk-pack .half::after { content: ''; position: absolute; inset: 0; background: linear-gradient(115deg, transparent 30%, rgba(255, 255, 255, 0.22) 45%, transparent 60%); background-size: 250% 100%; animation: nkShine 0.9s ease 0.35s both; }
+@keyframes nkShine { from { background-position: 120% 0; } to { background-position: -60% 0; } }
+.nk-pack .l { left: 0; border-right: 0; border-radius: 10px 0 0 10px; transform-origin: left center; animation: nkTearL 0.55s ease-in 1s forwards; }
+.nk-pack .r { right: 0; border-left: 0; border-radius: 0 10px 10px 0; transform-origin: right center; animation: nkTearR 0.55s ease-in 1s forwards; }
+@keyframes nkTearL { to { transform: translateX(-160px) rotateY(-70deg) rotateZ(-8deg); opacity: 0; } }
+@keyframes nkTearR { to { transform: translateX(160px) rotateY(70deg) rotateZ(8deg); opacity: 0; } }
+.nk-pack .lbl { position: absolute; top: 50%; width: 200%; transform: translateY(-50%); text-align: center; font-family: var(--font-display); color: var(--nk-gold); line-height: 1.1; }
+.nk-pack .l .lbl { left: 0; }
+.nk-pack .r .lbl { right: 0; }
+.nk-pack .lbl b { display: block; font-size: 30px; letter-spacing: 0.08em; }
+.nk-pack .lbl small { display: block; margin-top: 10px; font-size: 11px; letter-spacing: 0.36em; color: #fff; }
+/* 中から出てくるカード（回転して表を向く） */
+.nk-card { position: absolute; inset: 0; transform-style: preserve-3d; opacity: 0; animation: nkCard 1.5s cubic-bezier(.2, .8, .2, 1) 1.15s forwards; }
+@keyframes nkCard { 0% { opacity: 0; transform: translateZ(-200px) rotateY(180deg) scale(0.6); } 25% { opacity: 1; } 70% { transform: translateZ(40px) rotateY(-10deg) scale(1.06); } 100% { opacity: 1; transform: rotateY(0) scale(1); } }
+.nk-card .face { position: absolute; inset: 0; border-radius: 12px; overflow: hidden; backface-visibility: hidden; border: 3px solid var(--nk-gold); background: linear-gradient(160deg, #3a2f12, #0c0c0c 60%); box-shadow: 0 0 60px rgba(233, 196, 106, 0.45); }
+.nk-card .back { transform: rotateY(180deg); background: repeating-linear-gradient(45deg, #1a1a1a 0 10px, #222 10px 20px); }
+.nk-card .face img { position: absolute; left: 0; right: 0; bottom: 64px; width: 100%; height: calc(100% - 64px); object-fit: cover; object-position: center top; }
+.nk-card .ovr { position: absolute; top: 12px; left: 14px; z-index: 1; font-family: var(--font-display); color: var(--nk-gold); line-height: 1; text-shadow: 0 2px 8px rgba(0, 0, 0, 0.8); }
+.nk-card .ovr b { display: block; font-size: 34px; }
+.nk-card .ovr small { font-size: 10px; letter-spacing: 0.2em; }
+.nk-card .nm { position: absolute; left: 0; right: 0; bottom: 0; height: 64px; display: grid; place-content: center; text-align: center; background: linear-gradient(180deg, #e9c46a, #b8862b); color: #0a0a0a; font-family: var(--font-display); line-height: 1.15; }
+.nk-card .nm b { font-size: 22px; letter-spacing: 0.1em; }
+.nk-card .nm small { font-size: 9px; letter-spacing: 0.3em; }
+.nk-intro .hint { position: absolute; bottom: 28px; left: 0; right: 0; text-align: center; font-family: var(--font-display); font-size: 11px; letter-spacing: 0.3em; color: rgba(255, 255, 255, 0.45); }
+
+/* ===== ヒーロー: 公式バッジ・2チャンネル ===== */
+.nk-badges { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0 6px; }
+.nk-badge { display: inline-flex; align-items: center; gap: 12px; padding: 8px 16px 8px 8px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-card); font-size: 12px; line-height: 1.5; transition: border-color 0.2s; }
+.nk-badge:hover { border-color: var(--nk-gold); }
+.nk-badge .lg { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 6px; background: #fff; flex: none; }
+.nk-badge .lg img { max-width: 34px; max-height: 38px; width: auto; height: auto; }
+.nk-badge .lg.dark { background: #000; }
+.nk-badge b { display: block; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.16em; color: var(--nk-gold); }
+.nk-chs { display: grid; gap: 10px; margin-top: 14px; }
+
+/* ===== 01 PROFILE ===== */
+.nk-lead { max-width: 780px; font-size: 15px; line-height: 2; }
+.nk-lead + .nk-lead { margin-top: 14px; }
+.nk-facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin: 36px 0 0; padding: 0; border: 1px solid var(--line); background: var(--line); }
+.nk-facts div { padding: 20px 22px; background: var(--bg-card); min-width: 0; }
+.nk-facts dt { font-family: var(--font-display); font-size: 11px; letter-spacing: 0.22em; color: var(--nk-gold); }
+.nk-facts dd { margin: 8px 0 0; font-size: 15px; font-weight: 700; line-height: 1.6; }
+.nk-facts dd small { display: block; margin-top: 2px; font-size: 12px; font-weight: 500; color: var(--muted); }
+.nk-src { margin-top: 18px; font-size: 12px; line-height: 1.8; color: var(--muted); }
+.nk-src a { text-decoration: underline; }
+.nk-src a:hover { color: var(--nk-gold); }
+
+/* ===== 02 NBA JAPAN / 03 CARD: ロゴ付きの大きいカード ===== */
+.nk-ofc { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 28px; align-items: center; padding: 30px; border: 1px solid var(--line); background: radial-gradient(600px circle at 0% 0%, rgba(29, 66, 138, 0.35), transparent 60%), var(--bg-card); }
+.nk-ofc.card { background: radial-gradient(600px circle at 0% 0%, rgba(233, 196, 106, 0.18), transparent 60%), var(--bg-card); }
+.nk-ofc .lg { display: grid; place-items: center; height: 200px; border-radius: 12px; background: #fff; }
+.nk-ofc .lg img { max-height: 160px; max-width: 160px; width: auto; height: auto; }
+.nk-ofc.card .lg { background: #000; border: 1px solid var(--line); }
+.nk-ofc .k { font-family: var(--font-display); font-size: 12px; letter-spacing: 0.24em; color: var(--nk-gold); }
+.nk-ofc h3 { margin-top: 6px; font-size: 22px; font-weight: 900; line-height: 1.5; }
+.nk-ofc p { margin-top: 10px; font-size: 15px; line-height: 1.9; }
+.nk-ofc ul { margin: 12px 0 0; padding-left: 1.2em; font-size: 14px; line-height: 1.9; }
+.nk-sub { margin-top: 26px; font-family: var(--font-display); font-size: 13px; letter-spacing: 0.2em; color: var(--muted); }
+.nk-vids { margin-top: 14px; }
+.nk-vids.three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+
+/* ===== 04 STORY ===== */
+.nk-story { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.nk-story > div { padding: 26px; border: 1px solid var(--line); border-top: 3px solid var(--nk-gold); background: var(--bg-card); min-width: 0; }
+.nk-story h3 { font-size: 17px; font-weight: 900; line-height: 1.6; }
+.nk-story p { margin-top: 10px; font-size: 14px; line-height: 1.95; }
+.nk-math { margin-top: 26px; display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 18px 30px; align-items: center; padding: 30px 34px; border: 1px solid var(--line); background: radial-gradient(520px circle at 100% 0%, rgba(233, 196, 106, 0.14), transparent 60%), var(--bg-card); }
+.nk-math .eq { font-family: var(--font-display); font-size: 28px; line-height: 1.3; letter-spacing: 0.04em; white-space: nowrap; }
+.nk-math .eq s { color: var(--muted); text-decoration-thickness: 2px; }
+.nk-math .eq em { font-style: normal; color: var(--nk-gold); }
+.nk-math p { font-size: 15px; line-height: 1.9; }
+
+/* ===== 06 HISTORY ===== */
+.nk-time { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--line); }
+.nk-time li { position: relative; display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 6px 24px; padding: 0 0 28px 30px; }
+.nk-time li:last-child { padding-bottom: 0; }
+.nk-time li::before { content: ''; position: absolute; left: -5px; top: 7px; width: 9px; height: 9px; border-radius: 50%; background: var(--nk-gold); box-shadow: 0 0 0 4px rgba(233, 196, 106, 0.18); }
+.nk-time .y { font-family: var(--font-display); font-size: 18px; line-height: 1.3; letter-spacing: 0.06em; color: var(--nk-gold); }
+.nk-time .y small { font-size: 0.7em; }
+.nk-time h3 { font-size: 16px; font-weight: 900; line-height: 1.6; }
+.nk-time p { margin-top: 4px; font-size: 14px; line-height: 1.8; color: var(--muted); }
+.nk-quote { margin: 30px 0 0; padding: 26px 30px; border-left: 3px solid var(--nk-gold); background: var(--bg-card); font-size: 17px; font-weight: 700; line-height: 1.9; }
+.nk-quote small { display: block; margin-top: 8px; font-size: 12px; font-weight: 500; color: var(--muted); }
+
+@media (max-width: 1000px) {
+  .nk-story { grid-template-columns: minmax(0, 1fr); }
+  .nk-vids.three { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 760px) {
+  .nk-facts { grid-template-columns: minmax(0, 1fr); }
+  .nk-ofc { grid-template-columns: minmax(0, 1fr); padding: 22px; gap: 18px; }
+  .nk-ofc .lg { height: 150px; }
+  .nk-ofc .lg img { max-height: 120px; }
+  .nk-ofc h3 { font-size: 19px; }
+  .nk-math { grid-template-columns: minmax(0, 1fr); padding: 24px; }
+  .nk-math .eq { font-size: 22px; white-space: normal; }
+  .nk-time li { grid-template-columns: minmax(0, 1fr); padding-left: 24px; }
+  .nk-vids.three { grid-template-columns: minmax(0, 1fr); }
+}
+@media (prefers-reduced-motion: reduce) { .nk-intro { display: none !important; } }
