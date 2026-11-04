@@ -62,7 +62,26 @@
 /* ---------- 03 YOUTUBE ---------- */
 .bb-lead { margin: 26px 0 28px; max-width: 760px; font-size: 15px; line-height: 1.9; }
 
-/* ---------- 05 WORK ---------- */
+/* ---------- 04 PERSON（人物像・2024-07-21 メンバー紹介回より） ---------- */
+#person .s5-ch + .bb-feature + .s5-sub { margin-top: 56px; }
+.bb-feature img, .bb-pp img { max-width: 100%; height: auto; }
+.bb-pp { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.bb-pp-card { min-width: 0; padding: 26px 24px; border: 1px solid var(--line); background: var(--bg-card); }
+.bb-pp-card.wide { grid-column: 1 / -1; border-left: 3px solid #2bb3ad; }
+.bb-pp-card .k { display: block; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.22em; color: #2bb3ad; }
+.bb-pp-card h3 { margin-top: 10px; font-size: clamp(17px, 1.7vw, 20px); font-weight: 900; line-height: 1.5; }
+.bb-pp-card p { margin-top: 10px; font-size: 14px; line-height: 1.9; opacity: 0.9; }
+.bb-quote { margin: 28px 0 0; padding: 24px 28px; border-left: 3px solid #2bb3ad; background: rgba(43, 179, 173, 0.08); }
+.bb-quote p { font-family: "Zen Old Mincho", serif; font-size: clamp(17px, 1.9vw, 21px); line-height: 1.8; }
+.bb-quote cite { display: block; margin-top: 12px; font-style: normal; font-size: 12px; color: var(--muted); }
+#person .bb-lead { margin: 18px 0 0; }
+.bb-vision { padding: 32px; border: 1px solid rgba(43, 179, 173, 0.5); background: linear-gradient(140deg, rgba(43, 179, 173, 0.18), rgba(43, 179, 173, 0.03) 70%), var(--bg-card); }
+.bb-vision p { font-size: 15px; line-height: 1.95; }
+.bb-vision .bb-vision-main { margin-bottom: 14px; font-size: clamp(19px, 2.2vw, 26px); font-weight: 900; line-height: 1.55; }
+.bb-vision .bb-vision-note { margin-top: 12px; font-size: 12px; color: var(--muted); }
+.bb-dl dd a { margin-left: 8px; font-size: 13px; }
+
+/* ---------- 06 WORK ---------- */
 .bb-direct { margin: 26px auto 0; max-width: 560px; padding: 20px 24px; border: 1px solid #2bb3ad; background: rgba(43, 179, 173, 0.1); }
 .bb-direct strong { display: block; font-size: 17px; font-weight: 900; color: #2bb3ad; }
 .bb-direct p { margin-top: 8px; font-size: 15px; line-height: 1.8; font-weight: 700; }
@@ -85,5 +104,9 @@
   .bb-nba-logo img { height: 100px; }
   .bb-feature-txt { padding: 22px 20px; }
   .bb-dl div { grid-template-columns: 6.5em 1fr; }
+  .bb-pp { grid-template-columns: 1fr; }
+  .bb-pp-card { padding: 22px 20px; }
+  .bb-quote { padding: 20px 18px; }
+  .bb-vision { padding: 24px 20px; }
   .bb-direct { padding: 18px 16px; }
 }
