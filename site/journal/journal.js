@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "821-porzingis-warriors-withhold-pay.html",
+    cat: "NBA",
+    title: "ポルジンギス、ウォリアーズが今季分2000万ドルの支払いを停止 —— 2月11日までトレード模索継続、本人は引退に傾く",
+    excerpt: "ゴールデンステート・ウォリアーズは、無期限離脱中のクリスタプス・ポルジンギスについて「職務を履行していない」と判断し、今季分の年俸2000万ドルの支払いを停止していることが、ESPNのシャムズ・シャラニア記者とアンソニー・スレーター記者の報道で明らかになった。球団は来年2月11日のトレード期限前ならいつでも契約を動かせるとし、模索を続ける方針。31歳の本人はNBAでのキャリアに幕を引く意向に傾いているという。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "820-nike-zoom-hyperflight-safari.html",
     cat: "KICKS",
     title: "Nike Zoom Hyperflight「Safari」が2026年ホリデー発売へ —— 品番IZ2573-010、バスケアーカイブの再始動",
