@@ -1,0 +1,32 @@
+/* STARTING 5IVE メンバー個人ページ共通: オープニング（2026-11-04）
+   - <html class="s5-intro-on"> の時だけ表示（head の1行スクリプトが付ける。reduced-motion・2回目以降は付かない）
+   - JS が読めない・動かない時の保険: 9秒で自動的に消える（s5IntroFailsafe）。JS が動けば .live で保険を止めて自分で制御する */
+.s5-intro { display: none; }
+.s5-intro-on { overflow: hidden; }
+.s5-intro-on .s5-intro {
+  display: block; position: fixed; inset: 0; z-index: 9999; overflow: hidden;
+  background: #050505; color: #fff; cursor: pointer; -webkit-tap-highlight-color: transparent;
+  animation: s5IntroFailsafe 0.5s ease 9s forwards;
+}
+.s5-intro-on .s5-intro.live { animation: none; }
+.s5-intro.out { opacity: 0; transition: opacity 0.55s ease; pointer-events: none; }
+@keyframes s5IntroFailsafe { to { opacity: 0; visibility: hidden; pointer-events: none; } }
+
+.s5-intro canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+.s5-intro .lay { position: absolute; inset: 0; pointer-events: none; }
+/* 映画っぽさ: 周辺減光＋フィルムグレイン */
+.s5-intro .vig { position: absolute; inset: 0; pointer-events: none; background: radial-gradient(120% 90% at 50% 50%, transparent 55%, rgba(0, 0, 0, 0.62) 100%); }
+.s5-intro .grain {
+  position: absolute; inset: -50%; pointer-events: none; opacity: 0.09; mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  animation: s5Grain 0.5s steps(4) infinite;
+}
+@keyframes s5Grain { 0% { transform: translate(0, 0); } 25% { transform: translate(-7%, 4%); } 50% { transform: translate(5%, -6%); } 75% { transform: translate(-3%, -2%); } 100% { transform: translate(6%, 5%); } }
+.s5-intro .hint {
+  position: absolute; right: 20px; bottom: 18px; font-family: var(--font-display, "Archivo Black", sans-serif);
+  font-size: 11px; letter-spacing: 0.3em; color: rgba(255, 255, 255, 0.55); pointer-events: none;
+}
+.s5-intro .ld { position: absolute; left: 50%; top: 50%; width: 120px; height: 1px; margin-left: -60px; background: rgba(255, 255, 255, 0.15); overflow: hidden; }
+.s5-intro .ld::after { content: ""; position: absolute; inset: 0; background: #fff; transform-origin: left; animation: s5Ld 1.2s ease-in-out infinite; }
+.s5-intro.live .ld { display: none; }
+@keyframes s5Ld { 0% { transform: scaleX(0); } 60% { transform: scaleX(1); opacity: 1; } 100% { transform: scaleX(1); opacity: 0; } }
