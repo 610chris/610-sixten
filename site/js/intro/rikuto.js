@@ -4,7 +4,7 @@
    → ③ タイプ文字 → ④ 実写写真のディゾルブ（選手名のタイプ文字・横の光）→ ⑤ 白飛び→炎の寄り→光の筋
    → ⑥ 立体ロゴ（銀の板に「RIKUTO」の抜き・奥に写真）の表面を飛び、引きながら正面へ → 抜きの中がオレンジで確定
    色: マーベルの赤 → ニックスのオレンジ、差し色に青。文字に縁取りは付けない（抜きだけ）
-   写真: Wikimedia Commons（作者・ライセンスはページ下部のクレジット）＋ STARTING 5IVE のリクト写真
+   写真: Wikimedia Commons（作者・ライセンスはページ下部のクレジット）＋ スプリーウェル（ニックス時代）＋ リクト本人の写真（Instagram @rikutoaf）
    Canvas 2D だけで描く（立体は縦の短冊に分けた透視で近似）。演出は時刻 t の純関数 → ?introt=秒 で止めて確認できる */
 import { runIntro, clamp, prog, easeOut, easeIn, easeInOut, rand } from './core.js';
 
@@ -13,7 +13,9 @@ const BASE = '../../assets/s5/rikuto/intro/';
 const FILES = {
   brunson: 'brunson.webp', champ: 'champ.webp', ewing: 'ewing88.webp', frazier: 'frazier.webp', lin: 'lin.webp',
   melo: 'melo.webp', msg68: 'msg1968.webp', msg: 'msggame.webp', reed: 'reed.webp', times: 'times.webp',
-  rikuto: '../../member-rikuto.jpg',
+  spree: 'sprewell.webp',
+  // リクト本人（本人の Instagram @rikutoaf より・文字入りの YouTube サムネは使わない）
+  rikuto: 'rikuto-hoodie.webp', rikuto2: 'rikuto-allen.webp', rikuto3: 'rikuto-shake.webp',
 };
 // 写真ごとの「ピントを合わせる点」（横, 縦 を 0〜1）
 const FOC = {
@@ -27,7 +29,10 @@ const FOC = {
   msg: { court: [0.5, 0.6], board: [0.92, 0.12] },
   reed: { ball: [0.62, 0.08], face: [0.38, 0.33], leg: [0.35, 0.85] },
   times: { board: [0.62, 0.35], crowd: [0.5, 0.85] },
-  rikuto: { face: [0.33, 0.42], eye: [0.32, 0.36] },
+  spree: { face: [0.5, 0.52], fist: [0.28, 0.36], jersey: [0.55, 0.88] },
+  rikuto: { face: [0.3, 0.42], eye: [0.3, 0.36] },
+  rikuto2: { face: [0.86, 0.32], trophy: [0.12, 0.55] },
+  rikuto3: { face: [0.25, 0.32], hand: [0.44, 0.68] },
 };
 const ORANGE = '#f58426', BLUE = '#2f6bd8';
 const TONE = { orange: '#f58426', blue: '#2f6bd8', teal: '#1d8fb8' };
@@ -45,7 +50,8 @@ const PRINT = [
 // 実写: [写真, ピント, 寄り, トーン, 名前]
 const LIVE = [
   ['frazier', 'face', 1.3, 'blue', 'CLYDE'], ['melo', 'face', 1.25, 'orange', 'MELO'], ['msg68', 'court', 1.2, 'teal', 'THE GARDEN'],
-  ['lin', 'play', 1.25, 'blue', 'LINSANITY'], ['reed', 'face', 1.3, 'orange', 'THE CAPTAIN'], ['brunson', 'face', 1.35, 'blue', 'BRUNSON'],
+  ['lin', 'play', 1.25, 'blue', 'LINSANITY'], ['reed', 'face', 1.3, 'orange', 'THE CAPTAIN'], ['spree', 'face', 1.3, 'teal', 'SPREE'],
+  ['brunson', 'face', 1.35, 'blue', 'BRUNSON'],
   ['champ', 'trophy', 1.3, 'orange', 'NEW YORK'], ['rikuto', 'face', 1.25, 'blue', 'RIKUTO'],
 ];
 const FIRE = [['brunson', 'ball', 2.4], ['melo', 'band', 2.6]];
@@ -54,6 +60,7 @@ const HOLE = [
   ['melo', 'face', 1.5], ['frazier', 'face', 1.4], ['msg68', 'court', 1.2], ['brunson', 'face', 1.5], ['reed', 'face', 1.4],
   ['lin', 'player', 1.4], ['times', 'board', 1.2], ['champ', 'trophy', 1.4], ['melo', 'num', 1.3], ['ewing', 'text', 1.3],
   ['rikuto', 'face', 1.3], ['msg', 'court', 1.2], ['brunson', 'ball', 1.5], ['reed', 'ball', 1.5], ['frazier', 'eye', 2.0], ['champ', 'face', 1.4],
+  ['spree', 'face', 1.5], ['rikuto2', 'face', 1.6], ['rikuto3', 'face', 1.5],
 ];
 const HOLE_TONE = ['orange', 'blue', 'orange', 'teal', 'orange', 'blue'];
 
@@ -63,7 +70,7 @@ const B_CUTS = [0.12, 0.245, 0.37, 0.49];
 const C_CUTS = makeCuts(0.49, PRINT.length, 0.085, 0.052); // 5→3フレーム@60fps に加速
 const C_END = C_CUTS[C_CUTS.length - 1];
 const D0 = C_END - 0.03, D1 = D0 + 0.3;
-const E_CUTS = makeCuts(D1 - 0.06, LIVE.length, 0.215, 0.17);
+const E_CUTS = makeCuts(D1 - 0.06, LIVE.length, 0.19, 0.152); // 9カットで8カット時と同じ尺（約1.54秒）に収める
 const E_END = E_CUTS[E_CUTS.length - 1];
 const F_T = E_END - 0.03;          // 白飛びのピーク
 const G0 = E_END, G1 = G0 + 0.27;  // 炎
