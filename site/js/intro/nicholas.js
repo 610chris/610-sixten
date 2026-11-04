@@ -110,29 +110,74 @@ function cardArt(photo) {
   let gr = g.createLinearGradient(0, 0, W, H); gr.addColorStop(0, '#2a2416'); gr.addColorStop(0.5, '#0c0b09'); gr.addColorStop(1, '#2a2416');
   g.fillStyle = gr; g.fillRect(0, 0, W, H);
   f.save(); rr(f, 0, 0, W, H, 36); f.fillStyle = '#fff'; f.fill(); f.restore();
-  // 写真
-  const px = 44, py = 44, pw = W - 88, ph = 600;
+  // 写真（モバイル系カードのように縁ぎりぎりまで大きく・上は斜めの光の帯）
+  const px = 26, py = 26, pw = W - 52, ph = 640;
   const s = Math.max(pw / photo.width, ph / photo.height), sw = pw / s, sh = ph / s;
-  g.save(); rr(g, px, py, pw, ph, 18); g.clip();
+  g.save(); rr(g, px, py, pw, ph, 22); g.clip();
   g.drawImage(photo, (photo.width - sw) / 2, 0, sw, sh, px, py, pw, ph);
-  gr = g.createLinearGradient(0, py + ph * 0.55, 0, py + ph); gr.addColorStop(0, 'rgba(12,11,9,0)'); gr.addColorStop(1, 'rgba(12,11,9,.95)');
+  gr = g.createLinearGradient(0, py, 0, py + ph); gr.addColorStop(0, 'rgba(12,11,9,.55)'); gr.addColorStop(0.28, 'rgba(12,11,9,0)'); gr.addColorStop(0.7, 'rgba(12,11,9,0)'); gr.addColorStop(1, 'rgba(12,11,9,.9)');
   g.fillStyle = gr; g.fillRect(px, py, pw, ph);
+  // 斜めのストライプ（カード地の模様）
+  g.globalAlpha = 0.07; g.strokeStyle = '#fff'; g.lineWidth = 14;
+  for (let i = -10; i < 20; i++) { g.beginPath(); g.moveTo(i * 60, py); g.lineTo(i * 60 + 300, py + ph); g.stroke(); }
+  g.globalAlpha = 1;
   g.restore();
-  f.save(); rr(f, px, py, pw, ph, 18); f.fillStyle = '#2a2a2a'; f.fill(); f.restore();
-  // 金の枠
-  g.lineWidth = 10; g.strokeStyle = GOLD; rr(g, 18, 18, W - 36, H - 36, 26); g.stroke();
-  g.lineWidth = 3; g.strokeStyle = '#fff3cc'; rr(g, px - 4, py - 4, pw + 8, ph + 8, 20); g.stroke();
-  // 左上のバッジ
-  g.fillStyle = 'rgba(0,0,0,.6)'; rr(g, 64, 64, 168, 104, 14); g.fill();
-  g.textAlign = 'left'; g.fillStyle = GOLD; g.font = '400 54px "Archivo Black", sans-serif'; g.fillText('NBA', 84, 124);
-  g.fillStyle = '#fff'; g.font = '400 17px "Archivo Black", sans-serif'; g.fillText('Y O U T U B E R', 84, 152);
-  // 名前
+  f.save(); rr(f, px, py, pw, ph, 22); f.fillStyle = '#262626'; f.fill(); f.restore();
+  // 外枠（金・二重）
+  g.lineWidth = 8; g.strokeStyle = GOLD; rr(g, 12, 12, W - 24, H - 24, 30); g.stroke();
+  g.lineWidth = 2; g.strokeStyle = '#fff3cc'; rr(g, px - 3, py - 3, pw + 6, ph + 6, 24); g.stroke();
+
+  // 左上：総合レーティング（OVR）とポジション——あえて「そこまで強くない」数字
+  g.save();
+  g.fillStyle = 'rgba(10,9,7,.72)'; rr(g, 44, 44, 132, 196, 16); g.fill();
+  g.lineWidth = 2; g.strokeStyle = 'rgba(233,196,106,.7)'; rr(g, 44, 44, 132, 196, 16); g.stroke();
   g.textAlign = 'center';
-  gr = g.createLinearGradient(0, 640, 0, 760); gr.addColorStop(0, '#ffffff'); gr.addColorStop(1, '#f1d98f');
-  g.fillStyle = gr; g.font = '400 84px "Archivo Black", sans-serif'; g.fillText('NICHOLAS', W / 2, 740);
-  g.fillStyle = GOLD; g.font = '900 42px "Noto Sans JP", sans-serif'; g.fillText('ニコラス武', W / 2, 800);
-  g.fillStyle = 'rgba(255,255,255,.75)'; g.font = '400 19px "Archivo Black", sans-serif'; g.fillText('STARTING 5IVE  ·  SINCE 2018', W / 2, 850);
+  g.fillStyle = '#fff'; g.font = '400 86px "Archivo Black", sans-serif'; g.fillText('72', 110, 132);
+  g.fillStyle = GOLD; g.font = '400 20px "Archivo Black", sans-serif'; g.fillText('OVR', 110, 160);
+  g.fillStyle = 'rgba(233,196,106,.5)'; g.fillRect(64, 176, 92, 2);
+  g.fillStyle = '#fff'; g.font = '400 30px "Archivo Black", sans-serif'; g.fillText('YT', 110, 220);
   g.restore();
+  // 右上：ランク（宝石色のタグ）
+  g.save();
+  g.textAlign = 'center';
+  gr = g.createLinearGradient(W - 196, 0, W - 44, 0); gr.addColorStop(0, '#1f8f6a'); gr.addColorStop(1, '#4fd1a5');
+  g.fillStyle = gr; rr(g, W - 196, 52, 152, 46, 23); g.fill();
+  g.fillStyle = '#04140e'; g.font = '400 20px "Archivo Black", sans-serif'; g.fillText('EMERALD', W - 120, 83);
+  g.fillStyle = 'rgba(255,255,255,.85)'; g.font = '400 15px "Archivo Black", sans-serif'; g.fillText('S5 · SINCE 2018', W - 120, 124);
+  g.restore();
+
+  // 下：名前プレート
+  const ny = py + ph - 118;
+  g.save();
+  g.fillStyle = 'rgba(8,8,7,.88)'; g.fillRect(px, ny, pw, 118);
+  g.fillStyle = GOLD; g.fillRect(px, ny, pw, 4);
+  g.textAlign = 'left';
+  gr = g.createLinearGradient(0, ny + 20, 0, ny + 80); gr.addColorStop(0, '#ffffff'); gr.addColorStop(1, '#f1d98f');
+  g.fillStyle = gr; g.font = '400 64px "Archivo Black", sans-serif'; g.fillText('NICHOLAS', px + 30, ny + 74);
+  g.fillStyle = GOLD; g.font = '900 30px "Noto Sans JP", sans-serif'; g.fillText('ニコラス武', px + 32, ny + 108);
+  g.textAlign = 'right'; g.fillStyle = 'rgba(255,255,255,.6)'; g.font = '400 16px "Archivo Black", sans-serif'; g.fillText('NBA YOUTUBER', px + pw - 28, ny + 106);
+  g.restore();
+
+  // 一番下：能力値6つ（どれも60〜70台）
+  const stats = [['OUT', 74], ['INS', 66], ['ATH', 61], ['PLY', 77], ['DEF', 63], ['REB', 58]];
+  const sy = py + ph + 24, cw = pw / stats.length;
+  g.save(); g.textAlign = 'center';
+  stats.forEach(([k, v], i) => {
+    const cx = px + cw * i + cw / 2;
+    if (i) { g.fillStyle = 'rgba(233,196,106,.25)'; g.fillRect(px + cw * i, sy + 6, 2, 150); }
+    g.fillStyle = 'rgba(255,255,255,.62)'; g.font = '400 20px "Archivo Black", sans-serif'; g.fillText(k, cx, sy + 38);
+    g.fillStyle = '#fff'; g.font = '400 50px "Archivo Black", sans-serif'; g.fillText(String(v), cx, sy + 96);
+    // 数値バー（色は数値で変える：70以上=緑 / 60台=黄 / 50台=橙）
+    const col = v >= 70 ? '#4fd1a5' : v >= 60 ? '#e9c46a' : '#e07a3a';
+    g.fillStyle = 'rgba(255,255,255,.12)'; rr(g, cx - 34, sy + 116, 68, 8, 4); g.fill();
+    g.fillStyle = col; rr(g, cx - 34, sy + 116, 68 * v / 99, 8, 4); g.fill();
+  });
+  g.restore();
+  g.restore();
+  // ホロの効き：縁は強く・名前プレートと能力値欄はほぼ効かせない（数字を読ませる）
+  f.save();
+  f.fillStyle = '#141414'; f.fillRect(px, ny, pw, 118); f.fillRect(px, py + ph, pw, H - py - ph - 26);
+  f.restore();
   return [c, m];
 }
 
