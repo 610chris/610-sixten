@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "810-bape-adidas-crazy-energy-plus.html",
+    cat: "KICKS",
+    title: "BAPE × adidas Crazy Energy Plus、ジェイレン・ウィリアムズが主役のキャンペーン始動 —— 品番KH8660",
+    excerpt: "adidasはバスケットボールシューズ「Crazy Energy Plus」のBAPEコラボキャンペーンを始動した。主役を務めるのはサンダーのジェイレン・ウィリアムズ。シルバーカモのアッパーに紫カモのアパレル、Baby Milo小物を合わせた一式で、品番はKH8660。Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "809-nike-gt-cut-4-baja-blast.html",
+    cat: "KICKS",
+    title: "Nike Zoom GT Cut 4 新色「Baja Blast」—— ペイジ・ベッカーズの次期シグネチャーカラー、品番IX2113-300",
+    excerpt: "ペイジ・ベッカーズのシグネチャーモデル「Nike Zoom GT Cut 4」に、新色「Baja Blast」が登場する。今季すでに発売された「Shirley Buckets」に続く一足で、品番はIX2113-300。発売日・価格は本稿時点で非公開。Sneaker Newsが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "808-mavericks-dumont-controlling-owner.html",
     cat: "NBA",
     title: "マーベリックス、デュモン家が株式69%の支配株主に —— アデルソン家の保有株を買収、新アリーナ計画は継続",
