@@ -2,7 +2,7 @@
    使い方: runIntro({ key, duration, gl: true/false, setup: async (ctx) => ({ render(t), resize?() }) })
    - 演出は「時刻 t（秒）の純関数」として書く → ?introt=2.4 でその瞬間に止めて撮影確認できる
    - WebGL が使えない／素材の読み込みが 2.5 秒を超えた時は、演出を出さずに本文へ（待たせない）
-   - タップ・クリック・Esc/Enter/Space でスキップ。sessionStorage で 1 セッション 1 回 */
+   - タップ・クリック・Esc/Enter/Space でスキップ。再読み込みのたびに毎回再生（2026-11-05 クリス指示） */
 export async function runIntro(opt) {
   const el = document.getElementById('s5-intro');
   const root = document.documentElement;
