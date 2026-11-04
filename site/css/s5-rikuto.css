@@ -1,0 +1,59 @@
+/* STARTING 5IVE メンバー個人ページ: リクト（rikuto.html 専用・brand-fx.css の後に読む） */
+
+/* ヒーロー下の SNS リンク（YouTube カードの下） */
+.rk-sns { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+.rk-sns a { display: inline-flex; align-items: baseline; gap: 10px; padding: 11px 18px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg-card); font-family: var(--font-display); font-size: 13px; letter-spacing: 0.14em; transition: border-color 0.2s, color 0.2s; }
+.rk-sns a:hover { border-color: #2bb3ad; color: #2bb3ad; }
+.rk-sns a small { font-family: var(--font-body); font-size: 12px; font-weight: 700; letter-spacing: 0.02em; color: var(--muted); }
+
+/* 01 PROFILE */
+.rk-lead { max-width: 760px; font-size: 15px; line-height: 2; }
+.rk-lead + .rk-lead { margin-top: 14px; }
+.rk-facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin: 36px 0 0; padding: 0; border: 1px solid var(--line); background: var(--line); }
+.rk-facts div { padding: 20px 22px; background: var(--bg-card); min-width: 0; }
+.rk-facts dt { font-family: var(--font-display); font-size: 11px; letter-spacing: 0.22em; color: #2bb3ad; }
+.rk-facts dd { margin: 8px 0 0; font-size: 15px; font-weight: 700; line-height: 1.6; }
+.rk-facts dd small { display: block; margin-top: 2px; font-size: 12px; font-weight: 500; color: var(--muted); }
+.rk-src { margin-top: 18px; font-size: 12px; line-height: 1.8; color: var(--muted); }
+.rk-src a { text-decoration: underline; }
+.rk-src a:hover { color: #2bb3ad; }
+
+/* 02 NOW: 発信の一時休止のお知らせ */
+.rk-notice { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 20px 28px; align-items: start; padding: 32px 34px; border: 1px solid var(--line); border-left: 3px solid #2bb3ad; background: radial-gradient(520px circle at 100% 0%, rgba(43, 179, 173, 0.12), transparent 60%), var(--bg-card); }
+.rk-notice .tag { font-family: var(--font-display); font-size: 12px; letter-spacing: 0.24em; padding: 6px 12px; border: 1px solid #2bb3ad; color: #2bb3ad; white-space: nowrap; }
+.rk-notice p { font-size: 15px; line-height: 1.9; }
+.rk-notice p + p { margin-top: 10px; }
+.rk-notice .rk-src { margin-top: 14px; }
+
+/* 03 VIDEOS: 出演動画（.s5-vids / .yt-lite を流用） */
+.rk-vids .s5-vid .v { line-height: 1.6; }
+.rk-vids-note { margin-top: 22px; font-size: 12px; line-height: 1.8; color: var(--muted); }
+
+/* 04 HISTORY: 年表 */
+.rk-time { list-style: none; margin: 0; padding: 0; border-left: 1px solid var(--line); }
+.rk-time li { position: relative; display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 6px 24px; padding: 0 0 30px 30px; }
+.rk-time li:last-child { padding-bottom: 0; }
+.rk-time li::before { content: ''; position: absolute; left: -5px; top: 7px; width: 9px; height: 9px; border-radius: 50%; background: #2bb3ad; box-shadow: 0 0 0 4px rgba(43, 179, 173, 0.18); }
+.rk-time .y { font-family: var(--font-display); font-size: 18px; line-height: 1.3; letter-spacing: 0.06em; color: #2bb3ad; }
+.rk-time .y small { font-size: 0.7em; }
+.rk-time h3 { font-size: 16px; font-weight: 900; line-height: 1.6; }
+.rk-time p { margin-top: 4px; font-size: 14px; line-height: 1.8; color: var(--muted); }
+.rk-time a { color: #2bb3ad; font-weight: 700; }
+.rk-time a:hover { text-decoration: underline; }
+
+/* 依頼セクション: 受け付けていない表示 */
+.rk-off { display: flex; justify-content: center; margin-top: 26px; }
+.rk-off .s5-solo-off .tip { left: 50%; transform: translate(-50%, -4px); }
+.rk-off .s5-solo-off:hover .tip, .rk-off .s5-solo-off:focus .tip { transform: translate(-50%, 0); }
+
+@media (max-width: 1000px) {
+  .rk-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 760px) {
+  .rk-facts { grid-template-columns: minmax(0, 1fr); margin-top: 28px; }
+  .rk-facts div { padding: 16px 18px; }
+  .rk-notice { grid-template-columns: minmax(0, 1fr); padding: 24px 20px; gap: 14px; }
+  .rk-notice .tag { justify-self: start; }
+  .rk-time li { grid-template-columns: minmax(0, 1fr); padding-left: 22px; }
+  .rk-time .y { font-size: 16px; }
+}
