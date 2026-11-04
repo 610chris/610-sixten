@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "815-torsten-loibl-online-clinic.html",
+    cat: "JAPAN",
+    title: "シュート練習を「試合で生み出す力」へ —— トーステン・ロイブル氏のオンライン講習を11月25日に開催",
+    excerpt: "育成年代のバスケットボール指導を学ぶオンライン講習「Torsten Loibl ONLINE CLINIC Vol.2」が、11月25日（水）20:00〜21:30（日本時間）にZoomで開かれる。主催はRiot Basketball Academy（RBA）。テーマは、育成年代を含む指導現場でのシューター育成と、現代バスケットボールにおけるシューターの活かし方。講義は英語で行われ、日本語の逐次通訳を含む90分となる。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-815-hero.jpg?v=a893677341"
+  },
+  {
     href: "814-nba-docomo-november-schedule.html",
     cat: "NBA",
     title: "「NBA docomo」11月の配信試合が決定 —— 八村塁出場のクリッパーズvsスパーズ含む全74試合、Emirates NBA Cupも配信",

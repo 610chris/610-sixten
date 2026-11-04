@@ -2,9 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sixten.jp/</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-11-04</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-11-04</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sixten.jp/journal/815-torsten-loibl-online-clinic.html</loc><lastmod>2026-11-04T21:57:16+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/814-nba-docomo-november-schedule.html</loc><lastmod>2026-11-04T18:56:35+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/813-puma-mb06-lafrance-stranger-things.html</loc><lastmod>2026-11-04T15:31:43+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/812-nba-title-mvp-race-wide-open.html</loc><lastmod>2026-11-04T10:02:45+09:00</lastmod><priority>0.8</priority></url>
