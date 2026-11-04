@@ -2,57 +2,6 @@
    アクセント: STARTING 5IVE のティール #2bb3ad ＋ 差し色ピンク #ff4f9a */
 .hl-page { --hl-t: #2bb3ad; --hl-p: #ff4f9a; }
 
-/* ============ オープニング: 戦術ボード ============ */
-.hl-intro { display: none; }
-.hl-intro-on .hl-intro {
-  display: grid; place-items: center; position: fixed; inset: 0; z-index: 300;
-  background: radial-gradient(900px circle at 50% 40%, #16302e, #0b1110 70%);
-  cursor: pointer; animation: hlOut 0.45s ease 2.7s forwards;
-}
-.hl-intro.skip { animation: hlOut 0.25s ease forwards; }
-@keyframes hlOut { to { opacity: 0; visibility: hidden; } }
-.hl-board { position: relative; width: min(88vw, 560px); }
-.hl-board svg { display: block; width: 100%; height: auto; overflow: visible; }
-.hl-board .court { fill: none; stroke: rgba(242, 240, 235, 0.55); stroke-width: 3; stroke-linecap: round; }
-.hl-board .court-wrap { animation: hlFade 0.35s ease both, hlDim 0.4s ease 1.75s forwards; }
-.hl-board .play { fill: none; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1; stroke-dashoffset: 1; }
-.hl-board .play.t { stroke: var(--hl-t); }
-.hl-board .play.p { stroke: var(--hl-p); }
-.hl-board .play.w { stroke: #f2f0eb; stroke-width: 3; }
-.hl-board .l1 { animation: hlDraw 0.7s ease-in-out 0.4s forwards; }
-.hl-board .l2 { animation: hlDraw 0.8s ease-in-out 0.55s forwards; }
-.hl-board .l3 { animation: hlDraw 0.35s ease-out 1.25s forwards; }
-.hl-board .arrow { opacity: 0; fill: #f2f0eb; animation: hlFade 0.15s ease 1.55s forwards; }
-@keyframes hlDraw { to { stroke-dashoffset: 0; } }
-@keyframes hlFade { from { opacity: 0; } to { opacity: 1; } }
-@keyframes hlDim { to { opacity: 0.22; } }
-.hl-board .pc text { font-family: "Archivo Black", sans-serif; font-size: 18px; text-anchor: middle; dominant-baseline: central; }
-.hl-board .pc.o circle { fill: #0b1110; stroke: var(--hl-t); stroke-width: 3.5; }
-.hl-board .pc.o text { fill: var(--hl-t); }
-.hl-board .pc.x text { fill: var(--hl-p); font-size: 30px; }
-/* 駒の動き（座標は viewBox の単位） */
-.hl-board .o1 { transform: translate(300px, 470px); animation: hlO1 0.7s ease-in-out 0.4s forwards; }
-.hl-board .o2 { transform: translate(110px, 300px); animation: hlO2 0.8s ease-in-out 0.55s forwards; }
-.hl-board .o3 { transform: translate(500px, 250px); }
-.hl-board .x1 { transform: translate(300px, 420px); animation: hlX1 0.7s ease-in-out 0.45s forwards; }
-.hl-board .x2 { transform: translate(150px, 270px); animation: hlX2 0.8s ease-in-out 0.6s forwards; }
-.hl-board .x3 { transform: translate(470px, 220px); animation: hlX3 0.6s ease-in-out 0.9s forwards; }
-.hl-board .ball { opacity: 0; transform: translate(430px, 370px); animation: hlBall 0.35s ease-out 1.25s forwards; }
-.hl-board .ball circle { fill: #ff8a3c; }
-@keyframes hlO1 { to { transform: translate(430px, 370px); } }
-@keyframes hlO2 { 50% { transform: translate(230px, 190px); } to { transform: translate(300px, 120px); } }
-@keyframes hlX1 { to { transform: translate(400px, 340px); } }
-@keyframes hlX2 { 50% { transform: translate(250px, 230px); } to { transform: translate(320px, 160px); } }
-@keyframes hlX3 { to { transform: translate(430px, 210px); } }
-@keyframes hlBall { 0% { opacity: 1; transform: translate(430px, 370px); } to { opacity: 1; transform: translate(300px, 120px); } }
-/* 名前 */
-.hl-name { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; pointer-events: none; }
-.hl-name b { display: block; font-family: "Archivo Black", var(--font-display); font-weight: 400; font-size: clamp(38px, 11vw, 76px); letter-spacing: 0.04em; line-height: 1; color: #f2f0eb; }
-.hl-name b span { display: inline-block; opacity: 0; transform: translateY(18px); animation: hlChar 0.45s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; animation-delay: calc(1.75s + var(--i) * 40ms); }
-.hl-name small { display: block; margin-top: 14px; font-family: "Archivo Black", var(--font-display); font-size: clamp(10px, 2.6vw, 13px); letter-spacing: 0.3em; color: var(--hl-t); opacity: 0; animation: hlFade 0.4s ease 2.15s forwards; }
-@keyframes hlChar { to { opacity: 1; transform: none; } }
-.hl-skip { position: absolute; right: 18px; bottom: 18px; font-family: "Archivo Black", var(--font-display); font-size: 11px; letter-spacing: 0.24em; color: rgba(242, 240, 235, 0.5); }
-
 /* ============ ヒーロー ============ */
 .hl-page .s5-pf-top { position: relative; overflow: hidden; }
 .hl-page .s5-pf-top::before {
