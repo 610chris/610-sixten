@@ -1,0 +1,89 @@
+/* バンバ個人ページ専用（media/starting5ive/bamba.html だけで読む・2026-11-04）
+   共通の .s5-pf-* / .s5-* は brand-fx.css。ここは bb- 接頭辞の追加部品だけ。 */
+
+/* ---------- HERO ---------- */
+.bb-top { background: radial-gradient(900px circle at 85% 0%, rgba(43, 179, 173, 0.14), transparent 60%); }
+.bb-ph { position: relative; }
+.bb-ph-tag { position: absolute; left: 0; bottom: 0; padding: 8px 14px; background: #2bb3ad; color: #0a0a0a; font-family: var(--font-display); font-size: 13px; letter-spacing: 0.22em; }
+.s5-pf-body h1 small { word-break: break-word; }
+.bb-headline { margin-top: 18px; font-family: var(--font-display); font-size: clamp(30px, 4.6vw, 48px); line-height: 1.1; letter-spacing: 0.06em; color: #2bb3ad; }
+.bb-top .s5-pf-body .role { margin-top: 8px; }
+
+.bb-nba-badge { display: inline-flex; align-items: center; gap: 14px; margin-top: 18px; padding: 10px 18px 10px 12px; border: 1px solid var(--line); background: var(--bg-card); transition: border-color 0.25s; max-width: 100%; }
+.bb-nba-badge:hover { border-color: #2bb3ad; }
+.bb-nba-badge img { flex: none; width: auto; height: 46px; padding: 4px 6px; background: #fff; }
+.bb-nba-badge b { display: block; font-family: var(--font-display); font-weight: 400; font-size: 12px; letter-spacing: 0.18em; color: #2bb3ad; }
+.bb-nba-badge span { font-size: 14px; font-weight: 700; line-height: 1.5; }
+
+.bb-stats { list-style: none; margin: 26px 0 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border: 1px solid var(--line); background: var(--line); gap: 1px; }
+.bb-stats li { padding: 16px 14px; background: var(--bg-card); min-width: 0; }
+.bb-stats strong { display: block; font-family: var(--font-display); font-weight: 400; font-size: clamp(24px, 2.6vw, 32px); line-height: 1; letter-spacing: 0.02em; white-space: nowrap; }
+.bb-stats strong small { margin-left: 2px; font-family: var(--font-body, "Noto Sans JP", sans-serif); font-size: 0.42em; font-weight: 900; }
+.bb-stats span { display: block; margin-top: 8px; font-size: 11px; color: var(--muted); letter-spacing: 0.04em; }
+
+.bb-sns { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 18px; }
+.bb-sns a { padding: 9px 16px; border: 1px solid var(--line); border-radius: 999px; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.16em; transition: border-color 0.2s, background 0.2s, color 0.2s; }
+.bb-sns a:hover { border-color: var(--text); background: var(--text); color: #0a0a0a; }
+.bb-sns a.yt { border-color: #ff0033; }
+.bb-sns a.yt:hover { background: #ff0033; color: #fff; }
+
+/* ---------- 01 SPORTS MC ---------- */
+.bb-mc { display: grid; grid-template-columns: 1.3fr 1fr 1fr; gap: 14px; }
+.bb-mc-card { min-width: 0; padding: 28px 24px; border: 1px solid var(--line); background: var(--bg-card); }
+.bb-mc-card.main { background: linear-gradient(140deg, rgba(43, 179, 173, 0.22), rgba(43, 179, 173, 0.04) 70%), var(--bg-card); border-color: rgba(43, 179, 173, 0.5); }
+.bb-mc-card .k { display: block; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.22em; color: #2bb3ad; }
+.bb-mc-card h3 { margin-top: 12px; font-size: clamp(18px, 1.8vw, 22px); font-weight: 900; line-height: 1.45; }
+.bb-mc-card p { margin-top: 12px; font-size: 14px; line-height: 1.85; opacity: 0.88; }
+
+.bb-profile { margin-top: 40px; display: grid; grid-template-columns: 1.1fr 1fr; gap: 40px; align-items: start; }
+.bb-h3 { font-family: var(--font-display); font-weight: 400; font-size: 13px; letter-spacing: 0.24em; color: var(--muted); }
+.bb-story p { margin-top: 14px; font-size: 15px; line-height: 1.95; }
+.bb-dl { margin: 0; border-top: 1px solid var(--line); }
+.bb-dl div { display: grid; grid-template-columns: 7.5em 1fr; gap: 12px; padding: 13px 0; border-bottom: 1px solid var(--line); font-size: 14px; line-height: 1.7; }
+.bb-dl dt { color: var(--muted); }
+.bb-dl dd { margin: 0; min-width: 0; }
+.bb-dl a { color: #2bb3ad; font-weight: 700; }
+
+/* ---------- 02 NBA ---------- */
+.bb-nba { display: grid; grid-template-columns: auto 1fr; gap: 32px; align-items: center; padding: 32px; border: 1px solid var(--line); background: linear-gradient(120deg, rgba(29, 66, 138, 0.28), rgba(200, 16, 46, 0.14) 80%), var(--bg-card); }
+.bb-nba-logo { display: grid; place-items: center; width: 112px; height: 168px; background: #fff; }
+.bb-nba-logo img { width: auto; height: 136px; }
+.bb-nba-txt .k { display: block; font-family: var(--font-display); font-size: 13px; letter-spacing: 0.22em; color: #2bb3ad; }
+.bb-nba-txt p { margin-top: 12px; font-size: 15px; line-height: 1.9; }
+#nba .s5-ch + .bb-nba + .s5-sub { margin-top: 56px; }
+
+.bb-feature { display: grid; grid-template-columns: 56% 1fr; gap: 0; border: 1px solid var(--line); background: var(--bg-card); }
+.bb-feature .yt-lite { border: 0; }
+.bb-feature-txt { display: grid; gap: 12px; align-content: center; padding: 28px 32px; min-width: 0; }
+.bb-feature-txt .date { font-family: var(--font-display); font-size: 13px; letter-spacing: 0.2em; color: #2bb3ad; }
+.bb-feature-txt strong { font-size: 17px; font-weight: 900; line-height: 1.6; }
+.bb-feature-txt p { margin: 0; font-size: 14px; line-height: 1.85; opacity: 0.88; }
+
+/* ---------- 03 YOUTUBE ---------- */
+.bb-lead { margin: 26px 0 28px; max-width: 760px; font-size: 15px; line-height: 1.9; }
+
+/* ---------- 05 WORK ---------- */
+.bb-direct { margin: 26px auto 0; max-width: 560px; padding: 20px 24px; border: 1px solid #2bb3ad; background: rgba(43, 179, 173, 0.1); }
+.bb-direct strong { display: block; font-size: 17px; font-weight: 900; color: #2bb3ad; }
+.bb-direct p { margin-top: 8px; font-size: 15px; line-height: 1.8; font-weight: 700; }
+
+/* ---------- レスポンシブ ---------- */
+@media (max-width: 1000px) {
+  .bb-mc { grid-template-columns: 1fr 1fr; }
+  .bb-mc-card.main { grid-column: 1 / -1; }
+  .bb-profile { grid-template-columns: 1fr; gap: 28px; }
+  .bb-feature { grid-template-columns: 1fr; }
+}
+@media (min-width: 900px) and (max-width: 1180px) {
+  .bb-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 760px) {
+  .bb-stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .bb-mc { grid-template-columns: 1fr; }
+  .bb-nba { grid-template-columns: 1fr; justify-items: start; gap: 20px; padding: 24px 20px; }
+  .bb-nba-logo { width: 84px; height: 124px; }
+  .bb-nba-logo img { height: 100px; }
+  .bb-feature-txt { padding: 22px 20px; }
+  .bb-dl div { grid-template-columns: 6.5em 1fr; }
+  .bb-direct { padding: 18px 16px; }
+}
