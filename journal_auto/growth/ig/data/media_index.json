@@ -38,6 +38,32 @@
   "product": "REELS",
   "timestamp": "2022-10-25T07:32:01+0000"
  },
+ "17870636949662594": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "811",
+  "auto": true,
+  "caption_len": 376,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、左膝治療完了で復帰プロセス開始",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfTPXMwFIYP/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Kawhi Leonard finishes knee treatment, begins return process」",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-04T01:08:06+0000"
+ },
  "17871658587645588": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2853,6 +2879,32 @@
   "template": "score",
   "timestamp": "2026-11-03T03:27:12+0000"
  },
+ "17967888954239537": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "797",
+  "auto": true,
+  "caption_len": 320,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マルカネン、スパーズ戦で22得点 ジャズは大敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfQ_vcADubq/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Jazz vs. Spurs・2026年11月2日)",
+  "subject": [
+   "Lauri Markkanen"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T04:13:03+0000"
+ },
  "17968700104782540": {
   "auto": false,
   "caption_len": 76,
@@ -2932,6 +2984,32 @@
   ],
   "template": "score",
   "timestamp": "2026-10-24T05:28:28+0000"
+ },
+ "17975743182152978": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "803",
+  "auto": true,
+  "caption_len": 314,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン「悪くなかったよ」ファンのワインを一口",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfRh3BeFeAK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T09:11:22+0000"
  },
  "17976228072170523": {
   "arms": {
@@ -4166,6 +4244,32 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T03:11:48+0000"
+ },
+ "18041598611646935": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "812",
+  "auto": true,
+  "caption_len": 331,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー四重苦、タイトル&MVP争いが大混戦に",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfTPisUgJU6/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「Wide-open title and MVP races」(Zach Kram)",
+  "subject": [
+   "Shai Gilgeous-Alexander|Nikola Jokic|Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-04T01:09:47+0000"
  },
  "18045512462819493": {
   "arms": {
@@ -5445,6 +5549,32 @@
   "template": "news",
   "timestamp": "2026-09-29T19:48:54+0000"
  },
+ "18096128156170126": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "801",
+  "auto": true,
+  "caption_len": 338,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "イマニュエル・クイックリーがクリッパーズ戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfRNVbMigZm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Raptors vs. Clippers・2026年11月2日)",
+  "subject": [
+   "Immanuel Quickley"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T06:12:00+0000"
+ },
  "18097125089452713": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -6529,6 +6659,33 @@
   "template": "news",
   "timestamp": "2026-10-18T23:01:08+0000"
  },
+ "18110783423621287": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "802",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス「今じゃない、オールタイムだ」42得点ドンチッチを絶賛",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfRhrt3Dt86/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Giannis Antetokounmpo",
+   "Luka Doncic"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T09:09:40+0000"
+ },
  "18110850814901748": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -6970,6 +7127,30 @@
   ],
   "template": "news",
   "timestamp": "2026-11-03T00:57:38+0000"
+ },
+ "18114120734173877": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "808",
+  "auto": true,
+  "caption_len": 420,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マーベリックス、デュモン家が株式69%の支配株主に",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfTJyXFlQ-6/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「Dumonts now controlling owners of Mavs with nearly 70% share」",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-04T00:19:30+0000"
  },
  "18114505472616681": {
   "arms": {
@@ -7498,6 +7679,32 @@
   ],
   "template": "quote",
   "timestamp": "2026-09-29T11:28:33+0000"
+ },
+ "18119971471955369": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "806",
+  "auto": true,
+  "caption_len": 373,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、ダレン・テリーと2年契約で合意",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfSJ7Rgjnr0/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN（Shams Charania）",
+  "subject": [
+   "Dalen Terry"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T15:01:28+0000"
  },
  "18120112393978206": {
   "arms": {
@@ -8058,6 +8265,32 @@
   "template": "score",
   "timestamp": "2026-10-26T01:57:46+0000"
  },
+ "18127021423927379": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "805",
+  "auto": true,
+  "caption_len": 359,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ESPNが選ぶ「契約イヤー・オールスター」12人",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfR9s6yFea9/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ボビー・マークス記者）",
+  "subject": [
+   "Ty Jerome"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T13:14:39+0000"
+ },
  "18127029214851839": {
   "article": "349",
   "auto": true,
@@ -8323,6 +8556,32 @@
   ],
   "template": "news",
   "timestamp": "2026-10-20T12:03:11+0000"
+ },
+ "18131596004503270": {
+  "arms": {
+   "ig-2026-10-share-cta": "B"
+  },
+  "article": "798",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 17,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": true,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャマール・マレー、ブレイザーズ戦で35得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfRFgrzAWgR/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Nuggets vs. Trail Blazers・2026年11月2日)",
+  "subject": [
+   "Jamal Murray"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T05:03:38+0000"
  },
  "18131599642675162": {
   "article": "330",
@@ -8864,6 +9123,32 @@
   ],
   "template": "news",
   "timestamp": "2026-10-21T02:04:03+0000"
+ },
+ "18140335555724354": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "799",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ルカ・ドンチッチ、ヒート戦で42得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfRLpbBgW9v/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Lakers vs. Heat・2026年11月2日)",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-03T05:57:10+0000"
  },
  "18141379165627346": {
   "arms": {
@@ -11458,5 +11743,31 @@
   ],
   "template": "news",
   "timestamp": "2026-10-31T00:02:41+0000"
+ },
+ "18656780827031142": {
+  "arms": {
+   "ig-2026-10-share-cta": "A"
+  },
+  "article": "804",
+  "auto": true,
+  "caption_len": 368,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ニックス、開幕3勝4敗の苦しい出だし",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfR9hXIDT-8/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN（ヴィンセント・グッドウィル記者）",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-03T13:12:58+0000"
  }
 }
