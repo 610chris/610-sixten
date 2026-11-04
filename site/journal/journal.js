@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "814-nba-docomo-november-schedule.html",
+    cat: "NBA",
+    title: "「NBA docomo」11月の配信試合が決定 —— 八村塁出場のクリッパーズvsスパーズ含む全74試合、Emirates NBA Cupも配信",
+    excerpt: "NTTドコモが提供する映像配信サービス「NBA docomo」は4日、NBA2026-27シーズン11月の配信試合を発表した。レギュラーシーズン74試合全てを日本語実況・解説付きで配信し、10月31日に開幕したEmirates NBA Cupの対象試合も配信する。目玉は八村塁選手出場予定のロサンゼルス・クリッパーズと、ビクター・ウェンバンヤマが率いるサンアントニオ・スパーズの対戦(20日)。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "813-puma-mb06-lafrance-stranger-things.html",
     cat: "KICKS",
     title: "PUMA MB.06 / LaFrancé RNR「Stranger Things」が11月6日発売 —— ラメロ・ボールのシグネチャーに人気ドラマコラボ",
