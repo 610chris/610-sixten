@@ -1,0 +1,208 @@
+{
+ "_説明": "切り抜きショートIG版の投稿キュー。caption が空の行は投稿しない。止める=state を skip",
+ "collaborators": [
+  "muwe.c"
+ ],
+ "items": [
+  {
+   "id": "N01",
+   "at": "2026-11-06T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N01.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/fg0uDUCmG1Y"
+  },
+  {
+   "id": "G01",
+   "at": "2026-11-06T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G01.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/Lj281Vw-qyI"
+  },
+  {
+   "id": "N02",
+   "at": "2026-11-07T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N02.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/mWUb3Hgr2o4"
+  },
+  {
+   "id": "G02",
+   "at": "2026-11-07T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G02.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/W1dBkzrUxqo"
+  },
+  {
+   "id": "R01",
+   "at": "2026-11-08T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/R01.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/TOjpHCrfxh0"
+  },
+  {
+   "id": "N03",
+   "at": "2026-11-08T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N03.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/HMUduvPcJeU"
+  },
+  {
+   "id": "G03",
+   "at": "2026-11-09T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G03.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/C7XH0EutHU8"
+  },
+  {
+   "id": "K01",
+   "at": "2026-11-09T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/K01.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/h0P49fduvaQ"
+  },
+  {
+   "id": "N04",
+   "at": "2026-11-10T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N04.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/HEtdCejtjkQ"
+  },
+  {
+   "id": "G04",
+   "at": "2026-11-10T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G04.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/qkZd0TzaHpI"
+  },
+  {
+   "id": "R02",
+   "at": "2026-11-11T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/R02.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/TMeQfFW-hU8"
+  },
+  {
+   "id": "N05",
+   "at": "2026-11-11T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N05.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/37tlY1Dtccg"
+  },
+  {
+   "id": "G05",
+   "at": "2026-11-12T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G05.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/hulzdAvkA2s"
+  },
+  {
+   "id": "N06",
+   "at": "2026-11-12T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N06.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/IPSS9jHf5C8"
+  },
+  {
+   "id": "G06",
+   "at": "2026-11-13T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G06.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/XqgChOf-UUA"
+  },
+  {
+   "id": "K02",
+   "at": "2026-11-13T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/K02.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/wiNgamUzzis"
+  },
+  {
+   "id": "N07",
+   "at": "2026-11-14T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N07.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/pVUKko4imNw"
+  },
+  {
+   "id": "G07",
+   "at": "2026-11-14T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G07.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/qWVxlZiq6fE"
+  },
+  {
+   "id": "R03",
+   "at": "2026-11-15T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/R03.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/937FAkMNt9U"
+  },
+  {
+   "id": "N08",
+   "at": "2026-11-15T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N08.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/y2I_ESP4-C8"
+  },
+  {
+   "id": "G08",
+   "at": "2026-11-16T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G08.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/7Lc-jg5JP6k"
+  },
+  {
+   "id": "N09",
+   "at": "2026-11-16T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N09.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/vUA5aR5fv5E"
+  },
+  {
+   "id": "G09",
+   "at": "2026-11-17T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G09.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/ItllhxPmOBU"
+  },
+  {
+   "id": "N10",
+   "at": "2026-11-17T19:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/N10.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/cH8EanghM18"
+  },
+  {
+   "id": "G10",
+   "at": "2026-11-18T12:00:00+09:00",
+   "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/G10.mp4",
+   "caption": "",
+   "state": "pending",
+   "yt_url": "https://youtube.com/shorts/0kw1TamEIEo"
+  }
+ ]
+}

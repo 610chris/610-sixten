@@ -1,0 +1,34 @@
+name: Clips IG (切り抜きショートを @sixten に時刻投稿)
+# 2026-11-05 クリス指示: 切り抜きショートIG版を 1日2本(12:00/19:00 JST) @sixten に投稿・@muwe.c 共同投稿。
+# Instagram API に予約機能が無いので、ここで時刻に起動して journal_auto/clips_ig_post.py が1本ずつ出す。
+# 止めたい回は journal_auto/clips_ig_queue.json の state を "skip" にして push。
+on:
+  schedule:
+    - cron: '5 3 * * *'    # JST 12:05
+    - cron: '5 10 * * *'   # JST 19:05
+    - cron: '40 3,10 * * *' # 取りこぼし用(GitHubのcron遅延・失敗時の再試行)
+  workflow_dispatch:
+
+concurrency:
+  group: clips-ig
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post due reel
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+        run: python3 journal_auto/clips_ig_post.py
+      - name: Save queue
+        run: |
+          git config user.name "clips-ig-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add journal_auto/clips_ig_queue.json
+          git diff --cached --quiet && exit 0
+          git commit -m "clips-ig: 投稿記録"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
