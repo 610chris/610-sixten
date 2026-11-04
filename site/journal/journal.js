@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "812-nba-title-mvp-race-wide-open.html",
+    cat: "NBA",
+    title: "サンダー四重苦、ニックス・スパーズも苦戦 —— 開幕2週間でタイトル・MVP争いが大混戦に",
+    excerpt: "開幕前の優勝候補サンダー・ニックス・スパーズが、ジェイレン・ウィリアムズやチェット・ホルムグレンらの大怪我・苦戦で失速。ESPNの優勝確率(BPI)は3強合計58%から38%まで低下した。MVP戦線も連続受賞中のニコラ・ヨキッチとシェイ・ギルジャス・アレクサンダーが数字を落とし、ビクター・ウェンバンヤマが有力候補に浮上している。ESPNのザック・クラム記者らが分析した。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "811-kawhi-leonard-knee-return-process.html",
+    cat: "NBA",
+    title: "カワイ・レナード、左膝の治療完了 —— 復帰プロセス開始、ラプターズは1週間後に経過発表",
+    excerpt: "トロント・ラプターズは現地時間11月3日、カワイ・レナードが左膝の腫れに対する治療を終え「復帰に向けたプロセス」に入ったと発表した。今季出場はわずか2試合で、1週間後に次の経過発表が行われる。ESPNが伝えた。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "810-bape-adidas-crazy-energy-plus.html",
     cat: "KICKS",
     title: "BAPE × adidas Crazy Energy Plus、ジェイレン・ウィリアムズが主役のキャンペーン始動 —— 品番KH8660",
