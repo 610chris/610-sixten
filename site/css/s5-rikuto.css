@@ -46,10 +46,77 @@
 .rk-off .s5-solo-off .tip { left: 50%; transform: translate(-50%, -4px); }
 .rk-off .s5-solo-off:hover .tip, .rk-off .s5-solo-off:focus .tip { transform: translate(-50%, 0); }
 
+/* ヒーロー: NBA Japan / 2K Japan バッジ（bamba.html の .bb-nba-badge と同じ見せ方） */
+.rk-badges { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 18px; }
+.rk-badge { display: inline-flex; align-items: center; gap: 14px; padding: 10px 18px 10px 10px; border: 1px solid var(--line); background: var(--bg-card); transition: border-color 0.25s; max-width: 100%; min-width: 0; }
+.rk-badge:hover { border-color: #2bb3ad; }
+.rk-badge .lg { flex: none; display: grid; place-items: center; width: 46px; height: 46px; }
+.rk-badge .lg-nba { background: #fff; }
+.rk-badge .lg img { display: block; width: auto; height: 42px; }
+.rk-badge .lg-2k img { width: 46px; height: 46px; }
+.rk-badge > span:last-child { min-width: 0; font-size: 14px; font-weight: 700; line-height: 1.5; }
+.rk-badge b { display: block; font-family: var(--font-display); font-weight: 400; font-size: 12px; letter-spacing: 0.18em; color: #2bb3ad; }
+
+/* 02 OFFICIAL: NBA Japan / 2K Japan */
+.rk-ofc { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+.rk-ofc-card { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 26px; align-items: center; padding: 30px; border: 1px solid var(--line); background: var(--bg-card); }
+.rk-ofc-card.nba { background: linear-gradient(120deg, rgba(29, 66, 138, 0.28), rgba(200, 16, 46, 0.12) 80%), var(--bg-card); }
+.rk-ofc-card.k2 { background: linear-gradient(120deg, rgba(236, 28, 38, 0.22), rgba(236, 28, 38, 0.04) 80%), var(--bg-card); }
+.rk-ofc-card .lg { display: grid; place-items: center; width: 96px; height: 136px; }
+.rk-ofc-card.nba .lg { background: #fff; }
+.rk-ofc-card .lg img { display: block; width: auto; height: 112px; }
+.rk-ofc-card.k2 .lg img { width: 96px; height: 96px; }
+.rk-ofc-card .k { display: block; font-family: var(--font-display); font-size: 12px; letter-spacing: 0.22em; color: #2bb3ad; }
+.rk-ofc-card h3 { margin-top: 6px; font-size: 19px; font-weight: 900; line-height: 1.5; }
+.rk-ofc-card p { margin-top: 10px; font-size: 14px; line-height: 1.9; opacity: 0.9; }
+.rk-ofc-card p a { color: #2bb3ad; font-weight: 700; white-space: nowrap; }
+.rk-ofc-more { margin-top: 22px; }
+
+/* 03 HIP HOP: メンバー紹介回（yt-lite）＋想い */
+.rk-feature { display: grid; grid-template-columns: minmax(0, 56%) minmax(0, 1fr); border: 1px solid var(--line); background: var(--bg-card); }
+.rk-feature .yt-lite { border: 0; }
+.rk-feature-txt { display: grid; gap: 12px; align-content: center; padding: 28px 32px; min-width: 0; }
+.rk-feature-txt .date { font-family: var(--font-display); font-size: 13px; letter-spacing: 0.2em; color: #2bb3ad; }
+.rk-feature-txt strong { font-size: 17px; font-weight: 900; line-height: 1.6; }
+.rk-feature-txt p { margin: 0; font-size: 14px; line-height: 1.85; opacity: 0.88; }
+.rk-story { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin-top: 28px; border: 1px solid var(--line); background: var(--line); }
+.rk-story > div { padding: 24px 24px 26px; background: var(--bg-card); min-width: 0; }
+.rk-story h3 { font-size: 16px; font-weight: 900; line-height: 1.6; padding-left: 12px; border-left: 3px solid #2bb3ad; }
+.rk-story p { margin-top: 12px; font-size: 14px; line-height: 1.95; opacity: 0.9; }
+.rk-story-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); margin: 0 0 24px; }
+.rk-goal { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 18px 28px; align-items: start; margin-top: 28px; padding: 30px 34px; border: 1px solid var(--line); border-left: 3px solid #2bb3ad; background: radial-gradient(520px circle at 100% 0%, rgba(43, 179, 173, 0.12), transparent 60%), var(--bg-card); }
+.rk-goal .tag { font-family: var(--font-display); font-size: 12px; letter-spacing: 0.24em; padding: 6px 12px; border: 1px solid #2bb3ad; color: #2bb3ad; white-space: nowrap; }
+.rk-goal .big { font-size: clamp(17px, 2vw, 21px); font-weight: 900; line-height: 1.6; }
+.rk-goal p + p { margin-top: 10px; font-size: 14px; line-height: 1.9; opacity: 0.9; }
+
+/* 07 ACTIVITY: 締めの言葉 */
+.rk-quote { margin: 0 0 28px; padding: 26px 30px; border: 1px solid var(--line); background: var(--bg-card); font-size: 16px; font-weight: 700; line-height: 1.9; }
+.rk-quote span { display: block; margin-top: 4px; font-family: var(--font-display); font-weight: 400; letter-spacing: 0.12em; color: #2bb3ad; }
+.rk-quote .by { display: block; margin-top: 10px; font-size: 12px; font-weight: 500; color: var(--muted); }
+
+/* 05 VIDEOS: 3本 */
+.rk-vids { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.rk-vids-note a { color: #2bb3ad; text-decoration: underline; }
+
 @media (max-width: 1000px) {
   .rk-facts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .rk-ofc { grid-template-columns: minmax(0, 1fr); }
+  .rk-story { grid-template-columns: minmax(0, 1fr); }
+  .rk-feature { grid-template-columns: minmax(0, 1fr); }
+  .rk-vids { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 760px) {
+  .rk-ofc-card { grid-template-columns: minmax(0, 1fr); justify-items: start; gap: 18px; padding: 24px 20px; }
+  .rk-ofc-card .lg { width: 72px; height: 102px; }
+  .rk-ofc-card .lg img { height: 84px; }
+  .rk-ofc-card.k2 .lg img { width: 72px; height: 72px; }
+  .rk-feature-txt { padding: 22px 20px; }
+  .rk-story > div { padding: 20px 18px 22px; }
+  .rk-story-2 { grid-template-columns: minmax(0, 1fr); }
+  .rk-goal { grid-template-columns: minmax(0, 1fr); padding: 24px 20px; gap: 14px; }
+  .rk-goal .tag { justify-self: start; }
+  .rk-quote { padding: 22px 20px; font-size: 15px; }
+  .rk-vids { grid-template-columns: minmax(0, 1fr); }
   .rk-facts { grid-template-columns: minmax(0, 1fr); margin-top: 28px; }
   .rk-facts div { padding: 16px 18px; }
   .rk-notice { grid-template-columns: minmax(0, 1fr); padding: 24px 20px; gap: 14px; }
