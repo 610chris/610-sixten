@@ -689,6 +689,16 @@ def media_body_hash(p: Path) -> str:
     return hashlib.sha256(t.encode("utf-8")).hexdigest()[:16]
 
 
+def media_pages() -> list[Path]:
+    """media/*.html と、STARTING 5IVE メンバー個人ページ media/starting5ive/*.html(2026-11-04 追加)"""
+    return sorted((SITE / "media").glob("*.html")) + sorted((SITE / "media" / "starting5ive").glob("*.html"))
+
+
+def media_key(m: Path) -> str:
+    """media/ からの相対パス。直下のページは従来どおりファイル名だけ(media_lastmod.json の既存キーを変えない)"""
+    return m.relative_to(SITE / "media").as_posix()
+
+
 def media_lastmods() -> dict[str, str]:
     try:
         store = json.loads(MEDIA_LASTMOD.read_text(encoding="utf-8"))
@@ -697,13 +707,14 @@ def media_lastmods() -> dict[str, str]:
     today = dt.datetime.now(JST).date().isoformat()
     out: dict[str, str] = {}
     new_store: dict[str, dict] = {}
-    for m in sorted((SITE / "media").glob("*.html")):
+    for m in media_pages():
+        k = media_key(m)
         h = media_body_hash(m)
-        rec = store.get(m.name) or {}
+        rec = store.get(k) or {}
         if rec.get("hash") != h or not rec.get("lastmod"):
             rec = {"hash": h, "lastmod": today}
-        new_store[m.name] = rec
-        out[m.name] = rec["lastmod"]
+        new_store[k] = rec
+        out[k] = rec["lastmod"]
     write_if_changed(MEDIA_LASTMOD, json.dumps(new_store, ensure_ascii=False, indent=2) + "\n")
     return out
 
@@ -724,8 +735,9 @@ def build_sitemap(arts: list[dict]) -> None:
     for a in arts:
         lines.append(f"  <url><loc>{a['url']}</loc><lastmod>{a.get('lastmod', a['iso'])}</lastmod><priority>0.8</priority></url>")
     media_mod = media_lastmods()
-    for m in sorted((SITE / "media").glob("*.html")):
-        lines.append(f"  <url><loc>{BASE}/media/{m.name}</loc><lastmod>{media_mod[m.name]}</lastmod><priority>0.5</priority></url>")
+    for m in media_pages():
+        k = media_key(m)
+        lines.append(f"  <url><loc>{BASE}/media/{k}</loc><lastmod>{media_mod[k]}</lastmod><priority>0.5</priority></url>")
     if (SITE / "privacy.html").exists():
         lines.append(f"  <url><loc>{BASE}/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>")
     lines.append("</urlset>\n")
@@ -811,6 +823,10 @@ def build_llms(arts: list[dict]) -> None:
         f"- [クリスのバスケ日記]({BASE}/media/chris-basketball-diary.html): NBAとバスケの「今」を毎日届ける動画メディア",
         f"- [POST UP PODCAST]({BASE}/media/postup.html): バスケにルーツを持つ人たちの物語を深掘りするトーク番組",
         f"- [STARTING 5IVE]({BASE}/media/starting5ive.html): 5人のNBAクリエイターがバスケを語り合うYouTubeチャンネル（キャンプ「Be 5IVE CAMP」も主催）",
+        f"  - [リクト（Rikuto AF）]({BASE}/media/starting5ive/rikuto.html): STARTING 5IVE メンバー。YouTube「Rikuto AF」",
+        f"  - [ハレルヤ（ハレルヤ【Be a baller】）]({BASE}/media/starting5ive/hallelujah.html): STARTING 5IVE メンバー。バスケットボールコーチ・YouTube「ハレルヤ【Be a baller】」",
+        f"  - [バンバ（Ballin' with Bamba）]({BASE}/media/starting5ive/bamba.html): STARTING 5IVE メンバー。スポーツMC・名古屋ダイヤモンドドルフィンズ アリーナMC・NBA YouTuber",
+        f"  - [ニコラス（ニコラス武ラジオ）]({BASE}/media/starting5ive/nicholas.html): STARTING 5IVE メンバー。YouTube「ニコラス武ラジオ」",
         f"- [RSSフィード]({FEED_URL})",
         f"- [サイトマップ]({BASE}/sitemap.xml)",
         "",
@@ -891,7 +907,7 @@ def version_journal_js() -> None:
 
 
 def version_html_files() -> None:
-    for p in sorted(list(SITE.glob("*.html")) + list(JOURNAL.glob("*.html")) + list(JOURNAL.glob("*/index.html")) + list((SITE / "media").glob("*.html"))):
+    for p in sorted(list(SITE.glob("*.html")) + list(JOURNAL.glob("*.html")) + list(JOURNAL.glob("*/index.html")) + media_pages()):
         write_if_changed(p, version_urls(read(p), p.parent))
 
 
