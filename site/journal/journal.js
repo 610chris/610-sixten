@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "813-puma-mb06-lafrance-stranger-things.html",
+    cat: "KICKS",
+    title: "PUMA MB.06 / LaFrancé RNR「Stranger Things」が11月6日発売 —— ラメロ・ボールのシグネチャーに人気ドラマコラボ",
+    excerpt: "プーマ ジャパンは、ラメロ・ボールのシグネチャーモデル「PUMA MB.06」とライフスタイルシューズ「LaFrancé RNR」に『ストレンジャー・シングス』とのコラボレーションモデルを2026年11月6日発売する。「MB.06 Stranger Things」(品番313625、22,000円)は紫を基調にピンクのアクセントを配し、作中のクリーチャーや謎をイメージしたディテールを採用。「LaFrancé RNR Stranger Things」(品番313928、20,900円)は紫のアッパーにピンクのシューレースを合わせ、「裏側の世界」をイメージしたグラフィックを施した。「PUMA BASKETBALL INFORMATION」第五弾として発表された。",
+    date: "2026.11.04",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "812-nba-title-mvp-race-wide-open.html",
     cat: "NBA",
     title: "サンダー四重苦、ニックス・スパーズも苦戦 —— 開幕2週間でタイトル・MVP争いが大混戦に",
