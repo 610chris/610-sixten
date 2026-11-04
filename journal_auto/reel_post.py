@@ -9,6 +9,8 @@ GitHub Actions（.github/workflows/video-build.yml）が動画を書き出した
        ⚠️Instagram Login の API は upload_type=resumable（直接アップロード）を受け付けない（400 video_url is required）
     2. コンテナの status_code が FINISHED になるまで待つ
     3. /me/media_publish で公開 → video_status.json（Release 添付）に reel_media_id を書く
+    4. 同じ動画を全画面ストーリーとしても公開 → story_media_id（2026-11-05〜・KICKS は対象外）
+       得点型（video.template=score）は share_to_feed=false＝グリッドに載せずリールタブだけ
 
 投稿しないもの:
     - JST 3:00〜6:59 に走ったぶん（深夜のニュースは朝7時にまとめて投稿する。--ignore-quiet で解除）
@@ -65,6 +67,15 @@ THUMB_BEFORE_END = 0.6  # 秒。サムネにするコマ（終わりのこれだ
 # kicks_media_id が無ければ Kicks Yeet で出し直す（＝作り直し）。
 KICKS_CAT = "KICKS"
 KICKS_COLLAB = ["sixten"]
+# 2026-11-05 クリス指示「610のインスタを更新したら…それをストーリーにシェアしてほしい。…画面いっぱいいっぱいのシェアを
+# やってほしい」「得点、スコアのやつに関して…グリッドから削除してほしい」。
+# ・ストーリー: @sixten にリールを出したら、同じ縦型動画（1080x1920）をそのまま STORIES として出す＝全画面。
+#   API にはリールを「ストーリーにシェア（埋め込み）」する機能が無いので、動画そのものを載せる形。
+#   STORY_FROM より前に出たリールは対象外（過去分を一斉に流さない）。ストーリーの失敗はリールの成否に影響させない。
+# ・得点型（video.template == "score"）は share_to_feed=false で出す＝リールタブだけに出て、プロフィールのグリッドには載らない。
+#   投稿後にグリッドから外す API は無い（公式リファレンス「Updating … not supported」）ので、投稿時点で外しておく。
+STORY_FROM = "2026-11-05T00:00:00+09:00"
+NO_GRID_TEMPLATES = ("score",)
 MIX_FILE = os.path.join(HERE, "growth", "ig", "mix.json")
 MIX_DROP_H = 48         # 上限で待たされたまま、書き出しからこれだけ過ぎたニュースは出さない（古いニュースを後から流さない）
 
@@ -179,9 +190,12 @@ def post_one(item, st, tok, test=False, collab=None):
         caption, arms = ig_experiments.apply(caption, item, datetime.now(VB.JST))
         if arms:
             st["exp_arms"] = arms   # どのアームで出したか（video_status.json に残る）
+    in_grid = (item.get("video") or {}).get("template") not in NO_GRID_TEMPLATES
     params = {"media_type": "REELS", "video_url": st["url"],
               "caption": caption,
-              "share_to_feed": "true"}
+              "share_to_feed": "true" if in_grid else "false"}
+    if not in_grid:
+        print("    得点型なのでグリッドに載せない（share_to_feed=false・リールタブだけ）")
     if collab:
         params["collaborators"] = json.dumps(collab)
     off = thumb_offset_ms(st["url"])
@@ -195,6 +209,50 @@ def post_one(item, st, tok, test=False, collab=None):
         print("    --test なので公開しない（コンテナは24時間で自動で消える）")
         return None
     return call("me/media_publish", {"creation_id": cid}, "POST", tok)["id"]
+
+
+def post_story(st, tok, test=False):
+    """リールと同じ縦型動画を全画面のストーリーとして出す（9:16 なので切れ・余白なし）"""
+    cid = call("me/media", {"media_type": "STORIES", "video_url": st["url"]}, "POST", tok)["id"]
+    print(f"    story container {cid} → FINISHED 待ち")
+    wait_finished(cid, tok)
+    if test:
+        print("    --test なのでストーリーも公開しない")
+        return None
+    return call("me/media_publish", {"creation_id": cid}, "POST", tok)["id"]
+
+
+def story_one(aid, st, status, tok):
+    """@sixten のリールを出した直後に呼ぶ。失敗は story_error に残し、次の実行で拾い直す（最大 MAX_ATTEMPTS 回）"""
+    try:
+        sid = post_story(st, tok)
+    except Exception as e:
+        st["story_attempts"] = st.get("story_attempts", 0) + 1
+        st["story_error"] = str(e)[:500]
+        VB.save_status(status, True)
+        print(f"  ✗ ストーリー失敗（リールは出ている）: {e}", file=sys.stderr)
+        return False
+    st["story_media_id"] = sid
+    st["story_posted_at"] = datetime.now(VB.JST).isoformat(timespec="seconds")
+    st.pop("story_error", None)
+    VB.save_status(status, True)
+    print(f"  ✓ ストーリーに出した story_media_id={sid}")
+    return True
+
+
+def story_pending(status, items):
+    """リールは出たのにストーリーがまだ（失敗・取りこぼし）のもの。STORY_FROM 以降に出たリールだけ"""
+    start = datetime.fromisoformat(STORY_FROM)
+    out = []
+    for aid, st in sorted(status.items()):
+        it = items.get(aid)
+        if (not it or it.get("category") == KICKS_CAT or not st.get("reel_media_id")
+                or st.get("story_media_id") or st.get("story_attempts", 0) >= MAX_ATTEMPTS
+                or not st.get("reel_posted_at")
+                or datetime.fromisoformat(st["reel_posted_at"]) < start):
+            continue
+        out.append(aid)
+    return out
 
 
 def main():
@@ -256,11 +314,19 @@ def main():
         if dropped:
             VB.save_status(status, True)
     kicks_todo = kicks_todo[: args.max]
+    failed = 0
+    # 前回までにストーリーだけ出せなかったリールを拾い直す（記事指定・--test の時はしない）
+    if not (want or args.test):
+        for aid in story_pending(status, items)[: args.max]:
+            print(f"[story] {aid} {items[aid]['headline']}（ストーリーの出し直し）")
+            if not story_one(aid, status[aid], status, tok):
+                failed += 1
     if not todo and not kicks_todo:
         print("投稿するリールはない")
+        if failed:
+            sys.exit(1)
         return
 
-    failed = 0
     jobs = [(a, False) for a in todo] + [(a, True) for a in kicks_todo]
     for n, (aid, kicks) in enumerate(jobs):
         if n:
@@ -280,7 +346,15 @@ def main():
                 VB.save_status(status, True)
             continue
         if args.test:
-            print("  ✓ テスト通過")
+            if not kicks:
+                try:
+                    post_story(st, tok, test=True)
+                    print("  ✓ テスト通過（リール＋ストーリー）")
+                except Exception as e:
+                    failed += 1
+                    print(f"  ✗ ストーリーのテスト失敗: {e}", file=sys.stderr)
+            else:
+                print("  ✓ テスト通過")
             continue
         pre = "kicks" if kicks else "reel"
         st[f"{pre}_media_id"] = media_id
@@ -288,6 +362,9 @@ def main():
         st.pop(f"{pre}_error", None)
         VB.save_status(status, True)
         print(f"  ✓ 投稿した ig_media_id={media_id}")
+        if not kicks:   # @sixten のリールは全部、同じ動画を全画面ストーリーにも出す
+            if not story_one(aid, st, status, tok):
+                failed += 1
     if failed:
         sys.exit(1)
 
