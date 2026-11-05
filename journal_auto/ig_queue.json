@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T13:58:38+09:00",
+  "updated": "2026-11-05T14:56:42+09:00",
   "items": [
     {
       "id": "134",
@@ -25302,6 +25302,100 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ケビン・デュラント、ティンバーウルブズ戦で21得点\n\n・FG7/14・3PT2/5で21得点\n・第4Q23-35で突き放される\n・ロケッツは107-117で敗戦\n\n💬 デュラントとロケッツ、立て直せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "841",
+      "slug": "841-victor-wembanyama-52-points-mavericks",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "ウェンバンヤマが52得点24リバウンド8ブロック",
+      "excerpt": "サンアントニオ・スパーズのヴィクター・ウェンバンヤマ(Victor Wembanyama)は現地時間11月4日、本拠地でのダラス・マーベリックス戦に34分出場し、フィールドゴール28本中16本・フリースロー23本中19本を沈めて52得点、リバウンド24・ブロック8を記録した。スパーズは112-111の1点差でマーベリックスを振り切った。",
+      "points": [
+        "マーベリックス戦で34分出場し52得点",
+        "リバウンド24・ブロック8も記録",
+        "スパーズが112-111の1点差で勝利"
+      ],
+      "source": "ESPN ボックススコア(Spurs vs. Mavericks)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/841-victor-wembanyama-52-points-mavericks.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "この52得点、今季ベストゲーム?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. MAVERICKS",
+        "points": 52,
+        "stats": [
+          "24 REB",
+          "8 BLK",
+          "2 AST",
+          "2 STL",
+          "16/28 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/841-1.jpg",
+        "https://sixten.jp/assets/ig/841-2.jpg",
+        "https://sixten.jp/assets/ig/841-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T14:55:56+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマが52得点24リバウンド8ブロック\n\n・マーベリックス戦で34分出場し52得点\n・リバウンド24・ブロック8も記録\n・スパーズが112-111の1点差で勝利\n\n💬 この52得点、今季ベストゲーム?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Spurs vs. Mavericks)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "842",
+      "slug": "842-luka-doncic-40-points-kings",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "ドンチッチがキングス戦で40得点",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチ(Luka Doncic)は現地時間11月4日、敵地でのサクラメント・キングス戦に35分出場し、フィールドゴール23本中11本・3ポイント13本中6本・フリースロー13本中12本を沈めて40得点を記録した。両チーム通じてこの日の最多得点者となり、レイカーズは116-103でキングスを下した。",
+      "points": [
+        "3ポイント13本中6本を含む40得点",
+        "アシスト7・リバウンド9を記録",
+        "レイカーズが116-103で勝利"
+      ],
+      "source": "ESPN ボックススコア(Lakers vs. Kings)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/842-luka-doncic-40-points-kings.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチ、今季MVP争いに入る?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. KINGS",
+        "points": 40,
+        "stats": [
+          "9 REB",
+          "7 AST",
+          "11/23 FG",
+          "6/13 3PT",
+          "12/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/842-1.jpg",
+        "https://sixten.jp/assets/ig/842-2.jpg",
+        "https://sixten.jp/assets/ig/842-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T14:56:41+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドンチッチがキングス戦で40得点\n\n・3ポイント13本中6本を含む40得点\n・アシスト7・リバウンド9を記録\n・レイカーズが116-103で勝利\n\n💬 ドンチッチ、今季MVP争いに入る?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Lakers vs. Kings)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
