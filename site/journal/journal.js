@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "851-lebron-bron-ai-cease-desist.html",
+    cat: "NBA",
+    title: "レブロン・ジェームズ、AI予想アプリ「Bron AI」に使用停止要求 —— 無断の肖像使用に代理人が抗議",
+    excerpt: "フィラデルフィア・76ersのレブロン・ジェームズ(LeBron James)は現地時間11月5日、スポーツベッティング予想アプリ「Bron AI」が本人の許可なく肖像を使用しているとして、運営会社PlayVision社に使用停止を求める通知書(cease-and-desist)を送った。広告は「23」番のユニフォーム姿で本人を思わせる人物の後ろ姿を描いており、代理人の弁護士は「NBAの規則に抵触するほど深刻な印象を与えている」と指摘したとFront Office Sportsが伝え、ESPNが報じた。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "850-nike-book-2-christmas.html",
     cat: "KICKS",
     title: "Nike Book 2「Christmas」(品番IO7943-600)が透明シュラウドを纏う —— ブッカーの2代目シグネチャー、Sabrina 4と呼応するホリデー仕立て",
