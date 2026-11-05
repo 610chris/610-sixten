@@ -332,3 +332,64 @@ a.hl-camp:hover { border-color: var(--green); background: rgba(120, 190, 32, 0.0
 /* 2026-11-05 クリス指示84本目「指導歴の下にあるデッド空欄」: 年表の下の余白を詰める（次の #videos と同じ紺で続くため） */
 #career.hl-sec { padding-bottom: 28px !important; }
 #career + #videos.hl-sec { padding-top: 44px !important; scroll-margin-top: 64px; } /* 固定ヘッダー64pxの下に見出しが隠れないように */
+
+/* 2026-11-05 クリス指示92本目「ハレルヤのスマホページがひどいな。バランスが悪い。トップが長すぎるからかな？？修正して欲しい！！プロの目線で！！！」
+   実測(390x844): ヒーロー1069＋目次2段113で最初の節まで1182＝1画面目に写真が頭しか入らない。原因は文字量ではなく、
+   ①ボタン64×2・数字の下98・写真の下104の「余白と大きさの積み重ね」 ②同じ紺が続く節の境目に144の空き ③出典の下に175の空き。
+   ここはスマホの中だけ。文章は削らない。写真の後ろの盤は幅153%のまま（数字に届かない所まで下げるだけ）。並び順は変えない＝盤が下へ抜けても文字に重ならない */
+@media (max-width: 600px) {
+  /* ヒーロー: 1画面に 名前→ボタン→数字→写真（＋盤）を全部入れる */
+  .hl-hero { padding: 80px 0 48px !important; }
+  .hl-hero-in { gap: 0; }
+  .hl-name { margin-top: 10px; }
+  .hl-name .en { margin-top: 10px; }
+  .hl-catch { margin-top: 18px; }
+  .hl-lede { margin-top: 8px; line-height: 1.6; }
+  .hl-go { gap: 10px; margin-top: 18px; }
+  .hl-hero .hl-yt-btn, .hl-hero .hl-req-btn { min-height: 54px; padding-top: 6px; padding-bottom: 6px; }
+  .hl-hero .hl-yt-btn { padding-left: 10px; gap: 12px; }
+  .hl-hero .hl-yt-btn .ic { width: 38px; height: 38px; }
+  .hl-hero .hl-yt-btn .ic::after { left: 14px; top: 10px; border-left-width: 13px; border-top-width: 9px; border-bottom-width: 9px; }
+  .hl-hero .hl-yt-btn b, .hl-hero .hl-req-btn b { font-size: 16px; }
+  .hl-hero .hl-req-btn { padding-left: 22px; }
+  .hl-stats { margin-top: 18px; padding-top: 14px; }
+  .hl-stats span { margin-top: 3px; }
+  .hl-hero-pw { margin-top: 64px; } /* 盤の上の線を数字から24空ける（近いと数字の下の罫線に見える） */
+  .hl-hero-pw .hl-court { margin-top: -17.7%; }
+
+  /* 目次: 2段(113)をやめて1段に。6項目を幅いっぱいに均等配置 */
+  .hl-toc .wrap { flex-wrap: nowrap; justify-content: space-between; gap: 0; }
+  .hl-toc a { padding: 14px 0; font-size: clamp(11px, 3.3vw, 13px); letter-spacing: 0.02em; white-space: nowrap; }
+
+  /* 節の余白: 72→56。同じ紺が続く境目（動画→キャンプ→依頼）は空きを半分に */
+  .hl-sec { padding: 56px 0 !important; }
+  #videos.hl-sec { padding-bottom: 36px !important; }
+  #camp.hl-sec { padding: 36px 0 !important; }
+  #work.hl-sec { padding: 36px 0 48px !important; }
+  #starting5ive.hl-sec { padding: 40px 0 24px !important; }
+  .hl-h { margin-bottom: 24px; }
+  .hl-sub { margin-top: 40px; }
+  .hl-s5 .hl-src { margin-top: 24px; }
+  .hl-page .brand-back { padding: 16px 24px 32px; }
+
+  /* 大会情報: 1列に3段積みをやめ、大会名は全幅・日程と試合を横並びに */
+  .hl-facts { grid-template-columns: minmax(0, 1fr) auto; gap: 14px 24px; margin-top: 24px; }
+  .hl-facts > div:first-child { grid-column: 1 / -1; }
+
+  /* 「ロッカーに貼ってある3枚」: カードの内側を少し詰める */
+  .hl-notes { gap: 14px; }
+  .hl-notes > div { padding: 22px 22px 20px; }
+
+  /* キャンプ: 大見出しが3行に割れて下の2つと釣り合わないので2行に */
+  .hl-camp-main { padding: 24px 22px; }
+  .hl-camp-main b { font-size: 30px; }
+
+  /* 依頼メニュー: 日本語＋英語の1行が箱を押し広げ、右だけ下のボタンより出ていた（360幅以下は横スクロールも）。4項目とも1行のまま箱の幅に収める */
+  .hl-work .hl-menu li { gap: 8px; padding: 16px 14px; }
+  .hl-work .hl-menu b { font-size: clamp(15px, 4.1vw, 16px); }
+  .hl-work .hl-menu .en { font-size: 10px; letter-spacing: 0.1em; }
+
+  /* メンバー: 3人＋1人の折り返しをやめ 2×2 に */
+  .hl-others { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px 12px; }
+}
+@media (max-width: 340px) { .hl-work .hl-menu li { flex-direction: column; gap: 2px; } } /* 320幅は1行に入らないので4項目そろえて2段に */

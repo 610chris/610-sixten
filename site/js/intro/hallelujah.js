@@ -12,7 +12,7 @@
    音（sfx-intro.mp3 = 下の時刻表どおりに並べた1本）: ① サイト内リンクから来た時は開始と同時に鳴る（Chrome は同じサイトでの操作を引き継ぐ）
    ② 直接開いた・再読み込みの時は、最初のクリック・タップ・キー・スクロールの時点の場面から鳴る。オープニングが終わった後なら、
    ヒーローのコートのラインが光り直して court-line.mp3 が鳴る。「音が出ます」等の表示は出さない */
-import { runIntro, prog, easeOut, easeInOut, rand, loadTex } from './core.js';
+import { runIntro, introTouch, prog, easeOut, easeInOut, rand, loadTex } from './core.js?v=1105r';
 import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 
 /* 2026-11-05 36本目: ① 線を全部書いてから動く → ペンで書くのと同時に駒が線を追う ② ダンクの後、3D の盤を真上の2D（作戦盤）に倒しながら
@@ -182,6 +182,7 @@ function initAudio() {
   try {
     const AC = window.AudioContext || window.webkitAudioContext;
     if (!AC) return;
+    try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {} // iPhone の消音スイッチが入っていても鳴らす（2026-11-05 クリス指示「スマホで見ると音が鳴らない」）
     SFX.ctx = new AC();
     SFX.out = SFX.ctx.createGain(); SFX.out.gain.value = 0.9; SFX.out.connect(SFX.ctx.destination);
     const get = (f) => fetch(base + f).then((r) => (r.ok ? r.arrayBuffer() : null))
@@ -207,6 +208,7 @@ function heroLine() {
   const s = SFX.ctx.createBufferSource(); s.buffer = SFX.line; s.connect(SFX.out); s.start();
 }
 function armUnlock(el) {
+  introTouch(el, () => !!SFX.started); // 払う動きは JS でスクロール＝指を離した瞬間が「操作」になり音が出る
   const unlock = (e) => {
     if (!SFX.ctx || SFX.started) return;
     if (e.type === 'keydown' && e.key === 'Escape') return; // Esc はいつでもスキップ
@@ -215,8 +217,9 @@ function armUnlock(el) {
     if (!SFX.done && e.type === 'keydown') { e.stopImmediatePropagation(); e.preventDefault(); }
   };
   // Chrome が「ユーザー操作」と認めるのは keydown・mousedown/pointerdown・pointerup・touchend。wheel・scroll・touchstart は試すだけ
-  ['pointerdown', 'pointerup', 'keydown'].forEach((n) => addEventListener(n, unlock, true));
-  ['touchstart', 'touchend', 'wheel', 'scroll'].forEach((n) => addEventListener(n, unlock, { capture: true, passive: true }));
+  addEventListener('keydown', unlock, true);
+  ['pointerdown', 'pointerup'].forEach((n) => addEventListener(n, unlock, { capture: true, passive: true }));
+  ['touchstart', 'touchmove', 'touchend', 'wheel', 'scroll'].forEach((n) => addEventListener(n, unlock, { capture: true, passive: true }));
   el.addEventListener('click', (e) => { if (SFX.swallow) { SFX.swallow = false; e.stopImmediatePropagation(); } }, true);
 }
 {
@@ -602,7 +605,7 @@ async function setup(ctx) {
       const x0 = (r.left - c.left).toFixed(1), y0 = (r.top - c.top).toFixed(1), x1 = (r.right - c.left).toFixed(1), y1 = (r.bottom - c.top).toFixed(1);
       // 76本目: 盤が大きくなり区画の外へ出るので、3D も下の SVG と同じ範囲（ヒーローの中・ヘッダーの下）だけ見せる
       const hr = hHero.getBoundingClientRect(), hb = hHdr ? hHdr.getBoundingClientRect().bottom : 0;
-      const bx0 = (hr.left - c.left).toFixed(1), bx1 = (hr.right - c.left).toFixed(1), by0 = (Math.max(hr.top, hb) - c.top).toFixed(1), by1 = (hr.bottom - c.top).toFixed(1);
+      const bx0 = (hr.left - c.left).toFixed(1), bx1 = (hr.right - c.left).toFixed(1), by0 = Math.max(hr.top - c.top, hb).toFixed(1), by1 = (hr.bottom - c.top).toFixed(1);
       const m = `url("data:image/svg+xml,${encodeURIComponent(`<svg xmlns='http://www.w3.org/2000/svg' width='${W}' height='${H}' viewBox='0 0 ${W} ${H}'><path fill-rule='evenodd' d='M${bx0} ${by0}H${bx1}V${by1}H${bx0}Z M${x0} ${y0}H${x1}V${y1}H${x0}Z'/></svg>`)}")`;
       cv.style.webkitMaskImage = cv.style.maskImage = m; cv.style.webkitMaskSize = cv.style.maskSize = '100% 100%';
     } else if (cv.style.maskImage) cv.style.webkitMaskImage = cv.style.maskImage = '';

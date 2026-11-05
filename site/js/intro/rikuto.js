@@ -36,7 +36,7 @@
        ・同じサイトのページから入って来た時（Chrome は同じドメインでの操作を引き継いで自動再生を許す）は開始と同時に鳴る
        ・URL直打ち・再読み込みで止められている時は、最初のクリック・タップ・キー・スクロールで鳴り始める（その1回目ではスキップしない）
    演出は時刻 t の純関数 → ?introt=秒 で止めて確認できる（この時は音を出さない） */
-import { runIntro, clamp, prog, easeIn, easeOut, easeInOut, rand } from './core.js';
+import { runIntro, introTouch, clamp, prog, easeIn, easeOut, easeInOut, rand } from './core.js?v=1105r';
 
 const BASE = '../../assets/s5/rikuto/intro/';
 const HIST = [
@@ -157,6 +157,7 @@ function initAudio() {
   try {
     const AC = window.AudioContext || window.webkitAudioContext;
     if (!AC) return;
+    try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {} // iPhone の消音スイッチが入っていても鳴らす（2026-11-05 クリス指示「スマホで見ると音が鳴らない」）
     SFX.ctx = new AC();
     SFX.gain = SFX.ctx.createGain();
     SFX.gain.gain.value = 0.7;
@@ -180,6 +181,7 @@ function playBuf(buf, vol, rate, offset) {
 }
 // ② 自動再生が止められている時: 最初のクリック・タップ・キー・スクロールで鳴らす（その操作ではスキップしない）
 function armUnlock(el) {
+  introTouch(el, audioOn); // 払う動きは JS でスクロール＝指を離した瞬間が「操作」になり音が出る
   const opts = { capture: true, passive: true };
   const unlock = (e) => {
     if (!SFX.ctx || audioOn() || !el.isConnected) return;
@@ -190,7 +192,7 @@ function armUnlock(el) {
     if (e.type === 'pointerdown' || e.type === 'mousedown' || e.type === 'touchstart' || e.type === 'touchend') SFX.swallow = true;
     SFX.ctx.resume().catch(() => {});
   };
-  for (const ev of ['pointerdown', 'mousedown', 'touchstart', 'touchend', 'wheel', 'scroll']) addEventListener(ev, unlock, opts);
+  for (const ev of ['pointerdown', 'mousedown', 'touchstart', 'touchmove', 'touchend', 'wheel', 'scroll']) addEventListener(ev, unlock, opts);
   addEventListener('keydown', unlock, true);
   // 鳴らすための1回目のクリックは、オープニングのスキップ（core.js の click）まで届かせない
   addEventListener('click', (e) => {
@@ -213,6 +215,7 @@ function start() {
     key: 'rikuto',
     duration: DUR,
     gl: false,
+    holdDraw: true,
     async setup(ctx) {
       const fontP = Promise.race([document.fonts.load('400 120px "Anton"', 'RIKUTO AF'), new Promise((r) => setTimeout(r, 1200))]).catch(() => {});
       // 写真は出る順に6本ずつ読み込む（124枚を一度に頼まない）。色付けした canvas は直近24枚だけ持つ（メモリ対策）
@@ -282,7 +285,7 @@ function start() {
         const lh = parseFloat(cs.lineHeight) || size * 0.92;
         g.save(); g.font = FONT(size); const m = g.measureText(TEXT); g.restore();
         const asc = m.fontBoundingBoxAscent || size * 1.18, desc = m.fontBoundingBoxDescent || size * 0.33;
-        const hd = { size, ls, left: r.left, base: Math.floor(r.top + (lh - (asc + desc)) / 2 + asc) }; // 本物の文字の基線は整数の画素に乗る（小数のままだと着地で1px跳ねる）
+        const hd = { size, ls, left: r.left, base: Math.floor(r.top + scrollY + (lh - (asc + desc)) / 2 + asc) }; // 本物の文字の基線は整数の画素に乗る（小数のままだと着地で1px跳ねる）
         window.__rkHD = hd;
         return hd;
       }

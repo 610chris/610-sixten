@@ -2,9 +2,9 @@
    - <html class="s5-intro-on"> の時だけ表示（head の1行スクリプトが付ける。reduced-motion・2回目以降は付かない）
    - JS が読めない・動かない時の保険: 9秒で自動的に消える（s5IntroFailsafe）。JS が動けば .live で保険を止めて自分で制御する */
 .s5-intro { display: none; }
-.s5-intro-on { overflow: hidden; }
+/* 2026-11-05 クリス指示「各メンバーのサイトもそうしてください」: ページを固定しない（メインのスタメン発表と同じ） */
 .s5-intro-on .s5-intro {
-  display: block; position: fixed; inset: 0; z-index: 9999; overflow: hidden;
+  display: block; position: absolute; top: 0; left: 0; right: 0; height: 100vh; height: 100svh; z-index: 9999; overflow: hidden; /* ページ先頭の1画面に置き、再生したまま下へスクロールできる */
   background: #050505; color: #fff; cursor: pointer; -webkit-tap-highlight-color: transparent;
   animation: s5IntroFailsafe 0.5s ease 9s forwards;
 }

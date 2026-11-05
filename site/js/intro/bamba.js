@@ -2,7 +2,7 @@
    本物の8パネル溝のバスケットボール（文字なし・床に落ち影）が回る（背景は拍ごとに色替え）
    → 止まってジグソーパズルの継ぎ目が光る → パズルのピースになって剥がれ飛ぶ → バスケは酸素
    演出はすべて時刻 t の純関数。?introt=秒 でその瞬間を確認できる */
-import { runIntro, prog, easeOut, easeIn, easeInOut, rand } from './core.js';
+import { runIntro, introTouch, prog, easeOut, easeIn, easeInOut, rand } from './core.js?v=1105r';
 import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 
 const T_STOP = 2.5;   // 回転が止まる
@@ -262,6 +262,7 @@ async function setup(ctx) {
     if (!snd.ctx) {
       const AC = window.AudioContext || window.webkitAudioContext;
       if (!AC) return false;
+      try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {} // iPhone の消音スイッチが入っていても鳴らす（2026-11-05 クリス指示「スマホで見ると音が鳴らない」）
       snd.ctx = new AC();
     }
     if (!snd.buf) snd.buf = await fetch(SFX).then((r) => r.arrayBuffer()).then((a) => snd.ctx.decodeAudioData(a));
@@ -306,9 +307,14 @@ async function setup(ctx) {
     }).catch(() => {});
   }
   if (ctx.freeze === null) UNLOCK.forEach((n) => addEventListener(n, unlock, { capture: true, passive: true }));
-  // スマホで指を払った時: 演出中は画面がスクロールしない（overflow:hidden）ので、払う動きをブラウザのスクロールとして扱わせない。
-  // こうすると指を離した瞬間が「操作」と認められて、払っただけでも音が鳴る（タップと違ってスキップはしない）
-  if (ctx.freeze === null) el.style.touchAction = 'none';
+  // スマホで指を払った時: 音が出るまでは JS でスクロールさせる。指を離した瞬間が「操作」と認められて、払っただけでも音が鳴る（タップと違ってスキップはしない）
+  if (ctx.freeze === null) introTouch(el, () => !!(snd.ctx && snd.ctx.state === 'running'));
+  // 音を出すための1回目のタップではスキップしない（他の3ページと同じ）。指を置いた時に音が出ていなければ、その後の click を止める
+  let swallow = false;
+  if (ctx.freeze === null) {
+    el.addEventListener('pointerdown', (e) => { swallow = !btn.contains(e.target) && snd.on && !(snd.ctx && snd.ctx.state === 'running'); }, true);
+    el.addEventListener('click', (e) => { if (swallow) { swallow = false; e.stopImmediatePropagation(); } }, true);
+  }
   btn.addEventListener('click', async (e) => {
     e.stopPropagation(); // 押してもオープニングはスキップしない
     snd.on = !(snd.on && snd.ctx && snd.ctx.state === 'running'); // まだ鳴っていない時に押したら「鳴らす」
@@ -363,11 +369,11 @@ async function setup(ctx) {
     flyCache = pieces.map((p) => {
       const s = srcRect(p.node), e = p.node.getBoundingClientRect(), tr = p.tgt();
       const g = tr && tr.getBoundingClientRect();
-      if (!g || !g.height || g.bottom < 0 || g.top > innerHeight) return null; // 画面外なら飛ばさず消すだけ
+      if (!g || !g.height || g.bottom + scrollY < 0 || g.top + scrollY > innerHeight) return null; // 画面外なら飛ばさず消すだけ
       const k = g.height / s.height;
       const ex = e.left + e.width / 2, ey = e.top + e.height / 2;
       const sx = s.left + s.width / 2, sy = s.top + s.height / 2;
-      return { k, dx: g.left + g.width / 2 - ex - k * (sx - ex), dy: g.top + g.height / 2 - ey - k * (sy - ey), gx: g.left + g.width / 2, gy: g.top + g.height / 2 };
+      return { k, dx: g.left + g.width / 2 - ex - k * (sx - ex), dy: g.top + g.height / 2 - ey - k * (sy - ey), gx: g.left + g.width / 2, gy: g.top + scrollY + g.height / 2 };
     });
     // パーンと開く中心 = 「バスケは酸素」と「バンバ」が重なった所の真ん中
     const hit = flyCache.filter(Boolean);
@@ -609,7 +615,7 @@ async function setup(ctx) {
     if (t < T_FLY) {
       if (!emCache) {
         emNodes.forEach((n) => { n.style.transform = ''; });
-        emCache = emNodes.map((n) => { const r = n.getBoundingClientRect(); return { x: r.left + r.width / 2, y: r.top + r.height / 2 }; });
+        emCache = emNodes.map((n) => { const r = n.getBoundingClientRect(); return { x: r.left + r.width / 2, y: r.top + scrollY + r.height / 2 }; });
       }
       emNodes.forEach((n, i) => {
         const a = i < 6 ? T_EMERGE + 0.02 + i * 0.035 : T_EMERGE + 0.34 + (i - 6) * 0.1;
@@ -673,7 +679,7 @@ async function setup(ctx) {
     if (hero) {
       const b = prog(t, T_LAND, T_LAND + 0.38);
       const hr = hero.getBoundingClientRect();
-      hero.style.transformOrigin = `${cx - hr.left}px ${cy - hr.top}px`;
+      hero.style.transformOrigin = `${cx - hr.left}px ${cy - hr.top - scrollY}px`;
       hero.style.transform = b < 1 ? `scale(${1 + 0.035 * Math.sin(Math.PI * b) * (1 - b)})` : '';
     }
   }

@@ -181,6 +181,7 @@
   function makeAudio() {
     var AC = window.AudioContext || window.webkitAudioContext;
     if (!AC) return null;
+    try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {} // iPhone の消音スイッチが入っていても鳴らす（2026-11-05 クリス指示「スマホで見ると音が鳴らない」）
     var ctx = new AC();
     var master = ctx.createGain();
     // 歓声を最後まで上げ続けても割れないように、出口に音割れ防止（リミッター）を1つだけ挟む（音色は変えない）
@@ -226,6 +227,7 @@
       if (tl) tl.kill();
       document.removeEventListener('keydown', onKey);
       UNLOCK.forEach(function (n) { removeEventListener(n, unlock, true); });
+      freeTouch();
       removeEventListener('resize', layout);
       if (audio) audio.stop(instant ? 0 : 2.8); // 歓声のピークで開き、歓声が残ったまま 2.8 秒かけて消える
       function fin() {
@@ -259,11 +261,36 @@
     // 写真の実寸は読み込み後に決まるので、まだの写真は読み込めた時に置き直す
     ui.ov.querySelectorAll('img').forEach(function (im) { if (!im.complete) im.addEventListener('load', layout, { once: true }); });
 
+    // スマホの音: ブラウザのスクロールとして扱われた指の動きは「操作」と認められず、音を許可できない。
+    // そこで音が出るまでの間だけ touch-action:none にして JS でスクロールさせる（指示87のスクロールはそのまま）。指を離した瞬間に音が出る
+    var touchOn = !!audio && (('ontouchstart' in window) || navigator.maxTouchPoints > 0), tY = 0, tT = 0, tV = 0, tRaf = 0;
+    function toY(d) { window.scrollBy({ top: d, left: 0, behavior: 'instant' }); }
+    function tStart(e) { cancelAnimationFrame(tRaf); tY = e.touches[0].clientY; tT = e.timeStamp; tV = 0; }
+    function tMove(e) {
+      var y = e.touches[0].clientY, d = tY - y;
+      toY(d);
+      tV = 0.8 * d / Math.max(1, e.timeStamp - tT) + 0.2 * tV; tY = y; tT = e.timeStamp;
+    }
+    function tEnd(e) {
+      if (e.touches.length) return;
+      (function step() { if (Math.abs(tV) < 0.03) return; toY(tV * 16); tV *= 0.95; tRaf = requestAnimationFrame(step); })();
+    }
+    function freeTouch() {
+      if (!touchOn) return; touchOn = false;
+      root.style.touchAction = ''; document.body.style.touchAction = '';
+      removeEventListener('touchstart', tStart); removeEventListener('touchmove', tMove); removeEventListener('touchend', tEnd);
+    }
+    if (touchOn) {
+      root.style.touchAction = 'none'; document.body.style.touchAction = 'none';
+      addEventListener('touchstart', tStart, { passive: true }); addEventListener('touchmove', tMove, { passive: true }); addEventListener('touchend', tEnd, { passive: true });
+    }
+
     // 音: 常に音あり前提。許されていれば最初から鳴らし、止められていたら最初の操作で頭から音ありでやり直す
     function startSound() {
       if (done || soundOn || !audio || audio.ctx.state !== 'running') return;
       soundOn = true;
       UNLOCK.forEach(function (n) { removeEventListener(n, unlock, true); });
+      freeTouch();
       run(true);
     }
     function unlock(e) {
@@ -276,7 +303,7 @@
     if (audio) {
       UNLOCK.forEach(function (n) { addEventListener(n, unlock, { capture: true, passive: true }); });
       audioReady.then(function (ok) {
-        if (!ok) { audio.stop(0); audio = null; return; }
+        if (!ok) { audio.stop(0); audio = null; freeTouch(); return; }
         if (audio.ctx.resume) audio.ctx.resume().then(startSound, function () {});
         startSound();
       });

@@ -2,7 +2,7 @@
    しわの入った金属ホイルのパックが浮かぶ（光が流れる）→ 上の端がギザギザに裂けてちぎれ飛ぶ
    → 中から光とともにカードがせり上がる → 一回転して正面へ、ホログラムが光る
    演出はすべて時刻 t の純関数。?introt=秒 でその瞬間を確認できる */
-import { runIntro, prog, easeOut, easeIn, easeInOut, rand } from './core.js';
+import { runIntro, introTouch, prog, easeOut, easeIn, easeInOut, rand } from './core.js?v=1105r';
 import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 import { cardArt } from './nicholas-card.js';
 
@@ -40,6 +40,7 @@ function initAudio() {
   try {
     const AC = window.AudioContext || window.webkitAudioContext;
     if (!AC) return;
+    try { if (navigator.audioSession) navigator.audioSession.type = 'playback'; } catch (e) {} // iPhone の消音スイッチが入っていても鳴らす（2026-11-05 クリス指示「スマホで見ると音が鳴らない」）
     SFX.ctx = new AC();
     SFX.out = SFX.ctx.createGain(); SFX.out.gain.value = 1; SFX.out.connect(SFX.ctx.destination);
     fetch(SFX_URL).then((r) => (r.ok ? r.arrayBuffer() : null))
@@ -56,6 +57,7 @@ function trySound() {
   s.start(0, Math.max(0, SFX.t)); SFX.src = s;
 }
 function armUnlock(el) {
+  introTouch(el, audioOn); // 払う動きは JS でスクロール＝指を離した瞬間が「操作」になり音が出る
   const unlock = (e) => {
     if (!SFX.ctx || audioOn()) return;
     if (e.type === 'keydown' && e.key === 'Escape') return; // Esc はいつでもスキップ
@@ -64,8 +66,9 @@ function armUnlock(el) {
     if (e.type === 'keydown') { e.stopImmediatePropagation(); e.preventDefault(); }
   };
   // Chrome が「ユーザー操作」と認めるのは keydown・mousedown/pointerdown・pointerup・touchend。wheel・touchstart は試すだけ（認められない環境では次の操作で鳴る）
-  ['pointerdown', 'pointerup', 'keydown'].forEach((n) => addEventListener(n, unlock, true));
-  ['touchstart', 'touchend', 'wheel'].forEach((n) => addEventListener(n, unlock, { capture: true, passive: true }));
+  addEventListener('keydown', unlock, true);
+  ['pointerdown', 'pointerup'].forEach((n) => addEventListener(n, unlock, { capture: true, passive: true }));
+  ['touchstart', 'touchmove', 'touchend', 'wheel'].forEach((n) => addEventListener(n, unlock, { capture: true, passive: true }));
   el.addEventListener('click', (e) => { if (SFX.swallow) { SFX.swallow = false; e.stopImmediatePropagation(); } }, true);
 }
 {
@@ -337,10 +340,10 @@ async function setup(ctx) {
   function heroTarget() {
     const n = document.querySelector('.nk-hero .nk-card');
     if (!n) return null;
-    const r = n.getBoundingClientRect();
-    if (r.bottom < 40 || r.top > innerHeight - 40) return null;
+    const r = n.getBoundingClientRect(), sy = scrollY; // 幕はページ先頭に固定なので、ページ座標で見る
+    if (r.bottom + sy < 40 || r.top + sy > innerHeight - 40) return null;
     const ry = parseFloat(getComputedStyle(n).getPropertyValue('--ry')) || 0;
-    return { cx: r.left + r.width / 2, cy: r.top + r.height / 2, w: n.offsetWidth, ry: ry * Math.PI / 180 };
+    return { cx: r.left + r.width / 2, cy: r.top + sy + r.height / 2, w: n.offsetWidth, ry: ry * Math.PI / 180 };
   }
   function sounds(t) {
     if (ctx.freeze !== null) return;
