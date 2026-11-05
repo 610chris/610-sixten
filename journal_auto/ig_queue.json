@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T12:36:17+09:00",
+  "updated": "2026-11-05T12:46:24+09:00",
   "items": [
     {
       "id": "134",
@@ -25022,6 +25022,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "タイ・ジェローム、ペイサーズ戦で23得点\n\n・FG10本中・+/-は+11で23得点\n・カワードと並び23得点でチーム最多\n・グリズリーズは103-107で惜敗\n\n💬 ジェロームの活躍、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "835",
+      "slug": "835-shai-gilgeous-alexander-42-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "SGA、キャバリアーズ戦で42得点",
+      "excerpt": "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月4日、本拠地でのクリーブランド・キャバリアーズ戦に35分出場し、フィールドゴール26本中11本・3ポイント11本中5本・フリースロー19本中15本を沈めて42得点、アシスト8を記録した。両チーム通じてこの日の最多得点者となり、サンダーは124-116でキャバリアーズに勝利した。",
+      "points": [
+        "フィールドゴール26本中11本・3P5本成功",
+        "フリースロー19本中15本と高確度",
+        "アシスト8でサンダーを牽引"
+      ],
+      "source": "ESPN ボックススコア(Thunder vs. Cavaliers・2026年11月4日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/835-shai-gilgeous-alexander-42-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "SGA、今季もMVP争いに絡む？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. CAVALIERS",
+        "points": 42,
+        "stats": [
+          "8 AST",
+          "4 REB",
+          "11/26 FG",
+          "5/11 3PT",
+          "15/19 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/835-1.jpg",
+        "https://sixten.jp/assets/ig/835-2.jpg",
+        "https://sixten.jp/assets/ig/835-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T12:45:23+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "SGA、キャバリアーズ戦で42得点\n\n・フィールドゴール26本中11本・3P5本成功\n・フリースロー19本中15本と高確度\n・アシスト8でサンダーを牽引\n\n💬 SGA、今季もMVP争いに絡む？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Thunder vs. Cavaliers・2026年11月4日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
