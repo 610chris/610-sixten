@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "850-nike-book-2-christmas.html",
+    cat: "KICKS",
+    title: "Nike Book 2「Christmas」(品番IO7943-600)が透明シュラウドを纏う —— ブッカーの2代目シグネチャー、Sabrina 4と呼応するホリデー仕立て",
+    excerpt: "ナイキは、デビン・ブッカー(Devin Booker)の2代目シグネチャーモデル「Nike Book 2」の新色「Christmas」(品番IO7943-600)の画像を公開した。アッパーの大部分を透明なシュラウド(覆い)で包んだ仕立てで、同じ透明シュラウドを使う「Nike Sabrina 4」とともに、ナイキ バスケットボールのホリデーコレクションを構成する。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "849-nike-kobe-6-protro-brunson-pe.html",
+    cat: "KICKS",
+    title: "Nike Kobe 6 Protro「Jalen Brunson PE」をブランソンが初披露 —— ブルズ戦で前半26得点、ニックスが135-105で快勝",
+    excerpt: "ニューヨーク・ニックスのジェイレン・ブランソン(Jalen Brunson)は現地時間11月4日、本拠地でのシカゴ・ブルズ戦で新しいプレーヤーエクスクルーシブ「Nike Kobe 6 Protro」(ブルー×オレンジ)を初めて着用した。前半だけで26得点を記録し、最終的に33得点。開幕から出だしに苦しんでいたディフェンディングチャンピオンのニックスは、この勝利で勝率5割に戻したという。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "848-jokic-nuggets-slow-start.html",
     cat: "NBA",
     title: "ニコラ・ヨキッチ、開幕7試合でキャリア最低効率 —— 脇役不足のナゲッツに広がる危機感",
