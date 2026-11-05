@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "846-bam-adebayo-35-points-clippers.html",
+    cat: "NBA",
+    title: "バム・アデバヨ、クリッパーズ戦で35得点 —— ヒートがOTで117-116の接戦を制す",
+    excerpt: "マイアミ・ヒートのバム・アデバヨ(Bam Adebayo)は現地時間11月4日、本拠地でのロサンゼルス・クリッパーズ戦に41分出場し、フィールドゴール20本中14本・フリースロー8本中6本を沈めて35得点、リバウンド10・アシスト4を記録した。両チーム通じてこの日の最多得点者となり、ヒートは延長戦の末117-116でクリッパーズを下した。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "845-rui-hachimura-21-points-heat.html",
+    cat: "NBA",
+    title: "八村塁、ヒート戦で21得点9リバウンド7アシスト —— クリッパーズはOTで116-117の惜敗",
+    excerpt: "ロサンゼルス・クリッパーズの八村塁(Rui Hachimura)は現地時間11月4日、敵地でのマイアミ・ヒート戦に37分出場し、フィールドゴール18本中7本・フリースロー7本中6本を沈めて21得点、リバウンド9・アシスト7を記録した。試合は延長戦までもつれ、クリッパーズは116-117の1点差でヒートに惜敗した。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "844-yokohama-excellence-tachikawa-win.html",
     cat: "JAPAN",
     title: "横浜エクセレンス、立川ダイス戦を99-97で制す —— ローソンが来日通算4,000得点、B.LEAGUE ONE第8節",

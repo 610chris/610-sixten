@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T15:22:16+09:00",
+  "updated": "2026-11-05T15:33:47+09:00",
   "items": [
     {
       "id": "134",
@@ -25464,6 +25464,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "横浜エクセレンス、立川ダイス戦を99-97で制す\n\n・立川ダイスにアウェーで99-97の接戦勝利\n・#34ベンジャミン・ローソンが来日通算4,000得点を達成\n・次戦は11/7・8に越谷アルファーズとホーム連戦\n\n💬 ローソンの来日通算4,000得点、何がすごいと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 横浜エクセレンス公式(PR TIMES)\n写真: プレスリリースより(PR TIMES)\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "845",
+      "slug": "845-rui-hachimura-21-points-heat",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "八村塁、ヒート戦で21得点9リバウンド7アシスト",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁(Rui Hachimura)は現地時間11月4日、敵地でのマイアミ・ヒート戦に37分出場し、フィールドゴール18本中7本・フリースロー7本中6本を沈めて21得点、リバウンド9・アシスト7を記録した。試合は延長戦までもつれ、クリッパーズは116-117の1点差でヒートに惜敗した。",
+      "points": [
+        "FG 7/18・FT 6/7で21得点",
+        "リバウンド9・アシスト7の活躍",
+        "クリッパーズはOTで116-117の惜敗"
+      ],
+      "source": "ESPN ボックススコア(Clippers vs. Heat)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/845-rui-hachimura-21-points-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "八村のオールラウンドな活躍、どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. HEAT",
+        "points": 21,
+        "stats": [
+          "9 REB",
+          "7 AST",
+          "7/18 FG",
+          "6/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/845-1.jpg",
+        "https://sixten.jp/assets/ig/845-2.jpg",
+        "https://sixten.jp/assets/ig/845-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T15:32:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、ヒート戦で21得点9リバウンド7アシスト\n\n・FG 7/18・FT 6/7で21得点\n・リバウンド9・アシスト7の活躍\n・クリッパーズはOTで116-117の惜敗\n\n💬 八村のオールラウンドな活躍、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Clippers vs. Heat)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "846",
+      "slug": "846-bam-adebayo-35-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "バム・アデバヨ、クリッパーズ戦で35得点",
+      "excerpt": "マイアミ・ヒートのバム・アデバヨ(Bam Adebayo)は現地時間11月4日、本拠地でのロサンゼルス・クリッパーズ戦に41分出場し、フィールドゴール20本中14本・フリースロー8本中6本を沈めて35得点、リバウンド10・アシスト4を記録した。両チーム通じてこの日の最多得点者となり、ヒートは延長戦の末117-116でクリッパーズを下した。",
+      "points": [
+        "FG 14/20の高確率で35得点",
+        "リバウンド10・アシスト4も記録",
+        "ヒートがOTで117-116の接戦を制す"
+      ],
+      "source": "ESPN ボックススコア(Heat vs. Clippers)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/846-bam-adebayo-35-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Bam Adebayo"
+      ],
+      "question": "この延長戦、どっちが印象に残った？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BAM ADEBAYO",
+        "opponent": "vs. CLIPPERS",
+        "points": 35,
+        "stats": [
+          "10 REB",
+          "4 AST",
+          "14/20 FG",
+          "6/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/846-1.jpg",
+        "https://sixten.jp/assets/ig/846-2.jpg",
+        "https://sixten.jp/assets/ig/846-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T15:32:50+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バム・アデバヨ、クリッパーズ戦で35得点\n\n・FG 14/20の高確率で35得点\n・リバウンド10・アシスト4も記録\n・ヒートがOTで117-116の接戦を制す\n\n💬 この延長戦、どっちが印象に残った？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Heat vs. Clippers)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
