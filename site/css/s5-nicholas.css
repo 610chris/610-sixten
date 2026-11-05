@@ -392,3 +392,8 @@
 .nk-slab .lbl { min-height: 0; }
 .nk-slab .lbl b { min-height: 0; }
 .nk-v .t .nw, .nk-sc .nw { display: inline-block; max-width: 100%; }
+
+/* 390幅で「・」が行末に来ないように（PCは変えない） */
+@media (max-width: 600px) {
+  .sp-dot { display: block; height: 0; overflow: hidden; }
+}
