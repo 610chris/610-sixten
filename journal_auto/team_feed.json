@@ -1,8 +1,103 @@
 {
- "updated_utc": "2026-11-05 07:19 UTC",
+ "updated_utc": "2026-11-05 15:46 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/dan-dickau-emerged-as-fan-favorite-bright-spot-in-challenging-pre-katrina-campaign",
+   "url": "https://www.nba.com/pelicans/news/dan-dickau-emerged-as-fan-favorite-bright-spot-in-challenging-pre-katrina-campaign",
+   "canonical_url": "https://pelicans.com/news/dan-dickau-emerged-as-fan-favorite-bright-spot-in-challenging-pre-katrina-campaign",
+   "title": "Dan Dickau emerged as fan favorite, bright spot in challenging, pre-Katrina campaign | 25 On the Court",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-05T14:00:00Z",
+   "tags": [],
+   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+   "facts": [
+    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+    "With the NBA becoming a 30-team, six-division league starting in 2004-05, New Orleans’ permanent move to the Western Conference coincided with a “Murphy’s Law” kind of season: Just about everything that could go wrong di…",
+    "Under new head coach Byron Scott, the Hornets were injury-plagued and severely undermanned talent-wise on a nightly basis, leading to a not-a-misprint, 2-29 start.",
+    "Several ’04-05 Hornets who logged unexpectedly big minutes never appeared in another NBA game after that season, but a few positive individual stories emerged.",
+    "The most prominent silver lining was the rise of point guard Dan Dickau, who averaged 13.2 points in 67 appearances (46 starts) for New Orleans, by far the top scoring average of his six-year NBA career.",
+    "Wins were hard to come by, but the popular 6-foot, 190-pound floor general played a role in nearly every victory, including a 19-point, 16-assist night, as New Orleans upset Philadelphia in overtime.",
+    "The Hornets’ poor luck continued in the 2005 draft lottery, dropping to the No. 4 pick despite holding the NBA’s second-worst record.",
+    "Season overview (in 25 words or less) The worst season in team history was doomed by Thanksgiving."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/pistons-rally-from-18-down-in-fourth-fall-short-against-76ers-112-106",
+   "url": "https://www.nba.com/pistons/news/pistons-rally-from-18-down-in-fourth-fall-short-against-76ers-112-106",
+   "canonical_url": "https://pistons.com/news/pistons-rally-from-18-down-in-fourth-fall-short-against-76ers-112-106",
+   "title": "Pistons Rally From 18 Down in Fourth, Fall Short Against 76ers, 112-106",
+   "author": "Pistons.com",
+   "published_utc": "2026-11-05T13:03:37Z",
+   "tags": [
+    "Cade Cunningham",
+    "game recap",
+    "recap"
+   ],
+   "summary": "Robinson scores 27 points and Cunningham posts a double-double as Detroit’s three-game winning streak ends",
+   "facts": [
+    "Robinson scores 27 points and Cunningham posts a double-double as Detroit’s three-game winning streak ends The Detroit Pistons fought back from an 18-point deficit in the fourth quarter but couldn’t finish the comeback, …",
+    "Duncan Robinson continued his hot start to the season, leading Detroit with 27 points, including seven 3-pointers on 11 attempts, while Cade Cunningham added 26 points, a season-high 11 assists and seven rebounds.",
+    "Ausar Thompson grabbed a career-high 17 rebounds and scored 11 points for his second double-double of the season, and John Collins added 16 points in the loss.",
+    "Detroit opened the game with a 17-11 advantage midway through the first quarter, but Philadelphia closed the period on an 18-10 run to take a 29-21 lead into the second.",
+    "Philadelphia responded with a 16-6 run to take a 56-42 lead into the break.",
+    "Philadelphia matched them at 63.6%, and the 76ers took a 91-75 lead into the fourth quarter.",
+    "Philadelphia stretched its lead to 18 early in the fourth before Detroit began its comeback.",
+    "The Pistons scored nine straight points, including two transition finishes from Thompson and a 3-pointer from Kevin Huerter, to make it 95-86 with 8:24 left."
+   ],
+   "quotes": [
+    "Our pace changed when we started the game,",
+    "I felt like we were playing with great pace and getting good looks out of it, but then we slowed down a little bit. I thought the second half we found our pace again and we were able to find some buck…",
+    "We were just playing slow to start,",
+    "We were not playing together. We weren’t moving it too much, and in the second half we started doing that. We saw progress."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/marshall-was-back-being-his-old-self-during-game-against-spurs",
+   "url": "https://www.nba.com/mavs/news/marshall-was-back-being-his-old-self-during-game-against-spurs",
+   "canonical_url": "https://mavs.com/mavs/news/marshall-was-back-being-his-old-self-during-game-against-spurs",
+   "title": "Marshall back to his old self against Spurs",
+   "author": "Dwain Price",
+   "published_utc": "2026-11-05T07:58:25Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "SAN ANTONIO – The Naji Marshall the Dallas Mavericks are accustomed to seeing playing quality basketball was back to his old form Wednesday against the San Antonio Spurs.",
+   "facts": [
+    "In 26 minutes off the bench, Marshall was 9-of-12 from the field, scored a season-high 22 points, grabbed five rebounds and handed out three assists.",
+    "He also was instrumental in the Mavs rallying from a 19-point second-half deficit to take a three-point lead before falling to the Spurs, 112-111, at Frost Bank Center.",
+    "In fact, it was a three-pointer by Marshall that knotted everything at 111 with 1:40 remaining in the game.",
+    "We gave him 23 free throws.",
+    "Anybody who gets 23 free throws and makes 19, it’s going to be tough.",
+    "At the time, May was still the head coach at Michigan and was trying very hard to attend Game 4.",
+    "So, I actually sat behind the Knicks’ bench, and the Spurs were playing so well – up 29.",
+    "May said center Santi Aldama (right knee surgery) is “very, very close” to playing his first game for the Mavs."
+   ],
+   "quotes": [
+    "It was beautiful – a great feeling,",
+    "I feel like I’m back helping the team. I’m there for my teammates. I felt like I was letting them down, being sick. I’m a human. I can’t control that.",
+    "He made good decisions with the ball, he was competitive, he was active on the glass. He played really, really well.",
+    "I just want to win and be there for my team,"
+   ]
+  },
   {
    "source": "MIA 公式（nba.com）",
    "team": "MIA",
@@ -32,40 +127,6 @@
     "Then it was four, Mitchell stripping Garland, again, and Antetokounmpo finding an open Larsson under the rim in transition for a 6-0 run and a clutch game."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/wembanyama-score-52-and-grab-24-boards-as-spurs-clip-mavericks-112-111",
-   "url": "https://www.nba.com/mavs/news/wembanyama-score-52-and-grab-24-boards-as-spurs-clip-mavericks-112-111",
-   "canonical_url": "https://mavs.com/mavs/news/wembanyama-score-52-and-grab-24-boards-as-spurs-clip-mavericks-112-111",
-   "title": "Wembanyama score 52 and grab 24 boards as Spurs clip Mavericks, 112-111",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-05T06:16:58Z",
-   "tags": [
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "SAN ANTONIO – Victor Wembanyama showed why he is the most dominating all-around player in the NBA today.",
-   "facts": [
-    "The San Antonio Spurs’ center scored 52 points, grabbed 24 rebounds, blocked eight shots, threw down seven dunks and recorded two steals in leading his team to a 112-111 victory over the Dallas Mavericks on Wednesday nig…",
-    "The loss was the second in a row for the Mavs and dropped their record to 4-4 entering Friday's home game against Utah, while the Spurs won for the sixth straight time and padded their record to 6-2.",
-    "Wembanyama converted 1-of-2 free throws with 24.2 seconds left to snap a 111-111 tie and account for the game’s final point.",
-    "But a 17-footer by Irving missed its mark with four seconds left, and in the mad scramble for the rebound, the final buzzer sounded, sending the Mavs home with their second loss of the season to the Spurs.",
-    "Irving was 9-of-27 from the field and led the Mavs with 29 points, seven rebounds and five assists, Naji Marshall had 22 points and five boards, and P.",
-    "Washington finished with 21 points and 10 rebounds.",
-    "Also, Cooper Flagg collected 19 points, 10 rebounds and five assists for the Mavs, who were outrebounded, 61-50.",
-    "In addition to Wembanyama, the Spurs got 21 points and five rebounds from Dylan Harper, 17 points and 10 boards from Stephon Castle, and 10 points from De’Aaron Fox."
-   ],
-   "quotes": [
-    "I think they have a really unique scheme on both sides of the ball,",
-    "They play to their personnel well. They’ve evolved and developed this thing that’s different than a lot of teams. You just can’t come in and just do what you normally do. You have to be able to counte…",
-    "I’m most impressed with their defensive intensity and how connected they are on that side of the ball,",
-    "They push you off your spots, every pass is tough, and so the tenacity they play with and the amount of guard depth and size and length, you factor that in with shot-making, they’re a tough cover."
-   ]
   },
   {
    "source": "DEN 公式（nba.com）",
@@ -246,7 +307,43 @@
    ],
    "quotes": [
     "We've been below the standard,",
-    "We just wanted to focus on our process. Win or lose tonight, we wanted to be comfortable with the effort we put out there."
+    "We just wanted to focus on our process. Win or lose tonight, we wanted to be comfortable with the effort we put out there.",
+    "We had to do some soul searching heading into this game. We have not been playing up to a consistent level of intensity, force, collective will. The group [of six players] that played in the Atlanta g…",
+    "We haven't had a win in a while, so being able to try to fight and figure out a way to finally pull one away, it's huge. You go into an opposing team's building who is [6-1] — they're a great team, ha…"
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/bulls-early-season-growing-pains-continue-fall-to-knicks",
+   "url": "https://www.nba.com/bulls/news/bulls-early-season-growing-pains-continue-fall-to-knicks",
+   "canonical_url": "https://bulls.com/news/bulls-early-season-growing-pains-continue-fall-to-knicks",
+   "title": "Bulls early season growing pains continue, fall to Knicks",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-05T02:23:32Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "And those Bears, with Jeffery Simmons and the amazing Caleb Williams. How about it?",
+   "facts": [
+    "Because it was once again the Bulls imploding, and not just seeing their record drop to 1-7 with the 135-105 loss to the Knicks.",
+    "It was the fourth time they’ve trailed in a game by at least 30 points and second by more than 40.",
+    "Last week, the Knicks overcame a 19-point Bulls lead to win by six.",
+    "But this epidemic of defeats has included deficits of 48 to Toronto, twice at least 30 to Boston, 22 to Philadelphia and 21 to Washington before a late Bulls comeback.",
+    "The Bulls are last in the league in points surrendered at about 130 and point differential at minus-18.",
+    "Small sample, for sure, and hardly representative of what this 82-game schedule will be like once the schedule becomes more equitable.",
+    "The Bulls once again were never in this game, trailing by double-digits as so often it’s been this season six minutes into the game and eventually by 44 points.",
+    "While the Knicks players led by Jalen Brunson (yes, him again) with 33 points and 22 in the first quarter to outscore the entire Bulls team - ignoring the waving on the way to a flotilla of layups."
+   ],
+   "quotes": [
+    "They were running simple plays we walked through this morning (at practice) and we were not able to recognize and stay in front of people,",
+    "Got to be better and we have shown we can do that and have to do that.",
+    "Today I didn’t get the ball much to start the game, so I couldn’t do much to be aggressive,",
+    "They hit shots in the beginning of the game that were ridiculous, the shots they were hitting,"
    ]
   },
   {
@@ -1502,208 +1599,6 @@
     "To learn more about Memphis’ perfect start to 2026-27, we checked in with Grizzlies writer Michael Wallace, a senior editor and analyst for Grind City Media.",
     "They used a 17-2 closing run to beat the Warriors, a 17-6 closing spurt to get past the Kings, a clutch finish from Ty Jerome to outlast the Kings and a 66-45 onslaught in the second half to sprint past the Blazers … all…",
     "Pelicans.com: What aspect of the Grizzlies’ start was the most expected by you, based on what you projected entering 2026-27?"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-nets-game-notes-november-2-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-nets-game-notes-november-2-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-nets-game-notes-november-2-2026",
-   "title": "Knicks vs Nets Game Notes | November 2, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-11-02T15:28:48Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "November 2, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 7; Home Game 4",
-   "facts": [
-    "November 2, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 7; Home Game 4 TV: MSG Networks; Radio: SiriusXM This Day in Knicks History November 2, 1990: Knicks open the 1990-91 campaign with a 134-130 (OT)…",
-    "Patrick Ewing leads the way with 38 points and 12 rebounds.",
-    "The victory was the Knicks first opening night win since 1984.",
-    "November 2, 2015: Carmelo Anthony becomes the 33rd player in NBA history to eclipse 21,000 career points.",
-    "BKN: Brooklyn (3/20/26) – The New York Knicks defeated the Brooklyn Nets, 93-92.",
-    "Karl-Anthony Towns led New York with 26 points, 15 rebounds, one assist and one steal.",
-    "Jalen Brunson scored 17 points, eight assists, five rebounds and two steals.",
-    "OG Anunoby recorded in 16 points on 53.8-percent shooting, three rebounds, two steals, one assist and one block."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/penn-medicine-philadelphia-76ers-assists-for-safe-communities-program-returns-for-third-season-supporting-local-organizations-in-greater-philadelphia",
-   "url": "https://www.nba.com/sixers/news/penn-medicine-philadelphia-76ers-assists-for-safe-communities-program-returns-for-third-season-supporting-local-organizations-in-greater-philadelphia",
-   "canonical_url": "https://sixers.com/news/penn-medicine-philadelphia-76ers-assists-for-safe-communities-program-returns-for-third-season-supporting-local-organizations-in-greater-philadelphia",
-   "title": "PENN MEDICINE, PHILADELPHIA 76ERS ‘ASSISTS FOR SAFE COMMUNITIES’ PROGRAM RETURNS FOR THIRD SEASON",
-   "author": "76ers PR",
-   "published_utc": "2026-11-02T14:45:00Z",
-   "tags": [],
-   "summary": "PHILADELPHIA—Dimes will be turned into dollars again this season as Penn Medicine and the Philadelphia 76ers continue to support local grassroots organizations through donations tied to on-court assists. For the third year in a row, the Assists for Safe Communities program will facilitate the donation of $76 for every pass by a 76er that leads to points. Today, the program announced the six new re…",
-   "facts": [
-    "PHILADELPHIA—Dimes will be turned into dollars again this season as Penn Medicine and the Philadelphia 76ers continue to support local grassroots organizations through donations tied to on-court assists.",
-    "For the third year in a row, the Assists for Safe Communities program will facilitate the donation of $76 for every pass by a 76er that leads to points.",
-    "Today, the program announced the six new recipient organizations for the 2026-27 season.",
-    "As I Plant the Seed—A North Philadelphia group offering multiple services to families including mental health support, educational programs, and job skills training 5 Shorts Project of CultureTrust Greater Philadelphia—A…",
-    "For example, participants in Free All Minds Academy, a beneficiary organization from the 2025-26 class, were able to attend a panel with Sixers star VJ Edgecombe and Rodney Babb, a violence recovery specialist at Penn Me…",
-    "Since becoming partners in 2022, Penn Medicine and the 76ers have collaborated on community-boosting efforts such as the promotion of physical activity, support of neighborhood safety efforts, and contributions to revita…"
-   ],
-   "quotes": [
-    "It’s always exciting to welcome a new cohort of organizations because we know how impactful this program has been – not only in terms of the financial support awarded, but also in elevating their miss…",
-    "The work that’s done by these committed groups, supported by Assists for Safe Communities, is crucially important to the health and well-being of our region.",
-    "Together with Penn Medicine, we are proud to continue growing this our Assists for Safe Communities program and advancing awareness around violence prevention,",
-    "Now in its third year, we have seen firsthand how this initiative has expanded its reach and created meaningful impact throughout our communities. We are excited to welcome this new group of recipient…"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-cle-okc-261102",
-   "url": "https://www.nba.com/cavaliers/news/features-cle-okc-261102",
-   "canonical_url": "https://cavs.com/news/features-cle-okc-261102",
-   "title": "Previewing the Cavs-Thunder Mini Series",
-   "author": "clejgabriele",
-   "published_utc": "2026-11-02T14:24:08Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "If there can be something as a “huge week” this early in an NBA season, you’re looking at one over the next six days. (With a three-game roadie against the Hornets, Knicks and Heat on the other side.)",
-   "facts": [
-    "If there can be something as a “huge week” this early in an NBA season, you’re looking at one over the next six days. (With a three-game roadie against the Hornets, Knicks and Heat on the other side.) On Saturday night i…",
-    "Jarrett Allen notched his second double-double of the season and Evan Mobley stayed red-hot from beyond the arc, going 3-of-5 from deep.",
-    "The 6th-year man from Southern Cal – who’s piled up three double-doubles and three 20-point games – is now shooting .577 from three-point range this year, ranking him 6th in the league, just behind his teammate, rookie M…",
-    "Sure, at 4-2 heading into November's first game, you could say things are going pretty well in CavalierLand.",
-    "Like the Cavaliers, the Thunder wrapped up the month of October with a 4-2 mark, but the two teams are in distinctly different mindsets coming into Monday’s matchup.",
-    "Aside from forward Nae’Qwan Tomlin (still out with a back injury) and now Jaylon Tyson (out with an ankle sprain), the Wine & Gold have started the season at full strength.",
-    "Chet Holmgren is out 8-10 weeks with a patellar tendon tear, Cason Wallace just underwent left shoulder surgery and could miss the remainder of the regular season, Jalen Williams went under the knife last Wednesday to ad…",
-    "Alex Caruso injured his ankle on Friday night and is expected to miss some time as well."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "feature",
-   "key": "https://www.nba.com/timberwolves/news/andres-guzmans-timberwolves-artist-series-noche-latina",
-   "url": "https://www.nba.com/timberwolves/news/andres-guzmans-timberwolves-artist-series-noche-latina",
-   "canonical_url": "https://timberwolves.com/news/andres-guzmans-timberwolves-artist-series-noche-latina",
-   "title": "Behind The Design: Andrés Guzmán’s Timberwolves Artist Series T-Shirt For Noche Latina",
-   "author": "Ananth Pandian",
-   "published_utc": "2026-11-02T13:30:41Z",
-   "tags": [
-    "Artist Series",
-    "Game Preview",
-    "Noche Latina"
-   ],
-   "summary": "The Timberwolves Artist Series, presented by Wings Credit Union, tips off on Monday, Nov. 2 for Noche Latina when the Wolves host the Milwaukee Bucks. The first 2026-27 Artist Series drop features a t-shirt designed by Minneapolis-based artist and illustrator Andrés Guzmán, whose work combines traditional ink techniques with digital illustration.",
-   "facts": [
-    "The Timberwolves Artist Series, presented by Wings Credit Union, tips off on Monday, Nov. 2 for Noche Latina when the Wolves host the Milwaukee Bucks.",
-    "The first 2026-27 Artist Series drop features a t-shirt designed by Minneapolis-based artist and illustrator Andrés Guzmán, whose work combines traditional ink techniques with digital illustration.",
-    "His limited-edition Timberwolves Artist Series t-shirt takes inspiration from the classic animal shirts of the '90s, featuring wolves, a moonlit forest and a purple color palette that adds to the nostalgic look.",
-    "A '90s Throwback For his Timberwolves Artist Series debut, Guzmán looked beyond traditional basketball imagery, drawing inspiration from an unexpected piece of '90s fashion.",
-    "The shirt will be available at The Team Store, a Fanatics Experience, outside Section 136 while supplies last."
-   ],
-   "quotes": [
-    " Why Purple? Purple isn't usually a traditional Timberwolves color, but it's one Guzmán has long associated with Minneapolis. Guzmán: ",
-    " Inspired By Nature The flowers in the foreground came directly from Guzmán's own photos of plants he's spotted around Minneapolis. Guzmán: ",
-    " Seeing It On Game Night Our 2026-27 Noche Latina celebration will mark Guzmán's first-ever Wolves game. He's looking forward to experiencing Timberwolves basketball in person and seeing fans wearing …"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-bulls-game-preview-injury-report-and-how-to-watch-11-2-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-bulls-game-preview-injury-report-and-how-to-watch-11-2-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-bulls-game-preview-injury-report-and-how-to-watch-11-2-2026",
-   "title": "Sixers vs. Bulls: Game Preview, Injury Report and How to Watch 11/2/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-02T13:09:32Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (6-1) will host the Chicago Bulls (1-5) on Monday before beginning a three-game road trip later this week. Tipoff is scheduled for 7:30 p.m. EST at Xfinity Mobile Arena.",
-   "facts": [
-    "The Philadelphia 76ers (6-1) will host the Chicago Bulls (1-5) on Monday before beginning a three-game road trip later this week.",
-    "Tipoff is scheduled for 7:30 p.m.",
-    "The Sixers defeated the Charlotte Hornets, 109-104, on the road Saturday, less than 24 hours after Friday’s Emirates NBA Cup win over the New York Knicks.",
-    "In both victories, VJ Edgecombe made a 3-pointer with just over 30 seconds remaining to put the Sixers ahead by four.",
-    "The Hornets went up 101-94 with 3:41 remaining in the fourth quarter before the Sixers closed the game on a 15-3 run.",
-    "In the absence of LeBron James and Joel Embiid on the second night of a back-to-back, Tyrese Maxey scored a season-high 38 points.",
-    "Anfernee Simons added 19 points off the bench, while Jaylen Brown returned to the lineup with 16.",
-    "Dean Wade recorded a career-high 10 assists."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-celtics-20261102",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-celtics-20261102",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-vs-celtics-20261102",
-   "title": "Magic Four-Point Play: Follow-Up vs. Celtics",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-02T13:08:30Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "In the Orlando Magic’s six games combined, their opponent has taken 52 more floor shots than them. That net field goal attempt mark ranks 29th. Turnovers and rebounding have been big factors in that. In Sunday’s loss, the Magic committed 18 turnovers, which led to 21 Celtics points, and Boston scored 15 second chance points off its 14 offensive rebounds. Another reason for the shot volume gap so f…",
-   "facts": [
-    "Possession Battle Continues to Be Key In the Orlando Magic’s six games combined, their opponent has taken 52 more floor shots than them.",
-    "That net field goal attempt mark ranks 29th.",
-    "In Sunday’s loss, the Magic committed 18 turnovers, which led to 21 Celtics points, and Boston scored 15 second chance points off its 14 offensive rebounds.",
-    "They are averaging just 9.4 transition shots per 100 possessions, which ranks 28th.",
-    "Last season, they averaged 13.2.",
-    "Magic Continue to Generate Great 3-Point Shots The big improvement for the Magic so far this season has been their 3-point shot quality.",
-    "Currently, Orlando ranks No. 1 in the league in 3-point attempts per 100 possessions off kickouts (from paint and non-paint).",
-    "It’s made 39.4 percent of those shots."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "feature",
-   "key": "https://www.nba.com/suns/news/11-02-2026-suns-at-warriors-game-preview",
-   "url": "https://www.nba.com/suns/news/11-02-2026-suns-at-warriors-game-preview",
-   "canonical_url": "https://suns.com/news/11-02-2026-suns-at-warriors-game-preview",
-   "title": "11/02/2026 Suns at Warriors Game Preview",
-   "author": "Phoenix Suns",
-   "published_utc": "2026-11-02T08:07:41Z",
-   "tags": [
-    "2026-27"
-   ],
-   "summary": "Date: Monday, November 2, 2026Time: 8:00 p.m. MSTLocation: Chase CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Warriors: Icon Edition (Blue)",
-   "facts": [
-    "Game Info Date: Monday, November 2, 2026Time: 8:00 p.m.",
-    "MSTLocation: Chase CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Warriors: Icon Edition (Blue) Series Notes The Suns won thei…",
-    "Key Connections Suns guard Pat Spencer spent his first three NBA seasons with the Warriors before heading to Phoenix, averaging 5.2 points and 2.6 assists across 111 gamesWarriors guard De'Anthony Melton played his first…",
-    "Denver, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles BridgesLAST GAME…",
-    "NuggetsSurpassed 8,000 career points against Denver on Oct. 301-of-2 players from his NBA Draft class (2018) to record 8,000 points and 3,000 rebounds in their career (Luka Dončić)#10– Khaman MaluachLAST GAME: Ended with…",
-    "Denver on Oct. 30Became the second youngest opening night starter in franchise history (Oct. 21 @ POR)Named to 2026 All-Summer League Second Team after leading the league in rebounding (12.8 per game) and averaging 19.5 …",
-    "DenverJoined Devin Booker as the third Suns duo in franchise history to post consecutive 30+ point games in the same contests in 2025-26Hit the first game-winner of his career, a three-point buzzer beater in double overt…",
-    "Orlando on Feb. 21#15 – Devin BookerLAST GAME: Put up 20 points, 5 assists and 2 steals vs."
    ],
    "quotes": []
   }
