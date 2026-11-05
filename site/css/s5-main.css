@@ -1,0 +1,402 @@
+/* STARTING 5IVE メインページ（media/starting5ive.html 専用・2026-11-05 全面リニューアル）
+   - body.x5 の中だけに効かせる。共通CSS（style.css / brand-fx.css）は触らずに上書きする
+   - .s5-member の中身はスタメン発表演出（s5-lineup.js）が読むので構造は変えず、見た目だけ変える
+   - 数字＋単位は「単位 = 数字の0.42倍」で全ブロック統一 */
+
+.x5 {
+  --t: #2bb3ad;
+  --t-ink: #061614;
+  --g: #ffc426;
+  --bg0: #0b0b0c;
+  --bg1: #111214;
+  --bg2: #17181b;
+  --ln: rgba(255, 255, 255, 0.09);
+  --mut: #a2a29c;
+  background: var(--bg0);
+}
+.x5 main, .x5 section[id] { scroll-margin-top: 118px; }
+.x5 #events, .x5 #sponsor, .x5 #solo { scroll-margin-top: 130px; }
+
+/* ---------- 共通部品 ---------- */
+.x5-btn {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 52px; padding: 0 28px;
+  border: 1px solid rgba(255, 255, 255, 0.26); border-radius: 999px;
+  font-size: 14px; font-weight: 700; letter-spacing: 0.04em; line-height: 1.4; text-align: center;
+  transition: background 0.2s, border-color 0.2s, color 0.2s, transform 0.2s;
+}
+.x5-btn:hover { border-color: #fff; transform: translateY(-1px); }
+.x5-btn.primary { background: var(--t); border-color: var(--t); color: var(--t-ink); }
+.x5-btn.primary:hover { background: #fff; border-color: #fff; }
+.x5-note { margin-top: 18px; font-size: 12px; line-height: 1.8; color: var(--mut); }
+.x5-badge {
+  position: absolute; top: 14px; left: 14px; z-index: 2; padding: 4px 12px; border-radius: 999px;
+  background: rgba(10, 10, 10, 0.78); -webkit-backdrop-filter: blur(6px); backdrop-filter: blur(6px);
+  font-size: 12px; font-weight: 700; letter-spacing: 0.06em; line-height: 1.6; color: #fff;
+}
+
+/* ---------- HERO ---------- */
+.x5 .x5-hero {
+  position: relative; overflow: hidden; padding: 124px 0 72px;
+  background:
+    radial-gradient(60% 70% at 80% 42%, rgba(43, 179, 173, 0.22), transparent 70%),
+    radial-gradient(45% 55% at 0% 100%, rgba(255, 196, 38, 0.07), transparent 70%),
+    linear-gradient(180deg, #0b0b0c 0%, #0d1112 100%);
+  border-bottom: 1px solid var(--ln);
+}
+.x5-hero-bg { position: absolute; inset: 0; pointer-events: none; overflow: hidden; }
+.x5-hero-bg::before { /* センターサークル */
+  content: ''; position: absolute; left: 76%; top: 52%; width: min(64vw, 820px); aspect-ratio: 1;
+  border: 1px solid rgba(255, 255, 255, 0.06); border-radius: 50%; transform: translate(-50%, -50%);
+}
+.x5-hero-bg::after { /* センターライン */
+  content: ''; position: absolute; left: 76%; top: 0; bottom: 0; width: 1px; background: rgba(255, 255, 255, 0.05);
+}
+.x5-hero-bg span {
+  position: absolute; right: -3vw; bottom: -0.32em; font-family: "Anton", sans-serif; font-size: min(70vw, 820px); line-height: 1;
+  color: transparent; -webkit-text-stroke: 1px rgba(43, 179, 173, 0.16);
+}
+.x5-hero-in {
+  position: relative; z-index: 1; display: grid; grid-template-columns: minmax(0, 1fr);
+  grid-template-areas: "tag" "logo" "catch" "ph" "lead" "btns";
+}
+.x5-hero-copy { display: contents; }
+.x5-hero-tag { grid-area: tag; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; }
+.x5-hero-tag img { width: 44px; height: 44px; border-radius: 10px; }
+.x5-hero-tag .t1 { font-family: "Anton", sans-serif; font-size: 13px; letter-spacing: 0.2em; color: var(--t); }
+.x5-hero-tag .t2 { font-size: 11px; font-weight: 700; letter-spacing: 0.22em; color: var(--mut); padding-left: 14px; border-left: 1px solid rgba(255, 255, 255, 0.2); }
+.x5-logo {
+  grid-area: logo; margin-top: 22px; font-family: "Archivo Black", sans-serif; font-weight: 400;
+  font-size: clamp(42px, 13.2vw, 96px); line-height: 0.9; letter-spacing: -0.01em; white-space: nowrap;
+}
+.x5-logo span { display: block; }
+.x5-logo .c { color: var(--t); }
+.x5-catch { grid-area: catch; margin-top: 22px; font-size: clamp(20px, 5.4vw, 30px); font-weight: 900; line-height: 1.5; letter-spacing: 0.02em; }
+.x5-lead { grid-area: lead; margin-top: 22px; max-width: 520px; font-size: 14px; line-height: 1.95; color: #cfcfca; }
+.x5-hero-btns { grid-area: btns; display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
+.x5-hero-ph { grid-area: ph; position: relative; margin: 28px 0 0; }
+.x5-hero-ph img { width: 100%; height: auto; filter: drop-shadow(0 24px 40px rgba(0, 0, 0, 0.5)); }
+.x5-hero-ph figcaption {
+  display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); margin-top: 6px; border-top: 1px solid rgba(255, 255, 255, 0.16);
+}
+.x5-hero-ph figcaption span { padding-top: 10px; text-align: center; font-size: 12px; font-weight: 700; letter-spacing: 0.02em; white-space: nowrap; }
+.x5-hero-ph figcaption b { display: block; font-family: "Anton", sans-serif; font-weight: 400; font-size: 18px; line-height: 1.1; color: var(--t); }
+
+@media (min-width: 900px) {
+  .x5 .x5-hero { padding: 132px 0 88px; min-height: min(92svh, 860px); display: flex; align-items: center; }
+  .x5-hero .wrap { width: min(1240px, calc(100% - 80px)); }
+  .x5-hero-in {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: 56px; align-content: center;
+    grid-template-areas: "tag ph" "logo ph" "catch ph" "lead ph" "btns ph";
+    grid-template-rows: auto auto auto auto 1fr;
+  }
+  .x5-logo { font-size: clamp(60px, 6.3vw, 96px); margin-top: 30px; }
+  .x5-catch { font-size: clamp(24px, 2.3vw, 32px); margin-top: 28px; }
+  .x5-lead { font-size: 15px; }
+  .x5-hero-btns { margin-top: 34px; align-self: start; }
+  .x5-hero-ph { margin: 0; align-self: center; }
+  .x5-hero-ph figcaption span { font-size: 13px; }
+  .x5-hero-ph figcaption b { font-size: 22px; }
+}
+
+/* ---------- 目次（上に貼りつく） ---------- */
+.x5 .x5-toc { background: rgba(11, 11, 12, 0.9); border-block: 1px solid var(--ln); }
+.x5 .x5-toc a {
+  display: inline-flex; align-items: baseline; gap: 7px; padding: 8px 14px; border: 0; border-radius: 999px; background: none;
+  font-size: 13px; font-weight: 700; letter-spacing: 0.04em; color: var(--mut); white-space: nowrap; transition: color 0.2s, background 0.2s;
+}
+.x5 .x5-toc a b { font-family: "Anton", sans-serif; font-weight: 400; font-size: 12px; letter-spacing: 0.08em; color: rgba(255, 255, 255, 0.35); }
+.x5 .x5-toc a:hover { color: #fff; }
+.x5 .x5-toc a.on { background: rgba(43, 179, 173, 0.14); color: #fff; }
+.x5 .x5-toc a.on b { color: var(--t); }
+.x5 .x5-toc a.shop { color: var(--g); }
+.x5 .x5-toc a.shop b { color: rgba(255, 196, 38, 0.6); }
+
+/* ---------- セクション・見出し ---------- */
+.x5 .x5-sec { padding: 120px 0; }
+.x5 .x5-sec-alt { background: var(--bg1); border-block: 1px solid var(--ln); }
+.x5-head { display: flex; align-items: flex-end; gap: 22px; margin-bottom: 48px; padding-bottom: 24px; border-bottom: 1px solid var(--ln); }
+.x5-no { flex: none; font-family: "Anton", sans-serif; font-size: clamp(60px, 7.4vw, 112px); line-height: 0.78; color: transparent; -webkit-text-stroke: 1.5px var(--t); }
+.x5-head > div { min-width: 0; }
+.x5-eyebrow { display: block; font-size: 12px; font-weight: 700; letter-spacing: 0.22em; color: var(--t); }
+.x5-head h2 { margin-top: 8px; font-size: clamp(26px, 3.3vw, 44px); font-weight: 900; line-height: 1.3; letter-spacing: 0.02em; }
+.x5-sub {
+  display: flex; align-items: center; gap: 12px; margin: 0 0 20px;
+  font-family: "Archivo Black", "Noto Sans JP", sans-serif; font-weight: 400; font-size: 17px; letter-spacing: 0.03em;
+}
+.x5-sub::before { content: ''; width: 22px; height: 3px; background: var(--t); }
+.x5-sub ~ .x5-sub { margin-top: 72px; }
+
+/* ---------- 01 動画 ---------- */
+.x5 .yt-lite { border: 0; border-radius: 10px; }
+.x5 .yt-lite img { opacity: 0.92; }
+.x5-vids { display: grid; grid-template-columns: minmax(0, 1.65fr) minmax(0, 1fr); grid-template-rows: repeat(3, auto); gap: 22px 28px; align-items: center; }
+.x5-vid.is-top { grid-row: 1 / span 3; align-self: start; }
+.x5-vid.is-top .t { margin-top: 16px; font-size: 20px; font-weight: 900; line-height: 1.55; }
+.x5-vid.is-top .yt-lite .rank { background: var(--g); font-size: 24px; padding: 8px 14px 9px; }
+.x5-vid.is-top .yt-lite .play { transform: scale(1.25); }
+.x5-vids .x5-vid:not(.is-top) { display: grid; grid-template-columns: minmax(0, 46%) minmax(0, 1fr); gap: 16px; align-items: center; }
+.x5-vids .x5-vid:not(.is-top) .yt-lite .play { transform: scale(0.8); }
+.x5-vid .t { font-size: 14px; font-weight: 700; line-height: 1.65; }
+.x5-yt {
+  display: flex; align-items: center; gap: 18px; margin-top: 44px; padding: 20px 26px; border: 1px solid var(--ln); border-radius: 14px;
+  background: linear-gradient(90deg, rgba(255, 0, 51, 0.13), rgba(255, 0, 51, 0) 60%), var(--bg1); transition: border-color 0.2s;
+}
+.x5-yt:hover { border-color: rgba(255, 0, 51, 0.55); }
+.x5-yt .play { position: relative; flex: none; width: 52px; height: 36px; border-radius: 10px; background: #ff0033; }
+.x5-yt .play::before { content: ''; position: absolute; left: 21px; top: 10px; border-left: 14px solid #fff; border-top: 8px solid transparent; border-bottom: 8px solid transparent; }
+.x5-yt .nm strong { display: block; font-size: 17px; font-weight: 900; line-height: 1.4; }
+.x5-yt .nm small { font-size: 12px; color: var(--mut); }
+.x5-yt .go { margin-left: auto; font-size: 14px; font-weight: 700; color: #fff; white-space: nowrap; }
+
+/* ---------- 02 メンバー ---------- */
+.x5-members { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 18px; }
+.x5 .s5-member { background: none; border: 0; overflow: visible; }
+.x5 .s5-member .ph { aspect-ratio: 4 / 5; border-radius: 12px; overflow: hidden; background: #1a1b1e; }
+/* 2026-11-05 クリス指示（47本目）「05クリスの顔切れてる／全員の顔のサイズをなんとなく揃えて」:
+   旧版は顔の幅で 0.58 に揃えて拡大しすぎ、クリスの帽子・頭の上が枠で切れていた。
+   今は「頭頂（帽子・髪の上）〜あご の高さ ÷ カード高さ」を 0.60 前後・頭頂を枠の上から 8%・顔の中心を横中央に置く（p_main6/fit2.py）。
+   バンバ(0.66)・クリス(0.61)は写真がそれ以上小さくできない（枠に余白が出る）ので拡大なし。ホバーの 1.05 倍は頭頂を基準に広げ、頭が上に切れないようにする */
+.x5 .s5-member .ph img { position: absolute; max-width: none; object-fit: fill; }
+.x5 .s5-member .ph img[src*="member-rikuto."] { width: 162.6%; height: 122.0%; left: 0.0%; top: -10.9%; transform-origin: 31% 16%; } /* 頭の高さ/カード 0.600・頭頂 0.080・あご 0.680・顔の中心x 0.50 */
+.x5 .s5-member .ph img[src*="member-hallelujah-2."] { width: 165.6%; height: 124.2%; left: -31.7%; top: -9.4%; transform-origin: 49% 14%; } /* 頭の高さ/カード 0.600・頭頂 0.080・あご 0.680・顔の中心x 0.50 */
+.x5 .s5-member .ph img[src*="member-bamba-2."] { width: 133.3%; height: 100.0%; left: -33.3%; top: 0.0%; transform-origin: 63% 9%; } /* 頭の高さ/カード 0.661・頭頂 0.087・あご 0.748・顔の中心x 0.51 */
+.x5 .s5-member .ph img[src*="member-nicholas."] { width: 166.3%; height: 124.7%; left: -16.9%; top: -14.8%; transform-origin: 40% 18%; } /* 頭の高さ/カード 0.600・頭頂 0.080・あご 0.680・顔の中心x 0.50 */
+.x5 .s5-member .ph img[src*="member-chris-3."] { width: 210.8%; height: 100.0%; left: -60.7%; top: 0.0%; transform-origin: 52% 6%; } /* 頭の高さ/カード 0.611・頭頂 0.057・あご 0.668・顔の中心x 0.45（右に広がる髪まで入れるため、髪を含む頭の中心を横中央に） */
+.x5 .s5-member .ph::after { /* 下だけ締める */
+  content: ''; position: absolute; inset: auto 0 0; height: 30%; background: linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.45)); pointer-events: none;
+}
+.x5 .s5-member figcaption { display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: 12px; align-items: center; padding: 16px 2px 0; }
+.x5 .s5-member .no { grid-row: 1 / span 2; font-family: "Anton", sans-serif; font-size: 40px; line-height: 1; letter-spacing: 0; color: var(--t); }
+.x5 .s5-member strong { margin: 0; font-size: 19px; line-height: 1.3; letter-spacing: 0.04em; }
+.x5 .s5-member .en { font-family: "Anton", sans-serif; font-size: 11px; letter-spacing: 0.2em; line-height: 1.5; color: var(--mut); }
+.x5 .s5-member .yt-hint, .x5 .s5-member .s5-prof { grid-column: 1 / -1; justify-self: start; }
+.x5 .s5-member .s5-prof { margin-top: 12px; }
+.x5-do { display: grid; grid-template-columns: 220px repeat(3, minmax(0, 1fr)); margin-top: 80px; border-top: 1px solid var(--ln); }
+.x5-do-label { padding: 28px 24px 0 0; font-family: "Anton", sans-serif; font-weight: 400; font-size: 22px; letter-spacing: 0.06em; line-height: 1.2; }
+.x5-do-label small { display: block; margin-top: 8px; font-family: "Noto Sans JP", sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.1em; color: var(--mut); }
+.x5-do-item { padding: 28px 28px 0; border-left: 1px solid var(--ln); }
+.x5-do-item .num { font-family: "Anton", sans-serif; font-size: 14px; letter-spacing: 0.14em; color: var(--t); }
+.x5-do-item h3 { margin-top: 6px; font-size: 19px; font-weight: 900; line-height: 1.45; }
+.x5-do-item p { margin-top: 10px; font-size: 14px; line-height: 1.85; color: var(--mut); }
+
+/* ---------- 03 キャンプ ---------- */
+.x5-camps { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px; }
+.x5-camp { display: flex; flex-direction: column; background: var(--bg2); border: 1px solid var(--ln); border-radius: 16px; overflow: hidden; transition: border-color 0.25s, transform 0.25s; }
+.x5-camp:hover { border-color: rgba(43, 179, 173, 0.6); transform: translateY(-3px); }
+.x5-camp .ph { position: relative; overflow: hidden; }
+.x5-camp .ph img { width: 100%; height: auto; aspect-ratio: 16 / 10; object-fit: cover; object-position: center 14%; transition: transform 0.6s, filter 0.4s; }
+.x5-camp:hover .ph img { transform: scale(1.04); }
+.x5-camp .body { display: flex; flex-direction: column; flex: 1; padding: 26px 28px 24px; }
+.x5-camp .date, .x5-meet .date, .x5-event .date { font-family: "Anton", sans-serif; font-size: 14px; letter-spacing: 0.16em; color: var(--t); }
+.x5-camp h3 { margin-top: 6px; font-family: "Archivo Black", sans-serif; font-weight: 400; font-size: clamp(22px, 2.1vw, 28px); line-height: 1.15; letter-spacing: 0; }
+.x5-camp h3 small { display: block; margin-top: 8px; font-family: "Noto Sans JP", sans-serif; font-size: 15px; font-weight: 700; letter-spacing: 0.02em; color: #fff; opacity: 0.86; }
+.x5-camp p { margin-top: 14px; font-size: 14px; line-height: 1.85; color: var(--mut); }
+.x5-camp dl, .x5-meet dl, .x5-event dl { margin-top: 18px; border-top: 1px solid var(--ln); }
+.x5-camp dl div, .x5-meet dl div, .x5-event dl div { display: grid; grid-template-columns: 4.5em minmax(0, 1fr); gap: 12px; padding: 9px 0; border-bottom: 1px solid var(--ln); font-size: 14px; line-height: 1.6; }
+.x5-camp dt, .x5-meet dt, .x5-event dt { color: var(--mut); white-space: nowrap; }
+.x5-event dl div { grid-template-columns: 5.5em minmax(0, 1fr); }
+.x5-camp dd, .x5-meet dd, .x5-event dd { margin: 0; }
+.x5-camp .more { margin-top: auto; padding-top: 20px; font-size: 13px; font-weight: 700; color: #fff; }
+.x5-camp:hover .more { color: var(--t); }
+
+/* FaFa の開催レポート（PC=カーソルでなぞると写真の上に出る／スマホ=写真の下に常時） */
+.x5-rep { padding: 18px 20px 20px; background: linear-gradient(180deg, #10201f, #0f1615); border-top: 1px solid rgba(43, 179, 173, 0.35); }
+.x5-rep .k { display: block; font-family: "Anton", sans-serif; font-size: 12px; letter-spacing: 0.2em; color: var(--t); }
+.x5-rep ul { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; margin-top: 10px; }
+.x5-rep li { min-width: 0; }
+.x5-rep strong { display: block; font-family: "Anton", sans-serif; font-weight: 400; font-size: 38px; line-height: 1.05; color: #fff; white-space: nowrap; }
+.x5-rep strong small { margin-left: 2px; font-family: "Noto Sans JP", sans-serif; font-size: 0.42em; font-weight: 900; }
+.x5-rep li:nth-child(2) strong { font-family: "Noto Sans JP", sans-serif; font-weight: 900; font-size: 30px; line-height: 1.4; }
+.x5-rep li > span { display: block; margin-top: 4px; font-size: 12px; font-weight: 700; line-height: 1.5; color: #cfd8d6; }
+.x5-rep-hint { display: none; }
+@media (hover: hover) and (pointer: fine) {
+  .x5-rep {
+    position: absolute; inset: 0; z-index: 3; display: flex; flex-direction: column; justify-content: flex-end; padding: 26px 28px;
+    background: linear-gradient(180deg, rgba(6, 14, 13, 0.25) 0%, rgba(6, 14, 13, 0.88) 48%, rgba(6, 14, 13, 0.96) 100%);
+    border: 0; opacity: 0; transition: opacity 0.35s;
+  }
+  .x5-rep li { transform: translateY(12px); transition: transform 0.45s cubic-bezier(0.2, 0.8, 0.2, 1); }
+  .x5-rep li:nth-child(2) { transition-delay: 0.05s; }
+  .x5-rep li:nth-child(3) { transition-delay: 0.1s; }
+  .x5-rep strong { font-size: 54px; }
+  .x5-rep li:nth-child(2) strong { font-size: 42px; line-height: 1.32; }
+  .x5-rep li > span { font-size: 13px; }
+  .x5-camp.is-fafa:hover .x5-rep, .x5-camp.is-fafa:focus-visible .x5-rep { opacity: 1; }
+  .x5-camp.is-fafa:hover .x5-rep li, .x5-camp.is-fafa:focus-visible .x5-rep li { transform: none; }
+  .x5-rep-hint {
+    display: block; position: absolute; right: 14px; bottom: 14px; z-index: 2; padding: 6px 12px 6px 28px; border-radius: 999px;
+    background: rgba(43, 179, 173, 0.92); color: var(--t-ink); font-size: 12px; font-weight: 700; line-height: 1.5; transition: opacity 0.25s;
+  }
+  .x5-rep-hint::before { content: ''; position: absolute; left: 12px; top: 50%; width: 8px; height: 8px; margin-top: -4px; border-radius: 50%; background: var(--t-ink); animation: x5pulse 1.6s ease-in-out infinite; }
+  .x5-camp.is-fafa:hover .x5-rep-hint { opacity: 0; }
+}
+@keyframes x5pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+
+/* 準備中のキャンプ（小さい行） */
+.x5-next { margin-top: 28px; border: 1px solid var(--ln); border-radius: 14px; overflow: hidden; background: var(--bg1); }
+.x5-next-label { display: flex; align-items: baseline; gap: 12px; padding: 14px 22px; border-bottom: 1px solid var(--ln); font-family: "Anton", sans-serif; font-weight: 400; font-size: 14px; letter-spacing: 0.18em; }
+.x5-next-label small { font-family: "Noto Sans JP", sans-serif; font-size: 12px; font-weight: 700; letter-spacing: 0.06em; color: var(--mut); }
+.x5-next-row {
+  display: grid; grid-template-columns: 72px 104px minmax(0, 1.25fr) minmax(0, 1fr) auto; align-items: center; gap: 18px;
+  padding: 16px 22px; transition: background 0.2s;
+}
+.x5-next-row + .x5-next-row { border-top: 1px solid var(--ln); }
+.x5-next-row:hover { background: rgba(43, 179, 173, 0.06); }
+.x5-next-row .st { justify-self: start; padding: 2px 10px; border: 1px dashed rgba(255, 196, 38, 0.6); border-radius: 999px; font-size: 11px; font-weight: 700; line-height: 1.7; color: var(--g); white-space: nowrap; }
+.x5-next-row .dt { font-family: "Anton", "Noto Sans JP", sans-serif; font-size: 15px; letter-spacing: 0.06em; white-space: nowrap; }
+.x5-next-row .nm { font-family: "Archivo Black", sans-serif; font-size: 11px; letter-spacing: 0.06em; color: var(--mut); line-height: 1.4; }
+.x5-next-row .nm b { display: block; font-family: "Noto Sans JP", sans-serif; font-size: 16px; font-weight: 900; letter-spacing: 0.01em; color: #fff; }
+.x5-next-row .ds { font-size: 13px; line-height: 1.6; color: var(--mut); }
+.x5-next-row .go { font-size: 13px; font-weight: 700; color: var(--t); white-space: nowrap; }
+
+/* ---------- 04 オフ会 ---------- */
+.x5-meets { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; }
+.x5-meet { display: grid; grid-template-columns: minmax(0, 40%) minmax(0, 1fr); background: var(--bg2); border: 1px solid var(--ln); border-radius: 16px; overflow: hidden; }
+.x5-meet .ph { position: relative; min-height: 260px; overflow: hidden; }
+.x5-meet .ph img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.x5-meet .ph.type { display: flex; align-items: center; justify-content: center; background: radial-gradient(80% 80% at 30% 20%, rgba(43, 179, 173, 0.5), transparent 70%), linear-gradient(160deg, #13403d, #0d1a19); }
+.x5-meet .ph .mark { font-family: "Anton", sans-serif; font-size: clamp(28px, 2.6vw, 38px); line-height: 1.05; letter-spacing: 0.03em; text-align: center; }
+.x5-meet .body { padding: 24px 24px 22px; }
+.x5-meet h3 { margin-top: 6px; font-size: 18px; font-weight: 900; line-height: 1.45; }
+.x5-meet h3 small { display: block; margin-top: 4px; font-family: "Anton", sans-serif; font-size: 11px; font-weight: 400; letter-spacing: 0.16em; color: var(--mut); }
+.x5-meet p { margin-top: 12px; font-size: 14px; line-height: 1.8; color: var(--mut); }
+/* 2026-11-05 クリス指示でオニール32番ジャケットの2枚（店先・入口）を削除 → 会場の2枚だけ。4列の時と同じ1枚の大きさで左に詰める */
+.x5-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 12px; margin: 24px 0 0; max-width: calc(50% - 6px); }
+.x5-gallery img { width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 10px; }
+.x5-gallery figcaption { grid-column: 1 / -1; font-size: 12px; color: var(--mut); }
+
+/* ---------- 05 コラボ ---------- */
+.x5-event { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr); margin: 0; background: var(--bg2); border: 1px solid var(--ln); border-radius: 16px; overflow: hidden; }
+.x5-event .ph img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; }
+.x5-event .body { display: flex; flex-direction: column; justify-content: center; padding: 32px 34px; }
+.x5-event strong { display: block; margin-top: 8px; font-family: "Archivo Black", sans-serif; font-weight: 400; font-size: clamp(22px, 2.2vw, 30px); line-height: 1.15; }
+.x5-event p { margin-top: 14px; font-size: 14px; line-height: 1.85; color: var(--mut); }
+.x5-2k { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 22px; margin-bottom: 22px; padding: 18px 24px; border: 1px solid var(--ln); border-radius: 14px; background: var(--bg2); }
+.x5-2k .k-logo { width: min(300px, 62%); height: auto; } /* 2026-11-05「NBA2K ロゴちっちゃくね」→ 一新前（min(360px,70%)）に近い大きさへ */
+.x5-2k p { font-size: 14px; line-height: 1.7; color: #cfcfca; }
+.x5-vids-2k { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+.x5-vids-2k .t { margin-top: 12px; font-size: 13px; }
+.x5-vids-2k .v { display: block; margin-top: 4px; font-size: 12px; font-weight: 700; color: var(--mut); }
+
+/* ---------- 06 ご相談 ---------- */
+.x5-work {
+  display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 28px 40px; padding: 44px;
+  border: 1px solid rgba(43, 179, 173, 0.32); border-radius: 20px;
+  background: radial-gradient(70% 90% at 0% 0%, rgba(43, 179, 173, 0.18), transparent 70%), var(--bg2);
+}
+.x5-work-h { font-size: clamp(24px, 2.9vw, 36px); font-weight: 900; line-height: 1.4; }
+.x5-work-main > p { margin-top: 16px; font-size: 15px; line-height: 1.9; color: #cfcfca; }
+.x5-offer { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 22px; }
+.x5-offer li { padding: 6px 14px; border: 1px solid rgba(255, 255, 255, 0.2); border-radius: 999px; font-size: 13px; font-weight: 700; line-height: 1.6; }
+.x5-sponsor { align-self: start; padding: 28px; border: 1px solid rgba(255, 196, 38, 0.38); border-radius: 14px; background: rgba(255, 196, 38, 0.06); }
+.x5-sponsor .pill { display: inline-block; padding: 3px 12px; border-radius: 999px; background: var(--g); color: #141005; font-family: "Anton", sans-serif; font-size: 12px; letter-spacing: 0.14em; line-height: 1.6; }
+.x5-sponsor h3 { margin-top: 14px; font-size: 21px; font-weight: 900; line-height: 1.5; }
+.x5-sponsor p { margin-top: 10px; font-size: 14px; line-height: 1.85; color: var(--mut); }
+.x5-work-btns { grid-column: 1 / -1; display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding-top: 28px; border-top: 1px solid var(--ln); }
+.x5-work-btns .x5-note { flex-basis: 100%; margin-top: 4px; }
+.x5 .x5-solo { margin-top: 72px; padding-top: 0; border-top: 0; text-align: left; }
+.x5 .x5-solo h3 { font-size: clamp(18px, 2vw, 22px); }
+.x5 .x5-solo > p { margin: 8px 0 0; }
+.x5 .x5-solo .s5-solo-list { max-width: none; margin: 22px 0 0; gap: 0; border-top: 1px solid var(--ln); }
+.x5 .x5-solo .s5-solo-list li { border: 0; border-bottom: 1px solid var(--ln); border-radius: 0; }
+@media (min-width: 761px) {
+  .x5 .x5-solo .s5-solo-list li { grid-template-columns: 220px minmax(0, 1fr) auto; padding: 16px 4px; }
+  .x5 .x5-solo .s5-solo-list .via { grid-column: auto; justify-self: end; }
+}
+
+/* 締めの CONTACT（共通部品）をページの色に合わせる */
+.x5 .brand-close { background: var(--bg0); border-top: 1px solid var(--ln); }
+
+/* ---------- タブレット ---------- */
+@media (max-width: 1080px) {
+  .x5-members { gap: 12px; }
+  .x5 .s5-member .no { font-size: 32px; }
+  .x5 .s5-member strong { font-size: 16px; }
+  .x5-do { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .x5-do-label { grid-column: 1 / -1; padding: 24px 0 0; }
+  .x5-do-item:first-of-type { border-left: 0; padding-left: 0; }
+  .x5-next-row { grid-template-columns: 72px 104px minmax(0, 1fr) auto; }
+  .x5-next-row .ds { display: none; }
+  .x5-meets { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* ---------- スマホ ---------- */
+@media (max-width: 760px) {
+  .x5 .x5-sec { padding: 80px 0; }
+  .x5-head { gap: 14px; margin-bottom: 32px; padding-bottom: 18px; }
+  .x5-no { font-size: 54px; -webkit-text-stroke-width: 1.2px; }
+  .x5-eyebrow { font-size: 11px; letter-spacing: 0.16em; }
+  .x5-head h2 { font-size: 23px; }
+  .x5-hero-btns .x5-btn { flex: 1 1 140px; padding: 0 16px; }
+
+  .x5-vids { grid-template-columns: minmax(0, 1fr); grid-template-rows: none; gap: 16px; }
+  .x5-vid.is-top { grid-row: auto; margin-bottom: 6px; }
+  .x5-vid.is-top .t { margin-top: 12px; font-size: 16px; }
+  .x5-vid.is-top .yt-lite .rank { font-size: 18px; padding: 6px 11px 7px; }
+  .x5-vid.is-top .yt-lite .play { transform: none; }
+  .x5-vids .x5-vid:not(.is-top) { gap: 12px; }
+  .x5-vid .t { font-size: 13px; line-height: 1.6; }
+  .x5-yt { flex-wrap: wrap; gap: 12px 14px; padding: 18px; }
+  .x5-yt .nm { flex: 1 1 0; min-width: 0; }
+  .x5-yt .go { flex-basis: 100%; margin-left: 0; padding-top: 12px; border-top: 1px solid var(--ln); }
+
+  .x5-members { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px 12px; }
+  .x5 .s5-member:last-child { grid-column: 1 / -1; justify-self: center; width: calc(50% - 6px); }
+  .x5 .s5-member figcaption { padding-top: 12px; column-gap: 9px; }
+  .x5 .s5-member .no { font-size: 30px; }
+  .x5 .s5-member .s5-prof { margin-top: 8px; }
+  .x5-do { grid-template-columns: minmax(0, 1fr); margin-top: 56px; }
+  .x5-do-item, .x5-do-item:first-of-type { padding: 20px 0; border-left: 0; border-bottom: 1px solid var(--ln); }
+  .x5-do-item h3 { font-size: 17px; }
+
+  .x5-camps { grid-template-columns: minmax(0, 1fr); gap: 20px; }
+  .x5-camp .body { padding: 22px 20px 20px; }
+  .x5-camp h3 small { font-size: 14px; }
+  .x5-rep strong { font-size: 34px; }
+  .x5-rep li:nth-child(2) strong { font-size: 27px; line-height: 1.45; }
+  .x5-rep li > span { font-size: 11px; }
+  .x5-next-label { padding: 12px 18px; }
+  .x5-next-row { grid-template-columns: auto minmax(0, 1fr) auto; grid-template-areas: "st dt go" "nm nm nm"; gap: 8px 12px; padding: 14px 18px; }
+  .x5-next-row .st { grid-area: st; }
+  .x5-next-row .dt { grid-area: dt; font-size: 14px; }
+  .x5-next-row .nm { grid-area: nm; }
+  .x5-next-row .go { grid-area: go; }
+
+  .x5-meet { grid-template-columns: minmax(0, 1fr); }
+  .x5-meet .ph { min-height: 0; aspect-ratio: 16 / 9; }
+  .x5-meet .body { padding: 20px; }
+  .x5-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; max-width: none; }
+
+  .x5-event { grid-template-columns: minmax(0, 1fr); }
+  .x5-event .body { padding: 22px 20px; }
+  .x5-2k { padding: 16px 18px; }
+  .x5-2k .k-logo { width: min(240px, 70%); height: auto; }
+  .x5-2k p { font-size: 13px; }
+  .x5-vids-2k { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 12px; }
+  .x5-vids-2k .t { font-size: 12px; }
+
+  .x5-work { grid-template-columns: minmax(0, 1fr); padding: 26px 20px; border-radius: 16px; }
+  .x5-work-h { font-size: 23px; }
+  .x5-work-main > p { font-size: 14px; }
+  .x5-sponsor { padding: 22px 18px; }
+  .x5-sponsor h3 { font-size: 18px; }
+  .x5-work-btns .x5-btn { flex: 1 1 100%; }
+  .x5 .x5-solo { margin-top: 56px; }
+  .x5 .x5-solo .s5-solo-list li { padding: 14px 2px; }
+}
+
+/* クリスは TikTok のフォロワー数（2026-11-05 クリス指示）。YouTube の赤ラベルを TikTok の色に */
+.x5 .s5-yt-pop .lbl.tt { color: #25f4ee; }
+.x5 .s5-yt-pop .lbl.tt::before { background: linear-gradient(90deg, #25f4ee 50%, #fe2c55 50%); }
+.x5 .s5-member .s5-yt-pop a[href*="tiktok"] { background: #fe2c55; }
+
+/* 改行の最終チェック（2026-11-05 クリス指示68本目）: スマホで短いラベルが途中で折れないように */
+.x5-br-sp { display: none; }
+@media (max-width: 760px) {
+  .x5-br-sp { display: inline; } /* 3列の狭い欄に1行で入らない文の、折る位置を固定 */
+  #contact .x5-head h2 { font-size: 22px; } /* 12文字を390px幅で1行に */
+  .x5 .s5-yt-pop { padding-inline: 8px; }
+  .x5 .s5-yt-pop .lbl { letter-spacing: 0; }
+  .x5 .s5-yt-pop .lbl::before { margin-right: 4px; width: 12px; }
+  .x5 .s5-yt-pop a { padding-inline: 9px; letter-spacing: 0; }
+}

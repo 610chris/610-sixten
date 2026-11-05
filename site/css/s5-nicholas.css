@@ -69,12 +69,16 @@
 
 /* 右: 情報パネル */
 .nk-info { min-width: 0; }
-.nk-pull { font-family: var(--k-disp); font-size: 12px; letter-spacing: 0.3em; color: var(--k-gold); }
-.nk-pull em { font-style: normal; padding: 2px 8px; margin-left: 4px; border-radius: 3px; background: var(--k-holo); color: #120d05; letter-spacing: 0.2em; }
+.nk-pull { margin-top: 12px; font-size: 13px; font-weight: 700; color: var(--k-gold); }
+.nk-pull em { display: inline-block; font-style: normal; padding: 3px 10px; border-radius: 3px; background: var(--k-holo); color: #120d05; letter-spacing: 0.06em; }
 .nk-info h1 { margin-top: 16px; font-size: clamp(46px, 6vw, 78px); font-weight: 900; line-height: 1.05; letter-spacing: 0.02em; }
 .nk-info h1 small { display: block; margin-top: 14px; font-family: var(--k-disp); font-size: clamp(13px, 1.4vw, 16px); font-weight: 400; letter-spacing: 0.24em; color: var(--k-gold); }
-.nk-role { margin-top: 18px; font-size: 15px; font-weight: 700; color: var(--k-ink); }
-.nk-intro { margin-top: 12px; max-width: 600px; font-size: 15px; line-height: 2; color: #d9cfb8; }
+.nk-role { font-size: 15px; font-weight: 700; color: var(--k-ink); }
+/* 肩書き2つは横一列（2026-11-05 クリス指示） */
+.nk-tags { display: flex; flex-wrap: nowrap; align-items: center; gap: 12px; white-space: nowrap; }
+.nk-tags .nk-pull { margin-top: 0; }
+@media (max-width: 420px) { .nk-tags { gap: 8px; } .nk-tags .nk-role { font-size: 13px; } .nk-tags .nk-pull { font-size: 11.5px; } .nk-tags .nk-pull em { padding: 3px 8px; letter-spacing: 0.03em; } }
+.nk-intro { margin-top: 20px; max-width: 600px; font-size: 15px; line-height: 2; color: #d9cfb8; }
 
 .nk-cta { display: grid; gap: 12px; margin-top: 28px; max-width: 600px; }
 .nk-btn { display: flex; align-items: center; gap: 16px; padding: 16px 22px; border-radius: 14px; transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s; }
@@ -124,8 +128,9 @@
 .nk-back-head .set { flex: none; font-family: var(--k-disp); font-size: 10px; letter-spacing: 0.24em; padding: 6px 10px; border: 1px solid rgba(233, 196, 106, 0.5); border-radius: 4px; }
 .nk-back-body { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 30px 40px; padding: 30px 30px 32px; border-radius: 0 0 12px 12px;
   background-image: repeating-linear-gradient(0deg, rgba(34, 25, 11, 0.035) 0 1px, transparent 1px 4px); }
-.nk-back .bio p { font-size: 15px; line-height: 2; }
+.nk-back .bio p { font-size: 15px; line-height: 2; word-break: auto-phrase; text-wrap: pretty; }
 .nk-back .bio p + p { margin-top: 14px; }
+.nk-back .bio .nw { display: inline-block; max-width: 100%; }
 .nk-stats { width: 100%; border-collapse: collapse; align-self: start; }
 .nk-stats caption { caption-side: top; text-align: left; padding: 0 0 8px; font-family: var(--k-disp); font-size: 11px; letter-spacing: 0.2em; color: #6b5527; border-bottom: 2px solid var(--k-paper-ink); }
 .nk-stats th, .nk-stats td { padding: 10px 0; border-bottom: 1px solid rgba(34, 25, 11, 0.2); vertical-align: middle; }
@@ -287,3 +292,103 @@
   .nk-card, .nk-v, .nk-slab, .nk-binder a, .nk-btn, .nk a.nk-mail { transition: none; }
   .nk-v:hover, .nk-slab:hover, .nk-binder a:hover, .nk-btn.yt:hover, .nk a.nk-mail:hover { transform: none; }
 }
+
+/* ヒーローのカード: NBA 2K Mobile 風の絵（card-2k.webp）をそのまま見せる。枠・名前・数値は絵に描いてある */
+.nk-card.k2 { padding: 0; background: none; border-radius: 4.6% / 3.3%; }
+.nk-card.k2 .nk-card-in { border: 0; box-shadow: none; background: transparent; border-radius: inherit; }
+.nk-card-img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.nk-card.k2 .nk-holo { opacity: 0.1; }
+
+/* ===== 2026-11-05 クリス指示の反映（ニコラス） =====
+   ・数字（万・VIEWS・人）をきれいに: 数字は Teko、「万」は小さめの太ゴシック、単位はさらに小さく、ベースラインを揃える
+   ・代表的な動画は横スクロール＋左右ボタン（スライド式）
+   ・オープニングのカードがそのままヒーローのカードに重なって着地する → 再生中は本物のカードを隠しておく */
+.s5-intro-on .nk-hero .nk-card { visibility: hidden; }
+
+.nm { font-family: var(--k-num); font-weight: 600; font-variant-numeric: lining-nums tabular-nums; letter-spacing: 0.01em; white-space: nowrap; }
+.nm u { text-decoration: none; font-family: "Noto Sans JP", sans-serif; font-weight: 900; font-size: 0.46em; margin-left: 0.06em; position: relative; top: -0.06em; }
+.nm .dot { margin: 0 0.04em; }
+.nk-stats td b.nm { font-size: 40px; line-height: 0.95; }
+.nk-stats td b.nm i { font-size: 12px; margin-left: 4px; position: relative; top: -0.15em; }
+.nk-slab .num.nm { font-size: 38px; line-height: 0.85; }
+.nk-slab .num.nm i { display: block; margin: 4px 0 0; text-align: right; font-size: 8px; letter-spacing: 0.32em; }
+.yt-lite .views { font-variant-numeric: lining-nums; }
+.yt-lite .views b { font-family: var(--k-num); font-weight: 600; font-size: 1.5em; line-height: 0; margin-right: 1px; position: relative; top: 0.06em; }
+.nk-btn .cnt { white-space: nowrap; }
+.nk-btn .cnt { display: inline-block; }
+.nk-btn .cnt b { display: inline; font-family: var(--k-num); font-weight: 600; font-size: 1.45em; line-height: 0; margin-right: 1px; position: relative; top: 0.05em; }
+
+/* 写真（Instagram） */
+.nk-photos { display: grid; grid-auto-flow: column; grid-auto-columns: calc((100% - 32px) / 3); gap: 16px; margin-top: 26px; overflow-x: auto; scroll-snap-type: x mandatory; overscroll-behavior-x: contain; padding-bottom: 12px; scrollbar-width: thin; scrollbar-color: rgba(233, 196, 106, 0.4) transparent; }
+.nk-photos figure { position: relative; margin: 0; aspect-ratio: 4 / 3; border-radius: 12px; overflow: hidden; border: 1px solid var(--k-line); scroll-snap-align: start; background: #000; }
+.nk-photos img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.nk-photos img[src*="japan-game"] { object-position: 50% 78%; }
+.nk-photos img[src*="blacksamurai"] { object-position: 50% 30%; }
+.nk-photos figcaption { position: absolute; left: 10px; bottom: 10px; padding: 4px 8px; border-radius: 3px; background: rgba(8, 7, 5, 0.72); font-family: var(--k-disp); font-size: 10px; letter-spacing: 0.2em; color: var(--k-gold-hi); }
+
+/* 代表的な動画: スライド */
+.nk-slider { position: relative; }
+.nk-slider .nk-slabs { display: grid; grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: calc((100% - 40px) / 3); gap: 20px; overflow-x: auto; scroll-snap-type: x mandatory; overscroll-behavior-x: contain; scrollbar-width: none; padding: 6px 2px 10px; }
+.nk-slider .nk-slabs::-webkit-scrollbar { display: none; }
+.nk-slider .nk-slab { scroll-snap-align: start; }
+.nk-nav { display: flex; justify-content: flex-end; gap: 10px; margin-top: 10px; }
+.nk-nav button { width: 48px; height: 48px; border-radius: 50%; border: 1px solid rgba(233, 196, 106, 0.55); background: rgba(233, 196, 106, 0.08); color: var(--k-gold); font-size: 18px; line-height: 1; cursor: pointer; transition: background 0.2s, opacity 0.2s; }
+.nk-nav button:hover:not(:disabled) { background: rgba(233, 196, 106, 0.22); }
+.nk-nav button:disabled { opacity: 0.28; cursor: default; }
+.nk-slider.fits .nk-nav { display: none; }
+
+/* STARTING 5IVE（旧05＋旧07）: ストーリーは2枚 */
+.nk-story { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.nk-act { margin-top: 22px; }
+
+@media (max-width: 1000px) {
+  .nk-slider .nk-slabs { grid-auto-columns: calc((100% - 20px) / 2.2); }
+  .nk-photos { grid-auto-columns: calc((100% - 16px) / 2.2); }
+}
+@media (max-width: 760px) {
+  .nk-story { grid-template-columns: minmax(0, 1fr); }
+  .nk-slider .nk-slabs { grid-auto-columns: 78%; gap: 14px; margin-inline: -16px; padding: 4px 16px 10px; scroll-padding-inline: 16px; }
+  .nk-photos { grid-auto-columns: 74%; gap: 12px; margin-inline: -16px; padding: 0 16px 12px; scroll-padding-inline: 16px; }
+  .nk-stats td b.nm { font-size: 34px; }
+  .nk-slab .num.nm { font-size: 34px; }
+  .nk-nav { margin-top: 6px; }
+  .nk-nav button { width: 42px; height: 42px; }
+}
+
+/* 71本目: 01の空きをなくす — 本文の下に STATS を横一列（スマホは2×2） */
+.nk-back-body { grid-template-columns: minmax(0, 1fr); gap: 22px; }
+.nk-stats, .nk-stats caption { display: block; }
+.nk-stats tbody { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-bottom: 2px solid var(--k-paper-ink); }
+.nk-stats tr { display: flex; flex-direction: column; justify-content: flex-start; gap: 8px; padding: 14px 16px; border-left: 1px solid rgba(34, 25, 11, 0.2); }
+.nk-stats tr:first-child { border-left: 0; padding-left: 0; }
+.nk-stats th, .nk-stats td, .nk-stats tr.tot th, .nk-stats tr.tot td { width: auto; padding: 0; border: 0; text-align: left; }
+@media (max-width: 640px) {
+  .nk-stats tbody { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .nk-stats tr { padding: 12px 0 12px 14px; }
+  .nk-stats tr:nth-child(odd) { border-left: 0; padding-left: 0; }
+  .nk-stats tr:nth-child(n+3) { border-top: 1px solid rgba(34, 25, 11, 0.2); }
+  .nk-stats td b.nm { font-size: 30px; }
+}
+
+/* 72本目: 代表的な動画は説明文（タイトルのくり返し）を消したので下の余白を詰める／旧05「これまでの歩み」を01の中に横一列の年表で（スマホは縦） */
+.nk-slab { padding-bottom: 10px; }
+.nk-tl .cap { padding: 0 0 8px; font-family: var(--k-disp); font-size: 11px; letter-spacing: 0.2em; color: #6b5527; border-bottom: 2px solid var(--k-paper-ink); }
+.nk-tl ol { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); border-bottom: 2px solid var(--k-paper-ink); }
+.nk-tl li { min-width: 0; padding: 14px 16px; border-left: 1px solid rgba(34, 25, 11, 0.2); }
+.nk-tl li:first-child { border-left: 0; padding-left: 0; }
+.nk-tl .y { display: block; font-family: var(--k-num); font-size: 30px; font-weight: 600; line-height: 1; color: #9a6a10; }
+.nk-tl .y small { font-size: 0.65em; }
+.nk-tl h3 { margin-top: 8px; font-size: 14px; font-weight: 900; line-height: 1.5; word-break: auto-phrase; text-wrap: pretty; }
+.nk-tl p { margin-top: 4px; font-size: 12.5px; line-height: 1.7; color: #5d4b2a; word-break: auto-phrase; text-wrap: pretty; }
+@media (max-width: 1000px) {
+  .nk-tl ol { grid-template-columns: minmax(0, 1fr); }
+  .nk-tl li { display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 2px 12px; padding: 12px 0; border-left: 0; border-top: 1px solid rgba(34, 25, 11, 0.2); }
+  .nk-tl li:first-child { border-top: 0; }
+  .nk-tl .y { grid-row: 1 / span 2; font-size: 26px; }
+  .nk-tl h3 { margin-top: 0; }
+  .nk-tl p { grid-column: 2; margin-top: 0; }
+}
+.nk-tl .nw { display: inline-block; max-width: 100%; }
+.nk-slab .lbl { min-height: 0; }
+.nk-slab .lbl b { min-height: 0; }
+.nk-v .t .nw, .nk-sc .nw { display: inline-block; max-width: 100%; }

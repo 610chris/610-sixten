@@ -10,7 +10,11 @@
   --bb-ball: #e2621b;
   --bb-ball-d: #a8420c;
   --bb-ink: #120c08;
-  --bb-teal: #2bb3ad;
+  --bb-teal: #B8C4CA; /* 2026-11-05 クリス指示77本目: 旧ティール→マブスのシルバー（名前は据え置き） */
+  --bb-mavs: #00538C;
+  --bb-mavs-navy: #002B5E;
+  --bb-mavs-royal: #0064B1;
+  --bb-mavs-green: #00843D; /* 2026-11-05 クリス指示85本目: マブスの緑（旧マブスの緑の近似。公式コードは未確認） */
   --bb-jp: "Zen Kaku Gothic New", "Noto Sans JP", sans-serif;
   --bb-en: "Archivo Black", "Noto Sans JP", sans-serif;
   background: #050505;
@@ -18,7 +22,9 @@
 .bb { overflow-x: clip; }
 .bb h2, .bb h3, .bb strong, .bb-vision-main, .bb-quote p { word-break: auto-phrase; }
 .bb .nw { white-space: nowrap; }
-.bb-call .nw, .bb-cue .nw { white-space: normal; }
+/* 2026-11-05 クリス指示68本目: .bb-call は文字を1つの箱（.bb-call-t）に入れ、「PLEASE WELCOME」などの塊の途中で折らない */
+.bb-cue .nw { white-space: normal; }
+.bb-call-t { min-width: 0; }
 
 /* 革のシボ（細かい粒）と溝の線（SVG）*/
 .bb-hero, .bb-c-ball, .bb-card.big, .bb-ph-ball {
@@ -37,10 +43,10 @@
   content: ""; position: absolute; inset: -6% -10%; pointer-events: none; opacity: 0.55;
   background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 1000' preserveAspectRatio='none' fill='none' stroke='%23140a04' stroke-width='12'%3E%3Cpath d='M520 0C470 330 470 670 520 1000'/%3E%3Cpath d='M0 560C330 500 670 500 1000 560'/%3E%3Cpath d='M130 0C330 250 330 750 130 1000'/%3E%3Cpath d='M900 0C690 250 690 750 900 1000'/%3E%3C/svg%3E") center / 100% 100% no-repeat;
 }
-.bb-ticker { position: relative; z-index: 2; overflow: hidden; background: #0b0b0b; border-bottom: 3px solid var(--bb-ink); }
+.bb-ticker { position: relative; z-index: 2; overflow: hidden; background: #0b0b0b; border-bottom: 3px solid var(--bb-mavs-green); }
 .bb-ticker-in { display: flex; width: max-content; animation: bbTicker 38s linear infinite; }
 .bb-ticker span { flex: none; padding: 10px 26px; font-family: var(--bb-en); font-size: 13px; letter-spacing: 0.22em; color: var(--bb-teal); white-space: nowrap; }
-.bb-ticker span::after { content: "●"; margin-left: 52px; color: var(--bb-ball); font-size: 9px; vertical-align: 2px; }
+.bb-ticker span::after { content: "●"; margin-left: 52px; color: var(--bb-mavs-green); font-size: 9px; vertical-align: 2px; }
 @keyframes bbTicker { to { transform: translateX(-50%); } }
 
 .bb-hero-back { position: absolute; left: 50%; bottom: -0.2em; transform: translateX(-50%); font-family: var(--bb-en); font-size: min(30vw, 400px); line-height: 1; letter-spacing: -0.02em; color: rgba(255, 255, 255, 0.13); white-space: nowrap; pointer-events: none; }
@@ -55,12 +61,12 @@
 @keyframes bbLive { 50% { box-shadow: 0 0 0 8px rgba(255, 59, 59, 0); } }
 
 .bb-name { margin-top: 18px; line-height: 1; }
-.bb-name .ja { display: block; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(72px, 11vw, 148px); letter-spacing: 0.01em; color: #fff; text-shadow: 0 0.05em 0 #1a6f6b, 0 0 0.45em rgba(43, 179, 173, 0.45); }
+.bb-name .ja { display: block; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(72px, 11vw, 148px); letter-spacing: 0.01em; color: #fff; text-shadow: 0 0.05em 0 var(--bb-mavs-navy), 0 0 0.45em rgba(0, 100, 177, 0.45); }
 .bb-name .en { display: block; margin-top: 14px; font-family: var(--bb-en); font-weight: 400; font-size: clamp(14px, 1.6vw, 18px); letter-spacing: 0.5em; color: var(--bb-ink); }
 
 .bb-oxygen { margin-top: 26px; display: flex; flex-wrap: wrap; gap: 6px 10px; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(36px, 5.4vw, 70px); line-height: 1.1; }
-.bb-oxygen span { display: inline-block; padding: 0.08em 0.22em 0.14em; background: var(--bb-ink); color: #fff; transform: rotate(-2deg); text-shadow: 0 0.05em 0 #1a6f6b, 0 0 0.4em rgba(43, 179, 173, 0.6); }
-.bb-oxygen span + span { background: var(--bb-teal); color: var(--bb-ink); text-shadow: none; transform: rotate(1.5deg); }
+.bb-oxygen span { display: inline-block; padding: 0.08em 0.22em 0.14em; background: var(--bb-ink); color: #fff; transform: rotate(-2deg); text-shadow: 0 0.05em 0 var(--bb-mavs-navy), 0 0 0.4em rgba(0, 100, 177, 0.6); }
+.bb-oxygen span + span { background: var(--bb-mavs); color: #fff; text-shadow: none; transform: rotate(1.5deg); }
 
 .bb-roles { margin-top: 26px; display: grid; gap: 4px; color: var(--bb-ink); }
 .bb-roles b { font-family: var(--bb-jp); font-weight: 900; font-size: clamp(22px, 2.4vw, 30px); line-height: 1.3; }
@@ -83,7 +89,7 @@
 .bb-nba-badge b { display: block; font-family: var(--bb-en); font-weight: 400; font-size: 11px; letter-spacing: 0.16em; color: var(--bb-teal); }
 
 .bb-hero-ph { position: relative; margin: 0; justify-self: center; width: min(100%, 460px); aspect-ratio: 1; }
-.bb-ph-ball { position: absolute; inset: 0; border-radius: 50%; border: 6px solid var(--bb-ink); transform: translate(9%, 7%); }
+.bb-ph-ball { position: absolute; inset: 0; border-radius: 50%; border: 6px solid var(--bb-mavs-green); transform: translate(9%, 7%); }
 .bb-ph-ball::before { content: ""; position: absolute; inset: 0; border-radius: 50%; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='%23120c08' stroke-width='2.4'%3E%3Cpath d='M50 0V100'/%3E%3Cpath d='M0 50H100'/%3E%3Cpath d='M16 10C34 30 34 70 16 90'/%3E%3Cpath d='M84 10C66 30 66 70 84 90'/%3E%3C/svg%3E") center / 100% 100% no-repeat; }
 .bb-hero-ph img { position: relative; display: block; width: 100%; height: 100%; object-fit: cover; object-position: 45% 35%; border-radius: 50%; border: 8px solid var(--bb-ink); background: #111; }
 .bb-ph-tag { position: absolute; left: -2%; bottom: 8%; padding: 8px 16px; background: var(--bb-teal); color: var(--bb-ink); border: 3px solid var(--bb-ink); font-family: var(--bb-en); font-size: 14px; letter-spacing: 0.2em; transform: rotate(-6deg); }
@@ -95,9 +101,10 @@
 .bb-board-h small { font-size: 12px; color: #aaa; letter-spacing: 0.06em; }
 .bb-stats { list-style: none; margin: 18px 0 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
 .bb-stats li { min-width: 0; padding: 20px 18px 18px; background: #121212; border: 2px solid #262626; border-radius: 10px; box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.6); }
-.bb-stats strong { display: block; font-family: var(--bb-en); font-weight: 400; font-size: clamp(32px, 4vw, 54px); line-height: 1; color: #ffb020; text-shadow: 0 0 18px rgba(255, 176, 32, 0.45); white-space: nowrap; }
+.bb-stats strong { display: block; font-family: var(--bb-en); font-weight: 400; font-size: clamp(32px, 4vw, 54px); line-height: 1; color: #B8C4CA; text-shadow: 0 0 18px rgba(0, 100, 177, 0.7); white-space: nowrap; }
 .bb-stats strong small { margin-left: 3px; font-family: var(--bb-jp); font-weight: 900; font-size: 0.4em; color: #fff; text-shadow: none; }
-.bb-stats span { display: block; margin-top: 10px; font-size: 12px; font-weight: 700; color: #ddd; letter-spacing: 0.04em; }
+/* 2026-11-05 クリス指示68本目: ラベルの中の .nw（phrase-wrap.js が入れる「10本」など）まで block にしない＝子の span だけ */
+.bb-stats li > span { display: block; margin-top: 10px; font-size: 12px; font-weight: 700; color: #ddd; letter-spacing: 0.04em; }
 .bb-sns { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 22px; }
 .bb-sns a { padding: 9px 18px; border: 2px solid #fff; border-radius: 999px; font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.16em; color: #fff; transition: background 0.2s, color 0.2s; }
 .bb-sns a:hover { background: #fff; color: #0a0a0a; }
@@ -105,16 +112,16 @@
 .bb-sns a.yt:hover { background: #fff; color: #ff0033; border-color: #fff; }
 
 /* ================= 章（拍ごとに背景色が切り替わる）================= */
-.bb-sec { --c: #0d7f78; --c2: #073e3a; position: relative; overflow: hidden; margin-top: -4vw; padding: calc(4vw + clamp(64px, 8vw, 110px)) 0 clamp(80px, 9vw, 120px); color: #fff; background: radial-gradient(120% 95% at 50% 25%, var(--c) 0%, var(--c2) 100%); clip-path: polygon(0 4vw, 100% 0, 100% 100%, 0 100%); }
+.bb-sec { --c: #00538C; --c2: #002B5E; position: relative; overflow: hidden; margin-top: -4vw; padding: calc(4vw + clamp(64px, 8vw, 110px)) 0 clamp(80px, 9vw, 120px); color: #fff; background: radial-gradient(120% 95% at 50% 25%, var(--c) 0%, var(--c2) 100%); clip-path: polygon(0 4vw, 100% 0, 100% 100%, 0 100%); }
 .bb-sec::before { content: ""; position: absolute; right: -14%; top: -6%; width: min(80vw, 760px); aspect-ratio: 1; pointer-events: none; opacity: 0.1; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' fill='none' stroke='%23fff' stroke-width='1.2'%3E%3Ccircle cx='50' cy='50' r='49'/%3E%3Cpath d='M50 1V99'/%3E%3Cpath d='M1 50H99'/%3E%3Cpath d='M16 10C34 30 34 70 16 90'/%3E%3Cpath d='M84 10C66 30 66 70 84 90'/%3E%3C/svg%3E") center / contain no-repeat; }
 .bb-sec > .wrap { position: relative; z-index: 1; }
-.bb-c-teal  { --c: #12908a; --c2: #0a3f3c; }
-.bb-c-navy  { --c: #3a35a8; --c2: #16134a; }
-.bb-c-red   { --c: #c8174a; --c2: #5e0a22; }
-.bb-c-cyan  { --c: #0f87ab; --c2: #083c50; }
-.bb-c-amber { --c: #d27a0a; --c2: #6a3504; }
-.bb-c-green { --c: #1b8a48; --c2: #0b3a1d; }
-.bb-c-dark  { --c: #10302e; --c2: #050505; }
+.bb-c-teal  { --c: #00538C; --c2: #002B5E; }
+.bb-c-navy  { --c: #002B5E; --c2: #000000; }
+.bb-c-red   { --c: #0064B1; --c2: #002B5E; }
+.bb-c-cyan  { --c: #0064B1; --c2: #00538C; }
+.bb-c-amber { --c: #00538C; --c2: #000000; }
+.bb-c-green { --c: #00843D; --c2: #002B5E; }
+.bb-c-dark  { --c: #002B5E; --c2: #050505; }
 .bb-c-ball  { --c: var(--bb-ball); --c2: var(--bb-ball-d); }
 .bb-sec.bb-c-ball::before { opacity: 0.35; filter: invert(1); }
 
@@ -125,7 +132,7 @@
 
 .bb-tag { display: inline-block; padding: 5px 12px; background: #fff; color: var(--c); font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.2em; }
 .bb-sub { margin: clamp(48px, 6vw, 72px) 0 18px; display: flex; align-items: center; gap: 12px; font-family: var(--bb-jp); font-weight: 900; font-size: clamp(22px, 2.6vw, 30px); line-height: 1.3; }
-.bb-sub::before { content: ""; flex: none; width: 30px; height: 8px; background: var(--bb-ball); border: 2px solid var(--bb-ink); }
+.bb-sub::before { content: ""; flex: none; width: 30px; height: 8px; background: var(--bb-teal); border: 2px solid var(--bb-ink); }
 
 /* 白いステッカー風カード（太い黒線＋ずらした影）*/
 .bb-card, .bb-nba, .bb-event, .bb-feature, .bb-dl, .bb-list li, .bb-channel, .bb-vid, .bb-vision, .bb-work {
@@ -148,20 +155,20 @@
 /* 01 PROFILE */
 .bb-profile { margin-top: clamp(40px, 5vw, 60px); display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: clamp(28px, 4vw, 48px); align-items: start; }
 .bb-story p { margin-top: 16px; font-size: 16px; line-height: 2; }
-.bb-story b { font-family: var(--bb-jp); font-weight: 900; font-size: 1.25em; color: #ffd24a; }
+.bb-story b { font-family: var(--bb-jp); font-weight: 900; font-size: 1.25em; color: #B8C4CA; }
 .bb-dl { margin: 0; padding: 8px 22px; }
 .bb-dl div { display: grid; grid-template-columns: 7em minmax(0, 1fr); gap: 12px; padding: 12px 0; border-bottom: 2px dashed #e4dcd4; font-size: 14px; line-height: 1.7; }
 .bb-dl div:last-child { border-bottom: 0; }
 .bb-dl dt { font-weight: 900; color: var(--c); }
 .bb-dl dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
-.bb-dl dd.hot { font-family: var(--bb-jp); font-weight: 900; font-size: 17px; color: var(--bb-ball-d); }
+.bb-dl dd.hot { font-family: var(--bb-jp); font-weight: 900; font-size: 17px; color: var(--bb-mavs); }
 .bb-dl a { margin-left: 6px; color: var(--c); font-weight: 700; }
 
 /* 02 NBA */
 .bb-nba { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 28px; align-items: center; padding: 26px 30px; }
 .bb-nba-logo { display: grid; place-items: center; width: 104px; height: 156px; background: #fff; border: 3px solid var(--bb-ink); border-radius: 10px; }
 .bb-nba-logo img { width: auto; height: 126px; }
-.bb-nba-txt .k { display: block; font-family: var(--bb-en); font-size: 13px; letter-spacing: 0.2em; color: #c8102e; }
+.bb-nba-txt .k { display: block; font-family: var(--bb-en); font-size: 13px; letter-spacing: 0.2em; color: var(--bb-mavs-green); } /* 77本目: 赤→マブス／85本目: 緑 */
 .bb-nba-txt p { margin-top: 10px; font-size: 15px; line-height: 1.9; }
 
 .bb-event { margin: 0; display: grid; grid-template-columns: minmax(0, 56%) minmax(0, 1fr); overflow: hidden; }
@@ -207,7 +214,6 @@
 .bb-quote::before { content: "\201C"; position: absolute; left: 18px; top: -30px; font-family: var(--bb-en); font-size: 96px; line-height: 1; color: var(--bb-teal); }
 .bb-quote p { font-family: var(--bb-jp); font-weight: 900; font-size: clamp(19px, 2.3vw, 27px); line-height: 1.65; }
 .bb-quote cite { display: block; margin-top: 12px; font-style: normal; font-size: 12px; color: #bbb; }
-#person .bb-lead { margin: 22px 0 0; }
 
 /* 05 BEYOND */
 .bb-vision { margin-top: 36px; padding: 30px 32px; }
@@ -218,7 +224,7 @@
 
 /* 07 WORK（ボール地）*/
 .bb-sec.bb-c-ball { background-color: var(--bb-ball); }
-.bb-c-ball .bb-head h2 { text-shadow: 0 0.05em 0 #1a6f6b, 0 0 0.45em rgba(43, 179, 173, 0.45); }
+.bb-c-ball .bb-head h2 { text-shadow: 0 0.05em 0 var(--bb-mavs-navy), 0 0 0.45em rgba(0, 100, 177, 0.45); }
 .bb-work { max-width: 880px; margin-inline: auto; padding: clamp(26px, 4vw, 44px); text-align: center; }
 .bb-work-lead { font-size: 16px; line-height: 1.95; font-weight: 500; }
 .bb-offer { list-style: none; margin: 24px 0 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
@@ -226,7 +232,7 @@
 .bb-mail { display: inline-block; margin-top: 28px; padding: 18px 30px; max-width: 100%; background: var(--bb-ink); color: #fff; border-radius: 999px; font-family: var(--bb-en); font-size: clamp(15px, 2vw, 21px); letter-spacing: 0.02em; overflow-wrap: anywhere; box-shadow: 6px 6px 0 var(--bb-teal); transition: transform 0.15s, box-shadow 0.15s; }
 .bb-mail:hover { transform: translate(-2px, -2px); box-shadow: 8px 8px 0 var(--bb-teal); }
 .bb-work .bb-note { color: #555; }
-.bb-work .bb-note a { color: var(--bb-ball-d); font-weight: 700; text-decoration: underline; }
+.bb-work .bb-note a { color: var(--bb-mavs); font-weight: 700; text-decoration: underline; }
 
 /* MEMBERS */
 .bb-others { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; }
@@ -278,4 +284,30 @@
 }
 @media (prefers-reduced-motion: reduce) {
   .bb-ticker-in, .bb-mic { animation: none; }
+}
+
+/* 2026-11-05: アリーナMCカードに薄くドルフィンズのロゴ／NBA docomo のバンバ出演告知2枚 */
+.bb-card-dolphins { position: relative; overflow: hidden; isolation: isolate; }
+.bb-card-dolphins > :not(.bb-dolphins) { position: relative; z-index: 1; }
+.bb-dolphins { position: absolute; z-index: 0; right: -14%; bottom: -18%; width: 72%; max-width: 300px; height: auto; opacity: 0.16; transform: rotate(-12deg); pointer-events: none; }
+/* 11/3 の告知は左右の白い余白を切り落として縦長（4:5）にしたので、横長（16:9）の3/7と写真の高さが揃う比率（16:9の幅 ≒ 4:5の幅×2.2）にする */
+.bb-docomo { margin-top: 22px; display: grid; grid-template-columns: minmax(0, 2.2fr) minmax(0, 1fr); gap: 20px; align-items: start; }
+.bb-docomo-ph { margin: 0; min-width: 0; overflow: hidden; background: #fff; color: #1a140f; border: 3px solid var(--bb-ink); border-radius: 16px; box-shadow: 7px 7px 0 rgba(0, 0, 0, 0.85); }
+.bb-docomo-ph .ph img { display: block; width: 100%; height: auto; }
+.bb-docomo-ph figcaption { padding: 14px 18px 16px; display: grid; gap: 4px; border-top: 3px solid var(--bb-ink); }
+.bb-docomo-ph .date { font-family: var(--bb-en); font-size: 12px; letter-spacing: 0.18em; color: var(--c); }
+.bb-docomo-ph strong { font-family: var(--bb-jp); font-weight: 900; font-size: 16px; line-height: 1.4; }
+.bb-docomo-ph small { font-size: 12.5px; color: #5a4e44; }
+@media (max-width: 760px) {
+  .bb-docomo { grid-template-columns: minmax(0, 1fr); gap: 16px; }
+  .bb-docomo-ph { box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.85); }
+  .bb-dolphins { width: 58%; right: -10%; bottom: -14%; }
+}
+
+/* 肩書き: チーム名＋アリーナMC をまとめて次の行へ（名古屋ダイヤモンド｜ドルフィンズ で折らない） */
+.bb .ib { display: inline-block; max-width: 100%; }
+
+/* スマホ: 小見出し「NBA docomo × STARTING 5IVE」が右端に張り付くので幅に合わせて縮める */
+@media (max-width: 480px) {
+  .bb-sub { font-size: clamp(16px, 5.1vw, 22px); }
 }

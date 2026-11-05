@@ -1,0 +1,92 @@
+/* STARTING 5IVE 共通ヘッダー（2026-11-05 クリス指示 49本目・57本目）
+   - S5メイン（media/starting5ive.html）・メンバー個人ページ・グッズページの一番上を、このヘッダーに揃える
+   - 上の帯には 610 のロゴ・メニューを出さない。三本線メニューを開いた中の一番下にだけ 610 への小さなリンクを置く
+   - 開閉は starting5ive.html 内のスクリプト／それ以外は js/s5-nav.js */
+
+.x5-nav {
+  --x5n-t: #2bb3ad;
+  --x5n-g: #ffc426;
+  --x5n-mut: #a2a29c;
+  --x5n-ln: rgba(255, 255, 255, 0.09);
+  background: rgba(11, 11, 12, 0.9);
+  border-bottom: 1px solid var(--x5n-ln);
+}
+.x5-nav-in { display: flex; align-items: center; gap: 20px; height: 64px; }
+
+/* 左: S5 ロゴ */
+.x5-nav-logo { display: flex; align-items: center; gap: 10px; flex: none; color: #fff; }
+.x5-nav-logo img { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; }
+.x5-nav-logo span {
+  font-family: "Archivo Black", "Anton", sans-serif; font-size: 15px; letter-spacing: 0.08em; line-height: 1; white-space: nowrap;
+}
+.x5-nav-logo em { font-style: normal; color: var(--x5n-t); }
+
+/* 中: 章（PC だけ） */
+.x5-nav-links { display: flex; align-items: center; gap: 2px; margin-left: auto; }
+.x5-nav-links a, .x5-menu .grp:not(.six) a {
+  display: inline-flex; align-items: baseline; gap: 7px; padding: 8px 12px; border-radius: 999px;
+  font-size: 13px; font-weight: 700; letter-spacing: 0.04em; color: var(--x5n-mut); white-space: nowrap;
+  transition: color 0.2s, background 0.2s;
+}
+.x5-nav-links a b, .x5-menu .grp:not(.six) a b {
+  font-family: "Anton", sans-serif; font-weight: 400; font-size: 12px; letter-spacing: 0.08em; color: rgba(255, 255, 255, 0.35);
+}
+.x5-nav-links a:hover, .x5-menu .grp:not(.six) a:hover { color: #fff; }
+.x5-nav-links a.on, .x5-menu .grp:not(.six) a.on { background: rgba(43, 179, 173, 0.14); color: #fff; }
+.x5-nav-links a.on b, .x5-menu .grp:not(.six) a.on b { color: var(--x5n-t); }
+.x5-nav-links a.shop, .x5-menu .grp:not(.six) a.shop { color: var(--x5n-g); }
+.x5-nav-links a.shop b, .x5-menu .grp:not(.six) a.shop b { color: rgba(255, 196, 38, 0.6); }
+
+/* 右: 三本線 */
+.x5-burger {
+  flex: none; position: relative; width: 44px; height: 44px; margin-right: -8px; padding: 0;
+  border: 0; background: none; color: #fff; cursor: pointer;
+}
+.x5-burger i {
+  position: absolute; left: 11px; width: 22px; height: 2px; border-radius: 2px; background: currentColor;
+  transition: transform 0.25s, opacity 0.2s;
+}
+.x5-burger i:nth-child(1) { top: 15px; }
+.x5-burger i:nth-child(2) { top: 21px; }
+.x5-burger i:nth-child(3) { top: 27px; }
+.x5-burger[aria-expanded="true"] i:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+.x5-burger[aria-expanded="true"] i:nth-child(2) { opacity: 0; }
+.x5-burger[aria-expanded="true"] i:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
+/* 三本線を開いた中: 上に S5 の全項目・一番下に 610 への小さなリンク */
+.x5-menu {
+  position: absolute; top: 100%; left: 0; right: 0;
+  max-height: calc(100vh - 64px); max-height: calc(100dvh - 64px); overflow-y: auto;
+  background: #0b0b0c; border-bottom: 1px solid var(--x5n-ln); box-shadow: 0 24px 48px rgba(0, 0, 0, 0.5);
+}
+.x5-menu[hidden] { display: none; }
+.x5-menu-in { display: flex; flex-direction: column; gap: 22px; padding-block: 22px 26px; }
+.x5-menu .grp { display: flex; flex-wrap: wrap; gap: 4px 6px; }
+.x5-menu .cap {
+  flex-basis: 100%; margin: 0 0 6px 12px;
+  font-family: "Archivo Black", "Anton", sans-serif; font-size: 11px; letter-spacing: 0.22em; color: rgba(255, 255, 255, 0.4);
+}
+.x5-menu .grp:not(.six) a { font-size: 15px; padding: 12px 16px; }
+.x5-menu .grp.six {
+  align-items: center; gap: 6px 16px; padding: 14px 12px 0; border-top: 1px solid var(--x5n-ln);
+}
+.x5-menu .six a {
+  font-size: 11px; font-weight: 500; letter-spacing: 0.12em; color: rgba(255, 255, 255, 0.42); transition: color 0.2s;
+}
+.x5-menu .six a:hover { color: #fff; }
+.x5-menu .six-logo { display: inline-flex; align-items: center; gap: 8px; }
+.x5-menu .six-logo img { height: 13px; width: auto; filter: invert(1); opacity: 0.6; }
+
+/* スタメン発表演出の間はヘッダーを出さない */
+html.s5lu-lock .x5-nav { opacity: 0; pointer-events: none; }
+
+/* スマホ・タブレット: ロゴ＋三本線だけ */
+@media (max-width: 1080px) {
+  .x5-nav-links { display: none; }
+  .x5-burger { margin-left: auto; }
+}
+@media (max-width: 760px) {
+  .x5-menu .grp:not(.six) { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .x5-menu .cap { grid-column: 1 / -1; }
+  .x5-menu .grp:not(.six) a { padding: 13px 14px; }
+}

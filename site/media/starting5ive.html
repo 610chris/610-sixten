@@ -28,8 +28,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Noto+Sans+JP:wght@400;500;700;900&family=Zen+Old+Mincho:wght@700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../css/style.css?v=ccb7177254">
-<link rel="stylesheet" href="../css/brand-fx.css?v=130e2845b9">
+<link rel="stylesheet" href="../css/brand-fx.css?v=e1bce51057">
 <script>if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('fx')</script>
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/s5-lineup.css?v=1105n">
+<link rel="stylesheet" href="../css/s5-main.css?v=1105g">
+<link rel="stylesheet" href="../css/s5-nav.css?v=1105a">
+<!-- スタメン発表（js/s5-lineup.js）: 再読み込みのたびに毎回再生（2026-11-05 クリス指示「リロードした時にもう一回エフェクトを見れるように」・個人ページと同じ）。#アンカー付き・戻る/進むでは出さない -->
+<script>(function(){try{var nv=(performance.getEntriesByType&&performance.getEntriesByType('navigation')[0]||{}).type;if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&(/[?&]lineup=1\b/.test(location.search)||(!location.hash&&nv!=='back_forward'))){history.scrollRestoration='manual';var d=document.documentElement;d.classList.add('s5lu-pending');setTimeout(function(){d.classList.remove('s5lu-pending')},4000)}else{history.scrollRestoration='auto'}}catch(e){}})()</script>
 <!-- ga4:start build_seo.py が自動生成。手で編集しない -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D2CX26H018"></script>
 <script>
@@ -40,102 +46,119 @@ gtag('config', 'G-D2CX26H018');
 </script>
 <!-- ga4:end -->
 </head>
-<body>
+<body class="x5">
 
-<header class="nav">
-  <div class="wrap nav-inner">
-    <a href="../index.html" class="nav-logo">
-      <img src="../assets/logo-white-800.png?v=74fc74516a" alt="610">
-      <img class="nav-word" src="../assets/sixten-logo-white.png?v=160a07e5f0" alt="SIXTEN" width="1200" height="188">
-    </a>
-    <button class="nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="site-nav">☰</button>
-    <nav class="nav-links" id="site-nav">
-      <a href="../index.html#about">ABOUT</a>
-      <a href="../index.html#media">MEDIA</a>
-      <a href="../index.html#services">SERVICES</a>
-      <a href="../index.html#work">WORK</a>
-      <a href="../index.html#journal">JOURNAL</a>
-      <a href="../index.html#contact" class="nav-cta">START A PROJECT</a>
+<!-- 2026-11-05 クリス指示「上のヘッダーを610のヘッダーじゃなくて、スターティング5のヘッダー」: 左に S5 ロゴ・章（01〜07）を横並び・右に三本線。
+     三本線のメニューに全項目＋610（sixten）のリンク（610 ロゴは 2026_新ロゴ/610_solid_black.png を白反転）。スマホはロゴ＋三本線だけ。スタメン発表中は隠す（s5-main.css） -->
+<header class="nav x5-nav">
+  <div class="wrap x5-nav-in">
+    <a href="#top" class="x5-nav-logo"><img src="../assets/starting5ive-icon.jpg?v=d13b202277" alt="" width="400" height="400"><span>STARTING <em>5IVE</em></span></a>
+    <nav class="x5-nav-links" aria-label="STARTING 5IVE の目次">
+      <a href="#videos"><b>01</b>動画</a>
+      <a href="#members"><b>02</b>メンバー</a>
+      <a href="#camp"><b>03</b>キャンプ</a>
+      <a href="#meetup"><b>04</b>オフ会</a>
+      <a href="#collab"><b>05</b>コラボ</a>
+      <a href="#contact"><b>06</b>ご相談</a>
+      <a href="starting5ive/goods/" class="shop"><b>07</b>SHOP →</a>
     </nav>
+    <button class="x5-burger" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="x5-menu"><i></i><i></i><i></i></button>
+  </div>
+  <div class="x5-menu" id="x5-menu" hidden>
+    <div class="wrap x5-menu-in">
+      <nav class="grp" aria-label="STARTING 5IVE">
+        <span class="cap">STARTING 5IVE</span>
+        <a href="#videos"><b>01</b>動画</a>
+        <a href="#members"><b>02</b>メンバー</a>
+        <a href="#camp"><b>03</b>キャンプ</a>
+        <a href="#meetup"><b>04</b>オフ会</a>
+        <a href="#collab"><b>05</b>コラボ</a>
+        <a href="#contact"><b>06</b>ご相談</a>
+        <a href="starting5ive/goods/" class="shop"><b>07</b>SHOP →</a>
+      </nav>
+      <nav class="grp six" aria-label="610 — sixten">
+        <a href="../index.html" class="six-logo"><img src="../assets/s5/610-solid.png?v=20261105" alt="610" width="1396" height="377"><span>— sixten TOP</span></a>
+        <a href="../index.html#about">ABOUT</a>
+        <a href="../index.html#media">MEDIA</a>
+        <a href="../index.html#services">SERVICES</a>
+        <a href="../index.html#work">WORK</a>
+        <a href="../index.html#journal">JOURNAL</a>
+        <a href="../index.html#contact" class="cta">START A PROJECT</a>
+      </nav>
+    </div>
   </div>
 </header>
 
-<!-- Brand Hero (STARTING 5IVE・2026-09-26 作り直し: PCは左に文字・右に5人／メンバー名つき／ボタンは2つだけ、残りは直下の目次へ) -->
-<section class="brand-hero s5-hero s5h">
-  <div class="s5h-in">
-    <div class="s5h-brand">
-      <img src="../assets/starting5ive-icon.jpg?v=d13b202277" alt="STARTING 5IVE ロゴ" class="s5-logo" width="400" height="400">
-      <span class="media-tag s5-accent">610 MEDIA — 04</span>
+<!-- Hero (2026-11-05 全面リニューアル: 左に大きいロゴ文字・右に5人／番号つきメンバー名) -->
+<section class="x5-hero" id="top">
+  <div class="x5-hero-bg" aria-hidden="true"><span>5</span></div>
+  <div class="wrap x5-hero-in">
+    <div class="x5-hero-copy">
+      <div class="x5-hero-tag">
+        <img src="../assets/starting5ive-icon.jpg?v=d13b202277" alt="STARTING 5IVE ロゴ" width="400" height="400">
+        <span class="t1">610 MEDIA — 04</span>
+        <span class="t2">NBA CREATORS TALK CHANNEL</span>
+      </div>
+      <h1 class="x5-logo" aria-label="STARTING 5IVE"><span aria-hidden="true">STARTING</span><span class="c" aria-hidden="true">5IVE</span></h1>
+      <p class="x5-catch"><span class="nw">5人のNBAクリエイターが、</span><wbr><span class="nw">バスケを語り尽くす。</span></p>
+      <p class="x5-lead">YouTube・TikTokで活動する5人が集まった、バスケ雑談チャンネル。毎週1本、ライブ配信や収録トークを届けている。</p>
+      <div class="x5-hero-btns">
+        <a class="x5-btn primary" href="#videos">動画を見る ↓</a>
+        <a class="x5-btn" href="#meetup">オフ会の実績 ↓</a>
+      </div>
     </div>
-    <h1 class="type-logo">STARTING 5IVE<small>NBA CREATORS TALK CHANNEL</small></h1>
-    <p class="s5-catch">5人のNBAクリエイターが、<br class="sp">バスケを語り尽くす。</p>
-    <figure class="s5-group">
+    <figure class="x5-hero-ph">
       <img src="../assets/s5/crew-group.webp?v=0ca3101198" alt="STARTING 5IVE の5人（左からリクト、ハレルヤ、バンバ、ニコラス、クリス）" width="1322" height="1303" fetchpriority="high">
-      <figcaption aria-hidden="true"><span>リクト</span><span>ハレルヤ</span><span>バンバ</span><span>ニコラス</span><span>クリス</span></figcaption>
+      <figcaption aria-hidden="true"><span><b>1</b>リクト</span><span><b>2</b>ハレルヤ</span><span><b>3</b>バンバ</span><span><b>4</b>ニコラス</span><span><b>5</b>クリス</span></figcaption>
     </figure>
-    <p class="lead">YouTube・TikTokで活動する5人が集まった、バスケ雑談チャンネル。毎週1本、ライブ配信や収録トークを届けている。</p>
-    <div class="brand-links s5">
-      <a href="#videos">動画を見る ↓</a>
-      <a href="#meetup">オフ会の実績 ↓</a>
-    </div>
   </div>
 </section>
 
-<!-- 章の目次（2026-09-26 ページ整理: スマホは横スクロール） -->
-<nav class="s5-toc" aria-label="このページの目次">
-  <div class="s5-toc-in">
-    <a href="#videos"><b>01</b>動画</a>
-    <a href="#members"><b>02</b>メンバー</a>
-    <a href="#camp"><b>03</b>キャンプ</a>
-    <a href="#meetup"><b>04</b>オフ会</a>
-    <a href="#collab"><b>05</b>コラボ</a>
-    <a href="#contact"><b>06</b>ご相談</a>
-  </div>
-</nav>
+<!-- 章の目次は上のヘッダーに移した（2026-11-05） -->
 
-<!-- 01 YOUTUBE: 人気の動画＋チャンネル導線 (2026-09-26 統合) -->
-<section class="brand-section s5-chap" id="videos">
+<!-- 01 YOUTUBE: 人気の動画（1位を大きく）＋チャンネル導線 -->
+<section class="x5-sec" id="videos">
   <div class="wrap">
-    <header class="s5-ch reveal">
-      <span class="n">01</span>
-      <div><span class="en">YOUTUBE — 人気の動画</span><h2>5人のバスケ雑談を、毎週1本。</h2></div>
+    <header class="x5-head reveal">
+      <span class="x5-no" aria-hidden="true">01</span>
+      <div><span class="x5-eyebrow">YOUTUBE — 人気の動画</span><h2><span class="nw">5人のバスケ雑談を、</span><wbr><span class="nw">毎週1本。</span></h2></div>
     </header>
-    <div class="s5-vids s5-vids-rank reveal fx-stagger">
-      <div class="s5-vid">
+    <div class="x5-vids reveal fx-stagger">
+      <div class="x5-vid is-top">
         <button class="yt-lite" data-id="-VBlFzN1Ycc" aria-label="動画を再生: 頭に浮かんでる選手を当てろ！みんなでNBAアキネーター勝負！！"><img src="https://i.ytimg.com/vi/-VBlFzN1Ycc/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="rank">01</span><span class="views">8.9万回再生</span></button>
         <p class="t">頭に浮かんでる選手を当てろ！みんなでNBAアキネーター勝負！！</p>
       </div>
-      <div class="s5-vid">
+      <div class="x5-vid">
         <button class="yt-lite" data-id="hRM3xUFMfAk" aria-label="動画を再生: NBAブラックジャック"><img src="https://i.ytimg.com/vi/hRM3xUFMfAk/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="rank">02</span><span class="views">5.5万回再生</span></button>
         <p class="t">【神回】NBA選手の得点キャリアハイを足して300を目指せ！NBAブラックジャック！！</p>
       </div>
-      <div class="s5-vid">
+      <div class="x5-vid">
         <button class="yt-lite" data-id="GNT8f2f6MWM" aria-label="動画を再生: このNBA選手、誰のパパ？"><img src="https://i.ytimg.com/vi/GNT8f2f6MWM/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="rank">03</span><span class="views">4.5万回再生</span></button>
         <p class="t">このNBA選手、誰のパパ？</p>
       </div>
-      <div class="s5-vid">
+      <div class="x5-vid">
         <button class="yt-lite" data-id="fmz-LpRKgjA" aria-label="動画を再生: 一番ジャンプ力が高い選手は？ドボンゲーム"><img src="https://i.ytimg.com/vi/fmz-LpRKgjA/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="rank">04</span><span class="new">NEW</span><span class="views">4.1万回再生</span></button>
         <p class="t">怪物揃いのNBAで「一番ジャンプ力が高い」選手は？ドボンゲーム🔥</p>
       </div>
     </div>
-    <a class="s5-yt fx-card reveal" href="https://www.youtube.com/@starting5ive-ch" target="_blank" rel="noopener">
+    <a class="x5-yt reveal" href="https://www.youtube.com/@starting5ive-ch" target="_blank" rel="noopener">
       <span class="play" aria-hidden="true"></span>
-      <span><strong>STARTING 5IVE on YouTube</strong><small>@starting5ive-ch</small></span>
+      <span class="nm"><strong>STARTING 5IVE on YouTube</strong><small>@starting5ive-ch</small></span>
       <span class="go">チャンネルを見る →</span>
     </a>
-    <p class="s5-note reveal">※ 再生回数は2026年9月時点。サムネをクリックすると、その場で再生。</p>
+    <p class="x5-note reveal">※ 再生回数は2026年9月時点。サムネをクリックすると、その場で再生。</p>
   </div>
 </section>
 
-<!-- 02 MEMBERS: メンバー＋やっていること -->
-<section class="brand-section s5-chap s5-members-sec" id="members">
+<!-- 02 MEMBERS（.s5-member の中身はスタメン発表演出 s5-lineup.js が読むので構造を変えない） -->
+<section class="x5-sec x5-sec-alt" id="members">
   <div class="wrap">
-    <header class="s5-ch reveal">
-      <span class="n">02</span>
-      <div><span class="en">MEMBERS — 5人のメンバー</span><h2>YouTube・TikTokで活動する5人。</h2></div>
+    <header class="x5-head reveal">
+      <span class="x5-no" aria-hidden="true">02</span>
+      <div><span class="x5-eyebrow">MEMBERS — 5人のメンバー</span><h2><span class="nw">YouTube・TikTokで</span><wbr><span class="nw">活動する5人。</span></h2></div>
     </header>
-    <div class="s5-members reveal fx-stagger">
-      <figure class="s5-member" tabindex="0">
+    <div class="x5-members s5-members reveal fx-stagger">
+      <figure class="s5-member" tabindex="0" data-href="starting5ive/rikuto.html">
         <div class="ph"><img src="../assets/s5/member-rikuto.jpg?v=ff93ad3461" alt="リクト（STARTING 5IVE）" width="640" height="600" loading="lazy">
           <div class="s5-yt-pop">
             <span class="lbl">YouTube 登録者数</span>
@@ -144,10 +167,10 @@ gtag('config', 'G-D2CX26H018');
             <a href="starting5ive/rikuto.html">プロフィールを見る →</a>
           </div>
         </div>
-        <figcaption><span class="no">01</span><strong>リクト</strong><span class="en">RIKUTO</span><span class="yt-hint" aria-hidden="true">YouTube 9.78万人</span><a class="s5-prof" href="starting5ive/rikuto.html" aria-label="リクトのプロフィール">プロフィール →</a></figcaption>
+        <figcaption><span class="no">01</span><strong>リクト</strong><span class="en">RIKUTO</span><span class="yt-hint" aria-hidden="true">YouTube 9.78万人</span></figcaption>
       </figure>
-      <figure class="s5-member" tabindex="0">
-        <div class="ph"><img src="../assets/s5/member-hallelujah.jpg?v=31ad204f50" alt="ハレルヤ（STARTING 5IVE）" width="640" height="600" loading="lazy">
+      <figure class="s5-member" tabindex="0" data-href="starting5ive/hallelujah.html">
+        <div class="ph"><img src="../assets/s5/member-hallelujah-2.jpg?v=20261105" alt="ハレルヤ（STARTING 5IVE）" width="640" height="600" loading="lazy">
           <div class="s5-yt-pop">
             <span class="lbl">YouTube 登録者数</span>
             <strong>10.1<small>万人</small></strong>
@@ -155,10 +178,10 @@ gtag('config', 'G-D2CX26H018');
             <a href="starting5ive/hallelujah.html">プロフィールを見る →</a>
           </div>
         </div>
-        <figcaption><span class="no">02</span><strong>ハレルヤ</strong><span class="en">HALLELUJAH</span><span class="yt-hint" aria-hidden="true">YouTube 10.1万人</span><a class="s5-prof" href="starting5ive/hallelujah.html" aria-label="ハレルヤのプロフィール">プロフィール →</a></figcaption>
+        <figcaption><span class="no">02</span><strong>ハレルヤ</strong><span class="en">HALLELUJAH</span><span class="yt-hint" aria-hidden="true">YouTube 10.1万人</span></figcaption>
       </figure>
-      <figure class="s5-member" tabindex="0">
-        <div class="ph"><img src="../assets/s5/member-bamba.jpg?v=8ca6364d48" alt="バンバ（STARTING 5IVE）" width="640" height="600" loading="lazy">
+      <figure class="s5-member" tabindex="0" data-href="starting5ive/bamba.html">
+        <div class="ph"><img src="../assets/s5/member-bamba-2.jpg?v=20261105" alt="バンバ（STARTING 5IVE）" width="640" height="600" loading="lazy">
           <div class="s5-yt-pop">
             <span class="lbl">YouTube 登録者数</span>
             <strong>18.1<small>万人</small></strong>
@@ -166,9 +189,9 @@ gtag('config', 'G-D2CX26H018');
             <a href="starting5ive/bamba.html">プロフィールを見る →</a>
           </div>
         </div>
-        <figcaption><span class="no">03</span><strong>バンバ</strong><span class="en">BAMBA</span><span class="yt-hint" aria-hidden="true">YouTube 18.1万人</span><a class="s5-prof" href="starting5ive/bamba.html" aria-label="バンバのプロフィール">プロフィール →</a></figcaption>
+        <figcaption><span class="no">03</span><strong>バンバ</strong><span class="en">BAMBA</span><span class="yt-hint" aria-hidden="true">YouTube 18.1万人</span></figcaption>
       </figure>
-      <figure class="s5-member" tabindex="0">
+      <figure class="s5-member" tabindex="0" data-href="starting5ive/nicholas.html">
         <div class="ph"><img src="../assets/s5/member-nicholas.jpg?v=d2b4b8993c" alt="ニコラス（STARTING 5IVE）" width="640" height="600" loading="lazy">
           <div class="s5-yt-pop">
             <span class="lbl">YouTube 登録者数</span>
@@ -177,34 +200,34 @@ gtag('config', 'G-D2CX26H018');
             <a href="starting5ive/nicholas.html">プロフィールを見る →</a>
           </div>
         </div>
-        <figcaption><span class="no">04</span><strong>ニコラス</strong><span class="en">NICHOLAS</span><span class="yt-hint" aria-hidden="true">YouTube 15.1万人</span><a class="s5-prof" href="starting5ive/nicholas.html" aria-label="ニコラスのプロフィール">プロフィール →</a></figcaption>
+        <figcaption><span class="no">04</span><strong>ニコラス</strong><span class="en">NICHOLAS</span><span class="yt-hint" aria-hidden="true">YouTube 15.1万人</span></figcaption>
       </figure>
-      <figure class="s5-member" tabindex="0">
-        <div class="ph"><img src="../assets/s5/member-chris.jpg?v=76d059f902" alt="クリス（STARTING 5IVE）" width="640" height="600" loading="lazy">
+      <figure class="s5-member" tabindex="0" data-href="chris-basketball-diary.html">
+        <div class="ph"><img src="../assets/s5/member-chris-3.jpg?v=20261105" alt="クリス（STARTING 5IVE）" width="1012" height="600" loading="lazy">
           <div class="s5-yt-pop">
-            <span class="lbl">YouTube 登録者数</span>
-            <strong>11.7<small>万人</small></strong>
-            <span class="ch">クリスのバスケ日記</span>
-            <a href="chris-basketball-diary.html">プロフィールを見る →</a>
+            <span class="lbl tt">TikTok フォロワー数</span>
+            <strong>38.7<small>万人</small></strong>
+            <span class="ch">クリスのバスケ日記（@muwe.c）</span>
+            <a href="https://www.tiktok.com/@muwe.c" target="_blank" rel="noopener">TikTok を見る →</a>
           </div>
         </div>
-        <figcaption><span class="no">05</span><strong>クリス</strong><span class="en">CHRIS</span><span class="yt-hint" aria-hidden="true">YouTube 11.7万人</span><a class="s5-prof" href="chris-basketball-diary.html" aria-label="クリスのバスケ日記のページ">クリスのバスケ日記 →</a></figcaption>
+        <figcaption><span class="no">05</span><strong>クリス</strong><span class="en">CHRIS</span><span class="yt-hint" aria-hidden="true">TikTok 38.7万人</span></figcaption>
       </figure>
     </div>
-    <p class="s5-note reveal">※ 写真に触れると（スマホはタップ）、各メンバーの個人チャンネルの登録者数を表示。登録者数は2026年9月時点。</p>
-    <h3 class="s5-sub reveal">WHAT WE DO — やっていること</h3>
-    <div class="s5-do reveal fx-stagger">
-      <div class="s5-do-item">
+    <p class="x5-note reveal">※ 写真に触れると（スマホはタップ）、各メンバーの個人チャンネルの登録者数を表示。登録者数は2026年9月時点、クリスは TikTok のフォロワー数（2026年11月5日時点）。</p>
+    <div class="x5-do reveal fx-stagger">
+      <h3 class="x5-do-label">WHAT WE DO<small>やっていること</small></h3>
+      <div class="x5-do-item">
         <span class="num">01</span>
         <h3>バスケ雑談</h3>
         <p>5人それぞれの目線で、NBAとバスケを語る。ひとりでは出てこない視点が、ぶつかり合って広がっていく。</p>
       </div>
-      <div class="s5-do-item">
+      <div class="x5-do-item">
         <span class="num">02</span>
         <h3>毎週1本の配信・収録</h3>
         <p>ライブ配信でも、収録でも。毎週1本のペースで、YouTubeにコンテンツを積み上げている。</p>
       </div>
-      <div class="s5-do-item">
+      <div class="x5-do-item">
         <span class="num">03</span>
         <h3>キャンプの主催</h3>
         <p>画面の外へ。選手と指導者が直接学べるバスケットボールキャンプ「Be 5IVE CAMP」を主催している。</p>
@@ -213,42 +236,28 @@ gtag('config', 'G-D2CX26H018');
   </div>
 </section>
 
-<!-- 03 CAMP: 次回 → 過去 → 開催レポート -->
-<section class="brand-section s5-chap s5-report" id="camp">
+<!-- 03 CAMP（2026-11-05: 開催済み2つを主役に。準備中の2つは小さい行に。開催レポートは FaFa カードに重ねる要点だけに統合） -->
+<section class="x5-sec" id="camp">
   <div class="wrap">
-    <header class="s5-ch reveal">
-      <span class="n">03</span>
-      <div><span class="en">CAMP — 主催キャンプ</span><h2>Be 5IVE CAMP</h2></div>
+    <header class="x5-head reveal">
+      <span class="x5-no" aria-hidden="true">03</span>
+      <div><span class="x5-eyebrow">CAMP — 主催キャンプ</span><h2>Be 5IVE CAMP</h2></div>
     </header>
-    <div class="s5-camps reveal fx-stagger" id="events">
-      <a class="s5-camp s5-camp-next" href="https://defense-camp-2027.surge.sh/" target="_blank" rel="noopener">
-        <div class="ph next"><span class="next-mark">NEXT<br>CAMP</span><span class="badge soon">準備中</span></div>
-        <div class="body">
-          <span class="date">2027.02</span>
-          <h3>BE 5IVE CAMP<small>Stop the Game</small></h3>
-          <p>次回のBe 5IVE CAMPは、ハレルヤと組むディフェンス特化キャンプ。相手のプレーを「止める」ための判断と技術を、2日間・4セッションで学ぶ。</p>
-          <dl>
-            <div><dt>日程</dt><dd>2027年2月（日程・会場は調整中）</dd></div>
-            <div><dt>対象</dt><dd>中学生・高校生（男女OK）／定員110名</dd></div>
-          </dl>
-          <span class="more">公式サイトを見る →</span>
+    <div class="x5-camps reveal fx-stagger" id="events">
+      <a class="x5-camp is-fafa" href="https://fafa-camp-2026.surge.sh/" target="_blank" rel="noopener">
+        <div class="ph">
+          <img src="../assets/s5/camp-fafa.jpg?v=3b1295a1aa" alt="Be 5IVE CAMP コーチのFaFa Lu" width="1200" height="900" loading="lazy">
+          <span class="x5-badge">開催済み</span>
+          <span class="x5-rep-hint" aria-hidden="true">カーソルを合わせると開催レポート</span>
+          <div class="x5-rep">
+            <span class="k">CAMP REPORT 2026</span>
+            <ul>
+              <li><strong>68<small>名</small></strong><span>参加した中高生</span></li>
+              <li><strong>満席</strong><span><span class="nw">2日間通しプラン</span></span></li>
+              <li><strong>96<small>%</small></strong><span><span class="nw">アンケートで</span><wbr><br class="x5-br-sp"><span class="nw">「満足」以上</span></span></li>
+            </ul>
+          </div>
         </div>
-      </a>
-      <a class="s5-camp s5-camp-next s5-camp-plan" href="https://make-the-game-hokkaido-2027.surge.sh/" target="_blank" rel="noopener">
-        <div class="ph next"><span class="next-mark">MAKE<br>THE GAME</span><span class="badge soon">準備中</span></div>
-        <div class="body">
-          <span class="date">時期 調整中</span>
-          <h3>BE 5IVE CAMP<small>Make the Game in HOKKAIDO</small></h3>
-          <p>シュート力を鍛えるキャンプを、北海道で。“Make” はバスケットボールで「シュートを決める」こと。Be 5IVE CAMP シリーズの3つめとして、得点を決める技術を扱う。</p>
-          <dl>
-            <div><dt>日程</dt><dd>調整中</dd></div>
-            <div><dt>会場</dt><dd>北海道内（調整中）</dd></div>
-          </dl>
-          <span class="more">公式サイトを見る →</span>
-        </div>
-      </a>
-      <a class="s5-camp" href="https://fafa-camp-2026.surge.sh/" target="_blank" rel="noopener">
-        <div class="ph fafa"><img src="../assets/s5/camp-fafa.jpg?v=3b1295a1aa" alt="Be 5IVE CAMP コーチのFaFa Lu" width="1200" height="900" loading="lazy"><span class="badge">開催済み</span></div>
         <div class="body">
           <span class="date">2026.08.12 — 08.14</span>
           <h3>BE 5IVE CAMP<small>Think the Game with FaFa</small></h3>
@@ -261,12 +270,15 @@ gtag('config', 'G-D2CX26H018');
           <span class="more">公式サイトを見る →</span>
         </div>
       </a>
-      <a class="s5-camp" href="https://phil-handy-ts-factory-b5ivecamp-2026.surge.sh/" target="_blank" rel="noopener">
-        <div class="ph phil"><img src="../assets/s5/camp-phil.jpg?v=9cdb57ee66" alt="フィル・ハンディ" width="1200" height="900" loading="lazy"><span class="badge">開催済み</span></div>
+      <a class="x5-camp" href="https://phil-handy-ts-factory-b5ivecamp-2026.surge.sh/" target="_blank" rel="noopener">
+        <div class="ph">
+          <img src="../assets/s5/camp-phil.jpg?v=9cdb57ee66" alt="フィル・ハンディ" width="1200" height="900" loading="lazy">
+          <span class="x5-badge">開催済み</span>
+        </div>
         <div class="body">
           <span class="date">2026.08.02</span>
           <h3>PHIL HANDY 1DAY CAMP<small>T's factory × Be 5IVE CAMP</small></h3>
-          <p>NBAで3度の優勝をアシスタントコーチとして経験し、コービー・ブライアントやレブロン・ジェームズの個人スキルを磨いてきたフィル・ハンディによる、1日限定のキャンプ。T's factory との共同開催。</p>
+          <p>NBAで3度の優勝をアシスタントコーチとして経験し、<span class="nw">コービー・ブライアント</span>や<span class="nw">レブロン・ジェームズ</span>の個人スキルを磨いてきた<span class="nw">フィル・ハンディ</span>による、1日限定のキャンプ。T's factory との共同開催。</p>
           <dl>
             <div><dt>日程</dt><dd>2026年8月2日（1日限定）</dd></div>
             <div><dt>会場</dt><dd>東京</dd></div>
@@ -276,55 +288,37 @@ gtag('config', 'G-D2CX26H018');
         </div>
       </a>
     </div>
-    <h3 class="s5-sub reveal">BE 5IVE CAMP 2026 — 開催レポート</h3>
-    <div class="s5-rep reveal">
-      <div class="s5-rep-a">
-        <p class="slogan">UNDERDOG</p>
-        <h2>Everything is a read.<small>すべてのプレーは「読み」から始まる。</small></h2>
-        <p class="lead">元NBAシャーロット・ホーネッツのビデオコーディネーターで、現在はNCAA D1のイーストカロライナ大学で選手育成を担当するFaFa（FaFa Lu）をコーチに迎えた、STARTING 5IVE主催キャンプ。シュート・パス・ドライブを「いつ・なぜ選ぶか」という状況判断を2日間で学んだ。</p>
-        <dl class="s5-rep-meta">
-          <div><dt>日程</dt><dd>2026年8月12日・13日（8/14 コーチクリニック）</dd></div>
-          <div><dt>会場</dt><dd>立教新座中学校・高等学校 体育館（埼玉県新座市）</dd></div>
-          <div><dt>対象</dt><dd>中高生（男女）</dd></div>
-        </dl>
-      </div>
-      <div class="s5-rep-b">
-        <div class="s5-rep-stats">
-          <div><strong>68<small>名</small></strong><span>参加した中高生</span></div>
-          <div><strong>満席</strong><span>2日間通しプラン<br>キャンセル待ちも発生</span></div>
-          <div><strong>96<small>%</small></strong><span>アンケートで<br>「満足」以上</span></div>
-        </div>
-        <div class="s5-rep-sessions">
-          <h3>全4セッション</h3>
-          <ol>
-            <li><span>DAY 1 午前</span>個人の状況判断 — 基礎</li>
-            <li><span>DAY 1 午後</span>チームの状況判断 — 基礎</li>
-            <li><span>DAY 2 午前</span>個人の状況判断 — 応用</li>
-            <li><span>DAY 2 午後</span>チームの状況判断 — 応用</li>
-          </ol>
-        </div>
-      </div>
+    <div class="x5-next reveal">
+      <h3 class="x5-next-label">NEXT CAMP<small>準備中のキャンプ</small></h3>
+      <a class="x5-next-row" href="https://defense-camp-2027.surge.sh/" target="_blank" rel="noopener">
+        <span class="st">準備中</span>
+        <span class="dt">2027.02</span>
+        <span class="nm">BE 5IVE CAMP<b>Stop the Game</b></span>
+        <span class="ds">ハレルヤと組む、ディフェンス特化キャンプ</span>
+        <span class="go">公式サイト →</span>
+      </a>
+      <a class="x5-next-row" href="https://make-the-game-hokkaido-2027.surge.sh/" target="_blank" rel="noopener">
+        <span class="st">準備中</span>
+        <span class="dt">時期 調整中</span>
+        <span class="nm">BE 5IVE CAMP<b>Make the Game in HOKKAIDO</b></span>
+        <span class="ds">シュート力を鍛えるキャンプを、北海道で</span>
+        <span class="go">公式サイト →</span>
+      </a>
     </div>
-    <div class="s5-rep-voices reveal">
-      <h3>参加者の声</h3>
-      <blockquote>試合様々なシチュエーションからのシュート、パス、ドライブの判断は教えてもらう機会があまりなかったのでとても楽しかったです<cite>— 参加者（高校2年生）</cite></blockquote>
-      <blockquote>ファファコーチをはじめ、コーチ陣もきちんと子供に向き合って本気で指導してくださり、次回開催があれば必ず参加させたいです<cite>— 保護者</cite></blockquote>
-      <p class="s5-rep-clinic"><strong>8/14 COACH CLINIC</strong>FaFa Lu × ハレルヤによる、戦術を学びたい人なら誰でも参加できるコーチクリニックも開催（江東区スポーツ会館）。</p>
-    </div>
-    <p class="s5-note reveal">※ キャンプの映像は、YouTube「Ballin' with Bamba」「BE A BALLER」で2026年10月中旬以降に公開予定。</p>
+    <p class="x5-note reveal">※ キャンプの映像は、YouTube「Ballin' with Bamba」「BE A BALLER」で2026年10月中旬以降に公開予定。</p>
   </div>
 </section>
 
-<!-- 04 MEETUP: オフ会の実績（2026-11-04: 10/21 の募集表示を実績に置き換え。2回目の記録が見つかったら 2026.01 と 2026.10 の間にカードを足す） -->
-<section class="brand-section s5-chap" id="meetup">
+<!-- 04 MEETUP: オフ会の実績（2回目の記録が見つかったら 2026.01 と 2026.10 の間にカードを足す） -->
+<section class="x5-sec x5-sec-alt" id="meetup">
   <div class="wrap">
-    <header class="s5-ch reveal">
-      <span class="n">04</span>
-      <div><span class="en">MEETUP — 定期的に開いているオフ会</span><h2>画面の外でも、一緒にバスケを。</h2></div>
+    <header class="x5-head reveal">
+      <span class="x5-no" aria-hidden="true">04</span>
+      <div><span class="x5-eyebrow">MEETUP — 定期的に開いているオフ会</span><h2><span class="nw">画面の外でも、</span><wbr><span class="nw">一緒にバスケを。</span></h2></div>
     </header>
-    <div class="s5-camps reveal fx-stagger">
-      <div class="s5-camp s5-meet">
-        <div class="ph next"><span class="next-mark">76ERS<br>vs KNICKS</span><span class="badge">開催済み</span></div>
+    <div class="x5-meets reveal fx-stagger">
+      <div class="x5-meet">
+        <div class="ph type"><span class="mark">76ERS<br>vs KNICKS</span><span class="x5-badge">開催済み</span></div>
         <div class="body">
           <span class="date">2026.10.21</span>
           <h3>NBA開幕戦 ビューイングオフ会<small>NBA OPENING NIGHT VIEWING</small></h3>
@@ -335,8 +329,8 @@ gtag('config', 'G-D2CX26H018');
           </dl>
         </div>
       </div>
-      <div class="s5-camp s5-meet">
-        <div class="ph"><img src="../assets/s5/meetup-2026-01-1.webp?v=ef61a02923" alt="STARTING 5IVE 新年会の集合写真（Coast 2 Coast 原宿）" width="1200" height="1600" loading="lazy" decoding="async" style="object-position:center 45%"><span class="badge">開催済み</span></div>
+      <div class="x5-meet">
+        <div class="ph"><img src="../assets/s5/meetup-2026-01-1.webp?v=ef61a02923" alt="STARTING 5IVE 新年会の集合写真（Coast 2 Coast 原宿）" width="1200" height="1600" loading="lazy" decoding="async" style="object-position:center 45%"><span class="x5-badge">開催済み</span></div>
         <div class="body">
           <span class="date">2026.01.10</span>
           <h3>STARTING 5IVE 新年会<small>NEW YEAR MEETUP</small></h3>
@@ -349,26 +343,24 @@ gtag('config', 'G-D2CX26H018');
         </div>
       </div>
     </div>
-    <figure class="s5-gallery reveal">
+    <figure class="x5-gallery reveal">
       <img src="../assets/s5/meetup-2026-01-2.webp?v=eecd0b5f1c" alt="新年会の会場の様子（Coast 2 Coast 原宿）" width="900" height="1200" loading="lazy" decoding="async">
       <img src="../assets/s5/meetup-2026-01-5.webp?v=8f8cc7b0e8" alt="新年会で乾杯する参加者" width="480" height="640" loading="lazy" decoding="async">
-      <img src="../assets/s5/meetup-2026-01-3.webp?v=df880c1182" alt="会場の Coast 2 Coast（原宿）の店先" width="900" height="1200" loading="lazy" decoding="async">
-      <img src="../assets/s5/meetup-2026-01-4.webp?v=488bb575e6" alt="Coast 2 Coast（原宿）の入口" width="900" height="1200" loading="lazy" decoding="async">
       <figcaption>2026.01.10 STARTING 5IVE 新年会（Coast 2 Coast 原宿）</figcaption>
     </figure>
-    <p class="s5-note reveal">※ 画面の中だけじゃなく、同じ場所でバスケを語る。視聴者と一緒に楽しむオフ会を開いている。</p>
+    <p class="x5-note reveal">※ 画面の中だけじゃなく、同じ場所でバスケを語る。視聴者と一緒に楽しむオフ会を開いている。</p>
   </div>
 </section>
 
 <!-- 05 COLLABORATION -->
-<section class="brand-section s5-chap" id="collab">
+<section class="x5-sec" id="collab">
   <div class="wrap">
-    <header class="s5-ch reveal">
-      <span class="n">05</span>
-      <div><span class="en">COLLABORATION</span><h2>コラボ実績</h2></div>
+    <header class="x5-head reveal">
+      <span class="x5-no" aria-hidden="true">05</span>
+      <div><span class="x5-eyebrow">COLLABORATION</span><h2>コラボ実績</h2></div>
     </header>
-    <h3 class="s5-sub">NBA docomo × STARTING 5IVE</h3>
-    <figure class="s5-event reveal fx-card">
+    <h3 class="x5-sub">NBA docomo × STARTING 5IVE</h3>
+    <figure class="x5-event reveal">
       <div class="ph"><img src="../assets/collab/nba-docomo-2026.webp?v=ab4338bce7" alt="NBA docomo「LESSONS FROM THE GAME CHANGERS」のステージに立つSTARTING 5IVE（六本木ヒルズアリーナ）" width="1600" height="1067" loading="lazy" decoding="async"></div>
       <figcaption class="body">
         <span class="date">2026.09.26</span>
@@ -376,32 +368,32 @@ gtag('config', 'G-D2CX26H018');
         <p>NBA docomo 主催、来日したNBAレジェンドのスペシャルイベントに出演。</p>
         <dl>
           <div><dt>会場</dt><dd>六本木ヒルズアリーナ</dd></div>
-          <div><dt>登壇ゲスト</dt><dd>ミッチ・リッチモンド／ドワイト・ハワード／デロン・ウィリアムス</dd></div>
+          <div><dt>登壇ゲスト</dt><dd><span class="nw">ミッチ・リッチモンド／</span><wbr><span class="nw">ドワイト・ハワード／</span><wbr><span class="nw">デロン・ウィリアムス</span></dd></div>
         </dl>
       </figcaption>
     </figure>
-    <h3 class="s5-sub">2K Japan × STARTING 5IVE</h3>
-    <div class="s5-collab reveal fx-card">
+    <h3 class="x5-sub">2K Japan × STARTING 5IVE</h3>
+    <div class="x5-2k reveal">
       <img class="k-logo" src="../assets/collab/nba2k.png?v=946d2648b9" alt="NBA 2K" width="456" height="94">
-      <small>『NBA 2K26』YouTube 長尺コンテンツ 4本（2026年3月公開・合計25万回以上再生）</small>
+      <p>『NBA 2K26』YouTube 長尺コンテンツ 4本（2026年3月公開・合計25万回以上再生）</p>
     </div>
-    <div class="s5-vids s5-vids-2k reveal fx-stagger">
-      <div class="s5-vid">
+    <div class="x5-vids-2k reveal fx-stagger">
+      <div class="x5-vid">
         <button class="yt-lite" data-id="HOfC7_kru10" aria-label="動画を再生: NBA 2K26 第1回"><img src="https://i.ytimg.com/vi/HOfC7_kru10/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="ep">#1</span></button>
         <p class="t">『レブロン』って言ったら減点！？NGワードありの「NBA 2K」がまさかの結果に...！</p>
         <span class="v">4.4万回再生</span>
       </div>
-      <div class="s5-vid">
+      <div class="x5-vid">
         <button class="yt-lite" data-id="hCmE5kDbHHM" aria-label="動画を再生: NBA 2K26 第2回"><img src="https://i.ytimg.com/vi/hCmE5kDbHHM/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="ep">#2</span></button>
         <p class="t">最強のNBA選手たちをドラフト！それぞれの夢のチームを作って勝負だ！！</p>
         <span class="v">9.8万回再生</span>
       </div>
-      <div class="s5-vid">
+      <div class="x5-vid">
         <button class="yt-lite" data-id="SIwrRoxC6bk" aria-label="動画を再生: NBA 2K26 第3回"><img src="https://i.ytimg.com/vi/SIwrRoxC6bk/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="ep">#3</span></button>
         <p class="t">夢のチームが衝突！ドラフトで作ったチームで遂に勝負🔥</p>
         <span class="v">7.0万回再生</span>
       </div>
-      <div class="s5-vid">
+      <div class="x5-vid">
         <button class="yt-lite" data-id="XGwXg8DAkIY" aria-label="動画を再生: NBA 2K26 第4回"><img src="https://i.ytimg.com/vi/XGwXg8DAkIY/hqdefault.jpg" alt="" loading="lazy" width="480" height="360"><span class="play" aria-hidden="true"></span><span class="ep">#4</span></button>
         <p class="t">ついに決勝🔥真のドリームチームを決める最後の戦いが今始まる！</p>
         <span class="v">4.7万回再生</span>
@@ -410,37 +402,37 @@ gtag('config', 'G-D2CX26H018');
   </div>
 </section>
 
-<!-- 06 WORK WITH US: 案件のご相談＋スポンサー募集 -->
-<section class="brand-section s5-chap s5-contact" id="contact">
+<!-- 06 WORK WITH US: 案件のご相談＋スポンサー募集＋メンバー個人への案件 -->
+<section class="x5-sec x5-sec-alt" id="contact">
   <div class="wrap">
-    <header class="s5-ch reveal">
-      <span class="n">06</span>
-      <div><span class="en">WORK WITH US — ご相談</span><h2>案件・スポンサーのご相談</h2></div>
+    <header class="x5-head reveal">
+      <span class="x5-no" aria-hidden="true">06</span>
+      <div><span class="x5-eyebrow">WORK WITH US — ご相談</span><h2><span class="nw">案件・スポンサーの</span><wbr><span class="nw">ご相談</span></h2></div>
     </header>
-    <div class="s5-contact-main reveal">
-    <h2><span class="nw">STARTING 5IVEと、</span><br class="sp"><span class="nw">一緒につくろう。</span></h2>
-    <p>タイアップ動画・商品やゲームのPR・イベント出演・キャンプの協賛など、STARTING 5IVEへのご依頼はこちらから。5人のNBAクリエイターが、それぞれの視点で届けます。</p>
-    <ul class="s5-offer">
-      <li>YouTube タイアップ</li>
-      <li>商品・ゲームのPR</li>
-      <li>イベント出演</li>
-      <li>キャンプ・オフ会の協賛</li>
-    </ul>
-    <!-- スポンサー募集（2026-09-26: 下の独立ブロックから移設。同じフォームへのボタンが2つ並んでいたので1つにまとめた） -->
-    <div class="sponsor-wanted sw-in" id="sponsor">
-      <div class="sw-box">
-        <span class="sw-pill">SPONSOR WANTED</span>
-        <h2><span class="nw">STARTING 5IVE は、</span><br class="sp"><span class="nw">スポンサー募集中。</span></h2>
+    <div class="x5-work reveal">
+      <div class="x5-work-main">
+        <h3 class="x5-work-h"><span class="nw">STARTING 5IVEと、</span><wbr><span class="nw">一緒につくろう。</span></h3>
+        <p>タイアップ動画・商品やゲームのPR・イベント出演・キャンプの協賛など、STARTING 5IVEへのご依頼はこちらから。5人のNBAクリエイターが、それぞれの視点で届けます。</p>
+        <ul class="x5-offer">
+          <li>YouTube タイアップ</li>
+          <li>商品・ゲームのPR</li>
+          <li>イベント出演</li>
+          <li>キャンプ・オフ会の協賛</li>
+        </ul>
+      </div>
+      <div class="x5-sponsor" id="sponsor">
+        <span class="pill">SPONSOR WANTED</span>
+        <h3><span class="nw">STARTING 5IVE は、</span><wbr><span class="nw">スポンサー募集中。</span></h3>
         <p>チャンネル・キャンプ・オフ会など、STARTING 5IVE の活動を一緒に盛り上げていただけるスポンサーを募集しています。まずはお気軽にご相談ください。</p>
       </div>
+      <div class="x5-work-btns">
+        <a class="x5-btn primary" href="https://docs.google.com/forms/d/e/1FAIpQLSePTkVEu6pI_05J95pQdnEcYn8AI9_ghXAiC6B0MkeZu0QOfQ/viewform" target="_blank" rel="noopener"><span class="nw">案件・スポンサーの</span><wbr><span class="nw">ご相談はこちら →</span></a>
+        <a class="x5-btn" href="mailto:starting5ive.nba@gmail.com">starting5ive.nba@gmail.com</a>
+        <p class="x5-note">※ 運営は 610（シックステン）。フォームの内容を確認のうえ、折り返しご連絡します。</p>
+      </div>
     </div>
-    <div class="s5-contact-btns">
-      <a class="s5-btn primary" href="https://docs.google.com/forms/d/e/1FAIpQLSePTkVEu6pI_05J95pQdnEcYn8AI9_ghXAiC6B0MkeZu0QOfQ/viewform" target="_blank" rel="noopener">案件・スポンサーのご相談はこちら →</a>
-      <a class="s5-btn" href="mailto:starting5ive.nba@gmail.com">starting5ive.nba@gmail.com</a>
-    </div>
-    <p class="s5-note">※ 運営は 610（シックステン）。フォームの内容を確認のうえ、折り返しご連絡します。</p>
-    <!-- 個人への案件（2026-10-10: メンバー個人への依頼窓口。アドレスは各メンバーの請求書の記載から） -->
-    <div class="s5-solo" id="solo">
+    <!-- 個人への案件（メンバー個人への依頼窓口） -->
+    <div class="s5-solo x5-solo reveal" id="solo">
       <h3>メンバー個人への案件はこちら</h3>
       <p>メンバー個人へのご依頼は、各メンバーへ直接ご連絡ください。プロフィールは各メンバーのページから。</p>
       <ul class="s5-solo-list">
@@ -450,7 +442,6 @@ gtag('config', 'G-D2CX26H018');
         <li><span class="nm">ニコラス<small>NICHOLAS</small></span><a href="mailto:nicktakeshi0308@gmail.com">nicktakeshi0308@gmail.com</a><a class="via" href="starting5ive/nicholas.html">プロフィールを見る →</a></li>
         <li><span class="nm">クリス<small>CHRIS</small></span><a href="mailto:chris@sixten.jp">chris@sixten.jp</a><a class="via" href="chris-basketball-diary.html">クリスのバスケ日記を見る →</a></li>
       </ul>
-    </div>
     </div>
   </div>
 </section>
@@ -495,29 +486,28 @@ const io = new IntersectionObserver((entries) => {
   entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
 }, { threshold: 0.12 });
 document.querySelectorAll('.reveal').forEach(el => io.observe(el));
-// 目次: いま読んでいる章をハイライト
-const tocLinks = [...document.querySelectorAll('.s5-toc a')];
+// ヘッダーの章: いま読んでいる章をハイライト
+const tocLinks = [...document.querySelectorAll('.x5-nav-links a, .x5-menu .grp:not(.six) a')];
 const tocIo = new IntersectionObserver((entries) => {
   entries.forEach(e => {
     if (!e.isIntersecting) return;
-    tocLinks.forEach(a => {
-      const on = a.getAttribute('href') === '#' + e.target.id;
-      a.classList.toggle('on', on);
-      if (on) { const box = a.parentElement; box.scrollLeft = a.offsetLeft - (box.clientWidth - a.offsetWidth) / 2; }
-    });
+    tocLinks.forEach(a => a.classList.toggle('on', a.getAttribute('href') === '#' + e.target.id));
   });
 }, { rootMargin: '-45% 0px -50% 0px' });
-tocLinks.forEach(a => { const s = document.querySelector(a.getAttribute('href')); if (s) tocIo.observe(s); });
-const toggle = document.querySelector('.nav-toggle');
-const links = document.querySelector('.nav-links');
+new Set(tocLinks.map(a => a.getAttribute('href'))).forEach(h => { const s = h.startsWith('#') && document.querySelector(h); if (s) tocIo.observe(s); });
+// 三本線: 全項目＋610 のメニュー
+const toggle = document.querySelector('.x5-burger');
+const menu = document.getElementById('x5-menu');
 function setNav(open) {
-  links.classList.toggle('open', open);
+  menu.hidden = !open;
+  document.documentElement.classList.toggle('x5-menu-open', open);
   toggle.setAttribute('aria-expanded', String(open));
   toggle.setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
-  toggle.textContent = open ? '×' : '☰';
 }
-toggle.addEventListener('click', () => setNav(!links.classList.contains('open')));
-links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => setNav(false)));
+toggle.addEventListener('click', () => setNav(menu.hidden));
+menu.querySelectorAll('a').forEach(a => a.addEventListener('click', () => setNav(false)));
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && !menu.hidden) { setNav(false); toggle.focus(); } });
+document.addEventListener('click', e => { if (!menu.hidden && !e.target.closest('.x5-nav')) setNav(false); });
 // 動画: クリックした時だけ YouTube を読み込む（ページを重くしない）
 document.querySelectorAll('.yt-lite').forEach(b => b.addEventListener('click', () => {
   const f = document.createElement('iframe');
@@ -527,9 +517,19 @@ document.querySelectorAll('.yt-lite').forEach(b => b.addEventListener('click', (
   f.allowFullscreen = true;
   b.replaceChildren(f);
 }, { once: true }));
-// メンバー: タップで登録者数を出す（マウス環境はホバーで出るので何もしない）
-if (!matchMedia('(hover: hover) and (pointer: fine)').matches) {
-  const ms = document.querySelectorAll('.s5-member');
+// メンバー: カードを押したらプロフィールへ（名前の下の「プロフィール →」は 2026-11-05 クリス指示で削除）。
+// マウス: クリックでそのまま移動・Enter でも移動。スマホ: 1回目のタップで登録者数を出し、出ている時のタップで移動
+const ms = document.querySelectorAll('.s5-member');
+const fine = matchMedia('(hover: hover) and (pointer: fine)').matches;
+ms.forEach(m => {
+  m.style.cursor = 'pointer';
+  m.addEventListener('click', e => {
+    if (e.target.closest('a') || !m.dataset.href) return;
+    if (fine || m.classList.contains('open')) location.href = m.dataset.href;
+  });
+  m.addEventListener('keydown', e => { if (e.key === 'Enter' && e.target === m && m.dataset.href) location.href = m.dataset.href; });
+});
+if (!fine) {
   ms.forEach(m => m.addEventListener('click', e => {
     if (e.target.closest('a')) return;
     const on = !m.classList.contains('open');
@@ -540,5 +540,6 @@ if (!matchMedia('(hover: hover) and (pointer: fine)').matches) {
 </script>
 <script src="../js/brand-fx.js?v=2a9a54ceac" defer></script>
 <script src="../js/phrase-wrap.js?v=22c6dfaa2c" defer></script>
+<script src="../js/s5-lineup.js?v=1105f" defer></script>
 </body>
 </html>

@@ -249,6 +249,7 @@
 .s5-toc a.on b { color: #0a0a0a; }
 .s5-toc a.news { border-color: #ff5a3c; color: #ff8a6e; }
 .s5-toc a.news.on, .s5-toc a.news:hover { background: #ff5a3c; border-color: #ff5a3c; color: #0a0a0a; }
+.s5-toc a.shop { border-color: #2bb3ad; color: #2bb3ad; } .s5-toc a.shop:hover { background: #2bb3ad; color: #0a0a0a; } .s5-toc a.shop:hover b { color: #0a0a0a; } /* 2026-11-05 ショップ導線 */
 @media (max-width: 760px) { .s5-toc-in { justify-content: flex-start; padding: 9px 16px; gap: 6px; } .s5-toc a { padding: 6px 13px; font-size: 12px; } }
 .s5-bignews, .s5-chap, #sponsor { scroll-margin-top: 130px; }
 .s5-bignews .s5-news-ticker { margin-top: 0; }
@@ -315,7 +316,7 @@
 .s5-contact .sponsor-wanted.sw-in { margin-top: 40px; }
 
 /* ===== S5 ヒーロー作り直し（2026-09-26）: 左に文字・右に5人（スマホは1列）／メンバー名つき／ボタン2つ ===== */
-.s5h { min-height: auto; display: block; text-align: left; padding: 112px 20px 56px; overflow: hidden; }
+.s5h { position: relative; min-height: auto; display: block; text-align: left; padding: 112px 20px 56px; overflow: hidden; } /* 2026-11-05: relative を .fx に頼らず常に付ける（動きを減らす設定の端末で ::after の「5」がはみ出してページ幅406px になっていた） */
 .s5h::before { content: ''; position: absolute; inset: 0; z-index: 0; pointer-events: none;
   background: radial-gradient(60% 55% at 85% 45%, rgba(43, 179, 173, 0.22), transparent 70%), radial-gradient(40% 40% at 0% 100%, rgba(255, 90, 60, 0.10), transparent 70%); }
 .s5h::after { content: '5'; position: absolute; right: -4vw; bottom: -18vw; z-index: 0; pointer-events: none;

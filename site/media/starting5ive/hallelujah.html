@@ -28,12 +28,15 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Klee+One:wght@600&family=Noto+Sans+JP:wght@400;500;700;900&family=Permanent+Marker&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../../css/style.css">
+<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../css/s5-nav.css?v=1105a">
 <link rel="stylesheet" href="../../css/brand-fx.css">
-<link rel="stylesheet" href="../../css/s5-hallelujah.css">
-<script>if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('fx')</script>
 <link rel="stylesheet" href="../../css/s5-intro.css">
+<link rel="stylesheet" href="../../css/s5-hallelujah.css?v=1105n">
 <script>try{if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&true)document.documentElement.classList.add('s5-intro-on')}catch(e){}</script>
 <script type="importmap">{"imports":{"three":"../../js/vendor/three.module.min.js"}}</script>
+<script>if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('fx')</script>
+<script>try{if(!matchMedia('(prefers-reduced-motion: reduce)').matches)document.documentElement.classList.add('hl-op')}catch(e){}</script>
 <!-- ga4:start build_seo.py が自動生成。手で編集しない -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D2CX26H018"></script>
 <script>
@@ -45,429 +48,322 @@ gtag('config', 'G-D2CX26H018');
 <!-- ga4:end -->
 </head>
 <body class="s5-pf-page hl-page">
-
-<!-- オープニング: 戦術ボードの上で ○（オフェンス）× （ディフェンス）が動き、パスが通ってから名前が出る。タップ／Esc でスキップ -->
-<!-- オープニング（js/intro/hallelujah.js・初回だけ・タップでスキップ） -->
-<div class="s5-intro" id="s5-intro" aria-hidden="true"><canvas></canvas><div class="lay"></div><div class="vig"></div><div class="grain"></div><span class="ld"></span><span class="hint">TAP TO SKIP</span></div>
+<!-- オープニング（js/intro/hallelujah.js・3Dコート＋○✕のセットプレイ・タップでスキップ）。音の案内表示は出さない -->
+<div class="s5-intro" id="s5-intro" aria-hidden="true"><canvas></canvas><div class="lay"></div><div class="vig"></div><div class="grain"></div><span class="ld"></span></div>
 
 <!-- ナビ: 旧610マークは使わず、新ロゴの SIXTEN ワードマークだけ（2026-11-04） -->
-<header class="nav">
-  <div class="wrap nav-inner">
-    <a href="../../index.html" class="nav-logo">
-      <img class="nav-word" src="../../assets/sixten-logo-white.png" alt="610 — SIXTEN" width="1200" height="188">
-    </a>
-    <button class="nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="site-nav">☰</button>
-    <nav class="nav-links" id="site-nav">
-      <a href="../../index.html#about">ABOUT</a>
-      <a href="../../index.html#media">MEDIA</a>
-      <a href="../../index.html#services">SERVICES</a>
-      <a href="../../index.html#work">WORK</a>
-      <a href="../../index.html#journal">JOURNAL</a>
-      <a href="../../index.html#contact" class="nav-cta">START A PROJECT</a>
+<!-- 2026-11-05 クリス指示 49本目・57本目: 一番上は STARTING 5IVE のヘッダーに統一（610 は三本線メニューの一番下だけ）。見た目は css/s5-nav.css・開閉は js/s5-nav.js -->
+<header class="nav x5-nav">
+  <div class="wrap x5-nav-in">
+    <a href="../starting5ive.html" class="x5-nav-logo"><img src="../../assets/starting5ive-icon.jpg?v=d13b202277" alt="" width="400" height="400"><span>STARTING <em>5IVE</em></span></a>
+    <nav class="x5-nav-links" aria-label="STARTING 5IVE の目次">
+      <a href="../starting5ive.html#videos"><b>01</b>動画</a>
+      <a href="../starting5ive.html#members" class="on"><b>02</b>メンバー</a>
+      <a href="../starting5ive.html#camp"><b>03</b>キャンプ</a>
+      <a href="../starting5ive.html#meetup"><b>04</b>オフ会</a>
+      <a href="../starting5ive.html#collab"><b>05</b>コラボ</a>
+      <a href="../starting5ive.html#contact"><b>06</b>ご相談</a>
+      <a href="goods/" class="shop"><b>07</b>SHOP →</a>
     </nav>
+    <button class="x5-burger" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="x5-menu"><i></i><i></i><i></i></button>
+  </div>
+  <div class="x5-menu" id="x5-menu" hidden>
+    <div class="wrap x5-menu-in">
+      <nav class="grp" aria-label="STARTING 5IVE">
+        <span class="cap">STARTING 5IVE</span>
+        <a href="../starting5ive.html#videos"><b>01</b>動画</a>
+        <a href="../starting5ive.html#members" class="on"><b>02</b>メンバー</a>
+        <a href="../starting5ive.html#camp"><b>03</b>キャンプ</a>
+        <a href="../starting5ive.html#meetup"><b>04</b>オフ会</a>
+        <a href="../starting5ive.html#collab"><b>05</b>コラボ</a>
+        <a href="../starting5ive.html#contact"><b>06</b>ご相談</a>
+        <a href="goods/" class="shop"><b>07</b>SHOP →</a>
+      </nav>
+      <nav class="grp six" aria-label="610 — sixten">
+        <a href="../../index.html" class="six-logo"><img src="../../assets/s5/610-solid.png?v=20261105" alt="610" width="1396" height="377"><span>— sixten TOP</span></a>
+        <a href="../../index.html#about">ABOUT</a>
+        <a href="../../index.html#media">MEDIA</a>
+        <a href="../../index.html#services">SERVICES</a>
+        <a href="../../index.html#work">WORK</a>
+        <a href="../../index.html#journal">JOURNAL</a>
+        <a href="../../index.html#contact" class="cta">START A PROJECT</a>
+      </nav>
+    </div>
   </div>
 </header>
 
-<!-- 共通の手描きフィルタ（線を少しだけ揺らしてマーカーで描いた感じにする） -->
-<svg class="hl-defs" width="0" height="0" aria-hidden="true" focusable="false">
-  <defs>
-    <filter id="hl-hand" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="4"/><feDisplacementMap in="SourceGraphic" scale="3.2"/></filter>
-    <marker id="hl-ah-w" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#f4f1ea" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
-    <marker id="hl-ah-g" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#78be20" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
-    <marker id="hl-ah-b" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#236192" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
-    <marker id="hl-ah-n" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#0c2340" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
-  </defs>
-</svg>
-
-<!-- STARTING 5IVE メンバー個人ページ（2026-11-04 作り込み版・数字は 2026年11月4日時点）
+<!-- STARTING 5IVE メンバー個人ページ（数字は 2026年11月4日時点）
      肩書き: NIHON TENGUS 公式サイトのスタッフ紹介「Head Coach Haruya」（nihontengus.com/pages/staff・2026-11-04取得）と本人動画「アジアトーナメント」シリーズの説明文
      数字: youtube.com/@be_a_baller/about（登録者10.1万人・44,505,790回視聴・1,457本・2014/04/24登録）、Instagram @be_a__baller（16K Followers）いずれも 2026-11-04 取得
-     2026-11-05 作り直し: オープニング（メープル床の作戦ボード）に合わせ、本文も「床＋作戦ボード＋手書きマーカー」のコーチの世界に。配色はミネソタ寄り（ミッドナイトブルー／レイクブルー／オーロラグリーン／ムーンライトグレー）。
+     2026-11-05 3Dコート復活（14本目）: オープニングは #s5-intro の3Dコート（人形なし・○✕の駒でフィンチの HORNS DIVE FIST EXIT・js/intro/hallelujah.js）。最後は紺＋名前 → このヒーロー（同じセットの図が背景）に受け渡す。
      ヒーロー写真は本人動画 iJyCT6Wpfd0（アジアトーナメント Episode5）のサムネイル -->
 <section class="hl-hero" id="top">
-  <svg class="hl-hero-play" viewBox="0 0 1200 760" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
-    <g filter="url(#hl-hand)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M640 600 L668 613 L695 589 L723 611 L743 583 L772 601 L787 571 L817 584 L825 552 L857 560 L859 527 L892 528 L888 495 L921 489 L913 456 L945 444 L933 410 L964 391 L960 360" stroke="#236192" stroke-width="7" marker-end="url(#hl-ah-b)"/>
-      <path d="M1080 640 C1010 560 1060 470 1120 420" stroke="#78be20" stroke-width="7" marker-end="url(#hl-ah-g)"/>
-      <path d="M560 300 L700 210" stroke="#f4f1ea" stroke-width="5" stroke-dasharray="14 14" marker-end="url(#hl-ah-w)"/>
-      <path d="M1010 300 L1050 250 M1022 236 L1078 268" stroke="#f4f1ea" stroke-width="7"/>
-      <circle cx="620" cy="630" r="22" stroke="#f4f1ea" stroke-width="6"/>
-      <circle cx="540" cy="318" r="22" stroke="#f4f1ea" stroke-width="6"/>
-      <circle cx="1090" cy="670" r="22" stroke="#f4f1ea" stroke-width="6"/>
-      <path d="M680 520 l34 34 M714 520 l-34 34 M600 380 l30 30 M630 380 l-30 30 M980 560 l32 32 M1012 560 l-32 32" stroke="#78be20" stroke-width="7"/>
-    </g>
-  </svg>
   <div class="wrap hl-hero-in">
     <div class="hl-hero-txt">
-      <nav class="hl-crumb" aria-label="パンくず"><a href="../starting5ive.html">STARTING 5IVE</a> ／ <a href="../starting5ive.html#members">MEMBERS</a> ／ ハレルヤ</nav>
-      <span class="hl-kicker">STARTING 5IVE MEMBER 02 — PLAYBOOK</span>
-      <h1 class="hl-name"><span class="en">HALLELUJAH</span><span class="ja">ハレルヤ<small>BE A BALLER</small></span></h1>
-      <p class="hl-team"><span>NIHON TENGUS</span><b>HEAD COACH</b><em>ヘッドコーチ</em></p>
-      <p class="hl-catch"><span>全てのシュートを守る。</span></p>
-      <p class="hl-lede">ディフェンスを軸に、チームをつくるバスケットボールコーチ。アジアの国際大会「The Asian Tournament」に出る NIHON TENGUS のヘッドコーチ。日本各地と海外で、チーム・個人のクリニックを開いている。</p>
-      <div class="hl-go">
-        <a class="hl-yt-btn" href="https://www.youtube.com/@be_a_baller" target="_blank" rel="noopener"><span class="ic" aria-hidden="true"></span><span class="tx"><b>YouTubeチャンネルを見る</b><small>ハレルヤ【Be a baller】・登録者 10.1万人</small></span></a>
-        <div class="hl-go-sub">
-          <a class="hl-btn" href="#work">コーチ依頼・クリニックの相談</a>
-          <a class="hl-btn ghost" href="#career">指導歴を見る</a>
-        </div>
+      <p class="hl-kicker op">HEAD COACH ／ NIHON TENGUS</p>
+      <h1 class="hl-name"><span class="ja op">ハレルヤ</span><span class="en op">Be a baller Hallelujah</span></h1>
+      <p class="hl-catch op">全てのシュートを守る。</p>
+      <p class="hl-lede op">ディフェンスを軸にチームをつくるコーチ。</p>
+      <div class="hl-go op">
+        <a class="hl-yt-btn" href="https://www.youtube.com/@be_a_baller" target="_blank" rel="noopener"><span class="ic" aria-hidden="true"></span><span class="tx"><b>YouTubeチャンネルを見る</b><small>ハレルヤ【Be a baller】</small></span></a>
+        <a class="hl-btn hl-req-btn" href="#work"><span class="tx"><b>コーチ依頼はこちら</b><small>チーム・個人・クリニック</small></span><i aria-hidden="true">→</i></a>
       </div>
-      <div class="hl-sns">
-        <a href="https://www.instagram.com/be_a__baller/" target="_blank" rel="noopener">INSTAGRAM<small>1.6万人</small></a>
-        <a href="https://x.com/be_a_baller11" target="_blank" rel="noopener">X</a>
-        <a href="https://note.com/be_a_baller" target="_blank" rel="noopener">NOTE</a>
-      </div>
-    </div>
-    <figure class="hl-hero-ph">
-      <span class="tape" aria-hidden="true"></span>
-      <img src="../../assets/s5/hallelujah/hero-huddle.webp" alt="タイムアウト中、作戦ボードを手に NIHON TENGUS の選手へ指示を出すハレルヤ" width="1280" height="720" fetchpriority="high">
-      <figcaption>TIMEOUT — 本人の YouTube「アジアトーナメント」シリーズより</figcaption>
-    </figure>
-  </div>
-  <div class="wrap">
-    <div class="hl-scout" aria-label="スカウティングレポート（2026年11月4日時点）">
-      <span class="hl-scout-h">SCOUTING REPORT<small>※ 2026年11月4日時点</small></span>
-      <ul>
-        <li><b>10.1<small>万人</small></b><span>YouTube 登録者</span></li>
-        <li><b>4,450<small>万回+</small></b><span>YouTube 総再生</span></li>
-        <li><b>1,457<small>本</small></b><span>YouTube 動画</span></li>
+      <ul class="hl-stats op" aria-label="YouTube の数字（2026年11月4日時点）">
+        <li><b>10.1<small>万人</small></b><span>登録者</span></li>
+        <li><b>4,450<small>万回</small></b><span>総再生</span></li>
+        <li><b>1,457<small>本</small></b><span>動画</span></li>
       </ul>
+    </div>
+    <!-- 2026-11-05 70本目「右のハレルヤの写真の後ろにコートを入れて」: 盤（作戦図）は写真の後ろ。左の名前・文字の後ろには置かない（62本目の左寄せは取り消し） -->
+    <div class="hl-hero-pw">
+      <svg class="hl-court" viewBox="640 50 780 800" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
+        <g class="ln" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <!-- 2026-11-05 36本目: 3D オープニングの盤が真上の2Dに倒れて、この盤にそのまま重なる。
+               中身は js/intro/hallelujah.js の window.__hlSvgSet() の書き出し（3D と同じ線・同じ駒の最終位置。1m=49・右がゴール）。
+               セット: クリス・フィンチのウルブス HORNS DIVE FIST EXIT → #27 のピック&ロール → ロブ → ダンク。O＝攻め、X＝守り -->
+          <path pathLength="1" style="--d:0.2s;--t:0.7s" class="c" d="M694 82.5 L1380 82.5 L1380 817.5 L694 817.5 L694 82.5"/>
+          <path pathLength="1" style="--d:0.55s;--t:0.45s" class="c" d="M1380 329.9 L1095.8 329.9 L1095.8 570 L1380 570"/>
+          <path pathLength="1" style="--d:0.8s;--t:0.35s" class="c" d="M1095.8 538.2 L1090 538 L1084.3 537.4 L1078.6 536.5 L1073 535.2 L1067.4 533.5 L1062 531.5 L1056.8 529.1 L1051.7 526.4 L1046.8 523.3 L1042.1 520 L1037.6 516.3 L1033.4 512.4 L1029.5 508.2 L1025.8 503.7 L1022.5 499 L1019.4 494.1 L1016.7 489 L1014.3 483.8 L1012.3 478.4 L1010.6 472.8 L1009.3 467.2 L1008.4 461.5 L1007.8 455.8 L1007.6 450 L1007.8 444.2 L1008.4 438.5 L1009.3 432.8 L1010.6 427.2 L1012.3 421.6 L1014.3 416.2 L1016.7 411 L1019.4 405.9 L1022.5 401 L1025.8 396.3 L1029.5 391.8 L1033.4 387.6 L1037.6 383.7 L1042.1 380 L1046.8 376.7 L1051.7 373.6 L1056.8 370.9 L1062 368.5 L1067.4 366.5 L1073 364.8 L1078.6 363.5 L1084.3 362.6 L1090 362 L1095.8 361.8"/>
+          <path class="cd" d="M1095.8 361.8 L1101.6 362 L1107.3 362.6 L1113 363.5 L1118.6 364.8 L1124.2 366.5 L1129.6 368.5 L1134.8 370.9 L1139.9 373.6 L1144.8 376.7 L1149.5 380 L1154 383.7 L1158.2 387.6 L1162.1 391.8 L1165.8 396.3 L1169.1 401 L1172.2 405.9 L1174.9 411 L1177.3 416.2 L1179.3 421.6 L1181 427.2 L1182.3 432.8 L1183.2 438.5 L1183.8 444.2 L1184 450 L1183.8 455.8 L1183.2 461.5 L1182.3 467.2 L1181 472.8 L1179.3 478.4 L1177.3 483.8 L1174.9 489 L1172.2 494.1 L1169.1 499 L1165.8 503.7 L1162.1 508.2 L1158.2 512.4 L1154 516.3 L1149.5 520 L1144.8 523.3 L1139.9 526.4 L1134.8 529.1 L1129.6 531.5 L1124.2 533.5 L1118.6 535.2 L1113 536.5 L1107.3 537.4 L1101.6 538 L1095.8 538.2"/>
+          <path pathLength="1" style="--d:0.95s;--t:0.6s" class="c" d="M1380 126.6 L1233.5 126.6 L1219.8 129.8 L1206.3 133.7 L1192.9 138 L1179.8 143 L1166.9 148.5 L1154.2 154.5 L1141.8 161.1 L1129.6 168.2 L1117.8 175.8 L1106.3 183.9 L1095.2 192.5 L1084.5 201.6 L1074.1 211.1 L1064.2 221 L1054.7 231.3 L1045.6 242.1 L1037 253.2 L1028.9 264.7 L1021.3 276.5 L1014.1 288.6 L1007.5 301 L1001.5 313.7 L996 326.6 L991 339.7 L986.6 353.1 L982.8 366.6 L979.5 380.3 L976.8 394.1 L974.8 408 L973.3 421.9 L972.4 436 L972.1 450 L972.4 464 L973.3 478.1 L974.8 492 L976.8 505.9 L979.5 519.7 L982.8 533.4 L986.6 546.9 L991 560.3 L996 573.4 L1001.5 586.3 L1007.5 599 L1014.1 611.4 L1021.3 623.5 L1028.9 635.3 L1037 646.8 L1045.6 657.9 L1054.7 668.7 L1064.2 679 L1074.1 688.9 L1084.5 698.4 L1095.2 707.5 L1106.3 716.1 L1117.8 724.2 L1129.6 731.8 L1141.8 738.9 L1154.2 745.5 L1166.9 751.5 L1179.8 757 L1192.9 762 L1206.3 766.3 L1219.8 770.2 L1233.5 773.4 L1380 773.4"/>
+          <path pathLength="1" style="--d:1.25s;--t:0.25s" class="c" d="M1302.8 388.8 L1298.8 388.9 L1294.8 389.3 L1290.9 389.9 L1287 390.8 L1283.1 392 L1279.4 393.4 L1275.7 395.1 L1272.2 397 L1268.8 399.1 L1265.5 401.4 L1262.4 403.9 L1259.5 406.7 L1256.8 409.6 L1254.2 412.7 L1251.9 416 L1249.8 419.4 L1247.9 422.9 L1246.2 426.6 L1244.8 430.3 L1243.7 434.1 L1242.8 438.1 L1242.1 442 L1241.7 446 L1241.6 450 L1241.7 454 L1242.1 458 L1242.8 461.9 L1243.7 465.9 L1244.8 469.7 L1246.2 473.4 L1247.9 477.1 L1249.8 480.6 L1251.9 484 L1254.2 487.3 L1256.8 490.4 L1259.5 493.3 L1262.4 496.1 L1265.5 498.6 L1268.8 500.9 L1272.2 503 L1275.7 504.9 L1279.4 506.6 L1283.1 508 L1287 509.2 L1290.9 510.1 L1294.8 510.7 L1298.8 511.1 L1302.8 511.3"/>
+          <path pathLength="1" style="--d:1.35s;--t:0.3s" class="c" d="M694 361.8 L699.8 362 L705.5 362.6 L711.2 363.5 L716.8 364.8 L722.4 366.5 L727.8 368.5 L733 370.9 L738.1 373.6 L743 376.7 L747.7 380 L752.2 383.7 L756.4 387.6 L760.3 391.8 L764 396.3 L767.3 401 L770.4 405.9 L773.1 411 L775.5 416.2 L777.5 421.6 L779.2 427.2 L780.5 432.8 L781.4 438.5 L782 444.2 L782.2 450 L782 455.8 L781.4 461.5 L780.5 467.2 L779.2 472.8 L777.5 478.4 L775.5 483.8 L773.1 489 L770.4 494.1 L767.3 499 L764 503.7 L760.3 508.2 L756.4 512.4 L752.2 516.3 L747.7 520 L743 523.3 L738.1 526.4 L733 529.1 L727.8 531.5 L722.4 533.5 L716.8 535.2 L711.2 536.5 L705.5 537.4 L699.8 538 L694 538.2"/>
+          <path pathLength="1" style="--d:1.6s;--t:0.2s" class="c" d="M1321.2 405.9 V494.1"/>
+          <circle pathLength="1" style="--d:1.7s;--t:0.25s" class="c" cx="1302.8" cy="450" r="11.3"/>
+          <g class="hl-set">
+          <path pathLength="1" style="--d:2.32s;--t:0.40s" class="p ink g" d="M1096.8 328.6 L1099.8 330.4 L1101.9 331.4 L1102.6 332.6 L1103.4 335.1 L1106 338.9 L1109.8 342.1 L1113.4 343.6 L1116.4 344.4 L1119.9 346 L1124.9 348.6 L1130.7 350.8 L1135.2 351.9 L1138 353.2 L1140.7 356.1 L1144.5 360.4 L1148.8 364.1 L1152.2 366.4 L1154.7 368.1 L1158 370.7 L1162.9 373.5 L1168.8 375.1 L1173.9 375.4 L1177.9 375.7 L1182.2 377.7 L1187.5 380.9 L1192.9 383.7 L1196.8 385.6 L1199.7 387.7 L1203.2 391.2 L1208.5 394.9 L1214.3 397.1 L1219.2 397.7 L1223.3 398 L1228 399.5 L1233.6 401.5 L1238.7 402.6 L1241.8 402.9 L1243.2 403.9 L1244.8 406.5 L1247.1 409.5"/>
+          <path pathLength="1" style="--d:2.72s;--t:0.1s" class="p ink g" d="M1231.9 402.8 L1247.1 409.5 L1244.5 393.0"/>
+          <path pathLength="1" style="--d:2.42s;--t:0.40s" class="p ink w" d="M1327 126.7 L1325.4 126.8 L1323.8 128.7 L1323 131.9 L1321.9 135 L1319 137.4 L1314.8 140.4 L1311.2 145.1 L1309 150.3 L1307.4 154.3 L1304.8 156.7 L1301.7 159.1 L1299.4 162.8 L1298.3 167 L1296.9 170.4 L1293.8 173 L1289.4 176.6 L1285.5 182 L1282.7 188 L1279.9 192.8 L1276 196.3 L1271.8 200 L1268.8 205 L1267.2 210 L1265.5 213.8 L1262.2 216.7 L1257.9 220.6 L1254.2 226.3 L1251.2 232.7 L1247.5 238.2 L1242.3 243 L1236.7 248.5 L1232.6 255 L1230.2 260.9 L1227.9 264.9 L1224.8 267.4 L1221.7 270.2 L1220 274 L1219.3 277.6 L1217.8 279.7 L1214.9 281.2"/>
+          <path pathLength="1" style="--d:2.82s;--t:0.1s" class="p ink w scr" d="M1223.0 296.9 L1206.8 265.5"/>
+          <path pathLength="1" style="--d:2.57s;--t:0.35s" class="p ink w" d="M1093.7 572.2 L1093.3 571.2 L1091.9 568.3 L1089 564.9 L1086 562.7 L1083.7 561.5 L1081.2 559.9 L1077.1 557.3 L1071.3 554.9 L1065.6 553.9 L1061.4 553.5 L1057.9 552 L1053.7 548.7 L1048.8 545 L1044.7 542.3 L1042.1 540.2 L1039.7 537.2 L1035.9 533.3 L1030.7 530.1 L1026 528.8 L1022.5 528.5 L1019.1 527.4 L1014.6 524.9 L1009.4 522.3 L1005.4 520.7 L1003.1 519 L1001.1 515.8 L997.9 511.4 L993.8 507.4 L990.2 505.2 L987.5 503.9 L984.4 501.8 L979.8 499.2 L974.5 497.3 L970.5 496.8 L968.3 496.3 L966.5 494.4 L964 491.1 L961.4 488.3 L960.1 487 L960.2 486"/>
+          <path pathLength="1" style="--d:2.92s;--t:0.1s" class="p ink w scr" d="M942.6 484.2 L977.8 487.8"/>
+          <path pathLength="1" style="--d:2.84s;--t:0.43s" class="p ink b" d="M1245.2 409 L1246.4 406.4 L1249.4 402.4 L1252.7 396.1 L1255.1 388.2 L1257.1 380.4 L1259.9 373.7 L1263.3 367.2 L1266.1 359.9 L1267.1 351.9 L1266.8 344.6 L1266.9 338.7 L1268 333.4 L1269 327.3 L1269 324.1 L1268 316.6 L1267.7 310 L1268.5 304 L1269.2 297.5 L1268.4 290.1 L1265.7 282.9 L1262.5 277.4 L1259.8 273.1 L1257.2 268.5 L1253.4 262.6 L1248.1 256.2 L1242.5 250.4 L1237.9 245.3 L1237.8 243.6 L1232.4 236.3 L1224.3 228.2 L1214.4 220.9 L1204.2 215.1 L1194.1 209.8 L1182.8 203.7 L1170 197.2 L1156.9 191.6 L1145.3 187.5 L1135.9 183.8 L1127.9 179.1 L1120.4 173.6 L1113.9 168.7 L1112.6 167.5"/>
+          <path pathLength="1" style="--d:3.27s;--t:0.1s" class="p ink b" d="M1128.8 171.5 L1112.6 167.5 L1117.9 183.3"/>
+          <path pathLength="1" style="--d:2.97s;--t:0.50s" class="p ink g" d="M923.6 449.7 L916.9 453.2 L914.5 456.5 L918.8 460.8 L926.6 465.9 L931.3 470.8 L929.1 475.1 L922.6 479.8 L919 485.5 L923.1 491 L932.6 494.7 L940.3 496.9 L941.1 500.2 L936.7 507.5 L931.1 514.4 L932.6 521.7 L939.3 523.5 L947.4 521.9 L953.2 522.2 L956 528 L957.6 537.1 L960.2 544.1 L965.4 545.6 L972.9 543.1 L980.9 541.5 L986.8 544.5 L989.2 552.1 L989.3 560.8 L987.6 564.9 L993.2 565.7 L1002.2 562.6 L1010.8 559.7 L1016.9 560.9 L1020.8 567.1 L1025.3 574.3 L1032.2 577.1 L1040.4 573.6 L1047.1 567.3 L1051.1 565.1 L1053.2 570.5 L1055.2 580.3 L1057.8 586.9 L1059.2 585.1"/>
+          <path pathLength="1" style="--d:3.47s;--t:0.1s" class="p ink g" d="M1056.5 601.5 L1059.2 585.1 L1043.9 591.7"/>
+          <path pathLength="1" style="--d:3.07s;--t:0.73s" class="p ink g" d="M957.7 486.7 L961.9 489.5 L966.4 491.2 L970.8 492.5 L976.6 494.9 L984.6 497.9 L994.1 500.2 L1002.9 500.9 L1010.7 501.3 L1018.7 503 L1028.1 505.5 L1038.3 507 L1048.3 507.1 L1058 506.8 L1069 507.3 L1082.2 507.9 L1096.4 507 L1109.7 504.2 L1121.8 501 L1133.9 499.2 L1146.3 498.1 L1158.2 496.2 L1168.5 493.1 L1177.5 490.3 L1186.9 488.8 L1197.5 487.7 L1208.2 485.3 L1217.5 481.3 L1225.7 477.4 L1234.2 474.7 L1243.3 472.6 L1251.3 469.8 L1256.9 466.2 L1260.5 463.6 L1263.9 463 L1267.8 463.2 L1270.9 462.5 L1272.4 460.9 L1273.2 459.8 L1275.1 459.7 L1278.5 459.6"/>
+          <path pathLength="1" style="--d:3.80s;--t:0.1s" class="p ink g" d="M1264.1 468.0 L1278.5 459.6 L1263.7 452.0"/>
+          <path pathLength="1" style="--d:3.50s;--t:0.30s" class="p ink w dash" d="M1062.6 575 L1064.8 574.1 L1068.4 574.1 L1072.1 573.2 L1074.6 571.3 L1076.7 569.7 L1080.2 569.1 L1085.8 568.4 L1091.9 566 L1097.2 562 L1102.1 558.3 L1108 555.8 L1115 553.7 L1121.3 550.7 L1125.9 547.2 L1129.4 544.7 L1133.7 543.8 L1139.2 543 L1144.5 540.7 L1148.6 537.1 L1152.5 533.9 L1157.8 531.4 L1164.6 528.6 L1171 524.2 L1175.8 519.1 L1179.9 515.1 L1184.8 512.8 L1190.4 510.8 L1195.2 507.5 L1198.6 503.7 L1202 500.5 L1207 498.3 L1213.3 495.4 L1219 490.9 L1223.3 485.7 L1227.2 481.8 L1231.9 479.4 L1236.6 477.3 L1239.8 474.6 L1241 472.1 L1241.6 471.3"/>
+          <path pathLength="1" style="--d:3.80s;--t:0.1s" class="p ink w" d="M1239.2 487.8 L1241.6 471.3 L1226.4 478.2"/>
+          <g class="pc o" transform="translate(1061.5 577.4)"><circle pathLength="1" style="--d:1.25s;--t:0.22s" class="p g" r="15.5"/><text style="--d:1.35s" y="1">5</text></g>
+          <g class="pc o" transform="translate(1299.2 773.4)"><circle pathLength="1" style="--d:1.31s;--t:0.22s" class="p g" r="15.5"/><text style="--d:1.41s" y="1">0</text></g>
+          <g class="pc o" transform="translate(1113 168.3)"><circle pathLength="1" style="--d:1.37s;--t:0.22s" class="p g" r="15.5"/><text style="--d:1.47s" y="1">3</text></g>
+          <g class="pc o" transform="translate(1213.4 283.4)"><circle pathLength="1" style="--d:1.43s;--t:0.22s" class="p g" r="15.5"/><text style="--d:1.53s" y="1">30</text></g>
+          <g class="pc o" transform="translate(1265.6 458.8)"><circle pathLength="1" style="--d:1.49s;--t:0.22s" class="p g" r="15.5"/><text style="--d:1.59s" y="1">27</text></g>
+          <g class="pc x" transform="translate(1017.4 565.1)"><path pathLength="1" style="--d:1.50s;--t:0.16s" class="p r" d="M-7 -7 L7 7 M7 -7 L-7 7"/></g>
+          <g class="pc x" transform="translate(1282 709.7)"><path pathLength="1" style="--d:1.55s;--t:0.16s" class="p r" d="M-7 -7 L7 7 M7 -7 L-7 7"/></g>
+          <g class="pc x" transform="translate(1230.5 320.1)"><path pathLength="1" style="--d:1.60s;--t:0.16s" class="p r" d="M-7 -7 L7 7 M7 -7 L-7 7"/></g>
+          <g class="pc x" transform="translate(1135 209.9)"><path pathLength="1" style="--d:1.65s;--t:0.16s" class="p r" d="M-7 -7 L7 7 M7 -7 L-7 7"/></g>
+          <g class="pc x" transform="translate(1218.3 501.4)"><path pathLength="1" style="--d:1.70s;--t:0.16s" class="p r" d="M-7 -7 L7 7 M7 -7 L-7 7"/></g>
+          <circle class="hl-ball" r="8" cx="0" cy="0"/>
+          <circle class="hl-rip" cx="1302.8" cy="450" r="11.3"/>
+          </g>
+        </g>
+        <defs>
+          <marker id="hl-ah-w" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#f4f1ea" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
+          <marker id="hl-ah-g" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#78be20" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
+          <marker id="hl-ah-b" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M1 1 L8 5 L1 9" fill="none" stroke="#5b9bd5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
+        </defs>
+      </svg>
+      <figure class="hl-hero-ph op">
+        <img src="../../assets/s5/hallelujah/hero-huddle.webp" alt="タイムアウト中、作戦ボードを手に NIHON TENGUS の選手へ指示を出すハレルヤ" width="1280" height="720" fetchpriority="high">
+      </figure>
     </div>
   </div>
 </section>
+
+<nav class="hl-toc" aria-label="このページの目次">
+  <div class="wrap">
+    <a href="#coach">ヘッドコーチ</a><a href="#philosophy">哲学</a><a href="#career">指導歴</a><a href="#videos">動画</a><a href="#camp">キャンプ</a><a href="#work">ご依頼</a>
+  </div>
+</nav>
 
 <!-- 01 HEAD COACH: NIHON TENGUS 公式サイト（nihontengus.com/ja の大会日程・/pages/team・/pages/staff、2026-11-04取得）。
      ヘッドコーチとしての出場は本人動画 iJyCT6Wpfd0（2026-09-18）・tpg34LJrIHU（2026-08-07）の説明文。大会の勝敗は確認できる一次情報がないので書かない -->
 <section class="hl-sec" id="coach">
-  <div class="wrap">
+  <div class="wrap hl-two">
     <header class="hl-h">
-      <span class="no">PLAY 01</span>
-      <h2>NIHON TENGUS ヘッドコーチ</h2>
-      <p class="memo">いまの持ち場は、ここ。</p>
+      <span class="no">01 — HEAD COACH</span>
+      <img class="hl-tg-logo" src="../../assets/s5/hallelujah/nihon-tengus-logo.webp" alt="NIHON TENGUS ロゴ" width="1084" height="586" loading="lazy">
+      <h2>NIHON TENGUS<br>ヘッドコーチ</h2>
     </header>
-    <article class="hl-wb hl-plan">
-      <div class="hl-plan-txt">
-        <span class="hl-tag">GAME PLAN — HEAD COACH</span>
-        <h3>NIHON TENGUS<small>日本テングス</small></h3>
-        <p>アジア各地で開かれる国際大会「The Asian Tournament」を主戦場にする、独立系のバスケットボールチーム。ハレルヤはそのヘッドコーチとして、2026年8月、中国・成都の大会でチームを率いた。</p>
-        <p>練習初日から大会までの日々は、本人の YouTube でドキュメンタリー「アジアトーナメント」シリーズとして公開している。</p>
-        <a class="hl-more" href="https://nihontengus.com/ja/pages/staff" target="_blank" rel="noopener">NIHON TENGUS 公式サイト（スタッフ）→</a>
-      </div>
-      <dl class="hl-card">
-        <div><dt>大会</dt><dd>THE ASIAN TOURNAMENT<small>CHENGDU 2026</small></dd></div>
-        <div><dt>場所</dt><dd>中国・成都</dd></div>
-        <div><dt>日程</dt><dd>2026.8.17 — 8.23</dd></div>
-        <div><dt>試合</dt><dd><b>6</b> 試合</dd></div>
-        <div class="vs"><dt>対戦</dt><dd><ul><li>マカオ・ブラックナイツ</li><li>桃園レオパーズ</li><li>四川ホエールズ</li><li>フィリピン・エーシズ・ユナイテッド</li></ul></dd></div>
+    <div>
+      <p class="hl-p">アジアの国際大会「The Asian Tournament」に出るバスケットボールチーム。2026年8月、中国・成都の大会でチームを率いた。</p>
+      <dl class="hl-facts">
+        <div><dt>大会</dt><dd>The Asian Tournament 成都</dd></div>
+        <div><dt>日程</dt><dd><span class="nw">2026年8月17日</span>〜<span class="nw">23日</span></dd></div>
+        <div><dt>試合</dt><dd>6試合</dd></div>
       </dl>
-    </article>
-    <h3 class="hl-sub"><span>FILM</span>ドキュメンタリー「アジアトーナメント」</h3>
-    <div class="hl-vids two">
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="tpg34LJrIHU" aria-label="動画を再生: アジアトーナメント Episode0"><img src="../../assets/s5/hallelujah/yt-tpg34LJrIHU.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">EP.0</span></button>
-        <p class="t">「俺らはアジアを取りに、中国にいくんだ」－アジアトーナメント（Episode０）</p>
-        <span class="v">2026.08.07 ・ 1.5万回再生</span>
-      </div>
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="iJyCT6Wpfd0" aria-label="動画を再生: アジアトーナメント Episode5"><img src="../../assets/s5/hallelujah/yt-iJyCT6Wpfd0.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">EP.5</span></button>
-        <p class="t">「YouTubeで散々偉そうにしてきたんだ。ここでできなきゃただの口だけのやつになる」－アジアトーナメント（Episode５）</p>
-        <span class="v">2026.09.18 ・ 15.8万回再生</span>
-      </div>
+      <a class="hl-more" href="https://nihontengus.com/ja/pages/staff" target="_blank" rel="noopener">NIHON TENGUS 公式サイト →</a>
     </div>
-    <p class="hl-src">出典: <a href="https://nihontengus.com/ja" target="_blank" rel="noopener">NIHON TENGUS 公式サイト</a>（チーム紹介・スタッフ・大会日程）、本人の YouTube「アジアトーナメント」シリーズ。再生回数は 2026年11月4日時点。</p>
   </div>
 </section>
 
-<!-- 02 PHILOSOPHY: 本人の note「「全てのシュートを守る」本当にそんなことはできるのか。」（2026-07-22・note.com/be_a_baller/n/n9858d49b13a6）
-     と「守るのはボールマンではない、という話。」（2026-07-27・n4a21151c4e55）。目標・夢・志は STARTING 5IVE のメンバー紹介回 mDzmFaY77Fo（2024-07-22）で本人が話した内容。
-     作戦図はページ用の説明図（ピック&ロールでオーバー&チェイス、アンダーは無し）。特定の試合の再現ではない -->
-<section class="hl-sec" id="philosophy">
+<!-- 02 PHILOSOPHY: 本人の note「「全てのシュートを守る」本当にそんなことはできるのか。」（2026-07-22・note.com/be_a_baller/n/n9858d49b13a6）。
+     目標・夢・志は STARTING 5IVE のメンバー紹介回 mDzmFaY77Fo（2024-07-22）で本人が話した内容。作戦図はページ用の説明図（ピック&ロールでオーバー&チェイス、アンダーは無し） -->
+<section class="hl-sec hl-light" id="philosophy">
   <div class="wrap">
-    <header class="hl-h">
-      <span class="no">PLAY 02</span>
-      <h2>全てのシュートを守る。</h2>
-      <p class="memo">戦術より先に、哲学。</p>
-    </header>
-    <div class="hl-wb hl-phil">
-      <div class="hl-phil-q">
-        <span class="hl-tag">MY DEFENSE SYSTEM</span>
-        <blockquote>
-          <p>「強くなり、優しくなれ」──それが人生のタイトル。<br>それをバスケの言葉に訳したものが、<strong>「全てのシュートを守る」</strong>だった。</p>
-          <cite>本人の note（2026年7月22日）より</cite>
-        </blockquote>
-        <p>大事なのは、戦術を何にするかではなく、自分の哲学が何であるか。そしてその哲学に、戦術を合わせること。この軸が決まってから迷わなくなり、どのレベルの選手にも自信を持ってコーチングできるようになった──と本人は書いている。</p>
-        <p>だからピック&amp;ロールは<b class="mk">「アンダーは無し」</b>。オーバー&amp;チェイスで守る。戦術的な正解だからではなく、人生のタイトルにいちばん合う戦術だから。</p>
-      </div>
-      <figure class="hl-diagram">
-        <svg viewBox="0 0 400 350" role="img" aria-label="作戦図: ピック&amp;ロールで、ディフェンスはスクリーンの上を越えて追いかける（オーバー&amp;チェイス）。下をくぐる（アンダー）は無し">
-          <g filter="url(#hl-hand)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-            <g stroke="#9ea2a2" stroke-width="2.2">
-              <path d="M20 20 H380 V340 H20 Z"/>
-              <path d="M152 20 V180 H248 V20"/>
-              <path d="M152 180 A48 48 0 0 0 248 180"/>
-              <path d="M40 20 V92 A165 165 0 0 0 360 92 V20"/>
-              <path d="M180 42 H220"/>
-              <circle cx="200" cy="52" r="8"/>
+    <div class="hl-two">
+      <header class="hl-h">
+        <span class="no">02 — PHILOSOPHY</span>
+        <h2>全てのシュートを守る。</h2>
+        <p class="hl-p">人生のタイトル「強くなり、優しくなれ」を、バスケの言葉に訳したディフェンスシステム。だからピック&amp;ロールも、下をくぐらずに追いかける。</p>
+      </header>
+      <div>
+        <figure class="hl-diagram">
+          <svg viewBox="0 0 400 350" role="img" aria-label="作戦図: ピック&amp;ロールで、ディフェンスはスクリーンの上を越えて追いかける（オーバー&amp;チェイス）。下をくぐる（アンダー）は無し">
+            <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <g stroke="#a2aaad" stroke-width="2">
+                <path d="M20 20 H380 V340 H20 Z"/><path d="M152 20 V180 H248 V20"/><path d="M152 180 A48 48 0 0 0 248 180"/><path d="M40 20 V92 A165 165 0 0 0 360 92 V20"/><path d="M180 42 H220"/><circle cx="200" cy="52" r="8"/>
+              </g>
+              <path d="M206 210 l20 20 M226 210 l-20 20" stroke="#0c2340" stroke-width="3.6"/>
+              <path d="M150 302 L165 312 L183 303 L197 317 L212 305 L226 316 L237 301 L253 309 L260 293 L277 297 L280 280 L298 279 L298 261 L316 256 L318 240" stroke="#236192" stroke-width="3.4" marker-end="url(#hl-ah-b)"/>
+              <path d="M186 250 L204 272" stroke="#0c2340" stroke-width="5"/>
+              <path d="M156 274 C190 300 244 300 304 252" stroke="#5e9a17" stroke-width="4" marker-end="url(#hl-ah-g)"/>
+              <g stroke="#0c2340" stroke-width="3"><circle cx="138" cy="300" r="12"/><circle cx="212" cy="236" r="12"/></g>
+              <path d="M132 256 l14 14 M146 256 l-14 14" stroke="#5e9a17" stroke-width="3.4"/>
             </g>
-            <path d="M140 258 C170 222 232 214 292 222" stroke="#0c2340" stroke-width="2.6" stroke-dasharray="6 7" opacity=".5"/>
-            <path d="M206 210 l20 20 M226 210 l-20 20" stroke="#0c2340" stroke-width="3.8"/>
-            <path d="M150 302 L165 312 L183 303 L197 317 L212 305 L226 316 L237 301 L253 309 L260 293 L277 297 L280 280 L298 279 L298 261 L316 256 L318 240" stroke="#236192" stroke-width="3.6" marker-end="url(#hl-ah-b)"/>
-            <path d="M186 250 L204 272" stroke="#0c2340" stroke-width="5"/>
-            <path d="M156 274 C190 300 244 300 304 252" stroke="#78be20" stroke-width="4" marker-end="url(#hl-ah-g)"/>
-            <g stroke="#0c2340" stroke-width="3">
-              <circle cx="138" cy="300" r="12"/>
-              <circle cx="212" cy="236" r="12"/>
-              <circle cx="60" cy="130" r="11" opacity=".5"/>
-              <circle cx="340" cy="130" r="11" opacity=".5"/>
-              <circle cx="104" cy="44" r="11" opacity=".5"/>
+            <g class="lbl">
+              <text x="230" y="330" text-anchor="middle" class="g">OVER &amp; CHASE</text>
+              <text x="318" y="200" text-anchor="middle" class="k">UNDER なし</text>
             </g>
-            <g stroke="#78be20" stroke-width="3.4">
-              <path d="M132 256 l14 14 M146 256 l-14 14"/>
-              <path d="M234 196 l12 12 M246 196 l-12 12"/>
-              <path d="M78 112 l12 12 M90 112 l-12 12" opacity=".55"/>
-              <path d="M310 112 l12 12 M322 112 l-12 12" opacity=".55"/>
-              <path d="M118 60 l12 12 M130 60 l-12 12" opacity=".55"/>
-            </g>
-          </g>
-          <g class="lbl">
-            <text x="138" y="304.5" text-anchor="middle" class="n">1</text>
-            <text x="212" y="240.5" text-anchor="middle" class="n">5</text>
-            <text x="230" y="328" text-anchor="middle" class="g">OVER &amp; CHASE</text>
-            <text x="318" y="198" text-anchor="middle" class="k">UNDER = ナシ</text>
-          </g>
-        </svg>
-        <figcaption><span class="lg b">ドリブル</span><span class="lg n">スクリーン</span><span class="lg g">ディフェンスの動き</span>※ 考え方を説明するための図</figcaption>
-      </figure>
-    </div>
-    <ol class="hl-rules" aria-label="ディフェンスの三原則">
-      <li><span class="no">1</span><b>対人<small>ON-BALL / OFF-BALL</small></b><p>フットワークやコンタクトといった「体術」から。どんな作戦でも欠かせない土台で、練習は必ずここから入る。</p></li>
-      <li><span class="no">2</span><b>ヘルプ<small>HELP</small></b><p>守るのはボールマンではなく「アクション」。ボールよりアクションを優先する感覚を、練習から徹底する。</p></li>
-      <li><span class="no">3</span><b>ローテーション<small>ROTATION</small></b><p>誰であっても、どのカテゴリーであっても、この三原則の理は変わらない。</p></li>
-    </ol>
-    <h3 class="hl-sub"><span>LOCKER ROOM</span>ロッカーに貼ってある3枚</h3>
-    <div class="hl-notes">
-      <div class="n1"><span class="k">GOAL — 目標</span><b>B.LEAGUE B1 のヘッドコーチになって、優勝すること。</b></div>
-      <div class="n2"><span class="k">DREAM — 夢</span><b>バスケットボールを、全て知ること。</b><p>聞けば何でも答えが返ってくる、辞書のような存在に。</p></div>
-      <div class="n3"><span class="k">MISSION — 志</span><b>人から愛され、人を愛すること。</b><p>目標も夢も、この志のためにある。</p></div>
-    </div>
-    <p class="hl-src">出典: 本人の note「<a href="https://note.com/be_a_baller/n/n9858d49b13a6" target="_blank" rel="noopener">「全てのシュートを守る」本当にそんなことはできるのか。</a>」（2026年7月22日）、「<a href="https://note.com/be_a_baller/n/n4a21151c4e55" target="_blank" rel="noopener">守るのはボールマンではない、という話。</a>」（2026年7月27日）。目標・夢・志は <a href="#intro-video">STARTING 5IVE メンバー紹介回</a>（2024年7月22日公開）で本人が話した内容。</p>
-  </div>
-</section>
-
-<!-- 03 CAREER: 所属チームでの役職は NIHON TENGUS 公式スタッフ紹介（nihontengus.com/pages/staff）。在籍の年は公式に記載がないので書かない。
-     東京エクセレンス・カナダ・メキシコは メンバー紹介回 mDzmFaY77Fo（2024-07-22）で本人が話した内容。
-     ヘッドコーチデビューは本人動画 _Q3lONVpbI0（2021-01-05）。2026年の活動は本人動画 7RvloHGNuFI（03-04）・m3C2X8tMcIw（04-29）・2C7xTjEKk9o（05-25）・YRxQEpI4oq0（07-18）と note 2本（07-22・07-27）、fafa-camp-2026.surge.sh/report.html
-     写真は本人動画 tpg34LJrIHU（アジアトーナメント Episode0）のサムネイル -->
-<section class="hl-sec" id="career">
-  <div class="wrap">
-    <header class="hl-h">
-      <span class="no">PLAY 03</span>
-      <h2>指導歴</h2>
-      <p class="memo">ここまでの道のりを、順番に。</p>
-    </header>
-    <div class="hl-career">
-      <div class="hl-clip hl-profile">
-        <span class="clip" aria-hidden="true"></span>
-        <figure class="hl-pin">
-          <img src="../../assets/s5/hallelujah/board-talk.webp" alt="作戦ボードを手に話すハレルヤ" width="960" height="720" loading="lazy">
+          </svg>
+          <figcaption>考え方を説明するための図</figcaption>
         </figure>
-        <span class="hl-tag">PLAYER PROFILE</span>
-        <p>やりたいことより先に、やりたくないことを決めた。会社員とは違う道を考えたとき、自分にできることがバスケだった──それがコーチを目指したきっかけだと、本人は話している。</p>
-        <p>学生時代、東京エクセレンスでビデオ撮影などを手伝いながらコーチングを学び、その後カナダへ。カナダ・アメリカ・メキシコを1年かけて回り、メキシコでは現地の小・中・高校生およそ50人が集まったクリニックを、ボール1つで開いた。</p>
-        <p>いまはヘッドコーチとして、そしてクリニックのコーチとして、日本と海外のコートに立っている。</p>
-        <table class="hl-roster">
-          <caption>STAFF ROSTER — チームでの役職</caption>
-          <tbody>
-            <tr><th scope="row">NIHON TENGUS</th><td>ヘッドコーチ</td></tr>
-            <tr><th scope="row">金沢武士団</th><td>アシスタントコーチ（インターン）／スキル育成コーチ</td></tr>
-            <tr><th scope="row">埼玉ブロンコス</th><td>ビデオコーディネーター／スカウティングコーチ／スキル育成コーチ</td></tr>
-          </tbody>
-        </table>
-        <p class="hl-src">※ チームでの役職は NIHON TENGUS 公式サイトのスタッフ紹介の記載。</p>
-      </div>
-      <div class="hl-clip hl-log">
-        <span class="clip" aria-hidden="true"></span>
-        <span class="hl-tag">COACHING LOG</span>
-        <ol>
-          <li><span class="when">2021.01</span><h3>ローカルプロのチームでヘッドコーチデビュー</h3><p>自分のチームのプレーを、本人の YouTube で解説。</p></li>
-          <li><span class="when">2026.02 —</span><h3>「攻守の理」クリニックを始める</h3><p>原田毅さんと組み、午前3時間をディフェンス（ハレルヤ）、午後3時間をオフェンス（原田さん）として、チームオフェンスとチームディフェンスを同時に伝えるクリニック。</p></li>
-          <li><span class="when">2026.03</span><h3>「全てのシュートを守る」ディフェンスシステムを広める企画を開始</h3><p>日本全国・世界各国を回ってチームを指導する活動。</p></li>
-          <li><span class="when">2026.04 — 05</span><h3>インドネシアでキャンプ指導</h3><p>「全てのシュートを守る」DFシステムで、7日間かけて現地チームを指導。様子は本人の YouTube「コーチとしての挑戦」（前編・中編・後編）で公開。</p></li>
-          <li><span class="when">2026.07</span><h3>群馬・長野・大阪でクリニック</h3><p>群馬県の U12 チーム、長野県での高校生・大学生男子30人のディフェンスクリニック、大阪の高校での「攻守の理」など。</p></li>
-          <li><span class="when">2026.08</span><h3>Be 5IVE CAMP サブコーチ／コーチクリニック講師</h3><p>FaFa Lu の中高生キャンプでサブコーチを務め、翌日の指導者向けクリニックではピック&amp;ロールの対応を講義。<a href="#camp">キャンプを見る →</a></p></li>
-          <li><span class="when">2026.08</span><h3>NIHON TENGUS ヘッドコーチとして The Asian Tournament へ</h3><p>中国・成都で6試合を戦う。<a href="#coach">詳しく →</a></p></li>
-          <li class="next"><span class="when">2027.02（準備中）</span><h3>Be 5IVE CAMP「Stop the Game」</h3><p>ハレルヤと組むディフェンス特化キャンプ。</p></li>
-        </ol>
       </div>
     </div>
-    <h3 class="hl-sub" id="intro-video"><span>FILM</span>本人が語る、ここまでの道のり</h3>
-    <div class="hl-introvid">
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="mDzmFaY77Fo" aria-label="動画を再生: 【ハレルヤ】視聴者たちに謝る機会をずっと待ってた"><img src="../../assets/s5/hallelujah/yt-mDzmFaY77Fo.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">STARTING 5IVE</span></button>
-      </div>
-      <div class="hl-introvid-txt">
-        <span class="date">2024.07.22</span>
-        <strong>【ハレルヤ】視聴者たちに謝る機会をずっと待ってた STARTING 5IVE【スターティング ファイブ】</strong>
-        <p>STARTING 5IVE 初期の、メンバー1人ずつのこれまでとこれからを話す特別回。コーチを目指したきっかけ、カナダ・メキシコでの日々、YouTube の歩み、そして目標・夢・志を本人が語っている。</p>
-      </div>
+    <h3 class="hl-sub">ロッカーに貼ってある3枚</h3>
+    <div class="hl-notes">
+      <div><span class="k">GOAL — 目標</span><b>B.LEAGUE B1 のヘッドコーチになって、優勝すること。</b></div>
+      <div><span class="k">DREAM — 夢</span><b>バスケットボールを、<span class="nw">全て知ること。</span></b></div>
+      <div><span class="k">MISSION — 志</span><b>人から愛され、<span class="nw">人を愛すること。</span></b></div>
     </div>
-    <p class="hl-src">出典: NIHON TENGUS 公式サイト（スタッフ紹介）、本人の YouTube・note、<a href="https://fafa-camp-2026.surge.sh/report.html" target="_blank" rel="noopener">Be 5IVE CAMP 2026 開催レポート</a>、STARTING 5IVE メンバー紹介回（2024年7月22日）。</p>
   </div>
 </section>
 
-<!-- 04 CAMP: Be 5IVE CAMP 2026 開催レポート（fafa-camp-2026.surge.sh/report.html・2026-11-04取得）: 8/12-13 立教新座中学校・高等学校、中高生68名、8/14 コーチクリニック 第1部ハレルヤ（ピック&ロールの対応）・参加28名。
-     サブコーチの肩書きはクリスの指示。次回キャンプは starting5ive.html#camp と同じ内容 -->
-<section class="hl-sec" id="camp">
+<!-- 03 CAREER: 所属チームでの役職・経歴は NIHON TENGUS 公式スタッフ紹介（nihontengus.com/pages/staff）＝テングスサイト制作時の経歴（617_受託制作/projects/nihon-tengus-site/index.html の HEAD COACH 欄）を正とする。
+     年表にも同じ役職を入れる（2026-11-05 クリス指示「チームでの役割…が経歴の何年のやつに入ってねえの」）。
+     2026-11-05 クリス指示「チームで役職とかいらないんじゃないかな」「かぶりいらない」: 「チームでの役職」ブロックは削除し、役職は年表の1か所だけにする。学生時代の行も年表へ入れる。
+     埼玉ブロンコスの 2024-25 はクリス原文「ハレルヤのブロンコスは2024-25シーズンだね！」（No053 メモ）。金沢武士団は公開情報に年がないので「—」（年を作らない）。THE ONE（JORDAN）スペシャルコーチ＝2026.08 はクリス原文（16本目）。STARTING 5IVE 共同運営＝チャンネル開設 2024-07-12（youtube.com/@starting5ive-ch の登録日・RSS の channel published、2026-11-05取得）。新しい順。
+     東京エクセレンス・カナダ・アメリカ・メキシコは メンバー紹介回 mDzmFaY77Fo（2024-07-22）で本人が話した内容（01:4x「東京エクセレンスだった時に…石田さんの元で色々学びたい」・10:52「カナダ・アメリカ・メキシコ…1年間で色々旅してた」）。
+     ヘッドコーチデビューは本人動画 _Q3lONVpbI0（2021-01-05）。2026年の活動は本人動画 7RvloHGNuFI（03-04）・m3C2X8tMcIw（04-29）・2C7xTjEKk9o（05-25）・YRxQEpI4oq0（07-18）、fafa-camp-2026.surge.sh/report.html -->
+<section class="hl-sec" id="career">
+  <div class="wrap hl-two">
+    <header class="hl-h">
+      <span class="no">03 — CAREER</span>
+      <h2>指導歴</h2>
+    </header>
+      <ol class="hl-log">
+        <li><span class="when">2026.08</span><p>THE ONE（JORDAN）スペシャルコーチ</p></li>
+        <li><span class="when">2026.08</span><p>NIHON TENGUS ヘッドコーチとして The Asian Tournament へ</p></li>
+        <li><span class="when">2026.08</span><p>Be 5IVE CAMP サブコーチ／コーチクリニック講師</p></li>
+        <li><span class="when">2026.07</span><p>群馬・長野・大阪でクリニック</p></li>
+        <li><span class="when">2026.04</span><p>インドネシアで7日間のキャンプ指導</p></li>
+        <li><span class="when">2026.02</span><p>原田毅さんと「攻守の理」クリニックを始める</p></li>
+        <li><span class="when">2024-25</span><p>埼玉ブロンコス ビデオコーディネーター／スカウティングコーチ／スキル育成コーチ</p></li>
+        <li><span class="when">2024.07</span><p>STARTING 5IVE YouTubeチャンネル共同運営メンバー</p></li>
+        <li><span class="when">—</span><p>金沢武士団 アシスタントコーチ（インターン）／スキル育成コーチ</p></li>
+        <li><span class="when">2021</span><p>ローカルプロのチームでヘッドコーチデビュー</p></li>
+        <li><span class="when">学生時代</span><p>東京エクセレンスでコーチングを学び、カナダ・アメリカ・メキシコを1年かけて回る</p></li>
+      </ol>
+  </div>
+</section>
+
+<!-- 04 VIDEOS: 再生数は各動画ページ（2026-11-04）。2026-11-05 クリス指示で最下部から 03 指導歴の後（キャンプの前）へ移動 -->
+<section class="hl-sec" id="videos">
   <div class="wrap">
     <header class="hl-h">
-      <span class="no">PLAY 04</span>
-      <h2>Be 5IVE CAMP サブコーチ</h2>
-      <p class="memo">キャンプでも、コートに立つ。</p>
+      <span class="no">04 — VIDEOS</span>
+      <h2>動画</h2>
+    </header>
+    <div class="hl-vids">
+      <div class="hl-vid">
+        <button class="yt-lite" data-id="iJyCT6Wpfd0" aria-label="動画を再生: アジアトーナメント Episode5"><img src="../../assets/s5/hallelujah/yt-iJyCT6Wpfd0.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span></button>
+        <p class="t">アジアトーナメント Episode5</p>
+      </div>
+      <div class="hl-vid">
+        <button class="yt-lite" data-id="m3C2X8tMcIw" aria-label="動画を再生: コーチとしての挑戦 インドネシア 前編"><img src="../../assets/s5/hallelujah/yt-m3C2X8tMcIw.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span></button>
+        <p class="t">コーチとしての挑戦 インドネシア（前編）</p>
+      </div>
+      <div class="hl-vid">
+        <button class="yt-lite" data-id="mDzmFaY77Fo" aria-label="動画を再生: 【ハレルヤ】視聴者たちに謝る機会をずっと待ってた"><img src="../../assets/s5/hallelujah/yt-mDzmFaY77Fo.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span></button>
+        <p class="t">本人が語る、ここまでの道のり</p>
+      </div>
+    </div>
+    <a class="hl-yt-btn wide" href="https://www.youtube.com/@be_a_baller" target="_blank" rel="noopener"><span class="ic" aria-hidden="true"></span><span class="tx"><b>YouTubeチャンネルを見る</b><small>@be_a_baller</small></span></a>
+    <div class="hl-sns">
+      <a href="https://www.instagram.com/be_a__baller/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://x.com/be_a_baller11" target="_blank" rel="noopener">X</a>
+      <a href="https://note.com/be_a_baller" target="_blank" rel="noopener">note</a>
+    </div>
+  </div>
+</section>
+
+<!-- 05 CAMP: Be 5IVE CAMP 2026 開催レポート（fafa-camp-2026.surge.sh/report.html・2026-11-04取得）: 8/12-13 中高生68名、8/14 コーチクリニック 第1部ハレルヤ（ピック&ロールの対応）。
+     サブコーチの肩書きはクリスの指示。次回キャンプは starting5ive.html#camp と同じ内容。
+     2026-11-05 クリス指示: 実施済みの Think the Game を大きく、作る予定の Stop the Game・Make the Game は2行で横に並べる（予定と分かる表記。説明文は足さない） -->
+<section class="hl-sec hl-camp-sec" id="camp">
+  <div class="wrap">
+    <header class="hl-h">
+      <span class="no">05 — CAMP</span>
+      <h2>Be 5IVE CAMP</h2>
     </header>
     <div class="hl-camps">
-      <a class="hl-camp" href="https://fafa-camp-2026.surge.sh/report.html" target="_blank" rel="noopener">
-        <figure class="ph"><img src="../../assets/s5/camp-fafa.jpg" alt="Be 5IVE CAMP コーチのFaFa Lu" width="1200" height="900" loading="lazy"><span class="badge">開催済み</span></figure>
-        <div class="body">
-          <span class="role">SUB COACH ／ CLINIC COACH</span>
-          <h3>BE 5IVE CAMP<small>Think the Game with FaFa — 2026</small></h3>
-          <p>元NBAシャーロット・ホーネッツのビデオコーディネーター、FaFa Lu の中高生キャンプ（2026年8月12・13日、立教新座中学校・高等学校）でサブコーチを務めた。参加した中高生は68名。</p>
-          <p>翌8月14日は指導者向けのコーチクリニック。第1部をハレルヤが担当し、ピック&amp;ロールの対応を講義した。参加は28名。</p>
-          <span class="go">開催レポートを見る →</span>
-        </div>
+      <a class="hl-camp hl-camp-main" href="https://fafa-camp-2026.surge.sh/report.html" target="_blank" rel="noopener">
+        <span class="role">2026.08 ・ サブコーチ</span>
+        <b>Think the Game with FaFa</b>
+        <span class="go">開催レポート →</span>
       </a>
-      <a class="hl-camp" href="https://defense-camp-2027.surge.sh/" target="_blank" rel="noopener">
-        <div class="ph next"><span>STOP<br>THE GAME</span><span class="badge soon">準備中</span></div>
-        <div class="body">
-          <span class="role">NEXT CAMP — DEFENSE</span>
-          <h3>BE 5IVE CAMP<small>Stop the Game</small></h3>
-          <p>次回の Be 5IVE CAMP は、ハレルヤと組むディフェンス特化キャンプ。相手のプレーを「止める」ための判断と技術を、2日間・4セッションで学ぶ（2027年2月・準備中）。</p>
-          <span class="go">キャンプを見る →</span>
+      <div class="hl-camp-next">
+        <a class="hl-camp" href="https://defense-camp-2027.surge.sh/" target="_blank" rel="noopener">
+          <span class="role">2027.02 ・ 開催予定</span>
+          <b>Stop the Game</b>
+          <span class="go">ディフェンス特化キャンプ →</span>
+        </a>
+        <div class="hl-camp">
+          <span class="role">開催予定</span>
+          <b>Make the Game</b>
         </div>
-      </a>
-    </div>
-    <div class="hl-vids two">
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="MSF7i64HT-o" aria-label="動画を再生: Be 5ive Camp バスケは読みが全てなんだ"><img src="../../assets/s5/hallelujah/yt-MSF7i64HT-o.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">CAMP</span></button>
-        <p class="t">Be 5ive Camp｜「バスケは&quot;読み&quot;が全てなんだ」－Everyting is Read</p>
-        <span class="v">2026.10.27 ・ 2.4万回再生</span>
-      </div>
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="fTxYunVCK9k" aria-label="動画を再生: Be 5ive Camp フィルハンディとのスキルクリニック"><img src="../../assets/s5/hallelujah/yt-fTxYunVCK9k.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">CLINIC</span></button>
-        <p class="t">Be 5ive Camp｜フィルハンディとのスキルクリニック</p>
-        <span class="v">2026.08.27 ・ 6.0万回再生</span>
       </div>
     </div>
-    <p class="hl-src">出典: <a href="https://fafa-camp-2026.surge.sh/report.html" target="_blank" rel="noopener">Be 5IVE CAMP 2026 開催レポート</a>、<a href="../starting5ive.html#camp">STARTING 5IVE のキャンプ</a>。再生回数は 2026年11月4日時点。</p>
   </div>
 </section>
 
-<!-- 05 YOUTUBE: 数字は youtube.com/@be_a_baller/about（2026-11-04取得）。歩みは メンバー紹介回 mDzmFaY77Fo で本人が話した内容。再生数は各動画ページ（同日） -->
-<section class="hl-sec hl-film" id="youtube">
+<!-- 06 WORK: 指導メニューは本人の公式サイト be-a-baller.jp（2026-11-04取得）。料金は変わりうるので載せず、公式サイトへ案内する -->
+<section class="hl-sec hl-work" id="work">
   <div class="wrap">
+   <div class="hl-work-box">
     <header class="hl-h">
-      <span class="no">FILM SESSION</span>
-      <h2>ハレルヤ【Be a baller】</h2>
-      <p class="memo">ビデオミーティングの時間。</p>
-    </header>
-    <ul class="hl-board" aria-label="チャンネルの数字（2026年11月時点）">
-      <li><span>登録者</span><b>10.1<small>万人</small></b></li>
-      <li><span>総再生</span><b>4,450<small>万回+</small></b></li>
-      <li><span>動画</span><b>1,457<small>本</small></b></li>
-      <li><span>開設</span><b>2014<small>年</small></b></li>
-    </ul>
-    <p class="hl-film-lead">「現役バスケコーチの自分が、バスケの裏側やリアルを届けるチャンネル」。1on1 の動画から始まり、戦術解説、そしてライブ配信へ。いまは指導の現場をそのまま映すドキュメンタリーや、NBAの戦術の話を届けている。</p>
-    <div class="hl-vids three">
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="m3C2X8tMcIw" aria-label="動画を再生: コーチとしての挑戦 インドネシア 前編"><img src="../../assets/s5/hallelujah/yt-m3C2X8tMcIw.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">COACHING</span></button>
-        <p class="t">コーチとしての挑戦｜『全てのシュートを守る』DFシステムでインドネシアのバスケのレベルを上げる挑戦。（前編）</p>
-        <span class="v">2026.04.29 ・ 3.6万回再生</span>
-      </div>
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="YRxQEpI4oq0" aria-label="動画を再生: 全てのシュートを守るためのチームディフェンスドリル 小学生編"><img src="../../assets/s5/hallelujah/yt-YRxQEpI4oq0.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">DRILL</span></button>
-        <p class="t">全てのシュートを守るためのチームディフェンスドリル｜小学生編</p>
-        <span class="v">2026.07.18 ・ 1.0万回再生</span>
-      </div>
-      <div class="hl-vid">
-        <button class="yt-lite" data-id="6NAGntwZirY" aria-label="動画を再生: Starting 5iveとして初めてNBAの仕事をした日"><img src="../../assets/s5/hallelujah/yt-6NAGntwZirY.webp" alt="" loading="lazy" width="640" height="360"><span class="play" aria-hidden="true"></span><span class="ep">NBA</span></button>
-        <p class="t">Starting 5iveとして初めてNBAの仕事をした日｜NBA docomo 「LESSONS FROM THE GAME CHANGERS」</p>
-        <span class="v">2026.10.02 ・ 2.5万回再生</span>
-      </div>
-    </div>
-    <a class="hl-yt-btn wide" href="https://www.youtube.com/@be_a_baller" target="_blank" rel="noopener"><span class="ic" aria-hidden="true"></span><span class="tx"><b>YouTubeチャンネルを見る</b><small>@be_a_baller ・ 登録者数 10.1万人 ・ 総再生 4,450万回以上</small></span></a>
-    <p class="hl-src">※ 登録者数・再生回数は 2026年11月4日時点。</p>
-  </div>
-</section>
-
-<!-- 06 WORK: 指導メニューは本人の公式サイト be-a-baller.jp（チームディフェンス／チームオフェンス／パーソナルワークアウト・2026-11-04取得）。
-     料金は変わりうるので載せず、公式サイトへ案内する。交通費・宿泊費・体育館代が別途なのは同サイトの記載 -->
-<section class="hl-sec" id="work">
-  <div class="wrap">
-    <header class="hl-h">
-      <span class="no">TIMEOUT</span>
+      <span class="no">06 — REQUEST</span>
       <h2>ハレルヤへのご依頼</h2>
-      <p class="memo">コーチ依頼・クリニックは、ここから。</p>
+      <p class="hl-work-lede">チーム・個人・指導者向けの指導を受け付けています。</p>
     </header>
-    <div class="hl-wb hl-req">
-      <p class="hl-req-lead">チームの指導、個人・グループのワークアウト、指導者向けのクリニックから、YouTube のタイアップまで。ご依頼・ご相談は、下のメールアドレスへ。</p>
-      <h3 class="hl-sub in"><span>DRILLS</span>指導メニュー</h3>
-      <div class="hl-menu">
-        <div><span class="no">01</span><span class="en">TEAM DEFENSE</span><h4>チームディフェンス</h4><p>「全てのシュートを守る」ディフェンスシステムを、チームに落とし込む。</p><ul><li>対人・ヘルプ・ローテーション</li><li>ピック&amp;ロールの守り方</li></ul></div>
-        <div><span class="no">02</span><span class="en">TEAM OFFENSE</span><h4>チームオフェンス</h4><p>チームとしての攻め方を指導する。</p><ul><li>チーム単位での指導</li></ul></div>
-        <div><span class="no">03</span><span class="en">PERSONAL WORKOUT</span><h4>パーソナルワークアウト</h4><p>個人・少人数のグループで受けられるワークアウト。</p><ul><li>1人から申し込み可</li><li>グループ指導も可</li></ul></div>
-        <div><span class="no">04</span><span class="en">COACH CLINIC</span><h4>指導者向けクリニック</h4><p>ホワイトボードと映像を使って、戦術を指導者に伝える。</p><ul><li>2026年8月 Be 5IVE CAMP で実施</li></ul></div>
-      </div>
-      <h3 class="hl-sub in"><span>FLOW</span>ご依頼の流れ</h3>
-      <ol class="hl-flow">
-        <li><span class="st">STEP 1</span><h4>メールでご相談</h4><p>チーム／個人、人数、カテゴリー、希望の日程と場所をお送りください。</p></li>
-        <li><span class="st">STEP 2</span><h4>本人から折り返し</h4><p>内容を確認のうえ、本人から連絡します。時間や人数に応じてプランを相談できます。</p></li>
-        <li><span class="st">STEP 3</span><h4>当日の指導</h4><p>体育館で指導。交通費・宿泊費・体育館代は別途です。</p></li>
-      </ol>
-      <div class="hl-mail">
-        <span class="lbl">MAIL</span>
-        <a class="hl-btn big" href="mailto:14e0242@gmail.com">14e0242@gmail.com</a>
-        <p class="hl-team-link">STARTING 5IVE（5人）へのご依頼は、<a href="../starting5ive.html#contact">チームの相談窓口から →</a></p>
-      </div>
-      <ul class="hl-offer">
-        <li>チーム指導</li>
-        <li>個人・グループワークアウト</li>
-        <li>指導者向けクリニック</li>
-        <li>YouTube タイアップ</li>
-        <li>商品・サービスのPR</li>
-        <li>イベント出演</li>
-      </ul>
-      <p class="hl-also">料金・プランは本人の公式サイト <a href="https://be-a-baller.jp/" target="_blank" rel="noopener">be-a-baller.jp</a> に掲載。サイトの申込フォームからも依頼できます。</p>
-    </div>
-  </div>
-</section>
-
-<!-- 07 STARTING 5IVE: チャンネルの目標は メンバー紹介回 mDzmFaY77Fo で本人が話した内容。NBA docomo は starting5ive.html#collab と同じ -->
-<section class="hl-sec" id="activity">
-  <div class="wrap">
-    <header class="hl-h">
-      <span class="no">BENCH</span>
-      <h2>STARTING 5IVE での活動</h2>
-    </header>
-    <ul class="hl-bench">
-      <li>5人のバスケ雑談チャンネル「STARTING 5IVE」で、毎週1本のライブ配信・収録トークに出演。<a href="../starting5ive.html#videos">動画を見る →</a></li>
-      <li>2026年9月、NBA docomo 主催「LESSONS FROM THE GAME CHANGERS」に STARTING 5IVE として出演。<a href="../starting5ive.html#collab">コラボ実績を見る →</a></li>
-      <li>STARTING 5IVEとして、バスケットボールキャンプ「Be 5IVE CAMP」や、視聴者と集まるオフ会を主催。<a href="../starting5ive.html#meetup">オフ会の実績 →</a></li>
-      <li>思い描くのは、5人から始まったこのチャンネルが、日本のNBAファン全体とつながる場所になること（メンバー紹介回より）。</li>
+    <ul class="hl-menu">
+      <li><span class="en">TEAM DEFENSE</span><b>チームディフェンス</b></li>
+      <li><span class="en">TEAM OFFENSE</span><b>チームオフェンス</b></li>
+      <li><span class="en">WORKOUT</span><b>個人・グループ</b></li>
+      <li><span class="en">CLINIC</span><b>指導者向けクリニック</b></li>
     </ul>
+    <div class="hl-mail">
+      <a class="hl-btn big" href="mailto:14e0242@gmail.com"><span>メールで相談する <i aria-hidden="true">→</i></span><small>14e0242@gmail.com</small></a>
+      <p>料金・プランは公式サイト <a href="https://be-a-baller.jp/" target="_blank" rel="noopener">be-a-baller.jp</a> へ。YouTube タイアップ・イベント出演もご相談ください。</p>
+    </div>
+   </div>
   </div>
 </section>
 
-<section class="hl-sec" id="others">
+<!-- STARTING 5IVE（控えめに末尾へ） -->
+<section class="hl-sec hl-s5" id="starting5ive">
   <div class="wrap">
-    <header class="hl-h">
-      <span class="no">ROSTER</span>
-      <h2>ほかのメンバー</h2>
-    </header>
+    <p class="hl-s5-lead"><span class="lbl">STARTING 5IVE</span>ハレルヤは、5人のバスケ雑談チャンネル <a href="../starting5ive.html">STARTING 5IVE</a> のメンバー。</p>
     <div class="hl-others">
-      <a href="rikuto.html"><img src="../../assets/s5/member-rikuto.jpg" alt="リクト（STARTING 5IVE）" width="640" height="600" loading="lazy"><span>リクト<small>RIKUTO</small></span></a>
-      <a href="bamba.html"><img src="../../assets/s5/member-bamba.jpg" alt="バンバ（STARTING 5IVE）" width="640" height="600" loading="lazy"><span>バンバ<small>BAMBA</small></span></a>
-      <a href="nicholas.html"><img src="../../assets/s5/member-nicholas.jpg" alt="ニコラス（STARTING 5IVE）" width="640" height="600" loading="lazy"><span>ニコラス<small>NICHOLAS</small></span></a>
-      <a href="../chris-basketball-diary.html"><img src="../../assets/s5/member-chris.jpg" alt="クリス（STARTING 5IVE）" width="640" height="600" loading="lazy"><span>クリス<small>CHRIS</small></span></a>
+      <a href="rikuto.html"><img src="../../assets/s5/member-rikuto.jpg" alt="" width="640" height="600" loading="lazy"><span>リクト</span></a>
+      <a href="bamba.html"><img src="../../assets/s5/member-bamba.jpg" alt="" width="640" height="600" loading="lazy"><span>バンバ</span></a>
+      <a href="nicholas.html"><img src="../../assets/s5/member-nicholas.jpg" alt="" width="640" height="600" loading="lazy"><span>ニコラス</span></a>
+      <a href="../chris-basketball-diary.html"><img src="../../assets/s5/member-chris.jpg" alt="" width="640" height="600" loading="lazy"><span>クリス</span></a>
     </div>
+    <p class="hl-src">出典: <a href="https://nihontengus.com/ja" target="_blank" rel="noopener">NIHON TENGUS 公式サイト</a>、本人の <a href="https://note.com/be_a_baller/n/n9858d49b13a6" target="_blank" rel="noopener">note（2026年7月22日）</a>・YouTube、<a href="https://fafa-camp-2026.surge.sh/report.html" target="_blank" rel="noopener">Be 5IVE CAMP 2026 開催レポート</a>、STARTING 5IVE メンバー紹介回（2024年7月22日）。数字は 2026年11月4日時点。<br>
+    オープニングの効果音: 「Pen marker line」（<a href="https://mixkit.co/free-sound-effects/marker/" target="_blank" rel="noopener">Mixkit</a>・Mixkit Sound Effects Free License＝商用利用可・クレジット表記不要）を短く切って使用。</p>
   </div>
 </section>
 
@@ -500,16 +396,6 @@ const io = new IntersectionObserver((entries) => {
   entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
 }, { threshold: 0.12 });
 document.querySelectorAll('.reveal').forEach(el => io.observe(el));
-const toggle = document.querySelector('.nav-toggle');
-const links = document.querySelector('.nav-links');
-function setNav(open) {
-  links.classList.toggle('open', open);
-  toggle.setAttribute('aria-expanded', String(open));
-  toggle.setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
-  toggle.textContent = open ? '×' : '☰';
-}
-toggle.addEventListener('click', () => setNav(!links.classList.contains('open')));
-links.querySelectorAll('a').forEach(a => a.addEventListener('click', () => setNav(false)));
 // 動画: クリックした時だけ YouTube を読み込む（starting5ive.html と同じ yt-lite）
 document.querySelectorAll('.yt-lite').forEach(b => b.addEventListener('click', () => {
   const f = document.createElement('iframe');
@@ -523,5 +409,6 @@ document.querySelectorAll('.yt-lite').forEach(b => b.addEventListener('click', (
 <script type="module" src="../../js/intro/hallelujah.js"></script>
 <script src="../../js/brand-fx.js" defer></script>
 <script src="../../js/phrase-wrap.js" defer></script>
+<script src="../../js/s5-nav.js?v=1105a" defer></script>
 </body>
 </html>
