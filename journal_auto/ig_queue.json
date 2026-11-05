@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T12:46:24+09:00",
+  "updated": "2026-11-05T13:58:38+09:00",
   "items": [
     {
       "id": "134",
@@ -25069,6 +25069,239 @@
       "ig_media_id": null,
       "error": null,
       "caption": "SGA、キャバリアーズ戦で42得点\n\n・フィールドゴール26本中11本・3P5本成功\n・フリースロー19本中15本と高確度\n・アシスト8でサンダーを牽引\n\n💬 SGA、今季もMVP争いに絡む？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Thunder vs. Cavaliers・2026年11月4日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "836",
+      "slug": "836-keyonte-george-39-points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "キヨンテ・ジョージ、キャリアハイ39得点",
+      "excerpt": "ユタ・ジャズのキヨンテ・ジョージ(Keyonte George)は現地時間11月4日、敵地でのニューオーリンズ・ペリカンズ戦に44分出場し、フィールドゴール26本中14本・3ポイント9本中2本・フリースロー13本中9本を沈めて39得点、アシスト9・スティール4を記録した。両チーム通じてこの日の最多得点者となったが、ジャズはオーバータイムにもつれた末、113-120でペリカンズに敗れた。",
+      "points": [
+        "FG14本中・アシスト9・スティール4",
+        "第3Q43得点も第4QとOTで逆転負け",
+        "ジャズはOTで113-120の敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/836-keyonte-george-39-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Keyonte George"
+      ],
+      "question": "ジョージのキャリアハイ、今季さらに記録更新ある？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KEYONTE GEORGE",
+        "opponent": "vs. PELICANS",
+        "points": 39,
+        "stats": [
+          "9 AST",
+          "4 STL",
+          "2 REB",
+          "14/26 FG",
+          "2/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/836-1.jpg",
+        "https://sixten.jp/assets/ig/836-2.jpg",
+        "https://sixten.jp/assets/ig/836-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T13:57:31+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "キヨンテ・ジョージ、キャリアハイ39得点\n\n・FG14本中・アシスト9・スティール4\n・第3Q43得点も第4QとOTで逆転負け\n・ジャズはOTで113-120の敗戦\n\n💬 ジョージのキャリアハイ、今季さらに記録更新ある？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "837",
+      "slug": "837-devin-booker-33-points-trail-blazers",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "デビン・ブッカー、トレイルブレイザーズ戦で33得点",
+      "excerpt": "フェニックス・サンズのデビン・ブッカー(Devin Booker)は現地時間11月4日、本拠地でのポートランド・トレイルブレイザーズ戦に34分出場し、フィールドゴール19本中9本・3ポイント8本中2本・フリースロー13本中13本を沈めて33得点を記録した。両チーム通じてこの日の最多得点者となったが、サンズは119-132でトレイルブレイザーズに敗れた。",
+      "points": [
+        "FT13本中13本を完璧に決める",
+        "第2Q25-43の失速が響く",
+        "サンズは119-132で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/837-devin-booker-33-points-trail-blazers.html",
+      "hero_path": "",
+      "subject": [
+        "Devin Booker"
+      ],
+      "question": "ブッカーとサンズ、このまま低迷続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DEVIN BOOKER",
+        "opponent": "vs. TRAIL BLAZERS",
+        "points": 33,
+        "stats": [
+          "2 AST",
+          "1 REB",
+          "9/19 FG",
+          "2/8 3PT",
+          "13/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/837-1.jpg",
+        "https://sixten.jp/assets/ig/837-2.jpg",
+        "https://sixten.jp/assets/ig/837-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T13:57:39+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デビン・ブッカー、トレイルブレイザーズ戦で33得点\n\n・FT13本中13本を完璧に決める\n・第2Q25-43の失速が響く\n・サンズは119-132で敗戦\n\n💬 ブッカーとサンズ、このまま低迷続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "838",
+      "slug": "838-nikola-jokic-32-points-raptors",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "ニコラ・ヨキッチ、32得点のトリプルダブル",
+      "excerpt": "デンバー・ナゲッツのニコラ・ヨキッチ(Nikola Jokic)は現地時間11月4日、本拠地でのトロント・ラプターズ戦に30分出場し、フィールドゴール19本中13本を沈めて32得点、アシスト11・リバウンド10のトリプルダブルを記録した。両チーム通じてこの日の最多得点者となり、ナゲッツは128-109でラプターズに快勝した。",
+      "points": [
+        "30分でPTS32・AST11・REB10",
+        "FG13/19で効率68.4%",
+        "ナゲッツが128-109で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/838-nikola-jokic-32-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Nikola Jokic"
+      ],
+      "question": "ヨキッチ、今季もMVP本命？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "NIKOLA JOKIC",
+        "opponent": "vs. RAPTORS",
+        "points": 32,
+        "stats": [
+          "11 AST",
+          "10 REB",
+          "3 STL",
+          "13/19 FG",
+          "6/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/838-1.jpg",
+        "https://sixten.jp/assets/ig/838-2.jpg",
+        "https://sixten.jp/assets/ig/838-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T13:57:39+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ニコラ・ヨキッチ、32得点のトリプルダブル\n\n・30分でPTS32・AST11・REB10\n・FG13/19で効率68.4%\n・ナゲッツが128-109で快勝\n\n💬 ヨキッチ、今季もMVP本命？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "839",
+      "slug": "839-ayo-dosunmu-21-points-rockets",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "アヨ・ドスンム、ロケッツ戦で21得点",
+      "excerpt": "ミネソタ・ティンバーウルブズのアヨ・ドスンム(Ayo Dosunmu)は現地時間11月4日、敵地でのヒューストン・ロケッツ戦に34分出場し、フィールドゴール20本中10本を沈めて21得点、アシスト6・スティール2を記録した。ロケッツのケビン・デュラントと並び両チーム通じてこの日の最多得点者となり、ティンバーウルブズは117-107でロケッツを下した。",
+      "points": [
+        "FG10/20・アシスト6・TO0の安定感",
+        "第4Q35得点で突き放す",
+        "ティンバーウルブズが117-107で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/839-ayo-dosunmu-21-points-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Ayo Dosunmu"
+      ],
+      "question": "ドスンムの活躍、どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AYO DOSUNMU",
+        "opponent": "vs. ROCKETS",
+        "points": 21,
+        "stats": [
+          "6 AST",
+          "2 STL",
+          "1 REB",
+          "10/20 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/839-1.jpg",
+        "https://sixten.jp/assets/ig/839-2.jpg",
+        "https://sixten.jp/assets/ig/839-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T13:57:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アヨ・ドスンム、ロケッツ戦で21得点\n\n・FG10/20・アシスト6・TO0の安定感\n・第4Q35得点で突き放す\n・ティンバーウルブズが117-107で勝利\n\n💬 ドスンムの活躍、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "840",
+      "slug": "840-kevin-durant-21-points-timberwolves",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "ケビン・デュラント、ティンバーウルブズ戦で21得点",
+      "excerpt": "ヒューストン・ロケッツのケビン・デュラント(Kevin Durant)は現地時間11月4日、本拠地でのミネソタ・ティンバーウルブズ戦に35分出場し、フィールドゴール14本中7本・3ポイント5本中2本・フリースロー6本中5本を沈めて21得点を記録した。ティンバーウルブズのアヨ・ドスンムと並び両チーム通じてこの日の最多得点者となったが、ロケッツは107-117でティンバーウルブズに敗れた。",
+      "points": [
+        "FG7/14・3PT2/5で21得点",
+        "第4Q23-35で突き放される",
+        "ロケッツは107-117で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/840-kevin-durant-21-points-timberwolves.html",
+      "hero_path": "",
+      "subject": [
+        "Kevin Durant"
+      ],
+      "question": "デュラントとロケッツ、立て直せる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KEVIN DURANT",
+        "opponent": "vs. TIMBERWOLVES",
+        "points": 21,
+        "stats": [
+          "5 REB",
+          "2 AST",
+          "7/14 FG",
+          "2/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/840-1.jpg",
+        "https://sixten.jp/assets/ig/840-2.jpg",
+        "https://sixten.jp/assets/ig/840-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T13:57:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ケビン・デュラント、ティンバーウルブズ戦で21得点\n\n・FG7/14・3PT2/5で21得点\n・第4Q23-35で突き放される\n・ロケッツは107-117で敗戦\n\n💬 デュラントとロケッツ、立て直せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
