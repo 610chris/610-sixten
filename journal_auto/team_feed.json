@@ -1,8 +1,66 @@
 {
- "updated_utc": "2026-11-04 18:50 UTC",
+ "updated_utc": "2026-11-05 00:31 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-ochsner-health-unveil-enhanced-athletic-training-room-ursuline-academy",
+   "url": "https://www.nba.com/pelicans/news/pelicans-ochsner-health-unveil-enhanced-athletic-training-room-ursuline-academy",
+   "canonical_url": "https://pelicans.com/news/pelicans-ochsner-health-unveil-enhanced-athletic-training-room-ursuline-academy",
+   "title": "New Orleans Pelicans and Ochsner Health unveil enhanced athletic training room at Ursuline Academy",
+   "author": "Pelicans.com",
+   "published_utc": "2026-11-04T21:00:32Z",
+   "tags": [],
+   "summary": "The New Orleans Pelicans and Ochsner Andrews Sports Medicine Institute joined Ursuline Academy of New Orleans on October 27th to celebrate the unveiling of the school’s newly enhanced athletic training room, a project designed to strengthen athlete care, injury prevention, and recovery resources for Ursuline students. Through a combined significant investment, the Pelicans and Ochsner Health helpe…",
+   "facts": [
+    "The New Orleans Pelicans and Ochsner Andrews Sports Medicine Institute joined Ursuline Academy of New Orleans on October 27th to celebrate the unveiling of the school’s newly enhanced athletic training room, a project de…",
+    "Among the additions are a modular ice machine and storage bin, therapeutic recovery and rehabilitation equipment, emergency heat illness treatment resources, a mobile whirlpool, and a variety of athletic training tools d…"
+   ],
+   "quotes": [
+    "One of the greatest investments we can make is in the health and wellbeing of young people,",
+    "Through our partnership with Ochsner Health, we are proud to help provide Ursuline Academy student athletes with enhanced resources that support injury prevention, recovery and overall wellness. We ho…",
+    "Providing student-athletes with the right resources is an important part of keeping them healthy, preventing injuries and supporting a safe return to play,",
+    "This enhanced athletic training room gives Ursuline Academy a dedicated space to support the health and safety of its student-athletes and reflects our shared commitment to helping young athletes thri…"
+   ]
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-heat-261104",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-heat-261104",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-heat-261104",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Heat",
+   "author": "LAClippers",
+   "published_utc": "2026-11-04T20:30:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Brook Lopez",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Game Previews",
+    "Injury Report",
+    "Keaton Wagler"
+   ],
+   "summary": "Last Matchup: 12/01/2025 | LAC 123 - MIA 140 | K.Leonard: 36 PTS - N.Powell: 30 PTSAs a head coach, Tyronn Lue has a winning record against 21 different NBA franchises in the regular season and playoffs. With a win Wednesday, the Heat would become the 22nd; Miami is one of only two teams Lue has a .500 record against, along with Minnesota.The Clippers have made at least 10 three-pointers in all se…",
+   "facts": [
+    "MIAMI HEAT FIVE THINGS TO KNOW Last Matchup: 12/01/2025 | LAC 123 - MIA 140 | K.Leonard: 36 PTS - N.Powell: 30 PTSAs a head coach, Tyronn Lue has a winning record against 21 different NBA franchises in the regular season…",
+    "With a win Wednesday, the Heat would become the 22nd; Miami is one of only two teams Lue has a .500 record against, along with Minnesota.The Clippers have made at least 10 three-pointers in all seven games this season, t…",
+    "Their previous best was six straight games to start 2023-24.Keaton Wagler is the third Clipper since the team moved to California in 1978 to begin his NBA career with at least 85 points in his first seven games without m…",
+    "Michael Brooks in 1980 and Danny Manning in 1988 were the others.Kris Dunn is one of two NBA players with 20+ steals this season, along with Dyson Daniels (24).",
+    "He is the fourth Clipper in the past 40 seasons to reach 20 steals within the team’s first seven games.BONUS: Brook Lopez made his first career three-pointer in his 369th game, on January 10, 2015, against Detroit.",
+    "He needs two more made threes to become the 116th player in NBA history with 1,200 career three-pointers. 26-27 OPPONENT COMPARISON"
+   ],
+   "quotes": []
+  },
   {
    "source": "PHX 公式（nba.com）",
    "team": "PHX",
@@ -220,7 +278,7 @@
     "Here’s what else to look for: *Kyrie Irving will be back in the lineup after sitting out Monday’s 115-100 loss to the Sacramento Kings due to left knee injury management.",
     "With Irving sidelined, the Mavs had all sorts of problems getting the ball in the basket as they shot 41 percent overall and 21.2 percent from the three-point arc (7-of-33).",
     "The Mavs also know they need to protect the ball better after turning it over 16 times against the Kings.",
-    "In addition, center Santi Aldama is listed as questionable after not playing all season due to right knee surgery he underwent in March while he was playing for Memphis. *For the Spurs, both the offense and defense cente…",
+    "In addition, center Santi Aldama is listed as doubtful after not playing all season due to right knee surgery he underwent in March while he was playing for Memphis.",
     "The 7-4 Frenchman is first in the NBA in blocks (4.0 bpg), fifth in rebounding (10.7 rpg) and 10th in scoring (25.7 ppg) while causing all sorts of problems on both ends of the floor."
    ],
    "quotes": [
@@ -1611,215 +1669,6 @@
     "McCain has appeared in 96 career NBA games (14 starts) and averaged 10.2 points, 2.2 rebounds and 1.7 assists in 19.8 minutes per game.",
     "The Duke product was originally selected 16th overall in the 2024 NBA Draft and was acquired by Oklahoma City from the Philadelphia 76ers on Feb. 4, 2026.",
     "Sorber was selected 15th overall in the 2025 NBA Draft after one season at Georgetown University where he was named a unanimous 2024-25 Big East All-Freshman team selection and also received All-Big East Third Team honor…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-come-up-short-against-boston-celtics-20261101",
-   "url": "https://www.nba.com/magic/news/orlando-magic-come-up-short-against-boston-celtics-20261101",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-come-up-short-against-boston-celtics-20261101",
-   "title": "Orlando Magic Come Up Short Against Boston Celtics",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-01T23:42:27Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO - What makes the Boston Celtics such a good team, aside from Jayson Tatum’s incredible scoring ability, is they protect the ball at a high level, force opponents into a lot of turnovers, and prevent opponents from scoring much around the basket.",
-   "facts": [
-    "Those were among the biggest factors in the Orlando Magic’s 108-97 loss with the C’s in town on Sunday afternoon.",
-    "The Magic were only able to force Boston into 13 turnovers (12 if you subtract the C’s letting the shot clock expire near the end of the game); they turned it over themselves 18 times, which led to 21 Celtics points; and…",
-    "The six-time NBA All-Star erupted for 32 points, and he hit two clutch shots late in the fourth quarter to help Boston pull away.",
-    "Anthony Black and Tristan da Silva each scored 23 points to lead the Magic, Desmond Bane recorded 19 points and Franz Wagner, although he shot just 5-of-20 from the field, filled up the stat sheet with 14 points, six reb…",
-    "What kept Orlando in the game was its 3-point shooting – many generated off sharp ball movement and paint kickouts – and its defense on the perimeter (Celtics only shot 27 percent from downtown).",
-    "Paul George chipped in with 17 points, six rebounds and eight assists for Boston, which improved to 5-1 on the season, while Derrick White and Luka Garza each had 12 points.",
-    "The Magic will look to bounce back on Monday when they host the Washington Wizards at 7:30 p.m."
-   ],
-   "quotes": [
-    "When you see that crowd, being able to make that right play to your teammate is really important and credit them,",
-    "They force turnovers. They are aggressive to go for steals. There are a number of times when you have to be really strong with the ball and then play through contact when you do get it. We can do a be…",
-    "Can’t lose two in a row, especially at home. We know we have to come out and play a better game. Clean up the turnovers. Clean up the rebounds. And then just continuing to play hard. We know we are go…"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261101-bosorl",
-   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261101-bosorl",
-   "canonical_url": "https://celtics.com/news/game-recap-keys-20261101-bosorl",
-   "title": "Keys to the Game: Celtics 108, Magic 97",
-   "author": "Marc D'Amico",
-   "published_utc": "2026-11-01T23:27:03Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "The Orlando Magic were riding a wave of momentum and had a chance to take a lead with just under 11 minutes to go in regulation. Not only did they fail to capitalize on a simple opportunity in transition, but they then allowed a worst-case scenario at the other end.",
-   "facts": [
-    "Key Moment The Orlando Magic were riding a wave of momentum and had a chance to take a lead with just under 11 minutes to go in regulation.",
-    "First, Payton Pritchard, who is 6-foot-2, went right through Orlando’s starting center, 6-foot-10 Wendell Carter Jr., for an and-one layup nine seconds after the Magic’s turnover.",
-    "Then, after forcing yet another turnover out of Orlando, Luka Garza drained a corner 3 to double Boston’s lead up to six points.",
-    "Garza’s 3-pointer sank through the net with 9:50 left in the game, just 56 seconds after Wager missed that go-ahead layup attempt in transition.",
-    "The Celtics maintained control for the rest of the day before closing out a 108-97 win for their fifth consecutive victory.",
-    "Sunday afternoon was the latest evidence, as the longtime star stuffed the stat sheet with an impressive line of 17 points, eight assists, six rebounds, two steals and two blocked shots.",
-    "He has been a consistent contributor on offense and has now dished out at least seven assists in three consecutive games for the first time since April of 2017.",
-    "Box Score Nuggets Jayson Tatum shot 15-for-17 from the free-throw line, matching the entire Magic team in made free throws.Paul George (eight) and Tatum (seven) each dished out at least seven assists.George finished the …"
-   ],
-   "quotes": [
-    "His awareness on the defensive end and his activity with his hands is just like next-level. He just always has awareness for the ball, deflections. He just makes it easier on the rest of us, even this…"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-road-trip-against-san-antonio-spurs",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-road-trip-against-san-antonio-spurs",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-begin-road-trip-against-san-antonio-spurs",
-   "title": "Preview: Utah Jazz Begin Road Trip Against San Antonio Spurs",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-01T22:47:12Z",
-   "tags": [
-    "Lauri Markkanen",
-    "Utah Jazz"
-   ],
-   "summary": "After an extended stay at home, the Utah Jazz are hitting the road to begin November.",
-   "facts": [
-    "Utah battled through several injuries and absences during a five-game homestand at the Delta Center, which saw the team go 1-4.",
-    "Utah went 11-of-40 from deep, turned it over 20 times, and put the Trail Blazers at the charity stripe for 41 attempts.",
-    "Lauri Markkanen struggled in his return (13 points, 3-of-14 shooting), and Utah’s otherwise stingy defense (Portland shot under 41 percent from the field and totaled just 26 points in the paint) wasn’t enough to keep the…",
-    "A few nights ago, the shorthanded Jazz nearly pulled off an overtime upset against San Antonio, ultimately falling 117-111.",
-    "In that game, Utah’s young trio of Keyonte George (31 points), Ace Bailey (19 points), and Darryn Peterson (18 points) led the way as the team’s frontcourt absences piled up.",
-    "After an 0-2 start to begin the new season, the Spurs have found their footing over the last week and won four consecutive games.",
-    "Although newcomer Tobias Harris has yet to take the floor for San Antonio and there are still areas of the game for Mitch Johnson’s squad to improve in, the Spurs rank in the top 10 in both offensive and defensive rating…",
-    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate…"
-   ],
-   "quotes": [
-    "Offensively, our ability to be solid with the ball is continuing to haunt us,",
-    "I thought we gave into the physicality… We’ve got to play in straight lines, can’t dance with the ball, and when we have the advantage, we can’t give it back."
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-okccle-261102",
-   "url": "https://www.nba.com/cavaliers/news/preview-okccle-261102",
-   "canonical_url": "https://cavs.com/news/preview-okccle-261102",
-   "title": "Cavs vs Thunder | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-11-01T22:21:59Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "Cleveland and the Oklahoma City Thunder will play two straight games against each other in a home-and-home series. OKC has been hit by the injury bug in the early going and sit at 4-2 through their first six games.",
-   "facts": [
-    "OKC has been hit by the injury bug in the early going and sit at 4-2 through their first six games.",
-    "GAME INFORMATION LAST TIME OUT The Wine & Gold bounced back in a big way, grabbing a 25 point win over the Bucks in Milwaukee on Halloween night; the Cavs led by as many as 35 at one point.",
-    "Evan Mobley (27 points) and Jarrett Allen (25 points) led the way in the win, as Allen doubled-up with 11 rebounds.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Khalifa Diop - G League (on assignment) - OUT -Jaylon Tyson - Ankle - OUT -Nae'Qwan Tomlin - Back - OUT -Ernest Udeh Jr. - G League (Two-Way) - OUT -Peyton Wat…",
-    "UP NEXT It'll be the Cavs and Thunder again on Wednesday, this time in Oklahoma City, before a big weekend back-to-back at home against the 76ers and Knicks."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-grizzlies-injury-report-game-preview-11-2-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-grizzlies-injury-report-game-preview-11-2-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-grizzlies-injury-report-game-preview-11-2-2026",
-   "title": "Pelicans vs. Grizzlies: Injury Report, Game Preview 11/2/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-01T21:50:56Z",
-   "tags": [],
-   "summary": "The Pelicans travel to Memphis to battle the Grizzlies at the FedEx Forum at 7:00 pm CT on Monday. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans travel to Memphis to battle the Grizzlies at the FedEx Forum at 7:00 pm CT on Monday.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Grizzlies injury report, team news, tune in details, and gameday information: PELICANS VS GRIZZLIES INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Jordan Poo…",
-    "OUT (G League two-way) GRIZZLIES INJURY REPORT Scotty Pippen Jr.",
-    "DOUBTFUL (low back soreness) Quinten Post QUESTIONABLE (right ankle sprain) PELICANS VS GRIZZLIES: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS GRIZZLIES STARTING LINEUPS MEMPHIS GRIZZLIES (…",
-    "Sacramento Kings Jaylen Wells, Cameron Boozer, Zach Edey, Cedric Coward, Cam Spencer NEW ORLEANS PELICANS (2-4) Previous Game Lineup: October 31 win vs.",
-    "Grizzlies Game Time, TV Channel, Radio & Location 📅 Game Time: Monday, Nov. 2 at 7:00 pm CT🏟️ Location: FedExForum in Memphis, TN🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Grizzlies TV: ABC24/DAZN-MEM📻 Grizzli…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-warriors-11-01-26",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-warriors-11-01-26",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-warriors-11-01-26",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Warriors",
-   "author": "LAClippers",
-   "published_utc": "2026-11-01T20:30:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Broadcast Information",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Darius Garland",
-    "Game Previews",
-    "Golden State Warriors",
-    "Injury Report"
-   ],
-   "summary": "Last Matchup: 04/12/2026 | LAC 115 - GSW 110 | B.Mathurin: 20 PTS - S.Curry: 24 PTSIncluding the playoffs, this will be the 43rd all-time meeting between Steve Kerr and Ty Lue as head coaches. Lue trails 21-22 in the series, however, he has won 10 of their last 11 meetings against Kerr.The Clippers are shooting 39.2% from three this season, which ranks second in the NBA. Their improvement of 2.4% …",
-   "facts": [
-    "GOLDEN STATE WARRIORS FIVE THINGS TO KNOW Last Matchup: 04/12/2026 | LAC 115 - GSW 110 | B.Mathurin: 20 PTS - S.Curry: 24 PTSIncluding the playoffs, this will be the 43rd all-time meeting between Steve Kerr and Ty Lue as…",
-    "Lue trails 21-22 in the series, however, he has won 10 of their last 11 meetings against Kerr.The Clippers are shooting 39.2% from three this season, which ranks second in the NBA.",
-    "Their improvement of 2.4% over last season (36.8%) is the fourth-largest jump in the league so far this season.Isaiah Jackson has 16 stocks (steals + blocks) and is shooting 60.0% from the field this season.",
-    "Since the Clippers moved to LA in 1984, the only other Clippers to reach those marks through five games of a season are Montrezl Harrell (2018-19) and DeAndre Jordan (three times).Darius Garland currently leads the Clipp…",
-    "He is one of five players that currently leads their team in all three categories, joining Jalen Brunson, Luka Doncic and Keyonte George.BONUS: Keaton Wagler has come off the bench and scored at least 10 points to go wit…",
-    "That is tied for the second-longest streak to begin a career in NBA history, trailing only Walt Williams’ nine-game streak (1992). 26-27 OPPONENT COMPARISON"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "roster",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-exercise-team-options-on-knueppel-and-mcneeley",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-exercise-team-options-on-knueppel-and-mcneeley",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-exercise-team-options-on-knueppel-and-mcneeley",
-   "title": "Charlotte Hornets Exercise Team Options On Knueppel And Mcneeley",
-   "author": "Hornets PR",
-   "published_utc": "2026-11-01T19:04:15Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "November 1, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has exercised its third-year team options on the contracts of forward Kon Knueppel and forward Liam McNeeley.",
-   "facts": [
-    "November 1, 2026 – Charlotte Hornets President of Basketball Operations Jeff Peterson today announced that the team has exercised its third-year team options on the contracts of forward Kon Knueppel and forward Liam McNe…",
-    "Knueppel, the fourth overall pick in the 2025 NBA Draft, became the first rookie in NBA history to lead the league in 3-pointers made (273) last season.",
-    "The Duke University product led all rookies in 20-point games (36) and won four-straight Eastern Conference Rookie of the Month awards, culminating in a runner-up finish in Rookie of the Year voting and a unanimous First…",
-    "He averaged 18.5 points (47.5 FG%, 42.5 3P%, 86.3 FT%), 5.3 rebounds and 3.4 assists in 31.5 minutes per contest across 81 appearances (80 starts) in his rookie season.",
-    "The Hornets acquired McNeeley in a draft-night trade for the 29th overall pick in the 2025 NBA Draft.",
-    "The second-year forward averages 4.0 points (38.0 FG%, 38.1 3P%, 83.7 FT%) and 2.4 rebounds in 11.4 minutes per game, totaling 34 appearances for Charlotte.",
-    "McNeeley was named All-Summer League following his performance at 2026 NBA Summer League in Las Vegas."
    ],
    "quotes": []
   }
