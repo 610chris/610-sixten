@@ -2,7 +2,7 @@
    しわの入った金属ホイルのパックが浮かぶ（光が流れる）→ 上の端がギザギザに裂けてちぎれ飛ぶ
    → 中から光とともにカードがせり上がる → 一回転して正面へ、ホログラムが光る
    演出はすべて時刻 t の純関数。?introt=秒 でその瞬間を確認できる */
-import { runIntro, introTouch, prog, easeOut, easeIn, easeInOut, rand } from './core.js?v=1105r';
+import { runIntro, introTouch, prog, easeOut, easeIn, easeInOut, rand } from './core.js?v=1105s';
 import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 import { cardArt } from './nicholas-card.js';
 

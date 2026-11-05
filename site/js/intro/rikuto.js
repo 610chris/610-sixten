@@ -36,7 +36,7 @@
        ・同じサイトのページから入って来た時（Chrome は同じドメインでの操作を引き継いで自動再生を許す）は開始と同時に鳴る
        ・URL直打ち・再読み込みで止められている時は、最初のクリック・タップ・キー・スクロールで鳴り始める（その1回目ではスキップしない）
    演出は時刻 t の純関数 → ?introt=秒 で止めて確認できる（この時は音を出さない） */
-import { runIntro, introTouch, clamp, prog, easeIn, easeOut, easeInOut, rand } from './core.js?v=1105r';
+import { runIntro, introTouch, clamp, prog, easeIn, easeOut, easeInOut, rand } from './core.js?v=1105s';
 
 const BASE = '../../assets/s5/rikuto/intro/';
 const HIST = [
@@ -222,7 +222,9 @@ function start() {
       const RAW = {}, waits = {};
       // 待つのは最初の方に描く写真とリクト本人だけ（止め撮り ?introt の時は全部）。それを先頭に読み込む。届く前の写真は余りの別カットで代用
       const first = [...new Set([...FLIP_SEQ.slice(0, 18), ...WORD_SEQ.slice(K_TXT, K_TXT + 6), ...ME])];
-      const queue = [...first, ...ORDER.filter((n) => !first.includes(n))];
+      // 2026-11-05 クリス指示93本目: 8Mbps で 2.5 秒に間に合わず幕ごと出なかった（27枚≒2.7MB）。幕を開けるのに待つのは出だしの8枚とリクト本人だけにする。残りは出る順に読み続ける
+      const must = [...new Set([...FLIP_SEQ.slice(0, 8), ...ME])];
+      const queue = [...must, ...first.filter((n) => !must.includes(n)), ...ORDER.filter((n) => !first.includes(n) && !must.includes(n))];
       let qi = 0;
       const next = () => {
         if (qi >= queue.length) return null;
@@ -231,7 +233,7 @@ function start() {
           .then(() => { (waits[n] || []).forEach((f) => f()); waits[n] = null; }).then(next);
       };
       const until = (n) => (waits[n] === null ? null : new Promise((res) => { (waits[n] = waits[n] || []).push(res); }));
-      const firstP = first.map(until); // 読み込みを始める前に登録しておく
+      const firstP = must.map(until); // 読み込みを始める前に登録しておく
       const lanes = Array.from({ length: 6 }, next);
       if (freeze) await Promise.all(lanes);
       else await Promise.all(firstP);

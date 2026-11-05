@@ -52,7 +52,8 @@
 .hl-hero-pw { position: relative; }
 /* 76本目「もっと大きく。ネイビーに収まりきらないぐらい」: 盤の幅を写真の箱の 170% に。写真と上下中心をそろえ、左の線は文字の列の手前（箱の左 40px）で止める＝文字と重ならない。
    はみ出す右・上下は .hl-hero の overflow: hidden で切る。11.76% ＝ 視界の左端から線までの分（54/780 × 170%） */
-.hl-hero-pw .hl-court { inset: auto; z-index: 0; left: calc(-40px - 11.76%); top: 50%; width: 170%; height: auto; aspect-ratio: 780 / 800; margin-top: -87.18%; }
+/* 2026-11-05 クリス指示93本目: 盤の中心を写真の中心にそろえる（旧: 右へ 73px）。文字の列と重ねない（76本目の線引き）ために 170→160%。-30% = 50% - 160%/2、-82.05% = 160% × 800/780 ÷ 2 */
+.hl-hero-pw .hl-court { inset: auto; z-index: 0; left: -30%; top: 50%; width: 160%; height: auto; aspect-ratio: 780 / 800; margin-top: -82.05%; }
 .hl-hero-pw .hl-hero-ph { position: relative; z-index: 1; }
 .hl-court .c { stroke: var(--chalk); stroke-width: 3; opacity: 0.22; }
 .hl-court .p { stroke-width: 6; opacity: 0.4; }
@@ -290,7 +291,7 @@ a.hl-camp:hover { border-color: var(--green); background: rgba(120, 190, 32, 0.0
      画面の外へ出ないよう幅を抑え、写真の上にのぞく分だけ数字（stats）との間を空ける */
   .hl-hero-pw { margin-top: max(44px, calc(20% - 20px)); max-width: 560px; }
   /* 76本目: 幅は箱の 153%。左右は写真を中心に画面の外へ、上は数字に届かない所（写真の上に箱幅の約 20%）で止め、余りは下へ出して区画で切る */
-  .hl-hero-pw .hl-court { left: -27.8%; top: 0; width: 153%; margin-top: -26.4%; }
+  .hl-hero-pw .hl-court { left: -26.5%; top: 0; width: 153%; margin-top: -26.4%; }
   .hl-hero { padding: 96px 0 max(104px, calc(16% + 24px)) !important; min-height: 0; }
   .hl-hero-ph { max-width: 560px; }
   .hl-sec { padding: 72px 0 !important; }

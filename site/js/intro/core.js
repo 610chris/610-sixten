@@ -1,7 +1,7 @@
 /* STARTING 5IVE メンバー個人ページ共通: オープニングの再生エンジン（2026-11-04）
    使い方: runIntro({ key, duration, gl: true/false, setup: async (ctx) => ({ render(t), resize?() }) })
    - 演出は「時刻 t（秒）の純関数」として書く → ?introt=2.4 でその瞬間に止めて撮影確認できる
-   - WebGL が使えない／素材の読み込みが 2.5 秒を超えた時は、演出を出さずに本文へ（待たせない）
+   - WebGL が使えない／素材の読み込みが 4 秒を超えた時は（2026-11-05 クリス指示93本目: 8Mbps の回線でも出るように 2.5→4）、演出を出さずに本文へ（待たせない）
    - タップ・クリック・Esc/Enter/Space でスキップ。再読み込みのたびに毎回再生（2026-11-05 クリス指示） */
 let glHold = false; // 音が出るまでの間、指を置いている間は WebGL の描画を飛ばす（下の introTouch）
 export async function runIntro(opt) {
@@ -51,7 +51,7 @@ export async function runIntro(opt) {
       renderer.render = (s, c) => { if (!glHold) draw(s, c); };
       ctx.THREE = three; ctx.renderer = renderer;
     }
-    const timeout = new Promise((_, rej) => setTimeout(() => rej(new Error('slow')), freeze === null ? 2500 : 20000));
+    const timeout = new Promise((_, rej) => setTimeout(() => rej(new Error('slow')), freeze === null ? 4000 : 20000));
     const scene = await Promise.race([opt.setup(ctx), timeout]);
     if (done) return;
     el.classList.add('live');

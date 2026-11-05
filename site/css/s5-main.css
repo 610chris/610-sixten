@@ -261,8 +261,10 @@
 .x5-meet h3 small { display: block; margin-top: 4px; font-family: "Anton", sans-serif; font-size: 11px; font-weight: 400; letter-spacing: 0.16em; color: var(--mut); }
 .x5-meet p { margin-top: 12px; font-size: 14px; line-height: 1.8; color: var(--mut); }
 /* 2026-11-05 クリス指示でオニール32番ジャケットの2枚（店先・入口）を削除 → 会場の2枚だけ。4列の時と同じ1枚の大きさで左に詰める */
-.x5-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 12px; margin: 24px 0 0; max-width: calc(50% - 6px); }
-.x5-gallery img { width: 100%; height: auto; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 10px; }
+.x5-gallery { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; gap: 12px; margin: 24px 0 0; }
+/* 2026-11-05 クリス指示93本目: 右側の空きを無くして枠いっぱいに。横長に切る分は顔が残るよう下寄せ */
+.x5-gallery img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; object-position: center 100%; border-radius: 10px; }
+.x5-gallery img:nth-of-type(2) { object-position: center 90%; }
 .x5-gallery figcaption { grid-column: 1 / -1; font-size: 12px; color: var(--mut); }
 
 /* ---------- 05 コラボ ---------- */
@@ -366,6 +368,7 @@
   .x5-meet .ph { min-height: 0; aspect-ratio: 16 / 9; }
   .x5-meet .body { padding: 20px; }
   .x5-gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; max-width: none; }
+  .x5-gallery img, .x5-gallery img:nth-of-type(2) { aspect-ratio: 3 / 4; object-position: center; }
 
   .x5-event { grid-template-columns: minmax(0, 1fr); }
   .x5-event .body { padding: 22px 20px; }
@@ -399,4 +402,11 @@
   .x5 .s5-yt-pop .lbl { letter-spacing: 0; }
   .x5 .s5-yt-pop .lbl::before { margin-right: 4px; width: 12px; }
   .x5 .s5-yt-pop a { padding-inline: 9px; letter-spacing: 0; }
+}
+
+/* 2026-11-05 クリス指示93本目: 320px 幅で画面が 354px に広がっていた（ボタンの 2 語が折り返せない・小見出しの STARTING 5IVE が長い） */
+@media (max-width: 360px) {
+  .x5-work-btns .x5-btn { flex-wrap: wrap; padding: 10px 16px; }
+  .x5-sub { font-size: 14px; letter-spacing: 0; gap: 8px; }
+  .x5-sub::before { width: 14px; }
 }

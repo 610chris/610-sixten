@@ -12,7 +12,7 @@
    音（sfx-intro.mp3 = 下の時刻表どおりに並べた1本）: ① サイト内リンクから来た時は開始と同時に鳴る（Chrome は同じサイトでの操作を引き継ぐ）
    ② 直接開いた・再読み込みの時は、最初のクリック・タップ・キー・スクロールの時点の場面から鳴る。オープニングが終わった後なら、
    ヒーローのコートのラインが光り直して court-line.mp3 が鳴る。「音が出ます」等の表示は出さない */
-import { runIntro, introTouch, prog, easeOut, easeInOut, rand, loadTex } from './core.js?v=1105r';
+import { runIntro, introTouch, prog, easeOut, easeInOut, rand, loadTex } from './core.js?v=1105s';
 import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 
 /* 2026-11-05 36本目: ① 線を全部書いてから動く → ペンで書くのと同時に駒が線を追う ② ダンクの後、3D の盤を真上の2D（作戦盤）に倒しながら

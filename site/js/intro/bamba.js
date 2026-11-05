@@ -2,7 +2,7 @@
    本物の8パネル溝のバスケットボール（文字なし・床に落ち影）が回る（背景は拍ごとに色替え）
    → 止まってジグソーパズルの継ぎ目が光る → パズルのピースになって剥がれ飛ぶ → バスケは酸素
    演出はすべて時刻 t の純関数。?introt=秒 でその瞬間を確認できる */
-import { runIntro, introTouch, prog, easeOut, easeIn, easeInOut, rand } from './core.js?v=1105r';
+import { runIntro, introTouch, prog, easeOut, easeIn, easeInOut, rand } from './core.js?v=1105s';
 import { RoomEnvironment } from '../vendor/RoomEnvironment.js';
 
 const T_STOP = 2.5;   // 回転が止まる
