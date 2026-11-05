@@ -1,8 +1,254 @@
 {
- "updated_utc": "2026-11-05 00:31 UTC",
+ "updated_utc": "2026-11-05 07:19 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-clippers-leave-klay-open-adebayo-antetokounmpo-garland-mitchell",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-clippers-leave-klay-open-adebayo-antetokounmpo-garland-mitchell",
+   "canonical_url": "https://heat.com/news/coups-takeaways-clippers-leave-klay-open-adebayo-antetokounmpo-garland-mitchell",
+   "title": "Coup’s Takeaways: Clippers Leave Klay Thompson Open And Pay The Price",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-11-05T07:02:21Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. The HEAT don’t play many normal games against the Clippers out west, but in this case they’ll take an abnormal night – and a normal one from Klay Thompson – to give their season a proper kick.",
+   "facts": [
+    "Hardly a barnburner, but the HEAT looked comfortably in control after that first period, leading 33-24 as the Clippers endured long stretches of empty-handed possessions.",
+    "It wasn’t just the threes, even with the Clippers going 10-of-20 into halftime, but the runouts off turnovers, the lost attackers cutting baseline.",
+    "The run seemingly never ended, a 30-4 opening to the period, with only Bam Adebayo (19 points on 11 shots in the half, getting to the rim and hitting his jumpers) preventing things from getting even worse.",
+    "In the first, the Clippers had an Offensive Rating of 92.3.",
+    "In the second, that number hit 172.",
+    "Clippers lead, 67-52.",
+    "Stalemate early in the third, Antetokounmpo aggressive with a dunk over former teammate Lopez, until Miami made up a little ground with Thompson’s fifth and sixth threes, the lead down to 11.",
+    "Then it was four, Mitchell stripping Garland, again, and Antetokounmpo finding an open Larsson under the rim in transition for a 6-0 run and a clutch game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/wembanyama-score-52-and-grab-24-boards-as-spurs-clip-mavericks-112-111",
+   "url": "https://www.nba.com/mavs/news/wembanyama-score-52-and-grab-24-boards-as-spurs-clip-mavericks-112-111",
+   "canonical_url": "https://mavs.com/mavs/news/wembanyama-score-52-and-grab-24-boards-as-spurs-clip-mavericks-112-111",
+   "title": "Wembanyama score 52 and grab 24 boards as Spurs clip Mavericks, 112-111",
+   "author": "Dwain Price",
+   "published_utc": "2026-11-05T06:16:58Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "SAN ANTONIO – Victor Wembanyama showed why he is the most dominating all-around player in the NBA today.",
+   "facts": [
+    "The San Antonio Spurs’ center scored 52 points, grabbed 24 rebounds, blocked eight shots, threw down seven dunks and recorded two steals in leading his team to a 112-111 victory over the Dallas Mavericks on Wednesday nig…",
+    "The loss was the second in a row for the Mavs and dropped their record to 4-4 entering Friday's home game against Utah, while the Spurs won for the sixth straight time and padded their record to 6-2.",
+    "Wembanyama converted 1-of-2 free throws with 24.2 seconds left to snap a 111-111 tie and account for the game’s final point.",
+    "But a 17-footer by Irving missed its mark with four seconds left, and in the mad scramble for the rebound, the final buzzer sounded, sending the Mavs home with their second loss of the season to the Spurs.",
+    "Irving was 9-of-27 from the field and led the Mavs with 29 points, seven rebounds and five assists, Naji Marshall had 22 points and five boards, and P.",
+    "Washington finished with 21 points and 10 rebounds.",
+    "Also, Cooper Flagg collected 19 points, 10 rebounds and five assists for the Mavs, who were outrebounded, 61-50.",
+    "In addition to Wembanyama, the Spurs got 21 points and five rebounds from Dylan Harper, 17 points and 10 boards from Stephon Castle, and 10 points from De’Aaron Fox."
+   ],
+   "quotes": [
+    "I think they have a really unique scheme on both sides of the ball,",
+    "They play to their personnel well. They’ve evolved and developed this thing that’s different than a lot of teams. You just can’t come in and just do what you normally do. You have to be able to counte…",
+    "I’m most impressed with their defensive intensity and how connected they are on that side of the ball,",
+    "They push you off your spots, every pass is tough, and so the tenacity they play with and the amount of guard depth and size and length, you factor that in with shot-making, they’re a tough cover."
+   ]
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-get-win-home-raptors",
+   "url": "https://www.nba.com/nuggets/news/nuggets-get-win-home-raptors",
+   "canonical_url": "https://nuggets.com/news/nuggets-get-win-home-raptors",
+   "title": "Nuggets get win at home over Raptors",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-05T05:39:33Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets bounced back in a major way and got a win over the Toronto Raptors, 128-109.",
+   "facts": [
+    "The Denver Nuggets bounced back in a major way and got a win over the Toronto Raptors, 128-109.",
+    "The Nuggets were incredibly accurate from the field, making 61.5 percent of their total shots, 39.1 percent of their three-pointers, and 85.2 percent of their free throws.",
+    "The three-time MVP recorded his third triple-double of the year with 32 points on 13-of-19 shooting from the field, 10 rebounds, and 11 assists.",
+    "Another standout for Denver was Christian Braun, who had a tidy night with 11 points on 4-of-5 shooting from the field, three rebounds, and three assists.",
+    "However, what really made Christian's night special was his defense—he dug in on that side of the floor in the second half and helped the Nuggets limit the Raptors to just 17 third-quarter points.",
+    "Lastly, Aaron Gordon had a nice bounce-back performance, finishing with 17 points on 7-of-9 shooting in just 25 minutes of play.",
+    "They outscored Toronto's reserves, 42-36.",
+    "The leading scorer among the reserves was rookie Bryce Hopkins, who totaled 18 points on 6-of-7 shooting from the field, eight rebounds, and two steals."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-fall-short-in-overtime-against-pelicans-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-fall-short-in-overtime-against-pelicans-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-fall-short-in-overtime-against-pelicans-key-takeaways",
+   "title": "Utah Jazz Fall Short in Overtime Against Pelicans: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-05T04:51:18Z",
+   "tags": [
+    "Keyonte George",
+    "Lauri Markkanen",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "On some nights during the NBA regular season, beautiful basketball gets thrown out the window as two teams simply battle for a win.",
+   "facts": [
+    "Looking to snap a five-game losing streak, the Utah Jazz pushed ahead early in overtime against the New Orleans Pelicans on Wednesday night, but another cold spell offensively sunk the visitors in a 120-113 loss.",
+    "Keyonte George thrived with 39 points and nine assists and Lauri Markkanen chipped in with 21 points and 10 rebounds, but Utah couldn’t overcome another cold night from deep (11-of-47) and 22 turnovers.",
+    "There were 23 lead changes and 14 ties throughout the night, highlighting the close nature of Wednesday’s contest.",
+    "The Jazz went 1-of-10 from beyond the arc during the first 12 minutes of action, instead relying almost exclusively on paint points to generate offense.",
+    "Utah had 18 points in the paint in the first quarter, which outpaced New Orleans (12).",
+    "Both teams coughed it up six times, which led to a tie at 24 after one.",
+    "A 10-1 run from the Pelicans created a nine-point lead for the home team in the initial minutes of the second frame.",
+    "Saddiq Bey provided the spark with eight of the 10 points, with the veteran wing ending the first half with 12 points to lead the New Orleans second unit."
+   ],
+   "quotes": [
+    "That’s a really hard fought game. I’m really proud of the team,",
+    "For us to be in that game shooting the ball the way we did, it speaks to the effort and toughness the team is showing.",
+    "We haven’t gotten the results that we want, but our team is improving,",
+    "We’re better than we were two weeks ago. The team is competing. I feel for the guys tonight, they wanted that one bad."
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261104-milbos",
+   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261104-milbos",
+   "canonical_url": "https://celtics.com/news/game-recap-keys-20261104-milbos",
+   "title": "Keys to the Game: Celtics 109, Bucks 102",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-05T04:26:34Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "The Celtics didn’t have their usual closer available Wednesday night. But with Jayson Tatum getting the night off, Derrick White was more than ready to fill that role.",
+   "facts": [
+    "White took over down the stretch against Milwaukee, scoring seven of Boston’s final 10 points to help the Celtics hold off the Bucks for a 109-102 win at TD Garden.",
+    "After Milwaukee battled back from a 22-point deficit to tie the game at 97-97, Neemias Queta put Boston ahead for good with a driving layup off a feed from Paul George.",
+    "Less than a minute later, White added a driving floater, and George followed with a filthy step-back 3-pointer before White knocked down a pair of free throws to seal Boston’s sixth win in eight games to start the season…",
+    "White saved his best for last, scoring 11 of his 24 points in the fourth quarter to help Boston fend off Milwaukee’s comeback attempt.",
+    "He was a perfect 7-for-7 from the free-throw line during the final frame, tying his career-high for makes in a quarter.",
+    "He added four rebounds and two blocks, tying for the game high in the latter category, and finished plus-8 across 35-plus minutes of action.",
+    "Box Score Nuggets Paul George (25 points) and Derrick White (24 points) combined for 49 points.Tyler Herro tied George for the game high with 25 points.George led all players with four steals.Boston led by as many as 22 …"
+   ],
+   "quotes": [
+    "We need the best version of him for us to be a great team, and I think you were able to see that tonight."
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/nets-top-visiting-hornets-in-physical-back-and-forth-battle",
+   "url": "https://www.nba.com/hornets/news/nets-top-visiting-hornets-in-physical-back-and-forth-battle",
+   "canonical_url": "https://hornets.com/news/nets-top-visiting-hornets-in-physical-back-and-forth-battle",
+   "title": "Nets Top Visiting Hornets In Physical Back-and-Forth Battle",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-05T04:24:48Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "It was a tough outing for the Charlotte Hornets in more ways than one on Wednesday night in Brooklyn, as they couldn’t muster enough fourth quarter stops in a 114-104 road loss to the Nets.",
+   "facts": [
+    "It was a tough outing for the Charlotte Hornets in more ways than one on Wednesday night in Brooklyn, as they couldn’t muster enough fourth quarter stops in a 114-104 road loss to the Nets.",
+    "Top Performers: Naz Reid posted a game and season-high 28 points on 11-of-18 shooting, two 3-pointers, nine rebounds and two assists in the Charlotte loss.",
+    "Grayson Allen had another big night, finishing with 22 points – 20 in the first half – on 6-of-11 shooting, five 3-pointers and four assists for his league-leading fourth 20-point game off the bench this season (nobody e…",
+    "Kon Knueppel’s much-anticipated season debut lasted only six minutes, after he exited the game in the first quarter with left leg soreness and did not return.",
+    "Michael Porter Jr. led Brooklyn’s late charge and ended the victory with 26 points – 13 in the fourth quarter – on 8-of-17 shooting, four 3-pointers and a game-high 10 rebounds for his second double-double of the campaig…",
+    "Julius Randle added 22 points – his third straight 20-point game – on 7-of-13 shooting, while Nolan Traoré recorded 16 points (one off matching his season high) on 7-of-11 shooting and a game-high three steals.",
+    "Turning Point: Up two with 8:47 remaining in the fourth quarter, the Nets went on a quick 10-4 run, with nine of those points coming on a trio of 3-pointers from Porter.",
+    "Overall, Brooklyn shot 61% and connected on 6-of-9 from deep in the 34-point closing frame (48% and 31% in first 36 minutes)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-120-jazz-113-ot-zion-williamson-23-points-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/pelicans-120-jazz-113-ot-zion-williamson-23-points-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/pelicans-120-jazz-113-ot-zion-williamson-23-points-postgame-wrap",
+   "title": "Pelicans 120, Jazz 113 (OT): Zion Williamson 23 points | Postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-05T04:11:56Z",
+   "tags": [],
+   "summary": "Down 10 points entering the fourth quarter, New Orleans rallied. Still down four in the final 30-plus seconds of regulation, the Pelicans forced overtime. Trailing again by six to open OT, another surge. New Orleans kept battling back from deficits Wednesday vs. Utah, eventually pulling off a thrilling victory, the Pelicans’ fourth straight win.",
+   "facts": [
+    "Down 10 points entering the fourth quarter, New Orleans rallied.",
+    "Still down four in the final 30-plus seconds of regulation, the Pelicans forced overtime.",
+    "Of the league’s first five overtime games of 2026-27, the Pelicans have now participated in three of them.",
+    "Included among that group was the team's Monday 135-134 nail-biting victory on Memphis' home floor; Fears sank two game-deciding free throws with 7 seconds left.",
+    "In a second straight OT battle Wednesday, Utah led 80-70 entering the fourth quarter, but Queen (20 points, nine rebounsd, six assists) powered a comeback, with the offense repeatedly running through him.",
+    "Zion Williamson led another balanced offensive attack (four Pelicans notched at least 20 points) by scoring 23, even though he was held without a point in the first half.",
+    "The Pelicans won the fourth period and OT by a 50-33 margin, forcing the extra five minutes when Keyonte George's made jumper at the buzzer was a split-second too late, as the defense slowed him just enough to prevent Ge…",
+    "BY THE NUMBERS 51-29: New Orleans bench scoring advantage."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-grizzlies-261104",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-grizzlies-261104",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-grizzlies-261104",
+   "title": "Game Rewind: Pacers 107, Grizzlies 103",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-05T03:43:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Wednesday, Nov. 4 at 8:00 PM ET at FedEx Forum",
+   "facts": [
+    "Wednesday, Nov. 4 at 8:00 PM ET at FedEx Forum Game Recap The Pacers got six players back on Wednesday and got back in the win column, gutting out a 107-103 win in Memphis to snap a five-game skid.",
+    "The stars came up big for Indiana (3-6) down the stretch, as Andrew Nembhard, Pascal Siakam, and Aaron Nesmith all made key plays in the closing minutes to seal the win.",
+    "Nembhard scored a game-high 22 points to go along with five assists, Siakam added 20 points on 8-of-13 shooting, and Nesmith scored 16 and made the game-sealing three in the final seconds.",
+    "It was just the second loss this season for the Grizzlies (6-2) and Indiana's first win at FedEx Forum since 2021.",
+    "A three from Jackson helped keep the Blue & Gold in front and then Nembhard found Larry Nance Jr. for a dunk that put Indiana up 99-95 with 2:55 to play.",
+    "Nembhard fouled Cedric Coward with 2:12 remaining and the Grizzlies' second-year wing made one of two free throws to briefly make it a one-possession game, but Siakam answered with a mid-range jumper on the other end.",
+    "Two free throws from Zach Edey trimmed Indiana's lead to 101-98 with 1:26 left, but once again Siakam had an answer, converting a jumper through contact and over Edey.",
+    "That looked like it might have been the dagger, but rookie forward Cam Boozer made a three with 45.1 seconds remaining to keep the Grizzlies in the game."
+   ],
+   "quotes": [
+    "We've been below the standard,",
+    "We just wanted to focus on our process. Win or lose tonight, we wanted to be comfortable with the effort we put out there."
+   ]
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -1458,217 +1704,6 @@
     "Denver on Oct. 30Became the second youngest opening night starter in franchise history (Oct. 21 @ POR)Named to 2026 All-Summer League Second Team after leading the league in rebounding (12.8 per game) and averaging 19.5 …",
     "DenverJoined Devin Booker as the third Suns duo in franchise history to post consecutive 30+ point games in the same contests in 2025-26Hit the first game-winner of his career, a three-point buzzer beater in double overt…",
     "Orlando on Feb. 21#15 – Devin BookerLAST GAME: Put up 20 points, 5 assists and 2 steals vs."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-preview-20261102",
-   "url": "https://www.nba.com/warriors/news/gameday-preview-20261102",
-   "canonical_url": "https://warriors.com/news/gameday-preview-20261102",
-   "title": "Game Preview: Warriors vs. Suns - 11/2/26",
-   "author": "gswgrizzo",
-   "published_utc": "2026-11-02T06:25:00Z",
-   "tags": [
-    "Game Preview"
-   ],
-   "summary": "WARRIORS FACE SUNS ON MONDAY NIGHT The Golden State Warriors will host the Phoenix Suns to close out the second of back-to-back games at Chase Center on Monday, November 2 (7 p.m.; WATCH: NBCSBA). The Warriors enter this matchup after defeating the Los Angeles Clippers on Sunday night, marking their fourth consecutive win. The Suns are coming off of two losses as their last win was when these two …",
-   "facts": [
-    "WARRIORS FACE SUNS ON MONDAY NIGHT The Golden State Warriors will host the Phoenix Suns to close out the second of back-to-back games at Chase Center on Monday, November 2 (7 p.m.; WATCH: NBCSBA).",
-    "The Suns are coming off of two losses as their last win was when these two team's first faced of this season on Oct. 24 at Mortgage Matchup Center.",
-    "BUY TICKETS LAST TIME OUT Yaxel Lendeborg scored a career-high 37 points in the Golden State Warriors 124-112 victory over the Los Angeles Clippers on Sunday night at Chase Center in the first of back-to-back games.",
-    "The rookie drained six 3-pointers in his second 30-point performance in just his seventh game of his career.",
-    "The Warriors had four players reach double figures in scoring while tallying 22 total 3-pointers and a season-high 32 assists as a team.",
-    "Their largest lead reached 22 points in Golden State's fourth consecutive win.",
-    "INJURY & ROSTER NOTES GSW: TBD.",
-    "Team Notes COMPELLING NOTE: Warriors: The Warriors four game win-streak just seven games into the 2026-27 season matches their longest winning streak of the 2025-26 season (January 13-19, 2026)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
-   "url": "https://www.nba.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-kings-preview-mavs-face-a-very-different-challenge-in-the-winless-kings",
-   "title": "Mavericks-Kings preview: It's a different challenge against a winless team",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-02T04:50:47Z",
-   "tags": [
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "It’s obviously extremely early in this 82-game marathon of an NBA season. But when the Dallas Mavericks host the Sacramento Kings on Monday night, they’ll be dealing with something they haven’t dealt with so far.",
-   "facts": [
-    "It’s obviously extremely early in this 82-game marathon of an NBA season.",
-    "And Zach LaVine being a Team USA guy is capable of putting 50 or 60 (points) on you.",
-    "Zach LaVine is 16th in scoring at 23.5 ppg and also is shooting 49.5 percent from the field.",
-    "Kings center Domantas Sabonis averages 16 ppg and is first in the league in rebounds (15.8) and second in field goal accuracy (69.1 percent). *This is the finale of a three-game home stand for the Mavs before they play i…",
-    "Dallas opened the home stand last week with wins over Oklahoma City (120-96) and Houston (116-111).",
-    "The last time the Mavs swept a home stand that consisted of at least three games was April 4-7, 2024, when they beat Atlanta (109-95), Golden State (108-106) and Houston (147-136 in overtime). *Except for the 128-120 los…",
-    "Sacramento Kings (0-6) vs.",
-    "Dallas Mavericks (4-2) WHEN: Monday, 7 p.m."
-   ],
-   "quotes": [
-    "Each game there are different challenges, and this will be the first game that we’re favored -- that we’re supposed to win,",
-    "That’s a new puzzle for us to put together.",
-    "Every game is a different challenge,",
-    "(Kings rookie guard Darius) Acuff (Jr.) obviously is, I think, the most productive rookie right now as far as points per game and usage rate. And then obviously De’Andre Hunter, and Precious Achiuwa r…"
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261101",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261101",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261101",
-   "title": "Lendeborg Explodes for 37 Points in Warriors' Win Over the Clippers",
-   "author": "gswgrizzo",
-   "published_utc": "2026-11-02T04:40:24Z",
-   "tags": [
-    "Game Recap"
-   ],
-   "summary": "Yaxel Lendeborg scored a career-high 37 points in the Golden State Warriors 124-112 victory over the Los Angeles Clippers on Sunday night at Chase Center in the first of back-to-back games. The rookie drained six 3-pointers in his second 30-point performance in just his seventh game of his career. The Warriors had four players reach double figures in scoring while tallying 22 total 3-pointers and …",
-   "facts": [
-    "Yaxel Lendeborg scored a career-high 37 points in the Golden State Warriors 124-112 victory over the Los Angeles Clippers on Sunday night at Chase Center in the first of back-to-back games.",
-    "The rookie drained six 3-pointers in his second 30-point performance in just his seventh game of his career.",
-    "The Warriors had four players reach double figures in scoring while tallying 22 total 3-pointers and a season-high 32 assists as a team.",
-    "Their largest lead reached 22 points in Golden State's fourth consecutive win.",
-    "SECOND QUARTER SHIFT The Warriors trailed for the majority of the first quarter with the Clippers lead reaching 11 at the end of the frame.",
-    "Bouncing back after the break, Golden State launched a 26-6 scoring run to come from behind and take a five point lead at halftime.",
-    "Lendeborg powered the offense with 14 points on 5-for-6 shooting from the field with a pair of 3-pointers in the quarter.",
-    "LENDEBORG LIGHTS UP FROM LONG DISTANCE Yaxel Lendeborg was electric from the 3-point line on Sunday night, making six triples on 11 attempts."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-hawks-261102",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-hawks-261102",
-   "canonical_url": "https://pacers.com/news/preview-pacers-hawks-261102",
-   "title": "Game Preview: Pacers vs Hawks",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-11-02T03:01:00Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse Game Preview The Pacers (2-5) will look to snap a four-game skid on Monday when they host the Atlanta Hawks (3-4) on the second night of a back-to-back.",
-    "Indiana is coming off a 98-90 loss to Brooklyn on Sunday night.",
-    "The Pacers struggled mightily offensively against the previously winless Nets, scoring just 40 points on 32.4 percent shooting in the first half.",
-    "Andrew Nembhard led Indiana with 23 points in the loss, with 15 of them coming in the fourth quarter.",
-    "All-Star forward Pascal Siakam added 17 points, but no one else scored more than 12 for the Blue & Gold.",
-    "The Pacers are undermanned, with six players out due to injury on Sunday, including starters Tyrese Haliburton and Ivica Zubac.",
-    "The only injured Pacer who could possibly return on Monday is reserve forward Obi Toppin, who has missed the past two games with a sore lower back.",
-    "The Hawks are also scuffling, having dropped four of five contests after starting the season 2-0."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-nets-261101",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-nets-261101",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-nets-261101",
-   "title": "Game Rewind: Pacers 90, Nets 98",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-02T01:33:00Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Sunday, Nov. 1 at 5:00 PM ET at Gainbridge Fieldhouse Game Recap Shooting struggles and slow starts lingered as the Pacers opened their November slate of games by hosting the Brooklyn Nets on Sunday.",
-    "Indiana couldn’t find its offensive groove, and fell to the Nets, 98-90.",
-    "Both teams seemed lethargic to start – by the seven-minute mark of the first quarter, the score was just 9-7 in favor of the Nets, and each team was shooting 3-for-10 from the field.",
-    "The Pacers, however, opened the game shooting 2-for-11 from 3-point range.",
-    "Indiana trailed after one, 20-19.",
-    "Brooklyn’s 20 points in the first quarter is the strongest defensive quarter Indiana has recorded this season, but the 19 points scored by the Pacers in the same frame also marked Indiana’s worst offensive quarter this s…",
-    "Quenton Jackson connected on a 3-pointer with just over four minutes to play and gave the Pacers some life.",
-    "Porter Jr.’s layup to beat the second quarter buzzer gave the Nets a three-point advantage at the half, 43-40."
-   ],
-   "quotes": [
-    "We're just asking our guys to go hard, to be unselfish, to be aggressive, [and] to shoot the shots that are there,",
-    "And look, we had some guys step in tonight and do some good things.",
-    "We’re missing a lot of guys. That makes it hard…I thought we had quite a few good looks that just happened to not go down. From a process standpoint, you’ve just got to keep letting them fly.",
-    "There’s a lot of challenges right now, but that’s what this whole thing is about…It’s the NBA. Stuff is hard. We’ve all just got to work even harder at finding answers, finding ways."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
-   "url": "https://www.nba.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
-   "canonical_url": "https://mavs.com/mavs/news/daniel-gafford-said-the-nba-deserves-a-show-stopping-entertainer-like-kyrie-irving",
-   "title": "Gafford a big fan of a show-stopping entertainer like Irving",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-02T01:16:20Z",
-   "tags": [
-    "dallas mavericks",
-    "Daniel Gafford",
-    "nba"
-   ],
-   "summary": "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of Friday's game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
-   "facts": [
-    "The damage guard Kyrie Irving did to the Houston Rockets down the stretch of Friday's game reminded center Daniel Gafford of exactly what Irving did to the Rockets back on April 7, 2024.",
-    "Back then, Gafford had only been with the Dallas Mavericks for less than two months following a trade with the Washington Wizards.",
-    "Irving, meanwhile, put on an extraordinary clinic in that late-season game against the Rockets as he poured in a season-high 48 points, with 25 of them coming in the fourth quarter and overtime as the Mavs escaped with a…",
-    "Fast forward to Friday and Irving was just as electric against the Mavs’ Interstate-45 rivals.",
-    "This time Irving poured in 16 of his season-high 35 points in the fourth quarter as the Mavs prevailed, 116-111, over the Rockets.",
-    "The eight-year veteran scored a season-high 18 points on 6-of-7 shots against the Rockets.",
-    "He currently is tied for fourth in the NBA in blocks with two per game, and also averages 8.5 points and seven rebounds.",
-    "Flagg, meanwhile, tallied 33 points and pulled down nine rebounds."
-   ],
-   "quotes": [
-    "It reminded me of that (April 7, 2024) game a lot,",
-    "I’m just like, man this is like déjà vu.",
-    "The game deserves a guy like him,",
-    "Seeing him out for (19 months). That’s too long for a guy like Kyrie."
-   ]
-  },
-  {
-   "source": "OKC 公式（nba.com）",
-   "team": "OKC",
-   "team_ja": "サンダー",
-   "team_id": 1610612760,
-   "kind": "feature",
-   "key": "https://www.nba.com/thunder/news/options-mccain-sorber-261101",
-   "url": "https://www.nba.com/thunder/news/options-mccain-sorber-261101",
-   "canonical_url": "https://okcthunder.com/news/options-mccain-sorber-261101",
-   "title": "Thunder Exercises Options on McCain and Sorber",
-   "author": "okcthunder",
-   "published_utc": "2026-11-02T00:35:55Z",
-   "tags": [
-    "Jared McCain",
-    "Thomas Sorber"
-   ],
-   "summary": "OKLAHOMA CITY, Nov. 1, 2026 – The Oklahoma City Thunder exercised its fourth-year contract option on guard Jared McCain and its third-year contract option on forward/center Thomas Sorber, it was announced today by Executive Vice President and General Manager Sam Presti.",
-   "facts": [
-    "OKLAHOMA CITY, Nov. 1, 2026 – The Oklahoma City Thunder exercised its fourth-year contract option on guard Jared McCain and its third-year contract option on forward/center Thomas Sorber, it was announced today by Execut…",
-    "McCain has appeared in 96 career NBA games (14 starts) and averaged 10.2 points, 2.2 rebounds and 1.7 assists in 19.8 minutes per game.",
-    "The Duke product was originally selected 16th overall in the 2024 NBA Draft and was acquired by Oklahoma City from the Philadelphia 76ers on Feb. 4, 2026.",
-    "Sorber was selected 15th overall in the 2025 NBA Draft after one season at Georgetown University where he was named a unanimous 2024-25 Big East All-Freshman team selection and also received All-Big East Third Team honor…"
    ],
    "quotes": []
   }
