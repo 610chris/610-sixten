@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "844-yokohama-excellence-tachikawa-win.html",
+    cat: "JAPAN",
+    title: "横浜エクセレンス、立川ダイス戦を99-97で制す —— ローソンが来日通算4,000得点、B.LEAGUE ONE第8節",
+    excerpt: "横浜エクセレンスは11月4日、アウェーで対戦した立川ダイスとのB.LEAGUE ONE 2026-27シーズン第8節で99-97の接戦を制した。試合では#34ベンジャミン・ローソンが来日通算4,000得点を達成する節目にもなった。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-844-hero.jpg?v=9dc61f0e2c"
+  },
+  {
     href: "843-lebron-too-early-finals-talk.html",
     cat: "NBA",
     title: "レブロン「ファイナルの話は時期尚早」—— 76ersが8勝1敗、唯一の黒星ピストンズに雪辱",
