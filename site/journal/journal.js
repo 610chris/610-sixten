@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "827-anthony-davis-26-points-hawks.html",
+    cat: "NBA",
+    title: "アンソニー・デイビス、ホークス戦で26得点 —— ウィザーズは105-120で敗戦",
+    excerpt: "ワシントン・ウィザーズのアンソニー・デイビス(Anthony Davis)は現地時間11月4日、本拠地でのアトランタ・ホークス戦に30分出場し、フィールドゴール19本中12本・フリースロー2本中2本を沈めて26得点、リバウンド10・ブロック3を記録した。両チーム通じてこの日の最多得点(ホークスのニキール・アレクサンダー＝ウォーカーと並ぶ)だったが、ウィザーズは105-120でホークスに敗れた。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "826-nickeil-alexander-walker-26-points-wizards.html",
+    cat: "NBA",
+    title: "ニキール・アレクサンダー＝ウォーカー、ウィザーズ戦で26得点 —— ホークスが120-105で勝利",
+    excerpt: "アトランタ・ホークスのニキール・アレクサンダー＝ウォーカー(Nickeil Alexander-Walker)は現地時間11月4日、敵地でのワシントン・ウィザーズ戦に32分出場し、フィールドゴール20本中9本・3ポイント14本中6本・フリースロー2本中2本を沈めて26得点を記録した。両チーム通じてこの日の最多得点(ウィザーズのアンソニー・デイビスと並ぶ)で、ホークスは120-105でウィザーズを下した。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "825-kon-knueppel-hamstring-reinjury.html",
+    cat: "NBA",
+    title: "コン・カニップル、シーズン復帰戦で6分弱で途中退場 —— 左ハムストリングを再び痛め前半で欠場に",
+    excerpt: "シャーロット・ホーネッツのコン・カニップル(Kon Knueppel)は現地時間11月4日、ブルックリン・ネッツ戦でのシーズン初出場からわずか6分弱で、オフシーズンから抱えていた左ハムストリングの負傷を再び痛めたような様子を見せた。チームは「左足の張り」として前半で欠場を発表。カニップルはこの負傷でプレシーズンを全休し、開幕から8試合を欠場していた。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "824-air-zoom-generation-gloria-james-pe.html",
+    cat: "KICKS",
+    title: "Nike Air Zoom Generation「Gloria James」が2027年春に発売 —— レブロンの母に捧げた非売品PEが約17年越しで一般販売へ",
+    excerpt: "ナイキは、レブロン・ジェームズの初代シグネチャーモデル「Air Zoom Generation」のPE(プレイヤーエディション)カラー「Gloria James」を2027年春に一般発売する。白・メタリックシルバー・リアルピンクを基調にしたこのカラーは、レブロンをアクロンで一人で育てた母グロリアに捧げたもので、当初は10足未満しか作られず店頭には並ばなかった。Sneaker News、Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.05",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "823-air-jordan-1-high-og-starfall.html",
     cat: "KICKS",
     title: "Air Jordan 1 High OG「Starfall」が中国限定で登場 —— スウッシュのステッチ輪郭とウイングロゴ移動、複数手法を重ねた一足",
