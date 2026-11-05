@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T12:19:43+09:00",
+  "updated": "2026-11-05T12:36:17+09:00",
   "items": [
     {
       "id": "134",
@@ -24883,6 +24883,145 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ポール・ジョージ、バックス戦で25得点\n\n・FG18本中8本・スティール4で25得点\n・前半で62-41の大量リード\n・セルティックスが109-102で勝利\n\n💬 セルティックスの今季、ここまでの出来をどう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "832",
+      "slug": "832-naz-reid-28-points-nets",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "ナズ・リード、ネッツ戦で28得点",
+      "excerpt": "シャーロット・ホーネッツのナズ・リード(Naz Reid)は現地時間11月4日、敵地でのブルックリン・ネッツ戦に36分出場し、フィールドゴール18本中11本・3ポイント5本中2本・フリースロー5本中4本を沈めて28得点、リバウンド9を記録した。両チーム通じてこの日の最多得点者だったが、ホーネッツは104-114でネッツに敗れた。",
+      "points": [
+        "FG11本中・リバウンド9で28得点",
+        "前半はホーネッツが57-50とリード",
+        "ネッツが後半64-47で逆転、114-104"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/832-naz-reid-28-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Naz Reid"
+      ],
+      "question": "ホーネッツ、このまま浮上できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "NAZ REID",
+        "opponent": "vs. NETS",
+        "points": 28,
+        "stats": [
+          "9 REB",
+          "2 AST",
+          "11/18 FG",
+          "2/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/832-1.jpg",
+        "https://sixten.jp/assets/ig/832-2.jpg",
+        "https://sixten.jp/assets/ig/832-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T12:33:12+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ナズ・リード、ネッツ戦で28得点\n\n・FG11本中・リバウンド9で28得点\n・前半はホーネッツが57-50とリード\n・ネッツが後半64-47で逆転、114-104\n\n💬 ホーネッツ、このまま浮上できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "833",
+      "slug": "833-cedric-coward-23-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "セドリック・カワード、ペイサーズ戦で23得点",
+      "excerpt": "メンフィス・グリズリーズのセドリック・カワード(Cedric Coward)は現地時間11月4日、本拠地でのインディアナ・ペイサーズ戦に33分出場し、フィールドゴール19本中8本・3ポイント12本中4本・フリースロー4本中3本を沈めて23得点、リバウンド9・アシスト4・スティール4を記録した。チームメイトのタイ・ジェロームと並び両チーム通じてこの日の最多得点者だったが、グリズリーズは103-107でペイサーズに敗れた。",
+      "points": [
+        "FG8本・スティール4で23得点",
+        "第1Qの32-24から追い上げる",
+        "グリズリーズは103-107で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/833-cedric-coward-23-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Cedric Coward"
+      ],
+      "question": "グリズリーズの若手、伸びてると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "CEDRIC COWARD",
+        "opponent": "vs. PACERS",
+        "points": 23,
+        "stats": [
+          "9 REB",
+          "4 AST",
+          "4 STL",
+          "8/19 FG",
+          "4/12 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/833-1.jpg",
+        "https://sixten.jp/assets/ig/833-2.jpg",
+        "https://sixten.jp/assets/ig/833-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T12:33:21+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "セドリック・カワード、ペイサーズ戦で23得点\n\n・FG8本・スティール4で23得点\n・第1Qの32-24から追い上げる\n・グリズリーズは103-107で惜敗\n\n💬 グリズリーズの若手、伸びてると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "834",
+      "slug": "834-ty-jerome-23-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-05",
+      "headline": "タイ・ジェローム、ペイサーズ戦で23得点",
+      "excerpt": "メンフィス・グリズリーズのタイ・ジェローム(Ty Jerome)は現地時間11月4日、本拠地でのインディアナ・ペイサーズ戦に29分出場し、フィールドゴール20本中10本・3ポイント10本中2本・フリースロー2本中1本を沈めて23得点、アシスト3を記録した。チームメイトのセドリック・カワードと並び両チーム通じてこの日の最多得点者だったが、グリズリーズは103-107でペイサーズに敗れた。",
+      "points": [
+        "FG10本中・+/-は+11で23得点",
+        "カワードと並び23得点でチーム最多",
+        "グリズリーズは103-107で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/834-ty-jerome-23-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Ty Jerome"
+      ],
+      "question": "ジェロームの活躍、どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TY JEROME",
+        "opponent": "vs. PACERS",
+        "points": 23,
+        "stats": [
+          "4 REB",
+          "3 AST",
+          "10/20 FG",
+          "2/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/834-1.jpg",
+        "https://sixten.jp/assets/ig/834-2.jpg",
+        "https://sixten.jp/assets/ig/834-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-05T12:33:21+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タイ・ジェローム、ペイサーズ戦で23得点\n\n・FG10本中・+/-は+11で23得点\n・カワードと並び23得点でチーム最多\n・グリズリーズは103-107で惜敗\n\n💬 ジェロームの活躍、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
