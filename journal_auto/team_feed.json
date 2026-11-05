@@ -1,8 +1,251 @@
 {
- "updated_utc": "2026-11-05 15:46 UTC",
+ "updated_utc": "2026-11-05 22:14 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-jazz-preview-in-season-tourney-affords-bounce-back-chances",
+   "url": "https://www.nba.com/mavs/news/mavericks-jazz-preview-in-season-tourney-affords-bounce-back-chances",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-jazz-preview-in-season-tourney-affords-bounce-back-chances",
+   "title": "Mavericks-Jazz preview: In-season tourney affords bounce-back chances",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-05T21:00:00Z",
+   "tags": [],
+   "summary": "The Emirates NBA Cup is the fancy name given to the league’s in-season tournament.",
+   "facts": [
+    "Teams that qualify for the quarterfinals make about $50,000 per player.",
+    "The players on the NBA Cup championship team will earn in excess of $500,000 each, which isn’t a bad bonus for a highly paid veteran and is a huge windfall for a young player on the fringe of the roster.",
+    "The NBA Cup runner-up payout is about $200,000 per player.",
+    "The Mavericks got off to a great Cup start with their 116-111 win over Houston.",
+    "Their final two group-stage games are at Denver on Nov. 24 and at Phoenix on Nov. 27.",
+    "They have a .500 record (4-4) and have played many of the presumed top teams in the league (Miami, Houston twice, San Antonio twice, Indiana, Oklahoma City).",
+    "On top of that, they are riding their first losing streak of the season, having dropped a regrettable loss at home to Sacramento and suffering a heartbreaking 112-111 setback Wednesday at San Antonio.",
+    "In the two losses, Flagg was a combined 10-of-38 shooting and 0-of-7 from three-point range."
+   ],
+   "quotes": [
+    "It’s the in-season tournament and depending on which team you play against, some teams are taking it serious, some teams aren’t,",
+    "(It’s not) about me playing well or Cooper (Flagg) playing well. We really need to have possessions where they really matter and guys were making the right plays – or weren’t making the right plays an…"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-phoenix-suns-game-preview-injury-report-20261105",
+   "url": "https://www.nba.com/magic/news/orlando-magic-phoenix-suns-game-preview-injury-report-20261105",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-phoenix-suns-game-preview-injury-report-20261105",
+   "title": "Orlando Magic at Phoenix Suns: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-05T20:54:46Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "The Orlando Magic are hoping their second road trip of the season goes similar to their first.",
+   "facts": [
+    "Orlando went 2-1 in its first action away from the Kia Center and is now aiming to pull off a similar feat when it heads out West for the first time this season.",
+    "The Magic (2-5) look to get back in the win column when they visit the Phoenix Suns (1-5) on Thursday at 9 p.m.",
+    "Ball handlers like Paolo Banchero and Jalen Suggs have been sidelined for extended stretches, and guard Anthony Black, who’s expected to play tonight, has missed three games with an ankle injury.",
+    "But regardless of who’s on the floor, the Magic are looking to cut back on their 17.3 giveaways per outing.",
+    "Its offense is still led by guard Devin Booker, who’s averaging 24.7 points per contest.",
+    "The Suns move the ball with efficiency, ranking both top 10 in assists (27.4) and fewest turnovers (14.7) per game.",
+    "Per Sportradar, the Suns are one of just two teams surrendering a 3-point percentage of at least 40 percent this season (the other is the Miami Heat).",
+    "IN AND OUT: Banchero (right low-grade high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery), Noah Penda (right partially torn hamstring) and Suggs (right knee contu…"
+   ],
+   "quotes": [
+    "(We need to) keep our spirits high and play an intense game for 48 minutes,",
+    "And clean up some of the execution stuff on offense.",
+    "We haven’t started at home the way we’ve wanted to,",
+    "So, these games are really important for us now. Clean up some of the turnovers and some of our execution in general. And keep our spirits high. It’s still early in the season and I think we have a go…"
+   ]
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/11-05-2026-suns-vs-magic-game-preview",
+   "url": "https://www.nba.com/suns/news/11-05-2026-suns-vs-magic-game-preview",
+   "canonical_url": "https://suns.com/news/11-05-2026-suns-vs-magic-game-preview",
+   "title": "11/05/2026 Suns vs Magic Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-11-05T20:33:20Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Thursday, November 5, 2026Time: 7:00 p.m. MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Magic: Association Edition (White)",
+   "facts": [
+    "Game Info Date: Thursday, November 5, 2026Time: 7:00 p.m.",
+    "MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Magic: Association Edition (White) Series Notes The Sun…",
+    "Jalen Green hit a game winning three-pointer as time expired, giving Phoenix a 113-110 win Key Connections Magic guard Jevon Carter was a member of the Suns from 2019-21, appearing 118 times and was a part of Phoenix's N…",
+    "Portland on Nov. 4Recorded 20 points in the first half vs.",
+    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
+    "PortlandHas totaled 63 points, 23 rebounds, 10 assists, 7 steals and 4 blocks in his last three games, the first Suns players with those numbers in a three-game stretch since Amar'e Stoudemire in 2008 Surpassed 8,000 car…",
+    "Portland on Nov. 4Has multiple blocks in consecutive games for the first time in his careerJoined Devin Booker as the third Suns duo in franchise history to post consecutive 30+ point games in the same contests in 2025-2…",
+    "PortlandTurned 30 years old on Oct. 30, exiting his 20's with the 11th most points in NBA history by any player before their 30th birthdayHis 43 points against Golden State on Oct. 24 were the most by a Sun in a home ope…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-timberwolves-injury-report-game-preview-11-6-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-timberwolves-injury-report-game-preview-11-6-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-timberwolves-injury-report-game-preview-11-6-2026",
+   "title": "Pelicans vs. Timberwolves: Injury Report, Game Preview 11/6/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-11-05T20:07:32Z",
+   "tags": [],
+   "summary": "The Pelicans host the Minnesota Timberwolves on Friday to kick off their NBA Cup stretch at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans host the Minnesota Timberwolves on Friday to kick off their NBA Cup stretch at the Smoothie King Center at 7:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Timberwolves injury report, team news, tune in details, and gameday information: PELICANS VS TIMBERWOLVES INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Mali…",
+    "DOUBTFUL (G League two-way) Trey Murphy III PROBABLE (bilateral patella tendinopathy) Julian Reese PROBABLE (G League two-way) TIMBERWOLVES INJURY REPORT TBD PELICANS VS TIMBERWOLVES: HEAD-TO-HEAD STATS 2025-2026 NBA Sea…",
+    "Timberwolves Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 6 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Co…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/features-thomas-bryant-261105",
+   "url": "https://www.nba.com/cavaliers/news/features-thomas-bryant-261105",
+   "canonical_url": "https://cavs.com/news/features-thomas-bryant-261105",
+   "title": "Thomas Bryant Stays Ready for when His Name is Called",
+   "author": "clejgabriele",
+   "published_utc": "2026-11-05T18:54:34Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "They are blessed with two of the top big men in the entire Association on their own frontline. And those two big men have been blessed with excellent health during their time in Cleveland. Jarrett Allen has averaged 68 games per season over the last five years; Evan Mobley, 67. J.A. has played in at least 56 games each season, including all 82 in 2024-25; Mobley’s suited up for at least 65 contest…",
+   "facts": [
+    "Jarrett Allen has averaged 68 games per season over the last five years; Evan Mobley, 67.",
+    "J.A. has played in at least 56 games each season, including all 82 in 2024-25; Mobley’s suited up for at least 65 contests in four of his first five years.",
+    "But he’s been called to action over the last three, including Wednesday night against the Thunder, draining a triple and going 5-of-6 from the stripe in 12 minutes off the bench.",
+    "And he was rock-solid in his first campaign with the Cavs, appearing in 60 contests, averaging 6.2 points and 3.4 boards, shooting 51 percent from the floor and 37 percent from deep.",
+    "After a strong start, the 29-year-old wanted to continue building in Year 2 with a big summer in the gym.",
+    "He is one of three Cavaliers who’ve won a Championship ring during his NBA career, along with Sam Merrill and his new teammate, Peyton Watson, who Bryant won the title alongside in 2023.",
+    "He attempted just nine three-pointers as a Nugget and attempted 131 bombs with the Cavaliers last season – down from his 148 long-range attempts the previous season with Indiana.",
+    "And to this day, he constantly encourages the Cavaliers’ two-way guys, knowing its possible to parlay a successful NBA career from there."
+   ],
+   "quotes": [
+    "It's tough, not knowing if you're going to play, or when you're going to get in, or even if you’re in the rotation or not,",
+    "It's all about that ‘stay-ready’ aspect and just taking in every day. It's just another day to try and get one percent better in whatever you might be doing on that day. You just try to have that ment…",
+    "Of course, you do the nuances of the big man stuff – just getting the hook-shots and the touch-shots, and, obviously, in this modern day era, just trying to space the floor more,",
+    "But also, I think what you should work on is being in the best condition, to be able to run the floor for a long period of time out there. No matter how long you might be on the floor, you want to try…"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/by-committee-approach-fuels-pelicans-turnaround-from-winless-start",
+   "url": "https://www.nba.com/pelicans/news/by-committee-approach-fuels-pelicans-turnaround-from-winless-start",
+   "canonical_url": "https://pelicans.com/news/by-committee-approach-fuels-pelicans-turnaround-from-winless-start",
+   "title": "'By committee' approach fuels Pelicans turnaround from winless start",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-05T17:34:46Z",
+   "tags": [],
+   "summary": "Some NBA teams have a go-to guy, a singular talent who’s given the ball in crunch time, when his team absolutely must get a basket. Through the first two weeks of the season, New Orleans seems to have roughly a half-dozen of them.",
+   "facts": [
+    "Late in Wednesday’s 120-113 overtime victory vs.",
+    "Utah – the Pelicans’ fourth consecutive win following an 0-4 start – the hosts seemed to transfer No. 1 option status every few minutes.",
+    "Second-year big Derik Queen took over the attack in the fourth quarter, repeatedly spinning and driving by Jazz defenders, sparking a comeback from down 10 points.",
+    "Queen, Williamson and Bey each scored between 20 and 23 points Wednesday, while New Orleans starting guards Dejounte Murray (20 points, eight rebounds) and Jeremiah Fears (19 points, six rebounds) also delivered momentou…",
+    "That second-unit advantage has been vital during the four-game winning streak, including a 41-8 edge in the club’s initial Oct. 29 win vs.",
+    "In more evidence of the “group project” nature of the team’s start to 2026-27, no New Orleans player has registered more than 26 points in any game.",
+    "Defensively, it’s also been a multitude of contributors – five different players have at least five steals during the four-game winning streak, including backup forward Trendon Watford, who’s done it in only 70 minutes o…",
+    "Top defender Herb Jones “only” has a total of four steals in the victories over Sacramento, Atlanta, Memphis and Utah, but his most staggering four-game statistic is a plus-minus of +73."
+   ],
+   "quotes": [
+    "I’ll say it over and over again – this is a by-committee team,",
+    "Every night it’s going to be somebody different.",
+    "Just making the right play,",
+    "Right play, right time, right person gets the ball. When you’re open, you should get the basketball… the beauty of this team is that we’re deep. We have guys that can all make plays."
+   ]
+  },
+  {
+   "source": "TOR 公式（nba.com）",
+   "team": "TOR",
+   "team_ja": "ラプターズ",
+   "team_id": 1610612761,
+   "kind": "roster",
+   "key": "https://www.nba.com/raptors/news/raptors-sign-mccullar-jr-to-two-way-contract",
+   "url": "https://www.nba.com/raptors/news/raptors-sign-mccullar-jr-to-two-way-contract",
+   "canonical_url": "https://raptors.com/news/raptors-sign-mccullar-jr-to-two-way-contract",
+   "title": "RAPTORS SIGN McCULLAR JR. TO TWO-WAY CONTRACT",
+   "author": "tormbeloso",
+   "published_utc": "2026-11-05T17:22:07Z",
+   "tags": [
+    "News",
+    "Press Releases"
+   ],
+   "summary": "The Toronto Raptors announced Thursday they have signed guard Kevin McCullar Jr. to a two-way contract. Per team policy, financial terms of the deal were not disclosed.",
+   "facts": [
+    "The Toronto Raptors announced Thursday they have signed guard Kevin McCullar Jr. to a two-way contract.",
+    "McCullar Jr., 6-foot-6, 216 pounds, averaged 2.4 points, 1.3 rebounds, 1.0 assists and 7.4 minutes in 21 games as a two-way player with New York last season.",
+    "He shot .426 (20-47) from the field and scored in double figures in two contests, including a season-high 14 points Apr. 12 against Charlotte.",
+    "McCullar Jr. also appeared in 14 games (13 starts) with the Westchester Knicks in the NBA G League, posting averages of 16.8 points, 6.2 assists, 5.4 rebounds, 2.0 steals, 1.0 blocks and 31.4 minutes.",
+    "A native of San Antonio, Texas, McCullar Jr. holds career averages of 2.2 points, 1.4 rebounds and 7.4 minutes in 25 games across two seasons with the Knicks (2024-26).",
+    "He was picked in the second round (56th overall) by Phoenix in the 2024 NBA Draft who traded his rights to New York.",
+    "Prior to the NBA, McCullar Jr. played three seasons at Texas Tech (2019-22) before transferring to Kansas (2022-24) where he was named First Team All-Big 12 as a fifth-year senior (2023-24) with the Jayhawks."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-working-to-be-better-in-resolving-early-season-turnover-woes",
+   "url": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-working-to-be-better-in-resolving-early-season-turnover-woes",
+   "canonical_url": "https://grizzlies.com/news/mikecheck-grizzlies-working-to-be-better-in-resolving-early-season-turnover-woes",
+   "title": "MikeCheck: Grizzlies ‘working to be better’ in resolving early-season turnover woes",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-05T17:10:16Z",
+   "tags": [
+    "Grind City Media",
+    "Michael Wallace",
+    "MikeCheck"
+   ],
+   "summary": "MEMPHIS – Starting 6-0 and standing as the NBA’s lone remaining unbeaten team catches the attention of the league and comes with a bit of a target.",
+   "facts": [
+    "Miscues costly in back-to-back losses MEMPHIS – Starting 6-0 and standing as the NBA’s lone remaining unbeaten team catches the attention of the league and comes with a bit of a target.",
+    "Here are my two takeaways from Wednesday’s 107-103 loss to the Pacers and a lookahead to Friday’s visit from the Thunder in the Emirates NBA Cup opener for both teams.",
+    "The Pacers became the latest team to capitalize on the Grizzlies’ miscues, scoring 24 points off 20 Memphis turnovers.",
+    "Compounding those issues was a 12-for-44 (27.3-percent) night from beyond the arc for the Grizzlies, who came in as the NBA’s best 3-point shooting team.",
+    "The Grizzlies have now allowed three straight opponents to score at least 21 points off their turnovers, including losses to the Pacers on Wednesday and the Pelicans two nights earlier.",
+    "For the season, opponents are averaging nearly 20 points off the Grizzlies’ 16.5 turnovers per game.",
+    "The Grizzlies have also shuffled their starting lineup four times through the first eight games of the season because of injury management, schedule demands and matchup adjustments.",
+    "Memphis had eight turnovers in the first quarter that led directly to 12 of Indiana’s first 32 points."
+   ],
+   "quotes": [
+    "We’re drawing the best shot from our opponents right now because of the way we started the season,",
+    "That’s great for us in the long term, and that allows us to develop and maybe see some things that have really hurt us. We can improve on those.",
+    "We have to be a little more patient with our actions,",
+    "We’ll continue to watch film to see how we can get better offensively, and we’ll do a good job with it."
+   ]
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -80,7 +323,7 @@
     "dallas mavericks",
     "nba"
    ],
-   "summary": "SAN ANTONIO – The Naji Marshall the Dallas Mavericks are accustomed to seeing playing quality basketball was back to his old form Wednesday against the San Antonio Spurs.",
+   "summary": "SAN ANTONIO – Naji Marshall looked like his old self Wednesday against the San Antonio Spurs, playing the quality basketball the Dallas Mavericks are accustomed to seeing from him.",
    "facts": [
     "In 26 minutes off the bench, Marshall was 9-of-12 from the field, scored a season-high 22 points, grabbed five rebounds and handed out three assists.",
     "He also was instrumental in the Mavs rallying from a 19-point second-half deficit to take a three-point lead before falling to the Spurs, 112-111, at Frost Bank Center.",
@@ -125,6 +368,34 @@
     "Clippers lead, 67-52.",
     "Stalemate early in the third, Antetokounmpo aggressive with a dunk over former teammate Lopez, until Miami made up a little ground with Thompson’s fifth and sixth threes, the lead down to 11.",
     "Then it was four, Mitchell stripping Garland, again, and Antetokounmpo finding an open Larsson under the rim in transition for a 6-0 run and a clutch game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pacers-107103",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pacers-107103",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-fall-to-pacers-107103",
+   "title": "Grizzlies Fall to Pacers, 107–103",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-05T05:45:00Z",
+   "tags": [
+    "Pressroom"
+   ],
+   "summary": "MEMPHIS, TENN - The Memphis Grizzlies (6-2) were defeated by the Indiana Pacers (3-6) 107-103 on Wednesday at FedExForum. The Pacers ended a five-game road losing streak in the overall series with the Grizzlies and defeated Memphis for just the third time in the last 11 matchups.",
+   "facts": [
+    "MEMPHIS, TENN - The Memphis Grizzlies (6-2) were defeated by the Indiana Pacers (3-6) 107-103 on Wednesday at FedExForum.",
+    "The Pacers ended a five-game road losing streak in the overall series with the Grizzlies and defeated Memphis for just the third time in the last 11 matchups.",
+    "Cedric Coward scored a season-high 23 points with nine rebounds and a season-high four steals in 33 minutes.",
+    "Ty Jerome tallied 23 points for his fifth 20-point game of the season.",
+    "Zach Edey recorded his first double-double of the season with 11 points and a season-high 13 rebounds.",
+    "Cameron Boozer finished with 10 points, six rebounds, four assists and one steal in 33 minutes.",
+    "Andrew Nembhard led the Pacers in scoring with 22 points on 8-of-15 shooting from the field in 38 minutes.",
+    "Pascal Siakam tallied 20 points with five rebounds and two steals on 8-of-13 shooting from the field in 30 minutes."
    ],
    "quotes": []
   },
@@ -462,6 +733,32 @@
     "I think Coby and I are two of the main creators of offense on the team,",
     "Being out obviously hurts that, but also, [we’re] leaving a lot of points on the table by turning the ball over. So many empty possessions – we’re probably averaging 20 turnovers per game. That’s just…"
    ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261105",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261105",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261105",
+   "title": "Game Preview: Warriors vs. Miami Heat - 11/5/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-04T18:00:00Z",
+   "tags": [],
+   "summary": "WARRIORS HOST FAMILIAR FACES ON THURSDAY The Warriors host the Miami Heat as two key championship contributors, Klay Thompson and Andrew Wiggins, return to Chase Center on Thursday. Thompson won four championships with the Warriors over his 13-year tenure, and Wiggins was the second-leading scorer for the team’s 2022 championship. The Heat’s biggest offseason splash was acquiring two-time MVP Gian…",
+   "facts": [
+    "WARRIORS HOST FAMILIAR FACES ON THURSDAY The Warriors host the Miami Heat as two key championship contributors, Klay Thompson and Andrew Wiggins, return to Chase Center on Thursday.",
+    "Thompson won four championships with the Warriors over his 13-year tenure, and Wiggins was the second-leading scorer for the team’s 2022 championship.",
+    "The Heat’s biggest offseason splash was acquiring two-time MVP Giannis Antetokounmpo to pair with Bam Adebayo, who became the second-leading single-game scorer in league history with an 83-point game last season.",
+    "GET TICKETS LAST TIME OUT The Warriors secure their fifth straight win with a 116-113 victory over the Phoenix Suns on Monday night at Chase Center.",
+    "Stephen Curry paced the offense with 34 points, marking his third consecutive game with 30+ points.",
+    "Charles Bassey tallied a career-high 19 points, leading the reserves in scoring.",
+    "The Warriors rallied after trailing by as many as 17 points, pulling out a clutch finish in the fourth quarter. »Full Story INJURY & ROSTER NOTES GSW: Gui Santos (Left Knee Tendinitis), Kristaps Porzingis (Not With Team)…",
+    "Team Notes COMPELLING NOTE: Warriors: The Warriors enter Thursday’s matchup on a five-game winning streak, joining the Philadelphia 76ers and San Antonio Spurs as the only teams in the league to have won their last five …"
+   ],
+   "quotes": []
   },
   {
    "source": "NOP 公式（nba.com）",
@@ -1349,258 +1646,6 @@
     "Atlanta has shaped my sound and the energy I bring to the stage, so getting to share that with Hawks fans means a lot,",
     "Atlanta is who I am, and I can’t wait to give the crowd an unforgettable show."
    ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-misc-20261102-jayson-tatum-earns-14th-career-player-of-the-week-award",
-   "url": "https://www.nba.com/celtics/news/sidebar-misc-20261102-jayson-tatum-earns-14th-career-player-of-the-week-award",
-   "canonical_url": "https://celtics.com/news/sidebar-misc-20261102-jayson-tatum-earns-14th-career-player-of-the-week-award",
-   "title": "Jayson Tatum Earns 14th Career Player of the Week Award",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-02T21:01:54Z",
-   "tags": [
-    "Player of the Week",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "Jayson Tatum didn’t waste much time making his mark on the new season. Less than two weeks in, the Celtics superstar already has already earned his first leaguewide recognition after being named Eastern Conference Player of the Week for his dominant four-game run from Oct. 26 through Nov. 1.",
-   "facts": [
-    "Less than two weeks in, the Celtics superstar already has already earned his first leaguewide recognition after being named Eastern Conference Player of the Week for his dominant four-game run from Oct. 26 through Nov. 1…",
-    "Tatum led Boston to four straight wins while averaging 30.3 points, 5.8 rebounds, and 7.0 assists, highlighted by a 40-point overtime thriller against Brooklyn.",
-    "The honor is the 14th of his career, putting him behind only Paul Pierce (17) and Larry Bird (15) for the most Player of the Week awards in Celtics history.",
-    "Excluding the season he missed due to injury, this is the fourth straight season in which he has earned Player of the Week honors within the first two weeks of the schedule.",
-    "Over the four-game stretch, Tatum totaled 121 points and 28 assists while knocking down 46 of his 55 free-throw attempts.",
-    "He scored at least 23 points and handed out at least six assists in every game, helping Boston sweep a week that included two wins over Chicago and victories against Brooklyn and Orlando.",
-    "Here’s how he got it done: Oct. 26 vs.",
-    "In just 28 minutes, he finished with 23 points, seven rebounds, six assists, and one steal as Boston rolled to a 35-point victory over Chicago."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-raptors-11-2-26",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-raptors-11-2-26",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-raptors-11-2-26",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Raptors",
-   "author": "LAClippers",
-   "published_utc": "2026-11-02T20:00:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Brandon Ingram",
-    "Broadcast Information",
-    "Brook Lopez",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Darius Garland",
-    "Game Previews"
-   ],
-   "summary": "Last Matchup: 03/25/2026 | LAC 119 - TOR 94 | K.Leonard: 27 PTS - B.Ingram: 18 PTSThe Clippers are 11-3 (.786) against the Raptors since the start of 2019-20, second best by any team vs. Toronto in that span (Celtics: 23-4, .852). LA has won the last four home games vs. Toronto, tied for its longest home win streak in the series (also four from 2011-14).The Clippers’ bench is averaging 45.0 points…",
-   "facts": [
-    "TORONTO RAPTORS FIVE THINGS TO KNOW Last Matchup: 03/25/2026 | LAC 119 - TOR 94 | K.Leonard: 27 PTS - B.Ingram: 18 PTSThe Clippers are 11-3 (.786) against the Raptors since the start of 2019-20, second best by any team v…",
-    "Toronto in that span (Celtics: 23-4, .852).",
-    "Toronto, tied for its longest home win streak in the series (also four from 2011-14).The Clippers’ bench is averaging 45.0 points per game this season, fifth best in the NBA.",
-    "LA’s bench has scored at least 40 points in all six games this season, the team’s third-longest streak to start a season all-time (18 in 2018-19; seven in 2019-20).Darius Garland is the fourth Clippers player all-time to…",
-    "He joins James Harden (2024-25, 2025-26), Kawhi Leonard (2020-21), and Chris Paul (2013-14).The Clippers are allowing 11.3 second-chance points per game so far this season, tied for second fewest in the NBA (Trail Blazer…",
-    "The Raptors are averaging 20.8 second-chance points per game offensively, second most in the NBA (Knicks: 21.0).BONUS: Brook Lopez has averaged 17.1 points per game in 47 career games against the Raptors, his highest sco…",
-    "Toronto. 26-27 OPPONENT COMPARISON"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "OKC 公式（nba.com）",
-   "team": "OKC",
-   "team_ja": "サンダー",
-   "team_id": 1610612760,
-   "kind": "feature",
-   "key": "https://www.nba.com/thunder/news/westbrook-261102",
-   "url": "https://www.nba.com/thunder/news/westbrook-261102",
-   "canonical_url": "https://okcthunder.com/news/westbrook-261102",
-   "title": "Thunder Set to Retire Russell Westbrook's No. 0",
-   "author": "okcthunder",
-   "published_utc": "2026-11-02T19:17:15Z",
-   "tags": [],
-   "summary": "OKLAHOMA CITY, Nov. 2, 2026 – The Oklahoma City Thunder announced today that the team will retire Russell Westbrook’s No. 0 on Sunday, Feb. 7 when the Thunder hosts the New York Knicks at Paycom Center.",
-   "facts": [
-    "OKLAHOMA CITY, Nov. 2, 2026 – The Oklahoma City Thunder announced today that the team will retire Russell Westbrook’s No. 0 on Sunday, Feb. 7 when the Thunder hosts the New York Knicks at Paycom Center.",
-    "Westbrook announced his retirement this past August after 18 seasons in the NBA, 11 of which were spent with the Thunder franchise.",
-    "His No. 0 will be the second number retired by the Thunder.",
-    "During that span, the Thunder reached the NBA Finals in 2012, made the playoffs nine times (third most in NBA) and made four Western Conference Finals appearances (second most in NBA).",
-    "Westbrook was named the NBA Most Valuable Player for the 2016-17 season after averaging a league-best 31.6 points, 10.7 rebounds (10th in the NBA), 10.4 assists (third in the NBA) and 1.63 steals in 34.6 minutes per game…",
-    "His 42 triple-doubles during the 2016-17 season are an NBA record and his 209 career triple-doubles mark the most in NBA history.",
-    "The UCLA product was named a member of the NBA 75th Anniversary Team in 2021.",
-    "He is a two-time NBA scoring champion (2014-15, 2016-17) and led the league in assists in three separate seasons (2017-18, 2018-19, 2020-21)."
-   ],
-   "quotes": [
-    "We are incredibly proud to retire Russell’s number. Russell made a lasting mark on the city and state during his time with the team, and his involvement in the community has endured long after,",
-    "We are deeply grateful for his genuine care for the people of Oklahoma, and he will always be considered a member of the Oklahoma City community.",
-    "Many players make an impact but only great players leave a legacy. Russell Westbrook’s legacy was built both on the court and in the community,",
-    "His mindset was relentless, his commitment deep. For all those reasons, Oklahomans consider him one of their own and his number will be raised to the rafters, in Oklahoma City forever."
-   ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/mikecheck-boosted-by-nbas-top-bench-grizzlies-pursue-best-start-in-franchise-history",
-   "url": "https://www.nba.com/grizzlies/news/mikecheck-boosted-by-nbas-top-bench-grizzlies-pursue-best-start-in-franchise-history",
-   "canonical_url": "https://grizzlies.com/news/mikecheck-boosted-by-nbas-top-bench-grizzlies-pursue-best-start-in-franchise-history",
-   "title": "MikeCheck: Boosted by NBA’s top bench, Grizzlies pursue best start in franchise history",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-02T19:15:08Z",
-   "tags": [
-    "Grind City Media",
-    "Michael Wallace",
-    "MikeCheck"
-   ],
-   "summary": "MEMPHIS – Considering the way the bench has been rolling so far this season, Cam Spencer could have taken it as a demotion of sorts.",
-   "facts": [
-    "Balance, depth fuel 6-0 record MEMPHIS – Considering the way the bench has been rolling so far this season, Cam Spencer could have taken it as a demotion of sorts.",
-    "On a night when Spencer, the Grizzlies’ usual backup point guard, was summoned to the starting lineup as an injury replacement, the reserves he left behind erupted for a season-high 81 bench points in that Halloween vict…",
-    "A victory Monday at FedExForum would give Memphis its best start in franchise history at 7-0.",
-    "To accomplish that feat, the Grizzlies will likely need another boost from a bench averaging 49 points, shooting 42-percent on 3-pointers and leading the NBA in blocks.",
-    "The Pelicans rank second in bench scoring at 46.8 points per game.",
-    "Spencer started at point guard in Saturday’s 136-105 win and matched his career high of 13 assists without a turnover.",
-    "He participated in Sunday’s limited team practice and was not listed on the injury report ahead of Monday’s game.",
-    "Stewart was acquired from Detroit in June and Post was signed away from Golden State in July restricted free agency to bolster the frontcourt."
-   ],
-   "quotes": [
-    "The bench came in and did their job. They’re calling it the bench mob. It’s a fun group to be a part of. But you’re going to be in and out. Sometimes starting. Sometimes off the bench. As long as the …",
-    "What our guys have done a tremendous job with is no matter who plays or when they play, they bring that focus, that effort, that commitment to each other,",
-    "That’s really what makes any good team go. That allows us to make runs throughout the game at different times, which is really a necessity. The more guys we can have stay in rhythm makes it easier for…",
-    "Juices get flowing and that’s what you want,"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-preview-20261102-boshou",
-   "url": "https://www.nba.com/celtics/news/game-preview-20261102-boshou",
-   "canonical_url": "https://celtics.com/news/game-preview-20261102-boshou",
-   "title": "11/2 Game Preview: Celtics at Rockets",
-   "author": "Boston Celtics",
-   "published_utc": "2026-11-02T18:53:33Z",
-   "tags": [
-    "Game Preview",
-    "Pregame",
-    "Regular Season"
-   ],
-   "summary": "The Houston Rockets entered this season planning to avoid playing veteran guard Fred VanVleet during both games of back-to-backs, which prompted the offseason signing of veteran Marcus Smart.",
-   "facts": [
-    "Smart excelled in his first start with the Rockets on Saturday, scoring 24 points and making seven 3-pointers in a 119-98 win over the Oklahoma City Thunder.",
-    "With VanVleet watching as part of his injury management protocol, Smart provided an early spark with 12 first-quarter points.",
-    "Boston missed 32 of 44 3-pointers, yet remained committed to their defensive approach, an undertaking that yielded their fifth consecutive win.",
-    "Acquired from the Philadelphia 76ers during the offseason, George delivered another well-rounded effort against the Magic by posting 17 points, six rebounds, eight assists, two steals and two blocks.",
-    "The 36-year-old George has long been renowned for his ability to contribute on both ends of the court, a skill set that made him an attractive target for the Celtics."
-   ],
-   "quotes": [
-    "It's the reason he's here and the reason we made him a target of ours,",
-    "If any injury goes down, you can easily plug him into the lineup. He's a very competent starter, a guy that started most of his career but has also come off the bench and is just as effective. ",
-    " Serving in the dual role of trusted reserve and spot starter fits Smart's skillset. The Rockets remain hopeful that VanVleet will maintain optimal health this season, but they know they have a viable…",
-    "We've got a long season, and things happen, things that are out of your control. You can't worry about that. Next man up, and you've got to be ready for the opportunity that presents itself."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261102",
-   "url": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261102",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-washington-wizards-game-preview-injury-report-20261102",
-   "title": "Orlando Magic vs. Washington Wizards: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-11-02T18:26:13Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO – The Orlando Magic are eager to respond after suffering a tough home loss just over 24 hours ago.",
-   "facts": [
-    "ORLANDO – The Orlando Magic are eager to respond after suffering a tough home loss just over 24 hours ago.",
-    "Now, despite the quick turnaround, the Magic (2-4) will attempt to limit those self-inflicted errors and bounce back against the Washington Wizards (3-3) on Monday at 7:30 p.m.",
-    "On the second night of a back-to-back, Anthony Black will be sidelined due to right ankle injury management.",
-    "Black missed the preseason and the first two games of the regular season due to an ankle injury.",
-    "In wins, Orlando is committing 14.5 turnovers, leading to 14.0 points per contest.",
-    "In defeats, its giveaway number balloons to 18.5, and points off of those turnovers jumps to 20.8 per game.",
-    "Teams are shooting just 41.8 percent from the floor against the Wizards, the second lowest mark in the NBA, and a mere 28.7 percent from 3-points range, the lowest in the league.",
-    "Offensively, Washington is led by a pair of perennial All-Stars in Anthony Davis and Trae Young, who are both scoring over 20 points per game."
-   ],
-   "quotes": [
-    "When you have a home-home back-to-back, you try to get as much rest as you can (after the first game), you meet at the (Kia Center on Monday) to go through what the other team is looking to do, how we…",
-    "And then, based on who we have, use the best combinations that we can and then look to go get them.",
-    "It’s definitely a combination of things,",
-    "I think when you see that crowd being able to make the right play to your teammate is really important … There's a number of times where you have to be really strong with the ball, and then play throu…"
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-host-trail-blazers-monday-2",
-   "url": "https://www.nba.com/nuggets/news/nuggets-host-trail-blazers-monday-2",
-   "canonical_url": "https://nuggets.com/news/nuggets-host-trail-blazers-monday-2",
-   "title": "Nuggets host Trail Blazers on Monday",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-02T17:21:27Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets host the Portland Trail Blazers on Monday.",
-   "facts": [
-    "INJURY REPORT Denver: Alpha Diallo — QUESTIONABLE (Personal Reasons) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee Sprain) Portland: Jayson Kent — OUT (G League Two-Way Ass…",
-    "They're coming off a successful road trip that brought their overall record to 3-2.",
-    "Christian Braun scored a career-high 31 points on a career-best seven three-pointers.",
-    "Jamal Murray also had a huge outing, putting up 39 points on 7-of-9 shooting from three-point range and eight rebounds.",
-    "Portland has had a strong start to the year at 4-1.",
-    "TUNE-IN: Monday, November 2, 7:00 p.m.",
-    "MT; Altitude TV 2 on KTVD; Altitude+; Altitude Sports Radio 950 AM"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/rival-report-unbeaten-grizzlies-present-big-test-for-aggressive-pelicans",
-   "url": "https://www.nba.com/pelicans/news/rival-report-unbeaten-grizzlies-present-big-test-for-aggressive-pelicans",
-   "canonical_url": "https://pelicans.com/news/rival-report-unbeaten-grizzlies-present-big-test-for-aggressive-pelicans",
-   "title": "Rival Report: Unbeaten Grizzlies present big test for aggressive Pelicans",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-02T15:55:05Z",
-   "tags": [],
-   "summary": "The formula that resulted in New Orleans turning an 0-4 start into consecutive wins Thursday and Saturday seemed crystal clear: Intensity and aggressiveness at both ends of the floor, resulting in paint dominance on offense, combined with disruptive defense that’s generating an avalanche of turnovers.",
-   "facts": [
-    "The formula that resulted in New Orleans turning an 0-4 start into consecutive wins Thursday and Saturday seemed crystal clear: Intensity and aggressiveness at both ends of the floor, resulting in paint dominance on offe…",
-    "The Pelicans totaled 146 points in the paint over their home victories against Sacramento and Atlanta, adding to a league-best average of 62.7 paint points (Victor Wembanyama-led San Antonio is next at 55.7).",
-    "On defense, the Kings and Hawks committed 44 turnovers, a chunk of those resulting in New Orleans’ 53 fast-break points.",
-    "Those easy buckets also factored into the Pelicans shooting 60 and 57 percent from the field, respectively.",
-    "Memphis (6-0) enters the Southwest Division clash in a groove on both sides of the ball, ranked third in offense and second on defense, pounding Sacramento in its most recent game Saturday, by a 136-105 margin.",
-    "To learn more about Memphis’ perfect start to 2026-27, we checked in with Grizzlies writer Michael Wallace, a senior editor and analyst for Grind City Media.",
-    "They used a 17-2 closing run to beat the Warriors, a 17-6 closing spurt to get past the Kings, a clutch finish from Ty Jerome to outlast the Kings and a 66-45 onslaught in the second half to sprint past the Blazers … all…",
-    "Pelicans.com: What aspect of the Grizzlies’ start was the most expected by you, based on what you projected entering 2026-27?"
-   ],
-   "quotes": []
   }
  ]
 }
