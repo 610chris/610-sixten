@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "853-bronny-james-g-league-assignment.html",
+    cat: "NBA",
+    title: "レイカーズ、ブロニー・ジェームズをGリーグへ降格 —— 開幕7勝2敗の好調チームで出場機会乏しく",
+    excerpt: "ロサンゼルス・レイカーズは現地時間11月5日、ブロニー・ジェームズ(22)をGリーグ提携チームのコーチェラ・バレー・レイカーズへ降格させた。開幕7勝2敗と好調なチームで出場機会はわずか5試合・平均2.4分0.8得点にとどまっていた。ESPNが伝えた。",
+    date: "2026.11.06",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "852-wembanyama-52-points-mvp-quote.html",
     cat: "NBA",
     title: "ウェンバンヤマ「もっとこうあるべきだ。もっと頻繁に」—— チェンバレン以来の52得点24リバウンド8ブロック",
