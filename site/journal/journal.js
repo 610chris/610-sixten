@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "860-nike-kobe-ad-protro-coals.html",
+    cat: "KICKS",
+    title: "Nike Kobe AD Protro「Coals」が12月発売 —— 品番IO8233-002、Kobe 6「Coals」と対になるクリスマス企画",
+    excerpt: "ナイキは、コービー・ブライアント(Kobe Bryant)のパフォーマンスシューズ「Kobe AD Protro」の新色「Coals」(品番IO8233-002)を2026年12月に発売する。ブラック・パープル・ライムグリーンの配色で、同時期に登場する「Kobe 6 Protro」の「Coals」と組み合わせるクリスマス企画の一足。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.07",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "859-doc-rivers-giannis-bucks-exit.html",
     cat: "NBA",
     title: "ヤニス・アデトクンボ退団の内幕、リバーズ前HCが激白 —— 「彼は悪者になりたくなかった」",
