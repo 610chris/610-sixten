@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "858-seattle-nba-crawford-advisor.html",
+    cat: "NBA",
+    title: "ジャマール・クロフォード、シアトルNBA復帰ビッドのアドバイザーに —— サマンサ・ハロウェイ氏陣営、評価額は約60億ドル",
+    excerpt: "シアトル出身の元NBA選手ジャマール・クロフォードが、シアトルへのNBA拡張球団ビッドでサマンサ・ハロウェイ氏率いるグループのアドバイザーを務めていることが分かった。同グループの評価額は約60億ドルとみられる。ESPNのラモーナ・シェルバーン記者が報じた。",
+    date: "2026.11.06",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "857-nike-lebron-24-christmas.html",
     cat: "KICKS",
     title: "Nike LeBron 24「Christmas」(品番IO8205-300)が姿を見せる —— グリーンのジップカバー仕立て、Book 2・Sabrina 4と並ぶホリデーコレクション",
