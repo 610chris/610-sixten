@@ -19,18 +19,18 @@
   var touch = ('ontouchstart' in window) || navigator.maxTouchPoints > 0;
   if (!touch) return;
 
-  // 無音の WAV（8kHz・8bit・0.5秒。完全な無音だと省かれる端末があるので、聞こえない程度に揺らす）
+  // 無音の WAV（8kHz・8bit・0.5秒）
   function silentUri() {
     var n = 4000, s = 'RIFF', i;
     function u32(v) { return String.fromCharCode(v & 255, (v >> 8) & 255, (v >> 16) & 255, (v >> 24) & 255); }
     function u16(v) { return String.fromCharCode(v & 255, (v >> 8) & 255); }
     s += u32(36 + n) + 'WAVEfmt ' + u32(16) + u16(1) + u16(1) + u32(8000) + u32(8000) + u16(1) + u16(8) + 'data' + u32(n);
-    for (i = 0; i < n; i++) s += String.fromCharCode(i % 2 ? 128 : 129);
+    for (i = 0; i < n; i++) s += String.fromCharCode(128); // 128＝8bit の無音。以前の 128/129 交互は 4kHz の小さな「ピー」になっていた（2026-11-06 クリス指示で修正）
     return 'data:audio/wav;base64,' + btoa(s);
   }
-  var keep = null;
+  var keep = null, finished = false;
   function startKeep() {
-    if (keep) return;
+    if (keep || finished) return; // 幕が終わった後は、触っても無音を流し直さない
     try {
       keep = new Audio(silentUri());
       keep.loop = true;
@@ -83,6 +83,7 @@
     else if (!offSince) offSince = Date.now();
     // 幕が終わって少ししたら無音を止める（ロック画面に再生中と出続けないように）
     if (offSince && Date.now() - offSince > 15000 && Date.now() - started > 15000) {
+      finished = true;
       stopKeep();
       clearInterval(timer);
     }

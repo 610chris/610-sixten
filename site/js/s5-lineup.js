@@ -188,7 +188,7 @@
     var lim = ctx.createDynamicsCompressor();
     lim.threshold.value = -7.5; lim.knee.value = 0; lim.ratio.value = 20; lim.attack.value = 0; lim.release.value = 0.15; // 実ブラウザ出力で 0dB 超ゼロを確認した値
     master.connect(lim); lim.connect(ctx.destination);
-    var a = { ctx: ctx, master: master, bufs: {}, srcs: [] };
+    var a = { ctx: ctx, master: master, bufs: {}, srcs: [], t0: 0, late: 0 };
     a.load = function () {
       return Promise.all(SND_FILES.map(function (k) {
         return fetch(SND_BASE + k + '.mp3').then(function (r) { if (!r.ok) throw new Error(k); return r.arrayBuffer(); })
@@ -200,7 +200,10 @@
       var b = a.bufs[k]; if (!b || ctx.state === 'closed') return null;
       var src = ctx.createBufferSource(), g = ctx.createGain();
       src.buffer = b; g.gain.value = vol == null ? 1 : vol;
-      src.connect(g); g.connect(master); src.start();
+      src.connect(g); g.connect(master);
+      // 合図が遅れて届いた時は、遅れた分だけ先から鳴らして実況とのずれを残さない（2026-11-06 クリス指示「実況の音と歓声の音がずれることがある」）
+      if (a.late >= b.duration) return g;
+      src.start(0, a.late > 0.02 ? a.late : 0);
       a.srcs.push(src);
       return g;
     };
@@ -319,7 +322,8 @@
       g.set(ui.ov.querySelectorAll('.s5lu-layer'), { clearProps: 'visibility,opacity,clipPath' });
       g.set(fl, { opacity: 0 });
       tl = g.timeline({ onComplete: function () { close(false); } });
-      var snd = sound && audio ? function (fn) { return function () { if (!done) fn(); }; } : null;
+      // pos＝その音が鳴るべきタイムライン上の秒。音の時計と比べて遅れた分を a.late に渡す
+      var snd = sound && audio ? function (fn, pos) { return function () { if (done) return; audio.late = Math.max(0, audio.ctx.currentTime - audio.t0 - pos); fn(); audio.late = 0; }; } : null;
       var crowd = null, react = null;
 
       // 0. イントロ（音ありは MC の「Ladies and gentlemen… here is your STARTING… FIVE!」に合わせて伸ばす）
@@ -334,8 +338,8 @@
         .fromTo(it.querySelector('.ln'), { scaleX: 0 }, { scaleX: 1, duration: 0.6, ease: 'power3.inOut' }, tF + 0.18)
         .to(it, { autoAlpha: 0, duration: 0.25 }, tOut);
       if (sound) {
-        tl.call(snd(function () { crowd = audio.play('crowd', 0); audio.ramp(crowd, CROWD.intro[0], 0.4); audio.play('call-0'); }), null, 0.01)
-          .call(snd(function () { audio.ramp(crowd, CROWD.intro[1], 0.25); }), null, 0.01 + ci.voice);
+        tl.call(snd(function () { crowd = audio.play('crowd', 0); audio.ramp(crowd, CROWD.intro[0], 0.4); audio.play('call-0'); }, 0.01), null, 0.01)
+          .call(snd(function () { audio.ramp(crowd, CROWD.intro[1], 0.25); }, 0.01 + ci.voice), null, 0.01 + ci.voice);
       }
 
       var at = tOut + 0.25;
@@ -369,10 +373,10 @@
           .fromTo(sp.querySelector('.ja'), { autoAlpha: 0, y: 10 }, { autoAlpha: 1, y: 0, duration: 0.3 }, at + tName + 0.3);
         if (useSnd) {
           var nameHead = CUE.calls[m.n][0], riseT = nameHead + (CUE.voice[m.n] - nameHead) * CROWD.riseAt[m.n - 1];
-          tl.call(snd(function () { audio.ramp(crowd, CROWD.under[m.n - 1], 0.25); audio.ramp(react, 0, 0.25); }), null, at - 0.1)
-            .call(snd(function () { audio.play('call-' + m.n); }), null, at + 0.15)
-            .call(snd(function () { audio.ramp(crowd, CROWD.rise[m.n - 1], CUE.voice[m.n] - riseT); }), null, at + 0.15 + riseT)
-            .call(snd(function () { audio.ramp(crowd, CROWD.up[m.n - 1], 0.25); react = audio.play('roar', CROWD.roar[m.n - 1]); }), null, at + 0.15 + CUE.voice[m.n]);
+          tl.call(snd(function () { audio.ramp(crowd, CROWD.under[m.n - 1], 0.25); audio.ramp(react, 0, 0.25); }, at - 0.1), null, at - 0.1)
+            .call(snd(function () { audio.play('call-' + m.n); }, at + 0.15), null, at + 0.15)
+            .call(snd(function () { audio.ramp(crowd, CROWD.rise[m.n - 1], CUE.voice[m.n] - riseT); }, at + 0.15 + riseT), null, at + 0.15 + riseT)
+            .call(snd(function () { audio.ramp(crowd, CROWD.up[m.n - 1], 0.25); react = audio.play('roar', CROWD.roar[m.n - 1]); }, at + 0.15 + CUE.voice[m.n]), null, at + 0.15 + CUE.voice[m.n]);
         }
 
         // B：ジャンボトロンの背番号カードにワイプで切り替え
@@ -409,11 +413,24 @@
       // 音あり: 5人が並んだ所で締めの一言 → "is" から大歓声を重ね、YOU で最大に → 歓声のピーク（CUE.final.end）でサイトが開く
       if (sound && CUE.final) {
         var fz = ft + 0.1, cf = CUE.final;
-        tl.call(snd(function () { audio.play('call-final'); audio.ramp(crowd, CROWD.final[0], 0.5); audio.ramp(react, 0, 0.5); }), null, fz)
-          .call(snd(function () { audio.play('cheer', 1); audio.ramp(crowd, CROWD.final[1], cf.end - cf.cheer); }), null, fz + cf.cheer)
-          .call(snd(function () { audio.play('roar', 0.7); }), null, fz + cf.you);
+        tl.call(snd(function () { audio.play('call-final'); audio.ramp(crowd, CROWD.final[0], 0.5); audio.ramp(react, 0, 0.5); }, fz), null, fz)
+          .call(snd(function () { audio.play('cheer', 1); audio.ramp(crowd, CROWD.final[1], cf.end - cf.cheer); }, fz + cf.cheer), null, fz + cf.cheer)
+          .call(snd(function () { audio.play('roar', 0.7); }, fz + cf.you), null, fz + cf.you);
       }
-      if (sound && !CUE.calls[5]) tl.call(snd(function () { audio.play('roar', 0.9); audio.ramp(crowd, 0.9, 0.4); }), null, ft - 0.15);
+      if (sound && !CUE.calls[5]) tl.call(snd(function () { audio.play('roar', 0.9); audio.ramp(crowd, 0.9, 0.4); }, ft - 0.15), null, ft - 0.15);
+      // 音ありは、映像を音の時計（AudioContext）で進める。画面が重い・スクロール中・タブ切り替えで映像が遅れても、
+      // 次の合図は音の時刻どおりに出る＝実況と歓声がずれない（2026-11-06 クリス指示）。音が止まっている間は映像も止まる
+      if (sound && audio) {
+        var me = tl;
+        audio.t0 = audio.ctx.currentTime + 0.05;
+        tl.pause(0);
+        var drive = function () {
+          if (done || tl !== me) { g.ticker.remove(drive); return; }
+          var t = audio.ctx.currentTime - audio.t0;
+          if (t > 0) me.time(Math.min(t, me.duration()));
+        };
+        g.ticker.add(drive);
+      }
       window.__s5lu = { tl: tl, close: close, run: run }; // 確認撮影用（tl.pause().seek(秒)）
     }
     run(false);
