@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:58:54+09:00",
+  "updated": "2026-11-06T14:54:08+09:00",
   "items": [
     {
       "id": "134",
@@ -25878,6 +25878,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "デビン・ブッカー、マジック戦で30得点8アシスト\n\n・FG11/22・3P4/8で30得点\n・アシスト8でチーム最多\n・サンズが117-104で勝利\n\n💬 ブッカー、今季も得点王争いに食い込める？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Suns vs. Magic・2026年11月5日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "856",
+      "slug": "856-stephen-curry-29-points-heat",
+      "category": "NBA",
+      "date": "2026-11-06",
+      "headline": "ステフィン・カリー、ヒート戦で29得点 —— ウォリアーズが6連勝",
+      "excerpt": "ゴールデンステート・ウォリアーズのステフィン・カリー(Stephen Curry)は現地時間11月5日、本拠地でのマイアミ・ヒート戦に28分出場し、フィールドゴール19本中9本・3ポイント12本中6本を沈めて29得点を記録した。ウォリアーズは120-100でヒートに勝利し、両チーム通じてこの日の最多得点者となったカリーの活躍で6連勝とした。",
+      "points": [
+        "FG9/19・3P6/12で29得点、ターンオーバー0",
+        "第3Qに38得点を叩き込みリードを広げる",
+        "ウォリアーズはこの勝利で6連勝"
+      ],
+      "source": "ESPN ボックススコア(Warriors vs. Heat・2026年11月5日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/856-stephen-curry-29-points-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Stephen Curry"
+      ],
+      "question": "ウォリアーズ、このまま連勝街道いけると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "STEPHEN CURRY",
+        "opponent": "vs. HEAT",
+        "points": 29,
+        "stats": [
+          "4 AST",
+          "1 REB",
+          "9/19 FG",
+          "6/12 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/856-1.jpg",
+        "https://sixten.jp/assets/ig/856-2.jpg",
+        "https://sixten.jp/assets/ig/856-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-06T14:53:10+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ステフィン・カリー、ヒート戦で29得点 —— ウォリアーズが6連勝\n\n・FG9/19・3P6/12で29得点、ターンオーバー0\n・第3Qに38得点を叩き込みリードを広げる\n・ウォリアーズはこの勝利で6連勝\n\n💬 ウォリアーズ、このまま連勝街道いけると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Warriors vs. Heat・2026年11月5日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
