@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "857-nike-lebron-24-christmas.html",
+    cat: "KICKS",
+    title: "Nike LeBron 24「Christmas」(品番IO8205-300)が姿を見せる —— グリーンのジップカバー仕立て、Book 2・Sabrina 4と並ぶホリデーコレクション",
+    excerpt: "ナイキは、フィラデルフィア・76ersのレブロン・ジェームズ(LeBron James)が手がける最新シグネチャーモデル「Nike LeBron 24」の新色「Christmas」(品番IO8205-300)の画像を公開した。グリーンのシンセティック素材の上にジッパー付きのカバーを重ねた仕立てで、同時期に登場する「Nike Sabrina 4」「Nike Book 2」の赤いクリスマス新色とともに、ナイキ バスケットボールのホリデーコレクションを構成する。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.06",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "856-stephen-curry-29-points-heat.html",
     cat: "NBA",
     title: "ステフィン・カリー、ヒート戦で29得点 —— ウォリアーズが120-100で6連勝",
