@@ -1,8 +1,100 @@
 {
- "updated_utc": "2026-11-06 02:47 UTC",
+ "updated_utc": "2026-11-06 11:26 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-curry-comes-alive-warriors-heat-antetokounmpo-adebayo",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-curry-comes-alive-warriors-heat-antetokounmpo-adebayo",
+   "canonical_url": "https://heat.com/news/coups-takeaways-curry-comes-alive-warriors-heat-antetokounmpo-adebayo",
+   "title": "Coup’s Takeaways: Steph Curry Comes To Life As HEAT Fade In Second Half",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-11-06T06:03:30Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. When you’re on the second night of a back-to-back, after playing into overtime the night before, nobody expects the beautiful game.",
+   "facts": [
+    "Usual starters for both sides in game with plenty of familiar faces, former Warriors Klay Thompson and Andrew Wiggins on one bench, (injured) former HEAT player Jimmy Butler on the other, and after a cool stretch of game…",
+    "Miami had little trouble getting out to an early lead, 14-4, with Giannis Antetokounmpo making jumpers and the Warriors struggling to get into their early offense, but as the bench units rotated in and Bam Adebayo spent …",
+    "Just a 29-26 HEAT advantage through one, not exactly a barnburner but the paint defense plenty strong despite a few missed cutters.",
+    "Nobody could hit anything in the second – can’t be too many nights when Antetokounmpo was making far more jumpers than Steph Curry, with a 4-1 advantage at one points – other than Ryan Conwell and his three outside makes…",
+    "All knotted, 53-53 at the break, both teams in the mid 30’s from three after scorching the opening period, the Warriors with a slight advantage in the paint, 22-16, while outscoring Miami 9-4 in transition.",
+    "Warriors by 11 as Horford dropped in a quick hitter – especially for his typically slower release – in transition to force another HEAT timeout.",
+    "It was a 12-0 run in all before Adebayo got himself to the line to end it, Golden State holding the line from there with a few trips to the line.",
+    "Helped that Pelle Larsson was having his best shooting game of the season, up to three made threes to keep Miami in striking distance, down 15 headed for the fourth on those back-to-back legs."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261105",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261105",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261105",
+   "title": "Warriors Defeat the Heat by 20 Points for Sixth Straight Win",
+   "author": "gswgrizzo",
+   "published_utc": "2026-11-06T05:40:00Z",
+   "tags": [
+    "Game Recap"
+   ],
+   "summary": "The Golden State Warriors defeated the Miami Heat 120-100 for their sixth consecutive win on Thursday night at Chase Center. A back-and-forth battle in the beginning, the two teams were tied nine times throughout the contest before Golden State took control in the third quarter, gaining a double-digit and holding it till the final buzzer. Stephen Curry led the team with 29 points with a game-high …",
+   "facts": [
+    "The Golden State Warriors defeated the Miami Heat 120-100 for their sixth consecutive win on Thursday night at Chase Center.",
+    "Stephen Curry led the team with 29 points with a game-high six triples while Draymond Green orchestrated the offense with a season-high 11 assists.",
+    "COMPETITIVE CONTEST The Heat quickly built a 10 point advantage across the opening five minutes.",
+    "The half ended tied at 53 a piece after Miami got the last bucket of the frame.",
+    "The Warriors broke open the game in the third quarter, launching an 20-4 scoring run to take a 13 point advantage.",
+    "Curry got the attack going, recording 14 points and draining three triples in the frame.",
+    "CURRY MOVES UP ON NBA MOST POINTS LIST With his first three of the game, Stephen Curry passed Oscar Robertson (26,710) for 17th on the NBA all-time scoring list.",
+    "His 29-point performance tonight gives him a career total of 29,737."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/turnovers-again-a-main-cause-of-defeat-for-the-orlando-magic-20261105",
+   "url": "https://www.nba.com/magic/news/turnovers-again-a-main-cause-of-defeat-for-the-orlando-magic-20261105",
+   "canonical_url": "https://orlandomagic.com/news/turnovers-again-a-main-cause-of-defeat-for-the-orlando-magic-20261105",
+   "title": "Turnovers Again a Main Cause of Defeat for the Orlando Magic",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-06T05:24:07Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "PHOENIX - In each of their losses this season, turnovers have been a central storyline for the Orlando Magic.",
+   "facts": [
+    "That includes Thursday’s contest in Phoenix, where the Magic committed 25 turnovers that led to 36 Suns points in a 117-104 loss.",
+    "Dillon Brooks chipped in with 24 points for the Suns, who shot 52 percent overall from the field and 50 percent from 3-point distance.",
+    "Wendell Carter Jr. was a bright spot for Orlando with 27 points and 13 rebounds.",
+    "Franz Wagner filled up the stat sheet with 15 points, eight rebounds and a career-high 15 assists.",
+    "Tristan da Silva finished with 18 points off the bench.",
+    "While the Suns had control nearly the entire way, it was their 22-5 run in the third quarter that did the Magic in.",
+    "Another big issue, aside from the turnovers and just 34 percent 3-point shooting, was the Magic free throw shooting.",
+    "They made only 13 of their 24 attempts from the stripe (54 percent)."
+   ],
+   "quotes": [
+    "They came in a lot of different ways,",
+    "I think we had four illegal screens. Some decisions we were a little bit careless with the basketball. Some plays I thought we tried to make the right play, just didn’t connect the dots. A number of t…"
+   ]
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -1333,325 +1425,6 @@
     "Overall, we’re taking steps in the right direction as a group,",
     "We feel we can be competitive every night, but we also (know) any team can beat us any night. So we’ve got to come in with the right attitude every night,",
     "The wins will start to come. (We’re putting) ourselves in position to be in games, but then third quarter, fourth quarter (they) blow us out some. But I feel like it will show on the scoreboard soon e…"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-heat-drop-start-west-coast-lakers-doncic-antetokounmpo",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-heat-drop-start-west-coast-lakers-doncic-antetokounmpo",
-   "canonical_url": "https://heat.com/news/coups-takeaways-heat-drop-start-west-coast-lakers-doncic-antetokounmpo",
-   "title": "Coup’s Takeaways: HEAT Drop Start Of West Coast Trip As Doncic Takes Control",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-11-03T06:13:10Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. West Coast trips are always an opportunity no matter when they show up on the schedule. Tonight’s open to that trip, as it happens, was a missed one.",
-   "facts": [
-    "But Doncic has seen every coverage under the sun and as the Lakers – playing on a back-to-back – earned an open three out of the 4-on-3 which resulted from the trap, the pace was set, Doncic with the defense on its heels…",
-    "There was Andrew Wiggins, Klay Thompson – mixing in some tough, contested mid-rangers – and Davion Mitchell (4-of-4 from three in the first half) all hitting multiple times as Antetokounmpo did his usual work in the midd…",
-    "The most two-way traction Miami found was in the first shift of the second period, with Doncic on the bench and Ryan Conwell getting some minutes, a transition look from Thompson tying things up at 46.",
-    "Then Doncic returned, and the defense was back on its heels.",
-    "Miami was still game to match threes, but a 10-0 run from the Lakers took back control and eventually a 79-72 lead at the break, Doncic with 24 points on 7-of-11 shooting, with eight assists on top.",
-    "With Doncic on the floor in the first half, the Lakers had an Offensive Rating of 153.8.",
-    "With him off, that number sunk to 118.2, the difference in the game a handful of paint points.",
-    "Doncic then threw in his most contested shot of the night, a left wing three that left him with no airspace, and the lead was very suddenly 16 after a 7-0 run, HEAT timeout."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "roster",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261102",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261102",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261102",
-   "title": "Warriors Earn Clutch Victory Over Suns To Extend Win Streak to Five",
-   "author": "gswgrizzo",
-   "published_utc": "2026-11-03T05:50:00Z",
-   "tags": [
-    "Game Recap"
-   ],
-   "summary": "The Golden State Warriors secure their fifth straight win with a 116-113 victory over the Phoenix Suns on Monday night at Chase Center. Stephen Curry paced the offense with 34 points, marking his third consecutive game with 30+ points. Charles Bassey tallied a career-high 19 points, leading the reserves in scoring. The Warriors rallied after trailing by as many as 17 points, pulling out a clutch f…",
-   "facts": [
-    "The Golden State Warriors secure their fifth straight win with a 116-113 victory over the Phoenix Suns on Monday night at Chase Center.",
-    "Stephen Curry paced the offense with 34 points, marking his third consecutive game with 30+ points.",
-    "Charles Bassey tallied a career-high 19 points, leading the reserves in scoring.",
-    "The Warriors rallied after trailing by as many as 17 points, pulling out a clutch finish in the fourth quarter.",
-    "TRAILING IN THE FIRST HALF The Suns took control early, turning a 14-6 scoring run into a 31-19 lead by the end of the first quarter.",
-    "Phoenix continued to attack, pushing their advantage to 17 points in the second quarter before the Warriors responded with a 12-2 run to cut the deficit down to six by halftime.",
-    "Lendeborg started to heat up making back-to-back buckets and recording two 3-pointers in the quarter.",
-    "Doing what he does best, he added three more 3-pointers down the stretch."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-lose-at-home-to-trail-blazers",
-   "url": "https://www.nba.com/nuggets/news/nuggets-lose-at-home-to-trail-blazers",
-   "canonical_url": "https://nuggets.com/news/nuggets-lose-at-home-to-trail-blazers",
-   "title": "Nuggets lose at home to Trail Blazers",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-03T05:06:34Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets lost to the Portland Trail Blazers, 118-110, on Monday.",
-   "facts": [
-    "The Denver Nuggets lost to the Portland Trail Blazers, 118-110, on Monday.",
-    "Denver is now 3-3 to begin the season and 1-2 at home.",
-    "They got out-rebounded by the Trail Blazers, 53-37.",
-    "Denver also surrendered 36 fast-break points and gave up 41 three-pointers, the latter of which Portland shot 36.6 percent on.",
-    "Jamal Murray was the bright spot for Denver, totaling 35 points on 10-of-19 shooting, 4-of-9 from distance, and 11-of-11 from the free-throw line.",
-    "Murray has had games of 42, 39, and 35 points in his first six outings—an incredibly strong start to the season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-fall-to-san-antonio-spurs-to-begin-road-trip-key-takeaways",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-fall-to-san-antonio-spurs-to-begin-road-trip-key-takeaways",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-fall-to-san-antonio-spurs-to-begin-road-trip-key-takeaways",
-   "title": "Utah Jazz Fall to San Antonio Spurs to Begin Road Trip: Key Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-03T04:59:00Z",
-   "tags": [
-    "Josh Okogie",
-    "Lauri Markkanen",
-    "Mo Bamba",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "In hopes of finding some momentum early in the season, the Utah Jazz came up short as they began a four-game road trip in San Antonio.",
-   "facts": [
-    "A Monday night game against the Spurs served as a rematch to a back-and-forth overtime affair from a few days ago, only this time the host Spurs comfortably controlled the contest and secured a 119-97 victory.",
-    "Lauri Markkanen bounced back with 22 points, but was one of only two Jazzmen to finish in double-figures in the loss.",
-    "Through additional minutes as the team’s primary ball-handler, rookie Darryn Peterson dished out a career-high six assists to go along with 14 points, three steals, and two blocks.",
-    "The Spurs got to the free-throw line (12 attempts in the opening frame) and scored efficiently, whereas the Jazz went 3-of-17 from the field to begin Monday’s game.",
-    "After 12 minutes, the Spurs held a 27-16 lead, mainly a result of 27-percent shooting from the Jazz.",
-    "An 18-8 run got the visitors within one point midway through the second quarter.",
-    "Markkanen finished with 15 points in the half, while Okogie chipped in with seven points and was plus-10 in his minutes.",
-    "San Antonio regained the momentum down the stretch of the frame and pushed the lead back up to 59-49 by the break."
-   ],
-   "quotes": [
-    "In the first and third quarters, we had some rough play on the offensive side,",
-    "Our decision-making needs to improve. But the resilience shown in the first half was terrific. I’m seeing good pockets of play, but also moments where we're out of sorts.",
-    "The final result is obviously not what we want,",
-    "But I’m continuing to see improvement over the course of those 48 minutes. I have a ton of belief in this group and their ability to improve."
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/shorthanded-pacers-fall-in-gritty-battle-with-hawks",
-   "url": "https://www.nba.com/pacers/news/shorthanded-pacers-fall-in-gritty-battle-with-hawks",
-   "canonical_url": "https://pacers.com/news/shorthanded-pacers-fall-in-gritty-battle-with-hawks",
-   "title": "Shorthanded Pacers Fall in Gritty Battle with Hawks",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-03T04:42:22Z",
-   "tags": [],
-   "summary": "Before Monday’s matchup against the Atlanta Hawks, the Indiana Pacers hadn’t played a game with just six available players since 2004. The day after the Malice at the Palace incident in Detroit, the Pacers had six players to take on a talented Orlando Magic team.",
-   "facts": [
-    "Before Monday’s matchup against the Atlanta Hawks, the Indiana Pacers hadn’t played a game with just six available players since 2004.",
-    "Indiana made just eight 3-pointers, but shot a respectable 48 percent from the field, and played to the brink of exhaustion.",
-    "The Hawks edged past the Pacers in crunch time, 108-104, but the impact of Monday’s game went beyond win-loss records.",
-    "Every defensive stop, offensive rebound, and fast break race lifted the crowd – and the injury-riddled Pacers bench – to its feet.",
-    "Obi Toppin and Kelly Oubre Jr. dressed, but had injuries that prevented them from entering the game.",
-    "On Monday, he notched a career-high 19 points, four rebounds, and 10 assists for the Pacers.",
-    "Jackson recorded 20 points, three assists, and seven rebounds while Huff notched 22 points and eight rebounds.",
-    "Regardless of the result, the momentum that came out of 48 minutes of gritty play carried into Indiana’s postgame mood."
-   ],
-   "quotes": [
-    "It was a game almost identical to this,",
-    "I told them that people are still talking about that game, and they will talk about this game for a long time because what those six guys did was very inspirational, for one thing. And for another thi…",
-    "This is the culture that I believe we have built here,",
-    "We have faltered this year at times, but you know the guys that were watching, I think felt the power of what these six guys did tonight. And you know, going forward, we know it'll take nothing less t…"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261102-boshou",
-   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261102-boshou",
-   "canonical_url": "https://celtics.com/news/game-recap-keys-20261102-boshou",
-   "title": "Keys to the Game: Rockets 109, Celtics 93",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-03T04:37:55Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season",
-    "Total Mortgage"
-   ],
-   "summary": "For nine years, Marcus Smart made winning plays for the Celtics. On Monday night, he made them from the other side of the floor.",
-   "facts": [
-    "Houston’s backup point guard delivered a string of timely plays in the fourth quarter to help the Rockets put Boston away, 109-93.",
-    "Still, he was clearly feeling himself after taking a hit from Payton Pritchard and popping back to his feet with one of his trademark acrobatic kip-ups.",
-    "After missing his first five 3-point attempts of the night, Smart buried back-to-back triples to push Houston’s lead to 11.",
-    "What had been an seven-point Rockets advantage quickly ballooned to 18, and Houston soared from there to its seventh win of the season, ending Boston's five-game win streak.",
-    "Houston’s jack-of-all-trades center came within three rebounds of a triple-double, finishing with game highs of 26 points and 10 assists to go along with seven rebounds and two steals.",
-    "Sengun connected on 12 of his 15 field-goal attempts, shooting 80 percent from the floor while posting a game-best plus-21 rating in 37 minutes.",
-    "The Celtics’ starting center scored 16 points on 6-of-7 shooting, including 1-of-1 from beyond the arc, while grabbing six rebounds, four of which came on the offensive end.",
-    "Box Score Nuggets Alperen Sengun (26 points) was the game’s only 20-point scorer.No other Rocket scored more than 14 points.Jayson Tatum led the Celtics with 19 points, but shot 5-of-16 from the field.Tatum was perfect a…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/pistons-shot-making-too-much-for-hornets-in-home-loss",
-   "url": "https://www.nba.com/hornets/news/pistons-shot-making-too-much-for-hornets-in-home-loss",
-   "canonical_url": "https://hornets.com/news/pistons-shot-making-too-much-for-hornets-in-home-loss",
-   "title": "Pistons’ Shot-Making Too Much For Hornets In Home Loss",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-03T04:12:11Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "Meeting for the second time in six days, the Hornets couldn’t get a handle on one of the NBA’s best in the Detroit Pistons, who dealt them a 124-91 home loss on Monday night at Spectrum Center.",
-   "facts": [
-    "Meeting for the second time in six days, the Hornets couldn’t get a handle on one of the NBA’s best in the Detroit Pistons, who dealt them a 124-91 home loss on Monday night at Spectrum Center.",
-    "Top Performers: Brandon Miller posted a team-high 17 points on 7-of-18 shooting, three 3-pointers and four assists in Charlotte’s seventh straight head-to-head loss to Detroit.",
-    "Sion James scored in double figures for the first time this season, finishing with 11 points on 4-of-6 shooting, three 3-pointers, four rebounds and three assists.",
-    "Making his season debut after suffering a calf strain back in training camp, Coby White tallied seven points on 3-of-9 shooting and three assists in 16 minutes of action.",
-    "Reigning First-Team All-NBA point guard Cade Cunningham poured in a season-high 33 points – 17 in the third quarter – on 13-of-20 shooting, four 3-pointers, five rebounds, seven assists and five steals in only 27 minutes…",
-    "Duncan Robinson added 24 points on 8-of-11 shooting, which included a 6-of-9 clip from 3-point range.",
-    "Turning Point: Following a relatively modest offensive start on both sides, the Pistons came out in the second quarter and knocked down 15-of-20 shot attempts – including 5-of-6 3-pointers – to win the frame by eight and…",
-    "Charlotte rallied a bit in the third quarter to get back within four, but the visitors immediately countered with a 19-0 burst over the final 4:58 to essentially put the game away by the start of the fourth."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/monk-acuff-combine-for-49-points-as-previously-winless-kings-score-115-100-win-over-mavs",
-   "url": "https://www.nba.com/mavs/news/monk-acuff-combine-for-49-points-as-previously-winless-kings-score-115-100-win-over-mavs",
-   "canonical_url": "https://mavs.com/mavs/news/monk-acuff-combine-for-49-points-as-previously-winless-kings-score-115-100-win-over-mavs",
-   "title": "Mavericks fall to previously winless Kings, 115-100",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-03T04:07:41Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "Daniel Gafford",
-    "nba",
-    "Walter Clayton Jr."
-   ],
-   "summary": "Over the course of a long 82-game season, what happened to the Dallas Mavericks on Monday night will likely also happen to the other 29 NBA teams on multiple occasions this season. For the Mavs, it just leaves a sour taste in their mouth when it happens.",
-   "facts": [
-    "Over the course of a long 82-game season, what happened to the Dallas Mavericks on Monday night will likely also happen to the other 29 NBA teams on multiple occasions this season.",
-    "Favored to win a game this season for the first time – against a Sacramento team that was the league’s only winless squad – the Mavs surprisingly played down to the competition and wound up losing to the pesky Kings, 115…",
-    "In having their three-game winning streak snapped, the Mavs fell to 4-3 as they head to San Antonio on Wednesday, while the Kings improved to 1-6.",
-    "And for that, they paid dearly against a Sacramento squad that has lost five of its games by 11 or more points.",
-    "We lost the rebounding battle (42-35).",
-    "They beat us to a lot of 50-50 (balls).",
-    "And when Cooper Flagg struggled with just 17 points on 3-of-19 shots, not many players stepped up to become a factor.",
-    "They started slow – down 19-18 after the first quarter and 54-53 at the half – and finished even slower."
-   ],
-   "quotes": [
-    "I want to credit Sacramento,",
-    "We didn’t put much pressure on the paint and on the rim, and we were on our heels. Win or lose, we’re going to look back at our process and see: Did we prepare the right way, did we have the right gam…",
-    "To be honest, I think they were more hungry than us tonight,",
-    "We didn’t play up to our abilities. We lost the rebounding battle (42-35). That was a big one. They beat us to a lot of 50-50 (balls). We just got to come out with more energy."
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-hawks-261102",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-hawks-261102",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-hawks-261102",
-   "title": "Game Rewind: Pacers 104, Hawks 108",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-11-03T03:57:00Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Monday, Nov. 2 at 7:30 PM ET at Gainbridge Fieldhouse Game Recap The Indiana Pacers found themselves in uniquely dire circumstances on Monday night at Gainbridge Fieldhouse, with only six available players on the second …",
-    "Indiana (2-6) pushed Atlanta all the way to the final buzzer, but the Hawks (4-4) ultimately prevailed, 108-104.",
-    "They pulled within three briefly in the fourth quarter before Atlanta put together a run to push the margin back to 11.",
-    "But the Blue & Gold clawed their way back with nine unanswered points, cutting the deficit to 104-102 following two Jay Huff free throws with 2:24 remaining.",
-    "On the other end, Hawks veteran guard CJ McCollum got to the rim and drew a foul on Kobe Brown, then made both free throws to make it a two-possession game once again with 2:10 to play.",
-    "Quenton Jackson converted a layup with 1:23 left to cut Atlanta's lead to 106-104 and then blocked Nickeil Alexander-Walker's 3-point attempt on the other end to give the ball back to Indiana.",
-    "On the other end, Onyeka Okongwu converted a right-handed runner with 8.4 seconds to play that proved to be the difference.",
-    "The Pacers were already missing six players due to injury in Sunday's loss to Brooklyn, then elected to hold out starters Andrew Nembhard, Aaron Nesmith, and Pascal Siakam for injury management reasons on the second nigh…"
-   ],
-   "quotes": [
-    "They will talk about this game for a long time,",
-    "Because what those six guys did was very inspirational, for one thing. For another thing, it illustrates the power of hard play and the power of hard, unselfish play and putting a real competitive spi…",
-    "Braden Smith was tremendous,",
-    "Showed the kind of competitor that he is and has demonstrated over the past several years at Purdue. Huff had a big impact on the game. Quenton Jackson was all over the place. Slawson was flying aroun…"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/undermanned-orlando-magic-fall-short-against-washington-wizards-20261102",
-   "url": "https://www.nba.com/magic/news/undermanned-orlando-magic-fall-short-against-washington-wizards-20261102",
-   "canonical_url": "https://orlandomagic.com/news/undermanned-orlando-magic-fall-short-against-washington-wizards-20261102",
-   "title": "Undermanned Orlando Magic Fall Short Against Washington Wizards",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-03T03:34:53Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO - In back-to-back games, the Orlando Magic were unable to come up with the defensive stops they needed to down the stretch.",
-   "facts": [
-    "Monday against the Wizards, it was the combination of Anthony Davis, Kyshawn George and 2026 No. 1 overall draft pick AJ Dybantsa who made big shots late to propel Washington to a 103-94 win over Orlando at Kia Center.",
-    "After the Magic pulled within three with just under seven minutes left, the Wizards responded with a 14-6 run to end Orlando’s comeback attempt.",
-    "Paolo Banchero (ankle), Jalen Suggs (knee), Anthony Black (ankle injury management) and Noah Penda (hamstring) were all out.",
-    "He finished with 24 points and six assists.",
-    "Desmond Bane scored 20 points and Jamal Cain and Tristan da Silva each had 10 points.",
-    "Davis led the Wizards with 27 points and nine rebounds, George scored 22 and Dybantsa had 21.",
-    "It made just 11 of their 39 attempts from 3-point range (28.2 percent).",
-    "They also only took 10 free throws."
-   ],
-   "quotes": [
-    "I thought the guys did a really good job tonight competing,",
-    "I thought they did a great job trying to stick to it throughout the course of the game — cut the lead in the fourth quarter down to three or four a couple times. Just couldn’t quite get over the hump.…",
-    "I think our offense starts with aggressiveness, touching the paint,",
-    "We believe once we touch the paint, whatever comes from that is usually going to be a good possession for us. I think as long as we are keeping that process, being aggressive getting two feet in the p…"
    ]
   }
  ]
