@@ -1,8 +1,272 @@
 {
- "updated_utc": "2026-11-06 11:26 UTC",
+ "updated_utc": "2026-11-06 18:22 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "injury",
+   "key": "https://www.nba.com/jazz/news/jusuf-nurkic-injury-update-2",
+   "url": "https://www.nba.com/jazz/news/jusuf-nurkic-injury-update-2",
+   "canonical_url": "https://utahjazz.com/news/jusuf-nurkic-injury-update-2",
+   "title": "Jusuf Nurkić Injury Update",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-06T18:15:12Z",
+   "tags": [
+    "Jusuf Nurkić",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (November 6, 2026) – The following is an injury update on Utah Jazz center Jusuf Nurkić.",
+   "facts": [
+    "SALT LAKE CITY (November 6, 2026) – The following is an injury update on Utah Jazz center Jusuf Nurkić.",
+    "Nurkić was re-evaluated by the Utah Jazz medical staff for a second toe injury of his right foot he sustained in the preseason game against Denver on Oct. 4.",
+    "He is making progress and beginning to participate in on-court activities and will be re-evaluated in two weeks."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/nba-cup-group-stage-timberwolves-at-pelicans-11-6-2026",
+   "url": "https://www.nba.com/pelicans/news/nba-cup-group-stage-timberwolves-at-pelicans-11-6-2026",
+   "canonical_url": "https://pelicans.com/news/nba-cup-group-stage-timberwolves-at-pelicans-11-6-2026",
+   "title": "NBA Cup group stage: Timberwolves at Pelicans (11/6/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-06T17:55:47Z",
+   "tags": [],
+   "summary": "MINNESOTA TIMBERWOLVES (6-3, 1-0 WEST GROUP B) AT NEW ORLEANS PELICANS (4-4, 0-0 WEST GROUP B)",
+   "facts": [
+    "MINNESOTA TIMBERWOLVES (6-3, 1-0 WEST GROUP B) AT NEW ORLEANS PELICANS (4-4, 0-0 WEST GROUP B) NBA Cup Ramifications New Orleans’ opener in the league’s annual early-season event brings an opportunity beyond just partici…",
+    "After Friday’s morning shootaround, forward Trey Murphy indicated that he will return to the New Orleans lineup after he was sidelined by injury Wednesday vs.",
+    "The Pelicans have rebounded in resounding fashion from an 0-4 start to the campaign, posting victories over Sacramento, Atlanta, previously unbeaten Memphis and Utah over the past week-plus.",
+    "Scoring balance and depth have been major factors in the turnaround, with seven different New Orleans players averaging double-digit points during the four-game run, led by Zion Williamson (21.3), Dejounte Murray (20 poi…",
+    "Utah), Saddiq Bey (18.8) and Jeremiah Fears (18.3).",
+    "Bey spearheads a Pelicans bench that’s No. 1 in the NBA in scoring average (47.3); Minnesota ranks 12th in that category (38.7).",
+    "Oklahoma City (6-2 overall) and Minnesota (6-3) are top-eight West teams in the standings so far, despite the Thunder experiencing horrific luck health-wise, watching the likes of Jalen Williams (leg), Cason Wallace (sho…",
+    "The Timberwolves are not expected to have Edwards for two months, per reports."
+   ],
+   "quotes": [
+    "In the NBA season, not everyone’s going to be healthy every single game,",
+    "Guys have to be prepared and ready."
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "quotes",
+   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-how-can-the-bulls-get-back-on-track",
+   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-how-can-the-bulls-get-back-on-track",
+   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-how-can-the-bulls-get-back-on-track",
+   "title": "Ask Sam Mailbag: How can the Bulls get back on track?",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-06T17:22:15Z",
+   "tags": [
+    "Ask Sam mailbag",
+    "Sam Smith"
+   ],
+   "summary": "Kevin Burns: The rebuilding process has been brutal to watch thus far, evoking memories of Mark Bryant, Andrew Lang and Kornel David. Matas Buzelis and, particularly, Josh Giddey look about as comfortable as Mick Jagger at Altamont, and Norm Powell looks furious to be here. It seems like so much is falling on the shoulders of young Caleb Wilson. He’s not wilting under it as of yet but in time he m…",
+   "facts": [
+    "But it may be time for some musical chairs, especially now that they’ve got a break until Sunday afternoon’s United Center rematch with the 76ers.",
+    "Wilson is projected as a franchise pillar, and Jalen Smith is the tallest guy who weighs more than 150 pounds.",
+    "Now this also depends on whether Nic Claxton is finally recovered from his hamstring injury and Smith from his fall against the Knicks.",
+    "And do the players take it as a demotion as opposed to perhaps putting them in better position to return to their previous forms and statistics?",
+    "Wayne Warner: Three skinny 3s in Buzelis, Wilson & Miller and one skinny 7 footer in Essengue. 1) I'll start with Essengue -- does he have the upside to get as valued (maybe more defensively less offense) as Chet Holmgre…",
+    "Celtics start Tatum & Walsh at forwards - neither are “power” but Robinson is defensive presence while Bulls start Smith a 4/5 at center. 4) Will Claxton be the Bulls version of Mitchell Robinson?",
+    "Sam: It should make a difference when Claxton returns, which maybe is Sunday.",
+    "Joseph Garofolo: A writer for a Bulls fan site claims Powell should be traded ASAP."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/we-need-to-trust-each-other-how-the-utah-jazz-are-handling-adversity-early-in-the-season",
+   "url": "https://www.nba.com/jazz/news/we-need-to-trust-each-other-how-the-utah-jazz-are-handling-adversity-early-in-the-season",
+   "canonical_url": "https://utahjazz.com/news/we-need-to-trust-each-other-how-the-utah-jazz-are-handling-adversity-early-in-the-season",
+   "title": "“We Need to Trust Each Other” | How the Utah Jazz Are Handling Adversity Early in the Season",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-06T17:09:43Z",
+   "tags": [
+    "Josh Okogie",
+    "Keyonte George",
+    "Mo Bamba",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "No 82-game NBA regular season is completely smooth sailing.",
+   "facts": [
+    "No 82-game NBA regular season is completely smooth sailing.",
+    "Adversity can come in many forms for a team during the grind of a season, from injuries and shooting slumps to simple cases of bad luck.",
+    "Not only did Utah enter the season without its starting center in Jusuf Nurkić, the frontcourt took additional hits with the long-term injury to Jaren Jackson Jr. and the adjustment Lauri Markkanen has had to make while …",
+    "If the injuries weren’t enough, the Jazz have suffered through a shooting slump to begin the new year, having shot just 31.5 percent from beyond the arc on the season, which has included a 34-of-121 (28 percent) stretch …",
+    "To further highlight the nature of this slump, Utah has connected on just 28.4 percent of what the NBA defines as wide open 3-point attempts this season, where the nearest defender is six or more feet away.",
+    "Ace Bailey has emerged as a consistent two-way threat as a result of his defensive activity and prowess on the glass, Keyonte George has continued to lead the offense with a blend of scoring and playmaking, and the team …",
+    "The key moving forward is putting all the pieces together for a complete 48-minute puzzle, one that hopefully comes with more success from beyond the arc.",
+    "However, with a flip in shooting luck and the growth that can stem from the early close losses, the Jazz believe they still have compelling ingredients to make the recipe work as the 2026-27 campaign continues."
+   ],
+   "quotes": [
+    "It’s a long year, every team faces adversity and shooting slumps,",
+    "Ours just happens to be here at the beginning, so it makes it feel a lot worse than maybe it would in two months. So we have to endure these moments.",
+    "I think we’ve generated some good looks,",
+    "The only way to get out of it is to keep shooting good ones. I think the worst thing we can do is start pressing. We need to trust each other. We need to trust our teammates. Continue moving the ball …"
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-nuggets-261107",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-nuggets-261107",
+   "canonical_url": "https://pacers.com/news/preview-pacers-nuggets-261107",
+   "title": "Game Preview: Pacers vs Nuggets",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-06T16:10:00Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Saturday, Nov. 7 at 5:00 PM ET at Arena CDMX",
+   "facts": [
+    "Saturday, Nov. 7 at 5:00 PM ET at Arena CDMX Game Preview The Pacers (3-6) continue their road trip on Saturday as they travel to Mexico City for a meeting with the Denver Nuggets (4-3) following a big win in Memphis on …",
+    "The Pacers seek to capitalize on their improved health as well as the momentum captured in Memphis as they snapped a five-game skid to return to the win column ahead of their clash with Denver.",
+    "Indiana has been plagued with injuries to open the season, but had enough juice to topple the Grizzlies on Wednesday, 107-103.",
+    "Andrew Nembhard’s 22 points led the Pacers, and Pascal Siakam contributed 20 points.",
+    "Denver’s Nikola Jokic has finished first or second in MVP voting in each of the last six seasons, but a slow start to the 2026-27 campaign has the Nuggets in a mediocre position.",
+    "Jokic is shooting a career-low 22 percent from 3-point range, and his 50 percent shooting from the field is his lowest mark in nine seasons.",
+    "Despite that, Jokic is averaging 23 points, nearly 10 rebounds, and just over nine assists per game.",
+    "His 25 points per game lead the Nuggets, and he’s averaging a career-high 5.4 rebounds."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "roster",
+   "key": "https://www.nba.com/cavaliers/news/releases-norchad-omier-signing-261106",
+   "url": "https://www.nba.com/cavaliers/news/releases-norchad-omier-signing-261106",
+   "canonical_url": "https://cavs.com/news/releases-norchad-omier-signing-261106",
+   "title": "CAVALIERS SIGN NORCHAD OMIER TO TWO-WAY CONTRACT",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-06T15:58:32Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "CLEVELAND – The Cleveland Cavaliers have signed forward Norchad Omier (nor-CHAD oh-MEER) to a two-way contract, Cavaliers President of Basketball Operations Koby Altman announced today from Cleveland Clinic Courts.",
+   "facts": [
+    "CLEVELAND – The Cleveland Cavaliers have signed forward Norchad Omier (nor-CHAD oh-MEER) to a two-way contract, Cavaliers President of Basketball Operations Koby Altman announced today from Cleveland Clinic Courts.",
+    "Omier (6-7, 248) previously signed a Two-Way contract with the L.A.",
+    "Clippers on February 21st, 2025 and has appeared in six career regular season NBA games with Los Angeles.",
+    "He also played in 38 total G League games (36 starts) last season for the Cleveland Charge and the San Diego Clippers, averaging 18.3 points, 11.5 rebounds, 2.6 assists and 1.03 steals in 29.3 minutes.",
+    "In his 31 games with the Charge (all starts) he averaged 18.5 points, 11.0 rebounds and 2.6 assists in 28.9 minutes.",
+    "Omier was also one of five players named to the 2025-26 NBA G League All-Rookie Team following last season.",
+    "A native of Nicaragua, Omier went undrafted after playing collegiately at Baylor (2024-25), Miami (FL) (2022-24) and Arkansas State (2020-22).",
+    "In 155 collegiate games (152 starts), he averaged 15.3 points, 10.9 rebounds, 1.32 steals and 1.21 blocks in 29.5 minutes."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "roster",
+   "key": "https://www.nba.com/pelicans/news/from-ballboy-to-laketown-squadron-g-league-head-coach-brandon-demas-journey-comes-full-circle",
+   "url": "https://www.nba.com/pelicans/news/from-ballboy-to-laketown-squadron-g-league-head-coach-brandon-demas-journey-comes-full-circle",
+   "canonical_url": "https://pelicans.com/news/from-ballboy-to-laketown-squadron-g-league-head-coach-brandon-demas-journey-comes-full-circle",
+   "title": "From ballboy to G League head coach, Brandon Demas’ journey comes full circle",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-06T15:00:00Z",
+   "tags": [
+    "squadron"
+   ],
+   "summary": "The flight from New Orleans to Birmingham requires a connection — and the trip isn’t always available when needed. So when Pelicans forward Trey Murphy III was assigned to the G League in the middle of his 2021-22 rookie season, he and player development coach Brandon Demas made the five-hour drive to Alabama, instead. With plenty of time for conversation, Demas focused on keeping Murphy positive …",
+   "facts": [
+    "So when Pelicans forward Trey Murphy III was assigned to the G League in the middle of his 2021-22 rookie season, he and player development coach Brandon Demas made the five-hour drive to Alabama, instead.",
+    "With plenty of time for conversation, Demas focused on keeping Murphy positive — not getting frustrated by what many considered a \"demotion\" for the league’s No. 17 overall draftee in '21.",
+    "Demas will make his debut Nov. 8 when the Laketown Squadron opens their season on the road against Austin.",
+    "Augustine High alum Jaron Pierre Jr., the Pelicans’ 2026 second-round draftee."
+   ],
+   "quotes": [
+    " for the league’s No. 17 overall draftee in '21. ",
+    "He kept me encouraged. I was a first-round pick, but I didn’t have a good (NBA) game until maybe March (of that season). He was saying, 'Keep your head up. Keep working. It’s going to come.''",
+    "He’s a guy people lean on for his energy, his spirit.",
+    "He’s been here for a really long time,"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-suns-20261106",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-suns-20261106",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-suns-20261106",
+   "title": "Magic Four-Point Play: Follow-Up at Suns",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-06T14:46:37Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Turnovers Continue to be Central Issue Early in Season",
+   "facts": [
+    "The Magic, after turning it over 25 times for 36 Suns points on Thursday, now rank 28th in turnovers and 27th in opponent points off those mistakes.",
+    "The absences of Paolo Banchero and Jalen Suggs, two of Orlando’s main ball handlers and playmakers, is obviously making it harder for the Magic to protect the ball. 3-Point Shooting, on Offense and Defense, Always in Foc…",
+    "The Magic currently are middle of the pack when it comes to their own 3-point shooting.",
+    "And while they’ve done a decent job getting opponents off the 3-point line, those teams have collectively shot 36.7 percent from downtown, which ranks 24th.",
+    "Off to Great Start A bright spot for Orlando has been the play of Carter, who racked up season highs of 27 points and 13 rebounds in Thursday’s contest in Phoenix and is averaging 14.3 points and 9.4 rebounds.",
+    "He’s shooting 65.6 percent from the field overall and 40 percent from 3-point range.",
+    "Wagner, who dished out a career-high 15 assists against the Suns, has found Carter often for easy baskets."
+   ],
+   "quotes": [
+    "We have to do a better job — and I pride myself on a lot of it — of communicating early. It’s a two-sided thing. Not just talking, but also receiving information and making sure you are in the right s…"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-at-cavaliers-nba-cup-preview-injury-report-and-how-to-watch-11-6-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-at-cavaliers-nba-cup-preview-injury-report-and-how-to-watch-11-6-2026",
+   "canonical_url": "https://sixers.com/news/sixers-at-cavaliers-nba-cup-preview-injury-report-and-how-to-watch-11-6-2026",
+   "title": "Sixers at Cavaliers: NBA Cup Preview, Injury Report and How to Watch 11/6/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-06T13:03:54Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (8-1), owners of a five-game winning streak and the NBA’s best record, will visit the Cleveland Cavaliers (4-4) on Friday in an Emirates NBA Cup group-play game. Tipoff is set for 7:30 p.m. EST at Rocket Arena in Cleveland.",
+   "facts": [
+    "The Philadelphia 76ers (8-1), owners of a five-game winning streak and the NBA’s best record, will visit the Cleveland Cavaliers (4-4) on Friday in an Emirates NBA Cup group-play game.",
+    "Tipoff is set for 7:30 p.m.",
+    "The Sixers defeated the Detroit Pistons, 112-106, Wednesday on the road.",
+    "Jaylen Brown scored a game-high 30 points on 11-of-19 shooting from the field, 3-for-5 from 3-point range and 5-for-7 from the free-throw line.",
+    "Joel Embiid notched a double-double with 26 points and a season-high 15 rebounds.",
+    "The Cavaliers lost to the Oklahoma City Thunder, 124-116, also on Wednesday on the road.",
+    "Donovan Mitchell scored 27 points, but Oklahoma City’s Shai Gilgeous-Alexander answered with a game-high 42 after scoring 43 against Cleveland two nights earlier.",
+    "Here are the RAV4 Things to Know ahead of Friday’s game: First Meeting On Oct. 22, the Sixers overcame a 29-point deficit against Cleveland, the largest comeback in franchise history during the play-by-play era and LeBro…"
+   ],
+   "quotes": [
+    "We have a good team. Guys vibe with one another. Guys like each other. Guys enjoy being around each other. It makes the game a lot easier when you enjoy being around people."
+   ]
+  },
   {
    "source": "MIA 公式（nba.com）",
    "team": "MIA",
@@ -86,13 +350,15 @@
     "Wendell Carter Jr. was a bright spot for Orlando with 27 points and 13 rebounds.",
     "Franz Wagner filled up the stat sheet with 15 points, eight rebounds and a career-high 15 assists.",
     "Tristan da Silva finished with 18 points off the bench.",
-    "While the Suns had control nearly the entire way, it was their 22-5 run in the third quarter that did the Magic in.",
     "Another big issue, aside from the turnovers and just 34 percent 3-point shooting, was the Magic free throw shooting.",
-    "They made only 13 of their 24 attempts from the stripe (54 percent)."
+    "They made only 13 of their 24 attempts from the stripe (54 percent).",
+    "The Magic's four-game West Coast trip continues Saturday when they take on the Golden State Warriors at 8:30 p.m."
    ],
    "quotes": [
     "They came in a lot of different ways,",
-    "I think we had four illegal screens. Some decisions we were a little bit careless with the basketball. Some plays I thought we tried to make the right play, just didn’t connect the dots. A number of t…"
+    "I think we had four illegal screens. Some decisions we were a little bit careless with the basketball. Some plays I thought we tried to make the right play, just didn’t connect the dots. A number of t…",
+    "We have to do a better job — and I pride myself on a lot of it — of communicating early,",
+    "It’s a two-sided thing. Not just talking, but also receiving information and making sure you are in the right spots. But this is a team that wants to be right, wants to be good. We know what we are ca…"
    ]
   },
   {
@@ -278,9 +544,32 @@
     "The Pelicans host the Minnesota Timberwolves on Friday to kick off their NBA Cup stretch at the Smoothie King Center at 7:00 pm CT.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
     "Get the latest Pelicans-Timberwolves injury report, team news, tune in details, and gameday information: PELICANS VS TIMBERWOLVES INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Mali…",
-    "DOUBTFUL (G League two-way) Trey Murphy III PROBABLE (bilateral patella tendinopathy) Julian Reese PROBABLE (G League two-way) TIMBERWOLVES INJURY REPORT Donte DiVincenzo OUT (right achilles) Anthony Edwards OUT (right k…",
-    "QUESTIONABLE (left hip contusion) PELICANS VS TIMBERWOLVES: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS TIMBERWOLVES STARTING LINEUPS MINNESOTA TIMBERWOLVES (6-3) Previous Game Lineup: Nove…",
+    "OUT (G League two-way) Trey Murphy III AVAILABLE (bilateral patella tendinopathy) Julian Reese AVAILABLE (G League two-way) TIMBERWOLVES INJURY REPORT Donte DiVincenzo OUT (right achilles) Anthony Edwards OUT (right knee…",
+    "OUT (left hip contusion) PELICANS VS TIMBERWOLVES: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS TIMBERWOLVES STARTING LINEUPS MINNESOTA TIMBERWOLVES (6-3) Previous Game Lineup: November 4 wi…",
     "Timberwolves Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 6 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Co…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-phicle-261106",
+   "url": "https://www.nba.com/cavaliers/news/preview-phicle-261106",
+   "canonical_url": "https://cavs.com/news/preview-phicle-261106",
+   "title": "Cavs vs 76ers | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-05T19:39:13Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "In the first NBA Cup game of the season, the Cavs start East Group B action tonight against the Philadelphia 76ers. The other three teams in the group are Miami, Indiana, and New York.",
+   "facts": [
+    "THE FIRST CUP NIGHT In the first NBA Cup game of the season, the Cavs start East Group B action tonight against the Philadelphia 76ers.",
+    "Donovan Mitchell led the way with 27 points, including 14 in the fourth, making four threes in the period.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Peyton Watson - Hamstring - QUESTIONABLE -Jarrett Allen - Knee - QUESTIONABLE -Tyrese Proctor - Ankle - QUESTIONABLE -Jaylon Tyson - Ankle - OUT -Nae'Qwan Toml…"
    ],
    "quotes": []
   },
@@ -1238,193 +1527,6 @@
     "Llevar nuestro 'Gold Out Global' al plano internacional es una oportunidad para acercar nuestra marca y a nuestros socios a nuevos mercados, de una manera auténtica, creativa y atractiva para los afic…",
     "Estamos conectando el baloncesto con otras propuestas deportivas y de entretenimiento, al tiempo que fortalecemos nuestros lazos con Indiana y establecemos nuevas conexiones en Ciudad de México; nuest…",
     " que guía a los aficionados hacia premios diarios, tales como camisetas de los Pacers autografiadas, entradas para partidos y artículos exclusivos. Los seguidores pueden registrarse en la iniciativa "
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/coby-white-takes-advantage-of-time-off-by-being-intentional",
-   "url": "https://www.nba.com/hornets/news/coby-white-takes-advantage-of-time-off-by-being-intentional",
-   "canonical_url": "https://hornets.com/news/coby-white-takes-advantage-of-time-off-by-being-intentional",
-   "title": "Coby White Takes Advantage Of Time Off By Being ‘Intentional’",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-03T16:35:29Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "After suffering a left calf strain at training camp last month, Charlotte Hornets point guard Coby White felt like he needed to adjust his approach to the rehab process compared to what he had done in the past. Of course, he was allowed to be bummed that he couldn’t play for a few weeks, but the time off was going to be used constructively instead of feeling sorry for himself.",
-   "facts": [
-    "After suffering a left calf strain at training camp last month, Charlotte Hornets point guard Coby White felt like he needed to adjust his approach to the rehab process compared to what he had done in the past.",
-    "White’s shot-making and downhill driving should help kickstart a Hornets’ offense which thus far, has struggled mightily with turnovers and putting up points, although has been propped up a little by the league’s 14th ra…",
-    "The impending returns of Kon Knueppel, who became the first rookie to lead the NBA in 3-pointers last season, and Williams, a multi-positional, playmaking big, will also be crucial pieces to have back in the team’s rotat…"
-   ],
-   "quotes": [
-    "The thing I wanted to do differently this year was being intentional while I’m out with what I’m doing,",
-    "Bettering myself, whether it’s through basketball or anything else. So, for me, before this season even started, I really picked up some great film habits, watching film, breaking down the game, and […",
-    "A couple of things that I’ve noticed from [White]; one, his body looks great,",
-    "I think just being vocal, being very intentional at practice, to the details, being vocal in the film room,"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-grizzlies-261104",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-grizzlies-261104",
-   "canonical_url": "https://pacers.com/news/preview-pacers-grizzlies-261104",
-   "title": "Game Preview: Pacers at Grizzlies",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-11-03T16:20:00Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Wednesday, Nov. 4 at 8:00 PM ET at FedEx Forum",
-   "facts": [
-    "Wednesday, Nov. 4 at 8:00 PM ET at FedEx Forum Game Preview The Pacers (2-6) head to Memphis on Wednesday for the start of a busy week of travel for the Blue & Gold.",
-    "Wednesday's game against the Grizzlies (6-1) is the start of what is essentially a three-game road trip.",
-    "After playing in Memphis, the Pacers will travel to Mexico City to take on the Nuggets in the NBA Mexico City Game 2026 on Saturday (Indiana is technically the home game for that contest) and then will head on to Dallas …",
-    "Indiana had just six available players, but fought the Hawks tooth and nail, coming up just short in a 108-104 loss at Gainbridge Fieldhouse.",
-    "All six players — including the Pacers' three two-way players — played 34 or more minutes and reached double figures.",
-    "Rookie guard Braden Smith got his first career start and recorded a double-double with 19 points and 10 assists in 42 minutes of action.",
-    "Starting center Ivica Zubac, who missed the last five games with a sprained ankle, also was upgraded to questionable on Tuesday's injury report.",
-    "Memphis reeled off six straight wins to open the year and were the league's last undefeated team before falling 135-134 in overtime to New Orleans on Monday night."
-   ],
-   "quotes": [
-    "This is the culture that I believe we have built here,",
-    "We have faltered this year at times. But the guys that were watching I think felt the power of what these six guys did tonight. Going forward, it will take nothing less than that."
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/pistons-use-dominant-second-half-run-to-rout-hornets-124-91",
-   "url": "https://www.nba.com/pistons/news/pistons-use-dominant-second-half-run-to-rout-hornets-124-91",
-   "canonical_url": "https://pistons.com/news/pistons-use-dominant-second-half-run-to-rout-hornets-124-91",
-   "title": "Pistons Use Dominant Second-Half Run to Rout Hornets, 124-91",
-   "author": "Pistons.com",
-   "published_utc": "2026-11-03T15:22:12Z",
-   "tags": [],
-   "summary": "Cunningham scores 33 points as Detroit forces 27 turnovers, improves to 6-1",
-   "facts": [
-    "Cunningham scores 33 points as Detroit forces 27 turnovers, improves to 6-1 The Detroit Pistons extended their winning streak to three games with a commanding 124-91 victory over the Charlotte Hornets Monday night at Spe…",
-    "Detroit (6-1) used a decisive 19-0 run to close the third quarter and secure its third consecutive victory.",
-    "The Pistons forced a season-high 27 turnovers, converting them into 37 points, and recorded 19 steals while holding Charlotte to 38.1% shooting from the field.",
-    "The All-Star guard shot 13-of-20 from the field and scored 17 points in the third quarter to help Detroit turn a tightly contested game into a blowout.",
-    "Ron Holland II and Paul Reed contributed 11 points apiece, with Reed making his first start in place of the injured Jalen Duren.",
-    "The Pistons and Hornets traded baskets throughout the opening quarter before Detroit took a 27-24 lead into the second.",
-    "The Pistons used a 10-1 run midway through the quarter to take control, shooting 75% from the field in the period.",
-    "The Hornets responded in the third quarter, cutting Detroit's advantage to 79-75 with just under five minutes remaining."
-   ],
-   "quotes": [
-    "When we're defending at the level that we're capable of defending and then the shots are going, we're going to be a tough out,",
-    "Our guys again have completely bought into what's most important to team, and for us it's our identity of being defensive-minded; being aggressive, being disruptive, and we've got guys that can play i…",
-    "I thought he set the tone,",
-    "He picked a spot where it was time to put his foot on the gas, and he came out, particularly in that second half, and led the way. Again, he's one of the best leaders I've ever seen, and his ability t…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-135-grizzlies-134-ot-karlo-matkovic-25-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/pelicans-135-grizzlies-134-ot-karlo-matkovic-25-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/pelicans-135-grizzlies-134-ot-karlo-matkovic-25-points-postgame-wrap",
-   "title": "Pelicans 135, Grizzlies 134 (OT): Karlo Matkovic 25 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-03T14:39:54Z",
-   "tags": [],
-   "summary": "For the seventh game of a long NBA regular season, victories don’t come much sweeter than New Orleans’ triumph Monday in Memphis. Not only did the Pelicans hand the league’s last unbeaten team its first loss, but the visitors did so after not being able to hold a nine-point lead in the final minutes of regulation, seemingly on the verge of experiencing a crushing turn of events. New Orleans persev…",
-   "facts": [
-    "New Orleans persevered by bouncing back in overtime – despite Memphis guard Ty Jerome’s superhuman exploits – to prevail by a point, on Jeremiah Fears’ pair of go-ahead free throws with 7 seconds left.",
-    "That surge in perimeter marksmanship pushed the Pelicans into a 100-95 lead through three quarters and later a 124-115 edge when Karlo Matkovic (tied for team scoring honors with 25 points, 5/8 from beyond the arc) naile…",
-    "The Grizzlies answered with a 9-0 run, all from Jerome baskets. 8: Pelicans total turnovers, an exemplary performance in terms of taking care of the ball, particularly during an intense, physical Southwest Division battl…",
-    "Queen helped stake the Pelicans to an early lead by scoring 18 prior to halftime, while Bey had 16 points in the final two quarters.",
-    "Bey authored 10 of his team's 24 points in the fourth period.",
-    "GRIZZLIES Friday the 13th of this month marks an NBA Cup game in the Crescent City between Memphis and New Orleans."
-   ],
-   "quotes": [
-    "These guys did an unbelievable job to stay poised,",
-    "The ability to find a way to get the (defensive) stops we needed and to execute, that’s what I’m most proud of.",
-    "He was big down the stretch. He made the right play every time. We put the ball in his hands and we trusted him."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-wizards-20261103",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-wizards-20261103",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-vs-wizards-20261103",
-   "title": "Magic Four-Point Play: Follow-Up vs. Wizards",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-03T13:08:53Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "We can talk about talent, strategy and data all we want, but ultimately, availability and attrition are probably the most significant components of NBA success these days. It’s hard for a team to keep up when undermanned. Several teams are having to fight through that obstacle early in the season, including the Orlando Magic. Paolo Banchero (ankle), Jalen Suggs (knee) and Noah Penda (hamstring) ar…",
-   "facts": [
-    "Paolo Banchero (ankle), Jalen Suggs (knee) and Noah Penda (hamstring) are currently nursing injuries.",
-    "Anthony Black (ankle injury management) didn’t play Monday against the Wizards.",
-    "Relying on the 3-Ball The Magic have been generating great 3-point looks this season so far because of their spacing, ball movement and execution.",
-    "They actually have the league’s second-best 3-point percentage off kickouts from the paint (53.1 percent).",
-    "They went 11-for-39 overall from beyond the arc (28 percent), 4-for-16 on kickouts in general, and 1-for-5 on kickouts from the paint.",
-    "In March 2025, after losing five straight at home, they went 3-2 on an ensuing road trip and finished that regular season 13-6.",
-    "Now, sitting at 2-5 on the season, the Magic will have the opportunity to do the same out West with games at Phoenix, Golden State, Sacramento and Utah.",
-    "Those teams are a combined 8-19 so far this season."
-   ],
-   "quotes": [
-    "I trust the coaches, you know what I mean? That we've got a good system, and we're figuring it out. Once we get it down, I think we'll look really good and that's part of the league, I think; going th…"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/bulls-run-out-of-gas-in-philadelphia-despite-caleb-wilsons-third-straight-20-point-game",
-   "url": "https://www.nba.com/bulls/news/bulls-run-out-of-gas-in-philadelphia-despite-caleb-wilsons-third-straight-20-point-game",
-   "canonical_url": "https://bulls.com/news/bulls-run-out-of-gas-in-philadelphia-despite-caleb-wilsons-third-straight-20-point-game",
-   "title": "Bulls run out of gas in Philadelphia despite Caleb Wilson's third straight 20-point game",
-   "author": "Sam Smith",
-   "published_utc": "2026-11-03T12:31:24Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith",
-    "Sam Smith recap"
-   ],
-   "summary": "This is a city that has been home to some of the most profound utterances in the nation’s history, the American scripture.",
-   "facts": [
-    "And now, “We’ve had a tough stretch,” acknowledged Josh Giddey Monday following the Bulls 126-107 loss to the Philadelphia 76ers, the Bulls record falling to 1-6.",
-    "This time it was the reconstructed 76ers with the MVP chants for Tyrese Maxey, who led the 76ers with 26 points, along with All-NBA Jaylen Brown, former MVP Joel Embiid and that role playing facilitator LeBron James.",
-    "Who had a slick 15 points, nine assists and seven rebounds.",
-    "The Bulls were led by Caleb Wilson with 24 points, seven rebounds, four steals and 4-of-9 threes.",
-    "But they don’t have anything resembling the talent to compete with a veteran team with title aspirations like the 76ers.",
-    "And then within 68-64 three minutes into the second half with Matas Buzelis getting Wilson on the run for a slam dunk.",
-    "But a team like the 76ers can toy with a lesser talented opponent a bit and then change the outcome in three minutes.",
-    "As the 76ers did Monday after that Wilson flush."
-   ],
-   "quotes": [
-    "We’ve had a tough stretch,",
-    "Overall, we’re taking steps in the right direction as a group,",
-    "We feel we can be competitive every night, but we also (know) any team can beat us any night. So we’ve got to come in with the right attitude every night,",
-    "The wins will start to come. (We’re putting) ourselves in position to be in games, but then third quarter, fourth quarter (they) blow us out some. But I feel like it will show on the scoreboard soon e…"
    ]
   }
  ]
