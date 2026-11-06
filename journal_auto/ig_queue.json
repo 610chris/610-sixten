@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T10:57:37+09:00",
+  "updated": "2026-11-06T13:58:54+09:00",
   "items": [
     {
       "id": "134",
@@ -25832,6 +25832,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "『Bリーグ エピソードゼロ』本日刊行 —— 誕生前夜の119日間\n\n・2リーグ分裂とFIBA出場停止処分、12年前の危機を描く\n・著者はタスクフォースのナンバー2・境田正樹氏本人\n・島田慎二氏・田臥勇太選手もコメント\n\n💬 Bリーグ誕生の舞台裏、読んでみたい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 株式会社講談社「プレスリリース」(PR TIMES)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "855",
+      "slug": "855-devin-booker-30-points-magic",
+      "category": "NBA",
+      "date": "2026-11-06",
+      "headline": "デビン・ブッカー、マジック戦で30得点8アシスト",
+      "excerpt": "フェニックス・サンズのデビン・ブッカー(Devin Booker)は現地時間11月5日、本拠地でのオーランド・マジック戦に34分出場し、フィールドゴール22本中11本・3ポイント8本中4本を沈めて30得点・8アシストを記録した。サンズは117-104でマジックに勝利し、両チーム通じてこの日の最多得点者となった。",
+      "points": [
+        "FG11/22・3P4/8で30得点",
+        "アシスト8でチーム最多",
+        "サンズが117-104で勝利"
+      ],
+      "source": "ESPN ボックススコア(Suns vs. Magic・2026年11月5日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/855-devin-booker-30-points-magic.html",
+      "hero_path": "",
+      "subject": [
+        "Devin Booker"
+      ],
+      "question": "ブッカー、今季も得点王争いに食い込める？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DEVIN BOOKER",
+        "opponent": "vs. MAGIC",
+        "points": 30,
+        "stats": [
+          "8 AST",
+          "3 STL",
+          "11/22 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/855-1.jpg",
+        "https://sixten.jp/assets/ig/855-2.jpg",
+        "https://sixten.jp/assets/ig/855-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-06T13:58:23+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デビン・ブッカー、マジック戦で30得点8アシスト\n\n・FG11/22・3P4/8で30得点\n・アシスト8でチーム最多\n・サンズが117-104で勝利\n\n💬 ブッカー、今季も得点王争いに食い込める？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Suns vs. Magic・2026年11月5日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

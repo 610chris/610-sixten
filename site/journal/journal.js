@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "855-devin-booker-30-points-magic.html",
+    cat: "NBA",
+    title: "デビン・ブッカー、マジック戦で30得点8アシスト —— サンズが117-104で勝利",
+    excerpt: "フェニックス・サンズのデビン・ブッカー(Devin Booker)は現地時間11月5日、本拠地でのオーランド・マジック戦に34分出場し、フィールドゴール22本中11本・3ポイント8本中4本を沈めて30得点・8アシストを記録した。サンズは117-104でマジックに勝利し、両チーム通じてこの日の最多得点者となった。",
+    date: "2026.11.06",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "854-bleague-episode-zero-book.html",
     cat: "JAPAN",
     title: "Bリーグ誕生前夜の119日間を描く『Bリーグ エピソードゼロ』、本日刊行 —— 著者は川淵三郎氏タスクフォースの「ナンバー2」",
