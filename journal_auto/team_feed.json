@@ -1,8 +1,80 @@
 {
- "updated_utc": "2026-11-05 22:14 UTC",
+ "updated_utc": "2026-11-06 02:47 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-kick-off-nba-cup-play-against-the-dallas-mavericks",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-kick-off-nba-cup-play-against-the-dallas-mavericks",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-kick-off-nba-cup-play-against-the-dallas-mavericks",
+   "title": "Preview: Utah Jazz Kick off NBA Cup Play Against the Dallas Mavericks",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-05T22:52:15Z",
+   "tags": [
+    "Keyonte George",
+    "Lauri Markkanen",
+    "Utah Jazz"
+   ],
+   "summary": "For the Utah Jazz, the start of the 2026-27 has presented significant adversity to fight through.",
+   "facts": [
+    "For the Utah Jazz, the start of the 2026-27 has presented significant adversity to fight through.",
+    "Utah’s frontcourt rotation has taken a hit due to injuries to both Jaren Jackson Jr. and Jusuf Nurkic, while a cold shooting spell has hamstrung the team’s offense.",
+    "Keyonte George (39 points, nine assists) was dynamic Wednesday night against the New Orleans Pelicans, but Utah’s offense struggled down the stretch of overtime in a 120-113 defeat.",
+    "Lauri Markkanen gutted through some pain and extensive minutes at the five spot as he put up a double-double (21 points, 10 rebounds), but the Jazz went 11-of-47 from deep (23 percent) and couldn’t contain the Pelicans’ …",
+    "Dallas (4-4) has benefitted from a hot start from Cooper Flagg (24.3 points, 6.3 rebounds, and 6.3 assists per game) and the return of Kyrie Irving (22.7 points per game), which has resulted in some impressive early vict…",
+    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate Tear) Mavericks injury report: OU…",
+    "Dallas has had success on the offensive glass (12th in offensive rebound percentage), but have struggled mightily on the other end, ranking 29th in opponent offensive rebound percentage.",
+    "Although Utah hasn’t generated consistent success on the offensive glass to begin this season (18th), Friday’s game could present an opportunity to generate second-chance opportunities."
+   ],
+   "quotes": [
+    "It’s a long year, every team faces adversity and shooting slumps,",
+    "Ours just happens to be here at the beginning, so it makes it feel a lot worse than maybe it would in two months."
+   ]
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/rui-hachimura-is-ready-for-his-role-with-the-clippers",
+   "url": "https://www.nba.com/clippers/news/rui-hachimura-is-ready-for-his-role-with-the-clippers",
+   "canonical_url": "https://clippers.com/news/rui-hachimura-is-ready-for-his-role-with-the-clippers",
+   "title": "Rui Hachimura is Ready for His Role with the Clippers",
+   "author": "OHM YOUNGMISUK",
+   "published_utc": "2026-11-05T22:45:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Japan",
+    "LA Clippers",
+    "Ohm Youngmisuk",
+    "Rui Hachimura",
+    "Tokyo",
+    "Ty Lue"
+   ],
+   "summary": "Ty Lue didn’t know what to expect when Rui Hachimura took him out to dinner in Tokyo this past summer.",
+   "facts": [
+    "Lue flew 12 hours across the Pacific to figure out how to best use Hachimura’s strengths, where his preferred spots are, and how to best fit into Lue’s system.",
+    "And that is what he was hoping for when he signed a two-year, $28-million deal with the Clippers in free agency in early July.",
+    "He averaged a postseason career-high 17.5 points, 4.0 rebounds and an NBA playoff-best 56.9% from 3-point range during the Lakers’ 10 playoff games without an injured Luka Doncic.",
+    "With Austin Reaves also out due to injury in the first round, Hachimura was the team’s second-leading scorer, averaging 15.8 points per game in the six-game series win over Houston.",
+    "He can spot up and shoot 3s.",
+    "In the first half of the preseason opener against the Warriors, Hachimura gave a glimpse of the variety of ways he can score, drilling 4-of-5 3-pointers, working the midrange, and catching a long pass and going in for a …",
+    "Scoring 21 points in just 15 minutes, Hachimura showed in his debut what he can bring to the Clippers.",
+    "The 6-8 forward is shooting 36.9% in his first five games and acknowledged the step up from role player to focal point."
+   ],
+   "quotes": [
+    "He had the chefs lined up making these incredible meals,",
+    "He had me try [slices of] steak which you dip it in the egg yolk. It was unbelievable.",
+    "Without him saying anything [to me], he was trying to be more open with me,",
+    "That's the thing that he is trying -- to be more open with me. And I'm trying to [do the same.]"
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -114,7 +186,8 @@
     "The Pelicans host the Minnesota Timberwolves on Friday to kick off their NBA Cup stretch at the Smoothie King Center at 7:00 pm CT.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
     "Get the latest Pelicans-Timberwolves injury report, team news, tune in details, and gameday information: PELICANS VS TIMBERWOLVES INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Mali…",
-    "DOUBTFUL (G League two-way) Trey Murphy III PROBABLE (bilateral patella tendinopathy) Julian Reese PROBABLE (G League two-way) TIMBERWOLVES INJURY REPORT TBD PELICANS VS TIMBERWOLVES: HEAD-TO-HEAD STATS 2025-2026 NBA Sea…",
+    "DOUBTFUL (G League two-way) Trey Murphy III PROBABLE (bilateral patella tendinopathy) Julian Reese PROBABLE (G League two-way) TIMBERWOLVES INJURY REPORT Donte DiVincenzo OUT (right achilles) Anthony Edwards OUT (right k…",
+    "QUESTIONABLE (left hip contusion) PELICANS VS TIMBERWOLVES: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS TIMBERWOLVES STARTING LINEUPS MINNESOTA TIMBERWOLVES (6-3) Previous Game Lineup: Nove…",
     "Timberwolves Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 6 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Co…"
    ],
    "quotes": []
@@ -1579,72 +1652,6 @@
     "I thought they did a great job trying to stick to it throughout the course of the game — cut the lead in the fourth quarter down to three or four a couple times. Just couldn’t quite get over the hump.…",
     "I think our offense starts with aggressiveness, touching the paint,",
     "We believe once we touch the paint, whatever comes from that is usually going to be a good possession for us. I think as long as we are keeping that process, being aggressive getting two feet in the p…"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "roster",
-   "key": "https://www.nba.com/mavs/news/its-a-deep-subject-when-it-comes-to-packed-mavericks-roster",
-   "url": "https://www.nba.com/mavs/news/its-a-deep-subject-when-it-comes-to-packed-mavericks-roster",
-   "canonical_url": "https://mavs.com/mavs/news/its-a-deep-subject-when-it-comes-to-packed-mavericks-roster",
-   "title": "It's a deep subject when it comes to packed Mavericks' roster",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-03T02:07:18Z",
-   "tags": [
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "As far back as you go, Mavericks’ coaches have always stressed that good depth wins games and great depth wins championships in the NBA.",
-   "facts": [
-    "It’s necessary to navigate the 82-game regular season to get to the playoffs.",
-    "Which brings us to the Mavericks, who through seven games already have nine players averaging at least 19 minutes per game and that doesn’t even include Morez Johnson Jr., who has been on a minutes restriction, or Santi …",
-    "And they needed the return of Naji Marshall from a three-game absence with an illness to help make up for the loss of Kyrie Irving, who sat out against the Kings for injury management to his surgically repaired knee.",
-    "It’s a mathematical impossibility to make all 15 players on an active roster happy every game.",
-    "He came into Monday’s game averaging 26.3 points and 6.3 assists.",
-    "The Los Angeles Clippers took Keaton Wagler No. 5 and Brooklyn took Mikel Brown No. 6.",
-    "Elsewhere on the injury front, Santi Aldama (recovery from right knee surgery) is “moving closer and closer,” May said."
-   ],
-   "quotes": [
-    "What are you here for? If you’re here to win, it’s not a problem,",
-    "Normally, winning means to sacrifice of oneself for the greater of the whole and when you have depth, that’s what you do. Everyone has to give a little bit.",
-    "It makes the decision-making much more difficult because you have so many guys who are similar skillsets and stages of their careers,",
-    "With Kai out, it gives a couple of the young guys a much greater opportunity. And we’re very confident in those guys. The experience is important for them. Games like this are where depth really comes…"
-   ]
-  },
-  {
-   "source": "ATL 公式（nba.com）",
-   "team": "ATL",
-   "team_ja": "ホークス",
-   "team_id": 1610612737,
-   "kind": "feature",
-   "key": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup-across-first-3-november-home-matchups",
-   "url": "https://www.nba.com/hawks/news/hawks-announce-star-studded-georgia-entertainment-lineup-across-first-3-november-home-matchups",
-   "canonical_url": "https://hawks.com/news/hawks-announce-star-studded-georgia-entertainment-lineup-across-first-3-november-home-matchups",
-   "title": "Hawks Announce Star-Studded Georgia Entertainment Lineup Across First 3 November Home Matchups",
-   "author": "Atlanta Hawks",
-   "published_utc": "2026-11-03T00:06:35Z",
-   "tags": [
-    "Atlanta Hawks"
-   ],
-   "summary": "Georgia-Natives Bubba Sparxxx, Lil Baby, and Yacht Rock Revue to Headline Halftime Performances Next Month; Special Pop-Up Performances Expected For Those in Attendance; Fans Can Purchase Tickets at Hawks.com/Tickets",
-   "facts": [
-    "Showcasing the rich and diverse musical roots of the Peach State, Georgia’s own Bubba Sparxxx, multi-platinum hip-hop superstar Lil Baby, and the acclaimed Yacht Rock Revue will headline halftime performances across the …",
-    "On Friday, Nov. 6, Georgia-native Bubba Sparxxx is set to perform at halftime during the first Hawks Cup Night presented by Harrah’s Cherokee Casinos against the Washington Wizards.",
-    "To continue the lineup, GRAMMY® Award-winning artist Lil Baby will perform halftime presented by Jack Daniels on Saturday, Nov. 7 as the team takes on the Brooklyn Nets, bringing his generational star power and explosive…",
-    "With more than 30 billion global streams, the superstar has cemented his dominance.",
-    "Celebrated for chart-topping 2000s staples like “Don’t Mess with My Man” and “Laundromat,” the beloved songstress will bring her signature vocal grace and rich Southern soul to set the tone for the night ahead.",
-    "For the third-consecutive November home matchup on Monday, Nov. 9, acclaimed group Yacht Rock Revue will headline halftime when the Hawks host the Los Angeles Lakers, presented by Emory Healthcare.",
-    "Formed in Atlanta and hailed by Rolling Stone as the “world’s premier soft-rock party band,” the celebrated hometown powerhouse seamlessly blends sun-drenched ’70s and ’80s hits with standout tracks.",
-    "For higher savings, exclusive events, playoffs priority, and more, join the Hawks Family today with Membership packages starting at only 8 games."
-   ],
-   "quotes": [
-    "There is truly nothing like performing in front of your hometown team,",
-    "Georgia made me who I am, and stepping onto that court to rock with Hawks fans is a special moment, and I can’t wait to bring the energy.",
-    "Atlanta has shaped my sound and the energy I bring to the stage, so getting to share that with Hawks fans means a lot,",
-    "Atlanta is who I am, and I can’t wait to give the crowd an unforgettable show."
    ]
   }
  ]
