@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "859-doc-rivers-giannis-bucks-exit.html",
+    cat: "NBA",
+    title: "ヤニス・アデトクンボ退団の内幕、リバーズ前HCが激白 —— 「彼は悪者になりたくなかった」",
+    excerpt: "元ミルウォーキー・バックスのヘッドコーチ、ドック・リバーズ(Doc Rivers)は現地時間11月5日、ポッドキャスト「The Bill Simmons Podcast」で、ヤニス・アデトクンボ(Giannis Antetokounmpo)がバックスからの退団を望みながらも自らトレードを要求せず、フロント側に「トレードする」と言わせたがっていたと明かした。アデトクンボは今夏のトレードでボビー・ポーティスとともにマイアミ・ヒートへ移っている。",
+    date: "2026.11.06",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "858-seattle-nba-crawford-advisor.html",
     cat: "NBA",
     title: "ジャマール・クロフォード、シアトルNBA復帰ビッドのアドバイザーに —— サマンサ・ハロウェイ氏陣営、評価額は約60億ドル",
