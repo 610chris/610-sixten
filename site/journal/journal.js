@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "862-spoelstra-heat-defense-resumes-quote.html",
+    cat: "NBA",
+    title: "スポールストラ「経歴や紙切れは守備をしない」—— ヒート守備は18年指揮でワースト圏、ジアニスはメディア対応を拒否",
+    excerpt: "マイアミ・ヒート(Miami Heat)のエリック・スポールストラ(Erik Spoelstra)HCは現地時間11月5日、ウォリアーズ戦(120-100で敗戦)前の会見で、低迷するチーム守備について「経歴や紙切れは守備をしてくれない」と語った。ヒートの守備レーティングは26位(117.5)で、18年のヒート指揮でワースト圏に沈んでいる。The Athletic(Sam Amick記者)が伝えた。",
+    date: "2026.11.07",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "861-porzingis-steps-away-health.html",
+    cat: "NBA",
+    title: "ポルジンギス本人が「バスケから離れる」と表明 —— ウォリアーズは契約維持、2月までトレード模索続行",
+    excerpt: "ゴールデンステート・ウォリアーズのクリスタプス・ポルジンギス(Kristaps Porzingis)は現地時間11月6日、自身のXで健康を最優先するため「バスケットボールから離れる」と表明した。公式な引退ではなく、球団は来年2月11日のトレード期限まで契約を動かせる状態を維持する方針。ESPNのアンソニー・スレーター記者が伝えた。",
+    date: "2026.11.07",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "860-nike-kobe-ad-protro-coals.html",
     cat: "KICKS",
     title: "Nike Kobe AD Protro「Coals」が12月発売 —— 品番IO8233-002、Kobe 6「Coals」と対になるクリスマス企画",
