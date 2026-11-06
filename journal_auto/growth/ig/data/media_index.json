@@ -2967,6 +2967,27 @@
   "template": "news",
   "timestamp": "2026-11-04T13:17:28+0000"
  },
+ "17969294133208429": {
+  "article": "847",
+  "auto": true,
+  "caption_len": 341,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "琉球キングス、天皇杯は2回戦から —— 初戦1月6日",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWxHh7gUoH/",
+  "product": "REELS",
+  "route": "source",
+  "source": "沖縄バスケットボール株式会社（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-05T10:00:53+0000"
+ },
  "17972459727153879": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -3059,6 +3080,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-03T09:11:22+0000"
+ },
+ "17976111939169327": {
+  "article": "841",
+  "auto": true,
+  "caption_len": 342,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマが52得点24リバウンド8ブロック",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWVlbWG3Wu/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Spurs vs. Mavericks)",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T06:00:18+0000"
  },
  "17976228072170523": {
   "arms": {
@@ -4045,6 +4089,29 @@
   "template": "quote",
   "timestamp": "2026-10-24T10:05:58+0000"
  },
+ "18026169809928280": {
+  "article": "835",
+  "auto": true,
+  "caption_len": 330,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "SGA、キャバリアーズ戦で42得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWGxdlAt9u/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Thunder vs. Cavaliers・2026年11月4日)",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T03:50:54+0000"
+ },
  "18026400979417562": {
   "auto": false,
   "caption_len": 76,
@@ -4132,6 +4199,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-08T04:09:15+0000"
+ },
+ "18033283904856233": {
+  "article": "833",
+  "auto": true,
+  "caption_len": 298,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "セドリック・カワード、ペイサーズ戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWF9TTDIfq/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Cedric Coward"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T03:43:45+0000"
  },
  "18033467489907340": {
   "arms": {
@@ -5489,6 +5579,29 @@
   "template": "news",
   "timestamp": "2026-10-19T22:09:05+0000"
  },
+ "18093142214201837": {
+  "article": "838",
+  "auto": true,
+  "caption_len": 294,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ニコラ・ヨキッチ、32得点のトリプルダブル",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWPcBCnIBq/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Nikola Jokic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T05:06:36+0000"
+ },
  "18093177926468364": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -6389,6 +6502,29 @@
   "template": "quote",
   "timestamp": "2026-09-29T11:14:32+0000"
  },
+ "18105609788022655": {
+  "article": "853",
+  "auto": true,
+  "caption_len": 396,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レイカーズ、ブロニー・ジェームズをGリーグへ降格",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfYESp2Ct7S/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Lakers send little-used Bronny James to G League affiliate」",
+  "subject": [
+   "Bronny James"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-05T22:07:43+0000"
+ },
  "18106597109350933": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -6521,6 +6657,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-03T00:59:20+0000"
+ },
+ "18108090734308316": {
+  "article": "852",
+  "auto": true,
+  "caption_len": 407,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ「もっとこうあるべきだ」—— 52得点24リバウンド8ブロック",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfYD9RMCv9D/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「Wemby draws MVP chants with career performance, predicts more to come」",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-05T22:04:31+0000"
  },
  "18108235286111349": {
   "arms": {
@@ -6673,6 +6832,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-01T06:13:33+0000"
+ },
+ "18109340930211774": {
+  "article": "851",
+  "auto": true,
+  "caption_len": 405,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン、AI予想アプリ「Bron AI」に使用停止要求",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfYDhXsji_3/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「LeBron James' reps send cease-and-desist to 'Bron AI' app」(Front Office Sports発)",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-05T22:00:58+0000"
  },
  "18109383749522748": {
   "article": "284",
@@ -7002,6 +7184,27 @@
   "template": "score",
   "timestamp": "2026-11-02T01:10:54+0000"
  },
+ "18111536261218404": {
+  "article": "844",
+  "auto": true,
+  "caption_len": 330,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 9,
+  "headline": "横浜エクセレンス、立川ダイス戦を99-97で制す",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWYariji30/",
+  "product": "REELS",
+  "route": "source",
+  "source": "横浜エクセレンス公式(PR TIMES)",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-05T06:25:05+0000"
+ },
  "18111639566174859": {
   "article": "300",
   "auto": true,
@@ -7314,6 +7517,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-07T01:25:27+0000"
+ },
+ "18114043982151248": {
+  "article": "842",
+  "auto": true,
+  "caption_len": 307,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチがキングス戦で40得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWV597CG5k/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Lakers vs. Kings)",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T06:03:07+0000"
  },
  "18114065303178044": {
   "arms": {
@@ -7813,6 +8039,52 @@
   "template": "score",
   "timestamp": "2026-10-17T01:40:00+0000"
  },
+ "18118856693105738": {
+  "article": "836",
+  "auto": true,
+  "caption_len": 308,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キヨンテ・ジョージ、キャリアハイ39得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWPEd2iQhy/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Keyonte George"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T05:03:22+0000"
+ },
+ "18118871999328932": {
+  "article": "845",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、ヒート戦で21得点9リバウンド7アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWZ195nKkb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Clippers vs. Heat)",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T06:37:31+0000"
+ },
  "18118909025064893": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -7893,6 +8165,29 @@
   ],
   "template": "quote",
   "timestamp": "2026-09-29T11:28:33+0000"
+ },
+ "18119561945063272": {
+  "article": "834",
+  "auto": true,
+  "caption_len": 298,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイ・ジェローム、ペイサーズ戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWGOTxGWF1/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Ty Jerome"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T03:46:04+0000"
  },
  "18119971471955369": {
   "arms": {
@@ -8044,6 +8339,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-05T03:24:16+0000"
+ },
+ "18120804529778380": {
+  "article": "840",
+  "auto": true,
+  "caption_len": 305,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケビン・デュラント、ティンバーウルブズ戦で21得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWPtaPACLv/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Kevin Durant"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T05:08:57+0000"
  },
  "18121169159059628": {
   "arms": {
@@ -9797,6 +10115,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-21T05:07:40+0000"
+ },
+ "18149009212603802": {
+  "article": "846",
+  "auto": true,
+  "caption_len": 319,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バム・アデバヨ、クリッパーズ戦で35得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWaHtfgVIz/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Heat vs. Clippers)",
+  "subject": [
+   "Bam Adebayo"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T06:39:51+0000"
  },
  "18149854045539124": {
   "article": "272",
@@ -11578,6 +11919,29 @@
   "template": "score",
   "timestamp": "2026-11-03T03:54:43+0000"
  },
+ "18419462263092171": {
+  "article": "832",
+  "auto": true,
+  "caption_len": 298,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ナズ・リード、ネッツ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfWFplMGQui/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Naz Reid"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-05T03:40:54+0000"
+ },
  "18432234145147065": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -11795,6 +12159,29 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-09-30T15:58:14+0000"
+ },
+ "18468387775138142": {
+  "article": "848",
+  "auto": true,
+  "caption_len": 308,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヨキッチが開幕7試合でキャリア最低効率",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfXF_ZDmoo-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Nikola Jokic"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-05T13:03:17+0000"
  },
  "18476759590184202": {
   "arms": {
