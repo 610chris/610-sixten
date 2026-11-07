@@ -1,8 +1,130 @@
 {
- "updated_utc": "2026-11-07 20:28 UTC",
+ "updated_utc": "2026-11-07 23:54 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
+   "url": "https://www.nba.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
+   "title": "Mavericks-Net preview: Washington hoping to continue his red-hot three-point shooting",
+   "author": "Dwain Price",
+   "published_utc": "2026-11-07T23:52:22Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "After P. J. Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eight-year veteran forward’s importance to the Dallas Mavericks.",
+   "facts": [
+    "Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eight-year veteran forward’s importance to the Dallas Mavericks.",
+    "That was particularly true in the first half when Washington scored 16 of his 22-first half points in the second quarter.",
+    "In the first half which ended tied at 57-57, Washington was 6-of-7 from the field, including 5-of-6 from behind the third-point line.",
+    "In 13 minutes against the Jazz, Aldama scored eight points and collected nine rebounds – with four of them coming off the offensive glass.",
+    "The Mavs are 1-0 on the first leg of a back-to-back, having won in Indiana, 121-105, on Oct. 23. *Michael Porter Jr. (21.4 ppg, 7.4 rpg), Plano native Julius Randle (21 ppg, 7.1 rpg), Mikel Brown Jr. (12 ppg), Nolan Trao…",
+    "And after not playing since undergoing surgery on his right knee last March while he was playing for the Memphis Grizzlies, Aldama played his first game for the Mavs on Friday against Utah and responded with eight points…",
+    "Porter contributed 26 points and 10 rebounds in Wednesday’s 114-104 win over Charlotte, and Randle added 22 points in that game.",
+    "Brooklyn Nets (2-6) vs."
+   ],
+   "quotes": [
+    "We need P. J. to be a three-point shooter for us,",
+    "He’s one of those guys that we played him at the five against San Antonio (on Wednesday), we played him at the four, we played him at the three when we want to go big.",
+    "I love him shooting with that amount of confidence, because we need it,",
+    "We won the hustle plays in the first half, but without his shots we’ll have a deficit."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-road-trip-with-matchup-against-timberwolves",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-road-trip-with-matchup-against-timberwolves",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-road-trip-with-matchup-against-timberwolves",
+   "title": "Preview: Utah Jazz End Road Trip With Matchup Against Timberwolves",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-07T23:25:07Z",
+   "tags": [
+    "Lauri Markkanen",
+    "Utah Jazz"
+   ],
+   "summary": "The Utah Jazz are looking to snap out of an early-season funk.",
+   "facts": [
+    "Utah has had to deal with adversity in several forms, from injuries to the team’s frontcourt rotation to cold shooting, which has resulted in a seven-game losing streak.",
+    "The Jazz are coming off an NBA Cup loss to the Dallas Mavericks on Friday night, a game in which they knocked down threes (15 of them), but were outmatched in the possession game as a result of 21 turnovers and the 21 of…",
+    "Lauri Markkanen (24 points, eight made threes) and Darryn Peterson (21 points, five assists) helped Utah’s offense during different stages of the game, but the Mavericks got significant production off the bench (44 point…",
+    "Although Minnesota (7-3) has had to deal with the absence of Anthony Edwards, others have stepped up in his absence to continue pushing the Timberwolves forward.",
+    "Chris Finch’s squad has won three in a row and entered Saturday with the league’s second-best net rating (plus-11.3 points per 100 possessions).",
+    "With the offseason acquisition of LaMelo Ball, Minnesota has an elite driver of the offense, while Ayo Dosunmu (17.3 points per game) and Jaden McDaniels (17.1 points per game) have stepped into larger roles on the offen…",
+    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate Tear) QUESTIONABLE - Lauri Markka…",
+    "The Timberwolves rank second in the league in offensive rebound percentage (35.6 percent), which has boosted an offense that has already been efficient from the field."
+   ],
+   "quotes": [
+    "In the first half, we really moved the ball and had a great flow to us,",
+    "But in the second half, we didn’t have the same tempo."
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-nuggets-261107",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-nuggets-261107",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-nuggets-261107",
+   "title": "Halftime Rewind: Pacers 41, Nuggets 64",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-07T23:20:53Z",
+   "tags": [
+    "2026-27 Game Rewind",
+    "NBA Mexico City Game 2026"
+   ],
+   "summary": "Saturday, Nov. 7 at 5:00 PM ET at Arena CDMX",
+   "facts": [
+    "Saturday, Nov. 7 at 5:00 PM ET at Arena CDMX Halftime Rewind The Pacers matchup up with the Denver Nuggets on Saturday as the pair of teams clashed in the NBA’s 35th overall game held in Mexico City, and 16th regular sea…",
+    "The Nuggets got off to a hot start, and led the Pacers, 64-41, through the first half.",
+    "The game was technically a Pacers home game, but the Nuggets had a big advantage in Mexico – Mexico City sits at 7,350 feet above sea level.",
+    "That’s over 2,000 feet higher in altitude than Denver, who regularly plays at 5,280 feet.",
+    "It was a forgettable first quarter for Indiana, who trailed Denver 27-19 heading into the second period.",
+    "The Pacers opened the game shooting 8-for-27 from the floor, and trailed by 10 points in the last two minutes of the opening quarter.",
+    "After shooting just 1-for-9 from beyond the arc in the first quarter, the Pacers knocked down three straight triples to open the second.",
+    "Andrew Nembhard hit first, then Larry Nance Jr. connected from deep on back to back possessions as the Pacers rallied to come within six points, 34-28."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "roster",
+   "key": "https://www.nba.com/cavaliers/news/releases-riley-minix-signing-261107",
+   "url": "https://www.nba.com/cavaliers/news/releases-riley-minix-signing-261107",
+   "canonical_url": "https://cavs.com/news/releases-riley-minix-signing-261107",
+   "title": "CAVALIERS SIGN RILEY MINIX TO TWO-WAY CONTRACT",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-07T22:30:27Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "CLEVELAND – The Cleveland Cavaliers have signed forward Riley Minix to a two-way contract and have waived forward Tristan Enaruna.",
+   "facts": [
+    "CLEVELAND – The Cleveland Cavaliers have signed forward Riley Minix to a two-way contract and have waived forward Tristan Enaruna.",
+    "Minix (6-7, 230) has appeared in one game for the Cavaliers this season.",
+    "The third year forward has also appeared in 11 career NBA games for Cleveland and San Antonio as well as 54 career games in the NBA G League for the Austin Spurs and Cleveland Charge, the Cavaliers exclusively owned and …",
+    "In his 24 games (22 starts) with the Charge last season, he averaged 18.5 points, 6.1 rebounds, 2.8 assists and 1.40 steals in 30.1 minutes.",
+    "Enaruna (6-8, 220) has appeared 12 career NBA games with the Cavaliers, including three this season and nine during the 2025-26 campaign.",
+    "He also appeared in 84 career games in the NBA G League for the Maine Celtics and Cleveland Charge.",
+    "In his 38 games (36 starts) last season with the Cleveland Charge, Enaruna averaged 20.4 points, 5.6 rebounds and 1.3 steals in 31.1 minutes."
+   ],
+   "quotes": []
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -1693,64 +1815,6 @@
     "Today I didn’t get the ball much to start the game, so I couldn’t do much to be aggressive,",
     "They hit shots in the beginning of the game that were ridiculous, the shots they were hitting,"
    ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-ochsner-health-unveil-enhanced-athletic-training-room-ursuline-academy",
-   "url": "https://www.nba.com/pelicans/news/pelicans-ochsner-health-unveil-enhanced-athletic-training-room-ursuline-academy",
-   "canonical_url": "https://pelicans.com/news/pelicans-ochsner-health-unveil-enhanced-athletic-training-room-ursuline-academy",
-   "title": "New Orleans Pelicans and Ochsner Health unveil enhanced athletic training room at Ursuline Academy",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-04T21:00:32Z",
-   "tags": [],
-   "summary": "The New Orleans Pelicans and Ochsner Andrews Sports Medicine Institute joined Ursuline Academy of New Orleans on October 27th to celebrate the unveiling of the school’s newly enhanced athletic training room, a project designed to strengthen athlete care, injury prevention, and recovery resources for Ursuline students. Through a combined significant investment, the Pelicans and Ochsner Health helpe…",
-   "facts": [
-    "The New Orleans Pelicans and Ochsner Andrews Sports Medicine Institute joined Ursuline Academy of New Orleans on October 27th to celebrate the unveiling of the school’s newly enhanced athletic training room, a project de…",
-    "Among the additions are a modular ice machine and storage bin, therapeutic recovery and rehabilitation equipment, emergency heat illness treatment resources, a mobile whirlpool, and a variety of athletic training tools d…"
-   ],
-   "quotes": [
-    "One of the greatest investments we can make is in the health and wellbeing of young people,",
-    "Through our partnership with Ochsner Health, we are proud to help provide Ursuline Academy student athletes with enhanced resources that support injury prevention, recovery and overall wellness. We ho…",
-    "Providing student-athletes with the right resources is an important part of keeping them healthy, preventing injuries and supporting a safe return to play,",
-    "This enhanced athletic training room gives Ursuline Academy a dedicated space to support the health and safety of its student-athletes and reflects our shared commitment to helping young athletes thri…"
-   ]
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-heat-261104",
-   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-heat-261104",
-   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-heat-261104",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Heat",
-   "author": "LAClippers",
-   "published_utc": "2026-11-04T20:30:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Broadcast Information",
-    "Brook Lopez",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Game Previews",
-    "Injury Report",
-    "Keaton Wagler"
-   ],
-   "summary": "Last Matchup: 12/01/2025 | LAC 123 - MIA 140 | K.Leonard: 36 PTS - N.Powell: 30 PTSAs a head coach, Tyronn Lue has a winning record against 21 different NBA franchises in the regular season and playoffs. With a win Wednesday, the Heat would become the 22nd; Miami is one of only two teams Lue has a .500 record against, along with Minnesota.The Clippers have made at least 10 three-pointers in all se…",
-   "facts": [
-    "MIAMI HEAT FIVE THINGS TO KNOW Last Matchup: 12/01/2025 | LAC 123 - MIA 140 | K.Leonard: 36 PTS - N.Powell: 30 PTSAs a head coach, Tyronn Lue has a winning record against 21 different NBA franchises in the regular season…",
-    "With a win Wednesday, the Heat would become the 22nd; Miami is one of only two teams Lue has a .500 record against, along with Minnesota.The Clippers have made at least 10 three-pointers in all seven games this season, t…",
-    "Their previous best was six straight games to start 2023-24.Keaton Wagler is the third Clipper since the team moved to California in 1978 to begin his NBA career with at least 85 points in his first seven games without m…",
-    "Michael Brooks in 1980 and Danny Manning in 1988 were the others.Kris Dunn is one of two NBA players with 20+ steals this season, along with Dyson Daniels (24).",
-    "He is the fourth Clipper in the past 40 seasons to reach 20 steals within the team’s first seven games.BONUS: Brook Lopez made his first career three-pointer in his 369th game, on January 10, 2015, against Detroit.",
-    "He needs two more made threes to become the 116th player in NBA history with 1,200 career three-pointers. 26-27 OPPONENT COMPARISON"
-   ],
-   "quotes": []
   }
  ]
 }
