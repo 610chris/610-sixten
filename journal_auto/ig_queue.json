@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:05:30+09:00",
+  "updated": "2026-11-07T11:55:46+09:00",
   "items": [
     {
       "id": "134",
@@ -26169,6 +26169,100 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Nike LeBron 24「Purple Aura」が12月14日発売\n\n・品番IO8201-500、12月14日発売\n・パープル基調のカラーリング\n・76ersは開幕8勝1敗と好調\n\n💬 このカラー、買う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News「The Nike LeBron 24 \"Purple Aura\" Drops December 14th」\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "864",
+      "slug": "864-jayson-tatum-34-points-hornets",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "テイタム、ホーネッツ戦で34得点 —— セルティックスが119-80で大勝",
+      "excerpt": "ボストン・セルティックスのジェイソン・テイタム(Jayson Tatum)は現地時間11月6日、敵地でのシャーロット・ホーネッツ戦に29分出場し、フィールドゴール16本中9本・3ポイント8本中5本・フリースロー11本を全て沈めて34得点を記録した。アシスト9・リバウンド8も合わせ、両チーム通じてこの日の最多得点者となり、セルティックスは119-80でホーネッツに大勝した。",
+      "points": [
+        "FG9/16・3P5/8・FT11/11で34得点",
+        "アシスト9・リバウンド8もチーム最多級",
+        "セルティックスは119-80でホーネッツに大勝"
+      ],
+      "source": "ESPN ボックススコア(Celtics vs. Hornets)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/864-jayson-tatum-34-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "テイタムの34得点、今季ベストゲームだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. HORNETS",
+        "points": 34,
+        "stats": [
+          "9 AST",
+          "8 REB",
+          "9/16 FG",
+          "5/8 3PT",
+          "11/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/864-1.jpg",
+        "https://sixten.jp/assets/ig/864-2.jpg",
+        "https://sixten.jp/assets/ig/864-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T11:55:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "テイタム、ホーネッツ戦で34得点 —— セルティックスが119-80で大勝\n\n・FG9/16・3P5/8・FT11/11で34得点\n・アシスト9・リバウンド8もチーム最多級\n・セルティックスは119-80でホーネッツに大勝\n\n💬 テイタムの34得点、今季ベストゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Celtics vs. Hornets)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "865",
+      "slug": "865-kyshawn-george-33-points-hawks",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "ジョージ、ホークス戦で33得点 —— ウィザーズは132-139で敗戦",
+      "excerpt": "ワシントン・ウィザーズのカイショーン・ジョージ(Kyshawn George)は現地時間11月6日、敵地でのアトランタ・ホークス戦に39分出場し、フィールドゴール19本中10本・3ポイント7本中5本を沈めて33得点を記録した。アシスト7・ブロック2も記録し、両チーム通じてこの日の最多得点者となったが、ウィザーズは132-139でホークスに敗れた。",
+      "points": [
+        "FG10/19・3P5/7で33得点",
+        "アシスト7もチーム最多",
+        "ウィザーズは132-139でホークスに敗戦"
+      ],
+      "source": "ESPN ボックススコア(Wizards vs. Hawks)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/865-kyshawn-george-33-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Kyshawn George"
+      ],
+      "question": "ジョージの33得点、今後も主砲として見れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KYSHAWN GEORGE",
+        "opponent": "vs. HAWKS",
+        "points": 33,
+        "stats": [
+          "7 AST",
+          "4 REB",
+          "2 BLK",
+          "10/19 FG",
+          "5/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/865-1.jpg",
+        "https://sixten.jp/assets/ig/865-2.jpg",
+        "https://sixten.jp/assets/ig/865-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T11:55:46+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョージ、ホークス戦で33得点 —— ウィザーズは132-139で敗戦\n\n・FG10/19・3P5/7で33得点\n・アシスト7もチーム最多\n・ウィザーズは132-139でホークスに敗戦\n\n💬 ジョージの33得点、今後も主砲として見れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Wizards vs. Hawks)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
