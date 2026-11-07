@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "863-nike-lebron-24-purple-aura.html",
+    cat: "KICKS",
+    title: "Nike LeBron 24「Purple Aura」が12月14日発売 —— 品番IO8201-500、8勝1敗と好調な76ersのレブロンに新色",
+    excerpt: "ナイキは、フィラデルフィア・76ersのレブロン・ジェームズ(LeBron James)が手がける最新シグネチャーモデル「Nike LeBron 24」の新色「Purple Aura」(品番IO8201-500)を2026年12月14日に発売する。パープルを基調にしたカラーリングで、レブロンが加入した76ersが開幕から好調なスタートを切っている時期の新色となる。Sneaker Newsが伝えた。",
+    date: "2026.11.07",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "862-spoelstra-heat-defense-resumes-quote.html",
     cat: "NBA",
     title: "スポールストラ「経歴や紙切れは守備をしない」—— ヒート守備は18年指揮でワースト圏、ジアニスはメディア対応を拒否",
