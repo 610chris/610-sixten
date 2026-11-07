@@ -1,8 +1,38 @@
 {
- "updated_utc": "2026-11-06 23:28 UTC",
+ "updated_utc": "2026-11-07 03:09 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261106-boscha",
+   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261106-boscha",
+   "canonical_url": "https://celtics.com/news/game-recap-keys-20261106-boscha",
+   "title": "Keys to the Game: Celtics 119, Hornets 80",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-07T03:05:42Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "The Charlotte Hornets knew they were in for a long Friday night when Jayson Tatum and Paul George opened the game with back-to-back 3-pointers.",
+   "facts": [
+    "Key Moment The Charlotte Hornets knew they were in for a long Friday night when Jayson Tatum and Paul George opened the game with back-to-back 3-pointers.",
+    "That quick 6-0 start was just the beginning of Boston’s biggest blowout of the season, a 119-80 rout at Spectrum Center that improved the Celtics to 2-0 in NBA Cup group play.",
+    "The C’s wasted no time taking control, turning their early 6-0 advantage into a 16-4 lead before doubling up Charlotte, 40-20, by the end of the first quarter.",
+    "Tatum led the opening onslaught with 18 points, outscoring the Hornets’ entire starting five by himself, 18-16.",
+    "Boston also buried 17 3-pointers in the first half, tying a franchise record, while building a commanding lead that would eventually balloon to as many as 46 points.",
+    "The C’s have now outscored their first two Cup opponents by a combined 53 points, putting themselves in a strong position as they continue their pursuit of a spot in the knockout rounds.",
+    "Key Player If Friday night’s contest had been remotely close, Jayson Tatum might have walked away with a 40-point triple-double.",
+    "Instead, the Celtics superstar had to settle for a dazzling 34-point, eight-rebound, nine-assist performance in just 29 minutes of work."
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -1439,31 +1469,6 @@
     "Maxey scored 26 points and Jaylen Brown added 25.",
     "Both posted double-doubles, with Maxey dishing out 11 of the Sixers’ season-high 36 assists and Brown grabbing 11 of their season-high 47 rebounds.",
     "The Pistons are coming off a 124-91 victory at Charlotte, fueled by season highs from Cunningham (33 points) and Robinson (24 points)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-jazz-injury-report-game-preview-11-4-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-jazz-injury-report-game-preview-11-4-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-jazz-injury-report-game-preview-11-4-2026",
-   "title": "Pelicans vs. Jazz: Injury Report, Game Preview 11/4/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-03T23:58:52Z",
-   "tags": [],
-   "summary": "The Pelicans host the Utah Jazz on Wednesday at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network and FOX 8 WVUE. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans host the Utah Jazz on Wednesday at the Smoothie King Center at 7:00 pm CT.",
-    "The game will be broadcast on the Gulf Coast Sports and Entertainment Network and FOX 8 WVUE.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Jazz injury report, team news, tune in details, and gameday information: PELICANS VS JAZZ INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Malik Dia DOUBTFUL (…",
-    "DOUBTFUL (G League two-way) Trey Murphy III QUESTIONABLE (bilateral patella tendinopathy) Jordan Poole PROBABLE (left ankle tendinopathy) Julian Reese AVAILABLE (G League two-way) JAZZ INJURY REPORT Trey Alexander OUT (G…",
-    "OUT (right MCL tear) Jusuf Nurkic OUT (right plantar tear) Mo Bamba QUESTIONABLE (right ankle sprain) PELICANS VS JAZZ: HEAD-TO-HEAD STATS 2026-2027 NBA Season Opponent Matchup Stats PELICANS VS JAZZ STARTING LINEUPS UTA…",
-    "Jazz Game Time, TV Channel, Radio & Location 📅 Game Time: Wednesday, Nov. 4 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: GCSEN / WVUE…"
    ],
    "quotes": []
   }
