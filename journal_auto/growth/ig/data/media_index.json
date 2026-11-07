@@ -4062,6 +4062,19 @@
   "template": "news",
   "timestamp": "2026-10-31T15:45:19+0000"
  },
+ "18025327145707002": {
+  "auto": false,
+  "caption_len": 109,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "世代No.1PGと呼ばれる高校生。",
+  "permalink": "https://www.instagram.com/reel/DfaHvIIiSVd/",
+  "product": "REELS",
+  "timestamp": "2026-11-06T17:16:09+0000"
+ },
  "18025935158916486": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -4199,6 +4212,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-08T04:09:15+0000"
+ },
+ "18033063335859140": {
+  "article": "861",
+  "auto": true,
+  "caption_len": 375,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポルジンギス本人が「バスケから離れる」と表明",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfauHXZER_g/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN + Sam Amick（The Athletic）",
+  "subject": [
+   "Kristaps Porzingis"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-06T22:51:37+0000"
  },
  "18033283904856233": {
   "article": "833",
@@ -7775,6 +7811,29 @@
   "template": "score",
   "timestamp": "2026-10-31T02:47:02+0000"
  },
+ "18116474048119879": {
+  "article": "859",
+  "auto": true,
+  "caption_len": 369,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス退団の内幕、リバーズ前HCが激白",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfZ45AKkZJV/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Rivers: Giannis was playing games when trying to leave Bucks」",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-06T15:06:32+0000"
+ },
  "18116540669597187": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9409,6 +9468,29 @@
   "product": "REELS",
   "timestamp": "2021-09-25T11:52:53+0000"
  },
+ "18134210575757258": {
+  "article": "862",
+  "auto": true,
+  "caption_len": 349,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スポールストラ「経歴や紙切れは守備をしない」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfa98avgexW/",
+  "product": "REELS",
+  "route": "library",
+  "source": "The Athletic（Sam Amick記者）",
+  "subject": [
+   "Erik Spoelstra|Giannis Antetokounmpo"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-07T01:09:55+0000"
+ },
  "18134261500738881": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9727,6 +9809,19 @@
   ],
   "template": "score",
   "timestamp": "2026-11-03T05:57:10+0000"
+ },
+ "18141044386623634": {
+  "auto": false,
+  "caption_len": 129,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "バスケ人口6億1000万人。NBAのロスター枠は450人。",
+  "permalink": "https://www.instagram.com/reel/DfZazsYDAGR/",
+  "product": "REELS",
+  "timestamp": "2026-11-06T10:43:57+0000"
  },
  "18141379165627346": {
   "arms": {
