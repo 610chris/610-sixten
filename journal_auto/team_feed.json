@@ -1,8 +1,220 @@
 {
- "updated_utc": "2026-11-07 03:09 UTC",
+ "updated_utc": "2026-11-07 10:39 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-jazz-and-nba-surprises",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-jazz-and-nba-surprises",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-jazz-and-nba-surprises",
+   "title": "Roundball Roundup: Jazz and NBA Surprises",
+   "author": "JP Chunga",
+   "published_utc": "2026-11-07T05:36:17Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz’s roadtrip, lineup combinations, NBA Cup, and Top 5 Jazz + NBA surprises.",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz’s roadtrip, lineup combinations, NBA Cup, and Top 5 Jazz + NBA surprises."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/santi-aldama-was-very-impressive-in-his-first-game-with-mavericks",
+   "url": "https://www.nba.com/mavs/news/santi-aldama-was-very-impressive-in-his-first-game-with-mavericks",
+   "canonical_url": "https://mavs.com/mavs/news/santi-aldama-was-very-impressive-in-his-first-game-with-mavericks",
+   "title": "Santi Aldama was very impressive in his first game with Mavericks",
+   "author": "Dwain Price",
+   "published_utc": "2026-11-07T05:17:59Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "It didn’t take Santi Aldama very long to show the Dallas Mavericks that he’s going to be an impactful player for them this season.",
+   "facts": [
+    "Aldama made his Mavs' debut with 8:03 remaining in the second quarter of Friday's game against the Utah Jazz.",
+    "By the time the Mavs wound up beating the Jazz, 112-100, Aldama had played 13 minutes and finished with eight points and nine rebounds.",
+    "The Mavs obtained the 7-foot center in a trade on July 8, and they’ve been patiently waiting for him finish going through his rehab process so he can start contributing to their team.",
+    "But Flagg and Irving combined to score 21 of the Mavs’ ensuing 22 points.",
+    "That jump-started a 22-10 run by the Mavs – Flagg scored 13 of those points and Irving had eight -- and netted Dallas a comfortable 81-70 lead.",
+    "On Friday, the 10 year-old kid from Los Angeles found himself having a day he’ll never forget, ending with him and his dad attending the game between the Dallas Mavericks and Utah Jazz."
+   ],
+   "quotes": [
+    "I’m just honestly happy to be out there,",
+    "I haven’t even practiced with these guys. I done some walk-through with the second unit, but not the first. The only way where we can find some common ground is playing hard, and just credit to them f…",
+    "Obviously, he’s shot the ball at a high clip his entire life and we have several guys who are going to shoot it better,",
+    "The thing with Santi, though, his feel for the game and his ability to make a lot of the concepts in action. . .he’s got a great feel. So, he makes it make sense and it seems like when he’s out there …"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261106-celtics-tatum-just-hitting-the-surface-after-39-point-rout-of-hornets",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261106-celtics-tatum-just-hitting-the-surface-after-39-point-rout-of-hornets",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261106-celtics-tatum-just-hitting-the-surface-after-39-point-rout-of-hornets",
+   "title": "Celtics, Tatum ‘Just Hitting the Surface’ After 39-Point Rout of Hornets",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-07T04:59:00Z",
+   "tags": [
+    "Postgame",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "The Boston Celtics doubled up the Charlotte Hornets, 40-20, in the first quarter Friday night. They tied a franchise record with 17 first-half 3-pointers. They shot a blistering 54.5 percent from beyond the arc. And they rolled to their largest victory of the season, a 119-80 rout at Spectrum Center.",
+   "facts": [
+    "The Boston Celtics doubled up the Charlotte Hornets, 40-20, in the first quarter Friday night.",
+    "They tied a franchise record with 17 first-half 3-pointers.",
+    "They shot a blistering 54.5 percent from beyond the arc.",
+    "And they rolled to their largest victory of the season, a 119-80 rout at Spectrum Center.",
+    "Jayson Tatum put together another masterful performance Friday night, tying his career high with 18 first-quarter points before finishing with 34 points, eight rebounds, and nine assists in just 29 minutes of action.",
+    "He's the only player in the league averaging at least 25 points and eight assists per game (he's at 27.9 and 8.0, respectively).",
+    "And he's the first player in team history to make at least 70 free throws through his first eight games of a season (he shot a perfect 11-for-11 against the Hornets).",
+    "They also rank third in the conference defensively with a 106.4 rating."
+   ],
+   "quotes": [
+    "I don’t think we’ve hit peak form at all,",
+    "We’re just hitting the surface.",
+    "I've still only played less than 40 games since I've been back, so I'm still in the rehab phase of return-to-play,",
+    "I still have a ways to go to get back to the best I've ever felt. We're gonna get there, though."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-fall-in-first-nba-cup-game-to-dallas-mavericks-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-fall-in-first-nba-cup-game-to-dallas-mavericks-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-fall-in-first-nba-cup-game-to-dallas-mavericks-key-takeaways",
+   "title": "Utah Jazz Fall in First NBA Cup Game to Dallas Mavericks: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-07T04:15:11Z",
+   "tags": [
+    "Darryn Peterson",
+    "Lauri Markkanen",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "On some nights during an 82-game regular season, the old adage of basketball being a game of runs can prove to be very prescient.",
+   "facts": [
+    "On some nights during an 82-game regular season, the old adage of basketball being a game of runs can prove to be very prescient.",
+    "In their first NBA Cup Group Stage game, the Utah Jazz were able to knock down shots at a high clip (15-of-39 from beyond the arc), but an inability to take care of the ball (21 turnovers) or keep the Dallas Mavericks of…",
+    "After a back-and-forth affair during the first half, Dallas used a 32-19 edge in the third quarter to pull away.",
+    "Lauri Markkanen led Utah with 24 points, Darryn Peterson wasn’t far behind with 21 and five assists, and Keyonte George nearly had a double-double (16 points, nine assists), but Dallas generated 11 more shot attempts and…",
+    "Utah knocked down six 3-pointers (on 13 attempts), with the ball consistently finding the open man.",
+    "The visitors dished out 10 assists (on 11 made field goals) to fuel the productive start on the offensive end.",
+    "Markkanen led the charge with 12 points and four made threes in the opening frame.",
+    "The Mavericks only shot 37 percent from the field, but were down just two points at the end of the quarter as a result of seven offensive rebounds."
+   ],
+   "quotes": [
+    "It’s another representation of a bunch of good basketball and then some stretches where we’re just really sloppy,",
+    "In the first half, we really moved the ball and had a great flow to us. But in the second half, we didn’t have the same tempo.",
+    "I really do believe in our group and think that we’re improving,",
+    "I see a lot of bright spots in each game."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/timberwolves-115-pelicans-109-nba-cup-group-stage-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/timberwolves-115-pelicans-109-nba-cup-group-stage-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/timberwolves-115-pelicans-109-nba-cup-group-stage-postgame-wrap",
+   "title": "Timberwolves 115, Pelicans 109 | NBA Cup group stage postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-07T03:50:40Z",
+   "tags": [],
+   "summary": "With home fans wearing red T-shirts and the intensity at a high level – including a few minor dust-ups between opposing players – Friday’s NBA Cup matchup had the feel and vibe of a high-stakes game. Playing in a third consecutive Western Conference battle this week, New Orleans matched Minnesota for three-plus quarters, but the Timberwolves took over down the stretch, finally creating a multi-pos…",
+   "facts": [
+    "The Pelicans led by two points entering the fourth quarter, before their guests won that period by a 38-30 margin, going up by double digits at one stage.",
+    "Karlo Matkovic was a major catalyst for New Orleans, going on a three-point binge early and scoring 16 first-quarter points.",
+    "He finished with 18 points.",
+    "Jeremiah Fears led the Pelicans overall with 24 points, tallying many of his nine field goals on drives to the rim.",
+    "BY THE NUMBERS 6: Herb Jones fouls in only 14 minutes of action.",
+    "Jones and Minnesota center Rudy Gobert exchanged pleasantries a few times after crashing into each other or grappling in the paint. 37-26: In related news, Minnesota shot 11 more free throws than New Orleans.",
+    "Mosley cited that area as damaging, as well as Minnesota's 17 offensive rebounds, leading to 20 second-chance points. 37-19: New Orleans bench scoring advantage, led by 17 points from Saddiq Bey and a season-best 12 by T…",
+    "Both Pacific Division teams began the season poorly, but the Warriors rebounded with a six-game winning streak, while Los Angeles is just 1-7, battling some key injuries (former Pelicans forward Brandon Ingram among thos…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/group-effort-helps-mavericks-learn-from-their-past-take-down-jazz",
+   "url": "https://www.nba.com/mavs/news/group-effort-helps-mavericks-learn-from-their-past-take-down-jazz",
+   "canonical_url": "https://mavs.com/mavs/news/group-effort-helps-mavericks-learn-from-their-past-take-down-jazz",
+   "title": "Group effort helps Mavericks learn from their past, take down Jazz",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-07T03:23:06Z",
+   "tags": [],
+   "summary": "Nobody can accuse the Mavericks of not learning from their mistakes.",
+   "facts": [
+    "Cooper Flagg and Kyrie Irving, after spending the first two-and-a-half quarters leaning on their teammates to keep them within striking distance, came alive to ignite a Mavericks’ breakaway from a tie game, providing the…",
+    "They were stuck in a tie game at 70 midway through the third quarter.",
+    "In the first half, Flagg and Irving shot a combined 3-for-17 and had just six points between them.",
+    "But they led a 9-0 blitz that would become 19-3 run, went ahead by 16 points and their lead never dipped below 10 in the fourth quarter.",
+    "Flagg ended with 21 points, 10 rebounds and seven assists.",
+    "Irving had 14 points and three steals, matching Flagg.",
+    "Until that fiery third quarter, it looked like the Mavericks were going to repeat their 115-100 loss to the then-winless Sacramento Kings on Monday.",
+    "The rookie Johnson would get his first NBA double-double (13 points, 17 rebounds) and Washington had 22 first-half points when the rest of the Mavericks really had trouble finding the basket."
+   ],
+   "quotes": [
+    "I’m not sure what changed, it just looked like they were playing with great competitive spirit,",
+    "In the first half, when we weren’t making shots and things weren’t going necessarily well, the effort plays, the second shots, those allowed us to hang on and we didn’t have to dig ourselves out of a …",
+    "Shots will fall. I got to give a lot of credit to my teammates. Obviously, I’ve been struggling a little from the field. A lot of the shots I’m very comfortable taking and making haven’t been going in…",
+    "Definitely, that’s what went into it,"
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/short-handed-hornets-outmatched-by-celtics-in-nba-cup-loss",
+   "url": "https://www.nba.com/hornets/news/short-handed-hornets-outmatched-by-celtics-in-nba-cup-loss",
+   "canonical_url": "https://hornets.com/news/short-handed-hornets-outmatched-by-celtics-in-nba-cup-loss",
+   "title": "Short-Handed Hornets Outmatched By Celtics In NBA Cup Loss",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-07T03:21:18Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Missing a quartet of key rotational players on Friday night, the Hornets had no answers for the Boston Celtics’ lights-out shooting in a 119-80 Emirates NBA Cup home loss.",
+   "facts": [
+    "Missing a quartet of key rotational players on Friday night, the Hornets had no answers for the Boston Celtics’ lights-out shooting in a 119-80 Emirates NBA Cup home loss.",
+    "Top Performers: Naz Reid led the hosts in scoring for the second consecutive game, finishing with 14 points on 6-of-17 shooting, two 3-pointers and six rebounds in Charlotte’s sixth straight loss.",
+    "Sion James (11 points on 4-of-8 shooting) notched a career-high third straight double-digit scoring performance, going 3-of-5 from deep in the process.",
+    "Brandon Miller totaled eight points on 3-of-10 shooting in 14 minutes before departing the game for good in the second quarter with right groin soreness.",
+    "Boston’s four-time All-NBA First-Teamer Jayson Tatum went off for a game-high 34 points – 18 in the first quarter – on 9-of-16 shooting, five 3-pointers, eight rebounds and a game-high nine assists in just 29 minutes (di…",
+    "Derrick White added 18 points on 6-of-10 shooting, four 3-pointers and five assists, helping Boston secure its ninth win in 10 head-to-head meetings with the Hornets.",
+    "Turning Point: Boston sprinted out of the gates on a 24-9 run and later ended the first quarter with nine 3-pointers and a 40-20 lead, marking a new quarterly season high for a Hornets’ opponent.",
+    "The Celtics didn’t ease up in the second either, canning another eight long balls (55% from 3-point range in the first half) to enter halftime with a colossal 70-39 advantage."
+   ],
+   "quotes": []
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
