@@ -1,8 +1,273 @@
 {
- "updated_utc": "2026-11-07 10:39 UTC",
+ "updated_utc": "2026-11-07 16:37 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "feature",
+   "key": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-7-2026",
+   "url": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-7-2026",
+   "canonical_url": "https://knicks.com/news/knicks-vs-cavaliers-game-notes-november-7-2026",
+   "title": "Knicks vs Cavaliers Game Notes | November 7, 2026",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-11-07T16:00:49Z",
+   "tags": [
+    "Game Notes",
+    "Orlando Magic"
+   ],
+   "summary": "November 7, 2026 7:30 PM ET | Rocket Arena (Cleveland, OH) | Game 9; Away Game 4",
+   "facts": [
+    "November 7, 2026 7:30 PM ET | Rocket Arena (Cleveland, OH) | Game 9; Away Game 4 TV: MSG Networks/NBA TV; Radio: SiriusXM This Day in Knicks History November 7, 1946: The Knicks hit the radio waves for the first time, as…",
+    "November 7, 2003: Allan Houston pours in 39 points and Keith Van Horn adds 20 points in a pulsating, come-from-behind 114-111 win over Sacramento at the Garden.",
+    "Knicks score 71 points in the second half to fuel the comeback.",
+    "CLE: Cleveland (2/24/26) – The New York Knicks were defeated by the Cleveland Cavaliers, 109-94.",
+    "Mitchell Robinson led New York with 11 points on 83.3-percent shooting, 16 rebounds, two blocks and one assist off the bench.",
+    "Mikal Bridges scored 18 points, five rebounds, three steals, two assists and one block.",
+    "Karl-Anthony Towns registered 14 points on 100.0-percent shooting, seven rebounds, two assists, two blocks and one steal.",
+    "Donovan Mitchell led Cleveland with 23 points, five rebounds, four assists and three steals."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coup-notebook-105-giannis-bam-connection-early-returns-defense-offense",
+   "url": "https://www.nba.com/heat/news/coup-notebook-105-giannis-bam-connection-early-returns-defense-offense",
+   "canonical_url": "https://heat.com/news/coup-notebook-105-giannis-bam-connection-early-returns-defense-offense",
+   "title": "Coup’s Notebook Vol. 105: Early Returns On The Giannis-Bam Connection, Miami’s Defense Is Better Than It Looks And The Offense Is (Slightly) Ahead Of Schedule",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-11-07T15:46:07Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "The Miami HEAT are 3-6, tied for No. 9 in the Eastern Conference sitting No. 20 in Offensive Rating and No. 26 in Defensive Rating. With two games left on their road trip out west, here’s what we’ve been noting and noticing.",
+   "facts": [
+    "The Miami HEAT are 3-6, tied for No. 9 in the Eastern Conference sitting No. 20 in Offensive Rating and No. 26 in Defensive Rating.",
+    "MORE THAN A FEELING Miami may currently be sitting No. 26 on defense, but there’s quite a bit going on under the surface which implies a reality that they’re significantly better than that.",
+    "They’re allowing the sixth-fewest points in the paint per 100 possessions, just 43.7 per game, and the third fewest rim attempts per 100.",
+    "They’re allowing the same percentage at the rim, about 65 percent, as they did last year when they finished Top 10 by that measure, they just happen to be sitting No. 15 at the moment, in a big group with a bunch of othe…",
+    "They’re No. 7 in defensive rebounding rate, having cleaned up a messy first week on the boards, and sit in the Top 10 in limited both second-chance and fast-break points.",
+    "They’re also No. 6 in paint touches allowed per 100, per Genius Sports, having cut about three from last season’s averages, while allowing the fifth-fewest drives per 100 possessions.",
+    "Certainly healthy enough to put them on target for a Top 10 defense if they clean up some of the details as Spoelstra teams tend to do.",
+    "First, what that can directly improve, is that they’re both losing cutters – teams are scoring 1.24 points per paint touch on them, seventh highest in the league – and have the third-highest blowby rate in the league, 34…"
+   ],
+   "quotes": [
+    "Even though the game has changed and evolved, the tenets and most important things still remain the same. You have to win the paint, you got to dominate the paint, you got to dominate the areas at the…",
+    "[Giannis] and Bam have to have this great partnership of not being too close to each other, kind of having a rubber band, with tension, between them at all times kind of like Kel’el [Ware] and Bam las…"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-golden-state-warriors-game-preview-injury-report-20261107",
+   "url": "https://www.nba.com/magic/news/orlando-magic-golden-state-warriors-game-preview-injury-report-20261107",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-golden-state-warriors-game-preview-injury-report-20261107",
+   "title": "Orlando Magic at Golden State Warriors: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-07T15:26:44Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "The struggles that have plagued the Orlando Magic early in the season followed them out West to their first contest of a four-game road trip.",
+   "facts": [
+    "The Magic (2-6) will attempt to bounce back in the win column when they visit the Golden State Warriors (6-3) on Saturday at 8:30 p.m.",
+    "On the season, Orlando is giving up the rock 18.3 times per outing, which is the third most in the NBA.",
+    "The Warriors are forcing opposing teams to cough it up 18.0 times per game – the fifth most in the league.",
+    "They capitalize on those miscues, putting up 22.2 points per matchup off of turnovers, which is also the fifth most in the association.",
+    "Golden State is once again a deadly threat from beyond the arc, shooting a league-leading 38.9 percent from 3-point range.",
+    "Two-time MVP Steph Curry leads the charge in that regard, knocking down the second-most triples (4.7) in the NBA per outing.",
+    "The 12-time All-Star is pouring in 29.9 points per game, the fourth most in the association.",
+    "While none of that is a surprise, the performance of the Warriors 2026 first round pick, Yaxel Lendeborg, has raised eyebrows around the league."
+   ],
+   "quotes": [
+    "I think just decision-making (and) being sound with the basketball,",
+    "Playing with great technique, playing with good fundamentals, and then from there, trying to make the right decision and the right play.",
+    "As a whole we just have to do a better job of communication early and receiving that,",
+    "That is a two-sided thing. Not just talking, but also receiving information and making sure you are in the right spots. But again, these guys, this is a team that wants to be right and wants to be goo…"
+   ]
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-drop-first-nba-cup-game-to-thunder-128-97",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-drop-first-nba-cup-game-to-thunder-128-97",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-drop-first-nba-cup-game-to-thunder-128-97",
+   "title": "GRIZZLIES DROP FIRST NBA CUP GAME TO THUNDER, 128-97",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-07T15:11:56Z",
+   "tags": [
+    "Pressroom"
+   ],
+   "summary": "MEMPHIS, TENN (Nov. 6, 2026) - The Memphis Grizzlies (6-3) were defeated by the Oklahoma City Thunder (7-2) 128-97 on Friday at FedExForum. This was both teams’ first game of the Emirates NBA Cup Group Play stage.",
+   "facts": [
+    "MEMPHIS, TENN (Nov. 6, 2026) - The Memphis Grizzlies (6-3) were defeated by the Oklahoma City Thunder (7-2) 128-97 on Friday at FedExForum.",
+    "Ty Jerome led the Grizzlies in scoring with 21 points and five assists on 7-of-14 shooting from the field in 28 minutes.",
+    "Zach Edey tallied 14 points and six rebounds in 20 minutes.",
+    "Cedric Coward finished with 10 points, nine rebounds and two steals in 23 minutes.",
+    "Jerami Grant and Javon Small both added 10 points off the bench.",
+    "Ajay Mitchell led the Thunder in scoring with a career-high 35 points on 14-of-20 shooting from the field and 4-of-7 shooting from 3-point range.",
+    "Shai Gilgeous-Alexander tallied 28 points in 30 minutes.",
+    "Jared McCain finished with 21 points on 9-of-14 shooting from the field and four steals in 29 minutes."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pacers-107-103",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pacers-107-103",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-fall-to-pacers-107-103",
+   "title": "GRIZZLIES FALL TO PACERS, 107-103",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-07T15:08:16Z",
+   "tags": [
+    "Pressroom"
+   ],
+   "summary": "MEMPHIS, TENN (Nov. 4, 2026) - The Memphis Grizzlies (6-2) were defeated by the Indiana Pacers (3-6) 107-103 on Wednesday at FedExForum. The Pacers ended a five-game road losing streak in the overall series with the Grizzlies and defeated Memphis for just the third time in the last 11 matchups.",
+   "facts": [
+    "MEMPHIS, TENN (Nov. 4, 2026) - The Memphis Grizzlies (6-2) were defeated by the Indiana Pacers (3-6) 107-103 on Wednesday at FedExForum.",
+    "The Pacers ended a five-game road losing streak in the overall series with the Grizzlies and defeated Memphis for just the third time in the last 11 matchups.",
+    "Cedric Coward scored a season-high 23 points with nine rebounds and a season-high four steals in 33 minutes.",
+    "Ty Jerome tallied 23 points for his fifth 20-point game of the season.",
+    "Zach Edey recorded his first double-double of the season with 11 points and a season-high 13 rebounds.",
+    "Cameron Boozer finished with 10 points, six rebounds, four assists and one steal in 33 minutes.",
+    "Andrew Nembhard led the Pacers in scoring with 22 points on 8-of-15 shooting from the field in 38 minutes.",
+    "Pascal Siakam tallied 20 points with five rebounds and two steals on 8-of-13 shooting from the field in 30 minutes."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pelicans-135134",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pelicans-135134",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-fall-to-pelicans-135134",
+   "title": "GRIZZLIES COMEBACK FALLS SHORT, FALL TO PELICANS 135-134 IN OVERTIME",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-07T15:03:26Z",
+   "tags": [
+    "Pressroom"
+   ],
+   "summary": "MEMPHIS, TENN. (Nov. 2, 2026) - The Memphis Grizzlies (6-1) were defeated by the New Orleans Pelicans (3-4) 135-134 on Monday at FedExForum. Memphis was the NBA's last undefeated team this season, and their 6-0 start matched the 2014-15 campaign as the best start to a season in franchise history.",
+   "facts": [
+    "MEMPHIS, TENN. (Nov. 2, 2026) - The Memphis Grizzlies (6-1) were defeated by the New Orleans Pelicans (3-4) 135-134 on Monday at FedExForum.",
+    "Memphis was the NBA's last undefeated team this season, and their 6-0 start matched the 2014-15 campaign as the best start to a season in franchise history.",
+    "Ty Jerome scored 40 points for the Grizzlies, including 23 after the end of the third quarter.",
+    "Jerome is the first player in franchise history to record multiple 40-point performances within the first 10 games of a season.",
+    "Jerome helped send the game into overtime by scoring Memphis' last nine points over the final 1:43 of regulation to tie the game at 124.",
+    "Jerome scored eight of the Grizzlies first 10 points in overtime.",
+    "Cameron Boozer tallied 18 points, nine rebounds, five assists and two blocks in a team-high 38 minutes.",
+    "Jaylen Wells finished with 16 points, while Isaiah Stewart added 14 points and two blocks."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-nykcle-261107",
+   "url": "https://www.nba.com/cavaliers/news/preview-nykcle-261107",
+   "canonical_url": "https://cavs.com/news/preview-nykcle-261107",
+   "title": "Cavs vs Knicks | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-07T14:12:17Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "The Cavs home back-to-back wraps-up tonight against the New York Knicks, as the defending champs make their first of two visits to Rocket Arena this season (Dec. 21).",
+   "facts": [
+    "AN ECF REMATCH The Cavs home back-to-back wraps-up tonight against the New York Knicks, as the defending champs make their first of two visits to Rocket Arena this season (Dec. 21).",
+    "GAME INFORMATION LAST TIME OUT The Cavs got back in the win column just last night with a big win over the 76ers in the first game of NBA Cup action.",
+    "Donovan Mitchell recorded a near-triple-double with 23 points, seven rebounds, and eight assists.",
+    "Mario Hezonja had a double-double with 15 points and 10 boards.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -TBD - Back-to-Back Knicks: -Josh Hart - Ankle - OUT KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @SerenaWinters throughout the …"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/features-tristan-thompson-261107",
+   "url": "https://www.nba.com/cavaliers/news/features-tristan-thompson-261107",
+   "canonical_url": "https://cavs.com/news/features-tristan-thompson-261107",
+   "title": "Tristan Thompson Helped Make NBA History in 2016",
+   "author": "clejgabriele",
+   "published_utc": "2026-11-07T13:58:34Z",
+   "tags": [
+    "10th Anniversary Celebration",
+    "2026-27 Season"
+   ],
+   "summary": "On Saturday night, when the Cavaliers welcome the World Champion Knicks to town for a heavyweight tussle – and Eastern Conference Finals rematch – the franchise will be celebrating their own franchise title at Rocket Arena.",
+   "facts": [
+    "Saturday marks one of three nights in which the Wine & Gold will commemorate the 10th anniversary of the 2016 NBA Championship, when the Cavaliers became the first team in league history to overcome a 3-1 deficit to win …",
+    "Drafted with the 4th overall pick out of Texas in 2011, the blue-collar big man from Canada left an indelible mark on the franchise, capped with the World Championship in 2016.",
+    "After a reunion tour in 2024-25, Thompson would end his Cavs career high among the squad’s all-time lists – ranking 2nd in offensive rebounds (2,220), 3rd in total rebounds (5,701), 5th in games played (708), in blocks (…",
+    "He’s also 14th in points scored (6,069), field goals made (2,448) and – yes – free throws made (1,164).",
+    "We were just like two 19-year-olds trying to breathe some life back into the city.",
+    "RJ had been around for 15 years and seen it all – rebuilding teams, competitive teams.",
+    "We had guys here before that who really weren’t about winning and we traded them, right?",
+    "He was hired to coach Kyrie, me, Dion (Waiters) and Tyler Zeller – a young team that's trying to become a 7th or 8th seed."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-play-pacers-mexico-city-game",
+   "url": "https://www.nba.com/nuggets/news/nuggets-play-pacers-mexico-city-game",
+   "canonical_url": "https://nuggets.com/news/nuggets-play-pacers-mexico-city-game",
+   "title": "Nuggets play Pacers in Mexico City Game",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-07T11:55:33Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets play the Indiana Pacers in Mexico City, Mexico.",
+   "facts": [
+    "INJURY REPORT Denver: DeMar DeRozan — PROBABLE (Low Back Spasms) Julian Strawther — OUT (Left Knee Sprain) Indiana: Johnny Furphy — OUT (Right ACL Repair/Surgery) Tyrese Haliburton — OUT (Left Hamstring Strain) T.J.",
+    "McConnell — QUESTIONABLE (Right Hamstring Strain) Kelly Oubre Jr. — QUESTIONABLE (Left Calf Contusion) Ben Sheppard — OUT (Left Meniscus Surgery) The Nuggets and Pacers face off on Saturday, representing the NBA in the a…",
+    "Mexico has hosted 35 NBA games—16 in the regular season and 19 in the preseason—the most of any international country.",
+    "The Nuggets are hoping to build on their recent near-20-point victory.",
+    "Nikola Jokić recorded the 201st triple-double of his career with 32 points on 13-of-19 shooting from the field, 10 rebounds, and 11 assists in Denver's 128-109 win over the Toronto Raptors.",
+    "The rookie put up 18 points on 6-of-7 shooting from the field, eight rebounds, and two steals in his fifth NBA game.",
+    "Denver is 4-3 to begin this season.",
+    "Indiana, meanwhile, has gotten off to a slower start at 3-6."
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -1188,34 +1453,6 @@
    "quotes": []
   },
   {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pacers-107103",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-fall-to-pacers-107103",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-fall-to-pacers-107103",
-   "title": "Grizzlies Fall to Pacers, 107–103",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-05T05:45:00Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "MEMPHIS, TENN - The Memphis Grizzlies (6-2) were defeated by the Indiana Pacers (3-6) 107-103 on Wednesday at FedExForum. The Pacers ended a five-game road losing streak in the overall series with the Grizzlies and defeated Memphis for just the third time in the last 11 matchups.",
-   "facts": [
-    "MEMPHIS, TENN - The Memphis Grizzlies (6-2) were defeated by the Indiana Pacers (3-6) 107-103 on Wednesday at FedExForum.",
-    "The Pacers ended a five-game road losing streak in the overall series with the Grizzlies and defeated Memphis for just the third time in the last 11 matchups.",
-    "Cedric Coward scored a season-high 23 points with nine rebounds and a season-high four steals in 33 minutes.",
-    "Ty Jerome tallied 23 points for his fifth 20-point game of the season.",
-    "Zach Edey recorded his first double-double of the season with 11 points and a season-high 13 rebounds.",
-    "Cameron Boozer finished with 10 points, six rebounds, four assists and one steal in 33 minutes.",
-    "Andrew Nembhard led the Pacers in scoring with 22 points on 8-of-15 shooting from the field in 38 minutes.",
-    "Pascal Siakam tallied 20 points with five rebounds and two steals on 8-of-13 shooting from the field in 30 minutes."
-   ],
-   "quotes": []
-  },
-  {
    "source": "DEN 公式（nba.com）",
    "team": "DEN",
    "team_ja": "ナゲッツ",
@@ -1606,83 +1843,6 @@
     "It was just one of his nights,",
     "For me, it’s like, ‘Hey, how can I continue to try to feed that?’ We were winning and playing well, playing through him at that time. Nights like that, any guy in the second unit, we’ve got to feed th…"
    ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-play-raptors-home-wednesday",
-   "url": "https://www.nba.com/nuggets/news/nuggets-play-raptors-home-wednesday",
-   "canonical_url": "https://nuggets.com/news/nuggets-play-raptors-home-wednesday",
-   "title": "Nuggets play Raptors at home on Wednesday",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-04T16:14:46Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets face the Toronto Raptors in their second home game of the week.",
-   "facts": [
-    "INJURY REPORT Denver: Alpha Diallo — PROBABLE (Right Wrist Sprain) Cameron Johnson — PROBABLE (Lower Body Injury Management) Spencer Jones — OUT (Bilateral Hamstring Injury Management) Julian Strawther — OUT (Left Knee S…",
-    "They're coming off a 118-110 loss to the Portland Trail Blazers.",
-    "That brought their record at Ball Arena to 1-2.",
-    "He finished with a gaudy scoring line—35 points on 10-of-19 shooting, 4-of-9 from distance, and 11-of-11 from the free-throw line.",
-    "He's scored 42, 39, and 35 points in his first six outings.",
-    "Toronto, meanwhile, sits at 4-3 on the year.",
-    "They've been mostly without seven-time All-Star Kawhi Leonard (knee injury), who arrived in Toronto via an offseason trade.",
-    "TUNE-IN: Wednesday, November 4, 7:00 p.m."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "OKC 公式（nba.com）",
-   "team": "OKC",
-   "team_ja": "サンダー",
-   "team_id": 1610612760,
-   "kind": "roster",
-   "key": "https://www.nba.com/thunder/news/dalen-terry-261104",
-   "url": "https://www.nba.com/thunder/news/dalen-terry-261104",
-   "canonical_url": "https://okcthunder.com/news/dalen-terry-261104",
-   "title": "Thunder Signs Dalen Terry",
-   "author": "okcthunder",
-   "published_utc": "2026-11-04T15:31:51Z",
-   "tags": [],
-   "summary": "OKLAHOMA CITY, Nov. 4, 2026 – The Oklahoma City Thunder has signed guard/forward Dalen Terry to a multi-year contract, it was announced today by Executive Vice President and General Manager Sam Presti. Per team policy, terms of the agreement were not released.",
-   "facts": [
-    "OKLAHOMA CITY, Nov. 4, 2026 – The Oklahoma City Thunder has signed guard/forward Dalen Terry to a multi-year contract, it was announced today by Executive Vice President and General Manager Sam Presti.",
-    "Terry (6-6, 210) has appeared in 218 career NBA games (seven starts) in four seasons between the Chicago Bulls and Philadelphia 76ers, and averaged 3.5 points, 1.7 rebounds and 1.2 assists in 11.2 minutes per game.",
-    "The Phoenix, Ariz. native was originally selected by the Bulls with the 18th overall pick in the 2022 NBA Draft following two seasons at the University of Arizona.",
-    "As a sophomore, Terry helped lead the Wildcats to a 33-4 record and a Pac-12 regular season and tournament championship."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-at-pistons-game-preview-injury-report-and-how-to-watch-11-4-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-at-pistons-game-preview-injury-report-and-how-to-watch-11-4-2026",
-   "canonical_url": "https://sixers.com/news/sixers-at-pistons-game-preview-injury-report-and-how-to-watch-11-4-2026",
-   "title": "Sixers at Pistons: Game Preview, Injury Report and How to Watch 11/4/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-04T13:17:43Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (7-1) will seek their first 8-1 start in three years when they visit the Detroit Pistons (6-1) on Wednesday. Tipoff is set for 7 p.m. EST at Little Caesars Arena.",
-   "facts": [
-    "The Philadelphia 76ers (7-1) will seek their first 8-1 start in three years when they visit the Detroit Pistons (6-1) on Wednesday.",
-    "Tipoff is set for 7 p.m.",
-    "In the first meeting between the team on Oct. 25 in Philadelphia, the Pistons earned a 106-93 victory.",
-    "Cade Cunningham scored 26 points and Duncan Robinson added 21, while Tyrese Maxey led all scorers with 29.",
-    "The Sixers most recently defeated the Chicago Bulls, 126-107, on Monday at home, with their starting lineup combining for 102 points.",
-    "Maxey scored 26 points and Jaylen Brown added 25.",
-    "Both posted double-doubles, with Maxey dishing out 11 of the Sixers’ season-high 36 assists and Brown grabbing 11 of their season-high 47 rebounds.",
-    "The Pistons are coming off a 124-91 victory at Charlotte, fueled by season highs from Cunningham (33 points) and Robinson (24 points)."
-   ],
-   "quotes": []
   }
  ]
 }
