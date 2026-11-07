@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T12:18:56+09:00",
+  "updated": "2026-11-07T13:03:39+09:00",
   "items": [
     {
       "id": "134",
@@ -26310,6 +26310,235 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ミッチェル、76ers戦で23得点8アシスト\n\n・FG7/18・FT8/10で23得点\n・アシスト8はチーム最多、+28\n・キャバリアーズが119-95で快勝\n\n💬 ミッチェルとハーデン、今季のキャバリアーズはどっちが主軸？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Cavaliers vs. 76ers・2026年11月6日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "867",
+      "slug": "867-ajay-mitchell-35-points-grizzlies",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "エイジェイ・ミッチェル、グリズリーズ戦で35得点",
+      "excerpt": "オクラホマシティ・サンダーのエイジェイ・ミッチェル(Ajay Mitchell)は現地時間11月6日、敵地でのメンフィス・グリズリーズ戦に30分出場し、フィールドゴール20本中14本・3ポイント7本中4本・フリースロー5本中3本を沈めて35得点を記録した。アシスト5も記録し、両チーム通じてこの日の最多得点者となり、サンダーは128-97でグリズリーズに快勝した。",
+      "points": [
+        "FG20本中14本・3P7本中4本で35得点",
+        "アシスト5、プラスマイナス+33",
+        "サンダーが128-97で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/867-ajay-mitchell-35-points-grizzlies.html",
+      "hero_path": "",
+      "subject": [
+        "Ajay Mitchell"
+      ],
+      "question": "ミッチェルのキャリア級35得点、この後も続く?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AJAY MITCHELL",
+        "opponent": "vs. GRIZZLIES",
+        "points": 35,
+        "stats": [
+          "5 AST",
+          "1 REB",
+          "14/20 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/867-1.jpg",
+        "https://sixten.jp/assets/ig/867-2.jpg",
+        "https://sixten.jp/assets/ig/867-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T13:01:58+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "エイジェイ・ミッチェル、グリズリーズ戦で35得点\n\n・FG20本中14本・3P7本中4本で35得点\n・アシスト5、プラスマイナス+33\n・サンダーが128-97で快勝\n\n💬 ミッチェルのキャリア級35得点、この後も続く?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "868",
+      "slug": "868-rj-barrett-27-points-bucks",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "RJ・バレット、バックス戦で27得点",
+      "excerpt": "トロント・ラプターズのRJ・バレット(RJ Barrett)は現地時間11月6日、敵地でのミルウォーキー・バックス戦に37分出場し、フィールドゴール21本中9本・フリースロー11本中9本を沈めて27得点を記録した。アシスト5・リバウンド7も記録し、アライジャ・マーティンと並んで両チーム通じてこの日の最多得点者となり、ラプターズは121-107でバックスから逆転勝利を挙げた。",
+      "points": [
+        "FG21本中9本・FT9本中9本で27得点",
+        "アシスト5・リバウンド7",
+        "ラプターズが121-107で逆転勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/868-rj-barrett-27-points-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "RJ Barrett"
+      ],
+      "question": "ラプターズの逆転勝利、決め手は?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RJ BARRETT",
+        "opponent": "vs. BUCKS",
+        "points": 27,
+        "stats": [
+          "5 AST",
+          "7 REB",
+          "9/21 FG",
+          "9/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/868-1.jpg",
+        "https://sixten.jp/assets/ig/868-2.jpg",
+        "https://sixten.jp/assets/ig/868-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T13:02:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "RJ・バレット、バックス戦で27得点\n\n・FG21本中9本・FT9本中9本で27得点\n・アシスト5・リバウンド7\n・ラプターズが121-107で逆転勝利\n\n💬 ラプターズの逆転勝利、決め手は?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "869",
+      "slug": "869-alijah-martin-27-points-bucks",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "アライジャ・マーティン、バックス戦で27得点",
+      "excerpt": "トロント・ラプターズのアライジャ・マーティン(Alijah Martin)は現地時間11月6日、敵地でのミルウォーキー・バックス戦に31分出場し、フィールドゴール11本中9本・3ポイント7本中6本・フリースロー4本中3本を沈めて27得点を記録した。リバウンド4・スティール2も記録し、RJ・バレットと並んで両チーム通じてこの日の最多得点者となり、ラプターズは121-107でバックスから逆転勝利を挙げた。",
+      "points": [
+        "FG11本中9本・3P7本中6本で27得点",
+        "プラスマイナス+22はチーム最高",
+        "ラプターズが121-107で逆転勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/869-alijah-martin-27-points-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "Alijah Martin"
+      ],
+      "question": "マーティンの高確率シュート、評価は?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ALIJAH MARTIN",
+        "opponent": "vs. BUCKS",
+        "points": 27,
+        "stats": [
+          "4 REB",
+          "2 STL",
+          "9/11 FG",
+          "6/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/869-1.jpg",
+        "https://sixten.jp/assets/ig/869-2.jpg",
+        "https://sixten.jp/assets/ig/869-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T13:02:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アライジャ・マーティン、バックス戦で27得点\n\n・FG11本中9本・3P7本中6本で27得点\n・プラスマイナス+22はチーム最高\n・ラプターズが121-107で逆転勝利\n\n💬 マーティンの高確率シュート、評価は?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "870",
+      "slug": "870-pj-washington-26-points-jazz",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "P・J・ワシントン、ジャズ戦で26得点",
+      "excerpt": "ダラス・マーベリックスのP・J・ワシントン(P.J. Washington)は現地時間11月6日、本拠地でのユタ・ジャズ戦に33分出場し、フィールドゴール14本中7本・3ポイント10本中6本・フリースロー7本中6本を沈めて26得点を記録した。リバウンド6も記録し、両チーム通じてこの日の最多得点者となり、マーベリックスは112-100でジャズに勝利した。",
+      "points": [
+        "FG14本中7本・3P10本中6本で26得点",
+        "リバウンド6、プラスマイナス+9",
+        "マーベリックスが112-100で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/870-pj-washington-26-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "P.J. Washington"
+      ],
+      "question": "ワシントンの3P6本成功、勝因は?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "P.J. WASHINGTON",
+        "opponent": "vs. JAZZ",
+        "points": 26,
+        "stats": [
+          "6 REB",
+          "6/10 3PT",
+          "7/14 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/870-1.jpg",
+        "https://sixten.jp/assets/ig/870-2.jpg",
+        "https://sixten.jp/assets/ig/870-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T13:02:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "P・J・ワシントン、ジャズ戦で26得点\n\n・FG14本中7本・3P10本中6本で26得点\n・リバウンド6、プラスマイナス+9\n・マーベリックスが112-100で勝利\n\n💬 ワシントンの3P6本成功、勝因は?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "871",
+      "slug": "871-ayo-dosunmu-26-points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "アヨ・ドスンム、ペリカンズ戦で26得点",
+      "excerpt": "ミネソタ・ティンバーウルブズのアヨ・ドスンム(Ayo Dosunmu)は現地時間11月6日、敵地でのニューオーリンズ・ペリカンズ戦に39分出場し、フィールドゴール14本中8本・3ポイント6本中4本・フリースロー6本全てを沈めて26得点を記録した。アシスト4も記録し、両チーム通じてこの日の最多得点者となり、ティンバーウルブズは115-109でペリカンズに勝利した。",
+      "points": [
+        "FG14本中8本・3P6本中4本で26得点",
+        "アシスト4、出場39分はチーム最長",
+        "ティンバーウルブズが115-109で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/871-ayo-dosunmu-26-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Ayo Dosunmu"
+      ],
+      "question": "ドスンムの高確率シュート、評価は?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AYO DOSUNMU",
+        "opponent": "vs. PELICANS",
+        "points": 26,
+        "stats": [
+          "4 AST",
+          "8/14 FG",
+          "4/6 3PT",
+          "6/6 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/871-1.jpg",
+        "https://sixten.jp/assets/ig/871-2.jpg",
+        "https://sixten.jp/assets/ig/871-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T13:02:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アヨ・ドスンム、ペリカンズ戦で26得点\n\n・FG14本中8本・3P6本中4本で26得点\n・アシスト4、出場39分はチーム最長\n・ティンバーウルブズが115-109で勝利\n\n💬 ドスンムの高確率シュート、評価は?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
