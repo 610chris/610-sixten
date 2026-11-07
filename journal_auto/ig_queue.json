@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T13:03:39+09:00",
+  "updated": "2026-11-07T15:01:17+09:00",
   "items": [
     {
       "id": "134",
@@ -26539,6 +26539,88 @@
       "ig_media_id": null,
       "error": null,
       "caption": "アヨ・ドスンム、ペリカンズ戦で26得点\n\n・FG14本中8本・3P6本中4本で26得点\n・アシスト4、出場39分はチーム最長\n・ティンバーウルブズが115-109で勝利\n\n💬 ドスンムの高確率シュート、評価は?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "872",
+      "slug": "872-victor-wembanyama-30-points-kings",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "ウェンバンヤマ、キングス戦で30得点",
+      "excerpt": "サンアントニオ・スパーズのビクター・ウェンバンヤマ(Victor Wembanyama)は現地時間11月6日、敵地でのサクラメント・キングス戦に26分出場し、フィールドゴール18本中10本・3ポイント6本中4本・フリースロー9本中6本を沈めて30得点を記録した。リバウンド14・ブロック2も記録し、両チーム通じてこの日の最多得点者となり、スパーズは124-109でキングスに勝利した。",
+      "points": [
+        "FG10/18・3P4/6・FT6/9で30得点",
+        "リバウンド14・ブロック2、プラスマイナス+31",
+        "スパーズが124-109でキングスに勝利"
+      ],
+      "source": "ESPN ボックススコア(Spurs vs. Kings・2026年11月6日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/872-victor-wembanyama-30-points-kings.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "ウェンバンヤマ、このペースなら今季MVPも獲れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. KINGS",
+        "points": 30,
+        "stats": [
+          "14 REB",
+          "2 AST",
+          "2 BLK",
+          "10/18 FG",
+          "4/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/872-1.jpg",
+        "https://sixten.jp/assets/ig/872-2.jpg",
+        "https://sixten.jp/assets/ig/872-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T14:56:41+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマ、キングス戦で30得点\n\n・FG10/18・3P4/6・FT6/9で30得点\n・リバウンド14・ブロック2、プラスマイナス+31\n・スパーズが124-109でキングスに勝利\n\n💬 ウェンバンヤマ、このペースなら今季MVPも獲れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Spurs vs. Kings・2026年11月6日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "873",
+      "slug": "873-lebron-cleveland-return-bad-rhythm",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "レブロン、クリーブランド凱旋で自己最悪級の8得点",
+      "excerpt": "フィラデルフィア・76ersのレブロン・ジェームズ(LeBron James)は現地時間11月6日、故郷クリーブランドでのNBAカップ公式戦でキャバリアーズと対戦し、フィールドゴール12本中3本・ターンオーバー7という自己最悪級の出来で8得点に終わった。76ersは96-119でキャバリアーズに完敗し、ジェームズは試合後「いいリズムで試合をできたとは思わない」と振り返った。ESPNが伝えた。",
+      "points": [
+        "FG3/12・TO7で8得点、22年続いた2桁得点が途切れる",
+        "「いいリズムではなかった」と本人",
+        "76ersは96-119で完敗、エンビードも0/9で6得点"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/873-lebron-cleveland-return-bad-rhythm.html",
+      "hero_path": "",
+      "subject": [
+        "LeBron James"
+      ],
+      "question": "41歳のレブロン、このまま8勝2敗を維持できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/873-1.jpg",
+        "https://sixten.jp/assets/ig/873-2.jpg",
+        "https://sixten.jp/assets/ig/873-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T15:01:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "レブロン、クリーブランド凱旋で自己最悪級の8得点\n\n・FG3/12・TO7で8得点、22年続いた2桁得点が途切れる\n・「いいリズムではなかった」と本人\n・76ersは96-119で完敗、エンビードも0/9で6得点\n\n💬 41歳のレブロン、このまま8勝2敗を維持できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
