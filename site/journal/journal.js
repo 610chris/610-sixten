@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "866-donovan-mitchell-23-points-76ers.html",
+    cat: "NBA",
+    title: "ドノバン・ミッチェル、76ers戦で23得点8アシスト —— キャバリアーズが119-95で快勝",
+    excerpt: "クリーブランド・キャバリアーズのドノバン・ミッチェル(Donovan Mitchell)は現地時間11月6日、本拠地でのフィラデルフィア・76ers戦に33分出場し、フィールドゴール18本中7本・3ポイント6本中1本・フリースロー10本中8本を沈めて23得点を記録した。アシスト8・リバウンド7・スティール2も合わせ、両チーム通じてこの日の最多得点者となり、キャバリアーズは119-95で76ersに快勝した。",
+    date: "2026.11.07",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "865-kyshawn-george-33-points-hawks.html",
     cat: "NBA",
     title: "カイショーン・ジョージ、ホークス戦で33得点 —— ウィザーズは132-139で敗戦",

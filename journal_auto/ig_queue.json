@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:55:46+09:00",
+  "updated": "2026-11-07T12:18:56+09:00",
   "items": [
     {
       "id": "134",
@@ -26263,6 +26263,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジョージ、ホークス戦で33得点 —— ウィザーズは132-139で敗戦\n\n・FG10/19・3P5/7で33得点\n・アシスト7もチーム最多\n・ウィザーズは132-139でホークスに敗戦\n\n💬 ジョージの33得点、今後も主砲として見れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Wizards vs. Hawks)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "866",
+      "slug": "866-donovan-mitchell-23-points-76ers",
+      "category": "NBA",
+      "date": "2026-11-07",
+      "headline": "ミッチェル、76ers戦で23得点8アシスト",
+      "excerpt": "クリーブランド・キャバリアーズのドノバン・ミッチェル(Donovan Mitchell)は現地時間11月6日、本拠地でのフィラデルフィア・76ers戦に33分出場し、フィールドゴール18本中7本・3ポイント6本中1本・フリースロー10本中8本を沈めて23得点を記録した。アシスト8・リバウンド7・スティール2も合わせ、両チーム通じてこの日の最多得点者となり、キャバリアーズは119-95で76ersに快勝した。",
+      "points": [
+        "FG7/18・FT8/10で23得点",
+        "アシスト8はチーム最多、+28",
+        "キャバリアーズが119-95で快勝"
+      ],
+      "source": "ESPN ボックススコア(Cavaliers vs. 76ers・2026年11月6日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/866-donovan-mitchell-23-points-76ers.html",
+      "hero_path": "",
+      "subject": [
+        "Donovan Mitchell"
+      ],
+      "question": "ミッチェルとハーデン、今季のキャバリアーズはどっちが主軸？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DONOVAN MITCHELL",
+        "opponent": "vs. 76ERS",
+        "points": 23,
+        "stats": [
+          "8 AST",
+          "7 REB",
+          "2 STL",
+          "7/18 FG",
+          "8/10 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/866-1.jpg",
+        "https://sixten.jp/assets/ig/866-2.jpg",
+        "https://sixten.jp/assets/ig/866-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-07T12:18:34+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ミッチェル、76ers戦で23得点8アシスト\n\n・FG7/18・FT8/10で23得点\n・アシスト8はチーム最多、+28\n・キャバリアーズが119-95で快勝\n\n💬 ミッチェルとハーデン、今季のキャバリアーズはどっちが主軸？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Cavaliers vs. 76ers・2026年11月6日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
