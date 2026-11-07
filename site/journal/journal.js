@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "875-grizzlies-saunders-two-way.html",
+    cat: "NBA",
+    title: "リッチー・サンダース、グリズリーズとツーウェイ契約へ —— ACL断裂からの復帰、合流練習が可能に",
+    excerpt: "メンフィス・グリズリーズは、ドラフト全体32位指名のリッチー・サンダース(Richie Saunders)とツーウェイ契約で合意した。ESPNのシャムズ・シャラニア記者が現地時間11月7日、サンダースの代理人を務めるプライオリティ・スポーツの話としてそう伝えた。サンダースは2月に前十字靭帯(ACL)を断裂しリハビリ中で、契約によりチームとの合流練習が可能になる。",
+    date: "2026.11.08",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "874-doncic-53-points-trail-blazers.html",
     cat: "NBA",
     title: "ルカ・ドンチッチ、トレイルブレイザーズ戦で53得点 —— レイカーズが124-118で勝利",
