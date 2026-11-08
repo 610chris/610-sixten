@@ -1,8 +1,103 @@
 {
- "updated_utc": "2026-11-08 13:50 UTC",
+ "updated_utc": "2026-11-08 19:03 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-clippers-11-8-2026",
+   "url": "https://www.nba.com/pelicans/news/gameday-update-pelicans-at-clippers-11-8-2026",
+   "canonical_url": "https://pelicans.com/news/gameday-update-pelicans-at-clippers-11-8-2026",
+   "title": "Gameday update: Pelicans at Clippers (11/8/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-08T17:50:48Z",
+   "tags": [],
+   "summary": "NEW ORLEANS PELICANS (4-5) AT LOS ANGELES CLIPPERS (1-7)",
+   "facts": [
+    "NEW ORLEANS PELICANS (4-5) AT LOS ANGELES CLIPPERS (1-7) Overview After a string of four straight victories was halted Friday by Minnesota, the Pelicans will attempt to start a new positive streak Sunday.",
+    "New Orleans recovered nicely from an 0-4 start by reeling off wins over Sacramento, Atlanta, Memphis and Utah, before a hard-fought, 115-109 loss two nights ago vs.",
+    "Meanwhile, Los Angeles’ lone triumph this season occurred against Sacramento in its Oct. 21 opener; since then the Clippers have dropped seven in a row, with the most excruciating defeat coming in their most recent outin…",
+    "Players to Watch PELICANS Saddiq Bey Perhaps New Orleans’ most consistent player through the first nine games, Bey has tallied double-digit points in all but one contest (and had nine points in that tilt, Oct. 28 vs.",
+    "Over the last five games, the forward has been a 50/40/90 shooter, averaging 18.4 points.",
+    "Karlo Matkovic His move into the starting lineup coincided with the club’s 4-1 stretch.",
+    "Matkovic was a force in Week 3 of the NBA schedule, producing two of his best nights in the league statistically.",
+    "In the most recent road game at Memphis, he notched a career-high 25 points and sank five threes."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/hes-really-battling-for-us-lauri-markkanen-continues-to-adjust-to-help-the-utah-jazz",
+   "url": "https://www.nba.com/jazz/news/hes-really-battling-for-us-lauri-markkanen-continues-to-adjust-to-help-the-utah-jazz",
+   "canonical_url": "https://utahjazz.com/news/hes-really-battling-for-us-lauri-markkanen-continues-to-adjust-to-help-the-utah-jazz",
+   "title": "“He’s Really Battling For Us” | Lauri Markkanen Continues to Adjust to Help the Utah Jazz",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-08T15:50:18Z",
+   "tags": [
+    "Keyonte George",
+    "Lauri Markkanen",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "Adversity has come in many forms for the Utah Jazz to begin the 2026-27 season, both on the individual and team level.",
+   "facts": [
+    "Adversity has come in many forms for the Utah Jazz to begin the 2026-27 season, both on the individual and team level.",
+    "Injuries to Jaren Jackson Jr. and Jusuf Nurkic have forced head coach Will Hardy to adjust the team’s frontcourt rotation, while an extended shooting slump hurt the team’s offense in the early going.",
+    "Lauri Markkanen hasn’t avoided the adversity, as the Finnish big man suffered a right wrist sprain in Utah’s fourth game of the season, which has forced him to play through pain and a heavy wrap on his shooting wrist.",
+    "Through the first nine games of the season, Markkanen has played center for 104 possessions per Cleaning The Glass, which removes garbage-time minutes.",
+    "For reference, Markkanen played 133 such possessions last season and a combined 103 possessions at center between the 2023-24 and 2024-25 campaigns.",
+    "Simply put, despite being in year 10, It’s a new position for Markkanen to adjust to on the fly.",
+    "With Keyonte George on a heater (39 points in the game), the two-man game was an effective combination in the final minutes of regulation and first few minutes of overtime, even if a couple of the shots didn’t fall.",
+    "Markkanen has found a rhythm from deep this month, knocking down 17 3-pointers in Utah’s three November games, including an 8-of-15 effort against the Dallas Mavericks on Friday night."
+   ],
+   "quotes": [
+    "It's something you have to deal with,",
+    "I want to be out there for my teammates and try to first get one win and start building off that. No matter what I need to do to get out there, that's what I'm trying to do.",
+    "I haven’t gotten that many minutes or reps, but the NBA is all about adjusting, watching film, and trying to figure out things you can do,",
+    "I’ve played (center) a lot more the last two games and I can keep improving."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-warriors-20261108",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-warriors-20261108",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-warriors-20261108",
+   "title": "Magic Four-Point Play: Follow-Up at Warriors",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-08T15:15:54Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Magic Hope to Build Momentum Off Saturday’s Third Quarter",
+   "facts": [
+    "In the third quarter, they shot 56 percent from the field overall and 50 percent from 3-point range (6-of-12) while committing just two turnovers and holding the Golden State Warriors to one shot on all but one possessio…",
+    "The ball touched the paint on 19 of the Magic’s 25 possessions in those 12 minutes.",
+    "Orlando also held Golden State to just 5-of-19 field goal shooting in the third.",
+    "However, the Warriors got going again in the fourth and overtime, making 16 of their final 22 floor shots.",
+    "Another Steph Curry ‘Magic’ Showing Against Magic Several of the two-time league MVP and 12-time All-Star’s best games of his career have come against Orlando.",
+    "Saturday’s performance was one of them, as he scored 41 points on 13-of-19 floor shooting, 5-of-10 3-point shooting and 10-of-10 free throw shooting.",
+    "It was the fifth time in his career that he scored 40-plus points against the Magic.",
+    "He had 12 points in the last 2 ½ minutes of regulation Saturday and then connected on a go-ahead three-point play with 1:38 left in the extra session followed by a floater with 54 seconds remaining."
+   ],
+   "quotes": [
+    "I think there are a lot of good things we can take away from (this game). I thought a lot of guys stepped up and played really aggressive. We are going to need everybody to play like that. I think big…"
+   ]
+  },
   {
    "source": "PHI 公式（nba.com）",
    "team": "PHI",
@@ -1519,159 +1614,6 @@
     "THE FIRST CUP NIGHT In the first NBA Cup game of the season, the Cavs start East Group B action tonight against the Philadelphia 76ers.",
     "Donovan Mitchell led the way with 27 points, including 14 in the fourth, making four threes in the period.",
     "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Peyton Watson - Hamstring - QUESTIONABLE -Jarrett Allen - Knee - QUESTIONABLE -Tyrese Proctor - Ankle - QUESTIONABLE -Jaylon Tyson - Ankle - OUT -Nae'Qwan Toml…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-thomas-bryant-261105",
-   "url": "https://www.nba.com/cavaliers/news/features-thomas-bryant-261105",
-   "canonical_url": "https://cavs.com/news/features-thomas-bryant-261105",
-   "title": "Thomas Bryant Stays Ready for when His Name is Called",
-   "author": "clejgabriele",
-   "published_utc": "2026-11-05T18:54:34Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "They are blessed with two of the top big men in the entire Association on their own frontline. And those two big men have been blessed with excellent health during their time in Cleveland. Jarrett Allen has averaged 68 games per season over the last five years; Evan Mobley, 67. J.A. has played in at least 56 games each season, including all 82 in 2024-25; Mobley’s suited up for at least 65 contest…",
-   "facts": [
-    "Jarrett Allen has averaged 68 games per season over the last five years; Evan Mobley, 67.",
-    "J.A. has played in at least 56 games each season, including all 82 in 2024-25; Mobley’s suited up for at least 65 contests in four of his first five years.",
-    "But he’s been called to action over the last three, including Wednesday night against the Thunder, draining a triple and going 5-of-6 from the stripe in 12 minutes off the bench.",
-    "And he was rock-solid in his first campaign with the Cavs, appearing in 60 contests, averaging 6.2 points and 3.4 boards, shooting 51 percent from the floor and 37 percent from deep.",
-    "After a strong start, the 29-year-old wanted to continue building in Year 2 with a big summer in the gym.",
-    "He is one of three Cavaliers who’ve won a Championship ring during his NBA career, along with Sam Merrill and his new teammate, Peyton Watson, who Bryant won the title alongside in 2023.",
-    "He attempted just nine three-pointers as a Nugget and attempted 131 bombs with the Cavaliers last season – down from his 148 long-range attempts the previous season with Indiana.",
-    "And to this day, he constantly encourages the Cavaliers’ two-way guys, knowing its possible to parlay a successful NBA career from there."
-   ],
-   "quotes": [
-    "It's tough, not knowing if you're going to play, or when you're going to get in, or even if you’re in the rotation or not,",
-    "It's all about that ‘stay-ready’ aspect and just taking in every day. It's just another day to try and get one percent better in whatever you might be doing on that day. You just try to have that ment…",
-    "Of course, you do the nuances of the big man stuff – just getting the hook-shots and the touch-shots, and, obviously, in this modern day era, just trying to space the floor more,",
-    "But also, I think what you should work on is being in the best condition, to be able to run the floor for a long period of time out there. No matter how long you might be on the floor, you want to try…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/by-committee-approach-fuels-pelicans-turnaround-from-winless-start",
-   "url": "https://www.nba.com/pelicans/news/by-committee-approach-fuels-pelicans-turnaround-from-winless-start",
-   "canonical_url": "https://pelicans.com/news/by-committee-approach-fuels-pelicans-turnaround-from-winless-start",
-   "title": "'By committee' approach fuels Pelicans turnaround from winless start",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-05T17:34:46Z",
-   "tags": [],
-   "summary": "Some NBA teams have a go-to guy, a singular talent who’s given the ball in crunch time, when his team absolutely must get a basket. Through the first two weeks of the season, New Orleans seems to have roughly a half-dozen of them.",
-   "facts": [
-    "Late in Wednesday’s 120-113 overtime victory vs.",
-    "Utah – the Pelicans’ fourth consecutive win following an 0-4 start – the hosts seemed to transfer No. 1 option status every few minutes.",
-    "Second-year big Derik Queen took over the attack in the fourth quarter, repeatedly spinning and driving by Jazz defenders, sparking a comeback from down 10 points.",
-    "Queen, Williamson and Bey each scored between 20 and 23 points Wednesday, while New Orleans starting guards Dejounte Murray (20 points, eight rebounds) and Jeremiah Fears (19 points, six rebounds) also delivered momentou…",
-    "That second-unit advantage has been vital during the four-game winning streak, including a 41-8 edge in the club’s initial Oct. 29 win vs.",
-    "In more evidence of the “group project” nature of the team’s start to 2026-27, no New Orleans player has registered more than 26 points in any game.",
-    "Defensively, it’s also been a multitude of contributors – five different players have at least five steals during the four-game winning streak, including backup forward Trendon Watford, who’s done it in only 70 minutes o…",
-    "Top defender Herb Jones “only” has a total of four steals in the victories over Sacramento, Atlanta, Memphis and Utah, but his most staggering four-game statistic is a plus-minus of +73."
-   ],
-   "quotes": [
-    "I’ll say it over and over again – this is a by-committee team,",
-    "Every night it’s going to be somebody different.",
-    "Just making the right play,",
-    "Right play, right time, right person gets the ball. When you’re open, you should get the basketball… the beauty of this team is that we’re deep. We have guys that can all make plays."
-   ]
-  },
-  {
-   "source": "TOR 公式（nba.com）",
-   "team": "TOR",
-   "team_ja": "ラプターズ",
-   "team_id": 1610612761,
-   "kind": "roster",
-   "key": "https://www.nba.com/raptors/news/raptors-sign-mccullar-jr-to-two-way-contract",
-   "url": "https://www.nba.com/raptors/news/raptors-sign-mccullar-jr-to-two-way-contract",
-   "canonical_url": "https://raptors.com/news/raptors-sign-mccullar-jr-to-two-way-contract",
-   "title": "RAPTORS SIGN McCULLAR JR. TO TWO-WAY CONTRACT",
-   "author": "tormbeloso",
-   "published_utc": "2026-11-05T17:22:07Z",
-   "tags": [
-    "News",
-    "Press Releases"
-   ],
-   "summary": "The Toronto Raptors announced Thursday they have signed guard Kevin McCullar Jr. to a two-way contract. Per team policy, financial terms of the deal were not disclosed.",
-   "facts": [
-    "The Toronto Raptors announced Thursday they have signed guard Kevin McCullar Jr. to a two-way contract.",
-    "McCullar Jr., 6-foot-6, 216 pounds, averaged 2.4 points, 1.3 rebounds, 1.0 assists and 7.4 minutes in 21 games as a two-way player with New York last season.",
-    "He shot .426 (20-47) from the field and scored in double figures in two contests, including a season-high 14 points Apr. 12 against Charlotte.",
-    "McCullar Jr. also appeared in 14 games (13 starts) with the Westchester Knicks in the NBA G League, posting averages of 16.8 points, 6.2 assists, 5.4 rebounds, 2.0 steals, 1.0 blocks and 31.4 minutes.",
-    "A native of San Antonio, Texas, McCullar Jr. holds career averages of 2.2 points, 1.4 rebounds and 7.4 minutes in 25 games across two seasons with the Knicks (2024-26).",
-    "He was picked in the second round (56th overall) by Phoenix in the 2024 NBA Draft who traded his rights to New York.",
-    "Prior to the NBA, McCullar Jr. played three seasons at Texas Tech (2019-22) before transferring to Kansas (2022-24) where he was named First Team All-Big 12 as a fifth-year senior (2023-24) with the Jayhawks."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-working-to-be-better-in-resolving-early-season-turnover-woes",
-   "url": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-working-to-be-better-in-resolving-early-season-turnover-woes",
-   "canonical_url": "https://grizzlies.com/news/mikecheck-grizzlies-working-to-be-better-in-resolving-early-season-turnover-woes",
-   "title": "MikeCheck: Grizzlies ‘working to be better’ in resolving early-season turnover woes",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-05T17:10:16Z",
-   "tags": [
-    "Grind City Media",
-    "Michael Wallace",
-    "MikeCheck"
-   ],
-   "summary": "MEMPHIS – Starting 6-0 and standing as the NBA’s lone remaining unbeaten team catches the attention of the league and comes with a bit of a target.",
-   "facts": [
-    "Miscues costly in back-to-back losses MEMPHIS – Starting 6-0 and standing as the NBA’s lone remaining unbeaten team catches the attention of the league and comes with a bit of a target.",
-    "Here are my two takeaways from Wednesday’s 107-103 loss to the Pacers and a lookahead to Friday’s visit from the Thunder in the Emirates NBA Cup opener for both teams.",
-    "The Pacers became the latest team to capitalize on the Grizzlies’ miscues, scoring 24 points off 20 Memphis turnovers.",
-    "Compounding those issues was a 12-for-44 (27.3-percent) night from beyond the arc for the Grizzlies, who came in as the NBA’s best 3-point shooting team.",
-    "The Grizzlies have now allowed three straight opponents to score at least 21 points off their turnovers, including losses to the Pacers on Wednesday and the Pelicans two nights earlier.",
-    "For the season, opponents are averaging nearly 20 points off the Grizzlies’ 16.5 turnovers per game.",
-    "The Grizzlies have also shuffled their starting lineup four times through the first eight games of the season because of injury management, schedule demands and matchup adjustments.",
-    "Memphis had eight turnovers in the first quarter that led directly to 12 of Indiana’s first 32 points."
-   ],
-   "quotes": [
-    "We’re drawing the best shot from our opponents right now because of the way we started the season,",
-    "That’s great for us in the long term, and that allows us to develop and maybe see some things that have really hurt us. We can improve on those.",
-    "We have to be a little more patient with our actions,",
-    "We’ll continue to watch film to see how we can get better offensively, and we’ll do a good job with it."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/dan-dickau-emerged-as-fan-favorite-bright-spot-in-challenging-pre-katrina-campaign",
-   "url": "https://www.nba.com/pelicans/news/dan-dickau-emerged-as-fan-favorite-bright-spot-in-challenging-pre-katrina-campaign",
-   "canonical_url": "https://pelicans.com/news/dan-dickau-emerged-as-fan-favorite-bright-spot-in-challenging-pre-katrina-campaign",
-   "title": "Dan Dickau emerged as fan favorite, bright spot in challenging, pre-Katrina campaign | 25 On the Court",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-05T14:00:00Z",
-   "tags": [],
-   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
-   "facts": [
-    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
-    "With the NBA becoming a 30-team, six-division league starting in 2004-05, New Orleans’ permanent move to the Western Conference coincided with a “Murphy’s Law” kind of season: Just about everything that could go wrong di…",
-    "Under new head coach Byron Scott, the Hornets were injury-plagued and severely undermanned talent-wise on a nightly basis, leading to a not-a-misprint, 2-29 start.",
-    "Several ’04-05 Hornets who logged unexpectedly big minutes never appeared in another NBA game after that season, but a few positive individual stories emerged.",
-    "The most prominent silver lining was the rise of point guard Dan Dickau, who averaged 13.2 points in 67 appearances (46 starts) for New Orleans, by far the top scoring average of his six-year NBA career.",
-    "Wins were hard to come by, but the popular 6-foot, 190-pound floor general played a role in nearly every victory, including a 19-point, 16-assist night, as New Orleans upset Philadelphia in overtime.",
-    "The Hornets’ poor luck continued in the 2005 draft lottery, dropping to the No. 4 pick despite holding the NBA’s second-worst record.",
-    "Season overview (in 25 words or less) The worst season in team history was doomed by Thanksgiving."
    ],
    "quotes": []
   }
