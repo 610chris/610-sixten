@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T04:09:19+09:00",
+  "updated": "2026-11-08T09:57:36+09:00",
   "items": [
     {
       "id": "134",
@@ -26703,6 +26703,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "グリズリーズ、リッチー・サンダースとツーウェイ契約\n\n・全体32位指名のリッチー・サンダースと合意\n・2月のACL断裂からリハビリ中\n・合流練習が可能に\n\n💬 このツーウェイ契約、グリズリーズにとってアリ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Shams Charania（ESPN）のXポスト\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "876",
+      "slug": "876-pascal-siakam-23-points-nuggets",
+      "category": "NBA",
+      "date": "2026-11-08",
+      "headline": "シアカム、ナゲッツ戦で23得点",
+      "excerpt": "インディアナ・ペイサーズのパスカル・シアカム(Pascal Siakam)は現地時間11月7日、メキシコシティのアリーナCDMXで行われたNBAカップ・グループステージのデンバー・ナゲッツ戦に32分出場し、フィールドゴール18本中10本・3ポイント7本中2本を沈めて23得点を記録した。両チーム通じてこの日の最多得点者となったが、ペイサーズは102-114でナゲッツに敗れた。",
+      "points": [
+        "32分出場でFG10/18・3P2/7、23得点を記録",
+        "両チーム通じてこの日の最多得点者に",
+        "ペイサーズはメキシコシティで102-114の敗戦"
+      ],
+      "source": "ESPN ボックススコア(Pacers vs. Nuggets・2026年11月7日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/876-pascal-siakam-23-points-nuggets.html",
+      "hero_path": "",
+      "subject": [
+        "Pascal Siakam"
+      ],
+      "question": "ペイサーズ、このままシアカム頼みで巻き返せる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PASCAL SIAKAM",
+        "opponent": "vs. NUGGETS",
+        "points": 23,
+        "stats": [
+          "5 AST",
+          "2 REB",
+          "10/18 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/876-1.jpg",
+        "https://sixten.jp/assets/ig/876-2.jpg",
+        "https://sixten.jp/assets/ig/876-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-08T09:57:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シアカム、ナゲッツ戦で23得点\n\n・32分出場でFG10/18・3P2/7、23得点を記録\n・両チーム通じてこの日の最多得点者に\n・ペイサーズはメキシコシティで102-114の敗戦\n\n💬 ペイサーズ、このままシアカム頼みで巻き返せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Pacers vs. Nuggets・2026年11月7日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
