@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "887-76ers-8-1-start-insiders.html",
+    cat: "NBA",
+    title: "76ersの「8勝1敗」を球団関係者はどう見ているか —— マクシーへの信頼、レブロンとナースの新しい関係性",
+    excerpt: "ESPNのブライアン・ウィンドホースト記者とティム・マクマホン記者は現地時間11月6日、8勝1敗と好調なフィラデルフィア・76ers(Philadelphia 76ers)について、複数の匿名スカウト・フロント幹部の見方を集めた特集を公開した。レブロン・ジェームズ(LeBron James)ら5人のMVP経験者が揃う「スーパーチーム」がクラッチタイムで強さを見せる背景に、タイリース・マクシー(Tyrese Maxey)への信頼と、ニック・ナース(Nick Nurse)HCとの新しい関係構築があると報じている。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "886-jalen-duren-cleared-on-court-activity.html",
     cat: "NBA",
     title: "ジェイレン・デューレン、オンコート活動を許可 —— 右ハムストリング肉離れから2週間、ピストンズが発表",
