@@ -1,8 +1,118 @@
 {
- "updated_utc": "2026-11-08 19:03 UTC",
+ "updated_utc": "2026-11-08 23:06 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "roster",
+   "key": "https://www.nba.com/thunder/news/nique-clifford-261108",
+   "url": "https://www.nba.com/thunder/news/nique-clifford-261108",
+   "canonical_url": "https://okcthunder.com/news/nique-clifford-261108",
+   "title": "Thunder Acquires Nique Clifford",
+   "author": "okcthunder",
+   "published_utc": "2026-11-08T20:49:53Z",
+   "tags": [],
+   "summary": "OKLAHOMA CITY, Nov. 8, 2026 - The Oklahoma City Thunder has acquired guard/forward Nique Clifford from the Sacramento Kings in exchange for a 2028 second-round draft pick (Utah Jazz) and a 2030 second-round draft pick (Minnesota Timberwolves), it was announced today by Executive Vice President and General Manager Sam Presti.",
+   "facts": [
+    "OKLAHOMA CITY, Nov. 8, 2026 - The Oklahoma City Thunder has acquired guard/forward Nique Clifford from the Sacramento Kings in exchange for a 2028 second-round draft pick (Utah Jazz) and a 2030 second-round draft pick (M…",
+    "Clifford (6-5, 210) had his draft rights acquired by the Sacramento Kings after being selected 24th overall in the 2025 NBA Draft and has appeared in 83 career games (28 starts), averaging 7.9 points, 3.5 rebounds and 2.…",
+    "The Colorado State product averaged 18.9 points, 9.6 rebounds, 4.4 assists and 1.19 steals in 35.4 minutes per game during the final season of his collegiate career.",
+    "In a related move, Oklahoma City has waived guard/forward Dalen Terry."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "SAC 公式（nba.com）",
+   "team": "SAC",
+   "team_ja": "キングス",
+   "team_id": 1610612758,
+   "kind": "roster",
+   "key": "https://www.nba.com/kings/news/sacramento-kings-complete-trade",
+   "url": "https://www.nba.com/kings/news/sacramento-kings-complete-trade",
+   "canonical_url": "https://kings.com/news/sacramento-kings-complete-trade",
+   "title": "Sacramento Kings Complete Trade",
+   "author": "Offical Release",
+   "published_utc": "2026-11-08T20:47:50Z",
+   "tags": [
+    "Press Release",
+    "Trade"
+   ],
+   "summary": "The Sacramento Kings announced today that the team has traded guard Nique Clifford to the Oklahoma City Thunder in exchange for an unprotected 2028 second-round draft pick via Utah and an unprotected 2030 second-round draft pick via Minnesota.",
+   "facts": [
+    "The Sacramento Kings announced today that the team has traded guard Nique Clifford to the Oklahoma City Thunder in exchange for an unprotected 2028 second-round draft pick via Utah and an unprotected 2030 second-round dr…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/pacers-experience-special-atmosphere-in-mexico-city-game",
+   "url": "https://www.nba.com/pacers/news/pacers-experience-special-atmosphere-in-mexico-city-game",
+   "canonical_url": "https://pacers.com/news/pacers-experience-special-atmosphere-in-mexico-city-game",
+   "title": "Pacers Experience Special Atmosphere in Mexico City Game",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-08T20:12:10Z",
+   "tags": [
+    "NBA Mexico City Game 2026"
+   ],
+   "summary": "MEXICO CITY — With 6:33 left in the fourth quarter of Saturday's NBA Mexico City Game 2026, Arena CDMX came to life. The Pacers were mounting a serious comeback, whittling what was once a 27-point deficit down to single digits, and the sold-out arena had responded, erupting louder with each Indiana 3-pointer that pulled the Blue & Gold closer.",
+   "facts": [
+    "MEXICO CITY — With 6:33 left in the fourth quarter of Saturday's NBA Mexico City Game 2026, Arena CDMX came to life.",
+    "The Pacers were mounting a serious comeback, whittling what was once a 27-point deficit down to single digits, and the sold-out arena had responded, erupting louder with each Indiana 3-pointer that pulled the Blue & Gold…",
+    "Jarace Walker had just buried one a minute earlier to trim Denver's lead to 102-95, then had a chance on the next possession to knock down another to make it a four-point game.",
+    "And when the emcee announced it was time for the karaoke cam, nearly all of the 22,000 fans in attendance turned on the flashlight on their cell phones and held them aloft, swaying side to side and belting out the lyrics…",
+    "Indiana ultimately did not pull off the comeback, falling to the Nuggets, 114-102.",
+    "Indiana fell behind by double digits early, with the Nuggets breaking the game open with a 15-0 run early in the second quarter.",
+    "The Pacers trailed by as many as 27 points in the first half and found themselves down 64-41 heading into halftime.",
+    "Pacers players were breathing heavily during early timeouts ,and the Nuggets — who play their home games in the Mile High City — seemed more acclimated to the 7,350-feet elevation of Mexico City (2,000 feet higher even t…"
+   ],
+   "quotes": [
+    "This is a massive arena, it’s a big stadium,",
+    "And the fans filled it. They were loud and up all game…This is a special place, such a massive city and a culture that does love basketball. Basketball is universal, it’s appreciated throughout, and w…",
+    "I thought our force and energy was way better in the second half,",
+    "That’s the way we’ve got to start the game."
+   ]
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-pelicans-11-8-26",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-pelicans-11-8-26",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-pelicans-11-8-26",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Pelicans",
+   "author": "LAClippers",
+   "published_utc": "2026-11-08T19:45:52Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Derrick Jones Jr.",
+    "Game Previews",
+    "Injury Report",
+    "Keaton Wagler"
+   ],
+   "summary": "Last Matchup: 03/19/2026 | LAC 99 - NOP 105 | D.Jones Jr.: 22 PTS - T.Murphy III: 27 PTSThe Clippers have shot at least 45.0% from the field in 13 straight games against the Pelicans. That is the second-longest all-time streak against the Pelicans, trailing only a 16-game streak by the Suns from 2006 to 2011.Kris Dunn has 36 assists to go with 22 steals so far this season. Over the last 40 years, …",
+   "facts": [
+    "ORLEANS PELICANS FIVE THINGS TO KNOW Last Matchup: 03/19/2026 | LAC 99 - NOP 105 | D.Jones Jr.: 22 PTS - T.Murphy III: 27 PTSThe Clippers have shot at least 45.0% from the field in 13 straight games against the Pelicans.",
+    "That is the second-longest all-time streak against the Pelicans, trailing only a 16-game streak by the Suns from 2006 to 2011.Kris Dunn has 36 assists to go with 22 steals so far this season.",
+    "Over the last 40 years, the only other Clippers to reach those marks in their first eight games of a season are Paul George (2021-22) and Chris Paul (three times).The Clippers are the only team in the NBA that has yet to…",
+    "Their 3PT% allowed of 27.3% is the Clippers’ lowest through four home games since 2015-16 (25.9%).Last game was the 179th time in Brook Lopez’s career that he made multiple threes and blocked multiple shots.",
+    "Only Kevin Durant (226) has more such games in NBA history.BONUS: Keaton Wagler has sunk 41 free throws in eight games this season – all off the bench.",
+    "Since the 1976 merger, the only player with as many free throws made in their first eight career games without starting is the Warriors’ Sarunas Marciulionis in 1989 (51). 26-27 OPPONENT COMPARISON"
+   ],
+   "quotes": []
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -28,6 +138,30 @@
     "In the most recent road game at Memphis, he notched a career-high 25 points and sank five threes."
    ],
    "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
+   "url": "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
+   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
+   "title": "Dallas Mavericks and New Balance Announce Multi-Year Agreement",
+   "author": "Dallas Mavericks",
+   "published_utc": "2026-11-08T15:55:00Z",
+   "tags": [],
+   "summary": "DALLAS (Nov. 8, 2026) – The Dallas Mavericks announced today a multi-year agreement with New Balance, naming New Balance the Official Footwear and Apparel Partner of the franchise.",
+   "facts": [
+    "DALLAS (Nov. 8, 2026) – The Dallas Mavericks announced today a multi-year agreement with New Balance, naming New Balance the Official Footwear and Apparel Partner of the franchise."
+   ],
+   "quotes": [
+    "We’re excited to welcome New Balance to the Mavericks family,",
+    "As one of the most innovative and respected brands in sports, New Balance brings a tremendous opportunity to build on its partnership with Cooper, while creating unique experiences for our fans and ma…",
+    "Dallas has an incredible basketball culture, and our relationship with the Mavericks gives us an exciting opportunity to become more connected to that community,",
+    "With Cooper beginning his career here, there’s a natural connection for New Balance to show up alongside him and create meaningful experiences for Mavericks fans."
+   ]
   },
   {
    "source": "UTA 公式（nba.com）",
@@ -97,6 +231,34 @@
    "quotes": [
     "I think there are a lot of good things we can take away from (this game). I thought a lot of guys stepped up and played really aggressive. We are going to need everybody to play like that. I think big…"
    ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-mavericks-261109",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-mavericks-261109",
+   "canonical_url": "https://pacers.com/news/preview-pacers-mavericks-261109",
+   "title": "Game Preview: Pacers at Mavericks",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-08T14:45:00Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Monday, Nov. 9 at 8:00 PM ET at American Airlines Center",
+   "facts": [
+    "Monday, Nov. 9 at 8:00 PM ET at American Airlines Center Game Preview The Pacers (3-7) will conclude their road trip in Dallas on Monday as they rematch with Cooper Flagg and the Mavericks (5-4).",
+    "Pascal Siakam led the Pacers in Mexico City as he recorded 23 points and surpassed the 13,000 points for his career.",
+    "Ivica Zubac was limited by foul trouble, but still recorded his second double-double of the season with 10 points and 12 rebounds.",
+    "Indiana’s initial meeting with the Mavericks was underwhelming – the Pacers managed just 43 points in the first half while the Mavericks scored 44 in just the first quarter.",
+    "The reigning Rookie of the Year is averaging 24 points, nearly seven rebounds, and north of six assists per game.",
+    "His efficiency has taken a hit – Flagg is shooting 47 percent from the field, but is knocking down just 22 percent of his looks from 3-point range.",
+    "Kyrie Irving is Dallas’ only other player averaging 20 or more points per game at 21.4.",
+    "Irving’s efficiency is similar to Flagg’s – he’s shooting about 46 percent from the field – but his 3-point shot is much more reliable."
+   ],
+   "quotes": []
   },
   {
    "source": "PHI 公式（nba.com）",
@@ -284,29 +446,29 @@
    "key": "https://www.nba.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
    "url": "https://www.nba.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
    "canonical_url": "https://mavs.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
-   "title": "Mavericks-Net preview: Washington hoping to continue his red-hot three-point shooting",
+   "title": "Mavericks-Nets preview: Washington hoping to continue red-hot three-point shooting",
    "author": "Dwain Price",
    "published_utc": "2026-11-07T23:52:22Z",
    "tags": [
     "dallas mavericks",
     "nba"
    ],
-   "summary": "After P. J. Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eight-year veteran forward’s importance to the Dallas Mavericks.",
+   "summary": "After P.J. Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eighth-year forward’s importance to the Dallas Mavericks.",
    "facts": [
-    "Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eight-year veteran forward’s importance to the Dallas Mavericks.",
+    "Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eighth-year forward’s importance to the Dallas Mavericks.",
     "That was particularly true in the first half when Washington scored 16 of his 22-first half points in the second quarter.",
-    "In the first half which ended tied at 57-57, Washington was 6-of-7 from the field, including 5-of-6 from behind the third-point line.",
+    "In the first half which ended tied at 57, Washington was 6-of-7 from the field, including 5-of-6 from behind the three-point line.",
     "In 13 minutes against the Jazz, Aldama scored eight points and collected nine rebounds – with four of them coming off the offensive glass.",
     "The Mavs are 1-0 on the first leg of a back-to-back, having won in Indiana, 121-105, on Oct. 23. *Michael Porter Jr. (21.4 ppg, 7.4 rpg), Plano native Julius Randle (21 ppg, 7.1 rpg), Mikel Brown Jr. (12 ppg), Nolan Trao…",
-    "And after not playing since undergoing surgery on his right knee last March while he was playing for the Memphis Grizzlies, Aldama played his first game for the Mavs on Friday against Utah and responded with eight points…",
-    "Michael Porter Jr. had 25 points and nine rebounds in that game for the Nets, who also got 19 points from Julius Randle and 18 points from Mikel Brown Jr.",
-    "In addition, Nolan Traore finished with 19 points and five steals for Brooklyn."
+    "And after not playing since undergoing surgery on his right knee last March, Aldama played his first game for the Mavs on Friday against Utah and responded with eight points and nine rebounds in just 13 minutes.",
+    "Porter had 25 points and nine rebounds for the Nets, who also got 19 points from Randle and 18 from Brown.",
+    "Brooklyn Nets (2-7) vs."
    ],
    "quotes": [
-    "We need P. J. to be a three-point shooter for us,",
+    "We need P.J. to be a three-point shooter for us,",
     "He’s one of those guys that we played him at the five against San Antonio (on Wednesday), we played him at the four, we played him at the three when we want to go big.",
     "I love him shooting with that amount of confidence, because we need it,",
-    "We won the hustle plays in the first half, but without his shots we’ll have a deficit."
+    "But overall, just a really good game by P.J., especially in the first half. We won the hustle plays in the first half, but without his shots we’ll have a deficit."
    ]
   },
   {
@@ -386,7 +548,7 @@
     "The Pelicans travel to Los Angeles on Sunday to face the Clippers at the Intuit Dome at 8:00 pm CT.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
     "Get the latest Pelicans-Clippers injury report, team news, tune in details, and gameday information: PELICANS VS CLIPPERS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Malik Dia OU…",
-    "OUT (G League two-way) CLIPPERS INJURY REPORT TBA PELICANS VS CLIPPERS: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS CLIPPERS STARTING LINEUPS LA CLIPPERS (1-7) Previous Game Lineup: Novembe…",
+    "OUT (G League two-way) CLIPPERS INJURY REPORT Bradley Beal OUT (right knee injury management) Brandon Ingram OUT (right heel) Isaish Jackson OUT (left groin) Jordan Miller OUT (left rotator cuff) Konan Yanic Niederhauser…",
     "Miami Heat Derrick Jones Jr., Rui Hachimura, Brook Lopez, Kris Dunn, Darius Garland NEW ORLEANS PELICANS (4-4) Previous Game Lineup: November 6 loss vs.",
     "Clippers Game Time, TV Channel, Radio & Location 📅 Game Time: Sunday, Nov. 8 at 8:00 pm CT🏟️ Location: Intuit Dome in Inglewood, CA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Clippers TV: ClipperVision📻 Clipper…"
    ],
@@ -689,7 +851,7 @@
    "key": "https://www.nba.com/mavs/news/santi-aldama-was-very-impressive-in-his-first-game-with-mavericks",
    "url": "https://www.nba.com/mavs/news/santi-aldama-was-very-impressive-in-his-first-game-with-mavericks",
    "canonical_url": "https://mavs.com/mavs/news/santi-aldama-was-very-impressive-in-his-first-game-with-mavericks",
-   "title": "Santi Aldama was very impressive in his first game with Mavericks",
+   "title": "Santi Aldama impressive in his first game with Mavericks",
    "author": "Dwain Price",
    "published_utc": "2026-11-07T05:17:59Z",
    "tags": [
@@ -700,14 +862,14 @@
    "facts": [
     "Aldama made his Mavs' debut with 8:03 remaining in the second quarter of Friday's game against the Utah Jazz.",
     "By the time the Mavs wound up beating the Jazz, 112-100, Aldama had played 13 minutes and finished with eight points and nine rebounds.",
-    "The Mavs obtained the 7-foot center in a trade on July 8, and they’ve been patiently waiting for him finish going through his rehab process so he can start contributing to their team.",
+    "The Mavs obtained the 7-foot center in a trade on July 8, and they’ve been patiently waiting for him to finish his rehab process so he can start contributing.",
     "But Flagg and Irving combined to score 21 of the Mavs’ ensuing 22 points.",
     "That jump-started a 22-10 run by the Mavs – Flagg scored 13 of those points and Irving had eight -- and netted Dallas a comfortable 81-70 lead.",
     "On Friday, the 10 year-old kid from Los Angeles found himself having a day he’ll never forget, ending with him and his dad attending the game between the Dallas Mavericks and Utah Jazz."
    ],
    "quotes": [
     "I’m just honestly happy to be out there,",
-    "I haven’t even practiced with these guys. I done some walk-through with the second unit, but not the first. The only way where we can find some common ground is playing hard, and just credit to them f…",
+    "I haven’t even practiced with these guys. I did some walk-through with the second unit, but not the first. The only way where we can find some common ground is playing hard, and credit to them for mak…",
     "Obviously, he’s shot the ball at a high clip his entire life and we have several guys who are going to shoot it better,",
     "The thing with Santi, though, his feel for the game and his ability to make a lot of the concepts in action. . .he’s got a great feel. So, he makes it make sense and it seems like when he’s out there …"
    ]
@@ -1404,218 +1566,6 @@
     "We have to do a better job — and I pride myself on a lot of it — of communicating early,",
     "It’s a two-sided thing. Not just talking, but also receiving information and making sure you are in the right spots. But this is a team that wants to be right, wants to be good. We know what we are ca…"
    ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-kick-off-nba-cup-play-against-the-dallas-mavericks",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-kick-off-nba-cup-play-against-the-dallas-mavericks",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-kick-off-nba-cup-play-against-the-dallas-mavericks",
-   "title": "Preview: Utah Jazz Kick off NBA Cup Play Against the Dallas Mavericks",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-05T22:52:15Z",
-   "tags": [
-    "Keyonte George",
-    "Lauri Markkanen",
-    "Utah Jazz"
-   ],
-   "summary": "For the Utah Jazz, the start of the 2026-27 has presented significant adversity to fight through.",
-   "facts": [
-    "For the Utah Jazz, the start of the 2026-27 has presented significant adversity to fight through.",
-    "Utah’s frontcourt rotation has taken a hit due to injuries to both Jaren Jackson Jr. and Jusuf Nurkic, while a cold shooting spell has hamstrung the team’s offense.",
-    "Keyonte George (39 points, nine assists) was dynamic Wednesday night against the New Orleans Pelicans, but Utah’s offense struggled down the stretch of overtime in a 120-113 defeat.",
-    "Lauri Markkanen gutted through some pain and extensive minutes at the five spot as he put up a double-double (21 points, 10 rebounds), but the Jazz went 11-of-47 from deep (23 percent) and couldn’t contain the Pelicans’ …",
-    "Dallas (4-4) has benefitted from a hot start from Cooper Flagg (24.3 points, 6.3 rebounds, and 6.3 assists per game) and the return of Kyrie Irving (22.7 points per game), which has resulted in some impressive early vict…",
-    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate Tear) Mavericks injury report: OU…",
-    "Dallas has had success on the offensive glass (12th in offensive rebound percentage), but have struggled mightily on the other end, ranking 29th in opponent offensive rebound percentage.",
-    "Although Utah hasn’t generated consistent success on the offensive glass to begin this season (18th), Friday’s game could present an opportunity to generate second-chance opportunities."
-   ],
-   "quotes": [
-    "It’s a long year, every team faces adversity and shooting slumps,",
-    "Ours just happens to be here at the beginning, so it makes it feel a lot worse than maybe it would in two months."
-   ]
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/rui-hachimura-is-ready-for-his-role-with-the-clippers",
-   "url": "https://www.nba.com/clippers/news/rui-hachimura-is-ready-for-his-role-with-the-clippers",
-   "canonical_url": "https://clippers.com/news/rui-hachimura-is-ready-for-his-role-with-the-clippers",
-   "title": "Rui Hachimura is Ready for His Role with the Clippers",
-   "author": "OHM YOUNGMISUK",
-   "published_utc": "2026-11-05T22:45:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Japan",
-    "LA Clippers",
-    "Ohm Youngmisuk",
-    "Rui Hachimura",
-    "Tokyo",
-    "Ty Lue"
-   ],
-   "summary": "Ty Lue didn’t know what to expect when Rui Hachimura took him out to dinner in Tokyo this past summer.",
-   "facts": [
-    "Lue flew 12 hours across the Pacific to figure out how to best use Hachimura’s strengths, where his preferred spots are, and how to best fit into Lue’s system.",
-    "And that is what he was hoping for when he signed a two-year, $28-million deal with the Clippers in free agency in early July.",
-    "He averaged a postseason career-high 17.5 points, 4.0 rebounds and an NBA playoff-best 56.9% from 3-point range during the Lakers’ 10 playoff games without an injured Luka Doncic.",
-    "With Austin Reaves also out due to injury in the first round, Hachimura was the team’s second-leading scorer, averaging 15.8 points per game in the six-game series win over Houston.",
-    "He can spot up and shoot 3s.",
-    "In the first half of the preseason opener against the Warriors, Hachimura gave a glimpse of the variety of ways he can score, drilling 4-of-5 3-pointers, working the midrange, and catching a long pass and going in for a …",
-    "Scoring 21 points in just 15 minutes, Hachimura showed in his debut what he can bring to the Clippers.",
-    "The 6-8 forward is shooting 36.9% in his first five games and acknowledged the step up from role player to focal point."
-   ],
-   "quotes": [
-    "He had the chefs lined up making these incredible meals,",
-    "He had me try [slices of] steak which you dip it in the egg yolk. It was unbelievable.",
-    "Without him saying anything [to me], he was trying to be more open with me,",
-    "That's the thing that he is trying -- to be more open with me. And I'm trying to [do the same.]"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-jazz-preview-in-season-tourney-affords-bounce-back-chances",
-   "url": "https://www.nba.com/mavs/news/mavericks-jazz-preview-in-season-tourney-affords-bounce-back-chances",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-jazz-preview-in-season-tourney-affords-bounce-back-chances",
-   "title": "Mavericks-Jazz preview: In-season tourney affords bounce-back chances",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-05T21:00:00Z",
-   "tags": [],
-   "summary": "The Emirates NBA Cup is the fancy name given to the league’s in-season tournament.",
-   "facts": [
-    "Teams that qualify for the quarterfinals make about $50,000 per player.",
-    "The players on the NBA Cup championship team will earn in excess of $500,000 each, which isn’t a bad bonus for a highly paid veteran and is a huge windfall for a young player on the fringe of the roster.",
-    "The NBA Cup runner-up payout is about $200,000 per player.",
-    "The Mavericks got off to a great Cup start with their 116-111 win over Houston.",
-    "Their final two group-stage games are at Denver on Nov. 24 and at Phoenix on Nov. 27.",
-    "They have a .500 record (4-4) and have played many of the presumed top teams in the league (Miami, Houston twice, San Antonio twice, Indiana, Oklahoma City).",
-    "On top of that, they are riding their first losing streak of the season, having dropped a regrettable loss at home to Sacramento and suffering a heartbreaking 112-111 setback Wednesday at San Antonio.",
-    "In the two losses, Flagg was a combined 10-of-38 shooting and 0-of-7 from three-point range."
-   ],
-   "quotes": [
-    "It’s the in-season tournament and depending on which team you play against, some teams are taking it serious, some teams aren’t,",
-    "(It’s not) about me playing well or Cooper (Flagg) playing well. We really need to have possessions where they really matter and guys were making the right plays – or weren’t making the right plays an…"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-phoenix-suns-game-preview-injury-report-20261105",
-   "url": "https://www.nba.com/magic/news/orlando-magic-phoenix-suns-game-preview-injury-report-20261105",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-phoenix-suns-game-preview-injury-report-20261105",
-   "title": "Orlando Magic at Phoenix Suns: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-11-05T20:54:46Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "The Orlando Magic are hoping their second road trip of the season goes similar to their first.",
-   "facts": [
-    "Orlando went 2-1 in its first action away from the Kia Center and is now aiming to pull off a similar feat when it heads out West for the first time this season.",
-    "The Magic (2-5) look to get back in the win column when they visit the Phoenix Suns (1-5) on Thursday at 9 p.m.",
-    "Ball handlers like Paolo Banchero and Jalen Suggs have been sidelined for extended stretches, and guard Anthony Black, who’s expected to play tonight, has missed three games with an ankle injury.",
-    "But regardless of who’s on the floor, the Magic are looking to cut back on their 17.3 giveaways per outing.",
-    "Its offense is still led by guard Devin Booker, who’s averaging 24.7 points per contest.",
-    "The Suns move the ball with efficiency, ranking both top 10 in assists (27.4) and fewest turnovers (14.7) per game.",
-    "Per Sportradar, the Suns are one of just two teams surrendering a 3-point percentage of at least 40 percent this season (the other is the Miami Heat).",
-    "IN AND OUT: Banchero (right low-grade high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery), Noah Penda (right partially torn hamstring) and Suggs (right knee contu…"
-   ],
-   "quotes": [
-    "(We need to) keep our spirits high and play an intense game for 48 minutes,",
-    "And clean up some of the execution stuff on offense.",
-    "We haven’t started at home the way we’ve wanted to,",
-    "So, these games are really important for us now. Clean up some of the turnovers and some of our execution in general. And keep our spirits high. It’s still early in the season and I think we have a go…"
-   ]
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "feature",
-   "key": "https://www.nba.com/suns/news/11-05-2026-suns-vs-magic-game-preview",
-   "url": "https://www.nba.com/suns/news/11-05-2026-suns-vs-magic-game-preview",
-   "canonical_url": "https://suns.com/news/11-05-2026-suns-vs-magic-game-preview",
-   "title": "11/05/2026 Suns vs Magic Game Preview",
-   "author": "Phoenix Suns",
-   "published_utc": "2026-11-05T20:33:20Z",
-   "tags": [
-    "2026-27"
-   ],
-   "summary": "Date: Thursday, November 5, 2026Time: 7:00 p.m. MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Magic: Association Edition (White)",
-   "facts": [
-    "Game Info Date: Thursday, November 5, 2026Time: 7:00 p.m.",
-    "MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Magic: Association Edition (White) Series Notes The Sun…",
-    "Jalen Green hit a game winning three-pointer as time expired, giving Phoenix a 113-110 win Key Connections Magic guard Jevon Carter was a member of the Suns from 2019-21, appearing 118 times and was a part of Phoenix's N…",
-    "Portland on Nov. 4Recorded 20 points in the first half vs.",
-    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
-    "PortlandHas totaled 63 points, 23 rebounds, 10 assists, 7 steals and 4 blocks in his last three games, the first Suns players with those numbers in a three-game stretch since Amar'e Stoudemire in 2008 Surpassed 8,000 car…",
-    "Portland on Nov. 4Has multiple blocks in consecutive games for the first time in his careerJoined Devin Booker as the third Suns duo in franchise history to post consecutive 30+ point games in the same contests in 2025-2…",
-    "PortlandTurned 30 years old on Oct. 30, exiting his 20's with the 11th most points in NBA history by any player before their 30th birthdayHis 43 points against Golden State on Oct. 24 were the most by a Sun in a home ope…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-timberwolves-injury-report-game-preview-11-6-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-timberwolves-injury-report-game-preview-11-6-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-timberwolves-injury-report-game-preview-11-6-2026",
-   "title": "Pelicans vs. Timberwolves: Injury Report, Game Preview 11/6/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-05T20:07:32Z",
-   "tags": [],
-   "summary": "The Pelicans host the Minnesota Timberwolves on Friday to kick off their NBA Cup stretch at the Smoothie King Center at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans host the Minnesota Timberwolves on Friday to kick off their NBA Cup stretch at the Smoothie King Center at 7:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Timberwolves injury report, team news, tune in details, and gameday information: PELICANS VS TIMBERWOLVES INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Mali…",
-    "OUT (G League two-way) Trey Murphy III AVAILABLE (bilateral patella tendinopathy) Julian Reese AVAILABLE (G League two-way) TIMBERWOLVES INJURY REPORT Donte DiVincenzo OUT (right achilles) Anthony Edwards OUT (right knee…",
-    "OUT (left hip contusion) PELICANS VS TIMBERWOLVES: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS TIMBERWOLVES STARTING LINEUPS MINNESOTA TIMBERWOLVES (6-3) Previous Game Lineup: November 4 wi…",
-    "Timberwolves Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 6 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Co…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-phicle-261106",
-   "url": "https://www.nba.com/cavaliers/news/preview-phicle-261106",
-   "canonical_url": "https://cavs.com/news/preview-phicle-261106",
-   "title": "Cavs vs 76ers | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-11-05T19:39:13Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "In the first NBA Cup game of the season, the Cavs start East Group B action tonight against the Philadelphia 76ers. The other three teams in the group are Miami, Indiana, and New York.",
-   "facts": [
-    "THE FIRST CUP NIGHT In the first NBA Cup game of the season, the Cavs start East Group B action tonight against the Philadelphia 76ers.",
-    "Donovan Mitchell led the way with 27 points, including 14 in the fourth, making four threes in the period.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Peyton Watson - Hamstring - QUESTIONABLE -Jarrett Allen - Knee - QUESTIONABLE -Tyrese Proctor - Ankle - QUESTIONABLE -Jaylon Tyson - Ankle - OUT -Nae'Qwan Toml…"
-   ],
-   "quotes": []
   }
  ]
 }
