@@ -883,6 +883,19 @@
   "template": "news",
   "timestamp": "2026-11-02T01:17:23+0000"
  },
+ "17910223761583825": {
+  "auto": false,
+  "caption_len": 104,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "八村塁のシュートを間近で見た高校生。",
+  "permalink": "https://www.instagram.com/reel/DfclR6NgpsE/",
+  "product": "REELS",
+  "timestamp": "2026-11-07T16:13:12+0000"
+ },
  "17910388265645839": {
   "auto": false,
   "caption_len": 85,
@@ -2233,6 +2246,29 @@
   "product": "REELS",
   "timestamp": "2022-10-22T06:37:30+0000"
  },
+ "17947333257358527": {
+  "article": "865",
+  "auto": true,
+  "caption_len": 338,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジョージ、ホークス戦で33得点 —— ウィザーズは132-139で敗戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbK0jxiRA-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Wizards vs. Hawks)",
+  "subject": [
+   "Kyshawn George"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T03:02:27+0000"
+ },
  "17948363255032705": {
   "auto": false,
   "caption_len": 86,
@@ -2902,6 +2938,29 @@
   "template": "score",
   "timestamp": "2026-11-03T03:27:12+0000"
  },
+ "17966945964217645": {
+  "article": "874",
+  "auto": true,
+  "caption_len": 368,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ルカ・ドンチッチ、トレイルブレイザーズ戦で53得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbmMLamKrE/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Lakers vs. Trail Blazers・2026年11月6日)",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T07:01:31+0000"
+ },
  "17967888954239537": {
   "arms": {
    "ig-2026-10-share-cta": "A"
@@ -2987,6 +3046,29 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-11-05T10:00:53+0000"
+ },
+ "17969623584189764": {
+  "article": "868",
+  "auto": true,
+  "caption_len": 293,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "RJ・バレット、バックス戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbSrEGlYzU/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "RJ Barrett"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T04:11:03+0000"
  },
  "17972459727153879": {
   "arms": {
@@ -3238,6 +3320,29 @@
   "product": "REELS",
   "timestamp": "2022-10-22T08:26:54+0000"
  },
+ "17980935708125563": {
+  "article": "864",
+  "auto": true,
+  "caption_len": 356,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テイタム、ホーネッツ戦で34得点 —— セルティックスが119-80で大勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbKjgxDXKs/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Celtics vs. Hornets)",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T03:00:07+0000"
+ },
  "17981259752905658": {
   "article": "279",
   "auto": true,
@@ -3409,6 +3514,52 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-02T10:03:37+0000"
+ },
+ "17991192057116728": {
+  "article": "870",
+  "auto": true,
+  "caption_len": 303,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "P・J・ワシントン、ジャズ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbTR6WjH_V/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "P.J. Washington"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T04:16:22+0000"
+ },
+ "17992547385095941": {
+  "article": "867",
+  "auto": true,
+  "caption_len": 310,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エイジェイ・ミッチェル、グリズリーズ戦で35得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbScFpE2AZ/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Ajay Mitchell"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T04:08:44+0000"
  },
  "17992955847100313": {
   "arms": {
@@ -3807,6 +3958,19 @@
   ],
   "template": "score",
   "timestamp": "2026-10-13T02:02:50+0000"
+ },
+ "18013452416993147": {
+  "auto": false,
+  "caption_len": 117,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "なぜフローターより、レイアップなのか。",
+  "permalink": "https://www.instagram.com/reel/Dfb6SSagTDA/",
+  "product": "REELS",
+  "timestamp": "2026-11-07T09:57:16+0000"
  },
  "18014921195966665": {
   "arms": {
@@ -6991,6 +7155,29 @@
   "template": "news",
   "timestamp": "2026-11-04T10:01:43+0000"
  },
+ "18110324951229456": {
+  "article": "869",
+  "auto": true,
+  "caption_len": 303,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アライジャ・マーティン、バックス戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbS_spEYCz/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Alijah Martin"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T04:13:53+0000"
+ },
  "18110436938521744": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -7017,6 +7204,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-26T02:25:26+0000"
+ },
+ "18110496905356645": {
+  "article": "873",
+  "auto": true,
+  "caption_len": 316,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン、クリーブランド凱旋で自己最悪級の8得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbgBLGjFwl/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-07T06:07:41+0000"
  },
  "18110738405461496": {
   "arms": {
@@ -7730,6 +7940,29 @@
   "template": "score",
   "timestamp": "2026-10-24T02:59:03+0000"
  },
+ "18115839752599391": {
+  "article": "866",
+  "auto": true,
+  "caption_len": 338,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミッチェル、76ers戦で23得点8アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfbNCB5iJht/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Cavaliers vs. 76ers・2026年11月6日)",
+  "subject": [
+   "Donovan Mitchell"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T03:21:45+0000"
+ },
  "18115999097143536": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -8201,6 +8434,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-26T13:02:28+0000"
+ },
+ "18119261191976637": {
+  "article": "872",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、キングス戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfbfwg1jG_p/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Spurs vs. Kings・2026年11月6日)",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-07T06:05:23+0000"
  },
  "18119521814484210": {
   "article": "304",
@@ -10800,6 +11056,29 @@
   "permalink": "https://www.instagram.com/reel/CcO_HbKgDMK/",
   "product": "REELS",
   "timestamp": "2022-04-12T02:25:45+0000"
+ },
+ "18193026424408790": {
+  "article": "876",
+  "auto": true,
+  "caption_len": 344,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "シアカム、ナゲッツ戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfdhvBNGdeH/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Pacers vs. Nuggets・2026年11月7日)",
+  "subject": [
+   "Pascal Siakam"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-08T01:01:09+0000"
  },
  "18194643010396583": {
   "arms": {
