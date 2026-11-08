@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "883-jaylen-brown-onoff-rapm-trade.html",
+    cat: "NBA",
+    title: "ジェイレン・ブラウンは、なぜ「数字の裏」で評価が割れたのか —— オン/オフデータとRAPMが語るセルティックス-76ersトレードの舞台裏",
+    excerpt: "ESPNのザック・クラム記者は現地時間11月8日、ジェイレン・ブラウン(Jaylen Brown)の「オン/オフ」データを軸に、セルティックスが今夏ブラウンを76ersへ放出した背景を分析した特集を公開。28.7得点のオールスターがなぜ先進統計で評価されなかったのかを探る。",
+    date: "2026.11.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "882-devin-booker-24-points-rockets.html",
     cat: "NBA",
     title: "デビン・ブッカー、ロケッツ戦で24得点 —— サンズが102-99で接戦制す",
