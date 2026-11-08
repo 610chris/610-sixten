@@ -53,10 +53,13 @@
    "at": "2026-11-08T12:00:00+09:00",
    "video_url": "https://github.com/610chris/610-sixten/releases/download/clips-ig/R01.mp4",
    "caption": "ジョーダン、コービー、レブロン…\nこのキャリアを最初から描いてた？八村塁の答え。\n\n▶ 続きはYouTube「クリスのバスケ日記」で\n（@muwe.c のプロフィールから）\n\n#八村塁 #NBA #クリスのバスケ日記",
-   "state": "pending",
+   "state": "posted",
    "yt_url": "https://youtube.com/shorts/TOjpHCrfxh0",
    "attempts": 2,
-   "error": "container {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18284362762306636'}"
+   "error": "container {'status_code': 'ERROR', 'status': 'ERROR', 'id': '18284362762306636'}",
+   "media_id": "17914814838492623",
+   "posted_at": "2026-11-09T01:35:15+09:00",
+   "permalink": "https://www.instagram.com/reel/DffMlN9jfhh/"
   },
   {
    "id": "N03",
