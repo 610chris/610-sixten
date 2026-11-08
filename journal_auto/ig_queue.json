@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T04:24:53+09:00",
+  "updated": "2026-11-09T08:00:00+09:00",
   "items": [
     {
       "id": "134",
@@ -27168,6 +27168,87 @@
       "ig_media_id": null,
       "error": null,
       "caption": "76ersが8勝1敗の好スタート —— 球団関係者が語る内情\n\n・ディフェンスはリーグ上位3位、クラッチタイムは7戦7勝\n・台頭するマクシーへの信頼が接戦を支える\n・レブロンとナースは開幕前から関係構築、課題はバックアップビッグの層の薄さ\n\n💬 76ers、このまま優勝候補になれる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（ブライアン・ウィンドホースト記者、ティム・マクマホン記者）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "888",
+      "slug": "888-kon-knueppel-hamstring-strain-hornets",
+      "category": "NBA",
+      "date": "2026-11-09",
+      "headline": "カニップル、左ハムストリング再負傷で最低4週間離脱",
+      "excerpt": "シャーロット・ホーネッツは現地時間11月8日(日)、2年目ガードのコン・カニップル(Kon Knueppel)が左ハムストリングを肉離れし、最低4週間の離脱になると発表した。ESPNが伝えた。デニス・シュルーダー(Dennis Schroder)も同じ左ハムストリング肉離れと診断され、2週間後に再評価される。",
+      "points": [
+        "シーズン初出場からわずか6分で再負傷",
+        "最低4週間離脱、その後再評価",
+        "シュルーダーも同じ左ハムストリング肉離れ"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/888-kon-knueppel-hamstring-strain-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Kon Knueppel"
+      ],
+      "question": "",
+      "no_question": true,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/888-1.jpg",
+        "https://sixten.jp/assets/ig/888-2.jpg",
+        "https://sixten.jp/assets/ig/888-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-09T07:59:23+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カニップル、左ハムストリング再負傷で最低4週間離脱\n\n・シーズン初出場からわずか6分で再負傷\n・最低4週間離脱、その後再評価\n・シュルーダーも同じ左ハムストリング肉離れ\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "889",
+      "slug": "889-jaylen-brown-29-points-bulls",
+      "category": "NBA",
+      "date": "2026-11-09",
+      "headline": "ジェイレン・ブラウン、ブルズ戦で29得点",
+      "excerpt": "フィラデルフィア・76ersのジェイレン・ブラウン(Jaylen Brown)は現地時間11月8日、シカゴ・ブルズ戦に35分出場し、フィールドゴール22本中11本・3ポイント6本中2本を沈めて29得点を記録した。両チーム通じてこの日の最多得点者となり、76ersは127-121でブルズを振り切った。",
+      "points": [
+        "FG11/22で29得点・リバウンド7・アシスト4",
+        "レブロンも22得点、76ersは5人が二桁得点",
+        "76ersが127-121でブルズに勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/889-jaylen-brown-29-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Jaylen Brown"
+      ],
+      "question": "ブラウンとレブロン、76ersの核はどっち？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYLEN BROWN",
+        "opponent": "vs. BULLS",
+        "points": 29,
+        "stats": [
+          "7 REB",
+          "4 AST",
+          "11/22 FG",
+          "2/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/889-1.jpg",
+        "https://sixten.jp/assets/ig/889-2.jpg",
+        "https://sixten.jp/assets/ig/889-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-09T08:00:00+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ブラウン、ブルズ戦で29得点\n\n・FG11/22で29得点・リバウンド7・アシスト4\n・レブロンも22得点、76ersは5人が二桁得点\n・76ersが127-121でブルズに勝利\n\n💬 ブラウンとレブロン、76ersの核はどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

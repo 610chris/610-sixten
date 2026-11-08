@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "889-jaylen-brown-29-points-bulls.html",
+    cat: "NBA",
+    title: "ジェイレン・ブラウン、ブルズ戦で29得点 —— 76ersが127-121で勝利",
+    excerpt: "フィラデルフィア・76ersのジェイレン・ブラウン(Jaylen Brown)は現地時間11月8日、シカゴ・ブルズ戦に35分出場し、フィールドゴール22本中11本・3ポイント6本中2本を沈めて29得点を記録した。両チーム通じてこの日の最多得点者となり、76ersは127-121でブルズを振り切った。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "888-kon-knueppel-hamstring-strain-hornets.html",
+    cat: "NBA",
+    title: "コン・カニップル、左ハムストリング再負傷で最低4週間離脱 —— ホーネッツは6連敗、シュルーダーも同じ診断",
+    excerpt: "シャーロット・ホーネッツは現地時間11月8日(日)、2年目ガードのコン・カニップル(Kon Knueppel)が左ハムストリングを肉離れし、最低4週間の離脱になると発表した。ESPNが伝えた。デニス・シュルーダー(Dennis Schroder)も同じ左ハムストリング肉離れと診断され、2週間後に再評価される。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "887-76ers-8-1-start-insiders.html",
     cat: "NBA",
     title: "76ersの「8勝1敗」を球団関係者はどう見ているか —— マクシーへの信頼、レブロンとナースの新しい関係性",
