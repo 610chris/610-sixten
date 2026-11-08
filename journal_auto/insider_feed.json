@@ -1,19 +1,30 @@
 {
- "updated_utc": "2026-11-08 07:59 UTC",
+ "updated_utc": "2026-11-08 19:15 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
-   "reporter": "Tim MacMahon（ESPN）",
-   "handle": "espn_macmahon",
-   "key": "https://www.reddit.com/r/nba/comments/1xqn755/macmahon_multiple_scouts_and_executives_are/",
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xr4riz/charania_the_sacramento_kings_are_trading_nique/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-11-08T02:07:52+00:00",
-   "text": "Source: https://www.espn.com/nba/story/_/id/50371973/lebron-76ers-embiid-maxey-ty-jerome-grizzlies",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xqn755/macmahon_multiple_scouts_and_executives_are/",
+   "posted_utc": "2026-11-08T18:05:44+00:00",
+   "text": "Shams Charania:\n\nThe Sacramento Kings are trading Nique Clifford to the Oklahoma City Thunder for two second-round picks, sources tell ESPN.\n\nhttps://www.espn.com/contributor/shams-charania/f6667f00b1c57",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xr4riz/charania_the_sacramento_kings_are_trading_nique/",
    "links": [
-    "https://www.espn.com/nba/story/_/id/50371973/lebron-76ers-embiid-maxey-ty-jerome-grizzlies"
+    "https://www.espn.com/contributor/shams-charania/f6667f00b1c57"
    ]
+  },
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1xr1tck/scotto_detroit_pistons_say_jalen_duren_right/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-11-08T16:03:57+00:00",
+   "text": "Detroit Pistons say Jalen Duren (right hamstring strain) has been cleared to begin on-court basketball activity and his status will be updated again in two weeks.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xr1tck/scotto_detroit_pistons_say_jalen_duren_right/",
+   "links": []
   }
  ]
 }
