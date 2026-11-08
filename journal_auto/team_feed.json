@@ -1,8 +1,34 @@
 {
- "updated_utc": "2026-11-08 06:38 UTC",
+ "updated_utc": "2026-11-08 13:50 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-at-bulls-game-preview-injury-report-and-how-to-watch-11-8-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-at-bulls-game-preview-injury-report-and-how-to-watch-11-8-2026",
+   "canonical_url": "https://sixers.com/news/sixers-at-bulls-game-preview-injury-report-and-how-to-watch-11-8-2026",
+   "title": "Sixers at Bulls: Game Preview, Injury Report and How to Watch 11/8/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-08T12:44:36Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (8-2) conclude a three-game road trip Sunday afternoon against the Chicago Bulls (1-7). Tipoff is set for 3:30 p.m. EST at the United Center.",
+   "facts": [
+    "The Philadelphia 76ers (8-2) conclude a three-game road trip Sunday afternoon against the Chicago Bulls (1-7).",
+    "Tipoff is set for 3:30 p.m.",
+    "The Sixers had their five-game winning streak snapped in a 119-95 loss to Cleveland in Emirates NBA Cup group play Friday.",
+    "Jaylen Brown scored a team-high 20 points, while VJ Edgecombe added 19 points and a game-high four steals.",
+    "The Bulls lost 135-105 to the New York Knicks on Wednesday.",
+    "Tre Jones and undrafted rookie Jaylin Sellers scored 14 points apiece off the bench.",
+    "Here are the RAV4 Things to Know ahead of Sunday afternoon’s game: First Meeting The Sixers and Bulls met Monday in Philadelphia, where the Sixers earned a 126-107 victory while shooting a season-best 52.7% from the fiel…",
+    "Sixers Starters All five Sixers starters scored at least 15 points in the first meeting, combining for 102 points."
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -1646,105 +1672,6 @@
     "Wins were hard to come by, but the popular 6-foot, 190-pound floor general played a role in nearly every victory, including a 19-point, 16-assist night, as New Orleans upset Philadelphia in overtime.",
     "The Hornets’ poor luck continued in the 2005 draft lottery, dropping to the No. 4 pick despite holding the NBA’s second-worst record.",
     "Season overview (in 25 words or less) The worst season in team history was doomed by Thanksgiving."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/pistons-rally-from-18-down-in-fourth-fall-short-against-76ers-112-106",
-   "url": "https://www.nba.com/pistons/news/pistons-rally-from-18-down-in-fourth-fall-short-against-76ers-112-106",
-   "canonical_url": "https://pistons.com/news/pistons-rally-from-18-down-in-fourth-fall-short-against-76ers-112-106",
-   "title": "Pistons Rally From 18 Down in Fourth, Fall Short Against 76ers, 112-106",
-   "author": "Pistons.com",
-   "published_utc": "2026-11-05T13:03:37Z",
-   "tags": [
-    "Cade Cunningham",
-    "game recap",
-    "recap"
-   ],
-   "summary": "Robinson scores 27 points and Cunningham posts a double-double as Detroit’s three-game winning streak ends",
-   "facts": [
-    "Robinson scores 27 points and Cunningham posts a double-double as Detroit’s three-game winning streak ends The Detroit Pistons fought back from an 18-point deficit in the fourth quarter but couldn’t finish the comeback, …",
-    "Duncan Robinson continued his hot start to the season, leading Detroit with 27 points, including seven 3-pointers on 11 attempts, while Cade Cunningham added 26 points, a season-high 11 assists and seven rebounds.",
-    "Ausar Thompson grabbed a career-high 17 rebounds and scored 11 points for his second double-double of the season, and John Collins added 16 points in the loss.",
-    "Detroit opened the game with a 17-11 advantage midway through the first quarter, but Philadelphia closed the period on an 18-10 run to take a 29-21 lead into the second.",
-    "Philadelphia responded with a 16-6 run to take a 56-42 lead into the break.",
-    "Philadelphia matched them at 63.6%, and the 76ers took a 91-75 lead into the fourth quarter.",
-    "Philadelphia stretched its lead to 18 early in the fourth before Detroit began its comeback.",
-    "The Pistons scored nine straight points, including two transition finishes from Thompson and a 3-pointer from Kevin Huerter, to make it 95-86 with 8:24 left."
-   ],
-   "quotes": [
-    "Our pace changed when we started the game,",
-    "I felt like we were playing with great pace and getting good looks out of it, but then we slowed down a little bit. I thought the second half we found our pace again and we were able to find some buck…",
-    "We were just playing slow to start,",
-    "We were not playing together. We weren’t moving it too much, and in the second half we started doing that. We saw progress."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/marshall-was-back-being-his-old-self-during-game-against-spurs",
-   "url": "https://www.nba.com/mavs/news/marshall-was-back-being-his-old-self-during-game-against-spurs",
-   "canonical_url": "https://mavs.com/mavs/news/marshall-was-back-being-his-old-self-during-game-against-spurs",
-   "title": "Marshall back to his old self against Spurs",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-05T07:58:25Z",
-   "tags": [
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "SAN ANTONIO – Naji Marshall looked like his old self Wednesday against the San Antonio Spurs, playing the quality basketball the Dallas Mavericks are accustomed to seeing from him.",
-   "facts": [
-    "In 26 minutes off the bench, Marshall was 9-of-12 from the field, scored a season-high 22 points, grabbed five rebounds and handed out three assists.",
-    "He also was instrumental in the Mavs rallying from a 19-point second-half deficit to take a three-point lead before falling to the Spurs, 112-111, at Frost Bank Center.",
-    "In fact, it was a three-pointer by Marshall that knotted everything at 111 with 1:40 remaining in the game.",
-    "We gave him 23 free throws.",
-    "Anybody who gets 23 free throws and makes 19, it’s going to be tough.",
-    "At the time, May was still the head coach at Michigan and was trying very hard to attend Game 4.",
-    "So, I actually sat behind the Knicks’ bench, and the Spurs were playing so well – up 29.",
-    "May said center Santi Aldama (right knee surgery) is “very, very close” to playing his first game for the Mavs."
-   ],
-   "quotes": [
-    "It was beautiful – a great feeling,",
-    "I feel like I’m back helping the team. I’m there for my teammates. I felt like I was letting them down, being sick. I’m a human. I can’t control that.",
-    "He made good decisions with the ball, he was competitive, he was active on the glass. He played really, really well.",
-    "I just want to win and be there for my team,"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-clippers-leave-klay-open-adebayo-antetokounmpo-garland-mitchell",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-clippers-leave-klay-open-adebayo-antetokounmpo-garland-mitchell",
-   "canonical_url": "https://heat.com/news/coups-takeaways-clippers-leave-klay-open-adebayo-antetokounmpo-garland-mitchell",
-   "title": "Coup’s Takeaways: Clippers Leave Klay Thompson Open And Pay The Price",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-11-05T07:02:21Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. The HEAT don’t play many normal games against the Clippers out west, but in this case they’ll take an abnormal night – and a normal one from Klay Thompson – to give their season a proper kick.",
-   "facts": [
-    "Hardly a barnburner, but the HEAT looked comfortably in control after that first period, leading 33-24 as the Clippers endured long stretches of empty-handed possessions.",
-    "It wasn’t just the threes, even with the Clippers going 10-of-20 into halftime, but the runouts off turnovers, the lost attackers cutting baseline.",
-    "The run seemingly never ended, a 30-4 opening to the period, with only Bam Adebayo (19 points on 11 shots in the half, getting to the rim and hitting his jumpers) preventing things from getting even worse.",
-    "In the first, the Clippers had an Offensive Rating of 92.3.",
-    "In the second, that number hit 172.",
-    "Clippers lead, 67-52.",
-    "Stalemate early in the third, Antetokounmpo aggressive with a dunk over former teammate Lopez, until Miami made up a little ground with Thompson’s fifth and sixth threes, the lead down to 11.",
-    "Then it was four, Mitchell stripping Garland, again, and Antetokounmpo finding an open Larsson under the rim in transition for a 6-0 run and a clutch game."
    ],
    "quotes": []
   }
