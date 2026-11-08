@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "886-jalen-duren-cleared-on-court-activity.html",
+    cat: "NBA",
+    title: "ジェイレン・デューレン、オンコート活動を許可 —— 右ハムストリング肉離れから2週間、ピストンズが発表",
+    excerpt: "デトロイト・ピストンズは現地時間11月8日、右ハムストリング肉離れで離脱していたジェイレン・デューレン(Jalen Duren)がオンコートでのバスケットボール活動を許可されたと発表。HoopsHypeのマイケル・スコット記者が伝えた。ステータスは2週間後に改めて発表される。",
+    date: "2026.11.08",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "885-markkanen-jazz-wrist-center.html",
     cat: "NBA",
     title: "マルカネン「チームメイトのために、何としてもコートに立ちたい」—— 手首を保護しながらセンターに初挑戦",
