@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "910-jordan-tatum-5-nike-by-you.html",
+    cat: "KICKS",
+    title: "Jordan Tatum 5が「Nike By You」に対応 —— 11月12日からカスタムオーダー開始、ジョーダンブランドは約10年ぶり参加",
+    excerpt: "ジェイソン・テイタムの最新シグネチャー「Jordan Tatum 5」が、ナイキのカスタムオーダーサービス「Nike By You」に対応する。2026年11月12日から利用可能で、ジョーダンブランドの同プログラム参加は約10年ぶり。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "909-foamposite-pro-dr-doom-avengers-doomsday.html",
+    cat: "KICKS",
+    title: "Nike Air Foamposite Pro「Dr. Doom」が12月18日に3度目の発売 —— 『アベンジャーズ: ダムズデイ』公開日に合わせ、初登場から20年",
+    excerpt: "Nike Air Foamposite Proの人気カラー「Dr. Doom」（品番HF0794-003）が2026年12月18日、マーベル映画『アベンジャーズ: ダムズデイ』の公開日と同日に3度目の発売を迎える。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "908-giannis-doc-rivers-response.html",
     cat: "NBA",
     title: "ヤニス「妬みや意地悪さに目標を邪魔されるな」—— ドック・リバーズの批判に「言葉に詰まる」",
