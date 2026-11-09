@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:01:47+09:00",
+  "updated": "2026-11-09T14:03:28+09:00",
   "items": [
     {
       "id": "134",
@@ -27663,6 +27663,180 @@
       "ig_media_id": null,
       "error": null,
       "caption": "クーパー・フラッグ、ネッツ戦で25得点12アシスト\n\n・FG13本中8本・FT6本全成功\n・アシスト12でプレーメイクも主導\n・マーベリックスが130-93で大勝\n\n💬 フラッグ、今季のルーキー・オブ・ザ・イヤー最有力？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "900",
+      "slug": "900-hachimura-14-points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-09",
+      "headline": "八村塁、ペリカンズ戦で14得点 —— クリッパーズが快勝",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁(Rui Hachimura)は現地時間11月8日、ニューオーリンズ・ペリカンズ戦に26分出場し、フィールドゴール13本中6本(3ポイント6本中2本)を沈めて14得点を記録した。クリッパーズは139-123でペリカンズに快勝した。",
+      "points": [
+        "FG13本中6本(46.2%)で14得点",
+        "リバウンド3・アシスト2、ターンオーバーはゼロ",
+        "クリッパーズは139-123でペリカンズに快勝"
+      ],
+      "source": "ESPN ボックススコア（Pelicans vs. Clippers・2026年11月8日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/900-hachimura-14-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "ガーランド・ロペスの得点力、八村とのバランスどう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. PELICANS",
+        "points": 14,
+        "stats": [
+          "3 REB",
+          "2 AST",
+          "6/13 FG",
+          "2/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/900-1.jpg",
+        "https://sixten.jp/assets/ig/900-2.jpg",
+        "https://sixten.jp/assets/ig/900-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-09T14:02:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、ペリカンズ戦で14得点 —— クリッパーズが快勝\n\n・FG13本中6本(46.2%)で14得点\n・リバウンド3・アシスト2、ターンオーバーはゼロ\n・クリッパーズは139-123でペリカンズに快勝\n\n💬 ガーランド・ロペスの得点力、八村とのバランスどう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pelicans vs. Clippers・2026年11月8日）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "901",
+      "slug": "901-acuff-32-points-heat",
+      "category": "NBA",
+      "date": "2026-11-09",
+      "headline": "ダリウス・アカフJr.、ヒート戦で32得点10アシスト",
+      "excerpt": "サクラメント・キングスのダリウス・アカフJr.(Darius Acuff Jr.)は現地時間11月8日、マイアミ・ヒート戦に39分出場し、フィールドゴール21本中11本・3ポイント7本中3本・フリースロー7本を全て沈めて32得点、アシスト10を記録した。両チーム通じてこの日の最多得点者となったが、キングスは108-114でヒートに惜敗した。",
+      "points": [
+        "FG21本中11本・FT7本全成功で32得点",
+        "アシスト10も記録、両チーム最多得点",
+        "キングスは108-114でヒートに惜敗"
+      ],
+      "source": "ESPN ボックススコア（Kings vs. Heat・2026年11月8日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/901-acuff-32-points-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Darius Acuff Jr."
+      ],
+      "question": "32得点10アシストのアカフJr.、評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DARIUS ACUFF JR.",
+        "opponent": "vs. HEAT",
+        "points": 32,
+        "stats": [
+          "10 AST",
+          "5 REB",
+          "11/21 FG",
+          "3/7 3PT",
+          "7/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/901-1.jpg",
+        "https://sixten.jp/assets/ig/901-2.jpg",
+        "https://sixten.jp/assets/ig/901-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-09T14:02:36+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ダリウス・アカフJr.、ヒート戦で32得点10アシスト\n\n・FG21本中11本・FT7本全成功で32得点\n・アシスト10も記録、両チーム最多得点\n・キングスは108-114でヒートに惜敗\n\n💬 32得点10アシストのアカフJr.、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Kings vs. Heat・2026年11月8日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "902",
+      "slug": "902-trey-murphy-26-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-09",
+      "headline": "トレイ・マーフィーIII、クリッパーズ戦で26得点",
+      "excerpt": "ニューオーリンズ・ペリカンズのトレイ・マーフィーIII(Trey Murphy III)は現地時間11月8日、ロサンゼルス・クリッパーズ戦に30分出場し、フィールドゴール17本中9本・3ポイント9本中4本・フリースロー4本を全て沈めて26得点を記録した。両チーム通じてこの日の最多得点者となったが、ペリカンズは123-139でクリッパーズに敗れた。",
+      "points": [
+        "FG17本中9本・FT4本全成功で26得点",
+        "両チーム通じてこの日の最多得点",
+        "ペリカンズは123-139でクリッパーズに敗戦"
+      ],
+      "source": "ESPN ボックススコア（Pelicans vs. Clippers・2026年11月8日）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/902-trey-murphy-26-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Trey Murphy III"
+      ],
+      "question": "マーフィーの26得点、チームは生かせた？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TREY MURPHY III",
+        "opponent": "vs. CLIPPERS",
+        "points": 26,
+        "stats": [
+          "7 REB",
+          "3 AST",
+          "9/17 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/902-1.jpg",
+        "https://sixten.jp/assets/ig/902-2.jpg",
+        "https://sixten.jp/assets/ig/902-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-09T14:02:37+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "トレイ・マーフィーIII、クリッパーズ戦で26得点\n\n・FG17本中9本・FT4本全成功で26得点\n・両チーム通じてこの日の最多得点\n・ペリカンズは123-139でクリッパーズに敗戦\n\n💬 マーフィーの26得点、チームは生かせた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（Pelicans vs. Clippers・2026年11月8日）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "903",
+      "slug": "903-will-richard-thumb-injury-warriors",
+      "category": "NBA",
+      "date": "2026-11-09",
+      "headline": "ウィル・リチャード、左手拇指の靱帯損傷で離脱",
+      "excerpt": "ゴールデンステート・ウォリアーズは現地時間11月8日(日)、2年目ガードのウィル・リチャード(Will Richard)が左手拇指の靱帯(尺側側副靱帯)を損傷したと発表した。回復までの具体的な期間や治療方針は未定。ESPNが伝えた。",
+      "points": [
+        "左手尺側側副靱帯(UCL)を損傷",
+        "月曜のペリカンズ戦を欠場、復帰時期は未定",
+        "ウォリアーズは開幕3連敗から7連勝中"
+      ],
+      "source": "ESPN「Warriors guard Richard has torn ligament in left thumb」",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/903-will-richard-thumb-injury-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Will Richard"
+      ],
+      "question": "",
+      "no_question": true,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/903-1.jpg",
+        "https://sixten.jp/assets/ig/903-2.jpg",
+        "https://sixten.jp/assets/ig/903-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-09T14:02:37+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウィル・リチャード、左手拇指の靱帯損傷で離脱\n\n・左手尺側側副靱帯(UCL)を損傷\n・月曜のペリカンズ戦を欠場、復帰時期は未定\n・ウォリアーズは開幕3連敗から7連勝中\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Warriors guard Richard has torn ligament in left thumb」\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

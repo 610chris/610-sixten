@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "903-will-richard-thumb-injury-warriors.html",
+    cat: "NBA",
+    title: "ウィル・リチャード、左手拇指の靱帯損傷で離脱 —— ウォリアーズは7連勝中、復帰時期は未定",
+    excerpt: "ゴールデンステート・ウォリアーズは現地時間11月8日(日)、2年目ガードのウィル・リチャード(Will Richard)が左手拇指の靱帯(尺側側副靱帯)を損傷したと発表した。回復までの具体的な期間や治療方針は未定。ESPNが伝えた。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "902-trey-murphy-26-points-clippers.html",
+    cat: "NBA",
+    title: "トレイ・マーフィーIII、クリッパーズ戦で26得点 —— ペリカンズは123-139で敗戦",
+    excerpt: "ニューオーリンズ・ペリカンズのトレイ・マーフィーIII(Trey Murphy III)は現地時間11月8日、ロサンゼルス・クリッパーズ戦に30分出場し、フィールドゴール17本中9本・3ポイント9本中4本・フリースロー4本を全て沈めて26得点を記録した。両チーム通じてこの日の最多得点者となったが、ペリカンズは123-139でクリッパーズに敗れた。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "901-acuff-32-points-heat.html",
+    cat: "NBA",
+    title: "ダリウス・アカフJr.、ヒート戦で32得点10アシスト —— キングスは108-114で惜敗",
+    excerpt: "サクラメント・キングスのダリウス・アカフJr.(Darius Acuff Jr.)は現地時間11月8日、マイアミ・ヒート戦に39分出場し、フィールドゴール21本中11本・3ポイント7本中3本・フリースロー7本を全て沈めて32得点、アシスト10を記録した。両チーム通じてこの日の最多得点者となったが、キングスは108-114でヒートに惜敗した。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "900-hachimura-14-points-pelicans.html",
+    cat: "NBA",
+    title: "八村塁、ペリカンズ戦で14得点 —— クリッパーズが139-123で快勝",
+    excerpt: "ロサンゼルス・クリッパーズの八村塁(Rui Hachimura)は現地時間11月8日、ニューオーリンズ・ペリカンズ戦に26分出場し、フィールドゴール13本中6本(3ポイント6本中2本)を沈めて14得点を記録した。クリッパーズは139-123でペリカンズに快勝した。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "899-cooper-flagg-25-points-nets.html",
     cat: "NBA",
     title: "クーパー・フラッグ、ネッツ戦で25得点12アシスト —— マーベリックスが130-93で大勝",
