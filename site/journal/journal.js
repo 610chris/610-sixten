@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "906-nike-af1-pony-hair-atomic-violet.html",
+    cat: "KICKS",
+    title: "Nike Air Force 1 Low Pony Hair「Atomic Violet」が11月20日発売 —— ファー素材のアッパーに紫を効かせた新色、品番IR1940-500",
+    excerpt: "ナイキは「Air Force 1 Low Pony Hair」の新色「Atomic Violet」(品番IR1940-500、価格140ドル)を2026年11月20日にSNKRSおよび一部店舗で発売する。アッパーとソールにアトミックバイオレットとハイパーパープルの長めのファー素材をあしらったメンズモデル。Hypebeastが公式画像を伝えた。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "905-kawamata-japan-window5.html",
     cat: "JAPAN",
     title: "琉球ゴールデンキングス・川真田紘也選手、日本代表Window5直前合宿メンバーに選出",
