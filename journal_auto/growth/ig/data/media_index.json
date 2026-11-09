@@ -576,6 +576,29 @@
   "template": "news",
   "timestamp": "2026-10-01T15:00:28+0000"
  },
+ "17898725553413456": {
+  "article": "884",
+  "auto": true,
+  "caption_len": 336,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サンダー、ニーク・クリフォードをキングスから獲得",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dff5FPKCA0s/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（アンソニー・スレイター記者）",
+  "subject": [
+   "Nique Clifford"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-08T23:03:34+0000"
+ },
  "17900758436463651": {
   "auto": false,
   "caption_len": 47,
@@ -1132,6 +1155,19 @@
   "permalink": "https://www.instagram.com/reel/CY1F1ZuAv09/",
   "product": "REELS",
   "timestamp": "2022-01-17T11:29:55+0000"
+ },
+ "17914814838492623": {
+  "auto": false,
+  "caption_len": 108,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 3,
+  "headline": "ジョーダン、コービー、レブロン…",
+  "permalink": "https://www.instagram.com/reel/DffMlN9jfhh/",
+  "product": "REELS",
+  "timestamp": "2026-11-08T16:35:07+0000"
  },
  "17914896713632949": {
   "auto": false,
@@ -1696,6 +1732,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-22T02:53:48+0000"
+ },
+ "17929982340424465": {
+  "article": "883",
+  "auto": true,
+  "caption_len": 375,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ブラウンはなぜ「数字の裏」で評価が割れた？",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfez5iSmbMq/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN（ザック・クラム記者）",
+  "subject": [
+   "Jaylen Brown"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-08T12:59:07+0000"
  },
  "17932416837164150": {
   "arms": {
@@ -2786,6 +2845,29 @@
   "product": "REELS",
   "timestamp": "2022-10-22T08:27:27+0000"
  },
+ "17963499471218540": {
+  "article": "886",
+  "auto": true,
+  "caption_len": 306,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デューレン、オンコート活動を許可",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dff5mneDKs9/",
+  "product": "REELS",
+  "route": "library",
+  "source": "HoopsHype（マイケル・スコット記者）",
+  "subject": [
+   "Jalen Duren"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-08T23:08:12+0000"
+ },
  "17963528191974796": {
   "auto": false,
   "caption_len": 85,
@@ -3280,6 +3362,29 @@
   "template": "news",
   "timestamp": "2026-10-12T22:00:34+0000"
  },
+ "17978453373133034": {
+  "article": "885",
+  "auto": true,
+  "caption_len": 331,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マルカネン「チームのために何としても立ちたい」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dff5Vxnk-wd/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ユタ・ジャズ公式サイト（Eric Spyropoulos記者）",
+  "subject": [
+   "Lauri Markkanen"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-08T23:05:54+0000"
+ },
  "17978837484148980": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -3718,6 +3823,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-28T17:06:57+0000"
+ },
+ "17997536900843617": {
+  "article": "879",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "シェイ・ギルジャス＝アレクサンダー、ウィザーズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfd3Xlcmddr/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-08T04:10:11+0000"
  },
  "17998860173822976": {
   "arms": {
@@ -5470,6 +5598,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-22T03:06:41+0000"
+ },
+ "18081493721386591": {
+  "article": "889",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ブラウン、ブルズ戦で29得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dff6ouylD4w/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jaylen Brown"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-08T23:17:13+0000"
  },
  "18082346972765813": {
   "article": "827",
@@ -9205,6 +9356,29 @@
   "template": "news",
   "timestamp": "2026-10-03T00:51:52+0000"
  },
+ "18127140715816335": {
+  "article": "877",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドノバン・ミッチェル、ニックス戦で37得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfd2zRjgLK-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Donovan Mitchell"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-08T04:05:14+0000"
+ },
  "18127428214890323": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9345,6 +9519,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-08T02:29:36+0000"
+ },
+ "18129305566857223": {
+  "article": "892",
+  "auto": true,
+  "caption_len": 314,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "リーブス、ピストンズ戦で43得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfgNLF2if1u/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Lakers vs. Pistons)",
+  "subject": [
+   "Austin Reaves"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-09T01:59:13+0000"
  },
  "18129634228762830": {
   "article": "327",
@@ -9631,6 +9828,27 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:07:29+0000"
+ },
+ "18132774346756390": {
+  "article": "891",
+  "auto": true,
+  "caption_len": 331,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キングスU18、全国大会出場へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfgGOoWiL9B/",
+  "product": "REELS",
+  "route": "source",
+  "source": "沖縄バスケットボール株式会社(PR TIMES)",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-09T00:58:30+0000"
  },
  "18132777922811215": {
   "arms": {
@@ -10440,6 +10658,30 @@
   "template": "news",
   "timestamp": "2026-10-15T01:05:59+0000"
  },
+ "18147876052574382": {
+  "article": "887",
+  "auto": true,
+  "caption_len": 369,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "76ersが8勝1敗の好スタート —— 球団関係者が語る内情",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dff5-M-ASos/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN（ブライアン・ウィンドホースト記者、ティム・マクマホン記者）",
+  "subject": [
+   "LeBron James",
+   "Tyrese Maxey"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-08T23:11:22+0000"
+ },
  "18148882789561101": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -10802,6 +11044,29 @@
   ],
   "template": "quote",
   "timestamp": "2026-09-29T11:12:49+0000"
+ },
+ "18166037728500197": {
+  "article": "888",
+  "auto": true,
+  "caption_len": 261,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "カニップル、左ハムストリング再負傷で最低4週間離脱",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/Dff6VnTAkmH/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Kon Knueppel"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-08T23:14:35+0000"
  },
  "18169955518464571": {
   "arms": {
@@ -12500,6 +12765,29 @@
   "template": "score",
   "timestamp": "2026-11-03T03:36:08+0000"
  },
+ "18454907764123239": {
+  "article": "881",
+  "auto": true,
+  "caption_len": 323,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ビクター・ウェンバンヤマ、トレイルブレイザーズ戦で29得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfeEQXKD4gA/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-08T06:02:48+0000"
+ },
  "18465127744140971": {
   "auto": false,
   "caption_len": 382,
@@ -12710,6 +12998,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-10T13:02:25+0000"
+ },
+ "18639511552002678": {
+  "article": "878",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ジョンソン、ネッツ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfd3ELlj0k0/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jalen Johnson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-08T04:07:22+0000"
  },
  "18649964548047729": {
   "arms": {
