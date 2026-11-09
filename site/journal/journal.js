@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "892-austin-reaves-43-points-pistons.html",
+    cat: "NBA",
+    title: "オースティン・リーブス、ピストンズ戦で43得点 —— レイカーズが121-116で勝利",
+    excerpt: "ロサンゼルス・レイカーズのオースティン・リーブス(Austin Reaves)は現地時間11月8日、デトロイト・ピストンズ戦に37分出場し、フィールドゴール27本中14本(51.9%)・3ポイント6本中4本を沈めて43得点を記録した。両チーム通じてこの日の最多得点者となり、レイカーズは121-116でピストンズを振り切った。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "891-kings-u18-championship-2026.html",
     cat: "JAPAN",
     title: "キングスU18、「B.LEAGUE U18 CHAMPIONSHIP 2026」出場へ —— 11月21日開幕、全国43チームが頂点争う",
