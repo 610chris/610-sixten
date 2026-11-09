@@ -1,8 +1,39 @@
 {
- "updated_utc": "2026-11-08 23:06 UTC",
+ "updated_utc": "2026-11-09 02:56 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/early-statistical-trends-take-them-with-a-grain-of-salt",
+   "url": "https://www.nba.com/mavs/news/early-statistical-trends-take-them-with-a-grain-of-salt",
+   "canonical_url": "https://mavs.com/mavs/news/early-statistical-trends-take-them-with-a-grain-of-salt",
+   "title": "Early statistical trends? Take them with a grain of salt",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-09T02:22:35Z",
+   "tags": [],
+   "summary": "Coming into Sunday’s game, Max Christie had made only 10-of-38 three-point shots this season.",
+   "facts": [
+    "Coming into Sunday’s game, Max Christie had made only 10-of-38 three-point shots this season.",
+    "That’s 26.3 percent.",
+    "Cooper Flagg had scored 10.5 points on average in the first half of games so far.",
+    "In the second half, he’s tossed in just over 15 points per game.",
+    "He shot barely 40 percent in the first half, compared to better than 55 percent in the second.",
+    "As the Mavericks reached the 10-game mark of the season on Sunday, some trends have begun to show themselves.",
+    "For his career, I think he’s a 40 percent three-point shooter (40.4 percent last season) and I know based on the eye test that he’s not shooting anywhere near that now.",
+    "But as May said last week, water tends to find its level in an 82-game season."
+   ],
+   "quotes": [
+    "It’s so early, the sample size is so small,",
+    "I don’t even like looking at our three-pointer percentages now. Early in the season, I don’t put a lot of stock in it. Look at Max. For his career, I think he’s a 40 percent three-point shooter (40.4 …",
+    "Just more peanut-butter-and-jellies,",
+    "No, with Coop, when you look at his body of work – points, rebounds, assists – he’s having a phenomenal year. Sometimes, this quarter’s a little better than others. We’re just trying to really focus o…"
+   ]
+  },
   {
    "source": "OKC 公式（nba.com）",
    "team": "OKC",
