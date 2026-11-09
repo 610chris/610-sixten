@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "905-kawamata-japan-window5.html",
+    cat: "JAPAN",
+    title: "琉球ゴールデンキングス・川真田紘也選手、日本代表Window5直前合宿メンバーに選出",
+    excerpt: "琉球ゴールデンキングスの川真田紘也選手が、「FIBAバスケットボールワールドカップ2027アジア地区予選Window5」に向けた男子日本代表直前合宿の18名のメンバーに選出されたと、JBAの発表を受けて琉球ゴールデンキングスが11月9日発表した。日本代表はレバノン・カタール両代表とアウェーで対戦する。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-905-hero.jpg?v=03fb1fa518"
+  },
+  {
+    href: "904-yoshii-yuminami-japan-window5.html",
+    cat: "JAPAN",
+    title: "茨城ロボッツ・吉井裕鷹選手と弓波英人AC、日本代表Window5直前合宿メンバーに選出 —— レバノン・カタール戦へ",
+    excerpt: "茨城ロボッツの吉井裕鷹選手と弓波英人アシスタントコーチが、「FIBAバスケットボールワールドカップ2027アジア地区予選Window5」に向けた男子日本代表の直前合宿招集メンバーに選出されたと茨城ロボッツが11月9日発表した。日本代表はレバノン・カタール両代表とアウェーで対戦する。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-904-hero.jpg?v=c8e753a967"
+  },
+  {
     href: "903-will-richard-thumb-injury-warriors.html",
     cat: "NBA",
     title: "ウィル・リチャード、左手拇指の靱帯損傷で離脱 —— ウォリアーズは7連勝中、復帰時期は未定",
