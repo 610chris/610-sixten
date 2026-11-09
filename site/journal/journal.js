@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "907-giannis-heat-trust-4-6-start.html",
+    cat: "NBA",
+    title: "ヤニス「今は互いを信頼できていない」—— ヒート4勝6敗、守備25位の低迷にライリーらOBが合流",
+    excerpt: "マイアミ・ヒートのヤニス・アデトクンボは、現地時間11月2日のレイカーズ戦に117-138で敗れた後「今は互いを信頼できていない」と守備の崩壊を認めた。ヒートは4勝6敗、守備はリーグ25位に低迷しており、パット・ライリー氏やドウェイン・ウェイド氏ら球団OBもチームに合流した。ESPNが伝えた。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "906-nike-af1-pony-hair-atomic-violet.html",
     cat: "KICKS",
     title: "Nike Air Force 1 Low Pony Hair「Atomic Violet」が11月20日発売 —— ファー素材のアッパーに紫を効かせた新色、品番IR1940-500",
