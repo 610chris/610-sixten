@@ -79,12 +79,15 @@ def main():
         print(f"[{it['id']}] コンテナ FINISHED id={cid}(公開はしていない・24時間で自動失効)")
         return
     now = datetime.now(JST)
+    # 2026-11-09 クリス指示: 深夜・早朝には出さない。昼(11-14時台)と夜(18-22時台)だけ。
+    if not (11 <= now.hour <= 14 or 18 <= now.hour <= 22) and "--force" not in args:
+        print(f"{now:%H:%M} は投稿時間帯(11-15時/18-23時)の外なので見送り"); return
     due = [i for i in q["items"] if i["state"] == "pending" and i.get("caption")
            and datetime.fromisoformat(i["at"]) <= now]
     if not due:
         print("投稿する分なし"); return
     last = max((datetime.fromisoformat(i["posted_at"]) for i in q["items"] if i.get("posted_at")), default=None)
-    if last and now - last < timedelta(hours=3) and "--force" not in args:
+    if last and now - last < timedelta(hours=4) and "--force" not in args:
         print(f"直前の投稿({last:%m/%d %H:%M})から3時間たっていないので見送り(1日2本を守る)"); return
     it = sorted(due, key=lambda i: i["at"])[0]
     if "--dry" in args:

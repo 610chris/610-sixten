@@ -4,9 +4,11 @@ name: Clips IG (切り抜きショートを @sixten に時刻投稿)
 # 止めたい回は journal_auto/clips_ig_queue.json の state を "skip" にして push。
 on:
   schedule:
-    - cron: '5 3 * * *'    # JST 12:05
-    - cron: '5 10 * * *'   # JST 19:05
-    - cron: '40 3,10 * * *' # 取りこぼし用(GitHubのcron遅延・失敗時の再試行)
+    # 2026-11-09 クリス指示「人が寝てるような時間に投稿しない・アクセスしやすい時間に」:
+    # 投稿してよいのは JST 11:00-14:59 / 18:00-22:59 だけ(clips_ig_post.py が判定)。
+    # GitHub の cron は数時間遅れることがあるので、その時間帯に30分おきに起動して拾う(1枠1本)。
+    - cron: '5,35 3-5 * * *'    # JST 12:05-14:35
+    - cron: '5,35 10-13 * * *'  # JST 19:05-22:35
   workflow_dispatch:
 
 concurrency:
