@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "891-kings-u18-championship-2026.html",
+    cat: "JAPAN",
+    title: "キングスU18、「B.LEAGUE U18 CHAMPIONSHIP 2026」出場へ —— 11月21日開幕、全国43チームが頂点争う",
+    excerpt: "琉球ゴールデンキングスのU18チームは、11月21日から25日まで日環アリーナ栃木で開催される「インフロニア B.LEAGUE U18 CHAMPIONSHIP 2026」に出場する。全国のBリーグU18 43チームがノックアウト方式で日本一を争い、上位4チームには2027年の国際大会出場権が与えられる。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-891-hero.jpg?v=5e1ba285b7"
+  },
+  {
+    href: "890-yokohama-excellence-koshigaya-split.html",
+    cat: "JAPAN",
+    title: "横浜エクセレンス、北地区首位・越谷と1勝1敗 —— B.LEAGUE ONE第9節、終盤のミスが明暗を分ける",
+    excerpt: "横浜エクセレンスは11月7日・8日、本拠地・横浜武道館で北地区首位の越谷アルファーズと対戦したB.LEAGUE ONE 2026-27シーズン第9節で1勝1敗に終えた。Game1は92-88で勝利したが、Game2は97-103で競り負けた。",
+    date: "2026.11.09",
+    thumb: "../assets/journal-890-hero.jpg?v=fdcf46e6b4"
+  },
+  {
     href: "889-jaylen-brown-29-points-bulls.html",
     cat: "NBA",
     title: "ジェイレン・ブラウン、ブルズ戦で29得点 —— 76ersが127-121で勝利",
