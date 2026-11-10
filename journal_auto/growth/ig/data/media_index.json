@@ -1040,6 +1040,29 @@
   "template": "news",
   "timestamp": "2026-10-25T22:45:38+0000"
  },
+ "17912889375307559": {
+  "article": "900",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、ペリカンズ戦で14得点 —— クリッパーズが快勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfgiu-ojB4R/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Pelicans vs. Clippers・2026年11月8日）",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-09T05:07:27+0000"
+ },
  "17913351006499090": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -1342,6 +1365,27 @@
   ],
   "template": "score",
   "timestamp": "2026-11-01T02:41:09+0000"
+ },
+ "17917973352498352": {
+  "article": "918",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "CULTURE",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 7,
+  "headline": "SKLZ「BASHHHKETBALL PRO」11月18日発売",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfi_djglb_7/",
+  "product": "REELS",
+  "route": "source",
+  "source": "Implus EU プレスリリース（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-10T03:57:07+0000"
  },
  "17919743028451892": {
   "arms": {
@@ -3308,6 +3352,29 @@
   "product": "REELS",
   "timestamp": "2022-10-24T09:15:51+0000"
  },
+ "17977249080171104": {
+  "article": "901",
+  "auto": true,
+  "caption_len": 352,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダリウス・アカフJr.、ヒート戦で32得点10アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfgi__iAHTs/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（Kings vs. Heat・2026年11月8日）",
+  "subject": [
+   "Darius Acuff Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-09T05:09:50+0000"
+ },
  "17977991526150205": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -3536,6 +3603,29 @@
   "permalink": "https://www.instagram.com/reel/CcPOPiMgksg/",
   "product": "REELS",
   "timestamp": "2022-04-12T04:37:42+0000"
+ },
+ "17985506414905957": {
+  "article": "914",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ルカ・ドンチッチ、ホークス戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfi2Rj-lMcU/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-10T02:36:40+0000"
  },
  "17988619491027903": {
   "article": "281",
@@ -4011,6 +4101,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-06T01:09:01+0000"
+ },
+ "18012095879991486": {
+  "article": "898",
+  "auto": true,
+  "caption_len": 295,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カイル・クーズマ、セルティックス戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfgcDGgkj0v/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Kyle Kuzma"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-09T04:09:00+0000"
  },
  "18012233438986126": {
   "article": "356",
@@ -4789,6 +4902,29 @@
   "template": "news",
   "timestamp": "2026-10-19T16:03:39+0000"
  },
+ "18047779739829846": {
+  "article": "921",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、サンズ戦で40得点11リバウンド8ブロック",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfjDa0eE_YU/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Spurs vs. Suns・2026年11月9日)",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-10T04:31:41+0000"
+ },
  "18048306218815923": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5517,6 +5653,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-02T00:04:17+0000"
+ },
+ "18079215800448210": {
+  "article": "903",
+  "auto": true,
+  "caption_len": 309,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ウィル・リチャード、左手拇指の靱帯損傷で離脱",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfgjRfMH5E-/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「Warriors guard Richard has torn ligament in left thumb」",
+  "subject": [
+   "Will Richard"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-09T05:12:13+0000"
  },
  "18079217978465203": {
   "arms": {
@@ -7379,6 +7538,29 @@
   "template": "news",
   "timestamp": "2026-11-07T06:07:41+0000"
  },
+ "18110613194191584": {
+  "article": "915",
+  "auto": true,
+  "caption_len": 326,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "グレイソン・アレン、キャバリアーズ戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfi2iSdD-CK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Grayson Allen"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-10T02:39:10+0000"
+ },
  "18110738405461496": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9060,6 +9242,29 @@
   "template": "news",
   "timestamp": "2026-09-29T21:09:13+0000"
  },
+ "18122482657978542": {
+  "article": "920",
+  "auto": true,
+  "caption_len": 308,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャマール・マレー、ロケッツ戦で38得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfjBzyvCEkG/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ボックススコア）",
+  "subject": [
+   "Jamal Murray"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-10T04:17:37+0000"
+ },
  "18122746478486844": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9355,6 +9560,19 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-03T00:51:52+0000"
+ },
+ "18127097899905969": {
+  "auto": false,
+  "caption_len": 110,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "NBA入りで、家族全員が仕事を辞めた。",
+  "permalink": "https://www.instagram.com/reel/DfhNWLRGUDi/",
+  "product": "REELS",
+  "timestamp": "2026-11-09T11:20:08+0000"
  },
  "18127140715816335": {
   "article": "877",
@@ -9942,6 +10160,29 @@
   "product": "REELS",
   "timestamp": "2021-09-25T11:52:53+0000"
  },
+ "18134039668790671": {
+  "article": "907",
+  "auto": true,
+  "caption_len": 417,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス『今は互いを信頼できていない』—— ヒート4勝6敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfhXP-sDscA/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「What's fueling the rocky start for Giannis Antetokounmpo and the Miami Heat」",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-09T12:46:20+0000"
+ },
  "18134210575757258": {
   "article": "862",
   "auto": true,
@@ -10072,6 +10313,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-12T04:11:01+0000"
+ },
+ "18135633127825771": {
+  "article": "908",
+  "auto": true,
+  "caption_len": 303,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス「妬みや意地悪さに目標を邪魔されるな」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfhgai4EjqW/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-09T14:06:35+0000"
  },
  "18136386205660384": {
   "arms": {
@@ -10849,6 +11113,29 @@
   "template": "score",
   "timestamp": "2026-11-01T02:52:16+0000"
  },
+ "18154072321509149": {
+  "article": "897",
+  "auto": true,
+  "caption_len": 302,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポール・ジョージ、バックス戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfgbuLEDqNx/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Paul George"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-09T04:06:15+0000"
+ },
  "18156896953515649": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -10875,6 +11162,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T02:01:11+0000"
+ },
+ "18158478634455097": {
+  "article": "919",
+  "auto": true,
+  "caption_len": 328,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クーパー・フラッグ、ペイサーズ戦で43得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfjBiw9ij7W/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ボックススコア）",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-10T04:15:17+0000"
  },
  "18159327550515477": {
   "arms": {
@@ -11788,6 +12098,29 @@
   "template": "news",
   "timestamp": "2026-11-02T00:02:27+0000"
  },
+ "18234732325325453": {
+  "article": "895",
+  "auto": true,
+  "caption_len": 319,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダリン・ピーターソン、ティンバーウルブズ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfgUa4hjsVm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darryn Peterson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-09T03:02:32+0000"
+ },
  "18235490149098791": {
   "auto": false,
   "caption_len": 85,
@@ -12150,6 +12483,29 @@
   "template": "score",
   "timestamp": "2026-10-29T06:01:31+0000"
  },
+ "18358437043173774": {
+  "article": "917",
+  "auto": true,
+  "caption_len": 343,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイ・ジェローム、ラプターズ戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfi6bbtIHlz/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Grizzlies vs. Raptors・2026年11月9日)",
+  "subject": [
+   "Ty Jerome"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-10T03:12:59+0000"
+ },
  "18358936951221671": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -12259,6 +12615,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-31T01:16:13+0000"
+ },
+ "18381128626240818": {
+  "article": "899",
+  "auto": true,
+  "caption_len": 310,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クーパー・フラッグ、ネッツ戦で25得点12アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfgcSW0jPa2/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-09T04:11:16+0000"
  },
  "18382451392229998": {
   "arms": {
@@ -12871,6 +13250,27 @@
   ],
   "template": "score",
   "timestamp": "2026-10-27T01:59:28+0000"
+ },
+ "18493389409129000": {
+  "article": "911",
+  "auto": true,
+  "caption_len": 316,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "群馬クレインサンダーズ、開幕11連勝中の名古屋Dを撃破",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfirjpeJV6Y/",
+  "product": "REELS",
+  "route": "source",
+  "source": "群馬クレインサンダーズ公式(PR TIMES)",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-10T01:03:11+0000"
  },
  "18573710785078696": {
   "arms": {
