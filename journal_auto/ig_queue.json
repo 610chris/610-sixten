@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:54:56+09:00",
+  "updated": "2026-11-10T13:11:40+09:00",
   "items": [
     {
       "id": "134",
@@ -28400,6 +28400,100 @@
       "ig_media_id": null,
       "error": null,
       "caption": "SKLZ「BASHHHKETBALL PRO」11月18日発売\n\n・特殊フォーム素材でドリブル音と振動を大幅軽減\n・直径24.5cm・重量590gで公式7号球相当のサイズ感\n・価格6,900円(税抜)、11月18日(水)発売\n\n💬 家で気兼ねなく練習、欲しい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Implus EU プレスリリース（PR TIMES）\n写真: プレスリリースより（PR TIMES）\n\n#610 #sixten #バスケ #バスケットボール #basketball #バスケカルチャー #hoops"
+    },
+    {
+      "id": "919",
+      "slug": "919-cooper-flagg-43-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "クーパー・フラッグ、ペイサーズ戦で43得点",
+      "excerpt": "ダラス・マーベリックスのクーパー・フラッグは現地時間11月9日、インディアナ・ペイサーズ戦に39分出場し、43得点・リバウンド10・アシスト6のダブルダブルを記録した。両チーム通じてこの日の最多得点者となり、マーベリックスは125-122でペイサーズを下した。",
+      "points": [
+        "FG16/25・3P3/6で自己ハイに迫る43得点",
+        "リバウンド10・アシスト6のダブルダブルも記録",
+        "マーベリックスは125-122でペイサーズを下す"
+      ],
+      "source": "ESPN（ボックススコア）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/919-cooper-flagg-43-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Cooper Flagg"
+      ],
+      "question": "フラッグのこの試合、MVP投票にどこまで効く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "COOPER FLAGG",
+        "opponent": "vs. PACERS",
+        "points": 43,
+        "stats": [
+          "10 REB",
+          "6 AST",
+          "3 STL",
+          "16/25 FG",
+          "3/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/919-1.jpg",
+        "https://sixten.jp/assets/ig/919-2.jpg",
+        "https://sixten.jp/assets/ig/919-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T13:11:36+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "クーパー・フラッグ、ペイサーズ戦で43得点\n\n・FG16/25・3P3/6で自己ハイに迫る43得点\n・リバウンド10・アシスト6のダブルダブルも記録\n・マーベリックスは125-122でペイサーズを下す\n\n💬 フラッグのこの試合、MVP投票にどこまで効く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（ボックススコア）\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "920",
+      "slug": "920-jamal-murray-38-points-rockets",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "ジャマール・マレー、ロケッツ戦で38得点",
+      "excerpt": "デンバー・ナゲッツのジャマール・マレーは現地時間11月9日、ヒューストン・ロケッツ戦に39分出場し、フィールドゴール23本中14本・3ポイント8本中5本を沈めて38得点を記録した。両チーム通じてこの日の最多得点者となったが、ナゲッツは100-110でロケッツに敗れた。",
+      "points": [
+        "FG14/23・3P5/8の高効率で38得点",
+        "ターンオーバーはわずか1に抑える",
+        "ナゲッツは100-110でロケッツに敗戦"
+      ],
+      "source": "ESPN（ボックススコア）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/920-jamal-murray-38-points-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Jamal Murray"
+      ],
+      "question": "マレー38点も黒星、ナゲッツの課題はどこ？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMAL MURRAY",
+        "opponent": "vs. ROCKETS",
+        "points": 38,
+        "stats": [
+          "2 REB",
+          "2 AST",
+          "2 BLK",
+          "14/23 FG",
+          "5/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/920-1.jpg",
+        "https://sixten.jp/assets/ig/920-2.jpg",
+        "https://sixten.jp/assets/ig/920-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T13:11:36+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジャマール・マレー、ロケッツ戦で38得点\n\n・FG14/23・3P5/8の高効率で38得点\n・ターンオーバーはわずか1に抑える\n・ナゲッツは100-110でロケッツに敗戦\n\n💬 マレー38点も黒星、ナゲッツの課題はどこ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（ボックススコア）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
