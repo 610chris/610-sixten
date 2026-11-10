@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "932-stephen-curry-kevin-durant-decade-longevity.html",
+    cat: "NBA",
+    title: "ステフィン・カリーとケビン・デュラント、結成10年の再戦へ —— ウォリアーズ対ロケッツ、38歳の両エースが衰えない理由",
+    excerpt: "ESPNのベン・ゴリバー記者は11月10日、38歳のステフィン・カリー(ウォリアーズ)とケビン・デュラント(ロケッツ)が11日に今季初対戦するのを前に、2016年に同じウォリアーズでタッグを組んだ2人がなぜ結成10年を経た今も最前線で活躍を続けているのかを分析する特集記事を公開した。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "931-nba-core-danger-tiers.html",
     cat: "NBA",
     title: "NBAの編成「危険地帯」19チーム —— バックスに年俸操作疑惑、サンダーは5億ドル超えへ、ESPN記者が5段階評価",
