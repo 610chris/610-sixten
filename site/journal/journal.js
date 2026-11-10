@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "916-anthony-davis-44-points-pistons.html",
+    cat: "NBA",
+    title: "アンソニー・デイビス、ピストンズ戦で44得点 —— ウィザーズは111-122で敗戦",
+    excerpt: "ワシントン・ウィザーズのアンソニー・デイビス(Anthony Davis)は現地時間11月9日、敵地でのデトロイト・ピストンズ戦に34分出場し、フィールドゴール21本中16本(76.2%)・3ポイント4本中2本・フリースロー11本中10本を沈めて44得点を記録した。両チーム通じてこの日の試合最多得点者となったが、ウィザーズは111-122でピストンズに敗れた。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "915-grayson-allen-27-points-cavaliers.html",
     cat: "NBA",
     title: "グレイソン・アレン、キャバリアーズ戦で27得点 —— ホーネッツが124-112で勝利",

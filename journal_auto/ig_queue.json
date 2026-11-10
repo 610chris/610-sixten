@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T11:32:06+09:00",
+  "updated": "2026-11-10T11:58:30+09:00",
   "items": [
     {
       "id": "134",
@@ -28274,6 +28274,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "グレイソン・アレン、キャバリアーズ戦で27得点\n\n・FG8/14・3P6/12・FT5/6で27得点\n・アシスト6・リバウンド4・スティール2も記録\n・ホーネッツは124-112でキャバリアーズに勝利\n\n💬 アレンのこの3P精度、シーズン通してキープできる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "916",
+      "slug": "916-anthony-davis-44-points-pistons",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "アンソニー・デイビス、ピストンズ戦で44得点",
+      "excerpt": "ワシントン・ウィザーズのアンソニー・デイビス(Anthony Davis)は現地時間11月9日、敵地でのデトロイト・ピストンズ戦に34分出場し、フィールドゴール21本中16本(76.2%)・3ポイント4本中2本・フリースロー11本中10本を沈めて44得点・リバウンド13を記録した。両チーム通じてこの日の試合最多得点者となったが、ウィザーズは111-122でピストンズに敗れた。",
+      "points": [
+        "FG16/21(76.2%)で自己最多級の44得点",
+        "リバウンド13も記録",
+        "ウィザーズは111-122でピストンズに敗戦"
+      ],
+      "source": "ESPN ボックススコア(Wizards vs. Pistons・2026年11月9日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/916-anthony-davis-44-points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Davis"
+      ],
+      "question": "デイビスのこの44得点、今季ベストゲーム候補？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY DAVIS",
+        "opponent": "vs. PISTONS",
+        "points": 44,
+        "stats": [
+          "13 REB",
+          "1 AST",
+          "16/21 FG",
+          "2/4 3PT",
+          "10/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/916-1.jpg",
+        "https://sixten.jp/assets/ig/916-2.jpg",
+        "https://sixten.jp/assets/ig/916-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T11:58:01+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アンソニー・デイビス、ピストンズ戦で44得点\n\n・FG16/21(76.2%)で自己最多級の44得点\n・リバウンド13も記録\n・ウィザーズは111-122でピストンズに敗戦\n\n💬 デイビスのこの44得点、今季ベストゲーム候補？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Wizards vs. Pistons・2026年11月9日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
