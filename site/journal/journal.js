@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "928-yokohama-excellence-bleague-one-2027-28-districts.html",
+    cat: "JAPAN",
+    title: "横浜エクセレンス、2027-28シーズンは「東地区」—— B.LEAGUE ONEが東西2地区制に再編",
+    excerpt: "横浜エクセレンスは11月10日、2027-28シーズンのB.LEAGUE ONE地区分けが決定したと発表した。2027-28シーズンよりB.LEAGUE ONEは東西2地区制に移行し、横浜エクセレンスは青森ワッツや新潟アルビレックスBBなど13クラブが集まる東地区に所属する。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-928-hero.jpg?v=7bd9f3e4b4"
+  },
+  {
     href: "927-brandin-podziemski-25-points-pelicans.html",
     cat: "NBA",
     title: "ブランディン・ポジェムスキー、ペリカンズ戦で25得点 —— ウォリアーズが138-87で大勝",
