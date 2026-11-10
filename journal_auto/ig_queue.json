@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T16:55:38+09:00",
+  "updated": "2026-11-10T20:05:06+09:00",
   "items": [
     {
       "id": "134",
@@ -28735,6 +28735,75 @@
       "ig_media_id": null,
       "error": null,
       "caption": "横浜エクセレンス、2027-28シーズンは東地区に\n\n・B.LEAGUE ONEが27-28シーズンから東西2地区制に再編\n・横浜エクセレンスは13クラブの東地区に所属\n・西地区にも13クラブが集結\n\n💬 東地区、優勝候補はどこだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 横浜エクセレンス（PR TIMES）\n写真: プレスリリースより（横浜エクセレンス／PR TIMES）\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "929",
+      "slug": "929-doc-rivers-apologizes-giannis",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "ドック・リバーズ、ヤニスに謝罪",
+      "excerpt": "元ミルウォーキー・バックスのヘッドコーチ、ドック・リバーズは11月9日(現地時間)、Andscapeに対しマイアミ・ヒートのヤニス・アデトクンボへ謝罪の連絡をしたと明らかにした。ポッドキャストでの「スーパーIQがあるわけではない」という発言は「フィール(感覚)」と言うべきだったとし、称賛のつもりだったと説明。アデトクンボからは好意的な返信があったという。ESPNが伝えた。",
+      "points": [
+        "『スーパーIQ』発言を『フィール』と訂正",
+        "称賛のつもりだったと説明",
+        "ヤニスから好意的な返信あり"
+      ],
+      "source": "ESPN（マーク・J・スピアーズ／Andscape）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/929-doc-rivers-apologizes-giannis.html",
+      "hero_path": "",
+      "subject": [
+        "Giannis Antetokounmpo",
+        "Doc Rivers"
+      ],
+      "question": "この騒動、もう終わった？まだ続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/929-1.jpg",
+        "https://sixten.jp/assets/ig/929-2.jpg",
+        "https://sixten.jp/assets/ig/929-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T20:02:56+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドック・リバーズ、ヤニスに謝罪\n\n・『スーパーIQ』発言を『フィール』と訂正\n・称賛のつもりだったと説明\n・ヤニスから好意的な返信あり\n\n💬 この騒動、もう終わった？まだ続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（マーク・J・スピアーズ／Andscape）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "931",
+      "slug": "931-nba-core-danger-tiers",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "NBAの編成『危険地帯』19チーム",
+      "excerpt": "ESPNのボビー・マークス記者は11月9日、サラリーキャップと編成の観点から重大な決断を控える19チームを5段階のティアに分類する分析記事を公開した。ミルウォーキー・バックスには年俸操作疑惑、オクラホマシティ・サンダーは2027-28シーズンに総額5億ドル超えの見通し、ニューヨーク・ニックスはオーナーの「セカンドエプロン回避」方針と主力の契約交渉が重なる。マイアミ・ヒートやロサンゼルス・レイカーズ、ゴールデンステート・ウォリアーズの事情も取り上げている。",
+      "points": [
+        "バックスに年俸操作疑惑",
+        "サンダーは2027-28に5億ドル超えへ",
+        "ニックスは『セカンドエプロン回避』方針"
+      ],
+      "source": "ESPN（ボビー・マークス）",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/931-nba-core-danger-tiers.html",
+      "hero_path": "",
+      "subject": [],
+      "question": "一番ヤバいのはどこだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/931-1.jpg",
+        "https://sixten.jp/assets/ig/931-2.jpg",
+        "https://sixten.jp/assets/ig/931-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T20:05:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "NBAの編成『危険地帯』19チーム\n\n・バックスに年俸操作疑惑\n・サンダーは2027-28に5億ドル超えへ\n・ニックスは『セカンドエプロン回避』方針\n\n💬 一番ヤバいのはどこだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（ボビー・マークス）\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
