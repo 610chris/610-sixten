@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T14:10:44+09:00",
+  "updated": "2026-11-10T15:02:43+09:00",
   "items": [
     {
       "id": "134",
@@ -28609,6 +28609,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブラウン「話すことなんて何もない」\n\n・76ers移籍後、初のセルティックス戦を火曜に控える\n・テイタムとはトレード後に未接触\n・両者とも東カンファレンス首位争い中\n\n💬 ブラウンとテイタム、どっちが上？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "927",
+      "slug": "927-brandin-podziemski-25-points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "ポジェムスキー、ペリカンズ戦で25得点",
+      "excerpt": "ゴールデンステート・ウォリアーズのブランディン・ポジェムスキー(Brandin Podziemski)は現地時間11月9日、本拠地でのニューオーリンズ・ペリカンズ戦に26分出場し、フィールドゴール19本中10本・3ポイント11本中5本を沈めて25得点を記録した。チームメートのステフィン・カリーと並び両チーム通じてこの日の最多得点者となり、ウォリアーズは138-87でペリカンズに大勝した。",
+      "points": [
+        "26分出場でFG10/19・3P5/11",
+        "アシスト4・プラスマイナス+36",
+        "カリーと並びチーム最多得点"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/927-brandin-podziemski-25-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Brandin Podziemski"
+      ],
+      "question": "この試合、一番の収穫は誰だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BRANDIN PODZIEMSKI",
+        "opponent": "vs. PELICANS",
+        "points": 25,
+        "stats": [
+          "4 AST",
+          "2 REB",
+          "10/19 FG",
+          "5/11 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/927-1.jpg",
+        "https://sixten.jp/assets/ig/927-2.jpg",
+        "https://sixten.jp/assets/ig/927-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T15:02:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ポジェムスキー、ペリカンズ戦で25得点\n\n・26分出場でFG10/19・3P5/11\n・アシスト4・プラスマイナス+36\n・カリーと並びチーム最多得点\n\n💬 この試合、一番の収穫は誰だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "926",
+      "slug": "926-stephen-curry-25-points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "ステフィン・カリー、ペリカンズ戦で25得点",
+      "excerpt": "ゴールデンステート・ウォリアーズのステフィン・カリー(Stephen Curry)は現地時間11月9日、本拠地でのニューオーリンズ・ペリカンズ戦に21分出場し、フィールドゴール10本中6本・3ポイント7本中4本・フリースロー9本中9本を沈めて25得点を記録した。ブランディン・ポジェムスキーと並び両チーム通じてこの日の最多得点者となり、ウォリアーズは138-87でペリカンズに大勝した。",
+      "points": [
+        "21分出場でFG6/10・3P4/7・FT9/9",
+        "ポジェムスキーと並びチーム最多得点",
+        "ウォリアーズは138-87で大勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/926-stephen-curry-25-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Stephen Curry"
+      ],
+      "question": "この大勝、一番効いたのは誰のプレー？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "STEPHEN CURRY",
+        "opponent": "vs. PELICANS",
+        "points": 25,
+        "stats": [
+          "5 REB",
+          "2 AST",
+          "6/10 FG",
+          "4/7 3PT",
+          "9/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/926-1.jpg",
+        "https://sixten.jp/assets/ig/926-2.jpg",
+        "https://sixten.jp/assets/ig/926-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T15:02:39+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ステフィン・カリー、ペリカンズ戦で25得点\n\n・21分出場でFG6/10・3P4/7・FT9/9\n・ポジェムスキーと並びチーム最多得点\n・ウォリアーズは138-87で大勝\n\n💬 この大勝、一番効いたのは誰のプレー？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
