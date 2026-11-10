@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "933-kawhi-leonard-miss-another-week.html",
+    cat: "NBA",
+    title: "カワイ・レナード、左膝の腫れでさらに最低1週間離脱 —— ラプターズ発表、今季出場はわずか2試合",
+    excerpt: "トロント・ラプターズは現地時間11月10日、カワイ・レナードが左膝の腫れの治療で「リコンディショニング」を継続中で、最低1週間(最少あと3試合)欠場すると発表した。MRIに構造的損傷はなく、1週間後に次の経過発表が行われる。ESPNが伝えた。",
+    date: "2026.11.11",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "932-stephen-curry-kevin-durant-decade-longevity.html",
     cat: "NBA",
     title: "ステフィン・カリーとケビン・デュラント、結成10年の再戦へ —— ウォリアーズ対ロケッツ、38歳の両エースが衰えない理由",
