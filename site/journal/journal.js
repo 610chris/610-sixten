@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "918-sklz-bashhhketball-pro.html",
+    cat: "CULTURE",
+    title: "ドリブル音を気にせず自主練習を —— SKLZ「BASHHHKETBALL PRO」、公式球相当サイズの静音バスケットボール11月18日発売",
+    excerpt: "Implus EUは11月10日、スポーツトレーニングブランド「SKLZ」から静音バスケットボール「BASHHHKETBALL PRO」を発表した。特殊ポリウレタンフォーム素材でドリブル音と振動を大幅に軽減しつつ、直径約24.5cm・重量約590gの公式7号球相当サイズを維持。価格6,900円(税抜)、11月18日発売。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-918-hero.jpg?v=3b07f88eaf"
+  },
+  {
     href: "917-ty-jerome-27-points-raptors.html",
     cat: "NBA",
     title: "タイ・ジェローム、ラプターズ戦で27得点 —— グリズリーズが118-102で快勝",
