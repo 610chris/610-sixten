@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "913-nike-sabrina-4-guava-ice.html",
+    cat: "KICKS",
+    title: "Nike Sabrina 4「Guava Ice」が登場 —— 品番II0402-800、桜色を纏った新色",
+    excerpt: "ナイキは、サブリナ・イオネスクの4代目シグネチャーシューズ「Nike Sabrina 4」の新色「Guava Ice」(品番II0402-800)を発表した。淡いピーチピンクを基調に、サイドにピンク・ライム・ブラックを配した仕立て。Sneaker News、Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-913-hero.jpg?v=289146eefe"
+  },
+  {
+    href: "912-air-jordan-4-bred-black-friday.html",
+    cat: "KICKS",
+    title: "Air Jordan 4「Bred」がブラックフライデーに復刻 —— 「Reimagined」版から2年、オリジナルカラーで登場",
+    excerpt: "ジョーダン ブランドの定番「Air Jordan 4」の人気カラー「Bred」が、2026年11月27日のブラックフライデーに発売される。物議を醸した「Reimagined」版の発売からおよそ2年ぶりに、オリジナルの配色で復刻する。Sneaker Newsが伝えた。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-912-hero.jpg?v=8dc43aa975"
+  },
+  {
     href: "911-gunma-crane-thunders-nagoya-d-11-win-streak.html",
     cat: "JAPAN",
     title: "群馬クレインサンダーズ、開幕11連勝中の名古屋Dを撃破 —— 藤井祐眞が齋藤拓実のアシストを2本に封じる",
