@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:11:40+09:00",
+  "updated": "2026-11-10T13:27:43+09:00",
   "items": [
     {
       "id": "134",
@@ -28494,6 +28494,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジャマール・マレー、ロケッツ戦で38得点\n\n・FG14/23・3P5/8の高効率で38得点\n・ターンオーバーはわずか1に抑える\n・ナゲッツは100-110でロケッツに敗戦\n\n💬 マレー38点も黒星、ナゲッツの課題はどこ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN（ボックススコア）\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "921",
+      "slug": "921-victor-wembanyama-40-points-suns",
+      "category": "NBA",
+      "date": "2026-11-10",
+      "headline": "ウェンバンヤマ、サンズ戦で40得点11リバウンド8ブロック",
+      "excerpt": "サンアントニオ・スパーズのビクター・ウェンバンヤマ(Victor Wembanyama)は現地時間11月9日、敵地でのフィニックス・サンズ戦に25分出場し、フィールドゴール19本中15本・3ポイント3本中2本・フリースロー10本中8本を沈めて40得点を記録した。リバウンド11・ブロック8も記録し、両チーム通じてこの日の最多得点者となり、スパーズは122-96でサンズに勝利した。",
+      "points": [
+        "FG19本中15本・80%超の高確率で40得点",
+        "25分の出場でリバウンド11・ブロック8",
+        "スパーズが122-96で快勝、最大34点差"
+      ],
+      "source": "ESPN ボックススコア(Spurs vs. Suns・2026年11月9日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/921-victor-wembanyama-40-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "ウェンバンヤマ、このままMVPいける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. SUNS",
+        "points": 40,
+        "stats": [
+          "11 REB",
+          "8 BLK",
+          "3 AST",
+          "15/19 FG",
+          "2/3 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/921-1.jpg",
+        "https://sixten.jp/assets/ig/921-2.jpg",
+        "https://sixten.jp/assets/ig/921-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-10T13:27:23+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマ、サンズ戦で40得点11リバウンド8ブロック\n\n・FG19本中15本・80%超の高確率で40得点\n・25分の出場でリバウンド11・ブロック8\n・スパーズが122-96で快勝、最大34点差\n\n💬 ウェンバンヤマ、このままMVPいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Spurs vs. Suns・2026年11月9日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
