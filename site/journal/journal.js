@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "911-gunma-crane-thunders-nagoya-d-11-win-streak.html",
+    cat: "JAPAN",
+    title: "群馬クレインサンダーズ、開幕11連勝中の名古屋Dを撃破 —— 藤井祐眞が齋藤拓実のアシストを2本に封じる",
+    excerpt: "群馬クレインサンダーズは現地時間11月9日、本拠地オープンハウスアリーナ太田でのB.LEAGUE PREMIER 2026-27シーズンの一戦で名古屋ダイヤモンドドルフィンズを破り、開幕から11連勝中だった名古屋Dの連勝記録を止めた。前節のシーホース三河戦に続く強豪撃破で、藤井祐眞は相手のエース齋藤拓実のアシストを2本に抑えるディフェンスで勝利に貢献した。",
+    date: "2026.11.10",
+    thumb: "../assets/journal-911-hero.jpg?v=b9ae7fa332"
+  },
+  {
     href: "910-jordan-tatum-5-nike-by-you.html",
     cat: "KICKS",
     title: "Jordan Tatum 5が「Nike By You」に対応 —— 11月12日からカスタムオーダー開始、ジョーダンブランドは約10年ぶり参加",
