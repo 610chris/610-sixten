@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "946-markkanen-fractured-hand.html",
+    cat: "NBA",
+    title: "マルカネン、右手骨折で最低1ヶ月離脱 —— 1勝10敗のジャズ、怪我人続出に拍車",
+    excerpt: "ユタ・ジャズのラウリ・マルカネン(Lauri Markkanen)は右手に剥離のない骨折があり、最低1ヶ月の離脱が見込まれることが分かった。今月6日のマーベリックス戦で手を強打して負傷。ジャズ(1勝10敗)はヌルキッチ・ジャクソンJr.・ジョージも負傷者リストに名を連ねる。ESPNのシャムズ・シャラニア記者とティム・マクマホン記者が伝えた。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "945-nike-book-2-be-legendary.html",
     cat: "KICKS",
     title: "Nike Book 2「Be Legendary」が11月20日発売 —— デビン・ブッカーの2代目シグネチャーに、コービー・ブライアントへのトリビュートカラー",
