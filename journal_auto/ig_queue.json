@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:54:32+09:00",
+  "updated": "2026-11-11T13:59:30+09:00",
   "items": [
     {
       "id": "134",
@@ -29002,6 +29002,144 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ポール・ジョージ、76ers戦で36得点\n\n・FG14/22・3P6本の高効率\n・セルティックスが123-101で勝利\n・4クオーター全てで二桁得点\n\n💬 ジョージ、今季プレーオフでもこの決定力は続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "937",
+      "slug": "937-hachimura-13-points-suns",
+      "category": "NBA",
+      "date": "2026-11-11",
+      "headline": "八村塁、サンズ戦で13得点",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁(Rui Hachimura)は現地時間11月10日、敵地フェニックスでのサンズ戦に23分出場し、フィールドゴール10本中4本(3ポイント5本中3本)を沈めて13得点を記録した。クリッパーズは110-133でサンズに敗れた。",
+      "points": [
+        "八村塁がサンズ戦で23分出場、13得点",
+        "FG4/10・3PT3/5、リバウンド5・スティール2",
+        "クリッパーズは110-133で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Suns vs. Clippers・2026年11月10日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/937-hachimura-13-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "八村、次の試合でも2桁得点いける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. SUNS",
+        "points": 13,
+        "stats": [
+          "5 REB",
+          "2 STL",
+          "1 AST",
+          "4/10 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/937-1.jpg",
+        "https://sixten.jp/assets/ig/937-2.jpg",
+        "https://sixten.jp/assets/ig/937-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-11T13:58:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、サンズ戦で13得点\n\n・八村塁がサンズ戦で23分出場、13得点\n・FG4/10・3PT3/5、リバウンド5・スティール2\n・クリッパーズは110-133で敗戦\n\n💬 八村、次の試合でも2桁得点いける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Suns vs. Clippers・2026年11月10日)\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "938",
+      "slug": "938-giannis-30-points-jazz",
+      "category": "NBA",
+      "date": "2026-11-11",
+      "headline": "アデトクンボ、ジャズ戦で30得点",
+      "excerpt": "マイアミ・ヒートのヤニス・アデトクンボ(Giannis Antetokounmpo)は現地時間11月10日、敵地ソルトレイクシティでのジャズ戦に31分出場し、フィールドゴール21本中12本を沈めて30得点を記録した。両チーム通じてこの日の最多得点者となり、ヒートは115-109でジャズに勝利した。",
+      "points": [
+        "アデトクンボがジャズ戦で31分出場、30得点",
+        "FG12/21(57.1%)、リバウンド11・アシスト4",
+        "ヒートが115-109で勝利、この日の最多得点者"
+      ],
+      "source": "ESPN ボックススコア(Heat vs. Jazz・2026年11月10日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/938-giannis-30-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Giannis Antetokounmpo"
+      ],
+      "question": "アデトクンボ、今季MVP争いに絡める？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "GIANNIS ANTETOKOUNMPO",
+        "opponent": "vs. JAZZ",
+        "points": 30,
+        "stats": [
+          "11 REB",
+          "4 AST",
+          "12/21 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/938-1.jpg",
+        "https://sixten.jp/assets/ig/938-2.jpg",
+        "https://sixten.jp/assets/ig/938-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-11T13:58:54+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アデトクンボ、ジャズ戦で30得点\n\n・アデトクンボがジャズ戦で31分出場、30得点\n・FG12/21(57.1%)、リバウンド11・アシスト4\n・ヒートが115-109で勝利、この日の最多得点者\n\n💬 アデトクンボ、今季MVP争いに絡める？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Heat vs. Jazz・2026年11月10日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "939",
+      "slug": "939-jordan-goodwin-18-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-11",
+      "headline": "グッドウィン、クリッパーズ戦で18得点",
+      "excerpt": "フェニックス・サンズのジョーダン・グッドウィン(Jordan Goodwin)は現地時間11月10日、本拠地でのクリッパーズ戦に14分出場し、フィールドゴール7本中6本(3ポイント7本中6本)を沈めて18得点を記録した。両チーム通じてこの日の最多得点者となり、サンズは133-110でクリッパーズに快勝した。",
+      "points": [
+        "グッドウィンがクリッパーズ戦でわずか14分、18得点",
+        "FG6/7・3PT6/7、驚異の85.7%の成功率",
+        "サンズが133-110で快勝、この日の最多得点者"
+      ],
+      "source": "ESPN ボックススコア(Suns vs. Clippers・2026年11月10日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/939-jordan-goodwin-18-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Jordan Goodwin"
+      ],
+      "question": "グッドウィン、このままベンチの核になる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JORDAN GOODWIN",
+        "opponent": "vs. CLIPPERS",
+        "points": 18,
+        "stats": [
+          "3 REB",
+          "1 AST",
+          "6/7 FG",
+          "6/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/939-1.jpg",
+        "https://sixten.jp/assets/ig/939-2.jpg",
+        "https://sixten.jp/assets/ig/939-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-11T13:58:55+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "グッドウィン、クリッパーズ戦で18得点\n\n・グッドウィンがクリッパーズ戦でわずか14分、18得点\n・FG6/7・3PT6/7、驚異の85.7%の成功率\n・サンズが133-110で快勝、この日の最多得点者\n\n💬 グッドウィン、このままベンチの核になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Suns vs. Clippers・2026年11月10日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
