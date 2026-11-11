@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T12:04:52+09:00",
+  "updated": "2026-11-11T12:54:32+09:00",
   "items": [
     {
       "id": "134",
@@ -28956,6 +28956,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブランソン、バックス戦で23得点 —— ニックス快勝\n\n・FG7/18・FT8/8(全成功)で23得点\n・タウンズも21得点16リバウンドで援護\n・ニックスはバックスに117-85で快勝\n\n💬 ニックスのこの快勝、今季の調子を取り戻したと思う?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Knicks vs. Bucks)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "936",
+      "slug": "936-paul-george-36-points-76ers",
+      "category": "NBA",
+      "date": "2026-11-11",
+      "headline": "ポール・ジョージ、76ers戦で36得点",
+      "excerpt": "ボストン・セルティックスのポール・ジョージは現地時間11月10日、敵地フィラデルフィアでのセブンティシクサーズ戦に30分出場し、フィールドゴール22本中14本・3ポイント11本中6本を沈めて36得点を記録した。両チーム通じてこの日の最多得点者となり、セルティックスは123-101でセブンティシクサーズに勝利した。",
+      "points": [
+        "FG14/22・3P6本の高効率",
+        "セルティックスが123-101で勝利",
+        "4クオーター全てで二桁得点"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/936-paul-george-36-points-76ers.html",
+      "hero_path": "",
+      "subject": [
+        "Paul George"
+      ],
+      "question": "ジョージ、今季プレーオフでもこの決定力は続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PAUL GEORGE",
+        "opponent": "vs. 76ERS",
+        "points": 36,
+        "stats": [
+          "5 REB",
+          "1 AST",
+          "14/22 FG",
+          "6/11 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/936-1.jpg",
+        "https://sixten.jp/assets/ig/936-2.jpg",
+        "https://sixten.jp/assets/ig/936-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-11T12:54:16+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ポール・ジョージ、76ers戦で36得点\n\n・FG14/22・3P6本の高効率\n・セルティックスが123-101で勝利\n・4クオーター全てで二桁得点\n\n💬 ジョージ、今季プレーオフでもこの決定力は続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
