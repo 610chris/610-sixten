@@ -1,7 +1,18 @@
 {
- "updated_utc": "2026-11-11 09:54 UTC",
+ "updated_utc": "2026-11-11 17:35 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Brian Windhorst（ESPN）",
+   "handle": "WindhorstESPN",
+   "key": "https://www.reddit.com/r/nba/comments/1xtk66s/windhorst_the_bucks_are_facing_a_catastrophe_in/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-11-11T15:09:54+00:00",
+   "text": "The Bucks are facing a “catastrophe” in the Gary Trent Jr. investigation: “Everybody in the league expects a guilty finding … If they are found guilty, there are going to be draft picks stripped and people suspended indefinitely.”",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xtk66s/windhorst_the_bucks_are_facing_a_catastrophe_in/",
+   "links": []
+  },
   {
    "reporter": "Chris Haynes（NBA on Prime）",
    "handle": "ChrisBHaynes",
