@@ -1,8 +1,209 @@
 {
- "updated_utc": "2026-11-11 00:52 UTC",
+ "updated_utc": "2026-11-11 08:20 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-behind-strong-defensive-rebounding-effort-take-down-sacramento-kings-20261110",
+   "url": "https://www.nba.com/magic/news/orlando-magic-behind-strong-defensive-rebounding-effort-take-down-sacramento-kings-20261110",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-behind-strong-defensive-rebounding-effort-take-down-sacramento-kings-20261110",
+   "title": "Orlando Magic, Behind Strong Defensive & Rebounding Effort, Take Down Sacramento Kings",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-11T06:40:18Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "SACRAMENTO - After his team’s morning shootaround, Orlando Magic veteran center Nikola Vucevic mentioned paint points and rebounding as two of the main keys going into Tuesday’s matchup against the Sacramento Kings.",
+   "facts": [
+    "The Magic outscored the Kings by 30 in the paint and outrebounded them by 14 en route to a 107-100 victory at the Golden 1 Center.",
+    "Sacramento committed 21 turnovers, which led to 33 Magic points, while Orlando kept its miscues in check with just 14 of them.",
+    "Although he had just five points Tuesday, Vucevic passed Magic Johnson for 91st on the NBA’s all-time scoring list.",
+    "LaVine racked up 31 points for the Kings, while rookie standout Acuff Jr. had 29 points and six assists.",
+    "With Sacramento within striking distance through three quarters, Orlando used an 8-2 run in the first few minutes of the fourth to seize control.",
+    "Orlando will look to build momentum off this win when it wraps up its four-game West Coast trip on Wednesday against the Utah Jazz at 9 p.m."
+   ],
+   "quotes": [
+    "The guys did a great job, especially forcing turnovers,",
+    "I thought we were really aggressive, did a great job with our hand activity a number of times. I thought we did a really good job with our communication, especially with (Darius) Acuff and (Zach) LaVi…",
+    "It’s not easy when you don’t know how much you are going to play,",
+    "Come in, play 29 minutes and play like that – big energy plays. It’s important to him. That guy is ready to go."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-back-to-back-against-orlando-magic",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-back-to-back-against-orlando-magic",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-back-to-back-against-orlando-magic",
+   "title": "Preview: Utah Jazz End Back-to-Back Against Orlando Magic",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-11T06:07:26Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Isaiah Collier",
+    "Utah Jazz"
+   ],
+   "summary": "After extensive time spent away from home, the Utah Jazz are enjoying a brief return to the Delta Center this week.",
+   "facts": [
+    "After extensive time spent away from home, the Utah Jazz are enjoying a brief return to the Delta Center this week.",
+    "Darryn Peterson (25 points, five assists), Ace Bailey (23 points, seven rebounds), and Isaiah Collier (17 points, five assists) led the way, but Utah struggled to keep Miami off the free-throw line (33-of-44) and turned …",
+    "Orlando will also be on the second night of a back-to-back, having narrowly defeated the Sacramento Kings 107-100 Tuesday night.",
+    "Injuries have hurt Orlando to begin Sean Sweeney’s first season as head coach, with the Magic struggling to find their footing on both ends of the floor.",
+    "Heading into Tuesday’s action, Orlando ranked 24th in both offensive and defensive rating, relying on a more balanced scoring attack (five players average over 14 points per game) to navigate Paolo Banchero’s absence.",
+    "The Magic owned a 17.9 turnover percentage as of Tuesday morning, the fourth-highest in the league.",
+    "Meanwhile, Orlando has also failed to consistently turn teams over, ranking 22nd in opponent turnover percentage.",
+    "The Jazz rank 25th in turnover percentage, coughing it up on 17.2 percent of their possessions."
+   ],
+   "quotes": [
+    "There’s plenty of things to clean up, but generally I’m really proud of the team’s fight,",
+    "They’re digging in, staying in the moment, and playing hard… We got a lift from a bunch of guys tonight."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-comeback-attempt-falls-short-against-miami-heat-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-comeback-attempt-falls-short-against-miami-heat-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-comeback-attempt-falls-short-against-miami-heat-key-takeaways",
+   "title": "Utah Jazz Comeback Attempt Falls Short Against Miami Heat: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-11T05:33:04Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Isaiah Collier",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "Adversity continues to be the theme of the 2026-27 season for the Utah Jazz.",
+   "facts": [
+    "Adversity continues to be the theme of the 2026-27 season for the Utah Jazz.",
+    "As the team returned home following a four-game road trip, they had to navigate another absence, with Keyonte George suffering an ankle sprain in Sunday's loss to the Minnesota Timberwolves.",
+    "Without four starters (Lauri Markkanen, Jaren Jackson Jr., and Jusuf Nurkić remain out of the lineup), Utah fought but ultimately fell 115-109 to the Miami Heat to kick off a back-to-back set of games at the Delta Center…",
+    "The Jazz overcame early shooting struggles and a high number of turnovers (19 in the game), but the Heat were aggressive in getting to the free-throw line (33-of-44) in the win.",
+    "In the narrow defeat, Darryn Peterson finished with 25 points and five assists, Ace Bailey chipped in with 23 points and seven rebounds, and Isaiah Collier provided 17 points and five assists off the bench.",
+    "As expected, the Heat were led by Giannis Antetokounmpo (30 points, 11 rebounds).",
+    "Utah created an early seven-point lead, but saw Miami respond with a 17-4 run in the ensuing minutes to gain momentum.",
+    "After falling behind by eight, the Jazz got a boost from their bench and eventually tied the game at 23 late in the frame."
+   ],
+   "quotes": [
+    "There’s plenty of things to clean up, but generally I’m really proud of the team’s fight,",
+    "They’re digging in, staying in the moment, and playing hard… We got a lift from a bunch of guys tonight.",
+    "There are imperfect moments… But there’s a lot of hope when I watch the team play like that,",
+    "They’re playing with poise,"
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-heat-west-coast-trip-clutch-jazz",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-heat-west-coast-trip-clutch-jazz",
+   "canonical_url": "https://heat.com/news/coups-takeaways-antetokounmpo-heat-west-coast-trip-clutch-jazz",
+   "title": "Coup’s Takeaways: HEAT Finish West Coast Trip With Clutch Win Over Utah",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-11-11T05:23:32Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. This wasn’t a game anyone is going to be telling the story of a couple months from now, but after a little drama at the end the HEAT come home with a 3-2 road trip all the same.",
+   "facts": [
+    "This wasn’t a game anyone is going to be telling the story of a couple months from now, but after a little drama at the end the HEAT come home with a 3-2 road trip all the same.",
+    "The new usual starters for Miami, Pelle Larsson in with the opening group for the second time in as many games, and it’s against a Utah Jazz team riddled with injuries as they struggle to find their footing in the early …",
+    "Decent enough start for the Jazz all the same, Ace Bailey leading off with a three, Josh Okogie – in what may have been the highest usage quarter of his career – earning an and-one and a defensive breakdown from Miami le…",
+    "No. 2 pick Darryn Peterson took a little while to get going – he started finding some driving lanes in the second quarter – and Utah’s offense wasn’t generating much of anything as Miami began to extend their lead, but t…",
+    "Peterson’s run late in the second made sure things didn’t get out of hand, Miami by 10 going into the second half, but it felt like Miami’s game until further notice as long as they maintained a steady hand.",
+    "Another Mitchell three, the lead that was once almost back down to five quickly up to 14 again as Antetokounmpo remained the difference maker, the question Utah had no answer to – especially with the jumpers falling.",
+    "Another Antetokounmpo jumper, another Klay Thompson three, an 18-point lead and everything steady once again, Antetokounmpo feeling good enough to take a one-on-one three from up top and can it.",
+    "Miami up 20, headed to the final stretch."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261110-celtics-silence-the-noise-in-statement-win-over-sixers",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261110-celtics-silence-the-noise-in-statement-win-over-sixers",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261110-celtics-silence-the-noise-in-statement-win-over-sixers",
+   "title": "Tatum, George Put on Show in Statement Win Over Sixers",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-11T04:59:00Z",
+   "tags": [
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "When Jayson Tatum stepped onto the court at Xfinity Mobile Arena Tuesday night, he momentarily lost track of time.",
+   "facts": [
+    "Boston marched into a hostile road environment and turned one of the most anticipated matchups of the young NBA season into a one-sided affair, blowing the 76ers out of their own building, 123-101.",
+    "He spent much of the night operating in an off-ball role, finishing with 21 points, six rebounds, four assists, and two blocks while setting the tone with his defensive effort and willingness to do the dirty work.",
+    "Though he did have quite the loud dunk on LeBron James, similar to the poster he put on The King in Game 7 of the Eastern Conference Finals his rookie season.",
+    "Despite making his return to Philadelphia, the nine-time All-Star was one of the more overlooked storylines entering the matchup.",
+    "That changed in a hurry as he poured in a game-high 36 points, including six 3-pointers on 11 attempts.",
+    "The matchup was tied at 79-79 with 3:05 remaining in the third quarter, before the Celtics took control, unleashing a 39-10 run that broke the game open.",
+    "Boston carried a nine-point advantage into the fourth before opening the final frame on a 14-0 burst.",
+    "Payton Pritchard got things rolling with back-to-back 3-pointers, and George followed with eight consecutive points to stretch the lead to 23."
+   ],
+   "quotes": [
+    "I couldn’t tell if it was November 10 or June 10. It felt like a [expletive] Finals game.",
+    "I thought he handled it beautifully,",
+    "I thought we put more on this (game) than we should have.",
+    "I’ve kind of been this way since I was a kid,"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261110-bosphi",
+   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261110-bosphi",
+   "canonical_url": "https://celtics.com/news/game-recap-keys-20261110-bosphi",
+   "title": "Keys to the Game: Celtics 123, 76ers 101",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-11T04:32:44Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "The 76ers spent three quarters hanging at Boston’s heels Tuesday night. Then the Celtics kicked free.",
+   "facts": [
+    "Key Moment The 76ers spent three quarters hanging at Boston’s heels Tuesday night.",
+    "After carrying a 91-82 lead into the final frame, Boston opened the fourth quarter on a 14-0 run that put the finishing touches on a dominant 123-101 road win over its longtime rival.",
+    "Payton Pritchard sparked the surge with back-to-back 3-pointers before Paul George took over, pouring in eight straight points to push Boston’s advantage to 23.",
+    "Philadelphia didn't make a field goal until the 7:37 mark of the frame, when Jaylen Brown knocked down his only 3-pointer of the night.",
+    "Boston continued to pour it on, extending its lead to as many as 29 points even after pulling its starters and emptying its bench.",
+    "Key Player Paul George’s return to Philadelphia had taken a backseat to other storylines heading into Tuesday night’s showdown.",
+    "The nine-time All-Star erupted for a game-high 36 points on 14-of-22 shooting, including a 6-of-11 clip from 3-point range, to lead Boston past his former team.",
+    "He also grabbed five rebounds and posted a plus-17 rating in 30 minutes, the best mark among Celtics starters."
+   ],
+   "quotes": [
+    "He’s probably been dealing with the spotlight since he was like 12 years old … He doesn’t get enough credit for his emotional stability."
+   ]
+  },
   {
    "source": "LAL 公式（nba.com）",
    "team": "LAL",
@@ -1651,160 +1852,6 @@
     "Sixers Starters All five Sixers starters scored at least 15 points in the first meeting, combining for 102 points."
    ],
    "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-preview-20261109",
-   "url": "https://www.nba.com/warriors/news/gameday-preview-20261109",
-   "canonical_url": "https://warriors.com/news/gameday-preview-20261109",
-   "title": "Game Preview: Warriors vs. New Orleans Pelicans - 11/9/26",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-11-08T05:34:42Z",
-   "tags": [
-    "Game Preview"
-   ],
-   "summary": "WARRIORS CONCLUDE HOME STAND HOSTING PELICANS ON MONDAY The Warriors look to complete a perfect home stand when they host the New Orleans Pelicans at Chase Center on Monday. The Dubs have won the first five games of the home stand and have won seven straight overall after a 0-3 start. Stephen Curry is averaging 33.8 points on a 73.3 true shooting percentage over the winning streak. Pelicans star f…",
-   "facts": [
-    "The Dubs have won the first five games of the home stand and have won seven straight overall after a 0-3 start.",
-    "Stephen Curry is averaging 33.8 points on a 73.3 true shooting percentage over the winning streak.",
-    "Pelicans star forward Zion Williamson has played in every game this season and is averaging 20.9 points per contest.",
-    "GET TICKETS LAST TIME OUT Stephen Curry did a bit of everything, with 41 points, six rebounds, and six assists in the Warriors’ 124-119 overtime win over the Orlando Magic at Chase Center on Saturday.",
-    "Curry scored 19 of his 41 points in the fourth quarter and overtime — each of his four fourth quarter field goals were clutch baskets to tie or take the lead in the final three minutes.",
-    "He finished with his 16th 40-point game since his 35th birthday, breaking a tie with LeBron James for the most in NBA history. »Full Story INJURY & ROSTER NOTES GSW: TBD.",
-    "Team Notes COMPELLING NOTE: Warriors: Stephen Curry is second in the league in scoring this season, averaging 31.3 points per game.",
-    "Curry has eclipsed 30 points per game twice in his career, most recently averaging 32 points in 2020-21."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-push-golden-state-warriors-to-overtime-before-falling-short-20261107",
-   "url": "https://www.nba.com/magic/news/orlando-magic-push-golden-state-warriors-to-overtime-before-falling-short-20261107",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-push-golden-state-warriors-to-overtime-before-falling-short-20261107",
-   "title": "Orlando Magic Push Golden State Warriors to Overtime Before Falling Short",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-08T05:15:10Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "SAN FRANCISCO -- The Orlando Magic did just about everything right Saturday in the Bay Area.",
-   "facts": [
-    "They kept their turnovers in check with just 14 of them.",
-    "They forced the Golden State Warriors into 19 turnovers, which led to 26 Orlando points.",
-    "They also pulled down 24 offensive rebounds, which led to 33 second chance points.",
-    "Steph Curry, now in his 18th NBA season, quite simply couldn’t be stopped down the stretch of the fourth quarter and in overtime, as he scored 12 points in the last 2 ½ minutes of regulation and connected on a go-ahead t…",
-    "The two-time league MVP and 12-time All-Star finished with 41 points on 13-of-19 floor shooting and 5-of-10 3-point shooting.",
-    "It was the fifth time in his career that he scored 40-plus points against the Magic.",
-    "But the Warriors shot 54 percent from the field overall and 47 percent from beyond the arc, while also making 10 more free throws.",
-    "The Magic, on the other hand, shot 38 percent overall and 33 percent from 3-point distance."
-   ],
-   "quotes": [
-    "They have one of the best players in the world on their team and he capitalized in crunch time. But I’m happy with the way we competed the whole game and we gave ourselves a chance to win. But they go…",
-    "I thought he did a great job giving great energy,",
-    "Obviously the points reflect him scoring, but I thought he did a great job of really attacking the offensive boards and the defensive boards for that matter. It’s big for us when he’s out there being …"
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261107",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261107",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261107",
-   "title": "Stephen Curry Scores 41 Points, Powers Warriors Past Magic in Overtime Thriller",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-11-08T04:29:22Z",
-   "tags": [
-    "Game Recap"
-   ],
-   "summary": "Stephen Curry did a bit of everything, with 41 points, six rebounds, and six assists in the Warriors’ 124-119 overtime win over the Orlando Magic at Chase Center on Saturday. Curry scored 19 of his 41 points in the fourth quarter and overtime — each of his four fourth quarter field goals were clutch baskets to tie or take the lead in the final three minutes. He finished with his 16th 40-point game…",
-   "facts": [
-    "Stephen Curry did a bit of everything, with 41 points, six rebounds, and six assists in the Warriors’ 124-119 overtime win over the Orlando Magic at Chase Center on Saturday.",
-    "Curry scored 19 of his 41 points in the fourth quarter and overtime — each of his four fourth quarter field goals were clutch baskets to tie or take the lead in the final three minutes.",
-    "He finished with his 16th 40-point game since his 35th birthday, breaking a tie with LeBron James for the most in NBA history.",
-    "Yaxel Lendeborg added 23 points, eight rebounds and three blocks, while Brandin Podziemski had 15 points, seven rebounds and four 3-pointers.",
-    "The Dubs outscored the Magic 16-9 in overtime, shooting 5-for-7 from the field while holding Orlando to 2-for-9 shooting.",
-    "Golden State overcame a 33-2 differential in second chance points which resulted in 33 fewer shot attempts.",
-    "They made up for that difference by being more efficient from the field (53.8 FG% GSW - 38.1 FG% ORL), on 3-pointers (46.9 3PT% - 33.3 3PT%) and from the foul line (80.6 FT% - 71.4 FT%).",
-    "With the win, the Warriors become the first team since the 1950-51 Boston Celtics to win seven straight games after starting 0-3."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-defeat-pacers-in-mexico-city-game",
-   "url": "https://www.nba.com/nuggets/news/nuggets-defeat-pacers-in-mexico-city-game",
-   "canonical_url": "https://nuggets.com/news/nuggets-defeat-pacers-in-mexico-city-game",
-   "title": "Nuggets defeat Pacers in Mexico City Game",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-08T01:26:36Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets took down the Indiana Pacers, 114-102, on Saturday. This helped Denver improve to 5-3 on the season.",
-   "facts": [
-    "The Denver Nuggets took down the Indiana Pacers, 114-102, on Saturday.",
-    "This helped Denver improve to 5-3 on the season.",
-    "The Nuggets are now 2-0 in regular-season international play after winning Saturday's Mexico City Game.",
-    "They've played in 10 international games if we include the preseason.",
-    "They limited the Pacers to just an 86.0 offensive rating in the half-court, good for the 26th percentile.",
-    "Closing out to Indiana's shooters paid dividends, as the Pacers shot just 31.3 percent from distance.",
-    "Nikola Jokić recorded a double-double with 19 points and 13 rebounds.",
-    "Cam Johnson was highly efficient against Indiana, making eight of his 12 total shots for 18 points."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-nuggets-261107",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-nuggets-261107",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-nuggets-261107",
-   "title": "Game Rewind: Pacers 102, Nuggets 114",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-08T01:20:00Z",
-   "tags": [
-    "2026-27 Game Rewind",
-    "NBA Mexico City Game 2026"
-   ],
-   "summary": "Saturday, Nov. 7 at 5:00 PM ET at Arena CDMX",
-   "facts": [
-    "Saturday, Nov. 7 at 5:00 PM ET at Arena CDMX Game Recap The Pacers matched up with the Denver Nuggets on Saturday as the pair of teams clashed in the NBA’s 35th overall game held in Mexico City, and 16th regular season g…",
-    "Indiana trailed by as many as 27 points, rallied back within eight points in the final two minutes, but ultimately fell to the Nuggets, 114-102.",
-    "The game was technically a Pacers home game, but the Nuggets had a big advantage in Mexico – Mexico City sits at 7,350 feet above sea level.",
-    "That’s over 2,000 feet higher in altitude than Denver, who regularly plays at 5,280 feet.",
-    "A late surge from the Blue and Gold had Indiana back within six points with under seven seconds remaining, but Nikola Jokic knocked down a pair of free throws to give the Nuggets an eight-point advantage heading into the…",
-    "After shooting just 1-for-9 from beyond the arc in the first quarter, the Pacers knocked down three straight triples to open the second.",
-    "Andrew Nembhard hit first, then Larry Nance Jr. connected from deep on back to back possessions as the Pacers rallied to come within six points, 34-28.",
-    "Denver went on to score 15 unanswered points, and the Pacers trailed by 21 points, 49-28."
-   ],
-   "quotes": [
-    "If you're not used to the altitude and everything it's just kind of hard to get going,",
-    "So the first half was pretty tough for us. Obviously, I thought we had some good shots. We didn't make them, which doesn't help, but I thought our force and energy was way better in the second half, a…",
-    "If you're not used to the altitude and everything it's just kind of hard to get going. So the first half was pretty tough for us. Obviously, I thought we had some good shots. We didn't make them, whic…",
-    "It was a good atmosphere. We had a good time out here. Just people welcomed us with open arms, you know, from the hotel to everyone here, like it's been great. So yeah, we loved that experience here."
-   ]
   }
  ]
 }
