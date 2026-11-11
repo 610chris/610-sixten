@@ -1,17 +1,19 @@
 {
- "updated_utc": "2026-11-10 23:13 UTC",
+ "updated_utc": "2026-11-11 09:54 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
-   "reporter": "Shams Charania（ESPN）",
-   "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1xt1g4p/charania_jaylen_brown_confronted_jayson_tatum_at/",
+   "reporter": "Chris Haynes（NBA on Prime）",
+   "handle": "ChrisBHaynes",
+   "key": "https://www.reddit.com/r/nba/comments/1xt7fii/haynes_after_starting_the_last_5_games_the/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-11-10T22:59:38+00:00",
-   "text": "Jaylen Brown confronted Jayson Tatum at a dinner in France this past summer and the two had a “heart to heart” about their future together days before Brown was traded to Philly, the two haven’t spoken since.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xt1g4p/charania_jaylen_brown_confronted_jayson_tatum_at/",
-   "links": []
+   "posted_utc": "2026-11-11T03:36:34+00:00",
+   "text": "After starting the last 5 games, the Portland Trail Blazers are moving Scoot Henderson back to a reserve role and Sidy Cissoko will get the start tonight against the Oklahoma City Thunder, sources tell me.\n\nhttps://www.threads.com/@chrisbhaynesnba",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xt7fii/haynes_after_starting_the_last_5_games_the/",
+   "links": [
+    "https://www.threads.com/@chrisbhaynesnba"
+   ]
   }
  ]
 }
