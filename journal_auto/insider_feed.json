@@ -1,7 +1,33 @@
 {
- "updated_utc": "2026-11-11 17:35 UTC",
+ "updated_utc": "2026-11-11 23:41 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
+  {
+   "reporter": "Bobby Marks（ESPN）",
+   "handle": "BobbyMarks42",
+   "key": "https://www.reddit.com/r/nba/comments/1xtt5q0/marks_giannis_is_expected_to_remain_with_the/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-11-11T20:46:05+00:00",
+   "text": "Giannis Antetokounmpo is expected to remain with the Miami Heat, with a contract extension reportedly on the horizon. According to Bobby Marks, the Greek superstar is expected to sign a new deal with the franchise either in January or during the upcoming summer.\n\nThe financial terms will depend on the timing. Starting January 6, six months after his trade from Milwaukee, Antetokounmpo could sign a four-year extension worth approximately $276 million. Alternatively, he could decline his 2027-28 player option and re-sign with Miami as a free agent next summer on a five-year deal worth around $357 million.\n\nThe latter option would give the two-time MVP access to the largest possible contract.\n\nSource: https://sportando.basketball/en/giannis-antetokounmpo-expected-to-sign-heat-extension-worth-up-to-357-million/\n\nMarks said this on the Hoop Collective podcast.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xtt5q0/marks_giannis_is_expected_to_remain_with_the/",
+   "links": [
+    "https://sportando.basketball/en/giannis-antetokounmpo-expected-to-sign-heat-extension-worth-up-to-357-million/"
+   ]
+  },
+  {
+   "reporter": "Shams Charania（ESPN）",
+   "handle": "ShamsCharania",
+   "key": "https://www.reddit.com/r/nba/comments/1xtp9bm/charania_utah_jazz_star_lauri_markkanen_has/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-11-11T18:18:09+00:00",
+   "text": "Utah Jazz star Lauri Markkanen has sustained a non-displaced fracture in his right hand and will be sidelined for at least one month, sources tell me and @BannedMacMahon.\n\nhttps://www.espn.com/contributor/shams-charania/aa30ba30b3034",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xtp9bm/charania_utah_jazz_star_lauri_markkanen_has/",
+   "links": [
+    "https://www.espn.com/contributor/shams-charania/aa30ba30b3034"
+   ]
+  },
   {
    "reporter": "Brian Windhorst（ESPN）",
    "handle": "WindhorstESPN",
@@ -12,19 +38,6 @@
    "text": "The Bucks are facing a “catastrophe” in the Gary Trent Jr. investigation: “Everybody in the league expects a guilty finding … If they are found guilty, there are going to be draft picks stripped and people suspended indefinitely.”",
    "reddit_url": "https://www.reddit.com/r/nba/comments/1xtk66s/windhorst_the_bucks_are_facing_a_catastrophe_in/",
    "links": []
-  },
-  {
-   "reporter": "Chris Haynes（NBA on Prime）",
-   "handle": "ChrisBHaynes",
-   "key": "https://www.reddit.com/r/nba/comments/1xt7fii/haynes_after_starting_the_last_5_games_the/",
-   "x_url": "",
-   "tweet_id": "",
-   "posted_utc": "2026-11-11T03:36:34+00:00",
-   "text": "After starting the last 5 games, the Portland Trail Blazers are moving Scoot Henderson back to a reserve role and Sidy Cissoko will get the start tonight against the Oklahoma City Thunder, sources tell me.\n\nhttps://www.threads.com/@chrisbhaynesnba",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xt7fii/haynes_after_starting_the_last_5_games_the/",
-   "links": [
-    "https://www.threads.com/@chrisbhaynesnba"
-   ]
   }
  ]
 }
