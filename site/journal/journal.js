@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "943-shai-gilgeous-alexander-26-points-blazers.html",
+    cat: "NBA",
+    title: "シェイ・ギルジャス＝アレクサンダー、トレイルブレイザーズ戦で26得点 —— サンダーが103-123で大敗",
+    excerpt: "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月10日、敵地ポートランドでのトレイルブレイザーズ戦に29分出場し、フィールドゴール22本中8本・フリースロー11本中10本を沈めて26得点を記録した。両チーム通じてこの日の最多得点者となったが、サンダーは103-123でトレイルブレイザーズに大敗した。",
+    date: "2026.11.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "942-adidas-ae3-doctor-doom-ant-man.html",
     cat: "KICKS",
     title: "adidas Anthony Edwards 3「Doctor Doom」「Ant-Man」が12月発売 —— 『アベンジャーズ: ダムズデイ』コラボでAE3に2色",
