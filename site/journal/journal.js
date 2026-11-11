@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "942-adidas-ae3-doctor-doom-ant-man.html",
+    cat: "KICKS",
+    title: "adidas Anthony Edwards 3「Doctor Doom」「Ant-Man」が12月発売 —— 『アベンジャーズ: ダムズデイ』コラボでAE3に2色",
+    excerpt: "adidasが、アンソニー・エドワーズの3代目シグネチャーモデル「adidas Anthony Edwards 3」から、映画『アベンジャーズ: ダムズデイ』(12月18日全米公開)とのコラボカラー「Doctor Doom」「Ant-Man」を2026年12月に発売する。Sneaker Bar DetroitとSneaker Newsが伝えた。",
+    date: "2026.11.11",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "941-air-jordan-3-not-nice.html",
+    cat: "KICKS",
+    title: "Air Jordan 3「Not Nice」が11月21日発売 —— かかとのタブ裏に隠れ文字、サンタが「二度チェック」したクリスマス仕様",
+    excerpt: "Jordan Brandが、Air Jordan 3の新色「Not Nice」(配色名「Black & Challenge Red」)を2026年11月21日に発売する。焦がしたレザーにエレファントプリントを重ねたクリスマス仕様で、かかとのNike Airタブをめくると「Not Nice」の文字が現れる仕掛けを入れた。FLY BASKETBALL CULTURE MAGAZINEとSneaker Filesが伝えた。",
+    date: "2026.11.11",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "940-franz-wagner-33-points-magic.html",
     cat: "NBA",
     title: "フランツ・ワグナー、キングス戦で33得点 —— マジックが107-100で勝利",
