@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "947-air-jordan-4-spotlight.html",
+    cat: "KICKS",
+    title: "Air Jordan 4「Spotlight」ファーストルック公開 —— 「Black Cat」とは異なる素材使いの女性限定モデル、品番HV0823-002",
+    excerpt: "Jordan Brandは、女性限定(WMNS)モデル「Air Jordan 4 \"Spotlight\"」(品番HV0823-002)の先行カットを公開した。黒レザーのアッパーに爬虫類型押しレザーのトゥとサイドウィングを組み合わせた仕立てで、発売日・価格は現時点で未発表。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-947-hero.jpg?v=1a6657a22f"
+  },
+  {
     href: "946-markkanen-fractured-hand.html",
     cat: "NBA",
     title: "マルカネン、右手骨折で最低1ヶ月離脱 —— 1勝10敗のジャズ、怪我人続出に拍車",
