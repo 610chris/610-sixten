@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "940-franz-wagner-33-points-magic.html",
+    cat: "NBA",
+    title: "フランツ・ワグナー、キングス戦で33得点 —— マジックが107-100で勝利",
+    excerpt: "オーランド・マジックのフランツ・ワグナー(Franz Wagner)は現地時間11月10日、敵地サクラメントでのキングス戦に38分出場し、フィールドゴール23本中11本・フリースロー10本を全て沈めて33得点を記録した。両チーム通じてこの日の最多得点者となり、マジックは107-100でキングスに勝利した。",
+    date: "2026.11.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "939-jordan-goodwin-18-points-clippers.html",
     cat: "NBA",
     title: "ジョーダン・グッドウィン、クリッパーズ戦で18得点 —— サンズが133-110で快勝",

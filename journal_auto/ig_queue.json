@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:59:30+09:00",
+  "updated": "2026-11-11T14:55:09+09:00",
   "items": [
     {
       "id": "134",
@@ -29140,6 +29140,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "グッドウィン、クリッパーズ戦で18得点\n\n・グッドウィンがクリッパーズ戦でわずか14分、18得点\n・FG6/7・3PT6/7、驚異の85.7%の成功率\n・サンズが133-110で快勝、この日の最多得点者\n\n💬 グッドウィン、このままベンチの核になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Suns vs. Clippers・2026年11月10日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "940",
+      "slug": "940-franz-wagner-33-points-magic",
+      "category": "NBA",
+      "date": "2026-11-11",
+      "headline": "フランツ・ワグナー、キングス戦で33得点",
+      "excerpt": "オーランド・マジックのフランツ・ワグナー(Franz Wagner)は現地時間11月10日、敵地サクラメントでのキングス戦に38分出場し、フィールドゴール23本中11本・フリースロー10本を全て沈めて33得点を記録した。両チーム通じてこの日の最多得点者となり、マジックは107-100でキングスに勝利した。",
+      "points": [
+        "FG11/23・FT10/10を全て沈め33得点",
+        "リバウンド7・アシスト7のオールラウンドな活躍",
+        "マジックが敵地で107-100と勝利"
+      ],
+      "source": "ESPN ボックススコア(Magic vs. Kings)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/940-franz-wagner-33-points-magic.html",
+      "hero_path": "",
+      "subject": [
+        "Franz Wagner"
+      ],
+      "question": "ワグナー、このままオールスター級になれる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "FRANZ WAGNER",
+        "opponent": "vs. KINGS",
+        "points": 33,
+        "stats": [
+          "7 REB",
+          "7 AST",
+          "2 STL",
+          "11/23 FG",
+          "10/10 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/940-1.jpg",
+        "https://sixten.jp/assets/ig/940-2.jpg",
+        "https://sixten.jp/assets/ig/940-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-11T14:54:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "フランツ・ワグナー、キングス戦で33得点\n\n・FG11/23・FT10/10を全て沈め33得点\n・リバウンド7・アシスト7のオールラウンドな活躍\n・マジックが敵地で107-100と勝利\n\n💬 ワグナー、このままオールスター級になれる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Magic vs. Kings)\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
