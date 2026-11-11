@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "934-jaylen-brown-tatum-cold-shoulder.html",
+    cat: "NBA",
+    title: "ジェイレン・ブラウン、テイタムのダップを拒否 —— 移籍後初対戦、ウォームアップでも距離置く",
+    excerpt: "ジェイソン・テイタム(セルティックス)とジェイレン・ブラウン(76ers)は現地時間11月10日、今夏のトレード以来初めて同じコートに立った。試合前のウォームアップは互いの陣営に分かれ、ティップオフ直前にテイタムが求めたダップにブラウンは応じなかった。ESPNが伝えた。",
+    date: "2026.11.11",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "933-kawhi-leonard-miss-another-week.html",
     cat: "NBA",
     title: "カワイ・レナード、左膝の腫れでさらに最低1週間離脱 —— ラプターズ発表、今季出場はわずか2試合",
