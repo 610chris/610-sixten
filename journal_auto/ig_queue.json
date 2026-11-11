@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T11:57:29+09:00",
+  "updated": "2026-11-11T12:04:52+09:00",
   "items": [
     {
       "id": "134",
@@ -28910,6 +28910,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブラウン、テイタムのダップ拒否 —— 移籍後初対戦\n\n・テイタムとブラウン、トレード後初めて同じコートに\n・ティップオフ前のダップ、ブラウンは応じず素通り\n・76ersは9勝2敗、セルティックスは8勝2敗で東上位対決\n\n💬 ブラウンのダップ拒否、アリ？ナシ？テイタムとの関係どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup」\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "935",
+      "slug": "935-jalen-brunson-23-points-bucks",
+      "category": "NBA",
+      "date": "2026-11-11",
+      "headline": "ブランソン、バックス戦で23得点 —— ニックス快勝",
+      "excerpt": "ニューヨーク・ニックスのジェイレン・ブランソンは現地時間11月10日、本拠地でのミルウォーキー・バックス戦に28分出場し、フィールドゴール18本中7本・フリースロー8本を全て沈めて23得点を記録した。両チーム通じてこの日の最多得点者となり、ニックスは117-85でバックスに快勝した。",
+      "points": [
+        "FG7/18・FT8/8(全成功)で23得点",
+        "タウンズも21得点16リバウンドで援護",
+        "ニックスはバックスに117-85で快勝"
+      ],
+      "source": "ESPN ボックススコア(Knicks vs. Bucks)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/935-jalen-brunson-23-points-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Brunson"
+      ],
+      "question": "ニックスのこの快勝、今季の調子を取り戻したと思う?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN BRUNSON",
+        "opponent": "vs. BUCKS",
+        "points": 23,
+        "stats": [
+          "4 REB",
+          "2 AST",
+          "7/18 FG",
+          "8/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/935-1.jpg",
+        "https://sixten.jp/assets/ig/935-2.jpg",
+        "https://sixten.jp/assets/ig/935-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-11T12:04:52+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブランソン、バックス戦で23得点 —— ニックス快勝\n\n・FG7/18・FT8/8(全成功)で23得点\n・タウンズも21得点16リバウンドで援護\n・ニックスはバックスに117-85で快勝\n\n💬 ニックスのこの快勝、今季の調子を取り戻したと思う?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Knicks vs. Bucks)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
