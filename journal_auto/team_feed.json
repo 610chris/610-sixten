@@ -1,8 +1,91 @@
 {
- "updated_utc": "2026-11-11 08:20 UTC",
+ "updated_utc": "2026-11-11 16:33 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/celtics-make-22-3-pointers-sixers-fall-123-101",
+   "url": "https://www.nba.com/sixers/news/celtics-make-22-3-pointers-sixers-fall-123-101",
+   "canonical_url": "https://sixers.com/news/celtics-make-22-3-pointers-sixers-fall-123-101",
+   "title": "Celtics make 22 3-pointers, Sixers fall 123-101",
+   "author": "Owen Boyle",
+   "published_utc": "2026-11-11T14:37:38Z",
+   "tags": [],
+   "summary": "The Boston Celtics (9-2) made 22 3-pointers in a 123-101 win over the Philadelphia 76ers (9-3). This was the first meeting between the two Eastern Conference foes since the first round of last year's playoffs, when the Sixers came back from a 3-1 deficit to advance.",
+   "facts": [
+    "The Boston Celtics (9-2) made 22 3-pointers in a 123-101 win over the Philadelphia 76ers (9-3).",
+    "This was the first meeting between the two Eastern Conference foes since the first round of last year's playoffs, when the Sixers came back from a 3-1 deficit to advance.",
+    "After a 23-10 run by the Sixers in the third quarter tied the game, the Celtics pulled away, draining nine consecutive 3-pointers and outscoring the Sixers 44-22 after retaking the lead.",
+    "Former Sixer Paul George was the game's leading scorer with 36 points on 14-of-22 shooting.",
+    "Tyrese Maxey led the Sixers with 24 points on 8-of-12 shooting.",
+    "The Celtics shot 51% from the field, while the Sixers shot 42%.",
+    "The Sixers shot 30% from 3-point range, making 11 of 37 attempts.",
+    "Just days after shooting better than 40% from beyond the arc, the Sixers struggled from 3-point range against one of the league's premier 3-point shooting teams."
+   ],
+   "quotes": [
+    "We’re still learning each other; learning how to play with each other,",
+    "It’s going to take games like this and some bad stretches to mold us a little better and get us a little tighter. We are growing, and there are growing pains. We just have to come in the next few days…",
+    "Especially in the first half, we were generating really good shots out of their swarming defense,",
+    "We were zinging it out to wide, wide open guys and we just didn't hit enough to keep pace. We were down 11 at the half and we could have easily, just all else being equal, made a decent percentage of …"
+   ]
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/pistons-cruise-employees-pitch-in-to-beautify-boston-edison-neighborhood",
+   "url": "https://www.nba.com/pistons/news/pistons-cruise-employees-pitch-in-to-beautify-boston-edison-neighborhood",
+   "canonical_url": "https://pistons.com/news/pistons-cruise-employees-pitch-in-to-beautify-boston-edison-neighborhood",
+   "title": "Pistons, Cruise employees pitch in to beautify Boston-Edison neighborhood",
+   "author": "Grace Reyes",
+   "published_utc": "2026-11-11T14:08:22Z",
+   "tags": [
+    "community",
+    "Mission 313"
+   ],
+   "summary": "Detroit has approximately 123,000 vacant lots across the city’s 139 square miles.",
+   "facts": [
+    "Detroit has approximately 123,000 vacant lots across the city’s 139 square miles.",
+    "The event marked the 16th year of the Six Day Project.",
+    "Last season, Pistons employees logged more than 9,500 volunteer hours."
+   ],
+   "quotes": [
+    "For many residents, it's one thing to watch the Pistons on TV, but it's something entirely different to see Pistons employees actively volunteering, especially in District 5,",
+    "When residents see those familiar logos and the people behind them showing up in person, they realize the organization genuinely cares about them and their community.",
+    "On behalf of the City of Detroit, it is such an honor to have an organization like Life Remodeled here in our community that is reaching back to empower our residents economically first and foremost, …",
+    "When you clear overgrowth, pick up litter and care for our neighborhood; you are improving the spaces our children walk through every day,"
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-clenyk-261111",
+   "url": "https://www.nba.com/cavaliers/news/preview-clenyk-261111",
+   "canonical_url": "https://cavs.com/news/preview-clenyk-261111",
+   "title": "Cavs at Knicks | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-11T12:42:31Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "It's the Cavs and New York Knicks for the second time in three games with tonight's matchup coming to you from NYC. The defending champs topped the Wine & Gold in Cleveland on Saturday night.",
+   "facts": [
+    "GAME INFORMATION LAST TIME OUT On Monday night in Charlotte, the Cavs fell behind big to the Hornets in the first half as the hosts hit 12 threes in the first two quarters en route to 23 on the night.",
+    "Meleek Thomas led the way for the Cavs, scoring 18 in 27 minutes of work.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Jaylon Tyson - Ankle - QUESTIONABLE -Sam Merrill - Elbow - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignment) - OUT -Ernest Udeh Jr. - …"
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -367,7 +450,9 @@
    "published_utc": "2026-11-10T20:23:35Z",
    "tags": [
     "Cooper Flagg",
-    "dallas mavericks"
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
    ],
    "summary": "If Cooper Flagg's personality off the basketball court were any more wholesome, we’d all start whistling the theme from The Andy Griffith Show.",
    "facts": [
@@ -378,7 +463,7 @@
    "quotes": [
     "It speaks to the basketball I’ve always played,",
     "I was raised to be a true competitor, try to make as many positive, winning plays as I can. Make the easy, right basketball play out there.",
-    "I think, even in some of the losses, we learned a lot from. We talked about it after our last loss. We’re not always going to learn from the wins. Every experience, win or lose, good or bad, learning …",
+    "I think, even in some of the losses, we learned a lot. We talked about it after our last loss. We’re not always going to learn from the wins. Every experience, win or lose, good or bad, learning from …",
     "I think we'll be better prepared moving forward, so we need that San Antonio game to learn a lot of lessons,"
    ]
   },
@@ -1700,156 +1785,6 @@
     "Evan Mobley and Peyton Watson each chipped in with 12 apiece.",
     "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Jarrett Allen - Knee - QUESTIONABLE -Sam Merrill - Elbow - OUT -Jaylon Tyson - Ankle - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignmen…",
     "UP NEXT Cleveland stops on New York to play the Knicks on Wednesday before a game in Miami on Friday to finish the trip before returning home to face the Mavericks on Saturday night."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
-   "url": "https://www.nba.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
-   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-and-new-balance-announce-multi-year-agreement",
-   "title": "Dallas Mavericks and New Balance Announce Multi-Year Agreement",
-   "author": "Dallas Mavericks",
-   "published_utc": "2026-11-08T15:55:00Z",
-   "tags": [
-    "dallas mavericks",
-    "New Balance"
-   ],
-   "summary": "DALLAS (Nov. 8, 2026) – The Dallas Mavericks announced today a multi-year agreement with New Balance, naming New Balance the Official Footwear and Apparel Partner of the franchise.",
-   "facts": [
-    "DALLAS (Nov. 8, 2026) – The Dallas Mavericks announced today a multi-year agreement with New Balance, naming New Balance the Official Footwear and Apparel Partner of the franchise."
-   ],
-   "quotes": [
-    "We’re excited to welcome New Balance to the Mavericks family,",
-    "As one of the most innovative and respected brands in sports, New Balance brings a tremendous opportunity to build on its partnership with Cooper, while creating unique experiences for our fans and ma…",
-    "Dallas has an incredible basketball culture, and our relationship with the Mavericks gives us an exciting opportunity to become more connected to that community,",
-    "With Cooper beginning his career here, there’s a natural connection for New Balance to show up alongside him and create meaningful experiences for Mavericks fans."
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/hes-really-battling-for-us-lauri-markkanen-continues-to-adjust-to-help-the-utah-jazz",
-   "url": "https://www.nba.com/jazz/news/hes-really-battling-for-us-lauri-markkanen-continues-to-adjust-to-help-the-utah-jazz",
-   "canonical_url": "https://utahjazz.com/news/hes-really-battling-for-us-lauri-markkanen-continues-to-adjust-to-help-the-utah-jazz",
-   "title": "“He’s Really Battling For Us” | Lauri Markkanen Continues to Adjust to Help the Utah Jazz",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-08T15:50:18Z",
-   "tags": [
-    "Keyonte George",
-    "Lauri Markkanen",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "Adversity has come in many forms for the Utah Jazz to begin the 2026-27 season, both on the individual and team level.",
-   "facts": [
-    "Adversity has come in many forms for the Utah Jazz to begin the 2026-27 season, both on the individual and team level.",
-    "Injuries to Jaren Jackson Jr. and Jusuf Nurkic have forced head coach Will Hardy to adjust the team’s frontcourt rotation, while an extended shooting slump hurt the team’s offense in the early going.",
-    "Lauri Markkanen hasn’t avoided the adversity, as the Finnish big man suffered a right wrist sprain in Utah’s fourth game of the season, which has forced him to play through pain and a heavy wrap on his shooting wrist.",
-    "Through the first nine games of the season, Markkanen has played center for 104 possessions per Cleaning The Glass, which removes garbage-time minutes.",
-    "For reference, Markkanen played 133 such possessions last season and a combined 103 possessions at center between the 2023-24 and 2024-25 campaigns.",
-    "Simply put, despite being in year 10, It’s a new position for Markkanen to adjust to on the fly.",
-    "With Keyonte George on a heater (39 points in the game), the two-man game was an effective combination in the final minutes of regulation and first few minutes of overtime, even if a couple of the shots didn’t fall.",
-    "Markkanen has found a rhythm from deep this month, knocking down 17 3-pointers in Utah’s three November games, including an 8-of-15 effort against the Dallas Mavericks on Friday night."
-   ],
-   "quotes": [
-    "It's something you have to deal with,",
-    "I want to be out there for my teammates and try to first get one win and start building off that. No matter what I need to do to get out there, that's what I'm trying to do.",
-    "I haven’t gotten that many minutes or reps, but the NBA is all about adjusting, watching film, and trying to figure out things you can do,",
-    "I’ve played (center) a lot more the last two games and I can keep improving."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-warriors-20261108",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-warriors-20261108",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-warriors-20261108",
-   "title": "Magic Four-Point Play: Follow-Up at Warriors",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-08T15:15:54Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Magic Hope to Build Momentum Off Saturday’s Third Quarter",
-   "facts": [
-    "In the third quarter, they shot 56 percent from the field overall and 50 percent from 3-point range (6-of-12) while committing just two turnovers and holding the Golden State Warriors to one shot on all but one possessio…",
-    "The ball touched the paint on 19 of the Magic’s 25 possessions in those 12 minutes.",
-    "Orlando also held Golden State to just 5-of-19 field goal shooting in the third.",
-    "However, the Warriors got going again in the fourth and overtime, making 16 of their final 22 floor shots.",
-    "Another Steph Curry ‘Magic’ Showing Against Magic Several of the two-time league MVP and 12-time All-Star’s best games of his career have come against Orlando.",
-    "Saturday’s performance was one of them, as he scored 41 points on 13-of-19 floor shooting, 5-of-10 3-point shooting and 10-of-10 free throw shooting.",
-    "It was the fifth time in his career that he scored 40-plus points against the Magic.",
-    "He had 12 points in the last 2 ½ minutes of regulation Saturday and then connected on a go-ahead three-point play with 1:38 left in the extra session followed by a floater with 54 seconds remaining."
-   ],
-   "quotes": [
-    "I think there are a lot of good things we can take away from (this game). I thought a lot of guys stepped up and played really aggressive. We are going to need everybody to play like that. I think big…"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-mavericks-261109",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-mavericks-261109",
-   "canonical_url": "https://pacers.com/news/preview-pacers-mavericks-261109",
-   "title": "Game Preview: Pacers at Mavericks",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-08T14:45:00Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Monday, Nov. 9 at 8:00 PM ET at American Airlines Center",
-   "facts": [
-    "Monday, Nov. 9 at 8:00 PM ET at American Airlines Center Game Preview The Pacers (3-7) will conclude their road trip in Dallas on Monday as they rematch with Cooper Flagg and the Mavericks (6-4).",
-    "Pascal Siakam led the Pacers in Mexico City as he recorded 23 points and surpassed the 13,000 points for his career.",
-    "Ivica Zubac was limited by foul trouble, but still recorded his second double-double of the season with 10 points and 12 rebounds.",
-    "Indiana’s initial meeting with the Mavericks was underwhelming – the Pacers managed just 43 points in the first half while the Mavericks scored 44 in just the first quarter.",
-    "They beat the Brooklyn Nets 130-93 in Dallas on Sunday ahead of Monday's matchup.",
-    "The reigning Rookie of the Year is averaging 24.0 points, 6.6 rebounds, and 7.0 assists per game.",
-    "His efficiency has taken a hit – Flagg is shooting 47.7 percent from the field, but is knocking down just 26.2 percent of his looks from 3-point range.",
-    "Kyrie Irving is Dallas’ only other player averaging 20 or more points per game at 21.4."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-at-bulls-game-preview-injury-report-and-how-to-watch-11-8-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-at-bulls-game-preview-injury-report-and-how-to-watch-11-8-2026",
-   "canonical_url": "https://sixers.com/news/sixers-at-bulls-game-preview-injury-report-and-how-to-watch-11-8-2026",
-   "title": "Sixers at Bulls: Game Preview, Injury Report and How to Watch 11/8/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-08T12:44:36Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (8-2) conclude a three-game road trip Sunday afternoon against the Chicago Bulls (1-7). Tipoff is set for 3:30 p.m. EST at the United Center.",
-   "facts": [
-    "The Philadelphia 76ers (8-2) conclude a three-game road trip Sunday afternoon against the Chicago Bulls (1-7).",
-    "Tipoff is set for 3:30 p.m.",
-    "The Sixers had their five-game winning streak snapped in a 119-95 loss to Cleveland in Emirates NBA Cup group play Friday.",
-    "Jaylen Brown scored a team-high 20 points, while VJ Edgecombe added 19 points and a game-high four steals.",
-    "The Bulls lost 135-105 to the New York Knicks on Wednesday.",
-    "Tre Jones and undrafted rookie Jaylin Sellers scored 14 points apiece off the bench.",
-    "Here are the RAV4 Things to Know ahead of Sunday afternoon’s game: First Meeting The Sixers and Bulls met Monday in Philadelphia, where the Sixers earned a 126-107 victory while shooting a season-best 52.7% from the fiel…",
-    "Sixers Starters All five Sixers starters scored at least 15 points in the first meeting, combining for 102 points."
    ],
    "quotes": []
   }
