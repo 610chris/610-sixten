@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "945-nike-book-2-be-legendary.html",
+    cat: "KICKS",
+    title: "Nike Book 2「Be Legendary」が11月20日発売 —— デビン・ブッカーの2代目シグネチャーに、コービー・ブライアントへのトリビュートカラー",
+    excerpt: "ナイキが、フェニックス・サンズのデビン・ブッカーの2代目シグネチャーモデル「Nike Book 2」の新色「Be Legendary」(品番FZ7013-501)を2026年11月20日に発売する。コービー・ブライアントへのトリビュートをテーマにした紫基調のカラーで、価格は145ドル。Hypebeastが伝えた。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "944-nba-black-coaches-group-chat.html",
     cat: "NBA",
     title: "J.B.ビッカースタッフとジャマール・モズリーが明かすNBA黒人コーチ陣の絆 —— 11人の秘密グループチャットが支える「仲間」たち",
