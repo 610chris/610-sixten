@@ -104,6 +104,19 @@
   "product": "REELS",
   "timestamp": "2022-10-21T01:38:55+0000"
  },
+ "17875084125639784": {
+  "auto": false,
+  "caption_len": 105,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "インハイ優勝の高校生ガードが描く夢。",
+  "permalink": "https://www.instagram.com/reel/DfjvKjHk1p-/",
+  "product": "REELS",
+  "timestamp": "2026-11-10T10:54:11+0000"
+ },
  "17880929573479767": {
   "auto": false,
   "caption_len": 159,
@@ -1386,6 +1399,29 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-11-10T03:57:07+0000"
+ },
+ "17918559354532842": {
+  "article": "932",
+  "auto": true,
+  "caption_len": 424,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カリー対デュラント、結成10年の再戦 —— 38歳の両エース",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfj-qgwgYlU/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「The historic longevity of Stephen Curry and Kevin Durant」(ベン・ゴリバー)",
+  "subject": [
+   "Stephen Curry|Kevin Durant"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-10T13:09:18+0000"
  },
  "17919743028451892": {
   "arms": {
@@ -9514,6 +9550,27 @@
   "template": "score",
   "timestamp": "2026-10-26T01:57:46+0000"
  },
+ "18126826607312921": {
+  "article": "931",
+  "auto": true,
+  "caption_len": 292,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "NBAの編成『危険地帯』19チーム",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfjxOqdAb7w/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN（ボビー・マークス）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-10T11:11:56+0000"
+ },
  "18127021423927379": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -11214,6 +11271,29 @@
   "template": "news",
   "timestamp": "2026-10-28T00:00:01+0000"
  },
+ "18159360307516893": {
+  "article": "933",
+  "auto": true,
+  "caption_len": 364,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、左膝の腫れでさらに1週間離脱",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DflVt2eCjk9/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Raptors say Leonard will miss at least 1 more week due to knee swelling」",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-11T01:49:58+0000"
+ },
  "18160332118498974": {
   "article": "325",
   "auto": true,
@@ -11458,6 +11538,30 @@
   ],
   "template": "news",
   "timestamp": "2026-10-15T12:09:17+0000"
+ },
+ "18179838670450977": {
+  "article": "929",
+  "auto": true,
+  "caption_len": 301,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドック・リバーズ、ヤニスに謝罪",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfjw7hfFBec/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（マーク・J・スピアーズ／Andscape）",
+  "subject": [
+   "Giannis Antetokounmpo",
+   "Doc Rivers"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-10T11:09:24+0000"
  },
  "18179891341435156": {
   "arms": {
@@ -13041,6 +13145,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T22:07:17+0000"
+ },
+ "18438294895196520": {
+  "article": "925",
+  "auto": true,
+  "caption_len": 298,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブラウン「話すことなんて何もない」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfjIQjlAjd5/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN",
+  "subject": [
+   "Jaylen Brown"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-10T05:13:57+0000"
  },
  "18447959788123751": {
   "article": "273",
