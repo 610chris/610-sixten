@@ -1,8 +1,157 @@
 {
- "updated_utc": "2026-11-10 20:35 UTC",
+ "updated_utc": "2026-11-11 00:52 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "LAL 公式（nba.com）",
+   "team": "LAL",
+   "team_ja": "レイカーズ",
+   "team_id": 1610612747,
+   "kind": "roster",
+   "key": "https://www.nba.com/lakers/news/los-angeles-lakers-sign-center-carson-cooper-to-two-way-contract",
+   "url": "https://www.nba.com/lakers/news/los-angeles-lakers-sign-center-carson-cooper-to-two-way-contract",
+   "canonical_url": "https://lakers.com/news/los-angeles-lakers-sign-center-carson-cooper-to-two-way-contract",
+   "title": "Los Angeles Lakers Sign Center Carson Cooper to Two-Way Contract",
+   "author": "lalnkioski",
+   "published_utc": "2026-11-11T00:01:13Z",
+   "tags": [
+    "App Media Feed",
+    "Releases",
+    "Team News"
+   ],
+   "summary": "The Los Angeles Lakers have signed center Carson Cooper to a two-way contract. In a corresponding move, the team waived two-way center Lawson Lovering.",
+   "facts": [
+    "The Los Angeles Lakers have signed center Carson Cooper to a two-way contract.",
+    "In a corresponding move, the team waived two-way center Lawson Lovering.",
+    "Cooper (6-11, 245) appeared in one game for the Memphis Grizzlies after signing a two-way contract with the team to open the 2026-27 season.",
+    "The Jackson, Mich., native started all 35 games as a senior at Michigan State in 2025-26, averaging 11.1 points on 58.4% shooting, 7.1 rebounds, 1.5 assists and 1.0 blocks in 26.8 minutes while helping lead the Spartans …",
+    "The 22-year-old appeared in 137 career collegiate games (43 starts), averaging 5.4 points and 4.5 rebounds in 17.2 minutes.",
+    "Lovering signed a two-way contract with the Lakers Oct. 28."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261111",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261111",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261111",
+   "title": "Game Preview: Warriors at Rockets - 11/11/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-10T23:12:40Z",
+   "tags": [
+    "Game Preview"
+   ],
+   "summary": "WARRIORS BEGIN FIVE-GAME ROAD TRIP AGAINST ROCKETS The Warriors begin a five-game road trip in Houston, facing Kevin Durant and the Rockets at Toyota Center on Wednesday. The Dubs enter Wednesday’s game on an eight-game winning streak and have the same record as the Rockets: 8-3. Houston began its season by winning its first five games and snapped a recent two-game skid with a 10-point win over th…",
+   "facts": [
+    "The Dubs enter Wednesday’s game on an eight-game winning streak and have the same record as the Rockets: 8-3.",
+    "Houston began its season by winning its first five games and snapped a recent two-game skid with a 10-point win over the Denver Nuggets.",
+    "LAST TIME OUT The Golden State Warriors wrapped up their six-game homestand with a dominant 138-87 over the New Orleans Pelicans on Monday night at Chase Center, bringing their win streak to eight.",
+    "Stephen Curry (25), Brandin Podziemski (25), and Yaxel Lendeborg (23) paced the offense, combining for 73 points and draining four 3-pointers each.",
+    "De'Anthony Melton led the reserves in scoring with 16 points and four triples while Charles Bassey recorded his first double-double of the season with 10 points and a game-high 10 rebounds off the bench.",
+    "The Warriors' 51-point win marks their fourth largest margin of victory in the team's 80th season as a franchise.",
+    "Continuing to make history, Curry moved up to 16th on the NBA all-time scoring list after sinking a triple in the third quarter for his 26,803 career points, passing Demar Derozan (26,793). »Full Story INJURY & ROSTER NO…",
+    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "injury",
+   "key": "https://www.nba.com/warriors/news/brandon-williams-injury-update-20261110",
+   "url": "https://www.nba.com/warriors/news/brandon-williams-injury-update-20261110",
+   "canonical_url": "https://warriors.com/news/brandon-williams-injury-update-20261110",
+   "title": "Brandon Williams Injury Update – 11/10/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-10T22:30:00Z",
+   "tags": [],
+   "summary": "Golden State Warriors guard Brandon Williams, who exited last night’s win over the New Orleans Pelicans with 3:18 remaining in the first quarter due to a left hamstring injury, underwent an MRI last night. The MRI indicated that Williams has a mild left hamstring strain. He will be re-evaluated in one week.",
+   "facts": [
+    "Golden State Warriors guard Brandon Williams, who exited last night’s win over the New Orleans Pelicans with 3:18 remaining in the first quarter due to a left hamstring injury, underwent an MRI last night.",
+    "The MRI indicated that Williams has a mild left hamstring strain.",
+    "He will be re-evaluated in one week.",
+    "Williams has averaged 10.4 points, 2.3 assists and 2.1 rebounds in 10 games (one start) this season with Golden State."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-suns-11-10-26",
+   "url": "https://www.nba.com/clippers/news/game-preview-5-things-you-should-know-about-clippers-vs-suns-11-10-26",
+   "canonical_url": "https://clippers.com/news/game-preview-5-things-you-should-know-about-clippers-vs-suns-11-10-26",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Suns",
+   "author": "LAClippers",
+   "published_utc": "2026-11-10T22:30:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Darius Garland",
+    "Game Previews",
+    "Injury Report",
+    "Keaton Wagler"
+   ],
+   "summary": "Last Matchup: 02/01/2026 | LAC 117 - PHX 93 | K.Leonard: 25 PTS - G.Allen: 23 PTSThe Clippers and Suns split the season series last year with each game being decided by double digits. It was just the third time this century every game in the season series was decided by double-digits (2017-18, 2005-06). The Clippers are averaging 44.6 PPG off the bench this season, the fourth-highest mark in the N…",
+   "facts": [
+    "PHOENIX SUNS FIVE THINGS TO KNOW Last Matchup: 02/01/2026 | LAC 117 - PHX 93 | K.Leonard: 25 PTS - G.Allen: 23 PTSThe Clippers and Suns split the season series last year with each game being decided by double digits.",
+    "It was just the third time this century every game in the season series was decided by double-digits (2017-18, 2005-06).",
+    "The Clippers are averaging 44.6 PPG off the bench this season, the fourth-highest mark in the NBA.",
+    "Los Angeles’ bench unit has scored 39.6% of its points, the highest percentage by any team this season.",
+    "Darius Garland recorded 24 points and 10 assists in his last game, his 40th career game with at least 20 points and 10 assists.",
+    "Garland is one of 12 players to record 40 or more such games since coming into the league in 2019-20.",
+    "Kris Dunn has recorded 40 assists and 23 steals through nine games.",
+    "Dunn is one of four players with 40+ assists and 20+ steals so far this season (Dyson Daniels, Luka Doncic, Cooper Flagg)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-sacramento-kings-game-preview-injury-report-20261110",
+   "url": "https://www.nba.com/magic/news/orlando-magic-sacramento-kings-game-preview-injury-report-20261110",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-sacramento-kings-game-preview-injury-report-20261110",
+   "title": "Orlando Magic at Sacramento Kings: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-10T22:12:05Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "The start of the Orlando Magic’s four-game road trip out West has not gone exactly how they wanted.",
+   "facts": [
+    "The Magic (2-7) will attempt to get back on track and snap a four-game losing skid when they visit the Sacramento Kings (1-9) on Tuesday at 10 p.m.",
+    "Orlando’s 2026-27 campaign has been riddled with adversity thus far.",
+    "On Tuesday morning, Tristan da Silva was added to the injury report with a left calf strain.",
+    "We’ve had some injuries and some guys down, so we’re not at full strength and we haven’t really been able to show what we can do … It’s a long year.",
+    "In that matchup, Orlando turned Golden State over 19 times and generated 26 points off of those takeaways.",
+    "The Magic also outrebounded the Warriors 24-3 on the offensive glass and used that advantage to score 33 second chance points.",
+    "Rookie Darius Acuff Jr. is currently leading all first-year players in scoring and assists, tallying 25.9 points and 7.4 dimes per game.",
+    "For Sacramento, Keegan Murray (right wrist soreness) and Domantas Sabonis (left knee soreness) are questionable, while Maxime Raynaud (right patella subluxation) and Ben Simmons (right Achilles tendon repair / surgery) a…"
+   ],
+   "quotes": [
+    "It’s a long season. It’s not easy when you start the way we have. We’ve had some injuries and some guys down, so we’re not at full strength and we haven’t really been able to show what we can do … It’…",
+    "I thought we did a great job on both ends with our rebounding,",
+    "I’ve been a big fan of his game ever since I saw he was coming to (the University of) Arkansas,",
+    "He’s just real mature for his age. A good player. I’ve chopped it up with him a couple of times … It’s going to be fun playing against him."
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -15,7 +164,10 @@
    "title": "Flagg's workaholic offseason worthy of much more than a PB&J",
    "author": "Eddie Sefko",
    "published_utc": "2026-11-10T20:23:35Z",
-   "tags": [],
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks"
+   ],
    "summary": "If Cooper Flagg's personality off the basketball court were any more wholesome, we’d all start whistling the theme from The Andy Griffith Show.",
    "facts": [
     "The Mavericks are 7-4 and have navigated a testy early portion of the schedule in admirable fashion.",
@@ -48,7 +200,7 @@
     "The game will be broadcast on the Gulf Coast Sports and Entertainment Network and WVUE FOX 8.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
     "Get the latest Pelicans-Nets injury report, team news, tune in details, and gameday information: PELICANS VS NETS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Trendon Watford OUT …",
-    "DOUBTFUL (G League two-way) Trey Murphy III PROBABLE (bilateral patellar tendinopathy) NETS INJURY REPORT TBD PELICANS VS NETS: HEAD-TO-HEAD STATS 2025-2026 NBA Season Opponent Matchup Stats PELICANS VS NETS STARTING LIN…",
+    "DOUBTFUL (G League two-way) Trey Murphy III PROBABLE (bilateral patellar tendinopathy) NETS INJURY REPORT Tyler Bilodeau OUT (G League two-way) Joshua Jefferson OUT (G League on assignment) Grant Nelson OUT (G League two…",
     "Nets Game Time, TV Channel, Radio & Location 📅 Game Time: Wednesday, Nov. 11 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: GCSEN / WVU…"
    ],
    "quotes": []
@@ -63,7 +215,7 @@
    "url": "https://www.nba.com/pistons/news/detroit-pistons-to-honor-the-2006-wnba-champion-detroit-shock-on-nov-20",
    "canonical_url": "https://pistons.com/news/detroit-pistons-to-honor-the-2006-wnba-champion-detroit-shock-on-nov-20",
    "title": "DETROIT PISTONS TO HONOR THE 2006 WNBA CHAMPION DETROIT SHOCK ON NOV. 20",
-   "author": "detebranch",
+   "author": "Pistons.com",
    "published_utc": "2026-11-10T18:49:26Z",
    "tags": [
     "features"
@@ -128,9 +280,7 @@
     "Fans can purchase multi-game Holiday Hoops Mini-Plans by visiting warriors.com or by calling 1-888-GSW-HOOP.",
     "The mini-plan includes a matchup against the Utah Jazz on Tuesday, December 1, paired with a Golden Dubs Bobblehead (see photo), and a Stephen Curry 3-Point Record Bobblehead giveaway (December 4–10; exact date and oppon…",
     "In addition, the mini-plan features games against the Brooklyn Nets on Saturday, January 2, with a Snoopy Bucket Hat, the Indiana Pacers on Monday, February 15, with a Stephen Curry Star Wars Mini-Bobblehead Blind Box, a…",
-    "Festive Spotlight Series: Includes matchups against the Dallas Mavericks on Tuesday, December 22, the New York Knicks on Wednesday, January 6, and the Los Angeles Lakers on Thursday, January 21.",
     "Holiday Showdown Series: Features the Warriors’ Christmas Day matchup against the Denver Nuggets on Friday, December 25, as well as games against the Houston Rockets on Wednesday, December 30, and the San Antonio Spurs o…",
-    "New Year’s Classic Series: Includes games against the Minnesota Timberwolves on Sunday, December 27, the Oklahoma City Thunder on Sunday, January 24, and the San Antonio Spurs on Saturday, January 30.",
     "Warriors.com offers fans the only verified marketplace for game tickets that is 100% guaranteed by the organization.",
     "Suite Experience Group, a verified suite resale marketplace, is available for fans looking for single-game premium spaces at Chase Center for the 2026-27 season."
    ],
@@ -1655,100 +1805,6 @@
     "If you're not used to the altitude and everything it's just kind of hard to get going. So the first half was pretty tough for us. Obviously, I thought we had some good shots. We didn't make them, whic…",
     "It was a good atmosphere. We had a good time out here. Just people welcomed us with open arms, you know, from the hotel to everyone here, like it's been great. So yeah, we loved that experience here."
    ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
-   "url": "https://www.nba.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-net-preview-washington-hoping-to-continue-his-red-hot-three-point-shooting",
-   "title": "Mavericks-Nets preview: Washington hoping to continue red-hot three-point shooting",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-07T23:52:22Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "PJ Washington"
-   ],
-   "summary": "After P.J. Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eighth-year forward’s importance to the Dallas Mavericks.",
-   "facts": [
-    "Washington scored a season-high 26 points in Friday’s 112-100 triumph over the Utah Jazz, coach Dusty May made no bones about the eighth-year forward’s importance to the Dallas Mavericks.",
-    "That was particularly true in the first half when Washington scored 16 of his 22-first half points in the second quarter.",
-    "In the first half which ended tied at 57, Washington was 6-of-7 from the field, including 5-of-6 from behind the three-point line.",
-    "In 13 minutes against the Jazz, Aldama scored eight points and collected nine rebounds – with four of them coming off the offensive glass.",
-    "The Mavs are 1-0 on the first leg of a back-to-back, having won in Indiana, 121-105, on Oct. 23. *Michael Porter Jr. (21.4 ppg, 7.4 rpg), Plano native Julius Randle (21 ppg, 7.1 rpg), Mikel Brown Jr. (12 ppg), Nolan Trao…",
-    "And after not playing since undergoing surgery on his right knee last March, Aldama played his first game for the Mavs on Friday against Utah and responded with eight points and nine rebounds in just 13 minutes.",
-    "Porter had 25 points and nine rebounds for the Nets, who also got 19 points from Randle and 18 from Brown.",
-    "Brooklyn Nets (2-7) vs."
-   ],
-   "quotes": [
-    "We need P.J. to be a three-point shooter for us,",
-    "He’s one of those guys that we played him at the five against San Antonio (on Wednesday), we played him at the four, we played him at the three when we want to go big.",
-    "I love him shooting with that amount of confidence, because we need it,",
-    "But overall, just a really good game by P.J., especially in the first half. We won the hustle plays in the first half, but without his shots we’ll have a deficit."
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-road-trip-with-matchup-against-timberwolves",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-road-trip-with-matchup-against-timberwolves",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-road-trip-with-matchup-against-timberwolves",
-   "title": "Preview: Utah Jazz End Road Trip With Matchup Against Timberwolves",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-07T23:25:07Z",
-   "tags": [
-    "Lauri Markkanen",
-    "Utah Jazz"
-   ],
-   "summary": "The Utah Jazz are looking to snap out of an early-season funk.",
-   "facts": [
-    "Utah has had to deal with adversity in several forms, from injuries to the team’s frontcourt rotation to cold shooting, which has resulted in a seven-game losing streak.",
-    "The Jazz are coming off an NBA Cup loss to the Dallas Mavericks on Friday night, a game in which they knocked down threes (15 of them), but were outmatched in the possession game as a result of 21 turnovers and the 21 of…",
-    "Lauri Markkanen (24 points, eight made threes) and Darryn Peterson (21 points, five assists) helped Utah’s offense during different stages of the game, but the Mavericks got significant production off the bench (44 point…",
-    "Although Minnesota (7-3) has had to deal with the absence of Anthony Edwards, others have stepped up in his absence to continue pushing the Timberwolves forward.",
-    "Chris Finch’s squad has won three in a row and entered Saturday with the league’s second-best net rating (plus-11.3 points per 100 possessions).",
-    "With the offseason acquisition of LaMelo Ball, Minnesota has an elite driver of the offense, while Ayo Dosunmu (17.3 points per game) and Jaden McDaniels (17.1 points per game) have stepped into larger roles on the offen…",
-    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson Jr. (Right Knee; MCL Tear), Jusuf Nurkić (Right Foot; 2nd Plantar Plate Tear) QUESTIONABLE - Lauri Markka…",
-    "The Timberwolves rank second in the league in offensive rebound percentage (35.6 percent), which has boosted an offense that has already been efficient from the field."
-   ],
-   "quotes": [
-    "In the first half, we really moved the ball and had a great flow to us,",
-    "But in the second half, we didn’t have the same tempo."
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "roster",
-   "key": "https://www.nba.com/cavaliers/news/releases-riley-minix-signing-261107",
-   "url": "https://www.nba.com/cavaliers/news/releases-riley-minix-signing-261107",
-   "canonical_url": "https://cavs.com/news/releases-riley-minix-signing-261107",
-   "title": "CAVALIERS SIGN RILEY MINIX TO TWO-WAY CONTRACT",
-   "author": "Cavaliers",
-   "published_utc": "2026-11-07T22:30:27Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "CLEVELAND – The Cleveland Cavaliers have signed forward Riley Minix to a two-way contract and have waived forward Tristan Enaruna.",
-   "facts": [
-    "CLEVELAND – The Cleveland Cavaliers have signed forward Riley Minix to a two-way contract and have waived forward Tristan Enaruna.",
-    "Minix (6-7, 230) has appeared in one game for the Cavaliers this season.",
-    "The third year forward has also appeared in 11 career NBA games for Cleveland and San Antonio as well as 54 career games in the NBA G League for the Austin Spurs and Cleveland Charge, the Cavaliers exclusively owned and …",
-    "In his 24 games (22 starts) with the Charge last season, he averaged 18.5 points, 6.1 rebounds, 2.8 assists and 1.40 steals in 30.1 minutes.",
-    "Enaruna (6-8, 220) has appeared 12 career NBA games with the Cavaliers, including three this season and nine during the 2025-26 campaign.",
-    "He also appeared in 84 career games in the NBA G League for the Maine Celtics and Cleveland Charge.",
-    "In his 38 games (36 starts) last season with the Cleveland Charge, Enaruna averaged 20.4 points, 5.6 rebounds and 1.3 steals in 31.1 minutes."
-   ],
-   "quotes": []
   }
  ]
 }
