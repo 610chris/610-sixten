@@ -1,8 +1,301 @@
 {
- "updated_utc": "2026-11-12 13:11 UTC",
+ "updated_utc": "2026-11-12 21:03 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-timberwolves-preview-mavs-start-tough-road-trip-in-minnesota",
+   "url": "https://www.nba.com/mavs/news/mavericks-timberwolves-preview-mavs-start-tough-road-trip-in-minnesota",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-timberwolves-preview-mavs-start-tough-road-trip-in-minnesota",
+   "title": "Mavericks-Timberwolves preview: Measuring-stick trip starts in Minnesota",
+   "author": "Dwain Price",
+   "published_utc": "2026-11-12T18:22:04Z",
+   "tags": [
+    "dallas mavericks",
+    "nba"
+   ],
+   "summary": "Starting with Thursday’s game against the Minnesota Timberwolves, the Dallas Mavericks are about to face one of their most consequential road trips of the season.",
+   "facts": [
+    "Not only will the Mavs face the 8-3 Timberwolves.",
+    "But they’re also playing the Cavaliers in Cleveland (6-6) on Saturday and will end the trip in Boston on Sunday against the 10-2 Celtics.",
+    "The Timberwolves are fifth in the Western Conference and are the only team to win in Houston (117-107) this season.",
+    "Meanwhile, the Cavaliers defeated Minnesota, 127-125, in overtime on Oct. 26, and also own victories over the highly-touted Philadelphia 76ers (119-95) and defending world champion New York Knicks (115-107).",
+    "The Celtics have the best record in the Eastern Conference and are tied with San Antonio for the second-best record in the NBA and just spanked the Sixers in Philadelphia on Tuesday, 123-101.",
+    "So the three road games in four days will give the Mavs (7-4) somewhat of a measuring stick of where they are at this point of the young season.",
+    "But they’re facing a different set of challenges on Thursday in Minnesota point guard LaMelo Ball (18.3 ppg, 6.0 apg) and shooting guard Ayo Dosunmu (18.1 ppg).",
+    "Couple that with what the T-Wolves get from Jaden McDaniels (17 ppg, 6.1 rpg), Jonathan Kuminga (12.3 ppg, 5.5 rpg) and Rudy Gobert (7.8 ppg, 12.1 rpg), and the Mavs will likely have their hands full trying to keep up wi…"
+   ],
+   "quotes": [
+    "It’s a great test for us,",
+    "It’s some good matchups, so it’s definitely going to be a great trip for us.",
+    "We’re going to see where we are. We’ve got to be able to go on the road and play a really good sound basketball game. We’ve proven that we can do that. Obviously, not against Minnesota, but we've prov…",
+    "He’s entertaining. He’s got great energy and you can tell he loves to hoop."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-jazz-20261112",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-jazz-20261112",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-jazz-20261112",
+   "title": "Magic Four-Point Play: Follow-Up at Jazz",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-12T18:21:47Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Franz Looking Like an All-Star Lock Early in Season",
+   "facts": [
+    "He has scored 30-plus points in three consecutive games, with the most recent being a career-matching-high 38-point performance in a win at Utah on Wednesday.",
+    "It’s the third time in his career that he has scored at least 30 in three straight games.",
+    "Through his first 11 games this year, he’s averaging 23.5 points, tied for 18th most in the league, and he’s third in total fourth-quarter points with 86 of them.",
+    "Nobody in the league has been more efficient on floaters than Wagner, who’s made 77 percent of his attempts.",
+    "He’s also averaging a career-high 7.9 assists, fifth most among those who have appeared in at least five games.",
+    "Someone different stepped up with all the injury-related absences over those last three games of the West Coast road trip.",
+    "Carter, who joined the Magic in February of last season after being waived by the Bulls, scored a season-best 11 points in Wednesday’s win.",
+    "Over the last three games, Orlando ranks second in offensive rebounding and 10th in fewest turnovers."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/11-12-2026-suns-vs-hornets-game-preview",
+   "url": "https://www.nba.com/suns/news/11-12-2026-suns-vs-hornets-game-preview",
+   "canonical_url": "https://suns.com/news/11-12-2026-suns-vs-hornets-game-preview",
+   "title": "11/12/2026 Suns vs Hornets Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-11-12T17:17:14Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Thursday, November 12, 2026Time: 7:00 p.m. MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Hornets: Association Edition (White)",
+   "facts": [
+    "Game Info Date: Thursday, November 12, 2026Time: 7:00 p.m.",
+    "MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Hornets: Association Edition (White) Series Notes The S…",
+    "Bridges left the Hornets ranked top five in franchise history in points, rebounds and minutesSuns center Mark Williams was drafted 15th overall by Charlotte in the 2022 NBA Draft and spent the first three years of his ca…",
+    "Williams appeared 106 times for the franchise, averaging 12.3 points and 8.8 rebounds, before heading to Phoenix in a 2025 offseason tradeHornets forward Royce O'Neale and guard Grayson Allen were both members of the Sun…",
+    "O'Neale appeared 183 times for Phoenix, averaging 9.2 points, while Allen played 190 times for the Suns and averaged 13.3 pointsHornets AC Ryan Frazier was a Video Coordinator with the Suns from 2019-21, helping Phoenix …",
+    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
+    "NuggetsSurpassed 8,000 career points against Denver on Oct. 301-of-2 players from his NBA Draft class (2018) to record 8,000 points and 3,000 rebounds in their career (Luka Dončić)#11–Oso IghodaroLAST GAME: Ended with 6 …",
+    "Phoenix shot 55.7 FG% and 51.2 3FG%.JORDAN GOODWIN posted a game-high 18 points (6-of-7 3FG), the most by a Suns reserve this season, to go along with 3 rebounds and a steal."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "injury",
+   "key": "https://www.nba.com/warriors/news/stephen-curry-injury-update-11-12-26",
+   "url": "https://www.nba.com/warriors/news/stephen-curry-injury-update-11-12-26",
+   "canonical_url": "https://warriors.com/news/stephen-curry-injury-update-11-12-26",
+   "title": "Stephen Curry Injury Update - 11/12/26",
+   "author": "Gabriella Rizzo",
+   "published_utc": "2026-11-12T16:56:00Z",
+   "tags": [],
+   "summary": "Golden State Warriors guard Stephen Curry, who exited last night’s game at Houston with 6:25 remaining in the first quarter due to injury, underwent an MRI last night. The MRI confirmed that Curry has an oblique abdominal tear. He will be re-evaluated in two (2) weeks.",
+   "facts": [
+    "Golden State Warriors guard Stephen Curry, who exited last night’s game at Houston with 6:25 remaining in the first quarter due to injury, underwent an MRI last night.",
+    "He will be re-evaluated in two (2) weeks.",
+    "Curry has appeared in 10 games (all starts) this season, averaging 27.8 points, 3.9 assists and 3.7 rebounds, shooting .500 from the floor and .457 on 3-point attempts."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/home-is-everything-chicago-bulls-wayfair-and-digs-with-dignity-team-up-to-surprise-army-veteran-and-single-dad-with-new-fully-furnished-home",
+   "url": "https://www.nba.com/bulls/news/home-is-everything-chicago-bulls-wayfair-and-digs-with-dignity-team-up-to-surprise-army-veteran-and-single-dad-with-new-fully-furnished-home",
+   "canonical_url": "https://bulls.com/news/home-is-everything-chicago-bulls-wayfair-and-digs-with-dignity-team-up-to-surprise-army-veteran-and-single-dad-with-new-fully-furnished-home",
+   "title": "“Home is Everything”: Chicago Bulls, Wayfair and Digs with Dignity Team Up to Surprise Army Veteran and Single Dad with New, Fully Furnished Home",
+   "author": "Bulls.com",
+   "published_utc": "2026-11-12T16:34:42Z",
+   "tags": [
+    "Wayfair"
+   ],
+   "summary": "Army veteran and single dad Byron is building a home in Chicago with his daughter.",
+   "facts": [
+    "Today, 97% of the families they support are still housed, and 95% report improved relationships.",
+    "Byron grew up in Harvey, Illinois, as a huge fan of the Bulls during the 1970s.",
+    "One of Byron's favorite Bulls memories was the team’s home opener at Chicago Stadium in 1992 against the Atlanta Hawks, taking in a gut-wrenching one-point loss.",
+    "Not only did they get to meet Sellers, but he also invited them out to the team’s Veterans Day Game, presented by BMO, on Nov. 11."
+   ],
+   "quotes": [
+    "Together with Wayfair and Digs with Dignity, we’re helping Byron and his daughter create a space that feels like home,",
+    "We’re proud to support veteran families and our Chicago community.",
+    "I’m looking forward to building a home life.",
+    "Getting the keys is a huge milestone, but too often families walk into an apartment with nothing in it,"
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-knicks-261113",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-knicks-261113",
+   "canonical_url": "https://pacers.com/news/preview-pacers-knicks-261113",
+   "title": "Game Preview: Pacers vs Knicks (NBA Cup)",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-12T15:58:00Z",
+   "tags": [
+    "2026 NBA Cup",
+    "2026-27 Game Preview"
+   ],
+   "summary": "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview The Pacers are back in Gainbridge Fieldhouse on Friday as they return to NBA Cup group play action against the New York Knicks.",
+    "Indiana earned its first home win on Wednesday as it defeated the Washington Wizards, 114-101.",
+    "Pascal Siakam led the Blue and Gold with 28 points, but Kelly Oubre Jr. and Ivica Zubac both found some rhythm after rocky starts to the season.",
+    "The Knicks are 6-5 this season as they defend their title from a season ago.",
+    "Jalen Brunson leads the Knicks with 26 points and five assists, but is shooting just 42 percent from the field through New York’s first 11 games.",
+    "Karl-Anthony Towns averages a double-double with 21 points and 14 rebounds nightly, but the Knicks rely on Andre Drummond to back him up after Mitchell Robinson’s offseason departure to Boston.",
+    "The Knicks played Cleveland again on Wednesday, and fell to the Cavaliers, 115-107.",
+    "New York lost its first NBA Cup matchup, falling to the Philadelphia 76ers."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/charlotte-hornets-scale-cellular-5g-connectivity-across-spectrum-center-and-new-novant-health-performance-center-with-boldyn-networks",
+   "url": "https://www.nba.com/hornets/news/charlotte-hornets-scale-cellular-5g-connectivity-across-spectrum-center-and-new-novant-health-performance-center-with-boldyn-networks",
+   "canonical_url": "https://hornets.com/news/charlotte-hornets-scale-cellular-5g-connectivity-across-spectrum-center-and-new-novant-health-performance-center-with-boldyn-networks",
+   "title": "Charlotte Hornets Scale Cellular 5G Connectivity Across Spectrum Center and New Novant Health Performance Center With Boldyn Networks",
+   "author": "Hornets PR",
+   "published_utc": "2026-11-12T14:48:57Z",
+   "tags": [
+    "Featured",
+    "Partnerships",
+    "Press Release"
+   ],
+   "summary": "Hornets Sports & Entertainment (HSE) and Boldyn Networks (Boldyn) today announced a significant extension of their cellular wireless infrastructure partnership at Spectrum Center, which now also brings Boldyn’s high‑performance cellular 5G network to the team’s new state‑of‑the‑art Novant Health Performance Center.",
+   "facts": [
+    "November 12, 2026 | Charlotte, NC Hornets Sports & Entertainment (HSE) and Boldyn Networks (Boldyn) today announced a significant extension of their cellular wireless infrastructure partnership at Spectrum Center, which …",
+    "The extension ensures that the Charlotte Hornets remain at the forefront of sports technology, providing a seamless cellular 5G corridor between the team’s arena and its future performance center currently under construc…",
+    "Boldyn originally launched the arena’s 5G Distributed Antenna System (DAS) upgrade in 2020.",
+    "The Boldyn-designed network will provide wall-to-wall coverage across the facility’s 160,000+ square feet, including courts, training and weight rooms and administrative offices."
+   ],
+   "quotes": [
+    "Connectivity is the invisible architecture that supports everything we do, from the way our fans share moments in the stands to the way our players and coaches utilize real-time data to gain a competi…",
+    "Extending this cellular 5G network into the Novant Health Performance Center creates a unified tech ecosystem. It ensures that our basketball operations and front office are supported by the same reli…",
+    "We’ve worked closely with the Hornets to ensure employees and fans have had cellular 5G connectivity through the multi-million-dollar renovation at Spectrum Center, and now we extend that connectivity…",
+    "The Hornets are leading a future where data-driven performance and immersive fan engagement are the standard. By deploying a future-ready cellular 5G infrastructure across both the Spectrum Center and…"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/david-west-began-climb-to-franchise-pillar-finishing-as-runner-up-in-nbas-most-improved-player-vote",
+   "url": "https://www.nba.com/pelicans/news/david-west-began-climb-to-franchise-pillar-finishing-as-runner-up-in-nbas-most-improved-player-vote",
+   "canonical_url": "https://pelicans.com/news/david-west-began-climb-to-franchise-pillar-finishing-as-runner-up-in-nbas-most-improved-player-vote",
+   "title": "David West began climb to franchise pillar, finishing as runner-up in NBA's Most Improved Player vote | 25 On the Court",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-12T14:00:00Z",
+   "tags": [],
+   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+   "facts": [
+    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+    "With New Orleans players, coaches and staff a little over a month from tipping off 2005 training camp, the unthinkable happened: Hurricane Katrina made landfall on Aug. 29, causing devastation across the Gulf Coast and r…",
+    "It quickly became evident that the city’s pro basketball team would need to play its home schedule elsewhere in 2005-06.",
+    "On Sept. 21, the NBA announced the club’s temporary home of Oklahoma City.",
+    "The Hornets were already projected to finish near the bottom of the standings after going 18-64 in 2004-05, but now also faced the challenge of rapidly relocating to an unfamiliar place.",
+    "Behind Rookie of the Year Chris Paul and Most Improved Player award runner-up David West, the Hornets shocked the league by starting 31-26, before youth caught up to the squad during a 7-18 close (finished 38-44, 10th in…",
+    "West nearly tripled his scoring average from the previous season, jumping from 6.2 ppg to 17.1, emerging as a foundational pillar for New Orleans, counted on to drill clutch baskets, particularly from the deep mid-range …",
+    "His knack for sinking game-winning jumpers earned him the nickname “the 17-foot assassin” and made him CP3’s favorite target in pick-and-pops."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/bulls-struggle-with-turnovers-surrender-22-point-lead-in-124-119-defeat-to-spurs",
+   "url": "https://www.nba.com/bulls/news/bulls-struggle-with-turnovers-surrender-22-point-lead-in-124-119-defeat-to-spurs",
+   "canonical_url": "https://bulls.com/news/bulls-struggle-with-turnovers-surrender-22-point-lead-in-124-119-defeat-to-spurs",
+   "title": "Bulls struggle with turnovers, surrender 22-point lead in 124-119 defeat to Spurs",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-12T13:30:39Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "It really did look like the Bulls were going to get this one.",
+   "facts": [
+    "And not just because the Bulls had a 22-point second quarter lead, 14 at halftime.",
+    "Superstar Victor Wembanyama unable to seal the paint and chase Smith to the perimeter, where Smith would make all five of his threes and equal a career high with 23 points to lead the Bulls.",
+    "Their hand-to-hand combat to begin the second half overwhelmed the Bulls, a 17-3 Spurs beating with five Bulls turnovers in four minutes got the Spurs into a tie.",
+    "And then quicker than you can say croissant, the Bulls resembled a puff pastry as Wembanyama in the second half scored 17 of his game-high 32 points.",
+    "San Antonio had 16 fast break points to one basket for the Bulls after halftime and the Spurs won their 10th consecutive game 124-119.",
+    "The Bulls lost their eighth straight to drop to 1-9.",
+    "And the Bulls only got that close in the end after Splitter cleared the bench with two minutes left with the Bulls trailing 120-105.",
+    "The Bulls even kept it up, four of seven threes in the second quarter. 66 percent first half overall shooting and 67 percent on threes, the largest lead of the season."
+   ],
+   "quotes": [
+    "Stix (Smith) can spread the court and take Wembanyama out of the paint,",
+    "I thought that matchup with Wemby would be a good thing. It worked for a little bit; second half it didn’t.",
+    "We did a lot of good things,",
+    "Shared the ball, moved the ball in the first half,"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-vs-raptors-game-preview-injury-report-and-how-to-watch-11-12-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-vs-raptors-game-preview-injury-report-and-how-to-watch-11-12-2026",
+   "canonical_url": "https://sixers.com/news/sixers-vs-raptors-game-preview-injury-report-and-how-to-watch-11-12-2026",
+   "title": "Sixers vs. Raptors: Game Preview, Injury Report and How to Watch 11/12/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-12T13:30:14Z",
+   "tags": [
+    "Dominick Barlow",
+    "Joel Embiid",
+    "LeBron James"
+   ],
+   "summary": "The Philadelphia 76ers (9-3) will welcome the Toronto Raptors (5-6) on Thursday for Military Appreciation Night, presented by Toyota. Tipoff is set for 7 p.m. EST at Xfinity Mobile Arena.",
+   "facts": [
+    "The Philadelphia 76ers (9-3) will welcome the Toronto Raptors (5-6) on Thursday for Military Appreciation Night, presented by Toyota.",
+    "Tipoff is set for 7 p.m.",
+    "The Sixers fell to the Celtics, 123-101, Tuesday at home.",
+    "Boston made 22 3-pointers, six of which came from Paul George, who scored a game-high 36 points.",
+    "Tyrese Maxey led the Sixers with 24 points in 33 minutes.",
+    "The Raptors also last played the Celtics, losing 98-93 on Wednesday after Boston scored the game’s final eight points.",
+    "Jayson Tatum scored 24 points in the absence of Paul George, who was sidelined by illness on the second night of a back-to-back.",
+    "Scottie Barnes (left groin strain) and Kawhi Leonard (left knee injury management) remained out."
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -1051,7 +1344,7 @@
     "It speaks to the basketball I’ve always played,",
     "I was raised to be a true competitor, try to make as many positive, winning plays as I can. Make the easy, right basketball play out there.",
     "I think, even in some of the losses, we learned a lot. We talked about it after our last loss. We’re not always going to learn from the wins. Every experience, win or lose, good or bad, learning from …",
-    "I think we'll be better prepared moving forward, so we need that San Antonio game to learn a lot of lessons,"
+    "I think we'll be better prepared moving forward, so we needed that San Antonio game to learn a lot of lessons,"
    ]
   },
   {
@@ -1173,6 +1466,7 @@
    "published_utc": "2026-11-10T17:43:33Z",
    "tags": [
     "Featured",
+    "Partnerships",
     "Press Release"
    ],
    "summary": "November 10, 2026 – Hornets Sports & Entertainment (HSE) and Spectrum today announced the installation of WiFi 7 as part of Spectrum’s Managed WiFi solution within Charlotte’s recently renovated Spectrum Center, marking the first-ever deployment of the technology for Spectrum in an NBA arena nationally and positioning the Charlotte Hornets among the first NBA teams to bring fans the next generatio…",
@@ -1634,267 +1928,6 @@
    "quotes": [
     "I thought Darryn turned in his best game as a pro,",
     "There’s a variety of ways to attack. There’s a lot to take away from how he not only handled ball pressure, but also an elite big at the rim."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-warriors-injury-report-game-preview-11-9-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-warriors-injury-report-game-preview-11-9-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-warriors-injury-report-game-preview-11-9-2026",
-   "title": "Pelicans vs. Warriors: Injury Report, Game Preview 11/9/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-09T20:52:23Z",
-   "tags": [],
-   "summary": "The Pelicans travel to Golden State on Monday to face the Warriors at the Chase Center at 9:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans travel to Golden State on Monday to face the Warriors at the Chase Center at 9:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Warriors injury report, team news, tune in details, and gameday information: PELICANS VS WARRIORS INJURY UPDATE PELICANS INJURY REPORT Yves Missi OUT (left knee contusion/bone bruise) Trey Murphy …",
-    "OUT (G League two-way) WARRIORS INJURY REPORT Jimmy Butler III OUT (right ACL) Moses Moody OUT (left patellar tendon) Kristaps Porzingis OUT (not with team) Will Richard OUT (left thumb UCL tear) Gui Santos PROBABLE (lef…",
-    "Orlando Magic Gui Santos, Yaxel Lendeborg, Draymond Green, Brandin Podziemski, Stephen Curry NEW ORLEANS PELICANS (4-6) Previous Game Lineup: November 8 loss at LA Clippers Trey Murphy III, Zion Williamson, Karlo Matkovi…",
-    "Warriors Game Time, TV Channel, Radio & Location 📅 Game Time: Monday, Nov. 9 at 9:00 pm CT🏟️ Location: Chase Center in San Francisco, CA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 National TV: NBA TV📺 Warriors …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ATL 公式（nba.com）",
-   "team": "ATL",
-   "team_ja": "ホークス",
-   "team_id": 1610612737,
-   "kind": "feature",
-   "key": "https://www.nba.com/hawks/news/short-handed-but-not-out-muscled-how-okongwu-and-ejiofor-kept-atlanta-4-0-in-november",
-   "url": "https://www.nba.com/hawks/news/short-handed-but-not-out-muscled-how-okongwu-and-ejiofor-kept-atlanta-4-0-in-november",
-   "canonical_url": "https://hawks.com/news/short-handed-but-not-out-muscled-how-okongwu-and-ejiofor-kept-atlanta-4-0-in-november",
-   "title": "Short-Handed, But Not Out-Muscled: How Onyeka Okongwu and Zuby Ejiofor Kept Atlanta 4-0 in November",
-   "author": "Atlanta Hawks",
-   "published_utc": "2026-11-09T20:44:12Z",
-   "tags": [
-    "Atlanta Hawks",
-    "Onyeka Okongwu",
-    "zuby ejiofor"
-   ],
-   "summary": "The Hawks are 4-0 in November, and the success was not without its challenges. The Hawks have kept the slate clean despite five of the seven tallest players on the roster (Jalen Johnson, Mo Gueye, Jock Landale, Asa Newell, and Henri Veesaar) missing time.",
-   "facts": [
-    "By Kevin Chouinard The Hawks are 4-0 in November, and the success was not without its challenges.",
-    "Okongwu, starting at center, averaged 16.3 points and 9.5 rebounds over the four games while also functioning as the glue of the defense.",
-    "After being cleared to return, he led the comeback by helping the Hawks get settled on both sides of the ball.",
-    "And with 14.6 seconds left in the game trying to preserve the win, he slipped through 500 lbs. of opponents trying to block him out – Danny Wolf and Day'Ron Sharpe – to get a hand on a potential offensive rebound, before…",
-    "Okongwu himself seems to think so, and he brought up the comparison to the 6-foot-8 rookie unprompted."
-   ],
-   "quotes": [
-    " Okongwu said of the play. ",
-    " Okongwu finished the win with 16 points, 5 assists, and 3 blocks. ",
-    " Ejiofor said of his teammate. Is it fair to compare the two? Okongwu himself seems to think so, and he brought up the comparison to the 6-foot-8 rookie unprompted. ",
-    "Zuby kind of reminds me of myself when I was younger, you know? He plays hard. He is an athlete – I'm still an athlete by the way – and I'm proud of what he has accomplished in a short time here. He i…"
-   ]
-  },
-  {
-   "source": "LAL 公式（nba.com）",
-   "team": "LAL",
-   "team_ja": "レイカーズ",
-   "team_id": 1610612747,
-   "kind": "feature",
-   "key": "https://www.nba.com/lakers/news/luka-doncic-named-nba-western-conference-player-of-the-week",
-   "url": "https://www.nba.com/lakers/news/luka-doncic-named-nba-western-conference-player-of-the-week",
-   "canonical_url": "https://lakers.com/news/luka-doncic-named-nba-western-conference-player-of-the-week",
-   "title": "Luka Dončić Named NBA Western Conference Player of the Week",
-   "author": "lalnkioski",
-   "published_utc": "2026-11-09T20:38:22Z",
-   "tags": [
-    "App Media Feed",
-    "Releases",
-    "Team News"
-   ],
-   "summary": "Los Angeles Lakers guard Luka Dončić has been named NBA Western Conference Player of the Week for games played Monday, Nov. 2, through Sunday, Nov. 8. The weekly honor marks his fifth as a Laker and the 20th such award of his career.",
-   "facts": [
-    "Los Angeles Lakers guard Luka Dončić has been named NBA Western Conference Player of the Week for games played Monday, Nov. 2, through Sunday, Nov. 8.",
-    "The weekly honor marks his fifth as a Laker and the 20th such award of his career.",
-    "Dončić scored at least 40 points in each of his three appearances, all Lakers victories.",
-    "The 27-year-old averaged 45.0 points on 52.5% shooting from the field, 39.5% from 3-point range and 82.9% from the free-throw line, along with 7.0 rebounds, 8.3 assists and 1.3 steals in 36.3 minutes per game.",
-    "Dončić opened the week Nov. 2 with a 42-point, 13-assist double-double and six 3-pointers in a 138-117 home victory over Miami.",
-    "It was his 19th career game with at least 40 points, 10 assists and five 3-pointers, surpassing James Harden for the most in NBA history.",
-    "Two nights later, he tallied 40 points, nine rebounds and seven assists in a 116-103 road win over Sacramento, his 100th regular season game as a Laker.",
-    "Dončić became the first player in NBA history to record at least 35 points, five rebounds, five assists and five 3-pointers in six consecutive games."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/gran-mes-de-octubre-para-los-sixers",
-   "url": "https://www.nba.com/sixers/news/gran-mes-de-octubre-para-los-sixers",
-   "canonical_url": "https://sixers.com/news/gran-mes-de-octubre-para-los-sixers",
-   "title": "Gran mes de octubre para los Sixers",
-   "author": "Por Miguel Ángel Martín",
-   "published_utc": "2026-11-09T18:47:32Z",
-   "tags": [
-    "Espanol"
-   ],
-   "summary": "Los Sixers han comenzado con buen pie la temporada 2026-2027. Un gran balance de seis triunfos en los primeros siete encuentros, que nos sitúan en la cabeza de la conferencia Este, y dejando la sensación de que la temporada regular podría sonreir de Philadelphia, a la espera de la hora de la verdad que suponen los playoffs.",
-   "facts": [
-    "Los Sixers han comenzado con buen pie la temporada 2026-2027.",
-    "Pero finalmente fue una fiesta para los Sixers (106-100)), que estrenan un nuevo núcleo de jugadores, con el estreno de LeBron James en partido oficial de la temporada regular de la NBA, no pudo tener mejor final que el …",
-    "La nueva estrella de los Sixers completó 34 minutos para sumar 14 puntos con un 5-13 en tiros de campo, y rozar el triple doble, al sumar 7 asistencias y 9 rebotes.",
-    "Una gran actuación, sobre todo en transiciones, conectando muy bien con Maxey que fue el máximo anotador de los Sixers, con 28 puntos y también con Jaylen Brown, que acabó con 19 puntos.",
-    "Tras el triunfo en la Gran Manzana, llegaron dos triunfos más en casa, ante los Cavs (114-106) y los Bucks (127-116).",
-    "Solos los Pistons han logrado romper la buena dinámica de resultados que han tenido los Sixers este mes, con una derrota en el Sur de Philly, por 93-106, justo antes de que llegansen tres triunfos más para el final de es…",
-    "Llegó el triunfo lejos de casa ante los Pacers (Tyrese Maxey 27 puntos, Embiid 11 rebotes y LeBron James 10 asistencias), asi como también llegó el triunfo en casa de nuevo ante los Knicks (98-93, con el aderezo de la co…",
-    "El punto final de este primer mes de competición llegó en Charlotte, con un triunfo ante los Hornets, en donde los Sixers lograron remontar en el tramo final del partido (parcial a nuestro favor de 15-3, para remontar y …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-commit-to-solution-oriented-approach-amid-streaky-start-to-season",
-   "url": "https://www.nba.com/grizzlies/news/mikecheck-grizzlies-commit-to-solution-oriented-approach-amid-streaky-start-to-season",
-   "canonical_url": "https://grizzlies.com/news/mikecheck-grizzlies-commit-to-solution-oriented-approach-amid-streaky-start-to-season",
-   "title": "MikeCheck: Grizzlies commit to ‘solution-oriented’ approach amid streaky start to season",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-09T18:03:55Z",
-   "tags": [
-    "Grind City Media",
-    "Michael Wallace",
-    "MikeCheck"
-   ],
-   "summary": "MEMPHIS – Barely 10 percent into their 82-game schedule, the Grizzlies are already being thoroughly tested by the rocky nature of an NBA season.",
-   "facts": [
-    "Stretch of 12 games in 20 days looms MEMPHIS – Barely 10 percent into their 82-game schedule, the Grizzlies are already being thoroughly tested by the rocky nature of an NBA season.",
-    "The initial highs of matching the best start in franchise history at 6-0 have since given way to the lows of three consecutive losses to close last week’s homestand.",
-    "On top of that, the Grizzlies are adjusting to the absences of two of their best defenders as center Isaiah Stewart and guard Scotty Pippen Jr. work their way back from nagging injuries.",
-    "While addressing those issues, the commitment to maintain proper perspective is key for a team retooling around a young core aided by newly-acquired veterans.",
-    "The development process continues Monday when the Grizzlies (6-3) visit the Raptors (5-4) to open a stretch of 12 games, including two back-to-back sets, squeezed into 20 days.",
-    "We’re 6-3 now, right?",
-    "Both will miss Monday’s game to continue treatment, with the team not yet revealing a definitive timeframe for their return.",
-    "Stewart, the Grizzlies productive backup center, suffered a bruised right knee midway through the Nov. 4 home loss to Indiana."
-   ],
-   "quotes": [
-    "You can feel sorry for yourself,",
-    "Or you can be solutions-oriented and turn it into a long-term positive.",
-    "You can feel after every loss it’s the end of the world,",
-    "But over 82 games, you can’t have 82 of that. We’re 6-3 now, right? As of now, we’ve got to stay consistent in what we’re supposed to do. The NBA is a long season of wins and losses. You can get reall…"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-ace-bailey-and-darryn-petersons-development-with-tim-macmahon",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-ace-bailey-and-darryn-petersons-development-with-tim-macmahon",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-ace-bailey-and-darryn-petersons-development-with-tim-macmahon",
-   "title": "Roundball Roundup: Ace Bailey and Darryn Peterson's Development with Tim MacMahon",
-   "author": "JP Chunga",
-   "published_utc": "2026-11-09T17:36:17Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga caught up with Tim MacMahon (ESPN, Hoop Collective) to discuss Ace Bailey's defense, Darryn Peterson, and West contenders.",
-   "facts": [],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-warriors-11-9-2026",
-   "url": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-warriors-11-9-2026",
-   "canonical_url": "https://pelicans.com/news/behind-the-numbers-pelicans-at-warriors-11-9-2026",
-   "title": "Behind the Numbers: Pelicans at Warriors (11/9/2026)",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-09T16:47:56Z",
-   "tags": [],
-   "summary": "A look at three key numbers related to Monday’s game in Chase Center between New Orleans and Golden State (9 p.m. Central, GCSEN on TV; WWL on radio):",
-   "facts": [
-    "A look at three key numbers related to Monday’s game in Chase Center between New Orleans and Golden State (9 p.m.",
-    "Central, GCSEN on TV; WWL on radio): 45.3, 43.2: Bench scoring averages this season for New Orleans and Golden State, ranking second and fifth, respectively, among the NBA’s 30 teams.",
-    "Only Memphis (45.7 ppg) is getting more nightly offensive production from reserves than the Pelicans, one reason the latter squad recently reeled off four straight victories, prior to losing weekend games against Minneso…",
-    "Individually, New Orleans forward Saddiq Bey (16.1) remains the league’s top bench scorer (minimum six games as a substitute, via NBA.com).",
-    "Fellow Pelicans second-unit member Derik Queen ranks 12th in the league in point production off the pine at 12.1.",
-    "Meanwhile, Golden State’s backups are led offensively by a pair of guards – Brandon Williams (10.0) and De’Anthony Melton (9.1).",
-    "Warriors veteran forward Georges Niang also produces 9.0 ppg.",
-    "Sunday’s 139-123 defeat against the Clippers was the first time all season that Pelicans substitutes were outscored in a game (59-38). 62.8: Career high in shooting percentage from the field for Zion Williamson through 1…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/76ers-toyota-mark-more-than-a-decade-of-support-for-military-families-through-stars-stripes-program",
-   "url": "https://www.nba.com/sixers/news/76ers-toyota-mark-more-than-a-decade-of-support-for-military-families-through-stars-stripes-program",
-   "canonical_url": "https://sixers.com/news/76ers-toyota-mark-more-than-a-decade-of-support-for-military-families-through-stars-stripes-program",
-   "title": "76ERS, TOYOTA MARK MORE THAN A DECADE OF SUPPORT FOR MILITARY FAMILIES THROUGH ‘STARS & STRIPES’ PROGRAM",
-   "author": "76ers PR",
-   "published_utc": "2026-11-09T14:44:49Z",
-   "tags": [],
-   "summary": "SINCE 2014, THE 76ERS AND TOYOTA HAVE IMPACTED MORE THAN 43,000 SERVICE MEMBERS AND PROVIDED MORE THAN 18,000 TICKETS THROUGH THE STARS & STRIPES PROGRAM",
-   "facts": [
-    "SINCE 2014, THE 76ERS AND TOYOTA HAVE IMPACTED MORE THAN 43,000 SERVICE MEMBERS AND PROVIDED MORE THAN 18,000 TICKETS THROUGH THE STARS & STRIPES PROGRAM CO-BRANDED CAMO HAT GIVEAWAY FOR FIRST 5,000 FANS IN ATTENDANCE ON…",
-    "The initiative has become a cornerstone of the organizations' shared commitment to recognizing those who serve through meaningful recognition, community engagement and direct support, and stands as the longest-running 76…",
-    "Since Toyota became a partner of the program, Stars & Stripes has positively impacted more than 43,000 service members and provided more than 18,000 tickets to military personnel and their families throughout the region.",
-    "This year, the 76ers and Toyota will continue their Stars & Stripes programming beginning with Military Appreciation Night on Nov. 12 when the 76ers host the Toronto Raptors.",
-    "Additional programming throughout the month will include the Stars & Stripes Court of Dreams experience and the annual Stars & Stripes Day of Service event, which brings together employees and military families at the Pe…",
-    "Highlights of this year's programming include: 76ers Stars & Stripes Court of Dreams, presented by Toyota – Nov. 12 – 1-2 p.m.: The Stars & Stripes program tips off with the 76ers Stars & Stripes Court of Dreams, a pre-g…",
-    "All participants will receive tickets to the game later that night to celebrate the evening and cheer on the 76ers.",
-    "Military Appreciation Night, presented by Toyota, Celebrations and Honors – Nov. 12 vs."
-   ],
-   "quotes": [
-    "For more than 10 years, Toyota has been an invaluable presenting partner of our Stars & Stripes program, helping us create meaningful ways to recognize the men and women who serve our country and the …",
-    "Together, we have celebrated thousands of military members and families across our region, and we are proud to continue building on that legacy through programs and experiences that reflect our deep a…",
-    "The Tri-State Toyota Dealers are honored to join the Philadelphia 76ers once again in celebrating the service and sacrifice of our local military community,",
-    "We’re incredibly grateful to the active-duty service members, veterans and military families throughout the Delaware Valley, and proud to help create meaningful opportunities to recognize all they hav…"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/bulls-fall-short-in-final-minutes-to-sixers-127-121",
-   "url": "https://www.nba.com/bulls/news/bulls-fall-short-in-final-minutes-to-sixers-127-121",
-   "canonical_url": "https://bulls.com/news/bulls-fall-short-in-final-minutes-to-sixers-127-121",
-   "title": "Bulls fall short in final minutes to Sixers 127-121",
-   "author": "Sam Smith",
-   "published_utc": "2026-11-09T14:14:00Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "The Bulls deserve better, after Sunday’s 127-121 loss to the Philadelphia 76ers, than having to contemplate their seventh consecutive loss and slide to the bottom of the conference standings at 1-8 in this frustrating first few weeks of the NBA season.",
-   "facts": [
-    "The Bulls deserve better, after Sunday’s 127-121 loss to the Philadelphia 76ers, than having to contemplate their seventh consecutive loss and slide to the bottom of the conference standings at 1-8 in this frustrating fi…",
-    "Maybe stickers or being able to stay in their pajamas all day tomorrow for high scorers Matas Buzelis and Josh Giddey, each with 19 points, who put a smile on our faces and well as their own.",
-    "But this is a league leading 76ers team with a Hall of Fame starting lineup, leading scorer Jaylen Brown with 29 points drawing and making four crucial late free throws, here-he-is, no there-he-is whippet Tyrese Maxey wi…",
-    "Of course, Josh (with 15) was a big part of it.",
-    "Sunday against the now mighty 76ers wrapped up six games — two each — against the three best teams in the Eastern Conference, the 76ers, Celtics and Knicks.",
-    "They got 20 offensive boards (and 33 second chance points).",
-    "The Bulls lost their first nine games, and I recall coach Scott Skiles saying after loss number nine by 18 points that he believed the team was right on the edge of a major turnaround.",
-    "And then those Bulls won 47 games to finish fourth in the conference."
-   ],
-   "quotes": [
-    "I thought we competed a lot better than we have the last few games,",
-    "Overall, I think we are making quicker decisions. Not just going in iso situations, way less this game, way less,",
-    "Our guys competed for the most part. At the end of the day, the game is decided on the boards. They got 20 offensive boards (and 33 second chance points). We did a lot of good things. Played the way w…",
-    "Buddy and Lenny for eight, nine games. Now trying a different look. Hawk has been doing a great job practiing; same for Pat. He used to play a lot of minutes; he didn’t have any (early in the season).…"
    ]
   }
  ]
