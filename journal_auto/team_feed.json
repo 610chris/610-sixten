@@ -1,8 +1,138 @@
 {
- "updated_utc": "2026-11-12 04:08 UTC",
+ "updated_utc": "2026-11-12 13:11 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/franz-wagner-matches-career-high-in-scoring-to-lead-orlando-magic-to-victory-over-utah-jazz-20261111",
+   "url": "https://www.nba.com/magic/news/franz-wagner-matches-career-high-in-scoring-to-lead-orlando-magic-to-victory-over-utah-jazz-20261111",
+   "canonical_url": "https://orlandomagic.com/news/franz-wagner-matches-career-high-in-scoring-to-lead-orlando-magic-to-victory-over-utah-jazz-20261111",
+   "title": "Franz Wagner Matches Career High in Scoring to Lead Orlando Magic to Victory Over Utah Jazz",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-12T05:30:13Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "SALT LAKE CITY - Few players throughout the league right now are hotter than the Orlando Magic’s Franz Wagner, with his most recent sensational performance coming Wednesday in the finale of a four-game West Coast road trip.",
+   "facts": [
+    "The 6-foot-10 German forward matched his career high in scoring with 38 points on 13-of-23 shooting from the field, 3-of-8 from beyond the arc and 9-of-10 from the free throw line to lift the Magic to a 123-108 victory o…",
+    "Instead, Orlando went on an 18-5 run midway through the final frame to seize full control.",
+    "Desmond Bane, who made a game-winning shot the last time the Magic were in Utah, came on strong late with 11 of his 25 points in the fourth.",
+    "Wagner had 12 of his 38 in the final frame.",
+    "The last time he had at least 30 points in three consecutive games was in December 2024.",
+    "It was also the third time he scored 38, with the other two times occurring on Dec. 28, 2021 against the Bucks and on Feb. 4, 2024 against the Pistons.",
+    "Anthony Black had another strong performance with 22 points and eight assists and Jevon Carter, who was a plus-24 off the bench, finished with 11 points.",
+    "Rookie sensation Darryn Peterson led Utah with 22 points, Brice Sensabaugh had 19 points and Ace Bailey finished with 18."
+   ],
+   "quotes": [
+    "I think it was the way they were defending the pick-and-roll. We got into the paint a bunch of times,",
+    "I was just trying to make the right play.",
+    "I thought we had good poise and resilience. Coming into the fourth it was a close game – we didn’t have the third quarter we wanted – but the fourth quarter we stayed with it and we were able to execu…",
+    "I think continuing to do a great job of taking care of the basketball,"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-fall-short-against-orlando-magic-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-fall-short-against-orlando-magic-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-fall-short-against-orlando-magic-key-takeaways",
+   "title": "Utah Jazz Fall Short Against Orlando Magic: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-12T05:21:26Z",
+   "tags": [
+    "Ace Bailey",
+    "Brice Sensabaugh",
+    "Darryn Peterson",
+    "Keyonte George",
+    "Utah Jazz"
+   ],
+   "summary": "There was no rest for the weary Wednesday night at the Delta Center.",
+   "facts": [
+    "In a matchup of two shorthanded squads on the second night of a back-to-back, the Utah Jazz and Orlando Magic battled back-and-forth throughout all 48 minutes.",
+    "Ultimately, Orlando used a dominant fourth quarter to pull out a 123-108 victory over Utah.",
+    "Franz Wagner led the visitors with 38 points, while Darryn Peterson led the Jazz with 22 points.",
+    "Utah knocked down eight threes during the opening quarter (on 19 attempts), which helped fuel the offense without consistent paint scoring (just six in the first 12 minutes).",
+    "After Orlando recovered from a cold start, the visitors gained the lead late in the first as a result of a downhill attack (12 points in the paint and eight from the free-throw line).",
+    "However, the Jazz responded with a 13-4 run to close the frame and took a 34-29 lead into the second quarter.",
+    "Utah continued to rely on the 3-point line to generate offense as the second frame got underway.",
+    "The Magic found a rhythm during the early stages of the quarter, shooting 60 percent from the field to regain the lead."
+   ],
+   "quotes": [
+    "We have to keep fighting for our focus and to maintain it,",
+    "In the fourth quarter, our energy dipped a little bit… (But) I’m seeing some good trends.",
+    "We didn’t make enough shots and were sloppy in the fourth quarter,",
+    "The guys want it bad and they are bought in. We're fighting every day."
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261111",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261111",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261111",
+   "title": "Lendeborg Has 25-Point Double-Double, Warriors' Win Streak Snapped by Rockets",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-12T05:14:13Z",
+   "tags": [
+    "Game Recap"
+   ],
+   "summary": "The Warriors' eight-game winning streak was snapped in a 115-108 loss to the Houston Rockets at Toyota Center on Wednesday. The Warriors capped a streak of at least eight wins for the first time since their 2022 championship season. Yaxel Lendeborg led all scorers with 25 points and added 10 rebounds for his third career double-double. Brandin Podziemski tallied 22 points, six rebounds, four assis…",
+   "facts": [
+    "The Warriors' eight-game winning streak was snapped in a 115-108 loss to the Houston Rockets at Toyota Center on Wednesday.",
+    "The Warriors capped a streak of at least eight wins for the first time since their 2022 championship season.",
+    "Yaxel Lendeborg led all scorers with 25 points and added 10 rebounds for his third career double-double.",
+    "Brandin Podziemski tallied 22 points, six rebounds, four assists, and four 3-pointers.",
+    "The Rockets’ entire starting lineup scored in double figures, led by Kevin Durant's 20 points and 19 points each from Alperen Sengun and Amen Thompson.",
+    "The Dubs fell behind by as many as 18 points but battled back multiple times, tying the score late in the second quarter and coming within three points in the third.",
+    "However, they couldn't overcome Stephen Curry’s departure, as he played just five minutes before suffering an abdominal injury.",
+    "LENDEBORG’S 18-POINT FIRST HALF Yaxel Lendeborg scored 18 points in the first half, tied for the second-most points he’s ever had in a half."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-defeat-grizzlies-on-wednesday",
+   "url": "https://www.nba.com/nuggets/news/nuggets-defeat-grizzlies-on-wednesday",
+   "canonical_url": "https://nuggets.com/news/nuggets-defeat-grizzlies-on-wednesday",
+   "title": "Nuggets defeat Grizzlies on Wednesday",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-12T04:14:01Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets bounced back on Wednesday and defeated the Memphis Grizzlies, 123-118. They're now 6-4 to begin the season and 4-2 on the road.",
+   "facts": [
+    "The Denver Nuggets bounced back on Wednesday and defeated the Memphis Grizzlies, 123-118.",
+    "They're now 6-4 to begin the season and 4-2 on the road.",
+    "Jamal Murray led the team with 30 points on 12-of-19 shooting and 4-of-7 from behind the arc.",
+    "He checked in just before the end of the third quarter and scored 22 of Denver's final 38 points.",
+    "Murray has recorded five 30-point games in 10 appearances, tied for third-most in the NBA.",
+    "He's one of five players averaging at least 25 points, five rebounds, and five assists per game.",
+    "His three-point percentage, 51.3 percent, is the highest in the NBA for any player with at least 75 total three-point attempts.",
+    "His co-star, Nikola Jokić, also had a strong performance with 27 points on 10-of-16 shooting from the field, 11 rebounds, eight assists, one steal, and one block."
+   ],
+   "quotes": []
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -1296,7 +1426,7 @@
    "url": "https://www.nba.com/warriors/news/gameday-recap-20261109",
    "canonical_url": "https://warriors.com/news/gameday-recap-20261109",
    "title": "Warriors Complete Perfect Homestand With 51-Point Victory Over the Pelicans",
-   "author": "gswgrizzo",
+   "author": "Gabriella Rizzo",
    "published_utc": "2026-11-10T05:25:36Z",
    "tags": [
     "Game Recap"
@@ -1765,219 +1895,6 @@
     "Overall, I think we are making quicker decisions. Not just going in iso situations, way less this game, way less,",
     "Our guys competed for the most part. At the end of the day, the game is decided on the boards. They got 20 offensive boards (and 33 second chance points). We did a lot of good things. Played the way w…",
     "Buddy and Lenny for eight, nine games. Now trying a different look. Hawk has been doing a great job practiing; same for Pat. He used to play a lot of minutes; he didn’t have any (early in the season).…"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/sixers-defeat-bulls-127-121-improve-to-nba-best-9-2",
-   "url": "https://www.nba.com/sixers/news/sixers-defeat-bulls-127-121-improve-to-nba-best-9-2",
-   "canonical_url": "https://sixers.com/news/sixers-defeat-bulls-127-121-improve-to-nba-best-9-2",
-   "title": "Sixers Defeat Bulls 127-121, Improve to NBA-Best 9-2",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-09T13:04:58Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers defeated the Chicago Bulls, 127-121, on Sunday afternoon at the United Center to improve to an NBA-best 9-2 on the season.",
-   "facts": [
-    "The Philadelphia 76ers defeated the Chicago Bulls, 127-121, on Sunday afternoon at the United Center to improve to an NBA-best 9-2 on the season.",
-    "The Sixers shot 41.2% from 3-point range, going 14-for-34, while also pulling down a season-high 54 rebounds, including 20 offensive boards.",
-    "Philadelphia outscored Chicago, 33-12, in second-chance points.",
-    "Jaylen Brown led all scorers with 29 points (11-22 fg, 2-6 3fg, 5-8 ft) as the Sixers’ starters combined for 109 points in the victory.",
-    "Tyrese Maxey scored 27 points (9-16 fg, 3-7 3fg, 6-6 ft), while LeBron James posted a season-high 22 points (8-16 fg, 2-5 3fg, 4-5 ft).",
-    "To hear Nick Nurse’s postgame press conference and game highlights as called by Tom McGinnis, check out the 76ers Insiders podcast: SPOTIFY LINK | APPLE PODCASTS LINK Joel Embiid recorded a double-double with 18 points (…",
-    "Jabari Walker led the bench with nine points and a game-high 11 rebounds, including five offensive rebounds, in 19 minutes.",
-    "NEXT UP: The Philadelphia 76ers return home to face the Boston Celtics at Xfinity Mobile Arena on Tuesday, Nov. 10."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-play-rockets-on-the-road",
-   "url": "https://www.nba.com/nuggets/news/nuggets-play-rockets-on-the-road",
-   "canonical_url": "https://nuggets.com/news/nuggets-play-rockets-on-the-road",
-   "title": "Nuggets play Rockets on the road",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-09T09:17:14Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets look to grab their third consecutive win on Wednesday.",
-   "facts": [
-    "INJURY REPORT Denver: Christian Braun — QUESTIONABLE (Left Calf Contusion/Illness) DeMar DeRozan — QUESTIONABLE (Low Back Spasms) Aaron Gordon — QUESTIONABLE (Lower Body Injury Management) Cameron Johnson — QUESTIONABLE …",
-    "Speaking of that game, Denver is coming off a 114-102 win over the Indiana Pacers.",
-    "Their defense was impressive on Saturday, limiting the Pacers to just an 86.0 offensive rating in the half-court.",
-    "He scored 13 points on 5-for-6 shooting from the field and 3-for-3 from distance, while adding six rebounds in his season debut.",
-    "Denver was plus-14 in Jones' minutes, a team-high.",
-    "TUNE-IN: Monday, November 9, 6:30 p.m.",
-    "MT; Altitude TV on 9News and KTVD; Altitude+; Altitude Sports Radio 92.5 FM"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-pacers-preview-rookie-johnson-already-throwing-his-weight-around",
-   "url": "https://www.nba.com/mavs/news/mavericks-pacers-preview-rookie-johnson-already-throwing-his-weight-around",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-pacers-preview-rookie-johnson-already-throwing-his-weight-around",
-   "title": "Mavericks-Pacers preview: Rookie Johnson already throwing his weight around",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-09T06:22:22Z",
-   "tags": [
-    "dallas mavericks",
-    "Morez Johnson Jr.",
-    "nba"
-   ],
-   "summary": "It was not long after the Mavericks took Morez Johnson Jr. with the No. 9 overall pick in the draft when coach Dusty May revealed some of the secret sauce that the 6-9 strongman possesses.",
-   "facts": [
-    "It was not long after the Mavericks took Morez Johnson Jr. with the No. 9 overall pick in the draft when coach Dusty May revealed some of the secret sauce that the 6-9 strongman possesses.",
-    "He ran into Johnson, who is listed at 250 pounds or 40 more than Clowney, who bounced off of Johnson and fell backward onto the floor.",
-    "He had 13 points and 17 rebounds against Utah, then followed it up with seven points and nine rebounds against the Nets.",
-    "At a time when the Mavericks still are short a center with Dereck Lively II out indefinitely, Johnson has begun to prove his worth as his health has returned.",
-    "Asked how he hopes to impact the Mavericks, Johnson talked about effort and making winning plays, then summed it up nicely by saying: “I think we definitely win the rebounding battle.” They did so by 14 against Utah and …",
-    "However, with the blowout win over Brooklyn, only two Mavericks (Flagg and Kyrie Irving) played more than 25 minutes and neither of them reached the 30-minute mark.So far, the Mavericks are 3-0 against Eastern Conference…",
-    "He has been in and out of the lineup in the early going, averaging 21.8 points in four games.",
-    "Pascal Siakam is averaging 21.4 points per game and has played all but one of the Pacers’ games.The Mavericks will be shooting for their second three-game winning streak of the young season."
-   ],
-   "quotes": [
-    "That was more of a mindset,",
-    "It was more or less: If they’re going to beat us tonight, they’re going to beat us playing basketball. They’re not going to overwhelm us on the glass, they’re not going to push us around. That’s what …",
-    "Now he’s starting to run the floor better and finding a connection with the offense.",
-    "I think we definitely win the rebounding battle."
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-klay-giannis-clutch-win-sacramento-acuff-larsson-mitchell",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-klay-giannis-clutch-win-sacramento-acuff-larsson-mitchell",
-   "canonical_url": "https://heat.com/news/coups-takeaways-klay-giannis-clutch-win-sacramento-acuff-larsson-mitchell",
-   "title": "Coup’s Takeaways: Klay Opens, Giannis Closes As HEAT Win Clutch Game In Sacramento",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-11-09T05:16:34Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. The HEAT needed a win. The HEAT got a win. It wasn’t always pretty. It certainly wasn’t perfect. But there was enough, both for one night and to build on for the nights to come.",
-   "facts": [
-    "Acuff was the one leading the show, though, effectively enough to draw blitzes and traps out of Miami to force Sacramento to play out of pressure, and while that created more than enough turnovers (12 for the Kings in th…",
-    "Miami up, 68-59 at the break, shooting 11-of-23 from deep.",
-    "Then Larsson followed up with a catch-and-shoot three out on the left win, and suddenly the lead was 16.",
-    "Some teams, with their season beginning lopsided, dealing with injuries and relying on a younger creator, may not be able to break out of a minutes-long slump after getting punched a couple of times.",
-    "Just as fast as Miami built their big lead, the Kings used an 11-2 run, capped off by an open Zach LaVine three up top, to bring it back to seven.",
-    "Miami up by 12, shooting 15-of-31 from deep with Thompson 6-of-9.",
-    "Thompson with 21, Miami up 10 going into the fourth.",
-    "A quick 5-0 burst brought that lead back down to five, Sacramento still finding answers no matter how many times they hit the mat."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-post-20261108-robinson-finding-his-groove-after-strongest-celtics-performance-yet",
-   "url": "https://www.nba.com/celtics/news/sidebar-post-20261108-robinson-finding-his-groove-after-strongest-celtics-performance-yet",
-   "canonical_url": "https://celtics.com/news/sidebar-post-20261108-robinson-finding-his-groove-after-strongest-celtics-performance-yet",
-   "title": "Robinson Finding His Groove After Strongest Celtics Performance Yet",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-09T05:10:00Z",
-   "tags": [
-    "Postgame",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "Mitchell Robinson nearly missed Sunday night’s game in Milwaukee. Instead, he turned in his best performance yet in a Celtics uniform.",
-   "facts": [
-    "Despite battling an illness that had him listed as questionable earlier in the day, the 7-foot center came off the bench and delivered a little bit of everything in Boston’s 117-97 win over the Bucks.",
-    "Robinson scored a season-high 12 points on perfect 6-of-6 shooting while adding seven rebounds, two assists, one block, and a season-high four steals.",
-    "Through his first six games, Robinson averaged 4.5 rebounds and never grabbed more than seven in a single contest.",
-    "Over his last three, he’s averaged 8.0 boards while pulling down at least seven in each game."
-   ],
-   "quotes": [
-    "I was fighting for my life,",
-    "But as the game went on, I felt a little better. I thought playing, running it out, would probably help a lot, and it did.",
-    "I was never worried about his production. I was never worried about his play,",
-    "I don’t think people realize, a guy coming from a different team, playing a different style, it just takes a little bit of time. So there was never a concern with that. The ceiling is really high for …"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/clippers-139-pelicans-123-trey-murphy-26-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/clippers-139-pelicans-123-trey-murphy-26-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/clippers-139-pelicans-123-trey-murphy-26-points-postgame-wrap",
-   "title": "Clippers 139, Pelicans 123: Trey Murphy 26 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-09T04:40:58Z",
-   "tags": [],
-   "summary": "New Orleans had ascended to the top half of the NBA’s defensive rankings after the season’s first nine games, representing a dramatic improvement from the previous campaign. Unfortunately for the Pelicans, they will likely drop a few spots following Sunday’s 10th game. Los Angeles cleared 100 points before the end of the third quarter, then quickly built a 15-point lead in the final period to hand…",
-   "facts": [
-    "Unfortunately for the Pelicans, they will likely drop a few spots following Sunday’s 10th game.",
-    "Los Angeles cleared 100 points before the end of the third quarter, then quickly built a 15-point lead in the final period to hand New Orleans a rare convincing loss, despite three Pelicans tallying 25-plus points indivi…",
-    "Trey Murphy led the visitors with 26 points, while Jeremiah Fears and Zion Williamson delivered 25 apiece, but it wasn’t nearly enough against a red-hot Clippers squad that racked up 39, 35 and 37 points in the final thr…",
-    "The Clippers only averaged 109.1 points in their previous eight games, but had no trouble reaching that number, halting their seven-game losing streak.",
-    "New Orleans ended a run of not allowing more than 126 points in regulation in any outing this season.",
-    "Among the Pelicans' six losses this season, only Sunday and an Oct. 28 defeat to Denver by 13 points have come by a margin of more than six points.",
-    "BY THE NUMBERS 11/11: New Orleans assist-to-turnover ratio in Sunday’s first half.",
-    "The latter half was a little bit better, but the Pelicans finished with just 23 assists against 17 turnovers. 31/35: Pelicans foul shooting, which is 89 percent."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/flagg-tallied-25-points-and-distributed-a-career-high-12-assists-in-130-93-rout-of-nets",
-   "url": "https://www.nba.com/mavs/news/flagg-tallied-25-points-and-distributed-a-career-high-12-assists-in-130-93-rout-of-nets",
-   "canonical_url": "https://mavs.com/mavs/news/flagg-tallied-25-points-and-distributed-a-career-high-12-assists-in-130-93-rout-of-nets",
-   "title": "Flagg's 25 points, career-high 12 assists pace Mavs' 130-93 rout of Nets",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-09T04:14:36Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "Daniel Gafford",
-    "nba",
-    "Santi Aldama"
-   ],
-   "summary": "This time Cooper Flagg didn’t wait until the second half before he started lighting up the scoreboard.",
-   "facts": [
-    "His 14 first-quarter points enabled the Dallas Mavericks to jump out to a fast start and run away from the Nets in very convincing fashion, 130-93, before a crowd of 19,184 at American Airlines Center.",
-    "It was the fifth win in their last seven games for the Mavs, who improved to 6-4 entering Monday’s home contest against the Indiana Pacers.",
-    "Flagg and his teammates made sure the Nets (2-8) had very little chance from the start.",
-    "And when he rose up and nailed a three-pointer with 0.6 seconds left in the opening quarter, that gave the Mavs a 32-26 lead.",
-    "By the time Flagg fired in a shot from downtown, he had 20 points and the Mavs owned a 47-30 lead with 9:21 left before halftime.",
-    "Kyrie Irving (21 points) and Santi Aldama helped push the Mavs' lead to 66-42 late in the second quarter.",
-    "The Mavs converted 32-of-42 shots inside the paint, proving their inside game was just as lethal as their perimeter game as they scored at least 30 points in each of the four quarters.",
-    "The only downside were the 21 turnovers, which led to 25 points for the Nets, who were led by Michael Porter Jr. (19 points) and Plano native Julius Randle (13 points)."
-   ],
-   "quotes": [
-    "I think I’m just getting to my spots,",
-    "I was just trusting the game plan and trusting getting to my spots and raising up and finishing at the rim.",
-    "He made some really, really nice plays – good decisions,",
-    "He played a very consistent game across the board. I thought he was mixing it up on the glass tonight as he has all year."
    ]
   }
  ]
