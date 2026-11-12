@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "963-air-jordan-6-carmine-2027.html",
+    cat: "KICKS",
+    title: "Air Jordan 6「Carmine」が2027年3月に復刻 —— 初めてヒールに「Nike Air」ロゴ、品番CT8529-109",
+    excerpt: "Jordan Brandは、1991年発売のオリジナルカラー「Air Jordan 6 \"Carmine\"」(品番CT8529-109)を2027年3月に復刻する。これまでの復刻で使われてきたジャンプマンロゴに代わり、初めてヒールに「Nike Air」ロゴが入る仕立て。米Sneaker News、Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "962-nba-trade-deadline-contenders-preview.html",
     cat: "NBA",
     title: "NBAトレードデッドラインの「欠けている一枚」—— ESPN記者陣が読むニックス・サンダーなど強豪10チームの課題",
