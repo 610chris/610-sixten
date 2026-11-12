@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "960-tokyo-derby-sunrockers-alvark.html",
+    cat: "JAPAN",
+    title: "B.LEAGUE PREMIER初の「東京ダービー」 —— 東京サンロッカーズ×アルバルク東京、11月18日にTOYOTA ARENA TOKYOで激突",
+    excerpt: "東京を本拠地とする2クラブ、東京サンロッカーズとアルバルク東京が11月18日(水)19時05分TIP OFF、TOYOTA ARENA TOKYOで対戦する。試合名称は「東京ダービー Presented by km GROUP」。B.LEAGUE PREMIERになって両クラブの対戦は今回が初めて。国際自動車株式会社がパートナーとして参加すると発表した。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "959-yaxel-lendeborg-25-points-rockets.html",
     cat: "NBA",
     title: "ヤクセル・レンデボーグ、ロケッツ戦で25得点10リバウンド —— ウォリアーズは108-115で敗戦",
