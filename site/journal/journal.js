@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "948-plumlee-kings.html",
+    cat: "NBA",
+    title: "メイソン・プラムリー、キングス入りへ —— 14年目のベテランセンターがロースター補強",
+    excerpt: "ベテランセンターのメイソン・プラムリー(Mason Plumlee)が、サクラメント・キングスと契約することが分かった。プラムリーの代理人が11日(現地時間)、ESPNのシャムズ・シャラニア記者に伝えた。今季で14年目のシーズンを迎える同選手だが、契約の年数や金額などの詳細は明らかになっていない。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "947-air-jordan-4-spotlight.html",
     cat: "KICKS",
     title: "Air Jordan 4「Spotlight」ファーストルック公開 —— 「Black Cat」とは異なる素材使いの女性限定モデル、品番HV0823-002",
