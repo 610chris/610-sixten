@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "961-curry-abdominal-injury-mri.html",
+    cat: "NBA",
+    title: "ステフィン・カリーが腹部を負傷、MRI検査へ —— ウォリアーズ「懸念は大きい」、8連勝ならずロケッツに敗れる",
+    excerpt: "ゴールデンステート・ウォリアーズのステフィン・カリーが現地時間11月11日のロケッツ戦で右腹部を負傷し途中退場、MRI検査を受けた。スティーブ・カー監督は「懸念は大きい」と語った。チームは108-115で敗れ、8連勝で止まった。ESPNが報じた。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "960-tokyo-derby-sunrockers-alvark.html",
     cat: "JAPAN",
     title: "B.LEAGUE PREMIER初の「東京ダービー」 —— 東京サンロッカーズ×アルバルク東京、11月18日にTOYOTA ARENA TOKYOで激突",
