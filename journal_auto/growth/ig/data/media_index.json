@@ -337,6 +337,19 @@
   "template": "news",
   "timestamp": "2026-10-07T01:23:47+0000"
  },
+ "17888297748689513": {
+  "auto": false,
+  "caption_len": 103,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 3,
+  "headline": "差別的な非難が集まっても、",
+  "permalink": "https://www.instagram.com/reel/DfmRXgAjytb/",
+  "product": "REELS",
+  "timestamp": "2026-11-11T10:31:38+0000"
+ },
  "17888753535531914": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -1450,6 +1463,29 @@
   "template": "news",
   "timestamp": "2026-10-21T12:17:18+0000"
  },
+ "17920286382545474": {
+  "article": "949",
+  "auto": true,
+  "caption_len": 348,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェームズ・ハーデン、ニックス戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoCqmQlIO-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Cavaliers vs. Knicks・2026年11月11日)",
+  "subject": [
+   "James Harden"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T03:01:20+0000"
+ },
  "17920393902244036": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2257,6 +2293,30 @@
   "product": "REELS",
   "timestamp": "2022-10-22T08:27:48+0000"
  },
+ "17942796729391309": {
+  "article": "934",
+  "auto": true,
+  "caption_len": 406,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブラウン、テイタムのダップ拒否 —— 移籍後初対戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfldylumfYm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「76ers' Brown gives Tatum frosty reception early in 1st post-trade matchup」",
+  "subject": [
+   "Jaylen Brown",
+   "Jayson Tatum"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-11T03:00:24+0000"
+ },
  "17942797904373718": {
   "auto": false,
   "caption_len": 76,
@@ -2804,6 +2864,29 @@
   "permalink": "https://www.instagram.com/reel/CkVWzpEAJW2/",
   "product": "REELS",
   "timestamp": "2022-10-30T09:59:13+0000"
+ },
+ "17958216492319877": {
+  "article": "946",
+  "auto": true,
+  "caption_len": 341,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マルカネン、右手骨折で最低1ヶ月離脱",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfniFiuFOBD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（シャムズ・シャラニア / ティム・マクマホン記者）",
+  "subject": [
+   "Lauri Markkanen"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-11T22:16:29+0000"
  },
  "17958597450259378": {
   "arms": {
@@ -6928,6 +7011,29 @@
   "template": "news",
   "timestamp": "2026-10-30T23:02:10+0000"
  },
+ "18103958306386441": {
+  "article": "940",
+  "auto": true,
+  "caption_len": 336,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "フランツ・ワグナー、キングス戦で33得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DflyFR8DnxP/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Magic vs. Kings)",
+  "subject": [
+   "Franz Wagner"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-11T05:57:56+0000"
+ },
  "18104149136274611": {
   "article": "335",
   "auto": true,
@@ -8234,6 +8340,29 @@
   "template": "score",
   "timestamp": "2026-10-27T04:58:06+0000"
  },
+ "18114922202160396": {
+  "article": "943",
+  "auto": true,
+  "caption_len": 330,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "SGA、ブレイザーズ戦で26得点もサンダー大敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfl5JKKDt12/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Trail Blazers vs. Thunder)",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-11T06:59:38+0000"
+ },
  "18115034726061426": {
   "article": "338",
   "auto": true,
@@ -8281,6 +8410,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-30T01:48:50+0000"
+ },
+ "18115635262855212": {
+  "article": "951",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイソン・テイタム、ラプターズ戦で24得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoC9B_AFmM/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Raptors vs. Celtics・2026年11月11日)",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T03:03:50+0000"
  },
  "18115731602125674": {
   "arms": {
@@ -9895,6 +10047,29 @@
   "template": "news",
   "timestamp": "2026-10-16T22:28:30+0000"
  },
+ "18130334041880566": {
+  "article": "938",
+  "auto": true,
+  "caption_len": 346,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アデトクンボ、ジャズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DflsEwojBIK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Heat vs. Jazz・2026年11月10日)",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-11T05:05:15+0000"
+ },
  "18130702628491874": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9970,6 +10145,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-01T00:04:21+0000"
+ },
+ "18131822245870688": {
+  "article": "936",
+  "auto": true,
+  "caption_len": 298,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポール・ジョージ、76ers戦で36得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DflkVHTDzq9/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Paul George"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-11T03:57:47+0000"
  },
  "18131862880829007": {
   "arms": {
@@ -10578,6 +10776,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-21T02:04:03+0000"
+ },
+ "18139611604649749": {
+  "article": "939",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "グッドウィン、クリッパーズ戦で18得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DflsUv3gbJt/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Suns vs. Clippers・2026年11月10日)",
+  "subject": [
+   "Jordan Goodwin"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-11T05:07:36+0000"
  },
  "18140335555724354": {
   "arms": {
@@ -11457,6 +11678,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-08T23:14:35+0000"
+ },
+ "18169616554434585": {
+  "article": "935",
+  "auto": true,
+  "caption_len": 372,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランソン、バックス戦で23得点 —— ニックス快勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dflem89DErX/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Knicks vs. Bucks)",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-11T03:07:36+0000"
  },
  "18169955518464571": {
   "arms": {
@@ -12933,6 +13177,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-29T04:14:43+0000"
+ },
+ "18397006111165780": {
+  "article": "937",
+  "auto": true,
+  "caption_len": 335,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、サンズ戦で13得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DflrzWQEtJc/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Suns vs. Clippers・2026年11月10日)",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-11T05:03:03+0000"
  },
  "18408731665089104": {
   "arms": {
