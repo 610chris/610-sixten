@@ -1,43 +1,45 @@
 {
- "updated_utc": "2026-11-11 23:41 UTC",
+ "updated_utc": "2026-11-12 04:16 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
-   "reporter": "Bobby Marks（ESPN）",
-   "handle": "BobbyMarks42",
-   "key": "https://www.reddit.com/r/nba/comments/1xtt5q0/marks_giannis_is_expected_to_remain_with_the/",
+   "reporter": "Marc Stein（The Stein Line）",
+   "handle": "TheSteinLine",
+   "key": "https://www.reddit.com/r/nba/comments/1xu1h3o/stein_the_kings_have_had_talks_this_week_with/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-11-11T20:46:05+00:00",
-   "text": "Giannis Antetokounmpo is expected to remain with the Miami Heat, with a contract extension reportedly on the horizon. According to Bobby Marks, the Greek superstar is expected to sign a new deal with the franchise either in January or during the upcoming summer.\n\nThe financial terms will depend on the timing. Starting January 6, six months after his trade from Milwaukee, Antetokounmpo could sign a four-year extension worth approximately $276 million. Alternatively, he could decline his 2027-28 player option and re-sign with Miami as a free agent next summer on a five-year deal worth around $357 million.\n\nThe latter option would give the two-time MVP access to the largest possible contract.\n\nSource: https://sportando.basketball/en/giannis-antetokounmpo-expected-to-sign-heat-extension-worth-up-to-357-million/\n\nMarks said this on the Hoop Collective podcast.",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xtt5q0/marks_giannis_is_expected_to_remain_with_the/",
+   "posted_utc": "2026-11-12T02:52:39+00:00",
+   "text": "More from Stein here: https://marcstein.substack.com/p/its-early-sure-but-it-is-getting\n\nThe Kings have had talks this week with free agent guard Gabe Vincent for their 15th roster spot it seems.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xu1h3o/stein_the_kings_have_had_talks_this_week_with/",
    "links": [
-    "https://sportando.basketball/en/giannis-antetokounmpo-expected-to-sign-heat-extension-worth-up-to-357-million/"
+    "https://marcstein.substack.com/p/its-early-sure-but-it-is-getting"
    ]
   },
   {
    "reporter": "Shams Charania（ESPN）",
    "handle": "ShamsCharania",
-   "key": "https://www.reddit.com/r/nba/comments/1xtp9bm/charania_utah_jazz_star_lauri_markkanen_has/",
+   "key": "https://www.reddit.com/r/nba/comments/1xtz4wm/charania_free_agent_center_mason_plumlee_is/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-11-11T18:18:09+00:00",
-   "text": "Utah Jazz star Lauri Markkanen has sustained a non-displaced fracture in his right hand and will be sidelined for at least one month, sources tell me and @BannedMacMahon.\n\nhttps://www.espn.com/contributor/shams-charania/aa30ba30b3034",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xtp9bm/charania_utah_jazz_star_lauri_markkanen_has/",
+   "posted_utc": "2026-11-12T00:59:47+00:00",
+   "text": "Shams Charania:\n\nFree agent center Mason Plumlee is signing a deal with the Sacramento Kings, Mark Bartelstein and Andy Shiffman of PrioritySports tell ESPN. Plumlee enters his 14th NBA season.\n\nhttps://www.espn.com/contributor/shams-charania/6f02e53eb19ba",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xtz4wm/charania_free_agent_center_mason_plumlee_is/",
    "links": [
-    "https://www.espn.com/contributor/shams-charania/aa30ba30b3034"
+    "https://www.espn.com/contributor/shams-charania/6f02e53eb19ba"
    ]
   },
   {
-   "reporter": "Brian Windhorst（ESPN）",
-   "handle": "WindhorstESPN",
-   "key": "https://www.reddit.com/r/nba/comments/1xtk66s/windhorst_the_bucks_are_facing_a_catastrophe_in/",
+   "reporter": "Jake Fischer（The Stein Line）",
+   "handle": "JakeLFischer",
+   "key": "https://www.reddit.com/r/nba/comments/1xty1zk/fischer_rob_dillingham_is_signing_into_the_nba_g/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-11-11T15:09:54+00:00",
-   "text": "The Bucks are facing a “catastrophe” in the Gary Trent Jr. investigation: “Everybody in the league expects a guilty finding … If they are found guilty, there are going to be draft picks stripped and people suspended indefinitely.”",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xtk66s/windhorst_the_bucks_are_facing_a_catastrophe_in/",
-   "links": []
+   "posted_utc": "2026-11-12T00:09:46+00:00",
+   "text": "source\n\n[Fischer] Rob Dillingham is signing into the NBA G League, sources say, where the former lottery pick is expected to join the Westchester Knicks, depending on the waivers process.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xty1zk/fischer_rob_dillingham_is_signing_into_the_nba_g/",
+   "links": [
+    "https://imgur.com/a/8RmK3u2"
+   ]
   }
  ]
 }
