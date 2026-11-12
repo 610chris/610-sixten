@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "964-caleb-wilson-hand-surgery.html",
+    cat: "NBA",
+    title: "ブルズのケイレブ・ウィルソン、右手骨折で手術へ —— 4〜6週間の離脱、開幕1勝9敗を支えたルーキー",
+    excerpt: "シカゴ・ブルズのルーキー、ケイレブ・ウィルソンが右手骨折の手術を受け、4〜6週間の離脱が見込まれることが分かった。11日のスパーズ戦で負傷。開幕1勝9敗のブルズを平均18.9得点で支えていた。ESPNが報じた。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "963-air-jordan-6-carmine-2027.html",
     cat: "KICKS",
     title: "Air Jordan 6「Carmine」が2027年3月に復刻 —— 初めてヒールに「Nike Air」ロゴ、品番CT8529-109",
