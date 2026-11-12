@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:56:27+09:00",
+  "updated": "2026-11-12T11:57:07+09:00",
   "items": [
     {
       "id": "134",
@@ -29461,6 +29461,147 @@
       "ig_media_id": null,
       "error": null,
       "caption": "メイソン・プラムリー、キングスと契約\n\n・14年目のベテランセンター\n・サクラメントと契約へ\n・契約の詳細は非公表\n\n💬 キングスのセンター陣、これで層が厚くなる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Veteran center Mason Plumlee signing with Kings」\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "949",
+      "slug": "949-james-harden-32-points-knicks",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "ジェームズ・ハーデン、ニックス戦で32得点",
+      "excerpt": "クリーブランド・キャバリアーズのジェームズ・ハーデンは現地時間11月11日、敵地ニューヨークでのニックス戦に33分出場し、フィールドゴール14本中9本・3ポイント7本中5本・フリースロー11本中9本を沈めて32得点を記録した。両チーム通じてこの日の最多得点者となり、キャバリアーズは115-107でニックスに勝利した。",
+      "points": [
+        "FG9/14・3P5/7・FT9/9の高確率",
+        "キャバリアーズが115-107で勝利",
+        "リバウンド2・アシスト4・スティール2も記録"
+      ],
+      "source": "ESPN ボックススコア(Cavaliers vs. Knicks・2026年11月11日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/949-james-harden-32-points-knicks.html",
+      "hero_path": "",
+      "subject": [
+        "James Harden"
+      ],
+      "question": "ハーデンとブランソン、今季のニックス戦はどっちが上？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMES HARDEN",
+        "opponent": "vs. KNICKS",
+        "points": 32,
+        "stats": [
+          "4 AST",
+          "2 REB",
+          "2 STL",
+          "9/14 FG",
+          "5/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/949-1.jpg",
+        "https://sixten.jp/assets/ig/949-2.jpg",
+        "https://sixten.jp/assets/ig/949-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T11:56:28+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェームズ・ハーデン、ニックス戦で32得点\n\n・FG9/14・3P5/7・FT9/9の高確率\n・キャバリアーズが115-107で勝利\n・リバウンド2・アシスト4・スティール2も記録\n\n💬 ハーデンとブランソン、今季のニックス戦はどっちが上？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Cavaliers vs. Knicks・2026年11月11日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "950",
+      "slug": "950-pascal-siakam-28-points-wizards",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "パスカル・シアカム、ウィザーズ戦で28得点",
+      "excerpt": "インディアナ・ペイサーズのパスカル・シアカムは現地時間11月11日、本拠地でのウィザーズ戦に32分出場し、フィールドゴール17本中7本・フリースロー12本を全て沈めて28得点を記録した。両チーム通じてこの日の最多得点者となり、ペイサーズは114-101でウィザーズに勝利した。",
+      "points": [
+        "FT12/12を完璧に決める",
+        "ペイサーズが114-101で勝利",
+        "リバウンド8・アシスト5も記録"
+      ],
+      "source": "ESPN ボックススコア(Pacers vs. Wizards・2026年11月11日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/950-pascal-siakam-28-points-wizards.html",
+      "hero_path": "",
+      "subject": [
+        "Pascal Siakam"
+      ],
+      "question": "シアカム、今季はオールスター級？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PASCAL SIAKAM",
+        "opponent": "vs. WIZARDS",
+        "points": 28,
+        "stats": [
+          "8 REB",
+          "5 AST",
+          "7/17 FG",
+          "2/7 3PT",
+          "12/12 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/950-1.jpg",
+        "https://sixten.jp/assets/ig/950-2.jpg",
+        "https://sixten.jp/assets/ig/950-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T11:57:00+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "パスカル・シアカム、ウィザーズ戦で28得点\n\n・FT12/12を完璧に決める\n・ペイサーズが114-101で勝利\n・リバウンド8・アシスト5も記録\n\n💬 シアカム、今季はオールスター級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Pacers vs. Wizards・2026年11月11日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "951",
+      "slug": "951-jayson-tatum-24-points-raptors",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "ジェイソン・テイタム、ラプターズ戦で24得点",
+      "excerpt": "ボストン・セルティックスのジェイソン・テイタムは現地時間11月11日、敵地トロントでのラプターズ戦に38分出場し、アシスト8・リバウンド7とともに24得点を記録した。両チーム通じてこの日の最多得点者となり、セルティックスは98-93でラプターズに勝利した。",
+      "points": [
+        "シュート不振もFT10/12・アシスト8で貢献",
+        "セルティックスが98-93で勝利",
+        "リバウンド7・ブロック2も記録"
+      ],
+      "source": "ESPN ボックススコア(Raptors vs. Celtics・2026年11月11日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/951-jayson-tatum-24-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "シュート不振でも勝てるセルティックス、強い？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. RAPTORS",
+        "points": 24,
+        "stats": [
+          "8 AST",
+          "7 REB",
+          "2 BLK",
+          "6/21 FG",
+          "2/11 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/951-1.jpg",
+        "https://sixten.jp/assets/ig/951-2.jpg",
+        "https://sixten.jp/assets/ig/951-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T11:57:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイソン・テイタム、ラプターズ戦で24得点\n\n・シュート不振もFT10/12・アシスト8で貢献\n・セルティックスが98-93で勝利\n・リバウンド7・ブロック2も記録\n\n💬 シュート不振でも勝てるセルティックス、強い？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Raptors vs. Celtics・2026年11月11日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
