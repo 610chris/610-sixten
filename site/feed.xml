@@ -9,6 +9,15 @@
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
     <item>
+      <title>フランツ・ワグナー、ジャズ戦で38得点 —— マジックが123-108で勝利</title>
+      <link>https://sixten.jp/journal/957-franz-wagner-38-points-magic.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/957-franz-wagner-38-points-magic.html</guid>
+      <pubDate>Thu, 12 Nov 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>オーランド・マジックのフランツ・ワグナーは現地時間11月11日、敵地ソルトレイクシティでのジャズ戦に39分出場し、フィールドゴール23本中13本・3ポイント8本中3本・フリースロー10本中9本を沈めて38得点を記録した。両チーム通じてこの日の最多得点者となり、マジックは123-108でジャズに勝利した。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>ザイオン・ウィリアムソン、ネッツ戦で29得点 —— ペリカンズは111-145で大敗</title>
       <link>https://sixten.jp/journal/956-zion-williamson-29-points-nets.html</link>
       <guid isPermaLink="true">https://sixten.jp/journal/956-zion-williamson-29-points-nets.html</guid>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ゴールデンステート・ウォリアーズのブランディン・ポジェムスキー(Brandin Podziemski)は現地時間11月9日、本拠地でのニューオーリンズ・ペリカンズ戦に26分出場し、フィールドゴール19本中10本・3ポイント11本中5本を沈めて25得点を記録した。チームメートのステフィン・カリーと並び両チーム通じてこの日の最多得点者となり、ウォリアーズは138-87でペリカンズに大勝した。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>ステフィン・カリー、ペリカンズ戦で25得点 —— ウォリアーズが138-87で大勝</title>
-      <link>https://sixten.jp/journal/926-stephen-curry-25-points-pelicans.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/926-stephen-curry-25-points-pelicans.html</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>ゴールデンステート・ウォリアーズのステフィン・カリー(Stephen Curry)は現地時間11月9日、本拠地でのニューオーリンズ・ペリカンズ戦に21分出場し、フィールドゴール10本中6本・3ポイント7本中4本・フリースロー9本中9本を沈めて25得点を記録した。ブランディン・ポジェムスキーと並び両チーム通じてこの日の最多得点者となり、ウォリアーズは138-87でペリカンズに大勝した。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
