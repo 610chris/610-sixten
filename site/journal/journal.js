@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "952-adidas-harden-vol-11-royalty.html",
+    cat: "KICKS",
+    title: "ジェームズ・ハーデン、adidas Harden Vol. 11新色「Royalty」を実戦デビュー —— ニックス戦のMSGで初披露",
+    excerpt: "adidasのシグネチャーシューズ最新作「adidas Harden Vol. 11」の新色「Royalty」を、ジェームズ・ハーデン(クリーブランド・キャバリアーズ)が11月11日(現地時間)、敵地マディソン・スクエア・ガーデンでのニックス戦で実戦投入し、初めて披露した。発売日・価格は執筆時点で未発表。Sneaker Newsが伝えた。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "951-jayson-tatum-24-points-raptors.html",
     cat: "NBA",
     title: "ジェイソン・テイタム、ラプターズ戦で24得点 —— セルティックスが98-93で勝利",
