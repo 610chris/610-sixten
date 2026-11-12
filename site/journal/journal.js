@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "962-nba-trade-deadline-contenders-preview.html",
+    cat: "NBA",
+    title: "NBAトレードデッドラインの「欠けている一枚」—— ESPN記者陣が読むニックス・サンダーなど強豪10チームの課題",
+    excerpt: "ESPNのNBA担当記者陣は11月11日、2027年2月11日のトレードデッドラインを見据えた特集でBPI上位10チームの補強ポイントを分析。サンダー・ウルブズは主力離脱、前年王者ニックスは資産の乏しさ、レイカーズは守備リバウンド不足が課題と指摘した。",
+    date: "2026.11.12",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "961-curry-abdominal-injury-mri.html",
     cat: "NBA",
     title: "ステフィン・カリーが腹部を負傷、MRI検査へ —— ウォリアーズ「懸念は大きい」、8連勝ならずロケッツに敗れる",
