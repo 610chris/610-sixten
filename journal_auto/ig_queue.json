@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:56:29+09:00",
+  "updated": "2026-11-12T15:03:42+09:00",
   "items": [
     {
       "id": "134",
@@ -29859,6 +29859,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "フランツ・ワグナー、ジャズ戦で38得点\n\n・FG23本中13本・3P8本中3本・FT9本中9本で38得点\n・スティール1も記録、39分出場でプラスマイナス+10\n・マジックは123-108でジャズに勝利\n\n💬 ワグナーのこの試合、今季ベストだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "958",
+      "slug": "958-shai-gilgeous-alexander-31-points-blazers",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "ギルジャス＝アレクサンダー、ブレイザーズ戦で31得点",
+      "excerpt": "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダーは現地時間11月11日、敵地ポートランドでのトレイルブレイザーズ戦に36分出場し、フィールドゴール20本中9本・フリースロー14本中13本を沈めて31得点を記録した。両チーム通じてこの日の最多得点者となったが、サンダーは108-118でトレイルブレイザーズに敗れた。",
+      "points": [
+        "FG20本中9本・FT14本中13本で31得点",
+        "リバウンド4・アシスト2・スティール1",
+        "サンダーは108-118で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/958-shai-gilgeous-alexander-31-points-blazers.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "サンダー、ここからプレイオフ争いに戻れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. TRAIL BLAZERS",
+        "points": 31,
+        "stats": [
+          "4 REB",
+          "2 AST",
+          "9/20 FG",
+          "13/14 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/958-1.jpg",
+        "https://sixten.jp/assets/ig/958-2.jpg",
+        "https://sixten.jp/assets/ig/958-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T15:02:38+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ギルジャス＝アレクサンダー、ブレイザーズ戦で31得点\n\n・FG20本中9本・FT14本中13本で31得点\n・リバウンド4・アシスト2・スティール1\n・サンダーは108-118で敗戦\n\n💬 サンダー、ここからプレイオフ争いに戻れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "959",
+      "slug": "959-yaxel-lendeborg-25-points-rockets",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "ヤクセル・レンデボーグ、ロケッツ戦で25得点10リバウンド",
+      "excerpt": "ゴールデンステート・ウォリアーズのヤクセル・レンデボーグは現地時間11月11日、敵地ヒューストンでのロケッツ戦に36分出場し、フィールドゴール19本中9本を沈めて25得点・リバウンド10を記録した。両チーム通じてこの日の最多得点者となったが、ウォリアーズは108-115でロケッツに敗れた。",
+      "points": [
+        "FG19本中9本・3P7本中2本で25得点",
+        "リバウンド10・スティール2も記録",
+        "ウォリアーズは108-115で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/959-yaxel-lendeborg-25-points-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Yaxel Lendeborg"
+      ],
+      "question": "レンデボーグ、このままスタメン定着かな？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "YAXEL LENDEBORG",
+        "opponent": "vs. ROCKETS",
+        "points": 25,
+        "stats": [
+          "10 REB",
+          "2 STL",
+          "9/19 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/959-1.jpg",
+        "https://sixten.jp/assets/ig/959-2.jpg",
+        "https://sixten.jp/assets/ig/959-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T15:02:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤクセル・レンデボーグ、ロケッツ戦で25得点10リバウンド\n\n・FG19本中9本・3P7本中2本で25得点\n・リバウンド10・スティール2も記録\n・ウォリアーズは108-115で敗戦\n\n💬 レンデボーグ、このままスタメン定着かな？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
