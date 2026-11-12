@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:14:06+09:00",
+  "updated": "2026-11-12T12:57:55+09:00",
   "items": [
     {
       "id": "134",
@@ -29637,6 +29637,193 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ハーデン、Harden Vol. 11新色「Royalty」を実戦デビュー\n\n・adidas Harden Vol. 11の新色「Royalty」\n・11月11日、敵地MSGでのニックス戦で初披露\n・発売日・価格は執筆時点で未発表\n\n💬 Harden Vol. 11の「Royalty」、気になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "953",
+      "slug": "953-victor-wembanyama-32-points-bulls",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "ウェンバンヤマ、ブルズ戦で32得点",
+      "excerpt": "サンアントニオ・スパーズのビクター・ウェンバンヤマは現地時間11月11日、敵地シカゴでのブルズ戦に32分出場し、フィールドゴール18本中13本・3ポイント6本中2本を沈めて32得点、リバウンド9・ブロック5を記録した。両チーム通じてこの日の最多得点者となり、スパーズは124-119でブルズに勝利した。",
+      "points": [
+        "32得点・9リバウンド・5ブロック",
+        "FG18本中13本・72.2%の高確率",
+        "スパーズが124-119で逆転勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/953-victor-wembanyama-32-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "ウェンバンヤマの32得点5ブロック、今季ベストパフォーマンス入り？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. BULLS",
+        "points": 32,
+        "stats": [
+          "9 REB",
+          "5 BLK",
+          "2 STL",
+          "1 AST",
+          "13/18 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/953-1.jpg",
+        "https://sixten.jp/assets/ig/953-2.jpg",
+        "https://sixten.jp/assets/ig/953-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T12:57:16+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウェンバンヤマ、ブルズ戦で32得点\n\n・32得点・9リバウンド・5ブロック\n・FG18本中13本・72.2%の高確率\n・スパーズが124-119で逆転勝利\n\n💬 ウェンバンヤマの32得点5ブロック、今季ベストパフォーマンス入り？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "954",
+      "slug": "954-luka-doncic-32-points-bucks",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "ドンチッチ、バックス戦で32得点",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチは現地時間11月11日、敵地ミルウォーキーでのバックス戦に32分出場し、フィールドゴール25本中10本・3ポイント12本中5本・フリースロー10本中7本を沈めて32得点を記録した。両チーム通じてこの日の最多得点者となり、レイカーズは123-112でバックスに勝利した。",
+      "points": [
+        "32得点・5リバウンド・5アシスト",
+        "3PT12本中5本・スティール3",
+        "レイカーズが123-112で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/954-luka-doncic-32-points-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチ、今季MVPレースの最有力候補はやっぱり彼？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. BUCKS",
+        "points": 32,
+        "stats": [
+          "5 REB",
+          "5 AST",
+          "3 STL",
+          "10/25 FG",
+          "5/12 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/954-1.jpg",
+        "https://sixten.jp/assets/ig/954-2.jpg",
+        "https://sixten.jp/assets/ig/954-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T12:57:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドンチッチ、バックス戦で32得点\n\n・32得点・5リバウンド・5アシスト\n・3PT12本中5本・スティール3\n・レイカーズが123-112で勝利\n\n💬 ドンチッチ、今季MVPレースの最有力候補はやっぱり彼？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "955",
+      "slug": "955-jamal-murray-30-points-grizzlies",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "マレー、グリズリーズ戦で30得点",
+      "excerpt": "デンバー・ナゲッツのジャマール・マレーは現地時間11月11日、敵地メンフィスでのグリズリーズ戦に32分出場し、フィールドゴール19本中12本・アシスト8を記録して30得点を挙げた。両チーム通じてこの日の最多得点者となり、ナゲッツは123-118でグリズリーズに勝利した。",
+      "points": [
+        "30得点・アシスト8・ブロック2",
+        "FG19本中12本の高確率",
+        "ナゲッツが123-118で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/955-jamal-murray-30-points-grizzlies.html",
+      "hero_path": "",
+      "subject": [
+        "Jamal Murray"
+      ],
+      "question": "ジョキッチ&マレーの黄金コンビ、今季も止まらない？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMAL MURRAY",
+        "opponent": "vs. GRIZZLIES",
+        "points": 30,
+        "stats": [
+          "8 AST",
+          "4 REB",
+          "2 BLK",
+          "12/19 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/955-1.jpg",
+        "https://sixten.jp/assets/ig/955-2.jpg",
+        "https://sixten.jp/assets/ig/955-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T12:57:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マレー、グリズリーズ戦で30得点\n\n・30得点・アシスト8・ブロック2\n・FG19本中12本の高確率\n・ナゲッツが123-118で勝利\n\n💬 ジョキッチ&マレーの黄金コンビ、今季も止まらない？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "956",
+      "slug": "956-zion-williamson-29-points-nets",
+      "category": "NBA",
+      "date": "2026-11-12",
+      "headline": "ウィリアムソン、ネッツ戦で29得点",
+      "excerpt": "ニューオーリンズ・ペリカンズのザイオン・ウィリアムソンは現地時間11月11日、本拠地でのネッツ戦に30分出場し、フィールドゴール14本中8本・フリースロー14本中12本を沈めて29得点を記録した。両チーム通じてこの日の最多得点者となったが、ペリカンズは111-145でネッツに大敗した。",
+      "points": [
+        "29得点・FT14本中12本",
+        "ペリカンズは111-145で大敗",
+        "チーム最多得点者も守備が崩壊"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/956-zion-williamson-29-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Zion Williamson"
+      ],
+      "question": "",
+      "no_question": true,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ZION WILLIAMSON",
+        "opponent": "vs. NETS",
+        "points": 29,
+        "stats": [
+          "4 REB",
+          "2 AST",
+          "8/14 FG",
+          "12/14 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/956-1.jpg",
+        "https://sixten.jp/assets/ig/956-2.jpg",
+        "https://sixten.jp/assets/ig/956-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-12T12:57:26+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ウィリアムソン、ネッツ戦で29得点\n\n・29得点・FT14本中12本\n・ペリカンズは111-145で大敗\n・チーム最多得点者も守備が崩壊\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
