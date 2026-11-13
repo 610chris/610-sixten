@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "977-doug-mcdermott-retires.html",
+    cat: "NBA",
+    title: "ダグ・マクダーモット、12シーズンのNBA生活に幕 —— 7球団を渡った3P職人、通算41%の外角精度",
+    excerpt: "ダグ・マクダーモットが現役引退を発表した。2014年ドラフト全体11位から12シーズンで7球団を渡り、通算726試合で3P成功率41%を残した外角のスペシャリストだった。エージェンシーのPriority Sportsが発表し、ESPNが伝えている。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "976-donovan-mitchell-cavaliers-belief.html",
     cat: "NBA",
     title: "ドノバン・ミッチェル、4年2億7300万ドルに託したもの —— 6勝6敗のキャバリアーズと「まだ一歩」の自覚",
