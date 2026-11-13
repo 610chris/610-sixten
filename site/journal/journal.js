@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "972-nagoya-dolphins-jazz-dream-nagashima.html",
+    cat: "JAPAN",
+    title: "名古屋ダイヤモンドドルフィンズ、三井アウトレットパーク ジャズドリーム長島とオフィシャルパートナー契約 —— 2027年3月31日にIGアリーナで冠試合",
+    excerpt: "B.LEAGUE PREMIER所属の名古屋ダイヤモンドドルフィンズは、三井不動産商業マネジメントが運営する三井アウトレットパーク ジャズドリーム長島と2026-27シーズンのオフィシャルパートナー契約を締結した。2027年3月31日にIGアリーナで開催されるアルティーリ千葉戦が同施設の冠試合となる。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-972-hero.jpg?v=5012fc105a"
+  },
+  {
     href: "971-devin-booker-30-points-hornets.html",
     cat: "NBA",
     title: "デビン・ブッカー、ホーネッツ戦で30得点 —— サンズが101-96で勝利",
