@@ -1822,6 +1822,27 @@
   "product": "REELS",
   "timestamp": "2022-10-23T02:16:38+0000"
  },
+ "17928971907438948": {
+  "article": "962",
+  "auto": true,
+  "caption_len": 402,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "トレードデッドラインまで3カ月 —— ESPNが読む強豪10チームの課題",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfpH05Ojk6n/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「NBA trade deadline: Big questions for Knicks, Thunder and other top teams」",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-12T13:05:38+0000"
+ },
  "17929514577180061": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -2356,6 +2377,29 @@
   "product": "REELS",
   "timestamp": "2022-10-25T07:29:26+0000"
  },
+ "17943628743391480": {
+  "article": "966",
+  "auto": true,
+  "caption_len": 278,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ロケッツのスマート、3試合出場停止",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfqhFkYE3eN/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Marcus Smart"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-13T02:05:36+0000"
+ },
  "17944210653091814": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -2839,6 +2883,27 @@
   "template": "news",
   "timestamp": "2026-11-02T01:15:04+0000"
  },
+ "17956674759035255": {
+  "article": "967",
+  "auto": true,
+  "caption_len": 329,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "新宿givers、ティップネス東新宿とスポンサー契約",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfqncyRjK0q/",
+  "product": "REELS",
+  "route": "source",
+  "source": "株式会社givers（PR TIMES・2026年11月13日）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-13T03:01:09+0000"
+ },
  "17956811557667461": {
   "auto": false,
   "caption_len": 85,
@@ -3314,6 +3379,52 @@
   ],
   "template": "score",
   "timestamp": "2026-11-07T04:11:03+0000"
+ },
+ "17969680323195936": {
+  "article": "964",
+  "auto": true,
+  "caption_len": 307,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブルズのケイレブ・ウィルソン、右手骨折で手術へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfqFDl5jdqp/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Caleb Wilson"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-12T22:00:32+0000"
+ },
+ "17972180916194270": {
+  "article": "955",
+  "auto": true,
+  "caption_len": 293,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マレー、グリズリーズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoKZqHCQnl/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jamal Murray"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T04:08:44+0000"
  },
  "17972459727153879": {
   "arms": {
@@ -5021,6 +5132,27 @@
   "template": "news",
   "timestamp": "2026-10-19T16:03:39+0000"
  },
+ "18047326973831129": {
+  "article": "965",
+  "auto": true,
+  "caption_len": 308,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "B.LEAGUE、スポーツビジネス大賞を受賞",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfqgzmmHEM5/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ファンベースカンパニー・野村総合研究所（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-13T02:03:08+0000"
+ },
  "18047779739829846": {
   "article": "921",
   "auto": true,
@@ -6305,6 +6437,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-30T03:02:04+0000"
+ },
+ "18094006049682490": {
+  "article": "959",
+  "auto": true,
+  "caption_len": 326,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤクセル・レンデボーグ、ロケッツ戦で25得点10リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoYa5tAL9g/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Yaxel Lendeborg"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T06:11:24+0000"
  },
  "18094481249247231": {
   "arms": {
@@ -10097,6 +10252,29 @@
   "template": "news",
   "timestamp": "2026-10-20T12:03:11+0000"
  },
+ "18131393623856005": {
+  "article": "954",
+  "auto": true,
+  "caption_len": 299,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチ、バックス戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoKDj2EwbC/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T04:06:09+0000"
+ },
  "18131596004503270": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -10672,6 +10850,29 @@
   "template": "news",
   "timestamp": "2026-10-24T17:05:42+0000"
  },
+ "18137720227660933": {
+  "article": "968",
+  "auto": true,
+  "caption_len": 313,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "RJ・バレット、76ers戦で31得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfqntQRjRYS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア（2026年11月12日）",
+  "subject": [
+   "RJ Barrett"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-13T03:03:28+0000"
+ },
  "18138795754651008": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -10865,6 +11066,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-24T02:14:19+0000"
+ },
+ "18141626194712501": {
+  "article": "953",
+  "auto": true,
+  "caption_len": 333,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、ブルズ戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoJyTrFL8J/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T04:03:33+0000"
  },
  "18142402606607890": {
   "article": "285",
@@ -11783,6 +12007,19 @@
   "template": "news",
   "timestamp": "2026-10-15T12:09:17+0000"
  },
+ "18177618973449198": {
+  "auto": false,
+  "caption_len": 112,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "父が見せてくれたNBAの動画で決まった。",
+  "permalink": "https://www.instagram.com/reel/Dfo4EConELL/",
+  "product": "REELS",
+  "timestamp": "2026-11-12T10:48:16+0000"
+ },
  "18179838670450977": {
   "article": "929",
   "auto": true,
@@ -12239,6 +12476,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-27T04:00:09+0000"
+ },
+ "18211620328371478": {
+  "article": "956",
+  "auto": true,
+  "caption_len": 257,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ウィリアムソン、ネッツ戦で29得点",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfoKprXktoK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Zion Williamson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T04:11:05+0000"
  },
  "18216903118356239": {
   "article": "318",
@@ -13816,6 +14076,29 @@
   "template": "score",
   "timestamp": "2026-11-08T04:07:22+0000"
  },
+ "18646757968000872": {
+  "article": "958",
+  "auto": true,
+  "caption_len": 315,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ギルジャス＝アレクサンダー、ブレイザーズ戦で31得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoYLZBGLkx/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-12T06:09:07+0000"
+ },
  "18649964548047729": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -13869,6 +14152,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-31T00:02:41+0000"
+ },
+ "18654028246022157": {
+  "article": "957",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "フランツ・ワグナー、ジャズ戦で38得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfoQQcZDcjA/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Franz Wagner"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-12T05:00:05+0000"
  },
  "18656780827031142": {
   "arms": {
