@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "975-kobe-9-em-low-protro-philippines.html",
+    cat: "KICKS",
+    title: "KOBE 9 EM LOW PROTRO「Laser Crimson & Obsidian」—— フィリピンのバスケ文化を刻んだプロトロ版が登場",
+    excerpt: "2014年に限定発売されたKOBE 9 LOWがプロトロ仕様でカムバック。フィリピン伝統の手織り「バニッグ」をモチーフにしたプリントや、乗合バス「ジプニー」をイメージしたクロム調アクセントなど、現地のバスケットボール文化へのオマージュを随所に取り入れた新色「Laser Crimson & Obsidian」。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "974-air-jordan-12-atmos-jade.html",
+    cat: "KICKS",
+    title: "AIR JORDAN 12「atmos JADE」が11月21日発売 —— atmosとTOKYO 23だけの世界限定、誕生30周年に\"JADE\"カラー復活",
+    excerpt: "atmos（アトモス）とTOKYO 23は、誕生30周年を迎えたAir Jordan 12をベースにした限定モデル「AIR JORDAN 12 RETRO \"atmos JADE\"」を2026年11月21日に発売する。世界で両店舗だけの限定販売で、価格は31,900円（税込）。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "973-stephen-curry-oblique-injury.html",
+    cat: "NBA",
+    title: "ステフィン・カリー、腹斜筋損傷で最低2週間離脱 —— ウォリアーズは最大1ヶ月の欠場も想定",
+    excerpt: "ゴールデンステート・ウォリアーズのステフィン・カリー(Stephen Curry)は現地時間11日のヒューストン・ロケッツ戦で腹斜筋を損傷し、最低2週間の離脱となることが分かった。ESPNのシャムズ・チャラニア記者が情報源の話として伝え、チーム内では復帰までおよそ1ヶ月近くを要する可能性も想定されているという。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-973-hero.jpg?v=7b41a57397"
+  },
+  {
     href: "972-nagoya-dolphins-jazz-dream-nagashima.html",
     cat: "JAPAN",
     title: "名古屋ダイヤモンドドルフィンズ、三井アウトレットパーク ジャズドリーム長島とオフィシャルパートナー契約 —— 2027年3月31日にIGアリーナで冠試合",
