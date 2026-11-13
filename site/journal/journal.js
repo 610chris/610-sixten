@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "976-donovan-mitchell-cavaliers-belief.html",
+    cat: "NBA",
+    title: "ドノバン・ミッチェル、4年2億7300万ドルに託したもの —— 6勝6敗のキャバリアーズと「まだ一歩」の自覚",
+    excerpt: "クリーブランド・キャバリアーズのドノバン・ミッチェルは今夏、4年2億7300万ドルの延長契約にサインした。来夏まで待てば8000万ドルを上積みできる状況での決断だった。開幕6勝6敗と苦しむチームへの思いをESPNの特集記事で語っている。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "975-kobe-9-em-low-protro-philippines.html",
     cat: "KICKS",
     title: "KOBE 9 EM LOW PROTRO「Laser Crimson & Obsidian」—— フィリピンのバスケ文化を刻んだプロトロ版が登場",
