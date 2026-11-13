@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T12:37:41+09:00",
+  "updated": "2026-11-13T13:53:36+09:00",
   "items": [
     {
       "id": "134",
@@ -30361,6 +30361,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ボーンズ・ハイランド、マーベリックス戦で24得点\n\n・FG7/10・3P5/6の高確率でチーム最多24得点\n・ベンチから23分の出場\n・ティンバーウルブズが133-94で大勝\n\n💬 ベンチから24得点、ハイランドの活躍どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Timberwolves vs. Mavericks・2026年11月12日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "971",
+      "slug": "971-devin-booker-30-points-hornets",
+      "category": "NBA",
+      "date": "2026-11-13",
+      "headline": "ブッカー、ホーネッツ戦で30得点",
+      "excerpt": "フェニックス・サンズのデビン・ブッカー(Devin Booker)は現地時間11月12日、本拠地でのシャーロット・ホーネッツ戦に35分出場し、フィールドゴール20本中12本・3ポイント8本中4本を沈めて30得点を記録した。アシスト7・スティール3も記録し、両チーム通じてこの日の最多得点者となり、サンズは101-96でホーネッツを下した。",
+      "points": [
+        "FG12/20・3P4/8の高確率で30得点",
+        "アシスト7・スティール3も記録",
+        "サンズが101-96の接戦を制す"
+      ],
+      "source": "ESPN ボックススコア(Suns vs. Hornets・2026年11月12日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/971-devin-booker-30-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Devin Booker"
+      ],
+      "question": "ブッカーのこの日のプレー、何点つけたい？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DEVIN BOOKER",
+        "opponent": "vs. HORNETS",
+        "points": 30,
+        "stats": [
+          "7 AST",
+          "3 STL",
+          "1 REB",
+          "12/20 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/971-1.jpg",
+        "https://sixten.jp/assets/ig/971-2.jpg",
+        "https://sixten.jp/assets/ig/971-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-13T13:52:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブッカー、ホーネッツ戦で30得点\n\n・FG12/20・3P4/8の高確率で30得点\n・アシスト7・スティール3も記録\n・サンズが101-96の接戦を制す\n\n💬 ブッカーのこの日のプレー、何点つけたい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Suns vs. Hornets・2026年11月12日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
