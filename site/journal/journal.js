@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "966-rockets-smart-suspended.html",
+    cat: "NBA",
+    title: "ロケッツのマーカス・スマート、3試合出場停止 —— ウォリアーズ戦でバセイに右フックが接触",
+    excerpt: "NBAはロケッツのマーカス・スマートに、ウォリアーズのチャールズ・バセイへパンチを放ったとして無給3試合の出場停止処分を科した。ESPNが報じた。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "965-bleague-sports-business-award.html",
+    cat: "JAPAN",
+    title: "B.LEAGUE、「第2回スポーツビジネスアワード」で大賞受賞 —— 評価されたのは「B.革新」の経営改革",
+    excerpt: "B.LEAGUEが11月12日開催の「Sports Business Summit 2026」内「第2回スポーツビジネスアワード」でスポーツビジネス大賞を受賞。2026-27シーズンから始動したリーグ構造改革「B.革新」が評価された。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-965-hero.jpg?v=06158f2ae4"
+  },
+  {
     href: "964-caleb-wilson-hand-surgery.html",
     cat: "NBA",
     title: "ブルズのケイレブ・ウィルソン、右手骨折で手術へ —— 4〜6週間の離脱、開幕1勝9敗を支えたルーキー",
