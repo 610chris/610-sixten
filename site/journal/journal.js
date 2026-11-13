@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "979-dejounte-murray-sit-out-pelicans.html",
+    cat: "NBA",
+    title: "デジャンテ・マレー「今季はもうプレーしない」—— トレード要求の解決待ち、サンズが興味",
+    excerpt: "ニューオーリンズ・ペリカンズのデジャンテ・マレーが、トレード要求が解決するまで今季はもう出場しない意向をチームに伝えたとESPNのシャムズ・シャラニア記者が報じた。フェニックス・サンズが興味を示しているとも伝えられている。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "978-dejounte-murray-trade-request-pelicans.html",
     cat: "NBA",
     title: "デジャンテ・マレー、ペリカンズにトレード志望を伝える —— 代理人リッチ・ポールらと解決へ協議中",
