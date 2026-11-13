@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T10:58:41+09:00",
+  "updated": "2026-11-13T11:56:53+09:00",
   "items": [
     {
       "id": "134",
@@ -30188,6 +30188,85 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ロケッツのスマート、3試合出場停止\n\n・ウォリアーズ戦でバセイにパンチ\n・フレグラント2で退場\n・ジャズ・ウィザーズ・ヒート戦を欠場\n\n💬 この処分、妥当だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "967",
+      "slug": "967-shinjuku-givers-tipness-sponsor",
+      "category": "JAPAN",
+      "date": "2026-11-13",
+      "headline": "新宿givers、ティップネス東新宿とスポンサー契約",
+      "excerpt": "女子3人制バスケットボールチーム「新宿givers」は、2026年11月1日付でティップネス東新宿を運営する株式会社ティップネスとスポンサー契約を締結した。選手の競技活動支援に加え、試合・イベント・SNSを通じた同店の紹介や地域向けイベントなど、新宿エリアでの連携に取り組む。",
+      "points": [
+        "新宿拠点の女子3人制バスケ「新宿givers」",
+        "11月1日付でティップネス東新宿とスポンサー契約",
+        "試合・イベント・SNSで同店を発信"
+      ],
+      "source": "株式会社givers（PR TIMES・2026年11月13日）",
+      "photo_credit": "プレスリリースより（PR TIMES）",
+      "url": "https://sixten.jp/journal/967-shinjuku-givers-tipness-sponsor.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-967-hero.jpg",
+      "subject": [],
+      "question": "新宿giversの試合、観に行ってみたい？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/967-1.jpg",
+        "https://sixten.jp/assets/ig/967-2.jpg",
+        "https://sixten.jp/assets/ig/967-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-13T11:55:46+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "新宿givers、ティップネス東新宿とスポンサー契約\n\n・新宿拠点の女子3人制バスケ「新宿givers」\n・11月1日付でティップネス東新宿とスポンサー契約\n・試合・イベント・SNSで同店を発信\n\n💬 新宿giversの試合、観に行ってみたい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 株式会社givers（PR TIMES・2026年11月13日）\n写真: プレスリリースより（PR TIMES）\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "968",
+      "slug": "968-rj-barrett-31-points-76ers",
+      "category": "NBA",
+      "date": "2026-11-13",
+      "headline": "RJ・バレット、76ers戦で31得点",
+      "excerpt": "トロント・ラプターズのRJ・バレット(RJ Barrett)は現地時間11月12日、敵地でのフィラデルフィア・76ers戦に37分出場し、フィールドゴール20本中13本・3ポイント7本中4本を沈めて31得点を記録した。リバウンド14・アシスト5も記録し、両チーム通じてこの日の最多得点者となったが、ラプターズは112-123で76ersに敗れた。",
+      "points": [
+        "37分出場でFG13/20・3P4/7",
+        "リバウンド14・アシスト5も記録",
+        "ラプターズは112-123で敗戦"
+      ],
+      "source": "ESPN ボックススコア（2026年11月12日）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/968-rj-barrett-31-points-76ers.html",
+      "hero_path": "",
+      "subject": [
+        "RJ Barrett"
+      ],
+      "question": "31得点でも敗戦…ラプターズに足りないのは？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RJ BARRETT",
+        "opponent": "vs. 76ERS",
+        "points": 31,
+        "stats": [
+          "14 REB",
+          "5 AST",
+          "13/20 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/968-1.jpg",
+        "https://sixten.jp/assets/ig/968-2.jpg",
+        "https://sixten.jp/assets/ig/968-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-13T11:56:50+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "RJ・バレット、76ers戦で31得点\n\n・37分出場でFG13/20・3P4/7\n・リバウンド14・アシスト5も記録\n・ラプターズは112-123で敗戦\n\n💬 31得点でも敗戦…ラプターズに足りないのは？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア（2026年11月12日）\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

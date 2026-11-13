@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "968-rj-barrett-31-points-76ers.html",
+    cat: "NBA",
+    title: "RJ・バレット、76ers戦で31得点 —— ラプターズは112-123で敗れる",
+    excerpt: "トロント・ラプターズのRJ・バレット(RJ Barrett)は現地時間11月12日、敵地でのフィラデルフィア・76ers戦に37分出場し、フィールドゴール20本中13本・3ポイント7本中4本を沈めて31得点を記録した。リバウンド14・アシスト5も記録し、両チーム通じてこの日の最多得点者となったが、ラプターズは112-123で76ersに敗れた。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "967-shinjuku-givers-tipness-sponsor.html",
+    cat: "JAPAN",
+    title: "新宿givers、ティップネスとスポンサー契約 —— 東新宿で「女子スポーツ×地域×フィットネス」を発信",
+    excerpt: "女子3人制バスケットボールチーム「新宿givers」は、2026年11月1日付でティップネス東新宿を運営する株式会社ティップネスとスポンサー契約を締結した。選手の競技活動支援に加え、試合・イベント・SNSを通じた同店の紹介や地域向けイベントなど、新宿エリアでの連携に取り組む。",
+    date: "2026.11.13",
+    thumb: "../assets/journal-967-hero.jpg?v=b8dca0f2a3"
+  },
+  {
     href: "966-rockets-smart-suspended.html",
     cat: "NBA",
     title: "ロケッツのマーカス・スマート、3試合出場停止 —— ウォリアーズ戦でバセイに右フックが接触",
