@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "980-social-status-air-jordan-1-low-sashiko.html",
+    cat: "KICKS",
+    title: "Social Status × Air Jordan 1 Low OG「Sashiko」—— 和の刺し子柄をあしらった新色、2026年12月発売",
+    excerpt: "The Whitaker Groupのスニーカー店「Social Status」とJordan Brandのコラボレーションとして、Air Jordan 1 Low OGの新色「Sashiko」が2026年12月に発売される。品番IU4982-600。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "979-dejounte-murray-sit-out-pelicans.html",
     cat: "NBA",
     title: "デジャンテ・マレー「今季はもうプレーしない」—— トレード要求の解決待ち、サンズが興味",
