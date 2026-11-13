@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "978-dejounte-murray-trade-request-pelicans.html",
+    cat: "NBA",
+    title: "デジャンテ・マレー、ペリカンズにトレード志望を伝える —— 代理人リッチ・ポールらと解決へ協議中",
+    excerpt: "ニューオーリンズ・ペリカンズのデジャンテ・マレーが球団にトレードを志望していることが分かった。代理人のリッチ・ポール（Klutch Sports CEO）とチーム関係者が解決に向けた協議を始めているとESPNのシャムズ・シャラニア記者が報じている。チームは開幕4勝8敗で4連敗中。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "977-doug-mcdermott-retires.html",
     cat: "NBA",
     title: "ダグ・マクダーモット、12シーズンのNBA生活に幕 —— 7球団を渡った3P職人、通算41%の外角精度",
