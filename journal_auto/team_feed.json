@@ -1,8 +1,98 @@
 {
- "updated_utc": "2026-11-13 02:05 UTC",
+ "updated_utc": "2026-11-13 09:55 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hornets-comeback-attempt-foiled-in-4th-quarter-by-phoenix",
+   "url": "https://www.nba.com/hornets/news/hornets-comeback-attempt-foiled-in-4th-quarter-by-phoenix",
+   "canonical_url": "https://hornets.com/news/hornets-comeback-attempt-foiled-in-4th-quarter-by-phoenix",
+   "title": "Hornets’ Comeback Attempt Foiled In 4th Quarter By Phoenix",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-13T05:25:17Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Though the Hornets managed to overcome one turnover-heavy quarter on Thursday night, they couldn’t do so a second time, resulting in a 101-96 road loss to the Phoenix Suns.",
+   "facts": [
+    "Though the Hornets managed to overcome one turnover-heavy quarter on Thursday night, they couldn’t do so a second time, resulting in a 101-96 road loss to the Phoenix Suns.",
+    "Top Performers: Coby White had his finest performance of the season so far, finishing with a team-high 21 points on 8-of-16 shooting, two 3-pointers and three assists in 20 minutes (still on a minutes restriction).",
+    "Christian Anderson Jr. topped his career high for the second straight game, totaling 13 points on 4-of-9 shooting and three 3-pointers, while fellow reserve Grant Williams added 11 points on 3-of-5 shooting and two rebou…",
+    "Devin Booker led all scorers with 30 points – nine in the fourth quarter – on 12-of-20 shooting, four 3-pointers, a game-high-tying seven assists and three steals, as Phoenix won for the fourth time in five games.",
+    "Dillon Brooks recorded 15 points on 6-of-13 shooting and Miles Bridges had 11 points, six rebounds and three assists facing his former team of seven seasons for the first time.",
+    "Turning Point: A litany of early turnovers (10 in the first quarter) helped put the Hornets in a 17-point second-quarter hole, but they dug themselves out of it with a 45-24 run to take a four-point lead into the fourth.",
+    "Unfortunately, the turnover problems came roaring back around to Charlotte in the closing frame, which featured only six made shots (6-of-16) and nine giveaways for 13 Phoenix points.",
+    "Still, the Hornets were within three with 24 seconds to go before Booker banged in a 28-foot step-back 3-pointer to ice the game for the Suns."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/blowout-loss-may-have-helped-at-least-one-maverick-turn-a-corner",
+   "url": "https://www.nba.com/mavs/news/blowout-loss-may-have-helped-at-least-one-maverick-turn-a-corner",
+   "canonical_url": "https://mavs.com/mavs/news/blowout-loss-may-have-helped-at-least-one-maverick-turn-a-corner",
+   "title": "Blowout loss may have helped at least one Maverick turn a corner",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-13T04:47:21Z",
+   "tags": [],
+   "summary": "MINNEAPOLIS – They say it truly is an ill wind that doesn’t blow some good.",
+   "facts": [
+    "And while the wind was foul and damaging for the Mavericks on Thursday, their 133-94 blowout loss to Minnesota wasn’t a complete wipeout.",
+    "Zaccharie Risacher, historically a solid three-point shooter, had been shooting just 25 percent from three-point range in the first 10 games – far below his 36 percent average in his first two NBA seasons with Atlanta.",
+    "He hit 4-of-8 from beyond the arc and hopes that’s the start of a hotter shooting streak.",
+    "He finished with 22 points and sometimes, shooters just need to see a shot or two go through the net to get out of a funk.",
+    "Strong play from Clayton: Maybe the biggest surprise of the Mavericks’ young season has been two-way signee Walter Clayton Jr.",
+    "He’s made a major impact on several games since he was signed two days after getting waived by Memphis just before the start of the regular season.",
+    "Turns out the main way the Wolves held Flagg to 12 points was by making it hard for him to get the ball."
+   ],
+   "quotes": [
+    "I was a little frustrated by my shooting this season,",
+    "I didn’t feel as comfortable as I used to be. I kept working and didn’t lose confidence. Is it’s a good sign. I should be able to make those important ones. It was was good to see some makes.",
+    "Defensively, Walt’s reputation compared to what we’ve seen are alternate realities,",
+    "And obviously, his shot-making has been a big addition, as well as his playmaking."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/wolves-stonewall-mavericks-as-winning-streak-comes-to-an-end",
+   "url": "https://www.nba.com/mavs/news/wolves-stonewall-mavericks-as-winning-streak-comes-to-an-end",
+   "canonical_url": "https://mavs.com/mavs/news/wolves-stonewall-mavericks-as-winning-streak-comes-to-an-end",
+   "title": "Wolves stonewall Mavericks as winning streak comes to an end",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-13T03:18:11Z",
+   "tags": [],
+   "summary": "MINNEAPOLIS – Maybe the Mavericks were due for a dud.",
+   "facts": [
+    "The Minnesota Timberwolves strapped the defensive handcuffs on the Mavericks and roared to a 133-94 win Thursday night at Target Center.",
+    "The Wolves’ sixth consecutive win ended the Mavericks’ three-game winning streak and dropped their record to 7-5.",
+    "Minnesota is 9-3 and surviving quite well without injured superstar Anthony Edwards.",
+    "It was the first time this season that they failed to reach 100 points.",
+    "The Wolves came in with the No. 1 overall defensive efficiency rating in the NBA and the Mavericks had steadily risen over the last week into the top 10 in the defensive ranking.",
+    "The Mavericks shot below 40 percent most of the night and finished at 37 percent.",
+    "They trailed by as much as 122-79 midway through the fourth quarter and the lead topped out at 129-85 a short time later.",
+    "The Wolves hovered around 60 percent shooting all night and finished at 58 percent."
+   ],
+   "quotes": [
+    "Their point-of-attack defense, their activity on and off the ball was extremely disruptive. They deserved to win the way they did tonight.",
+    "Obviously, flush it emotionally,",
+    "But in the first half, we were playing well and we give them a couple easy baskets and those are the ones . . . you’re in a tough spot. You can’t give them the baskets off of your mistakes. You got to…",
+    "We got to bring it every night,"
+   ]
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -89,6 +179,26 @@
     "We're more certain of who we are, what makes us a good team,",
     "I think that puts us in a better position to be successful without him as opposed to where we were last year."
    ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "injury",
+   "key": "https://www.nba.com/bulls/news/caleb-wilson-medical-update",
+   "url": "https://www.nba.com/bulls/news/caleb-wilson-medical-update",
+   "canonical_url": "https://bulls.com/news/caleb-wilson-medical-update",
+   "title": "Caleb Wilson Medical Update",
+   "author": "Bulls.com",
+   "published_utc": "2026-11-12T21:57:32Z",
+   "tags": [],
+   "summary": "Chicago Bulls forward Caleb Wilson sustained a fracture in his right hand during Wednesday night’s game versus the San Antonio Spurs.",
+   "facts": [
+    "Chicago Bulls forward Caleb Wilson sustained a fracture in his right hand during Wednesday night’s game versus the San Antonio Spurs.",
+    "Wilson underwent successful surgery today and will be re-evaluated in three weeks."
+   ],
+   "quotes": []
   },
   {
    "source": "NOP 公式（nba.com）",
@@ -1761,224 +1871,6 @@
     "We talked about our starts and how we thought we could improve those starts. Matchups dictated some of that also. Being able to have him go up against Trae Young, and then put AT (Ausar Thompson) on A…",
     "I knew we were going to come out with an edge based off of how last night went,",
     "This is a prideful group. You know, didn’t necessarily need to be perfect, but just needed the effort and intention to be better, and it was."
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-lose-to-rockets-on-the-road",
-   "url": "https://www.nba.com/nuggets/news/nuggets-lose-to-rockets-on-the-road",
-   "canonical_url": "https://nuggets.com/news/nuggets-lose-to-rockets-on-the-road",
-   "title": "Nuggets lose to Rockets on the road",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-10T05:43:00Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets lost to the Houston Rockets, 110-100, on Monday night. Denver is now 5-4 this season.",
-   "facts": [
-    "The Denver Nuggets lost to the Houston Rockets, 110-100, on Monday night.",
-    "Denver is now 5-4 this season.",
-    "Jamal Murray had an incredible scoring performance and put up 38 points on 14-of-23 shooting from the field, 5-of-8 from three-point land, and a perfect 5-of-5 from the free-throw line.",
-    "This was his fourth game with 35 points or more in nine appearances.",
-    "Nikola Jokić also had a strong outing with 25 points on 11-of-21 shooting.",
-    "His 16 rebounds were a season-high, marking his seventh double-double of the year.",
-    "Denver lost the game on the glass, getting out-rebounded, 51-39.",
-    "They surrendered 15 offensive rebounds to the Rockets on Monday."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/warriors-138-pelicans-87-derik-queen-16-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/warriors-138-pelicans-87-derik-queen-16-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/warriors-138-pelicans-87-derik-queen-16-points-postgame-wrap",
-   "title": "Warriors 138, Pelicans 87: Derik Queen 16 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-10T05:28:17Z",
-   "tags": [],
-   "summary": "It was going to be a difficult task for New Orleans to slow down one of the NBA’s hottest teams – and that was before the Pelicans’ starting forwards were ruled out of action. With Trey Murphy (knee) and Zion Williamson (rest) not in uniform, Golden State rapidly seized control, leading by 30-plus points in the first half Monday, then expanding that edge to 50 early in the fourth quarter. It was t…",
-   "facts": [
-    "With Trey Murphy (knee) and Zion Williamson (rest) not in uniform, Golden State rapidly seized control, leading by 30-plus points in the first half Monday, then expanding that edge to 50 early in the fourth quarter.",
-    "It was the Warriors’ eighth consecutive victory after starting the season 0-3.",
-    "New Orleans was frigid shooting-wise from the jump (finished at 36 percent on field goals, 29 percent on threes) and couldn’t get stops defensively, allowing Golden State to drain three-pointers and generate easy buckets…",
-    "The Warriors scored at least 35 points in each of the first three periods.",
-    "BY THE NUMBERS 21/44: Golden State three-point shooting.",
-    "With New Orleans going 8/28 from long range, the hosts scored 39 more points just from triples. 50-31: Warriors rebounding advantage.",
-    "Brooklyn (7 p.m.), the only guest among the handful of opponents that currently has a losing record (the other visitors are Memphis, Denver, Golden State and Detroit).",
-    "WARRIORS In exactly one week, Golden State will pay a visit to New Orleans on Nov. 16."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261109",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261109",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261109",
-   "title": "Warriors Complete Perfect Homestand With 51-Point Victory Over the Pelicans",
-   "author": "Gabriella Rizzo",
-   "published_utc": "2026-11-10T05:25:36Z",
-   "tags": [
-    "Game Recap"
-   ],
-   "summary": "The Golden State Warriors wrapped up their six-game homestand with a dominant 138-87 over the New Orleans Pelicans on Monday night at Chase Center, bringing their win streak to eight. Stephen Curry (25), Brandin Podziemski (25), and Yaxel Lendeborg (23) paced the offense, combining for 73 points and draining four 3-pointers each. De'Anthony Melton led the reserves in scoring with 16 points and fou…",
-   "facts": [
-    "The Golden State Warriors wrapped up their six-game homestand with a dominant 138-87 over the New Orleans Pelicans on Monday night at Chase Center, bringing their win streak to eight.",
-    "Stephen Curry (25), Brandin Podziemski (25), and Yaxel Lendeborg (23) paced the offense, combining for 73 points and draining four 3-pointers each.",
-    "De'Anthony Melton led the reserves in scoring with 16 points and four triples while Charles Bassey recorded his first double-double of the season with 10 points and a game-high 10 rebounds off the bench.",
-    "The Warriors' 51-point win marks their fourth largest margin of victory in the team's 80th season as a franchise.",
-    "Continuing to make history, Curry moved up to 16th on the NBA all-time scoring list after sinking a triple in the third quarter for his 26,803 career points, passing Demar Derozan (26,793).",
-    "DUBS TAKE CONTROL IN THE FIRST The Warriors jumped out to a 15 point lead over the Pelicans by the end of the first quarter.",
-    "The Warriors pulled away with a commanding 31-11 scoring run to take a 35 point lead late in the second quarter.",
-    "Podziemski gained some momentum, pouring in 10 points in the quarter, while Lendeborg ended the first half with 16 points in 16 minutes."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-mavericks-261109",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-mavericks-261109",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-mavericks-261109",
-   "title": "Game Rewind: Pacers 122, Mavericks 125",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-10T04:30:00Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Monday, Nov. 9 at 8:00 PM ET at American Airlines Center",
-   "facts": [
-    "Monday, Nov. 9 at 8:00 PM ET at American Airlines Center Game Recap The Pacers traveled to Dallas for a matchup with the Mavericks on Monday after falling to the Nuggets in Mexico City.",
-    "A heroic night from Cooper Flagg and Kyrie Irving toppled the Pacers after a spectacular first half from Pascal Siakam, 125-122.",
-    "Indiana entered the matchup healthier than it has been for a few weeks – just three players remained on the injury report.",
-    "Tyrese Haliburton (hamstring), Ben Sheppard (meniscus), and Johnny Furphy (ACL rehab) were the trio of Pacers featured on the injury report after T.J.",
-    "McConnell made his return to the lineup on Saturday.",
-    "The veteran guard knocked down two 3-pointers to put the Mavs back on top, 41-39, with eight minutes to go before halftime.",
-    "Irving was the first player to reach double figures, and finished with 15 points in the half to lead the Mavericks.",
-    "He was 6-for-6 from the field with a game-high 19 points, and it helped the Pacers to a seven-point lead, 55-48."
-   ],
-   "quotes": [
-    "They’re great players. The biggest issue in terms of the entire game was the unnecessary fouling…We’ve got to be more disciplined.",
-    "Our team fought their hearts out in this game. They deserved an opportunity to win the game. You know, we hurt ourselves with some mistakes, but there's no questioning the intensity, the effort, any o…",
-    "Pascal had a great game. Aaron hit a couple big shots at the end, and he always plays hard. Nembhard was great. I mean, [Zubac] had one of his best games as a Pacer, and you know, we’re getting a bett…",
-    "He's learning how to play [a] faster style and still be able to play his game. So, you know, there's some good signs…Our entire team, you know, is going to be [doing] a lot of adjusting and calibratin…"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/rick-carlisle-notice-some-distinct-similarities-between-cooper-flagg-and-luka-doncic",
-   "url": "https://www.nba.com/mavs/news/rick-carlisle-notice-some-distinct-similarities-between-cooper-flagg-and-luka-doncic",
-   "canonical_url": "https://mavs.com/mavs/news/rick-carlisle-notice-some-distinct-similarities-between-cooper-flagg-and-luka-doncic",
-   "title": "Carlisle sees some distinct similarities between Flagg, Dončić",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-10T04:25:02Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "nba",
-    "Zaccharie Risacher"
-   ],
-   "summary": "Indiana Pacers coach Rick Carlisle has noticed similarities between Dallas Mavericks forward Cooper Flagg and former Mavs guard Luka Dončić, who now plays for the Los Angeles Lakers.",
-   "facts": [
-    "In his second season he averaged 28.8 points, 9.4 rebounds and 8.8 assists while shooting 46.3 percent from the floor and 31.6 percent from beyond the three-point arc.",
-    "Flagg averaged 21 points, 6.7 rebounds and 4.5 assists as a rookie, and shot 46.8 percent from the floor and 29.5 percent from downtown.",
-    "So far this season he’s averaging 24 points, 6.6 rebounds and seven assists per game, and converting 47.7 percent of his field goals and 26.2 percent on three-pointers.",
-    "They’re both great and are getting greater.” When asked what in particular Flagg is doing to take his game to a higher level, Carlisle said: “He’s a great player and it’s rare to have a guy 6-9 or 6-10 -- whatever height…",
-    "MAY ON RISACHER: The Atlanta Hawks chose Zaccharie Risacher with the No. 1 overall pick of the 2024 NBA Draft.",
-    "But after the Hawks gave up on Risacher and traded him to the Mavs this summer, no one with the Mavs believes he has a proverbial chip on his shoulder.",
-    "And he has used his wiry 6-9 frame to become a major factor on the defensive end of the floor."
-   ],
-   "quotes": [
-    "Well, getting the experience of the first year under your belt, because both those guys were Rookie of the Year,",
-    "And then they have a whole summer to build on that and can take all that equity that they’ve built up with their teammates -- in the league -- everything else to the following year.",
-    "It’s clear to me that Flagg has gotten stronger,",
-    "Luka is just so strong and Flagg is even stronger. Luka was a great rebounder, too, and I think Flagg is as well. There are similarities with those guys. They’re both great and are getting greater."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/monster-tandem-of-irving-flagg-push-mavericks-over-pacers",
-   "url": "https://www.nba.com/mavs/news/monster-tandem-of-irving-flagg-push-mavericks-over-pacers",
-   "canonical_url": "https://mavs.com/mavs/news/monster-tandem-of-irving-flagg-push-mavericks-over-pacers",
-   "title": "Monster mash: Irving, Flagg overwhelm Pacers as Mavericks win third straight",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-10T03:44:34Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "OK, this Kyrie Irving-Cooper Flagg combo now officially has the NBA’s attention.",
-   "facts": [
-    "Irving made it clear Monday night that the second night of back-to-back games is no problem for him and he teamed with Flagg to score 78 points and produce a string of strong clutch plays down the stretch as the Maverick…",
-    "All you need to know about Irving is that he had 35 points and the Mavericks were plus-29 when he was on the floor.",
-    "All you need to know about Flagg is he had 43 points, 10 rebounds, six assists and three steals.",
-    "Add it up and the Mavericks were able to put a lid on a perfect 3-0 home stand and move their record to 7-4 while the Pacers, who got crushed by the Mavericks on Oct. 23 in Indy, fell to 3-8.",
-    "They had 26 of the 35 the team scored in the fourth quarter.",
-    "Flagg had 30 of his points after halftime, many on contested midrange jumpers when he wheeled into the Pacers' defense and got a mismatch.",
-    "And of course, there were an assortment of dunks and 3-of-6 on three-point shooting.",
-    "And he’s able to square in the air, 15, 17 feet, get to his spots and if there’s a smaller guy, he can jump and square."
-   ],
-   "quotes": [
-    "Every night is going to be somebody else’s night,",
-    "That’s our identity. Tonight, me and Kai had it going. There’s hopefully going to be a lot of nights like that where we’re able to do our thing.",
-    " coach Dusty May said of Flagg. ",
-    "The last couple games, he’s made some threes and he’s making all his free throws. That’s how you put up 43 points, where you do a little bit of everything. He affects the game in so many ways. Thank g…"
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hornets-get-back-in-the-win-column-bury-cavaliers-with-3-pt-storm",
-   "url": "https://www.nba.com/hornets/news/hornets-get-back-in-the-win-column-bury-cavaliers-with-3-pt-storm",
-   "canonical_url": "https://hornets.com/news/hornets-get-back-in-the-win-column-bury-cavaliers-with-3-pt-storm",
-   "title": "Hornets Get Back In The Win Column, Bury Cavaliers With 3-PT Storm",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-10T03:38:45Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "It was only a matter of time before the Charlotte Hornets finally got their offense going. On Monday night, shots were falling fast and furious in a 124-112 home win over the Cleveland Cavaliers, which put an end to the hosts’ pesky six-game skid.",
-   "facts": [
-    "On Monday night, shots were falling fast and furious in a 124-112 home win over the Cleveland Cavaliers, which put an end to the hosts’ pesky six-game skid.",
-    "Top Performers: Naz Reid set the tone early with 15 first-quarter points and ended the victory with 25 on 10-of-26 shooting, four 3-pointers, a season-high 13 rebounds and four assists for his fourth seasonal double-doub…",
-    "Grayson Allen posted a season-high-tying 27 points and six 3-pointers, Tidjane Salaün chipped in a season-high 14 points (all in the second quarter) and Ryan Kalkbrenner racked up eight points, a career-high 15 rebounds …",
-    "Despite having two prolific offensive threats in James Harden – who erupted for a season-high 55 points at Spectrum Center last November – and Donovan Mitchell, Cleveland’s leading scorer was rookie reserve Meleek Thomas…",
-    "Peyton Watson tallied 13 points, while fellow starter Jarrett Allen had 12 points on a perfect 5-of-5 shooting and seven rebounds.",
-    "Turning Point: Holding a slim one-point lead after the first quarter, the Hornets took off in the ensuing frame, knocking down 14-of-24 attempts – including 7-of-12 from deep – for a 69-53 halftime advantage.",
-    "Charlotte eventually got its cushion up to 33 with 3:50 to go in the third, but the Cavaliers’ bench unit stormed back with a 43-18 push to cut the mammoth deficit down to eight by the fourth’s 3:47 mark.",
-    "On top of dishing out a season-high 29 assists on 44 made buckets, they canned 23-of-46 3-point attempts (50%), which obliterated their previous season best by seven (16 vs."
-   ],
-   "quotes": [
-    "We are far from a finished product. We’re just scratching the surface and so I’m glad some shots went down, but I loved the defensive intensity even more. You have to be good on both sides of the ball…"
    ]
   }
  ]
