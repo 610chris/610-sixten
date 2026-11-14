@@ -1,8 +1,62 @@
 {
- "updated_utc": "2026-11-14 06:57 UTC",
+ "updated_utc": "2026-11-14 14:27 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-dalcle-261114",
+   "url": "https://www.nba.com/cavaliers/news/preview-dalcle-261114",
+   "canonical_url": "https://cavs.com/news/preview-dalcle-261114",
+   "title": "Cavs vs Mavericks | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-14T13:04:45Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "After a three-game road trip, the Cavs start a four-game homestand tonight with the Dallas Mavericks first up. Dallas has won three of the last four games.",
+   "facts": [
+    "GAME INFORMATION LAST TIME OUT Cleveland fell last night to the Heat in Miami, dropping to 1-1 in NBA Cup group play action.",
+    "Despite three 20-point scorers, the Heat used a strong fourth quarter to grab the double-digit win.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -TBD - Back-to-Back Mavericks: -Dereck Lively II - Foot - OUT KEEP UP WITH THE ACTION Follow along with @cavs, @cavsnotes, @watchRESN, and @SerenaWinters throug…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-bucks-20261114",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-bucks-20261114",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-vs-bucks-20261114",
+   "title": "Magic Four-Point Play: Follow-Up vs. Bucks",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-14T12:42:17Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "There are now 14 instances of an Orlando Magic player scoring 30-plus points in at least four consecutive games after Franz Wagner’s 35-point performance in Friday’s NBA Cup game win over the Milwaukee Bucks. He’ll have a chance of extending that streak to five games when the Magic visit the Boston Celtics on Monday. That’s only happened five times in franchise history. What’s making this stretch …",
+   "facts": [
+    "Franz Continues Incredible Run There are now 14 instances of an Orlando Magic player scoring 30-plus points in at least four consecutive games after Franz Wagner’s 35-point performance in Friday’s NBA Cup game win over t…",
+    "The 6-foot-10 point forward, who dished out 12 assists against Milwaukee, now has five games this season with 10-plus assists.",
+    "Magic’s Defensive Identity Regaining Form Over the last three games, opponents are averaging a league-low 31 shot attempts in the paint per 100 possessions against the Magic.",
+    "They also are averaging 16.0 turnovers, with Orlando averaging 22.7 points off those mistakes, fourth most in this stretch.",
+    "Opponents are shooting 30.2 percent from long distance this season when either Anthony Black, Desmond Bane, Jalen Suggs or Jevon Carter have contested those attempts.",
+    "Magic Continue to Generate Outstanding Looks From Deep The biggest team storyline thus far has been their ability, through excellent spacing, ball movement, and execution, to create quality looks from 3-point range.",
+    "Now 3 ½ weeks into the season, the Magic rank No. 1 in 3-point attempts off kickouts per 100 possessions with 18.9 of them.",
+    "However, on those attempts, they are shooting just 32.9 percent, third lowest."
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -1869,58 +1923,6 @@
     "Especially in the first half, we were generating really good shots out of their swarming defense,",
     "We were zinging it out to wide, wide open guys and we just didn't hit enough to keep pace. We were down 11 at the half and we could have easily, just all else being equal, made a decent percentage of …"
    ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/pistons-cruise-employees-pitch-in-to-beautify-boston-edison-neighborhood",
-   "url": "https://www.nba.com/pistons/news/pistons-cruise-employees-pitch-in-to-beautify-boston-edison-neighborhood",
-   "canonical_url": "https://pistons.com/news/pistons-cruise-employees-pitch-in-to-beautify-boston-edison-neighborhood",
-   "title": "Pistons, Cruise employees pitch in to beautify Boston-Edison neighborhood",
-   "author": "Grace Reyes",
-   "published_utc": "2026-11-11T14:08:22Z",
-   "tags": [
-    "community",
-    "Mission 313"
-   ],
-   "summary": "Detroit has approximately 123,000 vacant lots across the city’s 139 square miles.",
-   "facts": [
-    "Detroit has approximately 123,000 vacant lots across the city’s 139 square miles.",
-    "The event marked the 16th year of the Six Day Project.",
-    "Last season, Pistons employees logged more than 9,500 volunteer hours."
-   ],
-   "quotes": [
-    "For many residents, it's one thing to watch the Pistons on TV, but it's something entirely different to see Pistons employees actively volunteering, especially in District 5,",
-    "When residents see those familiar logos and the people behind them showing up in person, they realize the organization genuinely cares about them and their community.",
-    "On behalf of the City of Detroit, it is such an honor to have an organization like Life Remodeled here in our community that is reaching back to empower our residents economically first and foremost, …",
-    "When you clear overgrowth, pick up litter and care for our neighborhood; you are improving the spaces our children walk through every day,"
-   ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-clenyk-261111",
-   "url": "https://www.nba.com/cavaliers/news/preview-clenyk-261111",
-   "canonical_url": "https://cavs.com/news/preview-clenyk-261111",
-   "title": "Cavs at Knicks | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-11-11T12:42:31Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "It's the Cavs and New York Knicks for the second time in three games with tonight's matchup coming to you from NYC. The defending champs topped the Wine & Gold in Cleveland on Saturday night.",
-   "facts": [
-    "GAME INFORMATION LAST TIME OUT On Monday night in Charlotte, the Cavs fell behind big to the Hornets in the first half as the hosts hit 12 threes in the first two quarters en route to 23 on the night.",
-    "Meleek Thomas led the way for the Cavs, scoring 18 in 27 minutes of work.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Jaylon Tyson - Ankle - QUESTIONABLE -Sam Merrill - Elbow - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignment) - OUT -Ernest Udeh Jr. - …"
-   ],
-   "quotes": []
   }
  ]
 }
