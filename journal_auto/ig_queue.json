@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T13:57:30+09:00",
+  "updated": "2026-11-14T15:00:24+09:00",
   "items": [
     {
       "id": "134",
@@ -31027,6 +31027,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "シェングン、ジャズ戦で43得点\n\n・FG17/24・70.8%の高確率\n・リバウンド12・アシスト5\n・ロケッツが125-118で勝利\n\n💬 シェングン、今季のキャリアハイはまだ更新する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Rockets vs. Jazz・2026年11月13日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "988",
+      "slug": "988-avdija-34-points-kings",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "デニ・アヴディア、キングス戦で34得点",
+      "excerpt": "ポートランド・トレイルブレイザーズのデニ・アヴディアは現地時間11月13日、敵地サクラメントでのキングス戦に35分出場し、フィールドゴール13本中11本・フリースロー9本中9本を沈めて34得点を記録した。両チーム通じてこの日の最多得点者となり、トレイルブレイザーズは120-107でキングスを下した。",
+      "points": [
+        "FG13本中11本(84.6%)で34得点",
+        "リバウンド6・アシスト4、ターンオーバー3",
+        "トレイルブレイザーズが120-107でキングスに勝利"
+      ],
+      "source": "ESPN ボックススコア(Trail Blazers vs. Kings)",
+      "photo_credit": "ウィザーズ時代のデニ・アヴディア。撮影: All-Pro Reels from District of Columbia, USA / CC BY-SA 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/988-avdija-34-points-kings.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-988-hero.jpg",
+      "subject": [
+        "Deni Avdija"
+      ],
+      "question": "このシーズンのアヴディア、オールスター級だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DENI AVDIJA",
+        "opponent": "vs. KINGS",
+        "points": 34,
+        "stats": [
+          "6 REB",
+          "4 AST",
+          "11/13 FG",
+          "3/5 3PT",
+          "9/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/988-1.jpg",
+        "https://sixten.jp/assets/ig/988-2.jpg",
+        "https://sixten.jp/assets/ig/988-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T15:00:15+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デニ・アヴディア、キングス戦で34得点\n\n・FG13本中11本(84.6%)で34得点\n・リバウンド6・アシスト4、ターンオーバー3\n・トレイルブレイザーズが120-107でキングスに勝利\n\n💬 このシーズンのアヴディア、オールスター級だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Trail Blazers vs. Kings)\n写真: ウィザーズ時代のデニ・アヴディア。撮影: All-Pro Reels from District of Columbia, USA / CC BY-SA 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "989",
+      "slug": "989-castle-32-points-warriors",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "ステフォン・キャッスル、ウォリアーズ戦で32得点",
+      "excerpt": "サンアントニオ・スパーズのステフォン・キャッスルは現地時間11月13日、本拠地でのゴールデンステート・ウォリアーズ戦に25分出場し、フィールドゴール18本中12本・3ポイント8本中5本を沈めて32得点を記録した。両チーム通じてこの日の最多得点者となり、スパーズは123-85でウォリアーズに圧勝した。",
+      "points": [
+        "25分出場でFG18本中12本、32得点",
+        "リバウンド5・アシスト6、+35",
+        "スパーズが123-85でウォリアーズに圧勝"
+      ],
+      "source": "ESPN ボックススコア(Warriors vs. Spurs)",
+      "photo_credit": "2026年西カンファレンス決勝でのステフォン・キャッスル。撮影: Petsbikes / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/989-castle-32-points-warriors.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-989-hero.jpg",
+      "subject": [
+        "Stephon Castle"
+      ],
+      "question": "キャッスルとウェンバンヤマ、今季のスパーズのカギはどっち？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "STEPHON CASTLE",
+        "opponent": "vs. WARRIORS",
+        "points": 32,
+        "stats": [
+          "6 AST",
+          "5 REB",
+          "12/18 FG",
+          "5/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/989-1.jpg",
+        "https://sixten.jp/assets/ig/989-2.jpg",
+        "https://sixten.jp/assets/ig/989-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T15:00:21+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ステフォン・キャッスル、ウォリアーズ戦で32得点\n\n・25分出場でFG18本中12本、32得点\n・リバウンド5・アシスト6、+35\n・スパーズが123-85でウォリアーズに圧勝\n\n💬 キャッスルとウェンバンヤマ、今季のスパーズのカギはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Warriors vs. Spurs)\n写真: 2026年西カンファレンス決勝でのステフォン・キャッスル。撮影: Petsbikes / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
