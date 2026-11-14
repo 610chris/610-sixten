@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:02:35+09:00",
+  "updated": "2026-11-14T12:59:51+09:00",
   "items": [
     {
       "id": "134",
@@ -30797,6 +30797,190 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジェイレン・ブランソン、ペイサーズ戦で33得点\n\n・FG11/22・3P4/9、アシスト11を記録\n・ニックスは104-106でペイサーズに惜敗\n・ブランソンが両チーム最多得点者に\n\n💬 33得点でも黒星…ニックスの課題はどこ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "983",
+      "slug": "983-giannis-antetokounmpo-37-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "ヤニス・アデトクンボ、キャバリアーズ戦で37得点",
+      "excerpt": "マイアミ・ヒートのヤニス・アデトクンボは現地時間11月13日、本拠地でのクリーブランド・キャバリアーズ戦に31分出場し、フィールドゴール20本中15本・3ポイント2本中1本・フリースロー11本中6本を沈めて37得点を記録した。リバウンド9も記録し、バム・アデバヨと並び両チーム通じてこの日の最多得点者となり、ヒートは133-121でキャバリアーズに勝利した。",
+      "points": [
+        "FG15/20・3P1/2で37得点",
+        "リバウンド9・ブロック1の活躍",
+        "ヒートが133-121で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/983-giannis-antetokounmpo-37-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "Giannis Antetokounmpo"
+      ],
+      "question": "ヤニス&アデバヨ、同時37得点はどっちが効いた？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "GIANNIS ANTETOKOUNMPO",
+        "opponent": "vs. CAVALIERS",
+        "points": 37,
+        "stats": [
+          "9 REB",
+          "2 AST",
+          "15/20 FG",
+          "6/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/983-1.jpg",
+        "https://sixten.jp/assets/ig/983-2.jpg",
+        "https://sixten.jp/assets/ig/983-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T12:58:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤニス・アデトクンボ、キャバリアーズ戦で37得点\n\n・FG15/20・3P1/2で37得点\n・リバウンド9・ブロック1の活躍\n・ヒートが133-121で勝利\n\n💬 ヤニス&アデバヨ、同時37得点はどっちが効いた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "984",
+      "slug": "984-bam-adebayo-37-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "バム・アデバヨ、キャバリアーズ戦で37得点",
+      "excerpt": "マイアミ・ヒートのバム・アデバヨは現地時間11月13日、本拠地でのクリーブランド・キャバリアーズ戦に38分出場し、フィールドゴール19本中13本・3ポイント3本中2本・フリースロー10本中9本を沈めて37得点を記録した。リバウンド14も記録し、ヤニス・アデトクンボと並び両チーム通じてこの日の最多得点者となり、ヒートは133-121でキャバリアーズに勝利した。",
+      "points": [
+        "FG13/19・3P2/3で37得点",
+        "リバウンド14・ターンオーバー0",
+        "ヒートが133-121で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/984-bam-adebayo-37-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "Bam Adebayo"
+      ],
+      "question": "ヤニス&アデバヨ、同時37得点はどっちが効いた？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BAM ADEBAYO",
+        "opponent": "vs. CAVALIERS",
+        "points": 37,
+        "stats": [
+          "14 REB",
+          "3 AST",
+          "13/19 FG",
+          "2/3 3PT",
+          "9/10 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/984-1.jpg",
+        "https://sixten.jp/assets/ig/984-2.jpg",
+        "https://sixten.jp/assets/ig/984-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T12:59:37+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バム・アデバヨ、キャバリアーズ戦で37得点\n\n・FG13/19・3P2/3で37得点\n・リバウンド14・ターンオーバー0\n・ヒートが133-121で勝利\n\n💬 ヤニス&アデバヨ、同時37得点はどっちが効いた？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "985",
+      "slug": "985-norman-powell-33-points-hawks",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "ノーマン・パウエル、ホークス戦で33得点",
+      "excerpt": "シカゴ・ブルズのノーマン・パウエルは現地時間11月13日、本拠地でのアトランタ・ホークス戦に31分出場し、フィールドゴール19本中12本・3ポイント8本中4本・フリースロー6本中5本を沈めて33得点を記録した。両チーム通じてこの日の最多得点者となり、ブルズは延長戦に持ち込んだ末125-117でホークスを下した。",
+      "points": [
+        "FG12/19・3P4/8で33得点",
+        "ブルズは延長戦に持ち込む",
+        "延長で125-117の勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/985-norman-powell-33-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Norman Powell"
+      ],
+      "question": "延長勝ち、ブルズの決め手はどこだった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "NORMAN POWELL",
+        "opponent": "vs. HAWKS",
+        "points": 33,
+        "stats": [
+          "5 REB",
+          "2 AST",
+          "12/19 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/985-1.jpg",
+        "https://sixten.jp/assets/ig/985-2.jpg",
+        "https://sixten.jp/assets/ig/985-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T12:59:37+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ノーマン・パウエル、ホークス戦で33得点\n\n・FG12/19・3P4/8で33得点\n・ブルズは延長戦に持ち込む\n・延長で125-117の勝利\n\n💬 延長勝ち、ブルズの決め手はどこだった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "986",
+      "slug": "986-saddiq-bey-30-points-grizzlies",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "サディーク・ベイ、グリズリーズ戦で30得点",
+      "excerpt": "ニューオーリンズ・ペリカンズのサディーク・ベイは現地時間11月13日、敵地メンフィスでのグリズリーズ戦に35分出場し、フィールドゴール20本中11本・3ポイント9本中6本・フリースロー3本中2本を沈めて30得点を記録した。リバウンド10も記録し、両チーム通じてこの日の最多得点者となったが、ペリカンズは111-142でグリズリーズに大敗した。",
+      "points": [
+        "FG11/20・3P6/9で30得点",
+        "リバウンド10の孤軍奮闘",
+        "ペリカンズは111-142で大敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/986-saddiq-bey-30-points-grizzlies.html",
+      "hero_path": "",
+      "subject": [
+        "Saddiq Bey"
+      ],
+      "question": "30得点でも大敗…ペリカンズの立て直しは？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SADDIQ BEY",
+        "opponent": "vs. GRIZZLIES",
+        "points": 30,
+        "stats": [
+          "10 REB",
+          "11/20 FG",
+          "6/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/986-1.jpg",
+        "https://sixten.jp/assets/ig/986-2.jpg",
+        "https://sixten.jp/assets/ig/986-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T12:59:47+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "サディーク・ベイ、グリズリーズ戦で30得点\n\n・FG11/20・3P6/9で30得点\n・リバウンド10の孤軍奮闘\n・ペリカンズは111-142で大敗\n\n💬 30得点でも大敗…ペリカンズの立て直しは？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
