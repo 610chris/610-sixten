@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "982-jalen-brunson-33-points-pacers.html",
+    cat: "NBA",
+    title: "ジェイレン・ブランソン、ペイサーズ戦で33得点 —— ニックスは104-106で惜敗",
+    excerpt: "ニューヨーク・ニックスのジェイレン・ブランソンは敵地インディアナでのペイサーズ戦に36分出場し、33得点・アシスト11を記録した。両チーム通じてこの日の最多得点者となったが、ニックスは104-106でペイサーズに惜敗した。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "981-franz-wagner-35-points-bucks.html",
     cat: "NBA",
     title: "フランツ・ワグナー、バックス戦で35得点 —— マジックが107-99で勝利",

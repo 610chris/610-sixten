@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T11:54:35+09:00",
+  "updated": "2026-11-14T12:02:35+09:00",
   "items": [
     {
       "id": "134",
@@ -30750,6 +30750,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "フランツ・ワグナー、バックス戦で35得点\n\n・FG13/22・3P3/8・FT6/6で35得点\n・アシスト12・リバウンド9の活躍\n・マジックが107-99で勝利\n\n💬 ワグナー、今季はMVP級になれる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: ドイツ代表時代のフランツ・ワグナー。撮影: Sandro Halank / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "982",
+      "slug": "982-jalen-brunson-33-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "ジェイレン・ブランソン、ペイサーズ戦で33得点",
+      "excerpt": "ニューヨーク・ニックスのジェイレン・ブランソンは現地時間11月13日、敵地でのインディアナ・ペイサーズ戦に36分出場し、フィールドゴール22本中11本・3ポイント9本中4本・フリースロー8本中7本を沈めて33得点を記録した。アシスト11も記録し、両チーム通じてこの日の最多得点者となったが、ニックスは104-106でペイサーズに惜敗した。",
+      "points": [
+        "FG11/22・3P4/9、アシスト11を記録",
+        "ニックスは104-106でペイサーズに惜敗",
+        "ブランソンが両チーム最多得点者に"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/982-jalen-brunson-33-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Brunson"
+      ],
+      "question": "33得点でも黒星…ニックスの課題はどこ？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN BRUNSON",
+        "opponent": "vs. PACERS",
+        "points": 33,
+        "stats": [
+          "11 AST",
+          "2 STL",
+          "1 REB",
+          "11/22 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/982-1.jpg",
+        "https://sixten.jp/assets/ig/982-2.jpg",
+        "https://sixten.jp/assets/ig/982-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T12:02:34+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ブランソン、ペイサーズ戦で33得点\n\n・FG11/22・3P4/9、アシスト11を記録\n・ニックスは104-106でペイサーズに惜敗\n・ブランソンが両チーム最多得点者に\n\n💬 33得点でも黒星…ニックスの課題はどこ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
