@@ -738,6 +738,29 @@
   "template": "news",
   "timestamp": "2026-09-29T11:19:24+0000"
  },
+ "17905247955672393": {
+  "article": "977",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ダグ・マクダーモット、12年のNBA生活に幕",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfssFM9E8Da/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「Former lottery pick McDermott retires after 12 NBA seasons」（Jamal Collier）",
+  "subject": [
+   "Doug McDermott"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-13T22:20:10+0000"
+ },
  "17907198648597992": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -1679,6 +1702,29 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T18:36:52+0000"
+ },
+ "17924462949453350": {
+  "article": "973",
+  "auto": true,
+  "caption_len": 294,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "カリー、腹斜筋損傷で最低2週間離脱",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DfrMatKkiMY/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN（Shams Charania）",
+  "subject": [
+   "Stephen Curry"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-13T08:24:14+0000"
  },
  "17924855528602274": {
   "auto": false,
@@ -5955,6 +6001,29 @@
   "template": "score",
   "timestamp": "2026-10-15T02:23:00+0000"
  },
+ "18079421327438008": {
+  "article": "978",
+  "auto": true,
+  "caption_len": 377,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デジャンテ・マレー、ペリカンズにトレード志望",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfsscw8D52v/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Sources: Murray wants trade from Pelicans; both sides working on resolution」",
+  "subject": [
+   "Dejounte Murray"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-13T22:23:21+0000"
+ },
  "18080481728722750": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -6770,6 +6839,29 @@
   "template": "score",
   "timestamp": "2026-10-31T02:03:09+0000"
  },
+ "18099314993648702": {
+  "article": "979",
+  "auto": true,
+  "caption_len": 389,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デジャンテ・マレー「今季はもうプレーしない」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfsstZ-in9_/",
+  "product": "REELS",
+  "route": "library",
+  "source": "Shams Charania（ESPN）/ Chris Haynes（NBA on Prime）/ Sam Amick（The Athletic）",
+  "subject": [
+   "Dejounte Murray"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-13T22:25:39+0000"
+ },
  "18099395903404121": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -6911,6 +7003,19 @@
   ],
   "template": "score",
   "timestamp": "2026-11-05T02:50:06+0000"
+ },
+ "18100398095435424": {
+  "auto": false,
+  "caption_len": 103,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "小6の夢はアメリカ代表。",
+  "permalink": "https://www.instagram.com/reel/DfrcTp4DsJS/",
+  "product": "REELS",
+  "timestamp": "2026-11-13T10:43:26+0000"
  },
  "18100483604335080": {
   "arms": {
@@ -7616,6 +7721,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-18T23:34:55+0000"
+ },
+ "18109106942302635": {
+  "article": "976",
+  "auto": true,
+  "caption_len": 456,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミッチェル「過剰反応はできない」—— 6勝6敗のキャバリアーズ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfrsaCykQMd/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Donovan Mitchell still believes in the Cavaliers, even if you don't」",
+  "subject": [
+   "Donovan Mitchell"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-13T13:03:46+0000"
  },
  "18109280315144730": {
   "article": "333",
@@ -11953,6 +12081,29 @@
   "template": "score",
   "timestamp": "2026-10-24T02:17:40+0000"
  },
+ "18171186955488244": {
+  "article": "981",
+  "auto": true,
+  "caption_len": 304,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "フランツ・ワグナー、バックス戦で35得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DftL1SXEdeC/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Franz Wagner"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-14T02:57:38+0000"
+ },
  "18177131926453034": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -13568,6 +13719,29 @@
   "template": "score",
   "timestamp": "2026-11-03T03:54:43+0000"
  },
+ "18416516233081721": {
+  "article": "969",
+  "auto": true,
+  "caption_len": 377,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケイド・カニンガム、ウィザーズ戦で52得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfqsJh7jldM/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Pistons vs. Wizards・2026年11月12日)",
+  "subject": [
+   "Cade Cunningham"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-13T03:42:18+0000"
+ },
  "18419462263092171": {
   "article": "832",
   "auto": true,
@@ -13695,6 +13869,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-10T05:13:57+0000"
+ },
+ "18438748411197308": {
+  "article": "982",
+  "auto": true,
+  "caption_len": 346,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ブランソン、ペイサーズ戦で33得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DftMuAvFN4O/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T03:05:23+0000"
  },
  "18447959788123751": {
   "article": "273",
