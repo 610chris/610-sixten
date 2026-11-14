@@ -1,8 +1,65 @@
 {
- "updated_utc": "2026-11-14 19:27 UTC",
+ "updated_utc": "2026-11-14 23:20 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-vs-pacers-game-preview-injury-report-and-how-to-watch-11-15-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-vs-pacers-game-preview-injury-report-and-how-to-watch-11-15-2026",
+   "canonical_url": "https://sixers.com/news/sixers-vs-pacers-game-preview-injury-report-and-how-to-watch-11-15-2026",
+   "title": "Sixers vs. Pacers: Game Preview, Injury Report and How to Watch 11/15/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-14T22:53:42Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers (10-3) host the Indiana Pacers (5-8) on Sunday afternoon before visiting Brooklyn on Monday. Tipoff is set for 1 p.m. EST at Xfinity Mobile Arena.",
+   "facts": [
+    "The Philadelphia 76ers (10-3) host the Indiana Pacers (5-8) on Sunday afternoon before visiting Brooklyn on Monday.",
+    "Tipoff is set for 1 p.m.",
+    "The Pacers are coming off a 106-104 home win over the New York Knicks on Friday in Emirates NBA Cup play despite 33 points and 11 assists from Jalen Brunson.",
+    "All five Indiana starters scored at least 12 points, including former Sixer Kelly Oubre Jr., who finished with 16.",
+    "The Sixers recovered from a 17-point first-quarter deficit Thursday against the Toronto Raptors to win 123-112.",
+    "Tyrese Maxey recorded 27 points and eight assists, while Joel Embiid added 20 points.",
+    "Embiid is out Sunday because of right foot plantar fascia injury management.",
+    "Here are the RAV4 Things to Know ahead of Sunday’s game: First Meeting Philadelphia trailed 88-75 entering the fourth quarter on Oct. 28 at Indiana before outscoring the Pacers 39-21 in the final period to secure a 114-1…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-host-san-antonio-spurs-3",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-host-san-antonio-spurs-3",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-host-san-antonio-spurs-3",
+   "title": "Preview: Utah Jazz Host San Antonio Spurs",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-14T22:18:10Z",
+   "tags": [
+    "Ace Bailey",
+    "Darryn Peterson",
+    "Keyonte George",
+    "Utah Jazz"
+   ],
+   "summary": "Adversity continues to come in many forms for the Utah Jazz.",
+   "facts": [
+    "In a Friday-night NBA Cup matchup against the Houston Rockets, Utah lost its starting center Jaxson Hayes to a knee injury, which further tested the remainder of the team’s rotation.",
+    "The Jazz fought admirably until the final minute, with 76 combined points from Darryn Peterson, Keyonte George, and Ace Bailey helping the visitors nearly pull off the upset.",
+    "In the end, Alperen Şengün’s 43-point, 12-rebound performance and timely offensive rebounding from the Rockets (18 in total) pushed Houston to a 125-118 win.",
+    "There will be no rest for the weary, as the Jazz return home to host the red-hot San Antonio Spurs Sunday afternoon.",
+    "San Antonio (11-2) has won 11 games in a row and ranks second in both offensive and defensive rating on the season.",
+    "San Antonio’s starting lineup leads the league with a plus-32.7 net-rating this season.",
+    "Limit the turnovers With the league’s best net-rating (plus-15.6 points per 100 possessions), it’s no surprise that the Spurs thrive in nearly every area of the game.",
+    "San Antonio ranks 13th or better in each of the four factors on both sides of the ball, with one lone exception."
+   ],
+   "quotes": []
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -1806,95 +1863,6 @@
    "facts": [
     "Plumlee (7-0, 254) spent the 2025-26 season with the Charlotte Hornets and San Antonio Spurs, seeing action in 20 games (3 starts).",
     "Over 13 career seasons, he has averaged 7.9 points (59.6 FG%), 6.6 rebounds and 2.3 assists in 21.6 minutes per game in 880 career regular season games (481 starts)."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-11-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-11-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-cavaliers-game-notes-november-11-2026",
-   "title": "Knicks vs Cavaliers Game Notes | November 11, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-11-11T20:42:38Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "November 11, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 11; Home Game 7",
-   "facts": [
-    "November 11, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 11; Home Game 7 TV: MSG Networks/ESPN; Radio: SiriusXM This Day in Knicks History November 11, 1946: The Big Apple sees the Knicks for the first …",
-    "The Knicks lose to Chicago 78-68 (OT).",
-    "CCNY’s Sonny Hertzberg leads the Knicks with 14 points.",
-    "November 11, 1980: Knicks defeat Detroit 149-118 with 62 field goals made, the most by a Knicks team in regulation.",
-    "Campy Russell leads the way with 28 points (11-16 FG).",
-    "CLE: Cleveland (11/7/26) – The New York Knicks defeated the Cleveland Cavaliers, 109-97.",
-    "Jalen Brunson led New York with 31 points, nine assists and six rebounds.",
-    "Karl-Anthony Towns registered 29 points on 52.4-percent shooting, 13 rebounds, three assists and two steals."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/familiarity-speeding-up-grayson-allens-assimilation-in-charlotte",
-   "url": "https://www.nba.com/hornets/news/familiarity-speeding-up-grayson-allens-assimilation-in-charlotte",
-   "canonical_url": "https://hornets.com/news/familiarity-speeding-up-grayson-allens-assimilation-in-charlotte",
-   "title": "Familiarity Speeding Up Grayson Allen’s Assimilation In Charlotte",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-11T20:16:38Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "When shooting guard Grayson Allen got traded from Phoenix to the Charlotte Hornets back in mid-July, he already had a few pre-existing relationships waiting for him on his new team. However, the most familiar sight for Allen lately has been the high frequency in which his 3-point attempts have been making their way through the hoop.",
-   "facts": [
-    "When shooting guard Grayson Allen got traded from Phoenix to the Charlotte Hornets back in mid-July, he already had a few pre-existing relationships waiting for him on his new team.",
-    "However, the most familiar sight for Allen lately has been the high frequency in which his 3-point attempts have been making their way through the hoop.",
-    "Just a few weeks into his purple-and-teal tenure, Allen has unequivocally been the team’s steadiest 3-point shooter so far, as well as one of the NBA’s most productive bench scorers.",
-    "Having recently been bumped into the first unit following injuries to Kon Knueppel and Brandon Miller, Allen is averaging 15.3 points on 46% shooting, 3.5 3-pointers (13th in the NBA) on 47% shooting (12th in the NBA) an…",
-    "Since the beginning of the 2021-22 season, Allen – one of two active NBA players with a 3-point percentage title (46.1% in 2023-24) along with former Duke teammate Luke Kennard – Steph Curry and Desmond Bane are the only…",
-    "There have been so many clips that we’ve watched as a team where his process, his early physicality, his hands being active, getting on the floor for 50-50 balls have been really impressive.",
-    "Then, I just got unlucky with some of the injuries – just weird, freak unavoidable type of stuff.",
-    "It’s a process that Allen has gone through four times now, all of which have transpired during the offseason (though his move from Milwaukee to Phoenix as part of the Damian Lillard deal in September of 2023 took place j…"
-   ],
-   "quotes": [
-    "I’m quickly getting used to a new system, new teammates and coaches, but I think it’s going well. Obviously, we’ve been a little bit banged up as a team, so I’m looking forward to getting the full tea…",
-    "Going into last season, I felt like I got into a great spot physically, which I feel like contributed to me playing better,",
-    "Doing a lot more driving, moving quicker, better defensively, more physical. Then, I just got unlucky with some of the injuries – just weird, freak unavoidable type of stuff. I didn’t change up the pr…",
-    "The transition and getting started in a new place gets easier,"
-   ]
-  },
-  {
-   "source": "POR 公式（nba.com）",
-   "team": "POR",
-   "team_ja": "トレイルブレイザーズ",
-   "team_id": 1610612757,
-   "kind": "injury",
-   "key": "https://www.nba.com/blazers/news/vit-krejci-injury-update",
-   "url": "https://www.nba.com/blazers/news/vit-krejci-injury-update",
-   "canonical_url": "https://blazers.com/news/vit-krejci-injury-update",
-   "title": "Vit Krejci Injury Update",
-   "author": "Portland Trail Blazers",
-   "published_utc": "2026-11-11T19:42:46Z",
-   "tags": [
-    "injury",
-    "news",
-    "StartingFive",
-    "vit krejci"
-   ],
-   "summary": "PORTLAND, Ore. (Nov. 11, 2026) – Portland Trail Blazers forward Vit Krejci sustained a fracture in his left ankle during the November 4 game against the Phoenix Suns.",
-   "facts": [
-    "PORTLAND, Ore. (Nov. 11, 2026) – Portland Trail Blazers forward Vit Krejci sustained a fracture in his left ankle during the November 4 game against the Phoenix Suns.",
-    "Krejci underwent successful surgery today to repair the left ankle.",
-    "Krejci will begin the recovery process immediately and will be re-evaluated in 8 weeks."
    ],
    "quotes": []
   }
