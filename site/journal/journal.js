@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "992-embiid-sit-pacers-plantar-fascia.html",
+    cat: "NBA",
+    title: "ジョエル・エンビード、ペイサーズ戦を欠場 —— 76ersは右足底筋膜炎の管理を継続、センターはタコ・フォールのみに",
+    excerpt: "フィラデルフィア・76ersは現地時間11月14日、ジョエル・エンビードを右足底筋膜炎の管理のため15日のインディアナ・ペイサーズ戦で欠場させると発表した。アデム・ボナとドミニック・バーローも欠場し、出場可能な正センターはタコ・フォールのみとなる。",
+    date: "2026.11.15",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "991-shai-gilgeous-alexander-40-points-clippers.html",
     cat: "NBA",
     title: "シェイ・ギルジャス＝アレクサンダー、クリッパーズ戦で40得点 —— サンダーは112-113の1点差で敗戦",
