@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "981-franz-wagner-35-points-bucks.html",
+    cat: "NBA",
+    title: "フランツ・ワグナー、バックス戦で35得点 —— マジックが107-99で勝利",
+    excerpt: "オーランド・マジックのフランツ・ワグナーは現地時間11月13日、本拠地でのミルウォーキー・バックス戦に36分出場し、フィールドゴール22本中13本・3ポイント8本中3本・フリースロー6本を全て沈めて35得点を記録した。アシスト12・リバウンド9も記録し、両チーム通じてこの日の最多得点者となり、マジックは107-99でバックスに勝利した。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-981-hero.jpg?v=4cf3e72f9b"
+  },
+  {
     href: "980-social-status-air-jordan-1-low-sashiko.html",
     cat: "KICKS",
     title: "Social Status × Air Jordan 1 Low OG「Sashiko」—— 和の刺し子柄をあしらった新色、2026年12月発売",
