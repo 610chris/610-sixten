@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "991-shai-gilgeous-alexander-40-points-clippers.html",
+    cat: "NBA",
+    title: "シェイ・ギルジャス＝アレクサンダー、クリッパーズ戦で40得点 —— サンダーは112-113の1点差で敗戦",
+    excerpt: "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダーは敵地ロサンゼルスでのクリッパーズ戦に39分出場し、40得点・リバウンド4・アシスト5を記録した。両チーム通じてこの日の最多得点者となったが、サンダーは112-113の1点差でクリッパーズに敗れた。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "990-hachimura-7-points-thunder.html",
+    cat: "NBA",
+    title: "八村塁、サンダー戦で7得点11リバウンド —— クリッパーズが113-112の接戦を制す",
+    excerpt: "ロサンゼルス・クリッパーズの八村塁は本拠地でのオクラホマシティ・サンダー戦に32分出場し、7得点・リバウンド11・アシスト3を記録した。クリッパーズは113-112の1点差でサンダーを下した。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "989-castle-32-points-warriors.html",
     cat: "NBA",
     title: "ステフォン・キャッスル、ウォリアーズ戦で32得点 —— スパーズが123-85で圧勝",

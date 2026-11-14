@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T15:00:24+09:00",
+  "updated": "2026-11-14T15:22:10+09:00",
   "items": [
     {
       "id": "134",
@@ -31120,6 +31120,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ステフォン・キャッスル、ウォリアーズ戦で32得点\n\n・25分出場でFG18本中12本、32得点\n・リバウンド5・アシスト6、+35\n・スパーズが123-85でウォリアーズに圧勝\n\n💬 キャッスルとウェンバンヤマ、今季のスパーズのカギはどっち？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Warriors vs. Spurs)\n写真: 2026年西カンファレンス決勝でのステフォン・キャッスル。撮影: Petsbikes / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "990",
+      "slug": "990-hachimura-7-points-thunder",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "八村塁、サンダー戦で7得点11リバウンド",
+      "excerpt": "ロサンゼルス・クリッパーズの八村塁(Rui Hachimura)は現地時間11月13日、本拠地でのオクラホマシティ・サンダー戦に32分出場し、フィールドゴール9本中2本(3ポイント6本中1本)を沈めて7得点・リバウンド11・アシスト3を記録した。クリッパーズは113-112の1点差でサンダーを下した。",
+      "points": [
+        "FG2/9・3PT1/6で7得点",
+        "リバウンド11・アシスト3",
+        "クリッパーズが113-112の接戦を制す"
+      ],
+      "source": "ESPN ボックススコア(Clippers vs. Thunder)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/990-hachimura-7-points-thunder.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "八村のリバウンド11、もっと評価されるべき？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. THUNDER",
+        "points": 7,
+        "stats": [
+          "11 REB",
+          "3 AST",
+          "2/9 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/990-1.jpg",
+        "https://sixten.jp/assets/ig/990-2.jpg",
+        "https://sixten.jp/assets/ig/990-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T15:21:37+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、サンダー戦で7得点11リバウンド\n\n・FG2/9・3PT1/6で7得点\n・リバウンド11・アシスト3\n・クリッパーズが113-112の接戦を制す\n\n💬 八村のリバウンド11、もっと評価されるべき？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Clippers vs. Thunder)\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "991",
+      "slug": "991-shai-gilgeous-alexander-40-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "シェイ・ギルジャス＝アレクサンダー、クリッパーズ戦で40得点",
+      "excerpt": "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月13日、敵地ロサンゼルスでのクリッパーズ戦に39分出場し、フィールドゴール26本中15本・フリースロー11本中8本を沈めて40得点を記録した。両チーム通じてこの日の最多得点者となったが、サンダーは112-113の1点差でクリッパーズに敗れた。",
+      "points": [
+        "FG15/26・FT8/11の高確率で40得点",
+        "リバウンド4・アシスト5",
+        "サンダーは112-113の1点差で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Thunder vs. Clippers)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/991-shai-gilgeous-alexander-40-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "SGAの40得点、負け試合でも評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. CLIPPERS",
+        "points": 40,
+        "stats": [
+          "5 AST",
+          "4 REB",
+          "15/26 FG",
+          "2/4 3PT",
+          "8/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/991-1.jpg",
+        "https://sixten.jp/assets/ig/991-2.jpg",
+        "https://sixten.jp/assets/ig/991-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T15:21:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シェイ・ギルジャス＝アレクサンダー、クリッパーズ戦で40得点\n\n・FG15/26・FT8/11の高確率で40得点\n・リバウンド4・アシスト5\n・サンダーは112-113の1点差で敗戦\n\n💬 SGAの40得点、負け試合でも評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Thunder vs. Clippers)\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
