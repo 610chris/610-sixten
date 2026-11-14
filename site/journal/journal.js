@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "987-sengun-43-points-jazz.html",
+    cat: "NBA",
+    title: "アルペラン・シェングン、ジャズ戦で43得点 —— ロケッツが125-118で勝利",
+    excerpt: "ヒューストン・ロケッツのアルペラン・シェングンは本拠地でのユタ・ジャズ戦に37分出場し、43得点・リバウンド12を記録した。両チーム通じてこの日の最多得点者となり、ロケッツは125-118でジャズに勝利した。",
+    date: "2026.11.14",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "986-saddiq-bey-30-points-grizzlies.html",
     cat: "NBA",
     title: "サディーク・ベイ、グリズリーズ戦で30得点 —— ペリカンズは111-142で大敗",

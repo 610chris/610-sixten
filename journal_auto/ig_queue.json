@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T12:59:51+09:00",
+  "updated": "2026-11-14T13:57:30+09:00",
   "items": [
     {
       "id": "134",
@@ -30981,6 +30981,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "サディーク・ベイ、グリズリーズ戦で30得点\n\n・FG11/20・3P6/9で30得点\n・リバウンド10の孤軍奮闘\n・ペリカンズは111-142で大敗\n\n💬 30得点でも大敗…ペリカンズの立て直しは？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "987",
+      "slug": "987-sengun-43-points-jazz",
+      "category": "NBA",
+      "date": "2026-11-14",
+      "headline": "シェングン、ジャズ戦で43得点",
+      "excerpt": "ヒューストン・ロケッツのアルペラン・シェングンは現地時間11月13日、本拠地でのユタ・ジャズ戦に37分出場し、フィールドゴール24本中17本・フリースロー12本中8本を沈めて43得点を記録した。両チーム通じてこの日の最多得点者となり、ロケッツは125-118でジャズを下した。",
+      "points": [
+        "FG17/24・70.8%の高確率",
+        "リバウンド12・アシスト5",
+        "ロケッツが125-118で勝利"
+      ],
+      "source": "ESPN ボックススコア(Rockets vs. Jazz・2026年11月13日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/987-sengun-43-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Alperen Sengun"
+      ],
+      "question": "シェングン、今季のキャリアハイはまだ更新する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ALPEREN SENGUN",
+        "opponent": "vs. JAZZ",
+        "points": 43,
+        "stats": [
+          "12 REB",
+          "5 AST",
+          "17/24 FG",
+          "8/12 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/987-1.jpg",
+        "https://sixten.jp/assets/ig/987-2.jpg",
+        "https://sixten.jp/assets/ig/987-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-14T13:57:27+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シェングン、ジャズ戦で43得点\n\n・FG17/24・70.8%の高確率\n・リバウンド12・アシスト5\n・ロケッツが125-118で勝利\n\n💬 シェングン、今季のキャリアハイはまだ更新する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Rockets vs. Jazz・2026年11月13日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
