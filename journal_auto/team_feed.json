@@ -1,8 +1,175 @@
 {
- "updated_utc": "2026-11-14 14:27 UTC",
+ "updated_utc": "2026-11-14 19:27 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/tipoff-time-change-announced-for-dallas-mavericks-november-18-game-against-golden-state-warriors",
+   "url": "https://www.nba.com/mavs/news/tipoff-time-change-announced-for-dallas-mavericks-november-18-game-against-golden-state-warriors",
+   "canonical_url": "",
+   "title": "Tipoff Time Change Announced for Dallas Mavericks’ November 18 Game Against Golden State Warriors",
+   "author": "Gabe Flores",
+   "published_utc": "2026-11-14T18:44:11Z",
+   "tags": [],
+   "summary": "DALLAS (Nov. 14, 2026) - The Dallas Mavericks announced today a time change for their game on Wednesday, November 18 against the Golden State Warriors. The game, originally scheduled for 8:30 p.m. CT will now tip off at 7 p.m. CT at American Airlines Center.",
+   "facts": [
+    "DALLAS (Nov. 14, 2026) - The Dallas Mavericks announced today a time change for their game on Wednesday, November 18 against the Golden State Warriors.",
+    "The game, originally scheduled for 8:30 p.m.",
+    "CT will now tip off at 7 p.m.",
+    "The night will include: In-Arena Tributes: Special ceremonies and video tributes celebrating Nelson’s impact on the Mavericks organization, the Dallas community, and basketball.Fan Giveaways: The first 10,000 ticketed fa…",
+    "The game will air exclusively on KFAA 29 in the Dallas/Fort Worth market, across the MavsTV Network, MavsTV+, 105.3 The Fan and ZonaMX 99.1."
+   ],
+   "quotes": [
+    " that evening to honor the life and legacy of the late Hall of Fame coach Don "
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-nuggets-injury-report-game-preview-11-14-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-nuggets-injury-report-game-preview-11-14-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-nuggets-injury-report-game-preview-11-14-2026",
+   "title": "Pelicans vs. Nuggets: Injury Report, Game Preview 11/14/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-11-14T17:46:43Z",
+   "tags": [],
+   "summary": "The Pelicans host the Denver Nuggets on Saturday at the Smoothie King Center at 6:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans host the Denver Nuggets on Saturday at the Smoothie King Center at 6:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Nuggets injury report, team news, tune in details, and gameday information: PELICANS VS NUGGETS INJURY UPDATE PELICANS INJURY REPORT Yves Missi PROBABLE (left knee contusion/bone bruise) Bryce McG…",
+    "Nuggets Game Time, TV Channel, Radio & Location 📅 Game Time: Saturday, Nov. 14 at 6:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Coas…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-conclude-road-trip-pelicans",
+   "url": "https://www.nba.com/nuggets/news/nuggets-conclude-road-trip-pelicans",
+   "canonical_url": "https://nuggets.com/news/nuggets-conclude-road-trip-pelicans",
+   "title": "Nuggets conclude road trip against Pelicans",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-14T17:34:07Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets wrap up a three-game road trip in New Orleans.",
+   "facts": [
+    "INJURY REPORT Denver: DaRon Holmes II — OUT (G League Assignment) Ryan Nembhard — OUT (G League Two-Way Assignment) Julian Strawther — OUT (Left Knee Sprain) Cam Whitmore — OUT (G League Two-Way Assignment) The Nuggets p…",
+    "They're 2-0 against New Orleans and have a 6-4 overall record to begin 2026-27.",
+    "Jamal Murray led the Nuggets in the scoring department with 30 points on 12-of-19 shooting from the field and 4-of-7 from behind the three-point arc.",
+    "He scored 22 of Denver's final 38 points and has notched at least 30 points in half of his games.",
+    "Murray's also leading the NBA in three-point percentage at 51.3 percent for players who have taken at least 50 threes.",
+    "The next closest on that list is Cleveland's Maleek Thomas, at 47.3 percent, so Jamal has a pretty sizable lead.",
+    "The only other team they've beaten more times consecutively is the Utah Jazz (10).",
+    "TUNE-IN: Saturday, November 14, 5:00 p.m."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/behind-the-numbers-nuggets-at-pelicans-11-14-2026",
+   "url": "https://www.nba.com/pelicans/news/behind-the-numbers-nuggets-at-pelicans-11-14-2026",
+   "canonical_url": "https://pelicans.com/news/behind-the-numbers-nuggets-at-pelicans-11-14-2026",
+   "title": "Behind the Numbers: Nuggets at Pelicans (11/14/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-14T17:18:57Z",
+   "tags": [],
+   "summary": "A look at three key numbers related to Saturday’s game in the Smoothie King Center between Denver and New Orleans (6 p.m. Central, GCSEN on TV; WWL on radio):",
+   "facts": [
+    "A look at three key numbers related to Saturday’s game in the Smoothie King Center between Denver and New Orleans (6 p.m.",
+    "Central, GCSEN on TV; WWL on radio): 62-36:Denver combined scoring advantage over New Orleans in the fourth quarter of its consecutive Oct. 24 and 28 head-to-head victories.",
+    "The Nuggets forced overtime in Ball Arena in the first of those matchups with a 37-18 surge, overcoming what had been as large as a 23-point deficit.",
+    "In the Blender meeting four days later, Denver put New Orleans away with a 25-18 fourth period, after only leading by six points entering the final 12 minutes.",
+    "Through the first four weeks of the season, the Nuggets have otherwise been an average team in the fourth quarter, with a net rating of plus 0.1.",
+    "The Pelicans have struggled mightily in that stanza, ranking 29th at minus 22.5 points per 100 possessions (only Charlotte has a worse net rating in the final dozen minutes of regulation, at minus 29.0). 5: Different lea…",
+    "New Orleans has relied on numerous top offensive options during its five-game losing streak and posted at least 109 points in four of the five defeats (only mustered 87 at Golden State), but the defensive end is making i…",
+    "Prior to Bey’s 30-point eruption Friday, Zion Williamson (29 vs."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/norman-powells-late-game-heroics-lift-bulls-over-hawks-in-ot",
+   "url": "https://www.nba.com/bulls/news/norman-powells-late-game-heroics-lift-bulls-over-hawks-in-ot",
+   "canonical_url": "https://bulls.com/news/norman-powells-late-game-heroics-lift-bulls-over-hawks-in-ot",
+   "title": "Norman Powell's late game heroics lift Bulls over Hawks in OT",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-14T14:52:24Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "The Bulls are not a better team without Caleb Wilson even though the Bulls Friday stopped an eight-game losing streak with a 125-117 overtime win against the Atlanta Hawks.",
+   "facts": [
+    "The Bulls are not a better team without Caleb Wilson even though the Bulls Friday stopped an eight-game losing streak with a 125-117 overtime win against the Atlanta Hawks.",
+    "Which Powell did with ease and elan, nine of his game-high 33 points in overtime to outscore the entire Hawks team, a team-most six fourth-quarter points and a how-did-that-not-go-in baseline spinner with four seconds le…",
+    "Then a 20-foot step back, driving finger roll and foul shots to sandwich a big time Matas Buzelis three with 24 seconds left.",
+    "Josh Giddey had a triple-double with 15 points, 14 assists and 10 rebounds.",
+    "Jalen Smith had a double-double with 15 points and 14 rebounds before leaving early in overtime following a scary fall on his left wrist.",
+    "Isaac Okoro also had 15 points with seven Bulls players scoring in double figures and the Bulls marksmanship continuing to improve with 20 of 50 (yikes) three-point makes.",
+    "It helped offset another gruesome 25 Bulls turnovers for 34 Atlanta points, the Hawks with a 26-8 margin on fast breaks from those Bulls mistakes.",
+    "And then Michael Jordan scored 40 points to save the day."
+   ],
+   "quotes": [
+    "He is a guy who can close a game, can create shots,",
+    "Had a little gauntlet to start the season,",
+    "Collectively played a full game,",
+    "We made 20 threes, that was the game right there,"
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-76ers-261115",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-76ers-261115",
+   "canonical_url": "https://pacers.com/news/preview-pacers-76ers-261115",
+   "title": "Game Preview: Pacers at 76ers",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-14T14:36:00Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Sunday, Nov. 15 at 1:00 PM ET at Xfinity Mobile Arena",
+   "facts": [
+    "Sunday, Nov. 15 at 1:00 PM ET at Xfinity Mobile Arena Game Preview Indiana heads to Philadelphia in a one-game road trip following its win over the Knicks on Friday.",
+    "The Pacers will rematch with Tyrese Maxey and the 76ers on Sunday, Nov. 15 at 1:00 PM ET.",
+    "The 76ers will be rested – Philadelphia last played on Thursday when it hosted the Toronto Raptors.",
+    "The 76ers defeated the Raptors, 123-112, behind 27 points and eight assists from Maxey.",
+    "Maxey is averaging nearly 27 points per game for Philadelphia, along with 3.4 rebounds and 5.5 assists.",
+    "He’s an efficient scorer that can heat up quickly – he’s logged games of both 32 and 38 points this season, and scored 17 of his 27 points in the fourth quarter when the 76ers visited Gainbridge Fieldhouse in late Octobe…",
+    "The Pacers have held opponents to 110 points or less in seven of its initial 13 games, and their defensive rating is 12th in the league.",
+    "The Blue and Gold gave up 145 points to the Miami Heat, and 125 points to the Mavericks in Dallas, but held the Knicks to 104 points on Friday."
+   ],
+   "quotes": [
+    "I think something that me and Q do is we go out there and just do [it] with hard play,",
+    "And it inspires others and gets the crowd into it. Me and him together, I told him we can take it to another level and kind of change games energy-wise."
+   ]
+  },
   {
    "source": "CLE 公式（nba.com）",
    "team": "CLE",
@@ -209,6 +376,40 @@
     "NEXT FOR NEW ORLEANS A Saturday 6 p.m. matchup vs."
    ],
    "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-knicks-261113",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-knicks-261113",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-knicks-261113",
+   "title": "Game Rewind: Pacers 106, Knicks 104 (NBA Cup)",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-14T03:27:00Z",
+   "tags": [
+    "2026 NBA Cup",
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse Game Recap NBA Cup action came to Indiana on Friday as the Pacers hosted the defending champion New York Knicks.",
+    "The Pacers earned a second consecutive win that came down to the wire, 106-104, and improved their record to 5-8.",
+    "The Pacers led by one point, 85-84, at the start of the fourth quarter, but had led by as many as 14 points in the initial three periods of play.",
+    "A serious defensive stand down the stretch of the fourth quarter had Indiana up, 102-89, with just over six minutes left.",
+    "Indiana held on to that lead, and had a four-point advantage with Pascal Siakam heading to the free throw line with 23 seconds remaining, 106-102.",
+    "The Pacers turned the ball over on the inbounds play that followed, and New York had a chance at a shot with 2.8 seconds to play.",
+    "The game was knotted at nine points just over three minutes into play, but the Knicks went on a 7-0 scoring run in 70 seconds of game time to lead, 16-9, by the seven-minute mark.",
+    "Jay Huff’s stroke from deep was pure in the first quarter – he rattled in two 3-pointers and finished the first leading Indiana with eight points on 3-for-5 shooting."
+   ],
+   "quotes": [
+    "Very proud of our team. We were a pretty big underdog coming into this game, and knew that we were going to have to really battle from start to finish. A lot of it was going to come down to rebounding…",
+    "He just battles, and I thought him and McConnell were huge factors in the game…Those guys were extremely important. Everybody was important, and you know playing a team of this caliber, with their kin…",
+    "I thought Huff gave us great minutes in the first quarter, hitting those two threes…He did a good job blocking out Drummond a couple times…Zu[bac] is doing some great things. Around the basket, you’ve…",
+    "Once again, he was very good. He did good things at both ends. He does a lot of things that don’t show up [in the box score]. His cutting, his crashing, those kinds of things…Love the way he’s trendin…"
+   ]
   },
   {
    "source": "ORL 公式（nba.com）",
@@ -1107,6 +1308,34 @@
    "quotes": []
   },
   {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "feature",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-comeback-falls-short-fall-to-nuggets-123-118",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-comeback-falls-short-fall-to-nuggets-123-118",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-comeback-falls-short-fall-to-nuggets-123-118",
+   "title": "GRIZZLIES COMEBACK FALLS SHORT, FALL TO NUGGETS 123-118",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-12T17:07:53Z",
+   "tags": [
+    "Pressroom"
+   ],
+   "summary": "MEMPHIS, TENN (Nov. 11, 2026) - The Memphis Grizzlies (7-4) were defeated by the Denver Nuggets (6-4) 123-118 on Wednesday at FedExForum.",
+   "facts": [
+    "MEMPHIS, TENN (Nov. 11, 2026) - The Memphis Grizzlies (7-4) were defeated by the Denver Nuggets (6-4) 123-118 on Wednesday at FedExForum.",
+    "Ty Jerome tallied 22 points, including 11 in the fourth quarter.",
+    "Jerome has scored at least 20 points in a career-high five straight games and has scored in double figures in all of his first 25 games in a Grizzlies uniform, matching O.J.",
+    "Mayo (2008) for the longest such streak in franchise history.",
+    "Jaylen Wells scored a season-high 22 points and made a season-best five of his 10 3-point attempts.",
+    "Cam Spencer added a season-high 15 points, while Jerami Grant finished with 14 points for his sixth straight game in double figures.",
+    "Spencer and Grant helped the Grizzlies’ bench outscore the Nuggets’ second unit 44-22.",
+    "Cam Boozer recorded his fourth double-double of the season with 13 points and 11 rebounds to go with five assists."
+   ],
+   "quotes": []
+  },
+  {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
    "team_ja": "ウォリアーズ",
@@ -1668,261 +1897,6 @@
     "Krejci will begin the recovery process immediately and will be re-evaluated in 8 weeks."
    ],
    "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/were-a-team-the-shorthanded-utah-jazz-continue-to-embrace-adversity",
-   "url": "https://www.nba.com/jazz/news/were-a-team-the-shorthanded-utah-jazz-continue-to-embrace-adversity",
-   "canonical_url": "https://utahjazz.com/news/were-a-team-the-shorthanded-utah-jazz-continue-to-embrace-adversity",
-   "title": "“We’re A Team” | The Shorthanded Utah Jazz Continue to Embrace Adversity",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-11T18:41:24Z",
-   "tags": [
-    "Ace Bailey",
-    "Darryn Peterson",
-    "Jaren Jackson Jr.",
-    "Jusuf Nurkic",
-    "Lauri Markkanen",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "Adversity has been a main theme for the Utah Jazz at the beginning of the 2026-27 season.",
-   "facts": [
-    "Adversity has been a main theme for the Utah Jazz at the beginning of the 2026-27 season.",
-    "Utah was dealt an early blow with a preseason injury to starting center Jusuf Nurkić, which was followed by injuries to Jaren Jackson Jr. and Lauri Markkanen during the same game back on Oct. 26.",
-    "Jackson Jr.’s MCL tear will see him be re-evaluated sometime in mid-December, while Markkanen initially battled through his right wrist sprain to give everything he had for the team.",
-    "Keyonte George suffered an ankle sprain in Utah's loss to the Minnesota Timberwolves on Sunday, which was quickly followed by the news on Wednesday that Markkanen will now be re-evaluated in four weeks after suffering tw…",
-    "And yet, if Tuesday’s 115-109 loss to the Miami Heat was any indication, the Jazz will continue to embrace a shorthanded, underdog mentality and battle until the final buzzer.",
-    "Although a losing streak has prolonged during this stretch, Utah has relied on activity on the defensive end (13th in defensive rating since Nov. 2) and has seen key areas of growth from the likes of Darryn Peterson and …",
-    "In Tuesday’s loss, the two young players combined for 48 points as the leaders of the offense, getting to their spots on the floor and embracing more responsibility.",
-    "Against Miami, it was Isaiah Collier’s turn to electrify the Delta Center crowd and give his team a boost, knocking down four 3-pointers in the fourth quarter as Utah mounted a comeback attempt."
-   ],
-   "quotes": [
-    "They’re tough, they care, and they don’t complain. They stand tall in the moment. The results haven’t gone our way and there’s a ton of circumstance that hasn’t gone our way, but they understand the t…",
-    "Sitting around talking about things that haven’t gone our way doesn’t do us any good,",
-    "I’m proud of our team because of the way they’re handling themselves. Everyone wants some big emotional reaction, and our team continues to just chip at it every day.",
-    "They’re playing with poise,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "injury",
-   "key": "https://www.nba.com/jazz/news/lauri-markkanen-injury-update",
-   "url": "https://www.nba.com/jazz/news/lauri-markkanen-injury-update",
-   "canonical_url": "https://utahjazz.com/news/lauri-markkanen-injury-update",
-   "title": "Lauri Markkanen Injury Update",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-11T18:30:25Z",
-   "tags": [
-    "Lauri Markkanen",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (November 11, 2026) – The following is an injury update on Utah Jazz forward Lauri Markkanen.",
-   "facts": [
-    "SALT LAKE CITY (November 11, 2026) – The following is an injury update on Utah Jazz forward Lauri Markkanen.",
-    "Markkanen sustained a right hand injury during Utah’s game against Dallas on Nov. 6.",
-    "Following evaluation, he was diagnosed with two nondisplaced fractures in his right hand.",
-    "He will be re-evaluated in four weeks."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-utah-jazz-game-preview-injury-report-20261111",
-   "url": "https://www.nba.com/magic/news/orlando-magic-utah-jazz-game-preview-injury-report-20261111",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-utah-jazz-game-preview-injury-report-20261111",
-   "title": "Orlando Magic at Utah Jazz: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-11-11T18:06:24Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "As the buzzer sounded in Sacramento and solidified an Orlando Magic road win, Franz Wagner began his walk-off interview not with a celebratory comment about the victory, but instead delivered a message about the importance of the team’s next game.",
-   "facts": [
-    "The Magic outscored the Kings by 30 in the paint (58-28), outrebounded them by 14 (49-35) and won the turnover battle.",
-    "The latter has been a barometer of Orlando’s success this season, and it’ll certainly look to have another type of outing where it forces seven more turnovers than its opponent (21-14) and generates 13 more points off ta…",
-    "It’s just playing defense 24 more seconds, 14 more seconds.",
-    "The Jazz allow 32.5 free throw attempts per contest to their opponents this season, which is the most in the NBA.",
-    "Over the last three games, the No. 2 overall pick in the 2026 NBA Draft is averaging 24.0 points, while shooting 51.9 percent from the floor, 45.8 percent from 3-point range and 87.5 percent from the free throw line.",
-    "IN AND OUT: Orlando’s injury report is not yet submitted.",
-    "However, Paolo Banchero (right low-grade high ankle sprain), Tristan da Silva (left calf strain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery), Noah Penda (right partially tor…",
-    "Utah’s injury report is not yet submitted."
-   ],
-   "quotes": [
-    "(It’s a) big one (Wednesday) for us.",
-    "(We have to) have the same energy, the same connectivity (that we did in Sacramento),",
-    "And then, focus on the gameplan and try and execute that.",
-    "That was part of the game plan,"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/gamepreview-20261111-bostor",
-   "url": "https://www.nba.com/celtics/news/gamepreview-20261111-bostor",
-   "canonical_url": "https://celtics.com/news/gamepreview-20261111-bostor",
-   "title": "11/11 Game Preview: Celtics at Raptors",
-   "author": "Boston Celtics",
-   "published_utc": "2026-11-11T17:51:40Z",
-   "tags": [
-    "Game Preview",
-    "Pregame",
-    "Regular Season"
-   ],
-   "summary": "Toronto guard Jamal Shead's strength may be his on-ball defense, but he likely will be asked to contribute more on offense Wednesday night when the injury-plagued Raptors face the visiting Boston Celtics.",
-   "facts": [
-    "Provided by Field Level Media Toronto guard Jamal Shead's strength may be his on-ball defense, but he likely will be asked to contribute more on offense Wednesday night when the injury-plagued Raptors face the visiting B…",
-    "Kawhi Leonard (knee swelling) hasn't played in the past eight games for Toronto, which also has been without Scottie Barnes (groin strain) and Immanuel Quickley (hamstring tightness) for its past two contests.",
-    "The Raptors' injury report lists Leonard and Barnes as out for Wednesday's contest, and Quickley is questionable.",
-    "Shead had team highs of 20 points and 11 assists in Toronto's 118-102 loss to Memphis on Monday.",
-    "That showing came three nights after he contributed 10 points and a career-high 16 assists in a 121-107 victory over Milwaukee.",
-    "Shead is averaging 7.4 points and 7.0 assists in 24.3 minutes per game this season.",
-    "Toronto is 3-5 since then, however.",
-    "Shead, 24, said he's trying to make the most of his opportunity."
-   ],
-   "quotes": [
-    "The last couple of games when he's got more extended minutes and a bigger role on the team, he's really shining in those moments,",
-    "He embraces the challenge that's ahead of him, and he's doing a great job.",
-    "Obviously (the injured players) are really important pieces for us and really important guys to our team, but when they're out, it's next man up,",
-    "I think it helped my confidence these last two games for sure. Knowing I'm going to play a lot, knowing I'm going to have to produce, knowing these guys are depending on me -- it makes me play a littl…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-shootaround-update-nets-tip-off-important-five-game-new-orleans-homestand",
-   "url": "https://www.nba.com/pelicans/news/pelicans-shootaround-update-nets-tip-off-important-five-game-new-orleans-homestand",
-   "canonical_url": "https://pelicans.com/news/pelicans-shootaround-update-nets-tip-off-important-five-game-new-orleans-homestand",
-   "title": "Pelicans shootaround update: Nets tip off important five-game New Orleans homestand",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-11T17:49:19Z",
-   "tags": [],
-   "summary": "It’s still very early in the 2026-27 regular season, but New Orleans is facing what could be perceived as a critical stretch in pursuit of the team’s stated goal – reaching the playoffs in the spring. At 4-7 overall, six of the next seven Pelicans games are against opponents that currently sport winning records, including four in the Smoothie King Center during a five-game homestand. Following thi…",
-   "facts": [
-    "It’s still very early in the 2026-27 regular season, but New Orleans is facing what could be perceived as a critical stretch in pursuit of the team’s stated goal – reaching the playoffs in the spring.",
-    "At 4-7 overall, six of the next seven Pelicans games are against opponents that currently sport winning records, including four in the Smoothie King Center during a five-game homestand.",
-    "Following this handful of games in the Blender, New Orleans visits Western Conference heavyweights Oklahoma City and San Antonio during a Nov. 20-21 back-to-back.",
-    "Brooklyn (2-8), 7 p.m.",
-    "Memphis (7-3), 7 p.m. (NBA Cup) Arguably the league’s biggest positive surprise, the Grizzlies started 6-0 before losing in OT to the Pelicans on Nov. 2.",
-    "Denver (5-4), 6 p.m.",
-    "An up-and-down Nuggets start – no winning streak longer than two games – has been boosted by a pair of victories over the Pelicans, including a big Oct. 24 second-half comeback in Ball Arena.",
-    "Golden State (8-3), 7 p.m."
-   ],
-   "quotes": [
-    "Flushing it. Going back to the film, trying to find as many positives as we can and go on to the next (game).",
-    "Sometimes you get got. I guess that was just not our night (at Golden State)."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-kings-20261111",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-kings-20261111",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-kings-20261111",
-   "title": "Magic Four-Point Play: Follow-Up at Kings",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-11T17:46:49Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "‘Opportunity’ Stats Favoring Magic Lately",
-   "facts": [
-    "The Kings, largely because of the Magic’s ball pressure and active hands, turned it over 21 times, which led to 33 Orlando points.",
-    "The Magic had just 14 turnovers.",
-    "They also came down with 12 offensive rebounds.",
-    "He’s made 58.3 percent of his 36 shots on drives so far this season.",
-    "Last year, he shot 48.2 percent on them.",
-    "Through seven games, he’s shooting 42.4 percent from 3-point range – and he’s making them at a good clip both off the catch and off the dribble.",
-    "Last season, he shot 33.3 percent from beyond the arc.",
-    "The 6-foot-10 German forward has such a great feel for the game and uses his high basketball IQ to find teammates, especially when he gets into the paint."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-play-grizzlies-on-the-road",
-   "url": "https://www.nba.com/nuggets/news/nuggets-play-grizzlies-on-the-road",
-   "canonical_url": "https://nuggets.com/news/nuggets-play-grizzlies-on-the-road",
-   "title": "Nuggets play Grizzlies on the road",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-11T17:34:24Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets play the Memphis Grizzlies on Wednesday.",
-   "facts": [
-    "INJURY REPORT Denver: Julian Strawther — OUT (Left Knee Sprain) Memphis: Karim Lopez — OUT (G League Assignment) Jahmai Mashack — QUESTIONABLE (G League Assignment) Scotty Pippen Jr. — OUT (Lumbar Disc Herniation) Quinte…",
-    "With an average age of just 24.5 years, Memphis has the second-youngest roster in the league.",
-    "They've raced off to a 7-3 record thanks in large part to Ty Jerome's All-Star-caliber start.",
-    "The 29-year-old point guard is putting up a career-best 26.9 points per game on 50.0 percent shooting from the field and 37.9 percent shooting from three-point range.",
-    "The 2025-26 All-NBA Teamer is currently averaging a career-high 25.8 points per game on 49.3 percent shooting from the field and a scintillating 50.0 percent from distance.",
-    "He's also dishing out 5.7 assists and grabbing 5.1 rebounds per contest.",
-    "TUNE-IN: Wednesday, November 11, 6:00 p.m.",
-    "MT; Altitude TV; Altitude+; Altitude Sports Radio 92.5 FM"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/celtics-make-22-3-pointers-sixers-fall-123-101",
-   "url": "https://www.nba.com/sixers/news/celtics-make-22-3-pointers-sixers-fall-123-101",
-   "canonical_url": "https://sixers.com/news/celtics-make-22-3-pointers-sixers-fall-123-101",
-   "title": "Celtics make 22 3-pointers, Sixers fall 123-101",
-   "author": "Owen Boyle",
-   "published_utc": "2026-11-11T14:37:38Z",
-   "tags": [],
-   "summary": "The Boston Celtics (9-2) made 22 3-pointers in a 123-101 win over the Philadelphia 76ers (9-3). This was the first meeting between the two Eastern Conference foes since the first round of last year's playoffs, when the Sixers came back from a 3-1 deficit to advance.",
-   "facts": [
-    "The Boston Celtics (9-2) made 22 3-pointers in a 123-101 win over the Philadelphia 76ers (9-3).",
-    "This was the first meeting between the two Eastern Conference foes since the first round of last year's playoffs, when the Sixers came back from a 3-1 deficit to advance.",
-    "After a 23-10 run by the Sixers in the third quarter tied the game, the Celtics pulled away, draining nine consecutive 3-pointers and outscoring the Sixers 44-22 after retaking the lead.",
-    "Former Sixer Paul George was the game's leading scorer with 36 points on 14-of-22 shooting.",
-    "Tyrese Maxey led the Sixers with 24 points on 8-of-12 shooting.",
-    "The Celtics shot 51% from the field, while the Sixers shot 42%.",
-    "The Sixers shot 30% from 3-point range, making 11 of 37 attempts.",
-    "Just days after shooting better than 40% from beyond the arc, the Sixers struggled from 3-point range against one of the league's premier 3-point shooting teams."
-   ],
-   "quotes": [
-    "We’re still learning each other; learning how to play with each other,",
-    "It’s going to take games like this and some bad stretches to mold us a little better and get us a little tighter. We are growing, and there are growing pains. We just have to come in the next few days…",
-    "Especially in the first half, we were generating really good shots out of their swarming defense,",
-    "We were zinging it out to wide, wide open guys and we just didn't hit enough to keep pace. We were down 11 at the half and we could have easily, just all else being equal, made a decent percentage of …"
-   ]
   }
  ]
 }
