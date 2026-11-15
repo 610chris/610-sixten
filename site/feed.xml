@@ -9,6 +9,15 @@
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
     <item>
+      <title>カイリー・アービング、キャバリアーズ戦で34得点 —— マーベリックスは117-127で敗戦</title>
+      <link>https://sixten.jp/journal/995-kyrie-irving-34-points-cavaliers.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/995-kyrie-irving-34-points-cavaliers.html</guid>
+      <pubDate>Sun, 15 Nov 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>ダラス・マーベリックスのカイリー・アービング(Kyrie Irving)は現地時間11月14日、敵地クリーブランドでのキャバリアーズ(Cleveland Cavaliers)戦に37分出場し、フィールドゴール25本中11本・3ポイント16本中7本を沈めて34得点を記録した。アシスト5・スティール3も記録し、両チーム通じてこの日の試合最多得点者となったが、マーベリックスは117-127でキャバリアーズに敗れた。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-02.jpg?v=6d15bae6e8" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>ニコラ・ヨキッチ、ペリカンズ戦で26得点 —— ナゲッツが116-108で勝利、アシスト10も記録</title>
       <link>https://sixten.jp/journal/994-nikola-jokic-26-points-pelicans.html</link>
       <guid isPermaLink="true">https://sixten.jp/journal/994-nikola-jokic-26-points-pelicans.html</guid>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>NBAはロケッツのマーカス・スマートに、ウォリアーズのチャールズ・バセイへパンチを放ったとして無給3試合の出場停止処分を科した。ESPNが報じた。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>B.LEAGUE、「第2回スポーツビジネスアワード」で大賞受賞 —— 評価されたのは「B.革新」の経営改革</title>
-      <link>https://sixten.jp/journal/965-bleague-sports-business-award.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/965-bleague-sports-business-award.html</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 +0900</pubDate>
-      <category>JAPAN</category>
-      <description>B.LEAGUEが11月12日開催の「Sports Business Summit 2026」内「第2回スポーツビジネスアワード」でスポーツビジネス大賞を受賞。2026-27シーズンから始動したリーグ構造改革「B.革新」が評価された。</description>
-      <enclosure url="https://sixten.jp/assets/journal-965-hero.jpg?v=06158f2ae4" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

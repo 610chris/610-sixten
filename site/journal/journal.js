@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "995-kyrie-irving-34-points-cavaliers.html",
+    cat: "NBA",
+    title: "カイリー・アービング、キャバリアーズ戦で34得点 —— マーベリックスは117-127で敗戦",
+    excerpt: "ダラス・マーベリックスのカイリー・アービング(Kyrie Irving)は現地時間11月14日、敵地クリーブランドでのキャバリアーズ(Cleveland Cavaliers)戦に37分出場し、フィールドゴール25本中11本・3ポイント16本中7本を沈めて34得点を記録した。アシスト5・スティール3も記録し、両チーム通じてこの日の試合最多得点者となったが、マーベリックスは117-127でキャバリアーズに敗れた。",
+    date: "2026.11.15",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "994-nikola-jokic-26-points-pelicans.html",
     cat: "NBA",
     title: "ニコラ・ヨキッチ、ペリカンズ戦で26得点 —— ナゲッツが116-108で勝利、アシスト10も記録",
