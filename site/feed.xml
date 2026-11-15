@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>マレー争奪戦のカギは「不確実性ボーナス」240万ドル —— ペリカンズはタックス回避の余地あり、ボビー・マークス分析</title>
+      <link>https://sixten.jp/journal/1000-dejounte-murray-trade-salary-cap-marks.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/1000-dejounte-murray-trade-salary-cap-marks.html</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>トレード志望を伝えたデジャンテ・マレーの契約内容とペリカンズのサラリーキャップ事情を、ESPNのボビー・マークス記者が解説。240万ドルの「不確実性ボーナス」や2027年ドラフト指名権の行方など、トレード成立時に絡む数字を整理した。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>セドリック・カワード、ネッツ戦で23得点 —— グリズリーズが129-110で快勝</title>
       <link>https://sixten.jp/journal/999-cedric-coward-23-points-nets.html</link>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>フェニックス・サンズのデビン・ブッカー(Devin Booker)は現地時間11月12日、本拠地でのシャーロット・ホーネッツ戦に35分出場し、フィールドゴール20本中12本・3ポイント8本中4本を沈めて30得点を記録した。アシスト7・スティール3も記録し、両チーム通じてこの日の最多得点者となり、サンズは101-96でホーネッツを下した。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-02.jpg?v=6d15bae6e8" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>ボーンズ・ハイランド、マーベリックス戦でチーム最多24得点 —— ティンバーウルブズが133-94で大勝</title>
-      <link>https://sixten.jp/journal/970-bones-hyland-24-points-mavericks.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/970-bones-hyland-24-points-mavericks.html</guid>
-      <pubDate>Fri, 13 Nov 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>ミネソタ・ティンバーウルブズのボーンズ・ハイランド(Bones Hyland)は現地時間11月12日のダラス・マーベリックス戦にベンチから23分出場し、フィールドゴール10本中7本・3ポイント6本中5本を沈めて24得点を記録した。アシスト8・スティール2も記録し、両チーム通じてこの日の最多得点者となり、ティンバーウルブズは133-94でマーベリックスに大勝した。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

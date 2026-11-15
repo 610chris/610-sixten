@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1000-dejounte-murray-trade-salary-cap-marks.html",
+    cat: "NBA",
+    title: "マレー争奪戦のカギは「不確実性ボーナス」240万ドル —— ペリカンズはタックス回避の余地あり、ボビー・マークス分析",
+    excerpt: "トレード志望を伝えたデジャンテ・マレーの契約内容とペリカンズのサラリーキャップ事情を、ESPNのボビー・マークス記者が解説。240万ドルの「不確実性ボーナス」や2027年ドラフト指名権の行方など、トレード成立時に絡む数字を整理した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "999-cedric-coward-23-points-nets.html",
     cat: "NBA",
     title: "セドリック・カワード、ネッツ戦で23得点 —— グリズリーズが129-110で快勝",
