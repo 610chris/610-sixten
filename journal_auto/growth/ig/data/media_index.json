@@ -1590,6 +1590,29 @@
   "template": "score",
   "timestamp": "2026-10-17T05:14:37+0000"
  },
+ "17921979138461824": {
+  "article": "985",
+  "auto": true,
+  "caption_len": 295,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ノーマン・パウエル、ホークス戦で33得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DftUPzfGYlN/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Norman Powell"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T04:11:06+0000"
+ },
  "17922360030428071": {
   "article": "307",
   "auto": true,
@@ -2005,6 +2028,19 @@
   ],
   "template": "score",
   "timestamp": "2026-10-11T03:02:12+0000"
+ },
+ "17933406945423831": {
+  "auto": false,
+  "caption_len": 114,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 3,
+  "headline": "ブラックサムライを、日本だけじゃなくアジアへ。",
+  "permalink": "https://www.instagram.com/reel/Dft7zqUkXPO/",
+  "product": "REELS",
+  "timestamp": "2026-11-14T09:57:06+0000"
  },
  "17933827573724373": {
   "auto": false,
@@ -4401,6 +4437,29 @@
   "template": "score",
   "timestamp": "2026-11-09T04:09:00+0000"
  },
+ "18012192518779806": {
+  "article": "984",
+  "auto": true,
+  "caption_len": 303,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バム・アデバヨ、キャバリアーズ戦で37得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DftT0iZnG8B/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Bam Adebayo"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T04:07:17+0000"
+ },
  "18012233438986126": {
   "article": "356",
   "auto": true,
@@ -6713,6 +6772,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-08T04:10:56+0000"
+ },
+ "18097882295244301": {
+  "article": "988",
+  "auto": true,
+  "caption_len": 350,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デニ・アヴディア、キングス戦で34得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfthRrXktnw/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Trail Blazers vs. Kings)",
+  "subject": [
+   "Deni Avdija"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T06:04:49+0000"
  },
  "18098039258556645": {
   "arms": {
@@ -9388,6 +9470,29 @@
   "template": "score",
   "timestamp": "2026-10-17T02:02:51+0000"
  },
+ "18120229409087647": {
+  "article": "991",
+  "auto": true,
+  "caption_len": 337,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "シェイ・ギルジャス＝アレクサンダー、クリッパーズ戦で40得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dftj-1oD3Vu/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Thunder vs. Clippers)",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T06:28:33+0000"
+ },
  "18120311032980028": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9763,6 +9868,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-21T00:19:04+0000"
+ },
+ "18123342536303659": {
+  "article": "986",
+  "auto": true,
+  "caption_len": 300,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サディーク・ベイ、グリズリーズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DftUgdalFHl/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Saddiq Bey"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T04:13:25+0000"
  },
  "18123521362926693": {
   "arms": {
@@ -10329,6 +10457,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-16T22:28:30+0000"
+ },
+ "18130147492859711": {
+  "article": "993",
+  "auto": true,
+  "caption_len": 361,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "リーブス、左足ヒール打撲でサンズ戦欠場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfvjPD8DBmn/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Lakers' Austin Reaves (heel bruise) to sit out vs. Suns」",
+  "subject": [
+   "Austin Reaves"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-15T01:00:32+0000"
  },
  "18130334041880566": {
   "article": "938",
@@ -11416,6 +11567,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-26T03:59:08+0000"
+ },
+ "18145465441612180": {
+  "article": "990",
+  "auto": true,
+  "caption_len": 324,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、サンダー戦で7得点11リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DftjofwkvL-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Clippers vs. Thunder)",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T06:25:24+0000"
  },
  "18145619362530502": {
   "arms": {
@@ -13086,6 +13260,29 @@
   "template": "news",
   "timestamp": "2026-09-29T21:15:54+0000"
  },
+ "18343635601272980": {
+  "article": "992",
+  "auto": true,
+  "caption_len": 389,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジョエル・エンビード、ペイサーズ戦を欠場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfvZLPzjyu6/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「76ers' Joel Embiid out vs. Pacers due to plantar fascia management」",
+  "subject": [
+   "Joel Embiid"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-14T23:32:42+0000"
+ },
  "18344408587252538": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -13611,6 +13808,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-11T05:03:03+0000"
+ },
+ "18398604544204363": {
+  "article": "989",
+  "auto": true,
+  "caption_len": 336,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ステフォン・キャッスル、ウォリアーズ戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfthjoRiq43/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Warriors vs. Spurs)",
+  "subject": [
+   "Stephon Castle"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T06:07:30+0000"
  },
  "18408731665089104": {
   "arms": {
@@ -14398,5 +14618,28 @@
   ],
   "template": "news",
   "timestamp": "2026-11-03T13:12:58+0000"
+ },
+ "18659528548030699": {
+  "article": "983",
+  "auto": true,
+  "caption_len": 305,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス・アデトクンボ、キャバリアーズ戦で37得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DftTdniCJhG/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-14T04:04:20+0000"
  }
 }
