@@ -1,8 +1,34 @@
 {
- "updated_utc": "2026-11-14 23:20 UTC",
+ "updated_utc": "2026-11-15 03:01 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/nuggets-116-pelicans-108-zion-williamson-24-points-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/nuggets-116-pelicans-108-zion-williamson-24-points-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/nuggets-116-pelicans-108-zion-williamson-24-points-postgame-wrap",
+   "title": "Nuggets 116, Pelicans 108: Zion Williamson 24 points | Postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-15T02:22:05Z",
+   "tags": [],
+   "summary": "Multiple injury DNPs to Pelicans guards and wings opened the door for rookie guard Jaron Pierre Jr. to seize a unique opportunity Saturday. The New Orleans native took full advantage, filling rare doubleheader duty for his organization. Pierre logged 36 minutes and scored 23 points in an 11 a.m. G League tip-off in suburban Kenner, then made his way to the downtown Smoothie King Center for 23 more…",
+   "facts": [
+    "Multiple injury DNPs to Pelicans guards and wings opened the door for rookie guard Jaron Pierre Jr. to seize a unique opportunity Saturday.",
+    "Pierre logged 36 minutes and scored 23 points in an 11 a.m.",
+    "G League tip-off in suburban Kenner, then made his way to the downtown Smoothie King Center for 23 more minutes of basketball.",
+    "The two-way contract player had only appeared in NBA late-game mop-up duty in one-sided contests this week vs.",
+    "Brooklyn and Memphis, but this time deposited double-digit points (13) and provided his squad with a jolt of energy.",
+    "BY THE NUMBERS 33-16: New Orleans advantage over Denver in three-point attempts, the first game in 2026-27 that the Pelicans fired more treys than their opponent. 4: Yves Missi blocks in his return to the lineup from a k…",
+    "Missi now has eight blocks this season in only 61 minutes of action.",
+    "He logged 22 minutes Saturday, also grabbing eight rebounds. 3: Pelicans reserves who contributed double-digit scoring."
+   ],
+   "quotes": []
+  },
   {
    "source": "PHI 公式（nba.com）",
    "team": "PHI",
@@ -55,10 +81,45 @@
     "There will be no rest for the weary, as the Jazz return home to host the red-hot San Antonio Spurs Sunday afternoon.",
     "San Antonio (11-2) has won 11 games in a row and ranks second in both offensive and defensive rating on the season.",
     "San Antonio’s starting lineup leads the league with a plus-32.7 net-rating this season.",
-    "Limit the turnovers With the league’s best net-rating (plus-15.6 points per 100 possessions), it’s no surprise that the Spurs thrive in nearly every area of the game.",
-    "San Antonio ranks 13th or better in each of the four factors on both sides of the ball, with one lone exception."
+    "Jazz injury report: OUT - Trey Alexander (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Jaxson Hayes (Left Knee Strain), Harrison Ingram (G League - Two-Way), Jaren Jackson (Right Knee; MCL Tear), Lauri Markkane…",
+    "Limit the turnovers With the league’s best net-rating (plus-15.6 points per 100 possessions), it’s no surprise that the Spurs thrive in nearly every area of the game."
    ],
    "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-prac-20261114-collective-buy-in-has-celtics-bench-among-nba-best",
+   "url": "https://www.nba.com/celtics/news/sidebar-prac-20261114-collective-buy-in-has-celtics-bench-among-nba-best",
+   "canonical_url": "https://celtics.com/news/sidebar-prac-20261114-collective-buy-in-has-celtics-bench-among-nba-best",
+   "title": "Collective Buy-In has Celtics' Bench Among NBA's Best",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-14T20:11:31Z",
+   "tags": [
+    "Practice",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – The Boston Celtics have raced out to an East-leading 10-2 start this season, and one of the biggest reasons for their early success has been the play of their second unit.",
+   "facts": [
+    "BOSTON – The Boston Celtics have raced out to an East-leading 10-2 start this season, and one of the biggest reasons for their early success has been the play of their second unit.",
+    "The reserves are averaging a league-best 7.3 made 3-pointers per game while shooting 40.6 percent from beyond the arc, making them one of only three bench units in the league connecting on at least 40 percent of their lo…",
+    "They’re also leading the league in rebounding at 21.3 boards per game.",
+    "Through 12 games, Boston’s bench has posted a league-best plus-75 differential, averaging plus-6.2 per game.",
+    "Golden State is the only other team within half that mark, ranking second at a distant plus-3.7 per game.",
+    "Of course, players like Sam Hauser and Payton Pritchard are playing a big role in the 3-point shooting, while Mitchell Robinson is carrying a heavy rebounding load.",
+    "Mazzulla pointed to several examples from Boston’s recent road trip, during which the Celtics found different ways to win, whether it was building sizable leads over Charlotte and Milwaukee, dominating the then-East-lead…",
+    "He pointed out Jordan Walsh forcing multiple backcourt violations, Baylor Scheierman impacting with his off-ball defense, blowing up dribble-hand-offs and pick-and-rolls, and Hugo Gonzalez hustling in transition to help …"
+   ],
+   "quotes": [
+    "There’s a stat sheet that shows things that people do, but then there’s stuff that impacts winning that you can’t necessarily see,",
+    "So there’s a bunch of stuff that isn’t on the stat sheet these guys take pride in doing,",
+    "and it has a huge impact on the team and gives us a chance to win every night.",
+    "I’m not really motivated by scoring a ton of points,"
+   ]
   },
   {
    "source": "DAL 公式（nba.com）",
@@ -159,6 +220,32 @@
     "The Pelicans have struggled mightily in that stanza, ranking 29th at minus 22.5 points per 100 possessions (only Charlotte has a worse net rating in the final dozen minutes of regulation, at minus 29.0). 5: Different lea…",
     "New Orleans has relied on numerous top offensive options during its five-game losing streak and posted at least 109 points in four of the five defeats (only mustered 87 at Golden State), but the defensive end is making i…",
     "Prior to Bey’s 30-point eruption Friday, Zion Williamson (29 vs."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MEM 公式（nba.com）",
+   "team": "MEM",
+   "team_ja": "グリズリーズ",
+   "team_id": 1610612763,
+   "kind": "roster",
+   "key": "https://www.nba.com/grizzlies/news/grizzlies-place-10-in-double-figures-defeat-pelicans-142111-to-extend-best-road-start-in-franchise-history",
+   "url": "https://www.nba.com/grizzlies/news/grizzlies-place-10-in-double-figures-defeat-pelicans-142111-to-extend-best-road-start-in-franchise-history",
+   "canonical_url": "https://grizzlies.com/news/grizzlies-place-10-in-double-figures-defeat-pelicans-142111-to-extend-best-road-start-in-franchise-history",
+   "title": "Grizzlies Place 10 in Double Figures, Defeat Pelicans 142–111 To Extend Best Road Start in Franchise History",
+   "author": "Memphis Grizzlies",
+   "published_utc": "2026-11-14T17:00:00Z",
+   "tags": [],
+   "summary": "NEW ORLEANS, La. - The Memphis Grizzlies (8-4) defeated the New Orleans Pelicans (4-9) 142-111 on Friday at Smoothie King Center. The Grizzlies, the only NBA team yet to lose on the road, extended the best road start in franchise history by improving to 6-0 away from home.",
+   "facts": [
+    "NEW ORLEANS, La. - The Memphis Grizzlies (8-4) defeated the New Orleans Pelicans (4-9) 142-111 on Friday at Smoothie King Center.",
+    "The Grizzlies, the only NBA team yet to lose on the road, extended the best road start in franchise history by improving to 6-0 away from home.",
+    "Jerami Grant scored a season-high 22 points, as Memphis tied the NBA record with 10 different double-digit scorers.",
+    "Ty Jerome scored 17 points, Cam Spencer and GG Jackson II added 14 each, Cedric Coward chipped in with 14, Cameron Boozer and Isaiah Stewart tallied 12 each, Jaylen Wells had 11, and Taylor Hendricks and Javon Small both…",
+    "Hendricks grabbed a season-high 12 rebounds in 19 minutes off the bench for his first doubledouble of the season.",
+    "Boozer had 10 rebounds for his fifth double-double.",
+    "Saddiq Bey led the Pelicans with 30 points and 10 rebounds for his first double-double of the season.",
+    "Zion Williamson added 22 points on 7-of-16 shooting from the field."
    ],
    "quotes": []
   },
@@ -1817,54 +1904,6 @@
     "This was certainly Kelly Oubre’s best game. He just showed the kind of value that he can bring to this team. His intensity was terrific, defensively he was solid, the steals that he got were born of b…",
     "He’s showing a will, he’s imposing a will on the game…We need him to be a force in the restricted area. Not just catching the ball and finishing, but also on the boards, second-chance opportunities, a…"
    ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/nets-145-pelicans-111-zion-williamson-29-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/nets-145-pelicans-111-zion-williamson-29-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/nets-145-pelicans-111-zion-williamson-29-points-postgame-wrap",
-   "title": "Nets 145, Pelicans 111: Zion Williamson 29 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-12T02:25:38Z",
-   "tags": [],
-   "summary": "Two nights after a one-sided defeat to one of the NBA’s hottest teams and premier offenses, New Orleans faced an opponent at the opposite end of the spectrum. Brooklyn did not play like a struggling squad residing near the bottom of the league standings.",
-   "facts": [
-    "The Nets roared out of the gate Wednesday with an explosive first half, belying their No. 28 ranking in offense entering the night, firing in shots from beyond the three-point arc and in the paint.",
-    "Brooklyn’s lead was 17 points at halftime and climbed over 30 early in the fourth quarter.",
-    "New Orleans allowed over 135 points for the third consecutive game.",
-    "The Clippers and Golden State tallied 139 and 138 points against the Pelicans during a road back-to-back on Sunday and Monday, respectively.",
-    "BY THE NUMBERS 83: Brooklyn first-half points, the most the Nets have scored in any half this season.",
-    "Their 44 points in the second quarter was also the club’s best offensive period of 2026-27. 16: Pelicans turnovers, leading to 23 Nets points.",
-    "Brooklyn's offense (57 percent from the field, 49 percent on threes) didn't need any help.",
-    "Memphis in the Blender, 10 days after New Orleans posted a 135-134 overtime victory in FedEx Forum, one of the NBA’s most entertaining games early in 2026-27."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "SAC 公式（nba.com）",
-   "team": "SAC",
-   "team_ja": "キングス",
-   "team_id": 1610612758,
-   "kind": "roster",
-   "key": "https://www.nba.com/kings/news/kings-sign-mason-plumlee",
-   "url": "https://www.nba.com/kings/news/kings-sign-mason-plumlee",
-   "canonical_url": "https://kings.com/news/kings-sign-mason-plumlee",
-   "title": "Kings Sign Mason Plumlee",
-   "author": "Official Release",
-   "published_utc": "2026-11-12T01:48:11Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "The Sacramento Kings announced today that the team has signed center Mason Plumlee. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "Plumlee (7-0, 254) spent the 2025-26 season with the Charlotte Hornets and San Antonio Spurs, seeing action in 20 games (3 starts).",
-    "Over 13 career seasons, he has averaged 7.9 points (59.6 FG%), 6.6 rebounds and 2.3 assists in 21.6 minutes per game in 880 career regular season games (481 starts)."
-   ],
-   "quotes": []
   }
  ]
 }
