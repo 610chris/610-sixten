@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1002-jaylen-brown-31-points-pacers.html",
+    cat: "NBA",
+    title: "ジェイレン・ブラウン、ペイサーズ戦で31得点 —— 76ersが131-124で勝利",
+    excerpt: "フィラデルフィア・76ersのジェイレン・ブラウン(Jaylen Brown)は現地時間11月15日、本拠地フィラデルフィアでのインディアナ・ペイサーズ(Indiana Pacers)戦に32分出場し、フィールドゴール18本中12本(66.7%)・3ポイント6本中3本(50.0%)を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者の一人となり、76ersは131-124でペイサーズに勝利した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1001-pascal-siakam-31-points-76ers.html",
+    cat: "NBA",
+    title: "パスカル・シアカム、76ers戦で31得点 —— ペイサーズは124-131で敗戦",
+    excerpt: "インディアナ・ペイサーズのパスカル・シアカム(Pascal Siakam)は現地時間11月15日、敵地フィラデルフィアでのフィラデルフィア・76ers(Philadelphia 76ers)戦に34分出場し、フィールドゴール19本中12本(63.2%)・フリースロー8本中7本(87.5%)を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者の一人となったが、ペイサーズは124-131で76ersに敗れた。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1000-dejounte-murray-trade-salary-cap-marks.html",
     cat: "NBA",
     title: "マレー争奪戦のカギは「不確実性ボーナス」240万ドル —— ペリカンズはタックス回避の余地あり、ボビー・マークス分析",

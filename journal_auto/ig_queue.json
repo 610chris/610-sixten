@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T03:59:22+09:00",
+  "updated": "2026-11-16T05:58:14+09:00",
   "items": [
     {
       "id": "134",
@@ -31585,6 +31585,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "マレーのトレード、ネックは『不確実性ボーナス』240万ドル\n\n・マレーは23年に4年1.14億ドルで延長、24年にペリカンズへ\n・契約に240万ドルの不確実性ボーナスが付帯、エプロン算定に影響\n・27年に上位4位以内の指名権2枚、片方はホークスへ流出の可能性\n\n💬 ペリカンズのマレー、トレードは成立すると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「NBA buzz」（Bobby Marks）\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1001",
+      "slug": "1001-pascal-siakam-31-points-76ers",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "シアカム31得点もペイサーズは76ersに敗戦",
+      "excerpt": "インディアナ・ペイサーズのパスカル・シアカム(Pascal Siakam)は現地時間11月15日、敵地フィラデルフィアでのフィラデルフィア・76ers(Philadelphia 76ers)戦に34分出場し、フィールドゴール19本中12本(63.2%)・フリースロー8本中7本(87.5%)を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者の一人となったが、ペイサーズは124-131で76ersに敗れた。",
+      "points": [
+        "FG12/19・FT7/8で31得点",
+        "3ポイントは3本中0本",
+        "ペイサーズは124-131で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1001-pascal-siakam-31-points-76ers.html",
+      "hero_path": "",
+      "subject": [
+        "Pascal Siakam"
+      ],
+      "question": "31得点のシアカム、ペイサーズは今後浮上できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "PASCAL SIAKAM",
+        "opponent": "vs. 76ERS",
+        "points": 31,
+        "stats": [
+          "2 REB",
+          "2 AST",
+          "12/19 FG",
+          "7/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1001-1.jpg",
+        "https://sixten.jp/assets/ig/1001-2.jpg",
+        "https://sixten.jp/assets/ig/1001-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T05:56:20+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シアカム31得点もペイサーズは76ersに敗戦\n\n・FG12/19・FT7/8で31得点\n・3ポイントは3本中0本\n・ペイサーズは124-131で敗戦\n\n💬 31得点のシアカム、ペイサーズは今後浮上できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1002",
+      "slug": "1002-jaylen-brown-31-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "ブラウン31得点、76ersがペイサーズに勝利",
+      "excerpt": "フィラデルフィア・76ersのジェイレン・ブラウン(Jaylen Brown)は現地時間11月15日、本拠地フィラデルフィアでのインディアナ・ペイサーズ(Indiana Pacers)戦に32分出場し、フィールドゴール18本中12本(66.7%)・3ポイント6本中3本(50.0%)を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者の一人となり、76ersは131-124でペイサーズに勝利した。",
+      "points": [
+        "FG12/18・3P3/6で31得点",
+        "マクシー27点・レブロン15点11アシスト",
+        "76ersは131-124で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1002-jaylen-brown-31-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Jaylen Brown"
+      ],
+      "question": "ブラウンの31得点、見事だったと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYLEN BROWN",
+        "opponent": "vs. PACERS",
+        "points": 31,
+        "stats": [
+          "2 REB",
+          "2 AST",
+          "12/18 FG",
+          "3/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1002-1.jpg",
+        "https://sixten.jp/assets/ig/1002-2.jpg",
+        "https://sixten.jp/assets/ig/1002-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T05:56:20+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブラウン31得点、76ersがペイサーズに勝利\n\n・FG12/18・3P3/6で31得点\n・マクシー27点・レブロン15点11アシスト\n・76ersは131-124で勝利\n\n💬 ブラウンの31得点、見事だったと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
