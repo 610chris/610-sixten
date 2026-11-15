@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T12:08:27+09:00",
+  "updated": "2026-11-15T12:57:36+09:00",
   "items": [
     {
       "id": "134",
@@ -31364,6 +31364,192 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カイリー・アービング、キャバリアーズ戦で34得点\n\n・FG11/25・3P7/16で34得点、アシスト5・スティール3\n・マーベリックスは117-127で敗戦\n・キャバリアーズは主力の欠場相次ぐもプロクターが24得点11リバウンド10アシスト\n\n💬 アービングの34得点、見事だったと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Mavericks vs. Cavaliers・2026年11月14日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "996",
+      "slug": "996-giannis-34-points-pistons",
+      "category": "NBA",
+      "date": "2026-11-15",
+      "headline": "ヤニス34得点、ヒートがピストンズに快勝",
+      "excerpt": "マイアミ・ヒートのヤニス・アデトクンボ(Giannis Antetokounmpo)は現地時間11月14日、本拠地でのデトロイト・ピストンズ(Detroit Pistons)戦に31分出場し、フィールドゴール17本中13本・フリースロー9本中7本を沈めて34得点を記録した。リバウンド14・アシスト8・ブロック3も記録し、両チーム通じてこの日の試合最多得点者となり、ヒートは137-117でピストンズに快勝した。",
+      "points": [
+        "FG13/17で34得点",
+        "リバウンド14・アシスト8・ブロック3",
+        "ヒートは137-117で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/996-giannis-34-points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Giannis Antetokounmpo"
+      ],
+      "question": "ヤニスの今季の活躍、MVPレース入ってくる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "GIANNIS ANTETOKOUNMPO",
+        "opponent": "vs. PISTONS",
+        "points": 34,
+        "stats": [
+          "14 REB",
+          "8 AST",
+          "3 BLK",
+          "13/17 FG",
+          "7/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/996-1.jpg",
+        "https://sixten.jp/assets/ig/996-2.jpg",
+        "https://sixten.jp/assets/ig/996-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-15T12:56:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤニス34得点、ヒートがピストンズに快勝\n\n・FG13/17で34得点\n・リバウンド14・アシスト8・ブロック3\n・ヒートは137-117で快勝\n\n💬 ヤニスの今季の活躍、MVPレース入ってくる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "997",
+      "slug": "997-norman-powell-24-points-timberwolves",
+      "category": "NBA",
+      "date": "2026-11-15",
+      "headline": "パウエル24得点、ブルズがウルブズに勝利",
+      "excerpt": "シカゴ・ブルズのノーマン・パウエル(Norman Powell)は現地時間11月14日、敵地ミネアポリスでのミネソタ・ティンバーウルブズ(Minnesota Timberwolves)戦に30分出場し、フィールドゴール19本中10本・3ポイント5本中3本を沈めて24得点を記録した。両チーム通じてこの日の試合最多得点者の一人となり、ブルズは117-106でティンバーウルブズに勝利した。",
+      "points": [
+        "FG10/19・3P3/5で24得点",
+        "ブゼリス18点・ヒールド16点とベンチも好調",
+        "ブルズは117-106で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/997-norman-powell-24-points-timberwolves.html",
+      "hero_path": "",
+      "subject": [
+        "Norman Powell"
+      ],
+      "question": "ブルズのベンチ層、今季のリーグ屈指じゃない？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "NORMAN POWELL",
+        "opponent": "vs. TIMBERWOLVES",
+        "points": 24,
+        "stats": [
+          "5 REB",
+          "3 AST",
+          "2 BLK",
+          "10/19 FG",
+          "3/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/997-1.jpg",
+        "https://sixten.jp/assets/ig/997-2.jpg",
+        "https://sixten.jp/assets/ig/997-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-15T12:57:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "パウエル24得点、ブルズがウルブズに勝利\n\n・FG10/19・3P3/5で24得点\n・ブゼリス18点・ヒールド16点とベンチも好調\n・ブルズは117-106で勝利\n\n💬 ブルズのベンチ層、今季のリーグ屈指じゃない？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "998",
+      "slug": "998-ayo-dosunmu-24-points-bulls",
+      "category": "NBA",
+      "date": "2026-11-15",
+      "headline": "ドスンム24得点もウルブズはブルズに敗戦",
+      "excerpt": "ミネソタ・ティンバーウルブズのアヨ・ドスンム(Ayo Dosunmu)は現地時間11月14日、本拠地ミネアポリスでのシカゴ・ブルズ(Chicago Bulls)戦に33分出場し、フィールドゴール16本中10本を沈めて24得点を記録した。スティール3も記録し、両チーム通じてこの日の試合最多得点者の一人となったが、ティンバーウルブズは106-117でブルズに敗れた。",
+      "points": [
+        "FG10/16で24得点",
+        "スティール3も記録",
+        "ウルブズは106-117で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/998-ayo-dosunmu-24-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Ayo Dosunmu"
+      ],
+      "question": "この後のウルブズ、浮上できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AYO DOSUNMU",
+        "opponent": "vs. BULLS",
+        "points": 24,
+        "stats": [
+          "5 REB",
+          "3 STL",
+          "10/16 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/998-1.jpg",
+        "https://sixten.jp/assets/ig/998-2.jpg",
+        "https://sixten.jp/assets/ig/998-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-15T12:57:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドスンム24得点もウルブズはブルズに敗戦\n\n・FG10/16で24得点\n・スティール3も記録\n・ウルブズは106-117で敗戦\n\n💬 この後のウルブズ、浮上できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "999",
+      "slug": "999-cedric-coward-23-points-nets",
+      "category": "NBA",
+      "date": "2026-11-15",
+      "headline": "カワード23得点、グリズリーズがネッツに快勝",
+      "excerpt": "メンフィス・グリズリーズのセドリック・カワード(Cedric Coward)は現地時間11月14日、本拠地でのブルックリン・ネッツ(Brooklyn Nets)戦に33分出場し、フィールドゴール13本中7本・3ポイント6本中4本を沈めて23得点を記録した。リバウンド12も記録し、両チーム通じてこの日の試合最多得点者となり、グリズリーズは129-110でネッツに快勝した。",
+      "points": [
+        "FG7/13・3P4/6で23得点",
+        "リバウンド12も記録",
+        "グリズリーズは129-110で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/999-cedric-coward-23-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Cedric Coward"
+      ],
+      "question": "カワードの覚醒、今季どこまで続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "CEDRIC COWARD",
+        "opponent": "vs. NETS",
+        "points": 23,
+        "stats": [
+          "12 REB",
+          "4 AST",
+          "2 STL",
+          "2 BLK",
+          "7/13 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/999-1.jpg",
+        "https://sixten.jp/assets/ig/999-2.jpg",
+        "https://sixten.jp/assets/ig/999-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-15T12:57:36+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カワード23得点、グリズリーズがネッツに快勝\n\n・FG7/13・3P4/6で23得点\n・リバウンド12も記録\n・グリズリーズは129-110で快勝\n\n💬 カワードの覚醒、今季どこまで続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

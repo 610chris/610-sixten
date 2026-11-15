@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "999-cedric-coward-23-points-nets.html",
+    cat: "NBA",
+    title: "セドリック・カワード、ネッツ戦で23得点 —— グリズリーズが129-110で快勝",
+    excerpt: "メンフィス・グリズリーズのセドリック・カワード(Cedric Coward)は現地時間11月14日、本拠地でのブルックリン・ネッツ(Brooklyn Nets)戦に33分出場し、フィールドゴール13本中7本・3ポイント6本中4本を沈めて23得点を記録した。リバウンド12も記録し、両チーム通じてこの日の試合最多得点者となり、グリズリーズは129-110でネッツに快勝した。",
+    date: "2026.11.15",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "998-ayo-dosunmu-24-points-bulls.html",
+    cat: "NBA",
+    title: "アヨ・ドスンム、ブルズ戦で24得点 —— ティンバーウルブズは117-106で敗戦",
+    excerpt: "ミネソタ・ティンバーウルブズのアヨ・ドスンム(Ayo Dosunmu)は現地時間11月14日、本拠地ミネアポリスでのシカゴ・ブルズ(Chicago Bulls)戦に33分出場し、フィールドゴール16本中10本を沈めて24得点を記録した。スティール3も記録し、両チーム通じてこの日の試合最多得点者の一人となったが、ティンバーウルブズは106-117でブルズに敗れた。",
+    date: "2026.11.15",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "997-norman-powell-24-points-timberwolves.html",
+    cat: "NBA",
+    title: "ノーマン・パウエル、ティンバーウルブズ戦で24得点 —— ブルズが117-106で勝利",
+    excerpt: "シカゴ・ブルズのノーマン・パウエル(Norman Powell)は現地時間11月14日、敵地ミネアポリスでのミネソタ・ティンバーウルブズ(Minnesota Timberwolves)戦に30分出場し、フィールドゴール19本中10本・3ポイント5本中3本を沈めて24得点を記録した。両チーム通じてこの日の試合最多得点者の一人となり、ブルズは117-106でティンバーウルブズに勝利した。",
+    date: "2026.11.15",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "996-giannis-34-points-pistons.html",
+    cat: "NBA",
+    title: "ヤニス・アデトクンボ、ピストンズ戦で34得点 —— ヒートが137-117で快勝",
+    excerpt: "マイアミ・ヒートのヤニス・アデトクンボ(Giannis Antetokounmpo)は現地時間11月14日、本拠地でのデトロイト・ピストンズ(Detroit Pistons)戦に31分出場し、フィールドゴール17本中13本・フリースロー9本中7本を沈めて34得点を記録した。リバウンド14・アシスト8・ブロック3も記録し、両チーム通じてこの日の試合最多得点者となり、ヒートは137-117でピストンズに快勝した。",
+    date: "2026.11.15",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "995-kyrie-irving-34-points-cavaliers.html",
     cat: "NBA",
     title: "カイリー・アービング、キャバリアーズ戦で34得点 —— マーベリックスは117-127で敗戦",
