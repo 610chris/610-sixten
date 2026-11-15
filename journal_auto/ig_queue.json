@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T09:56:51+09:00",
+  "updated": "2026-11-15T11:54:51+09:00",
   "items": [
     {
       "id": "134",
@@ -31282,6 +31282,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "リーブス、左足ヒール打撲でサンズ戦欠場\n\n・レイカーズは24.7得点のリーブスを欠く\n・ミルウォーキー戦のダンク失敗で負傷\n・4日間で3連戦の初戦、セクストンはquestionable\n\n💬 リーブス離脱中、レイカーズは何勝できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Lakers' Austin Reaves (heel bruise) to sit out vs. Suns」\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "994",
+      "slug": "994-nikola-jokic-26-points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-15",
+      "headline": "ヨキッチがペリカンズ戦で26得点 —— ナゲッツが116-108で勝利",
+      "excerpt": "デンバー・ナゲッツのニコラ・ヨキッチ(Nikola Jokic)は現地時間11月14日、敵地ニューオーリンズでのペリカンズ戦に37分出場し、フィールドゴール14本中9本・フリースロー7本中7本を沈めて26得点を記録した。アシスト10・リバウンド8も記録し、両チーム通じてこの日の最多得点者となり、ナゲッツは116-108でペリカンズに勝利した。",
+      "points": [
+        "FG9/14・FT7/7の高確率で26得点",
+        "アシスト10・リバウンド8でトリプルダブルに肉薄",
+        "ナゲッツは敵地ニューオーリンズで116-108の勝利"
+      ],
+      "source": "ESPN ボックススコア(Nuggets vs. Pelicans・2026年11月14日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/994-nikola-jokic-26-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Nikola Jokic"
+      ],
+      "question": "ヨキッチ、今季中にトリプルダブル何回いく？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "NIKOLA JOKIC",
+        "opponent": "vs. PELICANS",
+        "points": 26,
+        "stats": [
+          "10 AST",
+          "8 REB",
+          "3 STL",
+          "9/14 FG",
+          "7/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/994-1.jpg",
+        "https://sixten.jp/assets/ig/994-2.jpg",
+        "https://sixten.jp/assets/ig/994-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-15T11:54:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヨキッチがペリカンズ戦で26得点 —— ナゲッツが116-108で勝利\n\n・FG9/14・FT7/7の高確率で26得点\n・アシスト10・リバウンド8でトリプルダブルに肉薄\n・ナゲッツは敵地ニューオーリンズで116-108の勝利\n\n💬 ヨキッチ、今季中にトリプルダブル何回いく？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Nuggets vs. Pelicans・2026年11月14日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
