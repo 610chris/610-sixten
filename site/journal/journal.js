@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "993-reaves-sit-suns-heel-bruise.html",
+    cat: "NBA",
+    title: "オースティン・リーブス、サンズ戦を欠場 —— 左足ヒールの打撲でレイカーズは3連戦の初戦に穴",
+    excerpt: "ロサンゼルス・レイカーズは現地時間11月15日、オースティン・リーブスを左足ヒールの打撲のためフェニックス・サンズ戦で欠場させると発表した。今季24.7得点を記録するリーブスを欠き、リーグ最高クラスの11勝2敗のチームは4日間で3連戦の初戦を迎える。",
+    date: "2026.11.15",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "992-embiid-sit-pacers-plantar-fascia.html",
     cat: "NBA",
     title: "ジョエル・エンビード、ペイサーズ戦を欠場 —— 76ersは右足底筋膜炎の管理を継続、センターはタコ・フォールのみに",
