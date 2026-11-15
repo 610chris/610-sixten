@@ -1,8 +1,100 @@
 {
- "updated_utc": "2026-11-15 03:01 UTC",
+ "updated_utc": "2026-11-15 11:26 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
+   "url": "https://www.nba.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
+   "title": "Mavericks-Celtics preview: Christie not sweating the shot-making early in the season",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-15T05:07:32Z",
+   "tags": [],
+   "summary": "CLEVELAND – Contrary to what email outages or breakdowns of outdated aviation electronics might lead us to believe, Max Christie is stone-cold certain that the world is not coming to an end.",
+   "facts": [
+    "Now, a relatively minor left ankle sprain notwithstanding, the 6-5 guard is not about to worry that anything has suddenly changed in the world with his shooting.",
+    "His shooting this season is at 27.3 percent from three-point range, a far cry from the 40.4 percent he shot last season.",
+    "He was shooting a ridiculous 46.6 percent before New Year’s Day last season.",
+    "And they’re not going to shoot 20 percent (all season).",
+    "They last played on Wednesday, when they won at Toronto 98-93.",
+    "They have won five consecutive games.Against the Raptors, Paul George (illness) did not play but he is expected to return Sunday.",
+    "Jayson Tatum had 24 points, seven rebounds and eight assists against Toronto while center Neemias Queta had 11 points and 13 rebounds.The Mavericks are trying to fight through some growing pains after starting this three…",
+    "We can weather a storm.The Mavericks have less than 24 hours to stew about the loss in Cleveland, but they were incensed by the way they didn’t match the Cavs’ aggression, particularly with all the stars Cleveland was mi…"
+   ],
+   "quotes": [
+    "It’s important not to overreact to things,",
+    "Show up every day with great energy ready to work and get better. And control what I can control. We’re winning games. Obviously, we lost the last game (at Minnesota), but I feel good about where this…",
+    "You look across the league, there are certain guys that are shooting 55 percent and you know they’re not going to shoot 55 percent when the dust settles in a couple months,",
+    "It’s just staying with the process and staying focused on the game. If he defends at a high level, rebounds, plays near-mistake-free basketball, it’s his job to take the open shots and we’re confident…"
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-adebayo-size-too-much-detroit-cunningham",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-adebayo-size-too-much-detroit-cunningham",
+   "canonical_url": "https://heat.com/news/coups-takeaways-antetokounmpo-adebayo-size-too-much-detroit-cunningham",
+   "title": "Coup’s Takeaways: HEAT’s Size Too Much For Detroit As Miami Wins Fourth In A Row",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-11-15T04:54:00Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. It took a minute to get back there, but with four wins in a row and a pair over Cleveland and Detroit on back-to-back nights, Miami is back over .500 now standing at 7-6.",
+   "facts": [
+    "It took a minute to get back there, but with four wins in a row and a pair over Cleveland and Detroit on back-to-back nights, Miami is back over .500 now standing at 7-6.",
+    "Still no Pelle Larsson tonight, but Klay Thompson returns after missing the win over Cleveland, leaving Myron Gardner in again as a starter.",
+    "Not the HEAT’s strongest night on the boards, despite their size advantage, allowing 13 offensive rebounds in the first half and dodging second-chances along the way.",
+    "Antetokounmpo and Cunningham paced both sides with impeccable decision making as much as they could, but the rhythm of the game – if it even existed – was disrupted by an endless stream of fouls (30 in the first half, a …",
+    "HEAT lead, 68-60, at the break, with a little rim defense going a long way – Antetokounmpo and Nikola Jovic each with some point-saving blocks – toward extending the lead into a small cushion.",
+    "Klay Thompson had been dealing with a little foul trouble himself, but he opened the second half just as hot as he began the first, knocking down a mid-range post look over the shorter Daniss Jenkins before a transition …",
+    "All those open looks Detroit had been generating started to fall – even with Duncan Robinson not starting the second half and questionable to return – John Collins finding his shot and a couple of turnover costing Miami …",
+    "Lead back to three after an 8-0 run."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/star-less-cavaliers-score-strong-willed-win-over-mavericks",
+   "url": "https://www.nba.com/mavs/news/star-less-cavaliers-score-strong-willed-win-over-mavericks",
+   "canonical_url": "https://mavs.com/mavs/news/star-less-cavaliers-score-strong-willed-win-over-mavericks",
+   "title": "Star-less Cavaliers score strong-willed win over Mavericks",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-15T03:04:35Z",
+   "tags": [],
+   "summary": "CLEVELAND – Kyrie Irving got a hero’s welcome Saturday night at Rocket Arena as the Cavaliers celebrated the 10-year anniversary of their 2016 NBA championship.",
+   "facts": [
+    "CLEVELAND – Kyrie Irving got a hero’s welcome Saturday night at Rocket Arena as the Cavaliers celebrated the 10-year anniversary of their 2016 NBA championship.",
+    "Irving, who hit the memorable, game-tipping three-pointer in Game 7 of the Finals that year against Golden State, had that iconic moment replayed to the crowd in a first-quarter timeout.",
+    "Talk about a mistake by the lake, the Mavericks followed up their clunker on Thursday in Minnesota with a lackluster showing when the Cavaliers did not have a single starter in uniform, yet whipped the Mavericks 127-117.",
+    "Tyrese Proctor, who played the 2024-25 season at Duke with Cooper Flagg, had a triple double and the Cavaliers got huge efforts from their usual deep-on-the-bench players while James Harden, Evan Mobley, Jarrett Allen an…",
+    "And so, the Mavericks fell to 7-6 while the Cavaliers, battling extreme circumstances, improved to 7-7.",
+    "We just didn’t come out with our best version tonight.\" Asked about what was wrong with a defense that allowed the Cavs' deep reserves to shoot 53.3 percent, Martin said: \"Everything.",
+    "And it was not the usual suspects playing big for Cleveland, but Jaylon Tyson, Thomas Bryant and former Cooper Flagg teammate at Duke Proctor, who had 24 points, 11 rebounds and 10 assists.",
+    "Mobley and fellow starter Sam Merrill have been out with an injury, the others simply were given a rest night after the problematic travel issues of the previous 24 hours."
+   ],
+   "quotes": [
+    "We definitely didn’t play with the right level of urgency,",
+    "We’re not good enough to overcome anything other than showing up and giving our best effort. ",
+    " The Mavericks trailed by 18 points at halftime and by as much as 22 points in the fourth quarter before making a comeback fueled by Irving, who had 34 points, 28 after halftime. But it was mostly jus…",
+    "Their isolation offense and shot-making was the difference. As a whole, we just have to play with the level of desperation we played with in the second half. "
+   ]
+  },
   {
    "source": "NOP 公式（nba.com）",
    "team": "NOP",
@@ -23,11 +115,14 @@
     "G League tip-off in suburban Kenner, then made his way to the downtown Smoothie King Center for 23 more minutes of basketball.",
     "The two-way contract player had only appeared in NBA late-game mop-up duty in one-sided contests this week vs.",
     "Brooklyn and Memphis, but this time deposited double-digit points (13) and provided his squad with a jolt of energy.",
-    "BY THE NUMBERS 33-16: New Orleans advantage over Denver in three-point attempts, the first game in 2026-27 that the Pelicans fired more treys than their opponent. 4: Yves Missi blocks in his return to the lineup from a k…",
     "Missi now has eight blocks this season in only 61 minutes of action.",
-    "He logged 22 minutes Saturday, also grabbing eight rebounds. 3: Pelicans reserves who contributed double-digit scoring."
+    "He logged 22 minutes Saturday, also grabbing eight rebounds. 3: Pelicans reserves who contributed double-digit scoring.",
+    "In addition to Pierre's 13 points, Jordan Poole had 14 and Derik Queen posted 10."
    ],
-   "quotes": []
+   "quotes": [
+    "Pure basketball. He just loves to hoop,",
+    "You see the joy and the energy he brings to the table."
+   ]
   },
   {
    "source": "PHI 公式（nba.com）",
@@ -1678,232 +1773,6 @@
     "Scottie Barnes (left groin strain) and Kawhi Leonard (left knee injury management) remained out."
    ],
    "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/franz-wagner-matches-career-high-in-scoring-to-lead-orlando-magic-to-victory-over-utah-jazz-20261111",
-   "url": "https://www.nba.com/magic/news/franz-wagner-matches-career-high-in-scoring-to-lead-orlando-magic-to-victory-over-utah-jazz-20261111",
-   "canonical_url": "https://orlandomagic.com/news/franz-wagner-matches-career-high-in-scoring-to-lead-orlando-magic-to-victory-over-utah-jazz-20261111",
-   "title": "Franz Wagner Matches Career High in Scoring to Lead Orlando Magic to Victory Over Utah Jazz",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-12T05:30:13Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "SALT LAKE CITY - Few players throughout the league right now are hotter than the Orlando Magic’s Franz Wagner, with his most recent sensational performance coming Wednesday in the finale of a four-game West Coast road trip.",
-   "facts": [
-    "The 6-foot-10 German forward matched his career high in scoring with 38 points on 13-of-23 shooting from the field, 3-of-8 from beyond the arc and 9-of-10 from the free throw line to lift the Magic to a 123-108 victory o…",
-    "Instead, Orlando went on an 18-5 run midway through the final frame to seize full control.",
-    "Desmond Bane, who made a game-winning shot the last time the Magic were in Utah, came on strong late with 11 of his 25 points in the fourth.",
-    "Wagner had 12 of his 38 in the final frame.",
-    "The last time he had at least 30 points in three consecutive games was in December 2024.",
-    "It was also the third time he scored 38, with the other two times occurring on Dec. 28, 2021 against the Bucks and on Feb. 4, 2024 against the Pistons.",
-    "Anthony Black had another strong performance with 22 points and eight assists and Jevon Carter, who was a plus-24 off the bench, finished with 11 points.",
-    "Rookie sensation Darryn Peterson led Utah with 22 points, Brice Sensabaugh had 19 points and Ace Bailey finished with 18."
-   ],
-   "quotes": [
-    "I think it was the way they were defending the pick-and-roll. We got into the paint a bunch of times,",
-    "I was just trying to make the right play.",
-    "I thought we had good poise and resilience. Coming into the fourth it was a close game – we didn’t have the third quarter we wanted – but the fourth quarter we stayed with it and we were able to execu…",
-    "I think continuing to do a great job of taking care of the basketball,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-fall-short-against-orlando-magic-key-takeaways",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-fall-short-against-orlando-magic-key-takeaways",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-fall-short-against-orlando-magic-key-takeaways",
-   "title": "Utah Jazz Fall Short Against Orlando Magic: Key Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-12T05:21:26Z",
-   "tags": [
-    "Ace Bailey",
-    "Brice Sensabaugh",
-    "Darryn Peterson",
-    "Keyonte George",
-    "Utah Jazz"
-   ],
-   "summary": "There was no rest for the weary Wednesday night at the Delta Center.",
-   "facts": [
-    "In a matchup of two shorthanded squads on the second night of a back-to-back, the Utah Jazz and Orlando Magic battled back-and-forth throughout all 48 minutes.",
-    "Ultimately, Orlando used a dominant fourth quarter to pull out a 123-108 victory over Utah.",
-    "Franz Wagner led the visitors with 38 points, while Darryn Peterson led the Jazz with 22 points.",
-    "Utah knocked down eight threes during the opening quarter (on 19 attempts), which helped fuel the offense without consistent paint scoring (just six in the first 12 minutes).",
-    "After Orlando recovered from a cold start, the visitors gained the lead late in the first as a result of a downhill attack (12 points in the paint and eight from the free-throw line).",
-    "However, the Jazz responded with a 13-4 run to close the frame and took a 34-29 lead into the second quarter.",
-    "Utah continued to rely on the 3-point line to generate offense as the second frame got underway.",
-    "The Magic found a rhythm during the early stages of the quarter, shooting 60 percent from the field to regain the lead."
-   ],
-   "quotes": [
-    "We have to keep fighting for our focus and to maintain it,",
-    "In the fourth quarter, our energy dipped a little bit… (But) I’m seeing some good trends.",
-    "We didn’t make enough shots and were sloppy in the fourth quarter,",
-    "The guys want it bad and they are bought in. We're fighting every day."
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261111",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261111",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261111",
-   "title": "Lendeborg Has 25-Point Double-Double, Warriors' Win Streak Snapped by Rockets",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-11-12T05:14:13Z",
-   "tags": [
-    "Game Recap"
-   ],
-   "summary": "The Warriors' eight-game winning streak was snapped in a 115-108 loss to the Houston Rockets at Toyota Center on Wednesday. The Warriors capped a streak of at least eight wins for the first time since their 2022 championship season. Yaxel Lendeborg led all scorers with 25 points and added 10 rebounds for his third career double-double. Brandin Podziemski tallied 22 points, six rebounds, four assis…",
-   "facts": [
-    "The Warriors' eight-game winning streak was snapped in a 115-108 loss to the Houston Rockets at Toyota Center on Wednesday.",
-    "The Warriors capped a streak of at least eight wins for the first time since their 2022 championship season.",
-    "Yaxel Lendeborg led all scorers with 25 points and added 10 rebounds for his third career double-double.",
-    "Brandin Podziemski tallied 22 points, six rebounds, four assists, and four 3-pointers.",
-    "The Rockets’ entire starting lineup scored in double figures, led by Kevin Durant's 20 points and 19 points each from Alperen Sengun and Amen Thompson.",
-    "The Dubs fell behind by as many as 18 points but battled back multiple times, tying the score late in the second quarter and coming within three points in the third.",
-    "However, they couldn't overcome Stephen Curry’s departure, as he played just five minutes before suffering an abdominal injury.",
-    "LENDEBORG’S 18-POINT FIRST HALF Yaxel Lendeborg scored 18 points in the first half, tied for the second-most points he’s ever had in a half."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-defeat-grizzlies-on-wednesday",
-   "url": "https://www.nba.com/nuggets/news/nuggets-defeat-grizzlies-on-wednesday",
-   "canonical_url": "https://nuggets.com/news/nuggets-defeat-grizzlies-on-wednesday",
-   "title": "Nuggets defeat Grizzlies on Wednesday",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-12T04:14:01Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets bounced back on Wednesday and defeated the Memphis Grizzlies, 123-118. They're now 6-4 to begin the season and 4-2 on the road.",
-   "facts": [
-    "The Denver Nuggets bounced back on Wednesday and defeated the Memphis Grizzlies, 123-118.",
-    "They're now 6-4 to begin the season and 4-2 on the road.",
-    "Jamal Murray led the team with 30 points on 12-of-19 shooting and 4-of-7 from behind the arc.",
-    "He checked in just before the end of the third quarter and scored 22 of Denver's final 38 points.",
-    "Murray has recorded five 30-point games in 10 appearances, tied for third-most in the NBA.",
-    "He's one of five players averaging at least 25 points, five rebounds, and five assists per game.",
-    "His three-point percentage, 51.3 percent, is the highest in the NBA for any player with at least 75 total three-point attempts.",
-    "His co-star, Nikola Jokić, also had a strong performance with 27 points on 10-of-16 shooting from the field, 11 rebounds, eight assists, one steal, and one block."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/zubac-oubre-find-fit-in-first-home-win",
-   "url": "https://www.nba.com/pacers/news/zubac-oubre-find-fit-in-first-home-win",
-   "canonical_url": "https://pacers.com/news/zubac-oubre-find-fit-in-first-home-win",
-   "title": "Zubac, Oubre Find Fit in First Home Win",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-12T04:04:40Z",
-   "tags": [],
-   "summary": "Ivica Zubac and Kelly Oubre Jr. have been trying on their on-court fits with the Indiana Pacers. Turbulent starts to the season have impacted them both, but as Indiana grabbed its first home win on Wednesday, Zubac and Oubre started to find a groove wearing Blue and Gold.",
-   "facts": [
-    "Zubac’s season got off to a slow start – the 10-year veteran center dominates the paint, but hasn’t been asked to play with this much pace in any other season of his career.",
-    "He was injured just three games into the season, and his return to the lineup was anything but seamless.",
-    "His role was ambiguous to start the season with the Pacers as Indiana navigated a slew of injuries to open the year.",
-    "Oubre has played in 10 games with the Blue and Gold – six as a starter and four as a reserve.",
-    "In the six games he started, Oubre averaged 10.5 points and just over three rebounds.",
-    "Those numbers shift to 8.3 points and just shy of two rebounds when he comes off the bench.",
-    "Zubac finished the night with his first 20-point game as a Pacer – he scored 20 points, grabbed 12 rebounds (six offensive rebounds), and blocked two shots.",
-    "Oubre recorded 14 points, six rebounds, four steals (all in the first half), and one block."
-   ],
-   "quotes": [
-    "It’'s tough starting off the season with an injury, and guys get kind of used to playing without you,",
-    "It's a work in progress, and there’s still gonna be games where we figure it out…We gotta stick together, and we're gonna find a way.",
-    "This was certainly Kelly Oubre’s best game,",
-    "He just showed the kind of value that he can bring to this team. His intensity was terrific, defensively he was solid. The steals that he got were born of being in the correct position in our system, …"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261111-bostor",
-   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261111-bostor",
-   "canonical_url": "https://celtics.com/news/game-recap-keys-20261111-bostor",
-   "title": "Keys to the Game: Celtics 98, Raptors 93",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-12T03:30:57Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "The Celtics made several clutch plays down the stretch Wednesday night to pull out a 98-93 win in Toronto. But it was a second-quarter surge that made their comeback possible in the first place.",
-   "facts": [
-    "Key Moment The Celtics made several clutch plays down the stretch Wednesday night to pull out a 98-93 win in Toronto.",
-    "Boston trailed by 22 points, 59-37, midway through the second quarter before suddenly flipping the momentum with a 16-0 run in a span of just two minutes and 30 seconds.",
-    "Jayson Tatum sparked the rally by scoring the first 11 points himself, but the biggest blow came on a rare seven-point possession that included 3-pointers from both Tatum and Baylor Scheierman.",
-    "It unfolded when Collin Murray-Boyles committed a flagrant foul on Tatum as the Celtics star was knocking down a 3-pointer.",
-    "Just 12 seconds later, Tatum found Scheierman for another triple, and suddenly the Celtics were back within eight.",
-    "The comeback was officially complete at the 7:09 mark of the third quarter, when Boston took its first lead since the opening minutes.",
-    "From there, the two teams traded blows all the way to the finish.",
-    "Tatum scored seven clutch points down the stretch, including the go-ahead free throw with 25 seconds remaining."
-   ],
-   "quotes": [
-    "Trying to get back to my old self. Trying to get back in flow and rhythm, and that’s what I used to do. I worked my butt off to get back healthy, so try and get back."
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-wizards-261111",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-wizards-261111",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-wizards-261111",
-   "title": "Game Rewind: Pacers 114, Wizards 101",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-11-12T03:29:00Z",
-   "tags": [
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Wednesday, Nov. 11 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Wednesday, Nov. 11 at 7:00 PM ET at Gainbridge Fieldhouse Game Recap Back home in Indianapolis after a three-game road trip that included a visit to Mexico City, the Pacers used a strong close to beat the Washington Wiza…",
-    "The Pacers and Wizards entered the fourth quarter tied at 77, but the home team quickly seized control of the game early in the final frame.",
-    "Indiana (4-8) reeled off 14 unanswered points in the first three minutes of the quarter, then held on for its first home win of the season.",
-    "Pacers head coach Rick Carlisle turned to an unusual lineup to start the fourth quarter, trotting out three starters in Andrew Nembhard, Pascal Siakam, and Kelly Oubre Jr. but grouping them with reserve center Larry Nanc…",
-    "Siakam led the Pacers with 28 points to go along with eight rebounds and five assists in the win, going 7-for-17 from the field but a perfect 12-for-12 from the free throw line.",
-    "Ivica Zubac (20 points and 12 rebounds) and Nembhard (17 points and 10 assists) both recorded double-doubles for the Blue & Gold.",
-    "Kyshawn George had a team-high 25 points on 5-of-8 3-point shooting for Washington (4-8).",
-    "Anthony Davis added 21 points and 13 rebounds, while Tre Johnson scored 15."
-   ],
-   "quotes": [
-    "I thought Slawson gave us a huge lift in the fourth quarter, coming in cold,",
-    "Nance the same thing. Those guys came in, played real tough, real solid, brought up the intensity, brought up the physicality.",
-    "This was certainly Kelly Oubre’s best game. He just showed the kind of value that he can bring to this team. His intensity was terrific, defensively he was solid, the steals that he got were born of b…",
-    "He’s showing a will, he’s imposing a will on the game…We need him to be a force in the restricted area. Not just catching the ball and finishing, but also on the boards, second-chance opportunities, a…"
-   ]
   }
  ]
 }
