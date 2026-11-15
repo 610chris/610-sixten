@@ -1,8 +1,74 @@
 {
- "updated_utc": "2026-11-15 11:26 UTC",
+ "updated_utc": "2026-11-15 17:57 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/heat-run-away-from-pistons-in-second-half-137-117",
+   "url": "https://www.nba.com/pistons/news/heat-run-away-from-pistons-in-second-half-137-117",
+   "canonical_url": "https://pistons.com/news/heat-run-away-from-pistons-in-second-half-137-117",
+   "title": "Heat Run Away From Pistons in Second Half, 137-117",
+   "author": "Pistons.com",
+   "published_utc": "2026-11-15T17:14:45Z",
+   "tags": [],
+   "summary": "Cade Cunningham scored 33 points, but the Heat scored 50 in the paint and 28 on the break to pull away after halftime.",
+   "facts": [
+    "Cade Cunningham scored 33 points, but the Heat scored 50 in the paint and 28 on the break to pull away after halftime.",
+    "Giannis Antetokounmpo had 34 points, 14 rebounds and eight assists on 13-of-17 shooting, and the Heat led by as many as 20 as Detroit fell to 8-4.",
+    "The Pistons shot 57.1 percent in the first quarter and led 39-37 after one.",
+    "The Heat had 18 fast-break points in the first half, 16 more than Detroit, and took a 68-60 lead into the locker room.",
+    "Antetokounmpo and Bam Adebayo kept the Heat attacking the rim, and Miami made 25 of its 38 shots in the paint.",
+    "John Collins hit two three-pointers early in the third quarter, and a Daniss Jenkins three in transition cut Miami’s lead to 77-74 with 8:45 left in the period.",
+    "Antetokounmpo got back to the rim, Davion Mitchell hit from deep, and Miami led 103-86 after three.",
+    "The Pistons got within 107-98 with 7:48 to play, but the Heat went on a 14-4 run, keyed by three-pointers from Antetokounmpo, Klay Thompson and Mitchell, to put it away."
+   ],
+   "quotes": [
+    "The past couple games for us, our defense hasn’t been to standard, and that’s on me,",
+    "I’ve got to do a better job making sure we’re doing the things we’re supposed to be doing the way we’re supposed to be doing them. When we do the things properly, we’re pretty good defensively, but ri…",
+    "We’ve been struggling in the paint,",
+    "We’ve been a little smaller, obviously we’ve played back-to-back teams with two bigs. I feel like we’re overreacting on our helps. We just have to do a better job of playing the system and being solid…"
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/shorthanded-travel-delayed-bulls-fend-off-timberwolves-for-second-straight-win",
+   "url": "https://www.nba.com/bulls/news/shorthanded-travel-delayed-bulls-fend-off-timberwolves-for-second-straight-win",
+   "canonical_url": "https://bulls.com/news/shorthanded-travel-delayed-bulls-fend-off-timberwolves-for-second-straight-win",
+   "title": "Shorthanded, travel-delayed Bulls fend off Timberwolves for second-straight win",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-15T15:37:48Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith",
+    "Sam Smith recap"
+   ],
+   "summary": "NBA history is rich with special teams, like our choice for the best ever: the 1996 72-win NBA champion Bulls.",
+   "facts": [
+    "NBA history is rich with special teams, like our choice for the best ever: the 1996 72-win NBA champion Bulls.",
+    "Then there’s Bill Russell’s 60s dynasty Celtics, the best to sustain.",
+    "Arguably the best to put on a show, Magic’s 80s Lakers.",
+    "So could these Bulls distinguish themselves as maybe the best 3-9 team?",
+    "They sure looked like it on Saturday during the most difficult of circumstances in a 117-106 victory over the presumably contending Minnesota Timberwolves.",
+    "While the Bulls not only were completing the second of a back to back duo without their top two centers, injured Jalen Smith and Nic Claxton, but enduring complicated travel difficulties due to the nationwide flight shut…",
+    "This looked like it was going to be like waking up and your phone battery was dead, you couldn’t find the car keys, the dog couldn’t hold it in, the cop said 35 is 35 and you are getting a ticket for going 40, and you re…",
+    "So maybe it really is, like Yogi Berra said, 90 percent mental while the other half is physical."
+   ],
+   "quotes": [
+    "Finally we are making some shots; that helps of course,",
+    "One of the things I tell the guys every day, you still have to bring it, you still have to play the right way when the shots don’t fall. I think we are doing that now,",
+    "Looking at ourselves in the mirror: Are we going to be the team everybody thinks is our lunch? Or play for each other and compete,",
+    "Where the only thing that matters is not who has the highest number in the box score, but getting Ws."
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -12,7 +78,7 @@
    "key": "https://www.nba.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
    "url": "https://www.nba.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
    "canonical_url": "https://mavs.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
-   "title": "Mavericks-Celtics preview: Christie not sweating the shot-making early in the season",
+   "title": "Mavericks-Celtics preview: Christie not sweating the lack of shot-making so far",
    "author": "Eddie Sefko",
    "published_utc": "2026-11-15T05:07:32Z",
    "tags": [],
@@ -63,37 +129,6 @@
     "Lead back to three after an 8-0 run."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/star-less-cavaliers-score-strong-willed-win-over-mavericks",
-   "url": "https://www.nba.com/mavs/news/star-less-cavaliers-score-strong-willed-win-over-mavericks",
-   "canonical_url": "https://mavs.com/mavs/news/star-less-cavaliers-score-strong-willed-win-over-mavericks",
-   "title": "Star-less Cavaliers score strong-willed win over Mavericks",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-15T03:04:35Z",
-   "tags": [],
-   "summary": "CLEVELAND – Kyrie Irving got a hero’s welcome Saturday night at Rocket Arena as the Cavaliers celebrated the 10-year anniversary of their 2016 NBA championship.",
-   "facts": [
-    "CLEVELAND – Kyrie Irving got a hero’s welcome Saturday night at Rocket Arena as the Cavaliers celebrated the 10-year anniversary of their 2016 NBA championship.",
-    "Irving, who hit the memorable, game-tipping three-pointer in Game 7 of the Finals that year against Golden State, had that iconic moment replayed to the crowd in a first-quarter timeout.",
-    "Talk about a mistake by the lake, the Mavericks followed up their clunker on Thursday in Minnesota with a lackluster showing when the Cavaliers did not have a single starter in uniform, yet whipped the Mavericks 127-117.",
-    "Tyrese Proctor, who played the 2024-25 season at Duke with Cooper Flagg, had a triple double and the Cavaliers got huge efforts from their usual deep-on-the-bench players while James Harden, Evan Mobley, Jarrett Allen an…",
-    "And so, the Mavericks fell to 7-6 while the Cavaliers, battling extreme circumstances, improved to 7-7.",
-    "We just didn’t come out with our best version tonight.\" Asked about what was wrong with a defense that allowed the Cavs' deep reserves to shoot 53.3 percent, Martin said: \"Everything.",
-    "And it was not the usual suspects playing big for Cleveland, but Jaylon Tyson, Thomas Bryant and former Cooper Flagg teammate at Duke Proctor, who had 24 points, 11 rebounds and 10 assists.",
-    "Mobley and fellow starter Sam Merrill have been out with an injury, the others simply were given a rest night after the problematic travel issues of the previous 24 hours."
-   ],
-   "quotes": [
-    "We definitely didn’t play with the right level of urgency,",
-    "We’re not good enough to overcome anything other than showing up and giving our best effort. ",
-    " The Mavericks trailed by 18 points at halftime and by as much as 22 points in the fourth quarter before making a comeback fueled by Irving, who had 34 points, 28 after halftime. But it was mostly jus…",
-    "Their isolation offense and shot-making was the difference. As a whole, we just have to play with the level of desperation we played with in the second half. "
-   ]
   },
   {
    "source": "NOP 公式（nba.com）",
@@ -226,7 +261,7 @@
    "url": "https://www.nba.com/mavs/news/tipoff-time-change-announced-for-dallas-mavericks-november-18-game-against-golden-state-warriors",
    "canonical_url": "",
    "title": "Tipoff Time Change Announced for Dallas Mavericks’ November 18 Game Against Golden State Warriors",
-   "author": "Gabe Flores",
+   "author": "Dallas Mavericks",
    "published_utc": "2026-11-14T18:44:11Z",
    "tags": [],
    "summary": "DALLAS (Nov. 14, 2026) - The Dallas Mavericks announced today a time change for their game on Wednesday, November 18 against the Golden State Warriors. The game, originally scheduled for 8:30 p.m. CT will now tip off at 7 p.m. CT at American Airlines Center.",
@@ -1515,262 +1550,6 @@
     "Someone different stepped up with all the injury-related absences over those last three games of the West Coast road trip.",
     "Carter, who joined the Magic in February of last season after being waived by the Bulls, scored a season-best 11 points in Wednesday’s win.",
     "Over the last three games, Orlando ranks second in offensive rebounding and 10th in fewest turnovers."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "feature",
-   "key": "https://www.nba.com/suns/news/11-12-2026-suns-vs-hornets-game-preview",
-   "url": "https://www.nba.com/suns/news/11-12-2026-suns-vs-hornets-game-preview",
-   "canonical_url": "https://suns.com/news/11-12-2026-suns-vs-hornets-game-preview",
-   "title": "11/12/2026 Suns vs Hornets Game Preview",
-   "author": "Phoenix Suns",
-   "published_utc": "2026-11-12T17:17:14Z",
-   "tags": [
-    "2026-27"
-   ],
-   "summary": "Date: Thursday, November 12, 2026Time: 7:00 p.m. MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Hornets: Association Edition (White)",
-   "facts": [
-    "Game Info Date: Thursday, November 12, 2026Time: 7:00 p.m.",
-    "MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Hornets: Association Edition (White) Series Notes The S…",
-    "Bridges left the Hornets ranked top five in franchise history in points, rebounds and minutesSuns center Mark Williams was drafted 15th overall by Charlotte in the 2022 NBA Draft and spent the first three years of his ca…",
-    "Williams appeared 106 times for the franchise, averaging 12.3 points and 8.8 rebounds, before heading to Phoenix in a 2025 offseason tradeHornets forward Royce O'Neale and guard Grayson Allen were both members of the Sun…",
-    "O'Neale appeared 183 times for Phoenix, averaging 9.2 points, while Allen played 190 times for the Suns and averaged 13.3 pointsHornets AC Ryan Frazier was a Video Coordinator with the Suns from 2019-21, helping Phoenix …",
-    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
-    "NuggetsSurpassed 8,000 career points against Denver on Oct. 301-of-2 players from his NBA Draft class (2018) to record 8,000 points and 3,000 rebounds in their career (Luka Dončić)#11–Oso IghodaroLAST GAME: Ended with 6 …",
-    "Phoenix shot 55.7 FG% and 51.2 3FG%.JORDAN GOODWIN posted a game-high 18 points (6-of-7 3FG), the most by a Suns reserve this season, to go along with 3 rebounds and a steal."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-comeback-falls-short-fall-to-nuggets-123-118",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-comeback-falls-short-fall-to-nuggets-123-118",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-comeback-falls-short-fall-to-nuggets-123-118",
-   "title": "GRIZZLIES COMEBACK FALLS SHORT, FALL TO NUGGETS 123-118",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-12T17:07:53Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "MEMPHIS, TENN (Nov. 11, 2026) - The Memphis Grizzlies (7-4) were defeated by the Denver Nuggets (6-4) 123-118 on Wednesday at FedExForum.",
-   "facts": [
-    "MEMPHIS, TENN (Nov. 11, 2026) - The Memphis Grizzlies (7-4) were defeated by the Denver Nuggets (6-4) 123-118 on Wednesday at FedExForum.",
-    "Ty Jerome tallied 22 points, including 11 in the fourth quarter.",
-    "Jerome has scored at least 20 points in a career-high five straight games and has scored in double figures in all of his first 25 games in a Grizzlies uniform, matching O.J.",
-    "Mayo (2008) for the longest such streak in franchise history.",
-    "Jaylen Wells scored a season-high 22 points and made a season-best five of his 10 3-point attempts.",
-    "Cam Spencer added a season-high 15 points, while Jerami Grant finished with 14 points for his sixth straight game in double figures.",
-    "Spencer and Grant helped the Grizzlies’ bench outscore the Nuggets’ second unit 44-22.",
-    "Cam Boozer recorded his fourth double-double of the season with 13 points and 11 rebounds to go with five assists."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "injury",
-   "key": "https://www.nba.com/warriors/news/stephen-curry-injury-update-11-12-26",
-   "url": "https://www.nba.com/warriors/news/stephen-curry-injury-update-11-12-26",
-   "canonical_url": "https://warriors.com/news/stephen-curry-injury-update-11-12-26",
-   "title": "Stephen Curry Injury Update - 11/12/26",
-   "author": "Gabriella Rizzo",
-   "published_utc": "2026-11-12T16:56:00Z",
-   "tags": [],
-   "summary": "Golden State Warriors guard Stephen Curry, who exited last night’s game at Houston with 6:25 remaining in the first quarter due to injury, underwent an MRI last night. The MRI confirmed that Curry has an oblique abdominal tear. He will be re-evaluated in two (2) weeks.",
-   "facts": [
-    "Golden State Warriors guard Stephen Curry, who exited last night’s game at Houston with 6:25 remaining in the first quarter due to injury, underwent an MRI last night.",
-    "He will be re-evaluated in two (2) weeks.",
-    "Curry has appeared in 10 games (all starts) this season, averaging 27.8 points, 3.9 assists and 3.7 rebounds, shooting .500 from the floor and .457 on 3-point attempts."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/home-is-everything-chicago-bulls-wayfair-and-digs-with-dignity-team-up-to-surprise-army-veteran-and-single-dad-with-new-fully-furnished-home",
-   "url": "https://www.nba.com/bulls/news/home-is-everything-chicago-bulls-wayfair-and-digs-with-dignity-team-up-to-surprise-army-veteran-and-single-dad-with-new-fully-furnished-home",
-   "canonical_url": "https://bulls.com/news/home-is-everything-chicago-bulls-wayfair-and-digs-with-dignity-team-up-to-surprise-army-veteran-and-single-dad-with-new-fully-furnished-home",
-   "title": "“Home is Everything”: Chicago Bulls, Wayfair and Digs with Dignity Team Up to Surprise Army Veteran and Single Dad with New, Fully Furnished Home",
-   "author": "Bulls.com",
-   "published_utc": "2026-11-12T16:34:42Z",
-   "tags": [
-    "Wayfair"
-   ],
-   "summary": "Army veteran and single dad Byron is building a home in Chicago with his daughter.",
-   "facts": [
-    "Today, 97% of the families they support are still housed, and 95% report improved relationships.",
-    "Byron grew up in Harvey, Illinois, as a huge fan of the Bulls during the 1970s.",
-    "One of Byron's favorite Bulls memories was the team’s home opener at Chicago Stadium in 1992 against the Atlanta Hawks, taking in a gut-wrenching one-point loss.",
-    "Not only did they get to meet Sellers, but he also invited them out to the team’s Veterans Day Game, presented by BMO, on Nov. 11."
-   ],
-   "quotes": [
-    "Together with Wayfair and Digs with Dignity, we’re helping Byron and his daughter create a space that feels like home,",
-    "We’re proud to support veteran families and our Chicago community.",
-    "I’m looking forward to building a home life.",
-    "Getting the keys is a huge milestone, but too often families walk into an apartment with nothing in it,"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-knicks-261113",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-knicks-261113",
-   "canonical_url": "https://pacers.com/news/preview-pacers-knicks-261113",
-   "title": "Game Preview: Pacers vs Knicks (NBA Cup)",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-11-12T15:58:00Z",
-   "tags": [
-    "2026 NBA Cup",
-    "2026-27 Game Preview"
-   ],
-   "summary": "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview The Pacers are back in Gainbridge Fieldhouse on Friday as they return to NBA Cup group play action against the New York Knicks.",
-    "Indiana earned its first home win on Wednesday as it defeated the Washington Wizards, 114-101.",
-    "Pascal Siakam led the Blue and Gold with 28 points, but Kelly Oubre Jr. and Ivica Zubac both found some rhythm after rocky starts to the season.",
-    "The Knicks are 6-5 this season as they defend their title from a season ago.",
-    "Jalen Brunson leads the Knicks with 26 points and five assists, but is shooting just 42 percent from the field through New York’s first 11 games.",
-    "Karl-Anthony Towns averages a double-double with 21 points and 14 rebounds nightly, but the Knicks rely on Andre Drummond to back him up after Mitchell Robinson’s offseason departure to Boston.",
-    "The Knicks played Cleveland again on Wednesday, and fell to the Cavaliers, 115-107.",
-    "New York lost its first NBA Cup matchup, falling to the Philadelphia 76ers."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/charlotte-hornets-scale-cellular-5g-connectivity-across-spectrum-center-and-new-novant-health-performance-center-with-boldyn-networks",
-   "url": "https://www.nba.com/hornets/news/charlotte-hornets-scale-cellular-5g-connectivity-across-spectrum-center-and-new-novant-health-performance-center-with-boldyn-networks",
-   "canonical_url": "https://hornets.com/news/charlotte-hornets-scale-cellular-5g-connectivity-across-spectrum-center-and-new-novant-health-performance-center-with-boldyn-networks",
-   "title": "Charlotte Hornets Scale Cellular 5G Connectivity Across Spectrum Center and New Novant Health Performance Center With Boldyn Networks",
-   "author": "Hornets PR",
-   "published_utc": "2026-11-12T14:48:57Z",
-   "tags": [
-    "Featured",
-    "Partnerships",
-    "Press Release"
-   ],
-   "summary": "Hornets Sports & Entertainment (HSE) and Boldyn Networks (Boldyn) today announced a significant extension of their cellular wireless infrastructure partnership at Spectrum Center, which now also brings Boldyn’s high‑performance cellular 5G network to the team’s new state‑of‑the‑art Novant Health Performance Center.",
-   "facts": [
-    "November 12, 2026 | Charlotte, NC Hornets Sports & Entertainment (HSE) and Boldyn Networks (Boldyn) today announced a significant extension of their cellular wireless infrastructure partnership at Spectrum Center, which …",
-    "The extension ensures that the Charlotte Hornets remain at the forefront of sports technology, providing a seamless cellular 5G corridor between the team’s arena and its future performance center currently under construc…",
-    "Boldyn originally launched the arena’s 5G Distributed Antenna System (DAS) upgrade in 2020.",
-    "The Boldyn-designed network will provide wall-to-wall coverage across the facility’s 160,000+ square feet, including courts, training and weight rooms and administrative offices."
-   ],
-   "quotes": [
-    "Connectivity is the invisible architecture that supports everything we do, from the way our fans share moments in the stands to the way our players and coaches utilize real-time data to gain a competi…",
-    "Extending this cellular 5G network into the Novant Health Performance Center creates a unified tech ecosystem. It ensures that our basketball operations and front office are supported by the same reli…",
-    "We’ve worked closely with the Hornets to ensure employees and fans have had cellular 5G connectivity through the multi-million-dollar renovation at Spectrum Center, and now we extend that connectivity…",
-    "The Hornets are leading a future where data-driven performance and immersive fan engagement are the standard. By deploying a future-ready cellular 5G infrastructure across both the Spectrum Center and…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/david-west-began-climb-to-franchise-pillar-finishing-as-runner-up-in-nbas-most-improved-player-vote",
-   "url": "https://www.nba.com/pelicans/news/david-west-began-climb-to-franchise-pillar-finishing-as-runner-up-in-nbas-most-improved-player-vote",
-   "canonical_url": "https://pelicans.com/news/david-west-began-climb-to-franchise-pillar-finishing-as-runner-up-in-nbas-most-improved-player-vote",
-   "title": "David West began climb to franchise pillar, finishing as runner-up in NBA's Most Improved Player vote | 25 On the Court",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-12T14:00:00Z",
-   "tags": [],
-   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
-   "facts": [
-    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
-    "With New Orleans players, coaches and staff a little over a month from tipping off 2005 training camp, the unthinkable happened: Hurricane Katrina made landfall on Aug. 29, causing devastation across the Gulf Coast and r…",
-    "It quickly became evident that the city’s pro basketball team would need to play its home schedule elsewhere in 2005-06.",
-    "On Sept. 21, the NBA announced the club’s temporary home of Oklahoma City.",
-    "The Hornets were already projected to finish near the bottom of the standings after going 18-64 in 2004-05, but now also faced the challenge of rapidly relocating to an unfamiliar place.",
-    "Behind Rookie of the Year Chris Paul and Most Improved Player award runner-up David West, the Hornets shocked the league by starting 31-26, before youth caught up to the squad during a 7-18 close (finished 38-44, 10th in…",
-    "West nearly tripled his scoring average from the previous season, jumping from 6.2 ppg to 17.1, emerging as a foundational pillar for New Orleans, counted on to drill clutch baskets, particularly from the deep mid-range …",
-    "His knack for sinking game-winning jumpers earned him the nickname “the 17-foot assassin” and made him CP3’s favorite target in pick-and-pops."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/bulls-struggle-with-turnovers-surrender-22-point-lead-in-124-119-defeat-to-spurs",
-   "url": "https://www.nba.com/bulls/news/bulls-struggle-with-turnovers-surrender-22-point-lead-in-124-119-defeat-to-spurs",
-   "canonical_url": "https://bulls.com/news/bulls-struggle-with-turnovers-surrender-22-point-lead-in-124-119-defeat-to-spurs",
-   "title": "Bulls struggle with turnovers, surrender 22-point lead in 124-119 defeat to Spurs",
-   "author": "Sam Smith",
-   "published_utc": "2026-11-12T13:30:39Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "It really did look like the Bulls were going to get this one.",
-   "facts": [
-    "And not just because the Bulls had a 22-point second quarter lead, 14 at halftime.",
-    "Superstar Victor Wembanyama unable to seal the paint and chase Smith to the perimeter, where Smith would make all five of his threes and equal a career high with 23 points to lead the Bulls.",
-    "Their hand-to-hand combat to begin the second half overwhelmed the Bulls, a 17-3 Spurs beating with five Bulls turnovers in four minutes got the Spurs into a tie.",
-    "And then quicker than you can say croissant, the Bulls resembled a puff pastry as Wembanyama in the second half scored 17 of his game-high 32 points.",
-    "San Antonio had 16 fast break points to one basket for the Bulls after halftime and the Spurs won their 10th consecutive game 124-119.",
-    "The Bulls lost their eighth straight to drop to 1-9.",
-    "And the Bulls only got that close in the end after Splitter cleared the bench with two minutes left with the Bulls trailing 120-105.",
-    "The Bulls even kept it up, four of seven threes in the second quarter. 66 percent first half overall shooting and 67 percent on threes, the largest lead of the season."
-   ],
-   "quotes": [
-    "Stix (Smith) can spread the court and take Wembanyama out of the paint,",
-    "I thought that matchup with Wemby would be a good thing. It worked for a little bit; second half it didn’t.",
-    "We did a lot of good things,",
-    "Shared the ball, moved the ball in the first half,"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-raptors-game-preview-injury-report-and-how-to-watch-11-12-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-raptors-game-preview-injury-report-and-how-to-watch-11-12-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-raptors-game-preview-injury-report-and-how-to-watch-11-12-2026",
-   "title": "Sixers vs. Raptors: Game Preview, Injury Report and How to Watch 11/12/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-12T13:30:14Z",
-   "tags": [
-    "Dominick Barlow",
-    "Joel Embiid",
-    "LeBron James"
-   ],
-   "summary": "The Philadelphia 76ers (9-3) will welcome the Toronto Raptors (5-6) on Thursday for Military Appreciation Night, presented by Toyota. Tipoff is set for 7 p.m. EST at Xfinity Mobile Arena.",
-   "facts": [
-    "The Philadelphia 76ers (9-3) will welcome the Toronto Raptors (5-6) on Thursday for Military Appreciation Night, presented by Toyota.",
-    "Tipoff is set for 7 p.m.",
-    "The Sixers fell to the Celtics, 123-101, Tuesday at home.",
-    "Boston made 22 3-pointers, six of which came from Paul George, who scored a game-high 36 points.",
-    "Tyrese Maxey led the Sixers with 24 points in 33 minutes.",
-    "The Raptors also last played the Celtics, losing 98-93 on Wednesday after Boston scored the game’s final eight points.",
-    "Jayson Tatum scored 24 points in the absence of Paul George, who was sidelined by illness on the second night of a back-to-back.",
-    "Scottie Barnes (left groin strain) and Kawhi Leonard (left knee injury management) remained out."
    ],
    "quotes": []
   }
