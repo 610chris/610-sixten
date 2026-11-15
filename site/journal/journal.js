@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1003-lebron-james-passes-jason-kidd-assists.html",
+    cat: "NBA",
+    title: "レブロン、通算アシスト歴代3位に浮上 —— ジェイソン・キッドを超える12,092本、76ersはペイサーズに131-124で勝利",
+    excerpt: "フィラデルフィア・76ersのレブロン・ジェームズ(LeBron James)は現地時間11月15日、本拠地でのインディアナ・ペイサーズ(Indiana Pacers)戦でジェイソン・キッド(Jason Kidd)を抜き、NBA通算アシスト歴代3位(12,092本)に浮上した。この日は15得点・アシスト11・リバウンド7を記録し、76ersは131-124でペイサーズに勝利した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1002-jaylen-brown-31-points-pacers.html",
     cat: "NBA",
     title: "ジェイレン・ブラウン、ペイサーズ戦で31得点 —— 76ersが131-124で勝利",
