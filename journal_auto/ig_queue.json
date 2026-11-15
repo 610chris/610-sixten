@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T06:13:26+09:00",
+  "updated": "2026-11-16T08:56:42+09:00",
   "items": [
     {
       "id": "134",
@@ -31712,6 +31712,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "レブロン、アシスト歴代3位に —— キッドを超える12,092本\n\n・キッドを抜き通算アシスト歴代3位(12,092本)\n・76ersは131-124でペイサーズに勝利、15得点11アシスト\n・次はクリス・ポールまで461本差\n\n💬 レブロン、クリス・ポールの歴代2位も今季中に超える？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「LeBron James passes Jason Kidd on NBA assists list」\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1004",
+      "slug": "1004-luka-doncic-43-points-suns",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "ルカ・ドンチッチ、サンズ戦で43得点",
+      "excerpt": "ロサンゼルス・レイカーズのルカ・ドンチッチ(Luka Doncic)は現地時間11月15日、敵地フィニックスでのフィニックス・サンズ(Phoenix Suns)戦に36分出場し、フィールドゴール28本中13本・3ポイント13本中5本・フリースロー14本中12本を沈めて43得点を記録した。両チーム通じてこの日の試合最多得点者となり、レイカーズは131-123でサンズに勝利した。",
+      "points": [
+        "FG13/28・3P5/13・FT12/14で43得点",
+        "アシスト9でプレーメイクも両立",
+        "レイカーズが131-123でサンズに勝利"
+      ],
+      "source": "ESPN ボックススコア(Lakers vs. Suns・2026年11月15日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1004-luka-doncic-43-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチの43得点、今季ベストゲームだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. SUNS",
+        "points": 43,
+        "stats": [
+          "9 AST",
+          "3 REB",
+          "13/28 FG",
+          "5/13 3PT",
+          "12/14 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1004-1.jpg",
+        "https://sixten.jp/assets/ig/1004-2.jpg",
+        "https://sixten.jp/assets/ig/1004-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T08:56:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ルカ・ドンチッチ、サンズ戦で43得点\n\n・FG13/28・3P5/13・FT12/14で43得点\n・アシスト9でプレーメイクも両立\n・レイカーズが131-123でサンズに勝利\n\n💬 ドンチッチの43得点、今季ベストゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Lakers vs. Suns・2026年11月15日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

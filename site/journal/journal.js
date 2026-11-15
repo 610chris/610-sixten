@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1004-luka-doncic-43-points-suns.html",
+    cat: "NBA",
+    title: "ルカ・ドンチッチ、サンズ戦で43得点 —— レイカーズが131-123で勝利",
+    excerpt: "ロサンゼルス・レイカーズのルカ・ドンチッチ(Luka Doncic)は現地時間11月15日、敵地フィニックスでのフィニックス・サンズ(Phoenix Suns)戦に36分出場し、フィールドゴール28本中13本・3ポイント13本中5本・フリースロー14本中12本を沈めて43得点を記録した。両チーム通じてこの日の試合最多得点者となり、レイカーズは131-123でサンズに勝利した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1003-lebron-james-passes-jason-kidd-assists.html",
     cat: "NBA",
     title: "レブロン、通算アシスト歴代3位に浮上 —— ジェイソン・キッドを超える12,092本、76ersはペイサーズに131-124で勝利",
