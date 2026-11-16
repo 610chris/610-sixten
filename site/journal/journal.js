@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1017-brunson-kobe-5-general-grievous-pe.html",
+    cat: "KICKS",
+    title: "ブランソン、Nike Kobe 5 Protro「General Grievous」PEを初披露 —— バックス戦のニックス快勝で新作コービー",
+    excerpt: "ニューヨーク・ニックスのジェイレン・ブランソンが、ミルウォーキー・バックス戦で新しいプレーヤーエクスクルーシブ「Nike Kobe 5 Protro」を初披露した。『スター・ウォーズ』のジェネラル・グリーヴァスをテーマにした仕立てで、試合後にインスタグラムで公開。米Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1016-nike-dunk-low-grandmas-couch.html",
+    cat: "KICKS",
+    title: "Nike Dunk Low「Grandma's Couch」が発売中 —— ビロードにフローラル柄、品番JF4566-900・価格130ドル",
+    excerpt: "ナイキが、定番モデル「Dunk Low」のレトロプレミアム版新色「Grandma's Couch」(品番JF4566-900、価格130ドル)を発売した。アッパー全体をビロード素材で仕立て、ヴィンテージ調のフローラル柄のブロケードをあしらった一足。米Hypebeastが伝えた。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1015-lebron-james-back-nets-embiid-questionable.html",
     cat: "NBA",
     title: "レブロン、ネッツ戦を欠場 —— 76ersが腰の管理で起用せず、エンビードも右足底筋膜炎で出場微妙",
