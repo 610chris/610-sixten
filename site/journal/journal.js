@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1014-gg-jackson-foot-fracture.html",
+    cat: "NBA",
+    title: "グリズリーズのGG・ジャクソン、左足の第5中足骨骨折で手術へ —— ネッツ戦第1Qで負傷、離脱期間は術後に発表",
+    excerpt: "メンフィス・グリズリーズは、GG・ジャクソンが左足の第5中足骨を骨折したと発表した。14日のネッツ戦第1クォーターで負傷し、今後手術を受ける予定。離脱期間は術後に発表されるという。ESPNが報じた。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1013-shai-gilgeous-alexander-37-points-kings.html",
     cat: "NBA",
     title: "シェイ・ギルジャス＝アレクサンダー、キングス戦で37得点 —— サンダーが125-103で快勝",
