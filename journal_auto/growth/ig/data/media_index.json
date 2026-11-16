@@ -189,6 +189,29 @@
   "template": "news",
   "timestamp": "2026-10-06T13:11:38+0000"
  },
+ "17883108798543108": {
+  "article": "995",
+  "auto": true,
+  "caption_len": 382,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カイリー・アービング、キャバリアーズ戦で34得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfvyTCrk3No/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Mavericks vs. Cavaliers・2026年11月14日)",
+  "subject": [
+   "Kyrie Irving"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-15T03:12:05+0000"
+ },
  "17884158930522861": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -624,6 +647,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-08T23:03:34+0000"
+ },
+ "17899248471421015": {
+  "article": "997",
+  "auto": true,
+  "caption_len": 309,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "パウエル24得点、ブルズがウルブズに勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfv4OZpDZVD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Norman Powell"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-15T04:04:01+0000"
  },
  "17900758436463651": {
   "auto": false,
@@ -1333,6 +1379,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-24T02:19:31+0000"
+ },
+ "17916584397472391": {
+  "article": "1004",
+  "auto": true,
+  "caption_len": 340,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ルカ・ドンチッチ、サンズ戦で43得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyCD_ZEqo5/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Lakers vs. Suns・2026年11月15日)",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T00:08:29+0000"
  },
  "17916712773528524": {
   "arms": {
@@ -4391,6 +4460,29 @@
   "template": "score",
   "timestamp": "2026-10-17T05:16:52+0000"
  },
+ "18010475703006614": {
+  "article": "1010",
+  "auto": true,
+  "caption_len": 348,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スコッティ・バーンズ、ニックス戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyP0UslBBF/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Raptors vs. Knicks)",
+  "subject": [
+   "Scottie Barnes"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T02:08:38+0000"
+ },
  "18011146067980023": {
   "article": "363",
   "auto": true,
@@ -6210,6 +6302,29 @@
   "template": "score",
   "timestamp": "2026-10-15T03:00:38+0000"
  },
+ "18084365222343488": {
+  "article": "1005",
+  "auto": true,
+  "caption_len": 308,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、ホーネッツ戦で4得点2リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyCd32Dzfm/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T00:11:59+0000"
+ },
  "18085986098294063": {
   "article": "352",
   "auto": true,
@@ -6232,6 +6347,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-03T06:45:03+0000"
+ },
+ "18087029309333326": {
+  "article": "1003",
+  "auto": true,
+  "caption_len": 392,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン、アシスト歴代3位に —— キッドを超える12,092本",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyBtVTGdL8/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN「LeBron James passes Jason Kidd on NBA assists list」",
+  "subject": [
+   "LeBron James"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T00:05:21+0000"
  },
  "18088463615306964": {
   "arms": {
@@ -6414,6 +6552,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-03T03:49:28+0000"
+ },
+ "18092368286250389": {
+  "article": "1009",
+  "auto": true,
+  "caption_len": 356,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイソン・テイタム、マーベリックス戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyOkwKjduA/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Celtics vs. Mavericks・2026年11月15日)",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T01:57:48+0000"
  },
  "18092664290216698": {
   "arms": {
@@ -8068,6 +8229,29 @@
   "template": "score",
   "timestamp": "2026-11-10T02:39:10+0000"
  },
+ "18110649872211368": {
+  "article": "1000",
+  "auto": true,
+  "caption_len": 372,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "マレーのトレード、ネックは『不確実性ボーナス』240万ドル",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyBEjMgIeE/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「NBA buzz」（Bobby Marks）",
+  "subject": [
+   "Dejounte Murray"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-15T23:59:45+0000"
+ },
  "18110738405461496": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9718,6 +9902,19 @@
   "template": "score",
   "timestamp": "2026-11-01T00:59:06+0000"
  },
+ "18121840865068512": {
+  "auto": false,
+  "caption_len": 112,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "一緒にバスケを始めた弟・久遠と、あさっては敵同士。",
+  "permalink": "https://www.instagram.com/reel/Dfwk0ONgaQl/",
+  "product": "REELS",
+  "timestamp": "2026-11-15T10:33:53+0000"
+ },
  "18121962475894237": {
   "article": "345",
   "auto": true,
@@ -9869,6 +10066,29 @@
   "template": "news",
   "timestamp": "2026-10-21T00:19:04+0000"
  },
+ "18122847515472105": {
+  "article": "994",
+  "auto": true,
+  "caption_len": 369,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヨキッチがペリカンズ戦で26得点 —— ナゲッツが116-108で勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfvwqjIDMnL/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Nuggets vs. Pelicans・2026年11月14日)",
+  "subject": [
+   "Nikola Jokic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-15T02:57:57+0000"
+ },
  "18123342536303659": {
   "article": "986",
   "auto": true,
@@ -9993,6 +10213,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-22T02:52:05+0000"
+ },
+ "18125737207904292": {
+  "article": "999",
+  "auto": true,
+  "caption_len": 292,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カワード23得点、グリズリーズがネッツに快勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfv4l9IEgGw/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Cedric Coward"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-15T04:07:09+0000"
  },
  "18126002959855321": {
   "article": "348",
@@ -11076,6 +11319,29 @@
   "template": "score",
   "timestamp": "2026-10-31T02:54:39+0000"
  },
+ "18136618729773770": {
+  "article": "1006",
+  "auto": true,
+  "caption_len": 310,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダリアス・ガーランド、ホーネッツ戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyCv0SD_VH/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darius Garland"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T00:14:26+0000"
+ },
  "18137249137731951": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -11228,6 +11494,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-01T15:02:11+0000"
+ },
+ "18139570198641458": {
+  "article": "1008",
+  "auto": true,
+  "caption_len": 341,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ディラン・ハーパー、ジャズ戦で31得点 —— スパーズが110-102で勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyINFkE5jX/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Dylan Harper"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T01:02:07+0000"
  },
  "18139589959540058": {
   "arms": {
@@ -12204,6 +12493,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-08T23:14:35+0000"
+ },
+ "18168738055441980": {
+  "article": "996",
+  "auto": true,
+  "caption_len": 297,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス34得点、ヒートがピストンズに快勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Dfv3-mNDJWf/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-15T04:01:41+0000"
  },
  "18169616554434585": {
   "article": "935",
@@ -14492,6 +14804,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-08T04:07:22+0000"
+ },
+ "18644214895048156": {
+  "article": "1002",
+  "auto": true,
+  "caption_len": 312,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブラウン31得点、76ersがペイサーズに勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyBVFECBjr/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jaylen Brown"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T00:02:02+0000"
  },
  "18646757968000872": {
   "article": "958",
