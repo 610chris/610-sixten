@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1015-lebron-james-back-nets-embiid-questionable.html",
+    cat: "NBA",
+    title: "レブロン、ネッツ戦を欠場 —— 76ersが腰の管理で起用せず、エンビードも右足底筋膜炎で出場微妙",
+    excerpt: "フィラデルフィア・76ersは、レブロン・ジェームズが本拠地でのブルックリン・ネッツ戦を欠場すると発表した。球団は下部腰痛の管理を理由に挙げ、ジェームズの欠場は今季4試合目。ジョエル・エンビードも右足底筋膜炎で出場が微妙な状態にある。ESPNが報じた。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1014-gg-jackson-foot-fracture.html",
     cat: "NBA",
     title: "グリズリーズのGG・ジャクソン、左足の第5中足骨骨折で手術へ —— ネッツ戦第1Qで負傷、離脱期間は術後に発表",
