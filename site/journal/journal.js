@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1012-jakucionis-25-points-hawks.html",
+    cat: "NBA",
+    title: "カスパラス・ヤクチオニス、ホークス戦で25得点 —— バックスは106-113で敗戦",
+    excerpt: "ミルウォーキー・バックスのカスパラス・ヤクチオニス(Kasparas Jakucionis)は現地時間11月15日、本拠地ミルウォーキーでのアトランタ・ホークス(Atlanta Hawks)戦に26分出場し、フィールドゴール16本中9本・3ポイント10本中4本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者となったが、バックスは106-113でホークスに敗れた。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1011-amen-thompson-26-points-wizards.html",
     cat: "NBA",
     title: "アメン・トンプソン、ウィザーズ戦で26得点 —— ロケッツが147-119で大勝",

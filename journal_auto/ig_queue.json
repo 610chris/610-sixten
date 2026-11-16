@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T11:55:47+09:00",
+  "updated": "2026-11-16T12:55:17+09:00",
   "items": [
     {
       "id": "134",
@@ -32047,6 +32047,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "アメン・トンプソン、ウィザーズ戦で26得点\n\n・FG9/11・3P3/3で26得点を記録\n・リバウンド7・アシスト7もマーク\n・ロケッツが147-119でウィザーズに大勝\n\n💬 ロケッツの今シーズン、プレーオフ進出いける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Rockets vs. Wizards)\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1012",
+      "slug": "1012-jakucionis-25-points-hawks",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "ヤクチオニスがホークス戦で25得点",
+      "excerpt": "ミルウォーキー・バックスのカスパラス・ヤクチオニス(Kasparas Jakucionis)は現地時間11月15日、本拠地ミルウォーキーでのアトランタ・ホークス(Atlanta Hawks)戦に26分出場し、フィールドゴール16本中9本・3ポイント10本中4本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者となったが、バックスは106-113でホークスに敗れた。",
+      "points": [
+        "26分出場でFG9/16・3P4/10の25得点",
+        "リバウンド5・アシスト5・スティール3",
+        "バックスは106-113でホークスに敗戦"
+      ],
+      "source": "ESPN ボックススコア(Bucks vs. Hawks)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1012-jakucionis-25-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Kasparas Jakucionis"
+      ],
+      "question": "ヤクチオニスのオールラウンドな活躍、評価は？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KASPARAS JAKUCIONIS",
+        "opponent": "vs. HAWKS",
+        "points": 25,
+        "stats": [
+          "5 REB",
+          "5 AST",
+          "3 STL",
+          "9/16 FG",
+          "4/10 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1012-1.jpg",
+        "https://sixten.jp/assets/ig/1012-2.jpg",
+        "https://sixten.jp/assets/ig/1012-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T12:54:22+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ヤクチオニスがホークス戦で25得点\n\n・26分出場でFG9/16・3P4/10の25得点\n・リバウンド5・アシスト5・スティール3\n・バックスは106-113でホークスに敗戦\n\n💬 ヤクチオニスのオールラウンドな活躍、評価は？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Bucks vs. Hawks)\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
