@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T10:53:43+09:00",
+  "updated": "2026-11-16T11:06:19+09:00",
   "items": [
     {
       "id": "134",
@@ -31954,6 +31954,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジェイソン・テイタム、マーベリックス戦で32得点\n\n・フィールドゴール18本中11本・3P8本中5本で32得点\n・リバウンド6・アシスト6も記録\n・セルティックスが131-94で大勝\n\n💬 この試合、テイタムとセルティックスのどちらが印象的だった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Celtics vs. Mavericks・2026年11月15日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1010",
+      "slug": "1010-scottie-barnes-30-points-knicks",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "スコッティ・バーンズ、ニックス戦で30得点",
+      "excerpt": "トロント・ラプターズのスコッティ・バーンズ(Scottie Barnes)は現地時間11月15日、本拠地トロントでのニューヨーク・ニックス(New York Knicks)戦に36分出場し、フィールドゴール27本中13本・3ポイント8本中4本を沈めて30得点を記録した。両チーム通じてこの日の試合最多得点者となったが、ラプターズは108-112でニックスに敗れた。",
+      "points": [
+        "FG13/27・3P4/8で30得点、リバウンド9・ブロック2",
+        "ニックスはタウンズ28得点17リバウンド、ブランソン28得点9アシスト",
+        "ラプターズは108-112で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Raptors vs. Knicks)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1010-scottie-barnes-30-points-knicks.html",
+      "hero_path": "",
+      "subject": [
+        "Scottie Barnes"
+      ],
+      "question": "ラプターズ、このまま今季は厳しい？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOTTIE BARNES",
+        "opponent": "vs. KNICKS",
+        "points": 30,
+        "stats": [
+          "9 REB",
+          "4 AST",
+          "2 BLK",
+          "13/27 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1010-1.jpg",
+        "https://sixten.jp/assets/ig/1010-2.jpg",
+        "https://sixten.jp/assets/ig/1010-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T11:05:57+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "スコッティ・バーンズ、ニックス戦で30得点\n\n・FG13/27・3P4/8で30得点、リバウンド9・ブロック2\n・ニックスはタウンズ28得点17リバウンド、ブランソン28得点9アシスト\n・ラプターズは108-112で敗戦\n\n💬 ラプターズ、このまま今季は厳しい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Raptors vs. Knicks)\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

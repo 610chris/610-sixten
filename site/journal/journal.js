@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1010-scottie-barnes-30-points-knicks.html",
+    cat: "NBA",
+    title: "スコッティ・バーンズ、ニックス戦で30得点 —— ラプターズは108-112で敗戦",
+    excerpt: "トロント・ラプターズのスコッティ・バーンズ(Scottie Barnes)は現地時間11月15日、本拠地トロントでのニューヨーク・ニックス(New York Knicks)戦に36分出場し、フィールドゴール27本中13本・3ポイント8本中4本を沈めて30得点を記録した。両チーム通じてこの日の試合最多得点者となったが、ラプターズは108-112でニックスに敗れた。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1009-jayson-tatum-32-points-mavericks.html",
     cat: "NBA",
     title: "ジェイソン・テイタム、マーベリックス戦で32得点 —— セルティックスが131-94で勝利",
