@@ -1,18 +1,58 @@
 {
- "updated_utc": "2026-11-16 01:50 UTC",
+ "updated_utc": "2026-11-16 18:53 UTC",
  "source": "https://www.reddit.com/r/nba/new/.rss?limit=100",
  "posts": [
   {
-   "reporter": "Michael Scotto（HoopsHype）",
-   "handle": "MikeAScotto",
-   "key": "https://www.reddit.com/r/nba/comments/1xx8vd4/scotto_minnesota_timberwolves_guard_jaylen_clark/",
+   "reporter": "Brian Windhorst（ESPN）",
+   "handle": "WindhorstESPN",
+   "key": "https://www.reddit.com/r/nba/comments/1xxwrlc/windhorst_in_my_discussions_with_teams_over_the/",
    "x_url": "",
    "tweet_id": "",
-   "posted_utc": "2026-11-15T22:36:21+00:00",
-   "text": "Minnesota Timberwolves guard Jaylen Clark suffered a right hamstring strain, an MRI revealed. Clark will be re-evaluated in two weeks.\n\nhttps://www.hoopshype.com/staff/84455328007/michael-scotto/",
-   "reddit_url": "https://www.reddit.com/r/nba/comments/1xx8vd4/scotto_minnesota_timberwolves_guard_jaylen_clark/",
+   "posted_utc": "2026-11-16T18:17:57+00:00",
+   "text": "source: https://sports.yahoo.com/articles/teams-want-draft-compensation-dejounte-144057950.html?guccounter=1\n\nhttps://open.spotify.com/episode/3LoxreGQEtsVE1uM1xWLxq?si=ajDFDNXbRraOUJEvtXFdMA&utm\\_source=copy-link",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xxwrlc/windhorst_in_my_discussions_with_teams_over_the/",
    "links": [
-    "https://www.hoopshype.com/staff/84455328007/michael-scotto/"
+    "https://open.spotify.com/episode/3LoxreGQEtsVE1uM1xWLxq?si=ajDFDNXbRraOUJEvtXFdMA&amp;utm%5C_source=copy-link",
+    "https://open.spotify.com/episode/3LoxreGQEtsVE1uM1xWLxq?si=ajDFDNXbRraOUJEvtXFdMA&amp;utm\\_source=copy-link",
+    "https://sports.yahoo.com/articles/teams-want-draft-compensation-dejounte-144057950.html?guccounter=1"
+   ]
+  },
+  {
+   "reporter": "Tim MacMahon（ESPN）",
+   "handle": "espn_macmahon",
+   "key": "https://www.reddit.com/r/nba/comments/1xxwa22/macmahon_when_teams_are_calling_hey_we_are/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-11-16T17:59:53+00:00",
+   "text": "Tim MacMahon: \"It has not been a great run for Joe Dumars since he has been in that chair in New Orleans. He got ridiculed for what he gave up to get Derek Queen. He got ridiculed for the CJ McCollum for Jordan Poole trade. \n\nAnd so when teams are calling, hey, we are interested in trading Dejounte Murray, Herb Jones, he is asking for the moon. It is like he is almost overcompensating trying to make sure that he can win a press conference after getting just hammered in the media over the deals that he has made.\"  source: https://www.hoopshype.com/story/sports/nba/rumors/2026/11/14/so-when-teams-are-calling-hey-we-are-interested-in/92778841007/",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xxwa22/macmahon_when_teams_are_calling_hey_we_are/",
+   "links": [
+    "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/14/so-when-teams-are-calling-hey-we-are-interested-in/92778841007/"
+   ]
+  },
+  {
+   "reporter": "Michael Scotto（HoopsHype）",
+   "handle": "MikeAScotto",
+   "key": "https://www.reddit.com/r/nba/comments/1xxuvkq/scotto_the_memphis_grizzlies_say_gg_jackson/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-11-16T17:07:08+00:00",
+   "text": "The Memphis Grizzlies say GG Jackson sustained a broken fifth metatarsal in his left foot and will have surgery. Scotty Pippen Jr. is progressing in his recovery from a lumbar disc herniation and is considered week-to-week.",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xxuvkq/scotto_the_memphis_grizzlies_say_gg_jackson/",
+   "links": []
+  },
+  {
+   "reporter": "Dave McMenamin（ESPN）",
+   "handle": "mcten",
+   "key": "https://www.reddit.com/r/nba/comments/1xxug9b/mcmenamin_a_sixers_source_told_espn_that_james/",
+   "x_url": "",
+   "tweet_id": "",
+   "posted_utc": "2026-11-16T16:52:07+00:00",
+   "text": "source: https://www.espn.com/nba/story/\\_/id/50490202/lebron-76ers-start-execs-big-questions\n\nSeems like Bron still isn’t at 100% (for his 42 year old self) and is still ramping up according to him",
+   "reddit_url": "https://www.reddit.com/r/nba/comments/1xxug9b/mcmenamin_a_sixers_source_told_espn_that_james/",
+   "links": [
+    "https://www.espn.com/nba/story/%5C_/id/50490202/lebron-76ers-start-execs-big-questions",
+    "https://www.espn.com/nba/story/\\_/id/50490202/lebron-76ers-start-execs-big-questions"
    ]
   }
  ]
