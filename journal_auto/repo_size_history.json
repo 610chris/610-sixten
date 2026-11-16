@@ -97,5 +97,16 @@
     "articles_per_day": 19.29,
     "growth_mb_per_day": 8.85,
     "level": "CRIT"
+  },
+  {
+    "date": "2026-11-16",
+    "size_mb": 1101.8,
+    "size_source": "GitHub API",
+    "videos": 517,
+    "videos_mb": 206.2,
+    "video_avg_kb": 408,
+    "articles_per_day": 17.5,
+    "growth_mb_per_day": 8.03,
+    "level": "CRIT"
   }
 ]
