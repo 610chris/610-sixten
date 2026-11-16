@@ -1,8 +1,70 @@
 {
- "updated_utc": "2026-11-16 03:01 UTC",
+ "updated_utc": "2026-11-16 11:59 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/lebron-makes-history-during-11-assist-performance-in-131-124-win-over-pacers",
+   "url": "https://www.nba.com/sixers/news/lebron-makes-history-during-11-assist-performance-in-131-124-win-over-pacers",
+   "canonical_url": "https://sixers.com/news/lebron-makes-history-during-11-assist-performance-in-131-124-win-over-pacers",
+   "title": "LeBron makes history during 11-assist performance in 131-124 win over Pacers",
+   "author": "Owen Boyle",
+   "published_utc": "2026-11-16T11:42:44Z",
+   "tags": [
+    "LeBron James"
+   ],
+   "summary": "The Philadelphia 76ers (11-3) offense found another gear Sunday afternoon, scoring their most points of the season in a 131-124 win over the Indiana Pacers (5-9).",
+   "facts": [
+    "The Philadelphia 76ers (11-3) offense found another gear Sunday afternoon, scoring their most points of the season in a 131-124 win over the Indiana Pacers (5-9).",
+    "Jaylen Brown (season-high 31 points) and Tyrese Maxey (27 points) led the team in scoring, while LeBron James facilitated the offense with a historic 11-assist performance, moving him into third place on the NBA's all-ti…",
+    "Seven Sixers scored in double figures, with James (15 points), VJ Edgecombe (11 points) and Jabari Walker (11 points) rounding out the starters.",
+    "Anfernee Simons and Dean Wade each added 12 points off the bench.",
+    "The Sixers used a 39-point third quarter, anchored by Maxey and James, to establish a lead they would never relinquish.",
+    "Pascal Siakam scored 31 points for the Pacers, tying Brown for the game-high.",
+    "The Sixers shot 55% from the field and, for the second consecutive game, 43% from 3-point range, making 18 of their 42 attempts.",
+    "Despite a significant height advantage for the Pacers, both teams grabbed 40 rebounds, but the Sixers had two more on the defensive glass."
+   ],
+   "quotes": [
+    "We are gonna fight and do everything we can to win basketball games. It’s clicking because from day one, we’ve all talked to each other, we’ve all been giving ourselves to the team, giving ourselves t…",
+    "He’s got the vision and the awareness,",
+    "He’s got the size to see, and I think he’s got some anticipation. Just a half second before the play happens, he knows how the defense is moving, etc. That’s just probably the awareness part of it, an…",
+    "Obviously, it’s super humbling,"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261115-tatums-early-hunch-about-celtics-coming-to-life-through-teams-depth",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261115-tatums-early-hunch-about-celtics-coming-to-life-through-teams-depth",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261115-tatums-early-hunch-about-celtics-coming-to-life-through-teams-depth",
+   "title": "Tatum’s Early Hunch About Celtics Coming to Life Through Team’s Depth",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-16T05:07:19Z",
+   "tags": [
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "BOSTON – Jayson Tatum began seeing signs of this Celtics team’s potential before the season even started.",
+   "facts": [
+    "It was one of Boston’s most impressive performances of the young season, beginning with a historic first quarter in which the Celtics built a franchise-record 33-point lead by a score of 42-9.",
+    "Tatum led the way with 32 points, while no other teammate scored more than 16.",
+    "Meanwhile, a franchise-record five reserves knocked down multiple 3-pointers, showcasing the depth and versatility that have become defining strengths of this group."
+   ],
+   "quotes": [
+    "When we were in Charleston, it kind of clicked that we had something special,",
+    "I had a conversation with Mike (Conley) at breakfast one day and I was like, ‘Man, we might be all right.’",
+    "We got a really, really good team,",
+    "And I think it really just starts with our depth, especially that fifth spot of whoever (starts), whether it’s Hugo (Gonzalez), whether it’s Baylor (Scheierman), whether it’s (Jordan) Walsh, Ron (Harp…"
+   ]
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -1553,96 +1615,6 @@
     "JOEL EMBIID registered 20 points, marking his fifth such game this season."
    ],
    "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hornets-comeback-attempt-foiled-in-4th-quarter-by-phoenix",
-   "url": "https://www.nba.com/hornets/news/hornets-comeback-attempt-foiled-in-4th-quarter-by-phoenix",
-   "canonical_url": "https://hornets.com/news/hornets-comeback-attempt-foiled-in-4th-quarter-by-phoenix",
-   "title": "Hornets’ Comeback Attempt Foiled In 4th Quarter By Phoenix",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-13T05:25:17Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "Though the Hornets managed to overcome one turnover-heavy quarter on Thursday night, they couldn’t do so a second time, resulting in a 101-96 road loss to the Phoenix Suns.",
-   "facts": [
-    "Though the Hornets managed to overcome one turnover-heavy quarter on Thursday night, they couldn’t do so a second time, resulting in a 101-96 road loss to the Phoenix Suns.",
-    "Top Performers: Coby White had his finest performance of the season so far, finishing with a team-high 21 points on 8-of-16 shooting, two 3-pointers and three assists in 20 minutes (still on a minutes restriction).",
-    "Christian Anderson Jr. topped his career high for the second straight game, totaling 13 points on 4-of-9 shooting and three 3-pointers, while fellow reserve Grant Williams added 11 points on 3-of-5 shooting and two rebou…",
-    "Devin Booker led all scorers with 30 points – nine in the fourth quarter – on 12-of-20 shooting, four 3-pointers, a game-high-tying seven assists and three steals, as Phoenix won for the fourth time in five games.",
-    "Dillon Brooks recorded 15 points on 6-of-13 shooting and Miles Bridges had 11 points, six rebounds and three assists facing his former team of seven seasons for the first time.",
-    "Turning Point: A litany of early turnovers (10 in the first quarter) helped put the Hornets in a 17-point second-quarter hole, but they dug themselves out of it with a 45-24 run to take a four-point lead into the fourth.",
-    "Unfortunately, the turnover problems came roaring back around to Charlotte in the closing frame, which featured only six made shots (6-of-16) and nine giveaways for 13 Phoenix points.",
-    "Still, the Hornets were within three with 24 seconds to go before Booker banged in a 28-foot step-back 3-pointer to ice the game for the Suns."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/blowout-loss-may-have-helped-at-least-one-maverick-turn-a-corner",
-   "url": "https://www.nba.com/mavs/news/blowout-loss-may-have-helped-at-least-one-maverick-turn-a-corner",
-   "canonical_url": "https://mavs.com/mavs/news/blowout-loss-may-have-helped-at-least-one-maverick-turn-a-corner",
-   "title": "Blowout loss may have helped at least one Maverick turn a corner",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-13T04:47:21Z",
-   "tags": [],
-   "summary": "MINNEAPOLIS – They say it truly is an ill wind that doesn’t blow some good.",
-   "facts": [
-    "And while the wind was foul and damaging for the Mavericks on Thursday, their 133-94 blowout loss to Minnesota wasn’t a complete wipeout.",
-    "Zaccharie Risacher, historically a solid three-point shooter, had been shooting just 25 percent from three-point range in the first 10 games – far below his 36 percent average in his first two NBA seasons with Atlanta.",
-    "He hit 4-of-8 from beyond the arc and hopes that’s the start of a hotter shooting streak.",
-    "He finished with 22 points and sometimes, shooters just need to see a shot or two go through the net to get out of a funk.",
-    "Strong play from Clayton: Maybe the biggest surprise of the Mavericks’ young season has been two-way signee Walter Clayton Jr.",
-    "He’s made a major impact on several games since he was signed two days after getting waived by Memphis just before the start of the regular season.",
-    "Turns out the main way the Wolves held Flagg to 12 points was by making it hard for him to get the ball."
-   ],
-   "quotes": [
-    "I was a little frustrated by my shooting this season,",
-    "I didn’t feel as comfortable as I used to be. I kept working and didn’t lose confidence. Is it’s a good sign. I should be able to make those important ones. It was was good to see some makes.",
-    "Defensively, Walt’s reputation compared to what we’ve seen are alternate realities,",
-    "And obviously, his shot-making has been a big addition, as well as his playmaking."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/wolves-stonewall-mavericks-as-winning-streak-comes-to-an-end",
-   "url": "https://www.nba.com/mavs/news/wolves-stonewall-mavericks-as-winning-streak-comes-to-an-end",
-   "canonical_url": "https://mavs.com/mavs/news/wolves-stonewall-mavericks-as-winning-streak-comes-to-an-end",
-   "title": "Wolves stonewall Mavericks as winning streak comes to an end",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-13T03:18:11Z",
-   "tags": [],
-   "summary": "MINNEAPOLIS – Maybe the Mavericks were due for a dud.",
-   "facts": [
-    "The Minnesota Timberwolves strapped the defensive handcuffs on the Mavericks and roared to a 133-94 win Thursday night at Target Center.",
-    "The Wolves’ sixth consecutive win ended the Mavericks’ three-game winning streak and dropped their record to 7-5.",
-    "Minnesota is 9-3 and surviving quite well without injured superstar Anthony Edwards.",
-    "It was the first time this season that they failed to reach 100 points.",
-    "The Wolves came in with the No. 1 overall defensive efficiency rating in the NBA and the Mavericks had steadily risen over the last week into the top 10 in the defensive ranking.",
-    "The Mavericks shot below 40 percent most of the night and finished at 37 percent.",
-    "They trailed by as much as 122-79 midway through the fourth quarter and the lead topped out at 129-85 a short time later.",
-    "The Wolves hovered around 60 percent shooting all night and finished at 58 percent."
-   ],
-   "quotes": [
-    "Their point-of-attack defense, their activity on and off the ball was extremely disruptive. They deserved to win the way they did tonight.",
-    "Obviously, flush it emotionally,",
-    "But in the first half, we were playing well and we give them a couple easy baskets and those are the ones . . . you’re in a tough spot. You can’t give them the baskets off of your mistakes. You got to…",
-    "We got to bring it every night,"
-   ]
   }
  ]
 }
