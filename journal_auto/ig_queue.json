@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T09:59:12+09:00",
+  "updated": "2026-11-16T10:53:43+09:00",
   "items": [
     {
       "id": "134",
@@ -31908,6 +31908,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ディラン・ハーパー、ジャズ戦で31得点 —— スパーズが110-102で勝利\n\n・FG12/23・3P2/7・FT5/5、リバウンド9・アシスト4\n・ウェンバンヤマも26得点、ステフォン・キャッスルは20得点\n・両チーム通じてこの試合の最多得点者\n\n💬 ハーパー、今季ここからどこまで伸びる?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1009",
+      "slug": "1009-jayson-tatum-32-points-mavericks",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "ジェイソン・テイタム、マーベリックス戦で32得点",
+      "excerpt": "ボストン・セルティックスのジェイソン・テイタム(Jayson Tatum)は現地時間11月15日、本拠地でのダラス・マーベリックス(Dallas Mavericks)戦に30分出場し、フィールドゴール18本中11本・3ポイント8本中5本・フリースロー6本中5本を沈めて32得点を記録した。両チーム通じてこの日の試合最多得点者となり、セルティックスは131-94でマーベリックスに大勝した。",
+      "points": [
+        "フィールドゴール18本中11本・3P8本中5本で32得点",
+        "リバウンド6・アシスト6も記録",
+        "セルティックスが131-94で大勝"
+      ],
+      "source": "ESPN ボックススコア(Celtics vs. Mavericks・2026年11月15日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1009-jayson-tatum-32-points-mavericks.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "この試合、テイタムとセルティックスのどちらが印象的だった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. MAVERICKS",
+        "points": 32,
+        "stats": [
+          "6 REB",
+          "6 AST",
+          "11/18 FG",
+          "5/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1009-1.jpg",
+        "https://sixten.jp/assets/ig/1009-2.jpg",
+        "https://sixten.jp/assets/ig/1009-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T10:53:25+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイソン・テイタム、マーベリックス戦で32得点\n\n・フィールドゴール18本中11本・3P8本中5本で32得点\n・リバウンド6・アシスト6も記録\n・セルティックスが131-94で大勝\n\n💬 この試合、テイタムとセルティックスのどちらが印象的だった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Celtics vs. Mavericks・2026年11月15日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

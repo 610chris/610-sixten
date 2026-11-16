@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1009-jayson-tatum-32-points-mavericks.html",
+    cat: "NBA",
+    title: "ジェイソン・テイタム、マーベリックス戦で32得点 —— セルティックスが131-94で勝利",
+    excerpt: "ボストン・セルティックスのジェイソン・テイタム(Jayson Tatum)は現地時間11月15日、本拠地でのダラス・マーベリックス(Dallas Mavericks)戦に30分出場し、フィールドゴール18本中11本・3ポイント8本中5本・フリースロー6本中5本を沈めて32得点を記録した。両チーム通じてこの日の試合最多得点者となり、セルティックスは131-94でマーベリックスに大勝した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1008-dylan-harper-31-points-jazz.html",
     cat: "NBA",
     title: "ディラン・ハーパー、ジャズ戦で31得点 —— スパーズが110-102で勝利",
