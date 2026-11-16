@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1006-darius-garland-27-points-hornets.html",
+    cat: "NBA",
+    title: "ダリアス・ガーランド、ホーネッツ戦で27得点 —— クリッパーズが113-105で勝利",
+    excerpt: "ロサンゼルス・クリッパーズのダリアス・ガーランド(Darius Garland)は現地時間11月15日、本拠地ロサンゼルスでのシャーロット・ホーネッツ(Charlotte Hornets)戦に35分出場し、フィールドゴール18本中10本・3ポイント7本中3本・フリースロー6本中4本を沈めて27得点を記録した。両チーム通じてこの日の試合最多得点者となり、クリッパーズは113-105でホーネッツに勝利した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1005-rui-hachimura-4-points-hornets.html",
+    cat: "NBA",
+    title: "八村塁、ホーネッツ戦で4得点2リバウンド —— クリッパーズが113-105で勝利",
+    excerpt: "ロサンゼルス・クリッパーズの八村塁(Rui Hachimura)は現地時間11月15日、本拠地ロサンゼルスでのシャーロット・ホーネッツ(Charlotte Hornets)戦に22分出場し、フィールドゴール5本中1本・3ポイント3本中0本・フリースロー4本中2本で4得点、リバウンド2を記録した。クリッパーズは113-105でホーネッツに勝利した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1004-luka-doncic-43-points-suns.html",
     cat: "NBA",
     title: "ルカ・ドンチッチ、サンズ戦で43得点 —— レイカーズが131-123で勝利",
