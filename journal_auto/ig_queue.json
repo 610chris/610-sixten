@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T09:05:29+09:00",
+  "updated": "2026-11-16T09:59:12+09:00",
   "items": [
     {
       "id": "134",
@@ -31829,6 +31829,85 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ダリアス・ガーランド、ホーネッツ戦で27得点\n\n・FG10/18・3P3/7・FT4/6で27得点\n・アシスト7・リバウンド6\n・クリッパーズが113-105で勝利\n\n💬 ガーランド、このままオールスター級の一年になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1007",
+      "slug": "1007-celtics-franchise-record-42-9-mavericks",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "セルティックス、第1Qで42-9 —— マーベリックス戦で球団史上最大のリード",
+      "excerpt": "ボストン・セルティックス(Boston Celtics)は現地時間11月15日の本拠地でのダラス・マーベリックス(Dallas Mavericks)戦で、第1クォーター終了時点で42-9とリード。球団史上、クォーター終了時点では最大のリードとなった。ESPNリサーチによると、1クォーターの得点差としては1987年のレイカーズ(40-4)に次ぐ、ショットクロック導入以降では歴代3位タイの数字という。",
+      "points": [
+        "開始から24-4、デリック・ホワイト11得点・ジョーダン・ウォルシュ8得点",
+        "ショットクロック導入以降では歴代3位タイの得点差",
+        "今季すでに2度、40点差リードを記録"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1007-celtics-franchise-record-42-9-mavericks.html",
+      "hero_path": "",
+      "subject": [],
+      "question": "この第1Qの42-9、今季ベストの立ち上がりだと思う?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/1007-1.jpg",
+        "https://sixten.jp/assets/ig/1007-2.jpg",
+        "https://sixten.jp/assets/ig/1007-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T09:58:25+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "セルティックス、第1Qで42-9 —— マーベリックス戦で球団史上最大のリード\n\n・開始から24-4、デリック・ホワイト11得点・ジョーダン・ウォルシュ8得点\n・ショットクロック導入以降では歴代3位タイの得点差\n・今季すでに2度、40点差リードを記録\n\n💬 この第1Qの42-9、今季ベストの立ち上がりだと思う?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1008",
+      "slug": "1008-dylan-harper-31-points-jazz",
+      "category": "NBA",
+      "date": "2026-11-16",
+      "headline": "ディラン・ハーパー、ジャズ戦で31得点 —— スパーズが110-102で勝利",
+      "excerpt": "サンアントニオ・スパーズのディラン・ハーパー(Dylan Harper)は現地時間11月15日、敵地ソルトレイクシティでのユタ・ジャズ(Utah Jazz)戦に34分出場し、フィールドゴール23本中12本・3ポイント7本中2本・フリースロー5本中5本を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者となり、スパーズは110-102でジャズに勝利した。",
+      "points": [
+        "FG12/23・3P2/7・FT5/5、リバウンド9・アシスト4",
+        "ウェンバンヤマも26得点、ステフォン・キャッスルは20得点",
+        "両チーム通じてこの試合の最多得点者"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1008-dylan-harper-31-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Dylan Harper"
+      ],
+      "question": "ハーパー、今季ここからどこまで伸びる?",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DYLAN HARPER",
+        "opponent": "vs. JAZZ",
+        "points": 31,
+        "stats": [
+          "9 REB",
+          "4 AST",
+          "12/23 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1008-1.jpg",
+        "https://sixten.jp/assets/ig/1008-2.jpg",
+        "https://sixten.jp/assets/ig/1008-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-16T09:59:09+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ディラン・ハーパー、ジャズ戦で31得点 —— スパーズが110-102で勝利\n\n・FG12/23・3P2/7・FT5/5、リバウンド9・アシスト4\n・ウェンバンヤマも26得点、ステフォン・キャッスルは20得点\n・両チーム通じてこの試合の最多得点者\n\n💬 ハーパー、今季ここからどこまで伸びる?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

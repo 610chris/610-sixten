@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1008-dylan-harper-31-points-jazz.html",
+    cat: "NBA",
+    title: "ディラン・ハーパー、ジャズ戦で31得点 —— スパーズが110-102で勝利",
+    excerpt: "サンアントニオ・スパーズのディラン・ハーパー(Dylan Harper)は現地時間11月15日、敵地ソルトレイクシティでのユタ・ジャズ(Utah Jazz)戦に34分出場し、フィールドゴール23本中12本・3ポイント7本中2本・フリースロー5本中5本を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者となり、スパーズは110-102でジャズに勝利した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "1007-celtics-franchise-record-42-9-mavericks.html",
+    cat: "NBA",
+    title: "セルティックス、第1クォーターに42-9 —— マーベリックス戦で球団史上最大のリード",
+    excerpt: "ボストン・セルティックス(Boston Celtics)は現地時間11月15日、本拠地でのダラス・マーベリックス(Dallas Mavericks)戦で第1クォーターを42-9で終え、球団史上、クォーター終了時点では最大のリードを記録した。ESPNリサーチによると、1クォーターの得点差としては1987年のレイカーズ(40-4)に次ぐ、ショットクロック導入以降では歴代3位タイの数字という。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1006-darius-garland-27-points-hornets.html",
     cat: "NBA",
     title: "ダリアス・ガーランド、ホーネッツ戦で27得点 —— クリッパーズが113-105で勝利",
