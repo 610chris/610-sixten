@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1018-mobley-toe-sprain.html",
+    cat: "NBA",
+    title: "キャバリアーズのモーブリー、右足母趾を負傷 —— MRIで捻挫確認、7〜10日の治療後に再評価",
+    excerpt: "クリーブランド・キャバリアーズは、エバン・モーブリーが右足の母趾を負傷したと発表した。11日のニックス戦で負傷し、直近2試合を欠場。MRI検査で捻挫と確認され、7〜10日間の治療・リハビリ後に再評価を受けるという。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1017-brunson-kobe-5-general-grievous-pe.html",
     cat: "KICKS",
     title: "ブランソン、Nike Kobe 5 Protro「General Grievous」PEを初披露 —— バックス戦のニックス快勝で新作コービー",
