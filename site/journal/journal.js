@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1011-amen-thompson-26-points-wizards.html",
+    cat: "NBA",
+    title: "アメン・トンプソン、ウィザーズ戦で26得点 —— ロケッツが147-119で大勝",
+    excerpt: "ヒューストン・ロケッツのアメン・トンプソン(Amen Thompson)は現地時間11月15日、敵地ワシントンでのワシントン・ウィザーズ(Washington Wizards)戦に29分出場し、フィールドゴール11本中9本・3ポイント3本中3本を沈めて26得点を記録した。両チーム通じてこの日の試合最多得点者となり、ロケッツは147-119でウィザーズに大勝した。",
+    date: "2026.11.16",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1010-scottie-barnes-30-points-knicks.html",
     cat: "NBA",
     title: "スコッティ・バーンズ、ニックス戦で30得点 —— ラプターズは108-112で敗戦",
