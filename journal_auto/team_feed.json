@@ -1,8 +1,138 @@
 {
- "updated_utc": "2026-11-15 23:07 UTC",
+ "updated_utc": "2026-11-16 03:01 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261115-dalbos",
+   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261115-dalbos",
+   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261115-dalbos",
+   "title": "Keys to the Game: Celtics 131, Mavericks 94",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-16T02:20:36Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "The Celtics logged their biggest home win of the season Sunday night, cruising to a 131-94 victory over the Dallas Mavericks. And it all started with one of the most dominant first quarters in NBA history.",
+   "facts": [
+    "Key Moment The Celtics logged their biggest home win of the season Sunday night, cruising to a 131-94 victory over the Dallas Mavericks.",
+    "Boston outscored Dallas 42-9 during the opening frame, setting a franchise record for the largest first-quarter point differential at plus-33.",
+    "The only team to build a bigger advantage was the Los Angeles Lakers on Feb. 4, 1987, when they outscored the Sacramento Kings 40-4 in the opening frame.",
+    "The Celtics wasted no time taking control Sunday, as Dallas missed its first nine field-goal attempts before finally converting at the 5:23 mark of the first quarter.",
+    "Boston, meanwhile, shot a blistering 9-of-15 from the field during that span.",
+    "Derrick White was particularly sharp out of the gate, outscoring the Mavericks 11-9 by himself in the opening quarter.",
+    "He made all four of his field-goal attempts, including a perfect 3-of-3 from long range.",
+    "Jayson Tatum matched Dallas’ first-quarter scoring total with nine points on 4-of-6 shooting while also dishing out four assists."
+   ],
+   "quotes": [
+    "Chris going to be good. Chris is good now. But he’s really, really going to be good."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/flaggs-homecoming-ruined-as-celtics-pile-it-on-early-cruise-to-easy-win",
+   "url": "https://www.nba.com/mavs/news/flaggs-homecoming-ruined-as-celtics-pile-it-on-early-cruise-to-easy-win",
+   "canonical_url": "https://mavs.com/mavs/news/flaggs-homecoming-ruined-as-celtics-pile-it-on-early-cruise-to-easy-win",
+   "title": "Flagg's homecoming ruined as Celtics pile it on early, cruise to easy win",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-16T01:10:57Z",
+   "tags": [],
+   "summary": "BOSTON – All the feelgood mojo wafting through TD Garden for Maine’s most famous athlete quickly dissipated Sunday evening.",
+   "facts": [
+    "The Mavericks and Cooper Flagg, playing the equivalent to a home game for him just a couple hundred miles down the road from Newport, Maine, where he grew up, were overwhelmed from the jump ball and finished this trip 0-…",
+    "The Mavericks missed their first nine shots from the field, fell behind 24-4 and were never heard from again.",
+    "The Celtics’ lead grew to 35 points early in the second quarter.",
+    "It topped out at 120-79.",
+    "They suffered three consecutive blowout losses on this trip to drop to 7-7 for the season.",
+    "Their defense limited the Mavericks to 39.8 percent shooting.",
+    "Like all his teammates, he had trouble shooting, scoring and rebounding as the Celtics showed why they are atop the East with an 11-2 record.",
+    "Kyrie Irving was celebrated by the Cavaliers’ fans as the franchise highlighted the 10-year anniversary of their 2016 championship that featured Irving and LeBron James."
+   ],
+   "quotes": [
+    "I don’t think we competed at a high enough level throughout the three games (on this trip),",
+    "That’s something that is controllable for us. Competing at a really, really high level is something we can do a lot better and something I thought we were doing before this road trip and I think we go…",
+    "Competing. The level they were competing at is something we need to look at and look in the mirror and decide if we’re competing at that same level and if we want it as bad as they did. ",
+    "It was a tough evening against a very good Celtics’ team that seemed to make us pay for every mistake,"
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/clippers-respond-with-2nd-half-run-to-down-hornets",
+   "url": "https://www.nba.com/hornets/news/clippers-respond-with-2nd-half-run-to-down-hornets",
+   "canonical_url": "https://hornets.com/news/clippers-respond-with-2nd-half-run-to-down-hornets",
+   "title": "Clippers Respond With 2nd-Half Run To Down Hornets",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-16T00:58:57Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "For the second straight game, the Charlotte Hornets couldn’t get enough shots to drop in the fourth quarter, and it cost them in Sunday evening’s 113-105 road loss to the LA Clippers.",
+   "facts": [
+    "For the second straight game, the Charlotte Hornets couldn’t get enough shots to drop in the fourth quarter, and it cost them in Sunday evening’s 113-105 road loss to the LA Clippers.",
+    "Top Performers: Coby White notched his second straight 20-point performance, tallying 21 – 16 in only six third-quarter minutes – on 7-of-13 shooting in 20 total minutes.",
+    "Christian Anderson Jr. reset his career high for the third consecutive game, putting up 16 points on 5-of-10 shooting, four 3-pointers, two assists and two steals.",
+    "Moussa Diabate collected 12 points on 5-of-9 shooting, a game-high 12 rebounds and three blocks for his third double-double of the season.",
+    "Darius Garland came within striking distance of his season high, tallying a game-high 27 points on 10-of-18 shooting, six rebounds, seven assists and six turnovers, as the Clippers notched their third victory in four out…",
+    "Max Strus chipped in 14 points on 5-of-8 shooting in 24 reserve minutes, which included a 4-of-5 clip from 3-point range.",
+    "Turning Point: Up 12 midway through the third quarter, Charlotte watched its lead vanish following a 23-10 Clippers run, which led to a one-point deficit heading into the fourth, Later, with the score knotted at 90 and j…",
+    "Buzzworthy Takeaways Charlotte’s inability to hit shots – 38% and 33% from 3-point range (17-of-52) – was magnified by the Clippers shooting a season-best 55%, while also smashing their previous campaign high for 3-point…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-battle-until-final-minute-in-loss-to-spurs-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-battle-until-final-minute-in-loss-to-spurs-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-battle-until-final-minute-in-loss-to-spurs-key-takeaways",
+   "title": "Utah Jazz Battle Until Final Minute in Loss to Spurs: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-16T00:56:19Z",
+   "tags": [
+    "Brice Sensabaugh",
+    "Darryn Peterson",
+    "Josh Okogie",
+    "Mo Bamba",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "Without four rotation players in the frontcourt, Utah battled until the final minute against Victor Wembanyama and the San Antonio Spurs in a Sunday matinee at the Delta Center. Ultimately, costly turnovers by the home team and timely shot-making from San Antonio’s leading scorers gave the visitors a 110-102 victory. Mo Bamba led Utah with 26 points, with the Jazz relying on outside shooting (17-o…",
+   "facts": [
+    "Ultimately, costly turnovers by the home team and timely shot-making from San Antonio’s leading scorers gave the visitors a 110-102 victory.",
+    "Mo Bamba led Utah with 26 points, with the Jazz relying on outside shooting (17-of-40) to keep pace throughout Sunday’s game.",
+    "The Jazz were red hot from deep during the opening 12 minutes, knocking down 7-of-11 from three.",
+    "On the other side, San Antonio’s scoring efforts were more balanced (four threes and 16 points in the paint), which helped keep the visitors neck-and-neck with the Jazz.",
+    "In a starting role, Bamba set the tone for Utah with 10 points in the first frame, which included two made 3-pointers.",
+    "Both teams turned it over four times in the quarter before the Jazz eventually took a 33-31 edge into the second quarter.",
+    "San Antonio would respond with a 9-0 run during the middle portion of the frame, as the two teams continued to battle back-and-forth as halftime approached.",
+    "Utah struggled from deep throughout the second quarter (just 2-of-9), which stagnated the home team’s offense."
+   ],
+   "quotes": [
+    "I thought it was a really, really good showing from our team,",
+    "Turnovers hurt us late and (so did) the inability to take care of the ball and make simple decisions… Their physicality hurt us at the end. I continue to be proud of the resolve of the team, they’re c…",
+    "We’ve got to dig deep at the end of a game and not give into the fatigue, whether that’s physical, mental, or emotional fatigue,",
+    "We’ve got to fight through. I thought we didn’t do a great job with our execution at the end in terms of creating advantage."
+   ]
+  },
   {
    "source": "MIN 公式（nba.com）",
    "team": "MIN",
@@ -55,9 +185,9 @@
    "team_ja": "ペイサーズ",
    "team_id": 1610612754,
    "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/game-rewind-pacers-124-76ers-131",
-   "url": "https://www.nba.com/pacers/news/game-rewind-pacers-124-76ers-131",
-   "canonical_url": "https://pacers.com/news/game-rewind-pacers-124-76ers-131",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261115",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261115",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-76ers-261115",
    "title": "Game Rewind: Pacers 124, 76ers 131",
    "author": "Madie Chandler-Donahue",
    "published_utc": "2026-11-15T19:28:09Z",
@@ -67,7 +197,7 @@
    "summary": "Sunday, Nov. 15 at 1:00 PM ET at Xfinity Mobile Arena",
    "facts": [
     "Sunday, Nov. 15 at 1:00 PM ET at Xfinity Mobile Arena Game Recap The Pacers sought their third straight win as they visited the 76ers in Philadelphia for a Sunday matinee matchup.",
-    "Indiana’s winning streak was stopped at two wins as the 76ers defeated the Pacers, 131-124.",
+    "Indiana’s winning streak was stopped at two wins as the 76ers (11-3) defeated the Pacers (5-9), 131-124.",
     "Philadelphia’s roster was also depleted – Joel Embiid, Dominick Barlow, Adem Bona, and Ariel Hukporti were out for the 76ers.",
     "He scored five of Indiana’s first seven points, and led the Pacers to a 12-10 lead by the seven-minute mark of the first quarter.",
     "Tyrese Maxey and Jalen Brown were productive for the 76ers, however, and already had 17 combined points nine minutes into the first quarter.",
@@ -116,6 +246,34 @@
     "I think the game is so unpredictable nowadays that, like I've been saying over and over again, the more complete I can be, the more versatile I can be, the more I can play off others and they can be t…",
     "I understand my teammates, and I can give them a relief in different aspects of the floor,"
    ]
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/11-15-2026-suns-vs-lakers-game-preview",
+   "url": "https://www.nba.com/suns/news/11-15-2026-suns-vs-lakers-game-preview",
+   "canonical_url": "https://suns.com/news/11-15-2026-suns-vs-lakers-game-preview",
+   "title": "11/15/2026 Suns vs Lakers Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-11-15T18:43:42Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Sunday, November 15, 2026Time: 2:00 p.m. MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Statement Edition (Black) | Lakers: Association Edition (White)",
+   "facts": [
+    "Game Info Date: Sunday, November 15, 2026Time: 2:00 p.m.",
+    "MSTLocation: Mortgage Matchup CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Statement Edition (Black) | Lakers: Association Edition (White) Series Notes Ph…",
+    "Jean held the same position with the Suns under Frank Vogel in 2023-24Lakers AC Michael Wexler was a Coaching Associate in Phoenix under Frank Vogel in 2023-24 Last Game's Starters #3 – Dillon BrooksLAST GAME: Recorded 1…",
+    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
+    "Phoenix forced 27 turnovers, tied for the most caused turnovers by any team this season.DEVIN BOOKER topped all scorers with 30 points (4-of-8 3FG), 7 assists and 3 steals.",
+    "With his 11th point of the night, he passedTracy McGrady for the 78th most points in NBA history.",
+    "It marked Booker’s fifth 30+ point game of the season.",
+    "He put up 13 points on 5-of-6 shooting and 3-of-4 3FG in the first quarter, his fifth 10+ point first quarter of the season."
+   ],
+   "quotes": []
   },
   {
    "source": "LAC 公式（nba.com）",
@@ -1485,31 +1643,6 @@
     "But in the first half, we were playing well and we give them a couple easy baskets and those are the ones . . . you’re in a tough spot. You can’t give them the baskets off of your mistakes. You got to…",
     "We got to bring it every night,"
    ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-grizzlies-injury-report-game-preview-11-13-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-grizzlies-injury-report-game-preview-11-13-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-grizzlies-injury-report-game-preview-11-13-2026",
-   "title": "Pelicans vs. Grizzlies: Injury Report, Game Preview 11/13/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-13T01:38:15Z",
-   "tags": [],
-   "summary": "The Pelicans continue their slate of NBA Cup matchups with the Memphis Grizzlies at the Smoothie King Center at 7:00 pm CT on Friday. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans continue their slate of NBA Cup matchups with the Memphis Grizzlies at the Smoothie King Center at 7:00 pm CT on Friday.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Grizzlies injury report, team news, tune in details, and gameday information: PELICANS VS GRIZZLIES INJURY UPDATE PELICANS INJURY REPORT Bennedict Mathurin QUESTIONABLE (right thumb sprain) Dejoun…",
-    "AVAILABLE (G League two-way) GRIZZLIES INJURY REPORT Zach Edey OUT (left ankle injury management) Scotty Pippen Jr.",
-    "OUT (lumbar disc herniation) Quinten Post OUT (concussion protocol) Richie Saunders OUT (right knee surgery) Karim Lopez OUT (G League on assignment) Jahmai Mashack OUT (G League two-way) PELICANS VS GRIZZLIES: HEAD-TO-H…",
-    "Denver Nuggets Jaylen Wells, Cameron Boozer, Zach Edey, Cedric Coward, Ty Jerome NEW ORLEANS PELICANS (4-8) Previous Game Lineup: November 11 loss vs.",
-    "Grizzlies Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 13 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Coas…"
-   ],
-   "quotes": []
   }
  ]
 }
