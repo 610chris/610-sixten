@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:48:36+09:00",
+  "updated": "2026-11-17T14:00:05+09:00",
   "items": [
     {
       "id": "134",
@@ -32931,6 +32931,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "テレンス・シャノンJr.、トレイルブレイザーズ戦で34得点6アシスト\n\n・FG 8/11・3PT 3/4で34得点\n・アシスト6でチーム最多\n・ティンバーウルブズが106-98で勝利\n\n💬 今季のティンバーウルブズ、シャノンJr.の得点力は化けると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Timberwolves vs. Trail Blazers・2026年11月16日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1034",
+      "slug": "1034-nikola-jokic-28-points-suns",
+      "category": "NBA",
+      "date": "2026-11-17",
+      "headline": "ニコラ・ヨキッチ、サンズ戦で28得点15リバウンド",
+      "excerpt": "デンバー・ナゲッツのニコラ・ヨキッチは現地時間11月16日、本拠地でのフェニックス・サンズ戦に38分出場し、28得点・リバウンド15・アシスト7を記録してチーム最多得点者となった。ナゲッツは105-117でサンズに敗れた。",
+      "points": [
+        "FG 12/21で28得点・リバウンド15・アシスト7",
+        "ジャマール・マレーも同じ28得点でチーム最多を分け合う",
+        "ナゲッツは第2・第3Qで逆転され105-117で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Nuggets vs. Suns・2026年11月16日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1034-nikola-jokic-28-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Nikola Jokic"
+      ],
+      "question": "ヨキッチ、この成績で負けたのはチームのせい？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "NIKOLA JOKIC",
+        "opponent": "vs. SUNS",
+        "points": 28,
+        "stats": [
+          "15 REB",
+          "7 AST",
+          "12/21 FG",
+          "2/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1034-1.jpg",
+        "https://sixten.jp/assets/ig/1034-2.jpg",
+        "https://sixten.jp/assets/ig/1034-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T13:59:42+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ニコラ・ヨキッチ、サンズ戦で28得点15リバウンド\n\n・FG 12/21で28得点・リバウンド15・アシスト7\n・ジャマール・マレーも同じ28得点でチーム最多を分け合う\n・ナゲッツは第2・第3Qで逆転され105-117で敗戦\n\n💬 ヨキッチ、この成績で負けたのはチームのせい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Nuggets vs. Suns・2026年11月16日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1035",
+      "slug": "1035-jamal-murray-28-points-suns",
+      "category": "NBA",
+      "date": "2026-11-17",
+      "headline": "ジャマール・マレー、サンズ戦で28得点",
+      "excerpt": "デンバー・ナゲッツのジャマール・マレーは現地時間11月16日、本拠地でのフェニックス・サンズ戦に35分出場し、フリースロー9本全てを沈めるなど28得点を記録してチーム最多得点者となった。ナゲッツは105-117でサンズに敗れた。",
+      "points": [
+        "FT 9/9・FG 9/19で28得点",
+        "ニコラ・ヨキッチと並んでチーム最多得点",
+        "ナゲッツは第2・第3Qで逆転され105-117で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Nuggets vs. Suns・2026年11月16日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1035-jamal-murray-28-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Jamal Murray"
+      ],
+      "question": "ヨキッチとマレー、どっちの方が印象的だった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMAL MURRAY",
+        "opponent": "vs. SUNS",
+        "points": 28,
+        "stats": [
+          "4 REB",
+          "4 AST",
+          "2 STL",
+          "9/19 FG",
+          "9/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1035-1.jpg",
+        "https://sixten.jp/assets/ig/1035-2.jpg",
+        "https://sixten.jp/assets/ig/1035-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T14:00:05+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジャマール・マレー、サンズ戦で28得点\n\n・FT 9/9・FG 9/19で28得点\n・ニコラ・ヨキッチと並んでチーム最多得点\n・ナゲッツは第2・第3Qで逆転され105-117で敗戦\n\n💬 ヨキッチとマレー、どっちの方が印象的だった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Nuggets vs. Suns・2026年11月16日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
