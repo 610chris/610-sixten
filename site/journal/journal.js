@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1041-hawks-mccollum-calf-newell-surgery.html",
+    cat: "NBA",
+    title: "ホークスのマッカラム、左ふくらはぎ負傷で4週間離脱 —— ルーキーのニューエルも足底板損傷で手術",
+    excerpt: "アトランタ・ホークスは現地時間11月17日、CJ・マッカラムが左ふくらはぎの肉離れで少なくとも4週間離脱すると発表した。15日のバックス戦で負傷し画像診断で判明。同日、2025年ドラフト1巡目指名のエイサ・ニューエルも左足趾の足底板損傷が判明して手術を受け、約4カ月の離脱となることも明らかになった。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1040-travis-scott-air-force-1-gta6.html",
     cat: "KICKS",
     title: "Travis Scott×Nike Air Force 1 Low「GTA 6」11月21日発売 —— Black/Fire PinkとWhite/Fire Pinkの2色展開",
