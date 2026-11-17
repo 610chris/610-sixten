@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1042-kawhi-leonard-progressing-another-week.html",
+    cat: "NBA",
+    title: "カワイ・レナード、回復は順調もあと最低1週間離脱 —— ラプターズ発表、今季出場はいまだ2試合のみ",
+    excerpt: "トロント・ラプターズは現地時間11月17日、カワイ・レナードが左膝の腫れからの回復で「筋力・コンディショニングのプログラムで前進している」としつつ、最低あと1週間、少なくとも4試合を欠場すると発表した。今季はすでに11試合を欠場し、出場はわずか2試合にとどまる。ESPNが伝えた。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1041-hawks-mccollum-calf-newell-surgery.html",
     cat: "NBA",
     title: "ホークスのマッカラム、左ふくらはぎ負傷で4週間離脱 —— ルーキーのニューエルも足底板損傷で手術",

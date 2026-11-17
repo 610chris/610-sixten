@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>カワイ・レナード、回復は順調もあと最低1週間離脱 —— ラプターズ発表、今季出場はいまだ2試合のみ</title>
+      <link>https://sixten.jp/journal/1042-kawhi-leonard-progressing-another-week.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/1042-kawhi-leonard-progressing-another-week.html</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>トロント・ラプターズは現地時間11月17日、カワイ・レナードが左膝の腫れからの回復で「筋力・コンディショニングのプログラムで前進している」としつつ、最低あと1週間、少なくとも4試合を欠場すると発表した。今季はすでに11試合を欠場し、出場はわずか2試合にとどまる。ESPNが伝えた。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>ホークスのマッカラム、左ふくらはぎ負傷で4週間離脱 —— ルーキーのニューエルも足底板損傷で手術</title>
       <link>https://sixten.jp/journal/1041-hawks-mccollum-calf-newell-surgery.html</link>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ミルウォーキー・バックスのカスパラス・ヤクチオニス(Kasparas Jakucionis)は現地時間11月15日、本拠地ミルウォーキーでのアトランタ・ホークス(Atlanta Hawks)戦に26分出場し、フィールドゴール16本中9本・3ポイント10本中4本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者となったが、バックスは106-113でホークスに敗れた。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>アメン・トンプソン、ウィザーズ戦で26得点 —— ロケッツが147-119で大勝</title>
-      <link>https://sixten.jp/journal/1011-amen-thompson-26-points-wizards.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/1011-amen-thompson-26-points-wizards.html</guid>
-      <pubDate>Mon, 16 Nov 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>ヒューストン・ロケッツのアメン・トンプソン(Amen Thompson)は現地時間11月15日、敵地ワシントンでのワシントン・ウィザーズ(Washington Wizards)戦に29分出場し、フィールドゴール11本中9本・3ポイント3本中3本を沈めて26得点を記録した。両チーム通じてこの日の試合最多得点者となり、ロケッツは147-119でウィザーズに大勝した。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>
