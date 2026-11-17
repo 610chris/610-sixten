@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1040-travis-scott-air-force-1-gta6.html",
+    cat: "KICKS",
+    title: "Travis Scott×Nike Air Force 1 Low「GTA 6」11月21日発売 —— Black/Fire PinkとWhite/Fire Pinkの2色展開",
+    excerpt: "トラヴィス・スコット(Travis Scott)と「グランド・セフト・オートVI」を手がけるロックスター・ゲームス(Rockstar Games)、ナイキによるコラボレーション「Air Force 1 Low '07『GTA 6』」が、2026年11月21日に発売される見込みだ。Black/Fire Pink(品番JJ7604-001)とWhite/Fire Pink(品番JJ7602-100)の2色で、価格はそれぞれ130ドル(米国価格)。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1039-nike-book-3-devin-booker.html",
+    cat: "KICKS",
+    title: "Nike Book 3発表 —— デビン・ブッカーの3代目シグネチャー、2027年春に発売へ",
+    excerpt: "ナイキは現地時間11月17日、フェニックス・サンズのデビン・ブッカー(Devin Booker)のシグネチャーモデル3作目「Nike Book 3」を発表した。前足部にズーム ストロベル、ミッドソールにクッションロン3.0を採用したメッシュアッパーのバスケットボールシューズで、2027年春にグローバル発売される。fragment designとのコラボレーションも同時に発表された。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1038-stephen-curry-basketball-mortality.html",
     cat: "NBA",
     title: "カリー「これはバスケットボール的な死の一部」—— 38歳、負傷管理と向き合いながら迎えるウォリアーズでの最終章",
