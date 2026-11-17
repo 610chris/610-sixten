@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1038-stephen-curry-basketball-mortality.html",
+    cat: "NBA",
+    title: "カリー「これはバスケットボール的な死の一部」—— 38歳、負傷管理と向き合いながら迎えるウォリアーズでの最終章",
+    excerpt: "ゴールデンステート・ウォリアーズのステフィン・カリー(38)は、昨季の右膝のトラブルと今季の腹斜筋負傷を経て、出場時間を削るなど体の管理を最優先にするシーズンを送っている。ESPNのインタビューでカリー本人は「バスケットボール的な死の一部」と老いと向き合う心境を語った。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1037-windandsea-nba-legacy-continues.html",
     cat: "CULTURE",
     title: "WIND AND SEA×NBAコラボ「THE LEGACY CONTINUES.」11月21日発売 —— ニックス・レイカーズ・76ers・スパーズの4チームを再解釈",
