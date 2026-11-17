@@ -35,14 +35,6 @@ const ARTICLES = [
     thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
   },
   {
-    href: "1037-windandsea-nba-legacy-continues.html",
-    cat: "CULTURE",
-    title: "WIND AND SEA×NBAコラボ「THE LEGACY CONTINUES.」11月21日発売 —— ニックス・レイカーズ・76ers・スパーズの4チームを再解釈",
-    excerpt: "ストリートウェアブランド「WIND AND SEA」を展開するfranky株式会社（東京都渋谷区）は、NBAとのコラボレーションコレクション「THE LEGACY CONTINUES.」を11月21日に発売すると発表した。ニューヨーク・ニックス、ロサンゼルス・レイカーズ、フィラデルフィア・76ers、サンアントニオ・スパーズの4チームをテーマに、トラックジャケットやビーズネックレスなど幅広いアイテムを展開する。",
-    date: "2026.11.17",
-    thumb: "../assets/journal-1037-hero.jpg?v=b209d16f9f"
-  },
-  {
     href: "1036-abema-lebanon-wcq2027-window5.html",
     cat: "JAPAN",
     title: "午前3時30分、王手の一戦 —— 男子日本代表vsレバノン、W杯予選Window5をABEMAが無料生中継",

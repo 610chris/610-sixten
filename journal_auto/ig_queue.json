@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:56:27+09:00",
+  "updated": "2026-11-18T08:37:05+09:00",
   "items": [
     {
       "id": "134",
@@ -33084,7 +33084,7 @@
         "https://sixten.jp/assets/ig/1037-2.jpg",
         "https://sixten.jp/assets/ig/1037-3.jpg"
       ],
-      "state": "pending",
+      "state": "skipped",
       "created": "2026-11-17T18:55:49+09:00",
       "posted_at": null,
       "ig_media_id": null,
