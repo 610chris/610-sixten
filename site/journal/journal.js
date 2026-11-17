@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1036-abema-lebanon-wcq2027-window5.html",
+    cat: "JAPAN",
+    title: "午前3時30分、王手の一戦 —— 男子日本代表vsレバノン、W杯予選Window5をABEMAが無料生中継",
+    excerpt: "ABEMAは11月17日、FIBAバスケットボールワールドカップ2027アジア地区予選Window5の男子日本代表対レバノン代表のアウェー戦を、11月27日午前3時30分より無料生中継すると発表した。日本代表はWindow4から6勝2敗で、2連勝すれば本大会出場が決定する。",
+    date: "2026.11.17",
+    thumb: "../assets/journal-1036-hero.jpg?v=f228d384db"
+  },
+  {
     href: "1035-jamal-murray-28-points-suns.html",
     cat: "NBA",
     title: "ジャマール・マレー、サンズ戦で28得点 —— ナゲッツは105-117で敗戦、フリースロー9本は全成功",
