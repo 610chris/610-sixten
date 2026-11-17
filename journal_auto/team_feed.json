@@ -1,8 +1,305 @@
 {
- "updated_utc": "2026-11-16 22:28 UTC",
+ "updated_utc": "2026-11-17 04:44 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261116",
+   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261116",
+   "canonical_url": "https://celtics.com/news/game-recap-keys-20261116",
+   "title": "Keys to the Game: Magic 115, Celtics 105",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-17T03:56:34Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "Boston and Orlando were locked in a low-scoring battle through three quarters Monday night, until the Magic broke through with a 40-point final frame to pull away for a 115-105 win.",
+   "facts": [
+    "Key Moment Boston and Orlando were locked in a low-scoring battle through three quarters Monday night, until the Magic broke through with a 40-point final frame to pull away for a 115-105 win.",
+    "The Celtics carried a 77-75 lead into the fourth quarter, but Orlando found its offensive rhythm about three minutes into the frame, Orlando found its offensive rhythm, finishing the game on a 35-23 run.",
+    "The Magic shot a blistering 16-of-21 (76.2 percent) from the field during the quarter, compared to Boston’s 9-of-22 (40.9 percent) mark, as Desmond Bane led the way with 15 fourth-quarter points on 6-of-7 shooting.",
+    "Tristan da Silva knocked down a pair of timely 3-pointers midway through the frame, but Orlando did most of its damage inside the arc from there.",
+    "The Celtics made one final push, cutting the deficit to three points on a Sam Hauser 3-pointer with four minutes remaining.",
+    "But Orlando answered with a decisive 13-6 closing run to hand Boston its first home loss of the season.",
+    "The nine-time All-Star scored the Celtics' first 10 points of the night and was the only Boston starter to get on the board until Jayson Tatum scored with 49 seconds remaining in the opening quarter.",
+    "George went on to finish with 22 points, just two shy of the game-high 24 shared by Tatum and Bane."
+   ],
+   "quotes": [
+    "We’re trusting him more and more each day."
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-heat-best-game-rockets-antetokounmpo-adebayo-mitchell-durant",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-heat-best-game-rockets-antetokounmpo-adebayo-mitchell-durant",
+   "canonical_url": "https://heat.com/news/coups-takeaways-heat-best-game-rockets-antetokounmpo-adebayo-mitchell-durant",
+   "title": "Coup’s Takeaways: HEAT Bring Their Best Against Rockets For Fifth Consecutive Win",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-11-17T03:51:14Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. The HEAT have been playing their best basketball this past week. And now they’ve played their best game with a convincing win over the Houston Rockets.",
+   "facts": [
+    "Rough open for Alperen Sengun as Giannis Antetokounmpo and Bam Adebayo swarmed his elongated drives in the middle of the floor, Miami jumping out to a 9-2 lead despite relatively sloppy play from both teams.",
+    "Turnovers pushed Miami’s pace going the other way, a handful of fouls – plus three techs on the Rockets – got them into the bonus and the threes kept falling to the tune of an 11-of-26 half.",
+    "Antetokounmpo and Adebayo combined for just 10 points in the first half, but they also only took seven shots, an unselfish group more than happy to make the right reads.",
+    "And with the defensive activity at an all-season high, Houston running a 97.9 Offensive Rating, the lead was 62-46 at the break, Houston with 9 turnovers and 4-of-15 shooting from the arc – on significantly more sticky o…",
+    "Bogdan Bogdanovic starts the second half for the Rockets, over Tari Eason, while Wiggins (17 points on 6-of-9 shooting) was a surprise second-half start for Miami over Adebayo (right hip tightness, listed as questionable…",
+    "Back to 15 soon enough, Antetokounmpo forcing the issue a little bit more while Thompson remained just as hot as he’s been for weeks now.",
+    "Houston had attempted plenty of fronting on Antetokounmpo, too, and that didn’t go well, either, with Davion Mitchell (16 points, 10 assists) continuing to be the best entry passer on the deep when Antetokounmpo gets a d…",
+    "Miami up 20 headed into the fourth."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-get-hot-late-play-physical-brand-of-basketball-throughout-in-road-win-over-boston-celtics-20261116",
+   "url": "https://www.nba.com/magic/news/orlando-magic-get-hot-late-play-physical-brand-of-basketball-throughout-in-road-win-over-boston-celtics-20261116",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-get-hot-late-play-physical-brand-of-basketball-throughout-in-road-win-over-boston-celtics-20261116",
+   "title": "Orlando Magic Get Hot Late, Play Physical Brand of Basketball Throughout in Road Win Over Boston Celtics",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-17T03:45:17Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "BOSTON - No team in the NBA so far this season is generating more threes off kickouts per 100 possessions than the Orlando Magic. Under new head coach Sean Sweeney, they have been making outstanding reads when getting into the paint and then spraying out to shooters.",
+   "facts": [
+    "BOSTON - No team in the NBA so far this season is generating more threes off kickouts per 100 possessions than the Orlando Magic.",
+    "We saw this play out on several of their possessions in the final minutes, and they were able to knock those shots down and other key ones to pull out a thrilling 115-105 victory over the Celtics.",
+    "Anthony Black, Tristan da Silva and Wendell Carter Jr. each made kickout threes in that stretch, and Desmond Bane, with all the attention he gets on the perimeter, was able to work his way inside the arc and make three c…",
+    "The Magic ended up outscoring the Celtics 40-28 in the fourth.",
+    "Orlando outscored Boston by 14 when he was on the floor.",
+    "Bane finished with a team-high 24 points, with 15 of them coming in the final frame.",
+    "Black had 20 points and seven assists and Jalen Suggs, back in the starting lineup, had 12 points, four assists and six rebounds, including two on the offensive glass in crunch time.",
+    "Largely because of Orlando’s ball pressure and physicality without fouling much, Boston as a team shot only 42 percent from the floor."
+   ],
+   "quotes": [
+    "We did a great job of handling their pressure at the end,",
+    "The traps, trying to foul – great job there staying with it. I thought our competitiveness and our effort on both ends was phenomenal. Des got it going there. He did a great job of attacking, making t…",
+    "That was a J. Suggs game right there,",
+    "Offensive rebounds, blocking shots, getting in the paint, knocked down a couple big threes. That’s him. He’s a winning player. You can plug him in with any lineup and he’s going to find a way to impac…"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-115-warriors-94-jeremiah-fears-19-10-10-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/pelicans-115-warriors-94-jeremiah-fears-19-10-10-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/pelicans-115-warriors-94-jeremiah-fears-19-10-10-postgame-wrap",
+   "title": "Pelicans 115, Warriors 94: Jeremiah Fears 19-10-10 | Postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-17T03:35:41Z",
+   "tags": [],
+   "summary": "After losing to Golden State by a franchise-record 51-point margin a week ago, New Orleans had a resounding response in store for the Warriors on Monday. The host Pelicans immediately pounced on Golden State, preventing their guests from scoring a basket for the first seven-plus minutes of the Western Conference matchup, building 23-2 and 35-11 leads in the opening quarter.",
+   "facts": [
+    "After losing to Golden State by a franchise-record 51-point margin a week ago, New Orleans had a resounding response in store for the Warriors on Monday.",
+    "The host Pelicans immediately pounced on Golden State, preventing their guests from scoring a basket for the first seven-plus minutes of the Western Conference matchup, building 23-2 and 35-11 leads in the opening quarte…",
+    "Saddiq Bey (23 points) was nearly perfect shooting-wise in the first half as New Orleans went in front by 25 points – the Pelicans had trailed by 29 at halftime in San Francisco on Nov. 9 – while second-year point guard …",
+    "By that stage, it was New Orleans 93-65.",
+    "Fears said the number \"50\" was written on a board in the locker room prior to Monday's game, with all of New Orleans' players realizing that was a reference to the previous meeting with Golden State.",
+    "Golden State was just 11/46. 3: Pelicans players with double-digit rebounds.",
+    "Yves Missi led the squad with 14 boards, while Fears and Derik Queen grabbed 10 apiece. 10: Pelicans steals, topped by three apiece from Herb Jones and Missi.",
+    "Mistake-laden Golden State (16 turnovers) was sloppy with the ball from the get-go, throwing errant passes that were picked off or went out of bounds."
+   ],
+   "quotes": [
+    " was written on a board in the locker room prior to Monday's game, with all of New Orleans' players realizing that was a reference to the previous meeting with Golden State. ",
+    " Pelicans head coach Jamahl Mosley said of the Warriors. "
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261116",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261116",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261116",
+   "title": "Warriors Drop Road Game to Pelicans; Yaxel Lendeborg Scores Game-High 28 Points",
+   "author": "Tyler Savitsky",
+   "published_utc": "2026-11-17T03:34:31Z",
+   "tags": [],
+   "summary": "The Golden State Warriors fell 115-94 against the New Orleans Pelicans at Smoothie King Center on Monday night, dropping their third consecutive game.",
+   "facts": [
+    "The Golden State Warriors fell 115-94 against the New Orleans Pelicans at Smoothie King Center on Monday night, dropping their third consecutive game.",
+    "Jeremiah Fears recorded his first career triple-double for the Pelicans, finishing the game with 19 points, 10 rebounds and 10 assists.",
+    "Saddiq Bey scored a team-high 23 points for the Pelicans, and was one of six players to score in double figures.",
+    "Yaxel Lendeborg scored a game-high 28 points, while Brandin Podziemski added 15 points.",
+    "LENDEBORG LEADS THE OFFENSE Yaxel Lendeborg scored 20 of his 28 points in the second half for the Dubs.",
+    "FALLING BEHIND EARLY On Friday night against the Spurs, the Warriors gave up the first 18 points of the game to face a steep deficit early in the first quarter.",
+    "Monday was similar, with the Warriors falling behind 23-2 to open the game.",
+    "The Warriors missed their first 11 shots of the contest until a De'Anthony Melton 3-pointer with 4:13 remaining in the first quarter."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
+   "title": "Preview: Utah Jazz Begin Back-to-Back Against LA Clippers",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-17T00:28:05Z",
+   "tags": [
+    "Mo Bamba",
+    "Utah Jazz"
+   ],
+   "summary": "The Utah Jazz continue to search for consistency.",
+   "facts": [
+    "Despite 17 made 3-pointers (including six from Mo Bamba, who scored 26 points in 36 minutes), Utah turned it over five times in the fourth quarter and surrendered 29 fast break points to the visiting Spurs.",
+    "San Antonio was led by 57 combined points from Victor Wembanyama and Dylan Harper.",
+    "The Clippers (4-8) have won two in a row and enter Tuesday’s game with momentum.",
+    "After an eventful offseason that saw Kawhi Leonard depart in a trade for the Toronto Raptors, LA is led by a group of veterans fighting for Play-In positioning in the Western Conference.",
+    "Darius Garland leads the Clippers offense (21.3 points and 6.9 assists per game), but LA has a balanced scoring attack that features five players averaging double-figures.",
+    "Jazz injury report: OUT - Kobe Bufkin (G League - Two-Way), Jaxson Hayes (Left Knee Strain), Harrison Ingram (G League - Two-Way), Jaren Jackson (Right Knee; MCL Tear), Lauri Markkanen (Right Hand Fracture), Jusuf Nurkić…",
+    "For LA, a high turnover percentage (17.6 percent, 28th in the league) has held the team’s offense back, despite ranking eighth in 55.5 effective field-goal percentage.",
+    "On the defensive end, the Clippers have had success in creating turnovers from opponents, ranking 11th in opponent turnover percentage."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ATL 公式（nba.com）",
+   "team": "ATL",
+   "team_ja": "ホークス",
+   "team_id": 1610612737,
+   "kind": "feature",
+   "key": "https://www.nba.com/hawks/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
+   "url": "https://www.nba.com/hawks/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
+   "canonical_url": "https://hawks.com/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
+   "title": "Hawks and Atlanta Tipoff Club Unveil Premier Six-Game Slate for Seventh Annual ‘Hawks-Naismith Tipoff Classic’ on Saturday, Nov. 21",
+   "author": "Atlanta Hawks",
+   "published_utc": "2026-11-16T23:48:12Z",
+   "tags": [
+    "Atlanta Hawks",
+    "community",
+    "community-primary",
+    "Naismith tipoff classic"
+   ],
+   "summary": "12 High School Basketball Programs to Showcase Georgia’s Top Emerging Talent; Tickets Available Now at HawksNaismith.com",
+   "facts": [
+    "12 High School Basketball Programs to Showcase Georgia’s Top Emerging Talent; Tickets Available Now at HawksNaismith.com ATLANTA – The Atlanta Hawks Basketball Academy and the Atlanta Tipoff Club, administrators of the n…",
+    "The boys slate begins at 3:20 p.m. as Hillgrove High School (Powder Springs, Ga.) battles Cross Creek High School (Augusta, Ga.), followed by Decatur High School (Decatur, Ga.) versus Holy Innocents’ Episcopal School at …",
+    "Gainesville High School (Gainesville, Ga.) and Pace Academy (Atlanta) will meet at 6:40 p.m., before Wheeler High School (Marietta, Ga.) and McEachern High School (Powder Springs, Ga.) close out the showcase at 8:20 p.m.",
+    "Hawks Youth Basketball Clinic, welcoming 100 boys and girls, ages eight to 15, for focused instruction on enhancing core basketball fundamentals.",
+    "Additionally, Nugent will continue his Score for Scholarships initiative by contributing $1 to the Atlanta Hawks Foundation for every point scored throughout the six-game showcase, with all proceeds directly funding yout…",
+    "The tradition will continue Saturday, Dec. 12, with the Hawks-Naismith Holiday Classic at Norcross High School, featuring 12 teams, with matchups and schedule details to be announced in early December."
+   ],
+   "quotes": [
+    "Our Hawks-Naismith Tipoff Classic is an opportunity to bring the basketball community together and give fans the chance to experience some of the best high school competition Georgia has to offer,",
+    "We remain committed to creating events that connect fans with the game at every level, and we look forward to welcoming the participating teams, their families, and basketball fans for another year of…",
+    "This event has become the unofficial start of the high school season in Atlanta, and this year’s field includes more than 25 players from our Metro Atlanta preseason watch list,",
+    "Seven years into our partnership with the Hawks, it’s still one of our favorite days on the calendar, because fans get an early look at the players who will define the season, and the families get to …"
+   ]
+  },
+  {
+   "source": "ATL 公式（nba.com）",
+   "team": "ATL",
+   "team_ja": "ホークス",
+   "team_id": 1610612737,
+   "kind": "roster",
+   "key": "https://www.nba.com/hawks/news/atlanta-hawks-sign-rafael-castro-to-a-two-way-contract",
+   "url": "https://www.nba.com/hawks/news/atlanta-hawks-sign-rafael-castro-to-a-two-way-contract",
+   "canonical_url": "https://hawks.com/news/atlanta-hawks-sign-rafael-castro-to-a-two-way-contract",
+   "title": "Atlanta Hawks Sign Rafael Castro to a Two-Way Contract",
+   "author": "Atlanta Hawks",
+   "published_utc": "2026-11-16T23:41:12Z",
+   "tags": [
+    "Atlanta Hawks",
+    "College Park Skyhawks",
+    "Rafael castro"
+   ],
+   "summary": "ATLANTA – The Atlanta Hawks have signed center Rafael Castro (RAH-fi-ell) to a two-way contract, the team announced today.",
+   "facts": [
+    "ATLANTA – The Atlanta Hawks have signed center Rafael Castro (RAH-fi-ell) to a two-way contract, the team announced today.",
+    "Castro has appeared in five games with the Mexico City Capitanes of the NBA G League this season, averaging 11.8 points, 8.0 rebounds, and 1.2 steals in 21.0 minutes (.615 FG%).",
+    "He was signed to a two-way contract by the Houston Rockets on Aug. 26, 2026, before being waived and signed by the Los Angeles Lakers on Oct. 9.",
+    "He was waived by the Lakers on Oct. 17, after appearing in two preseason games with the team.",
+    "The 6-10 center saw action in 123 games (64 starts) across four collegiate seasons, suiting up for Providence (2022-24) and George Washington (2024-26), owning averages of 8.7 points, 5.7 rebounds, 1.0 assist, and 1.0 bl…",
+    "A two-time Atlantic 10 All-Defensive Team selection and a finalist for the 2025-26 Lefty Driesell National Defensive Player of the Year Award, Castro averaged career highs in points (15.3), rebounds (9.1), steals (1.8), …"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/flaggs-growing-leadership-skills-will-be-helpful-in-reversing-recent-trend",
+   "url": "https://www.nba.com/mavs/news/flaggs-growing-leadership-skills-will-be-helpful-in-reversing-recent-trend",
+   "canonical_url": "https://mavs.com/mavs/news/flaggs-growing-leadership-skills-will-be-helpful-in-reversing-recent-trend",
+   "title": "Flagg's growing leadership skills will be helpful in reversing recent trend",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-16T22:31:53Z",
+   "tags": [],
+   "summary": "Cooper Flagg had a strong message after the Mavericks’ lousy 0-3 trip, although it’s unclear if he was talking to his teammates, fans or himself.",
+   "facts": [
+    "Cooper Flagg had a strong message after the Mavericks’ lousy 0-3 trip, although it’s unclear if he was talking to his teammates, fans or himself.",
+    "Now, he’s got a little more talent around him, a whole new system in place and, still at the tender age of 19, he’s acting like a leader for the franchise.",
+    "They had a three-game winning streak at home to get to 7-4, then flopped on the road at Minnesota, Cleveland and Boston.",
+    "At halftime, they were behind by 15 at Minnesota, by 18 at Cleveland (with the Cavaliers resting all their starters) and by 30 points at Boston on Sunday.",
+    "That was after he came off the 43-point, 10-rebound, 6-assist game against Indiana in the final game of the home stand.",
+    "On the trip, he averaged just 2 points and 3.3 rebounds while playing about 18 minutes per game.",
+    "He made just one of 16 field goal attempts in the three games."
+   ],
+   "quotes": [
+    "We had a lot of guys playing at a really high level (during three-game win streak before the trip),",
+    "This road trip was not to our standard and we got to correct it. And turn the page quick and get back to (playing) good ball. I need to step up and be a lot better.",
+    "He’s a good communicator,",
+    "He always says small things. He’s a good leader. And the way he plays also makes you want to follow him. He’s got the voice, but also the energy to put everybody on his back. When you see him making p…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "roster",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-trey-alexander",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-trey-alexander",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-trey-alexander",
+   "title": "Utah Jazz Waive Trey Alexander",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-16T22:30:13Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (November 16, 2026) – The Utah Jazz have waived two-way guard Trey Alexander.",
+   "facts": [
+    "SALT LAKE CITY (November 16, 2026) – The Utah Jazz have waived two-way guard Trey Alexander.",
+    "About Trey Alexander Alexander (6-4, 187, Creighton) competed in nine games for the New Orleans Pelicans during the 2025-26 season, averaging 5.2 points, 1.2 rebounds, and 1.0 assists in 12.3 minutes per game.He saw acti…"
+   ],
+   "quotes": []
+  },
   {
    "source": "CLE 公式（nba.com）",
    "team": "CLE",
@@ -18,9 +315,9 @@
    "tags": [
     "2026-27 Season"
    ],
-   "summary": "Cavaliers forward Evan Mobley sustained a sprain to his right great toe on November 11 at New York and missed the team's next two games at Miami (Nov. 13) and versus Dallas (Nov. 14). Following further evaluation by the Cavaliers’ medical team, including MRI imaging, the sprain was confirmed. Mobley will undergo treatment and rehabilitation over the next seven to 10 days before being re-evaluated.…",
+   "summary": "Cavaliers forward Evan Mobley sustained a sprain to his left great toe on November 11 at New York and missed the team's next two games at Miami (Nov. 13) and versus Dallas (Nov. 14). Following further evaluation by the Cavaliers’ medical team, including MRI imaging, the sprain was confirmed. Mobley will undergo treatment and rehabilitation over the next seven to 10 days before being re-evaluated. …",
    "facts": [
-    "Cavaliers forward Evan Mobley sustained a sprain to his right great toe on November 11 at New York and missed the team's next two games at Miami (Nov. 13) and versus Dallas (Nov. 14).",
+    "Cavaliers forward Evan Mobley sustained a sprain to his left great toe on November 11 at New York and missed the team's next two games at Miami (Nov. 13) and versus Dallas (Nov. 14).",
     "Following further evaluation by the Cavaliers’ medical team, including MRI imaging, the sprain was confirmed.",
     "Mobley will undergo treatment and rehabilitation over the next seven to 10 days before being re-evaluated."
    ],
@@ -63,19 +360,19 @@
    "key": "https://www.nba.com/mavs/news/recalling-his-10-dunk-game-against-texas-acy-to-be-inducted-in-baylor-athletics-hall-of-fame",
    "url": "https://www.nba.com/mavs/news/recalling-his-10-dunk-game-against-texas-acy-to-be-inducted-in-baylor-athletics-hall-of-fame",
    "canonical_url": "https://mavs.com/mavs/news/recalling-his-10-dunk-game-against-texas-acy-to-be-inducted-in-baylor-athletics-hall-of-fame",
-   "title": "Recalling his 10-dunk game against Texas, Acy to be inducted into Baylor Athletics Hall of Fame",
+   "title": "With 10-dunk game in his portfolio, Acy to be inducted into Baylor Athletics Hall of Fame",
    "author": "Dwain Price",
    "published_utc": "2026-11-16T20:34:10Z",
    "tags": [
     "dallas mavericks",
     "nba"
    ],
-   "summary": "When he starts talking about Quincy Acy, the eyes of Dallas Mavericks coach Dusty May lights up. May describes the overall joy and respect the Mesquite Horn High School graduate brings to his program and how much everyone absolute enjoys being in his inner circle.",
+   "summary": "When he starts talking about Quincy Acy, the eyes of Dallas Mavericks coach Dusty May light up. May describes the overall joy and respect the Mesquite Horn High School graduate brings to his program and how much everyone enjoys being in his inner circle.",
    "facts": [
-    "A lot of that joy and respect for Acy was on full display on March 6, 2010 when he was leading the Baylor Bears to a 92-77 victory over the Texas Longhorns.",
-    "That was the memorable day when, as a sophomore, Acy caught the eyes of many after he hammered home 10 impressive dunks against the Longhorns.",
-    "The occasion was so iconic that later on that night each one of Acy’s 10 dunks took up ESPN’s entire Top 10 on SportsCenter.",
-    "The Hall of Fame banquet will be held on Friday at 6:30 p.m. in the Hurd Welcome Center Grand Ballroom at Baylor, and all of the inductees will also be honored on the football field at McLane Stadium during Saturday’s 2:…",
+    "A lot of that joy and respect for Acy was on full display on March 6, 2010, when he was leading the Baylor Bears to a 92-77 victory over the Texas Longhorns.",
+    "That was the memorable day when, as a sophomore, Acy hammered home 10 impressive dunks against the Longhorns.",
+    "The occasion was so iconic that later that night each one of Acy’s 10 dunks took up ESPN’s entire Top 10 on SportsCenter.",
+    "The Hall of Fame banquet is Friday at 6:30 p.m. in the Hurd Welcome Center Grand Ballroom at Baylor, and all of the inductees will also be honored on the football field at McLane Stadium during Saturday’s 2:30 p.m. game …",
     "Baylor advanced to the NCAA Elite Eight in 2010 and 2012 during Acy’s tenure in Waco, and the Bears also were the NIT runners-up in 2009.",
     "During his seven-year NBA career he played for the Raptors (2012-’13), Sacramento Kings (2013-’14), New York Knicks (2014-’15), Mavs (2016), Brooklyn Nets (2017-’18) and Phoenix Suns (2019).",
     "In addition, Acy played in the G League for the Texas Legends during the 2016-’17 season and again in 2019 before playing for Maccabi Tel Aviv of the Israeli Premier League (2019-20) and for Olympiacos (2021-22) of the G…",
@@ -183,37 +480,6 @@
     "I think with anything when you do that, for anybody it gets easier a little bit to make those plays with the speed of the game. I think that's been it. We're playing more consistent on offense, and I …",
     " teammate Desmond Bane said about Wagner, 25, a sixth-year forward out of Michigan. ",
     "... Play after play, whether he's scoring, assisting, using his voice in the timeouts -- I think that's something that he's grown at a lot this season, just leadership. His focus is there. "
-   ]
-  },
-  {
-   "source": "ATL 公式（nba.com）",
-   "team": "ATL",
-   "team_ja": "ホークス",
-   "team_id": 1610612737,
-   "kind": "feature",
-   "key": "https://www.nba.com/hawks/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
-   "url": "https://www.nba.com/hawks/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
-   "canonical_url": "https://hawks.com/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
-   "title": "Hawks and Atlanta Tipoff Club Unveil Premier Six-Game Slate for Seventh Annual ‘Hawks-Naismith Tipoff Classic’ on Saturday, Nov. 21",
-   "author": "Atlanta Hawks",
-   "published_utc": "2026-11-16T19:43:23Z",
-   "tags": [
-    "Atlanta Hawks"
-   ],
-   "summary": "12 High School Basketball Programs to Showcase Georgia’s Top Emerging Talent; Tickets Available Now at HawksNaismith.com",
-   "facts": [
-    "12 High School Basketball Programs to Showcase Georgia’s Top Emerging Talent; Tickets Available Now at HawksNaismith.com ATLANTA – The Atlanta Hawks Basketball Academy and the Atlanta Tipoff Club, administrators of the n…",
-    "The boys’ slate begins at 3:20 p.m. as Hillgrove High School (Powder Springs, Ga.) battles Cross Creek High School (Augusta, Ga.), followed by Decatur High School (Decatur, Ga.) versus Holy Innocents’ Episcopal School at…",
-    "Gainesville High School (Gainesville, Ga.) and Pace Academy (Atlanta) will meet at 6:40 p.m., before Wheeler High School (Marietta, Ga.) and McEachern High School (Powder Springs, Ga.) close out the showcase at 8:20 p.m.",
-    "Hawks Youth Basketball Clinic, welcoming 100 boys and girls, ages eight to 15, for focused instruction on enhancing core basketball fundamentals.",
-    "Additionally, Nugent will continue his Score for Scholarships initiative by contributing $1 to the Atlanta Hawks Foundation for every point scored throughout the six-game showcase, with all proceeds directly funding yout…",
-    "The tradition will continue Saturday, Dec. 12, with the Hawks-Naismith Holiday Classic at Norcross High School, featuring 12 teams, with matchups and schedule details to be announced in early December."
-   ],
-   "quotes": [
-    "Our Hawks-Naismith Tipoff Classic is an opportunity to bring the basketball community together and give fans the chance to experience some of the best high school competition Georgia has to offer,",
-    "We remain committed to creating events that connect fans with the game at every level, and we look forward to welcoming the participating teams, their families and basketball fans for another year of …",
-    "This event has become the unofficial start of the high school season in Atlanta, and this year’s field includes over 25 players from our Metro Atlanta preseason watch list,",
-    "Seven years into our partnership with the Hawks, it’s still one of our favorite days on the calendar, because fans get an early look at the players who will define the season and the families get to s…"
    ]
   },
   {
@@ -1317,10 +1583,10 @@
     "LAST TIME OUT The Warriors fell behind 18-0 and trailed by as many as 43 points in a 123-85 NBA Cup defeat to the San Antonio Spurs at Frost Bank Center on Friday.",
     "With the loss, the Dubs fall to 1-1 in group play and have dropped consecutive games for the first time since their 0-3 start to the season.",
     "The Spurs extend the league’s longest active winning streak to 11, tying the Los Angeles Lakers for the best record in the Western Conference and move atop West Group C.",
-    "Stephon Castle led the way for the Spurs with 32 points, six assists and five rebounds, while LJ Cryer paced the Warriors with a career-high 20 points and six 3-pointers. »Full Story INJURY & ROSTER NOTES GSW: TBD.",
-    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season.",
-    "COMPELLING NOTE: Warriors: The Warriors' 51-point win over the Pelicans at Chase Center on Nov. 9 is their largest win in that building since they debuted there in 2019.",
-    "Pelicans: The Pelicans scored a season-low 87 points against the Warriors on Nov. 9."
+    "Stephon Castle led the way for the Spurs with 32 points, six assists and five rebounds, while LJ Cryer paced the Warriors with a career-high 20 points and six 3-pointers. »Full Story INJURY & ROSTER NOTES GSW: Gui Santos…",
+    "Stephen Curry (Right Oblique Tear), Jimmy Butler III (Right ACL Repair / Surgery), Moses Moody (Left Patellar Tendon Repair / Surgery), Brandon Williams (Left Hamstring Strain) and Kristaps Porzingis (Not With Team) are …",
+    "Team Notes NOP: Bennedict Mathurin (Left Plantar Fasciitis), Trey Murphy (Bilateral Patellar Tendinopathy), Dejounte Murray (Left Ankle Sprain), Bryce McGowens (Left Elbow Infection) and Trendon Watford (Right Ankle Spra…",
+    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season."
    ],
    "quotes": []
   },
@@ -1350,214 +1616,6 @@
     "The Dubs missed their first 11 shots before Gui Santos finally ended the drought, converting a layup through contact.",
     "San Antonio started 8-for-10 from the floor and built their first-half lead as large as 30 points.",
     "Golden State didn’t have a starter make more than one field goal in the first half, as LJ Cryer led the way with nine points in 10 minutes off the bench."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-fall-to-houston-rockets-in-nba-cup-play-key-takeaways",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-fall-to-houston-rockets-in-nba-cup-play-key-takeaways",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-fall-to-houston-rockets-in-nba-cup-play-key-takeaways",
-   "title": "Utah Jazz Fall to Houston Rockets in NBA Cup Play: Key Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-14T04:38:35Z",
-   "tags": [
-    "Ace Bailey",
-    "Darryn Peterson",
-    "Keyonte George",
-    "Mo Bamba",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "The Utah Jazz continue to battle through adversity against some of the game’s best.",
-   "facts": [
-    "In an NBA Cup Group Stage game on the road against the Houston Rockets Friday night, the shorthanded Jazz got 76 combined points from the trio of Darryn Peterson, Keyonte George, and Ace Bailey, which helped them battle …",
-    "Unfortunately, a dominant performance from Alperen Şengün (43 points and 12 rebounds) and timely offensive rebounding from the Rockets (18 in total) helped the home team escape with a 125-118 win.",
-    "Their collective spirit every night battling through adversity and guys getting injured… It's been very revealing of the character of the team.",
-    "Utah shot 2-of-10 from the field in the opening minutes, but benefitted from four offensive rebounds and quality defense to hang around. Şengün and Kevin Durant thrived during the first quarter, leading Houston with 10 p…",
-    "Utah’s offense was more of a balanced attack (no Jazzman had more than five points in the frame), with the game tied at 27 after 12 minutes of play.",
-    "Utah’s extended 18-6 run helped the visitors create a five-point advantage early in the second quarter as Houston’s offense went cold.",
-    "The Jazz still couldn’t consistently knock down jumpers (just 5-of-20 from deep in the first half) as Houston’s lead slowly grew late in the quarter.",
-    "The Rockets continued to draw fouls and get to the stripe (18-of-21 in the half), which helped the home team take a 63-53 lead into the halftime break."
-   ],
-   "quotes": [
-    "I’m really proud of the competitiveness from the team,",
-    "He’s giving us everything he can every night. His role has changed a few times here, and he takes it all head on and is giving us a ton as a screener, a roller, some big offensive rebounds, and his pr…",
-    "DP is continuing to see it better and better, same as Keyonte,",
-    "It’s about executing, and understanding when your opportunities are there… not trying to force it and playing within the construct of the team. (For) Darryn in particular, his pick-and-roll reads are …"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-giannis-bam-74-cup-win-cleveland-mitchell-harden",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-giannis-bam-74-cup-win-cleveland-mitchell-harden",
-   "canonical_url": "https://heat.com/news/coups-takeaways-giannis-bam-74-cup-win-cleveland-mitchell-harden",
-   "title": "Coup’s Takeaways: Giannis And Bam Combine For 74 In NBA Cup Win Over Cleveland",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-11-14T04:38:24Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. Another NBA Cup game, and behind two guards and two bigs, Miami had one of their best offensive games of the season.",
-   "facts": [
-    "Nothing usual about the starters today, Pelle Larsson out due to an illness and Klay Thompson out with an ankle injury.",
-    "Miami went to their zone – not something we’ve seen a ton of early in games so far – as Ryan Conwell was called on to pressure Harden in the backcourt, and as Conwell dropped in a three at the quarter buzzer Miami enjoye…",
-    "Then it was Cleveland’s turn to throw the ball away, Antetokounmpo drawing foul after foul as he an Adebayo combined for 31 on 16 shots in the first half.",
-    "It looked like all that matchup hunting would have Miami out front at the break, but a Harden buzzer beater, over double coverage, pushed Cleveland up three – the Cavaliers shooting 11-of-26 from deep, some incredibly to…",
-    "All Adebayo early in the fourth, again going right at Bryant over and over, Miami’s lead back up to nine after less than three minutes – Adebayo up to 29 points on 15 shots.",
-    "Donovan Mitchell (25 points on 21 shots) made his run, a couple of turnaround jumpers dropping, but Erik Spoelstra won a challenge reversing what would have been a Harden trip to the line for three free-throws.",
-    "Some fun and games down the stretch, both teams playing the point differential game, and Miami takes it comfortably, 133-121. 2.",
-    "Both Adebayo and Antetokounmpo have been absolutely on fire from those catches – 8-of-10 combined in the upper paint tonight, 12-of-17 on non-rim two pointers in this game along – this season, and Mitchell has been racki…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/grizzlies-142-pelicans-111-nba-cup-group-stage-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/grizzlies-142-pelicans-111-nba-cup-group-stage-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/grizzlies-142-pelicans-111-nba-cup-group-stage-postgame-wrap",
-   "title": "Grizzlies 142, Pelicans 111 | NBA Cup group stage postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-14T03:46:04Z",
-   "tags": [
-    "NBA Cup"
-   ],
-   "summary": "A pair of starting lineup changes for New Orleans didn’t immediately yield dividends on the defensive end. As a result, Memphis avenged an early-November home loss to the Pelicans, comfortably racking up points en route to clearing the century mark in scoring before the end of the third quarter. New Orleans couldn’t get enough stops Friday to stay close against its Southwest Division counterpart, …",
-   "facts": [
-    "Memphis tallied 35, 35, 35 and 37 points in the quarters, respectively.",
-    "Bey responded with the first 30-point game of the regular season by a New Orleans player, connecting on 11 of 20 shots from the field.",
-    "Williamson added 22 points.",
-    "Memphis had a whopping 10 different players register double-digit points, topped by reserve Jerami Grant's 22 points.",
-    "BY THE NUMBERS 9: New Orleans blocks, a season high.",
-    "Fears, Karlo Matkovic and Derik Queen swatted two shots apiece. 18-7: Memphis advantage in three-pointers made, with eight different Grizzlies sinking at lest one trifecta.",
-    "The Pelicans got six long balls from Bey in nine attempts, but the rest of the squad shot 1/22.",
-    "NEXT FOR NEW ORLEANS A Saturday 6 p.m. matchup vs."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-knicks-261113",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-knicks-261113",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-knicks-261113",
-   "title": "Game Rewind: Pacers 106, Knicks 104 (NBA Cup)",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-14T03:27:00Z",
-   "tags": [
-    "2026 NBA Cup",
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Friday, Nov. 13 at 7:00 PM ET at Gainbridge Fieldhouse Game Recap NBA Cup action came to Indiana on Friday as the Pacers hosted the defending champion New York Knicks.",
-    "The Pacers earned a second consecutive win that came down to the wire, 106-104, and improved their record to 5-8.",
-    "The Pacers led by one point, 85-84, at the start of the fourth quarter, but had led by as many as 14 points in the initial three periods of play.",
-    "A serious defensive stand down the stretch of the fourth quarter had Indiana up, 102-89, with just over six minutes left.",
-    "Indiana held on to that lead, and had a four-point advantage with Pascal Siakam heading to the free throw line with 23 seconds remaining, 106-102.",
-    "The Pacers turned the ball over on the inbounds play that followed, and New York had a chance at a shot with 2.8 seconds to play.",
-    "The game was knotted at nine points just over three minutes into play, but the Knicks went on a 7-0 scoring run in 70 seconds of game time to lead, 16-9, by the seven-minute mark.",
-    "Jay Huff’s stroke from deep was pure in the first quarter – he rattled in two 3-pointers and finished the first leading Indiana with eight points on 3-for-5 shooting."
-   ],
-   "quotes": [
-    "Very proud of our team. We were a pretty big underdog coming into this game, and knew that we were going to have to really battle from start to finish. A lot of it was going to come down to rebounding…",
-    "He just battles, and I thought him and McConnell were huge factors in the game…Those guys were extremely important. Everybody was important, and you know playing a team of this caliber, with their kin…",
-    "I thought Huff gave us great minutes in the first quarter, hitting those two threes…He did a good job blocking out Drummond a couple times…Zu[bac] is doing some great things. Around the basket, you’ve…",
-    "Once again, he was very good. He did good things at both ends. He does a lot of things that don’t show up [in the box score]. His cutting, his crashing, those kinds of things…Love the way he’s trendin…"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/franz-wagner-delivers-big-again-in-orlando-magics-third-straight-win-20261113",
-   "url": "https://www.nba.com/magic/news/franz-wagner-delivers-big-again-in-orlando-magics-third-straight-win-20261113",
-   "canonical_url": "https://orlandomagic.com/news/franz-wagner-delivers-big-again-in-orlando-magics-third-straight-win-20261113",
-   "title": "Franz Wagner Delivers Big Again in Orlando Magic’s Third Straight Win",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-14T02:55:46Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO - When the NBA announces the players of the week for Nov. 9-15, don’t be surprised if the honor on the Eastern Conference side goes to Franz Wagner.",
-   "facts": [
-    "ORLANDO - When the NBA announces the players of the week for Nov. 9-15, don’t be surprised if the honor on the Eastern Conference side goes to Franz Wagner.",
-    "The 6-foot-10 German forward scored over 30 points in all three of the Orlando Magic’s games this week, including on Friday when he erupted for 35 points in a 107-99 victory over the Milwaukee Bucks in an NBA Cup group p…",
-    "He had 30 at Golden State last Saturday, then 33 at Sacramento on Tuesday and a career-matching-high 38 at Utah on Wednesday before getting 35 Friday in Orlando’s third straight win.",
-    "This makes him the fifth player in franchise history with at least four straight 30-plus point games.",
-    "Against the Bucks, Wagner shot 13-of-22 from the field overall, 3-of-8 from 3-point range and 6-of-6 from the free throw line while also recording nine rebounds and 12 assists.",
-    "If Wagner is named Eastern Conference Player of the Week, it would be the second time that he would have received the honor, previously getting it during a week in November 2024.",
-    "There are 14 players in Magic history who have been named the player of the week.",
-    "Orlando held Milwaukee to just 39 percent shooting from the field while forcing them into 16 turnovers, which led to 21 Magic points."
-   ],
-   "quotes": [
-    "It’s never just one thing,",
-    "I work hard. I think I got better at a couple things. Also the way we are playing fits my skillset and I think there are a lot of gaps and a little more space for me to attack and try and make plays.",
-    "I thought we had a lot of contributions from a number of guys tonight,"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/statement-new-orleans-pelicans-11-13-2026",
-   "url": "https://www.nba.com/pelicans/news/statement-new-orleans-pelicans-11-13-2026",
-   "canonical_url": "https://pelicans.com/news/statement-new-orleans-pelicans-11-13-2026",
-   "title": "Statement from the New Orleans Pelicans",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-13T22:41:12Z",
-   "tags": [],
-   "summary": "The following statement was released by the New Orleans Pelicans:",
-   "facts": [
-    "The following statement was released by the New Orleans Pelicans: Today, Dejounte Murray’s representatives informed us of his request to be traded.",
-    "We will evaluate potential trade opportunities that are in the best interest of our organization."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-darryn-peterson-keyonte-george-chemistry-nba-take-accountability",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-darryn-peterson-keyonte-george-chemistry-nba-take-accountability",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-darryn-peterson-keyonte-george-chemistry-nba-take-accountability",
-   "title": "Roundball Roundup: Darryn Peterson-Keyonte George Chemistry + NBA Take Accountability",
-   "author": "JP Chunga",
-   "published_utc": "2026-11-13T22:29:01Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Lauri Markkanen’s injury, Darryn Peterson figuring it out, and are held accountable for previous NBA takes.",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Lauri Markkanen’s injury, Darryn Peterson figuring it out, and are held accountable for previous NBA takes."
    ],
    "quotes": []
   }
