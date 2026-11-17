@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:18:24+09:00",
+  "updated": "2026-11-17T12:40:22+09:00",
   "items": [
     {
       "id": "134",
@@ -32757,6 +32757,133 @@
       "ig_media_id": null,
       "error": null,
       "caption": "シェングン、ヒート戦で23得点\n\n・FG8/11で高確率の23得点\n・リバウンド7・アシスト2\n・ロケッツは110-128で敗戦\n\n💬 ロケッツは敗れたけど、シェングンのこの23得点はアリ？ナシ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Rockets vs. Heat・2026年11月16日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1030",
+      "slug": "1030-livemax-levanga-hokkaido-sponsor-renewal",
+      "category": "JAPAN",
+      "date": "2026-11-17",
+      "headline": "リブマックス、レバンガ北海道とスポンサー契約を更新",
+      "excerpt": "不動産・ホテル事業などを手がける株式会社リブマックス（東京都港区）は11月17日、B.LEAGUE PREMIER所属のプロバスケットボールクラブ「レバンガ北海道」（本拠地：北海道札幌市）とのスポンサー契約を2026年も継続すると発表した。昨シーズンに続く支援で、スポンサー支援にとどまらない連携も今後検討するという。",
+      "points": [
+        "不動産・ホテル事業のリブマックスが支援継続",
+        "昨シーズンに続く2年目の契約",
+        "今後さらなる連携も検討中"
+      ],
+      "source": "株式会社リブ・マックス プレスリリース（PR TIMES）",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1030-livemax-levanga-hokkaido-sponsor-renewal.html",
+      "hero_path": "",
+      "subject": [],
+      "question": "地元企業のクラブ支援、どう思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/1030-1.jpg",
+        "https://sixten.jp/assets/ig/1030-2.jpg",
+        "https://sixten.jp/assets/ig/1030-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T12:40:09+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "リブマックス、レバンガ北海道とスポンサー契約を更新\n\n・不動産・ホテル事業のリブマックスが支援継続\n・昨シーズンに続く2年目の契約\n・今後さらなる連携も検討中\n\n💬 地元企業のクラブ支援、どう思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 株式会社リブ・マックス プレスリリース（PR TIMES）\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "1031",
+      "slug": "1031-joel-embiid-37-points-nets",
+      "category": "NBA",
+      "date": "2026-11-17",
+      "headline": "エンビード、ネッツ戦でシーズン最多37得点",
+      "excerpt": "フィラデルフィア・76ersのジョエル・エンビードは現地時間11月16日、ブルックリン・ネッツ戦に32分出場し、フィールドゴール22本中13本を沈めて今シーズン最多の37得点を記録した。両チーム通じてこの日の試合最多得点者となり、76ersは135-123でネッツに勝利した。",
+      "points": [
+        "FG13/22・3P2/4で37得点",
+        "レブロン不在の一戦で大量得点",
+        "76ersは135-123でネッツに勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1031-joel-embiid-37-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Joel Embiid"
+      ],
+      "question": "76ers、レブロン抜きでもこのまま強い？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JOEL EMBIID",
+        "opponent": "vs. NETS",
+        "points": 37,
+        "stats": [
+          "5 REB",
+          "2 BLK",
+          "1 AST",
+          "13/22 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1031-1.jpg",
+        "https://sixten.jp/assets/ig/1031-2.jpg",
+        "https://sixten.jp/assets/ig/1031-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T12:40:13+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "エンビード、ネッツ戦でシーズン最多37得点\n\n・FG13/22・3P2/4で37得点\n・レブロン不在の一戦で大量得点\n・76ersは135-123でネッツに勝利\n\n💬 76ers、レブロン抜きでもこのまま強い？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1032",
+      "slug": "1032-yaxel-lendeborg-28-points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-17",
+      "headline": "レンデボーグ、ペリカンズ戦で28得点8リバウンド",
+      "excerpt": "ゴールデンステート・ウォリアーズのヤクセル・レンデボーグは現地時間11月16日、敵地ニューオーリンズでのペリカンズ戦に33分出場し、28得点・リバウンド8を記録してチーム両部門で最多となった。しかしウォリアーズは第1クオーターに11-35とリードを許し、94-115でペリカンズに敗れた。",
+      "points": [
+        "FG9/23・FT8/8全成功で28得点",
+        "リバウンド8でチーム最多",
+        "ウォリアーズは94-115で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1032-yaxel-lendeborg-28-points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Yaxel Lendeborg"
+      ],
+      "question": "ルーキーのレンデボーグ、今季どこまで伸びる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "YAXEL LENDEBORG",
+        "opponent": "vs. PELICANS",
+        "points": 28,
+        "stats": [
+          "8 REB",
+          "3 AST",
+          "2 BLK",
+          "9/23 FG",
+          "2/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1032-1.jpg",
+        "https://sixten.jp/assets/ig/1032-2.jpg",
+        "https://sixten.jp/assets/ig/1032-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T12:40:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "レンデボーグ、ペリカンズ戦で28得点8リバウンド\n\n・FG9/23・FT8/8全成功で28得点\n・リバウンド8でチーム最多\n・ウォリアーズは94-115で敗戦\n\n💬 ルーキーのレンデボーグ、今季どこまで伸びる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
