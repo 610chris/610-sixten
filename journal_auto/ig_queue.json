@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:40:22+09:00",
+  "updated": "2026-11-17T12:48:36+09:00",
   "items": [
     {
       "id": "134",
@@ -32884,6 +32884,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "レンデボーグ、ペリカンズ戦で28得点8リバウンド\n\n・FG9/23・FT8/8全成功で28得点\n・リバウンド8でチーム最多\n・ウォリアーズは94-115で敗戦\n\n💬 ルーキーのレンデボーグ、今季どこまで伸びる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1033",
+      "slug": "1033-terrence-shannon-jr-34-points-blazers",
+      "category": "NBA",
+      "date": "2026-11-17",
+      "headline": "テレンス・シャノンJr.、トレイルブレイザーズ戦で34得点6アシスト",
+      "excerpt": "ミネソタ・ティンバーウルブズのテレンス・シャノン・ジュニアは現地時間11月16日、本拠地でのポートランド・トレイルブレイザーズ戦に35分出場し、34得点・アシスト6を記録してチーム両部門で最多となった。ティンバーウルブズは106-98でトレイルブレイザーズを下した。",
+      "points": [
+        "FG 8/11・3PT 3/4で34得点",
+        "アシスト6でチーム最多",
+        "ティンバーウルブズが106-98で勝利"
+      ],
+      "source": "ESPN ボックススコア(Timberwolves vs. Trail Blazers・2026年11月16日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1033-terrence-shannon-jr-34-points-blazers.html",
+      "hero_path": "",
+      "subject": [
+        "Terrence Shannon Jr."
+      ],
+      "question": "今季のティンバーウルブズ、シャノンJr.の得点力は化けると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TERRENCE SHANNON JR.",
+        "opponent": "vs. TRAIL BLAZERS",
+        "points": 34,
+        "stats": [
+          "6 AST",
+          "3 REB",
+          "8/11 FG",
+          "3/4 3PT",
+          "15/16 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1033-1.jpg",
+        "https://sixten.jp/assets/ig/1033-2.jpg",
+        "https://sixten.jp/assets/ig/1033-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T12:47:56+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "テレンス・シャノンJr.、トレイルブレイザーズ戦で34得点6アシスト\n\n・FG 8/11・3PT 3/4で34得点\n・アシスト6でチーム最多\n・ティンバーウルブズが106-98で勝利\n\n💬 今季のティンバーウルブズ、シャノンJr.の得点力は化けると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Timberwolves vs. Trail Blazers・2026年11月16日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
