@@ -1027,6 +1027,29 @@
   "product": "REELS",
   "timestamp": "2022-10-27T09:51:33+0000"
  },
+ "17911182231596840": {
+  "article": "1024",
+  "auto": true,
+  "caption_len": 331,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドノバン・ミッチェル、ブルズ戦で39得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df07dBzCUGC/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Cavaliers vs. Bulls・2026年11月16日)",
+  "subject": [
+   "Donovan Mitchell"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T03:08:15+0000"
+ },
  "17911998867498242": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -1237,6 +1260,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-29T02:04:23+0000"
+ },
+ "17914176483594041": {
+  "article": "1033",
+  "auto": true,
+  "caption_len": 373,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テレンス・シャノンJr.、トレイルブレイザーズ戦で34得点6アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df1AcklALBv/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Timberwolves vs. Trail Blazers・2026年11月16日)",
+  "subject": [
+   "Terrence Shannon Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T03:51:52+0000"
  },
  "17914523025463929": {
   "article": "346",
@@ -1527,6 +1573,19 @@
   ],
   "template": "news",
   "timestamp": "2026-11-10T13:09:18+0000"
+ },
+ "17918635869467594": {
+  "auto": false,
+  "caption_len": 110,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "「身体能力めちゃくちゃ低い」。",
+  "permalink": "https://www.instagram.com/reel/DfzLdSXCnWR/",
+  "product": "REELS",
+  "timestamp": "2026-11-16T10:50:10+0000"
  },
  "17919743028451892": {
   "arms": {
@@ -1946,6 +2005,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-25T04:18:25+0000"
+ },
+ "17927522535441017": {
+  "article": "1035",
+  "auto": true,
+  "caption_len": 343,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャマール・マレー、サンズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df1JGZLFbpr/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Nuggets vs. Suns・2026年11月16日)",
+  "subject": [
+   "Jamal Murray"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T05:07:39+0000"
  },
  "17928096062546937": {
   "auto": false,
@@ -5199,6 +5281,31 @@
   "template": "score",
   "timestamp": "2026-10-30T04:59:10+0000"
  },
+ "18038178830666828": {
+  "article": "1021",
+  "auto": true,
+  "caption_len": 321,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "76ersの11勝3敗は本物？ ESPNが4つの論点を分析",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df0fXzBnPwM/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（デーブ・マクメナミン記者ら）",
+  "subject": [
+   "LeBron James",
+   "Joel Embiid",
+   "Tyrese Maxey"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T23:03:01+0000"
+ },
  "18039122726845085": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -5426,6 +5533,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-22T01:59:21+0000"
+ },
+ "18050731220819600": {
+  "article": "1027",
+  "auto": true,
+  "caption_len": 338,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイソン・テイタム、24得点12REBもセルティックス敗戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df08DLKCvim/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Magic vs. Celtics・2026年11月16日)",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T03:13:36+0000"
  },
  "18051457276331512": {
   "auto": false,
@@ -6500,6 +6630,29 @@
   "template": "news",
   "timestamp": "2026-10-10T01:04:07+0000"
  },
+ "18091286642281033": {
+  "article": "1031",
+  "auto": true,
+  "caption_len": 301,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エンビード、ネッツ戦でシーズン最多37得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df0_ko9jIAi/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Joel Embiid"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T03:44:21+0000"
+ },
  "18091483556238901": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -7489,6 +7642,29 @@
   "template": "score",
   "timestamp": "2026-10-15T03:06:51+0000"
  },
+ "18103669319356653": {
+  "article": "1013",
+  "auto": true,
+  "caption_len": 357,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ギルジャス＝アレクサンダー、キングス戦で37得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyjPPTFIVM/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Thunder vs. Kings・2026年11月15日)",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T04:58:11+0000"
+ },
  "18103775009383925": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -7679,6 +7855,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-05T22:07:43+0000"
+ },
+ "18106112072642994": {
+  "article": "1012",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤクチオニスがホークス戦で25得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfycY41gLaW/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Bucks vs. Hawks)",
+  "subject": [
+   "Kasparas Jakucionis"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T03:58:31+0000"
  },
  "18106597109350933": {
   "arms": {
@@ -8862,6 +9061,52 @@
   "template": "news",
   "timestamp": "2026-11-04T00:19:30+0000"
  },
+ "18114168581612028": {
+  "article": "1028",
+  "auto": true,
+  "caption_len": 307,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "バム・アデバヨ、ロケッツ戦で途中退場",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/Df09hZgiAo9/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Heat star Bam Adebayo exits win early with hip tightness」",
+  "subject": [
+   "Bam Adebayo"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-17T03:26:17+0000"
+ },
+ "18114498758626924": {
+  "article": "1020",
+  "auto": true,
+  "caption_len": 307,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤング、511試合続いた得点記録が途切れる",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df0fHq_DJyp/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ESPN News Services）",
+  "subject": [
+   "Trae Young"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T23:00:51+0000"
+ },
  "18114505472616681": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -9373,6 +9618,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-20T17:31:28+0000"
+ },
+ "18118461797181968": {
+  "article": "1034",
+  "auto": true,
+  "caption_len": 365,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ニコラ・ヨキッチ、サンズ戦で28得点15リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df1I1YLDb5m/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Nuggets vs. Suns・2026年11月16日)",
+  "subject": [
+   "Nikola Jokic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T05:05:19+0000"
  },
  "18118657073012602": {
   "arms": {
@@ -10163,6 +10431,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-28T23:02:09+0000"
+ },
+ "18124036820289798": {
+  "article": "1014",
+  "auto": true,
+  "caption_len": 282,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "グリズリーズのGG・ジャクソン、左足骨折で手術へ",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/Df0c6iPFVsQ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "GG Jackson"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T22:41:30+0000"
  },
  "18124689802844332": {
   "article": "302",
@@ -11269,6 +11560,29 @@
   "template": "news",
   "timestamp": "2026-10-12T04:11:01+0000"
  },
+ "18135349714704947": {
+  "article": "1032",
+  "auto": true,
+  "caption_len": 316,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レンデボーグ、ペリカンズ戦で28得点8リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df0_-zXE5lO/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Yaxel Lendeborg"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T03:47:59+0000"
+ },
  "18135633127825771": {
   "article": "908",
   "auto": true,
@@ -11341,6 +11655,30 @@
   ],
   "template": "news",
   "timestamp": "2026-11-16T00:14:26+0000"
+ },
+ "18136695619675130": {
+  "article": "1019",
+  "auto": true,
+  "caption_len": 312,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スパーズが12連勝、ジャズに110-102",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df0e2knDFqR/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN（Associated Press）",
+  "subject": [
+   "Victor Wembanyama",
+   "Dylan Harper"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T22:58:31+0000"
  },
  "18137249137731951": {
   "arms": {
@@ -12038,6 +12376,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-08T23:11:22+0000"
+ },
+ "18148452532582246": {
+  "article": "1011",
+  "auto": true,
+  "caption_len": 336,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アメン・トンプソン、ウィザーズ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DfyVk8bCrVU/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Rockets vs. Wizards)",
+  "subject": [
+   "Amen Thompson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-16T02:58:57+0000"
  },
  "18148882789561101": {
   "arms": {
@@ -12787,6 +13148,29 @@
   "permalink": "https://www.instagram.com/reel/CkP9KWXABhX/",
   "product": "REELS",
   "timestamp": "2022-10-28T07:39:22+0000"
+ },
+ "18186672325426966": {
+  "article": "1025",
+  "auto": true,
+  "caption_len": 340,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キャメロン・ブーザー、ウィザーズ戦で29得点7REB7AST",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df07tHPCG6k/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Grizzlies vs. Wizards・2026年11月16日)",
+  "subject": [
+   "Cameron Boozer"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-17T03:10:36+0000"
  },
  "18190918168226502": {
   "auto": false,
@@ -14827,6 +15211,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-16T00:02:02+0000"
+ },
+ "18645529678005493": {
+  "article": "1015",
+  "auto": true,
+  "caption_len": 382,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン、ネッツ戦を欠場 —— 76ersが腰を管理",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df0dMYYkoy6/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「76ers star LeBron James ruled out vs. Nets due to lower back management」",
+  "subject": [
+   "LeBron James|Joel Embiid"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-16T22:44:00+0000"
  },
  "18646757968000872": {
   "article": "958",
