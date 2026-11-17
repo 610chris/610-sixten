@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:04:17+09:00",
+  "updated": "2026-11-17T12:18:24+09:00",
   "items": [
     {
       "id": "134",
@@ -32676,6 +32676,87 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジェイソン・テイタム、24得点12REBもセルティックス敗戦\n\n・リバウンド12・スティール2\n・FG 23本中9本(39.1%)\n・セルティックスは105-115で敗戦\n\n💬 ベインとテイタム、同じ24得点どっちが上？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Magic vs. Celtics・2026年11月16日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1028",
+      "slug": "1028-bam-adebayo-hip-tightness-rockets",
+      "category": "NBA",
+      "date": "2026-11-17",
+      "headline": "バム・アデバヨ、ロケッツ戦で途中退場",
+      "excerpt": "マイアミ・ヒートのバム・アデバヨは、ヒューストン・ロケッツ戦で前半16分の出場後に右股関節の張りを理由に途中退場し、そのまま試合に戻らなかった。アンドリュー・ウィギンズがスターターに入り、ヒートは128-110でロケッツに勝利した。ESPNが報じた。",
+      "points": [
+        "右股関節の張りで前半16分のみ",
+        "ワイギンズがスターターに",
+        "ヒートは128-110で勝利、5連勝"
+      ],
+      "source": "ESPN「Heat star Bam Adebayo exits win early with hip tightness」",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1028-bam-adebayo-hip-tightness-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Bam Adebayo"
+      ],
+      "question": "",
+      "no_question": true,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/1028-1.jpg",
+        "https://sixten.jp/assets/ig/1028-2.jpg",
+        "https://sixten.jp/assets/ig/1028-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T12:17:28+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バム・アデバヨ、ロケッツ戦で途中退場\n\n・右股関節の張りで前半16分のみ\n・ワイギンズがスターターに\n・ヒートは128-110で勝利、5連勝\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Heat star Bam Adebayo exits win early with hip tightness」\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1029",
+      "slug": "1029-sengun-23-points-heat",
+      "category": "NBA",
+      "date": "2026-11-17",
+      "headline": "シェングン、ヒート戦で23得点",
+      "excerpt": "ヒューストン・ロケッツのアルペラン・シェングンは現地時間11月16日、マイアミ・ヒート戦に30分出場し、フィールドゴール11本中8本を沈めて23得点・リバウンド7・アシスト2を記録した。両チーム通じてこの日の試合最多得点者となったが、ロケッツは110-128でヒートに敗れた。",
+      "points": [
+        "FG8/11で高確率の23得点",
+        "リバウンド7・アシスト2",
+        "ロケッツは110-128で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Rockets vs. Heat・2026年11月16日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1029-sengun-23-points-heat.html",
+      "hero_path": "",
+      "subject": [
+        "Alperen Sengun"
+      ],
+      "question": "ロケッツは敗れたけど、シェングンのこの23得点はアリ？ナシ？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ALPEREN SENGUN",
+        "opponent": "vs. HEAT",
+        "points": 23,
+        "stats": [
+          "7 REB",
+          "2 AST",
+          "8/11 FG",
+          "6/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1029-1.jpg",
+        "https://sixten.jp/assets/ig/1029-2.jpg",
+        "https://sixten.jp/assets/ig/1029-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-17T12:18:22+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シェングン、ヒート戦で23得点\n\n・FG8/11で高確率の23得点\n・リバウンド7・アシスト2\n・ロケッツは110-128で敗戦\n\n💬 ロケッツは敗れたけど、シェングンのこの23得点はアリ？ナシ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Rockets vs. Heat・2026年11月16日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
