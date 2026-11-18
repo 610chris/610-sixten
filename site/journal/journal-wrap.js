@@ -5,12 +5,17 @@
    3) word-break: auto-phrase 未対応（Safari/iOS など）: BudouX 日本語モデルで文節の切れ目に <wbr> を入れ .bx-on（keep-all）にする
    4) 見出し・カードの最後が1〜3字だけ次の行に落ちないよう、最後の2文節をつなぐ
    5) li の「、」区切りの名前一覧（チーム名など）は名前の途中で折らない
+   6) カッコ「」『』（）: 短い（10em以下）ものは開きから閉じまでを1かたまりに。長いものは中で折ってよいが、
+      最後の語だけ＋閉じカッコが次の行に落ちないよう、最後の語を前の語とつなぐ。見出しでは18em以下なら .nb（inline-block）で
+      「入るなら丸ごと次の行へ・入らない時だけ中で折る」（2026-11-18 本番後修正:「THE LEGACY｜CONTINUES.」の泣き別れ）
+   7) 英語の固有名（NBA x WIND AND SEA 等）は2語ずつに切らず、12em（約20字）までひと続き。長いときは語の境目で、
+      x・&・× の後ろを優先し、the/of/and 等の直後と最後の1語だけの行を避けて区切る
    journal.js が innerHTML で一覧・カードを描き直しても、MutationObserver で描き直した部分に再適用する。
    ?phrasejs を付けると対応ブラウザでも 3) を強制（確認用）。
    BudouX: Copyright 2021 Google LLC / Apache License 2.0 — https://github.com/google/budoux */
 (function () {
-  var SEL = 'h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,td,th,label,.t,.lead,.excerpt,.word,.masthead-lede';
-  var SKIP = 'script,style,noscript,svg,canvas,code,pre,textarea,input,select,.nw';
+  var SEL = 'h1,h2,h3,h4,h5,h6,p,li,dt,dd,blockquote,figcaption,td,th,label,.t,.lead,.excerpt,.word,.masthead-lede,.article-nav a';
+  var SKIP = 'script,style,noscript,svg,canvas,code,pre,textarea,input,select,.nw,.bk';
   var JA = /[\u3040-\u30ff\u3400-\u9fff]/;
 
   /* ---- 1) 折らないかたまり ---- */
@@ -29,8 +34,35 @@
     '(?:ふくらはぎ|ふともも|くるぶし|かかと|つま先|ふたたび|えいごdeバスケ)',
     // 「バックス戦」「ロケッツ戦」のようなチーム名＋戦（チーム名と「戦」を離さない）
     '[\\u30a1-\\u30faー]{2,}戦',
-    '[A-Za-z0-9][A-Za-z0-9.\'’™®&\\-]*(?: [A-Za-z0-9][A-Za-z0-9.\'’™®&\\-]*){1,2}(?: [がのをにでとはもへや](?![ぁ-ん]))?'
+    '["“]?[A-Za-z0-9][A-Za-z0-9.\'’™®&\\-]*["”]?(?: (?:["“]?[A-Za-z0-9][A-Za-z0-9.\'’™®&\\-]*["”]?|&|×)){1,7}(?: [がのをにでとはもへや](?![ぁ-ん]))?',
+    // ハイフンでつながる英語（GORE-TEX・U-NEXT・Win-Win）は、ハイフンの後ろで折らない
+    '["“]?[A-Za-z0-9]+(?:-[A-Za-z0-9]+)+["”]?'
   ].join('|'), 'g');
+  /* 英語の語の並びを、1かたまり12em以内でなるべく少なく区切る（x・&・× の後ろを優先、the/of 等の直後・最後の1語だけは避ける） */
+  var FN = /^(?:the|a|an|of|in|on|at|to|for|and|by|with|from)$/i, CONJ = /^(?:x|×|&|vs\.?|\/)$/i;
+  function bare(t) { return t.replace(/^[「『（(【〈《"“]+|[」』）)】〉》"”がのをにでとはもへや、。，．・！？!?]+$/g, ''); }
+  function nwd(a) { return a.filter(function (t) { return !CONJ.test(bare(t)); }).length; } // x・&・× は語数に数えない
+  // 長い英語名（Air Force 1 Low "NYC Rat"・Black/Purple Stardust 等）は9語・40字までは1かたまり。行に入らない時だけ fit が実測で区切り直す
+  function enOne(a, t) { return nwd(a) <= 9 && t.length <= 40; }
+  function chunkEn(tk, lastMin2, lim, sep, strict) {
+    lim = lim || 12; sep = sep == null ? ' ' : sep;
+    var n = tk.length, best = [0], from = [0];
+    for (var i = 1; i <= n; i++) {
+      best[i] = Infinity;
+      for (var j = i - 1; j >= 0; j--) {
+        var seg = tk.slice(j, i).join(sep);
+        if (i - j > 1 && emx(seg) > lim && (strict || !enOne(tk.slice(j, i), seg))) break; // 9語・40字までは1かたまりでよい（WIND AND SEA FUKUOKA 等）
+        var c = best[j] + 10;
+        if (sep === ' ' && j === 0 && i === 1 && n > 2 && /[A-Za-z]/.test(tk[0])) c += 6; // 先頭の1語だけのかたまり（Air｜Force 1 Low…）も避ける
+        if (i === n && n > 1 && i - j === 1 && (lastMin2 || /[A-Za-z]/.test(tk[j]))) c += lastMin2 ? 100 : 6; // 最後の1語だけのかたまりは避ける（カッコの中は必ず）
+        if (j > 0) { if (FN.test(bare(tk[j - 1]))) c += 6; if (CONJ.test(bare(tk[j]))) c += 3; if (/^\d+$/.test(bare(tk[j])) && /[A-Za-z]/.test(tk[j - 1])) c += 4; if (/^["“]/.test(tk[j - 1]) && !/["”]$/.test(tk[j - 1])) c += 20; if (j === 2 && CONJ.test(bare(tk[1]))) c += 15; if (/^[A-Z0-9&.]+$/.test(bare(tk[j - 1])) && /^[A-Z0-9&.]+$/.test(tk[j].replace(/[」』）)]+.*$/, ''))) c += 6; /* 「NBA x｜WIND…」のように A x だけで切らない。開き引用符の語（“THE）だけを行末に残さない */ if ((tk.slice(0, j).join(' ').match(/["“”]/g) || []).length % 2) c += 30; }
+        if (c <= best[i]) { best[i] = c; from[i] = j; } // 同点なら後ろのかたまりを大きく（Travis Scott×Nike｜Air Force 1 Low）
+      }
+    }
+    var out = [];
+    for (var k = n; k > 0; k = from[k]) out.unshift(tk.slice(from[k], k).join(sep));
+    return out;
+  }
   function addNw(f, w) { var sp = document.createElement('span'); sp.className = 'nw'; sp.textContent = w; f.appendChild(sp); }
   function glue(el) {
     var tw = document.createTreeWalker(el, NodeFilter.SHOW_TEXT), nodes = [], n;
@@ -41,27 +73,41 @@
       while ((m = RE.exec(s))) {
         var w = m[0];
         // 3語で20字を超えるときは先頭2語だけ包む（例: B.LEAGUE PREMIER 2026-27 → B.LEAGUE PREMIER）
-        if (w.length > 20) { var two = w.split(' ').slice(0, 2).join(' '); if (two.length <= 20 && two.indexOf(' ') > 0) { w = two; RE.lastIndex = m.index + w.length; } else continue; }
+        // ハイフン語は短いもの（10em以内・3つまで）だけ。URL・ファイル名の中（前後が / . : = _ ）は包まない
+        if (!/\s/.test(w) && /[A-Za-z0-9]-[A-Za-z0-9]/.test(w) && !/^\d+[-–−]\d+$/.test(w) &&
+            (emx(w) > 10 || w.split('-').length > 3 || /[\/.:=_@#?&%~]$/.test(s.slice(0, m.index)) || /^[\/.:=_@#?&%~]\S/.test(s.slice(m.index + w.length)))) continue;
         // チーム名＋戦は9字まで（長いカタカナ語の途中から包むと、その手前で折れてしまうので包まない）
         if (/^[\u30a1-\u30faー]+戦$/.test(w) && w.length > 9) continue;
         // 空白を含まない短い英数字（スコア以外）は包まない
-        if (!/\s/.test(w) && !/[^\x00-\x7f]/.test(w) && !/^\d+[-–−]\d+$/.test(w)) continue;
+        if (!/\s/.test(w) && !/[^\x00-\x7f]/.test(w) && !/^\d+[-–−]\d+$/.test(w) && !/[A-Za-z0-9]-[A-Za-z0-9]/.test(w)) continue;
         f = f || document.createDocumentFragment();
+        var mi = m.index;
+        // 英語の長い並び（12em超）は chunkEn で区切り、最後のかたまり以外をここで包む（例: NBA x WIND AND SEA は1つ、長い名前は語の境目で）
+        if (/^["“]?[A-Za-z0-9]/.test(w) && / /.test(w) && emx(w) > 12 && !enOne(w.split(' '), w)) {
+          var pm = / [がのをにでとはもへや]$/.exec(w), core = pm ? w.slice(0, -2) : w, ch = chunkEn(core.split(' '), 0);
+          if (pm) ch[ch.length - 1] += pm[0];
+          if (ch.length > 1) {
+            var p0 = s.slice(st, mi), ob0 = /[「『（(【〈《"“]+$/.exec(p0);
+            if (ob0 && emx(ob0[0] + ch[0]) <= 14) { p0 = p0.slice(0, ob0.index); ch[0] = ob0[0] + ch[0]; mi -= ob0[0].length; }
+            f.appendChild(document.createTextNode(p0));
+            for (var q = 0; q < ch.length - 1; q++) { addNw(f, ch[q]); f.appendChild(document.createTextNode(' ')); mi += ch[q].length + 1; }
+            st = mi; w = ch[ch.length - 1];
+          }
+        }
         // 直前の .nw とすき間なく続くとき（「BLACK SAMURAI 2026」＋「」に」）は同じ .nw にまとめる（.nw 同士の境目で折れて閉じ括弧が行頭に来るのを防ぐ）
         // まとめると長すぎる（11em超・スマホのカードで1行に入らない）ときは、前の .nw をほどいてふつうの文字に戻す（はみ出し防止）
-        if (m.index === st && f.lastChild && /^[」』）)]/.test(w) && (f.lastChild.nodeType === 3 || ems(f.lastChild.textContent + w) > 11)) {
+        if (mi === st && f.lastChild && /^[」』）)]/.test(w) && (f.lastChild.nodeType === 3 || ems(f.lastChild.textContent + w) > 11)) {
           // 長すぎるときは前の .nw をほどき、最後の1語（英語なら1単語・日本語なら1字）だけを閉じ括弧＋助詞と一緒に包む（「Gold」が」→ Gold」が）
           var T = f.lastChild.textContent, lw = /[A-Za-z0-9.'’\-]+$/.exec(T), cut = lw ? lw.index : T.length - 1;
           f.replaceChild(document.createTextNode(T.slice(0, cut)), f.lastChild);
           addNw(f, T.slice(cut) + w);
-          st = m.index + w.length; continue;
+          st = mi + w.length; continue;
         }
-        if (m.index === st && f.lastChild && f.lastChild.nodeType === 1 && /^[」』）)]/.test(w)) { f.lastChild.textContent += w; st = m.index + w.length; continue; }
+        if (mi === st && f.lastChild && f.lastChild.nodeType === 1 && /^[」』）)]/.test(w)) { f.lastChild.textContent += w; st = mi + w.length; continue; }
         // 直前の開き括弧（「『（( など）も .nw に入れる（Chrome は .nw の境目で折るので「「｜Stranger Things」」のように括弧だけ行末に残る）
-        var pre = s.slice(st, m.index), ob = /[「『（(【〈《"“]+$/.exec(pre), ix = m.index;
+        var pre = s.slice(st, mi), ob = /[「『（(【〈《"“]+$/.exec(pre), ix = mi;
         if (ob) {
-          if (ems(ob[0] + w) > 11) { f.appendChild(document.createTextNode(s.slice(st, m.index + w.length))); st = m.index + w.length; continue; }
-          pre = pre.slice(0, ob.index); w = ob[0] + w; ix = m.index - ob[0].length;
+          if (emx(ob[0] + w) <= 14) { pre = pre.slice(0, ob.index); w = ob[0] + w; ix = mi - ob[0].length; }
         }
         // 直後の句読点・中黒・閉じ括弧（・」、等）も .nw に入れる（.nw の境目で折れて行頭に来ないように）。ただし閉じ括弧＋助詞は次の一致で扱う
         var post = /^(?:[がのをにでとはもへや](?![ぁ-ん]))?[、。，．・！？!?ー]*/.exec(s.slice(ix + w.length)); // 「キャバリアーズ戦｜で」も離さない
@@ -73,6 +119,111 @@
       if (!f) return;
       f.appendChild(document.createTextNode(s.slice(st)));
       t.parentNode.replaceChild(f, t);
+    });
+  }
+
+  /* ---- 6) カッコ「」『』（）の中身 ---- */
+  // emx: 文字幅の見積もり（em）。英小文字・記号は狭く、大文字・数字はやや広い。日本語は1
+  function emx(t) { var w = 0; for (var i = 0; i < t.length; i++) { var c = t[i]; w += /[a-z]/.test(c) ? 0.52 : /[A-Z0-9]/.test(c) ? 0.66 : /[\s.,:;'’|!\/()\-]/.test(c) ? 0.32 : t.charCodeAt(i) < 0x2000 ? 0.6 : 1; } return w; }
+  var OPN = { '「': '」', '『': '』', '（': '）', '(': ')' }, ASC = /^[\x20-\x7e’“”™®×]+$/;
+  function findBr(s, from) {
+    for (var i = from; i < s.length; i++) {
+      var cl = OPN[s[i]]; if (!cl) continue;
+      // 入れ子（「…「Bliss Blue」…」）は同じ種類のカッコの深さを数えて、対応する閉じカッコを探す
+      var j = -1, dp = 0;
+      for (var k = i + 1; k < s.length && k - i <= 121; k++) {
+        if (s[k] === s[i]) dp++; else if (s[k] === cl) { if (!dp) { j = k; break; } dp--; }
+      }
+      if (j < 0) continue;
+      var inner = s.slice(i + 1, j);
+      if (/\n/.test(inner) || !inner.trim()) continue;
+      var post = /^[がのをにでとはもへや]?[、。，．・！？!?]*/.exec(s.slice(j + 1))[0];
+      return { index: i, 0: s.slice(i, j + 1 + post.length), 1: s[i], 2: inner, 3: cl, 4: post };
+    }
+    return null;
+  }
+  // 戻り値: [[文字, 種類]]  種類 0=ふつうの文字 1=.nw（折らない） 2=.bk（折ってよいが 1) の加工をしない＝語の途中で .nw を作らせない）
+  function brkParts(m, hd) {
+    var all = m[0], inner = m[2], cl = m[3] + m[4], E = emx(all);
+    // 丸ごと1つにする上限（emx の見積もり。実寸は英大文字で約2割小さい）: 見出し 12.5（320幅の記事タイトル=実寸11.6emの1行に入る）、
+    // 本文・カード説明 14（英語なら約24字）。つなぐ最後のかたまりの上限 LT も同じ考え方
+    var WH = hd ? 12.5 : 14, LT = hd ? 13 : 14;
+    if (E <= WH || (ASC.test(inner) && enOne(inner.split(' '), inner))) return [[all, 1]]; // 9語・40字までの英語名は丸ごと（入らない時は fit が区切り直す）
+    if (ASC.test(inner)) {
+      // 英語: 語の境目で区切り、最後の語は必ず前の語とつなぐ（「THE LEGACY｜CONTINUES.」→「THE｜LEGACY CONTINUES.」）
+      if (!/^\S+(?: \S+)+$/.test(inner)) return null;
+      var tk = inner.split(' '); tk[0] = m[1] + tk[0]; tk[tk.length - 1] += cl;
+      var ch = chunkEn(tk, 1, LT), out = [];
+      if (ch.join(' ') !== all) return null;
+      ch.forEach(function (c, k) { if (k) out.push([' ', 0]); out.push([c, 1]); });
+      return out;
+    }
+    // 日本語を含む: 語の切れ目（文節・カタカナ複合語の境目・空白・「、」の後・英字と日本語の境目）のうち、
+    // 英単語の途中と短い英語の並び（12em以内）の中を除いたものから、最後の2語ぶんをつなぐ
+    var cs = {}, i;
+    cuts(inner).concat(kataCuts(inner)).forEach(function (x) { cs[x] = 1; });
+    for (i = 1; i < inner.length; i++) {
+      var a = inner[i - 1], b = inner[i];
+      if (a === ' ' || /[、・／\/]/.test(a)) cs[i] = 1;
+      if ((/[A-Za-z0-9]/.test(a) && JA.test(b)) || (JA.test(a) && /[A-Za-z0-9]/.test(b))) cs[i] = 1;
+    }
+    // 中の短いカッコ（『Space Jam Laser』・(SHINJUKU GIVERS.EXE) 等）は途中で切らず、開きの手前を切れ目にする
+    var nest = [], q = 0, mm;
+    while ((mm = findBr(inner, q))) { var e1 = mm.index + mm[0].length - mm[4].length; if (emx(inner.slice(mm.index, e1)) <= 14) { nest.push([mm.index, e1]); if (mm.index > 0) cs[mm.index] = 1; } q = mm.index + 1; }
+    var keys = Object.keys(cs).map(Number).filter(function (x) {
+      if (x <= 0 || x >= inner.length) return false;
+      for (var z = 0; z < nest.length; z++) if (x > nest[z][0] && x <= nest[z][1]) return false;
+      var a = inner[x - 1], b = inner[x];
+      if (/\s/.test(b)) return false;
+      if (/[A-Za-z0-9.'’\-]/.test(a) && /[A-Za-z0-9.'’\-]/.test(b)) return false; // 英単語の途中
+      if (/[0-9]/.test(a) && /[年月日時分秒回位点人歳%％円万億千百個本件枚号戦勝敗度周]/.test(b)) return false; // 数字と単位（10｜月）
+      if (a === ' ' && /[A-Za-z0-9]/.test(b)) {
+        var L = /(?:[A-Za-z0-9][A-Za-z0-9.'’&\-]* )+$/.exec(inner.slice(0, x)), R = /^[A-Za-z0-9][A-Za-z0-9.'’&\- ]*/.exec(inner.slice(x));
+        if (L && emx(L[0] + (R ? R[0] : '')) <= 12) return false; // 短い英語の並び（Kawhi Leonard 等）の中
+      }
+      return true;
+    }).sort(function (x, y) { return x - y; });
+    if (!keys.length) return [[all, 2]];
+    var p1 = keys[keys.length - 1], p2 = keys.length > 1 ? keys[keys.length - 2] : 0;
+    var tl = (p2 ? '' : m[1]) + inner.slice(p2) + cl;
+    // 最後の2語が少し長い（(ラグジュアリータックス込み)が 等）ときも LT+4 までは2語でつなぐ・本文とカード説明だけ（最後の1語だけを次の行に残さない。入らない時は fit が区切り直す）
+    var LX = hd ? LT : LT + 4; // 見出しは広げない（狭いカードで閉じカッコが行頭に出るため）
+    if (emx(tl) > LX) tl = inner.slice(p1) + cl;
+    if (tl.length >= all.length) return [[all, 1]];
+    // 本文・カード説明で、前に残るのが短い（「ティソ｜スーパースポーツ NBA」）ときは18emまで丸ごと（入らない時は fit が区切り直す）
+    if (!hd && E <= 18 && emx(all.slice(0, all.length - tl.length)) <= 5) return [[all, 1]];
+    // 長くても英語名だけのカッコ（(SHINJUKU GIVERS.EXE)」は、 等）は1かたまり（fit が実測で区切り直す）
+    var tc = tl.replace(/[」』）)がのをにでとはもへや、。]+$/, '').replace(/^[「『（(]/, '');
+    var ty = emx(tl) <= LX || (ASC.test(tc) && enOne(tc.split(' '), tc)) ? 1 : 2;
+    return [[all.slice(0, all.length - tl.length), 0], [tl, ty]];
+  }
+  function brk(el) {
+    var hd = el.matches(TAIL);
+    var tw = document.createTreeWalker(el, NodeFilter.SHOW_TEXT), nodes = [], n;
+    while ((n = tw.nextNode())) if (!n.parentElement.closest(SKIP + ',.nb')) nodes.push(n);
+    // build: 文字列 s を f に足す。.nw にしなかった部分（長いカッコの前半）は、その中のカッコをもう一度処理する（入れ子）
+    function build(s, f, lv) {
+      var m, st = 0, pos = 0, hit = false;
+      while ((m = findBr(s, pos))) {
+        var parts = brkParts(m, hd);
+        if (!parts) { pos = m.index + 1; continue; }
+        hit = true;
+        f.appendChild(document.createTextNode(s.slice(st, m.index)));
+        var box = f;
+        // 見出しで18em以下: inline-block で「入るなら丸ごと次の行へ・入らない時だけ中で折る」
+        if (parts.length > 1 && hd && emx(m[0]) <= 18) { box = document.createElement('span'); box.className = 'nb'; f.appendChild(box); }
+        parts.forEach(function (p) {
+          if (!p[1]) { if (lv > 3 || !build(p[0], box, lv + 1)) box.appendChild(document.createTextNode(p[0])); return; }
+          var sp = document.createElement('span'); sp.className = p[1] === 1 ? 'nw nwb' : 'bk'; sp.textContent = p[0]; box.appendChild(sp);
+        });
+        st = pos = m.index + m[0].length;
+      }
+      if (hit) f.appendChild(document.createTextNode(s.slice(st)));
+      return hit;
+    }
+    nodes.forEach(function (t) {
+      var f = document.createDocumentFragment();
+      if (build(t.data, f, 0)) t.parentNode.replaceChild(f, t);
     });
   }
 
@@ -210,7 +361,8 @@
       var pv = last.previousSibling;
       if (s.length <= 4 && pv && pv.nodeType === 1 && pv.classList.contains('nw') && ems(pv.textContent + s) <= 9) {
         pv.appendChild(document.createTextNode(s)); last.data = last.data.slice(s.length);
-      } else if (s.length <= 4 && pv && pv.nodeType === 1 && pv.classList.contains('nw') && pv.textContent.lastIndexOf(' ') > 0 &&
+      } else if (s.length <= 4 && pv && pv.nodeType === 1 && pv.classList.contains('nw') && !pv.classList.contains('nwb') && pv.textContent.lastIndexOf(' ') > 0 &&
+                 /^[0-9]/.test(pv.textContent.slice(pv.textContent.lastIndexOf(' ') + 1)) && // 年・番号だけ切り離す（Emirates NBA｜Cupも配信 のように名前は割らない） // 年・番号だけ切り離す（Emirates NBA｜Cupも配信 のように名前は割らない）
                  ems(pv.textContent.slice(pv.textContent.lastIndexOf(' ') + 1) + s) <= 10) {
         // 「BLACK SAMURAI 2026」に｜協賛 → 「BLACK SAMURAI｜2026」に協賛（.nw の最後の語と末尾をひとかたまりに）
         var pt = pv.textContent, k2 = pt.lastIndexOf(' '), ns = document.createElement('span');
@@ -252,13 +404,90 @@
 
   function one(el) {
     if (el.__jw) return; el.__jw = 1;
-    if (el.matches('.article-title')) ktSpace(el);
-    listGlue(el);
-    glue(el);
-    el.normalize(); // glue でほどいた文字と隣の文字を1つにまとめる（tail が末尾の文節を正しく見るため）
-    tail(el);
-    phrase(el); // 未対応ブラウザ: 全文節に <wbr>。対応ブラウザ: 長い文節の予備の切れ目だけ
+    var h0 = el.innerHTML;
+    try {
+      if (el.matches('.article-title')) ktSpace(el);
+      listGlue(el);
+      brk(el);
+      glue(el);
+      el.normalize(); // glue でほどいた文字と隣の文字を1つにまとめる（tail が末尾の文節を正しく見るため）
+      tail(el);
+      phrase(el); // 未対応ブラウザ: 全文節に <wbr>。対応ブラウザ: 長い文節の予備の切れ目だけ
+    } catch (e) { try { el.innerHTML = h0; el.classList.remove('bx-on'); } catch (e2) {} } // 失敗したら素の表示に戻す
   }
+  /* 8) はみ出し防止: 画面幅より長くなった .nw / .nb / .kt は「折らない」をやめる（幅が変わるたびに測り直す） */
+  function fit() {
+    if (mo) mo.disconnect(); // fit 自身の書き換え（.nws・<wbr>）で MutationObserver が再処理しないように
+    try {
+      var xs = document.querySelectorAll('.nw,.nb,.kt'), i, w = [];
+      for (i = 0; i < xs.length; i++) { var x0 = xs[i]; if (x0.__o != null) { x0.textContent = x0.__o; x0.__o = null; } x0.classList.remove('nw-off', 'nw-brk'); }
+      for (i = 0; i < xs.length; i++) {
+        var x = xs[i], b = x.parentElement && (x.parentElement.closest(SEL) || x.parentElement);
+        if (!b) { w.push(0); continue; }
+        var st = getComputedStyle(b), av = b.clientWidth - parseFloat(st.paddingLeft) - parseFloat(st.paddingRight);
+        var br = b.getBoundingClientRect(), rx = br.left + b.clientLeft + parseFloat(st.paddingLeft) + av, xr = x.getBoundingClientRect();
+        // 幅が入らない、または前の文字とくっついて右にはみ出している（Scott×Nike Air Force 1 Low 等）
+        w.push(av > 0 && (xr.width > av + 0.5 || (xr.right > rx + 0.5)) ? av / (parseFloat(getComputedStyle(x).fontSize) || 16) : 0);
+      }
+      for (i = 0; i < xs.length; i++) if (w[i]) { xs[i].classList.add('nw-off'); refit(xs[i], w[i]); }
+      // 区切り直しても1つの塊が行に入らない（カタカナの長い語など）ときは、その塊だけ普通に折る（横はみ出し防止）
+      for (i = 0; i < xs.length; i++) if (w[i]) {
+        var px = w[i] * (parseFloat(getComputedStyle(xs[i]).fontSize) || 16) + 0.5, big = xs[i].getBoundingClientRect().width > px && xs[i].getClientRects().length < 2;
+        Array.prototype.forEach.call(xs[i].querySelectorAll('.nws'), function (y) { if (y.getBoundingClientRect().width > px) big = true; });
+        if (big) { xs[i].classList.add('nw-brk'); chop(xs[i], px); }
+      }
+    } catch (e) {}
+    if (mo) { mo.takeRecords(); mo.observe(document.body, { childList: true, subtree: true }); }
+  }
+  // 行に入らない塊は文字の間に <wbr> を入れて折れるようにする（auto-phrase の中では word-break を変えても折れないため）
+  // 小さい仮名・ー・閉じカッコ・句読点の前と、開きカッコの後ろ、英数字どうしの間には入れない
+  function chop(x, px) {
+    if (x.__o == null) x.__o = x.textContent;
+    var tw = document.createTreeWalker(x, NodeFilter.SHOW_TEXT), ns = [], n;
+    while ((n = tw.nextNode())) { var pe = n.parentElement; if (pe === x || pe.getBoundingClientRect().width > px) ns.push(n); }
+    ns.forEach(function (t) {
+      var s = t.data; if (s.length < 2) return;
+      var f = document.createDocumentFragment(), st = 0;
+      for (var k = 1; k < s.length; k++) {
+        var a = s[k - 1], b = s[k];
+        if (/[ー」』）)、。，．・ぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ!?！？.,:;\s]/.test(b) || /[「『（(\s]/.test(a) || (/[A-Za-z0-9]/.test(a) && /[A-Za-z0-9]/.test(b))) continue;
+        f.appendChild(document.createTextNode(s.slice(st, k))); f.appendChild(document.createElement('wbr')); st = k;
+      }
+      if (!st) return;
+      f.appendChild(document.createTextNode(s.slice(st))); t.parentNode.replaceChild(f, t);
+    });
+  }
+  // 入らなかった .nw は丸ごとほどかず、行の幅に入る大きさで区切り直す（英語は語の境目・日本語は文節。最後の1語だけにはしない）
+  function refit(x, lim) {
+    if (!x.classList.contains('nw') || x.children.length) return;
+    var t = x.textContent, tk, sep, fs = parseFloat(getComputedStyle(x).fontSize) || 16;
+    // 「Stranger Things」が のように閉じカッコの後ろの助詞までで入らないときは、まずカッコと助詞の間で分ける
+    // ただし塊がブロックの最後（後ろに文字がない）なら分けない（「…」/とは のように助詞だけの行が残るため）
+    var bl = x.parentElement && (x.parentElement.closest(SEL) || x.parentElement), rest = '';
+    if (bl) { var rg = document.createRange(); rg.selectNodeContents(bl); rg.setStartAfter(x); rest = rg.toString().trim(); }
+    // 後ろが助詞・句読点だけ（「…」と｜は）のときも分けない（助詞だけの行が残るため）
+    var pm = rest && !/^[ぁ-ん]{0,2}[。、！？!?]*$/.test(rest) && x.classList.contains('nwb') && t.match(/^([「『（(][^]*[」』）)])([^」』）)\s]{1,3})$/);
+    if (pm) {
+      x.__o = t; x.textContent = '';
+      var h = document.createElement('span'); h.className = 'nws'; h.textContent = pm[1]; x.appendChild(h);
+      x.appendChild(document.createElement('wbr'));
+      var tl = document.createElement('span'); tl.className = 'nws'; tl.textContent = pm[2]; x.appendChild(tl);
+      if (h.getBoundingClientRect().width <= lim * fs + 0.5) return;
+      x.textContent = t; x.__o = null;
+    }
+    if (/ /.test(t)) { tk = t.split(' '); sep = ' '; }
+    else { var c = cuts(t), a = 0; tk = []; c.forEach(function (k) { if (k > a && k < t.length) { tk.push(t.slice(a, k)); a = k; } }); tk.push(t.slice(a)); sep = ''; }
+    if (tk.length < 2) return;
+    var ch = chunkEn(tk, x.classList.contains('nwb') ? 1 : 0, lim * 0.92, sep, 1);
+    if (ch.length < 2) return;
+    x.__o = t; x.textContent = '';
+    ch.forEach(function (c, k) {
+      if (k) { x.appendChild(document.createTextNode(sep)); x.appendChild(document.createElement('wbr')); }
+      var sp = document.createElement('span'); sp.className = 'nws'; sp.textContent = c; x.appendChild(sp);
+    });
+  }
+  var fitT = 0;
+  function fitLater() { clearTimeout(fitT); fitT = setTimeout(fit, 60); }
   function apply(root) {
     if (root.nodeType !== 1) return;
     if (root.matches(SEL)) one(root);
@@ -271,10 +500,15 @@
       var up = nd.parentElement && nd.parentElement.closest(SEL);
       if (up) { up.__jw = 0; up.classList.remove('bx-on'); apply(up); } else apply(nd);
     }); });
+    fitLater();
     mo.observe(document.body, { childList: true, subtree: true });
   }) : null;
   function start() {
-    apply(document.body);
+    try { apply(document.body); } catch (e) {}
+    fit();
+    window.addEventListener('resize', fitLater);
+    window.addEventListener('load', fitLater);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitLater);
     if (mo) mo.observe(document.body, { childList: true, subtree: true });
   }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start); else start();

@@ -734,6 +734,13 @@ p, li, .excerpt, .article-body p.lead { text-wrap: pretty; }
 /* anywhere にすると text-wrap: balance が語の途中で折ってしまうので break-word（入りきらない時だけ折る） */
 .bx-on { word-break: keep-all; overflow-wrap: break-word; }
 .nw { white-space: nowrap; }
+/* カッコ「」『』（）のかたまり（見出しのみ・journal-wrap.js が付ける）: 1行に入るなら丸ごと次の行へ送り、入らない時だけ中の語の境目で折る */
+.nb { display: inline-block; }
+/* はみ出し防止（journal-wrap.js の fit が付ける）: 幅に入らない「折らない」かたまりは普通に折る */
+.nw.nw-off, .nb.nw-off, .kt.nw-off { white-space: normal; }
+.nb.nw-off { display: inline; }
+.nws { white-space: nowrap; }
+.nw-brk, .nw-brk .nws { white-space: normal; word-break: normal; overflow-wrap: anywhere; }
 /* 記事タイトルの <span class="kt"> は「このかたまりの中では折らない」分節（黒サイト style.css の .kt と同じ扱い）。
    かたまりが1行より長いときだけ、中で文節折りになる。 */
 .article-title .kt { display: inline-block; }
