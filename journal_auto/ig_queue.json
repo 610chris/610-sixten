@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T13:55:05+09:00",
+  "updated": "2026-11-18T14:58:30+09:00",
   "items": [
     {
       "id": "134",
@@ -33478,6 +33478,98 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジェイレン・ブラウン、マジック戦を欠場 —— 左ハムストリング負傷\n\n・16日のネッツ戦第4Qでハムストリング負傷、同試合では31得点13リバウンド\n・今季2度目の欠場、唯一の欠場も10月の左膝違和感\n・11月は平均24.6得点・FG53.7%と好調、21日のバックス戦で再評価\n\n💬 ブラウン抜きの76ers、連勝ムードは保てる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「76ers' Brown to miss Wednesday's game vs. Magic with hamstring strain」\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1048",
+      "slug": "1048-rui-hachimura-20-points-jazz",
+      "category": "NBA",
+      "date": "2026-11-18",
+      "headline": "八村塁、ジャズ戦で20得点・3P4本全て成功",
+      "excerpt": "LAクリッパーズの八村塁(Rui Hachimura)は現地時間11月17日、敵地ソルトレイクシティでのユタ・ジャズ(Utah Jazz)戦に27分出場し、フィールドゴール10本中7本・3ポイント4本中4本を沈めて20得点を記録した。クリッパーズは107-132でジャズに敗れた。",
+      "points": [
+        "27分出場でFG7/10・3P4/4",
+        "リバウンド5・スティール1・ブロック1",
+        "クリッパーズは107-132でジャズに敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1048-rui-hachimura-20-points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "八村のこの試合の3P成功率100%、評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. JAZZ",
+        "points": 20,
+        "stats": [
+          "5 REB",
+          "1 AST",
+          "7/10 FG",
+          "4/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1048-1.jpg",
+        "https://sixten.jp/assets/ig/1048-2.jpg",
+        "https://sixten.jp/assets/ig/1048-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-18T14:58:04+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、ジャズ戦で20得点・3P4本全て成功\n\n・27分出場でFG7/10・3P4/4\n・リバウンド5・スティール1・ブロック1\n・クリッパーズは107-132でジャズに敗戦\n\n💬 八村のこの試合の3P成功率100%、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1049",
+      "slug": "1049-brice-sensabaugh-40-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-18",
+      "headline": "ブライス・センサボー、クリッパーズ戦で40得点11リバウンド",
+      "excerpt": "ユタ・ジャズ(Utah Jazz)のブライス・センサボー(Brice Sensabaugh)は現地時間11月17日、本拠地ソルトレイクシティでのLAクリッパーズ(LA Clippers)戦に35分出場し、フィールドゴール21本中16本・3ポイント11本中8本を沈めて40得点・リバウンド11・アシスト5を記録した。両チーム通じてこの日の試合最多得点者となり、ジャズは132-107でクリッパーズを下した。",
+      "points": [
+        "35分出場でFG16/21・3P8/11",
+        "リバウンド11・アシスト5のオールラウンド",
+        "ジャズが132-107でクリッパーズに快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1049-brice-sensabaugh-40-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Brice Sensabaugh"
+      ],
+      "question": "この40得点、今季ベストゲーム級？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BRICE SENSABAUGH",
+        "opponent": "vs. CLIPPERS",
+        "points": 40,
+        "stats": [
+          "11 REB",
+          "5 AST",
+          "16/21 FG",
+          "8/11 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1049-1.jpg",
+        "https://sixten.jp/assets/ig/1049-2.jpg",
+        "https://sixten.jp/assets/ig/1049-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-18T14:58:05+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブライス・センサボー、クリッパーズ戦で40得点11リバウンド\n\n・35分出場でFG16/21・3P8/11\n・リバウンド11・アシスト5のオールラウンド\n・ジャズが132-107でクリッパーズに快勝\n\n💬 この40得点、今季ベストゲーム級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

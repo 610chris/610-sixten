@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1049-brice-sensabaugh-40-points-clippers.html",
+    cat: "NBA",
+    title: "ブライス・センサボー、クリッパーズ戦で40得点11リバウンド —— ジャズが132-107で快勝",
+    excerpt: "ユタ・ジャズ(Utah Jazz)のブライス・センサボー(Brice Sensabaugh)は現地時間11月17日、本拠地ソルトレイクシティでのLAクリッパーズ(LA Clippers)戦に35分出場し、フィールドゴール21本中16本・3ポイント11本中8本を沈めて40得点・リバウンド11・アシスト5を記録した。両チーム通じてこの日の試合最多得点者となり、ジャズは132-107でクリッパーズを下した。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1048-rui-hachimura-20-points-jazz.html",
+    cat: "NBA",
+    title: "八村塁、ジャズ戦で20得点・3P4本全て成功 —— クリッパーズは107-132で敗戦",
+    excerpt: "LAクリッパーズの八村塁(Rui Hachimura)は現地時間11月17日、敵地ソルトレイクシティでのユタ・ジャズ(Utah Jazz)戦に27分出場し、フィールドゴール10本中7本・3ポイント4本中4本を沈めて20得点を記録した。クリッパーズは107-132でジャズに敗れた。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1047-jaylen-brown-hamstring-miss-magic.html",
     cat: "NBA",
     title: "ジェイレン・ブラウン、マジック戦を欠場 —— 左ハムストリング負傷、月間24.6得点の好調に影",
