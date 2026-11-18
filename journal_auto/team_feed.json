@@ -1,8 +1,166 @@
 {
- "updated_utc": "2026-11-18 04:41 UTC",
+ "updated_utc": "2026-11-18 14:29 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/pistons-grind-out-a-character-win-in-san-antonio-snap-spurs-12-game-streak",
+   "url": "https://www.nba.com/pistons/news/pistons-grind-out-a-character-win-in-san-antonio-snap-spurs-12-game-streak",
+   "canonical_url": "https://pistons.com/news/pistons-grind-out-a-character-win-in-san-antonio-snap-spurs-12-game-streak",
+   "title": "Pistons Grind Out a Character Win in San Antonio, Snap Spurs’ 12-Game Streak",
+   "author": "Pistons.com",
+   "published_utc": "2026-11-18T14:17:20Z",
+   "tags": [
+    "game recap"
+   ],
+   "summary": "SAN ANTONIO – The Pistons came into Frost Bank Center without Jalen Duren, Isaiah Joe, Duncan Robinson, Ron Holland II and Taurean Prince. The Spurs had won 12 straight and hadn’t lost since Oct. 23. Victor Wembanyama had never lost to Detroit.",
+   "facts": [
+    "The Spurs had won 12 straight and hadn’t lost since Oct. 23.",
+    "Detroit fell behind by 14 early in the second quarter.",
+    "The result was a 105-93 win that moved the Pistons to 9-4.",
+    "San Antonio’s 93 points were its lowest total of the season by 11.",
+    "Wembanyama had 10 points in the first quarter, and Julian Champagnie hit three 3-pointers on his way to 11 as San Antonio led 33-26 after one.",
+    "The Spurs pushed the lead to 40-26 early in the second quarter.",
+    "Over the rest of the half, Detroit outscored them 29-14.",
+    "Ausar Thompson had picked up two early fouls, but he came back to score 10 points on 5-of-8 shooting in the quarter, most of it at the rim."
+   ],
+   "quotes": [
+    "Defense. Defense, character,",
+    "I thought the second, third, and fourth quarters, defensively for us, were immaculate. The way that guys were competing, the way we were playing physical, the way we were executing our system. The way…",
+    "That’s just how we play, that’s our identity,",
+    "We kind of got away from that the last couple games, so today was just about getting back to that and being the more physical team, starting on defense. And then offensively, being physical, being dow…"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+   "canonical_url": "https://sixers.com/news/sixers-at-magic-game-preview-injury-report-and-how-to-watch-11-18-2026",
+   "title": "Sixers at Magic: Game Preview, Injury Report and How to Watch 11/18/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-18T13:54:48Z",
+   "tags": [],
+   "summary": "The first-place Philadelphia 76ers (12-3) visit the Orlando Magic (6-7) on Wednesday with an opportunity to extend their winning streak to four games. Tipoff in Orlando is set for 7 p.m. EST.",
+   "facts": [
+    "The first-place Philadelphia 76ers (12-3) visit the Orlando Magic (6-7) on Wednesday with an opportunity to extend their winning streak to four games.",
+    "Tipoff in Orlando is set for 7 p.m.",
+    "Joel Embiid scored a season-high 37 points in the Sixers’ 135-123 road victory over the Brooklyn Nets on Monday, the second half of a back-to-back.",
+    "Embiid, who buried a dagger 3-pointer in the final minute after Brooklyn trimmed a 24-point deficit to four, scored 24 of his 37 points in the first half.",
+    "The Magic are coming off a 115-105 road win over the Boston Celtics despite Boston making 20 3-pointers.",
+    "Orlando’s Desmond Bane scored 15 of his game-high-tying 24 points in the fourth quarter.",
+    "Franz Wagner, who recorded 21 points, eight rebounds and nine assists Monday, saw his streak of four consecutive 30-point games come to an end.",
+    "Here are the RAV4 Things to Know ahead of Wednesday’s game: Something’s Got to Give The Sixers and Magic enter Wednesday’s matchup riding winning streaks of three and four games, respectively."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hornets-drop-heartbreaker-in-ot-following-lakers-late-charge",
+   "url": "https://www.nba.com/hornets/news/hornets-drop-heartbreaker-in-ot-following-lakers-late-charge",
+   "canonical_url": "https://hornets.com/news/hornets-drop-heartbreaker-in-ot-following-lakers-late-charge",
+   "title": "Hornets Drop Heartbreaker In OT Following Lakers’ Late Charge",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-18T08:07:57Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "On the brink of what would have been their most impressive win of the season, the Charlotte Hornets couldn’t survive some late heroic shot-making by the Los Angeles Lakers in a 118-114 overtime road loss on Tuesday night.",
+   "facts": [
+    "On the brink of what would have been their most impressive win of the season, the Charlotte Hornets couldn’t survive some late heroic shot-making by the Los Angeles Lakers in a 118-114 overtime road loss on Tuesday night…",
+    "Top Performers: Brandon Miller snapped out of his recent dry spell, totaling a team-high 28 points on 10-of-19 shooting, a season-high-tying five 3-pointers (5-of-30 from 3-point over his previous four games) and four as…",
+    "Naz Reid (23 points and 11 rebounds) double-doubled for the fifth time this season, Coby White had 19 points on 6-of-12 shooting and Moussa Diabate added on five points and a game-high 16 rebounds.",
+    "Quentin Grimes exploded for a career-high 47 points – 21 in the fourth quarter – on 16-of-24 shooting, a career-high 10 3-pointers (most in the NBA this season), six rebounds and three assists in 47 minutes, as the Laker…",
+    "Luka Dončić, who leads the NBA in scoring (39.0 points) by a substantial margin, followed up with 36 points on 13-of-34 shooting, six rebounds and seven assists, despite picking up four first-half fouls.",
+    "Turning Point: The Hornets used runs of 18-5 and 18-4 in the second and third quarters, respectively, to build a 94-81 lead heading into the fourth, but the Lakers volleyed back with a 23-10 surge that tied the game at 1…",
+    "Charlotte soon went back up by four, but two missed free throws and a pivotal turnover in the final 33 seconds left the door open for Grimes to hit a game-tying 3-pointer in the closing moments.",
+    "Reid opened overtime with a 3-pointer of his own before the Lakers closed the extra frame on a 7-0 run."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
+   "title": "Preview: Utah Jazz End Back-to-Back With Matchup Against Lakers",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-18T07:18:39Z",
+   "tags": [
+    "Brice Sensabaugh",
+    "Keyonte George",
+    "Utah Jazz"
+   ],
+   "summary": "The Utah Jazz are spending a few days in the City of Angels.",
+   "facts": [
+    "Led by hot shot-making from the likes of Brice Sensabaugh (40 points) and Keyonte George (30 points, 11 assists), the Jazz got back in the win column with a 132-107 victory.",
+    "Utah dished out a season-high 35 assists and knocked down 20 3-pointers, but it was also stingy defense in the fourth quarter that helped push the visitors to a much-needed win.",
+    "The Lakers have thrived out of the gates to begin the season, racing to a 13-2 record that has been fueled in large part by the league’s top-ranked offense.",
+    "Luka Dončić has dominated in the early going, averaging 39 points and 7.8 assists per game heading into Tuesday’s action.",
+    "Although Austin Reaves has missed time as of late, he has provided Dončić with an effective running mate (24.7 points and 4.7 assists per game), while former Jazzman Walker Kessler has helped LA’s interior presence (14.5…",
+    "The Lakers won the first meeting between the two teams 132-123 back on Oct. 25.",
+    "Los Angeles has thrived defensively when it comes to forcing turnovers, leading the league in opponent turnover percentage (18.7 percent).",
+    "However, on the other end, the Lakers have struggled to take care of the ball, ranking 25th in their own turnover percentage."
+   ],
+   "quotes": [
+    "Tonight’s game is a culmination of the team’s work and them sticking together and improving every day,"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-132-la-clippers-107-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-132-la-clippers-107-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-132-la-clippers-107-key-takeaways",
+   "title": "Utah Jazz 132, LA Clippers 107: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-18T06:22:59Z",
+   "tags": [
+    "Brice Sensabaugh",
+    "Josh Okogie",
+    "Keyonte George",
+    "Svi Mykhailiuk",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "Adversity and resilience have been two words often used to describe the beginning of the 2026-27 Utah Jazz season.",
+   "facts": [
+    "Adversity and resilience have been two words often used to describe the beginning of the 2026-27 Utah Jazz season.",
+    "The Jazz got 40 points from Brice Sensabaugh off the bench, 30 points and 11 assists from Keyonte George, and knocked down 20 3-pointers in a 132-107 victory.",
+    "George (eight points, five assists) and Sensabaugh (12 points) led Utah, while Darius Garland spearheaded LA’s offense with 13 points.",
+    "Both teams were knocking down shots from deep (eight combined in the first 12 minutes), with the Clippers generating a few additional trips to the free-throw line.",
+    "After a back-and-forth quarter, the Jazz held a 35-29 lead heading into the second frame.",
+    "Utah’s hot shooting carried over into the second quarter, as the visitors created a 12-point lead following back-to-back 3-pointers from Svi Mykhailiuk.",
+    "After leading nearly the entire quarter, the Jazz found themselves down 62-58 at the half following a 13-0 run by the Clippers.",
+    "Utah bounced back with a 15-4 run to begin the second half, with six made shots (on six attempts) that all came off an assist."
+   ],
+   "quotes": [
+    "It’s no secret that we haven’t gotten the ultimate results we’ve wanted lately,",
+    "Tonight’s game is a culmination of the team’s work and them sticking together and improving every day. I’m really proud of the team… the fabric of the locker room is in a really good place right now.",
+    "We didn’t get bogged down and everyone was trusting the pass,",
+    "Our defense helped us get out and play against an unset defense."
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -27,7 +185,7 @@
     "The Mavs, who will be honoring the late Don Nelson on Wednesday, are 5-2 at home this season.",
     "Chosen No. 11 overall in June, Lendeborg played for Dusty May at Michigan and – along with Mavs rookie forward Morez Johnson Jr. – helped the Wolverines capture last spring’s NCAA championship.",
     "In that homecoming game for Flagg, he scored 17 points on 5-of-15 shots in 27 minutes.",
-    "Dallas Mavericks (7-7) WHEN: Wednesday, 7 p.m.",
+    "Dallas Mavericks (7-7) WHEN: Wednesday, Nov. 18 | 7 p.m.",
     "WHERE: American Airlines Center, Dallas TICKETS: Mavs.com/Tickets TV: KFAA-29, MavsTV+ RADIO: 105.3 The Fan, 99.1 FM Zona MX (Spanish) FAN ACTIVATIONS: Nellie Night | Commemorative Don “Nellie” Nelson Playing Cards (Firs…"
    ],
    "quotes": [
@@ -104,6 +262,31 @@
    "summary": "Memphis, Tenn. – Memphis Grizzlies forward GG Jackson II underwent a successful procedure today to repair a broken fifth metatarsal in his left foot.",
    "facts": [
     "Jackson II is expected to make a full recovery and will be reevaluated in approximately three months."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-memcle-261118",
+   "url": "https://www.nba.com/cavaliers/news/preview-memcle-261118",
+   "canonical_url": "https://cavs.com/news/preview-memcle-261118",
+   "title": "Cavs vs Grizzlies | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-17T20:24:49Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "Cleveland hosts the up-start Memphis Grizzlies tonight in the third game of this four-game home stand. The second matchup between the two will come on January 16 in Memphis.",
+   "facts": [
+    "The second matchup between the two will come on January 16 in Memphis.",
+    "GAME INFORMATION LAST TIME OUT Donovan Mitchell recorded a season-high 39 points in Monday's home win over the Bulls.",
+    "Mitchell went 16-25 from the floor with four rebounds and four assists.",
+    "Tyrese Proctor continued his hot play by scoring 17.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Jaylon Tyson - Ankle - DOUBTFUL -Peyton Watson - Back - QUESTIONABLE -Sam Merrill - Elbow - QUESTIONABLE -Evan Mobley - Toe - OUT -Nae'Qwan Tomlin - Back - OUT…"
    ],
    "quotes": []
   },
@@ -1712,99 +1895,6 @@
     "Looking at ourselves in the mirror: Are we going to be the team everybody thinks is our lunch? Or play for each other and compete,",
     "Where the only thing that matters is not who has the highest number in the box score, but getting Ws."
    ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "feature",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-nets-129110",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-nets-129110",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-nets-129110",
-   "title": "Grizzlies Defeat Nets 129–110",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-15T05:55:00Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "MEMPHIS, TENN - The Memphis Grizzlies (9-4) defeated the Brooklyn Nets (3-9) 129-110 on Saturday at FedExForum. Memphis' 9-4 start to the season ties the Grizzlies franchise record for third-best start through 13 games in franchise history.",
-   "facts": [
-    "MEMPHIS, TENN - The Memphis Grizzlies (9-4) defeated the Brooklyn Nets (3-9) 129-110 on Saturday at FedExForum.",
-    "Memphis' 9-4 start to the season ties the Grizzlies franchise record for third-best start through 13 games in franchise history.",
-    "One night after the Grizzlies tied an NBA record with 10 players scoring in double figures, Memphis had seven players in double figures tonight.",
-    "Cedric Coward posted his fourth double-double of the season with a season-high tying 23 points and a season-high 12 rebounds.",
-    "Coward became the third player in franchise history to record a double-double while also notching at least four 3-pointers, at least two steals and at least two blocks, joining Marc Gasol (twice) and Ja Morant.",
-    "Taylor Hendricks scored a career-high 22 points on 9-of-13 shooting from the field in 29 minutes off the bench.",
-    "Javon Small (19 points), Cam Spencer (17 points) and Olivier-Maxence Prosper (11 points) all set season highs in scoring.",
-    "Julius Randle led seven Nets in double figures with 22 points on 8-of-16 shooting from the field and 3-of-6 shooting from 3-point range."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
-   "url": "https://www.nba.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-celtics-preview-christie-not-sweating-the-shot-making-early-in-the-season",
-   "title": "Mavericks-Celtics preview: Christie not sweating the lack of shot-making so far",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-15T05:07:32Z",
-   "tags": [
-    "dallas mavericks",
-    "Max Chrisite",
-    "nba"
-   ],
-   "summary": "CLEVELAND – Contrary to what email outages or breakdowns of outdated aviation electronics might lead us to believe, Max Christie is stone-cold certain that the world is not coming to an end.",
-   "facts": [
-    "Now, a relatively minor left ankle sprain notwithstanding, the 6-5 guard is not about to worry that anything has suddenly changed in the world with his shooting.",
-    "His shooting this season is at 27.3 percent from three-point range, a far cry from the 40.4 percent he shot last season.",
-    "He was shooting a ridiculous 46.6 percent before New Year’s Day last season.",
-    "And they’re not going to shoot 20 percent (all season).",
-    "They last played on Wednesday, when they won at Toronto 98-93.",
-    "They have won five consecutive games.Against the Raptors, Paul George (illness) did not play but he is expected to return Sunday.",
-    "Jayson Tatum had 24 points, seven rebounds and eight assists against Toronto while center Neemias Queta had 11 points and 13 rebounds.The Mavericks are trying to fight through some growing pains after starting this three…",
-    "We can weather a storm.The Mavericks have less than 24 hours to stew about the loss in Cleveland, but they were incensed by the way they didn’t match the Cavs’ aggression, particularly with all the stars Cleveland was mi…"
-   ],
-   "quotes": [
-    "It’s important not to overreact to things,",
-    "Show up every day with great energy ready to work and get better. And control what I can control. We’re winning games. Obviously, we lost the last game (at Minnesota), but I feel good about where this…",
-    "You look across the league, there are certain guys that are shooting 55 percent and you know they’re not going to shoot 55 percent when the dust settles in a couple months,",
-    "It’s just staying with the process and staying focused on the game. If he defends at a high level, rebounds, plays near-mistake-free basketball, it’s his job to take the open shots and we’re confident…"
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-adebayo-size-too-much-detroit-cunningham",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-antetokounmpo-adebayo-size-too-much-detroit-cunningham",
-   "canonical_url": "https://heat.com/news/coups-takeaways-antetokounmpo-adebayo-size-too-much-detroit-cunningham",
-   "title": "Coup’s Takeaways: HEAT’s Size Too Much For Detroit As Miami Wins Fourth In A Row",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-11-15T04:54:00Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. It took a minute to get back there, but with four wins in a row and a pair over Cleveland and Detroit on back-to-back nights, Miami is back over .500 now standing at 7-6.",
-   "facts": [
-    "It took a minute to get back there, but with four wins in a row and a pair over Cleveland and Detroit on back-to-back nights, Miami is back over .500 now standing at 7-6.",
-    "Still no Pelle Larsson tonight, but Klay Thompson returns after missing the win over Cleveland, leaving Myron Gardner in again as a starter.",
-    "Not the HEAT’s strongest night on the boards, despite their size advantage, allowing 13 offensive rebounds in the first half and dodging second-chances along the way.",
-    "Antetokounmpo and Cunningham paced both sides with impeccable decision making as much as they could, but the rhythm of the game – if it even existed – was disrupted by an endless stream of fouls (30 in the first half, a …",
-    "HEAT lead, 68-60, at the break, with a little rim defense going a long way – Antetokounmpo and Nikola Jovic each with some point-saving blocks – toward extending the lead into a small cushion.",
-    "Klay Thompson had been dealing with a little foul trouble himself, but he opened the second half just as hot as he began the first, knocking down a mid-range post look over the shorter Daniss Jenkins before a transition …",
-    "All those open looks Detroit had been generating started to fall – even with Duncan Robinson not starting the second half and questionable to return – John Collins finding his shot and a couple of turnover costing Miami …",
-    "Lead back to three after an 8-0 run."
-   ],
-   "quotes": []
   }
  ]
 }
