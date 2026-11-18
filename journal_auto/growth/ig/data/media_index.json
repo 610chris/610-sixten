@@ -1261,6 +1261,29 @@
   "template": "score",
   "timestamp": "2026-10-29T02:04:23+0000"
  },
+ "17913854103581219": {
+  "article": "1042",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、回復は順調もあと最低1週間離脱",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/Df3Ksx8D3WS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Raptors: Leonard progressing but out at least another week」",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-18T00:00:00+0000"
+ },
  "17914176483594041": {
   "article": "1033",
   "auto": true,
@@ -1942,6 +1965,29 @@
   "permalink": "https://www.instagram.com/reel/Cj7gNypAV5A/",
   "product": "REELS",
   "timestamp": "2022-10-20T09:01:07+0000"
+ },
+ "17926693266448072": {
+  "article": "1043",
+  "auto": true,
+  "caption_len": 391,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジャレン・ブランソン、ラプターズ戦で31得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df3i5TvnOF6/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Knicks vs. Raptors)",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-18T03:31:28+0000"
  },
  "17926792261731300": {
   "auto": false,
@@ -3341,6 +3387,19 @@
   "permalink": "https://www.instagram.com/reel/CkF0uuYAAlX/",
   "product": "REELS",
   "timestamp": "2022-10-24T09:13:01+0000"
+ },
+ "17963894013249685": {
+  "auto": false,
+  "caption_len": 118,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "「なんでそのプレーを選んだ？」",
+  "permalink": "https://www.instagram.com/reel/Df11nYHnyTD/",
+  "product": "REELS",
+  "timestamp": "2026-11-17T11:36:59+0000"
  },
  "17964756438209713": {
   "arms": {
@@ -7615,6 +7674,29 @@
   "template": "news",
   "timestamp": "2026-11-01T02:54:48+0000"
  },
+ "18103030289558668": {
+  "article": "1038",
+  "auto": true,
+  "caption_len": 287,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "カリー「バスケットボール的な死」と向き合う38歳",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/Df1_ejvDCbe/",
+  "product": "REELS",
+  "route": "source",
+  "source": "ESPN（アンソニー・スレイター記者）",
+  "subject": [
+   "Stephen Curry"
+  ],
+  "template": "quote",
+  "timestamp": "2026-11-17T13:02:40+0000"
+ },
  "18103323728346900": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -9485,6 +9567,27 @@
   ],
   "template": "news",
   "timestamp": "2026-10-04T00:28:53+0000"
+ },
+ "18117635840276389": {
+  "article": "1036",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "男子日本代表vsレバノン、W杯予選Window5をABEMAが無料生中継",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df1O_LjEr1q/",
+  "product": "REELS",
+  "route": "source",
+  "source": "株式会社AbemaTVプレスリリース（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-17T05:59:03+0000"
  },
  "18117714872013298": {
   "arms": {
@@ -12901,6 +13004,29 @@
   "template": "score",
   "timestamp": "2026-11-11T03:07:36+0000"
  },
+ "18169683553486559": {
+  "article": "1041",
+  "auto": true,
+  "caption_len": 365,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ホークスのマッカラム、左ふくらはぎ負傷で4週間離脱",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df3InE3DUIP/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Hawks lose guard McCollum for at least 4 weeks with calf strain」",
+  "subject": [
+   "CJ McCollum|Asa Newell"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-17T23:41:52+0000"
+ },
  "18169955518464571": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -14373,6 +14499,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-15T12:14:38+0000"
+ },
+ "18386498101239727": {
+  "article": "1046",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カニングハム、スパーズ戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df3mwt0gcPR/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Cade Cunningham"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-18T04:05:20+0000"
  },
  "18387989518231867": {
   "arms": {
