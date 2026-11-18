@@ -1,0 +1,13 @@
+# 公開しない内部ファイル（2026-11-19 サイトセキュリティ総点検）
+*.md
+*.py
+*.sh
+*.bak
+*.bak-*
+*.bak.*
+*.orig
+*.log
+*.csv
+*.env
+.DS_Store
+node_modules

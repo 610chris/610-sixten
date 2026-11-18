@@ -1,0 +1,40 @@
+name: Surge security settings
+# 2026-11-19 サイトセキュリティ総点検: Surge 公式の設定コマンド(surge <domain> config)で
+# http→https 強制と HSTS を各 *.surge.sh ドメインへ付ける。公開物は再デプロイしない(設定だけ)。
+# 公式: https://surge.sh/docs/platform/ssl#forcing-https / https://surge.sh/docs/cli/config
+# sixten.jp は Cloudflare 前段のため、ここでは触らない(Cloudflare 側の Always Use HTTPS で行う。オリジン側で強制すると Flexible SSL 時にリダイレクトが回り続ける恐れ)。
+# 手動実行だけ(workflow_dispatch)。
+on:
+  workflow_dispatch:
+
+jobs:
+  config:
+    runs-on: ubuntu-latest
+    env:
+      SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+      SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: npm install -g surge@0.57.1
+      - name: Force HTTPS + HSTS
+        run: |
+          set +e
+          fail=0
+          for d in 610-sixten.surge.sh fafa-camp-2026.surge.sh fafa-camp-status.surge.sh \
+                   phil-handy-ts-factory-b5ivecamp-2026.surge.sh stop-the-game-2027.surge.sh \
+                   defense-camp-2027.surge.sh make-the-game-hokkaido-2027.surge.sh jeff-hamilton-night.surge.sh; do
+            echo "== $d"
+            surge "$d" config --force https --hsts 31536000 || { echo "FAILED $d"; fail=1; }
+          done
+          exit $fail
+      # 旧版 stop-the-game-2027 が fetch している stop-the-game-status.surge.sh は未取得(404)で、
+      # 第三者が取ると任意の status.json を返せる。中身の無い予約ページで自分のアカウントに確保する
+      # (status.json は置かない=今までどおり404なので旧版の表示は変わらない)。
+      - name: Reserve dangling status domain
+        run: |
+          mkdir -p reserve && cd reserve
+          printf '<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex"><title>reserved</title>\n' > index.html
+          surge . stop-the-game-status.surge.sh
+          surge stop-the-game-status.surge.sh config --force https --hsts 31536000

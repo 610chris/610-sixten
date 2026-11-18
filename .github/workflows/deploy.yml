@@ -5,7 +5,7 @@ on:
   push:
     branches: [main]
     # site/ に触れないpush(seen更新・shams_signal・workflow変更など)ではデプロイ不要なのでpathsで絞る。
-    paths: ['site/**', 'journal_auto/build_seo.py', 'journal_auto/indexnow_ping.sh']
+    paths: ['site/**', 'journal_auto/build_seo.py', 'journal_auto/indexnow_ping.sh', '.github/scripts/security_meta.py']
   workflow_dispatch:
 
 jobs:
@@ -20,6 +20,10 @@ jobs:
       # sitemap.xml・feed.xml・llms.txt を再生成。ルーチンが実行し忘れても公開物は常に最新になる保険。
       - name: Build SEO artifacts
         run: python3 journal_auto/build_seo.py
+      # セキュリティ用 meta(http→https置換・iframe埋め込み対策・CSP/Referrer)を全HTMLへ差し込む(2026-11-19 サイトセキュリティ総点検)。
+      # Surge は任意ヘッダ不可・sixten.jp は Cloudflare 前段のため、ヘッダの代わり。ソースは書き換えず作業コピーだけ。
+      - name: Inject security meta
+        run: python3 .github/scripts/security_meta.py site
       - run: npm install -g surge
       # 配信用コピー(2026-10-29): Surge無料プランの容量上限(実測で428.9MB成功/430.5MB失敗)を超えて
       # 10/27から全デプロイが「Application too large」で止まったため、配信不要なものを外したコピーを送る。
