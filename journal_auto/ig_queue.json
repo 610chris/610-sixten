@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:58:30+09:00",
+  "updated": "2026-11-18T16:57:24+09:00",
   "items": [
     {
       "id": "134",
@@ -33570,6 +33570,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブライス・センサボー、クリッパーズ戦で40得点11リバウンド\n\n・35分出場でFG16/21・3P8/11\n・リバウンド11・アシスト5のオールラウンド\n・ジャズが132-107でクリッパーズに快勝\n\n💬 この40得点、今季ベストゲーム級？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1050",
+      "slug": "1050-quentin-grimes-47-points-hornets",
+      "category": "NBA",
+      "date": "2026-11-18",
+      "headline": "グライムズ、ホーネッツ戦でOT含め47得点",
+      "excerpt": "ロサンゼルス・レイカーズ(Los Angeles Lakers)のクエンティン・グライムズ(Quentin Grimes)は現地時間11月17日、本拠地ロサンゼルスでのシャーロット・ホーネッツ(Charlotte Hornets)戦に42分出場し、フィールドゴール24本中16本(66.7%)・3ポイント14本中10本(71.4%)を沈めて47得点を記録した。両チーム通じてこの日の試合最多得点者となり、試合はオーバータイムへもつれ、レイカーズが118-114でホーネッツを下した。",
+      "points": [
+        "レイカーズは本拠地でホーネッツと接戦、118-114でOT勝利",
+        "グライムズはFG16/24・3P10/14の高確率で47得点",
+        "ドンチッチも36得点を記録、2人で83得点を分担"
+      ],
+      "source": "ESPN ボックススコア(Lakers vs. Hornets・2026年11月17日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1050-quentin-grimes-47-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Quentin Grimes"
+      ],
+      "question": "グライムズの47得点、今季ベストゲームだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "QUENTIN GRIMES",
+        "opponent": "vs. HORNETS",
+        "points": 47,
+        "stats": [
+          "6 REB",
+          "3 AST",
+          "16/24 FG",
+          "10/14 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1050-1.jpg",
+        "https://sixten.jp/assets/ig/1050-2.jpg",
+        "https://sixten.jp/assets/ig/1050-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-18T16:56:53+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "グライムズ、ホーネッツ戦でOT含め47得点\n\n・レイカーズは本拠地でホーネッツと接戦、118-114でOT勝利\n・グライムズはFG16/24・3P10/14の高確率で47得点\n・ドンチッチも36得点を記録、2人で83得点を分担\n\n💬 グライムズの47得点、今季ベストゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Lakers vs. Hornets・2026年11月17日)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

@@ -9,6 +9,15 @@
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
     <item>
+      <title>クエンティン・グライムズ、ホーネッツ戦で47得点 —— レイカーズがOTで118-114の勝利</title>
+      <link>https://sixten.jp/journal/1050-quentin-grimes-47-points-hornets.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/1050-quentin-grimes-47-points-hornets.html</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:00 +0900</pubDate>
+      <category>NBA</category>
+      <description>ロサンゼルス・レイカーズ(Los Angeles Lakers)のクエンティン・グライムズ(Quentin Grimes)は現地時間11月17日、本拠地ロサンゼルスでのシャーロット・ホーネッツ(Charlotte Hornets)戦に42分出場し、フィールドゴール24本中16本(66.7%)・3ポイント14本中10本(71.4%)を沈めて47得点を記録した。両チーム通じてこの日の試合最多得点者となり、試合はオーバータイムへもつれ、レイカーズが118-114でホーネッツを下した。</description>
+      <enclosure url="https://sixten.jp/assets/journal-fallback-01.jpg?v=15c4383426" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>ブライス・センサボー、クリッパーズ戦で40得点11リバウンド —— ジャズが132-107で快勝</title>
       <link>https://sixten.jp/journal/1049-brice-sensabaugh-40-points-clippers.html</link>
       <guid isPermaLink="true">https://sixten.jp/journal/1049-brice-sensabaugh-40-points-clippers.html</guid>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ヒューストン・ロケッツは現地時間11月15日、ワシントン・ウィザーズに147-119で勝利。この試合でウィザーズのトレイ・ヤングはNBAキャリア初の無得点となり、511試合続いていた得点記録が途切れた。トンプソンが26得点で勝利に貢献。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>スパーズが12連勝、ジャズに110-102 —— ハーパー31得点、ウェンバンヤマは26得点11リバウンド5ブロック</title>
-      <link>https://sixten.jp/journal/1019-spurs-12-game-win-streak.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/1019-spurs-12-game-win-streak.html</guid>
-      <pubDate>Tue, 17 Nov 2026 09:00:00 +0900</pubDate>
-      <category>NBA</category>
-      <description>サンアントニオ・スパーズは現地時間11月15日、ユタ・ジャズに110-102で勝利し今季12連勝とした。ハーパーが31得点、ウェンバンヤマも26得点11リバウンド5ブロックの活躍。ジャズは12連敗となった。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-02.jpg?v=6d15bae6e8" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

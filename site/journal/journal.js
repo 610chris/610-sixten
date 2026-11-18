@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1050-quentin-grimes-47-points-hornets.html",
+    cat: "NBA",
+    title: "クエンティン・グライムズ、ホーネッツ戦で47得点 —— レイカーズがOTで118-114の勝利",
+    excerpt: "ロサンゼルス・レイカーズ(Los Angeles Lakers)のクエンティン・グライムズ(Quentin Grimes)は現地時間11月17日、本拠地ロサンゼルスでのシャーロット・ホーネッツ(Charlotte Hornets)戦に42分出場し、フィールドゴール24本中16本(66.7%)・3ポイント14本中10本(71.4%)を沈めて47得点を記録した。両チーム通じてこの日の試合最多得点者となり、試合はオーバータイムへもつれ、レイカーズが118-114でホーネッツを下した。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1049-brice-sensabaugh-40-points-clippers.html",
     cat: "NBA",
     title: "ブライス・センサボー、クリッパーズ戦で40得点11リバウンド —— ジャズが132-107で快勝",
