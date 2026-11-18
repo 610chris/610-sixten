@@ -128,7 +128,8 @@
         var j = r.indexOf(w);
         while (j >= 0) {
           if (j >= 2) out.push(st + j);
-          if (j + w.length <= r.length - 2) out.push(st + j + w.length);
+          // 後ろに「シップ」が続く語（パートナーシップ 等）は1語なので、語の後ろでは切らない
+          if (j + w.length <= r.length - 2 && r.substr(j + w.length, 3) !== 'シップ') out.push(st + j + w.length);
           j = r.indexOf(w, j + 1);
         }
       });
