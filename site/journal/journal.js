@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1052-heat-giannis-blueprint-analysis.html",
+    cat: "NBA",
+    title: "ヤニス加入のヒート、7戦6勝で急反発 —— ESPNが検証する「トレードの代償」とプレーオフでの現実味",
+    excerpt: "マイアミ・ヒートは開幕2勝5敗から一転、ヤニス・アデトクンボ獲得後の直近7試合で6勝と持ち直している。ESPNのティム・マクマホン記者が、トレードで手放した戦力や給与面の制約、ヒート関係者・対戦球団幹部の見方を交えて、好転の実態とプレーオフでの現実味を分析している。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1051-atmos-converse-pro-leather-j-ox-at.html",
+    cat: "KICKS",
+    title: "atmos×CONVERSE「PRO LEATHER J OX / AT」11月25日発売 —— MA-1着想のオリーブ×オレンジ、日本限定500足",
+    excerpt: "atmosとCONVERSEのコラボモデル「PRO LEATHER J OX / AT」が2026年11月25日に日本限定500足で発売される。1976年誕生のバスケットボールシューズ「PRO LEATHER」に、ミリタリーウェア「MA-1」から着想したオリーブ×オレンジの配色を落とし込んだ。抽選受付は11月18日10時から11月24日8時59分まで。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1050-quentin-grimes-47-points-hornets.html",
     cat: "NBA",
     title: "クエンティン・グライムズ、ホーネッツ戦で47得点 —— レイカーズがOTで118-114の勝利",
