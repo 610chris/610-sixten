@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1046-cade-cunningham-27-points-spurs.html",
+    cat: "NBA",
+    title: "ケイド・カニングハム、スパーズ戦で27得点 —— ピストンズが敵地で105-93の勝利",
+    excerpt: "デトロイト・ピストンズ(Detroit Pistons)のケイド・カニングハム(Cade Cunningham)は現地時間11月17日、敵地サンアントニオでのサンアントニオ・スパーズ(San Antonio Spurs)戦に38分出場し、フィールドゴール25本中12本(48.0%)・アシスト6を記録して27得点を挙げた。両チーム通じてこの日の試合最多得点者となり、ピストンズは105-93でスパーズを下した。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1045-ayo-dosunmu-30-points-trail-blazers.html",
+    cat: "NBA",
+    title: "アヨ・ドスンム、トレイルブレイザーズ戦で30得点 —— ティンバーウルブズが106-105の1点差勝利",
+    excerpt: "ミネソタ・ティンバーウルブズ(Minnesota Timberwolves)のアヨ・ドスンム(Ayo Dosunmu)は現地時間11月17日、本拠地ミネアポリスでのポートランド・トレイルブレイザーズ(Portland Trail Blazers)戦に39分出場し、フィールドゴール19本中11本(57.9%)・3ポイント11本中7本(63.6%)を沈めて30得点を記録した。両チーム通じてこの日の試合最多得点者となり、ティンバーウルブズは106-105の1点差でトレイルブレイザーズを下した。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1044-bleague-allstar-2027-lineup-announcement-live.html",
+    cat: "JAPAN",
+    title: "「B.LEAGUE ALL-STAR GAME WEEKEND 2027」出場選手発表会見を11月19日にライブ配信 —— 愛知・名古屋で来年1月開催",
+    excerpt: "スポーツナビ株式会社は11月19日11:00から、2027年1月に愛知県名古屋市で開催される「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」の出場選手発表会見をライブ配信する。「りそなグループ B.LEAGUE ALL-STAR GAME 2027」をはじめ、コンテストなど全コンテンツの出場選手が発表される。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1043-jalen-brunson-31-points-raptors.html",
     cat: "NBA",
     title: "ジャレン・ブランソン、ラプターズ戦で31得点 —— ニックスが敵地で111-102の勝利",
