@@ -378,6 +378,7 @@ def build_hubs(arts: list[dict]) -> None:
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="../journal.css">
+<script src="../journal-wrap.js" defer></script>
 <script type="application/ld+json">{json.dumps(page_ld, ensure_ascii=False)}</script>
 <script type="application/ld+json">{json.dumps(bc_ld, ensure_ascii=False)}</script>
 </head>
@@ -1053,6 +1054,34 @@ def apply_analytics(mid: str) -> None:
     print(f"ANALYTICS: {'測定ID ' + mid if mid else '測定ID 未設定(タグなし)'} / 対象 {len(targets)}ページ")
 
 
+# ---------------------------------------------------------------- 改行ルール(2026-11-18)
+# JOURNAL の全HTML(一覧・ハブ・全記事・非公開 p-*.html)に journal-wrap.js を読み込ませる。
+# 文節で折る(Safari等は BudouX で <wbr>)・数字+単位/日付/スコア/短い英語名を折らない・h1 の .kt 間の空白を詰める。
+# journal.css の <link> の直後に1回だけ入れる(既にあれば触らない=冪等)。?v= は version_html_files が付ける。
+# 新しい記事も build_seo.py を通るだけで自動で入る(記事ごとの手作業なし)。
+WRAP_JS_RE = re.compile(r'<script src="(?:\.\./)?journal-wrap\.js(?:\?v=[^"]*)?" defer></script>')
+JOURNAL_CSS_LINK_RE = re.compile(r'<link rel="stylesheet" href="(?P<pre>(?:\.\./)?)journal\.css(?:\?v=[^"]*)?">')
+
+
+def apply_linebreak_js() -> None:
+    n = 0
+    for p in sorted(list(JOURNAL.glob("*.html")) + list(JOURNAL.glob("*/index.html"))):
+        if SKIP_HTML.match(p.name):
+            continue
+        t = read(p)
+        if WRAP_JS_RE.search(t):
+            n += 1
+            continue
+        m = JOURNAL_CSS_LINK_RE.search(t)
+        if not m:
+            warn(f"{p.relative_to(SITE).as_posix()}: journal.css の読み込みが無いので改行ルール(journal-wrap.js)を入れられない")
+            continue
+        tag = f'\n<script src="{m.group("pre")}journal-wrap.js" defer></script>'
+        write_if_changed(p, t[: m.end()] + tag + t[m.end() :])
+        n += 1
+    print(f"LINEBREAK: journal-wrap.js 読み込み {n}ページ")
+
+
 # ---------------------------------------------------------------- main
 def main() -> int:
     version_journal_js()
@@ -1068,6 +1097,7 @@ def main() -> int:
     build_feed(arts)
     build_llms(arts)
     apply_analytics(ga4_id())
+    apply_linebreak_js()
     version_html_files()
     uniq = list(dict.fromkeys(changed))
     print(f"更新: {len(uniq)}ファイル")

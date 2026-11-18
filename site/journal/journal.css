@@ -338,7 +338,8 @@ ul { list-style: none; }
 .article-title {
   font-family: var(--font-serif);
   font-weight: 900;
-  font-size: clamp(28px, 4.2vw, 42px);
+  /* 2026-11-18 改行調整: スマホ 24px（旧28px・1行8〜10字で窮屈）→ PC 42px は据え置き */
+  font-size: clamp(24px, calc(14.7px + 2.48vw), 42px);
   letter-spacing: 0.06em;
   line-height: 1.55;
   text-wrap: balance;
@@ -353,13 +354,13 @@ ul { list-style: none; }
 }
 .article-body .prose { margin-top: 34px; }
 .article-body p.lead {
-  font-size: 17.5px;
+  font-size: clamp(16px, calc(14.2px + 0.5vw), 17.5px); /* 2026-11-18 スマホ16px〜PC17.5px */
   font-weight: 500;
   line-height: 2;
 }
 .article-body .prose p { margin-top: 1.6em; color: #33312e; font-size: 16px; line-height: 2; }
 .article-body .prose h2 {
-  font-size: 21px;
+  font-size: clamp(18.5px, calc(16px + 0.7vw), 21px); /* 2026-11-18 スマホ18.5px〜PC21px */
   font-weight: 900;
   line-height: 1.6;
   margin-top: 2.4em;
@@ -504,7 +505,7 @@ footer {
     align-items: start;
   }
   .feed-row .thumb, .tile { aspect-ratio: 1 / 1; }
-  .feed-row h3 { font-size: 15px; margin-top: 6px; }
+  .feed-row h3 { font-size: clamp(14px, calc(12.5px + 0.4vw), 15px); margin-top: 6px; } /* 2026-11-18 375px幅で14px（旧15px・1行12〜14字で窮屈） */
   .feed-row .excerpt { display: none; }
   .feed-row .meta-row { gap: 8px; }
   .tile { padding: 10px; }
@@ -706,3 +707,21 @@ footer {
 .about-faq h2 { font-size: 15px; font-weight: 700; margin: 0 0 8px; letter-spacing: 0.04em; }
 .about-faq p { font-size: 13px; line-height: 1.9; color: var(--text); margin: 0; }
 .footer-about { flex-basis: 100%; font-size: 12px; line-height: 1.8; color: #bdb9b2; margin: 14px 0 0; }
+
+/* ---------- 改行ルール（JOURNAL 共通・2026-11-18） ----------
+   黒サイト style.css の「改行ルール（サイト共通）」と同じ考え方。
+   Chrome/Edge は auto-phrase で文節折り。未対応（Safari/iOS）は journal-wrap.js が文節ごとに <wbr> を入れて .bx-on にする。
+   line-break: strict で「ー」・小さい「ッ」・句読点が行頭に来ないようにする。 */
+html:lang(ja) body { line-break: strict; word-break: auto-phrase; overflow-wrap: break-word; }
+h1, h2, h3, h4, h5, h6, dt, dd, figcaption, blockquote,
+.hero-latest .t, .tile .word, .masthead-lede { text-wrap: balance; }
+p, li, .excerpt, .article-body p.lead { text-wrap: pretty; }
+/* anywhere にすると text-wrap: balance が語の途中で折ってしまうので break-word（入りきらない時だけ折る） */
+.bx-on { word-break: keep-all; overflow-wrap: break-word; }
+.nw { white-space: nowrap; }
+/* 記事タイトルの <span class="kt"> は「このかたまりの中では折らない」分節（黒サイト style.css の .kt と同じ扱い）。
+   かたまりが1行より長いときだけ、中で文節折りになる。 */
+.article-title .kt { display: inline-block; }
+/* 一覧の横並びカード（グリッドの 1fr 列）が、折れない長い文節に押されて横にはみ出さないように */
+.feed-row .body, .rel-card, .hero-latest li { min-width: 0; }
+/* 出典の長いURLは上の .prose a { overflow-wrap: anywhere } で折れる */
