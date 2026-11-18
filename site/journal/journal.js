@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1043-jalen-brunson-31-points-raptors.html",
+    cat: "NBA",
+    title: "ジャレン・ブランソン、ラプターズ戦で31得点 —— ニックスが敵地で111-102の勝利",
+    excerpt: "ニューヨーク・ニックス(New York Knicks)のジャレン・ブランソン(Jalen Brunson)は現地時間11月17日、敵地トロントでのトロント・ラプターズ(Toronto Raptors)戦に34分出場し、フィールドゴール22本中10本(45.5%)・3ポイント11本中4本(36.4%)・フリースロー7本中7本(100%)を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者となり、ニックスは111-102でラプターズを下した。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1042-kawhi-leonard-progressing-another-week.html",
     cat: "NBA",
     title: "カワイ・レナード、回復は順調もあと最低1週間離脱 —— ラプターズ発表、今季出場はいまだ2試合のみ",

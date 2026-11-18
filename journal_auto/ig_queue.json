@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T08:56:48+09:00",
+  "updated": "2026-11-18T12:28:23+09:00",
   "items": [
     {
       "id": "134",
@@ -33272,6 +33272,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カワイ・レナード、回復は順調もあと最低1週間離脱\n\n・左膝の腫れから回復中、筋力・コンディショニングで前進\n・ラプターズ発表、最低あと1週間・4試合を欠場へ\n・今季はすでに11試合欠場、出場はわずか2試合\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Raptors: Leonard progressing but out at least another week」\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1043",
+      "slug": "1043-jalen-brunson-31-points-raptors",
+      "category": "NBA",
+      "date": "2026-11-18",
+      "headline": "ジャレン・ブランソン、ラプターズ戦で31得点",
+      "excerpt": "ニューヨーク・ニックス(New York Knicks)のジャレン・ブランソン(Jalen Brunson)は現地時間11月17日、敵地トロントでのトロント・ラプターズ(Toronto Raptors)戦に34分出場し、フィールドゴール22本中10本(45.5%)・3ポイント11本中4本(36.4%)・フリースロー7本中7本(100%)を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者となり、ニックスは111-102でラプターズを下した。",
+      "points": [
+        "FG10/22・3PT4/11・FT7/7の高確率で31得点",
+        "タウンズはリバウンド16・アシスト8でトリプルダブルに迫る",
+        "ニックスは敵地トロントで111-102の勝利"
+      ],
+      "source": "ESPN ボックススコア(Knicks vs. Raptors)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1043-jalen-brunson-31-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Brunson"
+      ],
+      "question": "ブランソンとタウンズ、今季のベストデュオだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN BRUNSON",
+        "opponent": "vs. RAPTORS",
+        "points": 31,
+        "stats": [
+          "5 REB",
+          "5 AST",
+          "10/22 FG",
+          "4/11 3PT",
+          "7/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1043-1.jpg",
+        "https://sixten.jp/assets/ig/1043-2.jpg",
+        "https://sixten.jp/assets/ig/1043-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-18T12:27:53+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジャレン・ブランソン、ラプターズ戦で31得点\n\n・FG10/22・3PT4/11・FT7/7の高確率で31得点\n・タウンズはリバウンド16・アシスト8でトリプルダブルに迫る\n・ニックスは敵地トロントで111-102の勝利\n\n💬 ブランソンとタウンズ、今季のベストデュオだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Knicks vs. Raptors)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
