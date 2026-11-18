@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1047-jaylen-brown-hamstring-miss-magic.html",
+    cat: "NBA",
+    title: "ジェイレン・ブラウン、マジック戦を欠場 —— 左ハムストリング負傷、月間24.6得点の好調に影",
+    excerpt: "フィラデルフィア・76ersは現地時間11月17日、ジェイレン・ブラウン(Jaylen Brown)が左ハムストリングの肉離れで18日のオーランド・マジック戦を欠場すると発表した。21日のバックス戦までに経過を見て再評価する。今季2度目の欠場で、11月は平均24.6得点・FG53.7%と好調の中での離脱。ESPNが伝えた。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1046-cade-cunningham-27-points-spurs.html",
     cat: "NBA",
     title: "ケイド・カニングハム、スパーズ戦で27得点 —— ピストンズが敵地で105-93の勝利",
