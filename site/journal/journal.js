@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1064-cooper-flagg-33-points-warriors.html",
+    cat: "NBA",
+    title: "クーパー・フラッグ、ウォリアーズ戦で33得点9アシスト —— マブスが116-94で快勝",
+    excerpt: "ダラス・マーベリックス(Dallas Mavericks)のクーパー・フラッグ(Cooper Flagg)は現地時間11月18日、本拠地ダラスでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に34分出場し、フィールドゴール15本中11本・3ポイント5本中3本・フリースロー8本中8本を沈めて33得点に加え、アシスト9・スティール4を記録した。両チーム通じてこの日の試合最多得点者となり、マブスは116-94でウォリアーズに快勝した。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "1063-zion-williamson-24-points-pistons.html",
+    cat: "NBA",
+    title: "ザイオン・ウィリアムソン、ピストンズ戦で24得点 —— ペリカンズは109-122で敗戦",
+    excerpt: "ニューオーリンズ・ペリカンズ(New Orleans Pelicans)のザイオン・ウィリアムソン(Zion Williamson)は現地時間11月18日、本拠地ニューオーリンズでのデトロイト・ピストンズ(Detroit Pistons)戦に32分出場し、フィールドゴール14本中9本・フリースロー9本中6本を沈めて24得点に加え、リバウンド7を記録した。両チーム通じてこの日の試合最多得点者となったが、ペリカンズは109-122でピストンズに敗れた。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1062-nike-kobe-10-protro-duke-uconn-pe.html",
     cat: "KICKS",
     title: "Nike Kobe 10 Protro「Duke」「UConn」PEが2026年ホリデーシーズンに発売",
