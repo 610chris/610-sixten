@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1076-doncic-usage-rate-lakers.html",
+    cat: "NBA",
+    title: "ドンチッチの使用率40.4%は歴代3位 —— レイカーズ13勝3敗の立役者に、ESPNがプレーオフの不安要素を検証",
+    excerpt: "ロサンゼルス・レイカーズのルカ・ドンチッチは平均38.1得点・使用率40.4%という歴代級のペースでシーズンを戦っている。ESPNのベン・ゴリバー記者は現地時間11月19日、ウェストブルックやハーデンら過去の高使用率スターの優勝実績と比較しながら、この「独り勝ち」状態がプレーオフで裏目に出るリスクを分析した。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1075-gunma-allstar-2027.html",
     cat: "JAPAN",
     title: "群馬クレインサンダーズから4選手、B.LEAGUE ALL-STAR GAME WEEKEND 2027出場決定 —— スタンリー・ジョンソンはファン投票で初選出",
