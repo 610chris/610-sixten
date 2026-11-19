@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1074-ibaraki-allstar-2027.html",
+    cat: "JAPAN",
+    title: "茨城ロボッツから3選手、B.LEAGUE ALL-STAR GAME 2027出場決定 —— 吉井裕鷹はヴィック・ロー離脱でスターティング5へ",
+    excerpt: "茨城ロボッツは、吉井裕鷹選手・レイ・パークスジュニア選手・赤間賢人選手の3選手が「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」(2027年1月15日~17日・愛知IGアリーナ)への出場が決定したと11月19日発表した。負傷離脱したヴィック・ロー選手に代わり、吉井選手はスターティング5に選出された。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-1074-hero.jpg?v=df1142bc9e"
+  },
+  {
     href: "1073-76ers-rally-magic-clutch-streak.html",
     cat: "NBA",
     title: "レブロン「今季一番の勝利かもしれない」—— 76ersが17点差跳ね返し121-116、クラッチ11連勝は過去30年で3位",
