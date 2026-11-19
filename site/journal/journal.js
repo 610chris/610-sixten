@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1062-nike-kobe-10-protro-duke-uconn-pe.html",
+    cat: "KICKS",
+    title: "Nike Kobe 10 Protro「Duke」「UConn」PEが2026年ホリデーシーズンに発売",
+    excerpt: "Nike(ナイキ)は、デューク大学(Duke)とコネチカット大学(UConn)それぞれのチームカラーをまとった「Nike Kobe 10 Protro」のプレーヤーエクスクルーシブ(PE)モデルを、2026年のホリデーシーズンに発売する。Sneaker Newsが11月18日(現地時間)、両モデルの発売情報を報じた。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1061-shai-gilgeous-alexander-34-points-hawks.html",
     cat: "NBA",
     title: "シェイ・ギルジャス＝アレクサンダー、ホークス戦で34得点 —— サンダーは112-117で惜敗",
