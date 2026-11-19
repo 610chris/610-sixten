@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1060-anthony-davis-25-points-raptors.html",
+    cat: "NBA",
+    title: "アンソニー・デイビス、ラプターズ戦で25得点14リバウンド —— ウィザーズが103-99で勝利",
+    excerpt: "ワシントン・ウィザーズ(Washington Wizards)のアンソニー・デイビス(Anthony Davis)は現地時間11月18日、敵地トロントでのトロント・ラプターズ(Toronto Raptors)戦に34分出場し、フィールドゴール16本中9本・3ポイント3本中2本を沈めて25得点に加え、リバウンド14・ブロック2を記録した。両チーム通じてこの日の試合最多得点者となり、ウィザーズは103-99でラプターズに勝利した。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1059-giannis-antetokounmpo-27-points-bucks.html",
+    cat: "NBA",
+    title: "ヤニス・アデトクンボ、バックス戦で27得点14リバウンド9アシスト —— ヒートが137-130で勝利",
+    excerpt: "マイアミ・ヒート(Miami Heat)のヤニス・アデトクンボ(Giannis Antetokounmpo)は現地時間11月18日、本拠地マイアミでのミルウォーキー・バックス(Milwaukee Bucks)戦に32分出場し、フィールドゴール11本中7本・フリースロー16本中13本を沈めて27得点に加え、リバウンド14・アシスト9を記録した。両チーム通じてこの日の試合最多得点者となり、ヒートは137-130でバックスに勝利した。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "1058-lillard-giannis-advice-blazers.html",
+    cat: "NBA",
+    title: "リラード「隣の芝が青いとは限らない」—— アデトクンボへの助言を明かす、ブレイザーズで\"原点回帰\"",
+    excerpt: "ポートランド・トレイルブレイザーズ(Portland Trail Blazers)のデイミアン・リラード(Damian Lillard)は、ESPNのインタビューで、今年6月にマイアミ・ヒート(Miami Heat)へトレードされたヤニス・アデトクンボ(Giannis Antetokounmpo)に「隣の芝が青いとは限らない」と助言していたことを明かした。バックス退団からの2年間とアキレス腱断裂からの復帰を経て、原点ポートランドでの今の心境も語った。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1057-pascal-siakam-24-points-rockets.html",
     cat: "NBA",
     title: "パスカル・シアカム、ロケッツ戦で24得点 —— ペイサーズは104-119で敗戦",
