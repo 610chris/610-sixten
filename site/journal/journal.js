@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1079-dylan-harper-hip-strain.html",
+    cat: "NBA",
+    title: "スパーズのディラン・ハーパー、左股関節の損傷で離脱 —— 復帰まで1〜3週間、重傷は回避",
+    excerpt: "サンアントニオ・スパーズのディラン・ハーパーは、左股関節の筋損傷(hip rotator strain)と診断され、復帰まで1〜3週間を要する見通しとなった。重傷は回避したという。ESPNのシャムズ・シャラニア記者が現地時間19日に伝えた。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1078-kagawa-allstar-2027.html",
+    cat: "JAPAN",
+    title: "香川ファイブアローズから2選手、「B.LEAGUE ALL-STAR GAME WEEKEND 2027」出場決定 —— ジョーダン・スキッパーブラウンはダンクコンテストにも出場",
+    excerpt: "香川ファイブアローズは、ジョーダン・スキッパーブラウン選手(#7)と今林萌選手(#46)の2選手が「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」(2027年1月15日~17日・愛知IGアリーナ)への出場が決定したと11月19日発表した。スキッパーブラウンはダンクコンテストにも出場する。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-1078-hero.jpg?v=2a7c3af3fc"
+  },
+  {
     href: "1077-edwards-no-timetable-return.html",
     cat: "NBA",
     title: "アンソニー・エドワーズ「いつ戻れるか分からない」—— 右膝手術から3週間、ティンバーウルブズは11勝4敗で好調",
