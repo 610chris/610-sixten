@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T12:19:00+09:00",
+  "updated": "2026-11-19T12:29:57+09:00",
   "items": [
     {
       "id": "134",
@@ -34032,6 +34032,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "アンソニー・デイビス、ラプターズ戦で25得点14リバウンド\n\n・FG16本中9本で25得点、ブロック2\n・リバウンド14の活躍\n・ウィザーズが103-99でラプターズに勝利\n\n💬 ウィザーズ、デイビス加入でどこまで勝てる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1061",
+      "slug": "1061-shai-gilgeous-alexander-34-points-hawks",
+      "category": "NBA",
+      "date": "2026-11-19",
+      "headline": "シェイ・ギルジャス＝アレクサンダー、ホークス戦で34得点",
+      "excerpt": "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月18日、本拠地でのアトランタ・ホークス(Atlanta Hawks)戦に36分出場し、フィールドゴール29本中14本・3ポイント6本中1本・フリースロー10本中5本を沈めて34得点を記録した。両チーム通じてこの日の試合最多得点者となったが、サンダーは112-117でホークスに惜敗した。",
+      "points": [
+        "FG14/29・3P1/6・FT5/10で34得点",
+        "リバウンド5・アシスト3・スティール2・ブロック2",
+        "サンダーは112-117でホークスに惜敗"
+      ],
+      "source": "ESPN ボックススコア(Thunder vs. Hawks)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1061-shai-gilgeous-alexander-34-points-hawks.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "34得点も5点差で敗戦、サンダーは課題あり？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. HAWKS",
+        "points": 34,
+        "stats": [
+          "5 REB",
+          "3 AST",
+          "2 STL",
+          "2 BLK",
+          "14/29 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1061-1.jpg",
+        "https://sixten.jp/assets/ig/1061-2.jpg",
+        "https://sixten.jp/assets/ig/1061-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-19T12:29:19+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "シェイ・ギルジャス＝アレクサンダー、ホークス戦で34得点\n\n・FG14/29・3P1/6・FT5/10で34得点\n・リバウンド5・アシスト3・スティール2・ブロック2\n・サンダーは112-117でホークスに惜敗\n\n💬 34得点も5点差で敗戦、サンダーは課題あり？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Thunder vs. Hawks)\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1061-shai-gilgeous-alexander-34-points-hawks.html",
+    cat: "NBA",
+    title: "シェイ・ギルジャス＝アレクサンダー、ホークス戦で34得点 —— サンダーは112-117で惜敗",
+    excerpt: "オクラホマシティ・サンダーのシェイ・ギルジャス＝アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月18日、本拠地でのアトランタ・ホークス(Atlanta Hawks)戦に36分出場し、フィールドゴール29本中14本・3ポイント6本中1本・フリースロー10本中5本を沈めて34得点を記録した。両チーム通じてこの日の試合最多得点者となったが、サンダーは112-117でホークスに惜敗した。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1060-anthony-davis-25-points-raptors.html",
     cat: "NBA",
     title: "アンソニー・デイビス、ラプターズ戦で25得点14リバウンド —— ウィザーズが103-99で勝利",
