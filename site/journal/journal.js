@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1057-pascal-siakam-24-points-rockets.html",
+    cat: "NBA",
+    title: "パスカル・シアカム、ロケッツ戦で24得点 —— ペイサーズは104-119で敗戦",
+    excerpt: "インディアナ・ペイサーズ(Indiana Pacers)のパスカル・シアカム(Pascal Siakam)は現地時間11月18日、本拠地インディアナポリスでのヒューストン・ロケッツ(Houston Rockets)戦に33分出場し、フィールドゴール17本中10本・3ポイント2本中2本を沈めて24得点・スティール3を記録した。両チーム通じてこの日の試合最多得点者となったが、ペイサーズは104-119でロケッツに敗れた。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1056-matas-buzelis-25-points-nets.html",
+    cat: "NBA",
+    title: "マタス・ブゼリス、ネッツ戦で25得点 —— ブルズが137-107で快勝",
+    excerpt: "シカゴ・ブルズ(Chicago Bulls)のマタス・ブゼリス(Matas Buzelis)は現地時間11月18日、敵地ブルックリンでのブルックリン・ネッツ(Brooklyn Nets)戦に30分出場し、フィールドゴール16本中9本・3ポイント9本中5本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者となり、ブルズは137-107でネッツに大勝した。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1055-franz-wagner-27-points-76ers.html",
+    cat: "NBA",
+    title: "フランツ・バグナー、76ers戦で27得点11アシスト —— マジックは116-121で敗戦",
+    excerpt: "オーランド・マジック(Orlando Magic)のフランツ・バグナー(Franz Wagner)は現地時間11月18日、本拠地オーランドでのフィラデルフィア・76ers(Philadelphia 76ers)戦に36分出場し、フィールドゴール22本中12本・3ポイント6本中1本を沈めて27得点に加え、アシスト11・リバウンド8・スティール2・ブロック2を記録した。両チーム通じてこの日の試合最多得点者となったが、マジックは116-121で76ersに敗れた。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "1054-donovan-mitchell-34-points-grizzlies.html",
+    cat: "NBA",
+    title: "ドノバン・ミッチェル、グリズリーズ戦で34得点 —— キャバリアーズは121-124で敗戦",
+    excerpt: "クリーブランド・キャバリアーズ(Cleveland Cavaliers)のドノバン・ミッチェル(Donovan Mitchell)は現地時間11月18日、本拠地クリーブランドでのメンフィス・グリズリーズ(Memphis Grizzlies)戦に35分出場し、フィールドゴール27本中14本・3ポイント9本中2本・フリースロー4本中4本を沈めて34得点を記録した。両チーム通じてこの日の試合最多得点者となったが、キャバリアーズは121-124でグリズリーズに敗れた。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1053-gunma-crane-thunders-shimane-92-90.html",
     cat: "JAPAN",
     title: "群馬クレインサンダーズ、島根に92-90で逆転勝ち —— 15点差からの追い上げで8連勝、今季14勝4敗に",
