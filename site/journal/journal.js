@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1077-edwards-no-timetable-return.html",
+    cat: "NBA",
+    title: "アンソニー・エドワーズ「いつ戻れるか分からない」—— 右膝手術から3週間、ティンバーウルブズは11勝4敗で好調",
+    excerpt: "ミネソタ・ティンバーウルブズのアンソニー・エドワーズは現地時間19日、右膝の関節鏡手術からの復帰時期について「戻るつもりだが、いつになるかは分からない」と語った。ESPNのヴィンセント・グッドウィル記者が伝えた。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1076-doncic-usage-rate-lakers.html",
     cat: "NBA",
     title: "ドンチッチの使用率40.4%は歴代3位 —— レイカーズ13勝3敗の立役者に、ESPNがプレーオフの不安要素を検証",
