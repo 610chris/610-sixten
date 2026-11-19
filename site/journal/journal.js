@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1075-gunma-allstar-2027.html",
+    cat: "JAPAN",
+    title: "群馬クレインサンダーズから4選手、B.LEAGUE ALL-STAR GAME WEEKEND 2027出場決定 —— スタンリー・ジョンソンはファン投票で初選出",
+    excerpt: "群馬クレインサンダーズは、スタンリー・ジョンソン選手・エージェー・エドゥ選手・淺野ケニー選手・細川一輝選手の4選手が「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」(2027年1月15日~17日・愛知IGアリーナ)への出場が決定したと11月19日発表した。スタンリー・ジョンソン選手はファン投票で初選出された。",
+    date: "2026.11.19",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1074-ibaraki-allstar-2027.html",
     cat: "JAPAN",
     title: "茨城ロボッツから3選手、B.LEAGUE ALL-STAR GAME 2027出場決定 —— 吉井裕鷹はヴィック・ロー離脱でスターティング5へ",
