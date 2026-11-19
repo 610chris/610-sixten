@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1053-gunma-crane-thunders-shimane-92-90.html",
+    cat: "JAPAN",
+    title: "群馬クレインサンダーズ、島根に92-90で逆転勝ち —— 15点差からの追い上げで8連勝、今季14勝4敗に",
+    excerpt: "群馬クレインサンダーズは現地時間11月18日、本拠地オープンハウスアリーナ太田でのB.LEAGUE PREMIER 2026-27シーズンの一戦で島根スサノオマジックと対戦し、92-90で逆転勝ちした。試合序盤に最大15点のリードを許したが後半にかけて追い上げ、接戦を制して8連勝。シーズン成績を14勝4敗とした。",
+    date: "2026.11.18",
+    thumb: "../assets/journal-1053-hero.jpg?v=1ccb334eb0"
+  },
+  {
     href: "1052-heat-giannis-blueprint-analysis.html",
     cat: "NBA",
     title: "ヤニス加入のヒート、7戦6勝で急反発 —— ESPNが検証する「トレードの代償」とプレーオフでの現実味",
