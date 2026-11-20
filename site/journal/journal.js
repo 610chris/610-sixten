@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1090-brandon-ingram-clippers-debut.html",
+    cat: "NBA",
+    title: "クリッパーズのイングラム、11月23日のロケッツ戦でシーズン初出場へ —— アキレス腱手術から復帰",
+    excerpt: "LAクリッパーズ(LA Clippers)のブランドン・イングラム(Brandon Ingram)が、11月23日(月・現地時間)のヒューストン・ロケッツ(Houston Rockets)戦でチーム合流後初出場となるシーズンデビューを果たす見通しだと、ESPNが関係者の話として伝えた。5月に受けたアキレス腱部分断裂の修復手術からの復帰になる。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1089-slam-nike-ja-4.html",
     cat: "KICKS",
     title: "SLAM Magazine × Nike Ja 4(品番IZ2539-001) —— 初の実店舗オープンを記念したコラボ発売",
