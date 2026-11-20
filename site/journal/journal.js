@@ -3,6 +3,46 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1085-jaylen-wells-22-points-warriors.html",
+    cat: "NBA",
+    title: "ジェイレン・ウェルズ、ウォリアーズ戦で22得点 —— グリズリーズが126-98で快勝",
+    excerpt: "メンフィス・グリズリーズ(Memphis Grizzlies)のジェイレン・ウェルズ(Jaylen Wells)は現地時間11月19日、本拠地メンフィスでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に24分出場し、フィールドゴール10本中8本・3ポイント5本中4本・フリースロー2本中2本を沈めて22得点に加え、リバウンド7を記録した。両チーム通じてこの日の試合最多得点者となり、グリズリーズは126-98でウォリアーズに快勝した。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "1084-jonathan-kuminga-23-points-knicks.html",
+    cat: "NBA",
+    title: "ジョナサン・クミンガ、ニックス戦で23得点 —— ティンバーウルブズは99-102で惜敗",
+    excerpt: "ミネソタ・ティンバーウルブズ(Minnesota Timberwolves)のジョナサン・クミンガ(Jonathan Kuminga)は現地時間11月19日、本拠地ミネアポリスでのニューヨーク・ニックス(New York Knicks)戦に35分出場し、フィールドゴール13本中7本・3ポイント4本中2本・フリースロー7本中7本を沈めて23得点に加え、ブロック3を記録した。両チーム通じてこの日の試合最多得点者となったが、ティンバーウルブズは99-102でニックスに惜敗した。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1083-victor-wembanyama-32-points-clippers.html",
+    cat: "NBA",
+    title: "ビクター・ウェンバンヤマ、クリッパーズ戦で32得点11リバウンド —— スパーズが124-112で勝利",
+    excerpt: "サンアントニオ・スパーズ(San Antonio Spurs)のビクター・ウェンバンヤマ(Victor Wembanyama)は現地時間11月19日、本拠地サンアントニオでのLAクリッパーズ(LA Clippers)戦に33分出場し、フィールドゴール26本中13本・3ポイント7本中2本・フリースロー4本中4本を沈めて32得点に加え、リバウンド11・アシスト3・ブロック1を記録した。両チーム通じてこの日の試合最多得点者となり、スパーズは124-112でクリッパーズに勝利した。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "1082-damian-lillard-33-points-bucks.html",
+    cat: "NBA",
+    title: "デイミアン・リラード、バックス戦で33得点 —— ブレイザーズが124-114で勝利",
+    excerpt: "ポートランド・トレイルブレイザーズ(Portland Trail Blazers)のデイミアン・リラード(Damian Lillard)は現地時間11月19日、敵地ミルウォーキーでのミルウォーキー・バックス(Milwaukee Bucks)戦に35分出場し、フィールドゴール18本中10本・3ポイント12本中5本・フリースロー9本中8本を沈めて33得点を記録した。両チーム通じてこの日の試合最多得点者となり、ブレイザーズは124-114でバックスに勝利した。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1081-rui-hachimura-17-points-spurs.html",
+    cat: "NBA",
+    title: "八村塁、スパーズ戦で17得点7リバウンド —— クリッパーズは112-124で敗戦",
+    excerpt: "LAクリッパーズ(LA Clippers)の八村塁(Rui Hachimura)は現地時間11月19日、敵地サンアントニオでのサンアントニオ・スパーズ(San Antonio Spurs)戦に32分出場し、フィールドゴール13本中7本・3ポイント4本中2本・フリースロー1本中1本を沈めて17得点に加え、リバウンド7・アシスト2を記録した。クリッパーズは112-124でスパーズに敗れた。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1080-jordan-triangle-pf-rui-rising.html",
     cat: "KICKS",
     title: "Jordan Triangle PF「Rui Rising」が登場 —— 八村塁のシグネチャーカラー、麻の葉・青海波を纏う",

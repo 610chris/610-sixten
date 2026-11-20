@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T12:28:38+09:00",
+  "updated": "2026-11-20T12:39:42+09:00",
   "items": [
     {
       "id": "134",
@@ -34812,6 +34812,236 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Jordan Triangle PF「Rui Rising」が登場\n\n・八村塁コラボの新シグネチャーカラー\n・麻の葉・青海波・花文様を刺繍で表現\n・価格19,800円(税込)で近日発売\n\n💬 このシグネチャーカラー、買う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: HYPEBEAST JP\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "1081",
+      "slug": "1081-rui-hachimura-17-points-spurs",
+      "category": "NBA",
+      "date": "2026-11-20",
+      "headline": "八村塁、スパーズ戦で17得点7リバウンド",
+      "excerpt": "LAクリッパーズ(LA Clippers)の八村塁(Rui Hachimura)は現地時間11月19日、敵地サンアントニオでのサンアントニオ・スパーズ(San Antonio Spurs)戦に32分出場し、フィールドゴール13本中7本・3ポイント4本中2本・フリースロー1本中1本を沈めて17得点に加え、リバウンド7・アシスト2を記録した。クリッパーズは112-124でスパーズに敗れた。",
+      "points": [
+        "FG13本中7本・3P4本中2本・FT1本中1本",
+        "リバウンド7・アシスト2も記録",
+        "クリッパーズは112-124で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1081-rui-hachimura-17-points-spurs.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "次の試合、クリッパーズは巻き返せる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. SPURS",
+        "points": 17,
+        "stats": [
+          "7 REB",
+          "2 AST",
+          "7/13 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1081-1.jpg",
+        "https://sixten.jp/assets/ig/1081-2.jpg",
+        "https://sixten.jp/assets/ig/1081-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-20T12:38:54+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、スパーズ戦で17得点7リバウンド\n\n・FG13本中7本・3P4本中2本・FT1本中1本\n・リバウンド7・アシスト2も記録\n・クリッパーズは112-124で敗戦\n\n💬 次の試合、クリッパーズは巻き返せる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1082",
+      "slug": "1082-damian-lillard-33-points-bucks",
+      "category": "NBA",
+      "date": "2026-11-20",
+      "headline": "デイミアン・リラード、バックス戦で33得点",
+      "excerpt": "ポートランド・トレイルブレイザーズ(Portland Trail Blazers)のデイミアン・リラード(Damian Lillard)は現地時間11月19日、敵地ミルウォーキーでのミルウォーキー・バックス(Milwaukee Bucks)戦に35分出場し、フィールドゴール18本中10本・3ポイント12本中5本・フリースロー9本中8本を沈めて33得点を記録した。両チーム通じてこの日の試合最多得点者となり、ブレイザーズは124-114でバックスに勝利した。",
+      "points": [
+        "FG18本中10本・3P12本中5本・FT9本中8本",
+        "両チーム最多の33得点",
+        "ブレイザーズが124-114で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1082-damian-lillard-33-points-bucks.html",
+      "hero_path": "",
+      "subject": [
+        "Damian Lillard"
+      ],
+      "question": "今季のリラード、全盛期並み？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DAMIAN LILLARD",
+        "opponent": "vs. BUCKS",
+        "points": 33,
+        "stats": [
+          "6 REB",
+          "10/18 FG",
+          "5/12 3PT",
+          "8/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1082-1.jpg",
+        "https://sixten.jp/assets/ig/1082-2.jpg",
+        "https://sixten.jp/assets/ig/1082-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-20T12:38:54+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デイミアン・リラード、バックス戦で33得点\n\n・FG18本中10本・3P12本中5本・FT9本中8本\n・両チーム最多の33得点\n・ブレイザーズが124-114で勝利\n\n💬 今季のリラード、全盛期並み？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1083",
+      "slug": "1083-victor-wembanyama-32-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-20",
+      "headline": "ビクター・ウェンバンヤマ、クリッパーズ戦で32得点11リバウンド",
+      "excerpt": "サンアントニオ・スパーズ(San Antonio Spurs)のビクター・ウェンバンヤマ(Victor Wembanyama)は現地時間11月19日、本拠地サンアントニオでのLAクリッパーズ(LA Clippers)戦に33分出場し、フィールドゴール26本中13本・3ポイント7本中2本・フリースロー4本中4本を沈めて32得点に加え、リバウンド11・アシスト3・ブロック1を記録した。両チーム通じてこの日の試合最多得点者となり、スパーズは124-112でクリッパーズに勝利した。",
+      "points": [
+        "FG26本中13本・3P7本中2本・FT4本中4本",
+        "リバウンド11・ブロック1も記録",
+        "スパーズが124-112で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1083-victor-wembanyama-32-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Victor Wembanyama"
+      ],
+      "question": "ウェンバンヤマ、今季のMVP候補にどこまで迫る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "VICTOR WEMBANYAMA",
+        "opponent": "vs. CLIPPERS",
+        "points": 32,
+        "stats": [
+          "11 REB",
+          "3 AST",
+          "13/26 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1083-1.jpg",
+        "https://sixten.jp/assets/ig/1083-2.jpg",
+        "https://sixten.jp/assets/ig/1083-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-20T12:38:54+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ビクター・ウェンバンヤマ、クリッパーズ戦で32得点11リバウンド\n\n・FG26本中13本・3P7本中2本・FT4本中4本\n・リバウンド11・ブロック1も記録\n・スパーズが124-112で勝利\n\n💬 ウェンバンヤマ、今季のMVP候補にどこまで迫る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1084",
+      "slug": "1084-jonathan-kuminga-23-points-knicks",
+      "category": "NBA",
+      "date": "2026-11-20",
+      "headline": "ジョナサン・クミンガ、ニックス戦で23得点",
+      "excerpt": "ミネソタ・ティンバーウルブズ(Minnesota Timberwolves)のジョナサン・クミンガ(Jonathan Kuminga)は現地時間11月19日、本拠地ミネアポリスでのニューヨーク・ニックス(New York Knicks)戦に35分出場し、フィールドゴール13本中7本・3ポイント4本中2本・フリースロー7本中7本を沈めて23得点に加え、ブロック3を記録した。両チーム通じてこの日の試合最多得点者となったが、ティンバーウルブズは99-102でニックスに惜敗した。",
+      "points": [
+        "FG13本中7本・3P4本中2本・FT7本中7本",
+        "ブロック3も記録",
+        "ティンバーウルブズは99-102で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1084-jonathan-kuminga-23-points-knicks.html",
+      "hero_path": "",
+      "subject": [
+        "Jonathan Kuminga"
+      ],
+      "question": "クミンガ、ティンバーウルブズでの新天地どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JONATHAN KUMINGA",
+        "opponent": "vs. KNICKS",
+        "points": 23,
+        "stats": [
+          "3 REB",
+          "3 AST",
+          "3 BLK",
+          "7/13 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1084-1.jpg",
+        "https://sixten.jp/assets/ig/1084-2.jpg",
+        "https://sixten.jp/assets/ig/1084-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-20T12:38:55+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョナサン・クミンガ、ニックス戦で23得点\n\n・FG13本中7本・3P4本中2本・FT7本中7本\n・ブロック3も記録\n・ティンバーウルブズは99-102で惜敗\n\n💬 クミンガ、ティンバーウルブズでの新天地どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1085",
+      "slug": "1085-jaylen-wells-22-points-warriors",
+      "category": "NBA",
+      "date": "2026-11-20",
+      "headline": "ジェイレン・ウェルズ、ウォリアーズ戦で22得点",
+      "excerpt": "メンフィス・グリズリーズ(Memphis Grizzlies)のジェイレン・ウェルズ(Jaylen Wells)は現地時間11月19日、本拠地メンフィスでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に24分出場し、フィールドゴール10本中8本・3ポイント5本中4本・フリースロー2本中2本を沈めて22得点に加え、リバウンド7を記録した。両チーム通じてこの日の試合最多得点者となり、グリズリーズは126-98でウォリアーズに快勝した。",
+      "points": [
+        "FG10本中8本・3P5本中4本",
+        "リバウンド7も記録",
+        "グリズリーズが126-98で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1085-jaylen-wells-22-points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Jaylen Wells"
+      ],
+      "question": "グリズリーズ、この勢い続く？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYLEN WELLS",
+        "opponent": "vs. WARRIORS",
+        "points": 22,
+        "stats": [
+          "7 REB",
+          "8/10 FG",
+          "4/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1085-1.jpg",
+        "https://sixten.jp/assets/ig/1085-2.jpg",
+        "https://sixten.jp/assets/ig/1085-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-20T12:38:55+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ウェルズ、ウォリアーズ戦で22得点\n\n・FG10本中8本・3P5本中4本\n・リバウンド7も記録\n・グリズリーズが126-98で快勝\n\n💬 グリズリーズ、この勢い続く？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
