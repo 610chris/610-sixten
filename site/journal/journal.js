@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1089-slam-nike-ja-4.html",
+    cat: "KICKS",
+    title: "SLAM Magazine × Nike Ja 4(品番IZ2539-001) —— 初の実店舗オープンを記念したコラボ発売",
+    excerpt: "Sneaker Newsは現地時間11月20日、バスケットボール専門誌「SLAM Magazine」が初の実店舗オープンを記念して、ジャ・モラントの4代目シグネチャー「Nike Ja 4」とのコラボレーションモデル(品番IZ2539-001)を発売したと伝えた。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1088-one-piece-nike-gt-cut-4.html",
+    cat: "KICKS",
+    title: "『ONE PIECE』× Nike Zoom GT Cut 4が登場 —— ロケッツのアメン・トンプソン、ピストンズのオーサー・トンプソン兄弟が着用",
+    excerpt: "Sneaker Newsは現地時間11月20日、人気アニメ『ONE PIECE』とのコラボレーションを纏った「Nike Zoom GT Cut 4」を、双子のNBA選手アメン・トンプソン(Houston Rockets)とオーサー・トンプソン(Detroit Pistons)が着用してデビューさせたと伝えた。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1087-fred-vanvleet-rockets-feature.html",
     cat: "NBA",
     title: "フレッド・バンヴリート、ACL負傷から「新しい自分」へ —— ロケッツ12勝4敗を導く相棒",

@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sixten.jp/</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
-  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-11-20</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://sixten.jp/journal/</loc><lastmod>2026-11-21</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
   <url><loc>https://sixten.jp/journal/japan/</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
-  <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-11-20</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://sixten.jp/journal/kicks/</loc><lastmod>2026-11-21</lastmod><changefreq>daily</changefreq><priority>0.9</priority></url>
   <url><loc>https://sixten.jp/journal/projects/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://sixten.jp/journal/1089-slam-nike-ja-4.html</loc><lastmod>2026-11-21T05:41:48+09:00</lastmod><priority>0.8</priority></url>
+  <url><loc>https://sixten.jp/journal/1088-one-piece-nike-gt-cut-4.html</loc><lastmod>2026-11-21T05:41:48+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/1087-fred-vanvleet-rockets-feature.html</loc><lastmod>2026-11-20T22:40:05+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/1086-mikawa-allstar-2027.html</loc><lastmod>2026-11-20T12:53:00+09:00</lastmod><priority>0.8</priority></url>
   <url><loc>https://sixten.jp/journal/1085-jaylen-wells-22-points-warriors.html</loc><lastmod>2026-11-20T12:37:51+09:00</lastmod><priority>0.8</priority></url>
