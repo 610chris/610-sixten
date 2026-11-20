@@ -1,8 +1,155 @@
 {
- "updated_utc": "2026-11-19 22:24 UTC",
+ "updated_utc": "2026-11-20 03:41 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261119",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261119",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261119",
+   "title": "Warriors Suffer 28-Point Loss to Grizzlies, Finish 0–5 Road Trip",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-20T03:37:04Z",
+   "tags": [],
+   "summary": "The Warriors concluded a winless road trip with a 126-98 loss to the Memphis Grizzlies at FedExForum on Thursday. The Warriors' momentum from their eight-game winning streak, which included a 6-0 home stand, came to a screeching halt as they dropped five straight road games, beginning with Stephen Curry’s right oblique abdominal tear against the Houston Rockets. The Dubs have sorely missed the top…",
+   "facts": [
+    "The Warriors concluded a winless road trip with a 126-98 loss to the Memphis Grizzlies at FedExForum on Thursday.",
+    "The Warriors' momentum from their eight-game winning streak, which included a 6-0 home stand, came to a screeching halt as they dropped five straight road games, beginning with Stephen Curry’s right oblique abdominal tea…",
+    "The Dubs have sorely missed the top 3-point shooter in NBA history, making just five of their 29 3-point attempts and being outscored by 30 points from behind the arc in Thursday’s loss.",
+    "Charles Bassey paced the Warriors with 16 points, 13 rebounds and two blocks.",
+    "Brandin Podziemski and Will Richard both added 15 points.",
+    "Grizzlies wing Jaylen Wells led all scorers with 22 points and four 3-pointers on 8-for-10 shooting in 24 minutes.",
+    "BASSEY’S DOUBLE-DOUBLE Charles Bassey was aggressive from the opening tip, scoring nine points on 4-for-5 shooting and grabbing five rebounds in seven first-quarter minutes.",
+    "He also had a 3-point play, finishing through a congested paint and sank a floater from just inside the foul line for his final basket of the frame."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-brooklyn-nets-game-preview-injury-report-20261120",
+   "url": "https://www.nba.com/magic/news/orlando-magic-brooklyn-nets-game-preview-injury-report-20261120",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-brooklyn-nets-game-preview-injury-report-20261120",
+   "title": "Orlando Magic at Brooklyn Nets: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-20T00:13:45Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Much like the wind, momentum can shift quickly in the NBA.",
+   "facts": [
+    "Heading into their most recent matchup with the Philadelphia 76ers, the Orlando Magic were riding a four-game winning streak, including a statement road win over the Boston Celtics, who were previously undefeated at home…",
+    "Now, the Magic (6-8) will attempt to get back on track when they visit the Brooklyn Nets (3-11) on Friday at 7:30 p.m.",
+    "Brooklyn has knocked down the eighth most 3-pointers (14.5) per contest in the NBA this season and attempted the fifth most free throws (28.0).",
+    "Brooklyn leads the league with 11.3 catch-and-shoot triples made per game.",
+    "They’re also atop the association in points per game off dribble-handoffs (12.9).",
+    "Michael Porter Jr. leads the NBA in that category with 5.8 points per contest off handoffs, which would also be the highest single-season rate in league history.",
+    "IN AND OUT: Paolo Banchero (illness / right high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery) and Noah Penda (right partially torn hamstring) are out for Orland…",
+    "For Brooklyn, Grant Nelson (right ankle sprain) is out."
+   ],
+   "quotes": [
+    "(We’re) headed back out on the road,",
+    "This (loss) didn’t kill no momentum, but it was a tough one to drop.",
+    "It’s definitely going to be a little weird,",
+    "We’ve obviously played in practice against each other. But I look at it as a huge blessing to be able to share the court together at this level. I’m really happy for him in the situation that he’s in.…"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/osceola-magic-defensive-identity-leading-to-early-season-success-much-like-orlando-20261119",
+   "url": "https://www.nba.com/magic/news/osceola-magic-defensive-identity-leading-to-early-season-success-much-like-orlando-20261119",
+   "canonical_url": "https://orlandomagic.com/news/osceola-magic-defensive-identity-leading-to-early-season-success-much-like-orlando-20261119",
+   "title": "Much Like In Orlando, Osceola Magic’s Defensive Identity Leading to Early Season Success",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-20T00:01:30Z",
+   "tags": [
+    "Latest News",
+    "Osceola Magic",
+    "Team News"
+   ],
+   "summary": "OSCEOLA – Over the course of their last five games, the Orlando Magic have re-established their defensive identity.",
+   "facts": [
+    "Through the first four games of the G League’s Tip-Off Tournament, the Osceola Magic boasted the league’s top defensive rating (89.8) and went a perfect 4-0 over that span.",
+    "His effort down in Osceola helped him earn a two-way contract for Orlando on Feb. 17, 2026, which he’s made the most of.",
+    "Morales got his first NBA start for Orlando last week against Utah and helped the Magic earn a 123-108 road win over the Jazz in that outing.",
+    "When you’re in that two-way situation, you know how hard it can be.",
+    "While he’s only appeared in one outing for Osceola, he quickly noticed how it also thrives off of takeaways – Osceola leads the G League with 14.0 steals per game – and generating offense in transition."
+   ],
+   "quotes": [
+    "It starts with our ball pressure. High steal rate, turnover rate, playing physical and with multiple efforts.",
+    "(We’re trying to carry over) almost all of them,",
+    "Technically, we do the same things. Some things we do custom to our style and our roster a bit. But the one thing that I’ve carried from (my time in Orlando) is the old-school grit and principles with…",
+    "We do a good job of trying to mimic some of the stuff that we do up top,"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-return-home-to-host-phoenix-suns-in-nba-cup-action",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-return-home-to-host-phoenix-suns-in-nba-cup-action",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-return-home-to-host-phoenix-suns-in-nba-cup-action",
+   "title": "Preview: Utah Jazz Return Home to Host Phoenix Suns in NBA Cup Action",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-19T23:05:39Z",
+   "tags": [
+    "Keyonte George",
+    "Utah Jazz"
+   ],
+   "summary": "The Utah Jazz have returned home with some momentum.",
+   "facts": [
+    "The Utah Jazz have returned home with some momentum.",
+    "Utah’s most recent win was a 109-97 affair against the Lakers, who owned the league’s top-ranked offense going into Wednesday’s contest.",
+    "However, led by Josh Green and Josh Okogie, the Jazz made life difficult for Luka Dončić throughout the night (10-of-28 shooting with nine turnovers) and held Los Angeles to just 97 points.",
+    "The Lakers only shot 38-percent from the field and turned it over 18 times, which helped Utah’s offense.",
+    "Meanwhile, on the other end of the floor, Keyonte George delivered a second consecutive 30-point double-double, effectively balancing his scoring and playmaking to drive Utah’s third win of the season.",
+    "The Jazz now return home to the Delta Center for an NBA Cup matchup against the Phoenix Suns.",
+    "Phoenix (7-7) has righted the ship, having gone 6-2 after a disappointing 1-5 start to the new season.",
+    "The Suns are certainly relying on offense to win games, ranking ninth in offensive rating and just 25th in defensive rating as of Thursday morning."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-thunder-injury-report-game-preview-11-20-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-thunder-injury-report-game-preview-11-20-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-thunder-injury-report-game-preview-11-20-2026",
+   "title": "Pelicans vs. Thunder: Injury Report, Game Preview 11/20/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-11-19T22:32:13Z",
+   "tags": [],
+   "summary": "The Pelicans continue NBA Cup group play games with a visit to the Oklahoma City Thunder on Friday at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans continue NBA Cup group play games with a visit to the Oklahoma City Thunder on Friday at 7:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Thunder injury report, team news, tune in details, and gameday information: PELICANS VS THUNDER INJURY UPDATE PELICANS INJURY REPORT Malik Dia OUT (G League two-way) Bennedict Mathurin OUT (left p…",
+    "PROBABLE (G League two-way) THUNDER INJURY REPORT Chet Holmgren OUT (right knee injury recovery) Thomas Sorber OUT (right knee surgery) Nikola Topic OUT (left hip strain) Cason Wallace OUT (left shoulder surgery) Jalen W…",
+    "Atlanta Hawks Ajay Mitchell, Aday Mara, Isaiah Hartenstein, Jared McCain, Shai Gilgeous-Alexander NEW ORLEANS PELICANS (5-11) Previous Game Lineup: November 18 loss vs.",
+    "Pistons Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 20 at 7:00 pm CT🏟️ Location: Paycom Center in Oklahoma City, OK🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Thunder TV: KSBI OKC📻 Thunder…"
+   ],
+   "quotes": []
+  },
   {
    "source": "LAC 公式（nba.com）",
    "team": "LAC",
@@ -1771,209 +1918,6 @@
     "That was a J. Suggs game right there,",
     "Offensive rebounds, blocking shots, getting in the paint, knocked down a couple big threes. That’s him. He’s a winning player. You can plug him in with any lineup and he’s going to find a way to impac…"
    ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/pelicans-115-warriors-94-jeremiah-fears-19-10-10-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/pelicans-115-warriors-94-jeremiah-fears-19-10-10-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/pelicans-115-warriors-94-jeremiah-fears-19-10-10-postgame-wrap",
-   "title": "Pelicans 115, Warriors 94: Jeremiah Fears 19-10-10 | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-17T03:35:41Z",
-   "tags": [],
-   "summary": "After losing to Golden State by a franchise-record 51-point margin a week ago, New Orleans had a resounding response in store for the Warriors on Monday. The host Pelicans immediately pounced on Golden State, preventing their guests from scoring a basket for the first seven-plus minutes of the Western Conference matchup, building 23-2 and 35-11 leads in the opening quarter.",
-   "facts": [
-    "After losing to Golden State by a franchise-record 51-point margin a week ago, New Orleans had a resounding response in store for the Warriors on Monday.",
-    "The host Pelicans immediately pounced on Golden State, preventing their guests from scoring a basket for the first seven-plus minutes of the Western Conference matchup, building 23-2 and 35-11 leads in the opening quarte…",
-    "Saddiq Bey (23 points) was nearly perfect shooting-wise in the first half as New Orleans went in front by 25 points – the Pelicans had trailed by 29 at halftime in San Francisco on Nov. 9 – while second-year point guard …",
-    "By that stage, it was New Orleans 93-65.",
-    "Fears said the number \"50\" was written on a board in the locker room prior to Monday's game, with all of New Orleans' players realizing that was a reference to the previous meeting with Golden State.",
-    "Golden State was just 11/46. 3: Pelicans players with double-digit rebounds.",
-    "Yves Missi led the squad with 14 boards, while Fears and Derik Queen grabbed 10 apiece. 10: Pelicans steals, topped by three apiece from Herb Jones and Missi.",
-    "Mistake-laden Golden State (16 turnovers) was sloppy with the ball from the get-go, throwing errant passes that were picked off or went out of bounds."
-   ],
-   "quotes": [
-    " was written on a board in the locker room prior to Monday's game, with all of New Orleans' players realizing that was a reference to the previous meeting with Golden State. ",
-    " Pelicans head coach Jamahl Mosley said of the Warriors. "
-   ]
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-recap-20261116",
-   "url": "https://www.nba.com/warriors/news/gameday-recap-20261116",
-   "canonical_url": "https://warriors.com/news/gameday-recap-20261116",
-   "title": "Warriors Drop Road Game to Pelicans; Yaxel Lendeborg Scores Game-High 28 Points",
-   "author": "Tyler Savitsky",
-   "published_utc": "2026-11-17T03:34:31Z",
-   "tags": [],
-   "summary": "The Golden State Warriors fell 115-94 against the New Orleans Pelicans at Smoothie King Center on Monday night, dropping their third consecutive game.",
-   "facts": [
-    "The Golden State Warriors fell 115-94 against the New Orleans Pelicans at Smoothie King Center on Monday night, dropping their third consecutive game.",
-    "Jeremiah Fears recorded his first career triple-double for the Pelicans, finishing the game with 19 points, 10 rebounds and 10 assists.",
-    "Saddiq Bey scored a team-high 23 points for the Pelicans, and was one of six players to score in double figures.",
-    "Yaxel Lendeborg scored a game-high 28 points, while Brandin Podziemski added 15 points.",
-    "YAXEL LEADS THE OFFENSE Yaxel Lendeborg scored 20 of his 28 points in the second half for the Dubs.",
-    "FALLING BEHIND EARLY On Friday night against the Spurs, the Warriors gave up the first 18 points of the game to face a steep deficit early in the first quarter.",
-    "Monday was a similar, with the Warriors falling behind 23-2 to open the game.",
-    "The Warriors missed their first 11 shots of the contest until a De'Anthony Melton 3-pointer with 4:13 remaining in the first quarter."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
-   "title": "Preview: Utah Jazz Begin Back-to-Back Against LA Clippers",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-17T00:28:05Z",
-   "tags": [
-    "Mo Bamba",
-    "Utah Jazz"
-   ],
-   "summary": "The Utah Jazz continue to search for consistency.",
-   "facts": [
-    "Despite 17 made 3-pointers (including six from Mo Bamba, who scored 26 points in 36 minutes), Utah turned it over five times in the fourth quarter and surrendered 29 fast break points to the visiting Spurs.",
-    "San Antonio was led by 57 combined points from Victor Wembanyama and Dylan Harper.",
-    "The Clippers (4-8) have won two in a row and enter Tuesday’s game with momentum.",
-    "After an eventful offseason that saw Kawhi Leonard depart in a trade for the Toronto Raptors, LA is led by a group of veterans fighting for Play-In positioning in the Western Conference.",
-    "Darius Garland leads the Clippers offense (21.3 points and 6.9 assists per game), but LA has a balanced scoring attack that features five players averaging double-figures.",
-    "Jazz injury report: OUT - Kobe Bufkin (G League - Two-Way), Jaxson Hayes (Left Knee Strain), Harrison Ingram (G League - Two-Way), Jaren Jackson (Right Knee; MCL Tear), Lauri Markkanen (Right Hand Fracture), Jusuf Nurkić…",
-    "For LA, a high turnover percentage (17.6 percent, 28th in the league) has held the team’s offense back, despite ranking eighth in 55.5 effective field-goal percentage.",
-    "On the defensive end, the Clippers have had success in creating turnovers from opponents, ranking 11th in opponent turnover percentage."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ATL 公式（nba.com）",
-   "team": "ATL",
-   "team_ja": "ホークス",
-   "team_id": 1610612737,
-   "kind": "feature",
-   "key": "https://www.nba.com/hawks/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
-   "url": "https://www.nba.com/hawks/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
-   "canonical_url": "https://hawks.com/news/hawks-and-atlanta-tipoff-club-unveil-premier-six-game-slate-for-seventh-annual-hawks-naismith-tipoff-classic-on-saturday-nov-21",
-   "title": "Hawks and Atlanta Tipoff Club Unveil Premier Six-Game Slate for Seventh Annual ‘Hawks-Naismith Tipoff Classic’ on Saturday, Nov. 21",
-   "author": "Atlanta Hawks",
-   "published_utc": "2026-11-16T23:48:12Z",
-   "tags": [
-    "Atlanta Hawks",
-    "community",
-    "community-primary",
-    "Naismith tipoff classic"
-   ],
-   "summary": "12 High School Basketball Programs to Showcase Georgia’s Top Emerging Talent; Tickets Available Now at HawksNaismith.com",
-   "facts": [
-    "12 High School Basketball Programs to Showcase Georgia’s Top Emerging Talent; Tickets Available Now at HawksNaismith.com ATLANTA – The Atlanta Hawks Basketball Academy and the Atlanta Tipoff Club, administrators of the n…",
-    "The boys slate begins at 3:20 p.m. as Hillgrove High School (Powder Springs, Ga.) battles Cross Creek High School (Augusta, Ga.), followed by Decatur High School (Decatur, Ga.) versus Holy Innocents’ Episcopal School at …",
-    "Gainesville High School (Gainesville, Ga.) and Pace Academy (Atlanta) will meet at 6:40 p.m., before Wheeler High School (Marietta, Ga.) and McEachern High School (Powder Springs, Ga.) close out the showcase at 8:20 p.m.",
-    "Hawks Youth Basketball Clinic, welcoming 100 boys and girls, ages eight to 15, for focused instruction on enhancing core basketball fundamentals.",
-    "Additionally, Nugent will continue his Score for Scholarships initiative by contributing $1 to the Atlanta Hawks Foundation for every point scored throughout the six-game showcase, with all proceeds directly funding yout…",
-    "The tradition will continue Saturday, Dec. 12, with the Hawks-Naismith Holiday Classic at Norcross High School, featuring 12 teams, with matchups and schedule details to be announced in early December."
-   ],
-   "quotes": [
-    "Our Hawks-Naismith Tipoff Classic is an opportunity to bring the basketball community together and give fans the chance to experience some of the best high school competition Georgia has to offer,",
-    "We remain committed to creating events that connect fans with the game at every level, and we look forward to welcoming the participating teams, their families, and basketball fans for another year of…",
-    "This event has become the unofficial start of the high school season in Atlanta, and this year’s field includes more than 25 players from our Metro Atlanta preseason watch list,",
-    "Seven years into our partnership with the Hawks, it’s still one of our favorite days on the calendar, because fans get an early look at the players who will define the season, and the families get to …"
-   ]
-  },
-  {
-   "source": "ATL 公式（nba.com）",
-   "team": "ATL",
-   "team_ja": "ホークス",
-   "team_id": 1610612737,
-   "kind": "roster",
-   "key": "https://www.nba.com/hawks/news/atlanta-hawks-sign-rafael-castro-to-a-two-way-contract",
-   "url": "https://www.nba.com/hawks/news/atlanta-hawks-sign-rafael-castro-to-a-two-way-contract",
-   "canonical_url": "https://hawks.com/news/atlanta-hawks-sign-rafael-castro-to-a-two-way-contract",
-   "title": "Atlanta Hawks Sign Rafael Castro to a Two-Way Contract",
-   "author": "Atlanta Hawks",
-   "published_utc": "2026-11-16T23:41:12Z",
-   "tags": [
-    "Atlanta Hawks",
-    "College Park Skyhawks",
-    "Rafael castro"
-   ],
-   "summary": "ATLANTA – The Atlanta Hawks have signed center Rafael Castro (RAH-fi-ell) to a two-way contract, the team announced today.",
-   "facts": [
-    "ATLANTA – The Atlanta Hawks have signed center Rafael Castro (RAH-fi-ell) to a two-way contract, the team announced today.",
-    "Castro has appeared in five games with the Mexico City Capitanes of the NBA G League this season, averaging 11.8 points, 8.0 rebounds, and 1.2 steals in 21.0 minutes (.615 FG%).",
-    "He was signed to a two-way contract by the Houston Rockets on Aug. 26, 2026, before being waived and signed by the Los Angeles Lakers on Oct. 9.",
-    "He was waived by the Lakers on Oct. 17, after appearing in two preseason games with the team.",
-    "The 6-10 center saw action in 123 games (64 starts) across four collegiate seasons, suiting up for Providence (2022-24) and George Washington (2024-26), owning averages of 8.7 points, 5.7 rebounds, 1.0 assist, and 1.0 bl…",
-    "A two-time Atlantic 10 All-Defensive Team selection and a finalist for the 2025-26 Lefty Driesell National Defensive Player of the Year Award, Castro averaged career highs in points (15.3), rebounds (9.1), steals (1.8), …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/flaggs-growing-leadership-skills-will-be-helpful-in-reversing-recent-trend",
-   "url": "https://www.nba.com/mavs/news/flaggs-growing-leadership-skills-will-be-helpful-in-reversing-recent-trend",
-   "canonical_url": "https://mavs.com/mavs/news/flaggs-growing-leadership-skills-will-be-helpful-in-reversing-recent-trend",
-   "title": "Flagg's growing leadership skills will be helpful in reversing recent trend",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-16T22:31:53Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "Cooper Flagg had a strong message after the Mavericks’ lousy 0-3 trip, although it’s unclear if he was talking to his teammates, fans or himself.",
-   "facts": [
-    "Cooper Flagg had a strong message after the Mavericks’ lousy 0-3 trip, although it’s unclear if he was talking to his teammates, fans or himself.",
-    "Now, he’s got a little more talent around him, a whole new system in place and, still at the tender age of 19, he’s acting like a leader for the franchise.",
-    "They had a three-game winning streak at home to get to 7-4, then flopped on the road at Minnesota, Cleveland and Boston.",
-    "At halftime, they were behind by 15 at Minnesota, by 18 at Cleveland (with the Cavaliers resting all their starters) and by 30 points at Boston on Sunday.",
-    "That was after he came off the 43-point, 10-rebound, 6-assist game against Indiana in the final game of the home stand.",
-    "On the trip, he averaged just 2 points and 3.3 rebounds while playing about 18 minutes per game.",
-    "He made just one of 16 field goal attempts in the three games."
-   ],
-   "quotes": [
-    "We had a lot of guys playing at a really high level (during three-game win streak before the trip),",
-    "This road trip was not to our standard and we got to correct it. And turn the page quick and get back to (playing) good ball. I need to step up and be a lot better.",
-    "He’s a good communicator,",
-    "He always says small things. He’s a good leader. And the way he plays also makes you want to follow him. He’s got the voice, but also the energy to put everybody on his back. When you see him making p…"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-waive-trey-alexander",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-waive-trey-alexander",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-waive-trey-alexander",
-   "title": "Utah Jazz Waive Trey Alexander",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-16T22:30:13Z",
-   "tags": [
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (November 16, 2026) – The Utah Jazz have waived two-way guard Trey Alexander.",
-   "facts": [
-    "SALT LAKE CITY (November 16, 2026) – The Utah Jazz have waived two-way guard Trey Alexander.",
-    "About Trey Alexander Alexander (6-4, 187, Creighton) competed in nine games for the New Orleans Pelicans during the 2025-26 season, averaging 5.2 points, 1.2 rebounds, and 1.0 assists in 12.3 minutes per game.He saw acti…"
-   ],
-   "quotes": []
   }
  ]
 }
