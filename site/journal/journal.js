@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1087-fred-vanvleet-rockets-feature.html",
+    cat: "NBA",
+    title: "フレッド・バンヴリート、ACL負傷から「新しい自分」へ —— ロケッツ12勝4敗を導く相棒",
+    excerpt: "ヒューストン・ロケッツ(Houston Rockets)のフレッド・バンヴリート(Fred VanVleet)は、2025年の右膝前十字靱帯(ACL)断裂で2025-26シーズンを全休したが、復帰した2026-27シーズンはチームを12勝4敗・西地区1位と1差に導いている。ESPNのマイケル・C・ライト(Michael C. Wright)記者が11月20日、その復活までの軌跡を特集した。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1086-mikawa-allstar-2027.html",
     cat: "JAPAN",
     title: "シーホース三河から2選手、「B.LEAGUE ALL-STAR GAME WEEKEND 2027」出場決定 —— 須田侑太郎はTOKAI-KANSAI UNITEDキャプテンに",
