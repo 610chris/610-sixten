@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1091-haliburton-hamstring-timeline.html",
+    cat: "NBA",
+    title: "タイリース・ハリバートン、左ハムストリング離脱は「最低でも」あと2週間 —— シャムズがNBA Todayで見通し語る",
+    excerpt: "ESPNのシャムズ・シャラニア記者は現地時間11月20日、番組「NBA Today」でインディアナ・ペイサーズのタイリース・ハリバートンの負傷状況を伝えた。左ハムストリングの負傷により「最低でも」あと2週間ほど欠場する見通しだという。10月28日の負傷発覚時は離脱期間が未定だったが、今回初めて具体的な見通しが示された。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1090-brandon-ingram-clippers-debut.html",
     cat: "NBA",
     title: "クリッパーズのイングラム、11月23日のロケッツ戦でシーズン初出場へ —— アキレス腱手術から復帰",
