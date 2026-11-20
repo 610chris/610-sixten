@@ -2791,6 +2791,29 @@
   "product": "REELS",
   "timestamp": "2022-04-12T04:36:40+0000"
  },
+ "17945353785370097": {
+  "article": "1076",
+  "auto": true,
+  "caption_len": 339,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ドンチッチ使用率40.4%は歴代3位 —— レイカーズ13勝3敗の立役者",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df7JEWXAQuE/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ベン・ゴリバー記者）",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-19T13:02:50+0000"
+ },
  "17946154923338950": {
   "article": "319",
   "auto": true,
@@ -2960,6 +2983,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-17T01:57:45+0000"
+ },
+ "17950402146361065": {
+  "article": "1084",
+  "auto": true,
+  "caption_len": 309,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジョナサン・クミンガ、ニックス戦で23得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df8uf5UDeia/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jonathan Kuminga"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-20T03:49:08+0000"
  },
  "17950484462200729": {
   "auto": false,
@@ -3753,6 +3799,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-12T22:00:32+0000"
+ },
+ "17971554924196508": {
+  "article": "1079",
+  "auto": true,
+  "caption_len": 283,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スパーズのハーパー、左股関節損傷で1〜3週間離脱",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df8pK1-lVPS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Dylan Harper"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-20T03:02:35+0000"
  },
  "17972180916194270": {
   "article": "955",
@@ -5497,6 +5566,19 @@
   "template": "news",
   "timestamp": "2026-09-29T21:14:12+0000"
  },
+ "18041549537904683": {
+  "auto": false,
+  "caption_len": 113,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 3,
+  "headline": "なぜあの質問を、YouTubeの撮影ではなく",
+  "permalink": "https://www.instagram.com/reel/Df69R1-gfIO/",
+  "product": "REELS",
+  "timestamp": "2026-11-19T11:19:47+0000"
+ },
  "18041555792824591": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -6302,6 +6384,30 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T18:43:24+0000"
+ },
+ "18077972735734513": {
+  "article": "1072",
+  "auto": true,
+  "caption_len": 333,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス「特別な夜ではない」—— 古巣バックス撃破",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df6bqFMjMJ6/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（Cameron Wolfe記者）",
+  "subject": [
+   "Giannis Antetokounmpo",
+   "Bam Adebayo"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-19T06:26:02+0000"
  },
  "18078035180453782": {
   "article": "309",
@@ -7802,6 +7908,30 @@
   "template": "quote",
   "timestamp": "2026-11-17T13:02:40+0000"
  },
+ "18103143518641063": {
+  "article": "1071",
+  "auto": true,
+  "caption_len": 338,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スパーズ12連勝で首位、バックスは1-13で52年ぶり低迷",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df6bZGFEwA7/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN NBA Insiders",
+  "subject": [
+   "Victor Wembanyama",
+   "Luka Doncic"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-19T06:23:42+0000"
+ },
  "18103323728346900": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -8042,6 +8172,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-05T22:07:43+0000"
+ },
+ "18105787388640519": {
+  "article": "1077",
+  "auto": true,
+  "caption_len": 358,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エドワーズ「いつ戻れるか分からない」—— 右膝手術から3週間",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df8o3-tDd1S/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（ヴィンセント・グッドウィル記者）",
+  "subject": [
+   "Anthony Edwards"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-20T03:00:01+0000"
  },
  "18106112072642994": {
   "article": "1012",
@@ -8664,6 +8817,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-18T23:01:08+0000"
+ },
+ "18110779115194258": {
+  "article": "1070",
+  "auto": true,
+  "caption_len": 310,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ニコラ・ヨキッチ、セルティックス戦で24得点9アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df6a5pagGIf/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Nikola Jokic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-19T06:19:12+0000"
  },
  "18110783423621287": {
   "arms": {
@@ -9650,6 +9826,29 @@
   "template": "score",
   "timestamp": "2026-10-21T02:13:39+0000"
  },
+ "18117327202864539": {
+  "article": "1067",
+  "auto": true,
+  "caption_len": 321,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エイカフJr.、サンズ戦で自己最多級36得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df6aDEEk_Zo/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darius Acuff Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-19T06:11:58+0000"
+ },
  "18117441415777105": {
   "article": "354",
   "auto": true,
@@ -10611,6 +10810,29 @@
   "template": "score",
   "timestamp": "2026-11-15T02:57:57+0000"
  },
+ "18122850076766241": {
+  "article": "1073",
+  "auto": true,
+  "caption_len": 413,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "レブロン「今季一番の勝利かもしれない」76ersが17点差跳ね返す",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df6cCHjoIyj/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「76ers rally vs. Magic, improve to 11-0 in clutch games」（Kris Rhim記者）",
+  "subject": [
+   "LeBron James|Joel Embiid|VJ Edgecombe"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-19T06:29:10+0000"
+ },
  "18123342536303659": {
   "article": "986",
   "auto": true,
@@ -10852,6 +11074,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T03:05:23+0000"
+ },
+ "18126141373921498": {
+  "article": "1085",
+  "auto": true,
+  "caption_len": 287,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ウェルズ、ウォリアーズ戦で22得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df8u4U2k3aZ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jaylen Wells"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-20T03:52:30+0000"
  },
  "18126545977850874": {
   "article": "275",
@@ -12133,6 +12378,29 @@
   "template": "news",
   "timestamp": "2026-10-01T15:02:11+0000"
  },
+ "18139438246750670": {
+  "article": "1068",
+  "auto": true,
+  "caption_len": 308,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キヨンテ・ジョージ、レイカーズ戦で30得点10アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df6aUcjAAeP/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Keyonte George"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-19T06:14:19+0000"
+ },
  "18139570198641458": {
   "article": "1008",
   "auto": true,
@@ -12517,6 +12785,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-26T03:59:08+0000"
+ },
+ "18144244861721642": {
+  "article": "1069",
+  "auto": true,
+  "caption_len": 300,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイソン・テイタム、ナゲッツ戦で24得点8リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df6alc2EQcY/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-19T06:16:40+0000"
  },
  "18145465441612180": {
   "article": "990",
@@ -13296,6 +13587,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-14T02:57:38+0000"
+ },
+ "18171926329468393": {
+  "article": "1083",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ビクター・ウェンバンヤマ、クリッパーズ戦で32得点11リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df8uPYnGAC1/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-20T03:46:48+0000"
  },
  "18175273681460468": {
   "article": "1048",
@@ -14680,6 +14994,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-31T01:16:13+0000"
+ },
+ "18378082801243153": {
+  "article": "1081",
+  "auto": true,
+  "caption_len": 305,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、スパーズ戦で17得点7リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df8t9JKEW1r/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-20T03:44:17+0000"
  },
  "18381128626240818": {
   "article": "899",
