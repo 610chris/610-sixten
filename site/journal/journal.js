@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1080-jordan-triangle-pf-rui-rising.html",
+    cat: "KICKS",
+    title: "Jordan Triangle PF「Rui Rising」が登場 —— 八村塁のシグネチャーカラー、麻の葉・青海波を纏う",
+    excerpt: "Jordan Brand(ジョーダン ブランド)は、ロサンゼルス・クリッパーズの八村塁とのコラボモデル「Jordan Triangle PF \"Rui Rising\"」を近日発売する。HYPEBEAST JPが11月20日、発売情報を伝えた。価格は19,800円(税込)。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1079-dylan-harper-hip-strain.html",
     cat: "NBA",
     title: "スパーズのディラン・ハーパー、左股関節の損傷で離脱 —— 復帰まで1〜3週間、重傷は回避",
