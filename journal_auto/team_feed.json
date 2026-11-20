@@ -1,8 +1,36 @@
 {
- "updated_utc": "2026-11-20 03:41 UTC",
+ "updated_utc": "2026-11-20 13:31 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261122",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261122",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261122",
+   "title": "Game Preview: Warriors vs. Boston Celtics - 11/22/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-20T04:41:16Z",
+   "tags": [
+    "Game Preview"
+   ],
+   "summary": "WARRIORS LOOK KEEP HOME WINNING STREAK ALIVE HOSTING CELTICS The Warriors are glad to be returning home as they’ve won six straight games at Chase Center heading into Sunday’s matchup against Jayson Tatum and the Boston Celtics. The Dubs went 0-5 on their latest road trip and were outscored by a combined margin of 116 points. The Celtics have been one of the top teams in the Eastern Conference, cu…",
+   "facts": [
+    "WARRIORS LOOK KEEP HOME WINNING STREAK ALIVE HOSTING CELTICS The Warriors are glad to be returning home as they’ve won six straight games at Chase Center heading into Sunday’s matchup against Jayson Tatum and the Boston …",
+    "The Dubs went 0-5 on their latest road trip and were outscored by a combined margin of 116 points.",
+    "The first 10,00 fans in attendance for Sunday's game will receive a Philadelphia Warriors championship pennant.",
+    "GET TICKETS LAST TIME OUT The Warriors concluded a winless road trip with a 126-98 loss to the Memphis Grizzlies at FedExForum on Thursday.",
+    "The Warriors' momentum from their eight-game winning streak, which included a 6-0 home stand, came to a screeching halt as they dropped five straight road games, beginning with Stephen Curry’s right oblique abdominal tea…",
+    "The Dubs have sorely missed the top 3-point shooter in NBA history, making just five of their 29 3-point attempts and being outscored by 30 points from behind the arc in Thursday’s loss.",
+    "Charles Bassey paced the Warriors with 16 points, 13 rebounds and two blocks.",
+    "Brandin Podziemski and Will Richard both added 15 points."
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -15,7 +43,9 @@
    "title": "Warriors Suffer 28-Point Loss to Grizzlies, Finish 0–5 Road Trip",
    "author": "Kalyb Champion",
    "published_utc": "2026-11-20T03:37:04Z",
-   "tags": [],
+   "tags": [
+    "Game Recap"
+   ],
    "summary": "The Warriors concluded a winless road trip with a 126-98 loss to the Memphis Grizzlies at FedExForum on Thursday. The Warriors' momentum from their eight-game winning streak, which included a 6-0 home stand, came to a screeching halt as they dropped five straight road games, beginning with Stephen Curry’s right oblique abdominal tear against the Houston Rockets. The Dubs have sorely missed the top…",
    "facts": [
     "The Warriors concluded a winless road trip with a 126-98 loss to the Memphis Grizzlies at FedExForum on Thursday.",
@@ -315,6 +345,30 @@
     "Nobody does hospitality like the Midwest, and nobody does it like Wisconsin,",
     "Wisconsin has been our home for more than four decades, and the people who welcome every guest to Fiserv Forum embody what this state does best: hard work and real hospitality. We couldn't be prouder …"
    ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-indcle-261120",
+   "url": "https://www.nba.com/cavaliers/news/preview-indcle-261120",
+   "canonical_url": "https://cavs.com/news/preview-indcle-261120",
+   "title": "Cavs vs Pacers | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-19T16:41:47Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "In game three of the NBA Cup, the Cavs play host to the Indiana Pacers. Cleveland looks to get back in the win column as both teams try to get to 2-1 in group play action.",
+   "facts": [
+    "Cleveland looks to get back in the win column as both teams try to get to 2-1 in group play action.",
+    "Cleveland was led by Donovan Mitchell's second-straight 30-point game - scoring 34 and making 14 shots.",
+    "Mario Hezonja continued his strong start to the season, scoring 16 points, grabbing seven rebounds, and handing out five assists.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Peyton Watson - Back - QUESTIONABLE -Jaylon Tyson - Ankle - OUT -Evan Mobley - Toe - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignment)…"
+   ],
+   "quotes": []
   },
   {
    "source": "IND 公式（nba.com）",
@@ -1752,171 +1806,6 @@
     "That’s the one thing that we saw on film, and that’s what I’ve been doing the last few games. And I guess I started making shots again.",
     "I think it’s good experience,",
     "That’s a high rate, 10 out of however many we’ve played. We get a lot of A-plus efforts from teams. They’re just going to keep coming and battling, and we’re going to have to play through these ups an…"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/bulls-overpowered-by-cavs-fall-in-cleveland-126-115",
-   "url": "https://www.nba.com/bulls/news/bulls-overpowered-by-cavs-fall-in-cleveland-126-115",
-   "canonical_url": "https://bulls.com/news/bulls-overpowered-by-cavs-fall-in-cleveland-126-115",
-   "title": "Bulls overpowered by Cavs, fall in Cleveland 126-115",
-   "author": "Sam Smith",
-   "published_utc": "2026-11-17T07:32:01Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "In the home of rock and roll, the Bulls were feeling some good vibrations on Monday with impressive night moves the way they seemed born to run with a 31-25 first quarter lead that almost had the team dancin’ in the streets, forcing eight early Cavaliers turnovers for a margin of 11-2 in fast breaks.",
-   "facts": [
-    "In the home of rock and roll, the Bulls were feeling some good vibrations on Monday with impressive night moves the way they seemed born to run with a 31-25 first quarter lead that almost had the team dancin’ in the stre…",
-    "But a 32-17 Cavaliers’ second quarter seemed to have the Bulls indivisibly going their own way, running on empty as Cleveland took a 57-48 halftime lead they pretty much retained the rest of the game with the Bulls unabl…",
-    "Twenty-one Bulls turnovers and 53 percent Cavaliers shooting, with 20 of Donovan Mitchell’s 39 points in the fourth quarter, didn’t really leave Bulls coach Tiago Splitter to wonder what’s going on in the Bulls 126-115 l…",
-    "The Bulls pressured, forced a pair of turnovers and suddenly had the Cavaliers comfortably numb and were within 119-113 with 100 seconds left.",
-    "Buzelis had a season-best 23 points as he raises his game to attempt to make up for the injury absence of star rookie Caleb Wilson.",
-    "Smith had another eye opening, overachieving game in offsetting Allen with 17 points, 11 rebounds and two blocks.",
-    "Tre Jones had 16 points and four steals off the bench while Isaac Okoro had 13 points and four steals.",
-    "The Bulls benefitted against Atlanta and Minnesota by horrendous three-point shooting by the Hawks and Timberwolves, a combined opponent 17 of 78 the two games."
-   ],
-   "quotes": [
-    "Second quarter didn’t shoot the ball well,",
-    "The other quarters of the game were pretty balanced, but that second quarter they took advantage; a lot of turnovers and missed shots (for us), transition (for them and 18-6 at the rim). That was the …",
-    "We didn’t shoot the ball well, we didn’t rebound the ball well... it’s a collective thing and group thing,",
-    "We win together and lose together and that’s including me. We have to do a a better job and we are going to do it."
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-post-20261116-cenac-makes-the-most-of-opportunity-vs-orlando-validates-tatums-high-praise",
-   "url": "https://www.nba.com/celtics/news/sidebar-post-20261116-cenac-makes-the-most-of-opportunity-vs-orlando-validates-tatums-high-praise",
-   "canonical_url": "https://celtics.com/news/sidebar-post-20261116-cenac-makes-the-most-of-opportunity-vs-orlando-validates-tatums-high-praise",
-   "title": "Cenac Makes the Most of Opportunity vs. Orlando, Validates Tatum's High Praise",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-17T06:28:44Z",
-   "tags": [
-    "Postgame",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "BOSTON – It didn’t take long for Chris Cenac Jr. to back up Jayson Tatum’s glowing endorsement.",
-   "facts": [
-    "The 19-year-old was one of the Celtics’ bright spots during Monday night’s 115-105 loss to the Orlando Magic, showcasing his length, athleticism and energy in an expanded opportunity.",
-    "His stat line of four points in 12 minutes might not jump off the page, but his impact was far more noticeable to anyone watching him nearly jump out of the gym.",
-    "Mazzulla showed his trust in the rookie by inserting him into the lineup with 3:16 remaining and Boston trailing,104-99.",
-    "It was a step up from the previous night, when Cenac recorded six points and three rebounds in seven minutes against Dallas, all of which came during the fourth quarter when Boston had already put the game away by buildi…",
-    "Although the rookie’s spark wasn’t enough to overcome Orlando’s scorching fourth-quarter offense, which produced 40 points on 16-of-21 shooting, his performance left a strong impression on his teammates.",
-    "And for Tatum, who had expressed his confidence in the rookie just 24 hours earlier, it was another encouraging sigh of what’s to come."
-   ],
-   "quotes": [
-    "The talent, the athleticism, his energy, I thought he gave us some great minutes on both ends of the floor,",
-    "You can obviously feel a difference with his athleticism when he's out there, and he made some big-time plays for us.",
-    "It shows him the standard that he needs to play to,",
-    "Great energy. Great energy,"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261116",
-   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261116",
-   "canonical_url": "https://celtics.com/news/game-recap-keys-20261116",
-   "title": "Keys to the Game: Magic 115, Celtics 105",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-17T03:56:34Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "Boston and Orlando were locked in a low-scoring battle through three quarters Monday night, until the Magic broke through with a 40-point final frame to pull away for a 115-105 win.",
-   "facts": [
-    "Key Moment Boston and Orlando were locked in a low-scoring battle through three quarters Monday night, until the Magic broke through with a 40-point final frame to pull away for a 115-105 win.",
-    "The Celtics carried a 77-75 lead into the fourth quarter, but Orlando found its offensive rhythm about three minutes into the frame, Orlando found its offensive rhythm, finishing the game on a 35-23 run.",
-    "The Magic shot a blistering 16-of-21 (76.2 percent) from the field during the quarter, compared to Boston’s 9-of-22 (40.9 percent) mark, as Desmond Bane led the way with 15 fourth-quarter points on 6-of-7 shooting.",
-    "Tristan da Silva knocked down a pair of timely 3-pointers midway through the frame, but Orlando did most of its damage inside the arc from there.",
-    "The Celtics made one final push, cutting the deficit to three points on a Sam Hauser 3-pointer with four minutes remaining.",
-    "But Orlando answered with a decisive 13-6 closing run to hand Boston its first home loss of the season.",
-    "The nine-time All-Star scored the Celtics' first 10 points of the night and was the only Boston starter to get on the board until Jayson Tatum scored with 49 seconds remaining in the opening quarter.",
-    "George went on to finish with 22 points, just two shy of the game-high 24 shared by Tatum and Bane."
-   ],
-   "quotes": [
-    "We’re trusting him more and more each day."
-   ]
-  },
-  {
-   "source": "MIA 公式（nba.com）",
-   "team": "MIA",
-   "team_ja": "ヒート",
-   "team_id": 1610612748,
-   "kind": "quotes",
-   "key": "https://www.nba.com/heat/news/coups-takeaways-heat-best-game-rockets-antetokounmpo-adebayo-mitchell-durant",
-   "url": "https://www.nba.com/heat/news/coups-takeaways-heat-best-game-rockets-antetokounmpo-adebayo-mitchell-durant",
-   "canonical_url": "https://heat.com/news/coups-takeaways-heat-best-game-rockets-antetokounmpo-adebayo-mitchell-durant",
-   "title": "Coup’s Takeaways: HEAT Bring Their Best Against Rockets For Fifth Consecutive Win",
-   "author": "Couper Moorhead",
-   "published_utc": "2026-11-17T03:51:14Z",
-   "tags": [
-    "Coups Takeaways",
-    "News",
-    "Trending"
-   ],
-   "summary": "1. The HEAT have been playing their best basketball this past week. And now they’ve played their best game with a convincing win over the Houston Rockets.",
-   "facts": [
-    "Rough open for Alperen Sengun as Giannis Antetokounmpo and Bam Adebayo swarmed his elongated drives in the middle of the floor, Miami jumping out to a 9-2 lead despite relatively sloppy play from both teams.",
-    "Turnovers pushed Miami’s pace going the other way, a handful of fouls – plus three techs on the Rockets – got them into the bonus and the threes kept falling to the tune of an 11-of-26 half.",
-    "Antetokounmpo and Adebayo combined for just 10 points in the first half, but they also only took seven shots, an unselfish group more than happy to make the right reads.",
-    "And with the defensive activity at an all-season high, Houston running a 97.9 Offensive Rating, the lead was 62-46 at the break, Houston with 9 turnovers and 4-of-15 shooting from the arc – on significantly more sticky o…",
-    "Bogdan Bogdanovic starts the second half for the Rockets, over Tari Eason, while Wiggins (17 points on 6-of-9 shooting) was a surprise second-half start for Miami over Adebayo (right hip tightness, listed as questionable…",
-    "Back to 15 soon enough, Antetokounmpo forcing the issue a little bit more while Thompson remained just as hot as he’s been for weeks now.",
-    "Houston had attempted plenty of fronting on Antetokounmpo, too, and that didn’t go well, either, with Davion Mitchell (16 points, 10 assists) continuing to be the best entry passer on the deep when Antetokounmpo gets a d…",
-    "Miami up 20 headed into the fourth."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-get-hot-late-play-physical-brand-of-basketball-throughout-in-road-win-over-boston-celtics-20261116",
-   "url": "https://www.nba.com/magic/news/orlando-magic-get-hot-late-play-physical-brand-of-basketball-throughout-in-road-win-over-boston-celtics-20261116",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-get-hot-late-play-physical-brand-of-basketball-throughout-in-road-win-over-boston-celtics-20261116",
-   "title": "Orlando Magic Get Hot Late, Play Physical Brand of Basketball Throughout in Road Win Over Boston Celtics",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-17T03:45:17Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "BOSTON - No team in the NBA so far this season is generating more threes off kickouts per 100 possessions than the Orlando Magic. Under new head coach Sean Sweeney, they have been making outstanding reads when getting into the paint and then spraying out to shooters.",
-   "facts": [
-    "BOSTON - No team in the NBA so far this season is generating more threes off kickouts per 100 possessions than the Orlando Magic.",
-    "We saw this play out on several of their possessions in the final minutes, and they were able to knock those shots down and other key ones to pull out a thrilling 115-105 victory over the Celtics.",
-    "Anthony Black, Tristan da Silva and Wendell Carter Jr. each made kickout threes in that stretch, and Desmond Bane, with all the attention he gets on the perimeter, was able to work his way inside the arc and make three c…",
-    "The Magic ended up outscoring the Celtics 40-28 in the fourth.",
-    "Orlando outscored Boston by 14 when he was on the floor.",
-    "Bane finished with a team-high 24 points, with 15 of them coming in the final frame.",
-    "Black had 20 points and seven assists and Jalen Suggs, back in the starting lineup, had 12 points, four assists and six rebounds, including two on the offensive glass in crunch time.",
-    "Largely because of Orlando’s ball pressure and physicality without fouling much, Boston as a team shot only 42 percent from the floor."
-   ],
-   "quotes": [
-    "We did a great job of handling their pressure at the end,",
-    "The traps, trying to foul – great job there staying with it. I thought our competitiveness and our effort on both ends was phenomenal. Des got it going there. He did a great job of attacking, making t…",
-    "That was a J. Suggs game right there,",
-    "Offensive rebounds, blocking shots, getting in the paint, knocked down a couple big threes. That’s him. He’s a winning player. You can plug him in with any lineup and he’s going to find a way to impac…"
    ]
   }
  ]
