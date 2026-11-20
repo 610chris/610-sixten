@@ -1,8 +1,278 @@
 {
- "updated_utc": "2026-11-20 13:31 UTC",
+ "updated_utc": "2026-11-20 21:30 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ATL 公式（nba.com）",
+   "team": "ATL",
+   "team_ja": "ホークス",
+   "team_id": 1610612737,
+   "kind": "feature",
+   "key": "https://www.nba.com/hawks/news/winning-the-possession-battle-the-numbers-behind-dyson-daniels-staggering-impact",
+   "url": "https://www.nba.com/hawks/news/winning-the-possession-battle-the-numbers-behind-dyson-daniels-staggering-impact",
+   "canonical_url": "https://hawks.com/news/winning-the-possession-battle-the-numbers-behind-dyson-daniels-staggering-impact",
+   "title": "Winning the Possession Battle: The Numbers Behind Dyson Daniels’ Staggering Impact",
+   "author": "Atlanta Hawks",
+   "published_utc": "2026-11-20T21:24:51Z",
+   "tags": [
+    "Atlanta Hawks"
+   ],
+   "summary": "NBA teams have emphasized offensive rebounding more and more over the past six seasons.",
+   "facts": [
+    "Starting with the 2020-21 season, league-wide offensive rebounding percentages have risen each season.",
+    "According to basketballreference.com, teams grabbed on average 22.2 percent of their own misses during the 2020-21 season.",
+    "This season, teams are getting rebounds on 27.3 percent of their misses.",
+    "NBA teams always strive to optimize the strategies that lead to winning, and in 2026, the game is to win the possession battle.",
+    "He has nabbed a league-best 420 steals since the start of the 2024-25 season; the next-best mark for any other NBA player is Kris Dunn's 286 steals.",
+    "Through games played on or before Nov. 18, Daniels is tied for the fourth-most offensive rebounds in the NBA: 50.",
+    "And the only three players whom he trails – Moussa Diabate, Walker Kessler, and Donovan Clingan – stand 6-foot-10, 7-foot-2, and 7-foot-2, respectively.",
+    "Steals: 42 (1st)Offensive rebounds: 50 (t-4th)Deflections: 89 (1st)Loose balls recovered: 15 (t-1st) On offense, Daniels excels at cutting, driving and creating for his teammates."
+   ],
+   "quotes": [
+    "One thing I do is always go – no matter who's guarding me. It just might change depending on the different actions that I'm in, different spots on the floor where I'm crashing from, but yeah, whether …",
+    "Obviously, Dyson is like 6-foot-8,",
+    "so usually, the thing about not guarding him is that he will usually have one of the smaller guards on him, and he is much bigger and more athletic than a lot of those guys. I love playing with Dicey.…",
+    "The box score never reflects all that Dyson does,"
+   ]
+  },
+  {
+   "source": "MIL 公式（nba.com）",
+   "team": "MIL",
+   "team_ja": "バックス",
+   "team_id": 1610612749,
+   "kind": "feature",
+   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-and-modexus-solutions-team-up-for-2026-27-threes-for-trees-program",
+   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-and-modexus-solutions-team-up-for-2026-27-threes-for-trees-program",
+   "canonical_url": "https://bucks.com/news/milwaukee-bucks-and-modexus-solutions-team-up-for-2026-27-threes-for-trees-program",
+   "title": "Milwaukee Bucks And Modexus Solutions Team Up For 2026-27 Threes For Trees Program",
+   "author": "Milwaukee Bucks",
+   "published_utc": "2026-11-20T20:48:24Z",
+   "tags": [],
+   "summary": "MILWAUKEE (Nov. 20, 2026) – The Milwaukee Bucks and Modexus Solutions (formerly Modine Manufacturing Company) are teaming up to make communities across Wisconsin greener with the 2026-27 Threes for Trees program.",
+   "facts": [
+    "MILWAUKEE (Nov. 20, 2026) – The Milwaukee Bucks and Modexus Solutions (formerly Modine Manufacturing Company) are teaming up to make communities across Wisconsin greener with the 2026-27 Threes for Trees program.",
+    "For every three-pointer the Bucks make at Fiserv Forum during the 2026-27 regular season, Modexus Solutions will make a donation to plant one tree in Wisconsin when the season concludes.",
+    "Since 1916, we have been the go-to partner in thermal management that enables customers to reach new frontiers with our engineering excellence, proprietary technologies, and collaborative approach.",
+    "Through the hard work of more than 13,000 employees worldwide, our portfolio of commercial HVAC and data center solutions deliver breakthroughs that accelerate societal progress and advance our purpose of Engineering a C…",
+    "They foster a growing community of more than 1 million leaders, innovators, planters, and supporters united by their bold belief that a more hopeful future can be shaped through the power of trees.",
+    "For more than 50 years, they’ve answered critical need with action, planting more than half a billion trees alongside their partners.",
+    "The Arbor Day Foundation is a 501(c)(3) nonprofit pursuing a future where all life flourishes through the power of trees."
+   ],
+   "quotes": [
+    "We are proud to continue our partnership with the Bucks for the fourth consecutive year through the Threes for Trees program,",
+    "This collaboration reflects our shared commitment to environmental stewardship and aligns with our purpose of engineering a cleaner, healthier world. Together with the Bucks, we are building a greener…"
+   ]
+  },
+  {
+   "source": "POR 公式（nba.com）",
+   "team": "POR",
+   "team_ja": "トレイルブレイザーズ",
+   "team_id": 1610612757,
+   "kind": "feature",
+   "key": "https://www.nba.com/blazers/news/game-time-change-portland-trail-blazers-dec-1-game-vs-minnesota-timberwolves-to-tip-off-at-8-p-m-pt-at-moda-center",
+   "url": "https://www.nba.com/blazers/news/game-time-change-portland-trail-blazers-dec-1-game-vs-minnesota-timberwolves-to-tip-off-at-8-p-m-pt-at-moda-center",
+   "canonical_url": "https://blazers.com/news/game-time-change-portland-trail-blazers-dec-1-game-vs-minnesota-timberwolves-to-tip-off-at-8-p-m-pt-at-moda-center",
+   "title": "Game Time Change: Portland Trail Blazers Dec. 1 Game vs. Minnesota Timberwolves to Tip Off at 8 P.M. PT at Moda Center",
+   "author": "Portland Trail Blazers",
+   "published_utc": "2026-11-20T19:49:42Z",
+   "tags": [
+    "news",
+    "StartingFive"
+   ],
+   "summary": "PORTLAND, Ore. (November 20, 2026) – The Portland Trail Blazers’ home game against the Minnesota Timberwolves on December 1 has been moved to an 8 p.m. PT tip-off at Moda Center and will be broadcasted nationally on NBC, the NBA announced today. The matchup was originally scheduled to tip-off at 7 p.m. PT. The game will also be broadcasted locally on BlazerVision and KUNP.",
+   "facts": [
+    "Game to be broadcasted nationally on NBC PORTLAND, Ore. (November 20, 2026) – The Portland Trail Blazers’ home game against the Minnesota Timberwolves on December 1 has been moved to an 8 p.m.",
+    "The matchup was originally scheduled to tip-off at 7 p.m."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/warriors-jazz-dec-1-game-time-change-20261120",
+   "url": "https://www.nba.com/warriors/news/warriors-jazz-dec-1-game-time-change-20261120",
+   "canonical_url": "https://warriors.com/news/warriors-jazz-dec-1-game-time-change-20261120",
+   "title": "Golden State vs. Utah Game Time Change",
+   "author": "Tyler Savitsky",
+   "published_utc": "2026-11-20T19:00:00Z",
+   "tags": [],
+   "summary": "The tip-off time for Golden State’s game vs. the Utah Jazz on Tuesday, December 1, has been changed to 7 p.m. (PST), the league announced today. The game was originally scheduled for 8 p.m. The contest will air locally on NBC Sports Bay Area and can be heard on the team’s flagship radio station, 95.7 The Game.",
+   "facts": [
+    "The tip-off time for Golden State’s game vs. the Utah Jazz on Tuesday, December 1, has been changed to 7 p.m. (PST), the league announced today.",
+    "The game was originally scheduled for 8 p.m.",
+    "The contest will air locally on NBC Sports Bay Area and can be heard on the team’s flagship radio station, 95.7 The Game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-host-rockets-second-emirates-nba-cup-game",
+   "url": "https://www.nba.com/nuggets/news/nuggets-host-rockets-second-emirates-nba-cup-game",
+   "canonical_url": "https://nuggets.com/news/nuggets-host-rockets-second-emirates-nba-cup-game",
+   "title": "Nuggets host Rockets in second Emirates NBA Cup game",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-20T18:29:34Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets look to improve to 2-0 in the Emirates NBA Cup Group Stage.",
+   "facts": [
+    "The Denver Nuggets look to improve to 2-0 in the Emirates NBA Cup Group Stage.",
+    "INJURY REPORT Denver: DaRon Holmes II — OUT (G League Assignment) Bryce Hopkins — OUT (G League Assignment) Julian Strawther — OUT (Left Knee Sprain) Cam Whitmore — OUT (G League Two-Way Assignment) Houston: Steven Adams…",
+    "They fell to the Rockets, 110-100, back on November 9th.",
+    "Rebounding played a big role in the result, as Denver lost on the glass, 51-39.",
+    "That's been a theme for Denver early in the season; they rank just 22nd in this statistic league-wide, with 42.0 boards per game.",
+    "However, the Nuggets are coming off a 105-101 win over Boston, where they tied the Celtics on the glass, 46-46.",
+    "This was very easily Denver's best win of the season, mounting a 17-point comeback at home.",
+    "One thing of note is Ryan Nemhard, a two-way player for the Nuggets, was recalled from Grand Rapids for Friday's game."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BKN 公式（nba.com）",
+   "team": "BKN",
+   "team_ja": "ネッツ",
+   "team_id": 1610612751,
+   "kind": "feature",
+   "key": "https://www.nba.com/nets/news/brooklyn-sports-entertainment-launches-annual-season-of-giving",
+   "url": "https://www.nba.com/nets/news/brooklyn-sports-entertainment-launches-annual-season-of-giving",
+   "canonical_url": "https://brooklynnets.com/news/brooklyn-sports-entertainment-launches-annual-season-of-giving",
+   "title": "Brooklyn Sports & Entertainment Launches Annual Season of Giving",
+   "author": "Brooklyn Nets",
+   "published_utc": "2026-11-20T17:54:19Z",
+   "tags": [],
+   "summary": "BROOKLYN – Brooklyn Sports & Entertainment today announced its annual Season of Giving campaign, bringing together the Brooklyn Nets, New York Liberty, Long Island Nets, Barclays Center and employees across the organization. The campaign builds on Brooklyn Sports & Entertainment’s year-round commitment to community and the work its teams and employees carry out to serve the people and neighborhood…",
+   "facts": [
+    "Programming includes AAPI Unity Day at P.S. 179 Kensington, which brought together nearly 200 students through basketball, dance and cultural arts; a Noche Latina celebration at El Puente which honored the cultures, trad…",
+    "Day service event with Inspiring Minds; and a community activation tied to the Nets’ annual Pride Night celebration.Fort Hamilton Community Clinic and Game Day Experience (Nov. 15 and 20): Brooklyn Basketball, the offici…",
+    "Youth and their families will also attend the Nets’ Nov. 20 game against the Orlando Magic.Ticketmaster Holiday Giving (December): In partnership with Ticketmaster, students from SCO Family of Services will participate i…",
+    "Ticketmaster will also present the Nets’ Toy Scramble at Barclays Center on December 21, where youth from a local community organization will collect toys to take home, with the remaining toys donated to the organization…",
+    "Julius Randle will host a holiday toy distribution for youth at Madison Square Boys & Girls Club and donate $35,000 to the organization.",
+    "Stewart and her family will also support the Brooklyn Borough President’s Thanksgiving Drive, packing Thanksgiving meals and supplies to be distributed to organizations and families around Brooklyn.Alipay+ Threes4Trees T…",
+    "Ticketmaster Suite (Dec. 20): In partnership with Ticketmaster, the Liberty will host a community organization for a special holiday experience at Barclays Center, including a Snipes Shopping Experience, suite visit and …",
+    "The team will also collect nonperishable food items during November home games to support Long Island Cares’ ongoing efforts to combat food insecurity.Community Nights and Celebrations (Nov. 18, Jan. 18, 19 and 30): The …"
+   ],
+   "quotes": [
+    "Season of Giving is a meaningful opportunity to unite employees, players and community partners in service of the people and neighborhoods who inspire everything we do on and off the court,",
+    "Serving our communities is deeply rooted in our culture, and the holiday season is an especially important time for us to come together, deepen our support and make a meaningful impact for our neighbo…"
+   ]
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/11-20-2026-suns-vs-jazz-game-preview",
+   "url": "https://www.nba.com/suns/news/11-20-2026-suns-vs-jazz-game-preview",
+   "canonical_url": "https://suns.com/news/11-20-2026-suns-vs-jazz-game-preview",
+   "title": "11/20/2026 Suns vs Jazz Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-11-20T17:36:27Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Friday, November 20, 2026Time: 7:30 p.m. MSTLocation: Delta CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Jazz: Statement Edition (Black)",
+   "facts": [
+    "Game Info Date: Friday, November 20, 2026Time: 7:30 p.m.",
+    "MSTLocation: Delta CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Jazz: Statement Edition (Black) Series Notes The Suns won th…",
+    "Bridges also played with Jazz forward Svi Mykhailiuk in Charlotte in 2022-23Suns guard Luke Kennard and Jazz center Jaxson Hayes were both members of the 2025-26 Los Angeles LakersJazz forward/center Jaren Jackson Jr. wa…",
+    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
+    "Phoenix tied its season high with 60 points in the paint and won by 20+ points for the second time this season.DEVIN BOOKER co-led the Suns with 29 points to go along with 6 assists.",
+    "Booker entered the top 75 on the NBA's all-time scoring list with his 21st point of the night.",
+    "He is currently 16 assists away from 4,000 in his career.DILLON BROOKS joined Booker with 29 points while adding 5 triples and 5 three-pointers.",
+    "He and Booker each tallied 29+ points for the second time as teammates.JALEN GREEN tallied 18 points, 7 rebounds and 7 assists for just the fifth time in his career."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/nba-cup-group-stage-preview-pelicans-at-thunder-11-20-2026",
+   "url": "https://www.nba.com/pelicans/news/nba-cup-group-stage-preview-pelicans-at-thunder-11-20-2026",
+   "canonical_url": "https://pelicans.com/news/nba-cup-group-stage-preview-pelicans-at-thunder-11-20-2026",
+   "title": "NBA Cup group stage preview: Pelicans at Thunder (11/20/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-20T16:21:31Z",
+   "tags": [],
+   "summary": "NEW ORLEANS PELICANS (5-11, 0-2 WEST GROUP B) AT OKLAHOMA CITY THUNDER (9-6, 1-1 WEST GROUP B)",
+   "facts": [
+    "NEW ORLEANS PELICANS (5-11, 0-2 WEST GROUP B) AT OKLAHOMA CITY THUNDER (9-6, 1-1 WEST GROUP B) NBA Cup Ramifications Earlier this decade, Oklahoma City ended consecutive New Orleans seasons, knocking out the Pelicans in …",
+    "Beyond those implications, New Orleans will attempt to end a head-to-head, nine-game losing streak against OKC (that run expands to 13 games when including the 4-0 Thunder playoff sweep in April ’24).",
+    "The Pelicans are seeking their second road triumph of this season, having knocked Memphis from unbeaten status on Nov. 2 with a 135-134 overtime verdict.",
+    "The Thunder are among a group of four NBA teams with only one home defeat (the others are Houston, Boston and Golden State), but have lost four of their last five games overall after an 8-2 start.",
+    "West Group B Standings Minnesota 2-0, +32 … A Thanksgiving Eve win at OKC plus a loss by Memphis on the same night would clinch the group’s top spot for Timberwolves.",
+    "Oklahoma City 1-1, +30 … Two wins plus a Clippers loss is the most direct scenario resulting in Thunder taking first place in group.",
+    "Memphis 1-1, 0 … After a 31-point loss (vs.",
+    "OKC) and a 31-point win (at NOLA), Grizzlies can clinch group with two wins plus a OKC defeat."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/dallas-mavericks-name-ryan-tanke-chief-operating-officer",
+   "url": "https://www.nba.com/mavs/news/dallas-mavericks-name-ryan-tanke-chief-operating-officer",
+   "canonical_url": "https://mavs.com/mavs/news/dallas-mavericks-name-ryan-tanke-chief-operating-officer",
+   "title": "Dallas Mavericks Name Ryan Tanke Chief Operating Officer",
+   "author": "Dallas Mavericks",
+   "published_utc": "2026-11-20T15:00:00Z",
+   "tags": [],
+   "summary": "DALLAS (Nov. 20, 2026) – The Dallas Mavericks announced today that Ryan Tanke has been named Chief Operating Officer. Tanke, a veteran sports executive with nearly three decades of experience across the NBA, WNBA and NBA G League, will report directly to President Ethan Casson, who will assume the role of Chief Executive Officer on Jan. 1, 2027.",
+   "facts": [
+    "DALLAS (Nov. 20, 2026) – The Dallas Mavericks announced today that Ryan Tanke has been named Chief Operating Officer.",
+    "Tanke, a veteran sports executive with nearly three decades of experience across the NBA, WNBA and NBA G League, will report directly to President Ethan Casson, who will assume the role of Chief Executive Officer on Jan.…",
+    "During his tenure in Houston, Tanke helped deliver the Rockets’ first sold-out regular-season home schedule since the 2018-19 season and significant growth in corporate partnership revenue.",
+    "Additionally, Tanke helped lead the business launch of the Houston Comets, establishing the commercial strategy and operating model for the WNBA franchise's return.",
+    "Tanke's experience includes negotiating major naming-rights agreements with Target and Mayo Clinic, securing significant jersey patch partnerships and helping lead the $150 million Target Center renovation.",
+    "Tanke will officially assume his role as Chief Operating Officer on Jan. 1, 2027."
+   ],
+   "quotes": [
+    "Ryan is an exceptional leader who knows how to build high-performing teams,",
+    "He brings experience across nearly every part of the NBA business, from ticketing, partnerships and marketing to operations and arena development. He’ll play a pivotal role in how we serve our fans an…",
+    "Moments like this don't come along often in our industry, and I'm grateful to Patrick Dumont, Ethan Casson and the entire organization for the trust they've placed in me,",
+    "The Mavericks have an iconic brand, a passionate fan base and a tremendous opportunity ahead. I'm excited to work alongside this talented team and help shape what will be an extraordinary next chapter…"
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-indcle-261120",
+   "url": "https://www.nba.com/cavaliers/news/preview-indcle-261120",
+   "canonical_url": "https://cavs.com/news/preview-indcle-261120",
+   "title": "Cavs vs Pacers | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-20T13:59:25Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "In game three of the NBA Cup, the Cavs play host to the Indiana Pacers. Cleveland looks to get back in the win column as both teams try to get to 2-1 in group play action.",
+   "facts": [
+    "Cleveland looks to get back in the win column as both teams try to get to 2-1 in group play action.",
+    "Cleveland was led by Donovan Mitchell's second-straight 30-point game - scoring 34 and making 14 shots.",
+    "Mario Hezonja continued his strong start to the season, scoring 16 points, grabbing seven rebounds, and handing out five assists.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Peyton Watson - Back - QUESTIONABLE -Jaylon Tyson - Ankle - OUT -Evan Mobley - Toe - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignment)…"
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -245,6 +515,34 @@
    ]
   },
   {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/peanut-butter-jelly-pop-up-concessioncoming-to-american-airlines-center",
+   "url": "https://www.nba.com/mavs/news/peanut-butter-jelly-pop-up-concessioncoming-to-american-airlines-center",
+   "canonical_url": "https://mavs.com/mavs/news/peanut-butter-jelly-pop-up-concessioncoming-to-american-airlines-center",
+   "title": "PEANUT BUTTER & JELLY POP-UP CONCESSION COMING TO AMERICAN AIRLINES CENTER",
+   "author": "Lauren Wyatt",
+   "published_utc": "2026-11-19T20:00:00Z",
+   "tags": [
+    "dallas mavericks"
+   ],
+   "summary": "Dallas Mavericks bring PB&J craze to fans with limited-time pop-up concession stand on Nov. 21",
+   "facts": [
+    "Dallas Mavericks bring PB&J craze to fans with limited-time pop-up concession stand on Nov. 21 DALLAS (Nov. 19, 2026) – The Dallas Mavericks and Levy are bringing The Jam Box, a new peanut butter and jelly pop-up concess…",
+    "The limited-edition offering includes creamy peanut butter and grape jelly on white sourdough bread, served in a classic sandwich bag and sealed with a signature sticker, available exclusively on Saturday, Nov. 21, when …",
+    "The peanut butter and jelly sandwiches will be priced at $3.20, a nod to Cooper Flagg's No. 32, and available while supplies last.",
+    "Ticketed fans can find the pop-up concession on the American Airlines Center’s main Plaza Level, outside Sec. 117.",
+    "Between the Bread: What: The Jam Box PB&J Pop-Up | Creamy peanut butter and grape jelly on white sourdough breadWhen: Limited Time Only | Saturday, Nov. 21 vs.",
+    "LA ClippersWhere: American Airlines Center | Sec. 117 Cost: $3.20Quantity: 320 sandwiches, available while supplies last Purchase single-game tickets by visiting Mavs.com/Tickets or calling 214-747-MAVS. ### The Dallas M…",
+    "Since the inaugural season in 1980-81, the Mavs have won five division titles, three conference championships and one NBA championship in 2011.",
+    "Levy has twice been named one of the 10 most innovative companies in sports by Fast Company magazine and has been honored by Forbes as a Best Large Employer, Best Employer for Diversity, and Best Employer for Women."
+   ],
+   "quotes": []
+  },
+  {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
    "team_ja": "ウォリアーズ",
@@ -345,30 +643,6 @@
     "Nobody does hospitality like the Midwest, and nobody does it like Wisconsin,",
     "Wisconsin has been our home for more than four decades, and the people who welcome every guest to Fiserv Forum embody what this state does best: hard work and real hospitality. We couldn't be prouder …"
    ]
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-indcle-261120",
-   "url": "https://www.nba.com/cavaliers/news/preview-indcle-261120",
-   "canonical_url": "https://cavs.com/news/preview-indcle-261120",
-   "title": "Cavs vs Pacers | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-11-19T16:41:47Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "In game three of the NBA Cup, the Cavs play host to the Indiana Pacers. Cleveland looks to get back in the win column as both teams try to get to 2-1 in group play action.",
-   "facts": [
-    "Cleveland looks to get back in the win column as both teams try to get to 2-1 in group play action.",
-    "Cleveland was led by Donovan Mitchell's second-straight 30-point game - scoring 34 and making 14 shots.",
-    "Mario Hezonja continued his strong start to the season, scoring 16 points, grabbing seven rebounds, and handing out five assists.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Peyton Watson - Back - QUESTIONABLE -Jaylon Tyson - Ankle - OUT -Evan Mobley - Toe - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignment)…"
-   ],
-   "quotes": []
   },
   {
    "source": "IND 公式（nba.com）",
@@ -1395,418 +1669,6 @@
     "Jackson II is expected to make a full recovery and will be reevaluated in approximately three months."
    ],
    "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-memcle-261118",
-   "url": "https://www.nba.com/cavaliers/news/preview-memcle-261118",
-   "canonical_url": "https://cavs.com/news/preview-memcle-261118",
-   "title": "Cavs vs Grizzlies | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-11-17T20:24:49Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "Cleveland hosts the up-start Memphis Grizzlies tonight in the third game of this four-game home stand. The second matchup between the two will come on January 16 in Memphis.",
-   "facts": [
-    "The second matchup between the two will come on January 16 in Memphis.",
-    "GAME INFORMATION LAST TIME OUT Donovan Mitchell recorded a season-high 39 points in Monday's home win over the Bulls.",
-    "Mitchell went 16-25 from the floor with four rebounds and four assists.",
-    "Tyrese Proctor continued his hot play by scoring 17.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Jaylon Tyson - Ankle - DOUBTFUL -Peyton Watson - Back - QUESTIONABLE -Sam Merrill - Elbow - QUESTIONABLE -Evan Mobley - Toe - OUT -Nae'Qwan Tomlin - Back - OUT…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-raptors-game-notes-november-17-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-raptors-game-notes-november-17-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-raptors-game-notes-november-17-2026",
-   "title": "Knicks vs Raptors Game Notes | November 17, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-11-17T20:10:17Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "November 17, 2026 7:00 PM ET | Gainbridge Fieldhouse (Indianapolis, IN) | Game 14; Away Game 7",
-   "facts": [
-    "November 17, 2026 7:00 PM ET | Gainbridge Fieldhouse (Indianapolis, IN) | Game 14; Away Game 7 TV: MSG Networks | Radio: SiriusXM This Day in Knicks History November 17, 1981: Bill Cartwright scores 31 points and goes a …",
-    "November 17, 2011: Johnny Rucker, of Erasmus High School (Brooklyn, NY), confirms that he was the first African American to practice with the Knicks at Bear Mountain in 1950.",
-    "TOR: Toronto (11/15/26) The New York Knicks defeated the Toronto Raptors in overtime, 112-108.",
-    "Karl-Anthony Towns led New York with 28 points, 17 rebounds, three assists and one steal.",
-    "Jalen Brunson registered 28 points, nine assists, one rebound and one steal.",
-    "OG Anunoby added 21 points on 50.0-percent shooting, nine rebounds, one assist, two blocks and one steal.",
-    "Scottie Barnes led Toronto with 30 points, nine rebounds, four assists, two blocks and one steal.",
-    "Immanuel Quickley contributed 17 points, six rebounds, six assists and two steals."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/jevon-carter-takes-several-families-thanksgiving-meal-shopping-at-local-publix-20261117",
-   "url": "https://www.nba.com/magic/news/jevon-carter-takes-several-families-thanksgiving-meal-shopping-at-local-publix-20261117",
-   "canonical_url": "https://orlandomagic.com/news/jevon-carter-takes-several-families-thanksgiving-meal-shopping-at-local-publix-20261117",
-   "title": "Jevon Carter Takes Several Families Thanksgiving Meal Shopping at Local Publix",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-17T19:56:57Z",
-   "tags": [
-    "Community",
-    "CommunityNews",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "This was first of several Thanksgiving-related Magic community events",
-   "facts": [
-    "This was first of several Thanksgiving-related Magic community events ORLANDO - The Orlando Magic have dished out over 20 assists in each of their first 13 games of the season and at least 30 in three of them, including …",
-    "So far, this mark is at 68.3 percent for the Magic, four percent higher than last year and eight percent higher than the year before that.",
-    "The first major philanthropic event took place Tuesday, about 10 hours after the team returned from Boston, when guard Jevon Carter and his wife, Taylor, went shopping with several families and paid for their Thanksgivin…",
-    "On Monday, Nov. 23, Wendell Carter Jr. and his family’s A Platform² Foundation will host a Thanksgiving event for veterans and their families in partnership with Florida Blue Medicare, GuideWell Innovation Center and the…"
-   ],
-   "quotes": [
-    "We know how hard things can be at times. That was our whole point of building our brand, Treadmill Mentality. So, we can be able to help whoever we feel like needs help. With Thanksgiving coming aroun…",
-    "Not only knowing the basics like saying please and thank you, but just so she knows to always be kind,",
-    "You never know what somebody is going through. You never know what their situation is. If you can help them out or just be the nice person to them, I think that’s really important for her to see.",
-    "For somebody to come in and be a blessing to others, I’m greatly appreciative of this."
-   ]
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/clippers-vs-jazz-preview-2026-11-17",
-   "url": "https://www.nba.com/clippers/news/clippers-vs-jazz-preview-2026-11-17",
-   "canonical_url": "https://clippers.com/news/clippers-vs-jazz-preview-2026-11-17",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Jazz",
-   "author": "LAClippers",
-   "published_utc": "2026-11-17T19:30:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Ace Bailey",
-    "Broadcast Information",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Darius Garland",
-    "Derrick Jones Jr.",
-    "Game Previews"
-   ],
-   "summary": "Last Matchup: 01/27/2026 | LAC 115 – UTA 103 | K.Leonard: 21 PTS – A.Bailey: 20 PTSThe Clippers have gone 6-1 against the Jazz since the beginning of the 2024-25 season, with five of those wins coming by 10 or more points. That is the Clippers’ most double-digit wins against any opponent over that span. Including the last game against Charlotte, the Clippers have 58 wins under Ty Lue (since 2020-2…",
-   "facts": [
-    "UTAH JAZZ FIVE THINGS TO KNOW Last Matchup: 01/27/2026 | LAC 115 – UTA 103 | K.Leonard: 21 PTS – A.Bailey: 20 PTSThe Clippers have gone 6-1 against the Jazz since the beginning of the 2024-25 season, with five of those w…",
-    "Including the last game against Charlotte, the Clippers have 58 wins under Ty Lue (since 2020-21) where they shot at least 50.0% from three-point range.",
-    "That is 15 more games than the next closest team over that same span (Denver – 43).",
-    "Derrick Jones Jr. is the only player in the NBA this season who is averaging at least 2.0 made threes per game (2.2), a steal per game (1.0) and a block per game (1.1).",
-    "Darius Garland has 161 points and 48 assists in seven home games this season.",
-    "Since the franchise moved to LA in 1984, the only other Clipper to reach those marks in the first seven home games of a season is James Harden, who did so last season.BONUS: The Clippers are one of two teams in the NBA t…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/gameday-preview-20261118",
-   "url": "https://www.nba.com/warriors/news/gameday-preview-20261118",
-   "canonical_url": "https://warriors.com/news/gameday-preview-20261118",
-   "title": "Game Preview: Warriors at Dallas Mavericks - 11/18/26",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-11-17T19:20:17Z",
-   "tags": [],
-   "summary": "WARRIORS AND MAVERICKS ATTEMPT TO SNAP LOSING STREAKS The Warriors head to Dallas to face Cooper Flagg, Kyrie Irving, and the Mavericks at American Airlines Arena on Wednesday. The Dubs and Mavericks both enter Tuesday’s game looking to snap a three-game losing streak. The Mavericks have won three straight home games though — their losing streak came on a road trip.",
-   "facts": [
-    "LAST TIME OUT The Warriors fell 115-94 against the New Orleans Pelicans at Smoothie King Center on Monday night, dropping their third consecutive game.",
-    "Jeremiah Fears recorded his first career triple-double for the Pelicans, finishing the game with 19 points, 10 rebounds and 10 assists.",
-    "Saddiq Bey scored a team-high 23 points for the Pelicans and was one of six players to score in double figures.",
-    "Yaxel Lendeborg scored a game-high 28 points, while Brandin Podziemski added 15 points. »Full Story INJURY & ROSTER NOTES GSW: Draymond Green (Right Elbow Inflammation / Soreness) and Al Horford (Bilateral Low Back Injur…",
-    "Stephen Curry (Right Oblique Tear), Jimmy Butler III (Right ACL Repair / Surgery), Moses Moody (Left Patellar Tendon Repair / Surgery), Brandon Williams (Left Hamstring Strain) and Kristaps Porzingis (Not With Team) are …",
-    "Team Notes DAL: Walter Clayton Jr. (Right Ankle Sprain) and Santi Aldama (Left Ankle Sprain) are probable.",
-    "Max Christe (Left Ankle Sprain) is questionable.",
-    "Dereck Lively II (Right Foot Surgery), Sergio de Larrea (Right Knee Sprain) and Tarik Biberovic (Right Heel Bursitis) are OUT."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "SAS 公式（nba.com）",
-   "team": "SAS",
-   "team_ja": "スパーズ",
-   "team_id": 1610612759,
-   "kind": "feature",
-   "key": "https://www.nba.com/spurs/news/san-antonio-students-take-on-real-world-design-challenge-for-spurs-downtown-district",
-   "url": "https://www.nba.com/spurs/news/san-antonio-students-take-on-real-world-design-challenge-for-spurs-downtown-district",
-   "canonical_url": "https://spurs.com/news/san-antonio-students-take-on-real-world-design-challenge-for-spurs-downtown-district",
-   "title": "San Antonio Students Take On Real-World Design Challenge For Spurs Downtown District",
-   "author": "sasmbrodsky",
-   "published_utc": "2026-11-17T19:06:39Z",
-   "tags": [
-    "Featured",
-    "press-release"
-   ],
-   "summary": "SAN ANTONIO (Nov. 17, 2026) – The San Antonio students selected for the Sports & Entertainment Real Estate Bridge Program brought their ideas and knowledge of their community to a hands-on design workshop Friday with the San Antonio Spurs, Marquee Development and Project Destined. The program connects college students with professionals working on the Spurs downtown arena district, helping them ex…",
-   "facts": [
-    "SAN ANTONIO (Nov. 17, 2026) – The San Antonio students selected for the Sports & Entertainment Real Estate Bridge Program brought their ideas and knowledge of their community to a hands-on design workshop Friday with the…",
-    "Meet the San Antonio Students: About Spurs Sports & Entertainment Spurs Sports & Entertainment (SS&E) is a value-based and community-centric sports and entertainment company that provides premier live and global digital …",
-    "Their destinations and guest experiences drive long-term value creation—inspiring neighbors and visitors to return again and again, year-round."
-   ],
-   "quotes": [
-    "These students know San Antonio and they bring a perspective to this work that matters,",
-    "We want them to see the career possibilities here, learn from the people working on this project and build relationships that can help them take their next step."
-   ]
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/thrust-into-nba-whirlwind-game-is-quickly-slowing-down-for-christian-anderson-jr",
-   "url": "https://www.nba.com/hornets/news/thrust-into-nba-whirlwind-game-is-quickly-slowing-down-for-christian-anderson-jr",
-   "canonical_url": "https://hornets.com/news/thrust-into-nba-whirlwind-game-is-quickly-slowing-down-for-christian-anderson-jr",
-   "title": "Thrust Into NBA Whirlwind, Game Is Quickly Slowing Down For Christian Anderson Jr.",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-17T18:34:24Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "The transition from college to the NBA is different for every incoming rookie player. For first-year point guard Christian Anderson Jr, he’s experienced his fair share of normal growing pains since getting tossed into the Charlotte Hornets’ rotation in the season opener back on Oct. 21. Yet less than three weeks later, it’s hard to argue how much more comfortable Anderson looks compared to his fir…",
-   "facts": [
-    "For first-year point guard Christian Anderson Jr, he’s experienced his fair share of normal growing pains since getting tossed into the Charlotte Hornets’ rotation in the season opener back on Oct. 21.",
-    "Due to injuries to veterans Coby White and then Dennis Schröder, Anderson has played in all but one of the Hornets’ opening 13 games of the season.",
-    "While the offensive efficiency wasn’t necessarily pretty over his first nine outings – 2.8 points on 28% shooting and 9% from 3-point range (2-of-22) – Anderson was getting quality looks, while finding other ways to cont…",
-    "Since this stretch though, the 20-year-old has posted a new career high for points in three consecutive games, resulting in averages of 12.7 points on 50% shooting, 3.3 3-pointers on 56% shooting and 1.7 assists across 1…",
-    "Defensively, Anderson has registered a team-high 15 deflections over his past four games, bringing his seasonal total to 22 and moving him to eighth on the rookie leaderboard.",
-    "During his two collegiate seasons at Texas Tech, the 6-foot-1, 180-pound Anderson used his speed, agility and quickness to create open shots for himself and his teammates.",
-    "Not to mention, Anderson is also now serving in a reserve role after starting all 33 games last season and is averaging less than half (5.3) of the nightly shot attempts (13.1) he put up with the Red Raiders."
-   ],
-   "quotes": [
-    "For a young player to come in and have a lot thrown at you in terms of the NBA lifestyle [being] different, practices, role, terminology, all that stuff is very new to [Christian],",
-    "I think he’s done a phenomenal job picking things up. I credit him and I credit his teammates. I see a ton of guys wanting to take the time to have individual one-on-one conversations with him, either…",
-    "I think just being able to know what we want to run, being able to think the game a lot faster and not be sped up,",
-    "Obviously, the [NBA] bodies are a lot more physical and it's a lot faster game,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "roster",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-sign-jonas-aidoo-to-two-way-contract",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-sign-jonas-aidoo-to-two-way-contract",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-sign-jonas-aidoo-to-two-way-contract",
-   "title": "Utah Jazz Sign Jonas Aidoo to Two-Way Contract",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-17T18:30:14Z",
-   "tags": [
-    "Jonas Aidoo",
-    "NBA",
-    "Utah Jazz"
-   ],
-   "summary": "SALT LAKE CITY (November 17, 2026) – The Utah Jazz have signed center Jonas Aidoo (AY-doo) to a two-way contract. Per team policy, terms of the deal were not disclosed.",
-   "facts": [
-    "SALT LAKE CITY (November 17, 2026) – The Utah Jazz have signed center Jonas Aidoo (AY-doo) to a two-way contract.",
-    "About Jonas Aidoo Aidoo (6-11, 240, Arkansas) has competed in three games for the Jazz’s G League affiliate, the Salt Lake City Stars, this season, averaging 15.7 points on 62.5 percent from the field, along with 10.0 re…",
-    "A native of Durham, N.C., he appeared in 30 games for the Greensboro Swarm of the NBA G League in 2025-26, averaging 5.4 points on 56.1 percent shooting and 3.7 rebounds in 11.5 minutes per game, helping the team to a G …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIL 公式（nba.com）",
-   "team": "MIL",
-   "team_ja": "バックス",
-   "team_id": 1610612749,
-   "kind": "roster",
-   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-and-jack-daniels-to-release-third-single-barrel-select-whiskey-collection-in-collaboration-with-brandon-jennings",
-   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-and-jack-daniels-to-release-third-single-barrel-select-whiskey-collection-in-collaboration-with-brandon-jennings",
-   "canonical_url": "https://bucks.com/news/milwaukee-bucks-and-jack-daniels-to-release-third-single-barrel-select-whiskey-collection-in-collaboration-with-brandon-jennings",
-   "title": "Milwaukee Bucks and Jack Daniel’s To Release Third Single Barrel Select Whiskey Collection In Collaboration With Brandon Jennings",
-   "author": "Milwaukee Bucks",
-   "published_utc": "2026-11-17T17:16:48Z",
-   "tags": [],
-   "summary": "MILWAUKEE (Nov. 17, 2026) – The Milwaukee Bucks and Jack Daniel’s Tennessee Whiskey have teamed up to create the third Single Barrel Select Collection featuring whiskey from barrels chosen by Bucks legend Brandon Jennings. The Bucks 2026-27 Collection | All In cobranded bottles are available now in participating local stores while supplies last.",
-   "facts": [
-    "MILWAUKEE (Nov. 17, 2026) – The Milwaukee Bucks and Jack Daniel’s Tennessee Whiskey have teamed up to create the third Single Barrel Select Collection featuring whiskey from barrels chosen by Bucks legend Brandon Jenning…",
-    "The Bucks 2026-27 Collection | All In cobranded bottles are available now in participating local stores while supplies last.",
-    "The collection is the most exclusive of the series so far with fewer than 100 cases created from only three barrels.",
-    "The Bucks and Jack Daniel’s will celebrate the launch of the Bucks 2026-27 Collection | All In with two days of fan events, beginning tomorrow, Nov. 18, at 5 p.m. at Potawatomi Casino Hotel’s Sportsbook as the Bucks take…",
-    "The celebration will continue on Thursday, Nov. 19, with sampling opportunities for season ticket members inside Fiserv Forum as the Bucks host the Portland Trail Blazers at 7 p.m.",
-    "In collaboration with Lyft, fans attending Bucks home games between Dec. 18 and Jan. 7 will receive a $7 discount when they use Lyft to return home after the game.",
-    "Details on the Bucks 2026-27 Collection | All In, including a list of participating Milwaukee-area liquor stores, are available at www.bucks.com/jackdaniels.",
-    "Government in 1866 and based in Lynchburg, Tenn., the Jack Daniel Distillery is the first registered distillery in the United States and is on the National Register of Historic Places."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "roster",
-   "key": "https://www.nba.com/grizzlies/news/grizzlies-defeat-wizards-136120-extend-best-road-start-in-franchise-history",
-   "url": "https://www.nba.com/grizzlies/news/grizzlies-defeat-wizards-136120-extend-best-road-start-in-franchise-history",
-   "canonical_url": "https://grizzlies.com/news/grizzlies-defeat-wizards-136120-extend-best-road-start-in-franchise-history",
-   "title": "Grizzlies Defeat Wizards 136–120, Extend Best Road Start in Franchise History",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-17T16:16:36Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "WASHINGTON, D.C. - The Memphis Grizzlies (10-4) defeated the Washington Wizards (4-11) 136-120 on Monday at Capital One Arena. The Grizzlies improved to 7-0 on the road this season, tying the longest road winning streak in franchise history and extending the best road stat in club history.",
-   "facts": [
-    "WASHINGTON, D.C. - The Memphis Grizzlies (10-4) defeated the Washington Wizards (4-11) 136-120 on Monday at Capital One Arena.",
-    "The Grizzlies improved to 7-0 on the road this season, tying the longest road winning streak in franchise history and extending the best road stat in club history.",
-    "Cameron Boozer scored a career-high 29 points on 7-of-13 shooting from 3-point range with seven rebounds and seven assists.",
-    "Zach Edey tallied a season-high 23 points with 10 rebounds for his second double-double of the season.",
-    "Cedric Coward finished with 18 points on 7-of-10 shooting from the field with seven rebounds and six assists.",
-    "Javon Small recorded his first career double-double with 12 points and a careerhigh 12 assists.",
-    "Cam Spencer added 12 points with nine assists and Olivier-Maxence Prosper tallied 12 points off the bench.",
-    "Anthony Davis led the Wizards in scoring with 23 points, and AJ Dybantsa tallied with 21 points in 32 minutes."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-rockets-261118",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-rockets-261118",
-   "canonical_url": "https://pacers.com/news/preview-pacers-rockets-261118",
-   "title": "Game Preview: Pacers vs Rockets",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-17T16:03:00Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Wednesday, Nov. 18 at 7:00 PM ET at Gainbridge Fieldhouse",
-   "facts": [
-    "Wednesday, Nov. 18 at 7:00 PM ET at Gainbridge Fieldhouse Game Preview The Pacers (5-9) return to Gainbridge Fieldhouse on Wednesday to host the Houston Rockets (11-4).",
-    "After the 76ers bested the Pacers on Sunday, Indiana has had some down time to regroup before the Rockets come to town on Wednesday.",
-    "Houston had its four-game winning streak snapped on Monday as the Miami Heat defeated the Rockets, 128-110.",
-    "The Rockets were without Steven Adams, Marcus Smart, and Amen Thompson in the matchup, but Alperen Sengun and Kevin Durant combined to score 45 points in the loss.",
-    "He averages nearly 16 points per game on 53.5 percent shooting, but is not Houston’s top option for offense.",
-    "Durant and Sengun both average over 20 points per game, and are the engines of the Rockets’ offense.",
-    "Durant remains a versatile wing scorer in the 20th season of his career.",
-    "He’s notching 21.3 points on 48.5 percent shooting nightly, and adds an average of six rebounds and four assists."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-celtics-202261117",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-celtics-202261117",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-celtics-202261117",
-   "title": "Magic Four-Point Play: Follow-Up at Celtics",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-17T15:49:46Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "The Orlando Magic closed Monday’s game in Boston with one of their best offensive stretches of the season. In the final 9 ½ minutes, they made 14 of their 18 floor shots overall and four of their six from beyond the arc. The way they continue to execute, with the mindset of getting into the paint and then making the right reads from there, has been outstanding all season so far. Orlando ranks No. …",
-   "facts": [
-    "In the final 9 ½ minutes, they made 14 of their 18 floor shots overall and four of their six from beyond the arc.",
-    "Orlando ranks No. 1 in kickout threes attempted per 100 possessions.",
-    "Last season, it ranked 19th in this category.",
-    "The Magic also rank No. 4 in total shots attempted off lobs.",
-    "Bane has made 45.8 percent of his shots in those time and score circumstances.",
-    "On Monday against the Celtics, he went 5-of-6.",
-    "He also made another one with 90 seconds left with Orlando up nine.",
-    "Magic Checking All the Defensive Boxes When they are at their best defensively, the Magic are preventing their opponent from getting easy baskets in the paint; they are deflecting away passes or poking the ball away from…"
-   ],
-   "quotes": [
-    "That was a J. Suggs game right there. Offensive rebounds, blocking shots, getting in the paint, knocked down a couple big threes. That’s him. He’s a winning player. You can plug him in with any lineup…"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/inside-the-philadelphia-76ers-12-3-start-the-numbers-behind-the-success",
-   "url": "https://www.nba.com/sixers/news/inside-the-philadelphia-76ers-12-3-start-the-numbers-behind-the-success",
-   "canonical_url": "https://sixers.com/news/inside-the-philadelphia-76ers-12-3-start-the-numbers-behind-the-success",
-   "title": "Inside the Philadelphia 76ers’ 12-3 Start: The Numbers Behind the Success",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-17T15:11:21Z",
-   "tags": [
-    "Tyrese Maxey"
-   ],
-   "summary": "The Philadelphia 76ers are 12-3 or better to start a season for the 11th time in franchise history and for the first time since 2000-01.",
-   "facts": [
-    "The Philadelphia 76ers are 12-3 or better to start a season for the 11th time in franchise history and for the first time since 2000-01.",
-    "The July trade for Jaylen Brown and subsequent signing of LeBron James later that month immediately made Philadelphia one of the NBA’s most intriguing teams.",
-    "After an intense training camp at the Penn Medicine Philadelphia 76ers Training Complex and a few preseason games, referee Josh Tiven threw the ball up on Oct. 20 at Madison Square Garden.",
-    "Holding the Knicks to 42 second-half points on their championship celebration night helped establish defense as the Sixers’ calling card early in the season. ‘The Ball Wins’ The Sixers posted a 103.3 defensive rating, th…",
-    "Five days later, Philadelphia avenged its lone loss with a road win over Detroit, improving to an NBA-best 8-1.",
-    "So far, so good, despite having multiple frontcourt players injured.",
-    "The Sixers have ranked among the league leaders for much of the season with 493 defensive rebounds.",
-    "Additionally, the Sixers lead the NBA with 77 loose balls recovered, while VJ Edgecombe leads the league individually with 16."
-   ],
-   "quotes": [
-    "I anticipate where the ball is going. Every possession matters for me, and I try to get every ball… I ain’t scared to hit the floor, I think that’s what it is. I ain’t scared to hit the floor.",
-    "It’s a simple but old basketball adage: complete your passes,",
-    "Complete your passes and you should be able to make the pressure work for you rather than against you.",
-    "The biggest thing that I will say about this group is, I’ve been saying it, we’re competitive,"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/joel-embiid-scores-season-high-37-as-sixers-hold-off-nets-for-12-3-start",
-   "url": "https://www.nba.com/sixers/news/joel-embiid-scores-season-high-37-as-sixers-hold-off-nets-for-12-3-start",
-   "canonical_url": "https://sixers.com/news/joel-embiid-scores-season-high-37-as-sixers-hold-off-nets-for-12-3-start",
-   "title": "Joel Embiid Scores Season-High 37 as Sixers Hold Off Nets for 12-3 Start",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-17T13:47:45Z",
-   "tags": [
-    "Joel Embiid"
-   ],
-   "summary": "The Philadelphia 76ers defeated the Brooklyn Nets, 135-123, on Monday night in Brooklyn, completing a back-to-back and improving to 12-3 on the season. It marks Philadelphia’s best start through 15 games since 2000-01 and returns the Sixers to first place in the Eastern Conference ahead of Boston.",
-   "facts": [
-    "The Philadelphia 76ers defeated the Brooklyn Nets, 135-123, on Monday night in Brooklyn, completing a back-to-back and improving to 12-3 on the season.",
-    "It marks Philadelphia’s best start through 15 games since 2000-01 and returns the Sixers to first place in the Eastern Conference ahead of Boston.",
-    "The Sixers established a new season high for points in consecutive games, scoring 131 in Sunday’s win over Indiana before posting 135 against Brooklyn.",
-    "Joel Embiid scored a season-high 37 points (13-22 FG, 2-4 3FG, 9-10 FT), including a dagger 3-pointer in the final minute after the Nets cut a 24-point deficit to four.",
-    "Embiid scored 24 points in the first half.",
-    "He also collected a game-high 13 rebounds.",
-    "The Sixers shot 51.1% from the field (45 of 88), 37.1% from 3-point range (13 of 35) and 84.2% from the free-throw line (32 of 38).",
-    "Philadelphia also outrebounded Brooklyn, 47-38, including 14 offensive boards that led to 22 second-chance points."
-   ],
-   "quotes": [
-    "The more I play with pace and the more I’m engaged, my shot is better,",
-    "That’s the one thing that we saw on film, and that’s what I’ve been doing the last few games. And I guess I started making shots again.",
-    "I think it’s good experience,",
-    "That’s a high rate, 10 out of however many we’ve played. We get a lot of A-plus efforts from teams. They’re just going to keep coming and battling, and we’re going to have to play through these ups an…"
-   ]
   }
  ]
 }
