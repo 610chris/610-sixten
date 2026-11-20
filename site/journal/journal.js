@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1086-mikawa-allstar-2027.html",
+    cat: "JAPAN",
+    title: "シーホース三河から2選手、「B.LEAGUE ALL-STAR GAME WEEKEND 2027」出場決定 —— 須田侑太郎はTOKAI-KANSAI UNITEDキャプテンに",
+    excerpt: "シーホース三河は、須田侑太郎選手(#13)と西田優大選手(#19)の2選手が「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」(2027年1月15日~17日・愛知IGアリーナ)への出場が決定したと11月20日発表した。須田選手はTOKAI-KANSAI UNITEDのキャプテンに、西田選手はB.BLACKのスターティング5に選出された。",
+    date: "2026.11.20",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1085-jaylen-wells-22-points-warriors.html",
     cat: "NBA",
     title: "ジェイレン・ウェルズ、ウォリアーズ戦で22得点 —— グリズリーズが126-98で快勝",
