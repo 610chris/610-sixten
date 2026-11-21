@@ -598,6 +598,29 @@
   "template": "score",
   "timestamp": "2026-10-12T23:10:52+0000"
  },
+ "17896199436683433": {
+  "article": "1090",
+  "auto": true,
+  "caption_len": 306,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "イングラム、11/23ロケッツ戦でクリッパーズ初出場へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df-5I-gHDE0/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Brandon Ingram"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-21T00:00:37+0000"
+ },
  "17897365152420943": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5310,6 +5333,29 @@
   "template": "news",
   "timestamp": "2026-09-29T16:09:42+0000"
  },
+ "18032295176715668": {
+  "article": "1087",
+  "auto": true,
+  "caption_len": 333,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バンヴリート、ACLから復活 —— ロケッツ12勝4敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df9ymE-n5ry/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN（Michael C. Wright記者）",
+  "subject": [
+   "Fred VanVleet"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-20T13:44:04+0000"
+ },
  "18032337017856360": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5491,6 +5537,29 @@
   "template": "score",
   "timestamp": "2026-10-30T04:59:10+0000"
  },
+ "18036841175910575": {
+  "article": "1093",
+  "auto": true,
+  "caption_len": 298,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ジョンソン、ホーネッツ戦で26得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df_KhaRj2ew/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jalen Johnson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-21T02:32:30+0000"
+ },
  "18038178830666828": {
   "article": "1021",
   "auto": true,
@@ -5658,6 +5727,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-19T16:03:39+0000"
+ },
+ "18047056022826681": {
+  "article": "1094",
+  "auto": true,
+  "caption_len": 334,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハーデンが51得点 —— 自身26度目の50得点ゲームで歴代3位",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df_VLK-Dx_q/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "James Harden"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-21T04:05:24+0000"
  },
  "18047326973831129": {
   "article": "965",
@@ -6651,6 +6743,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-08T23:17:13+0000"
+ },
+ "18082182794468086": {
+  "article": "1095",
+  "auto": true,
+  "caption_len": 312,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "SGAが40得点 —— サンダーがペリカンズに126-120で勝利",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df_VbE1kYmW/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-21T04:07:35+0000"
  },
  "18082346972765813": {
   "article": "827",
@@ -10954,6 +11069,19 @@
   "template": "news",
   "timestamp": "2026-11-16T22:41:30+0000"
  },
+ "18124151597318698": {
+  "auto": false,
+  "caption_len": 116,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "MVPやベスト5は、勝ってからついてくる。",
+  "permalink": "https://www.instagram.com/reel/Df9gYlUDMT3/",
+  "product": "REELS",
+  "timestamp": "2026-11-20T11:05:03+0000"
+ },
  "18124689802844332": {
   "article": "302",
   "auto": true,
@@ -14758,6 +14886,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-02T02:46:42+0000"
+ },
+ "18350291671251373": {
+  "article": "1091",
+  "auto": true,
+  "caption_len": 379,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ハリバートン、ハムストリング離脱あと最低2週間",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/Df-5hy1DwjW/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「2026-27 NBA buzz」(Shams Charania記者、NBA Today)",
+  "subject": [
+   "Tyrese Haliburton"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-21T00:04:00+0000"
  },
  "18351504148271611": {
   "arms": {
