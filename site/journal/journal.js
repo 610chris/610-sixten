@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1099-kawhi-leonard-return-timeline-shams.html",
+    cat: "NBA",
+    title: "カワイ・レナード、ラプターズは「数週間以内」の復帰に楽観視 —— シャムズがNBA Todayで速報",
+    excerpt: "ESPNのシャムズ・シャラニア記者は現地時間11月20日、番組「NBA Today」でトロント・ラプターズのカワイ・レナード(Kawhi Leonard)の負傷状況を伝えた。左膝の負傷からの実戦復帰について、ラプターズは「数週間以内」に見られるとの楽観的な見通しを持っているという。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1098-scottie-barnes-29-points-raptors.html",
     cat: "NBA",
     title: "スコッティ・バーンズ、ピストンズ戦で29得点 —— ラプターズが105-102で勝利",
