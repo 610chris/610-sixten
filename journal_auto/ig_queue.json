@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T17:24:25+09:00",
+  "updated": "2026-11-22T05:54:55+09:00",
   "items": [
     {
       "id": "134",
@@ -35771,6 +35771,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "レディックHCがハーフタイムに「タフさとエネルギーが足りない」\n\n・レイカーズ、最下位キングス相手に前半苦戦も後半52-42で逆転\n・ケスラーが名指しで指摘を受け「的確だった」と納得\n・グライムズの終盤3Pで106-104、西地区首位を維持\n\n💬 この苦戦、レイカーズの実力通り？それとも一時的？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN(デイブ・マクマナマン記者)\n写真: イメージ(本文とは直接関係ありません)。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1104",
+      "slug": "1104-tyler-herro-50-points-76ers",
+      "category": "NBA",
+      "date": "2026-11-22",
+      "headline": "タイラー・ヒーロー、76ers戦で50得点",
+      "excerpt": "ミルウォーキー・バックスのタイラー・ヒーロー(Tyler Herro)は現地時間11月21日、敵地でのフィラデルフィア・76ers戦に40分出場し、フィールドゴール23本中15本・3ポイント12本中7本・フリースロー13本全てを沈めて50得点を記録した。両チーム通じてこの日の最多得点者となったが、バックスは129-132で76ersに敗れ、今季の成績を1勝16敗とした。",
+      "points": [
+        "FG15/23・3P7/12・FT13/13の高確率で50得点",
+        "リバウンド11・アシスト7もマーク",
+        "バックスは129-132で敗れ今季1勝16敗"
+      ],
+      "source": "ESPN ボックススコア(Bucks vs. 76ers・2026年11月21日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1104-tyler-herro-50-points-76ers.html",
+      "hero_path": "",
+      "subject": [
+        "Tyler Herro"
+      ],
+      "question": "50得点でも敗戦…バックスの1勝16敗、どこで変わる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYLER HERRO",
+        "opponent": "vs. 76ERS",
+        "points": 50,
+        "stats": [
+          "11 REB",
+          "7 AST",
+          "15/23 FG",
+          "7/12 3PT",
+          "13/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1104-1.jpg",
+        "https://sixten.jp/assets/ig/1104-2.jpg",
+        "https://sixten.jp/assets/ig/1104-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-22T05:54:07+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タイラー・ヒーロー、76ers戦で50得点\n\n・FG15/23・3P7/12・FT13/13の高確率で50得点\n・リバウンド11・アシスト7もマーク\n・バックスは129-132で敗れ今季1勝16敗\n\n💬 50得点でも敗戦…バックスの1勝16敗、どこで変わる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Bucks vs. 76ers・2026年11月21日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
