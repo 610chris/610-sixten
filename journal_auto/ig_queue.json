@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T13:04:57+09:00",
+  "updated": "2026-11-21T14:57:09+09:00",
   "items": [
     {
       "id": "134",
@@ -35598,6 +35598,143 @@
       "ig_media_id": null,
       "error": null,
       "caption": "カワイ・レナード、復帰は「数週間以内」に\n\n・シャムズがNBA Todayで速報\n・ラプターズは左膝からの復帰を楽観視\n・11月17日時点の「あと最低1週間」から前進\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: シャムズ・シャラニア（ESPN）\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1100",
+      "slug": "1100-deandre-hunter-30-points-kings",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "デアンドレ・ハンター、レイカーズ戦で30得点",
+      "excerpt": "サクラメント・キングスのデアンドレ・ハンター(De'Andre Hunter)は現地時間11月20日、ロサンゼルス・レイカーズ戦に37分出場し、フィールドゴール16本中12本・3ポイント6本中5本を沈めて30得点を記録した。両チーム通じてこの日の最多得点者となったが、キングスは104-106でレイカーズに敗れた。",
+      "points": [
+        "FG16本中12本・3P6本中5本の高確率",
+        "リバウンド6・アシスト2、ターンオーバーはゼロ",
+        "キングスは104-106でレイカーズに敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1100-deandre-hunter-30-points-kings.html",
+      "hero_path": "",
+      "subject": [
+        "De'Andre Hunter"
+      ],
+      "question": "ハンターの30得点、負け試合でも高評価にする？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DE'ANDRE HUNTER",
+        "opponent": "vs. LAKERS",
+        "points": 30,
+        "stats": [
+          "6 REB",
+          "2 AST",
+          "12/16 FG",
+          "5/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1100-1.jpg",
+        "https://sixten.jp/assets/ig/1100-2.jpg",
+        "https://sixten.jp/assets/ig/1100-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T14:56:30+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デアンドレ・ハンター、レイカーズ戦で30得点\n\n・FG16本中12本・3P6本中5本の高確率\n・リバウンド6・アシスト2、ターンオーバーはゼロ\n・キングスは104-106でレイカーズに敗戦\n\n💬 ハンターの30得点、負け試合でも高評価にする？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1101",
+      "slug": "1101-alperen-sengun-triple-double-rockets",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "アルペラン・シェングン、ナゲッツ戦でトリプルダブル",
+      "excerpt": "ヒューストン・ロケッツのアルペラン・シェングン(Alperen Sengun)は現地時間11月20日、デンバー・ナゲッツ戦に36分出場し、28得点・リバウンド11・アシスト10のトリプルダブルを記録した。両チーム通じてこの日の最多得点者となったが、ロケッツは124-133でナゲッツに敗れた。",
+      "points": [
+        "28得点・リバウンド11・アシスト10",
+        "フリースロー13本中9本でインサイド強襲",
+        "ロケッツは124-133でナゲッツに敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1101-alperen-sengun-triple-double-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Alperen Sengun"
+      ],
+      "question": "シェングンのトリプルダブル、今季ベストの一つ？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ALPEREN SENGUN",
+        "opponent": "vs. NUGGETS",
+        "points": 28,
+        "stats": [
+          "11 REB",
+          "10 AST",
+          "9/16 FG",
+          "9/13 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1101-1.jpg",
+        "https://sixten.jp/assets/ig/1101-2.jpg",
+        "https://sixten.jp/assets/ig/1101-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T14:56:38+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アルペラン・シェングン、ナゲッツ戦でトリプルダブル\n\n・28得点・リバウンド11・アシスト10\n・フリースロー13本中9本でインサイド強襲\n・ロケッツは124-133でナゲッツに敗戦\n\n💬 シェングンのトリプルダブル、今季ベストの一つ？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1102",
+      "slug": "1102-devin-booker-23-points-suns",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "デビン・ブッカー、ジャズ戦で23得点",
+      "excerpt": "フェニックス・サンズのデビン・ブッカー(Devin Booker)は現地時間11月20日、ユタ・ジャズ戦に38分出場し、フィールドゴール22本中9本を沈めて23得点を記録した。両チーム通じてこの日の最多得点者となり、サンズは111-101でジャズを下した。",
+      "points": [
+        "FG22本中9本もチーム最多得点",
+        "アシスト3・プラスマイナス+4",
+        "サンズが111-101でジャズに勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1102-devin-booker-23-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Devin Booker"
+      ],
+      "question": "ブッカーの23得点、効率は低くてもチームは勝利。満足？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DEVIN BOOKER",
+        "opponent": "vs. JAZZ",
+        "points": 23,
+        "stats": [
+          "3 AST",
+          "2 REB",
+          "9/22 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1102-1.jpg",
+        "https://sixten.jp/assets/ig/1102-2.jpg",
+        "https://sixten.jp/assets/ig/1102-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T14:56:38+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デビン・ブッカー、ジャズ戦で23得点\n\n・FG22本中9本もチーム最多得点\n・アシスト3・プラスマイナス+4\n・サンズが111-101でジャズに勝利\n\n💬 ブッカーの23得点、効率は低くてもチームは勝利。満足？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

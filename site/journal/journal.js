@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1102-devin-booker-23-points-suns.html",
+    cat: "NBA",
+    title: "デビン・ブッカー、ジャズ戦で23得点 —— サンズが111-101で勝利",
+    excerpt: "フェニックス・サンズのデビン・ブッカー(Devin Booker)は現地時間11月20日、ユタ・ジャズ戦に38分出場し、フィールドゴール22本中9本を沈めて23得点を記録した。両チーム通じてこの日の最多得点者となり、サンズは111-101でジャズを下した。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1101-alperen-sengun-triple-double-rockets.html",
+    cat: "NBA",
+    title: "アルペラン・シェングン、ナゲッツ戦で28得点11リバウンド10アシストのトリプルダブル —— ロケッツは124-133で敗戦",
+    excerpt: "ヒューストン・ロケッツのアルペラン・シェングン(Alperen Sengun)は現地時間11月20日、デンバー・ナゲッツ戦に36分出場し、28得点・リバウンド11・アシスト10のトリプルダブルを記録した。両チーム通じてこの日の最多得点者となったが、ロケッツは124-133でナゲッツに敗れた。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "1100-deandre-hunter-30-points-kings.html",
+    cat: "NBA",
+    title: "デアンドレ・ハンター、レイカーズ戦で30得点 —— キングスは104-106で敗戦",
+    excerpt: "サクラメント・キングスのデアンドレ・ハンター(De'Andre Hunter)は現地時間11月20日、ロサンゼルス・レイカーズ戦に37分出場し、フィールドゴール16本中12本・3ポイント6本中5本を沈めて30得点を記録した。両チーム通じてこの日の最多得点者となったが、キングスは104-106でレイカーズに敗れた。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1099-kawhi-leonard-return-timeline-shams.html",
     cat: "NBA",
     title: "カワイ・レナード、ラプターズは「数週間以内」の復帰に楽観視 —— シャムズがNBA Todayで速報",
