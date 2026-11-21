@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:28:18+09:00",
+  "updated": "2026-11-21T13:00:35+09:00",
   "items": [
     {
       "id": "134",
@@ -35332,6 +35332,237 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジェイレン・ジョンソン、ホーネッツ戦で26得点\n\n・FG10/15・3P3/4で26得点\n・リバウンド6・アシスト6・スティール4\n・ホークスが111-97で勝利\n\n💬 ホークス、今季どこまで行ける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1094",
+      "slug": "1094-james-harden-51-points-cavaliers",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "ハーデンが51得点 —— 自身26度目の50得点ゲームで歴代3位",
+      "excerpt": "クリーブランド・キャバリアーズのジェームズ・ハーデン(James Harden)は現地時間11月20日、本拠地で行われたインディアナ・ペイサーズ戦に40分出場し、フィールドゴール26本中15本・3ポイント11本中7本・フリースロー14本中14本を沈めて51得点を記録した。これはハーデンのキャリア26度目の50得点ゲームで、ESPNによると故コービー・ブライアントを抜いてNBA史上3番目に多い50得点ゲームの記録保持者になったと報じられている。キャバリアーズは128-119でペイサーズを下した。",
+      "points": [
+        "FG15/26・3P7/11・FT14/14の51得点",
+        "キャバリアーズが128-119でペイサーズに勝利",
+        "故コービーを抜きキャリア26度目の50得点ゲームで歴代3位"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1094-james-harden-51-points-cavaliers.html",
+      "hero_path": "",
+      "subject": [
+        "James Harden"
+      ],
+      "question": "ハーデンの51得点、今季ベストの一戦だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMES HARDEN",
+        "opponent": "vs. PACERS",
+        "points": 51,
+        "stats": [
+          "6 REB",
+          "6 AST",
+          "15/26 FG",
+          "7/11 3PT",
+          "14/14 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1094-1.jpg",
+        "https://sixten.jp/assets/ig/1094-2.jpg",
+        "https://sixten.jp/assets/ig/1094-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T13:00:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ハーデンが51得点 —— 自身26度目の50得点ゲームで歴代3位\n\n・FG15/26・3P7/11・FT14/14の51得点\n・キャバリアーズが128-119でペイサーズに勝利\n・故コービーを抜きキャリア26度目の50得点ゲームで歴代3位\n\n💬 ハーデンの51得点、今季ベストの一戦だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1095",
+      "slug": "1095-shai-gilgeous-alexander-40-points-thunder",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "SGAが40得点 —— サンダーがペリカンズに126-120で勝利",
+      "excerpt": "オクラホマシティ・サンダーのシェイ・ギルジャス=アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月20日、本拠地で行われたニューオーリンズ・ペリカンズ戦に37分出場し、フィールドゴール24本中14本・3ポイント7本中4本・フリースロー11本中8本を沈めて40得点を記録した。両チーム通じてこの日の最多得点者となり、サンダーは126-120でペリカンズを下した。",
+      "points": [
+        "FG14/24・3P4/7・FT8/11の40得点",
+        "アシスト8も記録",
+        "サンダーが126-120でペリカンズに勝利"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1095-shai-gilgeous-alexander-40-points-thunder.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "SGAとハーデン、今季の得点力はどっちが上？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. PELICANS",
+        "points": 40,
+        "stats": [
+          "8 AST",
+          "3 REB",
+          "14/24 FG",
+          "4/7 3PT",
+          "8/11 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1095-1.jpg",
+        "https://sixten.jp/assets/ig/1095-2.jpg",
+        "https://sixten.jp/assets/ig/1095-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T13:00:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "SGAが40得点 —— サンダーがペリカンズに126-120で勝利\n\n・FG14/24・3P4/7・FT8/11の40得点\n・アシスト8も記録\n・サンダーが126-120でペリカンズに勝利\n\n💬 SGAとハーデン、今季の得点力はどっちが上？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1096",
+      "slug": "1096-anthony-davis-36-points-wizards",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "デイビスが36得点11リバウンド —— ウィザーズが98-94で勝利",
+      "excerpt": "ワシントン・ウィザーズのアンソニー・デイビス(Anthony Davis)は現地時間11月20日、本拠地で行われたシカゴ・ブルズ戦に34分出場し、フィールドゴール26本中16本を沈めて36得点・11リバウンドを記録した。両チーム通じてこの日の最多得点者となり、ウィザーズは98-94でブルズを下した。",
+      "points": [
+        "FG16/26の36得点",
+        "リバウンド11のダブルダブル",
+        "ウィザーズが98-94でブルズに勝利"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1096-anthony-davis-36-points-wizards.html",
+      "hero_path": "",
+      "subject": [
+        "Anthony Davis"
+      ],
+      "question": "デイビスのダブルダブル、今季ウィザーズのベストゲーム？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ANTHONY DAVIS",
+        "opponent": "vs. BULLS",
+        "points": 36,
+        "stats": [
+          "11 REB",
+          "3 AST",
+          "16/26 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1096-1.jpg",
+        "https://sixten.jp/assets/ig/1096-2.jpg",
+        "https://sixten.jp/assets/ig/1096-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T13:00:15+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デイビスが36得点11リバウンド —— ウィザーズが98-94で勝利\n\n・FG16/26の36得点\n・リバウンド11のダブルダブル\n・ウィザーズが98-94でブルズに勝利\n\n💬 デイビスのダブルダブル、今季ウィザーズのベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1097",
+      "slug": "1097-franz-wagner-35-points-magic",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "フランツ・バグナーが35得点 —— マジックが113-111の接戦制す",
+      "excerpt": "オーランド・マジックのフランツ・バグナー(Franz Wagner)は現地時間11月20日、本拠地で行われたブルックリン・ネッツ戦に36分出場し、フィールドゴール25本中13本・3ポイント5本中2本・フリースロー9本中7本を沈めて35得点を記録した。両チーム通じてこの日の最多得点者となり、マジックは113-111でネッツを下した。",
+      "points": [
+        "FG13/25・3P2/5・FT7/9の35得点",
+        "アシスト7も記録",
+        "マジックが113-111でネッツに勝利"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1097-franz-wagner-35-points-magic.html",
+      "hero_path": "",
+      "subject": [
+        "Franz Wagner"
+      ],
+      "question": "バグナーの得点力、今季さらに上がると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "FRANZ WAGNER",
+        "opponent": "vs. NETS",
+        "points": 35,
+        "stats": [
+          "7 AST",
+          "5 REB",
+          "13/25 FG",
+          "2/5 3PT",
+          "7/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1097-1.jpg",
+        "https://sixten.jp/assets/ig/1097-2.jpg",
+        "https://sixten.jp/assets/ig/1097-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T13:00:15+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "フランツ・バグナーが35得点 —— マジックが113-111の接戦制す\n\n・FG13/25・3P2/5・FT7/9の35得点\n・アシスト7も記録\n・マジックが113-111でネッツに勝利\n\n💬 バグナーの得点力、今季さらに上がると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1098",
+      "slug": "1098-scottie-barnes-29-points-raptors",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "スコッティ・バーンズが29得点 —— ラプターズが105-102で勝利",
+      "excerpt": "トロント・ラプターズのスコッティ・バーンズ(Scottie Barnes)は現地時間11月20日、本拠地で行われたデトロイト・ピストンズ戦に37分出場し、フィールドゴール21本中14本を沈めて29得点を記録した。両チーム通じてこの日の最多得点者となり、ラプターズは105-102でピストンズを下した。",
+      "points": [
+        "FG14/21(66.7%)の29得点",
+        "リバウンド5・アシスト5",
+        "ラプターズが105-102でピストンズに勝利"
+      ],
+      "source": "ESPN",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1098-scottie-barnes-29-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Scottie Barnes"
+      ],
+      "question": "バーンズの高確率スコアリング、どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOTTIE BARNES",
+        "opponent": "vs. PISTONS",
+        "points": 29,
+        "stats": [
+          "5 REB",
+          "5 AST",
+          "14/21 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1098-1.jpg",
+        "https://sixten.jp/assets/ig/1098-2.jpg",
+        "https://sixten.jp/assets/ig/1098-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T13:00:15+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "スコッティ・バーンズが29得点 —— ラプターズが105-102で勝利\n\n・FG14/21(66.7%)の29得点\n・リバウンド5・アシスト5\n・ラプターズが105-102でピストンズに勝利\n\n💬 バーンズの高確率スコアリング、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
