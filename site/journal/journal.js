@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1093-jalen-johnson-26-points-hornets.html",
+    cat: "NBA",
+    title: "ジェイレン・ジョンソン、ホーネッツ戦で26得点 —— ホークスが111-97で勝利",
+    excerpt: "アトランタ・ホークスのジェイレン・ジョンソン(Jalen Johnson)は現地時間11月20日、本拠地ステート・ファーム・アリーナで行われたシャーロット・ホーネッツ戦に36分出場し、フィールドゴール15本中10本・3ポイント4本中3本を沈めて26得点を記録した。両チーム通じてこの日の最多得点者となり、ホークスは111-97でホーネッツを下した。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1092-puma-hali-2-thermal-vision.html",
+    cat: "KICKS",
+    title: "PUMA HALI 2「THERMAL VISION」が12月4日発売 —— ハリバートンの2代目シグネチャー、佐々木隆成選手のインタビューも公開",
+    excerpt: "プーマ バスケットボールは、タイリース・ハリバートン(Tyrese Haliburton)の2代目シグネチャーモデル「PUMA HALI 2」の新色「THERMAL VISION」を2026年12月4日に発売する。価格は19,800円(税込)。デザインはサレヘ・ベンバリー(Salehe Bembury)が手がけ、NITROFOAMを採用して軽量化と反発性を高めた。プーマ公式サイトでは、Bリーグ・三遠ネオフェニックス所属で日本代表の佐々木隆成選手のインタビューコンテンツも公開されている。",
+    date: "2026.11.21",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1091-haliburton-hamstring-timeline.html",
     cat: "NBA",
     title: "タイリース・ハリバートン、左ハムストリング離脱は「最低でも」あと2週間 —— シャムズがNBA Todayで見通し語る",

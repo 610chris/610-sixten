@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T08:57:00+09:00",
+  "updated": "2026-11-21T11:28:18+09:00",
   "items": [
     {
       "id": "134",
@@ -35250,6 +35250,88 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ハリバートン、ハムストリング離脱あと最低2週間\n\n・左ハムストリングの負傷で最低2週間ほど欠場の見通し\n・10月28日の負傷時は期間未定、今回初めて具体的な目安\n・開幕4試合は平均21.8得点9.5アシストと好調だった\n\n💬 ハリバートン抜きのペイサーズ、この2週間どう乗り切る?\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「2026-27 NBA buzz」(Shams Charania記者、NBA Today)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1092",
+      "slug": "1092-puma-hali-2-thermal-vision",
+      "category": "KICKS",
+      "date": "2026-11-21",
+      "headline": "PUMA HALI 2「THERMAL VISION」が12月4日発売",
+      "excerpt": "プーマ バスケットボールは、タイリース・ハリバートン(Tyrese Haliburton)の2代目シグネチャーモデル「PUMA HALI 2」の新色「THERMAL VISION」を2026年12月4日に発売する。価格は19,800円(税込)。デザインはサレヘ・ベンバリー(Salehe Bembury)が手がけ、NITROFOAMを採用して軽量化と反発性を高めた。プーマ公式サイトでは、Bリーグ・三遠ネオフェニックス所属で日本代表の佐々木隆成選手のインタビューコンテンツも公開されている。",
+      "points": [
+        "ハリバートンの2代目シグネチャー新色",
+        "サレヘ・ベンバリーがデザイン",
+        "佐々木隆成選手のインタビューも公開"
+      ],
+      "source": "FLY BASKETBALL CULTURE MAGAZINE",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1092-puma-hali-2-thermal-vision.html",
+      "hero_path": "",
+      "subject": [
+        "Tyrese Haliburton"
+      ],
+      "question": "このバッシュ、買う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/1092-1.jpg",
+        "https://sixten.jp/assets/ig/1092-2.jpg",
+        "https://sixten.jp/assets/ig/1092-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T11:27:52+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "PUMA HALI 2「THERMAL VISION」が12月4日発売\n\n・ハリバートンの2代目シグネチャー新色\n・サレヘ・ベンバリーがデザイン\n・佐々木隆成選手のインタビューも公開\n\n💬 このバッシュ、買う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: FLY BASKETBALL CULTURE MAGAZINE\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "1093",
+      "slug": "1093-jalen-johnson-26-points-hornets",
+      "category": "NBA",
+      "date": "2026-11-21",
+      "headline": "ジェイレン・ジョンソン、ホーネッツ戦で26得点",
+      "excerpt": "アトランタ・ホークスのジェイレン・ジョンソン(Jalen Johnson)は現地時間11月20日、本拠地ステート・ファーム・アリーナで行われたシャーロット・ホーネッツ戦に36分出場し、フィールドゴール15本中10本・3ポイント4本中3本を沈めて26得点を記録した。両チーム通じてこの日の最多得点者となり、ホークスは111-97でホーネッツを下した。",
+      "points": [
+        "FG10/15・3P3/4で26得点",
+        "リバウンド6・アシスト6・スティール4",
+        "ホークスが111-97で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1093-jalen-johnson-26-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Johnson"
+      ],
+      "question": "ホークス、今季どこまで行ける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN JOHNSON",
+        "opponent": "vs. HORNETS",
+        "points": 26,
+        "stats": [
+          "6 REB",
+          "6 AST",
+          "4 STL",
+          "10/15 FG",
+          "3/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1093-1.jpg",
+        "https://sixten.jp/assets/ig/1093-2.jpg",
+        "https://sixten.jp/assets/ig/1093-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-21T11:28:15+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイレン・ジョンソン、ホーネッツ戦で26得点\n\n・FG10/15・3P3/4で26得点\n・リバウンド6・アシスト6・スティール4\n・ホークスが111-97で勝利\n\n💬 ホークス、今季どこまで行ける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
