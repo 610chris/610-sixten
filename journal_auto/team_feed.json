@@ -1,8 +1,99 @@
 {
- "updated_utc": "2026-11-21 02:46 UTC",
+ "updated_utc": "2026-11-21 11:41 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-improve-to-2-0-in-emirates-nba-cup-with-win-over-rockets",
+   "url": "https://www.nba.com/nuggets/news/nuggets-improve-to-2-0-in-emirates-nba-cup-with-win-over-rockets",
+   "canonical_url": "https://nuggets.com/news/nuggets-improve-to-2-0-in-emirates-nba-cup-with-win-over-rockets",
+   "title": "Nuggets improve to 2-0 in Emirates NBA Cup with win over Rockets",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-21T06:34:05Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets earned another win against a contender and defeated the Houston Rockets, 133-124, on Friday. They're now 9-5 on the season, good for seventh place in the Western Conference. The Nuggets also improved to 4-3 at home.",
+   "facts": [
+    "The Denver Nuggets earned another win against a contender and defeated the Houston Rockets, 133-124, on Friday.",
+    "They're now 9-5 on the season, good for seventh place in the Western Conference.",
+    "The Nuggets also improved to 4-3 at home.",
+    "Denver entered Friday with some serious momentum after taking down the Boston Celtics, 105-101, behind a 17-point comeback and pristine execution in the clutch.",
+    "The win against the Rockets (12-5) was similar; they outscored their opponent 23-9 in the final five minutes of the fourth quarter.",
+    "Collectively, they shot 54.7 percent from the field, 43.3 percent from three-point land, and 92.9 percent from the free-throw line.",
+    "Denver also had seven of their 10 rotation players reach double figures in points.",
+    "Their bench outscored Houston's, 37-12."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-knicks-261122",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-knicks-261122",
+   "canonical_url": "https://pacers.com/news/preview-pacers-knicks-261122",
+   "title": "Game Preview: Pacers at Knicks",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-21T05:55:09Z",
+   "tags": [
+    "2026 NBA Cup",
+    "2026-27 Game Preview"
+   ],
+   "summary": "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden",
+   "facts": [
+    "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden Game Preview The Pacers (5-11) will try to snap a three-game skid on Sunday in New York, when they face off against the defending NBA champion Knicks (9-6) at Madiso…",
+    "Indiana won the first matchup 106-104 on Nov. 13 at Gainbridge Fieldhouse.",
+    "That was the second straight win for the Pacers, but they have dropped their last three contests since, falling in Philadelphia on Nov. 15, at home to Houston on Wednesday, and in Cleveland on Friday night in an NBA Cup …",
+    "A disastrous third quarter doomed the Blue & Gold in Cleveland, as the Cavs outscored Indiana 43-22 in the frame to pull away for the win.",
+    "James Harden went off for 51 points for the Cavs in the victory, going 7-for-11 from 3-point range and 14-for-14 from the free throw line.",
+    "Ivica Zubac led the Pacers with 21 points on 8-of-11 shooting and 10 rebounds in the loss, while All-Star forward Pascal Siakam also scored 21.",
+    "Brunson is averaging 26.6 points and 5.9 assists per game, while Towns contributes 21.3 points and a league-leading 13.9 rebounds per contest.",
+    "Probable Starters Pacers: G - Andrew Nembhard, G - Aaron Nesmith, F - Kelly Oubre Jr., F - Pascal Siakam, C - Ivica Zubac Knicks: G - Jalen Brunson, G - Mikal Bridges, F - Josh Hart, F - OG Anunoby, C - Karl-Anthony Town…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/cold-shooting-hurts-utah-jazz-in-loss-to-suns-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/cold-shooting-hurts-utah-jazz-in-loss-to-suns-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/cold-shooting-hurts-utah-jazz-in-loss-to-suns-key-takeaways",
+   "title": "Cold Shooting Hurts Utah Jazz in Loss to Suns: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-21T05:35:08Z",
+   "tags": [
+    "Brice Sensabaugh",
+    "Darryn Peterson",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "The home cooking that the Utah Jazz hoped to return to following two wins on the road wasn’t there at the Delta Center Friday night.",
+   "facts": [
+    "The home cooking that the Utah Jazz hoped to return to following two wins on the road wasn’t there at the Delta Center Friday night.",
+    "Ultimately, the Suns pulled out a 111-101 victory, with five players in double-figures and 35 bench points.",
+    "Rookie Darryn Peterson set new career highs in rebounds (10) and assists (eight) in the loss.",
+    "Utah coughed it up five times in the first frame, which opened the door for the Suns to take a 26-23 lead heading into the second quarter.",
+    "The Phoenix bench continued to have success to begin the second quarter, which helped fuel a 13-4 run for the visitors that created a 12-point advantage.",
+    "Collin Gillespie led the charge for the Suns during the first half, with 11 of Phoenix’s 29 bench points.",
+    "As the Jazz continued to struggle to make shots (5-of-24 from three) or take care of the ball (nine turnovers), the Suns remained in control and eventually took a 61-49 advantage into the halftime break.",
+    "Both squads were efficient from the field during a third frame that featured plenty of fouls, but Phoenix took an 89-76 lead into the final 12 minutes of play."
+   ],
+   "quotes": [
+    "In the first half we got good looks and in the second half their physicality bothered us,"
+   ]
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -12,23 +103,114 @@
    "key": "https://www.nba.com/pacers/news/rewind-pacers-cavaliers-261120",
    "url": "https://www.nba.com/pacers/news/rewind-pacers-cavaliers-261120",
    "canonical_url": "https://pacers.com/news/rewind-pacers-cavaliers-261120",
-   "title": "Halftime Rewind: Pacers 61, Cavaliers 62 (NBA Cup)",
+   "title": "Game Rewind: Pacers 119, Cavaliers 128 (NBA Cup)",
    "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-21T01:47:04Z",
+   "published_utc": "2026-11-21T04:21:03Z",
    "tags": [
     "2026 NBA Cup",
     "2026-27 Game Rewind"
    ],
    "summary": "Friday, Nov. 20 at 7:30 PM ET at Rocket Arena",
    "facts": [
-    "Friday, Nov. 20 at 7:30 PM ET at Rocket Arena Halftime Rewind The Pacers took on the Cleveland Cavaliers on Friday in their third NBA Cup group play contest of the season.",
-    "Indiana was 1-1 in NBA Cup play entering the contest, as was Cleveland.",
-    "The Cavaliers led after the first half, 62-61.",
+    "Friday, Nov. 20 at 7:30 PM ET at Rocket Arena Game Recap James Harden had a season-high 51 points, and the Indiana Pacers fell to 1-2 in NBA Cup group play as the Cavaliers took the win on Friday, 128-119.",
+    "Both teams were 1-1 in NBA Cup play entering Friday’s contest, and the Pacers looked strong early as they led by as many as 14 points in the first half.",
     "Kelly Oubre Jr. put the Pacers on the board first as he took the tip to the rim for a layup, but Cleveland scored the next eight points to lead, 8-2, early in the first quarter.",
     "Andrew Nembhard returned to the lineup for Indiana on Friday following a two-game absence due to soreness in his left hip, and knocked down a 3-pointer to bring the Pacers back within three points of Cleveland’s lead, 8-…",
-    "The Cavaliers led, 18-15, with just under five minutes to play after James Harden went 3-for-3 from the free throw line.",
+    "The Cavaliers led, 18-15, with just under five minutes to play in the first quarter after Harden went 3-for-3 from the free throw line.",
     "Harden was a force for the Cavs in the opening frame as he scored 15 of Cleveland’s first 23 points.",
-    "The game was knotted at 24 entering the final two minutes, and again at 29 with 15 seconds remaining in the first quarter."
+    "The game was knotted at 24 entering the final two minutes, and again at 29 with 15 seconds remaining in the first quarter.",
+    "Indiana was still tied with Cleveland when the first quarter buzzer sounded, 29-29."
+   ],
+   "quotes": [
+    "We did quite a few good things and then let go of the rope in the third quarter, and that can't happen. Simple as that…There's going to be ebbs and flows in games…But it's a consistency thing, and we’…",
+    "They've got two great, great, players that put you in a lot of binds, and they’ve got a lot of shooting around those guys. And they were hitting shots, and you know Harden obviously had a phenomenal g…",
+    "He was having one of his best games. Defensively, he was solid. Offensively, he was creating problems for the opponent.",
+    "Nobody wants to hear excuses about anything. What our fans want to see is us playing like that group in the last eight minutes played…Hard as possible, flying around, you know, making the other team u…"
+   ]
+  },
+  {
+   "source": "SAS 公式（nba.com）",
+   "team": "SAS",
+   "team_ja": "スパーズ",
+   "team_id": 1610612759,
+   "kind": "feature",
+   "key": "https://www.nba.com/spurs/news/san-antonio-spurs-turn-art-into-impact-by-raising-more-than-1-1-million-at-champions-for-change",
+   "url": "https://www.nba.com/spurs/news/san-antonio-spurs-turn-art-into-impact-by-raising-more-than-1-1-million-at-champions-for-change",
+   "canonical_url": "https://spurs.com/news/san-antonio-spurs-turn-art-into-impact-by-raising-more-than-1-1-million-at-champions-for-change",
+   "title": "San Antonio Spurs Turn Art Into Impact By Raising More Than $1.1 Million At ‘Champions For Change’",
+   "author": "sasmbrodsky",
+   "published_utc": "2026-11-21T03:59:03Z",
+   "tags": [
+    "Featured",
+    "press-release"
+   ],
+   "summary": "SAN ANTONIO (Nov. 20, 2026) – The San Antonio Spurs hosted their third annual “Champions for Change” event, presented by Meter, on Friday, Nov. 20 at the Victory Capital Performance Center. Centered on this year’s theme, “The Art of Basketball,” the evening brought together Spurs players, coaches and community members for art, entertainment and opportunities to connect with the team, raising more …",
+   "facts": [
+    "SAN ANTONIO (Nov. 20, 2026) – The San Antonio Spurs hosted their third annual “Champions for Change” event, presented by Meter, on Friday, Nov. 20 at the Victory Capital Performance Center.",
+    "Centered on this year’s theme, “The Art of Basketball,” the evening brought together Spurs players, coaches and community members for art, entertainment and opportunities to connect with the team, raising more than $1.1 …",
+    "The event welcomed 500 guests for a night of art, basketball-inspired interactive entertainment and opportunities to connect with the team.",
+    "In 2025-26, SS&E invested more than $4 million in the community, engaged over 200,000 people and worked with 742 nonprofit organizations.",
+    "Proceeds from Champions for Change will support the Spurs Impact Center, a $10 million transformation of the team’s former practice facility into a community hub connecting people to opportunities in youth sports, leader…"
+   ],
+   "quotes": [
+    "Champions for Change brings our players, partners and neighbors together around a shared commitment to San Antonio,",
+    "We’re grateful to everyone who joined us to support programming at the Spurs Impact Center that helps young people and community leaders strengthen their leadership skills and make a difference in the…",
+    "The Spurs Impact Center is a physical home for our purpose, where we lean into our legacy of building champions to create a space for belonging and leadership development,",
+    "The generosity shown through Champions for Change helps make those opportunities possible for more people in San Antonio. We’re thankful to our guests, players and partners for supporting the communit…"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/thunder-126-pelicans-120-nba-cup-group-stage-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/thunder-126-pelicans-120-nba-cup-group-stage-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/thunder-126-pelicans-120-nba-cup-group-stage-postgame-wrap",
+   "title": "Thunder 126, Pelicans 120 | NBA Cup group stage postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-21T03:31:44Z",
+   "tags": [],
+   "summary": "Unlike several recent meetings with Oklahoma City, Friday’s visit to the Sooner State was a highly competitive battle that wasn’t decided until the final two minutes. The Thunder ultimately prevailed, outplaying the Pelicans in clutch time, turning an extremely tight matchup into a six-point final margin. OKC star guard Shai Gilgeous-Alexander made a series of back-breaking scores from the field a…",
+   "facts": [
+    "New Orleans led 98-92 through three quarters, but OKC outscored its guests 34-22 over the final 12 minutes, with the Pelicans only managing eight baskets.",
+    "Zion Williamson and Jeremiah Fears topped New Orleans with 22 points apiece.",
+    "Williamson did a chunk of his damage in the first half, scoring 18 points as the Pelicans went 64-56 at the break.",
+    "In his first game back from injury and a six-game absence, Trey Murphy provided 17 points off the bench, including 3/8 three-point gunning.",
+    "Herb Jones also got hot from beyond the arc, draining four threes in seven attempts, among his 14 points.",
+    "BY THE NUMBERS 17/39: New Orleans three-point shooting, representing a season high for made triples, as well as a top night of 2026-27 at 44 percent from deep.",
+    "However, only one of those buckets occurred in the fourth quarter (Saddiq Bey, who sank one trey in every period). 49/92: Oklahoma City shooting from the field, which is 53 percent.",
+    "The Thunder joined Detroit in becoming a second straight New Orleans opponent to make over half of its shots. 60-42: In related news, OKC bested NOLA by 18 in paint points."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hornets-strong-start-fizzles-out-in-2nd-half-against-atlanta",
+   "url": "https://www.nba.com/hornets/news/hornets-strong-start-fizzles-out-in-2nd-half-against-atlanta",
+   "canonical_url": "https://hornets.com/news/hornets-strong-start-fizzles-out-in-2nd-half-against-atlanta",
+   "title": "Hornets’ Strong Start Fizzles Out In 2nd Half Against Atlanta",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-21T03:17:59Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Hoping to close out a tough road trip on a positive note, the Hornets got off to a strong start on Friday night in Atlanta before turnover issues caught up to them again in a 111-97 road loss.",
+   "facts": [
+    "Hoping to close out a tough road trip on a positive note, the Hornets got off to a strong start on Friday night in Atlanta before turnover issues caught up to them again in a 111-97 road loss.",
+    "Top Performers: Moussa Diabate posted a career-high-tying 21 points on 9-of-12 shooting and a game-high 15 rebounds (eight offensive) for his fourth double-double of the season and second in three outings.",
+    "Brandon Miller added 19 points on 7-of-18 shooting, five 3-pointers and eight rebounds, while Naz Reid also double-doubled (12 points and 10 rebounds) and became the second active undrafted NBA player to reach 6,000 care…",
+    "Jalen Johnson led all five Atlanta starters in double figures with a game-high 26 points on 10-of-15 shooting, six rebounds, six assists and four steals.",
+    "Aaron Wiggins scored 19 points on 7-of-12 shooting starting in place of CJ McCollum (calf strain) and Dyson Daniels nearly triple-doubled with 10 points on 5-of-10 shooting, eight rebounds, a game-high 10 assists and fou…",
+    "Turning Point: Up one at the break, Charlotte turned the basketball over six times for 12 Atlanta points in the third quarter, as Atlanta took the frame, 31-19, for an 11-point lead heading into the fourth.",
+    "The Hawks also shot 60% and 5-of-9 from 3-point range (56%) over this 12-minute stretch and seemingly took advantage of every mistake and miscue the Hornets made.",
+    "Buzzworthy Takeaways Charlotte had a relatively modest 17 turnovers against the Hawks’ handsy defense, but nearly all of them were of the live-ball variety and resulted in a demoralizing 36 points the other way."
    ],
    "quotes": []
   },
@@ -1642,105 +1824,6 @@
     "Here are the RAV4 Things to Know ahead of Wednesday’s game: Something’s Got to Give The Sixers and Magic enter Wednesday’s matchup riding winning streaks of three and four games, respectively."
    ],
    "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hornets-drop-heartbreaker-in-ot-following-lakers-late-charge",
-   "url": "https://www.nba.com/hornets/news/hornets-drop-heartbreaker-in-ot-following-lakers-late-charge",
-   "canonical_url": "https://hornets.com/news/hornets-drop-heartbreaker-in-ot-following-lakers-late-charge",
-   "title": "Hornets Drop Heartbreaker In OT Following Lakers’ Late Charge",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-18T08:07:57Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "On the brink of what would have been their most impressive win of the season, the Charlotte Hornets couldn’t survive some late heroic shot-making by the Los Angeles Lakers in a 118-114 overtime road loss on Tuesday night.",
-   "facts": [
-    "On the brink of what would have been their most impressive win of the season, the Charlotte Hornets couldn’t survive some late heroic shot-making by the Los Angeles Lakers in a 118-114 overtime road loss on Tuesday night…",
-    "Top Performers: Brandon Miller snapped out of his recent dry spell, totaling a team-high 28 points on 10-of-19 shooting, a season-high-tying five 3-pointers (5-of-30 from 3-point over his previous four games) and four as…",
-    "Naz Reid (23 points and 11 rebounds) double-doubled for the fifth time this season, Coby White had 19 points on 6-of-12 shooting and Moussa Diabate added on five points and a game-high 16 rebounds.",
-    "Quentin Grimes exploded for a career-high 47 points – 21 in the fourth quarter – on 16-of-24 shooting, a career-high 10 3-pointers (most in the NBA this season), six rebounds and three assists in 47 minutes, as the Laker…",
-    "Luka Dončić, who leads the NBA in scoring (39.0 points) by a substantial margin, followed up with 36 points on 13-of-34 shooting, six rebounds and seven assists, despite picking up four first-half fouls.",
-    "Turning Point: The Hornets used runs of 18-5 and 18-4 in the second and third quarters, respectively, to build a 94-81 lead heading into the fourth, but the Lakers volleyed back with a 23-10 surge that tied the game at 1…",
-    "Charlotte soon went back up by four, but two missed free throws and a pivotal turnover in the final 33 seconds left the door open for Grimes to hit a game-tying 3-pointer in the closing moments.",
-    "Reid opened overtime with a 3-pointer of his own before the Lakers closed the extra frame on a 7-0 run."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-back-to-back-with-matchup-against-lakers",
-   "title": "Preview: Utah Jazz End Back-to-Back With Matchup Against Lakers",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-18T07:18:39Z",
-   "tags": [
-    "Brice Sensabaugh",
-    "Keyonte George",
-    "Utah Jazz"
-   ],
-   "summary": "The Utah Jazz are spending a few days in the City of Angels.",
-   "facts": [
-    "Led by hot shot-making from the likes of Brice Sensabaugh (40 points) and Keyonte George (30 points, 11 assists), the Jazz got back in the win column with a 132-107 victory.",
-    "Utah dished out a season-high 35 assists and knocked down 20 3-pointers, but it was also stingy defense in the fourth quarter that helped push the visitors to a much-needed win.",
-    "The Lakers have thrived out of the gates to begin the season, racing to a 13-2 record that has been fueled in large part by the league’s top-ranked offense.",
-    "Luka Dončić has dominated in the early going, averaging 39 points and 7.8 assists per game heading into Tuesday’s action.",
-    "Although Austin Reaves has missed time as of late, he has provided Dončić with an effective running mate (24.7 points and 4.7 assists per game), while former Jazzman Walker Kessler has helped LA’s interior presence (14.5…",
-    "The Lakers won the first meeting between the two teams 132-123 back on Oct. 25.",
-    "Los Angeles has thrived defensively when it comes to forcing turnovers, leading the league in opponent turnover percentage (18.7 percent).",
-    "However, on the other end, the Lakers have struggled to take care of the ball, ranking 25th in their own turnover percentage."
-   ],
-   "quotes": [
-    "Tonight’s game is a culmination of the team’s work and them sticking together and improving every day,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-132-la-clippers-107-key-takeaways",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-132-la-clippers-107-key-takeaways",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-132-la-clippers-107-key-takeaways",
-   "title": "Utah Jazz 132, LA Clippers 107: Key Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-18T06:22:59Z",
-   "tags": [
-    "Brice Sensabaugh",
-    "Josh Okogie",
-    "Keyonte George",
-    "Svi Mykhailiuk",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "Adversity and resilience have been two words often used to describe the beginning of the 2026-27 Utah Jazz season.",
-   "facts": [
-    "Adversity and resilience have been two words often used to describe the beginning of the 2026-27 Utah Jazz season.",
-    "The Jazz got 40 points from Brice Sensabaugh off the bench, 30 points and 11 assists from Keyonte George, and knocked down 20 3-pointers in a 132-107 victory.",
-    "George (eight points, five assists) and Sensabaugh (12 points) led Utah, while Darius Garland spearheaded LA’s offense with 13 points.",
-    "Both teams were knocking down shots from deep (eight combined in the first 12 minutes), with the Clippers generating a few additional trips to the free-throw line.",
-    "After a back-and-forth quarter, the Jazz held a 35-29 lead heading into the second frame.",
-    "Utah’s hot shooting carried over into the second quarter, as the visitors created a 12-point lead following back-to-back 3-pointers from Svi Mykhailiuk.",
-    "After leading nearly the entire quarter, the Jazz found themselves down 62-58 at the half following a 13-0 run by the Clippers.",
-    "Utah bounced back with a 15-4 run to begin the second half, with six made shots (on six attempts) that all came off an assist."
-   ],
-   "quotes": [
-    "It’s no secret that we haven’t gotten the ultimate results we’ve wanted lately,",
-    "Tonight’s game is a culmination of the team’s work and them sticking together and improving every day. I’m really proud of the team… the fabric of the locker room is in a really good place right now.",
-    "We didn’t get bogged down and everyone was trusting the pass,",
-    "Our defense helped us get out and play against an unset defense."
-   ]
   }
  ]
 }
