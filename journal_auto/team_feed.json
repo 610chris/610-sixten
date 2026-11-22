@@ -1,8 +1,84 @@
 {
- "updated_utc": "2026-11-22 07:25 UTC",
+ "updated_utc": "2026-11-22 15:38 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "injury",
+   "key": "https://www.nba.com/bulls/news/norman-powell-medical-update",
+   "url": "https://www.nba.com/bulls/news/norman-powell-medical-update",
+   "canonical_url": "https://bulls.com/news/norman-powell-medical-update",
+   "title": "NORMAN POWELL MEDICAL UPDATE",
+   "author": "Bulls.com",
+   "published_utc": "2026-11-22T15:13:10Z",
+   "tags": [
+    "Medical Update"
+   ],
+   "summary": "Chicago Bulls guard Norman Powell sustained a mild right hamstring strain during Friday night’s game versus the Washington Wizards.",
+   "facts": [
+    "Chicago Bulls guard Norman Powell sustained a mild right hamstring strain during Friday night’s game versus the Washington Wizards.",
+    "Powell will be re-evaluated later this week."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-jazz-preview-heres-hoping-this-trip-is-better-than-the-last-one",
+   "url": "https://www.nba.com/mavs/news/mavericks-jazz-preview-heres-hoping-this-trip-is-better-than-the-last-one",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-jazz-preview-heres-hoping-this-trip-is-better-than-the-last-one",
+   "title": "Mavericks-Jazz preview: Here's hoping this trip is better than the last one",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-22T14:28:40Z",
+   "tags": [],
+   "summary": "SALT LAKE CITY – OK, let’s try this again.",
+   "facts": [
+    "The Mavericks took off for a three-game trip 10 days ago and it did not go well.",
+    "They dropped all three games by a combined 86 points.",
+    "But they returned home to go 2-0 on a quick home stand and now, they head out for another three-game trip, this time with holiday cheer.",
+    "Remember, the Mavericks were the only team to lose to Sacramento until Saturday night when Boston lost on the road to the 2-14 Kings.",
+    "The guard knocked down three of four three-pointers in the 110-100 win over the Los Angeles Clippers on Saturday.",
+    "He was a 40.4 percent shooter last season.",
+    "On Saturday against the Clippers, they were 13-of-33 (39.3 percent).",
+    "Against the Golden State Warriors in the previous game, they were 17-of-41 (41.5 percent)."
+   ],
+   "quotes": [
+    "Water Tends to find its level,"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "roster",
+   "key": "https://www.nba.com/sixers/news/76ers-extend-win-streak-defeat-bucks-132-129",
+   "url": "https://www.nba.com/sixers/news/76ers-extend-win-streak-defeat-bucks-132-129",
+   "canonical_url": "https://sixers.com/news/76ers-extend-win-streak-defeat-bucks-132-129",
+   "title": "76ers Extend Win Streak, Defeat Bucks 132-129",
+   "author": "76ers PR",
+   "published_utc": "2026-11-22T12:21:13Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers defeated the Milwaukee Bucks, 132-129, marking their fifth consecutive win, improving their record to 14-3 overall and 12-0 in ‘clutch games’.",
+   "facts": [
+    "The Philadelphia 76ers defeated the Milwaukee Bucks, 132-129, marking their fifth consecutive win, improving their record to 14-3 overall and 12-0 in ‘clutch games’.",
+    "Philadelphia leads the season series 2-0 and has won six consecutive games against Milwaukee dating back to Nov. 20, 2025.",
+    "JOEL EMBIID recorded his sixth double-double of the season with 26 points on 7-of-17 shooting and a season-high 17 rebounds, to go along with nine assists.",
+    "This afternoon marked his 267th career game with at least 20 points and 10 rebounds (third most in franchise history).",
+    "Over his last three games, Embiid is averaging 29.7 points, 9.3 rebounds, 5.7 assists, two blocks, and one steal.",
+    "To hear Nick Nurse’s postgame press conference and game highlights as called by Tom McGinnis, check out the 76ers Insiders podcast: SPOTIFY LINK | APPLE PODCASTS LINK ANFERNEE SIMONS led all 76ers reserves with 18 points…",
+    "DOMINICK BARLOW recorded 12 points on 5-of-6 shooting (50% 3FG), four rebounds, and one assist in his first game of the 2026-27 season.",
+    "NEXT UP: The Philadelphia 76ers will host the Portland Trail Blazers at Xfinity Mobile Arena Monday, Nov. 23."
+   ],
+   "quotes": []
+  },
   {
    "source": "BOS 公式（nba.com）",
    "team": "BOS",
@@ -44,7 +120,7 @@
    "key": "https://www.nba.com/mavs/news/the-moment-he-first-saw-quincy-acy-baylors-tweety-carter-wanted-him-as-a-teammate",
    "url": "https://www.nba.com/mavs/news/the-moment-he-first-saw-quincy-acy-baylors-tweety-carter-wanted-him-as-a-teammate",
    "canonical_url": "https://mavs.com/mavs/news/the-moment-he-first-saw-quincy-acy-baylors-tweety-carter-wanted-him-as-a-teammate",
-   "title": "The moment he first saw Quincy Acy, Baylor's Tweety Carter wanted him as a teammate",
+   "title": "When he first saw Quincy Acy, Baylor's Tweety Carter wanted him as a teammate",
    "author": "Dwain Price",
    "published_utc": "2026-11-22T04:46:06Z",
    "tags": [
@@ -62,7 +138,7 @@
     "He had another year of high school and he came on a visit and he was in some slippers and he was standing under the goal,",
     "And luckily, we were blessed to get him. It was great to have that experience with Q.",
     "What you love is Quincy, when he came in as a freshman, he had a lot of youthful energy and athleticism,",
-    "He’s a team first player and he’ll go through a wall for you,"
+    "He’s a team-first player and he’ll go through a wall for you,"
    ]
   },
   {
@@ -74,7 +150,7 @@
    "key": "https://www.nba.com/mavs/news/mavs-used-grit-and-determination-to-pull-away-at-the-end-and-defeat-clippers-110-100",
    "url": "https://www.nba.com/mavs/news/mavs-used-grit-and-determination-to-pull-away-at-the-end-and-defeat-clippers-110-100",
    "canonical_url": "https://mavs.com/mavs/news/mavs-used-grit-and-determination-to-pull-away-at-the-end-and-defeat-clippers-110-100",
-   "title": "Mavs used grit and determination to pull away at the end and defeat Clippers, 110-100",
+   "title": "Mavs use grit, determination to pull away from Clippers, 110-100",
    "author": "Dwain Price",
    "published_utc": "2026-11-22T04:33:11Z",
    "tags": [
@@ -83,10 +159,10 @@
    ],
    "summary": "Earlier this season, Dallas Mavericks coach Dusty May explained that he would like to see his team having the ability to win games in a variety of ways. Including when the game is mucked up.",
    "facts": [
-    "Well, May got his wish on Saturday as the Mavs had to use a whole lot of grit and plenty of determination to tough out a hard-fought 110-100 victory over the stubborn Los Angeles Clippers at American Airlines Center.",
+    "Well, May got his wish on Saturday as the Mavs had to use a whole lot of grit and determination to tough out a hard-fought 110-100 victory over the stubborn Los Angeles Clippers at American Airlines Center.",
     "The win enabled the Mavs (9-7) to sweep this brief two-game homestand going into Sunday’s game in Utah, while the Clippers dropped to 4-11.",
-    "One minute the Mavs were clinging to a slim 91-88 lead with a little over four minutes remaining in the game, then they proceeded to strike gold at both ends of the court.",
-    "And a basket by Risacher padded Dallas’ lead to 102-88 with 3:09 left and all but put this game on ice.",
+    "One minute the Mavs were clinging to a slim 91-88 lead with a little over four minutes remaining.",
+    "And a basket by Risacher padded Dallas’ lead to 102-88 with 3:09 left.",
     "Clayton finished with 16 points and five rebounds, and Christie added 13 points and two steals and was 5-of-7 from the field.",
     "Their performances helped take some of the load from Irving (25 points, six rebounds) and Flagg (22 points, six boards, eight assists).",
     "The Mavs shot 41.1 percent from the field and were just 23-of-34 from the charity stripe.",
@@ -1428,162 +1504,6 @@
     "Mitchell leads Cleveland in scoring at nearly 25 points per game, and James Harden follows with 16 points and six assists a night."
    ],
    "quotes": []
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/without-cunningham-pistons-share-it-all-in-122-109-win-at-new-orleans",
-   "url": "https://www.nba.com/pistons/news/without-cunningham-pistons-share-it-all-in-122-109-win-at-new-orleans",
-   "canonical_url": "https://pistons.com/news/without-cunningham-pistons-share-it-all-in-122-109-win-at-new-orleans",
-   "title": "Without Cunningham, Pistons share it all in 122-109 win at New Orleans",
-   "author": "Pistons.com",
-   "published_utc": "2026-11-19T14:35:50Z",
-   "tags": [
-    "Detroit Pistons",
-    "game recap",
-    "recap"
-   ],
-   "summary": "Seven players scored in double figures as Detroit finished a back-to-back road sweep and improved to 10-4.",
-   "facts": [
-    "Seven players scored in double figures as Detroit finished a back-to-back road sweep and improved to 10-4.",
-    "They passed the ball, again and again, and beat the Pelicans 122-109.",
-    "Seven Pistons scored in double figures, and Detroit assisted on 29 of its 41 made baskets.",
-    "The teams were tied 14 times.",
-    "He started in Cunningham’s place and hit back-to-back 3-pointers midway through the second quarter, both assisted by Daniss Jenkins.",
-    "Green scored 11 points in the quarter and finished with 18 points, seven rebounds and two steals in 35 minutes.",
-    "He was back after missing 10 games with a hip contusion, and he scored 11 points in 15 minutes, including a step-back three late in the second quarter that pushed the lead to seven.",
-    "Detroit took a 67-60 lead into halftime."
-   ],
-   "quotes": [
-    "That’s the blessing of this group,",
-    "One guy goes down, eight guys go down, however many guys we have out right now, they all play the same way and they all want to share the game. When we play that way, everybody gets involved. That’s t…",
-    "The contribution that he makes all over the floor, just what he does to impact winning,",
-    "The spirit that he plays with, his ability to make shots. I’ve said it before, he’s got so many intangibles that it’s hard to keep him off the floor. And he did it again tonight."
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/shorthanded-sixers-earn-17-point-comeback-win-in-orlando",
-   "url": "https://www.nba.com/sixers/news/shorthanded-sixers-earn-17-point-comeback-win-in-orlando",
-   "canonical_url": "https://sixers.com/news/shorthanded-sixers-earn-17-point-comeback-win-in-orlando",
-   "title": "Shorthanded Sixers Earn 17-Point Comeback Win in Orlando",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-19T14:06:57Z",
-   "tags": [],
-   "summary": "The first-place Philadelphia 76ers (13-3) extended their winning streak to four games Wednesday, rallying from a 17-point deficit for a 121-116 road victory over the Orlando Magic (6-8). Philadelphia’s 7-1 road start is its best since 1982-83.",
-   "facts": [
-    "The first-place Philadelphia 76ers (13-3) extended their winning streak to four games Wednesday, rallying from a 17-point deficit for a 121-116 road victory over the Orlando Magic (6-8).",
-    "Philadelphia’s 7-1 road start is its best since 1982-83.",
-    "The 2026-27 Sixers improved to 11-0 in clutch-time games and have now recorded six double-digit comeback victories.",
-    "Their 17-point deficit came in the first quarter, which they lost 40-27.",
-    "Joel Embiid (26 points), VJ Edgecombe (season-high 24 points) and LeBron James (22 points) each scored at least 20 points in the absence of Tyrese Maxey (right foot soreness), Jaylen Brown (left hamstring strain) and Dea…",
-    "Philadelphia won the fourth quarter, 29-19.",
-    "Anfernee Simons, an Orlando-area native who scored 18 points in his first start as a 76er, buried a dagger 3-pointer following a LeBron James jumper to extend the lead to 119-113 with 15 seconds left.",
-    "Sixers first-round pick Labaron Philon Jr. reached double figures in an NBA game for the first time, finishing with 10 points in 17 minutes off the bench."
-   ],
-   "quotes": [
-    "Listen, we had to play a lot of guys tonight that hadn't played much,"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "roster",
-   "key": "https://www.nba.com/pelicans/news/tyson-chandler-broke-out-in-big-way-as-nbas-second-leading-rebounder-after-trade-from-chicago-25-on-the-court",
-   "url": "https://www.nba.com/pelicans/news/tyson-chandler-broke-out-in-big-way-as-nbas-second-leading-rebounder-after-trade-from-chicago-25-on-the-court",
-   "canonical_url": "https://pelicans.com/news/tyson-chandler-broke-out-in-big-way-as-nbas-second-leading-rebounder-after-trade-from-chicago-25-on-the-court",
-   "title": "Tyson Chandler broke out in big way, as NBA's second-leading rebounder after trade from Chicago | 25 On the Court",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-19T14:00:00Z",
-   "tags": [],
-   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
-   "facts": [
-    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
-    "The 2006-07 campaign is perhaps best described as a “holding pattern,” with the franchise unable to make much progress on or off the court.",
-    "In January 2006, the NBA announced that Hurricane Katrina-ravaged New Orleans still would not be ready to host the Hornets on a full-time basis the following season, extending a stay in their temporary home of Oklahoma C…",
-    "On the court, expectations were raised following a surprising 38-win breakout in 2005-06, but the Hornets only improved by one victory, going 39-43.",
-    "While severely shorthanded due to injuries, a costly 2-12 stretch led to a damaging, 12-22 start.",
-    "After a shaky start to his NBA career in Chicago – the Bulls had picked him No. 2 overall in 2001 – he finished second in rebounding average (12.4, behind only Minnesota’s Kevin Garnett) in ’06-07.",
-    "Unfortunately for the Hornets, they couldn’t overcome lengthy injury absences to starters Paul, David West and sharpshooter Peja Stojakovic (only appeared in 13 games).",
-    "Season overview (in 25 words or less) Year 2 in OKC stalled the franchise’s progress, but that was a temporary setback for a team that had begun quietly gelling into a dangerous unit."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-76ers-20261119",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-76ers-20261119",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-vs-76ers-20261119",
-   "title": "Magic Four-Point Play: Follow-Up vs. 76ers",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-19T13:40:28Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "The Magic and Sixers each shot 52 percent from the field. Orlando made 19 3-pointers, five more than Philly. Neither team turned it over much – the Magic had 11 miscues and the Sixers 12. The difference was that Philly got to the line 26 times, making 23 of them, while Orlando went 9-of-17 from the stripe. That’s a 14-point margin, and in a close game like this, that was enough to determine the re…",
-   "facts": [
-    "Free Throw Differential Biggest Factor The Magic and Sixers each shot 52 percent from the field.",
-    "Orlando made 19 3-pointers, five more than Philly.",
-    "Neither team turned it over much – the Magic had 11 miscues and the Sixers 12.",
-    "The difference was that Philly got to the line 26 times, making 23 of them, while Orlando went 9-of-17 from the stripe.",
-    "That’s a 14-point margin, and in a close game like this, that was enough to determine the result.",
-    "Over the last 12 games playing without Banchero, the Magic rank 26th in free throw attempts.",
-    "Magic Unable to Get the Critical Stops Between Nov. 10 and Nov. 17 – an undefeated four-game span for them – the Magic had the league’s fourth-best defensive rating and held opponents to just 41.5 percent field goal shoo…",
-    "Their defense, however, was unable to come up with enough stops down the stretch against the Sixers, who made three consecutive shots in the final 1:37."
-   ],
-   "quotes": [
-    "I think it opens up the paint a tremendous amount when he's hunting shots and doing a good job finding those opportunities to attack. Not just from the 3-point line, but just in general. And I think h…"
-   ]
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/matas-buzelis-scores-25-as-bulls-blow-out-nets-137-107",
-   "url": "https://www.nba.com/bulls/news/matas-buzelis-scores-25-as-bulls-blow-out-nets-137-107",
-   "canonical_url": "https://bulls.com/news/matas-buzelis-scores-25-as-bulls-blow-out-nets-137-107",
-   "title": "Matas Buzelis scores 25 as Bulls blow out Nets 137-107",
-   "author": "Sam Smith",
-   "published_utc": "2026-11-19T13:06:56Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith"
-   ],
-   "summary": "With perhaps a lot more to come as Buzelis, on Wednesday, with his second consecutive season-high scoring game with 25 points led the Bulls to their most durable and dominant performance of the season, a 137-107 victory over the Brooklyn Nets in which the Bulls racked up season bests in points, shots made, assists and second chance points while leading for more than 30 points most of the second ha…",
-   "facts": [
-    "With perhaps a lot more to come as Buzelis, on Wednesday, with his second consecutive season-high scoring game with 25 points led the Bulls to their most durable and dominant performance of the season, a 137-107 victory …",
-    "The win wrapped up an impressive 2-1 road trip that began with an assertive victory over the hot Minnesota Timberwolves, was sandwiched by a loss in which Donovan Mitchell had to produce another all-world performance, an…",
-    "And now especially on this road trip Buzelis, returning to if not form, hope and expectation after a surprisingly feckless start to the season.",
-    "Buzelis is averaging 22 points on 56 percent overall shooting and 52 percent on threes the last three games.",
-    "He is averaging 18.2 points the last six games with a shade under 50 percent on threes.",
-    "That’s how you build and get better.’ “My dedication to myself to go out there and trust my skills,” said the lanky 6-9 forward.",
-    "Powell scored 17 points and Jalen Smith and former Net Nic Claxton not only each scored 14 points, but they often played together in a double-big lineup that Splitter hasn’t employed often.",
-    "The Bulls were a Wilt-like 46-29 on the boards, 18 offensive rebounds for a strapping 32-17 margin in second chance points."
-   ],
-   "quotes": [
-    "Thirty-six assists, 18 offensive rebounds, lot of good stuff,",
-    "We shared the ball. Lot of guys in double digits, turnovers weren’t bad, good win for us. This is the way we want to play, but we also made shots today. Feels good when we play the right way and make …",
-    "My dedication to myself to go out there and trust my skills,",
-    "I’m figuring it out and I’m just going to keep it rolling. I’m never the type to give up ever. I’ve come way too far. Going to go out there and trust my skills."
-   ]
   }
  ]
 }
