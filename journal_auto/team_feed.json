@@ -1,8 +1,73 @@
 {
- "updated_utc": "2026-11-22 15:38 UTC",
+ "updated_utc": "2026-11-22 21:14 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261122",
+   "url": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261122",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-washington-wizards-game-preview-injury-report-20261122",
+   "title": "Orlando Magic at Washington Wizards: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-22T18:01:16Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Over the course of their last six games, the Orlando Magic are one of the hottest teams in the NBA.",
+   "facts": [
+    "The Magic (7-8) look to keep that momentum rolling when they visit the Washington Wizards (6-11) on Sunday at 7 p.m.",
+    "Franz Wagner capped off a sensational showing by knocking down a game-winning jumper with 2.4 seconds remaining to give the Magic a 113-111 victory.",
+    "Over the last six games, the Magic have the association’s sixth-best net rating (7.6), ranking both top 10 in offense and defense.",
+    "The Wizards are one of the best units in the NBA at guarding the 3-point line, holding opposing teams to 33.2 percent shooting from beyond the arc.",
+    "Even though they surrender the second-most points in the paint (52.8) per game in the league, they are a threat to reject shots at the rim.",
+    "Washington blocks 5.6 shots per outing, tied for the sixth most in the association.",
+    "Per Sportradar, among qualifying squads, Washington is the only team with four players averaging at least one swat per contest: Alex Sarr (1.3), Kyshawn George (1.2), Anthony Davis (1.1) and Bilal Coulibaly (1.1).",
+    "For Washington, Reece Beekman (right AC joint sprain / separation), Justin Champagnie (right foot surgery), Tristan Vukcevic (left hip impingement) and Jamir Watkins (left ACL repair / surgery) are out."
+   ],
+   "quotes": [
+    "Us playing on a string, communicating, and also listening,",
+    "That’s going to be a big thing for us tonight.",
+    "The biggest thing for us is to make sure we keep doing a great job in some of these areas where we’ve been improving upon,",
+    "Understanding that it’s hard to win on the road, it’s hard to win period in this league. So, when you get a win like that, where you have to gut it out, you’ve got to take that and understand that it …"
+   ]
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-play-bulls-on-sunday",
+   "url": "https://www.nba.com/nuggets/news/nuggets-play-bulls-on-sunday",
+   "canonical_url": "https://nuggets.com/news/nuggets-play-bulls-on-sunday",
+   "title": "Nuggets play Bulls on Sunday",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-22T17:18:14Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets play the Chicago Bulls on Sunday.",
+   "facts": [
+    "INJURY REPORT Denver: DaRon Holmes II — OUT (G League Assignment) Bryce Hopkins — OUT (G League Assignment) Julian Strawther — OUT (Left Knee Sprain) Cam Whitmore — OUT (G League Two-Way Assignment) Chicago: Tobe Awaka —…",
+    "First, Denver pulled off an impressive 17-point comeback against the Boston Celtics on Wednesday.",
+    "The Celtics are currently the second-best team in the Eastern Conference at 11-5, and the Nuggets earned a big win behind 18 points from reserve guard DeMar DeRozan, who got to the free-throw line four separate times in …",
+    "The Nuggets were even better on Friday when they defeated the Houston Rockets, 133-124.",
+    "Pristine execution played a big role in the result, as the Nuggets shot 54.7 percent from the field, 43.3 percent from three-point range, and 92.9 percent from the free-throw line.",
+    "They also had seven different players record 10 or more points on the same night.",
+    "Those wins brought Denver's overall record to 9-5.",
+    "Chicago, meanwhile, is just 4-11 this season."
+   ],
+   "quotes": []
+  },
   {
    "source": "CHI 公式（nba.com）",
    "team": "CHI",
@@ -520,14 +585,14 @@
    ],
    "summary": "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden",
    "facts": [
-    "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden Game Preview The Pacers (5-11) will try to snap a three-game skid on Sunday in New York, when they face off against the defending NBA champion Knicks (9-6) at Madiso…",
+    "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden Game Preview The Pacers (5-11) will try to snap a three-game skid on Sunday in New York, when they face off against the defending NBA champion Knicks (10-6) at Madis…",
     "Indiana won the first matchup 106-104 on Nov. 13 at Gainbridge Fieldhouse.",
     "That was the second straight win for the Pacers, but they have dropped their last three contests since, falling in Philadelphia on Nov. 15, at home to Houston on Wednesday, and in Cleveland on Friday night in an NBA Cup …",
     "A disastrous third quarter doomed the Blue & Gold in Cleveland, as the Cavs outscored Indiana 43-22 in the frame to pull away for the win.",
     "James Harden went off for 51 points for the Cavs in the victory, going 7-for-11 from 3-point range and 14-for-14 from the free throw line.",
     "Ivica Zubac led the Pacers with 21 points on 8-of-11 shooting and 10 rebounds in the loss, while All-Star forward Pascal Siakam also scored 21.",
-    "Brunson is averaging 26.6 points and 5.9 assists per game, while Towns contributes 21.3 points and a league-leading 13.9 rebounds per contest.",
-    "Probable Starters Pacers: G - Andrew Nembhard, G - Aaron Nesmith, F - Kelly Oubre Jr., F - Pascal Siakam, C - Ivica Zubac Knicks: G - Jalen Brunson, G - Mikal Bridges, F - Josh Hart, F - OG Anunoby, C - Karl-Anthony Town…"
+    "The Knicks got off to a slow start to the season, but have won four straight and eight of their past 10 contests, including a victory over Portland on Saturday night on Mikal Bridges' buzzer-beating three.",
+    "Brunson is averaging 26.8 points and 5.9 assists per game, while Towns contributes 21.3 points and a league-leading 13.9 rebounds per contest, but did not play on Saturday due to illness."
    ],
    "quotes": []
   },
@@ -1312,196 +1377,6 @@
     "Los Angeles is looking to do so in the first 14 games of a season for the first time since 2012-13.Keaton Wagler has made 27 free throws in five career road games.",
     "The last Clipper to reach that mark in the first five road games of their career was Lamar Odom (also 27) in 1999-00.BONUS: Kris Dunn is stealing the ball at a rate of 2.79 times per 36 minutes so far this season.",
     "The only players with a higher rate in the NBA in 2026-27 (min. 300 minutes) are Matisse Thybulle and Dyson Daniels. 26-27 OPPONENT COMPARISON"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/after-15-games-trends-start-to-take-on-meaning-for-mavericks",
-   "url": "https://www.nba.com/mavs/news/after-15-games-trends-start-to-take-on-meaning-for-mavericks",
-   "canonical_url": "https://mavs.com/mavs/news/after-15-games-trends-start-to-take-on-meaning-for-mavericks",
-   "title": "After 15 games, trends start to take on meaning for Mavericks",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-19T20:36:07Z",
-   "tags": [],
-   "summary": "After the Mavericks roughed up the Golden State Warriors Wednesday night, the coach said that 15 games into a season is about the time he is OK with identifying trends, concerns and surprises – good or bad.",
-   "facts": [
-    "After the Mavericks roughed up the Golden State Warriors Wednesday night, the coach said that 15 games into a season is about the time he is OK with identifying trends, concerns and surprises – good or bad.",
-    "And take stock of what we’ve seen after the Mavericks have a rolled up a record of 8-7 with plenty of ups and downs on the way to that 15-game destination.",
-    "And at this point, what Mavericks’ fan isn’t at least moderately happy with being above .500.",
-    "You were watching the last two sub-.500 seasons, weren’t you?",
-    "To that end, May has played countless combinations of players and his playing rotation usually has gone at least 10 deep per game, if not more, and typically changes from game to game.",
-    "Cooper Flagg is rolling as maybe the NBA’s fastest-rising star, putting up 24.2 points, 6.6 rebounds and 6.4 assists per game.",
-    "His 2.1 steals also rank sixth in the NBA as of Thursday.",
-    "Kyrie Irving has been everything the Mavericks could want in returning from 19 months on the sideline after knee surgery."
-   ],
-   "quotes": [
-    "Fifteen games, it’s probably a safe place to start (analyzing) and we’re at 15 and we’ve got a couple days (between games),",
-    "But also part of it is the eye test. Do we feel good about the way we’re playing? Because sometimes you play great and the ball doesn’t go in and sometimes you play terribly and the ball does go in. A…",
-    "To be honest, there’s a couple guys we want to play more,",
-    "And it’s a great problem whenever they’re not getting the minutes because some other guys are playing really well."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/peanut-butter-jelly-pop-up-concessioncoming-to-american-airlines-center",
-   "url": "https://www.nba.com/mavs/news/peanut-butter-jelly-pop-up-concessioncoming-to-american-airlines-center",
-   "canonical_url": "https://mavs.com/mavs/news/peanut-butter-jelly-pop-up-concessioncoming-to-american-airlines-center",
-   "title": "PEANUT BUTTER & JELLY POP-UP CONCESSION COMING TO AMERICAN AIRLINES CENTER",
-   "author": "Lauren Wyatt",
-   "published_utc": "2026-11-19T20:00:00Z",
-   "tags": [
-    "dallas mavericks"
-   ],
-   "summary": "Dallas Mavericks bring PB&J craze to fans with limited-time pop-up concession stand on Nov. 21",
-   "facts": [
-    "Dallas Mavericks bring PB&J craze to fans with limited-time pop-up concession stand on Nov. 21 DALLAS (Nov. 19, 2026) – The Dallas Mavericks and Levy are bringing The Jam Box, a new peanut butter and jelly pop-up concess…",
-    "The limited-edition offering includes creamy peanut butter and grape jelly on white sourdough bread, served in a classic sandwich bag and sealed with a signature sticker, available exclusively on Saturday, Nov. 21, when …",
-    "The peanut butter and jelly sandwiches will be priced at $3.20, a nod to Cooper Flagg's No. 32, and available while supplies last.",
-    "Ticketed fans can find the pop-up concession on the American Airlines Center’s main Plaza Level, outside Sec. 117.",
-    "Between the Bread: What: The Jam Box PB&J Pop-Up | Creamy peanut butter and grape jelly on white sourdough breadWhen: Limited Time Only | Saturday, Nov. 21 vs.",
-    "LA ClippersWhere: American Airlines Center | Sec. 117 Cost: $3.20Quantity: 320 sandwiches, available while supplies last Purchase single-game tickets by visiting Mavs.com/Tickets or calling 214-747-MAVS. ### The Dallas M…",
-    "Since the inaugural season in 1980-81, the Mavs have won five division titles, three conference championships and one NBA championship in 2011.",
-    "Levy has twice been named one of the 10 most innovative companies in sports by Fast Company magazine and has been honored by Forbes as a Best Large Employer, Best Employer for Diversity, and Best Employer for Women."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "GSW 公式（nba.com）",
-   "team": "GSW",
-   "team_ja": "ウォリアーズ",
-   "team_id": 1610612744,
-   "kind": "feature",
-   "key": "https://www.nba.com/warriors/news/warriors-announce-season-of-giving-efforts-for-2026-holiday-season-20261119",
-   "url": "https://www.nba.com/warriors/news/warriors-announce-season-of-giving-efforts-for-2026-holiday-season-20261119",
-   "canonical_url": "https://warriors.com/news/warriors-announce-season-of-giving-efforts-for-2026-holiday-season-20261119",
-   "title": "Warriors Announce Season of Giving Efforts for 2026 Holiday Season",
-   "author": "Kalyb Champion",
-   "published_utc": "2026-11-19T20:00:00Z",
-   "tags": [],
-   "summary": "As part of the NBA Cares Season of Giving league-wide campaign, Golden State Warriors players, coaches, and front office staff will host a variety of events this holiday season to brighten the lives of local families and youth.",
-   "facts": [
-    "To tip off Season of Giving, the Golden State Community Foundation and Kaiser Permanente will provide special appreciation meals for educators and staff at Willie Brown Middle School (November 17) and Claremont Middle Sc…",
-    "Swishes for Dishes Pop-Up Pantry, presented by Kaiser Permanente: On Saturday, November 21, the Swishes for Dishes program will host a pop-up pantry for community members to receive free turkeys and groceries ahead of th…",
-    "Holiday Wish List Surprise, presented by Waymo: On Monday, November 30, Warriors guard De'Anthony Melton and Warriors alum Festus Ezeli will wrap presents to fulfill the holiday wish lists of families from the Homeless P…",
-    "Hoopers & Holiday Treats, presented by ampm: On Tuesday, December 1, youth from Jamestown Community Center will enjoy a dessert decorating experience inside Chase Center before attending the Warriors game versus the Utah…",
-    "Generation Thrive Tree Giveaways: Students and families from George Washington Carver Elementary (December 1), Martin Luther King, Jr.",
-    "Elementary (December 3), and Willie Brown Middle School (December 10) will receive complimentary holiday trees, ornament boxes, and more courtesy of the Golden State Community Foundation and Kaiser Permanente.",
-    "Kaiser Permanente Children’s Hospital Visit: Pediatric patients at Kaiser Permanente’s Oakland Medical Center will receive Warriors-themed gift bags and a surprise visit from a Warriors forward Georges Niang on Thursday,…",
-    "Cocoa & Cuddles: On Thursday, December 3, Warriors guard Brandon Williams will visit Muttville Senior Dog Rescue with adoption gift baskets to give out to families who are adopting pets during the holiday season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/roundball-roundup-win-in-la-rookie-watch",
-   "url": "https://www.nba.com/jazz/news/roundball-roundup-win-in-la-rookie-watch",
-   "canonical_url": "https://utahjazz.com/news/roundball-roundup-win-in-la-rookie-watch",
-   "title": "Roundball Roundup: Win in LA + Rookie Watch",
-   "author": "JP Chunga",
-   "published_utc": "2026-11-19T19:25:05Z",
-   "tags": [
-    "podcast",
-    "Roundball Roundup",
-    "Utah Jazz Podcast Network"
-   ],
-   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz’s win against LAC (1:35), the offense/defense through 15 games (8:10), and rookies (Darryn Peterson, Cam Boozer, Darius Acuff Jr.) around the league (14:50).",
-   "facts": [
-    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz’s win against LAC (1:35), the offense/defense through 15 games (8:10), and rookies (Darryn Peterson, Cam Boozer, Darius Acuff Jr.) around the league (14:50…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-timberwolves-game-notes-november-19-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-timberwolves-game-notes-november-19-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-timberwolves-game-notes-november-19-2026",
-   "title": "Knicks vs Timberwolves Game Notes | November 19, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-11-19T18:44:47Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "November 19, 2026 8:00 PM ET | Target Center (Minneapolis, MN) | Game 15; Away Game 8",
-   "facts": [
-    "November 19, 2026 8:00 PM ET | Target Center (Minneapolis, MN) | Game 15; Away Game 8 TV: MSG Networks | Radio: SiriusXM This Day in Knicks History November 19, 1966: Walt Bellamy records a triple double with 15 points, …",
-    "November 19, 1996: Patrick Ewing becomes the 23rd player in NBA history to reach the 20,000 career point mark in the Knicks 92-88 win at Orlando.",
-    "He finishes the night with 24 points and 16 rebounds.",
-    "MIN: Minnesota (12/23/25) – The Minnesota Timberwolves defeated the New York Knicks, 115-104.",
-    "Karl-Anthony Towns led New York with a season-high 40 points on 58.3-percent shooting, 13 rebounds, one assist and one steal.",
-    "Tyler Kolek recorded a career-high 20 points, a career-high 11 rebounds, eight assists and three steals.",
-    "Josh Hart finished with 12 points, 15 rebounds, eight assists and two steals.",
-    "Anthony Edwards led Minnesota with 38 points on 55.6-percent shooting, four steals, two assists, one rebound and one block."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIL 公式（nba.com）",
-   "team": "MIL",
-   "team_ja": "バックス",
-   "team_id": 1610612749,
-   "kind": "feature",
-   "key": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-lands-end-outfitters-preferred-uniform-provider-of-fiserv-forum",
-   "url": "https://www.nba.com/bucks/news/milwaukee-bucks-name-wisconsin-based-lands-end-outfitters-preferred-uniform-provider-of-fiserv-forum",
-   "canonical_url": "https://bucks.com/news/milwaukee-bucks-name-wisconsin-based-lands-end-outfitters-preferred-uniform-provider-of-fiserv-forum",
-   "title": "Milwaukee Bucks Name Wisconsin-Based Lands’ End Outfitters Preferred Uniform Provider Of Fiserv Forum",
-   "author": "Milwaukee Bucks",
-   "published_utc": "2026-11-19T17:34:12Z",
-   "tags": [],
-   "summary": "MILWAUKEE (Nov. 19, 2026) – The Milwaukee Bucks have named Wisconsin-based Lands' End Outfitters the Preferred Uniform Provider of Fiserv Forum. The Bucks become the first NBA team to partner with the premium branded apparel company and the first sports team to receive a full custom arena staff uniform collection from Lands’ End Outfitters.",
-   "facts": [
-    "MILWAUKEE (Nov. 19, 2026) – The Milwaukee Bucks have named Wisconsin-based Lands' End Outfitters the Preferred Uniform Provider of Fiserv Forum."
-   ],
-   "quotes": [
-    "Our event personnel are committed to providing a world-class experience for every guest, and we’re thrilled to elevate our staff’s uniform pieces with this custom collection from Lands’ End Outfitters…",
-    "We’re proud to team up with another Wisconsin company that shares our commitment to excellence.",
-    "Nobody does hospitality like the Midwest, and nobody does it like Wisconsin,",
-    "Wisconsin has been our home for more than four decades, and the people who welcome every guest to Fiserv Forum embody what this state does best: hard work and real hospitality. We couldn't be prouder …"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-cavaliers-261120",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-cavaliers-261120",
-   "canonical_url": "https://pacers.com/news/preview-pacers-cavaliers-261120",
-   "title": "Game Preview: Pacers at Cavaliers (NBA Cup)",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-19T15:39:00Z",
-   "tags": [
-    "2026 NBA Cup",
-    "2026-27 Game Preview"
-   ],
-   "summary": "Friday, Nov. 20 at 7:30 PM ET at Rocket Arena",
-   "facts": [
-    "Friday, Nov. 20 at 7:30 PM ET at Rocket Arena Game Preview Indiana (5-10) travels to Cleveland (8-8) on Friday for an NBA Cup matchup with James Harden, Donovan Mitchell, and the Cavaliers.",
-    "The Pacers are 1-1 in NBA Cup play through two games, and look to pull into second place in their group with a win in Cleveland.",
-    "The Blue and Gold could use a bounce-back win after falling to the Houston Rockets at home on Wednesday, 119-104.",
-    "Houston shot 54 percent from beyond the 3-point line as it made a season-high 19 3-pointers, and Indiana knocked down just 29 percent of its own long range attempts.",
-    "Pascal Siakam recorded 24 points in the loss to lead the Pacers in scoring for the sixth consecutive game.",
-    "Memphis defeated the Cavs, 124-121, despite Donovan Mitchell’s 34 points.",
-    "Like Indiana, Cleveland is 1-1 in NBA Cup play.",
-    "Mitchell leads Cleveland in scoring at nearly 25 points per game, and James Harden follows with 16 points and six assists a night."
    ],
    "quotes": []
   }
