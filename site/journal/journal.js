@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1115-nickeil-alexander-walker-27-points-pistons.html",
+    cat: "NBA",
+    title: "ニキール・アレクサンダー＝ウォーカー、ピストンズ戦で27得点 —— ホークスが107-97で勝利",
+    excerpt: "アトランタ・ホークス(Atlanta Hawks)のニキール・アレクサンダー＝ウォーカー(Nickeil Alexander-Walker)は現地時間11月22日、本拠地でのデトロイト・ピストンズ(Detroit Pistons)戦に28分出場し、フィールドゴール18本中8本・3ポイント10本中6本・フリースロー5本中5本を沈めて27得点を記録した。両チーム通じてこの日の試合最多得点者となり、ホークスは107-97でピストンズを下した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1114-nba-rookie-class-scouts-intel.html",
     cat: "NBA",
     title: "ディバンツァは「厳しい環境」、ブーザーは「後悔しない1位」—— NBA球団関係者がルーキー9人を分析",
