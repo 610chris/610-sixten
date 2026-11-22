@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1110-darius-acuff-21-points-celtics.html",
+    cat: "NBA",
+    title: "ダリアス・エイカフ・ジュニア、セルティックス戦で21得点8アシスト —— キングスが97-96で勝利",
+    excerpt: "サクラメント・キングス(Sacramento Kings)のダリアス・エイカフ・ジュニア(Darius Acuff Jr.)は現地時間11月21日、本拠地でのボストン・セルティックス(Boston Celtics)戦に40分出場し、フィールドゴール23本中7本・3ポイント7本中2本・フリースロー7本中5本を沈めて21得点、アシスト8を記録した。両チーム通じてこの日の試合最多得点者となり、キングスは97-96でセルティックスを下した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1109-kyrie-irving-25-points-clippers.html",
     cat: "NBA",
     title: "カイリー・アービング、クリッパーズ戦で25得点 —— マーベリックスが110-100で勝利",
