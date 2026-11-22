@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1112-norman-powell-hamstring-strain-bulls.html",
+    cat: "NBA",
+    title: "ノーマン・パウエル、右ハムストリング負傷 —— ブルズ公式発表、今週中に再評価",
+    excerpt: "シカゴ・ブルズは現地時間11月20日のワシントン・ウィザーズ戦で、ノーマン・パウエル(Norman Powell)が右ハムストリングを軽度負傷したと公式発表した。今週中に再評価する。パウエルはこの試合に33分出場し16得点を記録していたが、ブルズは94-98で敗れ今季4勝11敗。チーム得点源の離脱リスクが懸念される。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1111-udoka-rockets-mentally-fragile-nuggets.html",
     cat: "NBA",
     title: "イーメイ・ウドカHC「メンタルが脆すぎる」—— ロケッツ、ナゲッツ戦のNBAカップで124-133の黒星",
