@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1114-nba-rookie-class-scouts-intel.html",
+    cat: "NBA",
+    title: "ディバンツァは「厳しい環境」、ブーザーは「後悔しない1位」—— NBA球団関係者がルーキー9人を分析",
+    excerpt: "ESPNのブライアン・ウィンドホースト記者とティム・マクマホン記者は現地時間11月20日、2026年ドラフト世代の注目ルーキー9人について、NBA各球団のスカウトやフロント幹部の匿名コメントを交えた分析記事を公開した。ウィザーズのAJ・ディバンツァ、グリズリーズのキャメロン・ブーザーらの現状評価をまとめる。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1113-gabe-vincent-kings-signing.html",
     cat: "NBA",
     title: "ゲイブ・ビンセント、キングス入りへ最終調整 —— 2勝14敗、手薄なバックコートの救援に",
