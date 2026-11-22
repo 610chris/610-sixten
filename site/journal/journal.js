@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1111-udoka-rockets-mentally-fragile-nuggets.html",
+    cat: "NBA",
+    title: "イーメイ・ウドカHC「メンタルが脆すぎる」—— ロケッツ、ナゲッツ戦のNBAカップで124-133の黒星",
+    excerpt: "ヒューストン・ロケッツのイーメイ・ウドカHCは現地時間11月20日、本拠地でのデンバー・ナゲッツとのNBAカップ戦に124-133で敗れた試合後、「メンタルが脆い」とチームを酷評し、ディフェンスを「ここまで酷いのは見たことがない」と強く非難した。ESPNが伝えた。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1110-darius-acuff-21-points-celtics.html",
     cat: "NBA",
     title: "ダリアス・エイカフ・ジュニア、セルティックス戦で21得点8アシスト —— キングスが97-96で勝利",
