@@ -1,8 +1,101 @@
 {
- "updated_utc": "2026-11-21 19:44 UTC",
+ "updated_utc": "2026-11-22 00:38 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "feature",
+   "key": "https://www.nba.com/knicks/news/knicks-vs-trail-blazers-game-notes-november-21-2026",
+   "url": "https://www.nba.com/knicks/news/knicks-vs-trail-blazers-game-notes-november-21-2026",
+   "canonical_url": "https://knicks.com/news/knicks-vs-trail-blazers-game-notes-november-21-2026",
+   "title": "Knicks vs Trail Blazers Game Notes | November 21, 2026",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-11-22T00:21:02Z",
+   "tags": [
+    "Game Notes",
+    "Orlando Magic"
+   ],
+   "summary": "November 21, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 16; Home Game 8",
+   "facts": [
+    "November 21, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 16; Home Game 8 TV: MSG Networks | Radio: SiriusXM This Day in Knicks History November 21, 1944: Earl Monroe, whose number 15 hangs from The Gard…",
+    "November 21, 1961: Richie Guerin scores 47 points (19-31 FG) and records seven rebounds and six assists in 109-107 loss to Chicago at Madison Square Garden.",
+    "POR: New York (1/30/26) – The New York Knicks defeated the Portland Trail Blazers, 127-97.",
+    "Karl-Anthony Towns led New York with 14 points, 20 rebounds, three assists and one block.",
+    "OG Anunoby recorded 24 points on 62.5-percent shooting, six rebounds, three assists and one block.",
+    "Jalen Brunson scored 26 points, three assists, two steals and one rebound.",
+    "Shaedon Sharpe led Portland with 26 points on 62.5-percent shooting, three rebounds, three assists and one steal.",
+    "Sidy Cissoko had 15 points on 100.0-percent shooting, two rebounds, two assists, one steal and one block off the bench."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/clippers-vs-mavericks-preview-2026-11-21",
+   "url": "https://www.nba.com/clippers/news/clippers-vs-mavericks-preview-2026-11-21",
+   "canonical_url": "https://clippers.com/news/clippers-vs-mavericks-preview-2026-11-21",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Mavericks",
+   "author": "LAClippers",
+   "published_utc": "2026-11-21T21:25:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Brook Lopez",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Cooper Flagg",
+    "Dallas Mavericks",
+    "Darius Garland"
+   ],
+   "summary": "Last Matchup: 04/07/2026 | LAC 116 - DAL 103 | K.Leonard: 34 PTS - C.Flagg: 25 PTSOver his last two games, Brook Lopez became the fifth player in NBA history to have 4+ made threes and a steal in consecutive games at age 38 or older. He joins Steph Curry, LeBron James, Chris Paul and Jamal Crawford. Saturday’s game will be the 45th meeting (regular season + playoffs) between the Clippers and Maver…",
+   "facts": [
+    "DALLAS MAVERICKS FIVE THINGS TO KNOW Last Matchup: 04/07/2026 | LAC 116 - DAL 103 | K.Leonard: 34 PTS - C.Flagg: 25 PTSOver his last two games, Brook Lopez became the fifth player in NBA history to have 4+ made threes an…",
+    "Saturday’s game will be the 45th meeting (regular season + playoffs) between the Clippers and Mavericks since the beginning of the 2019-20 season.",
+    "The only other matchup featuring non-division opponents to have 40+ games in that time is Celtics vs.",
+    "Last season in road games against Dallas, the Clippers won 133-127 in double overtime and 138-131 in overtime.",
+    "Darius Garland’s last visit to Dallas was a 41-point, 11-assist effort back in March.",
+    "His 41 points is tied for the most ever by a Clippers player against the Mavs with James Harden, who also did it last season at Dallas (November 14).",
+    "BONUS: Los Angeles has shot 30.0% or better from three-point range in all 14 games to begin this season.",
+    "The Clippers are the only NBA team that has yet to shoot under 30.0% from three in a game in 2026-27. 26-27 OPPONENT COMPARISON"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-host-dallas-mavericks",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-host-dallas-mavericks",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-host-dallas-mavericks",
+   "title": "Preview: Utah Jazz Host Dallas Mavericks",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-21T21:20:36Z",
+   "tags": [
+    "Darryn Peterson",
+    "Utah Jazz"
+   ],
+   "summary": "After the Utah Jazz enjoyed a sweep of a back-to-back set of games in Los Angeles earlier in the week, a return to the familiar confines of the Delta Center didn’t help sustain the team’s momentum.",
+   "facts": [
+    "After the Utah Jazz enjoyed a sweep of a back-to-back set of games in Los Angeles earlier in the week, a return to the familiar confines of the Delta Center didn’t help sustain the team’s momentum.",
+    "In a Friday night NBA Cup matchup against the Phoenix Suns, Utah struggled to make shots (10-of-39 from three and 21-of-34 from the free-throw line) and lost the possession battle in a 111-101 defeat.",
+    "Darryn Peterson nearly reached his first career triple-double (20 points, 10 rebounds, and eight assists), but the Jazz struggled to defend in transition and couldn’t find a flow on the offensive end.",
+    "Dallas has had an up-and-down start to the 2026-27 season, enjoying multiple three-game winning streaks yet still hovering around the .500 mark.",
+    "The Mavericks are led by the dynamic one-two punch of Cooper Flagg (24.2 points, 6.4 assists per game) and Kyrie Irving (22.2 points, 4.4 assists per game).",
+    "Dusty May’s squad is still looking to form a clear identity, with Dallas ranking 17th in both offensive and defensive rating as of Saturday morning.",
+    "Dallas won the first meeting between the two teams 112-100 back on Nov. 6.",
+    "The Jazz turned the ball over 15 times and allowed the Suns to grab 15 offensive rebounds, which ultimately resulted in nine more shot attempts for the visitors."
+   ],
+   "quotes": []
+  },
   {
    "source": "DET 公式（nba.com）",
    "team": "DET",
