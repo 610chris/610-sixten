@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:31:53+09:00",
+  "updated": "2026-11-22T12:42:47+09:00",
   "items": [
     {
       "id": "134",
@@ -35956,6 +35956,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "マクダニエルズがグリズリーズ戦で25得点\n\n・FG11/17の高確率で25得点\n・リバウンド5・アシスト4も記録\n・ティンバーウルブズが104-95で勝利\n\n💬 守備の名手マクダニエルズの25得点、今季のブレイクの兆し？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Grizzlies vs. Timberwolves)\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1108",
+      "slug": "1108-rui-hachimura-19-points-mavericks",
+      "category": "NBA",
+      "date": "2026-11-22",
+      "headline": "八村塁、マーベリックス戦で19得点8リバウンド",
+      "excerpt": "LAクリッパーズ(LA Clippers)の八村塁(Rui Hachimura)は現地時間11月21日、敵地ダラスでのダラス・マーベリックス(Dallas Mavericks)戦に29分出場し、フィールドゴール12本中7本・3ポイント5本中4本・フリースロー2本中1本を沈めて19得点に加え、リバウンド8・アシスト1を記録した。クリッパーズは100-110でマーベリックスに敗れ、今季の成績を4勝11敗とした。",
+      "points": [
+        "FG12本中7本・3P5本中4本の高確率で19得点",
+        "リバウンド8はチーム最多",
+        "クリッパーズは100-110で敗戦、4勝11敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1108-rui-hachimura-19-points-mavericks.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "八村の今季のベストゲームはどの試合だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. MAVERICKS",
+        "points": 19,
+        "stats": [
+          "8 REB",
+          "1 AST",
+          "7/12 FG",
+          "4/5 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1108-1.jpg",
+        "https://sixten.jp/assets/ig/1108-2.jpg",
+        "https://sixten.jp/assets/ig/1108-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-22T12:41:54+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、マーベリックス戦で19得点8リバウンド\n\n・FG12本中7本・3P5本中4本の高確率で19得点\n・リバウンド8はチーム最多\n・クリッパーズは100-110で敗戦、4勝11敗\n\n💬 八村の今季のベストゲームはどの試合だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1109",
+      "slug": "1109-kyrie-irving-25-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-22",
+      "headline": "カイリー・アービング、クリッパーズ戦で25得点",
+      "excerpt": "ダラス・マーベリックス(Dallas Mavericks)のカイリー・アービング(Kyrie Irving)は現地時間11月21日、本拠地でのLAクリッパーズ(LA Clippers)戦に35分出場し、フィールドゴール24本中8本・3ポイント11本中3本・フリースロー7本中6本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者となり、マーベリックスは110-100でクリッパーズを下し、今季の成績を9勝7敗とした。",
+      "points": [
+        "FG8/24と確率は上がらずもFT6/7で25得点",
+        "アシスト4・ターンオーバー0",
+        "マーベリックスが110-100で勝利、9勝7敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1109-kyrie-irving-25-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Kyrie Irving"
+      ],
+      "question": "アービング、今季はどこまで調子を上げてくる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KYRIE IRVING",
+        "opponent": "vs. CLIPPERS",
+        "points": 25,
+        "stats": [
+          "6 REB",
+          "4 AST",
+          "8/24 FG",
+          "3/11 3PT",
+          "6/7 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1109-1.jpg",
+        "https://sixten.jp/assets/ig/1109-2.jpg",
+        "https://sixten.jp/assets/ig/1109-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-22T12:42:46+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "カイリー・アービング、クリッパーズ戦で25得点\n\n・FG8/24と確率は上がらずもFT6/7で25得点\n・アシスト4・ターンオーバー0\n・マーベリックスが110-100で勝利、9勝7敗\n\n💬 アービング、今季はどこまで調子を上げてくる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1109-kyrie-irving-25-points-clippers.html",
+    cat: "NBA",
+    title: "カイリー・アービング、クリッパーズ戦で25得点 —— マーベリックスが110-100で勝利",
+    excerpt: "ダラス・マーベリックス(Dallas Mavericks)のカイリー・アービング(Kyrie Irving)は現地時間11月21日、本拠地でのLAクリッパーズ(LA Clippers)戦に35分出場し、フィールドゴール24本中8本・3ポイント11本中3本・フリースロー7本中6本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者となり、マーベリックスは110-100でクリッパーズを下し、今季の成績を9勝7敗とした。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1108-rui-hachimura-19-points-mavericks.html",
+    cat: "NBA",
+    title: "八村塁、マーベリックス戦で19得点8リバウンド —— クリッパーズは100-110で敗戦",
+    excerpt: "LAクリッパーズ(LA Clippers)の八村塁(Rui Hachimura)は現地時間11月21日、敵地ダラスでのダラス・マーベリックス(Dallas Mavericks)戦に29分出場し、フィールドゴール12本中7本・3ポイント5本中4本・フリースロー2本中1本を沈めて19得点に加え、リバウンド8・アシスト1を記録した。クリッパーズは100-110でマーベリックスに敗れ、今季の成績を4勝11敗とした。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1107-jaden-mcdaniels-25-points-grizzlies.html",
     cat: "NBA",
     title: "ジェイデン・マクダニエルズ、グリズリーズ戦で25得点 —— ティンバーウルブズが104-95で勝利",
