@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1113-gabe-vincent-kings-signing.html",
+    cat: "NBA",
+    title: "ゲイブ・ビンセント、キングス入りへ最終調整 —— 2勝14敗、手薄なバックコートの救援に",
+    excerpt: "フリーエージェントのガード、ゲイブ・ビンセント(Gabe Vincent)がサクラメント・キングス(Sacramento Kings)との契約で最終合意に近づいていると、ESPNが関係者の話として伝えた。プレシーズン中にベン・シモンズがアキレス腱を断裂し手薄になっていたバックコートの救援となる。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1112-norman-powell-hamstring-strain-bulls.html",
     cat: "NBA",
     title: "ノーマン・パウエル、右ハムストリング負傷 —— ブルズ公式発表、今週中に再評価",
