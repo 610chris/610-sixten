@@ -3437,6 +3437,29 @@
   "template": "score",
   "timestamp": "2026-10-10T12:18:04+0000"
  },
+ "17958692868324945": {
+  "article": "1114",
+  "auto": true,
+  "caption_len": 396,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ディバンツァ「厳しい環境」、ブーザーは「後悔しない1位」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgECmKUCdoq/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN（Brian Windhorst and Tim MacMahon）",
+  "subject": [
+   "AJ Dybantsa|Cameron Boozer"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-22T23:59:17+0000"
+ },
  "17959619573078707": {
   "auto": false,
   "caption_len": 76,
@@ -7137,6 +7160,29 @@
   "template": "score",
   "timestamp": "2026-11-16T01:57:48+0000"
  },
+ "18092579519257223": {
+  "article": "1110",
+  "auto": true,
+  "caption_len": 332,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ダリアス・エイカフJr.、セルティックス戦で21得点8AST",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgCHS-flBik/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Darius Acuff Jr."
+  ],
+  "template": "score",
+  "timestamp": "2026-11-22T06:01:50+0000"
+ },
  "18092664290216698": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -9385,6 +9431,29 @@
   "template": "score",
   "timestamp": "2026-10-15T06:03:44+0000"
  },
+ "18113242187350157": {
+  "article": "1115",
+  "auto": true,
+  "caption_len": 375,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アレクサンダー＝ウォーカーがピストンズ戦で27得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgEC2AejOBg/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Atlanta Hawks vs. Detroit Pistons・2026年11月22日)",
+  "subject": [
+   "Nickeil Alexander-Walker"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-23T00:01:38+0000"
+ },
  "18113385668014087": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -9780,6 +9849,29 @@
   "template": "score",
   "timestamp": "2026-10-24T02:59:03+0000"
  },
+ "18115791683233861": {
+  "article": "1108",
+  "auto": true,
+  "caption_len": 316,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、マーベリックス戦で19得点8リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgB3uMSDZ0Q/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-22T03:45:57+0000"
+ },
  "18115839752599391": {
   "article": "866",
   "auto": true,
@@ -9960,6 +10052,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-12T12:07:58+0000"
+ },
+ "18116582011847377": {
+  "article": "1119",
+  "auto": true,
+  "caption_len": 319,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ミハイリュク39得点 ジャズは第4Q猛追も惜敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgEXxgFgpIT/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Svi Mykhailiuk"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-23T03:04:31+0000"
  },
  "18117201529804060": {
   "arms": {
@@ -10433,6 +10548,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-05T03:46:04+0000"
+ },
+ "18119631677604836": {
+  "article": "1105",
+  "auto": true,
+  "caption_len": 382,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマがペリカンズ戦で50得点19リバウンド5ブロック",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgB2p8GkoSd/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Spurs vs. Pelicans)",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-22T03:36:37+0000"
  },
  "18119971471955369": {
   "arms": {
@@ -11201,6 +11339,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-22T02:52:05+0000"
+ },
+ "18125633671921540": {
+  "article": "1106",
+  "auto": true,
+  "caption_len": 374,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランソンがトレイルブレイザーズ戦で30得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgB27U1DDMW/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Trail Blazers vs. Knicks)",
+  "subject": [
+   "Jalen Brunson"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-22T03:39:01+0000"
  },
  "18125737207904292": {
   "article": "999",
@@ -12245,6 +12406,19 @@
   "template": "news",
   "timestamp": "2026-11-19T03:23:33+0000"
  },
+ "18134649619688339": {
+  "auto": false,
+  "caption_len": 102,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 3,
+  "headline": "あのブザービーターの後、レブロンと何を話した？",
+  "permalink": "https://www.instagram.com/reel/DgCoyZxFArr/",
+  "product": "REELS",
+  "timestamp": "2026-11-22T10:54:43+0000"
+ },
  "18134786542740940": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -12521,6 +12695,27 @@
   ],
   "template": "score",
   "timestamp": "2026-11-13T03:03:28+0000"
+ },
+ "18137858839738174": {
+  "article": "1116",
+  "auto": true,
+  "caption_len": 337,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "横浜エクセレンス、熊本に連敗 —— B.LEAGUE ONE第11節",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgEJKCyDJXZ/",
+  "product": "REELS",
+  "route": "source",
+  "source": "横浜エクセレンス公式(PR TIMES)",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-23T00:56:46+0000"
  },
  "18138795754651008": {
   "arms": {
@@ -16021,6 +16216,52 @@
   "template": "news",
   "timestamp": "2026-11-05T13:03:17+0000"
  },
+ "18468566734185341": {
+  "article": "1117",
+  "auto": true,
+  "caption_len": 364,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "バム・アデバヨ、サンダー戦でトリプルダブル",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgEQYNkjrHR/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Miami Heat vs. Oklahoma City Thunder・2026年11月22日)",
+  "subject": [
+   "Bam Adebayo"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-23T01:59:52+0000"
+ },
+ "18474324547186678": {
+  "article": "1112",
+  "auto": true,
+  "caption_len": 341,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "パウエル、右ハムストリング負傷でブルズ公式発表",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgDKnJYEYHD/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ブルズ公式サイト(NBA.com)",
+  "subject": [
+   "Norman Powell"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-22T15:50:15+0000"
+ },
  "18476759590184202": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -16436,5 +16677,28 @@
   ],
   "template": "score",
   "timestamp": "2026-11-14T04:04:20+0000"
+ },
+ "18666048418039892": {
+  "article": "1109",
+  "auto": true,
+  "caption_len": 318,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カイリー・アービング、クリッパーズ戦で25得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgB4EDZGcSg/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Kyrie Irving"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-22T03:48:48+0000"
  }
 }
