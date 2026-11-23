@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T11:59:30+09:00",
+  "updated": "2026-11-23T12:54:30+09:00",
   "items": [
     {
       "id": "134",
@@ -36501,6 +36501,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ジョージ24得点 ウィザーズが初戦38点で快勝\n\n・ジョージが3P6/11・FG9/17で24得点\n・ウィザーズは第1Qに38得点の好スタート\n・デイビス22得点・ディバンツァ16得点も続き116-96で快勝\n\n💬 ウィザーズ、この勢いで連勝できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1121",
+      "slug": "1121-karl-anthony-towns-30-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-22",
+      "headline": "タウンズ30得点 ニックスが接戦制す",
+      "excerpt": "ニューヨーク・ニックス(New York Knicks)のカール＝アンソニー・タウンズ(Karl-Anthony Towns)は現地時間11月22日、本拠地でのインディアナ・ペイサーズ(Indiana Pacers)戦に29分出場し、3ポイント4本中4本を含むフィールドゴール14本中9本を沈めて30得点を記録した。ニックスは第4Qのペイサーズの追い上げを振り切り、113-106で勝利した。",
+      "points": [
+        "タウンズが3P4/4・FG9/14で30得点",
+        "ハートは10得点11リバウンド10アシストのトリプルダブル",
+        "第3Qまで89-78とリードし113-106で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1121-karl-anthony-towns-30-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Karl-Anthony Towns"
+      ],
+      "question": "ニックス、このままイースト上位を維持できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KARL-ANTHONY TOWNS",
+        "opponent": "vs. PACERS",
+        "points": 30,
+        "stats": [
+          "13 REB",
+          "5 AST",
+          "3 STL",
+          "2 BLK",
+          "9/14 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1121-1.jpg",
+        "https://sixten.jp/assets/ig/1121-2.jpg",
+        "https://sixten.jp/assets/ig/1121-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-23T12:54:01+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タウンズ30得点 ニックスが接戦制す\n\n・タウンズが3P4/4・FG9/14で30得点\n・ハートは10得点11リバウンド10アシストのトリプルダブル\n・第3Qまで89-78とリードし113-106で勝利\n\n💬 ニックス、このままイースト上位を維持できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

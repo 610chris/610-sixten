@@ -43,6 +43,14 @@ const ARTICLES = [
     thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
   },
   {
+    href: "1121-karl-anthony-towns-30-points-pacers.html",
+    cat: "NBA",
+    title: "カール＝アンソニー・タウンズ、ペイサーズ戦で30得点 —— ニックスが113-106で勝利",
+    excerpt: "ニューヨーク・ニックス(New York Knicks)のカール＝アンソニー・タウンズ(Karl-Anthony Towns)は現地時間11月22日、本拠地でのインディアナ・ペイサーズ(Indiana Pacers)戦に29分出場し、3ポイント4本中4本を含むフィールドゴール14本中9本を沈めて30得点を記録した。ニックスは第4Qのペイサーズの追い上げを振り切り、113-106で勝利した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1115-nickeil-alexander-walker-27-points-pistons.html",
     cat: "NBA",
     title: "ニキール・アレクサンダー＝ウォーカー、ピストンズ戦で27得点 —— ホークスが107-97で勝利",
