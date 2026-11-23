@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1127-a-ma-maniere-air-force-1-low.html",
+    cat: "KICKS",
+    title: "A Ma Maniere × Nike Air Force 1 Low、全6色をラッフルなしで店舗先行発売 —— アトランタ・シカゴ・DC・ヒューストンの直営店で先着購入",
+    excerpt: "アパレル/セレクトショップのA Ma Maniere(ア・マ・マニエール)とナイキのコラボレーション「Air Force 1 Low」が、抽選(ラッフル)や専用アプリを使わない形で2026年11月23日に発売された。全6色展開で、A Ma Maniereの直営店(アトランタ・シカゴ・ワシントンD.C.・ヒューストン)で先着購入できる。米Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1126-nolan-traore-hamstring-injury.html",
     cat: "NBA",
     title: "ネッツのノーラン・トラオレが右ハムストリング負傷 —— 8〜10週で再評価",
