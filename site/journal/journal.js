@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1124-fred-vanvleet-rockets-admiral.html",
+    cat: "NBA",
+    title: "フレッド・ヴァンブリートの復帰がロケッツを変えた —— ACL負傷から1年、シェングンが贈った新ニックネーム「提督」",
+    excerpt: "ヒューストン・ロケッツのフレッド・ヴァンブリートは、右膝ACL断裂から復帰した今季、チームを12勝4敗・西地区1位と1差の成績に導いている。ESPNのマイケル・C・ライト記者が現地時間11月20日、復帰後の数字と背景を特集した。アルペラン・シェングンが贈った新ニックネーム「提督」の由来や、ケガ前後のエピソードをまとめる。",
+    date: "2026.11.23",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1123-nike-book-2-light-chocolate.html",
     cat: "KICKS",
     title: "Nike Book 2「Light Chocolate」(品番IO9841-200)が12月1日発売 —— デビン・ブッカーの2代目シグネチャーに、シボレーとのコラボカラー",
