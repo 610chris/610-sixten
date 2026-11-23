@@ -1,8 +1,60 @@
 {
- "updated_utc": "2026-11-22 21:14 UTC",
+ "updated_utc": "2026-11-23 01:56 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "feature",
+   "key": "https://www.nba.com/knicks/news/knicks-vs-pacers-game-notes-november-22-2026",
+   "url": "https://www.nba.com/knicks/news/knicks-vs-pacers-game-notes-november-22-2026",
+   "canonical_url": "https://knicks.com/news/knicks-vs-pacers-game-notes-november-22-2026",
+   "title": "Knicks vs Pacers Game Notes | November 22, 2026",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-11-22T23:04:24Z",
+   "tags": [
+    "Game Notes",
+    "Orlando Magic"
+   ],
+   "summary": "November 22, 2026 8:00 PM ET | Madison Square Garden (New York, NY) | Game 17; Home Game 9",
+   "facts": [
+    "November 22, 2026 8:00 PM ET | Madison Square Garden (New York, NY) | Game 17; Home Game 9 TV: MSG Networks | Radio: SiriusXM This Day in Knicks History November 22, 1993: John Starks makes a franchise best seven three p…",
+    "He finishes the game 7-for-10 from downtown, scoring 37 points.",
+    "IND: Indiana (11/13/26) – The Indiana Pacers defeated the New York Knicks, 106-104.",
+    "Jalen Brunson led New York with 33 points on 50.0-percent shooting, 11 assists, one rebound and two steals.",
+    "Karl-Anthony Towns registered 23 points, 15 rebounds, five assists and three steals.",
+    "Mikal Bridges added 18 points on 66.7-percent shooting, three rebounds, three assists and two steals.",
+    "Aaron Nesmith led Indiana with 18 points on 70.0-percent shooting, seven rebounds and one assist.",
+    "Ivica Zubac contributed 12 points on 50.0-percent shooting, 13 rebounds, one assist and one block."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "injury",
+   "key": "https://www.nba.com/pelicans/news/pelicans-vs-suns-injury-report-game-preview-11-23-2026",
+   "url": "https://www.nba.com/pelicans/news/pelicans-vs-suns-injury-report-game-preview-11-23-2026",
+   "canonical_url": "https://pelicans.com/news/pelicans-vs-suns-injury-report-game-preview-11-23-2026",
+   "title": "Pelicans vs. Suns: Injury Report, Game Preview 11/23/2026",
+   "author": "Pelicans.com",
+   "published_utc": "2026-11-22T22:54:46Z",
+   "tags": [],
+   "summary": "The Pelicans host the Phoenix Suns on Monday at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+   "facts": [
+    "The Pelicans host the Phoenix Suns on Monday at 7:00 pm CT.",
+    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
+    "Get the latest Pelicans-Suns injury report, team news, tune in details, and gameday information: PELICANS VS SUNS INJURY UPDATE PELICANS INJURY REPORT Bennedict Mathurin OUT (left plantar fasciitis) Dejounte Murray OUT (…",
+    "PROBABLE (G League two-way) Zion Williamson PROBABLE (left thigh contusion) SUNS INJURY REPORT Mark Williams OUT (left shoulder surgery) Ryan Dunn QUESTIONABLE (right quad soreness) PELICANS VS SUNS: HEAD-TO-HEAD STATS 2…",
+    "Suns Game Time, TV Channel, Radio & Location 📅 Game Time: Monday, Nov. 23 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Coast Spo…"
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -577,10 +629,9 @@
    "url": "https://www.nba.com/pacers/news/preview-pacers-knicks-261122",
    "canonical_url": "https://pacers.com/news/preview-pacers-knicks-261122",
    "title": "Game Preview: Pacers at Knicks",
-   "author": "Madie Chandler-Donahue",
+   "author": "Wheat Hotchkiss",
    "published_utc": "2026-11-21T05:55:09Z",
    "tags": [
-    "2026 NBA Cup",
     "2026-27 Game Preview"
    ],
    "summary": "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden",
@@ -1223,160 +1274,6 @@
     "Grizzlies wing Jaylen Wells led all scorers with 22 points and four 3-pointers on 8-for-10 shooting in 24 minutes.",
     "BASSEY’S DOUBLE-DOUBLE Charles Bassey was aggressive from the opening tip, scoring nine points on 4-for-5 shooting and grabbing five rebounds in seven first-quarter minutes.",
     "He also had a 3-point play, finishing through a congested paint and sank a floater from just inside the foul line for his final basket of the frame."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-brooklyn-nets-game-preview-injury-report-20261120",
-   "url": "https://www.nba.com/magic/news/orlando-magic-brooklyn-nets-game-preview-injury-report-20261120",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-brooklyn-nets-game-preview-injury-report-20261120",
-   "title": "Orlando Magic at Brooklyn Nets: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-11-20T00:13:45Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Much like the wind, momentum can shift quickly in the NBA.",
-   "facts": [
-    "Heading into their most recent matchup with the Philadelphia 76ers, the Orlando Magic were riding a four-game winning streak, including a statement road win over the Boston Celtics, who were previously undefeated at home…",
-    "Now, the Magic (6-8) will attempt to get back on track when they visit the Brooklyn Nets (3-11) on Friday at 7:30 p.m.",
-    "Brooklyn has knocked down the eighth most 3-pointers (14.5) per contest in the NBA this season and attempted the fifth most free throws (28.0).",
-    "Brooklyn leads the league with 11.3 catch-and-shoot triples made per game.",
-    "They’re also atop the association in points per game off dribble-handoffs (12.9).",
-    "Michael Porter Jr. leads the NBA in that category with 5.8 points per contest off handoffs, which would also be the highest single-season rate in league history.",
-    "IN AND OUT: Paolo Banchero (illness / right high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery) and Noah Penda (right partially torn hamstring) are out for Orland…",
-    "For Brooklyn, Grant Nelson (right ankle sprain) is out."
-   ],
-   "quotes": [
-    "(We’re) headed back out on the road,",
-    "This (loss) didn’t kill no momentum, but it was a tough one to drop.",
-    "It’s definitely going to be a little weird,",
-    "We’ve obviously played in practice against each other. But I look at it as a huge blessing to be able to share the court together at this level. I’m really happy for him in the situation that he’s in.…"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/osceola-magic-defensive-identity-leading-to-early-season-success-much-like-orlando-20261119",
-   "url": "https://www.nba.com/magic/news/osceola-magic-defensive-identity-leading-to-early-season-success-much-like-orlando-20261119",
-   "canonical_url": "https://orlandomagic.com/news/osceola-magic-defensive-identity-leading-to-early-season-success-much-like-orlando-20261119",
-   "title": "Much Like In Orlando, Osceola Magic’s Defensive Identity Leading to Early Season Success",
-   "author": "Dan Savage",
-   "published_utc": "2026-11-20T00:01:30Z",
-   "tags": [
-    "Latest News",
-    "Osceola Magic",
-    "Team News"
-   ],
-   "summary": "OSCEOLA – Over the course of their last five games, the Orlando Magic have re-established their defensive identity.",
-   "facts": [
-    "Through the first four games of the G League’s Tip-Off Tournament, the Osceola Magic boasted the league’s top defensive rating (89.8) and went a perfect 4-0 over that span.",
-    "His effort down in Osceola helped him earn a two-way contract for Orlando on Feb. 17, 2026, which he’s made the most of.",
-    "Morales got his first NBA start for Orlando last week against Utah and helped the Magic earn a 123-108 road win over the Jazz in that outing.",
-    "When you’re in that two-way situation, you know how hard it can be.",
-    "While he’s only appeared in one outing for Osceola, he quickly noticed how it also thrives off of takeaways – Osceola leads the G League with 14.0 steals per game – and generating offense in transition."
-   ],
-   "quotes": [
-    "It starts with our ball pressure. High steal rate, turnover rate, playing physical and with multiple efforts.",
-    "(We’re trying to carry over) almost all of them,",
-    "Technically, we do the same things. Some things we do custom to our style and our roster a bit. But the one thing that I’ve carried from (my time in Orlando) is the old-school grit and principles with…",
-    "We do a good job of trying to mimic some of the stuff that we do up top,"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-return-home-to-host-phoenix-suns-in-nba-cup-action",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-return-home-to-host-phoenix-suns-in-nba-cup-action",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-return-home-to-host-phoenix-suns-in-nba-cup-action",
-   "title": "Preview: Utah Jazz Return Home to Host Phoenix Suns in NBA Cup Action",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-19T23:05:39Z",
-   "tags": [
-    "Keyonte George",
-    "Utah Jazz"
-   ],
-   "summary": "The Utah Jazz have returned home with some momentum.",
-   "facts": [
-    "The Utah Jazz have returned home with some momentum.",
-    "Utah’s most recent win was a 109-97 affair against the Lakers, who owned the league’s top-ranked offense going into Wednesday’s contest.",
-    "However, led by Josh Green and Josh Okogie, the Jazz made life difficult for Luka Dončić throughout the night (10-of-28 shooting with nine turnovers) and held Los Angeles to just 97 points.",
-    "The Lakers only shot 38-percent from the field and turned it over 18 times, which helped Utah’s offense.",
-    "Meanwhile, on the other end of the floor, Keyonte George delivered a second consecutive 30-point double-double, effectively balancing his scoring and playmaking to drive Utah’s third win of the season.",
-    "The Jazz now return home to the Delta Center for an NBA Cup matchup against the Phoenix Suns.",
-    "Phoenix (7-7) has righted the ship, having gone 6-2 after a disappointing 1-5 start to the new season.",
-    "The Suns are certainly relying on offense to win games, ranking ninth in offensive rating and just 25th in defensive rating as of Thursday morning."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-thunder-injury-report-game-preview-11-20-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-thunder-injury-report-game-preview-11-20-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-thunder-injury-report-game-preview-11-20-2026",
-   "title": "Pelicans vs. Thunder: Injury Report, Game Preview 11/20/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-19T22:32:13Z",
-   "tags": [],
-   "summary": "The Pelicans continue NBA Cup group play games with a visit to the Oklahoma City Thunder on Friday at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans continue NBA Cup group play games with a visit to the Oklahoma City Thunder on Friday at 7:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Thunder injury report, team news, tune in details, and gameday information: PELICANS VS THUNDER INJURY UPDATE PELICANS INJURY REPORT Malik Dia OUT (G League two-way) Bennedict Mathurin OUT (left p…",
-    "PROBABLE (G League two-way) THUNDER INJURY REPORT Chet Holmgren OUT (right knee injury recovery) Thomas Sorber OUT (right knee surgery) Nikola Topic OUT (left hip strain) Cason Wallace OUT (left shoulder surgery) Jalen W…",
-    "Atlanta Hawks Ajay Mitchell, Aday Mara, Isaiah Hartenstein, Jared McCain, Shai Gilgeous-Alexander NEW ORLEANS PELICANS (5-11) Previous Game Lineup: November 18 loss vs.",
-    "Pistons Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 20 at 7:00 pm CT🏟️ Location: Paycom Center in Oklahoma City, OK🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Thunder TV: KSBI OKC📻 Thunder…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/clippers-vs-spurs-preview-2026-11-19",
-   "url": "https://www.nba.com/clippers/news/clippers-vs-spurs-preview-2026-11-19",
-   "canonical_url": "https://clippers.com/news/clippers-vs-spurs-preview-2026-11-19",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Spurs",
-   "author": "LAClippers",
-   "published_utc": "2026-11-19T22:15:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Broadcast Information",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Darius Garland",
-    "Game Previews",
-    "Injury Report",
-    "Keaton Wagler"
-   ],
-   "summary": "Last Matchup: 04/02/2026 | LAC 99 - SAS 118 | K.Leonard: 24 PTS - D.Fox: 22 PTSDarius Garland has made at least one three-pointer in all 32 of his games as a Clipper. That is 10 games longer than the next closest streak by any player to begin their Clippers career (Landry Shamet – 22 games).Over the last five seasons (since 2022-23), the Clippers own a 10-4 (.714) record against the Spurs, the bes…",
-   "facts": [
-    "SAN ANTONIO SPURS FIVE THINGS TO KNOW Last Matchup: 04/02/2026 | LAC 99 - SAS 118 | K.Leonard: 24 PTS - D.Fox: 22 PTSDarius Garland has made at least one three-pointer in all 32 of his games as a Clipper.",
-    "That is 10 games longer than the next closest streak by any player to begin their Clippers career (Landry Shamet – 22 games).Over the last five seasons (since 2022-23), the Clippers own a 10-4 (.714) record against the S…",
-    "With a win tonight, the Clippers will tie Memphis (11) for most wins by any team against the Spurs over that span.The Clippers are one of four NBA teams that have recorded 10+ stocks (steals plus blocks) in all of their …",
-    "Los Angeles is looking to do so in the first 14 games of a season for the first time since 2012-13.Keaton Wagler has made 27 free throws in five career road games.",
-    "The last Clipper to reach that mark in the first five road games of their career was Lamar Odom (also 27) in 1999-00.BONUS: Kris Dunn is stealing the ball at a rate of 2.79 times per 36 minutes so far this season.",
-    "The only players with a higher rate in the NBA in 2026-27 (min. 300 minutes) are Matisse Thybulle and Dyson Daniels. 26-27 OPPONENT COMPARISON"
    ],
    "quotes": []
   }
