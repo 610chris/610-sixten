@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1126-nolan-traore-hamstring-injury.html",
+    cat: "NBA",
+    title: "ネッツのノーラン・トラオレが右ハムストリング負傷 —— 8〜10週で再評価",
+    excerpt: "ブルックリン・ネッツは現地時間11月23日、2年目ガードのノーラン・トラオレが右ハムストリングを損傷し、8〜10週間で再評価すると発表した。今季は先発10試合で平均12.9得点・2.7アシストとチームの主力ガードに成長していた。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1125-nba-all-star-picks-wembanyama.html",
     cat: "NBA",
     title: "NBA「時期尚早」オールスター候補24人、ウェンバンヤマが文句なしの最有力 —— ESPNゴリバー記者が東西12人ずつを選出",
