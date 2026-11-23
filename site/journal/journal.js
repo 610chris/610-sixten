@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1123-nike-book-2-light-chocolate.html",
+    cat: "KICKS",
+    title: "Nike Book 2「Light Chocolate」(品番IO9841-200)が12月1日発売 —— デビン・ブッカーの2代目シグネチャーに、シボレーとのコラボカラー",
+    excerpt: "ナイキが、フェニックス・サンズのデビン・ブッカーの2代目シグネチャーモデル「Nike Book 2」の新色「Light Chocolate」(品番IO9841-200)を2026年12月1日に発売する。米自動車メーカー シボレーとのコラボで、クラシックカーのキャンディペイントを思わせる光沢パテントレザーのアッパーを採用。価格は155ドル。Hypebeastが伝えた。",
+    date: "2026.11.23",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1122-jayson-tatum-27-points-warriors.html",
     cat: "NBA",
     title: "ジェイソン・テイタム、ウォリアーズ戦で27得点 —— セルティックスは87-88の1点差で惜敗",
