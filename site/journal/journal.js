@@ -19,6 +19,30 @@ const ARTICLES = [
     thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
   },
   {
+    href: "1118-jamal-murray-45-points-bulls.html",
+    cat: "NBA",
+    title: "ジャマール・マレー、ブルズ戦OTで45得点 —— ヨキッチもトリプルダブルでナゲッツが151-145の接戦を制す",
+    excerpt: "デンバー・ナゲッツ(Denver Nuggets)のジャマール・マレー(Jamal Murray)は現地時間11月22日、敵地シカゴでのブルズ(Chicago Bulls)戦に45分出場し、フィールドゴール22本中13本・3ポイント11本中6本・フリースロー14本中13本を沈めて45得点を記録した。ナゲッツはオーバータイムにもつれた末、151-145でブルズを下した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "1119-svi-mykhailiuk-39-points-mavericks.html",
+    cat: "NBA",
+    title: "スビ・ミハイリュク、マブス戦で39得点 —— ジャズは第4Qの猛追及ばず114-116で惜敗",
+    excerpt: "ユタ・ジャズ(Utah Jazz)のスビ・ミハイリュク(Svi Mykhailiuk)は現地時間11月22日、本拠地でのダラス・マーベリックス(Dallas Mavericks)戦に32分出場し、3ポイント15本中10本を含むフィールドゴール23本中12本を沈めて39得点を記録した。ジャズは第4Qに40得点を挙げる猛追を見せたが、114-116でマーベリックスに惜敗した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1120-kyshawn-george-24-points-magic.html",
+    cat: "NBA",
+    title: "キーショーン・ジョージ、マジック戦で24得点 —— ウィザーズが初戦の38点Qで116-96と快勝",
+    excerpt: "ワシントン・ウィザーズ(Washington Wizards)のキーショーン・ジョージ(Kyshawn George)は現地時間11月22日、本拠地でのオーランド・マジック(Orlando Magic)戦に36分出場し、3ポイント11本中6本を含むフィールドゴール17本中9本を沈めて24得点を記録した。ウィザーズは第1Qに38得点を挙げる好スタートを切り、116-96でマジックを下した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1115-nickeil-alexander-walker-27-points-pistons.html",
     cat: "NBA",
     title: "ニキール・アレクサンダー＝ウォーカー、ピストンズ戦で27得点 —— ホークスが107-97で勝利",
