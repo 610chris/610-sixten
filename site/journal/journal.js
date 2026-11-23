@@ -11,6 +11,14 @@ const ARTICLES = [
     thumb: "../assets/journal-1116-hero.jpg?v=ead2a06723"
   },
   {
+    href: "1117-bam-adebayo-triple-double-thunder.html",
+    cat: "NBA",
+    title: "バム・アデバヨ、サンダー戦で24得点15リバウンド12アシストのトリプルダブル —— ヒートが123-113で快勝",
+    excerpt: "マイアミ・ヒート(Miami Heat)のバム・アデバヨ(Bam Adebayo)は現地時間11月22日、本拠地でのオクラホマシティ・サンダー(Oklahoma City Thunder)戦に37分出場し、フィールドゴール11本中8本・フリースロー9本中8本を沈めて24得点、リバウンド15・アシスト12・ターンオーバー0のトリプルダブルを記録した。ヒートは123-113でサンダーを下した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1115-nickeil-alexander-walker-27-points-pistons.html",
     cat: "NBA",
     title: "ニキール・アレクサンダー＝ウォーカー、ピストンズ戦で27得点 —— ホークスが107-97で勝利",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T09:53:48+09:00",
+  "updated": "2026-11-23T10:57:00+09:00",
   "items": [
     {
       "id": "134",
@@ -36315,6 +36315,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "横浜エクセレンス、熊本に連敗 —— B.LEAGUE ONE第11節\n\n・新会場の横浜BUNTAIで南地区首位・熊本と対戦も連敗\n・Game1は83-107、Game2は84-87\n・河合HC「ボイド頼みと言われるのが一番悔しい」\n\n💬 横浜エクセレンス、次節の岐阜戦で連敗は止まる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 横浜エクセレンス公式(PR TIMES)\n写真: プレスリリースより(PR TIMES)\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "1117",
+      "slug": "1117-bam-adebayo-triple-double-thunder",
+      "category": "NBA",
+      "date": "2026-11-22",
+      "headline": "バム・アデバヨ、サンダー戦でトリプルダブル",
+      "excerpt": "マイアミ・ヒート(Miami Heat)のバム・アデバヨ(Bam Adebayo)は現地時間11月22日、本拠地でのオクラホマシティ・サンダー(Oklahoma City Thunder)戦に37分出場し、フィールドゴール11本中8本・フリースロー9本中8本を沈めて24得点、リバウンド15・アシスト12・ターンオーバー0のトリプルダブルを記録した。ヒートは123-113でサンダーを下した。",
+      "points": [
+        "24得点15リバウンド12アシスト、ターンオーバー0",
+        "FG8/11・FT8/9の高確率",
+        "ヒートは123-113で快勝"
+      ],
+      "source": "ESPN ボックススコア(Miami Heat vs. Oklahoma City Thunder・2026年11月22日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1117-bam-adebayo-triple-double-thunder.html",
+      "hero_path": "",
+      "subject": [
+        "Bam Adebayo"
+      ],
+      "question": "このトリプルダブル、今季ベストパフォーマンスだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BAM ADEBAYO",
+        "opponent": "vs. THUNDER",
+        "points": 24,
+        "stats": [
+          "15 REB",
+          "12 AST",
+          "2 STL",
+          "2 BLK",
+          "8/11 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1117-1.jpg",
+        "https://sixten.jp/assets/ig/1117-2.jpg",
+        "https://sixten.jp/assets/ig/1117-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-23T10:56:23+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バム・アデバヨ、サンダー戦でトリプルダブル\n\n・24得点15リバウンド12アシスト、ターンオーバー0\n・FG8/11・FT8/9の高確率\n・ヒートは123-113で快勝\n\n💬 このトリプルダブル、今季ベストパフォーマンスだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Miami Heat vs. Oklahoma City Thunder・2026年11月22日)\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
