@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:54:30+09:00",
+  "updated": "2026-11-23T13:11:14+09:00",
   "items": [
     {
       "id": "134",
@@ -36548,6 +36548,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "タウンズ30得点 ニックスが接戦制す\n\n・タウンズが3P4/4・FG9/14で30得点\n・ハートは10得点11リバウンド10アシストのトリプルダブル\n・第3Qまで89-78とリードし113-106で勝利\n\n💬 ニックス、このままイースト上位を維持できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1122",
+      "slug": "1122-jayson-tatum-27-points-warriors",
+      "category": "NBA",
+      "date": "2026-11-22",
+      "headline": "テイタム、ウォリアーズ戦で27得点も1点差で惜敗",
+      "excerpt": "ボストン・セルティックス(Boston Celtics)のジェイソン・テイタム(Jayson Tatum)は現地時間11月22日、敵地サンフランシスコでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に38分出場し、3ポイント11本中4本を含むフィールドゴール20本中8本を沈めて27得点を記録した。セルティックスは87-88の1点差でウォリアーズに惜敗した。",
+      "points": [
+        "27得点10リバウンド6アシスト",
+        "3P4/11・FG8/20",
+        "セルティックスは第4Qに逆転され87-88で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1122-jayson-tatum-27-points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "セルティックスのこの1点差負け、どこで流れが変わった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. WARRIORS",
+        "points": 27,
+        "stats": [
+          "10 REB",
+          "6 AST",
+          "8/20 FG",
+          "4/11 3PT",
+          "7/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1122-1.jpg",
+        "https://sixten.jp/assets/ig/1122-2.jpg",
+        "https://sixten.jp/assets/ig/1122-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-23T13:06:36+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "テイタム、ウォリアーズ戦で27得点も1点差で惜敗\n\n・27得点10リバウンド6アシスト\n・3P4/11・FG8/20\n・セルティックスは第4Qに逆転され87-88で惜敗\n\n💬 セルティックスのこの1点差負け、どこで流れが変わった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

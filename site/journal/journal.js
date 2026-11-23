@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1122-jayson-tatum-27-points-warriors.html",
+    cat: "NBA",
+    title: "ジェイソン・テイタム、ウォリアーズ戦で27得点 —— セルティックスは87-88の1点差で惜敗",
+    excerpt: "ボストン・セルティックス(Boston Celtics)のジェイソン・テイタム(Jayson Tatum)は現地時間11月22日、敵地サンフランシスコでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に38分出場し、3ポイント11本中4本を含むフィールドゴール20本中8本を沈めて27得点を記録した。セルティックスは87-88の1点差でウォリアーズに惜敗した。",
+    date: "2026.11.22",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1116-yokohama-excellence-kumamoto-sweep.html",
     cat: "JAPAN",
     title: "横浜エクセレンス、南地区首位・熊本に連敗 —— B.LEAGUE ONE第11節、河合HCが「ボイド頼み」脱却を誓う",
