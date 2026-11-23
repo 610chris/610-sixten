@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1128-jerami-grant-calf-strain.html",
+    cat: "NBA",
+    title: "グリズリーズのジェラミ・グラント、左ふくらはぎ肉離れ(グレード1) —— 19日のウォリアーズ戦で途中退場、21日は欠場",
+    excerpt: "メンフィス・グリズリーズは現地時間11月23日、フォワードのジェラミ・グラントが左ふくらはぎをグレード1の肉離れで負傷したと公式に発表した。19日のウォリアーズ戦第2クオーター中に負傷し、わずか5分の出場で途中退場。21日のティンバーウルブズ戦も欠場している。復帰の見通しは非公表。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1127-a-ma-maniere-air-force-1-low.html",
     cat: "KICKS",
     title: "A Ma Maniere × Nike Air Force 1 Low、全6色をラッフルなしで店舗先行発売 —— アトランタ・シカゴ・DC・ヒューストンの直営店で先着購入",
