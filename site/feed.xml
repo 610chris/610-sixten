@@ -5,9 +5,18 @@
     <link>https://sixten.jp/journal/</link>
     <description>610バスケットボールジャーナル（610 JOURNAL）は、メディアエージェンシー 610（シックステン）が運営するバスケットボール専門メディア。NBA速報、Bリーグ・日本代表などの国内バスケ、キックス、カルチャーのニュースと読みものを日本語で日々更新。すべての記事に出典を明記。</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:00:00 +0900</lastBuildDate>
     <atom:link href="https://sixten.jp/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://sixten.jp/assets/journal-logo-black.png</url><title>610バスケットボールジャーナル</title><link>https://sixten.jp/journal/</link></image>
+    <item>
+      <title>横浜エクセレンス、南地区首位・熊本に連敗 —— B.LEAGUE ONE第11節、河合HCが「ボイド頼み」脱却を誓う</title>
+      <link>https://sixten.jp/journal/1116-yokohama-excellence-kumamoto-sweep.html</link>
+      <guid isPermaLink="true">https://sixten.jp/journal/1116-yokohama-excellence-kumamoto-sweep.html</guid>
+      <pubDate>Mon, 23 Nov 2026 09:00:00 +0900</pubDate>
+      <category>JAPAN</category>
+      <description>横浜エクセレンスは11月21日・22日、新会場の横浜BUNTAIで南地区首位の熊本ヴォルターズと対戦したB.LEAGUE ONE 2026-27シーズン第11節で連敗を喫した。Game1は83-107、Game2は84-87で、ともに勝利を手にできなかった。</description>
+      <enclosure url="https://sixten.jp/assets/journal-1116-hero.jpg?v=ead2a06723" type="image/jpeg" length="0"/>
+    </item>
     <item>
       <title>ニキール・アレクサンダー＝ウォーカー、ピストンズ戦で27得点 —— ホークスが107-97で勝利</title>
       <link>https://sixten.jp/journal/1115-nickeil-alexander-walker-27-points-pistons.html</link>
@@ -268,15 +277,6 @@
       <category>NBA</category>
       <description>ヒューストン・ロケッツ(Houston Rockets)のフレッド・バンヴリート(Fred VanVleet)は、2025年の右膝前十字靱帯(ACL)断裂で2025-26シーズンを全休したが、復帰した2026-27シーズンはチームを12勝4敗・西地区1位と1差に導いている。ESPNのマイケル・C・ライト(Michael C. Wright)記者が11月20日、その復活までの軌跡を特集した。</description>
       <enclosure url="https://sixten.jp/assets/journal-fallback-04.jpg?v=e3dff30df6" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>シーホース三河から2選手、「B.LEAGUE ALL-STAR GAME WEEKEND 2027」出場決定 —— 須田侑太郎はTOKAI-KANSAI UNITEDキャプテンに</title>
-      <link>https://sixten.jp/journal/1086-mikawa-allstar-2027.html</link>
-      <guid isPermaLink="true">https://sixten.jp/journal/1086-mikawa-allstar-2027.html</guid>
-      <pubDate>Fri, 20 Nov 2026 09:00:00 +0900</pubDate>
-      <category>JAPAN</category>
-      <description>シーホース三河は、須田侑太郎選手(#13)と西田優大選手(#19)の2選手が「りそなグループ B.LEAGUE ALL-STAR GAME WEEKEND 2027 IN AICHI-NAGOYA」(2027年1月15日~17日・愛知IGアリーナ)への出場が決定したと11月20日発表した。須田選手はTOKAI-KANSAI UNITEDのキャプテンに、西田選手はB.BLACKのスターティング5に選出された。</description>
-      <enclosure url="https://sixten.jp/assets/journal-fallback-03.jpg?v=9981f0df79" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

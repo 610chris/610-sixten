@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1116-yokohama-excellence-kumamoto-sweep.html",
+    cat: "JAPAN",
+    title: "横浜エクセレンス、南地区首位・熊本に連敗 —— B.LEAGUE ONE第11節、河合HCが「ボイド頼み」脱却を誓う",
+    excerpt: "横浜エクセレンスは11月21日・22日、新会場の横浜BUNTAIで南地区首位の熊本ヴォルターズと対戦したB.LEAGUE ONE 2026-27シーズン第11節で連敗を喫した。Game1は83-107、Game2は84-87で、ともに勝利を手にできなかった。",
+    date: "2026.11.23",
+    thumb: "../assets/journal-1116-hero.jpg?v=ead2a06723"
+  },
+  {
     href: "1115-nickeil-alexander-walker-27-points-pistons.html",
     cat: "NBA",
     title: "ニキール・アレクサンダー＝ウォーカー、ピストンズ戦で27得点 —— ホークスが107-97で勝利",
