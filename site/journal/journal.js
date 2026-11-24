@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1146-nike-giannis-freak-8-christmas.html",
+    cat: "KICKS",
+    title: "Nike Giannis Freak 8「Christmas」(品番IQ7391-600)が登場 —— ブッカー・イオネスクと並ぶホリデーコレクションの「ノーティー」サイド",
+    excerpt: "ナイキは、ミルウォーキー・バックスのヤニス・アデトクンボが着用するシグネチャーモデル「Nike Giannis Freak 8」に新色「Christmas」(品番IQ7391-600)を追加した。デビン・ブッカーのBook 2やサブリナ・イオネスクのSabrina 4と意匠を共有し、箱にはオーナメントが付属する。Sneaker News・Sneaker Bar Detroitが伝えた。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1145-air-jordan-10-black-dark-concord.html",
+    cat: "KICKS",
+    title: "Air Jordan 10「Black & Dark Concord」が登場 —— 1995年「City Pack」をサクラメント仕様の新色で復刻",
+    excerpt: "ティンカー・ハットフィールドがデザインし、マイケル・ジョーダンの現役復帰時に足元を飾ったAir Jordan 10。1995年の「City Pack」の一部として発売されたモデルが、サクラメントのチームカラーを思わせる新色「Black & Dark Concord」で登場した。FLY BASKETBALL CULTURE MAGAZINEが伝えた。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "1144-divincenzo-achilles-clearance.html",
+    cat: "NBA",
+    title: "ウルブズのドンテ・ディヴィンセンゾ、アキレス腱手術からバスケットボール活動を許可 —— 復帰に向け第一歩",
+    excerpt: "ミネソタ・ティンバーウルブズは現地時間11月24日、ガードのドンテ・ディヴィンセンゾがアキレス腱の手術から回復し、バスケットボール活動を許可されたと発表した。ESPNが伝えた。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1143-shai-gilgeous-alexander-thunder-injuries.html",
     cat: "NBA",
     title: "ギルジャス＝アレクサンダー「逆境も楽しい」—— 主力3人を欠くサンダーが3連敗、優勝チームが西地区10位に後退",
