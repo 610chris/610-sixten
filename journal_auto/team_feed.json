@@ -1,8 +1,350 @@
 {
- "updated_utc": "2026-11-23 22:53 UTC",
+ "updated_utc": "2026-11-24 07:04 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/cold-shooting-sinks-utah-jazz-in-loss-to-lakers-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/cold-shooting-sinks-utah-jazz-in-loss-to-lakers-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/cold-shooting-sinks-utah-jazz-in-loss-to-lakers-key-takeaways",
+   "title": "Cold Shooting Sinks Utah Jazz in Loss to Lakers: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-24T05:54:51Z",
+   "tags": [
+    "Josh Green",
+    "Kyle Filipowski",
+    "Utah Jazz",
+    "Will Hardy"
+   ],
+   "summary": "The Utah Jazz are no strangers to battling through adversity.",
+   "facts": [
+    "Utah held Luka Dončić relatively in check (28 points on 8-of-24 shooting from the field, four turnovers), but a 6-of-32 shooting night from deep combined with 16 turnovers sunk the offense.",
+    "In the end, the Lakers pulled away for a 109-94 victory.",
+    "Off the bench Kyle Filipowski enjoyed a breakout effort with 21 points, 12 rebounds, and four assists.",
+    "The Jazz totaled just 20 points during the first 12 minutes of action, connecting on 42-percent from the field while turning it over eight times.",
+    "Meanwhile, Dončić found a flow in the early going and scored 14 points to lead Los Angeles during the first quarter.",
+    "After one, the Lakers held a 30-20 lead.",
+    "Utah went just 2-of-16 from deep during the first half, which held the offense back as it attempted to break down the Lakers zone defense.",
+    "However, Los Angeles had timely buckets to build a double-digit advantage, which sat at 53-42 by the halftime break."
+   ],
+   "quotes": [
+    "I thought the team fought and executed,",
+    "It was another night where we really struggled to make a shot from it felt like anywhere. In the fourth, to start the quarter we were stagnant and didn’t make quick decisions.",
+    "He’s been incredibly professional about his work,",
+    "He’s not been discouraged by a lack of opportunity… credit to him for staying ready. Offensively, he gave us a different look in terms of being able to do our off-ball stuff."
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/pacers-bench-brings-big-energy-in-win-over-thunder",
+   "url": "https://www.nba.com/pacers/news/pacers-bench-brings-big-energy-in-win-over-thunder",
+   "canonical_url": "https://pacers.com/news/pacers-bench-brings-big-energy-in-win-over-thunder",
+   "title": "Pacers Bench Brings Big Energy in Win over Thunder",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-24T04:37:42Z",
+   "tags": [],
+   "summary": "Indiana trailed, 10-4, five minutes into Monday’s matchup with the Oklahoma City Thunder. It was a clunky start for both teams – they shot a combined 6-for-22 from the field through the first six minutes of play – and Indiana needed a spark, badly.",
+   "facts": [
+    "Indiana trailed, 10-4, five minutes into Monday’s matchup with the Oklahoma City Thunder.",
+    "It was a clunky start for both teams – they shot a combined 6-for-22 from the field through the first six minutes of play – and Indiana needed a spark, badly.",
+    "Coach Rick Carlisle heard UCLA women’s basketball head coach Cori Close use a phrase following her 2026 NCAA title – “next-play speed.” He implemented the phrase into his own language to encourage players to overcome mis…",
+    "They raised the energy on the court with their embodiment of Close’s next-play speed as they willed Indiana to a 20-5 run down the stretch of the first quarter.",
+    "He would block Gilgeous-Alexander once more before the halftime break – the two exchanged words and buckets, too – and finished the first half with 11 points, five rebounds, four blocks, and a steal.",
+    "He scored ten points in the Pacers’ 20-5 run down the stretch of the first quarter, and finished with 17 points, six rebounds, and four assists in a 125-120 win to snap a four-game skid.",
+    "He led the Pacers bench in scoring on a night where the Blue and Gold reserves scored 50 points.",
+    "Every one of them recorded a positive plus/minus – Slawson led the Pacers at +6 – and grabbed 27 of Indiana’s season-high 58 rebounds."
+   ],
+   "quotes": [
+    "It resonated with him in a very strong way,",
+    "I want to play in this league for 10 years,",
+    "That’s how I’m gonna do it. If God blesses me with the ability to play for more than 10, so be it. I’m not going to be the most talented guy on the court, but I can be the hardest playing guy on the c…",
+    "We need every game we can [get] from here on out. Obviously we’re not going to be perfect. Every night is going to be a fight…We’re going to continue to figure it out."
+   ]
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "roster",
+   "key": "https://www.nba.com/bulls/news/chicago-bulls-waive-orlando-robinson",
+   "url": "https://www.nba.com/bulls/news/chicago-bulls-waive-orlando-robinson",
+   "canonical_url": "https://bulls.com/news/chicago-bulls-waive-orlando-robinson",
+   "title": "CHICAGO BULLS WAIVE ORLANDO ROBINSON",
+   "author": "Bulls.com",
+   "published_utc": "2026-11-24T04:21:03Z",
+   "tags": [
+    "Transaction"
+   ],
+   "summary": "The Chicago Bulls announced tonight the team has waived center Orlando Robinson.",
+   "facts": [
+    "The Chicago Bulls announced tonight the team has waived center Orlando Robinson.",
+    "Robinson, 6-10, 275, did not appear in a game with the Bulls this season.",
+    "He played seven games with Chicago’s G League affiliate, the Windy City Bulls, in 2026-27.",
+    "During his NBA career, Robinson has suited up in 115 games with the Miami Heat, Sacramento Kings, Toronto Raptors and Orlando Magic.",
+    "Chicago’s roster now stands at 17 players, including three two-way players."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/suns-123-pelicans-119-ot-jordan-poole-28-points-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/suns-123-pelicans-119-ot-jordan-poole-28-points-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/suns-123-pelicans-119-ot-jordan-poole-28-points-postgame-wrap",
+   "title": "Suns 123, Pelicans 119 (OT): Jordan Poole 28 points | Postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-24T03:54:09Z",
+   "tags": [],
+   "summary": "Jordan Poole’s volcanic shooting put New Orleans in position to prevail. Derik Queen kept the fourth-quarter offense surging. The Pelicans looked primed to get back into the win column at several junctures Monday, including building a 10-point lead in the second half, but couldn’t quite do enough to beat Phoenix. Jeremiah Fears forced overtime for the Pelicans with a driving layup with 22 seconds …",
+   "facts": [
+    "The Pelicans looked primed to get back into the win column at several junctures Monday, including building a 10-point lead in the second half, but couldn’t quite do enough to beat Phoenix.",
+    "Jeremiah Fears forced overtime for the Pelicans with a driving layup with 22 seconds remaining, before the Suns grabbed an extra-time lead and staved off their hosts, winning the final five minutes by a 14-8 margin.",
+    "After a couple early, long-range three-point baskets, including a deep trey at the buzzer to cap the first quarter, Poole (28 points) was rolling.",
+    "He began a perfect 9/9 from the field and 6/6 from beyond the arc before finally missing a shot late in the third quarter.",
+    "Zion Williamson contributed 25 points, while Saddiq Bey notched 21 points off the bench.",
+    "Bey returned to a reserve role with Williamson and Trey Murphy back in uniform following Saturday DNPs at San Antonio.",
+    "They only missed eight foul shots Monday, but six were critical. 67-39: Pelicans bench scoring advantage, paced by 28 points from Poole and 21 by Bey.",
+    "Queen finished with 11 points and nine rebounds, doing much of his damage in the fourth quarter."
+   ],
+   "quotes": [
+    "It is frustrating that we're right there (to win games),",
+    "When we can have a consistent rotation, we're moving toward that,",
+    "That's the best part of it, that you're moving toward healthy."
+   ]
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-thunder-261123",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-thunder-261123",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-thunder-261123",
+   "title": "Game Rewind: Pacers 125, Thunder 120",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-24T03:54:00Z",
+   "tags": [
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Monday, Nov. 23 at 7:30 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Monday, Nov. 23 at 7:30 PM ET at Gainbridge Fieldhouse Game Recap The Pacers went shot-for-shot with the reigning league MVP down the stretch on Monday night at Gainbridge Fieldhouse, ultimately gutting out a 125-120 win…",
+    "Six players scored in double figures for Indiana (6-12), with Pascal Siakam and Kelly Oubre Jr. leading the way with 20 points apiece and Ivica Zubac and Jalen Slawson both recording double-doubles.",
+    "Two-time MVP Shai Gilgeous-Alexander led an undermanned Oklahoma City (10-8) team with a game-high 38 points and seven assists.",
+    "Back-to-back baskets from Andrew Nembhard and Oubre put Indiana up 113-107 with four minutes remaining.",
+    "But Gilgeous-Alexander scored the next four points to pull the visitors back within two with 2:50 to play.",
+    "But once again, Oklahoma City answered, as Kenrich Williams hit a three to cut Indiana's lead to 118-117.",
+    "Nursing a one-point lead as the clock dipped under one minute, Nembhard probed the defense and found Siakam in the right corner for a three that pushed the lead back to four with 44.4 seconds remaining.",
+    "After a timeout, Nembhard was whistled for a foul on Gilgeous-Alexander, who went to the line with 39.7 seconds to play."
+   ],
+   "quotes": [
+    " Pacers head coach Rick Carlisle said after the win. ",
+    "I want to play in this league for 10 years,",
+    "…I’m not going to be the most talented guy on the court, but I can be the hardest-playing guy on the court.",
+    "We were moving it, flying around on offense, just getting to the next action…We gave ourselves to the game, we didn’t think too much, and we just went out there and played our style of basketball."
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hornets-carry-momentum-into-4th-quarter-grizzlies-take-control-late",
+   "url": "https://www.nba.com/hornets/news/hornets-carry-momentum-into-4th-quarter-grizzlies-take-control-late",
+   "canonical_url": "https://hornets.com/news/hornets-carry-momentum-into-4th-quarter-grizzlies-take-control-late",
+   "title": "Hornets Carry Momentum Into 4th Quarter, Grizzlies Take Control Late",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-24T03:37:41Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Back in Buzz City to kick off a four-game homestand on Monday night, the Hornets held their own against one of the NBA’s best this season but couldn’t outlast the Memphis Grizzlies in a hard-fought 117-111 loss.",
+   "facts": [
+    "Back in Buzz City to kick off a four-game homestand on Monday night, the Hornets held their own against one of the NBA’s best this season but couldn’t outlast the Memphis Grizzlies in a hard-fought 117-111 loss.",
+    "Top Performers: Christian Anderson Jr. recorded new career highs in both points (25 on 9-of-12 shooting) and 3-pointers (6) in 25 minutes off the bench, while Brandon Miller (24), Coby White (21) and Brandon Miller (20) …",
+    "Per Stathead, Anderson’s output made him just the fifth NBA rookie reserve to ever tally 25+ points on 75% shooting and five 3-pointers in a single game and the first since Brandin Podziemski did so on Feb. 14, 2024.",
+    "Moussa Diabate notched his fifth double-double of the season, finishing with 10 points and 10 rebounds (career-high fifth straight double-digit rebounding game).",
+    "Ty Jerome continued his breakout season with a game-high 29 points – 14 in the second quarter – on 10-of-21 shooting, a season-high seven 3-pointers and three assists, as Memphis moved to 9-1 on the road this season.",
+    "Reserve Cam Spencer added another 24 points on 5-of-7 shooting, three 3-pointers, five assists and went a perfect 11-of-11 at the free-throw line.",
+    "Turning Point: After a Coby White 3-pointer pulled the Hornets to within six with just under nine minutes remaining in the fourth quarter, the Grizzlies responded with a 6-0 run in the next 62 seconds to quickly take the…",
+    "Buzzworthy Takeaways Second-chance scoring was a major source of offense for Charlotte, which capitalized on Memphis not having leading rebounder Cam Boozer and 7-foot-5 Zach Edey being in foul trouble."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-bench-production-and-increased-workloads",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-bench-production-and-increased-workloads",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-bench-production-and-increased-workloads",
+   "title": "Roundball Roundup: Bench Production and Increased Workloads",
+   "author": "JP Chunga",
+   "published_utc": "2026-11-24T02:56:20Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Svi Mykhailiuk’s impact off the bench, Mo Bamba, Ace Bailey + Darryn Peterson picking up added responsibilities with injuries, and Jazz-Lakers.",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed Svi Mykhailiuk’s impact off the bench, Mo Bamba, Ace Bailey + Darryn Peterson picking up added responsibilities with injuries, and Jazz-Lakers."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/wendell-carter-jr-returns-to-guidewell-innovation-center-to-host-another-thanksgiving-dinner-event-for-veterans-20261123",
+   "url": "https://www.nba.com/magic/news/wendell-carter-jr-returns-to-guidewell-innovation-center-to-host-another-thanksgiving-dinner-event-for-veterans-20261123",
+   "canonical_url": "https://orlandomagic.com/news/wendell-carter-jr-returns-to-guidewell-innovation-center-to-host-another-thanksgiving-dinner-event-for-veterans-20261123",
+   "title": "Wendell Carter Jr. Continues to Show Appreciation for Veterans With Another Thanksgiving Dinner Event",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-24T00:47:11Z",
+   "tags": [
+    "CommunityNews",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO - Wendell Carter Jr. is one of those players that impacts the game in a variety of ways. He’s one of the more versatile defenders at his position, as he moves his feet well on the perimeter to guard ball handlers and he also makes it tough on opponents to score in the paint. He’s been one of the most clutch offensive rebounders the last few years, recently coming down with a critical one l…",
+   "facts": [
+    "He’s also been finishing a lot of alley-oops tossed to him by Franz Wagner and his 3-point shooting has been better this season, as he’s currently shooting a career-best 39 percent from beyond the arc.",
+    "Carter, who first came to Orlando in March 2021 following a trade from the Bulls, has been one of the team’s most active community service members in Central Florida these last several years.",
+    "He’s even been honored for his philanthropic contributions in the past, earning the Rich & Helen DeVos Community Enrichment Award in 2023 and an NBA Cares Bob Lanier Community Assist Award in January 2025.",
+    "Also in 2023, Orlando Mayor Buddy Dyer presented Carter with the President Volunteer Service Award, a recognition that highlights his impact on the local community and his commitment to creating positive change.",
+    "His most recent community-related contribution occurred Monday, Nov. 23, when for the second straight year he and his A Platform2 Foundation hosted a Thanksgiving event to honor veterans and their families from the Veter…",
+    "Smith Neighborhood Center families each a $500 Publix gift card to take them on a Thanksgiving shopping spree to assist them for the upcoming holiday.",
+    "Publix added an additional $100 to each gift card for the families to have $600 total to spend and Pepsi donated Frito-Lay snacks and Gatorade Zero beverages to all of the families at the J.R."
+   ],
+   "quotes": [
+    "It’s always a good moment when you are able to give back to people who are overlooked in my opinion,",
+    "This is definitely a place where a lot of veterans tend to come — down to Florida, Orlando specifically. I just saw this as opportunity to give thanks and a small gesture.",
+    "I wouldn’t be able to do what I do without these guys and females (in the military),",
+    "It’s super, super, super special,"
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261125",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261125",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261125",
+   "title": "Game Preview: Warriors vs. Kings (NBA Cup) - 11/25/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-24T00:05:41Z",
+   "tags": [
+    "Game Preview",
+    "NBA Cup"
+   ],
+   "summary": "TWO TOP ROOKIE SCORERS HEAD-TO-HEAD FOR WEDNESDAY'S NBA CUP DUEL WITH KINGS The Warriors are 1-1 in West Group C for the Emirates NBA Cup and will host the Sacramento Kings for their third cup game on Wednesday. The Kings are 0-3 in group play and 2-14 on the season — both the Kings and Warriors beat the Boston Celtics on their California back-to-back this past weekend. Wednesday’s game features t…",
+   "facts": [
+    "TWO TOP ROOKIE SCORERS HEAD-TO-HEAD FOR WEDNESDAY'S NBA CUP DUEL WITH KINGS The Warriors are 1-1 in West Group C for the Emirates NBA Cup and will host the Sacramento Kings for their third cup game on Wednesday.",
+    "The Kings are 0-3 in group play and 2-14 on the season — both the Kings and Warriors beat the Boston Celtics on their California back-to-back this past weekend.",
+    "Wednesday’s game features two standout rookies, No. 7 pick Darius Acuff Jr. and No. 11 pick Yaxel Lendeborg.",
+    "Acuff (25.4 PPG; 1st) and Lendeborg (19.2 PPG; 2nd) are the highest-scoring rookies this season.",
+    "GET TICKETS LAST TIME OUT The Warriors won their seventh straight home game, defeating the Boston Celtics 88-87 at Chase Center on Sunday.",
+    "Draymond Green opened and closed for the Warriors, hitting a flurry of 3-pointers in the first quarter and getting the clutch stop on Jayson Tatum’s game-winning attempt on the final possession.",
+    "The Dubs cooled Tatum off in the second half, holding him to 0-for-7 shooting after a 23-point first half.",
+    "With the win, the Warriors snapped a five-game losing streak, with all those losses coming on their most recent road trip. »Full Story INJURY & ROSTER NOTES GSW: TBD."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-nuggets-preview-as-nba-cup-play-continues-supporting-cast-is-learning-how-to-mesh",
+   "url": "https://www.nba.com/mavs/news/mavericks-nuggets-preview-as-nba-cup-play-continues-supporting-cast-is-learning-how-to-mesh",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-nuggets-preview-as-nba-cup-play-continues-supporting-cast-is-learning-how-to-mesh",
+   "title": "Mavericks-Nuggets preview: As NBA Cup play continues, supporting cast is learning how to mesh",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-23T23:09:00Z",
+   "tags": [],
+   "summary": "DENVER – Dusty May’s plan was working perfectly.",
+   "facts": [
+    "Near the end of the third quarter of Sunday’s 116-114 squeaker at Utah, May tried to steal three or four minutes with both Cooper Flagg and Kyrie Irving catching a breather.",
+    "The group led by Santi Aldama, Walter Clayton Jr. and Zaccharie Risacher came in with a 16-point lead with 3:52 to go in the quarter.",
+    "They ended the third frame with a 91-74 lead.",
+    "Yes, Flagg re-entered the game for the final 52 seconds of the period because the Mavericks had a two-for-one possession opportunity.",
+    "May admitted he probably took Flagg out too soon – he exited with 6:08 left and the Mavericks up 104-86, a seemingly safe cushion.",
+    "So far, the Mavericks are 2-0 in Cup play and if they can beat the Nuggets and Phoenix on Friday, they will be in the eight-team knockout phase.",
+    "But what’s wrong with picking up wins along the way, which they have done a good job of with a 10-7 record.",
+    "The Nuggets and Mavericks both are 2-0 in Group A in the Western Conference Cup play."
+   ],
+   "quotes": [
+    "They got to be able to stay aggressive, get organized and set up, and they’re talented enough with Walter and Caleb (Martin) out there,",
+    "They have plenty of talent. So it’s just about getting organized and getting to the spots they like. There’s so much talent on our team that we should be able to steal some minutes like that and they’…",
+    "Obviously, you want to manage the game a little better than we did down the stretch,",
+    "There’s a lot to learn from the last five to 10 minutes of this game. But we’ll learn from it and be better because of this experience."
+   ]
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/brandon-ingrams-long-awaited-return-begins-with-his-clippers-debut",
+   "url": "https://www.nba.com/clippers/news/brandon-ingrams-long-awaited-return-begins-with-his-clippers-debut",
+   "canonical_url": "https://clippers.com/news/brandon-ingrams-long-awaited-return-begins-with-his-clippers-debut",
+   "title": "Brandon Ingram's Long-Awaited Return Begins with His Clippers Debut",
+   "author": "OHM YOUNGMISUK",
+   "published_utc": "2026-11-23T23:00:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Brandon Ingram",
+    "Darius Garland",
+    "Gradey Dick",
+    "Kevin Durant",
+    "LA Clippers",
+    "Montrose Christian",
+    "Ohm Youngmisuk"
+   ],
+   "summary": "For as long as Brandon Ingram can remember, he’s been watching Kevin Durant.",
+   "facts": [
+    "Ingram is returning from offseason surgery for a right heel injury and a partially torn Achilles tendon.",
+    "Ingram’s return is a big boost for the Clippers, who acquired the two-time All-Star and Gradey Dick as part of the Kawhi Leonard trade.",
+    "Lue believes Ingram’s height and ability to be another ballhandler will help the Clippers cut down on their average of 16.9 turnovers per game this season.",
+    "But injuries limited him in the postseason.",
+    "He averaged 12 points, 3.2 rebounds, 2.2 assists and shot just 32.8% from the field in five games before missing the final two games of the Raptors’ first-round loss in a seven-game first-round series loss to Cleveland.",
+    "I've actually, in my last two playoffs, tried to fight through injuries but the physicality goes up.",
+    "But his average dipped to 14.3 points and 4.5 rebounds to go with 25% shooting from 3 in four games during the 2024 postseason due to injury.",
+    "Drafted second overall by the Lakers in 2016, a 19-year-old Ingram went from growing up in Kinston, with a population of under 20,000, to taking his first steps as a pro in a city of nearly four million people."
+   ],
+   "quotes": [
+    "I used to watch his Montrose Christian highlights on YouTube,",
+    "[He is] someone who takes some of the pressure off of DG [Darius Garland], so he doesn’t have to try to make every play,",
+    "And I think now DG, who's a great catch-and-shoot player, can now also receive catch-and-shoot 3’s, so he doesn’t have to take everything off the dribble.",
+    "They want to see my full game on display,"
+   ]
+  },
   {
    "source": "POR 公式（nba.com）",
    "team": "POR",
@@ -67,7 +409,7 @@
    "key": "https://www.nba.com/mavs/news/willie-green-and-dusty-may-developed-a-very-close-bond-from-the-very-first-time-they-met",
    "url": "https://www.nba.com/mavs/news/willie-green-and-dusty-may-developed-a-very-close-bond-from-the-very-first-time-they-met",
    "canonical_url": "https://mavs.com/mavs/news/willie-green-and-dusty-may-developed-a-very-close-bond-from-the-very-first-time-they-met",
-   "title": "Willie Green and Dusty May developed a very close bond from the very first time they met",
+   "title": "Willie Green and Dusty May developed a close bond from the first time they met",
    "author": "Dwain Price",
    "published_utc": "2026-11-23T21:04:39Z",
    "tags": [
@@ -78,12 +420,12 @@
    "facts": [
     "Green was the head coach of the New Orleans Pelicans from 2021 until early last season.",
     "And he won a pair of NBA championships with the Warriors in 2017 and 2018.",
-    "Besides leaning on Green the most for advice, May said he also leans on Garrett Temple, who finished a 17-year NBA career last spring before joining May’s coaching staff.",
+    "Besides leaning on Green the most for advice, May said he also values Garrett Temple, who finished a 17-year NBA career last spring before joining May’s coaching staff.",
     "Green actually played basketball at Detroit’s Cooley High School, which is the same high school that produced former Mavs forward Roy Tarpley, who was the NBA’s Sixth Man of the Year award winner in 1988."
    ],
    "quotes": [
     "Everything that you hear about (May) from people – great guy, player’s coach, fun to be around – is exactly who he is,",
-    "It’s been incredible to get to learn from him, but also to just connect and bounce ideas off of each other.",
+    "It’s been incredible to get to learn from him, but also to connect and bounce ideas off of each other.",
     "My friend invited me to play golf and also invited Dusty,",
     "He introduced us and we stayed in contact from there."
    ]
@@ -1619,286 +1961,6 @@
     "In his second NBA start, rookie Nate Ament, the No. 13 overall pick in the 2026 NBA Draft, posted a career-high 18 points and nine rebounds."
    ],
    "quotes": []
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-improve-to-2-0-in-emirates-nba-cup-with-win-over-rockets",
-   "url": "https://www.nba.com/nuggets/news/nuggets-improve-to-2-0-in-emirates-nba-cup-with-win-over-rockets",
-   "canonical_url": "https://nuggets.com/news/nuggets-improve-to-2-0-in-emirates-nba-cup-with-win-over-rockets",
-   "title": "Nuggets improve to 2-0 in Emirates NBA Cup with win over Rockets",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-21T06:34:05Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets earned another win against a contender and defeated the Houston Rockets, 133-124, on Friday. They're now 9-5 on the season, good for seventh place in the Western Conference. The Nuggets also improved to 4-3 at home.",
-   "facts": [
-    "The Denver Nuggets earned another win against a contender and defeated the Houston Rockets, 133-124, on Friday.",
-    "They're now 9-5 on the season, good for seventh place in the Western Conference.",
-    "The Nuggets also improved to 4-3 at home.",
-    "Denver entered Friday with some serious momentum after taking down the Boston Celtics, 105-101, behind a 17-point comeback and pristine execution in the clutch.",
-    "The win against the Rockets (12-5) was similar; they outscored their opponent 23-9 in the final five minutes of the fourth quarter.",
-    "Collectively, they shot 54.7 percent from the field, 43.3 percent from three-point land, and 92.9 percent from the free-throw line.",
-    "Denver also had seven of their 10 rotation players reach double figures in points.",
-    "Their bench outscored Houston's, 37-12."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/preview-pacers-knicks-261122",
-   "url": "https://www.nba.com/pacers/news/preview-pacers-knicks-261122",
-   "canonical_url": "https://pacers.com/news/preview-pacers-knicks-261122",
-   "title": "Game Preview: Pacers at Knicks",
-   "author": "Wheat Hotchkiss",
-   "published_utc": "2026-11-21T05:55:09Z",
-   "tags": [
-    "2026-27 Game Preview"
-   ],
-   "summary": "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden",
-   "facts": [
-    "Sunday, Nov. 22 at 8:00 PM ET at Madison Square Garden Game Preview The Pacers (5-11) will try to snap a three-game skid on Sunday in New York, when they face off against the defending NBA champion Knicks (10-6) at Madis…",
-    "Indiana won the first matchup 106-104 on Nov. 13 at Gainbridge Fieldhouse.",
-    "That was the second straight win for the Pacers, but they have dropped their last three contests since, falling in Philadelphia on Nov. 15, at home to Houston on Wednesday, and in Cleveland on Friday night in an NBA Cup …",
-    "A disastrous third quarter doomed the Blue & Gold in Cleveland, as the Cavs outscored Indiana 43-22 in the frame to pull away for the win.",
-    "James Harden went off for 51 points for the Cavs in the victory, going 7-for-11 from 3-point range and 14-for-14 from the free throw line.",
-    "Ivica Zubac led the Pacers with 21 points on 8-of-11 shooting and 10 rebounds in the loss, while All-Star forward Pascal Siakam also scored 21.",
-    "The Knicks got off to a slow start to the season, but have won four straight and eight of their past 10 contests, including a victory over Portland on Saturday night on Mikal Bridges' buzzer-beating three.",
-    "Brunson is averaging 26.8 points and 5.9 assists per game, while Towns contributes 21.3 points and a league-leading 13.9 rebounds per contest, but did not play on Saturday due to illness."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/cold-shooting-hurts-utah-jazz-in-loss-to-suns-key-takeaways",
-   "url": "https://www.nba.com/jazz/news/cold-shooting-hurts-utah-jazz-in-loss-to-suns-key-takeaways",
-   "canonical_url": "https://utahjazz.com/news/cold-shooting-hurts-utah-jazz-in-loss-to-suns-key-takeaways",
-   "title": "Cold Shooting Hurts Utah Jazz in Loss to Suns: Key Takeaways",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-21T05:35:08Z",
-   "tags": [
-    "Brice Sensabaugh",
-    "Darryn Peterson",
-    "Utah Jazz",
-    "Will Hardy"
-   ],
-   "summary": "The home cooking that the Utah Jazz hoped to return to following two wins on the road wasn’t there at the Delta Center Friday night.",
-   "facts": [
-    "The home cooking that the Utah Jazz hoped to return to following two wins on the road wasn’t there at the Delta Center Friday night.",
-    "Ultimately, the Suns pulled out a 111-101 victory, with five players in double-figures and 35 bench points.",
-    "Rookie Darryn Peterson set new career highs in rebounds (10) and assists (eight) in the loss.",
-    "Utah coughed it up five times in the first frame, which opened the door for the Suns to take a 26-23 lead heading into the second quarter.",
-    "The Phoenix bench continued to have success to begin the second quarter, which helped fuel a 13-4 run for the visitors that created a 12-point advantage.",
-    "Collin Gillespie led the charge for the Suns during the first half, with 11 of Phoenix’s 29 bench points.",
-    "As the Jazz continued to struggle to make shots (5-of-24 from three) or take care of the ball (nine turnovers), the Suns remained in control and eventually took a 61-49 advantage into the halftime break.",
-    "Both squads were efficient from the field during a third frame that featured plenty of fouls, but Phoenix took an 89-76 lead into the final 12 minutes of play."
-   ],
-   "quotes": [
-    "In the first half we got good looks and in the second half their physicality bothered us,"
-   ]
-  },
-  {
-   "source": "IND 公式（nba.com）",
-   "team": "IND",
-   "team_ja": "ペイサーズ",
-   "team_id": 1610612754,
-   "kind": "feature",
-   "key": "https://www.nba.com/pacers/news/rewind-pacers-cavaliers-261120",
-   "url": "https://www.nba.com/pacers/news/rewind-pacers-cavaliers-261120",
-   "canonical_url": "https://pacers.com/news/rewind-pacers-cavaliers-261120",
-   "title": "Game Rewind: Pacers 119, Cavaliers 128 (NBA Cup)",
-   "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-21T04:21:03Z",
-   "tags": [
-    "2026 NBA Cup",
-    "2026-27 Game Rewind"
-   ],
-   "summary": "Friday, Nov. 20 at 7:30 PM ET at Rocket Arena",
-   "facts": [
-    "Friday, Nov. 20 at 7:30 PM ET at Rocket Arena Game Recap James Harden had a season-high 51 points, and the Indiana Pacers fell to 1-2 in NBA Cup group play as the Cavaliers took the win on Friday, 128-119.",
-    "Both teams were 1-1 in NBA Cup play entering Friday’s contest, and the Pacers looked strong early as they led by as many as 14 points in the first half.",
-    "Kelly Oubre Jr. put the Pacers on the board first as he took the tip to the rim for a layup, but Cleveland scored the next eight points to lead, 8-2, early in the first quarter.",
-    "Andrew Nembhard returned to the lineup for Indiana on Friday following a two-game absence due to soreness in his left hip, and knocked down a 3-pointer to bring the Pacers back within three points of Cleveland’s lead, 8-…",
-    "The Cavaliers led, 18-15, with just under five minutes to play in the first quarter after Harden went 3-for-3 from the free throw line.",
-    "Harden was a force for the Cavs in the opening frame as he scored 15 of Cleveland’s first 23 points.",
-    "The game was knotted at 24 entering the final two minutes, and again at 29 with 15 seconds remaining in the first quarter.",
-    "Indiana was still tied with Cleveland when the first quarter buzzer sounded, 29-29."
-   ],
-   "quotes": [
-    "We did quite a few good things and then let go of the rope in the third quarter, and that can't happen. Simple as that…There's going to be ebbs and flows in games…But it's a consistency thing, and we’…",
-    "They've got two great, great, players that put you in a lot of binds, and they’ve got a lot of shooting around those guys. And they were hitting shots, and you know Harden obviously had a phenomenal g…",
-    "He was having one of his best games. Defensively, he was solid. Offensively, he was creating problems for the opponent.",
-    "Nobody wants to hear excuses about anything. What our fans want to see is us playing like that group in the last eight minutes played…Hard as possible, flying around, you know, making the other team u…"
-   ]
-  },
-  {
-   "source": "SAS 公式（nba.com）",
-   "team": "SAS",
-   "team_ja": "スパーズ",
-   "team_id": 1610612759,
-   "kind": "feature",
-   "key": "https://www.nba.com/spurs/news/san-antonio-spurs-turn-art-into-impact-by-raising-more-than-1-1-million-at-champions-for-change",
-   "url": "https://www.nba.com/spurs/news/san-antonio-spurs-turn-art-into-impact-by-raising-more-than-1-1-million-at-champions-for-change",
-   "canonical_url": "https://spurs.com/news/san-antonio-spurs-turn-art-into-impact-by-raising-more-than-1-1-million-at-champions-for-change",
-   "title": "San Antonio Spurs Turn Art Into Impact By Raising More Than $1.1 Million At ‘Champions For Change’",
-   "author": "sasmbrodsky",
-   "published_utc": "2026-11-21T03:59:03Z",
-   "tags": [
-    "Featured",
-    "press-release"
-   ],
-   "summary": "SAN ANTONIO (Nov. 20, 2026) – The San Antonio Spurs hosted their third annual “Champions for Change” event, presented by Meter, on Friday, Nov. 20 at the Victory Capital Performance Center. Centered on this year’s theme, “The Art of Basketball,” the evening brought together Spurs players, coaches and community members for art, entertainment and opportunities to connect with the team, raising more …",
-   "facts": [
-    "SAN ANTONIO (Nov. 20, 2026) – The San Antonio Spurs hosted their third annual “Champions for Change” event, presented by Meter, on Friday, Nov. 20 at the Victory Capital Performance Center.",
-    "Centered on this year’s theme, “The Art of Basketball,” the evening brought together Spurs players, coaches and community members for art, entertainment and opportunities to connect with the team, raising more than $1.1 …",
-    "The event welcomed 500 guests for a night of art, basketball-inspired interactive entertainment and opportunities to connect with the team.",
-    "In 2025-26, SS&E invested more than $4 million in the community, engaged over 200,000 people and worked with 742 nonprofit organizations.",
-    "Proceeds from Champions for Change will support the Spurs Impact Center, a $10 million transformation of the team’s former practice facility into a community hub connecting people to opportunities in youth sports, leader…"
-   ],
-   "quotes": [
-    "Champions for Change brings our players, partners and neighbors together around a shared commitment to San Antonio,",
-    "We’re grateful to everyone who joined us to support programming at the Spurs Impact Center that helps young people and community leaders strengthen their leadership skills and make a difference in the…",
-    "The Spurs Impact Center is a physical home for our purpose, where we lean into our legacy of building champions to create a space for belonging and leadership development,",
-    "The generosity shown through Champions for Change helps make those opportunities possible for more people in San Antonio. We’re thankful to our guests, players and partners for supporting the communit…"
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/thunder-126-pelicans-120-nba-cup-group-stage-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/thunder-126-pelicans-120-nba-cup-group-stage-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/thunder-126-pelicans-120-nba-cup-group-stage-postgame-wrap",
-   "title": "Thunder 126, Pelicans 120 | NBA Cup group stage postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-21T03:31:44Z",
-   "tags": [
-    "NBA Cup"
-   ],
-   "summary": "Unlike several recent meetings with Oklahoma City, Friday’s visit to the Sooner State was a highly competitive battle that wasn’t decided until the final two minutes. The Thunder ultimately prevailed, outplaying the Pelicans in clutch time, turning an extremely tight matchup into a six-point final margin. OKC star guard Shai Gilgeous-Alexander made a series of back-breaking scores from the field a…",
-   "facts": [
-    "New Orleans led 98-92 through three quarters, but OKC outscored its guests 34-22 over the final 12 minutes, with the Pelicans only managing eight baskets.",
-    "Zion Williamson and Jeremiah Fears topped New Orleans with 22 points apiece.",
-    "Williamson did a chunk of his damage in the first half, scoring 18 points as the Pelicans went 64-56 at the break.",
-    "In his first game back from injury and a six-game absence, Trey Murphy provided 17 points off the bench, including 3/8 three-point gunning.",
-    "Herb Jones also got hot from beyond the arc, draining four threes in seven attempts, among his 14 points.",
-    "BY THE NUMBERS 17/39: New Orleans three-point shooting, representing a season high for made triples, as well as a top night of 2026-27 at 44 percent from deep.",
-    "However, only one of those buckets occurred in the fourth quarter (Saddiq Bey, who sank one trey in every period). 49/92: Oklahoma City shooting from the field, which is 53 percent.",
-    "The Thunder joined Detroit in becoming a second straight New Orleans opponent to make over half of its shots. 60-42: In related news, OKC bested NOLA by 18 in paint points."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hornets-strong-start-fizzles-out-in-2nd-half-against-atlanta",
-   "url": "https://www.nba.com/hornets/news/hornets-strong-start-fizzles-out-in-2nd-half-against-atlanta",
-   "canonical_url": "https://hornets.com/news/hornets-strong-start-fizzles-out-in-2nd-half-against-atlanta",
-   "title": "Hornets’ Strong Start Fizzles Out In 2nd Half Against Atlanta",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-21T03:17:59Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "Hoping to close out a tough road trip on a positive note, the Hornets got off to a strong start on Friday night in Atlanta before turnover issues caught up to them again in a 111-97 road loss.",
-   "facts": [
-    "Hoping to close out a tough road trip on a positive note, the Hornets got off to a strong start on Friday night in Atlanta before turnover issues caught up to them again in a 111-97 road loss.",
-    "Top Performers: Moussa Diabate posted a career-high-tying 21 points on 9-of-12 shooting and a game-high 15 rebounds (eight offensive) for his fourth double-double of the season and second in three outings.",
-    "Brandon Miller added 19 points on 7-of-18 shooting, five 3-pointers and eight rebounds, while Naz Reid also double-doubled (12 points and 10 rebounds) and became the second active undrafted NBA player to reach 6,000 care…",
-    "Jalen Johnson led all five Atlanta starters in double figures with a game-high 26 points on 10-of-15 shooting, six rebounds, six assists and four steals.",
-    "Aaron Wiggins scored 19 points on 7-of-12 shooting starting in place of CJ McCollum (calf strain) and Dyson Daniels nearly triple-doubled with 10 points on 5-of-10 shooting, eight rebounds, a game-high 10 assists and fou…",
-    "Turning Point: Up one at the break, Charlotte turned the basketball over six times for 12 Atlanta points in the third quarter, as Atlanta took the frame, 31-19, for an 11-point lead heading into the fourth.",
-    "The Hawks also shot 60% and 5-of-9 from 3-point range (56%) over this 12-minute stretch and seemingly took advantage of every mistake and miscue the Hornets made.",
-    "Buzzworthy Takeaways Charlotte had a relatively modest 17 turnovers against the Hawks’ handsy defense, but nearly all of them were of the live-ball variety and resulted in a demoralizing 36 points the other way."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "injury",
-   "key": "https://www.nba.com/bulls/news/caleb-wilson-vows-to-return-stronger-and-better-following-hand-surgery",
-   "url": "https://www.nba.com/bulls/news/caleb-wilson-vows-to-return-stronger-and-better-following-hand-surgery",
-   "canonical_url": "https://bulls.com/news/caleb-wilson-vows-to-return-stronger-and-better-following-hand-surgery",
-   "title": "Caleb Wilson vows to return \"stronger and better\" following hand surgery",
-   "author": "Sam Smith",
-   "published_utc": "2026-11-21T01:43:55Z",
-   "tags": [
-    "Sam Smith"
-   ],
-   "summary": "Like running the wing on a fastbreak and power dunking, Bulls rookie Caleb Wilson Friday was confident, certain and optimistic about his recovery from a broken right hand.",
-   "facts": [
-    "It (was) hard missing out on the tournament and getting injured now.",
-    "I’ve had a rough go with injuries, but at the same time it’s been a great year, too.",
-    "I’m not really worried about the injury aspect of things.",
-    "It’s hard for me to be injured and watching the game, but this is not an injury that is going to take a year to heal; it’s not a muscle injury, either.",
-    "Wilson had surgery the next day with a timeline of missing four to six weeks and a reevaluation the first week of December.",
-    "Wilson was wearing a glove on his injured hand as he addressed media outside the Bulls locker room as NBA commissioner Adam Silver walked by.",
-    "Wilson’s return is a vital project for the Bulls.",
-    "And Wilson appeared sanguine about the process even with his fractured left hand in February and right thumb fracture in March at the U. of North Carolina."
-   ],
-   "quotes": [
-    "Looked at my hand and it was bent the wrong way,",
-    "I just had a bad go at it lately,",
-    "I don’t have an expectation of a timeline (for a return),",
-    "I'm trying to make sure my hand feels great,"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-clippers-preview-mavs-developing-their-identity-every-day-in-practice",
-   "url": "https://www.nba.com/mavs/news/mavericks-clippers-preview-mavs-developing-their-identity-every-day-in-practice",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-clippers-preview-mavs-developing-their-identity-every-day-in-practice",
-   "title": "Mavericks-Clippers preview: Mavs developing their identity every day in practice",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-20T23:35:04Z",
-   "tags": [
-    "Cooper Flagg",
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "Following Friday’s practice session, Dallas Mavericks coach Dusty May acknowledged that his team is still figuring out who they’re going to be this season, and added that the work in progress is very, very promising.",
-   "facts": [
-    "The perfect blueprint for that was displayed during Wednesday’s 116-94 triumph over the Golden State Warriors when the Mavs’ offense was so resourceful that they delivered 34 assists during the team’s 42 made field goals…",
-    "After the first 15 games of his rookie season last year, Flagg went to the line just 46 times and converted 36 free throws.",
-    "Thus far this season he’s 85-of-95 from the charity stripe -- in only 14 games.",
-    "May also pointed out improvements in Flagg’s three-point shooting, where he’s 12-of-30 for 40 percent over the past six games.",
-    "The Mavs are 6-2 at home this season and have won their last four home games, which includes Wednesday’s 116-94 victory over the Golden State Warriors.",
-    "The Mavs are 2-0 this season on the front end of a back-to-back.",
-    "They won the front end of a back-to-back in Indiana, 121-105, on Oct. 23, and also captured the front leg of a back-to-back at home against Brooklyn, 130-93, on Nov. 8. *The Clippers have the third-worst record in the We…",
-    "Also, the Clippers (0-6) and Milwaukee Bucks (0-7) are the only teams who haven’t won a road game this season."
-   ],
-   "quotes": [
-    "Identity is something we’re developing in our practice every day with the way we work, with the way we communicate, our effort (and) our intensity,",
-    "There’s going to be nights where we play poorly and there’s going to be nights in this league when we go up against guys who are on a heater, and that can’t cause us to lose our fight or our continuou…",
-    "I think we pass the ball when we’re at our best,",
-    "I think nine minutes into the game we felt like we were completely engaged at a high, high level every possession, and then we had a little bit of a dip, and then we were able to get that edge back. W…"
-   ]
   }
  ]
 }
