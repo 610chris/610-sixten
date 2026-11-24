@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T09:06:23+09:00",
+  "updated": "2026-11-24T12:04:46+09:00",
   "items": [
     {
       "id": "134",
@@ -36871,6 +36871,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "グリズリーズ新人ブーザーが右足首負傷\n\n・右足首を中等度の内側側副靱帯損傷と診断\n・再評価はクリスマス週まで、構造的安定性は確認済み\n・負傷直前は新人5戦以内トリプルダブルを史上6人目で達成\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1131",
+      "slug": "1131-deni-avdija-31-points-76ers",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "デニ・アヴディア、76ers戦で31得点",
+      "excerpt": "ポートランド・トレイルブレイザーズ(Portland Trail Blazers)のデニ・アヴディア(Deni Avdija)は現地時間11月23日、敵地フィラデルフィアでのフィラデルフィア・76ers(Philadelphia 76ers)戦に30分出場し、3ポイント9本中5本を含むフィールドゴール19本中12本を沈めて31得点を記録した。トレイルブレイザーズは128-111で76ersに快勝した。",
+      "points": [
+        "3Pは9本中5本、FG12/19で31得点",
+        "アシスト7・スティール1も記録",
+        "ブレイザーズが128-111で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "ウィザーズ時代のデニ・アヴディア。撮影: All-Pro Reels / CC BY-SA 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1131-deni-avdija-31-points-76ers.html",
+      "hero_path": "/home/user/610-sixten/site/assets/journal-1131-hero.jpg",
+      "subject": [
+        "Deni Avdija"
+      ],
+      "question": "アヴディアのブレイザーズ、今季どこまでいける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DENI AVDIJA",
+        "opponent": "vs. 76ERS",
+        "points": 31,
+        "stats": [
+          "7 AST",
+          "3 REB",
+          "12/19 FG",
+          "5/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1131-1.jpg",
+        "https://sixten.jp/assets/ig/1131-2.jpg",
+        "https://sixten.jp/assets/ig/1131-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:04:40+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デニ・アヴディア、76ers戦で31得点\n\n・3Pは9本中5本、FG12/19で31得点\n・アシスト7・スティール1も記録\n・ブレイザーズが128-111で快勝\n\n💬 アヴディアのブレイザーズ、今季どこまでいける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: ウィザーズ時代のデニ・アヴディア。撮影: All-Pro Reels / CC BY-SA 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1132",
+      "slug": "1132-ty-jerome-29-points-hornets",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "タイ・ジェローム、ホーネッツ戦で29得点",
+      "excerpt": "メンフィス・グリズリーズ(Memphis Grizzlies)のタイ・ジェローム(Ty Jerome)は現地時間11月23日、敵地シャーロットでのシャーロット・ホーネッツ(Charlotte Hornets)戦に29分出場し、3ポイント12本中7本を含むフィールドゴール21本中10本を沈めて29得点を記録した。グリズリーズは117-111でホーネッツを下した。",
+      "points": [
+        "3Pは12本中7本、FG10/21で29得点",
+        "プラスマイナスはチーム最高の+18",
+        "グリズリーズが117-111で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1132-ty-jerome-29-points-hornets.html",
+      "hero_path": "",
+      "subject": [
+        "Ty Jerome"
+      ],
+      "question": "ジェロームの29得点、今季のベストゲーム？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TY JEROME",
+        "opponent": "vs. HORNETS",
+        "points": 29,
+        "stats": [
+          "4 REB",
+          "3 AST",
+          "2 STL",
+          "10/21 FG",
+          "7/12 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1132-1.jpg",
+        "https://sixten.jp/assets/ig/1132-2.jpg",
+        "https://sixten.jp/assets/ig/1132-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:04:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タイ・ジェローム、ホーネッツ戦で29得点\n\n・3Pは12本中7本、FG10/21で29得点\n・プラスマイナスはチーム最高の+18\n・グリズリーズが117-111で勝利\n\n💬 ジェロームの29得点、今季のベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
