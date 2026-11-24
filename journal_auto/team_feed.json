@@ -1,8 +1,119 @@
 {
- "updated_utc": "2026-11-24 07:04 UTC",
+ "updated_utc": "2026-11-24 19:03 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-look-to-clinch-emirates-nba-cup-group-with-win-over-mavericks",
+   "url": "https://www.nba.com/nuggets/news/nuggets-look-to-clinch-emirates-nba-cup-group-with-win-over-mavericks",
+   "canonical_url": "https://nuggets.com/news/nuggets-look-to-clinch-emirates-nba-cup-group-with-win-over-mavericks",
+   "title": "Nuggets look to clinch Emirates NBA Cup group with win over Mavericks",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-24T17:55:11Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets can clinch Emirates NBA Cup Group A on Tuesday.",
+   "facts": [
+    "INJURY REPORT Dallas: Tarik Biberovic — OUT (Right Heel Bursitis) Sergio de Larrea — OUT (Right Knee Sprain) Tobi Lawal — OUT (Right Groin Strain) Dereck Lively II — OUT (Right Foot Surgery) P.J.",
+    "They're the only two remaining undefeated teams in Group A, at 2-0 in Group Play, though Dallas has the slight advantage in point differential.",
+    "The Minnesota Timberwolves and the San Antonio Spurs, leaders of Group B and Group C, respectively, are also 2-0.",
+    "Of note: the Nuggets have no injuries to report.",
+    "That means all their two-way players will be recalled for Tuesday's game, AND, most significantly, Julian Strawther is available for the NBA Cup game.",
+    "Strawther has not played this season due to a knee injury he sustained during the preseason.",
+    "TUNE-IN: Tuesday, November 24, 8:00 p.m.",
+    "MT; Altitude TV and NBC; Altitude+ and Peacock; Altitude Sports Radio 92.5 FM"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "MIN 公式（nba.com）",
+   "team": "MIN",
+   "team_ja": "ティンバーウルブズ",
+   "team_id": 1610612750,
+   "kind": "injury",
+   "key": "https://www.nba.com/timberwolves/news/donte-divincenzo-injury-update-3",
+   "url": "https://www.nba.com/timberwolves/news/donte-divincenzo-injury-update-3",
+   "canonical_url": "https://timberwolves.com/news/donte-divincenzo-injury-update-3",
+   "title": "Donte DiVincenzo Injury Update",
+   "author": "Minnesota Timberwolves",
+   "published_utc": "2026-11-24T17:01:15Z",
+   "tags": [
+    "Press Release"
+   ],
+   "summary": "Minneapolis/St. Paul – The Minnesota Timberwolves today announced the following injury update on guard Donte DiVincenzo, who underwent successful surgery on a ruptured right Achilles tendon on April 26:",
+   "facts": [
+    "Paul – The Minnesota Timberwolves today announced the following injury update on guard Donte DiVincenzo, who underwent successful surgery on a ruptured right Achilles tendon on April 26: DiVincenzo, has been cleared for …"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/gamepreview-20261124-boswas",
+   "url": "https://www.nba.com/celtics/news/gamepreview-20261124-boswas",
+   "canonical_url": "https://celtics.com/news/gamepreview-20261124-boswas",
+   "title": "11/24 Game Preview: Celtics at Wizards",
+   "author": "Boston Celtics",
+   "published_utc": "2026-11-24T16:17:44Z",
+   "tags": [
+    "Game Preview",
+    "Pregame",
+    "Regular Season"
+   ],
+   "summary": "The Boston Celtics find themselves in an unusual position as they prepare for Tuesday night's NBA Cup road game against the Washington Wizards.",
+   "facts": [
+    "The Celtics have lost four straight games for the first time since Joe Mazzulla became the team's head coach in 2022.",
+    "The Celtics have failed to score more than 105 points in any game during the slump and are coming off Sunday's 88-87 setback against a Golden State Warriors team that had allowed 115 points or more in five consecutive ga…",
+    "Boston was held to 12 points in the fourth quarter of that loss.",
+    "The Sacramento Kings had allowed at least 100 points in every game this season until they beat Boston 97-96 on Saturday.",
+    "The Celtics have shot 28.3% from 3-point range during the losing streak.",
+    "The Celtics have averaged 51.3 3-point attempts per game during their losing streak, seven more than their season average.",
+    "The Wizards went 22-for-39 from 3-point range as they stretched their winning streak to three games.",
+    "Kyshawn George made six 3-pointers and finished with 24 points."
+   ],
+   "quotes": [
+    "I think if the season ended today, I'd be pretty concerned, but we have 63 games left,",
+    "So, you have to continue to trust the fact that if we're getting good shots, which more times than not we are. ... If we're looking at it and we're good with these shots, you have to trust over the co…",
+    "It's definitely a situation that we haven't been a part of in a long time,",
+    "I think each game has been a little bit of a different reason. We're just kind of in a teamwide funk right now. We just gotta stick together and find a way through it. Can't feel sorry for ourselves. …"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/trail-blazers-snap-sixers-win-streak",
+   "url": "https://www.nba.com/sixers/news/trail-blazers-snap-sixers-win-streak",
+   "canonical_url": "https://sixers.com/news/trail-blazers-snap-sixers-win-streak",
+   "title": "Trail Blazers Snap Sixers' Win Streak",
+   "author": "76ers PR",
+   "published_utc": "2026-11-24T13:59:22Z",
+   "tags": [],
+   "summary": "The Philadelphia 76ers fell to the Portland Trail Blazers, 111-128, in the first regular season contest between the two teams. They'll meet again once more this season on Friday, March 26 at Moda Center in Portland.",
+   "facts": [
+    "The Philadelphia 76ers fell to the Portland Trail Blazers, 111-128, in the first regular season contest between the two teams.",
+    "They'll meet again once more this season on Friday, March 26 at Moda Center in Portland.",
+    "LEBRON JAMES scored a season-high 23 points on 4-of-5 shooting from beyond the arc (8-13 FG), to go along with six rebounds and three assists.",
+    "Over the last three games, James is averaging 22.0 points, 5.0 rebounds, 5.0 assists, and 1.0 steal.",
+    "To hear Nick Nurse’s postgame press conference and game highlights as called by Tom McGinnis, check out the 76ers Insiders podcast: SPOTIFY LINK | APPLE PODCASTS LINK TYRESE MAXEY posted 22 points on 7-of-16, marking his…",
+    "Maxey ranks tied for second most 20-point games in the Eastern Conference and tied for fourth most in the league.",
+    "JAYLEN BROWN recorded 20 points (8-14 FG), four assists, two rebounds, and two steals.",
+    "Tonight marked Brown's 10th 20-plus point performance this season, good for the second most among 76ers (14, Tyrese Maxey)."
+   ],
+   "quotes": []
+  },
   {
    "source": "UTA 公式（nba.com）",
    "team": "UTA",
@@ -211,6 +322,40 @@
    "quotes": []
   },
   {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/bulls-beat-cavs-122-108-get-big-boost-from-bench",
+   "url": "https://www.nba.com/bulls/news/bulls-beat-cavs-122-108-get-big-boost-from-bench",
+   "canonical_url": "https://bulls.com/news/bulls-beat-cavs-122-108-get-big-boost-from-bench",
+   "title": "Bulls beat Cavs 122-108, get big boost from bench",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-24T01:30:32Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "The future of the Bulls is... Jordan Hawkins and Jaylin Sellers?",
+   "facts": [
+    "Not exactly, though the Bulls two-way guards Monday were magical in sawing the Cavaliers in half, the duo led by high scorer Jordan—I believe I’ve written that sentence before—made the Bulls losing ways disappear in an u…",
+    "So how’s this: The Bulls in the second of a back to back without leading scorer Norman Powell and injured rookie highlight Caleb Wilson against a loaded and rested Cavaliers team led by Donovan Mitchell and James Harden …",
+    "The reserves led by Hawkins with a team most 19 points and Sellers with nine set a franchise record with 46 bench points in the first half for a 72-50 Bulls halftime lead.",
+    "The Bulls finished with a massive 63-23 bench brigade carnage to offset 28 points from Mitchell and 21 from Harden.",
+    "The Bulls predictably wobbled considerably after halftime as the veteran Cavaliers went into the fourth quarter trailing just 93-89.",
+    "But scoring in eight consecutive possessions to begin the fourth quarter, the Bulls shrugged off another collapse in leading by double digits all of the last 8:44 except for 17 seconds.",
+    "He was the league’s first player of the week this season after a 40-point scoring explosion and winning a game on a driving dunk shot.",
+    "Sellers made several big time defensive plays against Harden while adding seven points in the Bulls 45-20 second quarter that gave the team the room to stumble but succeed, the Bulls moving to 5-12."
+   ],
+   "quotes": [
+    "Kudos to them, the resilience, the energy,",
+    "We talk about this the whole time. Even the third quarter today wasn’t great, but we bend but didn’t break. The team was ready to go. I thought the fourth quarter we brought some juice.",
+    "I look forward to those matchups,",
+    "Waiting for my opportunity,"
+   ]
+  },
+  {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
    "team_ja": "マジック",
@@ -286,7 +431,13 @@
    "title": "Mavericks-Nuggets preview: As NBA Cup play continues, supporting cast is learning how to mesh",
    "author": "Eddie Sefko",
    "published_utc": "2026-11-23T23:09:00Z",
-   "tags": [],
+   "tags": [
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba",
+    "Zaccharie Risacher"
+   ],
    "summary": "DENVER – Dusty May’s plan was working perfectly.",
    "facts": [
     "Near the end of the third quarter of Sunday’s 116-114 squeaker at Utah, May tried to steal three or four minutes with both Cooper Flagg and Kyrie Irving catching a breather.",
@@ -1782,183 +1933,6 @@
     "Dusty May’s squad is still looking to form a clear identity, with Dallas ranking 17th in both offensive and defensive rating as of Saturday morning.",
     "Dallas won the first meeting between the two teams 112-100 back on Nov. 6.",
     "Jazz injury report: OUT - Jonas Aidoo (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson (Right Knee; MCL Tear), Lauri Markkanen (Right Hand; Fracture), Jusuf Nurk…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/pistons-rally-from-14-down-but-raptors-escape-105-102-in-nba-cup-play-detroits-bench-helped-erase-a-14-point-deficit-but-toronto-held-on-late-to-drop-the-pistons-to-10-5",
-   "url": "https://www.nba.com/pistons/news/pistons-rally-from-14-down-but-raptors-escape-105-102-in-nba-cup-play-detroits-bench-helped-erase-a-14-point-deficit-but-toronto-held-on-late-to-drop-the-pistons-to-10-5",
-   "canonical_url": "https://pistons.com/news/pistons-rally-from-14-down-but-raptors-escape-105-102-in-nba-cup-play-detroits-bench-helped-erase-a-14-point-deficit-but-toronto-held-on-late-to-drop-the-pistons-to-10-5",
-   "title": "Pistons rally from 14 down, but Raptors escape 105-102 in NBA Cup play. Detroit's bench helped erase a 14-point deficit, but Toronto held on late to drop the Pistons to 10-5.",
-   "author": "Pistons.com",
-   "published_utc": "2026-11-21T18:12:38Z",
-   "tags": [
-    "game recap",
-    "recap"
-   ],
-   "summary": "DETROIT – Cade Cunningham was back on Friday night, and so was a full Little Caesars Arena. For three quarters, it looked like Detroit was still on the road.",
-   "facts": [
-    "Cunningham returned after missing Wednesday's win in New Orleans with right knee soreness.",
-    "The Raptors led by 14 in the third quarter.",
-    "Detroit fought back and took the lead with less than three minutes left, but Scottie Barnes had the answer at the end, and Toronto won 105-102.",
-    "He made his first seven shots and scored 12 points in the first quarter.",
-    "The Raptors kept getting to the rim and finished with 54 points in the paint, and their 30 assists showed how well they moved the ball against a Detroit defense that usually takes those things away.",
-    "Isaiah Joe and Javonte Green led an 11-0 run in which Green hit two 3-pointers and made all three free throws after being fouled on a 3-point attempt.",
-    "The Pistons cut the deficit to 73-72 before Toronto went into the fourth quarter up five.",
-    "He hit three 3-pointers in the quarter, and the last one, a bank shot with 2:56 left, gave Detroit a 93-91 lead."
-   ],
-   "quotes": [
-    "We just didn't put it together,",
-    "I'd say we kind of got what we deserve. I thought me, personally, I didn't bring enough for the fight, the energy early on in the game, and that's kind of how basketball guys work. When you do that, y…",
-    "We were leaky in some places that we're normally not,",
-    "Both sides of the ball felt like we couldn't catch a rhythm to start with. Thought we tried to find it a little bit through the second half, but we just felt a little out of rhythm to start."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "injury",
-   "key": "https://www.nba.com/pelicans/news/pelicans-vs-spurs-injury-report-game-preview-11-21-2026",
-   "url": "https://www.nba.com/pelicans/news/pelicans-vs-spurs-injury-report-game-preview-11-21-2026",
-   "canonical_url": "https://pelicans.com/news/pelicans-vs-spurs-injury-report-game-preview-11-21-2026",
-   "title": "Pelicans vs. Spurs: Injury Report, Game Preview 11/21/2026",
-   "author": "Pelicans.com",
-   "published_utc": "2026-11-21T18:10:43Z",
-   "tags": [],
-   "summary": "The Pelicans visit the San Antonio Spurs on Saturday at 7:00 pm CT. The game will be broadcast on the Gulf Coast Sports and Entertainment Network. Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-   "facts": [
-    "The Pelicans visit the San Antonio Spurs on Saturday at 7:00 pm CT.",
-    "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Spurs injury report, team news, tune in details, and gameday information: PELICANS VS SPURS INJURY UPDATE PELICANS INJURY REPORT Malik Dia OUT (G League two-way) Bennedict Mathurin OUT (left plant…",
-    "LA Clippers Julian Champagnie, Devin Vassell, Victor Wembanyama, Stephon Castle, De'Aaron Fox NEW ORLEANS PELICANS (5-12) Previous Game Lineup: November 20 loss at Oklahoma City Thunder Saddiq Bey, Zion Williamson, Yves …",
-    "Spurs Game Time, TV Channel, Radio & Location 📅 Game Time: Saturday, Nov. 21 at 7:00 pm CT🏟️ Location: Frost Bank Center in San Antonio, TX🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Spurs TV: DAZN-SAS📻 Spurs R…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-spurs-11-21-2026",
-   "url": "https://www.nba.com/pelicans/news/behind-the-numbers-pelicans-at-spurs-11-21-2026",
-   "canonical_url": "https://pelicans.com/news/behind-the-numbers-pelicans-at-spurs-11-21-2026",
-   "title": "Behind the Numbers: Pelicans at Spurs (11/21/2026)",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-21T18:01:45Z",
-   "tags": [],
-   "summary": "A look at three key numbers related to Saturday’s game in Frost Bank Center between New Orleans and San Antonio (7 p.m. Central, GCSEN on TV; WWL on radio):",
-   "facts": [
-    "A look at three key numbers related to Saturday’s game in Frost Bank Center between New Orleans and San Antonio (7 p.m.",
-    "Central, GCSEN on TV; WWL on radio): 1:In four head-to-head meetings during the 2025-26 regular season, San Antonio beat New Orleans three times, but only outscored its Southwest Division counterpart by a single point in…",
-    "Despite San Antonio eventually capturing the 2026 Western Conference title in the spring and the Spurs winning 36 more regular season games than the Pelicans, all four matchups last season were highly competitive.",
-    "New Orleans was also responsible for one of San Antonio’s eight home defeats, posting a 104-95 verdict in January.",
-    "Individually, Trey Murphy was superb vs. the Spurs, averaging 28.5 points over his four games and shooting 53 percent from the field.",
-    "Derik Queen averaged 16.3 points, 6.3 rebounds and 5.0 assists, highlighted by a 30-point triple-double (with four blocks) in a narrow 135-132 home loss to the silver and black.",
-    "In two appearances, Zion Williamson averaged a double-double (25.5 ppg, 10.0 rpg). 39.4, 37.5, 39.3, 43.6: New Orleans three-point shooting percentages over its last four games, respectively.",
-    "Week 5 of the NBA schedule has been by far the club’s most effective stretch of perimeter accuracy – prior to this four-game span, New Orleans had not shot above league average (35.4 in ’26-27, via Basketball Reference) …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "feature",
-   "key": "https://www.nba.com/bulls/news/norman-powells-game-tying-shot-bounces-out-bulls-come-up-short-against-wizards",
-   "url": "https://www.nba.com/bulls/news/norman-powells-game-tying-shot-bounces-out-bulls-come-up-short-against-wizards",
-   "canonical_url": "https://bulls.com/news/norman-powells-game-tying-shot-bounces-out-bulls-come-up-short-against-wizards",
-   "title": "Norman Powell's game-tying shot bounces out, Bulls come up short against Wizards",
-   "author": "Sam Smith",
-   "published_utc": "2026-11-21T13:46:41Z",
-   "tags": [
-    "Game Recap",
-    "Sam Smith",
-    "Sam Smith recap"
-   ],
-   "summary": "That being Norman Powell’s driving floater Friday with 6.3 seconds left and the Bulls trailing by two points. The banked attempt ricocheted to the front rim and off, the Bulls thus losing 98-94 to the Washington Wizards.",
-   "facts": [
-    "That being Norman Powell’s driving floater Friday with 6.3 seconds left and the Bulls trailing by two points.",
-    "The banked attempt ricocheted to the front rim and off, the Bulls thus losing 98-94 to the Washington Wizards.",
-    "Though it hardly was because of that miss, the Bulls surrendering a 15-point first half lead by being outscored 23-9 in the third quarter.",
-    "And then trailing by 10 points midway through the fourth, the Bulls led by four reserves and Powell clawed back.",
-    "The Scene: Bulls trailing 96-94 rebounding a point blank Anthony Davis miss with 21.8 seconds left.",
-    "Powell, who led the Bulls with 16 points to 36 for Davis, appears to have a lane for a drive.",
-    "Davis turns to face Claxton, who quickly hands back to Powell with 12 seconds left.",
-    "Trae Young closes—fast for him—Powell fakes the shot and has what seems like an open lane down the left side of the lane for the tie with about 10 seconds left."
-   ],
-   "quotes": [
-    "Those situations you overthink what you do,",
-    "You try to read how you get the ball, how open is the court. I thought we had a chance with the paint wide open for drive and kick for three. I thought Norm had a decent look at a three-point shot. He…",
-    "It’s been a thing for us that third quarter. Have to figure it out, have to start those quarters better,",
-    "We only scored nine points. Didn’t have energy, didn’t have the same juice we had the first half; got to get better."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-nets-20261121",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-at-nets-20261121",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-at-nets-20261121",
-   "title": "Magic Four-Point Play: Follow-Up at Nets",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-21T13:03:34Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Aside from all the skills he possesses – and that’s a long list – Franz Wagner is also super clutch. He’s, time and time again, come up big in crunch time, which was the case Friday in Brooklyn. A tie game and, just as you’d expect, with the ball in his hands, Wagner dribbled to his right, saw a second defender creeping over to him, faded to his right to create more space, and proceeded to bury a …",
-   "facts": [
-    "A tie game and, just as you’d expect, with the ball in his hands, Wagner dribbled to his right, saw a second defender creeping over to him, faded to his right to create more space, and proceeded to bury a mid-range jumpe…",
-    "In 2023, he connected on a go-ahead AND-1 driving layup with 20 seconds left at Chicago.",
-    "In 2025, also against the Nets but at Kia Center, he knocked down back-to-back 3-pointers down the stretch, including one he banked in to put Orlando ahead with 1:24 remaining.",
-    "On Jan. 7, 2026, Paolo Banchero banked in a winning 3-pointer at the buzzer in overtime.",
-    "Desmond Doing What He Was Brought In to Do What was interesting about Desmond Bane last season was that he was excelling more as a driver and finisher around the basket than he was as a 3-point sniper.",
-    "In 2025-26, he averaged just 5.2 3-point attempts per contest, his fewest since his rookie season.",
-    "So far in 2026-27, he’s back to being the 3-point specialist that many projected he would be when the Magic first acquired him from the Grizzlies in June 2025.",
-    "Through 14 games, he’s averaging 10.0 3-point attempts, third most in the league among qualified players."
-   ],
-   "quotes": [
-    "It was both (special and weird). It was very weird seeing him over there. Playing five years together, you get used to that. It kind of set in and I kind of realized today that he’s on a different tea…"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-bucks-game-preview-injury-report-and-how-to-watch-11-21-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-bucks-game-preview-injury-report-and-how-to-watch-11-21-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-bucks-game-preview-injury-report-and-how-to-watch-11-21-2026",
-   "title": "Sixers vs. Bucks: Game Preview, Injury Report and How to Watch 11/21/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-21T12:31:57Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (13-3) bring a four-game winning streak into Saturday afternoon’s home game against the Milwaukee Bucks (1-15), who have lost 12 straight. Tipoff is set for 1 p.m. EST at Xfinity Mobile Arena.",
-   "facts": [
-    "The Philadelphia 76ers (13-3) bring a four-game winning streak into Saturday afternoon’s home game against the Milwaukee Bucks (1-15), who have lost 12 straight.",
-    "Tipoff is set for 1 p.m.",
-    "The teams previously met on Oct. 24, a 127-116 Sixers victory at home.",
-    "Philadelphia has won five straight in the all-time series, including a 4-0 sweep last season.",
-    "The Sixers are coming off a 121-116 road victory over Orlando, a game in which they trailed by 17 points early without Tyrese Maxey (foot) and Jaylen Brown (hamstring), among others.",
-    "Joel Embiid led the Sixers with 26 points, while VJ Edgecombe added a season-high 24 points, including 13 in the fourth quarter, and LeBron James matched a season high with 22.",
-    "The Bucks lost a back-to-back set Wednesday and Thursday, falling 137-130 at Miami before dropping a 124-114 home decision to Portland.",
-    "In his second NBA start, rookie Nate Ament, the No. 13 overall pick in the 2026 NBA Draft, posted a career-high 18 points and nine rebounds."
    ],
    "quotes": []
   }
