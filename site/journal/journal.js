@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1143-shai-gilgeous-alexander-thunder-injuries.html",
+    cat: "NBA",
+    title: "ギルジャス＝アレクサンダー「逆境も楽しい」—— 主力3人を欠くサンダーが3連敗、優勝チームが西地区10位に後退",
+    excerpt: "オクラホマシティ・サンダーは主力のチェット・ホルムグレン、ジェイレン・ウィリアムズ、ケイソン・ウォレスを同時に欠き、10勝8敗・西地区10位に後退している。ESPNのティム・マクマホン記者が現地時間11月24日、チームを一人で支えるシェイ・ギルジャス＝アレクサンダーの奮闘と、出場機会増加に伴う得点効率の低下を特集した。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1142-emperor-cup-ticket-sale-2027.html",
     cat: "JAPAN",
     title: "第102回天皇杯、チケットは11月30日から全試合解禁 —— セミファイナル・ファイナルはAKATSUKI JAPAN plus+先行あり",
