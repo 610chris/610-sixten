@@ -61,6 +61,29 @@
   "template": "score",
   "timestamp": "2026-11-18T08:00:47+0000"
  },
+ "17870468520679668": {
+  "article": "1133",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "SGA、ペイサーズ戦で38得点も敗戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgG-lYSEz9H/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T03:22:06+0000"
+ },
  "17870636949662594": {
   "arms": {
    "ig-2026-10-share-cta": "B"
@@ -234,6 +257,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-15T03:12:05+0000"
+ },
+ "17883899253630588": {
+  "article": "1141",
+  "auto": true,
+  "caption_len": 297,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ルカ・ドンチッチ、ジャズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgHQ0mUjngI/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Luka Doncic"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T06:01:22+0000"
  },
  "17884158930522861": {
   "arms": {
@@ -739,6 +785,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-15T04:04:01+0000"
+ },
+ "17899609608416571": {
+  "article": "1129",
+  "auto": true,
+  "caption_len": 355,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "エンビード、病気でトレイルブレイザーズ戦を欠場",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgGnm_SiiyR/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「76ers' Embiid to miss game vs. Trail Blazers with illness」",
+  "subject": [
+   "Joel Embiid"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-24T00:01:39+0000"
  },
  "17900758436463651": {
   "auto": false,
@@ -1249,6 +1318,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-09T05:07:27+0000"
+ },
+ "17913035265570893": {
+  "article": "1139",
+  "auto": true,
+  "caption_len": 301,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジョーダン・プール、サンズ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgHD6xiGCC3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jordan Poole"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T04:08:40+0000"
  },
  "17913351006499090": {
   "arms": {
@@ -3347,6 +3439,29 @@
   "product": "REELS",
   "timestamp": "2022-04-12T04:36:07+0000"
  },
+ "17957199573312029": {
+  "article": "1131",
+  "auto": true,
+  "caption_len": 309,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デニ・アヴディア、76ers戦で31得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgG9JxIAel0/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Deni Avdija"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T03:09:36+0000"
+ },
  "17958087155120578": {
   "auto": false,
   "caption_len": 85,
@@ -3955,6 +4070,29 @@
   "product": "REELS",
   "timestamp": "2022-10-25T18:12:48+0000"
  },
+ "17974611576168934": {
+  "article": "1136",
+  "auto": true,
+  "caption_len": 313,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、ロケッツ戦で19得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgHDOaElfJr/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T04:02:37+0000"
+ },
  "17974895535162639": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -4381,6 +4519,42 @@
   "permalink": "https://www.instagram.com/reel/Cj7O5CjArja/",
   "product": "REELS",
   "timestamp": "2022-10-20T06:29:46+0000"
+ },
+ "17989245845892277": {
+  "auto": false,
+  "caption_len": 117,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "何のためにドリブルをして、何のためにシュートを打つのか。",
+  "permalink": "https://www.instagram.com/reel/DgFVCs9HKZH/",
+  "product": "REELS",
+  "timestamp": "2026-11-23T12:00:01+0000"
+ },
+ "17989804325887875": {
+  "article": "1121",
+  "auto": true,
+  "caption_len": 325,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タウンズ30得点 ニックスが接戦制す",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgEd0MYAbHJ/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Karl-Anthony Towns"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-23T03:57:14+0000"
  },
  "17990136466592315": {
   "auto": false,
@@ -5255,6 +5429,29 @@
   "template": "news",
   "timestamp": "2026-10-31T15:45:19+0000"
  },
+ "18024343226955276": {
+  "article": "1122",
+  "auto": true,
+  "caption_len": 312,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "テイタム、ウォリアーズ戦で27得点も1点差で惜敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgEf_6WFK02/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Jayson Tatum"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-23T04:16:23+0000"
+ },
  "18025327145707002": {
   "auto": false,
   "caption_len": 109,
@@ -5330,6 +5527,29 @@
   "permalink": "https://www.instagram.com/reel/Cj-L9uBgjdA/",
   "product": "REELS",
   "timestamp": "2022-10-21T10:20:32+0000"
+ },
+ "18028957118928365": {
+  "article": "1140",
+  "auto": true,
+  "caption_len": 327,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ステフォン・キャッスル、キングス戦で28得点11アシスト8リバウンド",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgHN57BDrZ7/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Stephon Castle"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T05:35:56+0000"
  },
  "18031140029691203": {
   "arms": {
@@ -8287,6 +8507,29 @@
   "template": "news",
   "timestamp": "2026-10-08T12:17:47+0000"
  },
+ "18105066647401741": {
+  "article": "1128",
+  "auto": true,
+  "caption_len": 287,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "グリズリーズのJ・グラント、左ふくらはぎ負傷",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DgGhiCYGTcK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "メンフィス・グリズリーズ公式サイト",
+  "subject": [
+   "Jerami Grant"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-23T23:08:04+0000"
+ },
  "18105160415214085": {
   "article": "310",
   "auto": true,
@@ -10723,6 +10966,29 @@
   "template": "news",
   "timestamp": "2026-09-29T21:22:35+0000"
  },
+ "18120418540820750": {
+  "article": "1137",
+  "auto": true,
+  "caption_len": 307,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ケビン・デュラント、クリッパーズ戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgHDfouFIaS/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Kevin Durant"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T04:05:01+0000"
+ },
  "18120430859072303": {
   "article": "828",
   "auto": true,
@@ -12067,6 +12333,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-25T00:12:10+0000"
+ },
+ "18132014936512568": {
+  "article": "1135",
+  "auto": true,
+  "caption_len": 294,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイラー・ヒーロー、ラプターズ戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgG-9BdgaB5/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Tyler Herro"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T03:25:20+0000"
  },
  "18132069358764541": {
   "arms": {
@@ -13994,6 +14283,29 @@
   "template": "score",
   "timestamp": "2026-10-24T02:17:40+0000"
  },
+ "18170096053470440": {
+  "article": "1126",
+  "auto": true,
+  "caption_len": 345,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ネッツのトラオレが右ハムストリング負傷、8〜10週で再評価",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DgF4I4ajpfb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Nets' Nolan Traore (hamstring) to be reevaluated in 8-10 weeks」",
+  "subject": [
+   "Nolan Traore"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-23T17:06:20+0000"
+ },
  "18171186955488244": {
   "article": "981",
   "auto": true,
@@ -14062,6 +14374,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-18T06:01:44+0000"
+ },
+ "18177030292459918": {
+  "article": "1124",
+  "auto": true,
+  "caption_len": 343,
+  "caption_lines": 14,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヴァンブリート復帰でロケッツ12勝4敗 —— 新ニックネーム「提督」",
+  "n_points": 1,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgFWgQAChtW/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「Fred VanVleet's 'fresh slate' is driving Houston's success」",
+  "subject": [
+   "Fred VanVleet"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-23T12:12:38+0000"
  },
  "18177131926453034": {
   "arms": {
@@ -14284,6 +14619,29 @@
   "template": "score",
   "timestamp": "2026-11-17T03:10:36+0000"
  },
+ "18190379230420571": {
+  "article": "1132",
+  "auto": true,
+  "caption_len": 310,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイ・ジェローム、ホーネッツ戦で29得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgG9hl_jH0R/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Ty Jerome"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-24T03:12:49+0000"
+ },
  "18190918168226502": {
   "auto": false,
   "caption_len": 85,
@@ -14473,6 +14831,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-10T12:59:06+0000"
+ },
+ "18199524403392139": {
+  "article": "1130",
+  "auto": true,
+  "caption_len": 273,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "グリズリーズ新人ブーザーが右足首負傷",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DgGok8hjB5-/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Cameron Boozer"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-24T00:09:33+0000"
  },
  "18200358139378805": {
   "arms": {
@@ -16336,6 +16717,29 @@
   ],
   "template": "score",
   "timestamp": "2026-10-31T02:40:05+0000"
+ },
+ "18580980214078619": {
+  "article": "1125",
+  "auto": true,
+  "caption_len": 337,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ESPNが選ぶ「時期尚早」オールスター候補24人",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgFc_COEloH/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN（Ben Golliver記者）",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-23T13:09:06+0000"
  },
  "18585613618069347": {
   "article": "289",
