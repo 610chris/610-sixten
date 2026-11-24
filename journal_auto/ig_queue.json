@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:04:46+09:00",
+  "updated": "2026-11-24T12:17:22+09:00",
   "items": [
     {
       "id": "134",
@@ -36964,6 +36964,147 @@
       "ig_media_id": null,
       "error": null,
       "caption": "タイ・ジェローム、ホーネッツ戦で29得点\n\n・3Pは12本中7本、FG10/21で29得点\n・プラスマイナスはチーム最高の+18\n・グリズリーズが117-111で勝利\n\n💬 ジェロームの29得点、今季のベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1133",
+      "slug": "1133-shai-gilgeous-alexander-38-points-pacers",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "SGA、ペイサーズ戦で38得点も敗戦",
+      "excerpt": "オクラホマシティ・サンダー(Oklahoma City Thunder)のシェイ・ギルジャス＝アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月23日、敵地インディアナポリスでのインディアナ・ペイサーズ(Indiana Pacers)戦に38分出場し、3ポイント10本中4本を含むフィールドゴール30本中13本を沈めて38得点を記録した。サンダーは120-125でペイサーズに敗れた。",
+      "points": [
+        "38得点・アシスト7・FG13/30(43.3%)",
+        "サンダーは第2Qの5点差を最後まで縮められず",
+        "120-125でペイサーズに敗れる"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1133-shai-gilgeous-alexander-38-points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "Shai Gilgeous-Alexander"
+      ],
+      "question": "SGAの38得点も及ばず敗戦、サンダーはこのまま西地区上位を守れる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SHAI GILGEOUS-ALEXANDER",
+        "opponent": "vs. PACERS",
+        "points": 38,
+        "stats": [
+          "7 AST",
+          "5 REB",
+          "13/30 FG",
+          "4/10 3PT",
+          "8/10 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1133-1.jpg",
+        "https://sixten.jp/assets/ig/1133-2.jpg",
+        "https://sixten.jp/assets/ig/1133-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:16:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "SGA、ペイサーズ戦で38得点も敗戦\n\n・38得点・アシスト7・FG13/30(43.3%)\n・サンダーは第2Qの5点差を最後まで縮められず\n・120-125でペイサーズに敗れる\n\n💬 SGAの38得点も及ばず敗戦、サンダーはこのまま西地区上位を守れる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1134",
+      "slug": "1134-jaden-mcdaniels-34-points-nets",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "マクダニエルズ、ネッツ戦で34得点",
+      "excerpt": "ミネソタ・ティンバーウルブズ(Minnesota Timberwolves)のジェイデン・マクダニエルズ(Jaden McDaniels)は現地時間11月23日、本拠地でのブルックリン・ネッツ(Brooklyn Nets)戦に34分出場し、3ポイント4本中4本を含むフィールドゴール16本中12本を沈めて34得点を記録した。ティンバーウルブズは142-116でネッツに快勝した。",
+      "points": [
+        "34得点・リバウンド10のダブルダブル",
+        "FG12/16・3P4/4の高確率",
+        "ティンバーウルブズが142-116で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1134-jaden-mcdaniels-34-points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Jaden McDaniels"
+      ],
+      "question": "マクダニエルズの34得点、今季ベストゲーム？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JADEN MCDANIELS",
+        "opponent": "vs. NETS",
+        "points": 34,
+        "stats": [
+          "10 REB",
+          "6 AST",
+          "2 STL",
+          "12/16 FG",
+          "4/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1134-1.jpg",
+        "https://sixten.jp/assets/ig/1134-2.jpg",
+        "https://sixten.jp/assets/ig/1134-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:16:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マクダニエルズ、ネッツ戦で34得点\n\n・34得点・リバウンド10のダブルダブル\n・FG12/16・3P4/4の高確率\n・ティンバーウルブズが142-116で快勝\n\n💬 マクダニエルズの34得点、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1135",
+      "slug": "1135-tyler-herro-32-points-raptors",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "タイラー・ヒーロー、ラプターズ戦で32得点",
+      "excerpt": "ミルウォーキー・バックス(Milwaukee Bucks)のタイラー・ヒーロー(Tyler Herro)は現地時間11月23日、敵地トロントでのトロント・ラプターズ(Toronto Raptors)戦に37分出場し、3ポイント5本中4本を含むフィールドゴール16本中10本を沈めて32得点を記録した。バックスは116-111でラプターズを下した。",
+      "points": [
+        "32得点・アシスト8・FT8/8完璧",
+        "第3Qの36得点で逆転",
+        "バックスが116-111で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1135-tyler-herro-32-points-raptors.html",
+      "hero_path": "",
+      "subject": [
+        "Tyler Herro"
+      ],
+      "question": "ヒーローのこの夜のパフォーマンス、何点つける？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TYLER HERRO",
+        "opponent": "vs. RAPTORS",
+        "points": 32,
+        "stats": [
+          "8 AST",
+          "6 REB",
+          "10/16 FG",
+          "4/5 3PT",
+          "8/8 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1135-1.jpg",
+        "https://sixten.jp/assets/ig/1135-2.jpg",
+        "https://sixten.jp/assets/ig/1135-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:16:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "タイラー・ヒーロー、ラプターズ戦で32得点\n\n・32得点・アシスト8・FT8/8完璧\n・第3Qの36得点で逆転\n・バックスが116-111で勝利\n\n💬 ヒーローのこの夜のパフォーマンス、何点つける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
