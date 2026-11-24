@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1147-espn-nba-30-teams-first-month.html",
+    cat: "NBA",
+    title: "ESPNが開幕1カ月の全30球団を総括 —— 76ersは「スーパーチームの基準に届かず」、ジャズのジャクソンJr.獲得は「誤算」に",
+    excerpt: "ESPNのベン・ゴリバー記者は24日(現地時間)、開幕から1カ月を経たNBA全30球団を振り返る特集記事を公開した。レブロン・ジェームズら3人のスターを擁する76ersを「スーパーチームの基準には届いていない」とし、好調のティンバーウルブズはティム・コネリーGMの手腕、苦境のジャズはジェイレン・ジャクソンJr.獲得が「誤算」になっていると分析している。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1146-nike-giannis-freak-8-christmas.html",
     cat: "KICKS",
     title: "Nike Giannis Freak 8「Christmas」(品番IQ7391-600)が登場 —— ブッカー・イオネスクと並ぶホリデーコレクションの「ノーティー」サイド",
