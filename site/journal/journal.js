@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1142-emperor-cup-ticket-sale-2027.html",
+    cat: "JAPAN",
+    title: "第102回天皇杯、チケットは11月30日から全試合解禁 —— セミファイナル・ファイナルはAKATSUKI JAPAN plus+先行あり",
+    excerpt: "シーホース三河は11月24日、「第102回天皇杯 全日本バスケットボール選手権大会」ファイナルラウンドのチケット販売概要を発表した。セミファイナル・ファイナルの2試合はAKATSUKI JAPAN plus+有料会員限定の先行販売を11月27日から実施し、一般販売は11月30日18時から全試合で始まる。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1141-luka-doncic-28-points-jazz.html",
     cat: "NBA",
     title: "ルカ・ドンチッチ、ジャズ戦で28得点 —— レイカーズが109-94で勝利",
