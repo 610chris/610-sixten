@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1148-jalen-duren-rehab-assignment.html",
+    cat: "NBA",
+    title: "ジェイレン・デューレン、Gリーグでリハビリ試合へ —— 右ハムストリング離脱から1カ月、ピストンズ復帰に向け最終段階",
+    excerpt: "デトロイト・ピストンズのジェイレン・デューレン(Jalen Duren)は現地時間11月24日、オーランド・マジック戦を前にチーム練習に合流し、25日からはGリーグ提携のモーター・シティ・クルーズでリハビリ試合に入る。右ハムストリング負傷からの実戦復帰に向け最終段階を迎えた。ESPN(AP通信)が伝えた。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1147-espn-nba-30-teams-first-month.html",
     cat: "NBA",
     title: "ESPNが開幕1カ月の全30球団を総括 —— 76ersは「スーパーチームの基準に届かず」、ジャズのジャクソンJr.獲得は「誤算」に",
