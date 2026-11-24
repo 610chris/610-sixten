@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T12:17:22+09:00",
+  "updated": "2026-11-24T12:57:37+09:00",
   "items": [
     {
       "id": "134",
@@ -37105,6 +37105,191 @@
       "ig_media_id": null,
       "error": null,
       "caption": "タイラー・ヒーロー、ラプターズ戦で32得点\n\n・32得点・アシスト8・FT8/8完璧\n・第3Qの36得点で逆転\n・バックスが116-111で勝利\n\n💬 ヒーローのこの夜のパフォーマンス、何点つける？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1136",
+      "slug": "1136-rui-hachimura-19-points-rockets",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "八村塁、ロケッツ戦で19得点",
+      "excerpt": "LAクリッパーズ(LA Clippers)の八村塁(Rui Hachimura)は現地時間11月23日、敵地ヒューストンでのヒューストン・ロケッツ(Houston Rockets)戦に29分出場し、3ポイント4本中2本を含むフィールドゴール10本中7本を沈めて19得点を記録した。クリッパーズは104-116でロケッツに敗れた。",
+      "points": [
+        "FG7/10・3P2/4・FT3/3で19得点",
+        "リバウンド3・アシスト3・ブロック1",
+        "クリッパーズは104-116でロケッツに敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1136-rui-hachimura-19-points-rockets.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "この試合、八村の一番良かったプレーはどこだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. ROCKETS",
+        "points": 19,
+        "stats": [
+          "3 REB",
+          "3 AST",
+          "7/10 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1136-1.jpg",
+        "https://sixten.jp/assets/ig/1136-2.jpg",
+        "https://sixten.jp/assets/ig/1136-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:57:07+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁、ロケッツ戦で19得点\n\n・FG7/10・3P2/4・FT3/3で19得点\n・リバウンド3・アシスト3・ブロック1\n・クリッパーズは104-116でロケッツに敗戦\n\n💬 この試合、八村の一番良かったプレーはどこだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1137",
+      "slug": "1137-kevin-durant-32-points-clippers",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "ケビン・デュラント、クリッパーズ戦で32得点",
+      "excerpt": "ヒューストン・ロケッツ(Houston Rockets)のケビン・デュラント(Kevin Durant)は現地時間11月23日、本拠地でのLAクリッパーズ(LA Clippers)戦に33分出場し、3ポイント6本中4本・フリースロー6本中6本を含むフィールドゴール19本中11本を沈めて32得点を記録した。ロケッツは116-104でクリッパーズを下した。",
+      "points": [
+        "FG11/19・3P4/6・FT6/6で32得点",
+        "リバウンド9・アシスト4",
+        "ロケッツが116-104で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1137-kevin-durant-32-points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Kevin Durant"
+      ],
+      "question": "デュラント、今季どこまでやれると思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "KEVIN DURANT",
+        "opponent": "vs. CLIPPERS",
+        "points": 32,
+        "stats": [
+          "9 REB",
+          "4 AST",
+          "11/19 FG",
+          "4/6 3PT",
+          "6/6 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1137-1.jpg",
+        "https://sixten.jp/assets/ig/1137-2.jpg",
+        "https://sixten.jp/assets/ig/1137-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:57:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ケビン・デュラント、クリッパーズ戦で32得点\n\n・FG11/19・3P4/6・FT6/6で32得点\n・リバウンド9・アシスト4\n・ロケッツが116-104で勝利\n\n💬 デュラント、今季どこまでやれると思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1138",
+      "slug": "1138-donovan-mitchell-28-points-bulls",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "ドノバン・ミッチェル、ブルズ戦で28得点",
+      "excerpt": "クリーブランド・キャバリアーズ(Cleveland Cavaliers)のドノバン・ミッチェル(Donovan Mitchell)は現地時間11月23日、敵地シカゴでのシカゴ・ブルズ(Chicago Bulls)戦に37分出場し、フリースロー12本中11本を含むフィールドゴール17本中8本を沈めて28得点を記録した。キャバリアーズは108-122でブルズに敗れた。",
+      "points": [
+        "FG8/17・3P1/6・FT11/12で28得点",
+        "アシスト5・ブロック2",
+        "キャバリアーズは108-122で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1138-donovan-mitchell-28-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Donovan Mitchell"
+      ],
+      "question": "キャバリアーズ、このまま厳しい展開が続くと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DONOVAN MITCHELL",
+        "opponent": "vs. BULLS",
+        "points": 28,
+        "stats": [
+          "5 AST",
+          "3 REB",
+          "2 BLK",
+          "8/17 FG",
+          "11/12 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1138-1.jpg",
+        "https://sixten.jp/assets/ig/1138-2.jpg",
+        "https://sixten.jp/assets/ig/1138-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:57:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドノバン・ミッチェル、ブルズ戦で28得点\n\n・FG8/17・3P1/6・FT11/12で28得点\n・アシスト5・ブロック2\n・キャバリアーズは108-122で敗戦\n\n💬 キャバリアーズ、このまま厳しい展開が続くと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1139",
+      "slug": "1139-jordan-poole-28-points-suns",
+      "category": "NBA",
+      "date": "2026-11-24",
+      "headline": "ジョーダン・プール、サンズ戦で28得点",
+      "excerpt": "ニューオーリンズ・ペリカンズ(New Orleans Pelicans)のジョーダン・プール(Jordan Poole)は現地時間11月23日、敵地フェニックスでのフェニックス・サンズ(Phoenix Suns)戦に27分出場し、3ポイント8本中6本を含むフィールドゴール12本中9本を沈めて28得点を記録した。ペリカンズは119-123でサンズに惜敗した。",
+      "points": [
+        "FG9/12・3P6/8・FT4/4で28得点",
+        "27分出場でプラスマイナス+15",
+        "ペリカンズは119-123で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1139-jordan-poole-28-points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Jordan Poole"
+      ],
+      "question": "この効率、今季ベストだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JORDAN POOLE",
+        "opponent": "vs. SUNS",
+        "points": 28,
+        "stats": [
+          "3 AST",
+          "9/12 FG",
+          "6/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1139-1.jpg",
+        "https://sixten.jp/assets/ig/1139-2.jpg",
+        "https://sixten.jp/assets/ig/1139-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-24T12:57:17+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョーダン・プール、サンズ戦で28得点\n\n・FG9/12・3P6/8・FT4/4で28得点\n・27分出場でプラスマイナス+15\n・ペリカンズは119-123で惜敗\n\n💬 この効率、今季ベストだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
