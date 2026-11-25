@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1157-timberwolves-collective-without-edwards.html",
+    cat: "NBA",
+    title: "ティンバーウルブズ、エドワーズ不在でも13勝5敗 —— ラメロ・ボールの守備意識向上が支える「集団の力」",
+    excerpt: "ミネソタ・ティンバーウルブズは、右膝手術で離脱中のアンソニー・エドワーズ不在でも13勝5敗（エドワーズ不在時は10勝4敗）とフランチャイズ史上最高クラスの好スタートを切っている。ESPNによると、トレードで獲得したアヨ・ドスンムが平均18.2得点・3ポイント成功率45%で穴を埋め、ラメロ・ボールは守備意識の向上で評価を変え始めているという。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1156-nba-power-rankings-thankful-week6.html",
+    cat: "NBA",
+    title: "スパーズが開幕以来の首位を継続、ドンチッチは「キャリア最高の守備」—— ESPN「パワーランキング」感謝祭特別版",
+    excerpt: "ESPNは25日（現地時間）、感謝祭を前にした最新の「パワーランキング」で、NBA30チームそれぞれについて「感謝すべき1人」をテーマに格付けを発表した。サンアントニオ・スパーズ(San Antonio Spurs、15勝3敗)が前回から順位を維持して首位を継続し、ロサンゼルス・レイカーズ(Los Angeles Lakers、14勝4敗)のルカ・ドンチッチ(Luka Doncic)は平均36.6得点というキャリア最高のスコアリングに加え、守備面でも「キャリア最高」との評価を受けた。フィラデルフィア・76ers(Philadelphia 76ers、13勝5敗)はレブロン・ジェームズ(LeBron James)加入で2000-01シーズン以来の好スタートを切っている。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1155-cooper-flagg-24-points-nuggets.html",
     cat: "NBA",
     title: "クーパー・フラッグ、ナゲッツ戦で24得点12アシスト —— マーベリックスが120-101で快勝",
