@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1151-jordan-6-rings-reflective.html",
+    cat: "KICKS",
+    title: "Jordan 6 Rings「Reflective」が再入荷 —— マイケル・ジョーダンの6度の優勝を1足に凝縮したモデル",
+    excerpt: "マイケル・ジョーダンがブルズで手にした6度の優勝時のシグネチャーモデルの意匠を1足にまとめた「Jordan 6 Rings」。その中でも全面を反射素材で覆った「Reflective」(品番CW4641-001)が、再び店頭に並んだ。Sneaker Newsが伝えた。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1150-nike-kd-19-christmas.html",
+    cat: "KICKS",
+    title: "Nike KD 19「Christmas」(品番IO8107-300)が登場 —— レブロンと並ぶホリデーコレクションの「ナイス」サイド",
+    excerpt: "ナイキは、ヒューストン・ロケッツのケビン・デュラントが着用するシグネチャーモデル「Nike KD 19」に新色「Christmas」(品番IO8107-300)を追加した。レブロン・ジェームズの「LeBron 24」と並ぶ「ナイス」側の1足で、ジップ付きシュラウドは採用していない。Sneaker Bar Detroit・Sneaker Newsが伝えた。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1149-kawhi-leonard-individual-workouts.html",
     cat: "NBA",
     title: "カワイ・レナード、個別のオンコート練習を開始 —— 復帰の最速は来週のロケッツ戦",
