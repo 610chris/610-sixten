@@ -1,8 +1,241 @@
 {
- "updated_utc": "2026-11-25 03:08 UTC",
+ "updated_utc": "2026-11-25 13:26 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-vs-heat-nba-cup-game-preview-injury-report-and-how-to-watch-11-25-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-vs-heat-nba-cup-game-preview-injury-report-and-how-to-watch-11-25-2026",
+   "canonical_url": "https://sixers.com/news/sixers-vs-heat-nba-cup-game-preview-injury-report-and-how-to-watch-11-25-2026",
+   "title": "Sixers vs. Heat: NBA Cup Game Preview, Injury Report and How to Watch 11/25/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-25T12:02:22Z",
+   "tags": [],
+   "summary": "In a rare 5 p.m. EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised Emirates NBA Cup tripleheader on Thanksgiving Eve. The Heat enter with an NBA-best seven-game winning streak.",
+   "facts": [
+    "EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised Emirates NBA Cup tripleheader on Thanksgiving Eve.",
+    "Miami leads East Group B with a 2-0 Cup record, while Philadelphia is 1-1 after a win over New York and a loss to Cleveland.",
+    "The Sixers had their five-game winning streak snapped Monday in a 128-111 loss to the Portland Trail Blazers while playing without Joel Embiid (illness).",
+    "Portland tied a season high with 19 3-pointers, compared to nine by Philadelphia.",
+    "LeBron James scored a season-high 23 points, shooting 8-for-13 from the field, 4-for-5 from 3-point range and 3-for-4 from the foul line.",
+    "The Heat acquired two-time NBA MVP Giannis Antetokounmpo and Bobby Portis from Milwaukee on July 6 in exchange for five draft picks and four players.",
+    "Miami’s seventh-consecutive victory came Sunday in a 123-113 win over the Oklahoma City Thunder behind a triple-double from Bam Adebayo while Antetokounmpo (right groin tendinitis) was sidelined.",
+    "Adebayo finished with 24 points, 15 rebounds and 12 assists, tying LeBron James for the second-most triple-doubles in franchise history with nine."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/gafford-mavericks-quiet-jokic-in-commendable-fashion",
+   "url": "https://www.nba.com/mavs/news/gafford-mavericks-quiet-jokic-in-commendable-fashion",
+   "canonical_url": "https://mavs.com/mavs/news/gafford-mavericks-quiet-jokic-in-commendable-fashion",
+   "title": "Gafford, Mavericks quiet Jokic in commendable fashion",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-25T08:11:18Z",
+   "tags": [],
+   "summary": "DENVER – Playing the Denver Nuggets Tuesday was “just another game” for Mavericks’ center Daniel Gafford, NBA Cup implications notwithstanding.",
+   "facts": [
+    "In the three games before Tuesday, Jokic and Murray had combined for 167 points, 55.7 per game.",
+    "Jokic had only 18 points, 11 rebounds and five assists – way below the massive 37 points, 18 rebounds and 11 assists he had two nights earlier at Chicago.",
+    "He finished with 20 points.",
+    "Combined, Jokic and Murray shot just 12-for-31 from the field.",
+    "The Mavericks kept Jokic from going crazy in the early going and two early fouls on the 6-11 two-time MVP helped.",
+    "It just seems like in the NBA there’s going to be someone sick or injured periodically and that will probably work itself out.",
+    "But until this year, he had been a starter every time he took the court since 2010.",
+    "Only in his rookie season had he come off the bench, and even then it was only for 12 games."
+   ],
+   "quotes": [
+    "How long they been playing together?",
+    "I would say they got an unbreakable bond. They won a championship together. It’s going to be tough to stop that dynamic duo.",
+    "Gaff did a great job, Rez (Morez Johnson Jr.) did a great job,",
+    "We pushed his catches out a little bit further and our guys were really smart about mixing up coverages. We felt like we had to give these guys some different looks because once they find a rhythm, th…"
+   ]
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-lose-to-mavericks-in-emirates-nba-cup-game",
+   "url": "https://www.nba.com/nuggets/news/nuggets-lose-to-mavericks-in-emirates-nba-cup-game",
+   "canonical_url": "https://nuggets.com/news/nuggets-lose-to-mavericks-in-emirates-nba-cup-game",
+   "title": "Nuggets lose to Mavericks in Emirates NBA Cup game",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-25T06:18:32Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets lost to the Dallas Mavericks, 120-101, in their third Emirates NBA Cup game.",
+   "facts": [
+    "The Denver Nuggets lost to the Dallas Mavericks, 120-101, in their third Emirates NBA Cup game.",
+    "Denver is now 2-1 in NBA Cup Group Play.",
+    "They trail the Mavericks (3-0) in Western Conference Group A.",
+    "Tuesday's result also hurt Denver's overall point differential, as they're now minus-3 after three games.",
+    "Christian Braun had the best game of any Nugget, scoring 15 points on 5-of-8 shooting.",
+    "Dallas outscored Denver in the painted area, 68-38.",
+    "The Nuggets also turned the ball over 18 times, leading to 26 Mavericks' points.",
+    "Denver's bench got outscored as well, 47-30."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/mavericks-knock-out-nuggets-for-fourth-consecutive-win",
+   "url": "https://www.nba.com/mavs/news/mavericks-knock-out-nuggets-for-fourth-consecutive-win",
+   "canonical_url": "https://mavs.com/mavs/news/mavericks-knock-out-nuggets-for-fourth-consecutive-win",
+   "title": "Mavericks clamp down on Nuggets for fourth consecutive win",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-25T05:34:15Z",
+   "tags": [],
+   "summary": "DENVER – Something had to give when two red-hot teams met Tuesday night at Ball Arena.",
+   "facts": [
+    "With a wide array of strong contributions, the Mavericks leaned on their defense to shut down one of the NBA’s best offensive teams and score a pivotal 120-101 victory over the Denver Nuggets.",
+    "The win also gave them a 3-0 record in NBA Cup games.",
+    "They pushed their overall record to 11-7, while Denver fell to 10-6 and saw their three-game winning streak halted.",
+    "The Nuggets shot just 40.5 percent, far below their average of 49 percent coming into the game, which was tops in the NBA.",
+    "We had 13 steals as a group and only 12 turnovers.",
+    "It worked wonderfully as Washington had 14 first-half points to augment solid play from Flagg, Martin and Johnson, who had by far his best NBA game.",
+    "We had 35 transition points.",
+    "More accurately, Christian Braun caught fire with three long balls in a row to make it 71-65."
+   ],
+   "quotes": [
+    "Anytime you can hold the Nuggets to 25 or less in three of the four quarters, that’s a sign of guys being really locked in and committed to defending as a group,",
+    "They’re tough to cover. Caleb had five steals. We had 13 steals as a group and only 12 turnovers. When we don’t turn the ball over and give them easy baskets, we’re pretty good. And 35 fast-break poin…",
+    "It (a game like Tuesday) gives you confidence that, regardless if the ball’s going in, you can still find a way to win,",
+    "We’re getting better defensively. You can see the guys playing off of one another. If we can continue to apply the type of ball pressure we have at the point of attack and we can disrupt passing lanes…"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261124-four-celtics-make-history-in-nations-capital",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261124-four-celtics-make-history-in-nations-capital",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261124-four-celtics-make-history-in-nations-capital",
+   "title": "Four Celtics Make History in Nation’s Capital",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-25T05:25:00Z",
+   "tags": [
+    "Postgame",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "It was a night of milestones in the nation’s capital for the Boston Celtics.",
+   "facts": [
+    "Not only did the C’s snap a four-game losing streak with a 131-116 win over the Washington Wizards Tuesday night, improving to 3-0 in NBA Cup group play in the process, but they also made several noteworthy entries into …",
+    "Jayson Tatum delivered a historic first quarter, Paul George joined elite company on the NBA’s all-time 3-point list, Payton Pritchard cracked the top five on Boston’s 3-point leaderboard, and Joe Mazzulla reached a majo…",
+    "Tatum tallied 15 points and five rebounds in the first quarter, marking just the second instance in the play-by-play era in which a Celtic reached those numbers in an opening frame.",
+    "The only other Celtic to reach those numbers in any quarter during that span was Paul Pierce, who did so in the third period of a matchup against the Utah Jazz on Nov. 11, 2002.",
+    "Tatum went on to finish with a season-high 41 points, marking his highest scoring output since before his Achilles rupture, dating back to a 46-point performance against the Cleveland Cavaliers on Feb. 28, 2025.",
+    "It was also his highest-scoring road performance since he dropped 43 points in Chicago on Dec. 21, 2024.",
+    "Neemias Queta poured in 21 points, marking the third 20-point effort of his career and his second straight against the Wizards.",
+    "George Joins the 2,500 3-Pointer Club George was on fire from beyond the arc Tuesday night, knocking down six of his nine 3-point attempts as part of a 28-point effort."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
+   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
+   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261124-boswas",
+   "title": "Keys to the Game: Celtics 131, Wizards 116",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-25T04:55:14Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "Baylor Scheierman saved his scoring punch for when the Boston Celtics needed it most Tuesday night in Washington.",
+   "facts": [
+    "After going scoreless for the first 45-and-a-half minutes of the game, Scheierman scored eight consecutive points for the Celtics down the stretch, helping them regain their footing and secure a 131-116 NBA Cup win over …",
+    "Washington had chipped away at a 34-point deficit throughout the second half, pulling to within seven points late in the fourth quarter before Scheierman seized the momentum right back.",
+    "The Celtics wing knocked down a 3-pointer with 2:31 remaining to push Boston’s lead back to double digits.",
+    "He followed that up with a pair of free throws before burying a 31-footer to put the C’s ahead, 127-114.",
+    "He did all of that in a span of just one minute and 15 seconds.",
+    "Key Player Jayson Tatum produced his highest-scoring performance since returning from his Achilles injury, erupting for 41 points on 13-of-25 shooting from the field, including a 6-of-15 clip from 3-point range.",
+    "It was his highest-scoring effort since dropping 46 points against Cleveland on Feb. 28, 2025, and his highest-scoring road performance since putting up 43 points in Chicago on Dec. 21, 2024.",
+    "Tatum wasted little time getting going in the nation’s capital, piling up 15 points and five assists in the opening frame."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/11-23-2026-suns-vs-pelicans-game-preview",
+   "url": "https://www.nba.com/suns/news/11-23-2026-suns-vs-pelicans-game-preview",
+   "canonical_url": "https://suns.com/news/11-23-2026-suns-vs-pelicans-game-preview",
+   "title": "11/23/2026 Suns vs Pelicans Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-11-25T03:14:03Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Monday, November 23, 2026Time: 6:00 p.m. MSTLocation: Smoothie King CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Pelicans: Association Edition (White)",
+   "facts": [
+    "Game Info Date: Monday, November 23, 2026Time: 6:00 p.m.",
+    "MSTLocation: Smoothie King CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Pelicans: Association Edition (White) Series Notes Phoenix…",
+    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
+    "Phoenix has now won three road games in a row by double digits for the 17th time in team history.DEVIN BOOKER led all scorers with 23 points to go along with 3 assists.",
+    "Booker now has 20+ points in all but three contests this season.DILLON BROOKS and MILES BRIDGES each added 18 points.",
+    "Brooks posted 15+ points for the fourth time in five games.",
+    "Bridges had nine rebounds, ending one board shy of his fourth double-double of the season.COLLIN GILLESPIE tallied 16 points (3-of-7 3FG) off the bench.",
+    "He now has multiple triples in seven straight games, the longest streak by a Suns reserve since 2021-22."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHX 公式（nba.com）",
+   "team": "PHX",
+   "team_ja": "サンズ",
+   "team_id": 1610612756,
+   "kind": "feature",
+   "key": "https://www.nba.com/suns/news/11-25-2026-suns-vs-rockets-game-preview",
+   "url": "https://www.nba.com/suns/news/11-25-2026-suns-vs-rockets-game-preview",
+   "canonical_url": "https://suns.com/news/11-25-2026-suns-vs-rockets-game-preview",
+   "title": "11/25/2026 Suns vs Rockets Game Preview",
+   "author": "Phoenix Suns",
+   "published_utc": "2026-11-25T03:13:31Z",
+   "tags": [
+    "2026-27"
+   ],
+   "summary": "Date: Wednesday, November 25, 2026Time: 7:00 p.m. MSTLocation: Toyota CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Rockets: Statement Edition (Black)",
+   "facts": [
+    "Game Info Date: Wednesday, November 25, 2026Time: 7:00 p.m.",
+    "MSTLocation: Toyota CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Rockets: Statement Edition (Black) Series Notes The Suns wo…",
+    "He played four seasons with Houston, playing in 307 games and averaging 20.1 points, 4.2 rebounds and 3.3 assistsRockets forward Kevin Durant spent three seasons with the Suns from 2022-25, playing in 145 games and avera…",
+    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
+    "Phoenix has now won three road gamesin a row by double digits for the 17th time in team history.DEVIN BOOKER led all scorers with 23 points to go along with 3 assists.",
+    "Booker now has 20+ points in all but three contests thisseason.DILLON BROOKS and MILES BRIDGES each added 18 points.",
+    "Brooks posted 15+ points for the fourth time in five games.",
+    "Bridges had nine rebounds, ending one board shy of his fourth double-double of the season.COLLIN GILLESPIE tallied 16 points (3-of-7 3FG) off the bench."
+   ],
+   "quotes": []
+  },
   {
    "source": "ORL 公式（nba.com）",
    "team": "ORL",
@@ -985,34 +1218,6 @@
    ]
   },
   {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "feature",
-   "key": "https://www.nba.com/suns/news/11-23-2026-suns-vs-pelicans-game-preview",
-   "url": "https://www.nba.com/suns/news/11-23-2026-suns-vs-pelicans-game-preview",
-   "canonical_url": "https://suns.com/news/11-23-2026-suns-vs-pelicans-game-preview",
-   "title": "11/23/2026 Suns vs Pelicans Game Preview",
-   "author": "Phoenix Suns",
-   "published_utc": "2026-11-23T17:12:37Z",
-   "tags": [
-    "2026-27"
-   ],
-   "summary": "Date: Monday, November 23, 2026Time: 6:00 p.m. MSTLocation: Smoothie King CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Pelicans: Association Edition (White)",
-   "facts": [
-    "Game Info Date: Monday, November 23, 2026Time: 6:00 p.m.",
-    "MSTLocation: Smoothie King CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Icon Edition (Purple) | Pelicans: Association Edition (White) Series Notes Phoenix…",
-    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
-    "Phoenix has now won three road games in a row by double digits for the 17th time in team history.DEVIN BOOKER led all scorers with 23 points to go along with 3 assists.",
-    "Booker now has 20+ points in all but three contests this season.DILLON BROOKS and MILES BRIDGES each added 18 points.",
-    "Brooks posted 15+ points for the fourth time in five games.",
-    "Bridges had nine rebounds, ending one board shy of his fourth double-double of the season.COLLIN GILLESPIE tallied 16 points (3-of-7 3FG) off the bench.",
-    "He now has multiple triples in seven straight games, the longest streak by a Suns reserve since 2021-22."
-   ],
-   "quotes": []
-  },
-  {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
    "team_ja": "ウォリアーズ",
@@ -1796,156 +2001,6 @@
    ],
    "quotes": [
     "Water Tends to find its level,"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "roster",
-   "key": "https://www.nba.com/sixers/news/76ers-extend-win-streak-defeat-bucks-132-129",
-   "url": "https://www.nba.com/sixers/news/76ers-extend-win-streak-defeat-bucks-132-129",
-   "canonical_url": "https://sixers.com/news/76ers-extend-win-streak-defeat-bucks-132-129",
-   "title": "76ers Extend Win Streak, Defeat Bucks 132-129",
-   "author": "76ers PR",
-   "published_utc": "2026-11-22T12:21:13Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers defeated the Milwaukee Bucks, 132-129, marking their fifth consecutive win, improving their record to 14-3 overall and 12-0 in ‘clutch games’.",
-   "facts": [
-    "The Philadelphia 76ers defeated the Milwaukee Bucks, 132-129, marking their fifth consecutive win, improving their record to 14-3 overall and 12-0 in ‘clutch games’.",
-    "Philadelphia leads the season series 2-0 and has won six consecutive games against Milwaukee dating back to Nov. 20, 2025.",
-    "JOEL EMBIID recorded his sixth double-double of the season with 26 points on 7-of-17 shooting and a season-high 17 rebounds, to go along with nine assists.",
-    "This afternoon marked his 267th career game with at least 20 points and 10 rebounds (third most in franchise history).",
-    "Over his last three games, Embiid is averaging 29.7 points, 9.3 rebounds, 5.7 assists, two blocks, and one steal.",
-    "To hear Nick Nurse’s postgame press conference and game highlights as called by Tom McGinnis, check out the 76ers Insiders podcast: SPOTIFY LINK | APPLE PODCASTS LINK ANFERNEE SIMONS led all 76ers reserves with 18 points…",
-    "DOMINICK BARLOW recorded 12 points on 5-of-6 shooting (50% 3FG), four rebounds, and one assist in his first game of the 2026-27 season.",
-    "NEXT UP: The Philadelphia 76ers will host the Portland Trail Blazers at Xfinity Mobile Arena Monday, Nov. 23."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/game-recap-keys-20261122-bossac",
-   "url": "https://www.nba.com/celtics/news/game-recap-keys-20261122-bossac",
-   "canonical_url": "https://celtics.com/news/game-recap-keys-20261122-bossac",
-   "title": "Keys to the Game: Kings 97, Celtics 96",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-22T06:28:07Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "Payton Pritchard gave the Celtics a one-point lead on a beautiful step-back jumper with 11 seconds remaining Saturday night. But Sacramento had one final answer, stealing a 97-96 win on a last-second putback at Golden 1 Center.",
-   "facts": [
-    "Key Moment Payton Pritchard gave the Celtics a one-point lead on a beautiful step-back jumper with 11 seconds remaining Saturday night.",
-    "But Sacramento had one final answer, stealing a 97-96 win on a last-second putback at Golden 1 Center.",
-    "He created space for another step-back jumper, this time from just inside the 3-point arc, but his potential game-winner missed the mark as the final buzzer sounded.",
-    "The 39-year-old guard opened the game shooting a flawless 6-for-6 from the field, 4-for-4 from 3-point range and 3-for-3 from the free-throw line.",
-    "Conley finished with 19 points in 18 minutes off the bench, tying Paul George for Boston’s team high in scoring.",
-    "He came just two points shy of matching Sacramento rookie Darius Acuff’s game-high 21-point performance, despite attempting 16 fewer shots.",
-    "Most impressively, he posted a game-best plus-17 despite Boston’s one-point defeat.",
-    "The 20-year veteran provided a much-needed spark on a night when the Celtics were without a pair of perimeter players in Jayson Tatum and Derrick White."
-   ],
-   "quotes": [
-    "Tonight’s the reason why you have a guy like that on your roster, and he gave us a chance to win."
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/the-moment-he-first-saw-quincy-acy-baylors-tweety-carter-wanted-him-as-a-teammate",
-   "url": "https://www.nba.com/mavs/news/the-moment-he-first-saw-quincy-acy-baylors-tweety-carter-wanted-him-as-a-teammate",
-   "canonical_url": "https://mavs.com/mavs/news/the-moment-he-first-saw-quincy-acy-baylors-tweety-carter-wanted-him-as-a-teammate",
-   "title": "When he first saw Quincy Acy, Baylor's Tweety Carter wanted him as a teammate",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-22T04:46:06Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "Quincy Acy"
-   ],
-   "summary": "Just moments after he laid eyes on Quincy Acy for the very first time, Tweety Carter knew he was a keeper.",
-   "facts": [
-    "Baylor advanced to the NCAA Elite Eight in 2010 and 2012 during Quincy’s time in Waco, and the Bears were also the NIT runners-up in 2009.",
-    "And the 10th dunk came via an assist from Carter.",
-    "So just to drop that 10th dunk off meant the world to me."
-   ],
-   "quotes": [
-    "He had another year of high school and he came on a visit and he was in some slippers and he was standing under the goal,",
-    "And luckily, we were blessed to get him. It was great to have that experience with Q.",
-    "What you love is Quincy, when he came in as a freshman, he had a lot of youthful energy and athleticism,",
-    "He’s a team-first player and he’ll go through a wall for you,"
-   ]
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavs-used-grit-and-determination-to-pull-away-at-the-end-and-defeat-clippers-110-100",
-   "url": "https://www.nba.com/mavs/news/mavs-used-grit-and-determination-to-pull-away-at-the-end-and-defeat-clippers-110-100",
-   "canonical_url": "https://mavs.com/mavs/news/mavs-used-grit-and-determination-to-pull-away-at-the-end-and-defeat-clippers-110-100",
-   "title": "Mavs use grit, determination to pull away from Clippers, 110-100",
-   "author": "Dwain Price",
-   "published_utc": "2026-11-22T04:33:11Z",
-   "tags": [
-    "dallas mavericks",
-    "nba"
-   ],
-   "summary": "Earlier this season, Dallas Mavericks coach Dusty May explained that he would like to see his team having the ability to win games in a variety of ways. Including when the game is mucked up.",
-   "facts": [
-    "Well, May got his wish on Saturday as the Mavs had to use a whole lot of grit and determination to tough out a hard-fought 110-100 victory over the stubborn Los Angeles Clippers at American Airlines Center.",
-    "The win enabled the Mavs (9-7) to sweep this brief two-game homestand going into Sunday’s game in Utah, while the Clippers dropped to 4-11.",
-    "One minute the Mavs were clinging to a slim 91-88 lead with a little over four minutes remaining.",
-    "And a basket by Risacher padded Dallas’ lead to 102-88 with 3:09 left.",
-    "Clayton finished with 16 points and five rebounds, and Christie added 13 points and two steals and was 5-of-7 from the field.",
-    "Their performances helped take some of the load from Irving (25 points, six rebounds) and Flagg (22 points, six boards, eight assists).",
-    "The Mavs shot 41.1 percent from the field and were just 23-of-34 from the charity stripe.",
-    "But with Irving seizing the moment by tallying 12 of his points in the fourth quarter, the Mavs found a way to slip past the upset-minded Clippers."
-   ],
-   "quotes": [
-    "That was a nice run for us,",
-    "We’ve been able to answer much better in the game flow the last couple of games. We just have a team where we have a lot of different pieces.",
-    "I honestly don’t want people to forget that Max had a hip injury and then he had an ankle injury,",
-    "And then obviously he didn’t play as well as he hoped, and then the injuries happened. It was just a matter of time. He played really well tonight. He was aggressive. His defense was very sound."
-   ]
-  },
-  {
-   "source": "NOP 公式（nba.com）",
-   "team": "NOP",
-   "team_ja": "ペリカンズ",
-   "team_id": 1610612740,
-   "kind": "feature",
-   "key": "https://www.nba.com/pelicans/news/spurs-114-pelicans-91-jeremiah-fears-29-points-postgame-wrap",
-   "url": "https://www.nba.com/pelicans/news/spurs-114-pelicans-91-jeremiah-fears-29-points-postgame-wrap",
-   "canonical_url": "https://pelicans.com/news/spurs-114-pelicans-91-jeremiah-fears-29-points-postgame-wrap",
-   "title": "Spurs 114, Pelicans 91: Jeremiah Fears 29 points | Postgame wrap",
-   "author": "Jim Eichenhofer",
-   "published_utc": "2026-11-22T03:28:18Z",
-   "tags": [],
-   "summary": "New Orleans didn’t have two of its primary scorers, both ruled out prior to tip-off Saturday. San Antonio had Victor Wembanyama. That was plenty.",
-   "facts": [
-    "The Spurs’ early-season MVP candidate piled up 32 points and 13 rebounds – before halftime.",
-    "He finished with 50 and 19 on a night when the Pelicans were playing without Trey Murphy (injury management) and Zion Williamson (thigh) in the second game of a road back-to-back.",
-    "Jeremiah Fears (29 points) and Jordan Poole (25 points) tried to keep New Orleans competitive, but San Antonio stretched its lead to 16 by halftime and 23 through three quarters.",
-    "Wembanyama finally sat down midway through the fourth quarter with the Spurs up 24.",
-    "BY THE NUMBERS 8/35: New Orleans three-point shooting, a big dip in accuracy (23 percent) compared to a very good previous four-game stretch of above-average work. 11: Pelicans assists.",
-    "They only handed out three in the second half, finishing with a negative assist-to-turnover ratio Saturday by committing 14 turnovers.",
-    "San Antonio dished 30 assists on its 40 baskets.",
-    "SPURS On the Sunday before Christmas, San Antonio makes a Dec. 20 visit to the Blender."
-   ],
-   "quotes": [
-    "A lot of that was tough to guard,"
    ]
   }
  ]
