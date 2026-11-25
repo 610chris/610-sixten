@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1154-jayson-tatum-41-points-wizards.html",
+    cat: "NBA",
+    title: "ジェイソン・テイタム、ウィザーズ戦で41得点 —— セルティックスが131-116で快勝",
+    excerpt: "ボストン・セルティックス(Boston Celtics)のジェイソン・テイタム(Jayson Tatum)は現地時間11月24日、敵地ワシントンでのワシントン・ウィザーズ(Washington Wizards)戦に37分出場し、3ポイント15本中6本を含むフィールドゴール25本中13本を沈めて41得点を記録した。セルティックスは131-116でウィザーズに快勝した。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1153-desmond-bane-21-points-pistons.html",
     cat: "NBA",
     title: "デズモンド・ベイン、ピストンズ戦で21得点 —— マジックは86-104で敗戦",

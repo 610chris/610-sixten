@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:54:38+09:00",
+  "updated": "2026-11-25T12:53:13+09:00",
   "items": [
     {
       "id": "134",
@@ -37819,6 +37819,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "デズモンド・ベイン、ピストンズ戦で21得点\n\n・FG8/13・3P4/7・AST5の活躍\n・プラスマイナスは-20\n・マジックは本拠地で86-104の敗戦\n\n💬 個人は好調でもチームが敗れた試合、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1154",
+      "slug": "1154-jayson-tatum-41-points-wizards",
+      "category": "NBA",
+      "date": "2026-11-25",
+      "headline": "ジェイソン・テイタム、ウィザーズ戦で41得点",
+      "excerpt": "ボストン・セルティックス(Boston Celtics)のジェイソン・テイタム(Jayson Tatum)は現地時間11月24日、敵地ワシントンでのワシントン・ウィザーズ(Washington Wizards)戦に37分出場し、3ポイント15本中6本を含むフィールドゴール25本中13本を沈めて41得点を記録した。セルティックスは131-116でウィザーズに快勝した。",
+      "points": [
+        "FG13/25・3P6/15で41得点",
+        "アシスト8・リバウンド6・ブロック2も記録",
+        "セルティックスは第2Qの46-21で突き放し131-116で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1154-jayson-tatum-41-points-wizards.html",
+      "hero_path": "",
+      "subject": [
+        "Jayson Tatum"
+      ],
+      "question": "テイタムの41得点、今季ベストゲームだと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAYSON TATUM",
+        "opponent": "vs. WIZARDS",
+        "points": 41,
+        "stats": [
+          "8 AST",
+          "6 REB",
+          "2 BLK",
+          "13/25 FG",
+          "6/15 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1154-1.jpg",
+        "https://sixten.jp/assets/ig/1154-2.jpg",
+        "https://sixten.jp/assets/ig/1154-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-25T12:52:39+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジェイソン・テイタム、ウィザーズ戦で41得点\n\n・FG13/25・3P6/15で41得点\n・アシスト8・リバウンド6・ブロック2も記録\n・セルティックスは第2Qの46-21で突き放し131-116で快勝\n\n💬 テイタムの41得点、今季ベストゲームだと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
