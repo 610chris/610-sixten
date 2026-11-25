@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1160-nike-ja-4-wheat.html",
+    cat: "KICKS",
+    title: "Nike Ja 4「Wheat」が12月発売 —— ジャ・モラント4代目シグネチャー、東海岸ゆかりの配色",
+    excerpt: "ナイキは、ジャ・モラント(メンフィス・グリズリーズ)の4代目シグネチャーモデル「Nike Ja 4」に新色「Wheat」(品番IM4135-701)を投入し、2026年12月に発売する。デザートオーカー・バロークブラウンにピンクフォームを組み合わせた配色で、ジャ本人のキャリアの外にある米東海岸をイメージしたという。Sneaker News・Sneaker Bar Detroitが現地時間11月25日に伝えた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1159-nike-gt-cut-1-duke-preorder.html",
+    cat: "KICKS",
+    title: "Nike Zoom GT Cut 1「Duke」が予約開始 —— Kobe 10 Protro「Duke」「UConn」と並ぶデューク大コレクション",
+    excerpt: "Nike(ナイキ)は、デューク大学(Duke)のバスケットボールプログラムとのコレクションの一足として、「Nike Zoom GT Cut 1」の新色「Duke」(品番JW8216-400)の予約受付を開始した。同コレクションの「Kobe 10 Protro」「Duke」「UConn」PEモデルの予約も同時に始まっている。Sneaker Bar Detroit・Sneaker Newsが現地時間11月25日に伝えた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1158-porter-jr-magic-deal.html",
     cat: "NBA",
     title: "ケビン・ポーター・ジュニア、マジックと2年契約へ —— バックス放出から1カ月、ナゲッツとの争奪戦制す",
