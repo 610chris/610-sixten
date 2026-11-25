@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1149-kawhi-leonard-individual-workouts.html",
+    cat: "NBA",
+    title: "カワイ・レナード、個別のオンコート練習を開始 —— 復帰の最速は来週のロケッツ戦",
+    excerpt: "トロント・ラプターズは現地時間11月24日、左膝の腫れで離脱中のカワイ・レナード(Kawhi Leonard)が治療を終えて個別のオンコート練習を開始したと発表した。状況は1週間後に改めて発表するとしており、本人が出場可能になる最速のタイミングは来週12月1日のヒューストン・ロケッツ戦となる。",
+    date: "2026.11.24",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1148-jalen-duren-rehab-assignment.html",
     cat: "NBA",
     title: "ジェイレン・デューレン、Gリーグでリハビリ試合へ —— 右ハムストリング離脱から1カ月、ピストンズ復帰に向け最終段階",
