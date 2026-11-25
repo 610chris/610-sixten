@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T11:40:56+09:00",
+  "updated": "2026-11-25T11:54:38+09:00",
   "items": [
     {
       "id": "134",
@@ -37728,6 +37728,97 @@
       "ig_media_id": null,
       "error": null,
       "caption": "Jordan 6 Rings「Reflective」が再入荷\n\n・6度の優勝の意匠を1足に凝縮したモデル\n・反射素材仕様の「Reflective」(品番CW4641-001)\n・定番モデルが再評価される動き\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: Sneaker News\n写真: イメージ(本文とは直接関係ありません)。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #バッシュ #スニーカー #kicks #sneakers"
+    },
+    {
+      "id": "1152",
+      "slug": "1152-isaiah-joe-21-points-magic",
+      "category": "NBA",
+      "date": "2026-11-25",
+      "headline": "アイザイア・ジョー、マジック戦で21得点",
+      "excerpt": "デトロイト・ピストンズ(Detroit Pistons)のアイザイア・ジョー(Isaiah Joe)は現地時間11月24日、敵地オーランドでのオーランド・マジック(Orlando Magic)戦に30分出場し、3ポイント11本中5本を含むフィールドゴール15本中8本を沈めて21得点を記録した。ピストンズは104-86でマジックに勝利した。",
+      "points": [
+        "FG8/15・3P5/11で21得点",
+        "30分の出場でプラスマイナス+16",
+        "ピストンズが敵地オーランドで104-86の勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1152-isaiah-joe-21-points-magic.html",
+      "hero_path": "",
+      "subject": [
+        "Isaiah Joe"
+      ],
+      "question": "ベンチからの21得点、ピストンズの今季で一番の活躍だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ISAIAH JOE",
+        "opponent": "vs. MAGIC",
+        "points": 21,
+        "stats": [
+          "4 REB",
+          "8/15 FG",
+          "5/11 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1152-1.jpg",
+        "https://sixten.jp/assets/ig/1152-2.jpg",
+        "https://sixten.jp/assets/ig/1152-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-25T11:54:32+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "アイザイア・ジョー、マジック戦で21得点\n\n・FG8/15・3P5/11で21得点\n・30分の出場でプラスマイナス+16\n・ピストンズが敵地オーランドで104-86の勝利\n\n💬 ベンチからの21得点、ピストンズの今季で一番の活躍だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1153",
+      "slug": "1153-desmond-bane-21-points-pistons",
+      "category": "NBA",
+      "date": "2026-11-25",
+      "headline": "デズモンド・ベイン、ピストンズ戦で21得点",
+      "excerpt": "オーランド・マジック(Orlando Magic)のデズモンド・ベイン(Desmond Bane)は現地時間11月24日、本拠地でのデトロイト・ピストンズ(Detroit Pistons)戦に34分出場し、3ポイント7本中4本を含むフィールドゴール13本中8本を沈めて21得点・5アシストを記録した。マジックは86-104でピストンズに敗れた。",
+      "points": [
+        "FG8/13・3P4/7・AST5の活躍",
+        "プラスマイナスは-20",
+        "マジックは本拠地で86-104の敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1153-desmond-bane-21-points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Desmond Bane"
+      ],
+      "question": "個人は好調でもチームが敗れた試合、どう見る？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DESMOND BANE",
+        "opponent": "vs. PISTONS",
+        "points": 21,
+        "stats": [
+          "5 AST",
+          "1 REB",
+          "8/13 FG",
+          "4/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1153-1.jpg",
+        "https://sixten.jp/assets/ig/1153-2.jpg",
+        "https://sixten.jp/assets/ig/1153-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-25T11:54:38+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デズモンド・ベイン、ピストンズ戦で21得点\n\n・FG8/13・3P4/7・AST5の活躍\n・プラスマイナスは-20\n・マジックは本拠地で86-104の敗戦\n\n💬 個人は好調でもチームが敗れた試合、どう見る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1153-desmond-bane-21-points-pistons.html",
+    cat: "NBA",
+    title: "デズモンド・ベイン、ピストンズ戦で21得点 —— マジックは86-104で敗戦",
+    excerpt: "オーランド・マジックのデズモンド・ベイン(Desmond Bane)は現地時間11月24日、本拠地でのデトロイト・ピストンズ(Detroit Pistons)戦に34分出場し、3ポイント7本中4本を含むフィールドゴール13本中8本を沈めて21得点・5アシストを記録した。マジックは86-104でピストンズに敗れた。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1152-isaiah-joe-21-points-magic.html",
+    cat: "NBA",
+    title: "アイザイア・ジョー、マジック戦で21得点 —— ピストンズが104-86で勝利",
+    excerpt: "デトロイト・ピストンズのアイザイア・ジョー(Isaiah Joe)は現地時間11月24日、敵地オーランドでのオーランド・マジック(Orlando Magic)戦に30分出場し、3ポイント11本中5本を含むフィールドゴール15本中8本を沈めて21得点を記録した。ピストンズは104-86でマジックに勝利した。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1151-jordan-6-rings-reflective.html",
     cat: "KICKS",
     title: "Jordan 6 Rings「Reflective」が再入荷 —— マイケル・ジョーダンの6度の優勝を1足に凝縮したモデル",
