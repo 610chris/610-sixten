@@ -1,8 +1,340 @@
 {
- "updated_utc": "2026-11-25 13:26 UTC",
+ "updated_utc": "2026-11-25 22:42 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/martin-looking-like-a-different-player-and-a-couple-mavericks-know-why",
+   "url": "https://www.nba.com/mavs/news/martin-looking-like-a-different-player-and-a-couple-mavericks-know-why",
+   "canonical_url": "https://mavs.com/mavs/news/martin-looking-like-a-different-player-and-a-couple-mavericks-know-why",
+   "title": "Martin looking like 'a different player' and a couple Mavericks know why",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-25T22:40:31Z",
+   "tags": [],
+   "summary": "PHOENIX – Either Caleb Martin is making up for lost time or he was really good at sandbagging everybody last season.",
+   "facts": [
+    "Ask any member of the basketball staff and they’ll say the same thing: Martin is a major reason why they are 11-7 and on a four-game winning streak.",
+    "Martin had a career-best five steals on Tuesday in the 120-101 win at Denver, when the Mavericks put the handcuffs on the Nuggets, one of the best offensive teams in the NBA.",
+    "After last year, when the losses piled up and he fought various injuries (back, heel, ankle and a nasty illness that caused an extended outage) and played only 58 games, this is a remarkable bounce-back season for Martin…",
+    "He’s averaging 6.6 points, but that’s not particularly important.",
+    "He’s also averaging 1.4 steals and hitting 52.2 percent of his three-pointers.",
+    "On the first two games of this trip, Martin has averaged 13 points, five rebounds, four assists and 4.5 steals.",
+    "Martin is averaging 22.5 minutes per game because he’s earned it.",
+    "It’s a big uptick from the 14.8 minutes he played in a limited role last year."
+   ],
+   "quotes": [
+    "We love him being out there doing whatever he wants on the defensive end. Obviously, he’s guarding the best guards every night. We need his energy and he creates a lot of fast breaks.",
+    "He’s looked obviously like a different player for us this year. I’m so happy for Caleb and the start to the year he’s had.",
+    "I want to match up with everybody’s best player,",
+    "That’s half the reason I feel like I’m in the league. I take pride in that and try to set the tone as best as I can and try to give those (opposing) guys as tough a time as I can."
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/roundball-roundup-kyle-filipowskis-breakout-defensive-identity",
+   "url": "https://www.nba.com/jazz/news/roundball-roundup-kyle-filipowskis-breakout-defensive-identity",
+   "canonical_url": "https://utahjazz.com/news/roundball-roundup-kyle-filipowskis-breakout-defensive-identity",
+   "title": "Roundball Roundup: Kyle Filipowski's Breakout + Defensive Identity",
+   "author": "JP Chunga",
+   "published_utc": "2026-11-25T22:23:27Z",
+   "tags": [
+    "podcast",
+    "Roundball Roundup",
+    "Utah Jazz Podcast Network"
+   ],
+   "summary": "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz’s defensive identity (3:25), Kyle Filipowski’s breakout against the Lakers (8:15), and what they’re thankful for in basketball (19:00).",
+   "facts": [
+    "UtahJazz.com’s JP Chunga and Eric Spyropoulos discussed the Jazz’s defensive identity (3:25), Kyle Filipowski’s breakout against the Lakers (8:15), and what they’re thankful for in basketball (19:00)."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-end-nba-cup-play-against-denver-nuggets",
+   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-end-nba-cup-play-against-denver-nuggets",
+   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-end-nba-cup-play-against-denver-nuggets",
+   "title": "Preview: Utah Jazz End NBA Cup Play Against Denver Nuggets",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-25T22:20:17Z",
+   "tags": [
+    "Utah Jazz"
+   ],
+   "summary": "After wrapping up a back-to-back set of games in Los Angeles Monday night, the Jazz are home for the week, with several days off from games to focus on recovery and practice time.",
+   "facts": [
+    "Utah fell 109-94 to the Lakers in a game in which the visitors couldn’t find a rhythm on the offensive end.",
+    "Despite holding Luka Dončić in check (28 points on 8-of-24 shooting) and the Lakers elite offense to under 110 points on 43-percent shooting from the field, the Jazz connected on just 6-of-32 (19 percent) from deep and t…",
+    "Denver (10-6) has righted the ship after an uneven start to the season, but is coming off a crucial 120-101 loss to the Dallas Mavericks on Tuesday night.",
+    "Of course, Denver continues to be led by the duo of Nikola Jokić (24.6 points, 10.9 rebounds, 8.9 assists per game) and Jamal Murray (25.8 points and 5.7 assists per contest).",
+    "Denver won all four meetings between the two teams last season and has won 10 in a row dating back to the 2023-24 campaign.",
+    "Utah ranks 27th in turnover percentage, 23rd in offensive rebound percentage, and 28th in opponent turnover percentage.",
+    "The one hallmark of Utah’s approach in the possession game has been the team’s elite defensive rebounding (69.7 percent, eighth-best in the league).",
+    "Denver ranks 10th in offensive rating, which is largely fueled by shot-making, avoiding turnovers, and getting to the free-throw line."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/clippers-vs-grizzlies-preview-2026-11-25",
+   "url": "https://www.nba.com/clippers/news/clippers-vs-grizzlies-preview-2026-11-25",
+   "canonical_url": "https://clippers.com/news/clippers-vs-grizzlies-preview-2026-11-25",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Grizzlies",
+   "author": "LAClippers",
+   "published_utc": "2026-11-25T21:55:54Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Brook Lopez",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Darius Garland",
+    "Game Previews",
+    "Injury Report"
+   ],
+   "summary": "Last Matchup: 03/07/2026 | LAC 123 - MEM 120 | K.Leonard: 28 PTS - T.Jerome: 23 PTSBrook Lopez has sunk a three-pointer in 12 straight games. That is the second-longest streak by a Center in Clippers history, trailing only a 28-game streak by Marreese Speights in 2016-17.The Clippers have registered 10 or more fast break points in 13 straight games against the Grizzlies. That is their longest acti…",
+   "facts": [
+    "MEMPHIS GRIZZLIES FIVE THINGS TO KNOW Last Matchup: 03/07/2026 | LAC 123 - MEM 120 | K.Leonard: 28 PTS - T.Jerome: 23 PTSBrook Lopez has sunk a three-pointer in 12 straight games.",
+    "That is the second-longest streak by a Center in Clippers history, trailing only a 28-game streak by Marreese Speights in 2016-17.The Clippers have registered 10 or more fast break points in 13 straight games against the…",
+    "That is their longest active streak against any single opponent.Los Angeles is one of five teams that has hit 10 or more three-pointers in all their games so far this season.",
+    "The 16 straight games to begin the season with 10 or more threes is the longest such streak in Clippers history.Including the last game at Houston, Darius Garland has led the Clippers in points and assists in four road g…",
+    "Only Luka Doncic (five) has led his team in both categories on the road more times in 2026-27.BONUS: Keaton Wagler is 31-of-35 (88.6%) from the free throw line in eight road games this season.",
+    "He is the second player in Clippers history to shoot at least 85.0% from the line on 30+ attempts through eight career road games, joining Danny Manning (30/35; 85.7%). 26-27 OPPONENT COMPARISON"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261127",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261127",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261127",
+   "title": "Game Preview: Warriors at Portland Trail Blazers (NBA Cup) - 11/27/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-25T21:32:09Z",
+   "tags": [],
+   "summary": "FINAL NBA CUP GROUP PLAY GAME IN PORTLAND ON FRIDAY The Warriors visit the Portland Trail Blazers for their final group-play game of the Emirates NBA Cup at the Moda Center on Friday. The Trail Blazers were one of the NBA’s most improved teams last season and added two dynamic guards — Damian Lillard and Ja Morant — to their backcourt. Lillard is a franchise legend, spending his first 11 seasons i…",
+   "facts": [
+    "Lillard is a franchise legend, spending his first 11 seasons in Portland, and is back after missing all of the 2025-26 season with a torn Achilles.",
+    "Morant has played four games since he was traded to the Blazers after seven seasons with the Memphis Grizzlies — he is currently nursing a left hamstring strain.",
+    "INJURY & ROSTER NOTES GSW: TBD.",
+    "Team Notes Check out the Betway Insider for NBA news, picks and opinions across the 2026-27 season.",
+    "COMPELLING NOTE: Warriors: The Warriors have advanced to the NBA Cup knockout stage once in franchise history, losing to the Houston Rockets in the quarterfinals in 2024.",
+    "Trail Blazers: Damian Lillard is one of nine active players who have scored at least 19,000 points with one franchise.",
+    "Lillard is in his 12th season playing for the Trail Blazers and has averaged at least 20 points in 11 of those years, including this season."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "feature",
+   "key": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-25-2026",
+   "url": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-25-2026",
+   "canonical_url": "https://knicks.com/news/knicks-vs-cavaliers-game-notes-november-25-2026",
+   "title": "Knicks vs Cavaliers Game Notes | November 25, 2026",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-11-25T17:55:17Z",
+   "tags": [
+    "Game Notes",
+    "Orlando Magic"
+   ],
+   "summary": "November 25, 2026 8:00 PM ET | Madison Square Garden (New York, NY) | Game 18; Home Game 10",
+   "facts": [
+    "November 25, 2026 8:00 PM ET | Madison Square Garden (New York, NY) | Game 18; Home Game 10 TV: MSG Networks | Radio: SiriusXM This Day in Knicks History November 25, 1946: The Knicks record first double-digit victory in…",
+    "Stan Stutz leads the way with 15 points (5-13 FG).",
+    "November 25, 2012: Knicks hit 17-33 (.515) from downtown en route to a 121-100 matinee win over the Pistons at the Garden.",
+    "Carmelo Anthony leads the way with 29 points while Steve Novak and Rasheed Wallace add 18 and 15 off the bench.",
+    "CLE: New York (11/11/26) – The Cleveland Cavaliers defeated the New York Knicks, 115-107.",
+    "Jalen Brunson led New York with 27 points on 52.2-percent shooting, five assists, three rebounds, one steal and one block.",
+    "Karl-Anthony Towns registered 21 points on 63.6-percent shooting, 11 rebounds, eight assists and one block.",
+    "Miles McBride came off the bench and added 19 points on 53.8-percent shooting, two rebounds, two assists and one steal."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hannes-steinbach-handles-business-in-historic-g-league-stint",
+   "url": "https://www.nba.com/hornets/news/hannes-steinbach-handles-business-in-historic-g-league-stint",
+   "canonical_url": "https://hornets.com/news/hannes-steinbach-handles-business-in-historic-g-league-stint",
+   "title": "Hannes Steinbach Handles Business In Historic G League Stint",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-25T17:05:17Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "With the Charlotte Hornets having a healthy frontcourt heading into their first long road trip of the season earlier this month, rookie center Hannes Steinbach stayed back to suit up for the Greensboro Swarm. Safe to say the 20-year-old German made the most of his recent G League outings, all of which featured eye-popping and even historic video-game-like statlines.",
+   "facts": [
+    "Safe to say the 20-year-old German made the most of his recent G League outings, all of which featured eye-popping and even historic video-game-like statlines.",
+    "Across his first four games with the Swarm, Steinbach, who rejoined the Hornets in Atlanta last Thursday evening, averaged a whopping 26.0 points on 64% shooting, 18.0 rebounds (7.0 offensive), 1.2 assists, 1.0 steal and…",
+    "Steinbach’s prodigious numbers made him the first player ever to record 55+ points and 35+ rebounds in his first two G League appearances, as well as the first to accumulate 75+ points and 50+ rebounds over his first thr…",
+    "The 21 boards that Steinbach pulled down in a 134-106 road win over Raptors 905 on Nov. 12 was also the second-highest single-game total in Swarm history, trailing only Isaih Moore’s 22-rebound haul against Mexico City o…",
+    "I think it was most important that we went 3-1.",
+    "So, to see him help the team, impact the team, to go 3-1 over that stretch there is what we’re most happy about.",
+    "Right now, Diabate and Kalkbrenner have the upper hand in terms of age and experience and have helped lead the Hornets to top 2 league rankings in all three rebounding categories, while allowing the sixth-fewest points i…",
+    "One of the most intriguing takeaways from Steinbach’s time in Greensboro was him knocking down 3-of-5 3-point attempts (he made 18-of-53 for 34% at the University of Washington last season), which indicates he could poss…"
+   ],
+   "quotes": [
+    "I think it’s better (going to the G League) than not playing at all,",
+    "It was good to play for sure. Just trying to do what the coaches tell me to do, get the reps on the floor and execute what I’ve been told to do. Just trying to take it that way. I think it was most im…",
+    "Really happy with the stint Hannes had,",
+    "Just being able to do a little bit more than I would be able to do (in Charlotte),"
+   ]
+  },
+  {
+   "source": "OKC 公式（nba.com）",
+   "team": "OKC",
+   "team_ja": "サンダー",
+   "team_id": 1610612760,
+   "kind": "feature",
+   "key": "https://www.nba.com/thunder/news/oge-safety-partner-261125",
+   "url": "https://www.nba.com/thunder/news/oge-safety-partner-261125",
+   "canonical_url": "https://okcthunder.com/news/oge-safety-partner-261125",
+   "title": "Thunder, OG&E Honor Moore Police Officer",
+   "author": "okcthunder",
+   "published_utc": "2026-11-25T16:00:00Z",
+   "tags": [],
+   "summary": "OKLAHOMA CITY, Wednesday, Nov. 25, 2026 – The Oklahoma City Thunder and OG&E are recognizing Detective David Grant of the Moore Police Department as the November OG&E Safety Partner Award recipient from noon to 1 p.m., Monday, Nov. 30, at the Moore Police Department, 117 E. Main St. This event is free and open to the public.",
+   "facts": [
+    "OKLAHOMA CITY, Wednesday, Nov. 25, 2026 – The Oklahoma City Thunder and OG&E are recognizing Detective David Grant of the Moore Police Department as the November OG&E Safety Partner Award recipient from noon to 1 p.m., M…",
+    "A recognition ceremony to present Grant with his award will follow, along with remarks from the Thunder and OG&E, and will conclude with a check presentation of $1,500 to the department, donated by OG&E.",
+    "Kings game, Wednesday, Dec. 16."
+   ],
+   "quotes": [
+    "We’re honored to recognize Detective David Grant of the Moore Police Department as this month’s Safety Partner. Grant is the kind of officer every community hopes for: dependable, selfless and always …",
+    "When his community faced one of its hardest moments, David was the first on the scene, acting quickly to protect lives without hesitation. That kind of courage and commitment is what being a Safety Pa…"
+   ]
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-bailey-and-darryn-petersons-roles-bench-production-defensive-success-and-more",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-bailey-and-darryn-petersons-roles-bench-production-defensive-success-and-more",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-mailbag-ace-bailey-and-darryn-petersons-roles-bench-production-defensive-success-and-more",
+   "title": "Utah Jazz Mailbag: Ace Bailey and Darryn Peterson’s Roles, Bench Production, Defensive Success, And More",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-25T15:10:30Z",
+   "tags": [
+    "Ace Bailey",
+    "Brice Sensabaugh",
+    "Darryn Peterson",
+    "Josh Okogie",
+    "Kyle Filipowski",
+    "Mo Bamba",
+    "Svi Mykhailiuk",
+    "Utah Jazz"
+   ],
+   "summary": "The 2026-27 NBA season is reaching full swing as the first quarter of games nears completion.",
+   "facts": [
+    "The 2026-27 NBA season is reaching full swing as the first quarter of games nears completion.",
+    "The Utah Jazz have played 19 games ahead of a brief break during the week of Thanksgiving, with the team’s upcoming schedule providing more opportunities for recovery and practice.",
+    "Utah will only play six times between Nov. 24 and Dec. 12, allowing the team to review film, get out on the practice floor, and enjoy more recovery time.",
+    "During the first 19 games, the Jazz have had to face several forms of adversity.",
+    "Utah’s first 19 games represented the league’s toughest strength of schedule, with three games each against the San Antonio Spurs and Los Angeles Lakers and two against both the Memphis Grizzlies and Dallas Mavericks.",
+    "Following Monday’s game against the Lakers, the Jazz have played 15 teams that are currently above .500 in the standings, representing a tough stretch that the young and shorthanded squad has had to navigate.",
+    "We’ve had a lot of injuries early.",
+    "It’s no secret that injuries have forced the Jazz to adjust nearly every aspect of the team’s plan from the beginning of the season."
+   ],
+   "quotes": [
+    "We can’t control circumstances. We’ve had a lot of injuries early. Teams go through pockets where things don’t go their way, ours happens to be at the beginning. If you watch the games and how the guy…",
+    "You want to impact the game even when you don’t shoot well,",
+    "That’s what the really good players are capable of night to night. They’re not just depending on jump shots. We need people to impact the game in a variety of ways.",
+    "All three of them have been in a wide variety of roles,"
+   ]
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/short-handed-pistons-lean-on-their-defense-and-each-other-to-win-cup-game-in-orlando",
+   "url": "https://www.nba.com/pistons/news/short-handed-pistons-lean-on-their-defense-and-each-other-to-win-cup-game-in-orlando",
+   "canonical_url": "https://pistons.com/news/short-handed-pistons-lean-on-their-defense-and-each-other-to-win-cup-game-in-orlando",
+   "title": "Short-handed Pistons lean on their defense, and each other, to win Cup game in Orlando",
+   "author": "Pistons.com",
+   "published_utc": "2026-11-25T14:05:44Z",
+   "tags": [
+    "Detroit Pistons",
+    "game recap",
+    "recap"
+   ],
+   "summary": "ORLANDO – Shortly before tip-off on Tuesday, the Pistons learned they would play without Cade Cunningham. By the end of the night, they had learned something about themselves too.",
+   "facts": [
+    "Detroit beat the Magic 104-86 in an NBA Cup game at Kia Center and improved to 11-6.",
+    "Detroit missed all six of its 3-point attempts in the first quarter.",
+    "Orlando led 22-16 after one and went up seven early in the second.",
+    "Orlando turned the ball over 11 times in the period.",
+    "Joe's fast-break layup with 7:39 left in the half gave the Pistons a lead they never gave back.",
+    "Detroit closed the half on a 28-9 run and went into the break up 48-36.",
+    "Jenkins scored 11 of his 15 points in the quarter.",
+    "Thompson had a cutting dunk and a putback, John Collins hit a 3-pointer in transition, and Kevin Huerter scored seven straight points."
+   ],
+   "quotes": [
+    "We say the word 'grit' a lot, but it is grit,",
+    "A game like this, [when] you are down three starters, [when] Cade (Cunningham) is out of the starting lineup at the last minute, to come on the road like this for a Cup game and pull out a win like th…",
+    "On a night where we were down some offense, obviously, we knew we were going to have to hang our hat on the defensive end of the floor,",
+    "We knew it was going to be a greedy, physical game, but I thought our guys did a great job."
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-pistons-20261125",
+   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-pistons-20261125",
+   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-vs-pistons-20261125",
+   "title": "Magic Four-Point Play: Follow-Up vs. Pistons",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-25T13:51:39Z",
+   "tags": [
+    "Featured News",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "Detroit’s Defense Limited Orlando’s Offensive Attack",
+   "facts": [
+    "In fact, opponents are shooting a league-low 34.5 percent off kickouts against them, per tracking data.",
+    "The Magic, on the other hand, take the most shots off kickouts per 100 possessions.",
+    "It shot just 29.4 percent from long distance off kickouts and 33 percent in general from beyond the arc.",
+    "Magic Struggling to Get to the Free Throw Line In their 15 games playing without Paolo Banchero this season, the Magic are averaging just 19.9 free throw attempts per contest, third fewest since Banchero got hurt.",
+    "It was the first time they were held to single digit attempts from the stripe since April 9, 2025 against Boston and it was just the sixth time it’s happened this decade.",
+    "They are averaging a league-low 11.1 shot attempts within three feet of the basket and 2.7 shots from that distance in transition, third fewest.",
+    "Bane is currently shooting 43.2 percent from 3-point range on a career-most 9.7 attempts per contest, while da Silva is at 40.5 percent on a career-most 8.1 attempts."
+   ],
+   "quotes": []
+  },
   {
    "source": "PHI 公式（nba.com）",
    "team": "PHI",
@@ -16,9 +348,9 @@
    "author": "Matt Murphy",
    "published_utc": "2026-11-25T12:02:22Z",
    "tags": [],
-   "summary": "In a rare 5 p.m. EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised Emirates NBA Cup tripleheader on Thanksgiving Eve. The Heat enter with an NBA-best seven-game winning streak.",
+   "summary": "In a rare 5 p.m. EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised NBA Cup tripleheader on Thanksgiving Eve. The Heat enter with an NBA-best seven-game winning streak.",
    "facts": [
-    "EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised Emirates NBA Cup tripleheader on Thanksgiving Eve.",
+    "EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised NBA Cup tripleheader on Thanksgiving Eve.",
     "Miami leads East Group B with a 2-0 Cup record, while Philadelphia is 1-1 after a win over New York and a loss to Cleveland.",
     "The Sixers had their five-game winning streak snapped Monday in a 128-111 loss to the Portland Trail Blazers while playing without Joel Embiid (illness).",
     "Portland tied a season high with 19 3-pointers, compared to nine by Philadelphia.",
@@ -41,7 +373,13 @@
    "title": "Gafford, Mavericks quiet Jokic in commendable fashion",
    "author": "Eddie Sefko",
    "published_utc": "2026-11-25T08:11:18Z",
-   "tags": [],
+   "tags": [
+    "dallas mavericks",
+    "Daniel Gafford",
+    "kyrie irving",
+    "nba",
+    "PJ Washington"
+   ],
    "summary": "DENVER – Playing the Denver Nuggets Tuesday was “just another game” for Mavericks’ center Daniel Gafford, NBA Cup implications notwithstanding.",
    "facts": [
     "In the three games before Tuesday, Jokic and Murray had combined for 167 points, 55.7 per game.",
@@ -101,7 +439,13 @@
    "title": "Mavericks clamp down on Nuggets for fourth consecutive win",
    "author": "Eddie Sefko",
    "published_utc": "2026-11-25T05:34:15Z",
-   "tags": [],
+   "tags": [
+    "Caleb Martin",
+    "Cooper Flagg",
+    "dallas mavericks",
+    "kyrie irving",
+    "nba"
+   ],
    "summary": "DENVER – Something had to give when two red-hot teams met Tuesday night at Ball Arena.",
    "facts": [
     "With a wide array of strong contributions, the Mavericks leaned on their defense to shut down one of the NBA’s best offensive teams and score a pivotal 120-101 victory over the Denver Nuggets.",
@@ -367,6 +711,29 @@
     "Strawther has not played this season due to a knee injury he sustained during the preseason.",
     "TUNE-IN: Tuesday, November 24, 8:00 p.m.",
     "MT; Altitude TV and NBC; Altitude+ and Peacock; Altitude Sports Radio 92.5 FM"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/preview-clenyk-261125",
+   "url": "https://www.nba.com/cavaliers/news/preview-clenyk-261125",
+   "canonical_url": "https://cavs.com/news/preview-clenyk-261125",
+   "title": "Cavs at Knicks | Rocket Game Preview",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-24T17:06:10Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "While other teams around the NBA finish up group play on Friday, the Cavs fourth game is tonight against the New York Knicks. Cleveland is in the first Wild Card spot, but need a win to improve their chances of advancing when the dust settles later in the week. CLICK HERE FOR FULL SCENARIOS & STANDINGS.",
+   "facts": [
+    "Chicago made 44 shots on the night and went 20-49 from three with the Cavs making just eight triples.",
+    "Donovan Mitchell had 28 with James Harden scoring 21; Peyton Watson recorded a career-high-tying six blocks.",
+    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Evan Mobley - Toe - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignment) - OUT -Zack Austin - G-League (two-way) - OUT -Ernest Udeh Jr. -…"
    ],
    "quotes": []
   },
@@ -1887,121 +2254,6 @@
     "Suns Game Time, TV Channel, Radio & Location 📅 Game Time: Monday, Nov. 23 at 7:00 pm CT🏟️ Location: Smoothie King Center in New Orleans, LA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Pelicans TV: Gulf Coast Spo…"
    ],
    "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261122",
-   "url": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261122",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-washington-wizards-game-preview-injury-report-20261122",
-   "title": "Orlando Magic at Washington Wizards: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-11-22T18:01:16Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Over the course of their last six games, the Orlando Magic are one of the hottest teams in the NBA.",
-   "facts": [
-    "The Magic (7-8) look to keep that momentum rolling when they visit the Washington Wizards (6-11) on Sunday at 7 p.m.",
-    "Franz Wagner capped off a sensational showing by knocking down a game-winning jumper with 2.4 seconds remaining to give the Magic a 113-111 victory.",
-    "Over the last six games, the Magic have the association’s sixth-best net rating (7.6), ranking both top 10 in offense and defense.",
-    "The Wizards are one of the best units in the NBA at guarding the 3-point line, holding opposing teams to 33.2 percent shooting from beyond the arc.",
-    "Even though they surrender the second-most points in the paint (52.8) per game in the league, they are a threat to reject shots at the rim.",
-    "Washington blocks 5.6 shots per outing, tied for the sixth most in the association.",
-    "Per Sportradar, among qualifying squads, Washington is the only team with four players averaging at least one swat per contest: Alex Sarr (1.3), Kyshawn George (1.2), Anthony Davis (1.1) and Bilal Coulibaly (1.1).",
-    "For Washington, Reece Beekman (right AC joint sprain / separation), Justin Champagnie (right foot surgery), Tristan Vukcevic (left hip impingement) and Jamir Watkins (left ACL repair / surgery) are out."
-   ],
-   "quotes": [
-    "Us playing on a string, communicating, and also listening,",
-    "That’s going to be a big thing for us tonight.",
-    "The biggest thing for us is to make sure we keep doing a great job in some of these areas where we’ve been improving upon,",
-    "Understanding that it’s hard to win on the road, it’s hard to win period in this league. So, when you get a win like that, where you have to gut it out, you’ve got to take that and understand that it …"
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-play-bulls-on-sunday",
-   "url": "https://www.nba.com/nuggets/news/nuggets-play-bulls-on-sunday",
-   "canonical_url": "https://nuggets.com/news/nuggets-play-bulls-on-sunday",
-   "title": "Nuggets play Bulls on Sunday",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-22T17:18:14Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets play the Chicago Bulls on Sunday.",
-   "facts": [
-    "INJURY REPORT Denver: DaRon Holmes II — OUT (G League Assignment) Bryce Hopkins — OUT (G League Assignment) Julian Strawther — OUT (Left Knee Sprain) Cam Whitmore — OUT (G League Two-Way Assignment) Chicago: Tobe Awaka —…",
-    "First, Denver pulled off an impressive 17-point comeback against the Boston Celtics on Wednesday.",
-    "The Celtics are currently the second-best team in the Eastern Conference at 11-5, and the Nuggets earned a big win behind 18 points from reserve guard DeMar DeRozan, who got to the free-throw line four separate times in …",
-    "The Nuggets were even better on Friday when they defeated the Houston Rockets, 133-124.",
-    "Pristine execution played a big role in the result, as the Nuggets shot 54.7 percent from the field, 43.3 percent from three-point range, and 92.9 percent from the free-throw line.",
-    "They also had seven different players record 10 or more points on the same night.",
-    "Those wins brought Denver's overall record to 9-5.",
-    "Chicago, meanwhile, is just 4-11 this season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHI 公式（nba.com）",
-   "team": "CHI",
-   "team_ja": "ブルズ",
-   "team_id": 1610612741,
-   "kind": "injury",
-   "key": "https://www.nba.com/bulls/news/norman-powell-medical-update",
-   "url": "https://www.nba.com/bulls/news/norman-powell-medical-update",
-   "canonical_url": "https://bulls.com/news/norman-powell-medical-update",
-   "title": "NORMAN POWELL MEDICAL UPDATE",
-   "author": "Bulls.com",
-   "published_utc": "2026-11-22T15:13:10Z",
-   "tags": [
-    "Medical Update"
-   ],
-   "summary": "Chicago Bulls guard Norman Powell sustained a mild right hamstring strain during Friday night’s game versus the Washington Wizards.",
-   "facts": [
-    "Chicago Bulls guard Norman Powell sustained a mild right hamstring strain during Friday night’s game versus the Washington Wizards.",
-    "Powell will be re-evaluated later this week."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-jazz-preview-heres-hoping-this-trip-is-better-than-the-last-one",
-   "url": "https://www.nba.com/mavs/news/mavericks-jazz-preview-heres-hoping-this-trip-is-better-than-the-last-one",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-jazz-preview-heres-hoping-this-trip-is-better-than-the-last-one",
-   "title": "Mavericks-Jazz preview: Here's hoping this trip is better than the last one",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-22T14:28:40Z",
-   "tags": [],
-   "summary": "SALT LAKE CITY – OK, let’s try this again.",
-   "facts": [
-    "The Mavericks took off for a three-game trip 10 days ago and it did not go well.",
-    "They dropped all three games by a combined 86 points.",
-    "But they returned home to go 2-0 on a quick home stand and now, they head out for another three-game trip, this time with holiday cheer.",
-    "Remember, the Mavericks were the only team to lose to Sacramento until Saturday night when Boston lost on the road to the 2-14 Kings.",
-    "The guard knocked down three of four three-pointers in the 110-100 win over the Los Angeles Clippers on Saturday.",
-    "He was a 40.4 percent shooter last season.",
-    "On Saturday against the Clippers, they were 13-of-33 (39.3 percent).",
-    "Against the Golden State Warriors in the previous game, they were 17-of-41 (41.5 percent)."
-   ],
-   "quotes": [
-    "Water Tends to find its level,"
-   ]
   }
  ]
 }
