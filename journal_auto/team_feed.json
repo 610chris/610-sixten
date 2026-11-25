@@ -1,8 +1,113 @@
 {
- "updated_utc": "2026-11-24 19:03 UTC",
+ "updated_utc": "2026-11-25 03:08 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/turnovers-poor-shooting-trouble-orlando-magic-in-nba-cup-loss-to-detroit-pistons-20261124",
+   "url": "https://www.nba.com/magic/news/turnovers-poor-shooting-trouble-orlando-magic-in-nba-cup-loss-to-detroit-pistons-20261124",
+   "canonical_url": "https://orlandomagic.com/news/turnovers-poor-shooting-trouble-orlando-magic-in-nba-cup-loss-to-detroit-pistons-20261124",
+   "title": "Turnovers, Poor Shooting Trouble Orlando Magic in NBA Cup Loss to Detroit Pistons",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-25T02:51:16Z",
+   "tags": [
+    "Game Recap",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO - Last season, the Orlando Magic went into Detroit in late November in an NBA Cup group play game and pulled out a thrilling win to clinch a spot in the quarterfinals.",
+   "facts": [
+    "This season, with a chance to do the same on their home floor, the Magic were unable to come through against the same opponent in Tuesday’s 104-86 defeat.",
+    "The Magic committed 20 of them.",
+    "It was the fourth time this season they had 20-plus.",
+    "They also were unable to draw many fouls, going 6-of-8 from the free throw line.",
+    "The last time Orlando took fewer than 10 foul shots was on April 9, 2025 against Boston and it was just the sixth time it has happened this decade.",
+    "The Magic didn’t shoot it particularly well from the floor, either, making just 41 percent of their field goal attempts overall and 33 percent of their threes.",
+    "Joe, acquired by Detroit in the offseason from Oklahoma City, scored 21 points and Jenkins had 15 points and 10 assists.",
+    "Desmond Bane led Orlando with 21 points, while Franz Wagner recorded 20 points, nine rebounds and six assists and Tristan da Silva scored 16."
+   ],
+   "quotes": [
+    "We have to and will be better,",
+    "A night like tonight not ideal certainly. We understand how important home is and how great our fans are. So, we have to do a better job protecting it."
+   ]
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/detroit-pistons-honor-shocks-2006-title-build-momentum-for-tom-gores-led-wnba-return",
+   "url": "https://www.nba.com/pistons/news/detroit-pistons-honor-shocks-2006-title-build-momentum-for-tom-gores-led-wnba-return",
+   "canonical_url": "https://pistons.com/news/detroit-pistons-honor-shocks-2006-title-build-momentum-for-tom-gores-led-wnba-return",
+   "title": "Detroit Pistons honor Shock's 2006 title, build momentum for Tom Gores-led WNBA return",
+   "author": "Grace Reyes",
+   "published_utc": "2026-11-24T19:18:35Z",
+   "tags": [
+    "2004 Championship",
+    "detroit basketball",
+    "Tom Gores"
+   ],
+   "summary": "For Alissa Graff, the celebration of the Detroit Shock’s 2006 WNBA championship at Little Caesars Arena was about more than honoring the past. It was also about the future of women's sports in Detroit.",
+   "facts": [
+    "For Alissa Graff, the celebration of the Detroit Shock’s 2006 WNBA championship at Little Caesars Arena was about more than honoring the past.",
+    "Pistons owner Tom Gores, his wife, Holly, and a group of prominent investors led the successful effort to bring the WNBA back to Detroit, which will end a 20-year absence of professional women’s basketball in a city wher…",
+    "The return carries special meaning for fans like Graff, who grew up attending Shock games and now plans to open a sports bar dedicated to women's sports in Detroit's West Village neighborhood.",
+    "The city recently approved key elements of a proposed team headquarters and publicly accessible sports center on a 42-acre site on the city’s riverfront.",
+    "According to NBA figures released in October, more than 90 million unique viewers watched WNBA games across national networks during the 2026 regular season, while a league-record 51 telecasts averaged at least one milli…",
+    "Former Shock star and Flint native Deanna Nolan, the 2006 Finals MVP, said the timing is right to join the party.",
+    "They were greeted by fans wearing Shock jerseys and other WNBA merchandise during the Pistons’ game on Nov. 20 vs. the Toronto Raptors.",
+    "Each former player received a commemorative 20th anniversary jacket."
+   ],
+   "quotes": [
+    "Today is a really good acknowledgement of the history and I think we, as fans who care so deeply about the team, see that and we see the support for the team and hope that continues when the WNBA retu…",
+    "It started when I was a kid going to Shock games. I was probably 6 years old when I went to my first game, and I grew up going to as many games as we could until the team moved,",
+    "I looked up to those women as role models and they showed me that I could play sports and do whatever I wanted to do, just like the boys could. That gave me confidence, and I think that's what I tappe…",
+    "It's the only way to do it. The WNBA is not a million-dollar business. You have to have a billion-dollar mentality. You have to have a vision. You have to have passion,"
+   ]
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
+   "url": "https://www.nba.com/magic/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
+   "title": "Orlando Magic vs. Detroit Pistons: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-24T19:08:24Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO – There is no shortage of storylines for the next game on the Orlando Magic’s docket.",
+   "facts": [
+    "Whether it’s the potential for Orlando to advance in the NBA Cup, revenge against the team that erased a 3-1 first-round series deficit to eliminate the Magic in the 2026 playoffs, or just looking to rebound after a toug…",
+    "The Magic (7-9) will attempt to achieve all three of those goals by earning a home win over the Detroit Pistons (10-6) on Tuesday at 7 p.m.",
+    "Detroit possesses the league’s fifth-best defensive rating (109.2), is second in blocks (5.8) and fifth in steals (9.3) per game.",
+    "The No. 1 overall pick in the 2021 NBA Draft is averaging 24.2 points, 5.1 rebounds and 8.3 assists per matchup this season.",
+    "After scoring just five points in 33 minutes of action against the Hawks on Sunday, the two-time All-Star will certainly be searching for a bounce-back performance.",
+    "IN AND OUT: Paolo Banchero (illness / right high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery) and Noah Penda (right partially torn hamstring) are out for Orland…",
+    "For Detroit, Cunningham (right knee soreness) is probable, while Jalen Duren (right hamstring strain), Ebuka Okorie (left oblique strain), Taurean Prince (right knee arthroscopy) and Duncan Robinson (left quadriceps stra…",
+    "KEY STATS: Through 15 games, Bane is averaging 9.9 3-point attempts per game and 14.1 per 100 possessions."
+   ],
+   "quotes": [
+    "To be honest, we feel a sense to respond just based on the way our season is going,",
+    "We’re coming off a bad loss. So, we know we have to respond. Obviously, we’re playing the team that knocked us out (of the playoffs). It’s a cup game. There’s a chance to win the prize money, advance …",
+    "You’re playing for something during the season. I don’t think you can take these games lightly. It’s a good measuring stick early in the season. We’ve played some good teams already, but anytime you g…",
+    "I'd like for us to show the competitiveness that we’ve been showing here,"
+   ]
+  },
   {
    "source": "DEN 公式（nba.com）",
    "team": "DEN",
@@ -1842,99 +1947,6 @@
    "quotes": [
     "A lot of that was tough to guard,"
    ]
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-trail-blazers-game-notes-november-21-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-trail-blazers-game-notes-november-21-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-trail-blazers-game-notes-november-21-2026",
-   "title": "Knicks vs Trail Blazers Game Notes | November 21, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-11-22T00:21:02Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "November 21, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 16; Home Game 8",
-   "facts": [
-    "November 21, 2026 7:30 PM ET | Madison Square Garden (New York, NY) | Game 16; Home Game 8 TV: MSG Networks | Radio: SiriusXM This Day in Knicks History November 21, 1944: Earl Monroe, whose number 15 hangs from The Gard…",
-    "November 21, 1961: Richie Guerin scores 47 points (19-31 FG) and records seven rebounds and six assists in 109-107 loss to Chicago at Madison Square Garden.",
-    "POR: New York (1/30/26) – The New York Knicks defeated the Portland Trail Blazers, 127-97.",
-    "Karl-Anthony Towns led New York with 14 points, 20 rebounds, three assists and one block.",
-    "OG Anunoby recorded 24 points on 62.5-percent shooting, six rebounds, three assists and one block.",
-    "Jalen Brunson scored 26 points, three assists, two steals and one rebound.",
-    "Shaedon Sharpe led Portland with 26 points on 62.5-percent shooting, three rebounds, three assists and one steal.",
-    "Sidy Cissoko had 15 points on 100.0-percent shooting, two rebounds, two assists, one steal and one block off the bench."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "LAC 公式（nba.com）",
-   "team": "LAC",
-   "team_ja": "クリッパーズ",
-   "team_id": 1610612746,
-   "kind": "feature",
-   "key": "https://www.nba.com/clippers/news/clippers-vs-mavericks-preview-2026-11-21",
-   "url": "https://www.nba.com/clippers/news/clippers-vs-mavericks-preview-2026-11-21",
-   "canonical_url": "https://clippers.com/news/clippers-vs-mavericks-preview-2026-11-21",
-   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Mavericks",
-   "author": "LAClippers",
-   "published_utc": "2026-11-21T21:25:00Z",
-   "tags": [
-    "2026-27 Season",
-    "Broadcast Information",
-    "Brook Lopez",
-    "Clippers Basketball",
-    "Clippers Matchup",
-    "Cooper Flagg",
-    "Dallas Mavericks",
-    "Darius Garland"
-   ],
-   "summary": "Last Matchup: 04/07/2026 | LAC 116 - DAL 103 | K.Leonard: 34 PTS - C.Flagg: 25 PTSOver his last two games, Brook Lopez became the fifth player in NBA history to have 4+ made threes and a steal in consecutive games at age 38 or older. He joins Steph Curry, LeBron James, Chris Paul and Jamal Crawford. Saturday’s game will be the 45th meeting (regular season + playoffs) between the Clippers and Maver…",
-   "facts": [
-    "DALLAS MAVERICKS FIVE THINGS TO KNOW Last Matchup: 04/07/2026 | LAC 116 - DAL 103 | K.Leonard: 34 PTS - C.Flagg: 25 PTSOver his last two games, Brook Lopez became the fifth player in NBA history to have 4+ made threes an…",
-    "Saturday’s game will be the 45th meeting (regular season + playoffs) between the Clippers and Mavericks since the beginning of the 2019-20 season.",
-    "The only other matchup featuring non-division opponents to have 40+ games in that time is Celtics vs.",
-    "Last season in road games against Dallas, the Clippers won 133-127 in double overtime and 138-131 in overtime.",
-    "Darius Garland’s last visit to Dallas was a 41-point, 11-assist effort back in March.",
-    "His 41 points is tied for the most ever by a Clippers player against the Mavs with James Harden, who also did it last season at Dallas (November 14).",
-    "BONUS: Los Angeles has shot 30.0% or better from three-point range in all 14 games to begin this season.",
-    "The Clippers are the only NBA team that has yet to shoot under 30.0% from three in a game in 2026-27. 26-27 OPPONENT COMPARISON"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "feature",
-   "key": "https://www.nba.com/jazz/news/preview-utah-jazz-host-dallas-mavericks",
-   "url": "https://www.nba.com/jazz/news/preview-utah-jazz-host-dallas-mavericks",
-   "canonical_url": "https://utahjazz.com/news/preview-utah-jazz-host-dallas-mavericks",
-   "title": "Preview: Utah Jazz Host Dallas Mavericks",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-21T21:20:36Z",
-   "tags": [
-    "Darryn Peterson",
-    "Utah Jazz"
-   ],
-   "summary": "After the Utah Jazz enjoyed a sweep of a back-to-back set of games in Los Angeles earlier in the week, a return to the familiar confines of the Delta Center didn’t help sustain the team’s momentum.",
-   "facts": [
-    "After the Utah Jazz enjoyed a sweep of a back-to-back set of games in Los Angeles earlier in the week, a return to the familiar confines of the Delta Center didn’t help sustain the team’s momentum.",
-    "In a Friday night NBA Cup matchup against the Phoenix Suns, Utah struggled to make shots (10-of-39 from three and 21-of-34 from the free-throw line) and lost the possession battle in a 111-101 defeat.",
-    "Darryn Peterson nearly reached his first career triple-double (20 points, 10 rebounds, and eight assists), but the Jazz struggled to defend in transition and couldn’t find a flow on the offensive end.",
-    "Dallas has had an up-and-down start to the 2026-27 season, enjoying multiple three-game winning streaks yet still hovering around the .500 mark.",
-    "The Mavericks are led by the dynamic one-two punch of Cooper Flagg (24.2 points, 6.4 assists per game) and Kyrie Irving (22.2 points, 4.4 assists per game).",
-    "Dusty May’s squad is still looking to form a clear identity, with Dallas ranking 17th in both offensive and defensive rating as of Saturday morning.",
-    "Dallas won the first meeting between the two teams 112-100 back on Nov. 6.",
-    "Jazz injury report: OUT - Jonas Aidoo (G League - Two-Way), Kobe Bufkin (G League - Two-Way), Harrison Ingram (G League - Two-Way), Jaren Jackson (Right Knee; MCL Tear), Lauri Markkanen (Right Hand; Fracture), Jusuf Nurk…"
-   ],
-   "quotes": []
   }
  ]
 }
