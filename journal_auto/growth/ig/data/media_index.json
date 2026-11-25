@@ -4853,6 +4853,29 @@
   "template": "score",
   "timestamp": "2026-11-19T03:08:48+0000"
  },
+ "17998382211025278": {
+  "article": "1152",
+  "auto": true,
+  "caption_len": 323,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "アイザイア・ジョー、マジック戦で21得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgJgqDsM9Lh/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Isaiah Joe"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-25T02:58:10+0000"
+ },
  "17998860173822976": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -5428,6 +5451,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-31T15:45:19+0000"
+ },
+ "18024217946948678": {
+  "article": "1143",
+  "auto": true,
+  "caption_len": 464,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ギルジャス＝アレクサンダー「逆境も楽しい」—— サンダーは主力3人欠き3連敗",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgIBS_vgoBo/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「SGA embraces adversity as injuries derail Thunder's season」",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-24T13:05:07+0000"
  },
  "18024343226955276": {
   "article": "1122",
@@ -15300,6 +15346,29 @@
   "product": "REELS",
   "timestamp": "2022-04-12T04:37:54+0000"
  },
+ "18237391108323047": {
+  "article": "1149",
+  "auto": true,
+  "caption_len": 391,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "カワイ・レナード、個別練習を開始",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgJNmIwClYs/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Kawhi Leonard's return from knee swelling still at least week away」",
+  "subject": [
+   "Kawhi Leonard"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-25T00:11:46+0000"
+ },
  "18247256785065198": {
   "auto": false,
   "caption_len": 168,
@@ -15850,6 +15919,29 @@
   ],
   "template": "score",
   "timestamp": "2026-11-20T03:44:17+0000"
+ },
+ "18378325132209169": {
+  "article": "1148",
+  "auto": true,
+  "caption_len": 429,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デューレン、Gリーグでリハビリ試合へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgJMQiXE7K_/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Jalen Duren to begin rehab assignment in next step to return from injury」",
+  "subject": [
+   "Jalen Duren"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-25T00:00:06+0000"
  },
  "18381128626240818": {
   "article": "899",
@@ -17009,6 +17101,19 @@
   ],
   "template": "news",
   "timestamp": "2026-10-31T00:02:41+0000"
+ },
+ "18652852975008730": {
+  "auto": false,
+  "caption_len": 108,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "八村塁が名前を挙げた“一番のポイントガード”と、",
+  "permalink": "https://www.instagram.com/reel/DgIDw5oj0vm/",
+  "product": "REELS",
+  "timestamp": "2026-11-24T13:26:56+0000"
  },
  "18654028246022157": {
   "article": "957",
