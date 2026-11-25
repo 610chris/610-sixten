@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1155-cooper-flagg-24-points-nuggets.html",
+    cat: "NBA",
+    title: "クーパー・フラッグ、ナゲッツ戦で24得点12アシスト —— マーベリックスが120-101で快勝",
+    excerpt: "ダラス・マーベリックス(Dallas Mavericks)のクーパー・フラッグ(Cooper Flagg)は現地時間11月24日、敵地デンバーでのデンバー・ナゲッツ(Denver Nuggets)戦に31分出場し、フィールドゴール17本中8本を沈めて24得点・アシスト12・リバウンド6を記録した。両チーム通じてこの日の試合最多得点者となり、マーベリックスは120-101でナゲッツに快勝した。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1154-jayson-tatum-41-points-wizards.html",
     cat: "NBA",
     title: "ジェイソン・テイタム、ウィザーズ戦で41得点 —— セルティックスが131-116で快勝",
