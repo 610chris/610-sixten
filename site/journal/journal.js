@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1168-sga-32-points-timberwolves.html",
+    cat: "NBA",
+    title: "シェイ・ギルジャス＝アレクサンダー、ティンバーウルブズ戦で32得点 —— サンダーは106-113で敗戦",
+    excerpt: "オクラホマシティ・サンダー(Oklahoma City Thunder)のシェイ・ギルジャス＝アレクサンダー(Shai Gilgeous-Alexander)は現地時間11月25日、敵地ミネアポリスでのティンバーウルブズ(Minnesota Timberwolves)戦に37分出場し、フィールドゴール26本中13本を沈めて32得点を記録した。両チーム通じてこの日の試合最多得点者(同点)となったが、サンダーは106-113でティンバーウルブズに敗れた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1167-jaden-mcdaniels-32-points-thunder.html",
+    cat: "NBA",
+    title: "ジェイデン・マクダニエルズ、サンダー戦で32得点 —— ティンバーウルブズは113-106で勝利",
+    excerpt: "ミネソタ・ティンバーウルブズ(Minnesota Timberwolves)のジェイデン・マクダニエルズ(Jaden McDaniels)は現地時間11月25日、敵地オクラホマシティでのサンダー(Oklahoma City Thunder)戦に37分出場し、フィールドゴール15本中11本・3ポイント5本中4本を沈めて32得点を記録した。両チーム通じてこの日の試合最多得点者(同点)となり、ティンバーウルブズは113-106でサンダーに勝利した。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1166-donovan-mitchell-30-points-knicks.html",
     cat: "NBA",
     title: "ドノバン・ミッチェル、ニックス戦で30得点 —— キャバリアーズは102-121で敗戦",
