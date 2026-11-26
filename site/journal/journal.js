@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1177-wembanyama-44-points-blazers.html",
+    cat: "NBA",
+    title: "ビクター・ウェンバンヤマ、トレイルブレイザーズ戦で44得点16リバウンド —— スパーズは111-116で敗戦",
+    excerpt: "サンアントニオ・スパーズ(San Antonio Spurs)のビクター・ウェンバンヤマ(Victor Wembanyama)は現地時間11月25日、敵地ポートランドでのポートランド・トレイルブレイザーズ(Portland Trail Blazers)戦に35分出場し、フィールドゴール30本中17本・3ポイント9本中3本を沈めて44得点を記録した。両チーム通じてこの日の試合最多得点者となったが、スパーズは111-116でトレイルブレイザーズに敗れた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1176-nba-docomo-gleague-kawamura.html",
+    cat: "JAPAN",
+    title: "「NBA docomo」でGリーグ配信スタート —— 河村勇輝のサンディエゴ・クリッパーズ戦、2027年3月まで全44試合",
+    excerpt: "NTTドコモが提供する映像配信サービス「NBA docomo」は26日、NBA Gリーグ2026-27シーズンの配信を11月7日から開始したと発表した。河村勇輝選手が所属するサンディエゴ・クリッパーズの試合を中心に、2027年3月まで全44試合をライブ配信する。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
     href: "1175-domantas-sabonis-27points-warriors.html",
     cat: "NBA",
     title: "ドマンタス・サボニス、ウォリアーズ戦で27得点 —— キングスは110-129で敗戦",
