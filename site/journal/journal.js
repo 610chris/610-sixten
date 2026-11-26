@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1174-kevin-durant-33000-points-rockets.html",
+    cat: "NBA",
+    title: "ケビン・デュラント、NBA史上5人目の通算33,000得点 —— ロケッツがサンズに116-104で勝利",
+    excerpt: "ヒューストン・ロケッツのケビン・デュラント(Kevin Durant)は現地時間11月25日、本拠地でのフィニックス・サンズ戦の第2クォーターに3ポイントシュートを沈め、NBA史上5人目となる通算33,000得点に到達した。デュラントはこの試合20得点・リバウンド10を記録し、ロケッツは116-104でサンズを下した。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1173-devin-booker-25points-rockets.html",
     cat: "NBA",
     title: "デビン・ブッカー、ロケッツ戦で25得点 —— サンズは104-116で敗戦",
