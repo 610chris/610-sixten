@@ -3,6 +3,38 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1172-jaylen-wells-19points-clippers.html",
+    cat: "NBA",
+    title: "ジェイレン・ウェルズ、クリッパーズ戦で19得点 —— グリズリーズが115-97で快勝",
+    excerpt: "メンフィス・グリズリーズ(Memphis Grizzlies)のジェイレン・ウェルズ(Jaylen Wells)は現地時間11月25日、本拠地メンフィスでのLAクリッパーズ(LA Clippers)戦に27分出場し、フィールドゴール12本中8本・3ポイント4本中3本を沈めて19得点を記録した。両チーム通じてこの日の試合最多得点者となり、グリズリーズは115-97でクリッパーズに快勝した。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1171-tyler-herro-28points-nets.html",
+    cat: "NBA",
+    title: "タイラー・ヒーロー、ネッツ戦で28得点 —— バックスは97-104で敗戦",
+    excerpt: "ミルウォーキー・バックス(Milwaukee Bucks)のタイラー・ヒーロー(Tyler Herro)は現地時間11月25日、本拠地ミルウォーキーでのブルックリン・ネッツ(Brooklyn Nets)戦に37分出場し、フィールドゴール20本中10本・3ポイント9本中3本を沈めて28得点を記録した。ジュリアス・ランドル(Julius Randle)と並んで両チーム通じてこの日の試合最多得点者(同点)となったが、バックスは97-104でネッツに敗れた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
+    href: "1170-julius-randle-28points-bucks.html",
+    cat: "NBA",
+    title: "ジュリアス・ランドル、バックス戦で28得点 —— ネッツが104-97で勝利",
+    excerpt: "ブルックリン・ネッツ(Brooklyn Nets)のジュリアス・ランドル(Julius Randle)は現地時間11月25日、敵地ミルウォーキーでのミルウォーキー・バックス(Milwaukee Bucks)戦に39分出場し、フィールドゴール16本中10本・フリースロー8本中6本を沈めて28得点を記録した。タイラー・ヒーロー(Tyler Herro)と並んで両チーム通じてこの日の試合最多得点者(同点)となり、ネッツは104-97でバックスに勝利した。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1169-rui-hachimura-14points-grizzlies.html",
+    cat: "NBA",
+    title: "八村塁、グリズリーズ戦で14得点12リバウンド5アシスト —— クリッパーズは97-115で敗戦",
+    excerpt: "LAクリッパーズ(LA Clippers)の八村塁(Rui Hachimura)は現地時間11月25日、敵地メンフィスでのメンフィス・グリズリーズ(Memphis Grizzlies)戦に37分出場し、フィールドゴール13本中5本・3ポイント5本中1本・フリースロー5本中3本を沈めて14得点に加え、リバウンド12・アシスト5を記録した。クリッパーズは97-115でグリズリーズに敗れた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1168-sga-32-points-timberwolves.html",
     cat: "NBA",
     title: "シェイ・ギルジャス＝アレクサンダー、ティンバーウルブズ戦で32得点 —— サンダーは106-113で敗戦",
