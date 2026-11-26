@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T11:55:58+09:00",
+  "updated": "2026-11-26T12:07:33+09:00",
   "items": [
     {
       "id": "134",
@@ -38247,6 +38247,88 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブランドン・ミラー、ブルズ戦で35得点\n\n・FG13/25・3P4/9・FT5/5で35得点\n・スティール3つも、アシスト1・TO4\n・ホーネッツは105-107で惜敗\n\n💬 ミラーの35得点、正直どう見た？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Charlotte Hornets vs. Chicago Bulls)\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1165",
+      "slug": "1165-nba-europe-arena-initiative",
+      "category": "NBA",
+      "date": "2026-11-26",
+      "headline": "NBA、欧州リーグに向け総額約110億ドルのアリーナ構想を発表",
+      "excerpt": "NBAは現地時間11月25日、FIBAと共同で来秋始動を目指す欧州の新リーグに向け、アリーナの新設・改修に少なくとも100億ユーロ(約110億ドル)規模の資金を投じる構想を発表した。Apollo Sports CapitalやBlackstoneなど複数の投資会社が支援する。ESPNが伝えた。",
+      "points": [
+        "FIBAと共同で来秋始動の新リーグ向け",
+        "少なくとも100億ユーロ規模の資金計画",
+        "対象国にウェンバンヤマらの母国も"
+      ],
+      "source": "ESPN「NBA reveals $11B initiative for arena development in Europe」",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1165-nba-europe-arena-initiative.html",
+      "hero_path": "",
+      "subject": [
+        "Adam Silver"
+      ],
+      "question": "NBAの欧州進出、楽しみ？それとも時期尚早？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": null,
+      "images": [
+        "https://sixten.jp/assets/ig/1165-1.jpg",
+        "https://sixten.jp/assets/ig/1165-2.jpg",
+        "https://sixten.jp/assets/ig/1165-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-26T12:07:06+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "NBA、欧州リーグに向け総額約110億ドルのアリーナ構想を発表\n\n・FIBAと共同で来秋始動の新リーグ向け\n・少なくとも100億ユーロ規模の資金計画\n・対象国にウェンバンヤマらの母国も\n\n💬 NBAの欧州進出、楽しみ？それとも時期尚早？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「NBA reveals $11B initiative for arena development in Europe」\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1166",
+      "slug": "1166-donovan-mitchell-30-points-knicks",
+      "category": "NBA",
+      "date": "2026-11-26",
+      "headline": "ドノバン・ミッチェル、ニックス戦で30得点",
+      "excerpt": "クリーブランド・キャバリアーズ(Cleveland Cavaliers)のドノバン・ミッチェル(Donovan Mitchell)は現地時間11月25日、敵地ニューヨークでのニックス(New York Knicks)戦に34分出場し、フィールドゴール24本中12本・スティール4を記録して30得点を挙げた。両チーム通じてこの日の試合最多得点者となったが、キャバリアーズは102-121でニックスに敗れた。",
+      "points": [
+        "FG24本中12本で30得点",
+        "スティール4・ブロック2",
+        "キャバリアーズは102-121で敗戦"
+      ],
+      "source": "ESPN ボックススコア(Cavaliers vs. Knicks・2026年11月25日)",
+      "photo_credit": "イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1166-donovan-mitchell-30-points-knicks.html",
+      "hero_path": "",
+      "subject": [
+        "Donovan Mitchell"
+      ],
+      "question": "ミッチェルの30点、もっと勝ちにつながる使い方あった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DONOVAN MITCHELL",
+        "opponent": "vs. KNICKS",
+        "points": 30,
+        "stats": [
+          "4 REB",
+          "4 AST",
+          "4 STL",
+          "2 BLK",
+          "12/24 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1166-1.jpg",
+        "https://sixten.jp/assets/ig/1166-2.jpg",
+        "https://sixten.jp/assets/ig/1166-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-26T12:07:11+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドノバン・ミッチェル、ニックス戦で30得点\n\n・FG24本中12本で30得点\n・スティール4・ブロック2\n・キャバリアーズは102-121で敗戦\n\n💬 ミッチェルの30点、もっと勝ちにつながる使い方あった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Cavaliers vs. Knicks・2026年11月25日)\n写真: イメージ(本文とは直接関係ありません)。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

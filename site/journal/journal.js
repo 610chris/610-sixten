@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1166-donovan-mitchell-30-points-knicks.html",
+    cat: "NBA",
+    title: "ドノバン・ミッチェル、ニックス戦で30得点 —— キャバリアーズは102-121で敗戦",
+    excerpt: "クリーブランド・キャバリアーズ(Cleveland Cavaliers)のドノバン・ミッチェル(Donovan Mitchell)は現地時間11月25日、敵地ニューヨークでのニックス(New York Knicks)戦に34分出場し、フィールドゴール24本中12本・スティール4を記録して30得点を挙げた。両チーム通じてこの日の試合最多得点者となったが、キャバリアーズは102-121でニックスに敗れた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
+    href: "1165-nba-europe-arena-initiative.html",
+    cat: "NBA",
+    title: "NBA、欧州リーグに向け総額約110億ドルのアリーナ開発構想を発表 —— ウェンバンヤマら欧州出身スターの母国にも候補地",
+    excerpt: "NBAは現地時間11月25日、FIBAと共同で来秋始動を目指す欧州の新リーグに向け、アリーナの新設・改修に少なくとも100億ユーロ(約110億ドル)規模の資金を投じる構想を発表した。Apollo Sports CapitalやBlackstoneなど複数の投資会社が支援する。ESPNが伝えた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1164-brandon-miller-35-points-bulls.html",
     cat: "NBA",
     title: "ブランドン・ミラー、ブルズ戦で35得点 —— ホーネッツは105-107で惜敗",
