@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T14:10:27+09:00",
+  "updated": "2026-11-26T14:32:43+09:00",
   "items": [
     {
       "id": "134",
@@ -38688,6 +38688,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "デュラント、NBA史上5人目の通算33,000得点\n\n・第2Q残り46.3秒、3Pで到達\n・レブロン・カリーム・マローン・コービーに続く5人目\n・ロケッツはサンズに116-104で勝利\n\n💬 この5人、あなたのオールタイムスコアラーTOP5に入る？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN「Kevin Durant reaches 33,000 points as Rockets beat Suns」(AP)\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1175",
+      "slug": "1175-domantas-sabonis-27points-warriors",
+      "category": "NBA",
+      "date": "2026-11-26",
+      "headline": "サボニス、ウォリアーズ戦で27得点10リバウンド6アシスト",
+      "excerpt": "サクラメント・キングス(Sacramento Kings)のドマンタス・サボニス(Domantas Sabonis)は現地時間11月25日、敵地サンフランシスコでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に37分出場し、フィールドゴール9本中8本・3ポイント1本中1本・フリースロー12本中10本を沈めて27得点を記録した。両チーム通じてこの日の試合最多得点者となったが、キングスは110-129でウォリアーズに敗れた。",
+      "points": [
+        "キングスは110-129で敗戦",
+        "サボニスはFG9本中8本・FT12本中10本の高確率で加点",
+        "ウォリアーズはメルトンが3P8本など7人が二桁得点"
+      ],
+      "source": "ESPN ボックススコア(Kings vs. Warriors・2026年11月25日)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1175-domantas-sabonis-27points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Domantas Sabonis"
+      ],
+      "question": "サボニスのこのダブルダブル、満足できる内容だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DOMANTAS SABONIS",
+        "opponent": "vs. WARRIORS",
+        "points": 27,
+        "stats": [
+          "10 REB",
+          "6 AST",
+          "8/9 FG",
+          "10/12 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1175-1.jpg",
+        "https://sixten.jp/assets/ig/1175-2.jpg",
+        "https://sixten.jp/assets/ig/1175-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-26T14:32:21+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "サボニス、ウォリアーズ戦で27得点10リバウンド6アシスト\n\n・キングスは110-129で敗戦\n・サボニスはFG9本中8本・FT12本中10本の高確率で加点\n・ウォリアーズはメルトンが3P8本など7人が二桁得点\n\n💬 サボニスのこのダブルダブル、満足できる内容だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Kings vs. Warriors・2026年11月25日)\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }

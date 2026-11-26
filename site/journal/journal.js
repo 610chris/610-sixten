@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1175-domantas-sabonis-27points-warriors.html",
+    cat: "NBA",
+    title: "ドマンタス・サボニス、ウォリアーズ戦で27得点 —— キングスは110-129で敗戦",
+    excerpt: "サクラメント・キングス(Sacramento Kings)のドマンタス・サボニス(Domantas Sabonis)は現地時間11月25日、敵地サンフランシスコでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に37分出場し、フィールドゴール9本中8本・3ポイント1本中1本・フリースロー12本中10本を沈めて27得点を記録した。両チーム通じてこの日の試合最多得点者となったが、キングスは110-129でウォリアーズに敗れた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1174-kevin-durant-33000-points-rockets.html",
     cat: "NBA",
     title: "ケビン・デュラント、NBA史上5人目の通算33,000得点 —— ロケッツがサンズに116-104で勝利",
