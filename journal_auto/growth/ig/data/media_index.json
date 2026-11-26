@@ -61,6 +61,29 @@
   "template": "score",
   "timestamp": "2026-11-18T08:00:47+0000"
  },
+ "17869524369680726": {
+  "article": "1174",
+  "auto": true,
+  "caption_len": 381,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "デュラント、NBA史上5人目の通算33,000得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMVDCoCj1E/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Kevin Durant reaches 33,000 points as Rockets beat Suns」(AP)",
+  "subject": [
+   "Kevin Durant"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-26T05:14:35+0000"
+ },
  "17870468520679668": {
   "article": "1133",
   "auto": true,
@@ -3247,6 +3270,29 @@
   "product": "REELS",
   "timestamp": "2022-10-27T02:48:34+0000"
  },
+ "17952786828362506": {
+  "article": "1158",
+  "auto": true,
+  "caption_len": 394,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ポーター・ジュニア、マジックと2年契約へ",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgLovTWvPUn/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「Agent: Kevin Porter Jr. finalizing 2-year deal with Magic」",
+  "subject": [
+   "Kevin Porter Jr."
+  ],
+  "template": "news",
+  "timestamp": "2026-11-25T22:47:26+0000"
+ },
  "17953635957264153": {
   "arms": {
    "ig-2026-10-follow-cta": "A",
@@ -4069,6 +4115,29 @@
   "permalink": "https://www.instagram.com/reel/CkJXUc-JP1D/",
   "product": "REELS",
   "timestamp": "2022-10-25T18:12:48+0000"
+ },
+ "17974472022187134": {
+  "article": "1170",
+  "auto": true,
+  "caption_len": 368,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジュリアス・ランドル、バックス戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMKhWPsP-N/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Nets vs. Bucks・2026年11月25日)",
+  "subject": [
+   "Julius Randle"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T03:42:37+0000"
  },
  "17974611576168934": {
   "article": "1136",
@@ -6161,6 +6230,29 @@
   "template": "score",
   "timestamp": "2026-10-22T01:59:21+0000"
  },
+ "18049694492823944": {
+  "article": "1161",
+  "auto": true,
+  "caption_len": 255,
+  "caption_lines": 13,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 8,
+  "headline": "ジェイレン・ブラウン、ヒート戦で左ハムストリング再発",
+  "n_points": 3,
+  "no_question": true,
+  "permalink": "https://www.instagram.com/reel/DgL4eSsOYeI/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN",
+  "subject": [
+   "Jaylen Brown"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-26T01:04:46+0000"
+ },
  "18050731220819600": {
   "article": "1027",
   "auto": true,
@@ -7128,6 +7220,19 @@
   ],
   "template": "score",
   "timestamp": "2026-10-15T03:00:38+0000"
+ },
+ "18083916092735875": {
+  "auto": false,
+  "caption_len": 101,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "渡米直前の佐藤凪に、",
+  "permalink": "https://www.instagram.com/reel/DgKg8sTB6PO/",
+  "product": "REELS",
+  "timestamp": "2026-11-25T12:20:26+0000"
  },
  "18084365222343488": {
   "article": "1005",
@@ -8502,6 +8607,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-01T13:48:59+0000"
+ },
+ "18104239490454878": {
+  "article": "1168",
+  "auto": true,
+  "caption_len": 346,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ギルジャス＝アレクサンダー、32得点もサンダー敗戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMI_tHBu7p/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア(Thunder vs. Timberwolves・2026年11月25日)",
+  "subject": [
+   "Shai Gilgeous-Alexander"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T03:29:07+0000"
  },
  "18104413922626998": {
   "article": "341",
@@ -10060,6 +10188,29 @@
   "subject": [],
   "template": "news",
   "timestamp": "2026-10-01T20:06:03+0000"
+ },
+ "18115061807152519": {
+  "article": "1155",
+  "auto": true,
+  "caption_len": 319,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "クーパー・フラッグ、ナゲッツ戦で24得点12アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgJz60rqv9r/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Cooper Flagg"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-25T05:46:26+0000"
  },
  "18115429301138558": {
   "arms": {
@@ -11769,6 +11920,29 @@
   "template": "score",
   "timestamp": "2026-11-20T03:52:30+0000"
  },
+ "18126352729943728": {
+  "article": "1156",
+  "auto": true,
+  "caption_len": 358,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "スパーズが首位継続、ドンチッチは「キャリア最高の守備」",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgKqPl8u1EE/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN「NBA Power Rankings」",
+  "subject": [
+   "Luka Doncic|Victor Wembanyama"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-25T13:41:17+0000"
+ },
  "18126545977850874": {
   "article": "275",
   "auto": true,
@@ -12057,6 +12231,29 @@
   ],
   "template": "news",
   "timestamp": "2026-10-07T14:56:16+0000"
+ },
+ "18128788112019768": {
+  "article": "1171",
+  "auto": true,
+  "caption_len": 360,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "タイラー・ヒーロー、ネッツ戦で28得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMKz9ss7n3/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Nets vs. Bucks・2026年11月25日)",
+  "subject": [
+   "Tyler Herro"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T03:45:08+0000"
  },
  "18128865808838888": {
   "arms": {
@@ -12429,6 +12626,27 @@
   ],
   "template": "news",
   "timestamp": "2026-10-27T16:23:20+0000"
+ },
+ "18132084502863197": {
+  "article": "1163",
+  "auto": true,
+  "caption_len": 302,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "キングスU18、クラブ初の決勝進出で過去最高の準優勝",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgL4-ndzpGL/",
+  "product": "REELS",
+  "route": "source",
+  "source": "沖縄バスケットボール株式会社（PR TIMES）",
+  "subject": [],
+  "template": "news",
+  "timestamp": "2026-11-26T01:09:19+0000"
  },
  "18132134434690332": {
   "arms": {
@@ -12880,6 +13098,29 @@
   ],
   "template": "news",
   "timestamp": "2026-11-09T14:06:35+0000"
+ },
+ "18136226377685565": {
+  "article": "1172",
+  "auto": true,
+  "caption_len": 375,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ジェイレン・ウェルズ、クリッパーズ戦で19得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMLHgvs8xX/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Grizzlies vs. Clippers・2026年11月25日)",
+  "subject": [
+   "Jaylen Wells"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T03:47:49+0000"
  },
  "18136386205660384": {
   "arms": {
@@ -14665,6 +14906,29 @@
   "template": "score",
   "timestamp": "2026-11-17T03:10:36+0000"
  },
+ "18189755533421199": {
+  "article": "1157",
+  "auto": true,
+  "caption_len": 366,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウルブズ、エドワーズ不在でも13勝5敗の好調",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgKqgmXSY3z/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN「LaMelo Ball and the 'collective' carrying Minnesota」",
+  "subject": [
+   "LaMelo Ball|Ayo Dosunmu"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-25T13:43:39+0000"
+ },
  "18190379230420571": {
   "article": "1132",
   "auto": true,
@@ -15381,6 +15645,29 @@
   "permalink": "https://www.instagram.com/reel/CUMIk7iAnx_/",
   "product": "REELS",
   "timestamp": "2021-09-24T03:39:33+0000"
+ },
+ "18250952878311255": {
+  "article": "1162",
+  "auto": true,
+  "caption_len": 293,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ヤニス・アデトクンボ、76ers戦で32得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgL4usssnjY/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN",
+  "subject": [
+   "Giannis Antetokounmpo"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T01:06:59+0000"
  },
  "18271329391067790": {
   "auto": false,
@@ -16762,6 +17049,29 @@
   "template": "score",
   "timestamp": "2026-10-27T01:59:28+0000"
  },
+ "18484184263116748": {
+  "article": "1169",
+  "auto": true,
+  "caption_len": 384,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "八村塁、グリズリーズ戦で14得点12リバウンド5アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMKQUAPBPb/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Grizzlies vs. Clippers・2026年11月25日)",
+  "subject": [
+   "Rui Hachimura"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T03:40:18+0000"
+ },
  "18493389409129000": {
   "article": "911",
   "auto": true,
@@ -16855,6 +17165,29 @@
   ],
   "template": "news",
   "timestamp": "2026-09-29T21:20:52+0000"
+ },
+ "18617528566071046": {
+  "article": "1164",
+  "auto": true,
+  "caption_len": 338,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ブランドン・ミラー、ブルズ戦で35得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMFpwwg8Rv/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Charlotte Hornets vs. Chicago Bulls)",
+  "subject": [
+   "Brandon Miller"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T03:00:04+0000"
  },
  "18628360186034719": {
   "article": "324",
