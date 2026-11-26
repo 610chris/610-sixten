@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1178-bleague-draft-2027-lottery.html",
+    cat: "JAPAN",
+    title: "「B.LEAGUE DRAFT 2027 LOTTERY」27日にライブ配信 —— 指名順を決める抽選会、佐々木クリスがMC",
+    excerpt: "スポーツナビは、11月27日に実施される「B.LEAGUE DRAFT 2027 LOTTERY」をライブ配信する。2027年1月28日開催の「B.LEAGUE DRAFT 2027」で各クラブが何番目に指名権を得るかを決める抽選会で、B.LEAGUE公認アナリスト佐々木クリス氏とB.LEAGUE常務理事の増田匡彦氏が出演する。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1177-wembanyama-44-points-blazers.html",
     cat: "NBA",
     title: "ビクター・ウェンバンヤマ、トレイルブレイザーズ戦で44得点16リバウンド —— スパーズは111-116で敗戦",
