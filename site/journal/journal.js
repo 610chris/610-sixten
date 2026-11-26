@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1180-asics-nova-surge-4.html",
+    cat: "KICKS",
+    title: "アシックス「NOVA SURGE 4」12月3日発売 —— 渡邊雄太が着用、バスケ専用フォーム「FF BLAST MAX」を初搭載",
+    excerpt: "アシックスジャパンは、バスケットボールシューズ「NOVA SURGE」シリーズ第4世代「NOVA SURGE 4」を12月3日から発売する。価格は19,800円(税込)で、アシックスと契約するプロバスケットボール選手の渡邊雄太が着用予定。ミッドソールにはバスケットボールシューズとして初めてフォーム材「FF BLAST MAX」を採用した。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-1180-hero.jpg?v=140ee3d3fe"
+  },
+  {
     href: "1179-adidas-superstar-sq-atmos.html",
     cat: "KICKS",
     title: "adidas Originals「Superstar SQ」atmosコラボが12月5日発売 —— バスケ由来の定番にブリティッシュの着こなし",
