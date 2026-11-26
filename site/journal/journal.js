@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1179-adidas-superstar-sq-atmos.html",
+    cat: "KICKS",
+    title: "adidas Originals「Superstar SQ」atmosコラボが12月5日発売 —— バスケ由来の定番にブリティッシュの着こなし",
+    excerpt: "atmosは、adidas Originalsの定番バスケットボールシューズ「Superstar」をベースにしたコラボモデル「SUPERSTAR SQ W ATMOS」を2026年12月5日に発売する。あわせてリバーシブルのトラックジャケットも登場し、11月26日から予約受付が始まった。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1178-bleague-draft-2027-lottery.html",
     cat: "JAPAN",
     title: "「B.LEAGUE DRAFT 2027 LOTTERY」27日にライブ配信 —— 指名順を決める抽選会、佐々木クリスがMC",
