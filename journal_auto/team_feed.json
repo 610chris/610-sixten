@@ -1,8 +1,136 @@
 {
- "updated_utc": "2026-11-26 05:24 UTC",
+ "updated_utc": "2026-11-26 15:42 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-serve-thanksgiving-breakfast-at-coalition-for-the-homeless-for-34th-year-20261126",
+   "url": "https://www.nba.com/magic/news/orlando-magic-serve-thanksgiving-breakfast-at-coalition-for-the-homeless-for-34th-year-20261126",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-serve-thanksgiving-breakfast-at-coalition-for-the-homeless-for-34th-year-20261126",
+   "title": "Orlando Magic Serve Thanksgiving Breakfast at Coalition for the Homeless for 34th Year",
+   "author": "Josh Cohen",
+   "published_utc": "2026-11-26T15:05:16Z",
+   "tags": [
+    "CommunityNews",
+    "Josh Cohen",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "ORLANDO - The Orlando Magic have been on the road a lot to start their 2026-27 season. They’ve already played 10 games away from home and have another three-game trip coming up, as they will fly out Friday with stops in Washington, D.C., Detroit, and Dallas.",
+   "facts": [
+    "ORLANDO - The Orlando Magic have been on the road a lot to start their 2026-27 season.",
+    "They’ve already played 10 games away from home and have another three-game trip coming up, as they will fly out Friday with stops in Washington, D.C., Detroit, and Dallas.",
+    "But fortunately, the schedule kept them home on Thanksgiving, which meant new head coach Sean Sweeney could join other members of the Magic organization in serving their annual Thanksgiving breakfast to the nearly 500 me…",
+    "Even though they’ve now held this event 34 times in their team’s history, it still carries momentous meaning to those who volunteer from the Magic, which this year included Managing Director Ryan DeVos, his wife Michelle…",
+    "Smith Neighborhood Center families each a $500 Publix gift card to take them on a Thanksgiving shopping spree to assist them for the upcoming holiday.",
+    "Publix added an additional $100 to each gift card for the families to have $600 total to spend and Pepsi donated Frito-Lay snacks and Gatorade Zero beverages to all of the families at the J.R.",
+    "On Monday, Wendell Carter Jr. and his A Platform2 Foundation hosted a Thanksgiving event to honor veterans and their families from the Veterans Affairs facility in Lake Nona.",
+    "The Coalition for the Homeless of Central Florida is the largest provider of homeless services in Central Florida, helping individuals and families return to stable and permanent housing as quickly as possible."
+   ],
+   "quotes": [
+    "Amazing organizationally for our staff to come out here, support the community, kick off not only Thanksgiving but the holiday season the right away, which is giving back to the community, helping tho…",
+    "I think it helps center yourself on the reason, ultimately, for the (holiday) season,",
+    "In a world that has become more digital and consumer focused, it forces you to take a step back and really take a priority check on what's truly important — it's family, it’s your loved ones, it’s hel…",
+    "I think it’s very important,"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "feature",
+   "key": "https://www.nba.com/sixers/news/lebron-dusts-off-the-cape-for-his-signature-sixers-moment",
+   "url": "https://www.nba.com/sixers/news/lebron-dusts-off-the-cape-for-his-signature-sixers-moment",
+   "canonical_url": "https://sixers.com/news/lebron-dusts-off-the-cape-for-his-signature-sixers-moment",
+   "title": "LeBron ‘Dusts Off the Cape’ for His Signature Sixers Moment",
+   "author": "Owen Boyle",
+   "published_utc": "2026-11-26T10:10:11Z",
+   "tags": [
+    "LeBron James"
+   ],
+   "summary": "With just over five minutes left in the second quarter, LeBron James motioned to the bench for a substitution. Nick Nurse obliged, but what happened next came with the territory of having “The King” on your team. As James walked to the bench, the crowd rose to its feet. It’s not often a mid-second-quarter substitution receives a standing ovation, but when one of the greatest players of all time go…",
+   "facts": [
+    "It’s not often a mid-second-quarter substitution receives a standing ovation, but when one of the greatest players of all time goes on an individual 14-3 run, how could you not?",
+    "Before Wednesday’s NBA Cup game against the Miami Heat, the 41-year-old had scored 21 or more points in three consecutive games, including a season-high 23 in the Sixers’ most recent outing, a loss to the Portland Trail …",
+    "James’ confident shooting was on full display on Thanksgiving Eve in a 111-104 victory over the Heat.",
+    "From 9:53 to 6:40 of the second quarter, James went on his own 14-3 run to give the Sixers an eight-point lead.",
+    "The forward scored the first bucket of the run to trim the Heat lead to 36-35 before capping it with a 2-point basket to put the Sixers up 47-39.",
+    "James would then show off his range, making three consecutive 3-pointers.",
+    "The first came from the left wing, where James took a few dribbles between his legs, sized up Myron Gardner and drained a 3 over the defender.",
+    "This shot had an expected field-goal percentage of just 22.8%."
+   ],
+   "quotes": [
+    "I just play the game as it unfolds,",
+    "I had a couple of opportunities and I was able to connect on them. I kind of know when my hand is feeling good, especially from the outside, so we’ll see how long I can keep it going.",
+    "The most impressive part was the deep threes,",
+    "A couple of those were really deep, so that was most impressive to me."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/chris-paul-finished-second-in-mvp-leading-new-orleans-to-its-best-season-25-on-the-court",
+   "url": "https://www.nba.com/pelicans/news/chris-paul-finished-second-in-mvp-leading-new-orleans-to-its-best-season-25-on-the-court",
+   "canonical_url": "https://pelicans.com/news/chris-paul-finished-second-in-mvp-leading-new-orleans-to-its-best-season-25-on-the-court",
+   "title": "Chris Paul finished second in MVP, leading New Orleans to its best season | 25 On the Court",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-26T09:00:00Z",
+   "tags": [],
+   "summary": "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+   "facts": [
+    "Each Thursday throughout the 2026-27 regular season, Pelicans.com will look back at a notable player from each of the 25 campaigns since New Orleans returned to the NBA a quarter-century ago.",
+    "A team that thrilled and captivated a city and region was spearheaded by a 6-foot, 175-pound point guard who became an unstoppable force of nature in his third NBA season, nearly winning the league’s Most Valuable Player…",
+    "By averaging 21.1 points and league-highs in both assists (11.6) and steals (2.7), Chris Paul authored what remains the greatest individual season in New Orleans franchise history.",
+    "A season after going 39-43, New Orleans stunned the league by zooming to a 56-26 record and finishing atop the Southwest Division, in the club’s full-time return to the Crescent City following Hurricane Katrina (the Horn…",
+    "Those 56 victories resulted in a No. 2 playoff seed in the Western Conference.",
+    "Paul and the Hornets then ousted Dallas and Dirk Nowitzki 4-1 in the first round, before a heartbreaking Game 7 defeat to San Antonio and the Spurs’ legendary trio of Tim Duncan, Tony Parker and Manu Ginobili.",
+    "Season overview (in 25 words or less) The full-time return to New Orleans was a memorable, triumphant success, featuring the best record in team history and the franchise’s lone division title.",
+    "NBA time capsule Boston’s “Big Three” of Kevin Garnett, Paul Pierce and Ray Allen led the Celtics to their first championship since the 1980s. … Kevin Durant won Rookie of the Year in 2007-08 with the Seattle SuperSonics…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261125",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261125",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261125",
+   "title": "De'Anthony Melton's Season-High Eight 3-Pointers Leads Warriors to NBA Cup Victory Over Kings",
+   "author": "Tyler Savitsky",
+   "published_utc": "2026-11-26T05:30:25Z",
+   "tags": [
+    "NBA Cup"
+   ],
+   "summary": "The Golden State Warriors defeated the Sacramento Kings 129-110 at Chase Center on Wednesday night in the team's third NBA Cup Group Play game. De'Anthony Melton scored a team-high 24 points, while Gui Santos recorded a season-high 22 points off the bench.",
+   "facts": [
+    "The Golden State Warriors defeated the Sacramento Kings 129-110 at Chase Center on Wednesday night in the team's third NBA Cup Group Play game.",
+    "De'Anthony Melton scored a team-high 24 points, while Gui Santos recorded a season-high 22 points off the bench.",
+    "Golden State had a season-high-tying 37 assists in the victory to go along with 20 made 3-pointers.",
+    "Draymond Green led the Dubs with 11 assists, while rookie Yaxel Lendeborg recorded a team-high eight rebounds to go along with 15 points and three steals.",
+    "The Dubs led by as many as 25 points in the quarter, and finished the first frame scoring 44 points, their highest scoring quarter of the season.",
+    "Santos (12 PTS) and Melton (12 PTS) combined for 24 points in the quarter, and the Warriors defense held the Kings to 0/9 from 3-point range in the frame.",
+    "Six of his seven triples came in the first half and his first four 3-pointers off the night came off a combined zero dribbles.",
+    "Santos finished the game with 22 points, three rebounds, two steals and an assist."
+   ],
+   "quotes": [
+    "I think we’ve been growing offensively since the trip,",
+    "We’ve tweaked a few things, and that lineup change obviously changes some things as well. Dray’s (Draymond Green’s) always been a great passer and a point forward guy. I just feel like he’s in a great…",
+    "Two really good practices in a row,",
+    "Building rhythm, getting better with our recognition of what we’re trying to do offensively. We were due. It’s been a tough five-, six-game stretch shooting the ball. It’s just a matter of time with t…"
+   ]
+  },
   {
    "source": "DAL 公式（nba.com）",
    "team": "DAL",
@@ -16,10 +144,10 @@
    "author": "Eddie Sefko",
    "published_utc": "2026-11-26T04:03:39Z",
    "tags": [],
-   "summary": "PHOENIX – For the second time in franchise history, the Mavericks are headed to the knockout rounds of the NBA Cup tournament.",
+   "summary": "PHOENIX – The Mavericks are headed to the knockout rounds of the NBA Cup for the second time in tournament's four-year existence.",
    "facts": [
-    "Denver has Tuesday’s loss to the Mavericks, who are 3-0 in the in-season tournament and have the tiebreaker over Denver by virtue of their blowout win on Tuesday.",
-    "So no matter what happens in Phoenix Friday, the Mavericks will play in the quarterfinals of the Cup, either Dec. 4 or 5.",
+    "Denver has Tuesday’s blowout loss to the Mavericks, who are 3-0 in the in-season tournament and have the tiebreaker over Denver.",
+    "So no matter what happens in Phoenix Friday, the Mavericks will play in the quarterfinals of the Cup, either Dec. 4 or 5 against an opponent to be detemined.",
     "The semifinals, if the Mavericks reach them, are Dec. 8 and 9.",
     "The Mavericks also made the knockout round in 2024, losing to Oklahoma City in the quarterfinals.",
     "Quite a bit, actually, for players who are not on superstar contracts.",
@@ -92,6 +220,40 @@
     "So far this year, they are shooting a league-low 26.5 percent on them."
    ],
    "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "feature",
+   "key": "https://www.nba.com/bulls/news/bulls-hold-off-hornets-on-thanksgiving-eve-107-105",
+   "url": "https://www.nba.com/bulls/news/bulls-hold-off-hornets-on-thanksgiving-eve-107-105",
+   "canonical_url": "https://bulls.com/news/bulls-hold-off-hornets-on-thanksgiving-eve-107-105",
+   "title": "Bulls hold off Hornets on Thanksgiving Eve 107-105",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-26T02:54:25Z",
+   "tags": [
+    "Game Recap",
+    "Sam Smith"
+   ],
+   "summary": "This is the time of year when we consider so much to be thankful for, like family, friends, good health…and the Charlotte Hornets if you’re an NBA team like the Bulls in need of a win.",
+   "facts": [
+    "But the Bulls 107-105 victory harvest was all gravy in the end as the Bulls could savor overcoming 14 fourth quarter lead changes.",
+    "The Bulls moved to 6-12 with a quiet fifth win in their last eight games and 2-2 to close their NBA Cup series.",
+    "Charlotte has lost 12 of 13 games and fell to 4-13.",
+    "The Bulls were led by Buzelis with 24 points and a team high eight in the fourth quarter, 14 overall in the second half when he’d faltered often this season.",
+    "Giddey had 12 points and 11 rebounds, and the Bulls bench again mashed the opposition with a 42-22 swirl.",
+    "He scored 11 points on three of 13 for the game.",
+    "Particularly Buzelis, who at times seemed lost with the early season debut of prized rookie Caleb Wilson, and then trying to find his way amidst scoring bursts from Norman Powell and Jalen Smith, both of whom missed Wedn…",
+    "Patrick Williams added 11 points."
+   ],
+   "quotes": [
+    "Obviously both of us are competitors and want to be out there at the end of game, and it’s tough when you are not out there and have to watch from the sidelines,",
+    "Glad tonight (we) both (were) able to bounce back and able to close out a good team on the road,",
+    "Did a good job on both sides of the ball down the stretch and weathering the storm when they went on a run. Complete team effort when we win games. We did a good job slowing them down and making them …",
+    "We gave up a 34-point fourth quarter, and it felt a ton like guys just getting driven,"
+   ]
   },
   {
    "source": "ORL 公式（nba.com）",
@@ -1821,156 +1983,6 @@
    ],
    "quotes": [
     "We have to definitely be on our best behavior. I think we have to get in the film room, clean some stuff up, and be ready to go. Turn the page. It’s a good team coming in and it’s a Cup game."
-   ]
-  },
-  {
-   "source": "MEM 公式（nba.com）",
-   "team": "MEM",
-   "team_ja": "グリズリーズ",
-   "team_id": 1610612763,
-   "kind": "injury",
-   "key": "https://www.nba.com/grizzlies/news/memphis-grizzlies-medical-update-49",
-   "url": "https://www.nba.com/grizzlies/news/memphis-grizzlies-medical-update-49",
-   "canonical_url": "https://grizzlies.com/news/memphis-grizzlies-medical-update-49",
-   "title": "Memphis Grizzlies Medical Update",
-   "author": "Memphis Grizzlies",
-   "published_utc": "2026-11-23T15:32:28Z",
-   "tags": [
-    "Pressroom"
-   ],
-   "summary": "Memphis, Tenn. – The Memphis Grizzlies today provided the following medical update for forward Jerami Grant:",
-   "facts": [
-    "Memphis, Tenn. – The Memphis Grizzlies today provided the following medical update for forward Jerami Grant: Grant sustained a grade 1 left calf strain during the second quarter of Thursday’s game against the Golden Stat…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/features-homestand-261123",
-   "url": "https://www.nba.com/cavaliers/news/features-homestand-261123",
-   "canonical_url": "https://cavs.com/news/features-homestand-261123",
-   "title": "A Wrap-Up of the Homestand",
-   "author": "clejgabriele",
-   "published_utc": "2026-11-23T14:22:52Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "On Friday night, the Cavaliers wrapped up the longest homestand of the season’s first half in style – with James Harden erupting for a 51-point performance to stymie the Pacers and close the week out with a 3-1 mark.",
-   "facts": [
-    "On Friday night, the Cavaliers wrapped up the longest homestand of the season’s first half in style – with James Harden erupting for a 51-point performance to stymie the Pacers and close the week out with a 3-1 mark.",
-    "Now, heading into the final week of November, the Wine & Gold sit one game above .500 at 9-8 – including a 7-3 record at Rocket Arena, a 3-0 mark within the Division all while being the second-highest scoring squad in th…",
-    "All that makeshift lineup did was blow out Dallas, 127-117, in a contest that wasn’t as close as the final score would indicate, with Cleveland piling up 105 points through the first three quarters, and holding off a lat…",
-    "In the victory, Proctor – netting his first career triple-double – finished with career highs in points (24), rebounds (11) and assists (10).",
-    "On Monday, Cleveland continued its mastery of the Bulls – who they’ll face on Monday night in the Windy City – winning for the 14th time in their last 17 meetings against Chicago.",
-    "With Evan Mobley missing his third straight game with a toe injury, Kenny Atkinson’s small lineup paid off against the Bulls.",
-    "In the win, Tyrese Proctor got his second straight start and notched double-figure scoring his four straight, averaging 19.5 PPG over that stretch, finishing with 17 points.",
-    "James Harden handed out a season-high 10 assists and Jarrett Allen tied a season-high with 14 rebounds."
-   ],
-   "quotes": [
-    "I think I just started this summer locking in on my habits,",
-    "My routine, my work, (I’ve) just doubled-down on myself, and putting the work in, and then came into Training Camp firing. And I’ve never looked back from there.",
-    "I think I say this over and over about James, but he's extremely unselfish,",
-    "Like, he's a guy who rarely do I say, ‘Oh man, that's a bad shot.’ You know, 99% of the time, he's gonna make the right play. I mean, even tonight, I didn't feel like it was a selfish 50. He still was…"
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/hawks-erase-11-point-deficit-in-fourth-quarter-beat-pistons-107-97",
-   "url": "https://www.nba.com/pistons/news/hawks-erase-11-point-deficit-in-fourth-quarter-beat-pistons-107-97",
-   "canonical_url": "https://pistons.com/news/hawks-erase-11-point-deficit-in-fourth-quarter-beat-pistons-107-97",
-   "title": "Hawks erase 11-point deficit in fourth quarter, beat Pistons 107-97",
-   "author": "Pistons.com",
-   "published_utc": "2026-11-23T13:20:56Z",
-   "tags": [
-    "Detroit Pistons",
-    "game recap",
-    "recap"
-   ],
-   "summary": "Detroit led by 13 in the third quarter before Atlanta opened the fourth on an 18-0 run to pull away.",
-   "facts": [
-    "Detroit led by 13 in the third quarter before Atlanta opened the fourth on an 18-0 run to pull away.",
-    "ATLANTA – For three quarters on Sunday, the Pistons looked like the team that went 3-1 on its last road trip.",
-    "Detroit took an 85-74 lead into the final period at State Farm Arena.",
-    "Atlanta scored the first 18 points of the fourth, and the Pistons didn't score until Isaiah Joe hit a 3-pointer with 4:52 left.",
-    "By then the Hawks led by seven, and they went on to win 107-97.",
-    "Detroit scored 12 points in the fourth quarter on 5-of-16 shooting and committed eight turnovers, which Atlanta turned into 11 points.",
-    "It was the Pistons' second straight loss after Friday's 105-102 defeat to Toronto.",
-    "John Collins scored 11 points in the third quarter, including two 3-pointers off Cade Cunningham passes."
-   ],
-   "quotes": [
-    "The character of this group, the trust factor we have for this group, we understand that this is part of the process for us,",
-    "Seasons aren't going to be easy, there's going to be ups and downs. There's a good basketball team in that locker room, there's no doubt about that. They're proving it. We've had a couple tough games,…",
-    "I think he made the right basketball play,",
-    "They're putting two bodies on him all the time, and he was making the right plays. That's how you end up with the 15 assists."
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-trail-blazers-game-preview-injury-report-and-how-to-watch-11-23-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-trail-blazers-game-preview-injury-report-and-how-to-watch-11-23-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-trail-blazers-game-preview-injury-report-and-how-to-watch-11-23-2026",
-   "title": "Sixers vs. Trail Blazers: Game Preview, Injury Report and How to Watch 11/23/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-23T13:17:02Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers (14-3), winners of five straight, will host a Western Conference opponent for the first time this season when the Portland Trail Blazers (10-6) visit Monday. Tipoff is set for 7 p.m. EST at Xfinity Mobile Arena.",
-   "facts": [
-    "The Philadelphia 76ers (14-3), winners of five straight, will host a Western Conference opponent for the first time this season when the Portland Trail Blazers (10-6) visit Monday.",
-    "Tipoff is set for 7 p.m.",
-    "The Sixers defeated the Milwaukee Bucks, 132-129, on Saturday afternoon.",
-    "Joel Embiid posted 26 points, a season-high 17 rebounds and nine assists, while Anfernee Simons (18 points) and Dominick Barlow (12 points in his season debut) combined for 30 points off the bench.",
-    "The Blazers, led by first-year head coach and former Minnesota Timberwolves lead assistant coach Micah Nori, traded for two-time All-Star Ja Morant in the offseason, but Morant has been sidelined with a hamstring injury.",
-    "Portland lost to the New York Knicks, 97-96, on Mikal Bridges’ buzzer-beating 3-pointer Saturday night at Madison Square Garden.",
-    "The loss came after the Blazers erased a 26-point deficit, including a 23-point halftime deficit.",
-    "Damian Lillard tied the game with a 3-pointer with 1:04 remaining before Portland took its first lead on a pair of Deni Avdija free throws with three seconds left."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/jazz-coach-not-surprised-by-self-made-guy-claytons-journey-to-mavericks",
-   "url": "https://www.nba.com/mavs/news/jazz-coach-not-surprised-by-self-made-guy-claytons-journey-to-mavericks",
-   "canonical_url": "https://mavs.com/mavs/news/jazz-coach-not-surprised-by-self-made-guy-claytons-journey-to-mavericks",
-   "title": "Jazz coach not surprised by 'self-made guy' Clayton's journey to Mavericks",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-23T05:53:06Z",
-   "tags": [
-    "dallas mavericks",
-    "nba",
-    "Walter Clayton Jr."
-   ],
-   "summary": "SALT LAKE CITY – Mavericks’ guard Walter Clayton Jr. started his NBA career last season in Utah.",
-   "facts": [
-    "He played for Jazz coach Will Hardy and was laying the groundwork for a solid rookie season before he was abruptly traded just before the deadline in February.",
-    "He was waived in October, which opened the door for the Mavericks to sign him to a two-way contract.",
-    "Clayton already has played 16 of the 50 games he’s allowed to play for the Mavericks under provisions of his contract.",
-    "Of course, the Mavericks could upgrade Clayton to a standard contract later in the season.",
-    "Green was in the starting lineup for Utah on Sunday although he had minimal impact in 23 minutes played.",
-    "The 6-6 guard now qualifies as a journeyman in the NBA.",
-    "Since being drafted 18th by the Mavericks, Green has been traded to the Charlotte Hornets, then dealt to the Minnesota Timberwolves.",
-    "But before he got a chance to play for the Wolves, they traded him to Utah, where he is in his first season."
-   ],
-   "quotes": [
-    "Walt was a pain in the ass, in a great way,",
-    "He’s physical and not afraid to stick his nose in there. He’s fearless. And his competitive motor, I have a lot of respect for him and it’s nice to see him having some success in Dallas.",
-    "I do think the chip on his shoulder is real,",
-    "He just has a real belief and confidence in himself,"
    ]
   }
  ]
