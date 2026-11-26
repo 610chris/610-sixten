@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1163-kings-u18-championship-runner-up.html",
+    cat: "JAPAN",
+    title: "キングスU18、クラブ初の決勝進出で過去最高の準優勝 —— B.LEAGUE U18 CHAMPIONSHIP 2026、宮里俊佑が大会ベスト5",
+    excerpt: "琉球ゴールデンキングスのU18チームは、11月21日から25日まで日環アリーナ栃木で行われた「インフロニア B.LEAGUE U18 CHAMPIONSHIP 2026」でクラブ初の決勝進出を果たし、過去最高の準優勝で大会を終えた。決勝は千葉ジェッツU18に67-75で惜敗。#29宮里俊佑選手が大会ベスト5に選出され、上位4チームに与えられる国際大会「B.LEAGUE U18 INTERNATIONAL CUP 2027」への出場権も獲得した。",
+    date: "2026.11.25",
+    thumb: "../assets/journal-1163-hero.jpg?v=849e57ee1c"
+  },
+  {
+    href: "1162-giannis-32points-76ers-nba-cup.html",
+    cat: "NBA",
+    title: "ヤニス・アデトクンボ、76ers戦で32得点 —— ヒートはNBAカップで黒星、レブロンの76ers初トリプルダブルに苦杯",
+    excerpt: "マイアミ・ヒートのヤニス・アデトクンボは現地時間11月25日、敵地フィラデルフィアでのNBAカップの76ers戦に36分出場し、FG11/18・FT10/13で32得点、リバウンド14・アシスト4を記録した。両チーム通じてこの日の最多得点者だったが、ヒートは104-111で敗戦。76ersはレブロン・ジェームズが自身初のチームでのトリプルダブル(25得点12アシスト10リバウンド)を記録した。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1161-jaylen-brown-hamstring-recurrence-heat.html",
+    cat: "NBA",
+    title: "ジェイレン・ブラウン、ヒート戦で左ハムストリング再発 —— NBAカップで途中退場、今季3度目の離脱に",
+    excerpt: "フィラデルフィア・76ersのジェイレン・ブラウンは現地時間11月25日、マイアミ・ヒートとのNBAカップ戦の第2クォーター終盤に左ハムストリングの張りを訴えて途中退場し、以降の出場を見送られた。今月2度目の同部位の離脱で、76ersはジョエル・エンビードも病欠と重なる苦しいやりくりになった。ESPNが伝えた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1160-nike-ja-4-wheat.html",
     cat: "KICKS",
     title: "Nike Ja 4「Wheat」が12月発売 —— ジャ・モラント4代目シグネチャー、東海岸ゆかりの配色",
