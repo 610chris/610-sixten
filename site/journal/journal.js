@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1173-devin-booker-25points-rockets.html",
+    cat: "NBA",
+    title: "デビン・ブッカー、ロケッツ戦で25得点 —— サンズは104-116で敗戦",
+    excerpt: "フィニックス・サンズ(Phoenix Suns)のデビン・ブッカー(Devin Booker)は現地時間11月25日、敵地ヒューストンでのヒューストン・ロケッツ(Houston Rockets)戦に36分出場し、フィールドゴール18本中6本・3ポイント9本中2本・フリースロー12本中11本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者となったが、サンズは104-116でロケッツに敗れた。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1172-jaylen-wells-19points-clippers.html",
     cat: "NBA",
     title: "ジェイレン・ウェルズ、クリッパーズ戦で19得点 —— グリズリーズが115-97で快勝",
