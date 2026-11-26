@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1164-brandon-miller-35-points-bulls.html",
+    cat: "NBA",
+    title: "ブランドン・ミラー、ブルズ戦で35得点 —— ホーネッツは105-107で惜敗",
+    excerpt: "シャーロット・ホーネッツ(Charlotte Hornets)のブランドン・ミラー(Brandon Miller)は現地時間11月25日、本拠地シャーロットでのシカゴ・ブルズ(Chicago Bulls)戦に34分出場し、フィールドゴール25本中13本・3ポイント9本中4本を沈めて35得点を記録した。両チーム通じてこの日の試合最多得点者となったが、ホーネッツは105-107でブルズに惜敗した。",
+    date: "2026.11.26",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1163-kings-u18-championship-runner-up.html",
     cat: "JAPAN",
     title: "キングスU18、クラブ初の決勝進出で過去最高の準優勝 —— B.LEAGUE U18 CHAMPIONSHIP 2026、宮里俊佑が大会ベスト5",

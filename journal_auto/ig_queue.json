@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T10:01:04+09:00",
+  "updated": "2026-11-26T11:55:58+09:00",
   "items": [
     {
       "id": "134",
@@ -38200,6 +38200,53 @@
       "ig_media_id": null,
       "error": null,
       "caption": "キングスU18、クラブ初の決勝進出で過去最高の準優勝\n\n・決勝は千葉ジェッツU18に67-75\n・宮里俊佑選手が大会ベスト5\n・国際大会出場権も獲得\n\n💬 キングスU18、来季のエリートリーグも期待できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: 沖縄バスケットボール株式会社（PR TIMES）\n写真: プレスリリースより（PR TIMES）\n\n#610 #sixten #バスケ #バスケットボール #basketball #Bリーグ #bleague #日本バスケ"
+    },
+    {
+      "id": "1164",
+      "slug": "1164-brandon-miller-35-points-bulls",
+      "category": "NBA",
+      "date": "2026-11-26",
+      "headline": "ブランドン・ミラー、ブルズ戦で35得点",
+      "excerpt": "シャーロット・ホーネッツ(Charlotte Hornets)のブランドン・ミラー(Brandon Miller)は現地時間11月25日、本拠地シャーロットでのシカゴ・ブルズ(Chicago Bulls)戦に34分出場し、フィールドゴール25本中13本・3ポイント9本中4本を沈めて35得点を記録した。両チーム通じてこの日の試合最多得点者となったが、ホーネッツは105-107でブルズに惜敗した。",
+      "points": [
+        "FG13/25・3P4/9・FT5/5で35得点",
+        "スティール3つも、アシスト1・TO4",
+        "ホーネッツは105-107で惜敗"
+      ],
+      "source": "ESPN ボックススコア(Charlotte Hornets vs. Chicago Bulls)",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1164-brandon-miller-35-points-bulls.html",
+      "hero_path": "",
+      "subject": [
+        "Brandon Miller"
+      ],
+      "question": "ミラーの35得点、正直どう見た？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BRANDON MILLER",
+        "opponent": "vs. BULLS",
+        "points": 35,
+        "stats": [
+          "3 REB",
+          "3 STL",
+          "1 AST",
+          "13/25 FG",
+          "4/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1164-1.jpg",
+        "https://sixten.jp/assets/ig/1164-2.jpg",
+        "https://sixten.jp/assets/ig/1164-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-26T11:55:35+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ブランドン・ミラー、ブルズ戦で35得点\n\n・FG13/25・3P4/9・FT5/5で35得点\n・スティール3つも、アシスト1・TO4\n・ホーネッツは105-107で惜敗\n\n💬 ミラーの35得点、正直どう見た？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア(Charlotte Hornets vs. Chicago Bulls)\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
