@@ -3,6 +3,30 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1189-nike-st-charge-cade-cunningham-pistons.html",
+    cat: "KICKS",
+    title: "ケイド・カニングハムのNike ST Charge「Detroit Pistons」が近日登場 —— ピストンズのチームカラーをまとった新作PE",
+    excerpt: "デトロイト・ピストンズのケイド・カニングハムが着用する「Nike ST Charge」のプレーヤーエディション(PE)に、チームカラーを基調にした新色「Detroit Pistons」(品番IZ9763-600)が近日登場する。Sneaker Newsが現地時間11月27日に報じた。発売日・価格は現時点で非公表。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1188-undefeated-air-jordan-5-moon-fossil.html",
+    cat: "KICKS",
+    title: "Undefeated x Air Jordan 5「Moon Fossil」が近日登場 —— 定番シルエットに耐久性キャンバス素材",
+    excerpt: "スニーカーショップ「Undefeated」とJordan Brandによるコラボレーション「Air Jordan 5」の新色「Moon Fossil」(品番JF3394-001)が近日発売される。通常はレザーやメッシュが使われるアッパーに、耐久性の高いキャンバス素材を採用した。2色展開のうちの1色で、発売日・価格は現時点で非公表。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
+    href: "1187-timberwolves-lamelo-ball-ankle-out.html",
+    cat: "NBA",
+    title: "ティンバーウルブズ、ラメロ・ボールを左足首負傷でアウトに —— エドワーズ抜きでも地区3位、グリズリーズ戦でNBAカップ突破目指す",
+    excerpt: "ミネソタ・ティンバーウルブズは現地時間11月27日、ラメロ・ボールを同日夜のメンフィス・グリズリーズ戦(NBAカップ)に左足首負傷のため欠場(アウト)と発表した。25日のサンダー戦で負傷し、いったんは出場可否未定とされていたが格上げされてアウトとなった。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1186-kessler-doncic-x-factor-lakers.html",
     cat: "NBA",
     title: "ケスラー、ドンチッチ\"指名\"のレイカーズ新センター —— 守備ランク19位→11位に押し上げ、ESPNが\"Xファクター\"と分析",
