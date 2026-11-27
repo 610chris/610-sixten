@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1190-reaves-return-spurs-heel-bruise.html",
+    cat: "NBA",
+    title: "オースティン・リーブス、スパーズ戦で復帰 —— 左足ヒールの打撲から5試合ぶり、レイカーズは西地区首位攻防へ",
+    excerpt: "ロサンゼルス・レイカーズは現地時間11月27日、左足ヒールの打撲で11月11日から離脱していたオースティン・リーブス(Austin Reaves)がサンアントニオ・スパーズ戦で復帰すると発表した。リーブスを欠いた5試合を4勝1敗で乗り切ったレイカーズ(15勝3敗)は、0.5ゲーム差で西地区首位のスパーズ(15勝4敗)とNBAカップ突破も懸かる一戦を迎える。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1189-nike-st-charge-cade-cunningham-pistons.html",
     cat: "KICKS",
     title: "ケイド・カニングハムのNike ST Charge「Detroit Pistons」が近日登場 —— ピストンズのチームカラーをまとった新作PE",
