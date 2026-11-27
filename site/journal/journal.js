@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1185-seahorses-mikawa-u18-5th-place.html",
+    cat: "JAPAN",
+    title: "シーホース三河U18、「インフロニア B.LEAGUE U18 CHAMPIONSHIP 2026」でクラブ最高の5位 —— 史上初のベスト8、20点差から大逆転の5位決定戦",
+    excerpt: "シーホース三河は11月27日、U18チームが栃木県宇都宮市で開催された「インフロニア B.LEAGUE U18 CHAMPIONSHIP 2026」に出場し、クラブ史上初のベスト8進出を経て、最終順位5位でクラブ最高成績を収めたと発表した。5位決定戦では東京サンロッカーズU18を相手に最大20点差を追う展開から逆転勝利を収めた。",
+    date: "2026.11.27",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1184-ryukyu-kings-draft-pick.html",
     cat: "JAPAN",
     title: "「B.LEAGUE DRAFT 2027」抽選会、琉球ゴールデンキングスが全体2位指名権を獲得 —— 来年1月28日開催、25クラブが参加",
