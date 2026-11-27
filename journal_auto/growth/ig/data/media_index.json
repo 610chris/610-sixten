@@ -186,6 +186,29 @@
   "product": "REELS",
   "timestamp": "2026-11-10T10:54:11+0000"
  },
+ "17877950997637990": {
+  "article": "1176",
+  "auto": true,
+  "caption_len": 387,
+  "caption_lines": 16,
+  "category": "JAPAN",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "「NBA docomo」でGリーグ配信スタート！河村勇輝のクリッパーズ戦",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMa1PESnLK/",
+  "product": "REELS",
+  "route": "library",
+  "source": "株式会社NTTドコモ（PR TIMES）",
+  "subject": [
+   "Yuki Kawamura"
+  ],
+  "template": "news",
+  "timestamp": "2026-11-26T06:05:08+0000"
+ },
  "17880929573479767": {
   "auto": false,
   "caption_len": 159,
@@ -1816,6 +1839,29 @@
   "permalink": "https://www.instagram.com/reel/DfzLdSXCnWR/",
   "product": "REELS",
   "timestamp": "2026-11-16T10:50:10+0000"
+ },
+ "17919718239537881": {
+  "article": "1177",
+  "auto": true,
+  "caption_len": 314,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "ウェンバンヤマ、トレイルブレイザーズ戦で44得点",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMbF1Wzzs0/",
+  "product": "REELS",
+  "route": "espn_athlete",
+  "source": "ESPN ボックススコア",
+  "subject": [
+   "Victor Wembanyama"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T06:07:24+0000"
  },
  "17919743028451892": {
   "arms": {
@@ -5006,6 +5052,29 @@
   "product": "REELS",
   "timestamp": "2022-04-12T02:30:50+0000"
  },
+ "18005724596808971": {
+  "article": "1175",
+  "auto": true,
+  "caption_len": 372,
+  "caption_lines": 16,
+  "category": "NBA",
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": true,
+  "hashtags": 8,
+  "headline": "サボニス、ウォリアーズ戦で27得点10リバウンド6アシスト",
+  "n_points": 3,
+  "no_question": false,
+  "permalink": "https://www.instagram.com/reel/DgMXdSYzoe9/",
+  "product": "REELS",
+  "route": "library",
+  "source": "ESPN ボックススコア(Kings vs. Warriors・2026年11月25日)",
+  "subject": [
+   "Domantas Sabonis"
+  ],
+  "template": "score",
+  "timestamp": "2026-11-26T05:35:39+0000"
+ },
  "18008794401003820": {
   "arms": {
    "ig-2026-10-follow-cta": "B",
@@ -6776,6 +6845,19 @@
   ],
   "template": "news",
   "timestamp": "2026-09-30T22:39:55+0000"
+ },
+ "18074206796501863": {
+  "auto": false,
+  "caption_len": 113,
+  "caption_lines": 7,
+  "cta_follow_b": false,
+  "cta_share": false,
+  "has_question": false,
+  "hashtags": 4,
+  "headline": "「上手いけど目立たない」。",
+  "permalink": "https://www.instagram.com/reel/DgNDysaqvuF/",
+  "product": "REELS",
+  "timestamp": "2026-11-26T12:03:11+0000"
  },
  "18076553816456949": {
   "arms": {
