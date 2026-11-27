@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1186-kessler-doncic-x-factor-lakers.html",
+    cat: "NBA",
+    title: "ケスラー、ドンチッチ\"指名\"のレイカーズ新センター —— 守備ランク19位→11位に押し上げ、ESPNが\"Xファクター\"と分析",
+    excerpt: "ロサンゼルス・レイカーズのウォーカー・ケスラーは、ルカ・ドンチッチが自らロブ・ペリンカ球団社長に要望して獲得したセンターだ。ESPNのデイブ・マクメナミン記者は現地時間11月27日、開幕から15勝3敗のレイカーズでケスラーが守備を19位から11位まで押し上げた経緯を\"ドンチッチ新時代のXファクター\"として報じた。",
+    date: "2026.11.27",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1185-seahorses-mikawa-u18-5th-place.html",
     cat: "JAPAN",
     title: "シーホース三河U18、「インフロニア B.LEAGUE U18 CHAMPIONSHIP 2026」でクラブ最高の5位 —— 史上初のベスト8、20点差から大逆転の5位決定戦",
