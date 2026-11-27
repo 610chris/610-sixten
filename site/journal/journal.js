@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1184-ryukyu-kings-draft-pick.html",
+    cat: "JAPAN",
+    title: "「B.LEAGUE DRAFT 2027」抽選会、琉球ゴールデンキングスが全体2位指名権を獲得 —— 来年1月28日開催、25クラブが参加",
+    excerpt: "沖縄を本拠とする琉球ゴールデンキングスは11月27日、「B.LEAGUE DRAFT 2027」への参加と、同日実施された抽選会(LOTTERY)で第1巡目全体2位の指名権を獲得したことを発表した。来年1月28日開催の本編ドラフトには25クラブが参加を予定している。",
+    date: "2026.11.27",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1183-gunma-tsurumaki-basketball-experience.html",
     cat: "JAPAN",
     title: "群馬クレインサンダーズ鶴巻啓太、高崎の特別支援学校生徒とバスケ体験会 —— 味の素AGFとの地域貢献企画第六弾、チアダンス体験も",
