@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1191-jaylen-brown-hamstring-mri-clear.html",
+    cat: "NBA",
+    title: "ジェイレン・ブラウン、左ハムストリングMRIで新たな損傷なし —— ナース監督「ポジティブな兆候」、復帰は12月1日以降",
+    excerpt: "フィラデルフィア・76ersは現地時間11月27日、ジェイレン・ブラウン(Jaylen Brown)の左ハムストリングのMRI検査で新たな損傷や悪化が確認されなかったと発表した。ブラウンはこの日のインディアナ・ペイサーズ戦を欠場し、最速の復帰は12月1日のグリズリーズ戦になる見通し。ESPNが伝えた。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-04.jpg?v=e3dff30df6"
+  },
+  {
     href: "1190-reaves-return-spurs-heel-bruise.html",
     cat: "NBA",
     title: "オースティン・リーブス、スパーズ戦で復帰 —— 左足ヒールの打撲から5試合ぶり、レイカーズは西地区首位攻防へ",
