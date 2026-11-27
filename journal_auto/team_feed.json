@@ -1,8 +1,148 @@
 {
- "updated_utc": "2026-11-27 10:05 UTC",
+ "updated_utc": "2026-11-27 19:37 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/hornets-christen-season-of-giving-with-thanksgiving-week-festivities",
+   "url": "https://www.nba.com/hornets/news/hornets-christen-season-of-giving-with-thanksgiving-week-festivities",
+   "canonical_url": "https://hornets.com/news/hornets-christen-season-of-giving-with-thanksgiving-week-festivities",
+   "title": "Hornets Christen Season of Giving With Thanksgiving Week Festivities",
+   "author": "Sam Perley",
+   "published_utc": "2026-11-27T19:27:38Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "Amidst a busy four-game homestand this past week, the Charlotte Hornets organization still carved out plenty of time to give back to the local community for the Thanksgiving holiday.",
+   "facts": [
+    "Starting off last Saturday morning, Hornets forward Brandon Miller and the Team Miller Foundation pulled up to the Ivory/Baker Rec Center in north Charlotte, where they hosted ‘Turkey Time with B-Mill’ and handed out 250…",
+    "The Hornets also donated $5,000 towards this worthy cause.",
+    "More than 300 people gathered inside Spectrum Center’s main lobby to receive a hot meal from volunteers and take-home Thanksgiving items courtesy of Second Harvest Food Bank of Metrolina, Harris Teeter, Dole and Coca-Col…"
+   ],
+   "quotes": [
+    "This is something we’ve been trying to do every year,",
+    "During the holiday season, [it can be] a tough time financially for people. The weather’s colder, electric bills go up. For us to help out with this little piece, I think it means a lot.",
+    "It’s an expectation that our organization is involved in our community work,",
+    "As an organization, we need to have community impact. We’re a community asset. These people out here are our fans. They’re important members of our community and they’re part of what we’re building in…"
+   ]
+  },
+  {
+   "source": "DEN 公式（nba.com）",
+   "team": "DEN",
+   "team_ja": "ナゲッツ",
+   "team_id": 1610612743,
+   "kind": "feature",
+   "key": "https://www.nba.com/nuggets/news/nuggets-play-jazz-in-final-emirates-nba-cup-group-play-game",
+   "url": "https://www.nba.com/nuggets/news/nuggets-play-jazz-in-final-emirates-nba-cup-group-play-game",
+   "canonical_url": "https://nuggets.com/news/nuggets-play-jazz-in-final-emirates-nba-cup-group-play-game",
+   "title": "Nuggets play Jazz in final Emirates NBA Cup Group Play game",
+   "author": "Matt Brooks",
+   "published_utc": "2026-11-27T18:27:03Z",
+   "tags": [
+    "2026-27 Denver Nuggets",
+    "Denver Nuggets"
+   ],
+   "summary": "The Denver Nuggets play the Utah Jazz in their final Emirates NBA Cup Group Play game.",
+   "facts": [
+    "INJURY REPORT Denver: DaRon Holmes II — OUT (G League Assignment) Bryce Hopkins — OUT (G League Two-Way Assignment) Cam Whitmore — OUT (G League Two-Way Assignment) Utah: Jonas Aidoo — OUT (G League Two-Way Assignment) M…",
+    "They're coming off a 120-101 loss to the Dallas Mavericks.",
+    "Currently, Denver (2-1) is in third place in the Wild Card race, behind the Memphis Grizzlies (2-1) and the Portland Trail Blazers (2-1).",
+    "The Grizzlies and Trail Blazers remain ahead of the Nuggets because of their point differential; Denver is minus-3 after three games.",
+    "TUNE-IN: Friday, November 27, 7:30 p.m.",
+    "MT; Altitude TV; Altitude+; Altitude Sports Radio 92.5 FM"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "CHI 公式（nba.com）",
+   "team": "CHI",
+   "team_ja": "ブルズ",
+   "team_id": 1610612741,
+   "kind": "quotes",
+   "key": "https://www.nba.com/bulls/news/ask-sam-mailbag-black-friday-edition",
+   "url": "https://www.nba.com/bulls/news/ask-sam-mailbag-black-friday-edition",
+   "canonical_url": "https://bulls.com/news/ask-sam-mailbag-black-friday-edition",
+   "title": "Ask Sam Mailbag: Black Friday Edition",
+   "author": "Sam Smith",
+   "published_utc": "2026-11-27T17:05:34Z",
+   "tags": [
+    "Ask Sam mailbag",
+    "Sam Smith"
+   ],
+   "summary": "Craig Berry: Your thoughts on how Giddey and Buzelis find themselves next to the coach at the end of games sometimes this year. Is that the toughest part of a coach's job with a younger team? Developing your young guys for the future while still giving your team the best chance to win, making sure they don't feel scared to make a mistake but also holding them accountable using playing time as a pu…",
+   "facts": [
+    "I always thought that seemed like a really difficult part of the gig because you're not just coaching Buzelis and Giddey and Wilson, you're coaching 12 other guys who you need to be accountable to even though you know th…",
+    "Of course, the problem is the guaranteed contract.",
+    "Because basically everyone but Caleb Wilson was acquired by the management who got fired to give the new group a clean slate.",
+    "Forget 48 minutes, it was 180 minutes of intensity.",
+    "The main reason Splitter doesn’t face crossing his Rubicon with this team is he has no $50 million or $60 million players.",
+    "The Bulls have none of those huge contracts now, and good for Splitter for basically sending the message fans always want even if some objected to the Giddey or Matas situations.",
+    "Olean Harbor: When Caleb Wilson comes back from his hand injury, do you think he goes straight into the starting lineup or comes off the bench first?",
+    "I didn’t think before he was injured the Bulls were putting him in situations with the ball in his hands enough."
+   ],
+   "quotes": [
+    " seems to be trending since the Rudy Gobert trade. Minnesota was in an extended playoff drought until drafting Anthony Edwards. Early, they determined he was a star. The Wolves boldly went ",
+    " for Gobert and have been a playoff team since. Utah continues to draw dividends from the trade including moving Kessler for even more draft capital. Utah did well in the trade however they are now in…"
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/nba-cup-group-stage-preview-pelicans-at-clippers-11-27-2026",
+   "url": "https://www.nba.com/pelicans/news/nba-cup-group-stage-preview-pelicans-at-clippers-11-27-2026",
+   "canonical_url": "https://pelicans.com/news/nba-cup-group-stage-preview-pelicans-at-clippers-11-27-2026",
+   "title": "NBA Cup group stage preview: Pelicans at Clippers (11/27/2026)",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-27T16:14:08Z",
+   "tags": [],
+   "summary": "NEW ORLEANS PELICANS (5-14, 0-3 WEST GROUP B) AT LOS ANGELES CLIPPERS (4-13, 1-2 WEST GROUP B)",
+   "facts": [
+    "NEW ORLEANS PELICANS (5-14, 0-3 WEST GROUP B) AT LOS ANGELES CLIPPERS (4-13, 1-2 WEST GROUP B) NBA Cup Ramifications Multiple losses for both teams within the NBA’s annual early-season event mean the Pelicans and Clipper…",
+    "The Black Friday meeting is a rematch from Nov. 8, when the Clippers posted a 139-123 victory over the Pelicans in Intuit Dome, pulling away in the fourth quarter via a 37-28 advantage.",
+    "A balanced LA attack was paced by Darius Garland’s 24 points, while reserves Keaton Wagler (15 points), Gradey Dick (15) and Baba Miller (12) also joined a group of seven Clips in double-digit scoring.",
+    "Trey Murphy topped New Orleans with 26 points, followed closely by 25 points apiece from Zion Williamson and Jeremiah Fears.",
+    "The Pelicans shot an excellent 50.6 percent from the field, but allowed their hosts to finish at a scorching 54.8 percent.",
+    "New Orleans has not played a game since Monday, a three-day break that may allow the squad to return to the hardwood a bit healthier, with players like forward Trendon Watford upgraded on the injury report since the prev…",
+    "West Group B Standings Minnesota 3-0, +39 … Clinches group’s top spot with win Friday vs.",
+    "A loss could still result in a wild card berth, particularly if San Antonio (2-1, +48) either wins Group C or is eliminated Friday."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-at-pacers-nba-cup-game-preview-injury-report-and-how-to-watch-11-27-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-at-pacers-nba-cup-game-preview-injury-report-and-how-to-watch-11-27-2026",
+   "canonical_url": "https://sixers.com/news/sixers-at-pacers-nba-cup-game-preview-injury-report-and-how-to-watch-11-27-2026",
+   "title": "Sixers at Pacers: NBA Cup Game Preview, Injury Report and How to Watch 11/27/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-27T13:45:22Z",
+   "tags": [],
+   "summary": "With a win Friday night in Indiana, the 76ers (15-4 overall, 2-1 NBA Cup) will clinch East Group B and advance to to the Knockout Rounds of the Emirates NBA Cup for the first time. Tipoff against the Pacers (6-12, 1-2) is set for 7:30 p.m. EST at Gainbridge Fieldhouse. Both teams are opening a back-to-back set, with the Sixers playing in Houston and the Pacers in Chicago on Saturday night.",
+   "facts": [
+    "With a win Friday night in Indiana, the 76ers (15-4 overall, 2-1 NBA Cup) will clinch East Group B and advance to to the Knockout Rounds of the Emirates NBA Cup for the first time.",
+    "Tipoff against the Pacers (6-12, 1-2) is set for 7:30 p.m.",
+    "Philadelphia currently leads East Group B over Miami, also 2-1, because the head-to-head record in Group Play games is the first tiebreaker.",
+    "The quarterfinals on Dec. 4-5 and semifinals on Dec. 8 and/or Dec. 9 will be played at the home arena of the higher-seeded team.",
+    "The Sixers snapped the Miami Heat’s seven-game winning streak Wednesday with a 111-104 victory at Xfinity Mobile Arena.",
+    "In the absence of Joel Embiid (illness), along with Jaylen Brown (hamstring) for the second half, Tyrese Maxey scored 30 points, and LeBron James posted his 126th career triple-double with a season-high 25 points, 10 reb…",
+    "VJ Edgecombe added 18 points, six rebounds, five assists and two steals.",
+    "The Pacers have been off since Monday, when they earned a 125-120 victory over the Oklahoma City Thunder."
+   ],
+   "quotes": []
+  },
   {
    "source": "PHX 公式（nba.com）",
    "team": "PHX",
@@ -105,7 +245,7 @@
    "facts": [
     "The Pelicans head West to visit the LA Clippers on Friday at 8:30 pm CT.",
     "Fans can also stream the game via Pelicans+ or listen to the radio call on WWL 870 AM.",
-    "Get the latest Pelicans-Clipppers injury report, team news, tune in details, and gameday information: PELICANS VS CLIPPERS INJURY UPDATE PELICANS INJURY REPORT Trendon Watford PROBABLE (right ankle sprain) Bennedict Math…",
+    "Get the latest Pelicans-Clippers injury report, team news, tune in details, and gameday information: PELICANS VS CLIPPERS INJURY UPDATE PELICANS INJURY REPORT Trendon Watford PROBABLE (right ankle sprain) Bennedict Mathu…",
     "OUT (G League two-way) CLIPPERS INJURY REPORT Bradley Beal OUT (right knee injury management) Cam Christie QUESTIONABLE (G League two-way) Nick Martinelli QUESTIONABLE (G League two-way) Jordan Miller OUT (left rotator c…",
     "Clippers Game Time, TV Channel, Radio & Location 📅 Game Time: Friday, Nov. 27 at 8:30 pm CT🏟️ Location: Intuit Dome in Inglewood, CA🖥️ Pelicans Live Streams: Pelicans+, NBA League Pass📺 Clippers TV: ClipperVision📻 Clippe…"
    ],
@@ -1091,211 +1231,6 @@
     "We have to and will be better,",
     "A night like tonight not ideal certainly. We understand how important home is and how great our fans are. So, we have to do a better job protecting it."
    ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/detroit-pistons-honor-shocks-2006-title-build-momentum-for-tom-gores-led-wnba-return",
-   "url": "https://www.nba.com/pistons/news/detroit-pistons-honor-shocks-2006-title-build-momentum-for-tom-gores-led-wnba-return",
-   "canonical_url": "https://pistons.com/news/detroit-pistons-honor-shocks-2006-title-build-momentum-for-tom-gores-led-wnba-return",
-   "title": "Detroit Pistons honor Shock's 2006 title, build momentum for Tom Gores-led WNBA return",
-   "author": "Grace Reyes",
-   "published_utc": "2026-11-24T19:18:35Z",
-   "tags": [
-    "2004 Championship",
-    "detroit basketball",
-    "Tom Gores"
-   ],
-   "summary": "For Alissa Graff, the celebration of the Detroit Shock’s 2006 WNBA championship at Little Caesars Arena was about more than honoring the past. It was also about the future of women's sports in Detroit.",
-   "facts": [
-    "For Alissa Graff, the celebration of the Detroit Shock’s 2006 WNBA championship at Little Caesars Arena was about more than honoring the past.",
-    "Pistons owner Tom Gores, his wife, Holly, and a group of prominent investors led the successful effort to bring the WNBA back to Detroit, which will end a 20-year absence of professional women’s basketball in a city wher…",
-    "The return carries special meaning for fans like Graff, who grew up attending Shock games and now plans to open a sports bar dedicated to women's sports in Detroit's West Village neighborhood.",
-    "The city recently approved key elements of a proposed team headquarters and publicly accessible sports center on a 42-acre site on the city’s riverfront.",
-    "According to NBA figures released in October, more than 90 million unique viewers watched WNBA games across national networks during the 2026 regular season, while a league-record 51 telecasts averaged at least one milli…",
-    "Former Shock star and Flint native Deanna Nolan, the 2006 Finals MVP, said the timing is right to join the party.",
-    "They were greeted by fans wearing Shock jerseys and other WNBA merchandise during the Pistons’ game on Nov. 20 vs. the Toronto Raptors.",
-    "Each former player received a commemorative 20th anniversary jacket."
-   ],
-   "quotes": [
-    "Today is a really good acknowledgement of the history and I think we, as fans who care so deeply about the team, see that and we see the support for the team and hope that continues when the WNBA retu…",
-    "It started when I was a kid going to Shock games. I was probably 6 years old when I went to my first game, and I grew up going to as many games as we could until the team moved,",
-    "I looked up to those women as role models and they showed me that I could play sports and do whatever I wanted to do, just like the boys could. That gave me confidence, and I think that's what I tappe…",
-    "It's the only way to do it. The WNBA is not a million-dollar business. You have to have a billion-dollar mentality. You have to have a vision. You have to have passion,"
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
-   "url": "https://www.nba.com/magic/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
-   "canonical_url": "https://orlandomagic.com/news/orlando-magic-detroit-pistons-game-preview-injury-report-20261124",
-   "title": "Orlando Magic vs. Detroit Pistons: Game Preview",
-   "author": "Dan Savage",
-   "published_utc": "2026-11-24T19:08:24Z",
-   "tags": [
-    "Game Day",
-    "Game Preview",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO – There is no shortage of storylines for the next game on the Orlando Magic’s docket.",
-   "facts": [
-    "Whether it’s the potential for Orlando to advance in the NBA Cup, revenge against the team that erased a 3-1 first-round series deficit to eliminate the Magic in the 2026 playoffs, or just looking to rebound after a toug…",
-    "The Magic (7-9) will attempt to achieve all three of those goals by earning a home win over the Detroit Pistons (10-6) on Tuesday at 7 p.m.",
-    "Detroit possesses the league’s fifth-best defensive rating (109.2), is second in blocks (5.8) and fifth in steals (9.3) per game.",
-    "The No. 1 overall pick in the 2021 NBA Draft is averaging 24.2 points, 5.1 rebounds and 8.3 assists per matchup this season.",
-    "After scoring just five points in 33 minutes of action against the Hawks on Sunday, the two-time All-Star will certainly be searching for a bounce-back performance.",
-    "IN AND OUT: Paolo Banchero (illness / right high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery) and Noah Penda (right partially torn hamstring) are out for Orland…",
-    "For Detroit, Cunningham (right knee soreness) is probable, while Jalen Duren (right hamstring strain), Ebuka Okorie (left oblique strain), Taurean Prince (right knee arthroscopy) and Duncan Robinson (left quadriceps stra…",
-    "KEY STATS: Through 15 games, Bane is averaging 9.9 3-point attempts per game and 14.1 per 100 possessions."
-   ],
-   "quotes": [
-    "To be honest, we feel a sense to respond just based on the way our season is going,",
-    "We’re coming off a bad loss. So, we know we have to respond. Obviously, we’re playing the team that knocked us out (of the playoffs). It’s a cup game. There’s a chance to win the prize money, advance …",
-    "You’re playing for something during the season. I don’t think you can take these games lightly. It’s a good measuring stick early in the season. We’ve played some good teams already, but anytime you g…",
-    "I'd like for us to show the competitiveness that we’ve been showing here,"
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-look-to-clinch-emirates-nba-cup-group-with-win-over-mavericks",
-   "url": "https://www.nba.com/nuggets/news/nuggets-look-to-clinch-emirates-nba-cup-group-with-win-over-mavericks",
-   "canonical_url": "https://nuggets.com/news/nuggets-look-to-clinch-emirates-nba-cup-group-with-win-over-mavericks",
-   "title": "Nuggets look to clinch Emirates NBA Cup group with win over Mavericks",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-24T17:55:11Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets can clinch Emirates NBA Cup Group A on Tuesday.",
-   "facts": [
-    "INJURY REPORT Dallas: Tarik Biberovic — OUT (Right Heel Bursitis) Sergio de Larrea — OUT (Right Knee Sprain) Tobi Lawal — OUT (Right Groin Strain) Dereck Lively II — OUT (Right Foot Surgery) P.J.",
-    "They're the only two remaining undefeated teams in Group A, at 2-0 in Group Play, though Dallas has the slight advantage in point differential.",
-    "The Minnesota Timberwolves and the San Antonio Spurs, leaders of Group B and Group C, respectively, are also 2-0.",
-    "Of note: the Nuggets have no injuries to report.",
-    "That means all their two-way players will be recalled for Tuesday's game, AND, most significantly, Julian Strawther is available for the NBA Cup game.",
-    "Strawther has not played this season due to a knee injury he sustained during the preseason.",
-    "TUNE-IN: Tuesday, November 24, 8:00 p.m.",
-    "MT; Altitude TV and NBC; Altitude+ and Peacock; Altitude Sports Radio 92.5 FM"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CLE 公式（nba.com）",
-   "team": "CLE",
-   "team_ja": "キャバリアーズ",
-   "team_id": 1610612739,
-   "kind": "feature",
-   "key": "https://www.nba.com/cavaliers/news/preview-clenyk-261125",
-   "url": "https://www.nba.com/cavaliers/news/preview-clenyk-261125",
-   "canonical_url": "https://cavs.com/news/preview-clenyk-261125",
-   "title": "Cavs at Knicks | Rocket Game Preview",
-   "author": "Cavaliers",
-   "published_utc": "2026-11-24T17:06:10Z",
-   "tags": [
-    "2026-27 Season"
-   ],
-   "summary": "While other teams around the NBA finish up group play on Friday, the Cavs fourth game is tonight against the New York Knicks. Cleveland is in the first Wild Card spot, but need a win to improve their chances of advancing when the dust settles later in the week. CLICK HERE FOR FULL SCENARIOS & STANDINGS.",
-   "facts": [
-    "Chicago made 44 shots on the night and went 20-49 from three with the Cavs making just eight triples.",
-    "Donovan Mitchell had 28 with James Harden scoring 21; Peyton Watson recorded a career-high-tying six blocks.",
-    "HOW THE TEAMS STACK UP PLAYERS TO WATCH INJURY REPORT Cavs: -Evan Mobley - Toe - OUT -Nae'Qwan Tomlin - Back - OUT -Khalifa Diop - G-League (on assignment) - OUT -Zack Austin - G-League (two-way) - OUT -Ernest Udeh Jr. -…"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "MIN 公式（nba.com）",
-   "team": "MIN",
-   "team_ja": "ティンバーウルブズ",
-   "team_id": 1610612750,
-   "kind": "injury",
-   "key": "https://www.nba.com/timberwolves/news/donte-divincenzo-injury-update-3",
-   "url": "https://www.nba.com/timberwolves/news/donte-divincenzo-injury-update-3",
-   "canonical_url": "https://timberwolves.com/news/donte-divincenzo-injury-update-3",
-   "title": "Donte DiVincenzo Injury Update",
-   "author": "Minnesota Timberwolves",
-   "published_utc": "2026-11-24T17:01:15Z",
-   "tags": [
-    "Press Release"
-   ],
-   "summary": "Minneapolis/St. Paul – The Minnesota Timberwolves today announced the following injury update on guard Donte DiVincenzo, who underwent successful surgery on a ruptured right Achilles tendon on April 26:",
-   "facts": [
-    "Paul – The Minnesota Timberwolves today announced the following injury update on guard Donte DiVincenzo, who underwent successful surgery on a ruptured right Achilles tendon on April 26: DiVincenzo, has been cleared for …"
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/gamepreview-20261124-boswas",
-   "url": "https://www.nba.com/celtics/news/gamepreview-20261124-boswas",
-   "canonical_url": "https://celtics.com/news/gamepreview-20261124-boswas",
-   "title": "11/24 Game Preview: Celtics at Wizards",
-   "author": "Boston Celtics",
-   "published_utc": "2026-11-24T16:17:44Z",
-   "tags": [
-    "Game Preview",
-    "Pregame",
-    "Regular Season"
-   ],
-   "summary": "The Boston Celtics find themselves in an unusual position as they prepare for Tuesday night's NBA Cup road game against the Washington Wizards.",
-   "facts": [
-    "The Celtics have lost four straight games for the first time since Joe Mazzulla became the team's head coach in 2022.",
-    "The Celtics have failed to score more than 105 points in any game during the slump and are coming off Sunday's 88-87 setback against a Golden State Warriors team that had allowed 115 points or more in five consecutive ga…",
-    "Boston was held to 12 points in the fourth quarter of that loss.",
-    "The Sacramento Kings had allowed at least 100 points in every game this season until they beat Boston 97-96 on Saturday.",
-    "The Celtics have shot 28.3% from 3-point range during the losing streak.",
-    "The Celtics have averaged 51.3 3-point attempts per game during their losing streak, seven more than their season average.",
-    "The Wizards went 22-for-39 from 3-point range as they stretched their winning streak to three games.",
-    "Kyshawn George made six 3-pointers and finished with 24 points."
-   ],
-   "quotes": [
-    "I think if the season ended today, I'd be pretty concerned, but we have 63 games left,",
-    "So, you have to continue to trust the fact that if we're getting good shots, which more times than not we are. ... If we're looking at it and we're good with these shots, you have to trust over the co…",
-    "It's definitely a situation that we haven't been a part of in a long time,",
-    "I think each game has been a little bit of a different reason. We're just kind of in a teamwide funk right now. We just gotta stick together and find a way through it. Can't feel sorry for ourselves. …"
-   ]
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "feature",
-   "key": "https://www.nba.com/sixers/news/trail-blazers-snap-sixers-win-streak",
-   "url": "https://www.nba.com/sixers/news/trail-blazers-snap-sixers-win-streak",
-   "canonical_url": "https://sixers.com/news/trail-blazers-snap-sixers-win-streak",
-   "title": "Trail Blazers Snap Sixers' Win Streak",
-   "author": "76ers PR",
-   "published_utc": "2026-11-24T13:59:22Z",
-   "tags": [],
-   "summary": "The Philadelphia 76ers fell to the Portland Trail Blazers, 111-128, in the first regular season contest between the two teams. They'll meet again once more this season on Friday, March 26 at Moda Center in Portland.",
-   "facts": [
-    "The Philadelphia 76ers fell to the Portland Trail Blazers, 111-128, in the first regular season contest between the two teams.",
-    "They'll meet again once more this season on Friday, March 26 at Moda Center in Portland.",
-    "LEBRON JAMES scored a season-high 23 points on 4-of-5 shooting from beyond the arc (8-13 FG), to go along with six rebounds and three assists.",
-    "Over the last three games, James is averaging 22.0 points, 5.0 rebounds, 5.0 assists, and 1.0 steal.",
-    "To hear Nick Nurse’s postgame press conference and game highlights as called by Tom McGinnis, check out the 76ers Insiders podcast: SPOTIFY LINK | APPLE PODCASTS LINK TYRESE MAXEY posted 22 points on 7-of-16, marking his…",
-    "Maxey ranks tied for second most 20-point games in the Eastern Conference and tied for fourth most in the league.",
-    "JAYLEN BROWN recorded 20 points (8-14 FG), four assists, two rebounds, and two steals.",
-    "Tonight marked Brown's 10th 20-plus point performance this season, good for the second most among 76ers (14, Tyrese Maxey)."
-   ],
-   "quotes": []
   }
  ]
 }
