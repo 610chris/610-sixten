@@ -1,8 +1,314 @@
 {
- "updated_utc": "2026-11-28 02:08 UTC",
+ "updated_utc": "2026-11-28 10:49 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-preview-20261129",
+   "url": "https://www.nba.com/warriors/news/gameday-preview-20261129",
+   "canonical_url": "https://warriors.com/news/gameday-preview-20261129",
+   "title": "Game Preview: Warriors vs. Los Angeles Clippers - 11/29/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-28T09:44:42Z",
+   "tags": [],
+   "summary": "DEBUTING A NEW JERSEY, LOOKING TO KEEP HOME WINNING STREAK GOING The Warriors will debut their Specter Edition uniform when they host the Los Angeles Clippers at Chase Center on Sunday. The Dubs have won eight straight games at Chase Center, including a 12-point win over the Clippers on Nov. 1. The Clippers enter Sunday's game on a six-game losing streak.",
+   "facts": [
+    "The Dubs have won eight straight games at Chase Center, including a 12-point win over the Clippers on Nov. 1.",
+    "The first 10,000 fans in attendance for Sunday's game will receive a Muggsy Bogues and Manute Bol celebrating the Coliseum Era of Warriors basketball.",
+    "GET TICKETS LAST TIME OUT The Warriors were eliminated from NBA Cup contention with a 116-94 loss to the Portland Trail Blazers at Moda Center on Friday.",
+    "Golden State fell behind by as many as 36 points in the first half and never got closer than 10 points for the rest of the contest.",
+    "Yaxel Lendeborg paced the Warriors, scoring 14 of his team-high 18 points in the second half.",
+    "De'Anthony Melton added 17 points and eight rebounds, and Brandin Podziemski had 16 points.",
+    "Blazers forward Deni Advija led all scorers with 26 points, while adding seven rebounds and seven assists.",
+    "Both teams were without their lead guards, as Stephen Curry is set to be re-evaluated for his oblique abdominal tear next Wednesday, and both Damian Lillard and Ja Morant were sidelined due to injuries for Portland. »Ful…"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/pacers-schedule-updated-after-2026-nba-cup-group-play",
+   "url": "https://www.nba.com/pacers/news/pacers-schedule-updated-after-2026-nba-cup-group-play",
+   "canonical_url": "https://pacers.com/news/pacers-schedule-updated-after-2026-nba-cup-group-play",
+   "title": "Pacers Schedule Updated After 2026 NBA Cup Group Play",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-28T06:50:23Z",
+   "tags": [],
+   "summary": "After NBA Cup Group Play wrapped up on Friday night, the NBA announced the updated regular season schedule for the 22 teams that did not advance to the Knockout Rounds early on Saturday morning.",
+   "facts": [
+    "After NBA Cup Group Play wrapped up on Friday night, the NBA announced the updated regular season schedule for the 22 teams that did not advance to the Knockout Rounds early on Saturday morning.",
+    "The Pacers will host the Miami Heat on Monday, Dec. 7 at 7:00 PM ET.",
+    "Indiana will visit Washington on Thursday, Dec. 10 at 7:00 PM ET.",
+    "Indiana lost to the Heat 145-125 on Oct. 30 in Miami in the NBA Cup opener for both teams.",
+    "The Pacers beat Washington 114-101 on Nov. 11 at Gainbridge Fieldhouse.",
+    "The Pacers will now play the Hawks in Atlanta on Wednesday, Dec. 2 at 8:00 PM ET instead of Thursday, Dec. 3 at 7:00 PM ET.",
+    "The change was made to accommodate the Hawks, who advanced to the NBA Cup Quarterfinals on Friday, Dec. 4.",
+    "The Pacers play on Tuesday, Dec. 1 in Cleveland and now will be on the second night of a back-to-back in Atlanta."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "quotes",
+   "key": "https://www.nba.com/jazz/news/jusuf-nurkic-makes-season-debut-in-utah-jazz-loss-to-nuggets-key-takeaways",
+   "url": "https://www.nba.com/jazz/news/jusuf-nurkic-makes-season-debut-in-utah-jazz-loss-to-nuggets-key-takeaways",
+   "canonical_url": "https://utahjazz.com/news/jusuf-nurkic-makes-season-debut-in-utah-jazz-loss-to-nuggets-key-takeaways",
+   "title": "Jusuf Nurkić Makes Season Debut in Utah Jazz Loss to Nuggets: Key Takeaways",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-28T05:28:05Z",
+   "tags": [
+    "Brice Sensabaugh",
+    "Darryn Peterson",
+    "Jaxson Hayes",
+    "Jusuf Nurkić",
+    "Keyonte George",
+    "Kyle Filipowski",
+    "Svi Mykhailiuk",
+    "Utah Jazz"
+   ],
+   "summary": "The Utah Jazz got a boost Friday night in the form of a Bosnian big man.",
+   "facts": [
+    "Jusuf Nurkić made his 2026-27 season debut against the Denver Nuggets, as the Jazz battled back-and-forth with one of the top contenders in the Western Conference.",
+    "Utah scored efficiently (48 percent from the field) and had five players in double-figures, but Denver’s crunch-time execution led to a 120-107 win.",
+    "Jamal Murray led all scorers with 36 points, with the Nuggets controlling the possession game throughout the night.",
+    "Despite the return of Nurkić, the Jazz offense struggled to find a rhythm as a result of cold shooting and a lack of ball security.",
+    "Utah connected on 3-of-10 from three) during the first 12 minutes and coughed it up nine times.",
+    "On the other side, Denver was generating good looks from deep (5-of-9 in the first frame) and took care of the ball, which resulted in a 27-22 lead for the visitors after one quarter.",
+    "Utah used the 3-point line to briefly go in front early in the second quarter, as the team’s second unit continued to provide a spark around Keyonte George, who connected on three triples in the first few minutes.",
+    "The two teams traded buckets in the ensuing minutes, which kept the game close heading into the halftime break."
+   ],
+   "quotes": [
+    "Obviously having Nurk back was nice,",
+    "I thought the guys competed. The late-game execution was poor. We gave into physicality, didn’t change ends, and had too many lapses… We need to stay in the moment and compete.",
+    "It takes mental conditioning to get to the end,",
+    "We’re playing a lot of good basketball… the end of the game is not up to our standard."
+   ]
+  },
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/pelicans-105-clippers-104-nba-cup-group-stage-postgame-wrap",
+   "url": "https://www.nba.com/pelicans/news/pelicans-105-clippers-104-nba-cup-group-stage-postgame-wrap",
+   "canonical_url": "https://pelicans.com/news/pelicans-105-clippers-104-nba-cup-group-stage-postgame-wrap",
+   "title": "Pelicans 105, Clippers 104 | NBA Cup group stage postgame wrap",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-28T05:10:19Z",
+   "tags": [
+    "NBA Cup"
+   ],
+   "summary": "New Orleans’ talented starting forward duo appeared to be intent on getting their team back into the win column, even if there were no NBA Cup stakes Friday in Intuit Dome. Behind 25 points apiece from Trey Murphy and Zion Williamson – as well as some key, disruptive defense from Murphy – the Pelicans ended a four-game losing streak, emerging with their first victory in a dozen days.",
+   "facts": [
+    "Behind 25 points apiece from Trey Murphy and Zion Williamson – as well as some key, disruptive defense from Murphy – the Pelicans ended a four-game losing streak, emerging with their first victory in a dozen days.",
+    "Murphy gave New Orleans a two-possession advantage by dropping in a floater with 42 seconds remaining.",
+    "After the Clippers cut their deficit to 104-101, Murphy came up with a defensive stop against Los Angeles point guard Darius Garland, leading to Herb Jones sinking a free throw that made it 105-101 at 0:09.",
+    "Mosley also cited starting center Yves Missi for his impact in non-offensive aspects of the game, finishing with 12 rebounds, four assists and one highlight-reel block in the fourth quarter, helping after a teammate was …",
+    "Off the bench, Jordan Poole delivered another valuable effort with 16 points in 23 minutes.",
+    "Double-digit scoring from Williamson, Murphy and Poole helped create a 54-50 halftime edge for New Orleans.",
+    "BY THE NUMBERS 35: Fewer points scored by the Clippers on Friday compared to the 139 they amassed against the Pelicans in a Nov. 8 meeting inside Intuit Dome.",
+    "This time, Los Angeles did not tally more than 28 points in any quarter. 39.6: Clippers shooting percentage from the floor Friday."
+   ],
+   "quotes": [
+    "I thought those guys were great down the stretch, finding ways to execute and get stops,"
+   ]
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "feature",
+   "key": "https://www.nba.com/warriors/news/gameday-recap-20261127",
+   "url": "https://www.nba.com/warriors/news/gameday-recap-20261127",
+   "canonical_url": "https://warriors.com/news/gameday-recap-20261127",
+   "title": "Warriors Eliminated from NBA Cup with Loss to Trail Blazers",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-28T05:10:02Z",
+   "tags": [
+    "Game Recap",
+    "NBA Cup"
+   ],
+   "summary": "The Warriors were eliminated from NBA Cup contention with a 116-94 loss to the Portland Trail Blazers at Moda Center on Friday. Golden State fell behind by as many as 36 points in the first half and never got closer than 10 points for the rest of the contest. Yaxel Lendeborg paced the Warriors, scoring 14 of his team-high 18 points in the second half. De'Anthony Melton added 17 points and eight re…",
+   "facts": [
+    "The Warriors were eliminated from NBA Cup contention with a 116-94 loss to the Portland Trail Blazers at Moda Center on Friday.",
+    "Golden State fell behind by as many as 36 points in the first half and never got closer than 10 points for the rest of the contest.",
+    "Yaxel Lendeborg paced the Warriors, scoring 14 of his team-high 18 points in the second half.",
+    "De'Anthony Melton added 17 points and eight rebounds, and Brandin Podziemski had 16 points.",
+    "Blazers forward Deni Advija led all scorers with 26 points, while adding seven rebounds and seven assists.",
+    "Both teams were without their lead guards, as Stephen Curry is set to be re-evaluated for his oblique abdominal tear next Wednesday, and both Damian Lillard and Ja Morant were sidelined due to injuries for Portland.",
+    "The Dubs concluded group play with a 2-2 record, finishing third in West Group C.",
+    "Both the Trail Blazers and Spurs finished 3-1 in group play and will advance to the knockout stage."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/sidebar-post-20261127-celtics-ride-cup-best-point-differential-into-quarterfinals",
+   "url": "https://www.nba.com/celtics/news/sidebar-post-20261127-celtics-ride-cup-best-point-differential-into-quarterfinals",
+   "canonical_url": "https://celtics.com/news/sidebar-post-20261127-celtics-ride-cup-best-point-differential-into-quarterfinals",
+   "title": "Celtics Ride Cup-Best Point Differential into Quarterfinals",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-28T04:59:00Z",
+   "tags": [
+    "Postgame",
+    "Regular Season",
+    "Sidebar"
+   ],
+   "summary": "BOSTON – The Boston Celtics built quite the cushion through their first three NBA Cup games, and it paid off Friday night.",
+   "facts": [
+    "Despite falling to the Atlanta Hawks, 87-86, at TD Garden in their Group Play finale, the Celtics secured the Eastern Conference’s wild-card spot thanks to their plus-67 point differential across four NBA Cup games – the…",
+    "A win Friday night would have secured Boston the No. 1 seed in the East and a home quarterfinal matchup against Toronto.",
+    "Instead, Atlanta clinched East Group C, with both the Hawks and the Celtics finishing Group Play with 3-1 records.",
+    "They opened Group Play with a 125-111 win over Chicago, followed by a 119-80 rout of Charlotte and a 131-116 win over Washington.",
+    "Over in the Western Conference, a battle of Texas will take place Dec. 4, with Dallas, the lone team to go unbeaten in Group Play, hosting San Antonio.",
+    "Portland will host Memphis on Dec. 5 to round out the quarterfinal slate.",
+    "The semifinals will take place Dec. 8 and 9 at the home arenas of the higher-seeded teams in each matchup, with the NBA Cup championship game set for Dec. 11 at Hinkle Fieldhouse in Indianapolis."
+   ],
+   "quotes": [
+    "It gives us an opportunity to fight for a championship. Being able to be competitive early on in the season and see what we're made of. Obviously, the monetary prize is good. But at the end of the day…"
+   ]
+  },
+  {
+   "source": "BOS 公式（nba.com）",
+   "team": "BOS",
+   "team_ja": "セルティックス",
+   "team_id": 1610612738,
+   "kind": "feature",
+   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261127-atlbos",
+   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261127-atlbos",
+   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261127-atlbos",
+   "title": "Keys to the Game: Hawks 87, Celtics 86",
+   "author": "Taylor Snow",
+   "published_utc": "2026-11-28T04:52:27Z",
+   "tags": [
+    "Keys to the Game",
+    "Postgame",
+    "Regular Season"
+   ],
+   "summary": "For the third time in the past week, the Boston Celtics found themselves in a low-scoring battle. And for the third time in the past week, they came out on the wrong end of a one-point game.",
+   "facts": [
+    "Boston entered the fourth quarter with a 70-69 lead and went back and forth with Atlanta throughout the final frame.",
+    "The C’s trailed 83-79 with less than two minutes remaining, but Derrick White brought them back even by sinking a pair of clutch free throws and knocking down a driving floater.",
+    "Nickeil Alexander-Walker put Atlanta back on top with a layup with 54 seconds remaining, and Jayson Tatum had his jumper blocked at the other end.",
+    "Tatum then came away with a steal on the ensuing inbounds pass, only to turn the ball back over as he raced up the court in transition with 3.8 seconds remaining.",
+    "Alexander-Walker sank a pair of free throws to extend Atlanta’s lead to four, and although White knocked down a 3-pointer as time expired, it wasn’t enough, as the Celtics fell, 87-86.",
+    "Queta pulled down a career-high 22 rebounds, becoming the first Celtic to reach that total since Al Jefferson on Jan. 13, 2007.",
+    "Queta grabbed his 22 boards in just 33 minutes of action, becoming the first Celtic since Robert Parish on Dec. 1, 1981, to collect that many rebounds in so little playing time in Boston.",
+    "The big man also scored 11 points on 4-of-8 shooting, dished out three assists and blocked two shots."
+   ],
+   "quotes": [
+    "Our defense is keeping us in games … Our offense just has to meet our defensive side."
+   ]
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/huge-fourth-quarter-rally-delivers-mavericks-fifth-consecutive-win",
+   "url": "https://www.nba.com/mavs/news/huge-fourth-quarter-rally-delivers-mavericks-fifth-consecutive-win",
+   "canonical_url": "https://mavs.com/mavs/news/huge-fourth-quarter-rally-delivers-mavericks-fifth-consecutive-win",
+   "title": "Huge rally delivers Mavericks' fifth consecutive win, No. 1 seed in NBA Cup",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-28T04:40:10Z",
+   "tags": [],
+   "summary": "PHOENIX – The Mavericks may have blown their cover Friday night. No longer are they the sneaky-scary team flying under the radar.",
+   "facts": [
+    "They have established themselves as a full-blown force after the way they came back from a 21-point deficit to nick the Phoenix Suns 113-109 Friday night at Mortgage Matchup Center.",
+    "Cooper Flagg missed one of the NBA’s rarest statistical feats – a high five – by one blocked shot, amassing 34 points, eight assists, seven rebounds, five steals and four blocks in 42 minutes.",
+    "It also put them at 4-0 in the NBA Cup Group A games, assuring them the No. 1 seed in the Western Conference.",
+    "The Mavericks will host the San Antonio Spurs on Dec. 4 in the quarterfinals of the Cup’s knockout rounds.",
+    "They had trailed 92-71 with 1:40 left in the third quarter.",
+    "They forced five turnovers and limited the Suns to 6-of-21 shooting in the fourth quarter (2-of-12 from long range).",
+    "When Christie fed Flagg with a lob pass for a dunk with 5:53 remaining, the Mavericks were right back in it at 100-94.",
+    "They took their first lead in what seemed like forever when Flagg made a couple of shots in the paint to put the Mavericks up 107-106."
+   ],
+   "quotes": [
+    "A heck of a fourth quarter by our guys,",
+    "That’s the great thing about our management,",
+    "We’re all in this foxhole together. Win, lose, draw, whatever the case, we’re always trying to find answers to the problem. They’re great to work with and work for.",
+    "We’re just a good team, no matter who is playing,"
+   ]
+  },
+  {
+   "source": "MIA 公式（nba.com）",
+   "team": "MIA",
+   "team_ja": "ヒート",
+   "team_id": 1610612748,
+   "kind": "quotes",
+   "key": "https://www.nba.com/heat/news/coups-takeaways-clutch-win-knicks-brunson-towns-antetokounmpo-adebayo-nba-cup",
+   "url": "https://www.nba.com/heat/news/coups-takeaways-clutch-win-knicks-brunson-towns-antetokounmpo-adebayo-nba-cup",
+   "canonical_url": "https://heat.com/news/coups-takeaways-clutch-win-knicks-brunson-towns-antetokounmpo-adebayo-nba-cup",
+   "title": "Coup’s Takeaways: HEAT Hold On With Clutch Shotmaking In New York",
+   "author": "Couper Moorhead",
+   "published_utc": "2026-11-28T03:37:26Z",
+   "tags": [
+    "Coups Takeaways",
+    "News",
+    "Trending"
+   ],
+   "summary": "1. It wasn’t always pretty, but Miami held on against the defending champion New York Knicks in the final minutes for one of their most impressive wins of the season. It just didn’t deliver the overall result they wanted as they were ousted from the NBA Cup on a point differential tiebreaker.",
+   "facts": [
+    "New York made a couple brief pushes in return after the gap neared double digits, but the difference in the bench groups was as stark as we’ve seen it this season.",
+    "Miami led by 10 after the first, and that was before a New York bench unit went just over three minutes without registering a single point.",
+    "The threes widened the gap, and then some bizarre turnovers – two in a row from James Wiseman trying to inbound the ball off a Miami score – pushed the lead all the way to 23.",
+    "Miami up, 60-44, at the break, with 15 more points off threes, 10 more second-chance points and a massive 30-4 advantage in bench scoring, with every sub for the HEAT hitting a three.",
+    "Down to 12 early in the third, with Brunson picking up a couple quick fouls along the way.",
+    "Then it was back to 10 on a Shamet cut from a Brunson feed, with Miami in the bonus before two minutes had even passed.",
+    "The Knicks kept throwing the ball away against pressure, which helped, and it was back to zone for the HEAT, the lead back to 11 in a hurry with Antetokounmpo and Adebayo owning the middle of the floor.",
+    "Wiseman, not a great free-throw shooter, split his pair, keeping the HEAT up one with 12.5 seconds left."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/preview-pacers-bulls-261128",
+   "url": "https://www.nba.com/pacers/news/preview-pacers-bulls-261128",
+   "canonical_url": "https://pacers.com/news/preview-pacers-bulls-261128",
+   "title": "Game Preview: Pacers at Bulls",
+   "author": "Wheat Hotchkiss",
+   "published_utc": "2026-11-28T03:16:16Z",
+   "tags": [
+    "2026-27 Game Preview"
+   ],
+   "summary": "Saturday, Nov. 28 at 8:00 PM ET at United Center",
+   "facts": [
+    "Saturday, Nov. 28 at 8:00 PM ET at United Center Game Preview The Pacers (6-13) tip off a three-game road trip on Saturday night in Chicago, taking on the Bulls (6-12) on the second night of a back-to-back.",
+    "The Pacers are hoping to bounce back after a disappointing offensive performance in a 111-87 loss to Philadelphia on Friday night at Gainbridge Fieldhouse.",
+    "The Blue & Gold managed just 58 points through three quarters, shooting under 30 percent from the field and just 3-for-25 from 3-point range entering the fourth quarter.",
+    "They scored 29 in the fourth quarter to make the final box score look a little better, but still set season lows for total points (87), field-goal percentage (.349), and 3-point percentage (.135).",
+    "Jay Huff led Indiana with 18 points on 8-of-12 shooting and Andrew Nembhard added 14 points while going 5-for-10 from the field, but the rest of the team struggled mightily offensively.",
+    "All-Star forward Pascal Siakam scored a season-low 11 points and went 3-for-14 from the field, Aaron Nesmith was 1-for-8, Kelly Oubre Jr. was 1-for-6, and Ivica Zubac was 2-for-7.",
+    "As a team, the Pacers went just 5-for-37 from 3-point range.",
+    "Matas Buzelis scored a team-high 24 points in the victory for Chicago and Josh Giddey flirted with a triple-double with 12 points, 11 rebounds, and seven assists."
+   ],
+   "quotes": [
+    "I don’t like the way this game went,",
+    "I know we can play a lot better. I know we can compete a lot better. But it happened and it’s over and now we’ve got to turn toward tomorrow [against Chicago]."
+   ]
+  },
   {
    "source": "IND 公式（nba.com）",
    "team": "IND",
@@ -12,25 +318,30 @@
    "key": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261127",
    "url": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261127",
    "canonical_url": "https://pacers.com/news/rewind-pacers-76ers-261127",
-   "title": "Halftime Rewind: Pacers 44, 76ers 55 (NBA Cup)",
+   "title": "Game Rewind: Pacers 87, 76ers 111(NBA Cup)",
    "author": "Madie Chandler-Donahue",
-   "published_utc": "2026-11-28T01:45:19Z",
+   "published_utc": "2026-11-28T03:04:00Z",
    "tags": [
     "2026 NBA Cup",
     "2026-27 Game Rewind"
    ],
    "summary": "Friday, Nov. 27 at 7:30 PM ET at Gainbridge Fieldhouse",
    "facts": [
-    "Friday, Nov. 27 at 7:30 PM ET at Gainbridge Fieldhouse Halftime Rewind The Pacers hosted the Philadelphia 76ers for the third time this season as the two teams met for NBA Cup action on Friday evening.",
-    "LeBron James got off to a hot start for the 76ers while the Pacers struggled from the floor.",
-    "Indiana trailed at the halftime break, 55-44.",
+    "Friday, Nov. 27 at 7:30 PM ET at Gainbridge Fieldhouse Game Recap LeBron James set the tone early against the Pacers, and the Philadelphia 76ers won their third matchup against Indiana this season, 111-87.",
     "Philadelphia’s Jaylen Brown was sidelined with a hamstring injury, and the Pacers played without T.J.",
     "Joel Embiid returned to action for the 76ers on Friday after missing two consecutive games with an illness.",
-    "The 76ers had more energy in the opening minutes of play.",
     "Philadelphia began the game with a 10-2 run that prompted a Pacers timeout just two minutes into action.",
-    "James had more points (11) through the first seven minutes of play than the Pacers did as a team (9), and Indiana trailed, 21-9."
+    "James had more points (11) through the first seven minutes of play than the Pacers did as a team (9), and Indiana trailed, 21-9.",
+    "He spent the rest of the first quarter on the bench, and didn’t return until the beginning of the second quarter.",
+    "The 76ers offense began to stall without Maxey, and Indiana capitalized.",
+    "The Pacers went on an 11-5 run down the stretch of the first quarter, and trailed by just four points, 22-18, with just over two minutes remaining in the opening frame."
    ],
-   "quotes": []
+   "quotes": [
+    "It was a bad night for us and a great night for them. The whole thing started off with LeBron James hitting two hellacious shots out of the corner…some nights it's like that. I don’t like the way this…",
+    "I can’t thank our fans enough for showing our team an amazing amount of grace in this game…We have the greatest fans around.",
+    "I think tonight specifically we did a good job of creating shots for ourselves that were pretty good looks, they just didn’t fall for us.",
+    "Just [keep] each other up. Not getting down on yourself because we're all going through it together, and just trying to pull the next man up with you."
+   ]
   },
   {
    "source": "GSW 公式（nba.com）",
@@ -219,7 +530,9 @@
    "title": "NBA Cup group stage preview: Pelicans at Clippers (11/27/2026)",
    "author": "Jim Eichenhofer",
    "published_utc": "2026-11-27T16:14:08Z",
-   "tags": [],
+   "tags": [
+    "NBA Cup"
+   ],
    "summary": "NEW ORLEANS PELICANS (5-14, 0-3 WEST GROUP B) AT LOS ANGELES CLIPPERS (4-13, 1-2 WEST GROUP B)",
    "facts": [
     "NEW ORLEANS PELICANS (5-14, 0-3 WEST GROUP B) AT LOS ANGELES CLIPPERS (4-13, 1-2 WEST GROUP B) NBA Cup Ramifications Multiple losses for both teams within the NBA’s annual early-season event mean the Pelicans and Clipper…",
@@ -751,16 +1064,16 @@
    "tags": [
     "2026-27 Schedule"
    ],
-   "summary": "The Warriors have six home games in December, highlighted by their 14th consecutive Christmas Day game against the Denver Nuggets at Chase Center. Each confirmed home game this month is against a Western Conference opponent starting with the Utah Jazz on Dec. 1 and ending with the Houston Rockets on Dec. 30. Golden State may also host a mystery game this month, with their opponent for that game de…",
+   "summary": "The Warriors have six home games in December, highlighted by their 14th consecutive Christmas Day game against the Denver Nuggets at Chase Center. Each home game this month is against a Western Conference opponent starting with the Utah Jazz on Dec. 1 and ending with the Houston Rockets on Dec. 30. Golden State has two home matchups against the Nuggets this month, also hosting them on Dec. 10 base…",
    "facts": [
     "The Warriors have six home games in December, highlighted by their 14th consecutive Christmas Day game against the Denver Nuggets at Chase Center.",
-    "Each confirmed home game this month is against a Western Conference opponent starting with the Utah Jazz on Dec. 1 and ending with the Houston Rockets on Dec. 30.",
+    "Each home game this month is against a Western Conference opponent starting with the Utah Jazz on Dec. 1 and ending with the Houston Rockets on Dec. 30.",
+    "Golden State has two home matchups against the Nuggets this month, also hosting them on Dec. 10 based on the group play results of the Emirates NBA Cup.",
     "MAVS Nine-time All-Star Kyrie Irving is back after missing the entire 2025-26 season with a torn ACL.",
     "Flagg is the reigning Rookie of the Year and is making a case for an All-Star nod in Year 2.",
     "Irving, Flagg, and the Mavericks will be in town a few days before Christmas, visiting Chase Center on Dec. 22. »Buy Tickets 14TH STRAIGHT CHRISTMAS DAY GAME AGAINST JOKIC’S NUGGETS The NBA on Christmas Day is an annual …",
     "The 7-footer is the Nuggets’ top facilitator and can shoot over virtually any contest. »Buy Tickets FINAL GAME OF 2026 AGAINST DURANT, ROCKETS The Warriors end 2026 by hosting the Houston Rockets at Chase Center on Dec. …",
-    "The Warriors and Rockets have a rich history, as Golden State has beaten them in all five of their head-to-head playoff series dating back to 2015.",
-    "This iteration of the Rockets has some veteran reinforcements, including 2022 All-Star Fred VanVleet, who returns to the lineup after being sidelined with a torn ACL in 2025-26, and 2022 Defensive Player of the Year Marc…"
+    "The Warriors and Rockets have a rich history, as Golden State has beaten them in all five of their head-to-head playoff series dating back to 2015."
    ],
    "quotes": []
   },
@@ -1123,231 +1436,6 @@
     "Adebayo finished with 24 points, 15 rebounds and 12 assists, tying LeBron James for the second-most triple-doubles in franchise history with nine."
    ],
    "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/gafford-mavericks-quiet-jokic-in-commendable-fashion",
-   "url": "https://www.nba.com/mavs/news/gafford-mavericks-quiet-jokic-in-commendable-fashion",
-   "canonical_url": "https://mavs.com/mavs/news/gafford-mavericks-quiet-jokic-in-commendable-fashion",
-   "title": "Gafford, Mavericks quiet Jokic in commendable fashion",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-25T08:11:18Z",
-   "tags": [
-    "dallas mavericks",
-    "Daniel Gafford",
-    "kyrie irving",
-    "nba",
-    "PJ Washington"
-   ],
-   "summary": "DENVER – Playing the Denver Nuggets Tuesday was “just another game” for Mavericks’ center Daniel Gafford, NBA Cup implications notwithstanding.",
-   "facts": [
-    "In the three games before Tuesday, Jokic and Murray had combined for 167 points, 55.7 per game.",
-    "Jokic had only 18 points, 11 rebounds and five assists – way below the massive 37 points, 18 rebounds and 11 assists he had two nights earlier at Chicago.",
-    "He finished with 20 points.",
-    "Combined, Jokic and Murray shot just 12-for-31 from the field.",
-    "The Mavericks kept Jokic from going crazy in the early going and two early fouls on the 6-11 two-time MVP helped.",
-    "It just seems like in the NBA there’s going to be someone sick or injured periodically and that will probably work itself out.",
-    "But until this year, he had been a starter every time he took the court since 2010.",
-    "Only in his rookie season had he come off the bench, and even then it was only for 12 games."
-   ],
-   "quotes": [
-    "How long they been playing together?",
-    "I would say they got an unbreakable bond. They won a championship together. It’s going to be tough to stop that dynamic duo.",
-    "Gaff did a great job, Rez (Morez Johnson Jr.) did a great job,",
-    "We pushed his catches out a little bit further and our guys were really smart about mixing up coverages. We felt like we had to give these guys some different looks because once they find a rhythm, th…"
-   ]
-  },
-  {
-   "source": "DEN 公式（nba.com）",
-   "team": "DEN",
-   "team_ja": "ナゲッツ",
-   "team_id": 1610612743,
-   "kind": "feature",
-   "key": "https://www.nba.com/nuggets/news/nuggets-lose-to-mavericks-in-emirates-nba-cup-game",
-   "url": "https://www.nba.com/nuggets/news/nuggets-lose-to-mavericks-in-emirates-nba-cup-game",
-   "canonical_url": "https://nuggets.com/news/nuggets-lose-to-mavericks-in-emirates-nba-cup-game",
-   "title": "Nuggets lose to Mavericks in Emirates NBA Cup game",
-   "author": "Matt Brooks",
-   "published_utc": "2026-11-25T06:18:32Z",
-   "tags": [
-    "2026-27 Denver Nuggets",
-    "Denver Nuggets"
-   ],
-   "summary": "The Denver Nuggets lost to the Dallas Mavericks, 120-101, in their third Emirates NBA Cup game.",
-   "facts": [
-    "The Denver Nuggets lost to the Dallas Mavericks, 120-101, in their third Emirates NBA Cup game.",
-    "Denver is now 2-1 in NBA Cup Group Play.",
-    "They trail the Mavericks (3-0) in Western Conference Group A.",
-    "Tuesday's result also hurt Denver's overall point differential, as they're now minus-3 after three games.",
-    "Christian Braun had the best game of any Nugget, scoring 15 points on 5-of-8 shooting.",
-    "Dallas outscored Denver in the painted area, 68-38.",
-    "The Nuggets also turned the ball over 18 times, leading to 26 Mavericks' points.",
-    "Denver's bench got outscored as well, 47-30."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "DAL 公式（nba.com）",
-   "team": "DAL",
-   "team_ja": "マーベリックス",
-   "team_id": 1610612742,
-   "kind": "feature",
-   "key": "https://www.nba.com/mavs/news/mavericks-knock-out-nuggets-for-fourth-consecutive-win",
-   "url": "https://www.nba.com/mavs/news/mavericks-knock-out-nuggets-for-fourth-consecutive-win",
-   "canonical_url": "https://mavs.com/mavs/news/mavericks-knock-out-nuggets-for-fourth-consecutive-win",
-   "title": "Mavericks clamp down on Nuggets for fourth consecutive win",
-   "author": "Eddie Sefko",
-   "published_utc": "2026-11-25T05:34:15Z",
-   "tags": [
-    "Caleb Martin",
-    "Cooper Flagg",
-    "dallas mavericks",
-    "kyrie irving",
-    "nba"
-   ],
-   "summary": "DENVER – Something had to give when two red-hot teams met Tuesday night at Ball Arena.",
-   "facts": [
-    "With a wide array of strong contributions, the Mavericks leaned on their defense to shut down one of the NBA’s best offensive teams and score a pivotal 120-101 victory over the Denver Nuggets.",
-    "The win also gave them a 3-0 record in NBA Cup games.",
-    "They pushed their overall record to 11-7, while Denver fell to 10-6 and saw their three-game winning streak halted.",
-    "The Nuggets shot just 40.5 percent, far below their average of 49 percent coming into the game, which was tops in the NBA.",
-    "We had 13 steals as a group and only 12 turnovers.",
-    "It worked wonderfully as Washington had 14 first-half points to augment solid play from Flagg, Martin and Johnson, who had by far his best NBA game.",
-    "We had 35 transition points.",
-    "More accurately, Christian Braun caught fire with three long balls in a row to make it 71-65."
-   ],
-   "quotes": [
-    "Anytime you can hold the Nuggets to 25 or less in three of the four quarters, that’s a sign of guys being really locked in and committed to defending as a group,",
-    "They’re tough to cover. Caleb had five steals. We had 13 steals as a group and only 12 turnovers. When we don’t turn the ball over and give them easy baskets, we’re pretty good. And 35 fast-break poin…",
-    "It (a game like Tuesday) gives you confidence that, regardless if the ball’s going in, you can still find a way to win,",
-    "We’re getting better defensively. You can see the guys playing off of one another. If we can continue to apply the type of ball pressure we have at the point of attack and we can disrupt passing lanes…"
-   ]
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/sidebar-post-20261124-four-celtics-make-history-in-nations-capital",
-   "url": "https://www.nba.com/celtics/news/sidebar-post-20261124-four-celtics-make-history-in-nations-capital",
-   "canonical_url": "https://celtics.com/news/sidebar-post-20261124-four-celtics-make-history-in-nations-capital",
-   "title": "Four Celtics Make History in Nation’s Capital",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-25T05:25:00Z",
-   "tags": [
-    "Postgame",
-    "Regular Season",
-    "Sidebar"
-   ],
-   "summary": "It was a night of milestones in the nation’s capital for the Boston Celtics.",
-   "facts": [
-    "Not only did the C’s snap a four-game losing streak with a 131-116 win over the Washington Wizards Tuesday night, improving to 3-0 in NBA Cup group play in the process, but they also made several noteworthy entries into …",
-    "Jayson Tatum delivered a historic first quarter, Paul George joined elite company on the NBA’s all-time 3-point list, Payton Pritchard cracked the top five on Boston’s 3-point leaderboard, and Joe Mazzulla reached a majo…",
-    "Tatum tallied 15 points and five rebounds in the first quarter, marking just the second instance in the play-by-play era in which a Celtic reached those numbers in an opening frame.",
-    "The only other Celtic to reach those numbers in any quarter during that span was Paul Pierce, who did so in the third period of a matchup against the Utah Jazz on Nov. 11, 2002.",
-    "Tatum went on to finish with a season-high 41 points, marking his highest scoring output since before his Achilles rupture, dating back to a 46-point performance against the Cleveland Cavaliers on Feb. 28, 2025.",
-    "It was also his highest-scoring road performance since he dropped 43 points in Chicago on Dec. 21, 2024.",
-    "Neemias Queta poured in 21 points, marking the third 20-point effort of his career and his second straight against the Wizards.",
-    "George Joins the 2,500 3-Pointer Club George was on fire from beyond the arc Tuesday night, knocking down six of his nine 3-point attempts as part of a 28-point effort."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "BOS 公式（nba.com）",
-   "team": "BOS",
-   "team_ja": "セルティックス",
-   "team_id": 1610612738,
-   "kind": "feature",
-   "key": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
-   "url": "https://www.nba.com/celtics/news/gamerecap-keys-20261124-boswas",
-   "canonical_url": "https://celtics.com/news/gamerecap-keys-20261124-boswas",
-   "title": "Keys to the Game: Celtics 131, Wizards 116",
-   "author": "Taylor Snow",
-   "published_utc": "2026-11-25T04:55:14Z",
-   "tags": [
-    "Keys to the Game",
-    "Postgame",
-    "Regular Season"
-   ],
-   "summary": "Baylor Scheierman saved his scoring punch for when the Boston Celtics needed it most Tuesday night in Washington.",
-   "facts": [
-    "After going scoreless for the first 45-and-a-half minutes of the game, Scheierman scored eight consecutive points for the Celtics down the stretch, helping them regain their footing and secure a 131-116 NBA Cup win over …",
-    "Washington had chipped away at a 34-point deficit throughout the second half, pulling to within seven points late in the fourth quarter before Scheierman seized the momentum right back.",
-    "The Celtics wing knocked down a 3-pointer with 2:31 remaining to push Boston’s lead back to double digits.",
-    "He followed that up with a pair of free throws before burying a 31-footer to put the C’s ahead, 127-114.",
-    "He did all of that in a span of just one minute and 15 seconds.",
-    "Key Player Jayson Tatum produced his highest-scoring performance since returning from his Achilles injury, erupting for 41 points on 13-of-25 shooting from the field, including a 6-of-15 clip from 3-point range.",
-    "It was his highest-scoring effort since dropping 46 points against Cleveland on Feb. 28, 2025, and his highest-scoring road performance since putting up 43 points in Chicago on Dec. 21, 2024.",
-    "Tatum wasted little time getting going in the nation’s capital, piling up 15 points and five assists in the opening frame."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHX 公式（nba.com）",
-   "team": "PHX",
-   "team_ja": "サンズ",
-   "team_id": 1610612756,
-   "kind": "feature",
-   "key": "https://www.nba.com/suns/news/11-25-2026-suns-vs-rockets-game-preview",
-   "url": "https://www.nba.com/suns/news/11-25-2026-suns-vs-rockets-game-preview",
-   "canonical_url": "https://suns.com/news/11-25-2026-suns-vs-rockets-game-preview",
-   "title": "11/25/2026 Suns vs Rockets Game Preview",
-   "author": "Phoenix Suns",
-   "published_utc": "2026-11-25T03:13:31Z",
-   "tags": [
-    "2026-27"
-   ],
-   "summary": "Date: Wednesday, November 25, 2026Time: 7:00 p.m. MSTLocation: Toyota CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Rockets: Statement Edition (Black)",
-   "facts": [
-    "Game Info Date: Wednesday, November 25, 2026Time: 7:00 p.m.",
-    "MSTLocation: Toyota CenterTV: 3TV, AZFS, Suns+ in AZFS AppRadio: Arizona Sports 98.7 & KSUN La Mejor 1400 AM/106.5 FMJersey: Suns: Association Edition (White) | Rockets: Statement Edition (Black) Series Notes The Suns wo…",
-    "He played four seasons with Houston, playing in 307 games and averaging 20.1 points, 4.2 rebounds and 3.3 assistsRockets forward Kevin Durant spent three seasons with the Suns from 2022-25, playing in 145 games and avera…",
-    "Denver on Oct. 30, his ninth career first half with 20+ pointsNamed Western Conference Player of the Week (Jan. 26 to Feb.1), his first career NBA honor, averaging 28.8 points, 4.5 rebounds and 2.8 assists#22–Miles Bridg…",
-    "Phoenix has now won three road gamesin a row by double digits for the 17th time in team history.DEVIN BOOKER led all scorers with 23 points to go along with 3 assists.",
-    "Booker now has 20+ points in all but three contests thisseason.DILLON BROOKS and MILES BRIDGES each added 18 points.",
-    "Brooks posted 15+ points for the fourth time in five games.",
-    "Bridges had nine rebounds, ending one board shy of his fourth double-double of the season.COLLIN GILLESPIE tallied 16 points (3-of-7 3FG) off the bench."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/turnovers-poor-shooting-trouble-orlando-magic-in-nba-cup-loss-to-detroit-pistons-20261124",
-   "url": "https://www.nba.com/magic/news/turnovers-poor-shooting-trouble-orlando-magic-in-nba-cup-loss-to-detroit-pistons-20261124",
-   "canonical_url": "https://orlandomagic.com/news/turnovers-poor-shooting-trouble-orlando-magic-in-nba-cup-loss-to-detroit-pistons-20261124",
-   "title": "Turnovers, Poor Shooting Trouble Orlando Magic in NBA Cup Loss to Detroit Pistons",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-25T02:51:16Z",
-   "tags": [
-    "Game Recap",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "ORLANDO - Last season, the Orlando Magic went into Detroit in late November in an NBA Cup group play game and pulled out a thrilling win to clinch a spot in the quarterfinals.",
-   "facts": [
-    "This season, with a chance to do the same on their home floor, the Magic were unable to come through against the same opponent in Tuesday’s 104-86 defeat.",
-    "The Magic committed 20 of them.",
-    "It was the fourth time this season they had 20-plus.",
-    "They also were unable to draw many fouls, going 6-of-8 from the free throw line.",
-    "The last time Orlando took fewer than 10 foul shots was on April 9, 2025 against Boston and it was just the sixth time it has happened this decade.",
-    "The Magic didn’t shoot it particularly well from the floor, either, making just 41 percent of their field goal attempts overall and 33 percent of their threes.",
-    "Joe, acquired by Detroit in the offseason from Oklahoma City, scored 21 points and Jenkins had 15 points and 10 assists.",
-    "Desmond Bane led Orlando with 21 points, while Franz Wagner recorded 20 points, nine rebounds and six assists and Tristan da Silva scored 16."
-   ],
-   "quotes": [
-    "We have to and will be better,",
-    "A night like tonight not ideal certainly. We understand how important home is and how great our fans are. So, we have to do a better job protecting it."
-   ]
   }
  ]
 }
