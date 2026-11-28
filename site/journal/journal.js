@@ -3,6 +3,22 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1194-nike-ja-4-swarovski.html",
+    cat: "KICKS",
+    title: "Nike Ja 4「Swarovski」のファーストルックが公開 —— ジャ・モラントの最新シグネチャーに全面クリスタル装飾",
+    excerpt: "ジャ・モラントが着用するシグネチャーシューズ「Nike Ja 4」の新色「Swarovski」のファーストルックが、現地時間11月27日に公開された。アッパー全面をグレーのストーンが覆い、スウッシュにブルーのクリスタルを配した豪華な仕様。Sneaker Bar DetroitとSneaker Newsが伝えた。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-03.jpg?v=9981f0df79"
+  },
+  {
+    href: "1193-nike-atwo-christmas-aja-wilson.html",
+    cat: "KICKS",
+    title: "Nike A'Two「Christmas」の公式画像が公開 —— A'ジャ・ウィルソンのシグネチャーに\"Naughty\"のメッセージ",
+    excerpt: "ナイキ・バスケットボールは、WNBAラスベガス・エーセスのA'ジャ・ウィルソンが着用するシグネチャーシューズ「Nike A'Two」の新色「Christmas」の公式画像を公開した。タン裏に「Naughty」の文字、ヒールには石炭モチーフをあしらう。品番はJF2355-600とみられる。Sneaker Bar DetroitとSneaker Newsが伝えた。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-02.jpg?v=6d15bae6e8"
+  },
+  {
     href: "1192-curry-oblique-out-three-more-games.html",
     cat: "NBA",
     title: "ステフィン・カリー、あと3試合欠場が決定 —— 腹斜筋離脱3週目、再評価は12月2日(現地)",
