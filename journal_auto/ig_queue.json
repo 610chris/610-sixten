@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T14:13:45+09:00",
+  "updated": "2026-11-28T14:20:38+09:00",
   "items": [
     {
       "id": "134",
@@ -39864,6 +39864,99 @@
       "ig_media_id": null,
       "error": null,
       "caption": "八村塁がペリカンズ戦で14得点\n\n・FG12本中5本・3P8本中4本\n・リバウンド7・アシスト4\n・クリッパーズは104-105で惜敗\n\n💬 この接戦、1点差の決め手はどこだった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1205",
+      "slug": "1205-deni-avdija-26points-warriors",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "デニ・アブディヤ、ウォリアーズ戦で26得点",
+      "excerpt": "ポートランド・トレイルブレイザーズ(Portland Trail Blazers)のデニ・アブディヤ(Deni Avdija)は現地時間11月27日、本拠地ポートランドでのゴールデンステート・ウォリアーズ(Golden State Warriors)戦に37分出場し、フィールドゴール21本中9本・フリースロー9本中8本を沈めて26得点を記録した。両チーム通じてこの日の試合最多得点者となり、トレイルブレイザーズは116-94でウォリアーズに快勝した。",
+      "points": [
+        "アブディヤが37分出場、FG9/21・FT8/9で26得点",
+        "リバウンド7・アシスト7・スティール2と攻守で活躍",
+        "トレイルブレイザーズが116-94でウォリアーズに快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1205-deni-avdija-26points-warriors.html",
+      "hero_path": "",
+      "subject": [
+        "Deni Avdija"
+      ],
+      "question": "この試合、アブディヤのMVPは納得？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "DENI AVDIJA",
+        "opponent": "vs. WARRIORS",
+        "points": 26,
+        "stats": [
+          "7 REB",
+          "7 AST",
+          "2 STL",
+          "9/21 FG",
+          "8/9 FT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1205-1.jpg",
+        "https://sixten.jp/assets/ig/1205-2.jpg",
+        "https://sixten.jp/assets/ig/1205-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:20:38+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "デニ・アブディヤ、ウォリアーズ戦で26得点\n\n・アブディヤが37分出場、FG9/21・FT8/9で26得点\n・リバウンド7・アシスト7・スティール2と攻守で活躍\n・トレイルブレイザーズが116-94でウォリアーズに快勝\n\n💬 この試合、アブディヤのMVPは納得？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1206",
+      "slug": "1206-trey-murphy-25points-clippers",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "トレイ・マーフィー3世、クリッパーズ戦で25得点6スティール",
+      "excerpt": "ニューオーリンズ・ペリカンズ(New Orleans Pelicans)のトレイ・マーフィー3世(Trey Murphy III)は現地時間11月27日、本拠地ニューオーリンズでのLAクリッパーズ(LA Clippers)戦に34分出場し、フィールドゴール16本中9本を沈めて25得点に加え、スティール6を記録した。ペリカンズは105-104の1点差でクリッパーズを下した。",
+      "points": [
+        "マーフィーがFG9/16・3P3/9で25得点",
+        "スティール6も記録し守備でも存在感",
+        "ペリカンズが105-104の1点差でクリッパーズに競り勝つ"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1206-trey-murphy-25points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Trey Murphy III"
+      ],
+      "question": "25得点6スティール、今季ベストゲーム？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "TREY MURPHY III",
+        "opponent": "vs. CLIPPERS",
+        "points": 25,
+        "stats": [
+          "6 STL",
+          "2 REB",
+          "9/16 FG",
+          "3/9 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1206-1.jpg",
+        "https://sixten.jp/assets/ig/1206-2.jpg",
+        "https://sixten.jp/assets/ig/1206-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:20:38+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "トレイ・マーフィー3世、クリッパーズ戦で25得点6スティール\n\n・マーフィーがFG9/16・3P3/9で25得点\n・スティール6も記録し守備でも存在感\n・ペリカンズが105-104の1点差でクリッパーズに競り勝つ\n\n💬 25得点6スティール、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
