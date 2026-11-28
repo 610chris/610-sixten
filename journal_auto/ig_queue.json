@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T14:20:38+09:00",
+  "updated": "2026-11-28T14:27:08+09:00",
   "items": [
     {
       "id": "134",
@@ -39957,6 +39957,52 @@
       "ig_media_id": null,
       "error": null,
       "caption": "トレイ・マーフィー3世、クリッパーズ戦で25得点6スティール\n\n・マーフィーがFG9/16・3P3/9で25得点\n・スティール6も記録し守備でも存在感\n・ペリカンズが105-104の1点差でクリッパーズに競り勝つ\n\n💬 25得点6スティール、今季ベストゲーム？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1207",
+      "slug": "1207-luka-doncic-31points-spurs",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "ルカ・ドンチッチ、スパーズ戦で31得点",
+      "excerpt": "ロサンゼルス・レイカーズ(Los Angeles Lakers)のルカ・ドンチッチ(Luka Doncic)は現地時間11月27日、敵地サンアントニオでのサンアントニオ・スパーズ(San Antonio Spurs)戦に39分出場し、フィールドゴール31本中14本を沈めて31得点を記録した。両チーム通じてこの日の試合最多得点者となったが、レイカーズは96-99でスパーズに敗れた。",
+      "points": [
+        "31得点もFG31本中14本、3PTは13本中1本",
+        "アシスト8・リバウンド6",
+        "レイカーズは96-99でスパーズに敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1207-luka-doncic-31points-spurs.html",
+      "hero_path": "",
+      "subject": [
+        "Luka Doncic"
+      ],
+      "question": "ドンチッチの31得点、3P不振でも評価できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LUKA DONCIC",
+        "opponent": "vs. SPURS",
+        "points": 31,
+        "stats": [
+          "8 AST",
+          "6 REB",
+          "3 STL",
+          "14/31 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1207-1.jpg",
+        "https://sixten.jp/assets/ig/1207-2.jpg",
+        "https://sixten.jp/assets/ig/1207-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:27:08+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ルカ・ドンチッチ、スパーズ戦で31得点\n\n・31得点もFG31本中14本、3PTは13本中1本\n・アシスト8・リバウンド6\n・レイカーズは96-99でスパーズに敗戦\n\n💬 ドンチッチの31得点、3P不振でも評価できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
