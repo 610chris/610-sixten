@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1192-curry-oblique-out-three-more-games.html",
+    cat: "NBA",
+    title: "ステフィン・カリー、あと3試合欠場が決定 —— 腹斜筋離脱3週目、再評価は12月2日(現地)",
+    excerpt: "ゴールデンステート・ウォリアーズは現地時間11月27日、腹斜筋の損傷で離脱中のステフィン・カリー(Stephen Curry)が今後3試合(ポートランド・LAクリッパーズ・ユタ)を欠場すると発表した。回復は順調で、再評価は12月2日(現地)の予定。ESPNが伝えた。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1191-jaylen-brown-hamstring-mri-clear.html",
     cat: "NBA",
     title: "ジェイレン・ブラウン、左ハムストリングMRIで新たな損傷なし —— ナース監督「ポジティブな兆候」、復帰は12月1日以降",
