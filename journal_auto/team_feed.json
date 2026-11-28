@@ -1,8 +1,229 @@
 {
- "updated_utc": "2026-11-28 10:49 UTC",
+ "updated_utc": "2026-11-28 19:05 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "NOP 公式（nba.com）",
+   "team": "NOP",
+   "team_ja": "ペリカンズ",
+   "team_id": 1610612740,
+   "kind": "feature",
+   "key": "https://www.nba.com/pelicans/news/december-games-added-to-pelicans-schedule-are-vs-warriors-at-brooklyn",
+   "url": "https://www.nba.com/pelicans/news/december-games-added-to-pelicans-schedule-are-vs-warriors-at-brooklyn",
+   "canonical_url": "https://pelicans.com/news/december-games-added-to-pelicans-schedule-are-vs-warriors-at-brooklyn",
+   "title": "December games added to Pelicans schedule are vs. Warriors, at Brooklyn",
+   "author": "Jim Eichenhofer",
+   "published_utc": "2026-11-28T18:49:32Z",
+   "tags": [],
+   "summary": "Gulf South basketball fans disappointed that they did not get the opportunity to watch Stephen Curry play in the Smoothie King Center on Nov. 16 – the future Hall of Famer was sidelined by injury – may potentially get a second chance.",
+   "facts": [
+    "Gulf South basketball fans disappointed that they did not get the opportunity to watch Stephen Curry play in the Smoothie King Center on Nov. 16 – the future Hall of Famer was sidelined by injury – may potentially get a …",
+    "Golden State will pay another visit to New Orleans on Monday, Dec. 7 (7 p.m.",
+    "New Orleans blasted Golden State by a 115-94 margin 12 days ago, payback for a 51-point loss in Chase Center in early November.",
+    "Curry is reportedly expected to miss at least the Warriors’ next couple games, due to an oblique injury.",
+    "The second game added to the New Orleans slate will be on the road, Thursday, Dec. 10 (6:30 p.m.",
+    "The Pelicans, who lost Nov. 11 to the Nets in the Blender, also have a Dec. 26 trip to Brooklyn on their schedule."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DAL 公式（nba.com）",
+   "team": "DAL",
+   "team_ja": "マーベリックス",
+   "team_id": 1610612742,
+   "kind": "feature",
+   "key": "https://www.nba.com/mavs/news/how-are-the-mavericks-doing-it-heres-what-we-know-about-their-strong-start",
+   "url": "https://www.nba.com/mavs/news/how-are-the-mavericks-doing-it-heres-what-we-know-about-their-strong-start",
+   "canonical_url": "https://mavs.com/mavs/news/how-are-the-mavericks-doing-it-heres-what-we-know-about-their-strong-start",
+   "title": "How are the Mavericks doing it? Here's what we know about their strong start",
+   "author": "Eddie Sefko",
+   "published_utc": "2026-11-28T18:05:00Z",
+   "tags": [],
+   "summary": "So as an early Christmas present, we’re here to put a bow on the Mavericks’ 3-0 trip that featured three wins in distinctly different fashions and got them riding so high they really didn’t need their team plane to fly home.",
+   "facts": [
+    "So as an early Christmas present, we’re here to put a bow on the Mavericks’ 3-0 trip that featured three wins in distinctly different fashions and got them riding so high they really didn’t need their team plane to fly h…",
+    "Finally, they overcame a 21-point deficit in the final 14 minutes against Phoenix on Friday.",
+    "That celebration almost certainly did not last beyond the locker room walls when the Mavericks left the Phoenix arena with a glittery 12-7 record.",
+    "Ask any player, coach or executive and getting a victory is far more important, but if a byproduct of a win is that it gets you the No. 1 seed in the Emirates NBA Cup tournament, all the better.",
+    "They play San Antonio on Dec. 4 in the quarterfinals and a win puts them in the semifinals, which also would be at AAC, against either Memphis or Portland.",
+    "He had trouble getting off the bench for the past few weeks, fought a nagging injury and basically was biding his time."
+   ],
+   "quotes": [
+    "I do think the guys getting a return on their investment (with victories) has helped their attitude – and the work ethic in practice has been a 10 out of 10,",
+    "The Cup is really interesting,",
+    "It adds another level of competition. Guys really want to win it. Adding that pressure onto some of these early season games is kind of what some of these games could feel like toward the end of the s…",
+    "It just kind of raises the atmosphere – the intensity is playoff-esque. We’re coming into each game knowing that something bigger is on the line. I’m just glad we took advantage of it."
+   ]
+  },
+  {
+   "source": "CLE 公式（nba.com）",
+   "team": "CLE",
+   "team_ja": "キャバリアーズ",
+   "team_id": 1610612739,
+   "kind": "feature",
+   "key": "https://www.nba.com/cavaliers/news/releases-schedule-update-261128",
+   "url": "https://www.nba.com/cavaliers/news/releases-schedule-update-261128",
+   "canonical_url": "https://cavs.com/news/releases-schedule-update-261128",
+   "title": "Two Games Added to Cavaliers Schedule",
+   "author": "Cavaliers",
+   "published_utc": "2026-11-28T17:38:24Z",
+   "tags": [
+    "2026-27 Season"
+   ],
+   "summary": "Following the conclusion of group play in the NBA Cup, the league has announced the remaining regular season games for the Cavaliers.",
+   "facts": [
+    "Orlando Magic at 6:00 PM at Rocket ArenaThursday, Dec. 10 at Miami Heat at 7:30 PM at Kaseya Center ‌Join us next Sunday for 50% OFF + NO FEES during our Cyber Week Deals!"
+   ],
+   "quotes": []
+  },
+  {
+   "source": "UTA 公式（nba.com）",
+   "team": "UTA",
+   "team_ja": "ジャズ",
+   "team_id": 1610612762,
+   "kind": "feature",
+   "key": "https://www.nba.com/jazz/news/utah-jazz-announce-update-to-schedule-6",
+   "url": "https://www.nba.com/jazz/news/utah-jazz-announce-update-to-schedule-6",
+   "canonical_url": "https://utahjazz.com/news/utah-jazz-announce-update-to-schedule-6",
+   "title": "Utah Jazz Announce Update to Schedule",
+   "author": "Eric Spyropoulos",
+   "published_utc": "2026-11-28T17:30:16Z",
+   "tags": [
+    "NBA",
+    "Utah Jazz"
+   ],
+   "summary": "SALT LAKE CITY (November 28, 2026) – The Utah Jazz announced today that following the Group Play results of the Emirates NBA Cup, the Jazz have had two games added to their 2026-27 regular season schedule.",
+   "facts": [
+    "SALT LAKE CITY (November 28, 2026) – The Utah Jazz announced today that following the Group Play results of the Emirates NBA Cup, the Jazz have had two games added to their 2026-27 regular season schedule.",
+    "The team is now set to host the Milwaukee Bucks at the Delta Center on Sunday, Dec. 6 at 3 P.M.",
+    "MT and faceoff against the Los Angeles Lakers on the road on Thursday, Dec. 10 at 8 P.M."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "DET 公式（nba.com）",
+   "team": "DET",
+   "team_ja": "ピストンズ",
+   "team_id": 1610612765,
+   "kind": "feature",
+   "key": "https://www.nba.com/pistons/news/bench-rallies-short-handed-pistons-past-bucks-and-into-nba-cup-knockout-rounds",
+   "url": "https://www.nba.com/pistons/news/bench-rallies-short-handed-pistons-past-bucks-and-into-nba-cup-knockout-rounds",
+   "canonical_url": "https://pistons.com/news/bench-rallies-short-handed-pistons-past-bucks-and-into-nba-cup-knockout-rounds",
+   "title": "Bench Rallies Short-Handed Pistons Past Bucks and Into NBA Cup Knockout Rounds",
+   "author": "Pistons.com",
+   "published_utc": "2026-11-28T16:04:47Z",
+   "tags": [
+    "detroit basketball",
+    "game recap",
+    "recap"
+   ],
+   "summary": "Isaiah Joe scored 22 points, and Detroit came back from 16 down to beat Milwaukee and win East Group A on point differential",
+   "facts": [
+    "Isaiah Joe scored 22 points, and Detroit came back from 16 down to beat Milwaukee and win East Group A on point differential DETROIT – Six minutes into Friday night, the Pistons trailed by 16 and were missing the two pla…",
+    "Detroit fell behind Milwaukee 19-3 in the first quarter and came back to win 113-98 at Little Caesars Arena.",
+    "The win improved the Pistons to 12-6 and left them 3-1 in Group Play.",
+    "Cade Cunningham (right knee tendinopathy) and Jalen Duren (right hamstring strain) were out again.",
+    "Milwaukee hit 11 of its first 21 shots.",
+    "By the time Kyle Kuzma's 3-pointer in transition made it 19-3, Bickerstaff had used two timeouts.",
+    "Paul Reed hit a jumper, Chaz Lanier made a 3-pointer and Joe made another.",
+    "Detroit used a 26-10 run from 5:45 of the first quarter to 9:18 of the second to erase the deficit."
+   ],
+   "quotes": [
+    "That's the best part about it, our guys are all leaders,",
+    "We don't just call on one person or two people to lead this team. Everyone on our team has a voice, and when you're in that situation because guys are out, it doesn't feel like there's a void that has…",
+    "We hang our hats on the defensive end, so when we can do that collectively as a group, it's tough to score on,",
+    "When we are limiting teams to one shot, getting rebounds, getting out in transition, that's our bread and butter. When we are at a deficit like that, that's how we are able to get back into the game."
+   ]
+  },
+  {
+   "source": "CHA 公式（nba.com）",
+   "team": "CHA",
+   "team_ja": "ホーネッツ",
+   "team_id": 1610612766,
+   "kind": "feature",
+   "key": "https://www.nba.com/hornets/news/charlotte-hornets-announce-updated-2026-27-schedule",
+   "url": "https://www.nba.com/hornets/news/charlotte-hornets-announce-updated-2026-27-schedule",
+   "canonical_url": "https://hornets.com/news/charlotte-hornets-announce-updated-2026-27-schedule",
+   "title": "Charlotte Hornets Announce Updated 2026-27 Schedule",
+   "author": "Hornets PR",
+   "published_utc": "2026-11-28T15:00:50Z",
+   "tags": [
+    "Featured",
+    "Press Release"
+   ],
+   "summary": "November 28, 2026 – The NBA has announced updated scheduling for the 2026-27 season following the conclusion of the Emirates NBA Cup Group Stage.",
+   "facts": [
+    "November 28, 2026 – The NBA has announced updated scheduling for the 2026-27 season following the conclusion of the Emirates NBA Cup Group Stage.",
+    "The Charlotte Hornets will visit the Toronto Raptors on Monday, Dec. 7 at 7:30 p.m.",
+    "ET and return home to host the New York Knicks on Thursday, Dec. 10 at 7:00 p.m.",
+    "Both games will be broadcast on TV64 in the Charlotte market and on WFNZ 92.7 FM.",
+    "New York on Dec. 10 are on sale now and can be purchased online at hornets.com, ticketmaster.com or via the Hornets app."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "ORL 公式（nba.com）",
+   "team": "ORL",
+   "team_ja": "マジック",
+   "team_id": 1610612753,
+   "kind": "feature",
+   "key": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261128",
+   "url": "https://www.nba.com/magic/news/orlando-magic-washington-wizards-game-preview-injury-report-20261128",
+   "canonical_url": "https://orlandomagic.com/news/orlando-magic-washington-wizards-game-preview-injury-report-20261128",
+   "title": "Orlando Magic at Washington Wizards: Game Preview",
+   "author": "Dan Savage",
+   "published_utc": "2026-11-28T14:15:54Z",
+   "tags": [
+    "Game Day",
+    "Game Preview",
+    "Latest News",
+    "Team News"
+   ],
+   "summary": "The Orlando Magic’s latest road trip tips off with a back-to-back set against the last two teams to best them.",
+   "facts": [
+    "After two straight defeats, the Magic (7-10) will look to bounce back against the Washington Wizards (7-12) on Saturday at 5 p.m.",
+    "In that outing, the Wizards knocked down 22 of their 39 attempts from 3-point range (56.4 percent).",
+    "It marked the first time this season a team shot over 55 percent from beyond the arc.",
+    "Anthony Davis showed why he’s a top 75 player of all-time (in that game).",
+    "Among qualifying squads, Washington is the only team with four players averaging at least one swat per contest: Alex Sarr (1.2), Kyshawn George (1.2), Anthony Davis (1.1) and Bilal Coulibaly (1.1).",
+    "The Magic are averaging 13.1 fast break points in their seven wins this season.",
+    "That number drops to 11.3 in their losses.",
+    "IN AND OUT: Anthony Black (back soreness) is questionable, while Paolo Banchero (right high ankle sprain), Jonathan Isaac (left knee injury management), Izaiyah Nelson (left ankle injury recovery), Noah Penda (right part…"
+   ],
+   "quotes": [
+    "We want to make sure that we’re motivated to play every game, but anytime that you lose to a team and you get them in a quick turnaround situation like Washington here or Detroit coming up, we want to…",
+    "And the things that we did see that we thought were good and we can build on, we do that in these games.",
+    "They shot the ball well from three, and I think some of that was some controllable things that we can improve upon,",
+    "So, we want to do a better job there. Anthony Davis showed why he’s a top 75 player of all-time (in that game). Then offensively, we want to do a better job of looking to attack their defense. They’ve…"
+   ]
+  },
+  {
+   "source": "PHI 公式（nba.com）",
+   "team": "PHI",
+   "team_ja": "76ers",
+   "team_id": 1610612755,
+   "kind": "injury",
+   "key": "https://www.nba.com/sixers/news/sixers-advance-to-nba-cup-quarterfinals-pacers-recap-rockets-preview-injury-report-and-how-to-watch-11-28-2026",
+   "url": "https://www.nba.com/sixers/news/sixers-advance-to-nba-cup-quarterfinals-pacers-recap-rockets-preview-injury-report-and-how-to-watch-11-28-2026",
+   "canonical_url": "https://sixers.com/news/sixers-advance-to-nba-cup-quarterfinals-pacers-recap-rockets-preview-injury-report-and-how-to-watch-11-28-2026",
+   "title": "Sixers Advance to NBA Cup Quarterfinals: Pacers Recap, Rockets Preview, Injury Report and How to Watch 11/28/2026",
+   "author": "Matt Murphy",
+   "published_utc": "2026-11-28T13:17:43Z",
+   "tags": [],
+   "summary": "Fresh off a 111-87 victory Friday in Indiana to advance to the Emirates NBA Cup Knockout Rounds for the first time, the 76ers (16-4) will visit the Houston Rockets (14-5) on Saturday night to complete a back-to-back. Tipoff at Toyota Center in Houston is scheduled for 8:30 p.m. EST.",
+   "facts": [
+    "Fresh off a 111-87 victory Friday in Indiana to advance to the Emirates NBA Cup Knockout Rounds for the first time, the 76ers (16-4) will visit the Houston Rockets (14-5) on Saturday night to complete a back-to-back.",
+    "Tipoff at Toyota Center in Houston is scheduled for 8:30 p.m.",
+    "LeBron James scored a game-high 21 points to go along with seven rebounds and six assists in 27 minutes.",
+    "James shot 3-for-6 from 3-point range, improving to 11-for-17 from beyond the arc over his last three games.",
+    "The 16-4 Sixers hold a three-game lead over the 12-6 Atlanta Hawks and Detroit Pistons in the Eastern Conference.",
+    "The Boston Celtics fell to 12-7 with their NBA Cup loss Friday to Atlanta, setting up a Sixers-Hawks quarterfinal matchup scheduled for Friday, Dec. 4, at 7 p.m. in Atlanta.",
+    "The Sixers won East Group B in the 2026 NBA Cup with a 3-1 record in group play by securing the head-to-head tiebreaker over Miami.",
+    "To hear a deeper dive into the NBA Cup, along with game highlights called by Tom McGinnis, check out the 76ers Insiders podcast: SPOTIFY | APPLE PODCASTS The Rockets have been off since Wednesday, when they earned a 116-…"
+   ],
+   "quotes": []
+  },
   {
    "source": "GSW 公式（nba.com）",
    "team": "GSW",
@@ -1216,224 +1437,6 @@
     "COMPELLING NOTE: Warriors: The Warriors have advanced to the NBA Cup knockout stage once in franchise history, losing to the Houston Rockets in the quarterfinals in 2024.",
     "Trail Blazers: Damian Lillard is one of nine active players who have scored at least 19,000 points with one franchise.",
     "Lillard is in his 12th season playing for the Trail Blazers and has averaged at least 20 points in 11 of those years, including this season."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "NYK 公式（nba.com）",
-   "team": "NYK",
-   "team_ja": "ニックス",
-   "team_id": 1610612752,
-   "kind": "feature",
-   "key": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-25-2026",
-   "url": "https://www.nba.com/knicks/news/knicks-vs-cavaliers-game-notes-november-25-2026",
-   "canonical_url": "https://knicks.com/news/knicks-vs-cavaliers-game-notes-november-25-2026",
-   "title": "Knicks vs Cavaliers Game Notes | November 25, 2026",
-   "author": "nykcmulqueen",
-   "published_utc": "2026-11-25T17:55:17Z",
-   "tags": [
-    "Game Notes",
-    "Orlando Magic"
-   ],
-   "summary": "November 25, 2026 8:00 PM ET | Madison Square Garden (New York, NY) | Game 18; Home Game 10",
-   "facts": [
-    "November 25, 2026 8:00 PM ET | Madison Square Garden (New York, NY) | Game 18; Home Game 10 TV: MSG Networks | Radio: SiriusXM This Day in Knicks History November 25, 1946: The Knicks record first double-digit victory in…",
-    "Stan Stutz leads the way with 15 points (5-13 FG).",
-    "November 25, 2012: Knicks hit 17-33 (.515) from downtown en route to a 121-100 matinee win over the Pistons at the Garden.",
-    "Carmelo Anthony leads the way with 29 points while Steve Novak and Rasheed Wallace add 18 and 15 off the bench.",
-    "CLE: New York (11/11/26) – The Cleveland Cavaliers defeated the New York Knicks, 115-107.",
-    "Jalen Brunson led New York with 27 points on 52.2-percent shooting, five assists, three rebounds, one steal and one block.",
-    "Karl-Anthony Towns registered 21 points on 63.6-percent shooting, 11 rebounds, eight assists and one block.",
-    "Miles McBride came off the bench and added 19 points on 53.8-percent shooting, two rebounds, two assists and one steal."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "CHA 公式（nba.com）",
-   "team": "CHA",
-   "team_ja": "ホーネッツ",
-   "team_id": 1610612766,
-   "kind": "feature",
-   "key": "https://www.nba.com/hornets/news/hannes-steinbach-handles-business-in-historic-g-league-stint",
-   "url": "https://www.nba.com/hornets/news/hannes-steinbach-handles-business-in-historic-g-league-stint",
-   "canonical_url": "https://hornets.com/news/hannes-steinbach-handles-business-in-historic-g-league-stint",
-   "title": "Hannes Steinbach Handles Business In Historic G League Stint",
-   "author": "Sam Perley",
-   "published_utc": "2026-11-25T17:05:17Z",
-   "tags": [
-    "Featured",
-    "Press Release"
-   ],
-   "summary": "With the Charlotte Hornets having a healthy frontcourt heading into their first long road trip of the season earlier this month, rookie center Hannes Steinbach stayed back to suit up for the Greensboro Swarm. Safe to say the 20-year-old German made the most of his recent G League outings, all of which featured eye-popping and even historic video-game-like statlines.",
-   "facts": [
-    "Safe to say the 20-year-old German made the most of his recent G League outings, all of which featured eye-popping and even historic video-game-like statlines.",
-    "Across his first four games with the Swarm, Steinbach, who rejoined the Hornets in Atlanta last Thursday evening, averaged a whopping 26.0 points on 64% shooting, 18.0 rebounds (7.0 offensive), 1.2 assists, 1.0 steal and…",
-    "Steinbach’s prodigious numbers made him the first player ever to record 55+ points and 35+ rebounds in his first two G League appearances, as well as the first to accumulate 75+ points and 50+ rebounds over his first thr…",
-    "The 21 boards that Steinbach pulled down in a 134-106 road win over Raptors 905 on Nov. 12 was also the second-highest single-game total in Swarm history, trailing only Isaih Moore’s 22-rebound haul against Mexico City o…",
-    "I think it was most important that we went 3-1.",
-    "So, to see him help the team, impact the team, to go 3-1 over that stretch there is what we’re most happy about.",
-    "Right now, Diabate and Kalkbrenner have the upper hand in terms of age and experience and have helped lead the Hornets to top 2 league rankings in all three rebounding categories, while allowing the sixth-fewest points i…",
-    "One of the most intriguing takeaways from Steinbach’s time in Greensboro was him knocking down 3-of-5 3-point attempts (he made 18-of-53 for 34% at the University of Washington last season), which indicates he could poss…"
-   ],
-   "quotes": [
-    "I think it’s better (going to the G League) than not playing at all,",
-    "It was good to play for sure. Just trying to do what the coaches tell me to do, get the reps on the floor and execute what I’ve been told to do. Just trying to take it that way. I think it was most im…",
-    "Really happy with the stint Hannes had,",
-    "Just being able to do a little bit more than I would be able to do (in Charlotte),"
-   ]
-  },
-  {
-   "source": "OKC 公式（nba.com）",
-   "team": "OKC",
-   "team_ja": "サンダー",
-   "team_id": 1610612760,
-   "kind": "feature",
-   "key": "https://www.nba.com/thunder/news/oge-safety-partner-261125",
-   "url": "https://www.nba.com/thunder/news/oge-safety-partner-261125",
-   "canonical_url": "https://okcthunder.com/news/oge-safety-partner-261125",
-   "title": "Thunder, OG&E Honor Moore Police Officer",
-   "author": "okcthunder",
-   "published_utc": "2026-11-25T16:00:00Z",
-   "tags": [],
-   "summary": "OKLAHOMA CITY, Wednesday, Nov. 25, 2026 – The Oklahoma City Thunder and OG&E are recognizing Detective David Grant of the Moore Police Department as the November OG&E Safety Partner Award recipient from noon to 1 p.m., Monday, Nov. 30, at the Moore Police Department, 117 E. Main St. This event is free and open to the public.",
-   "facts": [
-    "OKLAHOMA CITY, Wednesday, Nov. 25, 2026 – The Oklahoma City Thunder and OG&E are recognizing Detective David Grant of the Moore Police Department as the November OG&E Safety Partner Award recipient from noon to 1 p.m., M…",
-    "A recognition ceremony to present Grant with his award will follow, along with remarks from the Thunder and OG&E, and will conclude with a check presentation of $1,500 to the department, donated by OG&E.",
-    "Kings game, Wednesday, Dec. 16."
-   ],
-   "quotes": [
-    "We’re honored to recognize Detective David Grant of the Moore Police Department as this month’s Safety Partner. Grant is the kind of officer every community hopes for: dependable, selfless and always …",
-    "When his community faced one of its hardest moments, David was the first on the scene, acting quickly to protect lives without hesitation. That kind of courage and commitment is what being a Safety Pa…"
-   ]
-  },
-  {
-   "source": "UTA 公式（nba.com）",
-   "team": "UTA",
-   "team_ja": "ジャズ",
-   "team_id": 1610612762,
-   "kind": "quotes",
-   "key": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-bailey-and-darryn-petersons-roles-bench-production-defensive-success-and-more",
-   "url": "https://www.nba.com/jazz/news/utah-jazz-mailbag-ace-bailey-and-darryn-petersons-roles-bench-production-defensive-success-and-more",
-   "canonical_url": "https://utahjazz.com/news/utah-jazz-mailbag-ace-bailey-and-darryn-petersons-roles-bench-production-defensive-success-and-more",
-   "title": "Utah Jazz Mailbag: Ace Bailey and Darryn Peterson’s Roles, Bench Production, Defensive Success, And More",
-   "author": "Eric Spyropoulos",
-   "published_utc": "2026-11-25T15:10:30Z",
-   "tags": [
-    "Ace Bailey",
-    "Brice Sensabaugh",
-    "Darryn Peterson",
-    "Josh Okogie",
-    "Kyle Filipowski",
-    "Mo Bamba",
-    "Svi Mykhailiuk",
-    "Utah Jazz"
-   ],
-   "summary": "The 2026-27 NBA season is reaching full swing as the first quarter of games nears completion.",
-   "facts": [
-    "The 2026-27 NBA season is reaching full swing as the first quarter of games nears completion.",
-    "The Utah Jazz have played 19 games ahead of a brief break during the week of Thanksgiving, with the team’s upcoming schedule providing more opportunities for recovery and practice.",
-    "Utah will only play six times between Nov. 24 and Dec. 12, allowing the team to review film, get out on the practice floor, and enjoy more recovery time.",
-    "During the first 19 games, the Jazz have had to face several forms of adversity.",
-    "Utah’s first 19 games represented the league’s toughest strength of schedule, with three games each against the San Antonio Spurs and Los Angeles Lakers and two against both the Memphis Grizzlies and Dallas Mavericks.",
-    "Following Monday’s game against the Lakers, the Jazz have played 15 teams that are currently above .500 in the standings, representing a tough stretch that the young and shorthanded squad has had to navigate.",
-    "We’ve had a lot of injuries early.",
-    "It’s no secret that injuries have forced the Jazz to adjust nearly every aspect of the team’s plan from the beginning of the season."
-   ],
-   "quotes": [
-    "We can’t control circumstances. We’ve had a lot of injuries early. Teams go through pockets where things don’t go their way, ours happens to be at the beginning. If you watch the games and how the guy…",
-    "You want to impact the game even when you don’t shoot well,",
-    "That’s what the really good players are capable of night to night. They’re not just depending on jump shots. We need people to impact the game in a variety of ways.",
-    "All three of them have been in a wide variety of roles,"
-   ]
-  },
-  {
-   "source": "DET 公式（nba.com）",
-   "team": "DET",
-   "team_ja": "ピストンズ",
-   "team_id": 1610612765,
-   "kind": "feature",
-   "key": "https://www.nba.com/pistons/news/short-handed-pistons-lean-on-their-defense-and-each-other-to-win-cup-game-in-orlando",
-   "url": "https://www.nba.com/pistons/news/short-handed-pistons-lean-on-their-defense-and-each-other-to-win-cup-game-in-orlando",
-   "canonical_url": "https://pistons.com/news/short-handed-pistons-lean-on-their-defense-and-each-other-to-win-cup-game-in-orlando",
-   "title": "Short-handed Pistons lean on their defense, and each other, to win Cup game in Orlando",
-   "author": "Pistons.com",
-   "published_utc": "2026-11-25T14:05:44Z",
-   "tags": [
-    "Detroit Pistons",
-    "game recap",
-    "recap"
-   ],
-   "summary": "ORLANDO – Shortly before tip-off on Tuesday, the Pistons learned they would play without Cade Cunningham. By the end of the night, they had learned something about themselves too.",
-   "facts": [
-    "Detroit beat the Magic 104-86 in an NBA Cup game at Kia Center and improved to 11-6.",
-    "Detroit missed all six of its 3-point attempts in the first quarter.",
-    "Orlando led 22-16 after one and went up seven early in the second.",
-    "Orlando turned the ball over 11 times in the period.",
-    "Joe's fast-break layup with 7:39 left in the half gave the Pistons a lead they never gave back.",
-    "Detroit closed the half on a 28-9 run and went into the break up 48-36.",
-    "Jenkins scored 11 of his 15 points in the quarter.",
-    "Thompson had a cutting dunk and a putback, John Collins hit a 3-pointer in transition, and Kevin Huerter scored seven straight points."
-   ],
-   "quotes": [
-    "We say the word 'grit' a lot, but it is grit,",
-    "A game like this, [when] you are down three starters, [when] Cade (Cunningham) is out of the starting lineup at the last minute, to come on the road like this for a Cup game and pull out a win like th…",
-    "On a night where we were down some offense, obviously, we knew we were going to have to hang our hat on the defensive end of the floor,",
-    "We knew it was going to be a greedy, physical game, but I thought our guys did a great job."
-   ]
-  },
-  {
-   "source": "ORL 公式（nba.com）",
-   "team": "ORL",
-   "team_ja": "マジック",
-   "team_id": 1610612753,
-   "kind": "feature",
-   "key": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-pistons-20261125",
-   "url": "https://www.nba.com/magic/news/magic-four-point-play-follow-up-vs-pistons-20261125",
-   "canonical_url": "https://orlandomagic.com/news/magic-four-point-play-follow-up-vs-pistons-20261125",
-   "title": "Magic Four-Point Play: Follow-Up vs. Pistons",
-   "author": "Josh Cohen",
-   "published_utc": "2026-11-25T13:51:39Z",
-   "tags": [
-    "Featured News",
-    "Josh Cohen",
-    "Latest News",
-    "Team News"
-   ],
-   "summary": "Detroit’s Defense Limited Orlando’s Offensive Attack",
-   "facts": [
-    "In fact, opponents are shooting a league-low 34.5 percent off kickouts against them, per tracking data.",
-    "The Magic, on the other hand, take the most shots off kickouts per 100 possessions.",
-    "It shot just 29.4 percent from long distance off kickouts and 33 percent in general from beyond the arc.",
-    "Magic Struggling to Get to the Free Throw Line In their 15 games playing without Paolo Banchero this season, the Magic are averaging just 19.9 free throw attempts per contest, third fewest since Banchero got hurt.",
-    "It was the first time they were held to single digit attempts from the stripe since April 9, 2025 against Boston and it was just the sixth time it’s happened this decade.",
-    "They are averaging a league-low 11.1 shot attempts within three feet of the basket and 2.7 shots from that distance in transition, third fewest.",
-    "Bane is currently shooting 43.2 percent from 3-point range on a career-most 9.7 attempts per contest, while da Silva is at 40.5 percent on a career-most 8.1 attempts."
-   ],
-   "quotes": []
-  },
-  {
-   "source": "PHI 公式（nba.com）",
-   "team": "PHI",
-   "team_ja": "76ers",
-   "team_id": 1610612755,
-   "kind": "injury",
-   "key": "https://www.nba.com/sixers/news/sixers-vs-heat-nba-cup-game-preview-injury-report-and-how-to-watch-11-25-2026",
-   "url": "https://www.nba.com/sixers/news/sixers-vs-heat-nba-cup-game-preview-injury-report-and-how-to-watch-11-25-2026",
-   "canonical_url": "https://sixers.com/news/sixers-vs-heat-nba-cup-game-preview-injury-report-and-how-to-watch-11-25-2026",
-   "title": "Sixers vs. Heat: NBA Cup Game Preview, Injury Report and How to Watch 11/25/2026",
-   "author": "Matt Murphy",
-   "published_utc": "2026-11-25T12:02:22Z",
-   "tags": [],
-   "summary": "In a rare 5 p.m. EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised NBA Cup tripleheader on Thanksgiving Eve. The Heat enter with an NBA-best seven-game winning streak.",
-   "facts": [
-    "EST start at Xfinity Mobile Arena on Wednesday, the Philadelphia 76ers (14-4) and Miami Heat (10-6) will tip off the NBA’s nationally televised NBA Cup tripleheader on Thanksgiving Eve.",
-    "Miami leads East Group B with a 2-0 Cup record, while Philadelphia is 1-1 after a win over New York and a loss to Cleveland.",
-    "The Sixers had their five-game winning streak snapped Monday in a 128-111 loss to the Portland Trail Blazers while playing without Joel Embiid (illness).",
-    "Portland tied a season high with 19 3-pointers, compared to nine by Philadelphia.",
-    "LeBron James scored a season-high 23 points, shooting 8-for-13 from the field, 4-for-5 from 3-point range and 3-for-4 from the foul line.",
-    "The Heat acquired two-time NBA MVP Giannis Antetokounmpo and Bobby Portis from Milwaukee on July 6 in exchange for five draft picks and four players.",
-    "Miami’s seventh-consecutive victory came Sunday in a 123-113 win over the Oklahoma City Thunder behind a triple-double from Bam Adebayo while Antetokounmpo (right groin tendinitis) was sidelined.",
-    "Adebayo finished with 24 points, 15 rebounds and 12 assists, tying LeBron James for the second-most triple-doubles in franchise history with nine."
    ],
    "quotes": []
   }
