@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1208-spurs-comeback-lakers-nba-cup.html",
+    cat: "NBA",
+    title: "スパーズが20点差を逆転、レイカーズに99-96 —— ウェンビヤマ25得点16リバウンド、キャッスルの決勝3Pで西地区首位へ",
+    excerpt: "サンアントニオ・スパーズ(San Antonio Spurs)は現地時間11月27日、敵地フロストバンクセンターでのNBAカップ戦でロサンゼルス・レイカーズ(Los Angeles Lakers)に20点差の劣勢から逆転し、99-96で勝利した。ビクター・ウェンビヤマ(Victor Wembanyama)が25得点16リバウンド、ステフォン・キャッスル(Stephon Castle)が26得点9アシストを記録し、スパーズは準々決勝進出とともに西地区首位に返り咲いた。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1207-luka-doncic-31points-spurs.html",
     cat: "NBA",
     title: "ルカ・ドンチッチ、スパーズ戦で31得点 —— レイカーズは96-99で敗れる",
