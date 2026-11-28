@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T12:37:22+09:00",
+  "updated": "2026-11-28T14:03:27+09:00",
   "items": [
     {
       "id": "134",
@@ -39632,6 +39632,147 @@
       "ig_media_id": null,
       "error": null,
       "caption": "レブロンが21得点、76ersがペイサーズに111-87で快勝\n\n・FG13本中8本・3P3本の高確率で21得点\n・サイモンズ・エンビード・マクシーも二桁得点\n・76ersが24点差で快勝\n\n💬 レブロン、キャリア24年目でもまだトップ選手？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1200",
+      "slug": "1200-jamal-murray-36points-jazz",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "マレーが36得点、ナゲッツが120-107で快勝",
+      "excerpt": "デンバー・ナゲッツ(Denver Nuggets)のジャマール・マレー(Jamal Murray)は現地時間11月27日、敵地ソルトレイクシティでのユタ・ジャズ(Utah Jazz)戦に35分出場し、フィールドゴール20本中12本・3ポイント6本中3本・フリースロー10本中9本を沈めて36得点を記録した。両チーム通じてこの日の試合最多得点者となり、ナゲッツは120-107でジャズに快勝した。",
+      "points": [
+        "FG20本中12本・FT9/10で36得点",
+        "ヨキッチもアシスト15のトリプルダブル寸前",
+        "ナゲッツがジャズに13点差で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1200-jamal-murray-36points-jazz.html",
+      "hero_path": "",
+      "subject": [
+        "Jamal Murray"
+      ],
+      "question": "マレーのこの36得点、MVP級だと思う？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JAMAL MURRAY",
+        "opponent": "vs. JAZZ",
+        "points": 36,
+        "stats": [
+          "5 REB",
+          "1 AST",
+          "3 STL",
+          "12/20 FG",
+          "3/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1200-1.jpg",
+        "https://sixten.jp/assets/ig/1200-2.jpg",
+        "https://sixten.jp/assets/ig/1200-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:02:38+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "マレーが36得点、ナゲッツが120-107で快勝\n\n・FG20本中12本・FT9/10で36得点\n・ヨキッチもアシスト15のトリプルダブル寸前\n・ナゲッツがジャズに13点差で快勝\n\n💬 マレーのこの36得点、MVP級だと思う？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1201",
+      "slug": "1201-cooper-flagg-34points-suns",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "フラッグが34得点、マーベリックスが113-109で勝利",
+      "excerpt": "ダラス・マーベリックス(Dallas Mavericks)のクーパー・フラッグ(Cooper Flagg)は現地時間11月27日、敵地フェニックスでのフェニックス・サンズ(Phoenix Suns)戦にチーム最長の42分出場し、フィールドゴール27本中13本・3ポイント4本中1本・フリースロー8本中7本を沈めて34得点を記録した。両チーム通じてこの日の試合最多得点者となり、マーベリックスは113-109でサンズを振り切った。",
+      "points": [
+        "FG27本中13本で34得点",
+        "スティール5・ブロック4・アシスト8も記録",
+        "マーベリックスがサンズに4点差で勝利"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1201-cooper-flagg-34points-suns.html",
+      "hero_path": "",
+      "subject": [
+        "Cooper Flagg"
+      ],
+      "question": "フラッグの5STL4BLK、ルーキーとして評価する？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "COOPER FLAGG",
+        "opponent": "vs. SUNS",
+        "points": 34,
+        "stats": [
+          "8 AST",
+          "7 REB",
+          "5 STL",
+          "4 BLK",
+          "13/27 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1201-1.jpg",
+        "https://sixten.jp/assets/ig/1201-2.jpg",
+        "https://sixten.jp/assets/ig/1201-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:02:43+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "フラッグが34得点、マーベリックスが113-109で勝利\n\n・FG27本中13本で34得点\n・スティール5・ブロック4・アシスト8も記録\n・マーベリックスがサンズに4点差で勝利\n\n💬 フラッグの5STL4BLK、ルーキーとして評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1202",
+      "slug": "1202-ayo-dosunmu-27points-grizzlies",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "ドスンムが27得点、ティンバーウルブズは109-114で敗戦",
+      "excerpt": "ミネソタ・ティンバーウルブズ(Minnesota Timberwolves)のアヨ・ドスンム(Ayo Dosunmu)は現地時間11月27日、本拠地ミネアポリスでのメンフィス・グリズリーズ(Memphis Grizzlies)戦に37分出場し、フィールドゴール17本中10本・3ポイント6本中4本・フリースロー4本中3本を沈めて27得点を記録した。両チーム通じてこの日の試合最多得点者となったが、ティンバーウルブズは109-114でグリズリーズに敗れた。",
+      "points": [
+        "FG17本中10本・3PT6本中4本で27得点",
+        "アシスト8・スティール3も記録",
+        "グリズリーズに109-114で敗れる"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1202-ayo-dosunmu-27points-grizzlies.html",
+      "hero_path": "",
+      "subject": [
+        "Ayo Dosunmu"
+      ],
+      "question": "ドスンムのこの27得点、来季も期待できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "AYO DOSUNMU",
+        "opponent": "vs. GRIZZLIES",
+        "points": 27,
+        "stats": [
+          "8 AST",
+          "4 REB",
+          "3 STL",
+          "10/17 FG",
+          "4/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1202-1.jpg",
+        "https://sixten.jp/assets/ig/1202-2.jpg",
+        "https://sixten.jp/assets/ig/1202-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:02:48+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ドスンムが27得点、ティンバーウルブズは109-114で敗戦\n\n・FG17本中10本・3PT6本中4本で27得点\n・アシスト8・スティール3も記録\n・グリズリーズに109-114で敗れる\n\n💬 ドスンムのこの27得点、来季も期待できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
