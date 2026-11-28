@@ -3,6 +3,14 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
+    href: "1195-jalen-brunson-27points-heat.html",
+    cat: "NBA",
+    title: "ジェイレン・ブランソン、ヒート戦で27得点 —— ニックスは105-108の3点差で惜敗",
+    excerpt: "ニューヨーク・ニックスのジェイレン・ブランソン(Jalen Brunson)は現地時間11月27日、本拠地ニューヨークでのマイアミ・ヒート戦に40分出場し、27得点・アシスト8を記録した。両チーム通じてこの日の試合最多得点者となったが、ニックスは105-108の3点差でヒートに惜敗した。",
+    date: "2026.11.28",
+    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
+  },
+  {
     href: "1194-nike-ja-4-swarovski.html",
     cat: "KICKS",
     title: "Nike Ja 4「Swarovski」のファーストルックが公開 —— ジャ・モラントの最新シグネチャーに全面クリスタル装飾",
