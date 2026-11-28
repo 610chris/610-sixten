@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T11:54:29+09:00",
+  "updated": "2026-11-28T12:37:22+09:00",
   "items": [
     {
       "id": "134",
@@ -39446,6 +39446,192 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ブランソン、ヒート戦で27得点\n\n・40分出場、FG8/19・FT9/10\n・アシスト8、ニックスはタウンズが19得点10リバウンド\n・ニックスは105-108の3点差で惜敗\n\n💬 ブランソンのこの27得点8アシスト、評価する？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1196",
+      "slug": "1196-scottie-barnes-34points-nets",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "バーンズが34得点、ラプターズが124-100で快勝",
+      "excerpt": "トロント・ラプターズ(Toronto Raptors)のスコッティ・バーンズ(Scottie Barnes)は現地時間11月27日、本拠地トロントでのブルックリン・ネッツ(Brooklyn Nets)戦に36分出場し、フィールドゴール20本中11本・3ポイント4本中2本・フリースロー10本中10本を沈めて34得点を記録した。両チーム通じてこの日の試合最多得点者となり、ラプターズは124-100でネッツに快勝した。",
+      "points": [
+        "FG20本中11本・FT10/10で34得点",
+        "クイックリーも24得点10REB14AST",
+        "ラプターズが24点差で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1196-scottie-barnes-34points-nets.html",
+      "hero_path": "",
+      "subject": [
+        "Scottie Barnes"
+      ],
+      "question": "ラプターズ、今季プレーオフ進出できる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "SCOTTIE BARNES",
+        "opponent": "vs. NETS",
+        "points": 34,
+        "stats": [
+          "5 AST",
+          "3 BLK",
+          "1 REB",
+          "11/20 FG",
+          "2/4 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1196-1.jpg",
+        "https://sixten.jp/assets/ig/1196-2.jpg",
+        "https://sixten.jp/assets/ig/1196-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T12:36:49+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バーンズが34得点、ラプターズが124-100で快勝\n\n・FG20本中11本・FT10/10で34得点\n・クイックリーも24得点10REB14AST\n・ラプターズが24点差で快勝\n\n💬 ラプターズ、今季プレーオフ進出できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1197",
+      "slug": "1197-jalen-johnson-24points-celtics",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "ジョンソンが24得点12REB、ホークスが1点差で勝利",
+      "excerpt": "アトランタ・ホークス(Atlanta Hawks)のジェイレン・ジョンソン(Jalen Johnson)は現地時間11月27日、敵地ボストンでのボストン・セルティックス(Boston Celtics)戦に36分出場し、フィールドゴール19本中8本・3ポイント6本中2本・フリースロー6本中6本を沈めて24得点、リバウンド12を記録した。両チーム通じてこの日の試合最多得点者となり、ホークスは87-86の1点差でセルティックスを振り切った。",
+      "points": [
+        "24得点・リバウンド12のダブルダブル",
+        "セルティックスに87-86の1点差で勝利",
+        "クエタはリバウンド22も及ばず"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1197-jalen-johnson-24points-celtics.html",
+      "hero_path": "",
+      "subject": [
+        "Jalen Johnson"
+      ],
+      "question": "この1点差ゲーム、どっちが勝つべきだった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "JALEN JOHNSON",
+        "opponent": "vs. CELTICS",
+        "points": 24,
+        "stats": [
+          "12 REB",
+          "3 AST",
+          "2 BLK",
+          "8/19 FG",
+          "2/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1197-1.jpg",
+        "https://sixten.jp/assets/ig/1197-2.jpg",
+        "https://sixten.jp/assets/ig/1197-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T12:36:54+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ジョンソンが24得点12REB、ホークスが1点差で勝利\n\n・24得点・リバウンド12のダブルダブル\n・セルティックスに87-86の1点差で勝利\n・クエタはリバウンド22も及ばず\n\n💬 この1点差ゲーム、どっちが勝つべきだった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Matteo Paganelli / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1198",
+      "slug": "1198-brayden-burries-23points-pistons",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "バリーズが23得点も、バックスはピストンズに98-113で敗戦",
+      "excerpt": "ミルウォーキー・バックス(Milwaukee Bucks)のブレイデン・バリーズ(Brayden Burries)は現地時間11月27日、敵地デトロイトでのデトロイト・ピストンズ(Detroit Pistons)戦に28分出場し、フィールドゴール17本中9本・3ポイント7本中2本・フリースロー3本中3本を沈めて23得点を記録した。両チーム通じてこの日の試合最多得点者となったが、バックスは98-113でピストンズに敗れた。",
+      "points": [
+        "ベンチから23得点を記録",
+        "ピストンズは4人が二桁得点",
+        "バックスは15点差で敗戦"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1198-brayden-burries-23points-pistons.html",
+      "hero_path": "",
+      "subject": [
+        "Brayden Burries"
+      ],
+      "question": "バリーズ、バックスの次のスター候補になる？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "BRAYDEN BURRIES",
+        "opponent": "vs. PISTONS",
+        "points": 23,
+        "stats": [
+          "6 REB",
+          "1 AST",
+          "9/17 FG",
+          "2/7 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1198-1.jpg",
+        "https://sixten.jp/assets/ig/1198-2.jpg",
+        "https://sixten.jp/assets/ig/1198-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T12:36:58+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "バリーズが23得点も、バックスはピストンズに98-113で敗戦\n\n・ベンチから23得点を記録\n・ピストンズは4人が二桁得点\n・バックスは15点差で敗戦\n\n💬 バリーズ、バックスの次のスター候補になる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1199",
+      "slug": "1199-lebron-james-21points-pacers",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "レブロンが21得点、76ersがペイサーズに111-87で快勝",
+      "excerpt": "フィラデルフィア・セブンティシクサーズ(Philadelphia 76ers)のレブロン・ジェームズ(LeBron James)は現地時間11月27日、敵地インディアナでのインディアナ・ペイサーズ(Indiana Pacers)戦に27分出場し、フィールドゴール13本中8本・3ポイント6本中3本を沈めて21得点を記録した。両チーム通じてこの日の試合最多得点者となり、76ersは111-87でペイサーズに快勝した。",
+      "points": [
+        "FG13本中8本・3P3本の高確率で21得点",
+        "サイモンズ・エンビード・マクシーも二桁得点",
+        "76ersが24点差で快勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1199-lebron-james-21points-pacers.html",
+      "hero_path": "",
+      "subject": [
+        "LeBron James"
+      ],
+      "question": "レブロン、キャリア24年目でもまだトップ選手？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "LEBRON JAMES",
+        "opponent": "vs. PACERS",
+        "points": 21,
+        "stats": [
+          "7 REB",
+          "6 AST",
+          "8/13 FG",
+          "3/6 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1199-1.jpg",
+        "https://sixten.jp/assets/ig/1199-2.jpg",
+        "https://sixten.jp/assets/ig/1199-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T12:37:03+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "レブロンが21得点、76ersがペイサーズに111-87で快勝\n\n・FG13本中8本・3P3本の高確率で21得点\n・サイモンズ・エンビード・マクシーも二桁得点\n・76ersが24点差で快勝\n\n💬 レブロン、キャリア24年目でもまだトップ選手？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
