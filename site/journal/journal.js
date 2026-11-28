@@ -3,14 +3,6 @@
 // thumb: 実写真のパス(あれば必ず優先) / tile: 写真がない記事用のタイポグラフィ表紙
 const ARTICLES = [
   {
-    href: "1210-air-jordan-10-sacramento-light-the-beam.html",
-    cat: "KICKS",
-    title: "Air Jordan 10「Sacramento」が\"Light The Beam\"仕様で限定復刻 —— 地元ショップ企画の200足限定パッケージ",
-    excerpt: "ナイキは、1995年発売のエア ジョーダン10「サクラメント」カラーを限定復刻する。サクラメントの地元スニーカーショップPhenom DOCOが企画したバージョンは200足限定で、キングスの人気の応援演出「Light the Beam」にちなむ特別パッケージが付く。発売は2026年12月。Sneaker Bar Detroitが伝えた。",
-    date: "2026.11.29",
-    thumb: "../assets/journal-fallback-01.jpg?v=15c4383426"
-  },
-  {
     href: "1209-nike-caitlin-1-christmas.html",
     cat: "KICKS",
     title: "Nike Caitlin 1「Christmas」が\"Nice\"組で発表 —— ケイトリン・クラークのシグネチャー、ナイキ・バスケ2026年クリスマス企画に合流",
