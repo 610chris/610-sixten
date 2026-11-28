@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T14:03:27+09:00",
+  "updated": "2026-11-28T14:13:45+09:00",
   "items": [
     {
       "id": "134",
@@ -39773,6 +39773,97 @@
       "ig_media_id": null,
       "error": null,
       "caption": "ドスンムが27得点、ティンバーウルブズは109-114で敗戦\n\n・FG17本中10本・3PT6本中4本で27得点\n・アシスト8・スティール3も記録\n・グリズリーズに109-114で敗れる\n\n💬 ドスンムのこの27得点、来季も期待できる？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Shixart1985 / CC BY 2.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1203",
+      "slug": "1203-zion-williamson-25points-clippers",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "ザイオン・ウィリアムソンがクリッパーズ戦で25得点",
+      "excerpt": "ニューオーリンズ・ペリカンズ(New Orleans Pelicans)のザイオン・ウィリアムソン(Zion Williamson)は現地時間11月27日、敵地ロサンゼルスでのLAクリッパーズ(LA Clippers)戦に31分出場し、フィールドゴール15本中11本を沈めて25得点を記録した。両チーム通じてこの日の試合最多得点者(トレイ・マーフィー3世と同数)となり、ペリカンズは105-104でクリッパーズを振り切った。",
+      "points": [
+        "FG15本中11本(73.3%)",
+        "リバウンド7・アシスト5",
+        "ペリカンズが105-104で辛勝"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1203-zion-williamson-25points-clippers.html",
+      "hero_path": "",
+      "subject": [
+        "Zion Williamson"
+      ],
+      "question": "健康なザイオン、見られて嬉しい？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "ZION WILLIAMSON",
+        "opponent": "vs. CLIPPERS",
+        "points": 25,
+        "stats": [
+          "7 REB",
+          "5 AST",
+          "11/15 FG"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1203-1.jpg",
+        "https://sixten.jp/assets/ig/1203-2.jpg",
+        "https://sixten.jp/assets/ig/1203-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:13:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "ザイオン・ウィリアムソンがクリッパーズ戦で25得点\n\n・FG15本中11本(73.3%)\n・リバウンド7・アシスト5\n・ペリカンズが105-104で辛勝\n\n💬 健康なザイオン、見られて嬉しい？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: J.smith / CC BY-SA 4.0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
+    },
+    {
+      "id": "1204",
+      "slug": "1204-rui-hachimura-14points-pelicans",
+      "category": "NBA",
+      "date": "2026-11-28",
+      "headline": "八村塁がペリカンズ戦で14得点",
+      "excerpt": "LAクリッパーズ(LA Clippers)の八村塁(Rui Hachimura)は現地時間11月27日、本拠地ロサンゼルスでのニューオーリンズ・ペリカンズ(New Orleans Pelicans)戦に38分出場し、フィールドゴール12本中5本・3ポイント8本中4本を沈めて14得点を記録した。クリッパーズはザイオン・ウィリアムソンとトレイ・マーフィー3世が25得点ずつと並んだペリカンズに104-105の1点差で惜敗した。",
+      "points": [
+        "FG12本中5本・3P8本中4本",
+        "リバウンド7・アシスト4",
+        "クリッパーズは104-105で惜敗"
+      ],
+      "source": "ESPN ボックススコア",
+      "photo_credit": "イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons",
+      "url": "https://sixten.jp/journal/1204-rui-hachimura-14points-pelicans.html",
+      "hero_path": "",
+      "subject": [
+        "Rui Hachimura"
+      ],
+      "question": "この接戦、1点差の決め手はどこだった？",
+      "no_question": false,
+      "caption_manual": false,
+      "video": {
+        "template": "score",
+        "player": "RUI HACHIMURA",
+        "opponent": "vs. PELICANS",
+        "points": 14,
+        "stats": [
+          "7 REB",
+          "4 AST",
+          "5/12 FG",
+          "4/8 3PT"
+        ]
+      },
+      "images": [
+        "https://sixten.jp/assets/ig/1204-1.jpg",
+        "https://sixten.jp/assets/ig/1204-2.jpg",
+        "https://sixten.jp/assets/ig/1204-3.jpg"
+      ],
+      "state": "pending",
+      "created": "2026-11-28T14:13:44+09:00",
+      "posted_at": null,
+      "ig_media_id": null,
+      "error": null,
+      "caption": "八村塁がペリカンズ戦で14得点\n\n・FG12本中5本・3P8本中4本\n・リバウンド7・アシスト4\n・クリッパーズは104-105で惜敗\n\n💬 この接戦、1点差の決め手はどこだった？\n👇 コメントで教えて！\n\n👉 最新のバスケニュースは @sixten をフォローしてチェック\n📰 詳しくは記事で → プロフィールのリンクから「610バスケットボールジャーナル」へ\n\n出典: ESPN ボックススコア\n写真: イメージ（本文とは直接関係ありません）。撮影: Nick Jio / CC0, via Wikimedia Commons\n\n#610 #sixten #バスケ #バスケットボール #basketball #NBA #nba #バスケ好きと繋がりたい"
     }
   ]
 }
