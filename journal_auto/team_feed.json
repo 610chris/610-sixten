@@ -1,8 +1,124 @@
 {
- "updated_utc": "2026-11-27 19:37 UTC",
+ "updated_utc": "2026-11-28 02:08 UTC",
  "teams_ok": 30,
  "teams_failed": [],
  "posts": [
+  {
+   "source": "IND 公式（nba.com）",
+   "team": "IND",
+   "team_ja": "ペイサーズ",
+   "team_id": 1610612754,
+   "kind": "feature",
+   "key": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261127",
+   "url": "https://www.nba.com/pacers/news/rewind-pacers-76ers-261127",
+   "canonical_url": "https://pacers.com/news/rewind-pacers-76ers-261127",
+   "title": "Halftime Rewind: Pacers 44, 76ers 55 (NBA Cup)",
+   "author": "Madie Chandler-Donahue",
+   "published_utc": "2026-11-28T01:45:19Z",
+   "tags": [
+    "2026 NBA Cup",
+    "2026-27 Game Rewind"
+   ],
+   "summary": "Friday, Nov. 27 at 7:30 PM ET at Gainbridge Fieldhouse",
+   "facts": [
+    "Friday, Nov. 27 at 7:30 PM ET at Gainbridge Fieldhouse Halftime Rewind The Pacers hosted the Philadelphia 76ers for the third time this season as the two teams met for NBA Cup action on Friday evening.",
+    "LeBron James got off to a hot start for the 76ers while the Pacers struggled from the floor.",
+    "Indiana trailed at the halftime break, 55-44.",
+    "Philadelphia’s Jaylen Brown was sidelined with a hamstring injury, and the Pacers played without T.J.",
+    "Joel Embiid returned to action for the 76ers on Friday after missing two consecutive games with an illness.",
+    "The 76ers had more energy in the opening minutes of play.",
+    "Philadelphia began the game with a 10-2 run that prompted a Pacers timeout just two minutes into action.",
+    "James had more points (11) through the first seven minutes of play than the Pacers did as a team (9), and Indiana trailed, 21-9."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "GSW 公式（nba.com）",
+   "team": "GSW",
+   "team_ja": "ウォリアーズ",
+   "team_id": 1610612744,
+   "kind": "injury",
+   "key": "https://www.nba.com/warriors/news/stephen-curry-injury-update-20261127",
+   "url": "https://www.nba.com/warriors/news/stephen-curry-injury-update-20261127",
+   "canonical_url": "https://warriors.com/news/stephen-curry-injury-update-20261127",
+   "title": "Stephen Curry Injury Update – 11/27/26",
+   "author": "Kalyb Champion",
+   "published_utc": "2026-11-28T00:45:00Z",
+   "tags": [],
+   "summary": "Golden State Warriors guard Stephen Curry, who has missed the last six games due to an oblique abdominal tear, was re-evaluated on Friday. The re-evaluation indicated that Curry is making good progress. He has started to do individual on-court workouts and will be re-evaluated again next Wednesday.",
+   "facts": [
+    "Golden State Warriors guard Stephen Curry, who has missed the last six games due to an oblique abdominal tear, was re-evaluated on Friday.",
+    "The re-evaluation indicated that Curry is making good progress.",
+    "He has started to do individual on-court workouts and will be re-evaluated again next Wednesday.",
+    "Curry has appeared in 10 games (all starts) this season, averaging 27.8 points, 3.9 assists and 3.7 rebounds, shooting .500 from the floor and .457 on 3-point attempts.",
+    "Golden State is 7-3 this season when Curry is available."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "NYK 公式（nba.com）",
+   "team": "NYK",
+   "team_ja": "ニックス",
+   "team_id": 1610612752,
+   "kind": "feature",
+   "key": "https://www.nba.com/knicks/news/knicks-vs-heat-game-notes-november-27-2026",
+   "url": "https://www.nba.com/knicks/news/knicks-vs-heat-game-notes-november-27-2026",
+   "canonical_url": "https://knicks.com/news/knicks-vs-heat-game-notes-november-27-2026",
+   "title": "Knicks vs Heat Game Notes | November 27, 2026",
+   "author": "nykcmulqueen",
+   "published_utc": "2026-11-28T00:14:51Z",
+   "tags": [
+    "Game Notes",
+    "Orlando Magic"
+   ],
+   "summary": "November 27, 2026 7:00 PM ET | Madison Square Garden (New York, NY) | Game 19; Home Game 11",
+   "facts": [
+    "November 27, 2026 7:00 PM ET | Madison Square Garden (New York, NY) | Game 19; Home Game 11 TV: Prime | Radio: SiriusXM This Day in Knicks History November 27, 2004: In the Garden’s annual Kids Day matinee, Jamal Crawfor…",
+    "MIA: New York (12/21/25) – The New York Knicks defeated the Miami Heat, 132-125.",
+    "Jalen Brunson led New York with a season-high 47 points on 57.7-percent shooting, eight assists and three rebounds.",
+    "Mikal Bridges scored 24 points on 64.3-percent shooting, four assists and two rebounds.",
+    "Josh Hart recorded 13 points on 50.0-percent shooting, 10 rebounds, five assists and two steals.",
+    "Kel’el Ware led Miami with 28 points on 73.3-percent shooting, 19 rebounds and one steal.",
+    "Norman Powell generated 22 points, four rebounds, three assists and three steals.",
+    "Jaime Jaquez Jr. added 23 points on 60.0-percent shooting and five assists off the bench."
+   ],
+   "quotes": []
+  },
+  {
+   "source": "LAC 公式（nba.com）",
+   "team": "LAC",
+   "team_ja": "クリッパーズ",
+   "team_id": 1610612746,
+   "kind": "feature",
+   "key": "https://www.nba.com/clippers/news/clippers-vs-pelicans-preview-2026-11-27",
+   "url": "https://www.nba.com/clippers/news/clippers-vs-pelicans-preview-2026-11-27",
+   "canonical_url": "https://clippers.com/news/clippers-vs-pelicans-preview-2026-11-27",
+   "title": "GAME PREVIEW: 5 Things You Should Know About Clippers vs. Pelicans",
+   "author": "LAClippers",
+   "published_utc": "2026-11-27T22:45:00Z",
+   "tags": [
+    "2026-27 Season",
+    "Broadcast Information",
+    "Brook Lopez",
+    "Clippers Basketball",
+    "Clippers Matchup",
+    "Darius Garland",
+    "Derrick Jones Jr.",
+    "Game Previews"
+   ],
+   "summary": "Last Matchup: 11/08/2026 | LAC 139 - NOP 123 | D.Garland: 24 PTS - T.Murphy III: 26 PTS The Clippers have won their last four home games against the Pelicans and in their last three victories, LA is averaging 134.0 points. It’s the third most points scored over a span of three home games by the Clippers against any opponent in team history (140.3 vs. Wizards in 2018-21; 135.0 vs. Warriors in 1989)…",
+   "facts": [
+    "NEW ORLEANS PELICANS FIVE THINGS TO KNOW Last Matchup: 11/08/2026 | LAC 139 - NOP 123 | D.Garland: 24 PTS - T.Murphy III: 26 PTS The Clippers have won their last four home games against the Pelicans and in their last thr…",
+    "It’s the third most points scored over a span of three home games by the Clippers against any opponent in team history (140.3 vs.",
+    "Wizards in 2018-21; 135.0 vs.",
+    "Wednesday was the Clippers’ 143rd consecutive game with double-digit made free throws dating back to January 15, 2025.",
+    "It’s the longest active streak of any NBA team and the Clippers’ second longest such streak in team history (157 in Feb. 1985 – Feb. 1987).",
+    "The only Clippers rookies to lead the team in free throws made in a full season this century are Eric Gordon (2008-09) and Blake Griffin (2010-11).",
+    "Darius Garland has scored at least 20 points with a 40.0% three-point percentage or better in five consecutive home games.",
+    "It’s tied for the longest streak by a Clippers player (min. five 3PA) in team history."
+   ],
+   "quotes": []
+  },
   {
    "source": "CHA 公式（nba.com）",
    "team": "CHA",
@@ -260,10 +376,11 @@
    "key": "https://www.nba.com/pacers/news/preview-pacers-76ers-261127",
    "url": "https://www.nba.com/pacers/news/preview-pacers-76ers-261127",
    "canonical_url": "https://pacers.com/news/preview-pacers-76ers-261127",
-   "title": "Game Preview: Pacers vs 76ers",
+   "title": "Game Preview: Pacers vs 76ers (NBA Cup)",
    "author": "Madie Chandler-Donahue",
    "published_utc": "2026-11-26T16:17:00Z",
    "tags": [
+    "2026 NBA Cup",
     "2026-27 Game Preview"
    ],
    "summary": "Friday, Nov. 27 at 7:30 PM ET at Gainbridge Fieldhouse",
